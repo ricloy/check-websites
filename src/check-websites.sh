@@ -3,7 +3,7 @@
 timeout=10;
 
 # Tuscany
-curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2Cwebsite%3Btrue%3B%22%20%22%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A3600041977%29-%3E.searchArea%3B%0Anwr%5B%22website%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" ./tmp/elements_website.lst
+curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2Cwebsite%3Btrue%3B%22%20%22%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A3600041977%29-%3E.searchArea%3B%0Anwr%5B%22website%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >./tmp/elements_website.lst
 awk '{print $NF}' ./tmp/elements_website.lst | sort | uniq | \
 	parallel 'read website <<<{}; if [ ${website:0:1} = "\"" ]; then website=${website:1:-1}; fi; read res HTTP_CODE location < <({ curl -m "'"$timeout"'" -sI "$website"; echo $?; sleep .5; } | awk '\''NR==1{http_code=$2} /^[Ll]ocation:/{loc=$2} END{print $1, http_code, loc}'\''); echo "$website $res $HTTP_CODE $location"' > ./tmp/websites_checked.lst
 	
