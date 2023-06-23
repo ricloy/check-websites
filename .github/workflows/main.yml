@@ -30,7 +30,8 @@ jobs:
         run: |
           echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
           mkdir -p ./log
-          bash ./src/check-websites.sh || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
+          mkdir -p ./out
+          bash ./src/check-websites.sh >./out/results_tuscan.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
       
       # push changes to GITHUB
       - name: push changes
