@@ -4,14 +4,51 @@ timeout=10;
 
 mkdir -p ./tmp
 
-# Tuscany
-curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2Cwebsite%3Btrue%3B%22%20%22%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A3600041977%29-%3E.searchArea%3B%0Anwr%5B%22website%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >./tmp/elements_website.lst
-awk 'NR>1{print $NF}' ./tmp/elements_website.lst | sort | uniq | \
-	parallel 'read website <<<{}; if [ ${website:0:1} = "\"" ]; then website=${website:1:-1}; fi; read res HTTP_CODE location < <({ curl -m "'"$timeout"'" -sI "$website"; echo $?; } | awk '\''NR==1{http_code=$2} /^[Ll]ocation:/{loc=$2} END{print $1, http_code, loc}'\''); echo "$website $res $HTTP_CODE $location"' > ./tmp/websites_checked.lst
+# Italian regions dictionary
+declare -A IR
+
+# Italian regions IDs (OSM IDs are not permanent)
+IR[Sicily]=3600039152
+IR[Sardinia]=3607361997
+IR[Tuscany]=3600041977
+IR[Lazio]=3600040784
+IR[Umbria]=3600042004
+IR[Marche]=3600053060
+IR[Abruzzo]=3600053937
+IR[Apulia]=3600040095
+IR[Calabria]=3601783980
+IR[Basilicata]=3600040137
+IR[Campania]=3600040218
+IR[Molise]=3600041256
+IR[Piedmont]=3600044874
+IR[Emilia-Romagna]=3600042611
+IR[Lombardy]=3600044879
+IR[Liguria]=3600301482
+IR[Aosta_Valley]=3600045155
+IR[Veneto]=3600043648
+IR[Trentino-Alto_Adige]=3600045757
+IR[Friuli-Venezia_Giulia]=3600179296
+
+if [ "$#" -ne 1 -o -z "${IR[$1]}" ]; then
+	echo "Usage: $0 <italian region>"
+ 	echo "Where Italian region is one of the following:"
+  	for el in "${!IR[@]}"; do
+   		echo "${IR[$el]}";
+   	done
+        exit -1
+fi
+
+# current Italian Region
+cur_IR="${IR[$1]}"
+
+curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2Cwebsite%3Btrue%3B%22%20%22%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A${cur_IR}%29-%3E.searchArea%3B%0Anwr%5B%22website%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >./tmp/${cur_IR}_elements_website.lst
+
+awk 'NR>1{print $NF}' ./tmp/${cur_IR}_elements_website.lst | sort | uniq | \
+	parallel 'read website <<<{}; if [ ${website:0:1} = "\"" ]; then website=${website:1:-1}; fi; read res HTTP_CODE location < <({ curl -m "'"$timeout"'" -sI "$website"; echo $?; } | awk '\''NR==1{http_code=$2} /^[Ll]ocation:/{loc=$2} END{print $1, http_code, loc}'\''); echo "$website $res $HTTP_CODE $location"' > ./tmp/${cur_IR}_websites_checked.lst
 	
 
 while read website res HTTP_CODE location; do	
-	osm_url_list=$(awk -v ref="$website" '$3 == ref {if (!out) out="https://osm.org/browse/" $1 "/" $2; else out= out " https://osm.org/browse/" $1 "/" $2} END{print out}' ./tmp/elements_website.lst); 
+	osm_url_list=$(awk -v ref="$website" '$3 == ref {if (!out) out="https://osm.org/browse/" $1 "/" $2; else out= out " https://osm.org/browse/" $1 "/" $2} END{print out}' ./tmp/${cur_IR}_elements_website.lst);
 
 	case $res in
 	3)
@@ -52,4 +89,4 @@ while read website res HTTP_CODE location; do
 		echo "OTHER_CURL_ERROR $res $HTTP_CODE $osm_url_list $website";;
 	esac
 		
-done <./tmp/websites_checked.lst
+done <./tmp/${cur_IR}_websites_checked.lst
