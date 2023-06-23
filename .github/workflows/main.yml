@@ -6,7 +6,30 @@ name: Check websites inside OSM database elements and report the problems encoun
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '00 05 * * *'
+    - cron:  '00 00 * * 0'
+    - cron:  '00 02 * * 0'
+    - cron:  '00 04 * * 0'
+    - cron:  '00 06 * * 0'
+    - cron:  '00 08 * * 0'
+    - cron:  '00 10 * * 0'
+    - cron:  '00 12 * * 0'
+    
+    
+    - cron:  '00 00 * * 1'
+    - cron:  '00 02 * * 1'
+    - cron:  '00 04 * * 1'
+    - cron:  '00 06 * * 1'
+    - cron:  '00 08 * * 1'
+    - cron:  '00 10 * * 1'
+    - cron:  '00 12 * * 1'
+    
+    - cron:  '00 00 * * 2'
+    - cron:  '00 02 * * 2'
+    - cron:  '00 04 * * 2'
+    - cron:  '00 06 * * 2'
+    - cron:  '00 08 * * 2'
+    - cron:  '00 10 * * 2'    
+    
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -26,13 +49,149 @@ jobs:
           packages: curl parallel
           version: 1.0
       
-      - name: Run a one-line script
+      - name: Siciliy
+        if: github.event.schedule == '00 00 * * 0'
         run: |
           echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
           mkdir -p ./log
           mkdir -p ./out
-          bash ./src/check-websites.sh >./out/results_tuscan.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
+          bash ./src/check-websites.sh Sicily >./out/results_Sicily.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
+
+      - name: Sardinia
+        if: github.event.schedule == '00 02 * * 0'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Sardinia >./out/results_Sardinia.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
       
+      - name: Tuscany
+        if: github.event.schedule == '00 04 * * 0'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Tuscany >./out/results_Tuscany.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
+      - name: Lazio
+        if: github.event.schedule == '00 06 * * 0'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Lazio >./out/results_Lazio.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
+
+      - name: Umbria
+        if: github.event.schedule == '00 08 * * 0'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Umbria >./out/results_Umbria.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
+      - name: Marche
+        if: github.event.schedule == '00 10 * * 0'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Marche >./out/results_Marche.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted          
+      - name: Abruzzo
+        if: github.event.schedule == '00 12 * * 0'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Abruzzo >./out/results_Abruzzo.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted          
+      - name: Apulia
+        if: github.event.schedule == '00 00 * * 1'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Apulia >./out/results_Apulia.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                    
+      - name: Calabria
+        if: github.event.schedule == '00 02 * * 1'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Calabria >./out/results_Calabria.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                              
+      - name: Basilicata
+        if: github.event.schedule == '00 04 * * 1'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Basilicata >./out/results_Basilicata.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                              
+      - name: Campania
+        if: github.event.schedule == '00 06 * * 1'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Campania >./out/results_Campania.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+      - name: Molisea
+        if: github.event.schedule == '00 08 * * 1'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Molise >./out/results_Molise.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+      - name: Piedmont
+        if: github.event.schedule == '00 10 * * 1'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Piedmont >./out/results_Piedmont.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+      - name: Emilia-Romagna
+        if: github.event.schedule == '00 12 * * 1'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Emilia-Romagna >./out/results_Emilia-Romagna.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+      - name: Lombardy
+        if: github.event.schedule == '00 00 * * 2'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Lombardy >./out/results_Lombardy.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+      - name: Liguria
+        if: github.event.schedule == '00 02 * * 2'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Liguria >./out/results_Liguria.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+      - name: Aosta_Valley
+        if: github.event.schedule == '00 04 * * 2'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Aosta_Valley >./out/results_Aosta_Valley.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+      - name: Veneto
+        if: github.event.schedule == '00 06 * * 2'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Veneto >./out/results_Veneto.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+      - name: Trentino-Alto_Adige
+        if: github.event.schedule == '00 08 * * 2'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Trentino-Alto_Adige >./out/results_Trentino-Alto_Adige.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+      - name: Friuli-Venezia_Giulia
+        if: github.event.schedule == '00 10 * * 2'
+        run: |
+          echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
+          mkdir -p ./log
+          mkdir -p ./out
+          bash ./src/check-websites.sh Friuli-Venezia_Giulia >./out/results_Friuli-Venezia_Giulia.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                                  
       # push changes to GITHUB
       - name: push changes
         run: |
