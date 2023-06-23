@@ -30,7 +30,7 @@ jobs:
         run: |
           echo "beforetime=$(date -Iseconds)" >> $GITHUB_ENV
           mkdir -p ./log
-          python3 ./src/check-websites.sh || echo "Python script exited with error code $?" >>./log/action_$(date -Imin).halted
+          bash ./src/check-websites.sh || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
       
       # push changes to GITHUB
       - name: push changes
