@@ -12,7 +12,7 @@ Common problems are expected to be:
 * website misspelt
 * website redirects to another one or just a "variation" of the same website (e.g. https instead of http)
 
-Please be very cautious whenb using this information: websites may contain malicious content that may harm your device or adults-only material.
+Please be very cautious when using this information: websites listed in these files may contain malicious content that may harm your device or they could contain illegal , adults-only, etc. material.
 
 ## License
 
