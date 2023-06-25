@@ -142,5 +142,5 @@ jobs:
           git config --local user.email "ricloy@users.noreply.github.com"
           git config --local user.name "actionman"
           git add -A
-          git commit -m "Latest update: $(date -Iminutes); websites count: $(wc -l <./tmp/elements_website.lst) (of which unique: $(wc -l <./tmp/websites_checked.lst))" || exit 0
+          git commit -m "Latest update: $(date -Iminutes); websites count: $(cat $(ls -1tr /tmp/*_elements_website.lst | tail -n1 | wc -l) (of which unique: $(ls -1tr ./tmp/*_websites_checked.lst | tail -n1 | wc -l))" || exit 0
           git push
