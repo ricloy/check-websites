@@ -33,7 +33,7 @@ if [ "$#" -ne 1 -o -z "${IR[$1]}" ]; then
 	echo "Usage: $0 <italian region>"
  	echo "Where Italian region is one of the following:"
   	for el in "${!IR[@]}"; do
-   		echo "${IR[$el]}";
+   		echo "$el";
    	done
         exit -1
 fi
@@ -41,14 +41,14 @@ fi
 # current Italian Region
 cur_IR="${IR[$1]}"
 
-curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2Cwebsite%3Btrue%3B%22%20%22%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A${cur_IR}%29-%3E.searchArea%3B%0Anwr%5B%22website%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >./tmp/"$1"_elements_website.lst
+curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2Cwebsite%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A${cur_IR}%29-%3E.searchArea%3B%0Anwr%5B%22website%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >./tmp/"$1"_elements_website.lst
 
-awk 'NR>1{print $NF}' ./tmp/"$1"_elements_website.lst | sort | uniq | \
-	parallel 'read website <<<{}; if [ ${website:0:1} = "\"" ]; then website=${website:1:-1}; fi; read res HTTP_CODE location < <({ curl -m "'"$timeout"'" -sI "$website"; echo $?; } | awk '\''NR==1{http_code=$2} /^[Ll]ocation:/{loc=$2} END{print $1, http_code, loc}'\''); echo "$website $res $HTTP_CODE $location"' > ./tmp/"$1"_websites_checked.lst
+awk -F'\t' 'NR>1{if (NF>3) {website=$3; for (f=4;f<=NF;f++) website = website FS $f} else {website=$3}; n = split($NF,w,";"); for (i=1;i<=n;i++) print w[i]}' ./tmp/"$1"_elements_website.lst | sort | uniq | \
+	parallel 'read website <<<{}; if [ ${website:0:1} = "\"" ]; then website=${website:1:-1}; fi; read res HTTP_CODE location < <({ curl -m "'"$timeout"'" -sI "$website"; echo $?; } | awk '\''NR==1{http_code=$2} /^[Ll]ocation:/{loc=$2} END{print $1, http_code, loc}'\''); echo -e "$website\t$res\t$HTTP_CODE\t$location"' > ./tmp/"$1"_websites_checked.lst
 	
 
-while read website res HTTP_CODE location; do	
-	osm_url_list=$(awk -v ref="$website" '$3 == ref {if (!out) out="https://osm.org/browse/" $1 "/" $2; else out= out " https://osm.org/browse/" $1 "/" $2} END{print out}' ./tmp/"$1"_elements_website.lst);
+while IFS=$'\t' read website res HTTP_CODE location; do	
+	osm_url_list=$(awk -F'\t' -v ref="$website" 'index($3, ref) {if (!out) out="https://osm.org/browse/" $1 "/" $2; else out= out " https://osm.org/browse/" $1 "/" $2} END{print out}' ./tmp/"$1"_elements_website.lst);
 
 	case $res in
 	3)
@@ -64,7 +64,6 @@ while read website res HTTP_CODE location; do
 	60)
 		echo "PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES $osm_url_list $website";;
 
-		
 	0)
 		case $HTTP_CODE in
 			1*)
