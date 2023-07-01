@@ -17,4 +17,5 @@ Pleaseuse caution when using this information: the websites links listed in thes
 ## License
 
 Code is released under Creative Commons Zero v1.0 Universal
+
 All data is derived from OpenStreetMap and as such is released under ODbL [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright). 
