@@ -28,7 +28,8 @@ on:
     - cron:  '00 08 * * 2'
     - cron:  '00 12 * * 2'
     - cron:  '00 16 * * 2'
-    - cron:  '00 20 * * 2'    
+    
+    - cron:  '00 12 * * 3'    
     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -55,92 +56,132 @@ jobs:
           
       - name: Siciliy
         if: github.event.schedule == '00 00 * * 0'
+        env:
+          region: Sicily
         run: |
           bash ./src/check-websites.sh Sicily >./out/results_Sicily.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
 
       - name: Sardinia
         if: github.event.schedule == '00 02 * * 0'
+        env:
+          region: Sardinia
         run: |
           bash ./src/check-websites.sh Sardinia >./out/results_Sardinia.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
-      
       - name: Tuscany
         if: github.event.schedule == '00 04 * * 0'
+        env:
+          region: Tuscany
         run: |
           bash ./src/check-websites.sh Tuscany >./out/results_Tuscany.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
       - name: Lazio
         if: github.event.schedule == '00 06 * * 0'
+        env:
+          region: Lazio
         run: |
           bash ./src/check-websites.sh Lazio >./out/results_Lazio.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
-
       - name: Umbria
         if: github.event.schedule == '00 08 * * 0'
+        env:
+          region: Umbria
         run: |
           bash ./src/check-websites.sh Umbria >./out/results_Umbria.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted
       - name: Marche
         if: github.event.schedule == '00 10 * * 0'
+        env:
+          region: Marche
         run: |
           bash ./src/check-websites.sh Marche >./out/results_Marche.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted          
       - name: Abruzzo
         if: github.event.schedule == '00 12 * * 0'
+        env:
+          region: Abruzzo
         run: |
           bash ./src/check-websites.sh Abruzzo >./out/results_Abruzzo.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted          
+
       - name: Apulia
         if: github.event.schedule == '00 00 * * 1'
+        env:
+          region: Apulia
         run: |
           bash ./src/check-websites.sh Apulia >./out/results_Apulia.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                    
       - name: Calabria
         if: github.event.schedule == '00 02 * * 1'
+        env:
+          region: Calabria
         run: |
           bash ./src/check-websites.sh Calabria >./out/results_Calabria.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                              
       - name: Basilicata
         if: github.event.schedule == '00 04 * * 1'
+        env:
+          region: Basilicata
         run: |
           bash ./src/check-websites.sh Basilicata >./out/results_Basilicata.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                              
       - name: Campania
         if: github.event.schedule == '00 06 * * 1'
+        env:
+          region: Campania
         run: |
           bash ./src/check-websites.sh Campania >./out/results_Campania.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
-      - name: Molisea
+      - name: Molise
         if: github.event.schedule == '00 08 * * 1'
+        env:
+          region: Molise
         run: |
           bash ./src/check-websites.sh Molise >./out/results_Molise.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
       - name: Piedmont
         if: github.event.schedule == '00 10 * * 1'
+        env:
+          region: Piedmont
         run: |
           bash ./src/check-websites.sh Piedmont >./out/results_Piedmont.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
       - name: Emilia-Romagna
         if: github.event.schedule == '00 12 * * 1'
+        env:
+          region: Emilia Romagna
         run: |
           bash ./src/check-websites.sh Emilia-Romagna >./out/results_Emilia-Romagna.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
-      - name: Lombardy
-        if: github.event.schedule == '00 00 * * 2'
-        run: |
-          bash ./src/check-websites.sh Lombardy >./out/results_Lombardy.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+
       - name: Liguria
-        if: github.event.schedule == '00 04 * * 2'
+        if: github.event.schedule == '00 00 * * 2'
         run: |
           bash ./src/check-websites.sh Liguria >./out/results_Liguria.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
       - name: Aosta_Valley
-        if: github.event.schedule == '00 08 * * 2'
+        if: github.event.schedule == '00 04 * * 2'
+        env:
+          region: Aosta Valley
         run: |
           bash ./src/check-websites.sh Aosta_Valley >./out/results_Aosta_Valley.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
       - name: Veneto
-        if: github.event.schedule == '00 12 * * 2'
+        if: github.event.schedule == '00 08 * * 2'
+        env:
+          region: Veneto
         run: |
           bash ./src/check-websites.sh Veneto >./out/results_Veneto.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
       - name: Trentino-Alto_Adige
-        if: github.event.schedule == '00 16 * * 2'
+        if: github.event.schedule == '00 12 * * 2'
+        env:
+          region: Trentino Alto Adige
         run: |
           bash ./src/check-websites.sh Trentino-Alto_Adige >./out/results_Trentino-Alto_Adige.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
       - name: Friuli-Venezia_Giulia
-        if: github.event.schedule == '00 20 * * 2'
+        if: github.event.schedule == '00 16 * * 2'
+        env:
+          region: Friuli Venezia Giulia
         run: |
           bash ./src/check-websites.sh Friuli-Venezia_Giulia >./out/results_Friuli-Venezia_Giulia.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                                  
+      
+      - name: Lombardy
+        if: github.event.schedule == '00 12 * * 3'
+        env:
+          region: Lombardy
+        run: |
+          bash ./src/check-websites.sh Lombardy >./out/results_Lombardy.lst || echo "Bash script exited with error code $?" >>./log/action_$(date -Imin).halted                                        
+          
       # push changes to GITHUB
       - name: push changes
         run: |
           git config --local user.email "ricloy@users.noreply.github.com"
           git config --local user.name "actionman"
           git add -A
-          git commit -m "Latest update: $(date -Iminutes); websites count: $(cat $(ls -1tr ./tmp/*_elements_website.lst | tail -n1) | wc -l) (of which unique: $(cat $(ls -1tr ./tmp/*_websites_checked.lst | tail -n1) | wc -l))" || exit 0
+          git commit -m "Updated ${{ env.region }}; websites count: $(cat $(ls -1tr ./tmp/*_elements_website.lst | tail -n1) | wc -l) (of which unique: $(cat $(ls -1tr ./tmp/*_websites_checked.lst | tail -n1) | wc -l))" || exit 0
           git push
