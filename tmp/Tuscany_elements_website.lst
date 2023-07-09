@@ -194,6 +194,7 @@ node	1376503119	http://www.trattoriapallottino.com
 node	1376637212	http://www.barlapiazzetta.it
 node	1376637223	http://www.caffeginori.it
 node	1376637231	http://www.ristoranteghostbuster.it
+node	1381624972	https://bikeservicemassamarittima.com
 node	1389623062	http://www.castellodivalenzano.it/
 node	1394685541	http://www.pratoturismo.it/it/cosa/itinerari/Fortificazioni/rocca-di-carmignano/
 node	1396067208	https://www.alohabeachfollonica.com/ristorante
@@ -504,7 +505,6 @@ node	2179347503	www.siena-hotels.com
 node	2180372693	http://www.ristorantecortefreda.com
 node	2206536417	https://www.trattoriabbq.com/
 node	2206536418	http://www.altranvai.it
-node	2207482353	Poste Italiane
 node	2207484841	https://www.poste.it/
 node	2208241944	http://www.buontalenti.it/
 node	2209858755	http://www.museodidoccia.it/
@@ -1150,7 +1150,7 @@ node	3168348026	http://www.luccacinema.it/cinema-astra/
 node	3177062141	http://www.sundaymorning.it
 node	3177343525	http://www.osteriasanmichele.it
 node	3186367475	http://www.campingromita.it
-node	3191885723	https;//www.villavangile.com
+node	3191885723	https://www.villavangile.com
 node	3191952121	http://www.mezzadria.it/
 node	3193762205	https://www.vecchiamaremma.it/
 node	3198380681	http://www.robarara.it/
@@ -1384,8 +1384,9 @@ node	3868569049	https://pizzeria-primavera.business.site/
 node	3874788847	https://www.paginegialle.it/pizzeriapizzabonta
 node	3907841757	http://farmacia-pelago.it/
 node	3907846205	https://www.toscanaintour.it/
-node	3907862178	http://plushostels.com/plusflorence
+node	3907862178	https://plushostels.com/it/firenze
 node	3909378477	https://www.trattoriazaza.it/
+node	3912481072	www.at-bus.it
 node	3914910412	http://www.cinemacastello.it/
 node	3914929936	https://www.cinemaspaziouno.it/
 node	3914930975	http://www.cinecittafirenze.it/
@@ -2527,7 +2528,7 @@ node	6416096389	http://www.velomaviaggi.it/
 node	6417426375	http://www.autocarrozzeriaduva.it
 node	6417445676	https://ristorantebarbarossa.it/
 node	6417454109	http://www.rampiniceramics.com
-node	6419104888	coco lezzone
+node	6419104888	https://www.cocolezzone.it/
 node	6419119109	https://www.nerocarbone.com
 node	6424117386	https://www.ristorantebenedicta.it/
 node	6424280067	https://agriturismolamignola.com/
@@ -4132,6 +4133,7 @@ node	11013818230	http://www.villalequerciolaie.com/en/alchemy-with-nature/
 node	11013818231	http://www.villalequerciolaie.com/en/alchemy-with-nature/
 node	11013818232	http://www.villalequerciolaie.com/en/alchemy-with-nature/
 node	11015612791	https://www.dungeonstreet.com/
+node	11029510005	https://idylliumpienza.it/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	http://www.leopolda.it/
@@ -4294,7 +4296,6 @@ way	120046090	http://www.lecanne.com
 way	120135590	http://www.casalido.de
 way	120147585	https://www.hapimag.com/it/resorts/countries/IT/37.html
 way	120272978	https://www.fondazioneronald.org/it-it/cosa-facciamo/case-ronald/casa-ronald-firenze/
-way	120516846	https://www.parchivaldicornia.it/info-e-servizi/mobilita-e-parcheggi/
 way	120635864	https://casakaddous.com
 way	120936479	http://www.hotel-corallo.it
 way	120936507	http://www.castellopasquini.it
@@ -4332,6 +4333,7 @@ way	127867294	https://hotelsolemare.info/
 way	128401177	https://www.dsu.toscana.it/web/ardsu/-/garibaldi
 way	128409284	https://www.officinegaribaldi.it/
 way	128989568	http://ilgiardinodeitarocchi.it/
+way	129027181	https://www.ing.unipi.it/
 way	129196048	http://www.palazzodellaspiaggia.com/
 way	130590232	http://www.hotelacpisa.com
 way	131496120	http://archeologiamedievale.unisi.it/miranduolo/
@@ -5678,8 +5680,9 @@ way	1182538363	https://www.campingluna.it
 way	1182578978	https://poderelovolio.it
 way	1182579000	https://www.alpacadelfatonero.it/
 way	1183348384	https://www.massavecchia.it/
-way	1183466110	https://www.parchivaldicornia.it/info-e-servizi/mobilita-e-parcheggi/
 way	1183778436	https://www.soccercagefollonica.it/
+way	1186643345	https://sleepandride.it
+way	1187230607	www.at-bus.it
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42525	https://www.castelfrancopiandisco.it/
 relation	136257	www.caiparma.it
@@ -5772,6 +5775,7 @@ relation	2914521	www.caiprato.it
 relation	2917153	http://www.cai-imola.it/
 relation	2990694	https://www.cai.mo.it/
 relation	3160577	http://www.ego-gw.it/
+relation	3208526	https://www.cai.mo.it/
 relation	3262073	https://www.hotelfontanelle.com/it/home.html
 relation	3341834	http://www.centropecci.it
 relation	3494744	http://ambiente.regione.emilia-romagna.it/parchi-natura2000/rete-natura-2000
@@ -6298,6 +6302,7 @@ relation	12683585	https://www.ilcamminodidante.it/
 relation	12689142	https://comune.castiglionedellapescaia.gr.it/
 relation	12691894	http://www.cittametropolitana.fi.it/parco-mediceo-di-pratolino/
 relation	12697326	https://www.pappasole.it
+relation	12702073	https://www.caiprato.it/
 relation	12702441	https://www.caiprato.it/
 relation	12702995	caiprato.it/
 relation	12704332	caiprato.it
@@ -6519,3 +6524,4 @@ relation	15975584	https://www.parchivaldicornia.it/info-e-servizi/mobilita-e-par
 relation	15980288	https://www.camminidellacqua.it/i-cammini/38-area-pratese/107-torrente-bagnolo-alla-scoperta-del-ciclo-dellacqua
 relation	15980388	https://www.camminidellacqua.it/i-cammini/39-area-pistoiese/108-la-via-delle-agne
 relation	16021424	https://www.ic2siena.edu.it/index.php/l-istituto/la-scuola/scuola-secondaria
+relation	16062615	https://www.parchivaldicornia.it/info-e-servizi/mobilita-e-parcheggi/
