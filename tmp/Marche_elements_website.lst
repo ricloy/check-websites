@@ -315,6 +315,7 @@ node	2585194422	http://www.farmaciatacchi.it/
 node	2585941811	http://www.hotelmoretti.it
 node	2606111502	https://www.agricamppicobello.com/
 node	2617359913	https://www.biluce.it/
+node	2636047197	http://www.edizioniae.it/
 node	2636047201	http://www.lachiaveancona.com/
 node	2636047203	http://www.pec-computer.it/
 node	2646215467	http://www.capotorto.eu
@@ -334,7 +335,7 @@ node	2888209094	http://www.seatech.it/
 node	2888209095	http://www.fosdengineering.it/
 node	2888209097	http://www.dondisalotti.org/negozi/fano/
 node	2892150351	http://www.lacampana.it/
-node	2892150535	http://http://www.agriturismolacampana.it
+node	2892150535	http://www.agriturismolacampana.it
 node	2908300303	https://www.amacaconero.com/
 node	2908301755	https://ostelloasiloricci.jimdo.com/
 node	2940910422	https://www.dafiorellaristorantepizzeria.com/
@@ -617,6 +618,7 @@ node	5035812593	http://www.bagolocaffetteria.it/
 node	5040790522	https://www.pesceazzurro.com/
 node	5044597450	http://www.pasticceriavissana.it/
 node	5044692122	http://www.villafornari.it
+node	5052344577	https://numismaticantica.com/
 node	5052344590	http://www.trattoriacarotti.it/
 node	5059198599	https://www.nacm.it/
 node	5059198922	http://www.carabinieri.it
@@ -727,6 +729,7 @@ node	6823873570	http://www.farmaciafortuna.it/
 node	6828345292	https://www.farmaciablasi.it/Home-Page
 node	6832789217	https://www.facebook.com/farmaciasalaria/
 node	6872910286	https://ilmandriano.it/
+node	6883678069	https://www.timelessbrand.it/
 node	6893523311	https://www.facebook.com/FarmaCP/
 node	6913943905	https://www.osteriadellavigna.com/
 node	6917946093	https://www.carlinigomme.com/
@@ -1168,6 +1171,8 @@ node	11012973844	https://laperladifano.it/
 node	11012973845	https://www.centrobellezzabaccara.com/
 node	11013347500	https://www.ilbazardellassassino.it/
 node	11019003180	https://www.hotelsassonia.it/
+node	11021677703	https://www.terraincielo.it/
+node	11029983205	https://www.aura-relais.com/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23678233	https://www.conad.it/ricerca-negozi/conad-superstore-via-guglielmo-marconi-61-60015--falconara-marittima--009860
@@ -1620,6 +1625,7 @@ way	1079988751	https://www.camping4stagioni.it/it/
 way	1082015715	https://www.papie.it
 way	1084246420	http://www.agriturismosbrega.com/
 way	1087320574	https://www.fondazionevillasangiuliano.com/
+way	1096312500	http://www.valdifiori.nl
 way	1097799401	http://www.abbaziadisanturbano.it/
 way	1099684516	http://www.renox.com
 way	1112283489	https://campeggiolatorreportonovo.com/
@@ -1765,3 +1771,4 @@ relation	14601419	https://camminilauretani.eu/
 relation	14606707	https://camminilauretani.eu/
 relation	14874398	https://www.lacapanninadiportonovo.it/
 relation	15657082	https://pedalareconlentezza.com/muro-ortezzano/
+relation	16051021	https://visitaltemarche.it/ciclo-appeninica/
