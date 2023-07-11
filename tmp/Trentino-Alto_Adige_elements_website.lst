@@ -853,6 +853,7 @@ node	2126876064	https://www.alpenrast.com/
 node	2131111217	https://www.rentandgo.it/deu/skiverleih-skimiete/varena-passo-lavaze-jochgrimm/vuerich-shop-lavaze
 node	2131681715	http://www.baeckerei-psenner.com/
 node	2131943740	https://www.tre-3.it
+node	2133321557	https://www.wochtla-buam.com/restaurant-bruneck/
 node	2133321732	https://www.ristorantetabula.it/
 node	2133322245	http://www.city.bz.it
 node	2137103384	https://www.facebook.com/pages/W%C3%BCrstelstandl-Vetzan/423070134375646?fref=ts
@@ -1280,6 +1281,7 @@ node	2606284204	https://www.camping-gamp.com/
 node	2611540071	http://www.weissgarberhof.com
 node	2612771578	https://www.sportbruno.com/
 node	2613796297	http://www.hotel-roen.it/
+node	2616694238	https://www.garni-trojer.com/
 node	2616694243	http://www.rosmarin.it/
 node	2616694278	http://www.hotelhellweger.it/
 node	2621938645	www.garni-petra.com
@@ -2045,7 +2047,7 @@ node	3450285233	https://www.paradies-tirol.it/
 node	3450325903	https://www.hotel-patriarch.com/
 node	3450345527	https://www.hotelquelle.info/
 node	3450371148	https://www.thurnstein.it/
-node	3450391490	https://www.hotelsonne.it/
+node	3450391490	https://www.sonne.it/
 node	3451641353	https://www.hotel-stefanie.com/
 node	3451767535	https://www.hotelcafetirol.com/
 node	3451793734	https://www.sonnenhang.it/
@@ -2641,7 +2643,6 @@ node	3742736462	http://www.briol.it
 node	3752959292	http://www.gelateriasettimogelo.it/
 node	3752959293	http://www.gelateriasettimogelo.it/
 node	3754027425	http://www.berghotelzorzi.com/
-node	3755956939	http://www.veggydays.it/trento
 node	3758749629	https://www.kellereikaltern.com
 node	3758751572	https://www.kaltern.com/de/info/parkplatz-maria-theresia-p2.html
 node	3761605961	https://www.zurbruecke-alponte.com/
@@ -3010,7 +3011,6 @@ node	4395447589	http://www.elch.it
 node	4397123470	http://www.comune.pievetesino.tn.it/Comune/Organizzazione-comunale/Servizi/Biblioteca-comunale
 node	4399060593	http://www.rainerum.it/scuola-media
 node	4399166590	http://www.rainerum.it/istituto-tecnologico-articolazione-energetica
-node	4402753292	https://alrestelar.it/
 node	4402765085	http://www.agrituralcanyon.it
 node	4404122590	https://www.facebook.com/Prearo-Parrucchieri-674290302640751/
 node	4407130543	http://www.feuerwehr.marling.info/
@@ -3894,7 +3894,7 @@ node	6771163138	https://www.sarca.it
 node	6771742809	http://www.tavernaclara.it
 node	6775295285	http://despar-dolomiti.it/
 node	6776197258	http://www.antiche-mura.it
-node	6778892589	http://http://www.naranch.it/
+node	6778892589	https://www.naranch.it/en/maso-naranch/
 node	6779582420	http://www.contrades.it
 node	6792196863	http://seab.bz.it/parcheggi-blu
 node	6792196869	http://seab.bz.it/parcheggi-blu
@@ -5087,6 +5087,9 @@ node	10995300068	http://cabriocenter.com/
 node	10995300069	http://www.zoeschg-kfz.it/
 node	11001762733	http://www.kofelhof-lovingdolomites.com/
 node	11007793720	https://www.mottes.it/
+node	11028173522	https://www.raftingextremewaves.it/it/
+node	11029596969	https://www.wochtla-buam.com/
+node	11038639770	https://www.oetzi-sev.it/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -6097,7 +6100,6 @@ way	128673403	http://www.burggrafenamt.com/it/montagne-ed-escursioni/sentieri-de
 way	129219133	http://www.garni-dalliadahof.com/
 way	129219137	http://www.stelviopark.bz.it/naturatrafoi/
 way	129219141	http://www.trafoi.it/
-way	129219147	http://www.posthoteltrafoi.it/
 way	129219152	http://www.garni-interski.com/
 way	129219164	https://www.tibet-stelvio.com/
 way	129219173	https://www.stelvio-residence.com/de/residence.html
@@ -6962,6 +6964,7 @@ way	234462018	https://www.fink1896.it
 way	234782780	https://www.comune.dimarofolgarida.tn.it/
 way	234878929	http://www.mmape.it/
 way	234900599	https://www.hotelelephant.com/
+way	234900815	https://www.talguetl.com/
 way	234934074	https://www.preidlhof.it/
 way	234955783	https://www.gruenerbaum.it/
 way	234960950	https://www.gruenerbaum.it
@@ -7120,6 +7123,7 @@ way	246226465	https://www.hotel-egitz.com
 way	246228602	https://www.anett-hotel.com
 way	246232842	https://www.appartment-neumairhof.com/
 way	246277802	http://www.renzler.it/
+way	246334631	http://bruggerwirt.it/
 way	246364437	http://www.ausserloretzhof.it/
 way	246364438	http://www.brunnentalhof.com/
 way	246364621	https://www.alperiagroup.eu/de/unsere-identitaet/unsere-energie/wasserkraft/wasserkraftwerk-laas
@@ -7508,7 +7512,7 @@ way	362363665	https://www.hotelaurai.it/
 way	364263610	https://heliks.it/
 way	364367287	https://www.campingazzurro.net
 way	365053737	http://www.vds-suedtirol.it/de/swh/497
-way	365624764	http://http://www.burggraefler.it/
+way	365624764	https://www.burggraefler.it
 way	366012870	https://www.camperstoptorbole.com/
 way	366094266	http://www.hotelsayonara.tn.it
 way	366189321	http://www.campingeuropatorbole.it
@@ -8115,6 +8119,7 @@ way	1182875929	www.ff-zenoberg.it
 way	1186016110	https://www.waldorf-meran.it
 way	1186016113	https://ff-freiberg.it/
 way	1186462910	https://www.impronte.tn.it/
+way	1188055153	https://alrestelar.it/
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -9504,3 +9509,4 @@ relation	15745987	https://www.meranerland.org/de/freizeit-aktiv/berge-wandern/wa
 relation	15830969	http://www.winterparkpradis-ci.it/
 relation	15976024	http://www.sat.tn.it/
 relation	16011397	https://it.wikipedia.org/wiki/Alta_via_dell%27Adamello#Dal_rifugio_Tita_Secchi_al_rifugio_Maria_e_Franco
+relation	16066233	https://www.sentierodeilaghi.it/il-percorso/ponte-caffaro-rifugio-stino/
