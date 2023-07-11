@@ -52,7 +52,7 @@ while IFS=$'\t' read website res HTTP_CODE location; do
 
 	case $res in
        -1)
-                echo "MISSING_URI_SCHEME $osm_url_list $website;;
+                echo "MISSING_URI_SCHEME $osm_url_list $website";;
 	3)
 		echo "NOT_URL $osm_url_list $website";;
 	6)
