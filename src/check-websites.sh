@@ -44,7 +44,7 @@ cur_IR="${IR[$1]}"
 curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2Cwebsite%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A${cur_IR}%29-%3E.searchArea%3B%0Anwr%5B%22website%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >./tmp/"$1"_elements_website.lst
 
 awk -F'\t' 'NR>1{if (NF>3) {website=$3; for (f=4;f<=NF;f++) website = website FS $f} else {website=$3}; n = split($NF,w,";"); for (i=1;i<=n;i++) print w[i]}' ./tmp/"$1"_elements_website.lst | sort | uniq | \
-	parallel 'website=$(echo {} | sed 's/^ *\| *$//g'); if [[ ! ( "$website" =~ ^https?:// ) ]]; then res=-1; HTTP_CODE=;location=; else read res HTTP_CODE location < <({ curl -m "'"$timeout"'" -sI "$website"; echo $?; } | awk '\''NR==1{http_code=$2} /^[Ll]ocation:/{loc=$2} END{print $1, http_code, loc}'\''); fi; echo -e "$website\t$res\t$HTTP_CODE\t$location"' > ./tmp/"$1"_websites_checked.lst
+	parallel 'website=$(echo {} | sed '\''s/^ *\| *$//g'\''); if [[ ! ( "$website" =~ ^https?:// ) ]]; then res=-1; HTTP_CODE=;location=; else read res HTTP_CODE location < <({ curl -m "'"$timeout"'" -sI "$website"; echo $?; } | awk '\''NR==1{http_code=$2} /^[Ll]ocation:/{loc=$2} END{print $1, http_code, loc}'\''); fi; echo -e "$website\t$res\t$HTTP_CODE\t$location"' > ./tmp/"$1"_websites_checked.lst
 	
 
 while IFS=$'\t' read website res HTTP_CODE location; do	
