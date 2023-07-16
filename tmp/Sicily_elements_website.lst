@@ -534,7 +534,6 @@ node	2476706439	https://www.calalapasta.it/
 node	2492630586	http://www.archeofficina.com/la-catacomba-di-porta-dossuna-a-palermo/
 node	2496445179	https://www.lasiciliainrete.it/NATURA/aree_attrezzate/SIRACUSA/noto_antica/noto_antica.htm
 node	2513761392	http://www.pizzeriamichelangelo.it
-node	2517440970	http://www.sessasuperstore.com/sessa/
 node	2522318665	https://www.buenavida.it/
 node	2522427525	http://www.bedandbreakfastilgiardinodipiazzafalcone.it/
 node	2522427528	http://www.lortodegliulivi.it/
@@ -3400,6 +3399,14 @@ node	11010550179	https://www.matmuseo.com/
 node	11012651333	https://www.lagrottascicli.it/
 node	11025798951	www.redsound.it
 node	11031888172	https://www.foodda.it/
+node	11037352706	https://www.amigosharing.it/
+node	11037373952	https://www.amigosharing.it
+node	11037394447	https://www.amigosharing.it/
+node	11040083584	https://www.arddiscount.it/punti-vendita/579/ferla-via-delle-mimose-29
+node	11046872242	https://www.damper.it
+node	11046958288	https://www.arsistruzione.it
+node	11046961515	https://www.melodianoto.edu.it/
+node	11046961541	https://www.candiano-noto.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	http://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -4131,7 +4138,6 @@ way	334785995	https://www.icsmanzoni-priologargallo.edu.it/
 way	334785996	https://www.icsmanzoni-priologargallo.edu.it/
 way	334785998	https://www.melodianoto.edu.it/
 way	334785999	https://www.melodianoto.edu.it/
-way	334786000	https://www.melodianoto.edu.it/
 way	334786001	https://www.secondocomprensivorosolini.edu.it/
 way	334786002	https://www.secondocomprensivorosolini.edu.it/
 way	334786003	https://www.decillisrosolini.edu.it/
@@ -4532,6 +4538,7 @@ way	685468670	https://turismo.comune.palermo.it/palermo-welcome-luogo-dettaglio.
 way	686408437	http://villadafne.it
 way	689331691	http://www.giannonelavorazionepietra.com/
 way	691542209	https://www.edilsider.com/
+way	692055737	http://www.campingvalledeitempli.com
 way	692092732	https://centroarchimede.it/
 way	702096992	https://www.mareneveresort.com
 way	702528191	https://www.agrimaccari.com/
@@ -5198,7 +5205,7 @@ way	1181221270	https://www.regione.sicilia.it/istituzioni/regione/strutture-regi
 way	1184504411	https://www.penny.it/
 way	1185587299	https://www.casadelleterreforti.com/
 way	1187595287	https://www.poste.it
-way	1188253558	https://www.amigosharing.it
+way	1189708101	http://www.sessasuperstore.com/sessa/
 relation	271371	http://pirandellomazara.it
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -5261,6 +5268,7 @@ relation	7224540	http://www.ilvulcanoapiedi.it
 relation	7368318	agroverde.it
 relation	7840318	http://www.caibelpasso.org
 relation	7840381	http://www.caibelpasso.org
+relation	7841468	https://www.cai.it/sezione/catania/
 relation	7843999	https://parcoetna.it/
 relation	7844029	https://parcoetna.it/
 relation	7844069	https://parcoetna.it/
@@ -5270,9 +5278,13 @@ relation	7844247	http://www.caibelpasso.org/
 relation	7844263	http://www.caibelpasso.org/
 relation	7844265	http://www.caibelpasso.org/
 relation	7844572	https://www.caimessina.it/
+relation	7849473	http://www.caiacireale.it/
 relation	7849525	https://parcoetna.it/
+relation	7854063	https://www.caipedara.it/
 relation	7854097	http://www.caibelpasso.org/
 relation	7854099	http://www.caibelpasso.org/
+relation	7854145	https://www.caipedara.it/
+relation	7854146	https://www.caipedara.it/
 relation	7858635	http://www.caiacireale.it/
 relation	7872456	https://mappasentieroitalia.cai.it
 relation	7872628	https://mappasentieroitalia.cai.it
@@ -5501,6 +5513,10 @@ relation	13016320	https://www.etnanatura.it/sentieri.php?nome=Bosco_di_Centorbi
 relation	13024262	https://www.caitaormina.it/
 relation	13027744	https://www.cairagusa.org/
 relation	13027817	https://www.cairagusa.org/
+relation	13028659	https://www.caipedara.it/
+relation	13028660	https://www.caipedara.it/
+relation	13028661	https://www.caipedara.it/
+relation	13028662	https://www.caipedara.it/
 relation	13034922	https://www.policlinicomorgagni.it/it/
 relation	13072056	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=298
 relation	13081163	https://www.forum-palermo.it/
