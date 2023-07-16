@@ -359,7 +359,6 @@ node	1762607699	http://www.invaiano.com/affiliati/30-non-solo-fumo-tabaccheria-e
 node	1763563246	https://www.dariocecchini.com/
 node	1763597198	https://www.pasticcerienannini.it/
 node	1769311764	http://www.pizzeriaamalfiprato.it/
-node	1771627166	http://www.doorsprato.it/
 node	1773373661	https://www.museociviltacontadinamontefoscoli.it/
 node	1774493725	http://www.borgocolleoli.com/
 node	1774493882	https://villasaletta.com/
@@ -484,7 +483,6 @@ node	2086386909	https://www.lalocandadelminatore.it/
 node	2087764280	http://www.dacarlino.it/
 node	2087784024	https://www.vecchiomulino.info/
 node	2090312937	https://www.arcaplanet.it/
-node	2090312938	https://www.nencinisport.it/
 node	2090312939	https://www.tabaccheriafontanelli.it
 node	2090409206	www.acasaapisa.it
 node	2097630922	https://www.surferjoe.it/
@@ -501,6 +499,7 @@ node	2148986952	https://www.facebook.com/pages/Autoricambi-Santhan/3283512639127
 node	2155444733	http://www.lapievedipomaia.com/
 node	2155444734	http://www.lapievedipomaia.com/
 node	2155903107	http://www.agriturismoilgelso.com/
+node	2165548104	https://www.unicooptirreno.it/punto-vendita/gabbro
 node	2179347503	www.siena-hotels.com
 node	2180372693	http://www.ristorantecortefreda.com
 node	2206536417	https://www.trattoriabbq.com/
@@ -878,7 +877,7 @@ node	2491363679	http://www.10-design.it/
 node	2491371718	http://www.officinauomo.it
 node	2492069292	http://www.ristorantesantamaria.com
 node	2492113564	http://www.sostadeicavalieri.it/
-node	2492248198	http://www.mostredileonardo.com/
+node	2492248198	https://leonardointeractivemuseum.com/
 node	2493002450	http://www.girobike.net
 node	2493669194	http://www.hotelgarden.firenze.it/
 node	2503708760	https://www.laprosciutteria.com/
@@ -1416,6 +1415,7 @@ node	3985028057	http://www.ilbufalotrippone.it/
 node	3992331638	https://www.comprensivojacopodellaquercia.edu.it/index.php?option=com_content&view=article&id=75&Itemid=198
 node	3996393160	http://www.poldino.com/
 node	4008157506	http://www.aiadipiero.it/
+node	4008178792	https://lalocandatirrenia.it/
 node	4010266081	http://www.hokkaidosushi.it
 node	4013828154	https://www.facebook.com/Amaranthus-Profumeria-Artistica-e-Naturale-181219225575946/
 node	4014685675	http://istorecolivorno-ldm.it/cecina6/
@@ -1841,7 +1841,6 @@ node	4898187969	https://www.peperosaristorantebistro.it
 node	4898300418	https://www.residencerosadeiventi.it/
 node	4902627472	http://mclgorinello.it
 node	4902838421	https://www.toscanaranch.it/
-node	4904652944	https://www.samsports.eu/
 node	4907672061	http://www.secondamanina.it/livorno/
 node	4910367422	http://www.laserradibarga.it/
 node	4911664421	http://www.granducatohotel.it/
@@ -2601,7 +2600,7 @@ node	6522709284	https://gioielleriasalvini.it
 node	6522743389	https://www.credit-agricole.it/
 node	6522743392	https://it.tezenis.com
 node	6524236367	http://pacarrara.it
-node	6525055784	http://http://www.palestrabalance.it/
+node	6525055784	http://www.palestrabalance.it/
 node	6530508277	http://www.bagnolabriciola.com/
 node	6532813663	https://tropicanabeach.eu
 node	6534334178	http://www.bagnoafrica.com
@@ -4134,6 +4133,14 @@ node	11013818231	http://www.villalequerciolaie.com/en/alchemy-with-nature/
 node	11013818232	http://www.villalequerciolaie.com/en/alchemy-with-nature/
 node	11015612791	https://www.dungeonstreet.com/
 node	11029510005	https://idylliumpienza.it/
+node	11037020148	https://gamberini.eu/gamberini-firenze/
+node	11038055271	https://www.palazzoguadagni.com/?utm_source=google&utm_medium=organic&utm_campaign=GoogleMyBusiness
+node	11043869624	https://luppolodimare.it
+node	11043878459	https://www.angolodibellezza.it/
+node	11043878460	https://www.avvocatopalmi.it/
+node	11044297173	https://bio-brado.business.site/?utm_source=gmb&utm_medium=referral%20https://bioebrado.superbexperience.com/
+node	11045597012	https://www.uslcentro.toscana.it/index.php/sedi-territoriali/584-sedi-territoriali-firenze/zona-del-mugello/11277-palazzuolo-sul-senio-presidio
+node	11045597014	https://torredelvicario.it/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	http://www.leopolda.it/
@@ -4364,7 +4371,7 @@ way	143975731	http://www.materiamuseum.it/
 way	143975735	https://www.fattoriadicolle.it/it
 way	143975739	https://www.gruppocolle.it/
 way	143975741	http://beste.it/
-way	146665798	http://www.provincia.livorno.it/attivita/museo/home.htm
+way	146665798	http://musmed.provincia.livorno.it/
 way	146738415	http://web.comune.calenzano.fi.it/portale/schede/ufficio_relazioni_con_il_pubblico/memoriale-di-valibona-1/memoriale-di-valibona
 way	147206209	www.fratellivenuta.it
 way	147213213	http://www.rifugiotom.it
@@ -4390,6 +4397,7 @@ way	157564765	http://www.polomusealetoscana.beniculturali.it/index.php?it/186/vi
 way	158441765	https://www.dm.unipi.it
 way	158801016	http://www.agriturismocastiglioncello.com/
 way	159017688	http://www.decima-musa.eu/
+way	159478766	https://www.casaledelmare.it/
 way	159490367	http://www.grandhotelcrocedimalta.com/it
 way	159545741	https://www.belvehot.it/
 way	159555341	https://www.esselunga.it/cms/negozi/ricerca-negozi.CAR.html
@@ -4449,6 +4457,7 @@ way	176331787	www.campingviareggio.it
 way	176441027	https://torremarina.it/
 way	177684444	http://www.istitutodonmilani.edu.it
 way	177684447	http://www.istitutodonmilani.edu.it
+way	177800473	https://www.agenziaentrate.gov.it/portale/uffici16/-/uffici/uffici_INSTANCE_t1whaWcAyJ1q/dettaglioufficio/T8L
 way	178041104	http://www.istitutodonmilani.edu.it
 way	179403931	https://www.fondoambiente.it/luoghi/torre-salto-della-cervia?ldc
 way	179659905	http://www.centropapillon.it
@@ -4588,7 +4597,7 @@ way	236321627	https://icfollonica1.gov.it/
 way	237157303	http://www.sassotondo.it/
 way	237436175	https://www.museidifiesole.it/
 way	237453057	https://www.inail.it/
-way	237463853	http://www.izslt.it/
+way	237463853	https://www.izslt.it/le-sedi/sede-di-pisa/
 way	237846533	https://www.uslnordovest.toscana.it/consultori/1155-servizi-consultoriali-pisa
 way	238430737	http://eui.eu
 way	238430972	http://eui.eu
@@ -4772,6 +4781,7 @@ way	304775406	https://www.campingscaglieri.it/de/home
 way	305397976	http://www.ristororedipuglia.it/
 way	305569628	https://museibuonconvento.com
 way	305768795	http://www.cortedeitusci.it
+way	305870425	https://salviatino.com/
 way	305871732	http://ilbaronetto.pisa.it/
 way	306143435	https://www.mulindelrancone.com/
 way	306252410	http://www.polomusealetoscana.beniculturali.it/index.php?it/183/chiostro-dello-scalzo-firenze
@@ -4856,7 +4866,7 @@ way	354106736	http://www.hotelvillarioddi.it/
 way	354108578	http://www.hotelnazionale-volterra.it/hotel/
 way	354299346	https://www.irsoo.it/
 way	354299462	https://www.allaburra.com
-way	354363412	http://http://www.antoniolupi.it/
+way	354363412	http://www.antoniolupi.it/
 way	354584104	http://www.bernistore.it/negozi/berni-empoli/
 way	354584123	http://www.linkfitnessclub.com
 way	354604097	http://www.villaalessandri.it/index.html
@@ -5417,7 +5427,7 @@ way	736865895	https://ristorantezocchi.it
 way	737279356	https://www.airbnb.fi/rooms/6177092
 way	737416557	www.beltramonto.it
 way	738070213	http://imperialebolgheri.com
-way	754019179	https://bit.ly/2rtxu1y
+way	754019179	https://carrara.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio2
 way	754986500	https://www.eosdev.it
 way	755246609	https://www.facebook.com/La-Bottega-del-Goloso-1061348050666946/
 way	755496097	https://www.micromecc.it
@@ -5547,7 +5557,7 @@ way	963162738	https://www.rsamadonnadellafiducia.it/it/
 way	963397191	https://talamonecampingvillage.com
 way	969251562	https://www.idealcomfort.it
 way	969251563	https://www.labromare.org/
-way	971202679	www.centrowindsurfvada.it
+way	971202679	http://www.centrowindsurfvada.it/
 way	972900617	https://seitoscana.it/comuni/loro-ciuffenna/centro-di-raccolta
 way	972950146	https://www.polobianciardigrosseto.edu.it/
 way	974098797	https://www.campingtaimi.it
@@ -5683,6 +5693,7 @@ way	1183348384	https://www.massavecchia.it/
 way	1183778436	https://www.soccercagefollonica.it/
 way	1186643345	https://sleepandride.it
 way	1187230607	www.at-bus.it
+way	1188795305	https://www.at-bus.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42525	https://www.castelfrancopiandisco.it/
 relation	136257	www.caiparma.it
@@ -5900,6 +5911,7 @@ relation	6390769	https://www.flixbus.de/busverbindung/fernbus-nuernberg-florenz-
 relation	6399787	http://www.parcapuane.toscana.it/
 relation	6404958	https://www.acquerinocantagallo.it/
 relation	6407330	https://www.rocchette.com/
+relation	6411432	https://oasisantaluce.it/
 relation	6417730	http://www.caibismantova.it/joomla/sentieristica/i-sentieri-gestiti-dalla-sezione.html
 relation	6456732	https://www.campinglepianacce.it
 relation	6521479	https://amiatafreeridebikeresort.com
