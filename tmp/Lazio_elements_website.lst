@@ -33,6 +33,7 @@ node	259064789	http://www.catacombepriscilla.com/
 node	259122899	https://alpeperoncino.net/
 node	259299923	https://www.aldrovandiresidence.it/en/default.html
 node	259656018	http://www.casinavaladier.it/
+node	259728844	https://www.parrocchiafregene.it
 node	260350853	http://www.sdb.org/en
 node	260540041	https://www.cinemamadison.it/
 node	261416414	http://www.loziodamerica.it/site/index2.html
@@ -185,7 +186,6 @@ node	916548815	https://www.carrefour.it/punti-vendita/carrefour-market-roma-via-
 node	916573614	https://www.supermercatipim.com
 node	917098493	http://www.villa-stdominique.tophotelsrome.com
 node	917102811	http://www.ristorantepersiano.it/
-node	929052067	https://www.piagetdiaz.edu.it
 node	931731706	http://www.ciclodiffusione.com
 node	932316319	http://www.osteriamargutta.it/
 node	932316331	http://www.frigidarium-gelateria.com/
@@ -771,7 +771,7 @@ node	2273966987	http://www.ristorantecrispi19.com
 node	2273967830	http://www.ristorantemoma.it
 node	2273973904	http://www.osteriaquarantaquattro.com
 node	2273978809	https://www.letamerici.com/
-node	2273987475	http://www.baccanoroma.com
+node	2273987475	https://www.baccanoroma.com/
 node	2273989924	http://www.osteriadellingegno.com/
 node	2273997542	https://www.anticabirreriaperoni.net/
 node	2274002831	https://www.minervaroofgarden.it/
@@ -1150,7 +1150,6 @@ node	2878927868	http://www.acasadiserena.com
 node	2880168948	http://www.funiculifunicula.com/
 node	2880304450	http://www.albergoitaliatorvaianica.it/
 node	2889411908	www.equocomes.org
-node	2895661268	www.newlimits.it
 node	2906119016	https://www.risparmiocasa.com/
 node	2912496029	https://www.percorsiaudio.com/
 node	2916528853	http://www.fondimmobiliare.com
@@ -3215,7 +3214,7 @@ node	6251146146	https://opac.uniroma1.it/SebinaOpacRMS/library/Scienze%20dell%27
 node	6251215882	https://web.uniroma1.it/sbs/biblioteche/RMS-BF-01
 node	6251215883	https://opac.uniroma1.it/SebinaOpacRMS/library/RMS40
 node	6251236671	https://opac.uniroma1.it/SebinaOpacRMS/library/RMSMI
-node	6251236672	https://web.uniroma1.it/sbs/biblioteche/RMS-53-01
+node	6251236672	https://opac.uniroma1.it/SebinaOpacRMS/library/Biblioteca%20della%20Facolt%C3%A0%20di%20Medicina%20e%20psicologia%20Ernesto%20Valentini%20(Sede%20principale%20Psicologia)/RMS53?locale=eng
 node	6251263784	https://web.uniroma1.it/sbs/biblioteche/RMS-55-01
 node	6251303455	https://web.uniroma1.it/sbs/biblioteche/RMS-M3-04
 node	6251333335	https://web.uniroma1.it/sbs/biblioteche/RMS-IC-01
@@ -3715,7 +3714,7 @@ node	7525502443	http://www.salute.gov.it
 node	7529712367	http://www.farmaciafagnani.it/
 node	7537063737	https://www.csricambi.it/
 node	7544794115	http://comunitaefamiglia.org/luoghi/comunita-di-famiglie-2/colli-del-barbagianni
-node	7557236116	https://www.trattoriadacesare.it
+node	7557236116	https://trattoriadacesare.it/home/
 node	7563323200	https://www.supercond24.com/
 node	7565273319	http://www.gennargentuformaggi.com/
 node	7565362629	https://anguillaranuoto.jimdofree.com/
@@ -5232,7 +5231,7 @@ node	10581112499	https://www.impresaitalia.info/ik00329581/b-e-b-roxy-bar-snc-di
 node	10581125963	http://www.darbottarolo.it/
 node	10587569015	https://pho1.eu/
 node	10595970609	https://www.kisaki.it
-node	10595977776	www.taki.it
+node	10595977776	https://taki.it/
 node	10596617672	https://www.cinecittaworld.it/it/parco/attrazioni/velocita-luce
 node	10600977746	https://m.facebook.com/caffeboutique/
 node	10602561802	www.scouteguide.it
@@ -5553,6 +5552,16 @@ node	11032893350	https://www.coni.it/images/CNA_100_Leggende_per_data_di_nascita
 node	11032893351	https://www.coni.it/images/CNA_100_Leggende_per_data_di_nascita.pdf
 node	11032893352	https://www.coni.it/images/CNA_100_Leggende_per_data_di_nascita.pdf
 node	11032893353	https://www.coni.it/images/CNA_100_Leggende_per_data_di_nascita.pdf
+node	11037058544	http://csalatorretta.blogspot.it/
+node	11037917205	http://marcomagistri.conepro.it/
+node	11039991749	https://www.guardiacostiera.gov.it/organizzazione/Pages/delegazione-di-spiaggia-di-ostia.aspx
+node	11041854849	https://www.gioelleriamariacifra.it/
+node	11042173169	https://opac.uniroma1.it/SebinaOpacRMS/library/Biologia%20e%20biotecnologie%20Charles%20Darwin%20-%20sala%20lettura%20Via%20dei%20Sardi/640?locale=eng
+node	11045948460	http://www.omacimpiantigrandicucine.it/
+node	11046753532	https://www.degservice.it/
+node	11048006358	https://ilpeccatodigola-tivoli.it/
+node	11048024400	https://www.acea.it/it/gruppo/attivita-innovazione/acqua/le-case-dell-acqua
+node	11048215798	https://www.acea.it/it/gruppo/attivita-innovazione/acqua/le-case-dell-acqua
 way	22875465	http://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -5847,7 +5856,6 @@ way	121355870	https://ragusaoff.com/
 way	122056497	http://roma.fssp.it/
 way	122413575	http://musei.beniculturali.it/musei?mid=398&nome=tomba-francois
 way	122542015	http://www.procuralatina.it/
-way	122545057	https://www.risparmiocasa.com/
 way	122598084	scuolamafalda.it
 way	123817455	http://en.museicapitolini.org/
 way	124282253	http://www.cssar-casadeicrescenzi.it/storia/
@@ -6369,7 +6377,6 @@ way	255586133	http://www.centrocommercialeletorri.com/#!/home
 way	256160857	https://www.risparmiocasa.com/
 way	256677023	http://www.villadelcardinale.it/
 way	256768587	https://heiliger-stuhl.diplo.de/
-way	257537103	http://csalatorretta.blogspot.it/
 way	257537104	sangabrieleroma.org
 way	257777848	http://www.studiohangloose.it
 way	258109114	https://www.mcdonalds.it/
@@ -7045,6 +7052,7 @@ way	480210505	https://www.hippodrome.it/
 way	480493120	http://www.tibidabobeachostia.it
 way	480493122	http://www.belsitoostia.com
 way	480614155	www.agriturismosanlorenzo.info
+way	480867166	https://www.degservice.it/
 way	481188937	http://www.abclatina.it
 way	481760129	http://www.parchilazio.it/schede-194-necropoli_di_s_giuliano
 way	481768903	http://www.etruriameridionale.beniculturali.it/index.php?it/252/luni-sul-mignone
@@ -7073,6 +7081,7 @@ way	488687258	https://magicland.it/it/isola-volante.html
 way	489296556	https://www.bibliotechecastelliromani.it/biblioteche-scr/biblioteca-di-genzano-di-roma/
 way	489301320	http://comune.genzanodiroma.roma.it
 way	489590481	http://archeoroma.beniculturali.it/siti-archeologici/arco-malborghetto
+way	489655069	https://magicsplash.magicland.it/
 way	490460740	https://www.associazionelacasadellarte.it/
 way	490884967	http://www.teverefarfa.it
 way	491897444	https://www.ptvonline.it
@@ -7795,7 +7804,7 @@ way	1149158549	https://www.arpalazio.it/documents/20124/78596/scheda+stazione+CI
 way	1149160246	https://www.arpalazio.it/documents/20124/78596/scheda+stazione+GUIDONIA+completa.pdf/
 way	1149165424	https://www.arpalazio.it/documents/20124/78596/scheda+stazione+VILLA+ADA+.pdf/
 way	1149167902	https://www.arpalazio.it/documents/20124/78596/scheda+stazione+ARENULA+completa.pdf/
-way	1149169704	www.degservice.it
+way	1149169704	https://www.degservice.it/
 way	1149170051	https://www.arpalazio.it/documents/20124/78596/scheda+stazione+BUFALOTTA+completa.pdf/
 way	1149177510	https://www.arpalazio.it/documents/20124/78596/scheda+stzione+TENUTA+DEL+CAVALIERE+completa.pdf/
 way	1149179153	https://www.arpalazio.it/documents/20124/78596/scheda+stazione+CINECITTA%27+completa.pdf/
@@ -7861,6 +7870,9 @@ way	1186704749	https://www.aslroma2.it/index.php/strutture-7d/poliambulatori?vie
 way	1186852863	https://www.humanaitalia.org
 way	1186852864	https://www.humanaitalia.org
 way	1187207207	https://www.consalvitommaso.it/
+way	1188612616	https://www.piagetdiaz.edu.it
+way	1188612617	https://www.liceogullace.it/
+way	1189693262	http://www.archeoetruria.altervista.org/bucanerone.html
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -8149,6 +8161,7 @@ relation	8054651	https://www.viadifrancesco.it/
 relation	8054652	https://www.viadifrancesco.it/
 relation	8054653	https://www.viadifrancesco.it/
 relation	8054848	https://www.viadifrancesco.it/
+relation	8103426	https://www.parrocchiafregene.it
 relation	8229543	https://www.granarolo.it/
 relation	8269521	https://www.olyhotel.it
 relation	8281598	http://www.unitus.it/
@@ -8254,7 +8267,7 @@ relation	11733311	http://www.aziendamorani.it/
 relation	11782944	http://www.caiviterbo.it
 relation	11783850	www.caiviterbo.it
 relation	11784062	http://www.caiviterbo.it/
-relation	11795110	http://www.sacrobosco.it/
+relation	11795110	https://www.sacrobosco.eu
 relation	11796900	http://www.caiviterbo.it/
 relation	11796925	www.caiviterbo.it
 relation	11797029	www.caiviterbo.it
@@ -8583,3 +8596,4 @@ relation	15842374	http://www.parcocatone.it/index.php?lang=it
 relation	15869217	https://schiavisrl.it/attivita/cava-pozzolana-frejus/
 relation	15974774	https://www.decathlon.it/store-view/negozio-sport-settecamini-roma-0070041100411
 relation	16020749	https://www.datacenter.it/data-center-aruba/italia-roma-dc-it4.aspx
+relation	16078811	https://www.autoromaeur.it/
