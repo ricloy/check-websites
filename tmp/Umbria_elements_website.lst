@@ -90,7 +90,6 @@ node	68507931	http://www.comune.porano.tr.it/
 node	269742013	http://www.castelrigone.com/
 node	331813067	http://www.hotelumbria-orvieto.it/
 node	331959806	http://www.panevinotodi.com/
-node	332086731	http://www.lamaisonded.it/
 node	332159522	http://www.hotel-umbria.com
 node	332159685	https://www.hotelirispg.com/
 node	332160385	http://www.tavernapappagloria.it/
@@ -113,6 +112,7 @@ node	761478596	https://www.parcochicomendes.com/
 node	842246041	http://www.comune.gubbio.pg.it/
 node	853116392	https://www.ristorantemedioevoassisi.it/
 node	892512332	http://www.comune.paciano.pg.it/
+node	895749442	https://www.facebook.com/parrocchiasanzenone.terni/
 node	905712384	https://www.jw.org/it
 node	926478218	http://www.lemura.net
 node	926478302	http://www.hotelitaliafoligno.com
@@ -797,7 +797,7 @@ node	11005336655	https://lagrottadellospuntino.eatbu.com/?lang=it
 node	11017821199	https://orari.fsbusitalia.com/epdf/GB0308.pdf
 node	11023682173	https://www.laterrazzahotel.it/centro-benessere-spa/
 way	23079751	http://turismo.comune.perugia.it/poi/giardini-carducci
-way	30627124	http://www.comune.orvieto.tr.it/pagine/parcheggi-tariffe-e-abbonamenti
+way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	36195165	http://www.inorvieto.it/it/scegli/gli_imperdibili/area_archeologica_porto_di_pagliano.html
 way	36994747	http://www.assisisantachiara.it
 way	44184811	http://www.opsm.it/
@@ -1370,6 +1370,9 @@ way	1184496042	https://www.frantoiosepioni.it/
 way	1184778112	https://www.turismostroncone.it/ita/6/arte-e-cultura/5/sacrario-delle-armi/?ss=4
 way	1186200136	https://hotelcatignano.com/
 way	1187259046	https://www.facebook.com/Scardone
+way	1188423429	https://www.hotelvillaverdeassisi.com
+way	1189430337	https://www.iisacp.edu.it/plessi-scolastici/liceo-classico/
+way	1189497734	http://www.lamaisonded.it/
 relation	1253429	http://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	2048968	http://www.camminodiassisi.it
