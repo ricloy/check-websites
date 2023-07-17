@@ -768,7 +768,7 @@ node	2311467798	https://www.enel.it/punto-enel/
 node	2311467799	https://www.enel.it/punto-enel/
 node	2311467800	https://www.enel.it/punto-enel/
 node	2311467801	https://www.enel.it/punto-enel/
-node	2311467802	https://www.enel.it/punto-enel/
+node	2311467802	https://www.enel.it/spazio-enel/
 node	2311467804	https://www.enel.it/punto-enel/
 node	2311467806	https://www.enel.it/punto-enel/
 node	2311467807	https://www.enel.it/punto-enel/
@@ -1186,7 +1186,7 @@ node	2982568113	https://farmaciedabbene.it/
 node	2985212312	https://www.studioporcari.it/
 node	2985848529	http://www.portigliatti.it/
 node	2985868674	https://www.ioadv.it/
-node	2985948925	https://www.foodandcompany.com/
+node	2985948925	https://www.foodandcompany.com/ristorante-portodisavona/
 node	2985969503	http://www.farmacieasm.it/alpignano/
 node	2986679861	http://www.circologolftorino.it
 node	2986844170	http://www.cioccolatoporetti.it
@@ -2163,7 +2163,7 @@ node	4456002089	https://www.juventus.com/it/club/juventus-museum
 node	4457879049	https://www.bancadicaraglio.it
 node	4459377863	http://www.tobike.it
 node	4460705653	http://www.ilcrivellodoro.com
-node	4468898937	http://www.gelaterialatosca.it/
+node	4468898937	https://www.gelaterialatosca.it/
 node	4470016217	http://www.louciouch.it/
 node	4470034691	https://www.lanticocasale.at.it/
 node	4477484894	https://radioblackout.org/
@@ -4976,7 +4976,7 @@ node	9137197669	https://roccettafiorita.com/
 node	9140654122	https://macelleria-elio.business.site/
 node	9140654124	https://sites.google.com/site/pastificioleccese/
 node	9141073650	https://www.studiomedicidifamiglia.it/
-node	9141287783	http://http://pianofortibergamini.it
+node	9141287783	https://pianofortibergamini.it/
 node	9141599034	https://segheria.paniati.it/
 node	9141888141	https://www.casabroglia.com/
 node	9143058096	https://ristorantecasaarmenia.business.site/
@@ -5183,6 +5183,7 @@ node	9500654387	https://www.ristorantemarconi.com/
 node	9501615460	https://sportellofiscaletorino.it/
 node	9501615463	https://www.amplifon.com/it/cerca-centro-amplifon/apparecchi-acustici-torino/amplifon-via-guala-s660
 node	9502161627	https://vetreriacassinelli.it/
+node	9502512435	https://www.kasanova.com/stores/kasanova-torino-lagrange-via-lagrange-45
 node	9503633740	https://www.dapecchia.it/corso-unione-sovietica
 node	9507820854	https://www.lillapois.com/
 node	9508226867	https://www.isoladeitesori.it/store/novara-no-via-xxiii-marzo-1849-360-83204.html
@@ -5738,6 +5739,10 @@ node	11027578634	https://www.ilboscoincantato-beb.it/
 node	11030398805	https://antesdeviajar.com/italy/omegna/la-casalina/
 node	11032072292	https://www.casapiemont.com/
 node	11033836617	http://www.tessitura-a-mano-scholz.it
+node	11041700535	http://www.shoppingimmobiliare.com/
+node	11049129613	https://ristorantecaprera1883.it/
+node	11049343309	https://www.portourbanotorino.it/
+node	11049505605	https://www.anytimefitness.it
 way	22880457	http://www.liceogioberti.it/
 way	23028146	http://www.palavelatorino.it
 way	23079840	https://www.isola2000.com
@@ -6069,7 +6074,6 @@ way	153041086	http://www.comune.candelo.bi.it/
 way	154534084	http://www.adlergroup.it
 way	154534085	http://www.adlergroup.it
 way	155340443	https://www.rifugiobecchirossi.com/
-way	156568139	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	156568140	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	157828813	http://www.atl.biella.it/
 way	158325081	http://parrocchie.diocesi.torino.it/parr021/
@@ -6425,6 +6429,7 @@ way	210990929	www.caseificioaltavalsesia.it
 way	210990946	https://www.ristorantegiardini.it/
 way	211153622	http://www.comune.rassa.vc.it/
 way	211315761	http://www.comune.vanzoneconsancarlo.vb.it/
+way	211353056	https://la-fenice-restaurant.eatbu.com/?lang=it
 way	211428890	https://appartamento-annalisa-stresa.hotelmix.it/
 way	211439258	http://www.parrocchiadibelgirate.it/Parrocchia_di_Belgirate/PB_-_CV_-_STORIA.html
 way	211477145	https://www.carrefour.it/punti-vendita/supermercato-carrefour-market-torino-stradella-192194
@@ -7027,7 +7032,7 @@ way	313925317	http://www.hotel-lapigna.it/
 way	314022349	https://www.unicalcestruzzi.it/
 way	314031523	http://www.scuolaprimolevi.it/
 way	314541414	http://www.comune.santamariamaggiore.vb.it
-way	315443087	http://http://www.sangiacomochieri.it
+way	315443087	http://www.sangiacomochieri.it/
 way	315503999	http://12alle12.it/settimo-torinese-parco-7-ettari-in-tangenziale-verde-105336
 way	315954811	http://www.adi-torino.it/
 way	316378961	https://www.donetti.it
@@ -8524,6 +8529,7 @@ way	1178468531	http://www.risobauducco.it/
 way	1181479767	https://www.ilcastellodinovara.it/
 way	1186591719	https://www.albertomarchetti.it/
 way	1187835156	https://www.fitactive.it/i-club/vercelli.php
+way	1190018641	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
