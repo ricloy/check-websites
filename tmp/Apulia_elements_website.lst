@@ -558,8 +558,6 @@ node	4618307210	http://www.bancagenerali.it
 node	4618334145	http://www.alcielostellato.it
 node	4631635462	http://www.ortopediatombolini.it/contact/
 node	4632615982	https://www.martinuccilaboratory.it
-node	4632620699	https://www.hotelpalazzodelcorso.it/
-node	4632620700	https://www.hotelpalazzodelcorso.it/
 node	4635058712	https://www.salmoiraghievigano.it/
 node	4640070075	http://www.amat.taranto.it/
 node	4647221636	https://www.lasommita.it/
@@ -744,7 +742,6 @@ node	5308738862	http://firstgallipoli.it/
 node	5311160891	http://www.simplymarket.it
 node	5311672383	https://www.marinellifotografie.it/
 node	5311931512	www.tavernadelsalumiere.it
-node	5312434423	http://www.camperparktrani.it
 node	5315024254	https://shop.cioccolatomaglio.it/
 node	5315081989	http://www.osterialevolte.it
 node	5317006222	http://www.oasypark.com
@@ -1422,7 +1419,6 @@ node	9045320359	www.docartis.com/OSTUNI%20beni%20culturali/architettura/va13.pdf
 node	9063080812	https://www.murgiagardenricevimenti.it
 node	9076661764	https://www.sanita.puglia.it/ricerca_det/-/journal_content/56/36057/otorinolaringoiatria
 node	9076700983	https://m.facebook.com/profile.php?id=143665085694353
-node	9076922577	http://www.ciclidecarlo.it/
 node	9085522202	https://www.facebook.com/alcantuccio2
 node	9105945693	http://www.masseriamartuccio.it
 node	9117758237	https://synapse-informatica.business.site/
@@ -1946,6 +1942,15 @@ node	11018502966	https://www.coopalleanza3-0.it/
 node	11018502967	http://www.sartorieplanet.it/
 node	11029886214	https://flowerburger.it
 node	11035525550	https://villavergine.it/
+node	11041836208	https://www.jw.org
+node	11044043010	https://facebook.com/YuzuBari
+node	11045438255	https://www.lamitria.it/
+node	11046874612	https://www.hotelpalazzodelcorso.it/
+node	11046874613	https://www.hotelpalazzodelcorso.it/
+node	11048356306	https://www.gabrielino.it/
+node	11048385087	https://www.ebikerebel.com/
+node	11048450841	https://www.ciclispano.com/
+node	11048468220	https://www.buccinobici.it
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30791611	http://www.fierafoggia.it/
@@ -3007,6 +3012,7 @@ way	485333231	http://www.iissdemarcovalzani.gov.it
 way	485333237	http://itncarnarobrindisi.it
 way	485333243	http://www.gruppopalaia.it
 way	486077065	https://mistersorriso.wixsite.com/mistersorriso
+way	486583325	https://cartapulia.it/dettaglio?id=132500
 way	487127231	http://www.comune.matino.le.it
 way	487458346	http://www.hotelcotedest.it
 way	489033721	http://www.hotelvictoriagallipoli.it
@@ -3443,6 +3449,8 @@ way	1185637216	https://www.pianetaostuni.it/index.php/lame/fiume-morelli
 way	1185637217	https://www.pianetaostuni.it/index.php/lame/fiume-morelli
 way	1185637218	https://www.pianetaostuni.it/index.php/lame/fiume-morelli
 way	1188173319	https://www.casaisabella.it/
+way	1188724861	https://centro-sportivo-enzo-tagliente.business.site/
+way	1188871793	https://cartapulia.it/dettaglio?id=132500
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -3450,7 +3458,7 @@ relation	2204418	https://www.fseonline.it/
 relation	2341136	https://www.viefrancigenedelsud.it/
 relation	2405262	https://www.viefrancigenedelsud.it/
 relation	3178831	http://www.mulinodacqua.it
-relation	3349251	http://www.parcogargano.gov.it
+relation	3349251	https://www.parcogargano.it/
 relation	3985572	http://www.apuliafilmcommission.it/cineporti/cineporto-di-lecce
 relation	3985645	http://www.provincia.le.it/convitto
 relation	3987172	http://www.castellocarlov.it/
