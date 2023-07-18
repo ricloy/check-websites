@@ -39,7 +39,6 @@ node	286295842	www.pasticceriacortese.com
 node	286406494	https://www.maracaibohotel.it
 node	286406506	https://www.hotelgallia.com
 node	286406507	http://www.harveysuites.com
-node	286612730	http://www.campingcologna.com
 node	289043903	https://www.gardaland.it
 node	289485917	https://www.conad.it/ricerca-negozi/conad-city-via-barone-franchetti-1-32043--cortina-dampezzo--010378
 node	298468331	http://www.esu.pd.it
@@ -257,6 +256,7 @@ node	890791797	http://www.albignasego.gov.it
 node	890791813	http://www.albignasego.gov.it
 node	892738625	http://www.salesianialbare.it
 node	894708637	https://www.hotelsaturnia.it/
+node	895451906	https://www.camorel.it
 node	895464766	https://www.madrigale.it/
 node	895801921	https://museovetro.visitmuve.it/
 node	895805118	http://www.gallerieaccademia.it/en
@@ -1591,7 +1591,6 @@ node	3486070186	http://architetto.auronzocadore.com
 node	3486073792	http://studio-architetto-geometra-cortina-belluno.auronzocadore.com/
 node	3486077355	http://perizie.tecnico.legali.auronzocadore.com/index.htm
 node	3492866074	www.ristorantedaflavioefabrizio.it
-node	3493049557	https://www.hotel-bellevue.it/
 node	3494635707	http://www.majer.it/
 node	3494635708	http://www.majer.it/
 node	3499967815	http://www.hotelsanzeno.com/
@@ -1713,7 +1712,7 @@ node	3705019948	https://www.abbigliamentovintageverona.it/
 node	3706026753	http://www.trecamini.it/
 node	3708625549	http://www.electronic-service.it/
 node	3711826678	https://www.montegrappa.org/mausolei/francese_pederobba.php
-node	3711866430	https://sites.google.com/site/lipupedemontana/la-garzaia
+node	3711866430	http://www.lipu.it/oasi-di-pederobba-treviso
 node	3711876585	https://www.fitwellsrl.it/it/home
 node	3711883802	https://www.scarpa.net/
 node	3714232271	ristoranteallastanga.it
@@ -6000,6 +5999,13 @@ node	11014611237	https://www.facebook.com/centroequestrelarosa
 node	11029453905	http://www.energym-club.it/
 node	11033346820	https://www.ponteservizi.it
 node	11035063605	https://www.iltimonepizzeria.it/
+node	11040392684	https://www.adecco.it/trova-agenzie/venezia-venezia-adit_0564/
+node	11044278902	http://www.ilcampoindiano.it/
+node	11044603434	https://www.agenziaimmobiliareanna.it/
+node	11044609592	https://lamo.eatbu.com
+node	11044638539	https://dormirecaldi.it
+node	11047767205	http://caffetteriasavelli.it
+node	11047854525	https://www.iperdrink.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
 way	19912693	http://www.iispacinottive.it/
 way	22561329	https://www.agenziapo.it/idrovia/idrovia-po-brondolo
@@ -6554,6 +6560,7 @@ way	145771170	https://www.ilgirotondocooperativa.it/contatti/
 way	145774961	https://www.bottermoto.it
 way	145777682	https://www.magicoveneto.it/trevisan/Asolo/Maglio-Pagnano-Asolo.htm
 way	145808289	http://www.iiseinaudiscarpa.gov.it/
+way	145851450	https://www.shopdacanal.com
 way	145852798	http://rifugiocolvisentin.net
 way	145855695	http://www.museonicolis.com/
 way	145857343	https://cordioli.biz/
@@ -6931,8 +6938,8 @@ way	185701516	http://www.hotelkaribe.it
 way	185702392	https://www.poste.it/
 way	185702476	https://www.hotelbianchibibione.com
 way	185702620	http://www.residenceluxor.com/
+way	185702773	https://www.hotel-bellevue.it/
 way	185703452	https://www.hotelbibionepalace.it
-way	185703684	https://m.facebook.com/chioscolillybar/
 way	185703767	https://www.palacehotelregina.it
 way	185703835	https://www.villadelmarhotel.it/
 way	185804134	www.campingalporto.com
@@ -8258,6 +8265,8 @@ way	1182921632	https://www.hoteltorinojesolo.it/
 way	1183509432	https://www.somslentiai.org/
 way	1184851415	https://www.istitutocomprensivolegnaro.edu.it/pagine/scuola-primaria-di-volparo
 way	1184890519	https://www.cedavecia.it/
+way	1190000448	http://www.colorificiopaulin.eu/
+way	1190289407	https://m.facebook.com/chioscolillybar/
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -8378,7 +8387,6 @@ relation	2757444	https://www.centrofondo-gallio.com/
 relation	2757445	https://www.centrofondo-gallio.com/
 relation	2759974	https://en.eurovelo.com/ev7/italy
 relation	2762080	http://www.caiasiago.it
-relation	2762081	http://www.caiasiago.it
 relation	2762093	http://www.caiasiago.it
 relation	2762134	http://www.caiasiago.it
 relation	2762146	http://www.caiasiago.it/850-longarafiara
@@ -8658,6 +8666,7 @@ relation	7062187	http://www.sat.tn.it/
 relation	7062235	http://www.sat.tn.it/
 relation	7062385	http://www.sat.tn.it/
 relation	7062595	http://www.sat.tn.it/
+relation	7064261	http://www.sat.tn.it/
 relation	7082948	http://www.sat.tn.it/
 relation	7128933	http://www.sat.tn.it/
 relation	7132914	http://www.sat.tn.it/
