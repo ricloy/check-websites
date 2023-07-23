@@ -603,7 +603,6 @@ node	2747352686	http://www.giardinodisicilia.net
 node	2756439053	www.bagliobellavista.it
 node	2758286492	https://www.maredomusmilazzo.it/
 node	2760150959	https://www.poste.it
-node	2770166817	giuliauto@virgilio.it
 node	2770166843	http://www.villahera.it/
 node	2774713239	https://www.poste.it
 node	2778819431	https://edicola-libreria-litaliano-di-lo-presti-eva-csnc.business.site/
@@ -1267,6 +1266,7 @@ node	4473283575	http://www.croomfleres.com
 node	4476242889	avioclubagrigento.it
 node	4477394494	http://frescomare.it
 node	4478932877	http://www.merendinogomme.it/
+node	4478932879	https://www.conad.it/ricerca-negozi/negozio.008966.html
 node	4482887808	https://www.ristorantepizzeriailvecchiomulino.com/
 node	4483775643	https://www.facebook.com/profile.php?id=100011765493022&fref=ts
 node	4485233394	http://www.ogsnet.it
@@ -1621,6 +1621,7 @@ node	5615066090	https://www.dallaterrabistrot.com/
 node	5627948278	https://www.maisondarttaormina.com/
 node	5628574335	https://www.nonnange.it/
 node	5628757654	http://www.bedandbreakfastgraziella.com/
+node	5628831302	http://www.donpeppinu.it/
 node	5632816523	http://www.icugi.it/
 node	5634162188	https://www.facebook.com/opificiodelmovimentoedellearti
 node	5645278340	http://www.agriturismopaparanza.it/
@@ -2472,6 +2473,7 @@ node	8392523633	https://cannonesrl.it/
 node	8392523634	https://cannonesrl.it/
 node	8392523657	https://cannonesrl.it/
 node	8398485315	https://www.arcaplanet.it/
+node	8400964227	https://www.mcdonalds.it/ristorante/sicilia/catania/catania-alcala
 node	8400964294	https://www.farmaciavieni.com/
 node	8402577678	http://www.centrodiaccoglienzasantalucia.it/
 node	8405895174	http://www.siciliafotografica.it/gallery/index.php?/category/1353
@@ -3407,6 +3409,7 @@ node	11046872242	https://www.damper.it
 node	11046958288	https://www.arsistruzione.it
 node	11046961515	https://www.melodianoto.edu.it/
 node	11046961541	https://www.candiano-noto.it
+node	11054364817	https://www.facebook.com/UTrappitu/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	http://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -4006,6 +4009,7 @@ way	308243931	https://www.iissgagini.edu.it/
 way	308243940	https://www.istitutoinsolera.edu.it/
 way	308276159	http://www.istitutorizza.edu.it/itcrizza.net/
 way	308276164	https://www.liceoquintiliano.edu.it/
+way	308278985	http://www.autogrill.it/
 way	308936242	http://www.vittoriovenetolentini.edu.it/
 way	308936259	https://www.1comprcarlentinipirandello.edu.it/
 way	308936270	http://www.vittoriovenetolentini.edu.it/
@@ -4340,7 +4344,6 @@ way	448358140	https://www.kingsreef.it/
 way	448691784	https://museostorianaturalecomiso.it/
 way	450365534	https://www.openhubmed.it/
 way	450597888	www.oasifavara.it
-way	450844063	https://www.facebook.com/UTrappitu/
 way	450872110	http://www.iistedaldicastelbuono.gov.it/
 way	454082243	https://www.poste.it
 way	456013384	http://www.dodicesimosiracusa.edu.it/
@@ -5325,6 +5328,7 @@ relation	9432631	https://www.salinedipriolo.it/
 relation	9515440	https://www.caipedara.it/
 relation	9734698	http://www.regione.sicilia.it/beniculturali/museolipari
 relation	9795100	https://www.facebook.com/CAIsicani/?
+relation	9838172	https://www.caipedara.it/
 relation	9990533	https://www.modicabeachresort.com
 relation	10000215	http://funiviaetna.com
 relation	10362602	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=173
@@ -5413,7 +5417,7 @@ relation	12419061	https://www.caimessina.it/
 relation	12419107	https://www.caimessina.it/
 relation	12424281	https://www.caitaormina.it/
 relation	12430197	https://www.cairagusa.org/
-relation	12436769	https.//www.cairagusa.org/
+relation	12436769	https://www.cairagusa.org/
 relation	12449435	https://www.caitaormina.it/
 relation	12452088	https://www.caimessina.it/
 relation	12454985	https://www.caimessina.it/
@@ -5481,7 +5485,7 @@ relation	12696220	https://www.caimessina.it/
 relation	12698536	https://www.caimessina.it/
 relation	12698617	https://www.caimessina.it/
 relation	12698641	https://www.caimessina.it/
-relation	12698643	9246006
+relation	12698643	https://www.caimessina.it/
 relation	12698663	https://www.caimessina.it/
 relation	12728282	https://www.caimessina.it/
 relation	12728298	https://www.caimessina.it/
@@ -5709,3 +5713,35 @@ relation	15972050	https://www.prolocomonreale.it/ilcamminodeimille/il-cammino/
 relation	15973567	https://www.prolocomonreale.it/ilcamminodeimille/il-cammino/
 relation	15973779	https://www.prolocomonreale.it/ilcamminodeimille/il-cammino/
 relation	15985202	https://unikore.it/
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
+
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: line 1: parse error: ',', ';', or ')'  expected - ':' found. </p>
+
+</body>
+</html>
+@type	@id	url
+node	603885244	http://www.ulocale.com
+node	1962531883	http://www.museomotori.unipa.it
+node	2231727823	http://www.modicarte.it/home.php?language=IT&idnews=
+node	7106569916	https://www.trapanishuttle.com
+node	7106569918	https://www.sanvitolocaposhuttle.com
+node	7162048723	http://www.scuolasubpalermo.it
+node	9510275015	https://www.thecrag.com/climbing/italy/central-and-southern-italy/sicily/area/1221011889
+way	420556066	http://www.casaquasimodo.it/
+way	459158351	http://www.prodromo-vegetazione-italia.org/scheda/rumici-astragalion-siculi/636
+way	485717699	http://www.comune.noto.sr.it/la-cultura/palazzo-nicolaci/
+way	1184179286	https://web.archive.org/web/20230323233356/https://www.italianostra.org/news/taglio-dei-pluridecennali-cipressi-antistanti-lospedale-di-mistretta-e-il-contiguo-servizio-di-psichiatria-di-mistretta-istanza-al-comune/
+relation	8271170	https://sonatrachitalia.it/
+relation	10339853	https://www.etnasci.it/localita/etna-nord
+relation	10339854	https://www.etnasci.it/localita/nicolosi-etna-sud
+relation	11900894	http://www.costierabarocca.it/noto_000015.htm
+relation	15740414	https://web.archive.org/web/20220927054441/https://www.vetrinatv.it/mistretta-tentano-di-rubare-legna-in-area-boschiva-per-rivenderla-arrestati-dai-carabinieri/
