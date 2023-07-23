@@ -45,10 +45,10 @@ cur_IR="${IR[$1]}"
 curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2Cwebsite%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A${cur_IR}%29-%3E.searchArea%3B%0Anwr%5B%22website%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >./tmp/"$1"_elements_website.lst
 
 # contact:website tag
-curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2C%22contact:website%22%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A${cur_IR}%29-%3E.searchArea%3B%0Anwr%5B%22contact:website%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >>./tmp/"$1"_elements_website.lst
+curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2C%22contact:website%22%3Bfalse%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A${cur_IR}%29-%3E.searchArea%3B%0Anwr%5B%22contact:website%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >>./tmp/"$1"_elements_website.lst
 
 # url tag
-curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2Curl%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A${cur_IR}%29-%3E.searchArea%3B%0Anwr%5B%22url%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >>./tmp/"$1"_elements_website.lst
+curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%3A%3Aid%2Curl%3Bfalse%29%5D%5Btimeout%3A25%5D%3B%0Aarea%28id%3A${cur_IR}%29-%3E.searchArea%3B%0Anwr%5B%22url%22%5D%28area.searchArea%29%3B%0Aout%20meta%3B" >>./tmp/"$1"_elements_website.lst
 
 
 awk -F'\t' 'NR>1{if (NF>3) {website=$3; for (f=4;f<=NF;f++) website = website FS $f} else {website=$3}; n = split($NF,w,";"); for (i=1;i<=n;i++) print w[i]}' ./tmp/"$1"_elements_website.lst | sort | uniq | \
