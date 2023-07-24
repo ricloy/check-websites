@@ -52,7 +52,7 @@ curl "https://overpass-api.de/api/interpreter?data=%5Bout%3Acsv%28%3A%3Atype%2C%
 
 
 awk -F'\t' 'NR>1{if (NF>3) {website=$3; for (f=4;f<=NF;f++) website = website FS $f} else {website=$3}; n = split($NF,w,";"); for (i=1;i<=n;i++) print w[i]}' ./tmp/"$1"_elements_website.lst | sort | uniq | \
-	parallel 'website=$(echo {} | sed '\''s/^ *"\?\|"\? *$//g'\''); if [[ ! ( "$website" =~ ^https?:// ) ]]; then res=-1; HTTP_CODE=;location=; else read res HTTP_CODE location < <({ curl -m "'"$timeout"'" -sI "$website"; echo $?; } | awk '\''NR==1{http_code=$2} /^[Ll]ocation:/{loc=$2} END{print $1, http_code, loc}'\''); fi; echo -e "$website\t$res\t$HTTP_CODE\t$location"' > ./tmp/"$1"_websites_checked.lst
+	parallel 'website=$(echo {} | sed '\''s/^ *"\?\|"\? *$//g'\''); if [[ ! ( "$website" =~ ^https?:// ) ]]; then res=-1; HTTP_CODE=;location=; else read res HTTP_CODE location < <({ curl -m "'"$timeout"'" -sI "$website"; echo $?; } | awk '\''NR==1{http_code=$2} /^[Ll]ocation:/{loc=$2} END{print $1, http_code, loc}'\''); fi; echo "$website	$res	$HTTP_CODE	$location"' > ./tmp/"$1"_websites_checked.lst
 	
 
 while IFS=$'\t' read website res HTTP_CODE location; do	
