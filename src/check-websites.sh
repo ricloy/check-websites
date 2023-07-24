@@ -56,7 +56,7 @@ awk -F'\t' 'NR>1{if (NF>3) {website=$3; for (f=4;f<=NF;f++) website = website FS
 	
 
 while IFS=$'\t' read website res HTTP_CODE location; do	
-	osm_url_list=$(awk -F'\t' -v ref="$website" '{n = split($3,w,";"); for (i=1;i<=n;i++) { gsub(/^ *?"|"? *$/,"", w[i]); if  (w[i] == ref) { if (!out) out="https://osm.org/browse/" $1 "/" $2; else out= out " https://osm.org/browse/" $1 "/" $2 }; next; } } END{print out}' ./tmp/"$1"_elements_website.lst);
+	osm_url_list=$(awk -F'\t' -v ref="$website" '{n = split($3,w,";"); for (i=1;i<=n;i++) { gsub(/^ *?"|"? *$/,"", w[i]); if  (w[i] == ref) { if (!out) out="https://osm.org/browse/" $1 "/" $2; else out= out " https://osm.org/browse/" $1 "/" $2; next } } } END{print out}' ./tmp/"$1"_elements_website.lst);
 
 	case $res in
        -1)
