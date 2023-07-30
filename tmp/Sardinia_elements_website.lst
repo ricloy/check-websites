@@ -1595,6 +1595,7 @@ node	11010070503	https://www.cantinadisantadi.it/
 node	11019492641	https://www.cittadinidelpulito.com/
 node	11039491090	https://pescheria-lacquario.business.site/
 node	11049746606	https://le100pizzedev.it
+node	11073447954	https://www.villadelconte-wellness-spa.sardegna.it/
 way	24038576	www.santeodoroulm.it
 way	27799788	https://www.ismolas.it/
 way	28890396	http://www.apmolentargius.it/stagno_platamona.php
@@ -1854,6 +1855,7 @@ way	277189748	https://www.eurospin.it/
 way	277189997	https://www.faticoni.it/
 way	277194397	https://www.conad.it/conad/it/home/chi-siamo/insegne/insegna-eleclerc.html
 way	277195585	https://www.beniculturalicagliari.it/
+way	277320468	https://www.hotel-daniel.it/
 way	277321614	https://www.hilton.com/en/hotels/olbprqq-sulia-house-porto-rotondo/
 way	277321621	https://geovillage.it/
 way	277327492	http://hotelstella2000.it/
@@ -2167,7 +2169,6 @@ way	375876147	http://www.hotelsolanas.net/
 way	376990222	https://www.eurospin.it/
 way	379161943	https://www.q8.it/store-locator
 way	379462171	http://www.comuneaidomaggiore.it/archeologia/pagine/96ozzilo1g.htm
-way	395041139	https://www.hotel-daniel.it/
 way	397403057	https://www.piscinarei.it/
 way	398369649	https://www.lidl.it
 way	402276669	https://www.gem.wiki/Fiume_Santo_power_station
@@ -2909,7 +2910,6 @@ relation	15737206	http://www.camminando.eu/wordpress/?page_id=59
 relation	15737339	http://www.camminando.eu/wordpress/?page_id=59
 relation	15737408	http://www.camminando.eu/wordpress/?page_id=59
 relation	15737447	http://www.camminando.eu/wordpress/?page_id=59
-@type	@id	contact:website
 node	450571804	https://www.hoteldeipini.it
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
@@ -3724,7 +3724,6 @@ relation	7651240	http://www.sardegnatermale.it
 relation	7688852	http://www.golfhotelisarenas.com/
 relation	7706249	http://www.comune.ussaramanna.vs.it
 relation	7796877	http://www.comune.sanluri.vs.it
-@type	@id	url
 node	72991040	http://web.tiscali.it/Senorbi2000/
 node	72991301	http://www.fluminimaggiore-bilingue.it/
 node	72992193	http://www.orroliproloco.com/
