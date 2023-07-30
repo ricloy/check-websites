@@ -82,6 +82,7 @@ node	712778986	https://anburger.it/
 node	718310396	https://www.hotel-internazionale.com/
 node	718310417	http://www.morenocedroni.it/clandestino/il-locale/
 node	735120823	http://www.comune.tolentino.mc.it
+node	762937578	https://stores.miriade.com/en/italy/ancona/ancona
 node	762937579	https://www.fielmann.it/it/filiali/ancona/60121-corso-garibaldi-51/
 node	762937598	https://www.pizzeriapassetto.com
 node	762937601	https://farmacie.drmax.it/it/le-nostre-farmacie/ancona
@@ -364,7 +365,6 @@ node	3050220830	https://www.ginestrafurlo.it/
 node	3051172756	https://www.e-coop.it/web/guest/punti-vendita-dettaglio?id=54
 node	3059495421	http://www.opticenter.eu
 node	3059588504	https://www.fratticioli.com
-node	3065524398	http://www.hotelclaudiani.it/ita/
 node	3066731123	http://www.casinafoglietti.it
 node	3074598577	https://www.enologicamarchigiana.it/
 node	3074915915	http://www.osimoturismo.it
@@ -539,7 +539,9 @@ node	4321686228	http://www.prolocovisso.it/
 node	4338524391	https://www.tribsorv.ancona.giustizia.it/
 node	4338973860	https://www.ciavattinigarden.it/floreale-del-passetto/
 node	4338987960	http://www.bocasalina.com/
+node	4340538433	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Ancona-Mazzini/1117/
 node	4340538434	https://www.momentidite.it/
+node	4340538437	https://www.clickcafeshop.it/module/storelocator/storedetails?id=3
 node	4340538439	https://www.enel.it/punto-enel/
 node	4340538441	https://www.scuolayogashivapuri.com/copia-di-ajni-ristorante-vegetarian
 node	4340538442	https://www.vinoalvinobistrot.it/
@@ -1174,6 +1176,8 @@ node	11029983205	https://www.aura-relais.com/
 node	11049588061	https://circolosanrocchetto.wordpress.com/
 node	11051442810	https://www.knowaysystems.it
 node	11055253783	https://www.facebook.com/nuovopizzasnoopy
+node	11063753312	https://www.bcacasa.it
+node	11064482357	adagiolocalespeciale.com
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23678233	https://www.conad.it/ricerca-negozi/conad-superstore-via-guglielmo-marconi-61-60015--falconara-marittima--009860
@@ -1654,6 +1658,7 @@ way	1180066892	https://www.cuscamerino.it/
 way	1182249119	https://www.collinadellefate.com/
 way	1190044277	http://www.chiesasanrocchetto.it/
 way	1190654222	https://www.pesaroavventura.it/
+way	1191256141	https://www.coal.it/archives/punti-vendita/villa-fastiggi-alimentari-srl
 relation	1085613	http://www.sferisterio.it
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	http://www.riservasentina.it/
