@@ -1072,7 +1072,6 @@ node	6971016308	http://www.fotocopiandocdn.it/
 node	6971016310	https://kappa.com
 node	6982267071	https://www.ilpinodoro-torredelgreco.it
 node	6982408051	https://www.legami.com
-node	6982408053	http://www.tim.it/
 node	6982408054	https://www.sscnapoli.it/store/
 node	6982408056	https://www.autogrill.com/
 node	6982408062	https://www.italotreno.it/it/il-treno/lounge-italo-club
@@ -1198,6 +1197,7 @@ node	7772456618	http://www.hotelalquerceto.com/
 node	7787602307	https://www.lacarina.it/
 node	7794153173	http://www.gmacilento.it/
 node	7796061599	https://www.hotelcalanca.com
+node	7797029175	http://www.diegovitagliano.it/
 node	7798891438	https://www.bellavistaresidence.it/
 node	7817443652	http://www.caseificioilka.it/
 node	7819986984	https://www.caseificiochirico.it
@@ -2059,6 +2059,16 @@ node	11047394000	https://www.casaaragonese.it
 node	11048452337	https://www.mardicobalto.it
 node	11059042639	http://www.canaleotto.it/
 node	11062659549	https://ristorantecavadellisola.wordpress.com/
+node	11066535313	https://caffesansone.com/
+node	11066698714	https://www.instagram.com/grandmabigburgers/
+node	11067635629	http://estintorionline.it
+node	11069364718	http://www.shuki.it
+node	11074773111	https://www.smeraglia.clinic/
+node	11074773112	https://www.sanident.com/
+node	11074773122	https://www.puglieseottica.it/
+node	11074967609	http://www.babettegroup.it/
+node	11076795929	https://www.pc-tecnology.it/
+node	11077374504	https://www.stradeanas.it/it/struttura-territoriale-campania
 way	22652287	http://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2163,6 +2173,7 @@ way	185591406	http://www.villaesther.com/
 way	185595428	http://www.malzoni.it/
 way	186496036	http://techmania.biz
 way	187409744	https://www.centrograndesud.it
+way	188073168	http://www.centrocommercialeisanniti.com
 way	188278613	http://www.museincampania.it/spip.php?page=musei_dettaglio&id_museo=110
 way	192699311	http://www.pompeiisites.org/Sezione.jsp?titolo=Memorial+Arches&idSezione=2306&lookfor=forum
 way	193043746	http://www.comprensivomilani.it/
@@ -2497,7 +2508,6 @@ way	423182314	www.fieredivallo.it
 way	423466520	www.hotelvillacimbrone.com
 way	424488454	www.alberghierocastelnuovocilento.gov.it
 way	424501510	https://www.ficosa.com/
-way	425083428	http://estintorionline.it
 way	425342548	http://www.clinicamediterranea.it/
 way	428294185	https://www.pastagarofalo.it/it_it/
 way	428784712	https://www.lamedusahotel.com/
@@ -2666,7 +2676,7 @@ way	671938763	https://www.popburger.it
 way	672578029	http://www.edilker.it/
 way	672748808	https://www.icmarconi-torricelli.edu.it/
 way	673281304	www.ristorantelarambla.com
-way	682276495	http://www.comune.pianodisorrento.na.it/it/page/chiesa-e-congrega-della-ss
+way	682276495	https://www.comune.pianodisorrento.na.it/it/page/chiesa-e-congrega-della-ss
 way	694032164	http://www.metropark.it/content/metropark/it/parcheggi/parcheggi-per-regione/campania/parcheggio-di-frattamaggiore.html
 way	694981338	https://www1.agenziaentrate.gov.it/indirizzi/agenzia/uffici_locali/lista.htm?m=2&pr=AV
 way	701341049	https://www.hotelaragona.it/
