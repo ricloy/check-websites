@@ -283,7 +283,6 @@ node	8262669810	https://www.agriturismovota.it
 node	8364588112	https://www.crai-supermercati.it/punto-vendita/5461-crai-sibari/
 node	8446564584	https://www.abacatanzaro.it
 node	8509404591	https://www.facebook.com/MAISONdeBEAUTE.FC/?ref=page_internal
-node	8575497795	http://www.tatosonline.com
 node	8578353412	http://www.e-coop.it/punti-vendita-dettaglio?id=5641
 node	8578353673	https://www.lidl.it/
 node	8652130280	http://www.aviscittanova.it/
@@ -616,6 +615,7 @@ way	473609923	http://stationfinder.eni.com
 way	473808515	https://www.coopmaster.it
 way	473808536	https://www.fordvumbacagroup.it/
 way	474047542	http://www.astrosavelli.it
+way	474233395	https://www.despar.it
 way	475276197	https://stationfinder.eni.com/iveportal/stations/stationfinder.do?locale=it_IT&m=3&id=IT18559
 way	475276213	https://www.q8easy.it/
 way	486770321	https://www.parcodeiprincipiscalea.it/
@@ -674,7 +674,6 @@ way	824208995	https://www.palazzopolicastrisuites.it/
 way	834217990	https://www.popiliaresort.it/
 way	850413604	https://www.museocodexrossano.it/
 way	859313247	http://campingthurium.com
-way	868074757	www.caicatanzaro.it
 way	875838296	https://www.carabinieri.it/
 way	881756132	https://portalidicalabria.altervista.org/palazzo-cosentino-romiti-a-isca-sullo-ionio-cz/
 way	884468010	https://temesaresort.it/
@@ -682,6 +681,7 @@ way	897069352	https://hotelnapoleone.it/
 way	900405116	http://www.riservetarsiacrati.it/
 way	906588675	https://www.facebook.com/agristore.iazzolino/
 way	906689602	https://gias-srl.com/
+way	941100792	https://www.AziendaAgricolaRende.it/
 way	941100794	https://www.facebook.com/Agriturismo-Rende-110722120766760/
 way	972481631	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150987&pagename=57
 way	972481668	https://opolivolio.com
@@ -725,10 +725,24 @@ way	1178313400	https://www.icsofiaalessio-contestabile.edu.it/
 way	1178313401	https://www.icsofiaalessio-contestabile.edu.it/
 way	1183971770	http://www.riservetarsiacrati.it
 way	1184490547	https://www.facebook.com/OsteriaSulLagoTarsia
-way	1184512147	https://www.aziendaagricolarende.it/
+way	1184512147	https://www.AziendaAgricolaRende.it/
+way	1184789963	https://www.AziendaAgricolaRende.it/
+way	1184789964	https://www.AziendaAgricolaRende.it/
+way	1188746743	https://www.AziendaAgricolaRende.it/
+way	1188746744	https://www.AziendaAgricolaRende.it/
+way	1188746745	https://www.AziendaAgricolaRende.it/
+way	1188750596	https://www.AziendaAgricolaRende.it/
+way	1188750597	https://www.AziendaAgricolaRende.it/
+way	1188751227	https://www.AziendaAgricolaRende.it/
+way	1188751228	https://www.AziendaAgricolaRende.it/
+way	1188751229	https://www.AziendaAgricolaRende.it/
+way	1188751230	https://www.AziendaAgricolaRende.it/
 way	1189299847	https://www.vmhotel-napeto.it/
 way	1189964757	https://laduchessaricevimenti.it/
 way	1190391763	https://www.parrocchiasangaetanocatanoso.it
+way	1192124840	https://www.AziendaAgricolaRende.it/
+way	1192124841	https://www.AziendaAgricolaRende.it/
+way	1192124842	https://www.AziendaAgricolaRende.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	5437445	http://www.certosini.info/
 relation	5951634	https://www.grandhotelparadiso.it/
@@ -929,6 +943,7 @@ relation	16029818	https://sentierodellinglese.wordpress.com/
 relation	16029827	https://sentierodellinglese.wordpress.com/
 relation	16029878	https://sentierodellinglese.wordpress.com/
 relation	16029942	https://sentierodellinglese.wordpress.com/
+relation	16136210	caiverbicaro.it
 node	1794725248	https://catanzarolido.ubiklibri.it
 node	1811214931	http://www.computerdiscount.it
 node	2471827092	http://www.costabluresidence.it
