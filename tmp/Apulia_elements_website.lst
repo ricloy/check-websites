@@ -987,7 +987,7 @@ node	6533838098	https://www.hotelroyalportocesareo.it/
 node	6545776930	https://www.agriturismocalamate.it/
 node	6546000531	https://blancgallipoli.com/
 node	6552983787	http://www.lidobambu.it
-node	6553822398	www.bagnomarinoarchi.it
+node	6553822398	http://www.bagnomarinoarchi.it
 node	6561456268	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=177585&pagename=57
 node	6562994435	http://www.castellocarlov.it/museo-della-cartapesta/
 node	6564488785	http://www.lupodimarebarletta.it/
@@ -1899,6 +1899,8 @@ node	10733049216	https://farmaciadonghia.com/
 node	10735557775	http://www.grsstore.it
 node	10742201838	www.terraeccellente.eatbu.com
 node	10761103631	https://bouganvilleportocesareo.it
+node	10770097151	https://sunshineanature.wix.com/erboristeria
+node	10770097152	https://otticadedonno.it/
 node	10771369462	http://www.caigioiadelcolle.it
 node	10777323853	https://www.laboratoriobiomedicals.it/
 node	10790549313	www.chebanca.it
@@ -1959,6 +1961,17 @@ node	11056696976	https://www.pizzeriabraceriacivico7.it/
 node	11057214638	bar-clavi.business.site
 node	11057220237	www.enotecaargento.com
 node	11063347169	www.bbshanti.com
+node	11065801708	https://www.agricampingdegliulivi.it/servizi/
+node	11065801709	https://www.agricampingdegliulivi.it/servizi/
+node	11073609036	https://www.sella.it
+node	11073686526	https://edicolaricevitorialupiae.business.site/
+node	11073693961	https://www.hobbyfloralecce.it
+node	11073698430	https://facebook.com/FiordiFarinaLecce/
+node	11074650503	https://www.sitalytours.it
+node	11074861597	https://www.casapulia.com
+node	11074887578	https://www.doppiotaglioparucchieri.it/contatti
+node	11074900771	https://facebook.com/ilvialelecce
+node	11074929314	https://facebook.com/barcodelecce
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30791611	http://www.fierafoggia.it/
@@ -2068,6 +2081,7 @@ way	264520183	https://www.comune.brindisi.it
 way	264770035	http://www.pinacotecabari.it/
 way	264868538	http://www.spaziomurat.it/
 way	264904074	www.multicinemagalleria.it
+way	265437269	http://cartapulia.it/dettaglio?id=129434
 way	266711492	http://www.barialtogolfclub.com/
 way	271882738	https://masseriasurani.it/
 way	272916364	http://weareschool.fermiliceobrindisi.it
@@ -2871,7 +2885,6 @@ way	421893710	http://www.masseriaseppunisi.com/index.asp
 way	421893748	http://www.masseriatarturiello.it/it/home/
 way	421900207	https://www.lafontanina.it/
 way	421900340	https://www.fseonline.it/
-way	421923077	https://www.borgoducale.it/
 way	421923237	http://www.comprensivocentro1.edu.it/
 way	422022481	http://www.melograno.com
 way	422289534	https://incantalupi.it/
@@ -3459,6 +3472,10 @@ way	1185637218	https://www.pianetaostuni.it/index.php/lame/fiume-morelli
 way	1188173319	https://www.casaisabella.it/
 way	1188724861	https://centro-sportivo-enzo-tagliente.business.site/
 way	1188871793	https://cartapulia.it/dettaglio?id=132500
+way	1191879044	https://www.borgoducale.it/
+way	1191893479	https://www.residenceelena.it/
+way	1192823985	https://www.residencetramonti.com/
+way	1192823986	https://www.portoselvaggioresort.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
