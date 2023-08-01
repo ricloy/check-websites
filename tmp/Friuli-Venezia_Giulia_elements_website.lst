@@ -188,6 +188,7 @@ node	1248791871	https://www.ristorantelaprimula.it/ristorante
 node	1248791874	https://www.ristorantelaprimula.it/osteria
 node	1252594864	https://lignanosabbiadoro.it/it/strutture/455-ristorante-pizzeria-al-bagnino-lignano/
 node	1255734462	https://www.pizzerialampione.it/
+node	1268713838	https://www.contrada.it/
 node	1278088713	https://www.mipot.com/
 node	1286376533	http://www.ackv.it/
 node	1295852481	https://www.skerlj.it/
@@ -816,6 +817,7 @@ node	3633929452	http://www.hotel-pepi.it/
 node	3633931414	http://www.autoscuolabizjak.it/
 node	3633932236	http://www.retecivica.trieste.it/triestecultura/biblioteche/progetto/biblschmidl.htm
 node	3633933377	http://www.bodyfactory.it/
+node	3633933384	https://www.albaneserte.com/
 node	3633933561	https://www.biblio.units.it/DN
 node	3633933656	http://www.zkb.it/
 node	3633933680	https://www.biblio.units.it/DW
@@ -1386,7 +1388,7 @@ node	5173798553	https://www.eurocaritalia.it/
 node	5185772134	http://www.viediromans.it
 node	5213969621	https://www.nutrizionistapaolacrusiz.com
 node	5223575595	http://gradisca.ottimax.it/
-node	5230080109	www.latteriacividale.it
+node	5230080109	https://www.latteriacividale.it/
 node	5230095958	http://www.latteriacividale.it
 node	5239410073	https://www.fabrisauto.com/
 node	5249066214	http://www.civicimuseiudine.it/it
@@ -1599,7 +1601,6 @@ node	6497991785	http://www.ilsorbetto.it/
 node	6504200890	https://www.confartigianatoudine.com/
 node	6504214209	https://www.confartigianatoudine.com/
 node	6504225141	https://www.confartigianatoudine.com/
-node	6523725894	https://www.confartigianatoudine.com/
 node	6524006894	https://www.confartigianatoudine.com/
 node	6524011006	https://www.confartigianatoudine.com/
 node	6524031731	https://www.confartigianatoudine.com/
@@ -1607,7 +1608,6 @@ node	6527821890	https://www.confartigianatoudine.com/
 node	6527939389	https://www.confartigianatoudine.com/
 node	6528015735	https://www.confartigianatoudine.com/
 node	6531490965	https://www.confartigianatoudine.com/
-node	6531520579	https://www.confartigianatoudine.com/
 node	6531567741	https://www.confartigianatoudine.com/
 node	6531590377	https://www.confartigianatoudine.com/
 node	6533173986	http://www.oweld.com
@@ -1616,11 +1616,9 @@ node	6534849671	https://www.extremesk8shop.com/
 node	6536569767	https://www.confartigianatoudine.com/
 node	6536584284	https://www.confartigianatoudine.com/
 node	6536584381	https://www.confartigianatoudine.com/
-node	6536612342	https://www.confartigianatoudine.com/
 node	6536661790	https://www.confartigianatoudine.com/
 node	6539105550	https://www.confartigianatoudine.com/
 node	6539120986	https://www.confartigianatoudine.com/
-node	6539125903	https://www.confartigianatoudine.com/
 node	6539186233	https://www.confartigianatoudine.com/
 node	6539203970	https://www.confartigianatoudine.com/
 node	6539210169	https://www.confartigianatoudine.com/
@@ -1712,7 +1710,7 @@ node	7357013194	http://www.molinodigiusto.it
 node	7359170903	http://catastogrotte.fvg.it/344
 node	7362664806	https://www.mielegiginardini.com/
 node	7362724121	https://www.teleducale.it/
-node	7362775248	http//www.ilroncal.it
+node	7362775248	https://www.ilroncal.it/
 node	7394614361	http://www.staranzano1.org
 node	7406444532	http://www.roncoalbina.it/
 node	7419700216	https://www.bongustaio.it
@@ -2200,7 +2198,6 @@ node	10703770463	www.airphoto.it
 node	10716670767	https://www.lavratagialla.com/
 node	10718515199	https://www.altiglio.it/
 node	10718515200	https://www.altiglio.it/
-node	10723826768	https://ilcentrostudi.com
 node	10724625457	www.pizzeriaaicesti.it
 node	10736851477	https://www.redmoonrecords.com
 node	10739863719	https://4pr.beer/
@@ -2236,6 +2233,11 @@ node	11049673468	https://dexive.it/
 node	11052791488	https://ilwla.it/
 node	11058084287	https://www.bec.energy
 node	11063033005	http://Locandarossaromans.it
+node	11072672079	https://trattoriaalfontanon.it/
+node	11073445990	https://www.synlab.it/
+node	11078306710	http://www.cueidibaret.it/
+node	11078430462	https://pizzeriamiramare.it/
+node	11078494760	https://www.parafarmaciaroiano.com/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	www.campingalbosco.it
@@ -2585,6 +2587,7 @@ way	36695246	http://www.pietasjulia.it/
 way	36695260	http://www.hotelposta.ts.it/
 way	36695702	http://www.mezzalunanet.it/
 way	36696539	https://www.bricocenter.it/
+way	36696781	http://www.svoc.org/
 way	36697352	https://www.facebook.com/pages/Surf%20Bar/1569568276512316/
 way	36698732	https://www.allanfora.it
 way	36699727	http://www.museoarcheologicoaquileia.beniculturali.it
@@ -2770,7 +2773,7 @@ way	193712966	https://www.dragonsclubsgn.it/
 way	196603084	http://www.plodn.info/casa_museo.php
 way	196603559	http://www.altemontagne.it/rifugi/Rifugio_Piani_Cristo.html
 way	196604790	www.hoffervacanze.com
-way	196605140	http://www.comune.sappada.bl.it
+way	196605140	http://www.comune.sappada.ud.it
 way	197173591	https://www.lidl.it/
 way	197764412	http://www3.comune.gorizia.it/turismo/it/parco-del-municipio
 way	198339911	https://ristorantealfiumestella.com
@@ -3001,7 +3004,6 @@ way	968247349	https://www.q8.it/
 way	969235606	https://www.elettra.eu
 way	972638753	http://www.campinggirasole.com
 way	973112618	https://conts.it/
-way	977815152	http://www.exlavatoio.it/
 way	978735128	https://officinawestcoastcustoms.it/
 way	980953912	https://www.marina-uno.com/
 way	983612132	https://www.sissa.it/
@@ -3087,6 +3089,7 @@ way	1189501231	www.lignanosabbiadoro.it
 way	1189502623	https://m.facebook.com/BocciofilaSGiovanniBosco/
 way	1189755367	http://www.fenicequercia.com/start.html
 way	1191913781	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/ferrata-anita-goitan/
+way	1192913791	http://www.exlavatoio.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4387,6 +4390,7 @@ relation	15790859	https://www.romeastrata.org/
 relation	15790898	https://www.romeastrata.org/
 relation	15797328	https://www.romeastrata.org/
 relation	15956980	https://camminodellepievi.it/
+relation	16149007	https://valpesarina.it/esplora/itinerari/
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
