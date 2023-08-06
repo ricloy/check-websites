@@ -151,6 +151,7 @@ node	1524395601	http://www.ferramentaisgro.it/
 node	1524395650	https://www.torturetattoostudio.it/
 node	1536916627	https://etnaportal.it/santalfio/chiesa_magazzeni/foto
 node	1537471776	https://www.poste.it
+node	1537888493	https://www.dolcicolosi.it
 node	1583140289	https://www.bricocenter.it/
 node	1583140296	https://www.euronics.it/
 node	1584508657	http://www.toysplanet.it
@@ -654,7 +655,6 @@ node	2870319370	https://www.poste.it
 node	2870343201	https://www.poste.it
 node	2870382830	https://www.poste.it
 node	2872731378	https://hotelvillabelvedere.it/
-node	2874299587	http://www.anticobaglio.it/
 node	2893740222	http://www.trattoriadoncamillo.com/
 node	2905385866	https://www.poste.it
 node	2912632763	https://www.fordmilauto.it/
@@ -2889,6 +2889,7 @@ node	9600020113	https://www.mangiafico1972.it/
 node	9600020114	https://www.mangiafico1972.it/
 node	9600020115	https://www.mangiafico1972.it/
 node	9603455417	https://kitsch-catania.webnode.it/
+node	9640992790	https://studiodentisticoisaia.com/
 node	9649625936	https://nana-aristova.com/
 node	9652950905	https://cannonesrl.it/
 node	9652950906	https://cannonesrl.it/
@@ -3417,6 +3418,9 @@ node	11067802621	www.monacodimezzo.com/
 node	11069740603	http://www.comune.piedimonte-etneo.ct.it/
 node	11071411480	https://ristorante-sire.business.site/
 node	11072466823	https://www.2cappuccini.it/
+node	11083805160	https://www.sanpieropattiturismo.it/percorso-mistico
+node	11085675150	https://www.fiasconaro.com/
+node	11085689865	http://www.bagliobonomobandb.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	http://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -4424,8 +4428,9 @@ way	485717699	http://www.palazzonicolaci.it/
 way	486570564	https://www.prolocogeracisiculo.it/chiesa-di-san-giuliano/
 way	487530927	http://parrocchiasscrocifissobelmonte.it/
 way	488362081	https://www.comprensivopetrarca.edu.it/
+way	489422899	https://icmascali.edu.it
+way	489889811	https://icmascali.edu.it
 way	490960044	https://www.icvergafiumefreddodisicilia.edu.it/
-way	490960172	https://www.comune.fiumefreddodisicilia.ct.gov.it/
 way	491460039	https://www.icmacherionecalatabiano.edu.it/
 way	491604251	https://www.icmacherionecalatabiano.edu.it/
 way	491959685	https://www.icmacherionecalatabiano.edu.it/
@@ -4450,6 +4455,7 @@ way	514768165	https://parcodellasalute.it/
 way	515604227	http://www.centroculturalemonachelli.it/
 way	515846090	https://www.poste.it
 way	515846092	http://www.secondoicgiarre.gov.it
+way	516134583	https://icmascali.edu.it
 way	517294997	https://www.hoteltysandros.it/
 way	520510341	http://www.iisenna.it
 way	521147279	calatabianoairfield.it
@@ -5230,6 +5236,12 @@ way	1193233809	https://www.icvergafiumefreddodisicilia.edu.it/
 way	1193233811	https://www.icvergafiumefreddodisicilia.edu.it/
 way	1193233819	https://www.icvergafiumefreddodisicilia.edu.it/
 way	1193233837	https://www.icvergafiumefreddodisicilia.edu.it/
+way	1193605483	https://icmascali.edu.it
+way	1193605496	https://icmascali.edu.it
+way	1193605519	https://icmascali.edu.it
+way	1193605520	https://icmascali.edu.it
+way	1194868818	https://www.3icgiarre.edu.it/
+way	1194868843	https://www.3icgiarre.edu.it/
 relation	271371	http://pirandellomazara.it
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -5735,6 +5747,8 @@ relation	15973779	https://www.prolocomonreale.it/ilcamminodeimille/il-cammino/
 relation	15985202	https://unikore.it/
 relation	16136156	https://www.santamarialavetere.com/
 relation	16140572	https://www.santamarialavetere.com/
+relation	16151887	https://www.caimessina.it/
+relation	16151896	https://www.caimessina.it/
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	548101816	http://www.medicalcentermazara.it
 node	951313964	http://web.tiscali.it/galleriadellafoto/
