@@ -299,7 +299,7 @@ node	1466778760	http://www.bellavista-torino.it/
 node	1466778761	http://www.hotelnizza.to.it/
 node	1467473599	http://www.tobike.it/
 node	1467593761	http://www.aldatravel.it/
-node	1467593776	http://www.hotelurbani.it
+node	1467593776	https://www.hotelurbani.it
 node	1467593780	http://www.lalocandadelsorriso.it
 node	1467593785	http://www.librerieclaudiana.it/index.php?main_page=page_5
 node	1467593790	https://tuttofabrodo.eu
@@ -357,6 +357,7 @@ node	1575896056	https://il-baretto-di-martin-romano.business.site/
 node	1580610550	https://caffecavour.wixsite.com/caraglio
 node	1589754039	https://it-it.facebook.com/Pizzeria-Papillon-Beaulard-255252384593464/
 node	1589768484	http://www.campinggranbosco.it/ristorante-e-bar
+node	1590396046	https://www.claviere.it/en/la-stazione/il-comune/ufficio-del-turismo/
 node	1590743970	https://www.foresteriatorre.org/
 node	1590744011	https://www.fondazionevaldese.org/content/museo-fondazione-valdese.php
 node	1593550726	https://www.facebook.com/VECCHIA-ROCKA-PUB-275504965795057/
@@ -1463,6 +1464,7 @@ node	3364505824	http://www.arredamentilineaeffe.it
 node	3364609003	http://www.baserunning.it/store/
 node	3364638869	https://www.facebook.com/farmaciamonari
 node	3365899221	http://www.lacasadellago.it
+node	3367914470	https://www.carrefour.it/volantino/supermercato-carrefour-express-vercelli-via-crispi-n14/
 node	3369883977	www.openlab3d.com
 node	3370158201	http://www.ristorantefrasi.it/
 node	3370850719	https://www.coworkingproject.com/coworking-network/torino-garibaldi/
@@ -2014,7 +2016,6 @@ node	4183593498	https://www.elenapignata.com/
 node	4187552298	http://agenzie.tecnorete.it/piemonte/torino/vinovo/vinovo-garino/chi-siamo.html
 node	4190895087	https://www.parcoroccaarona.com/
 node	4190905689	http://marconibeach.svariogroup.com/
-node	4193578949	fidiabags.it
 node	4195075297	https://www.acquimusei.it/la-piscina-romana-di-corso-bagni/
 node	4195150690	https://www.chocolate.lindt.com/
 node	4196906498	http://www.macelleriecrosetti.it/
@@ -2973,6 +2974,7 @@ node	5348870824	http://www.ciclipiemontesina.it/
 node	5351260159	http://www.erboristerialaginestra.it
 node	5356470563	www.tobike.it
 node	5356898844	https://www.autoscuola-aleramo.it/
+node	5358570791	https://www.bnbghirot.com/
 node	5360948922	https://www.idraulicogastorino.it
 node	5365419680	www.comune.strambinello.to.it/
 node	5365893630	https://icborgosangiuseppe.edu.it/
@@ -5663,6 +5665,7 @@ node	10770516395	https://www.betolameana.it/
 node	10779871490	www.caiivrea.it
 node	10784291696	https://www.meizoun.it
 node	10785216949	http://www.caipeveragno.it
+node	10788589036	https://www.nuvolari.biz/
 node	10793792459	https://www.instagram.com/gochos_it/
 node	10802670657	https://www.facebook.com/thebetterbeer/
 node	10803866884	http://www.ristorantedavittorio.it/
@@ -5755,7 +5758,7 @@ node	11061429527	https://www.habitoimmobiliare.it/agenzia/habito-immobiliare-pra
 node	11062857986	http://baldifrutta.it/
 node	11063046205	https://u2supermercato.unes.it/
 node	11065821379	https://www.d-piu.com/
-node	11066034081	https://facebook.com/vcartel.official
+node	11066034081	https://vendettacartel.com
 node	11067559962	https://www.agenziafabrizipraticheauto.it/
 node	11068521405	https://www.gruppocarsam.it/sedi/gruppo-carsam-chivasso/
 node	11069667111	https://www.sisport.life
@@ -5766,6 +5769,13 @@ node	11073126605	http://campingpedro.com
 node	11074064134	https://www.cantinafavaro.it/
 node	11075036471	https://thisiscombo.com/food/bar-and-restaurant/
 node	11077112205	https://www.comune.oulx.to.it/cultura-e-storia/strutture-culturali/
+node	11082678585	https://www.casabonta.com/
+node	11082878701	agriturismoilmilin.it
+node	11086042002	https://www.lospazioeiltempo.it/
+node	11086694794	www.e-workspa.it
+node	11091334980	https://www.facebook.com/al.bramito
+node	11093168931	https://www.castahotel.it/
+node	11096221942	https://www.fidiabags.it/
 way	22880457	http://www.liceogioberti.it/
 way	23028146	http://www.palavelatorino.it
 way	23079840	https://www.isola2000.com
@@ -6261,7 +6271,6 @@ way	195619802	http://www.golfverbania.it
 way	195819419	https://www.baravallemacchine.com
 way	196653197	https://www.olivari.it/
 way	196653215	https://sab.concessionaria.renault.it
-way	196834648	http://www.parrocchiasantamariadicastello.it/
 way	197404975	http://www.giulianoarreda.it/
 way	197404991	http://www.gufonero.it/
 way	197448159	https://www.mondimedievali.net/Castelli/Piemonte/torino/baratonia.htm
@@ -6933,10 +6942,10 @@ way	291508927	https://www.asp.asti.it/
 way	291641463	http://www.oasizegna.com/it/ospitalita/al-maneggio-oasi-zegna-ristorante-bielmonte-biella_39.html
 way	291657997	http://www.madonnadeipoveri.it/
 way	292796592	www.xeriline.it
+way	293301301	https://www.calettadelcanavese.com/
 way	293952707	http://www.consorziovgm.com/
 way	294137738	https://www.rvsoleodinamica.com/hpe/
 way	294137744	https://www.easytechtorino.com/
-way	294269241	http://www.croceverde.org/
 way	294503471	https://www.cantinadeicacciatori.it/
 way	294538174	http://www.scelectron.it/
 way	294654144	http://www.poliambulatoriovillairis.it/
@@ -7920,6 +7929,7 @@ way	625826444	https://www.sacrimonti.org/sacro-monte-di-oropa/punto-di-interesse
 way	627352903	https://www.quintocircoloasti.edu.it
 way	627390402	http://www.eqsg.com
 way	628065996	https://slowfoodtravel.biellese.net/it/resource/poi/frangipane-forno-controcorrente/
+way	629440609	http://www.agricamelot.it
 way	629641172	https://www.ilpoggioagrisport.it/
 way	630344434	https://www.csgsport.it
 way	630344482	http://www.grissitalia.it
@@ -8190,7 +8200,6 @@ way	782214888	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	783399328	https://www.casermapassalacqua.it/
 way	783963908	https://www.comune.scopa.vc.it/
 way	784201051	http://www.comune.scopello.vc.it/
-way	785087992	http://campdellaserra.altervista.org/home.html
 way	785320706	http://www.comune.mollia.vc.it/
 way	785901435	http://www.aslcn2.it/lospedale-alba-bra/il-nuovo-ospedale-alba-bra/
 way	786549613	http://www.golfclubclaviere.it
@@ -8564,6 +8573,9 @@ way	1190224550	https://www.podiciotto.it/
 way	1191381697	agripassione.it
 way	1192047733	https://www.andandoporelmundo.com/italia/torino/hotel-gardenia/
 way	1193255695	https://www.gradenigo.it/
+way	1194681278	http://www.croceverde.org/
+way	1195397553	http://www.parrocchiasantamariadicastello.it/
+way	1195397556	https://www.ostellodialessandria.it/
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -8599,7 +8611,6 @@ relation	2379755	http://www.comune.pinerolo.to.it/
 relation	2388863	http://www.tribunale.torino.giustizia.it/
 relation	2396511	http://www.unito.it/unitoWAR/page/istituzionale/speciali1/campus_luigi_einaudi1
 relation	2396528	https://www.museireali.beniculturali.it/palazzo-reale/
-relation	2522893	http://www.facebook.com/pages/Birreria-Country-Inn/105493009499102
 relation	2539009	http://www.archeo.piemonte.beniculturali.it/index.php/it/musei/aree-archeologiche/70-aree-arch-prov-di-torino/343-anfiteatro-di-ivrea
 relation	2575577	http://www.parcofluvialegessostura.it/vivere/a-piedi-e-in-bicicletta/i-percorsi-ciclonaturalistici-del-parco.html
 relation	2575580	http://www.parcofluvialegessostura.it/vivere/a-piedi-e-in-bicicletta/i-percorsi-ciclonaturalistici-del-parco.html
@@ -9872,8 +9883,9 @@ relation	15867541	https://www.viviceresole.it/it-it/scopri/itinerari/sentiero-de
 relation	15959864	https://www.viviceresole.it/it-it/scopri/itinerari/sentiero-delle-terre-rosse-colore-rosso-56007-1-c2e15ec0a1f096f0e972bed3d0ae76a0
 relation	16055873	http://vicolungo.thestyleoutlets.it/
 relation	16116055	https://www.viaaltavallemaggia.ch/it
-relation	16122565	https://www.fondazionecralessandria.it/
 relation	16124971	https://www.azalai.bio/eventi/pom-a-moj/
+relation	16165252	https://www.fondazionecralessandria.it/
+relation	16167638	http://www.parrocchiasantamariadicastello.it/
 node	63629039	http://www.comune.chiusadisanmichele.to.it
 node	63631321	http://www.cittadisusa.it/
 node	306555609	https://www.rinascente.it/it/store-torino-via-lagrange
@@ -10604,6 +10616,7 @@ way	750100427	https://www.facebook.com/ufficioturismomeina/
 way	753265037	http://www.ecomuseo.cossato.bi.it
 way	761704458	https://gardiman.it/
 way	766901551	http://www.museotorino.it/view/s/906c2bbbb429445c948e4e05a851b9b0
+way	785087992	http://campdellaserra.altervista.org/home.html
 way	815671121	https://buddies.it/it/scuola-buddies-primaria/
 way	857299082	https://www.mdspa.it/punti-vendita/Piemonte/NO-Novara/210-Gozzano/
 way	858864692	http://www.ddmazzinitorino.it/
