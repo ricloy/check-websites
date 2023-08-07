@@ -1010,6 +1010,7 @@ node	6531729296	https://www.vigilfuoco.it/sitiVVF/benevento/dislocazione.aspx?s=
 node	6534717697	https://www.tuttesant.com
 node	6553894203	https://www.illeonerosso.it/
 node	6574297119	https://www.centrocaprense.org/museo/
+node	6577083685	http://www.armatorecetara.it
 node	6587248904	https://www.farmaciediturno.org/farmacia.asp?idf=11273
 node	6627073886	https://www.facebook.com/studiovoto
 node	6650469421	https://www.carminemarfe.com/
@@ -1314,7 +1315,7 @@ node	8612204917	legatte.it
 node	8631738293	https://www.renaultdinardo.it/
 node	8635637633	https://giardinotakeaway.it
 node	8640371571	https://www.mazzarella.it
-node	8643277557	www.zotticommercial.it
+node	8643277557	http://www.zotticommercial.it/
 node	8669587372	http://www.spacelabshop.com/
 node	8680429759	https://www.avis.it
 node	8696465750	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Megastore-Marcianise/1352/
@@ -1479,6 +1480,7 @@ node	9131906464	https://chiaracaffe.it
 node	9132808690	http://www.massaggishabda.it/
 node	9134652998	https://www.logopediacasalnuovo.com/logopedia
 node	9135258936	https://www.mondesignlab.it/
+node	9141340371	https://lacrostadoro.it
 node	9141900391	https://www.tesla.com/findus/location/supercharger/mercatosanseverinosupercharger
 node	9143038482	https://puntivendita.dodeca.it/it/italia/salerno/nocera-superiore
 node	9146410083	http://www.bazarcerere.com/
@@ -2069,6 +2071,11 @@ node	11074773122	https://www.puglieseottica.it/
 node	11074967609	http://www.babettegroup.it/
 node	11076795929	https://www.pc-tecnology.it/
 node	11077374504	https://www.stradeanas.it/it/struttura-territoriale-campania
+node	11087093940	https://linktr.ee/gattobistrot
+node	11089336595	https://iborbonipizzeria.com/
+node	11093291988	https://www.facebook.com/noiosti/
+node	11094268678	https://www.laneviera.net
+node	11094398710	https://roccamonfinapalacehotel.com/
 way	22652287	http://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2718,6 +2725,7 @@ way	733968400	https://www.comune.quarto.na.it/it/
 way	734180718	https://www.palaveliero.it/
 way	734195842	http://www.todis.it
 way	734210221	http://www.ov.ingv.it/ov/museo.html
+way	734278575	https://www.sole365.it/
 way	734665612	http://www.chiesadelcarminegragnano.it/
 way	734891818	http://www.comunitacarmine.it/
 way	734892212	http://www.clinicastabia.it/
@@ -3002,6 +3010,7 @@ way	1080590322	https://it-it.facebook.com/pages/Asd-Sporting-Dog-La-Reggia-San-T
 way	1081023282	https://vesuviopark.vivaticket.it/
 way	1081220091	https://resortacquadivenere.it
 way	1081729701	https://www.salvemini.edu.it
+way	1083263859	https://animalhouseteleseterme.it/
 way	1085128480	https://www.isemidelladiscordia.it/
 way	1085385606	http://www.iccaposele.it
 way	1086177979	https://www.queenschips.eu/
@@ -3029,6 +3038,8 @@ way	1099619617	https://icsbarano.edu.it/
 way	1099619621	https://www.hotelinternazionaleischia.it/
 way	1099877724	https://www.eurospin.it/punti-vendita/vitulazio-539866/
 way	1099981520	https://www.ipsteleseischia.edu.it
+way	1101310099	https://hoteldeiboschi.net
+way	1101688170	https://www.supermercatipiccolo.it
 way	1101753181	http://cir.campania.beniculturali.it/museoarcheologiconazionale/percorso/nel-museo/P_RA24
 way	1101902609	https://www.1circolodidatticoischia.edu.it/
 way	1102549159	https://www.continentalmare.it/
@@ -3073,6 +3084,11 @@ way	1184025680	http://www.royalbowling.it
 way	1186171664	https://www.icolevanost.edu.it/
 way	1186171944	https://www.icolevanost.edu.it/
 way	1188603658	https://www.tenutatambaro.it/
+way	1193868855	www.bvsm.it
+way	1194031649	http://www.comune.pietrelcina.bn.it
+way	1194031657	https://www.cappuccinipietrelcina.it
+way	1194031658	https://www.cappuccinipietrelcina.it
+way	1194031659	https://www.cappuccinipietrelcina.it/museo/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	http://www.comune.pozzuoli.na.it/
 relation	40837	http://santandreaconza.altervista.org/
