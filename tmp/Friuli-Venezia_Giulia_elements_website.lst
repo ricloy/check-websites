@@ -49,7 +49,6 @@ node	324320973	http://www.driusmauro.it
 node	324726567	http://www.borgoconventi.it
 node	324736791	http://www.cantinaturus.it
 node	354645904	https://www.facebook.com/Covaceuszachteresa/
-node	385978134	https://www.bricofer.it/singoli-punti-vendita/trieste
 node	385986331	https://www.pokescuse.com/trieste/
 node	405487682	www.fotogeros.it
 node	413353380	https://www.mps.it/
@@ -67,7 +66,6 @@ node	426581674	http://www.zkb.it/
 node	429209732	http://www.bibc.it/
 node	443367812	https://www.locanda101.it/
 node	446273513	https://www.mps.it/
-node	446273518	http://www.facebook.com/pizzeriasharmelsheikhgorizia
 node	447563418	https://gorizia.ubiklibri.it/
 node	475565173	http://www.knulp.org
 node	480770874	http://www.senzaconfinitrieste.org/
@@ -664,7 +662,6 @@ node	3018615593	https://www.magnas.it/
 node	3032574548	http://www.itinerarigrandeguerra.it/Lapide-Sul-Ponte-Della-Delizia
 node	3042315142	http://www.netcraftstudio.it
 node	3042368547	https://www.credit-agricole.it/
-node	3048102959	www.pompierivolontari.it
 node	3052422033	https://www.soluzioniperscavezzacollo.com/
 node	3057538929	http://www.arrotinivalresia.it/museo.html
 node	3067667570	https://www.crai-supermercati.it/
@@ -790,7 +787,6 @@ node	3633893672	https://www.skdtabor.it/si/knjiznica
 node	3633894269	http://www.sanitariatriestina.it/
 node	3633895107	http://www.retecivica.trieste.it/triestecultura/new/bibliotecamattioni/default.asp
 node	3633898073	http://www.conservatorio.trieste.it/biblio.html
-node	3633899766	https://www.lidl.it/
 node	3633900398	http://disu.units.it/it/dipartimento/patrimonio-dipartimento/Archivio-degli-scrittori-e-della-cultura-regionale
 node	3633901595	https://www.molinomoras.it/
 node	3633902163	https://www.informazione-aziende.it/Azienda_RUPEL-MARKO
@@ -1175,6 +1171,7 @@ node	4025710089	http://www.protezionecivilecormons.altervista.org
 node	4029445380	http://www.bortoluzziwines.com/
 node	4047510715	www.sebico.it
 node	4047614660	http://dic-89.univ.trieste.it/bibliodip/biblio.htm
+node	4057928379	http://www.pompierivolontari.it/
 node	4069049389	http://www.novacoopts.it/
 node	4069049689	http://www.novacoopts.it/
 node	4089856465	http://www.farmaciasantamaria.it/
@@ -1510,7 +1507,6 @@ node	6143317580	https://www.banshi.it/
 node	6149774443	http://www.mareeterra.net/
 node	6169500087	https://www.dhomuscasa.it/
 node	6169500088	https://www.dhomuspet.it/
-node	6169525085	https://www.dhomuscasa.it/
 node	6198464972	www.caispilimbergo.com/
 node	6200835259	http://www.caicividale.it
 node	6200857301	https://www.caisag.ts.it/
@@ -2238,6 +2234,11 @@ node	11073445990	https://www.synlab.it/
 node	11078306710	http://www.cueidibaret.it/
 node	11078430462	https://pizzeriamiramare.it/
 node	11078494760	https://www.parafarmaciaroiano.com/
+node	11081777616	https://car-service-autofficina-autoriparazioni-carrozzeria.business.site/?utm_source=gmb&utm_medium=referral
+node	11087171251	https://www.kitelifefvg.it/
+node	11091995219	https://www.ristorantealtinello.com/
+node	11091995220	https://nuovo-piccolo-ranch-grill-house.business.site/
+node	11092040590	https://www.panificiocimpello.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	www.campingalbosco.it
@@ -2512,6 +2513,7 @@ way	36432346	https://www.conad.it/ricerca-negozi/negozio.009096.html
 way	36432404	http://www.nautimarket.com/web/
 way	36432464	http://www.cabolani.it
 way	36433385	https://www.modiano.it/
+way	36433392	https://www.bricofer.it/singoli-punti-vendita/trieste
 way	36433901	https://www.ilrossetti.it/
 way	36434309	https://questure.poliziadistato.it/
 way	36437264	http://www.narodnidom.eu/
@@ -3090,6 +3092,8 @@ way	1189502623	https://m.facebook.com/BocciofilaSGiovanniBosco/
 way	1189755367	http://www.fenicequercia.com/start.html
 way	1191913781	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/ferrata-anita-goitan/
 way	1192913791	http://www.exlavatoio.it/
+way	1195533965	https://www.lidl.it/
+way	1195533967	https://www.dhomuscasa.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4585,7 +4589,6 @@ node	9271991214	www.camicissima.com
 node	9271991215	www.lapiadineria.com
 node	9271991216	www.desigual.com
 node	9272018717	www.zuiki.it
-node	9666809600	https://www.stabilimentoborabora.com/
 node	9676381670	https://www.coopcasarsa.it/punti-vendita/ruda/
 node	9755091725	www.piquadro.com/it
 node	9755091727	www.push96.com
@@ -4738,6 +4741,7 @@ way	36688129	https://www.sangiustocaffe.com/
 way	36688134	http://www.betonfer.com/
 way	36689138	https://grado.it/it/cosa-fare/gastronomia/mercato-ittico/
 way	36690154	https://www.novatiemio.com/
+way	36693567	https://www.rivamondina.it
 way	36696079	http://www.allegrafattoriaincarso.it/
 way	36698675	https://m.facebook.com/OsPampasChurrascaria/
 way	36699369	http://www.ostelloaquileia.it/
@@ -4836,6 +4840,7 @@ relation	4602471	http://www.promotur.org/tarvisio/scialpinismo-in-notturna
 relation	4602473	http://www.promotur.org/tarvisio/infoneve
 relation	4651557	http://www.promotur.org/it/15497/Sci-alpinismo-in-notturna
 relation	5547432	http://www.58motorsporting.com/tolmezzo/it/
+relation	16158597	https://www.stabilimentoborabora.com/
 node	777152345	http://italia.indettaglio.it/ita/friuliveneziagiulia/udine_latisana_pertegada.html
 node	1428296095	http://www.protezionecivile.fvg.it/it/rete-idrometeorologica/pciv-corno-di-rosazzo
 node	1907489404	http://italia.indettaglio.it/ita/friuliveneziagiulia/udine_latisana_gorgo.html
