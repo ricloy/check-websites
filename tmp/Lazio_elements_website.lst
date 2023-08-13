@@ -324,6 +324,7 @@ node	1403618207	https://www.comune.tuscania.vt.it/
 node	1404380020	https://www.termo.com
 node	1404388771	https://www.termo.com
 node	1404450674	http://www.stravato.it
+node	1409371971	https://idroscalobracciano.it/
 node	1412049041	http://www.beausiterome.com/
 node	1413977904	https://pmi.katolikus.hu/
 node	1414163854	http://www.taxiostia.it/
@@ -1474,6 +1475,7 @@ node	3711120946	http://www.cantinatullio.it/
 node	3711132093	www.vininanardelli.com
 node	3711133384	http://www.laferriera.it/
 node	3715929164	https://farmaciasalvagni.com/
+node	3715929165	https://www.farmaciamorbella.it/
 node	3717043514	https://www.ilcircolodellequerce.com/
 node	3730409038	https://www.facebook.com/pages/GM-Grande-Magnetismo-/731203456897656
 node	3736630855	https://www.ristoranteortodiroma.it/
@@ -4417,6 +4419,7 @@ node	8984218919	https://doctorcar3214.it/officina/
 node	8986190518	https://www.identistiacquapendente.it/
 node	8986501355	https://www.vivaiopuntoverdecastelgandolfo.com/
 node	8988673735	https://www.ckacademy.it/
+node	8989206317	www.newgardenbar.it
 node	8992713297	https://www.comune.roma.it/web/it/municipio-v-uffici-e-contatti.page?contentId=UFF27721
 node	8996155833	https://opac.uniroma1.it/SebinaOpacRMS/library/RMS18
 node	8996198017	http://www.fondazionebasso.it
@@ -5911,7 +5914,6 @@ way	130807588	https://www.beniculturali.it/
 way	130807651	https://www.poggi1825.it
 way	131235448	https://www.grafica.beniculturali.it/
 way	131235519	https://www.hotel-dellenazioni-rome.com/
-way	131408691	http://www.icpoggialispizzichino.edu.it/
 way	131564482	http://www.vatican.va/various/basiliche/sm_maggiore/index_it.html
 way	131693178	hotelstar-roma.it
 way	132151937	http://www.comunedisermoneta.it
@@ -6817,7 +6819,7 @@ way	403045763	https://familarca.teamartist.com/
 way	403609876	http://www.comune.sutri.vt.it/
 way	404054767	https://www.comune.capranica.vt.it/
 way	404195369	http://www.millepiani.eu/
-way	404386095	https://www.albergoristorantelanoce.it/
+way	404386095	https://www.albergolanoce.it/
 way	404386096	https://www.casaleamasona.it/
 way	404693990	http://leganavaleostia.it/
 way	406623322	http://www.illescuso.it/
@@ -7154,6 +7156,7 @@ way	505279679	scuolacerveteri.it
 way	505942049	http://www.hotelcasarola.com/
 way	506450856	https://download.mase.gov.it/Natura2000/Trasmissione%20CE_dicembre2022/schede_mappe/Lazio/ZSC_mappe/IT6010024_A3-vert.jpg
 way	506459318	https://download.mase.gov.it/Natura2000/Trasmissione%20CE_dicembre2022/schede_mappe/Lazio/ZSC_mappe/IT6010022_A4-vert.jpg
+way	506734881	https://www.timecity.it/index.php?p=show_gaming_hall&value=59
 way	506804463	malibuladispoli.it
 way	508669168	https://www.anzioquarto.edu.it/index.php/plessi/plesso-villa-claudia
 way	508676249	http://www.suelflex.com/
@@ -7888,6 +7891,7 @@ way	1177320386	https://www.chaletdellagoromaeur.it/
 way	1178629265	https://www.camperlapineta.it/
 way	1179785879	https://diendimedia.com/contatti/
 way	1179935562	https://www.tecnopolo.it/tecnopolo-roma/tecnopolo-roma-tiburtino/?el=dove-siamo
+way	1180960538	http://www.comune.roccadicave.rm.it/planetario-di-rocca-di-cave/
 way	1182272315	https://sna.gov.it
 way	1182272318	https://officinapasolini.it/
 way	1182652217	http://www.lazioturismo.it/asp/scheda_archeo.asp?id=14
@@ -7906,6 +7910,9 @@ way	1190977619	https://www.liceocavour.gov.it
 way	1191370125	http://questure.poliziadistato.it
 way	1194699600	https://berardi29.brickers.it/
 way	1194701690	https://merchandising.uniroma1.it/it
+way	1196007912	https://www.ic-poggialispizzichino.edu.it/
+way	1196386352	https://www.santalessio.org/
+way	1197031949	https://www.trattoriavacunea.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -8504,7 +8511,7 @@ relation	13303370	https://www.simonettasalacone.edu.it/CMS/index.php?option=com_
 relation	13303442	http://www.icartemisiagentileschi.edu.it/scuola/pezzani
 relation	13303721	http://www.icartemisiagentileschi.edu.it/scuola/cecconi
 relation	13303738	http://www.scuolasanbenedetto.com/
-relation	13304136	https://www.simonettasalacone.edu.it/CMS/index.php?option=com_content&view=article&id=975:scuola-secondaria-di-primo-grado-francesco-baracca&catid=85&Itemid=338&lang=it
+relation	13304136	https://www.simonettasalacone.edu.it/pagine/scuola-secondaria-di-i-grado
 relation	13304178	https://www.simonettasalacone.edu.it/CMS/index.php?option=com_content&view=article&id=974:scuola-dell-infanzia-guattari&catid=85&Itemid=338&lang=it
 relation	13312942	https://www.liceovian.edu.it/
 relation	13312945	https://www.sabaziacalcio.com/
@@ -8640,6 +8647,22 @@ relation	16158396	https://www.parcoabruzzo.it/sentiero.php?id_iti=6117
 relation	16158419	https://www.parcoabruzzo.it/sentiero.php?id_iti=6118
 relation	16158451	https://www.parcoabruzzo.it/sentiero.php?id_iti=4214
 relation	16162198	https://www.walkingtuscia.com
+relation	16165325	https://www.parcoabruzzo.it/sentiero.php?id_iti=4215
+relation	16165345	https://www.parcoabruzzo.it/sentiero.php?id_iti=4988
+relation	16165372	https://www.parcoabruzzo.it/sentiero.php?id_iti=4246
+relation	16165429	https://www.parcoabruzzo.it/sentiero.php?id_iti=4244
+relation	16170558	https://www.parcoabruzzo.it/sentiero.php?id_iti=4247
+relation	16170574	https://www.parcoabruzzo.it/sentiero.php?id_iti=4248
+relation	16170827	https://www.parcoabruzzo.it/sentiero.php?id_iti=4285
+relation	16170837	https://www.parcoabruzzo.it/sentiero.php?id_iti=4287
+relation	16171089	https://www.parcoabruzzo.it/sentiero.php?id_iti=4249
+relation	16178230	https://www.parcoabruzzo.it/sentiero.php?id_iti=4250
+relation	16178356	https://www.parcoabruzzo.it/sentiero.php?id_iti=6115
+relation	16178451	https://www.parcoabruzzo.it/sentiero.php?id_iti=4252
+relation	16178476	https://www.parcoabruzzo.it/sentiero.php?id_iti=4251
+relation	16178841	https://www.parcoabruzzo.it/sentiero.php?id_iti=4253
+relation	16183966	https://www.parcoabruzzo.it/sentiero.php?id_iti=4286
+relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
 node	251888861	https://www.multisalagreenwichroma.com/
 node	306047550	http://www.intera-mente.it
 node	802459210	https://www.oasidigreccio.it/
@@ -8781,6 +8804,7 @@ node	10877839218	https://www.ristorante-sahara.com
 node	10883170600	https://www.parchilazio.it/sutri
 node	10939893667	https://www.roadtorome.org/
 node	11048087507	https://ziarestaurant.com/en/
+node	11100127900	https://silviatarsi.it
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
 way	61011575	https://bagnaccio.it/
 way	63113412	http://www.ristorantealbersagliere-rieti.eu/
