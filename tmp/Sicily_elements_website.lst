@@ -354,7 +354,7 @@ node	2099603652	http://www.comuneacisantantonio.gov.it/it-it/home
 node	2099921990	https://www.poste.it
 node	2104909543	http://www.accardipasticceria.com
 node	2112325589	https://www.villamirador.it/
-node	2113094508	http://www.tenutasanmichele.org/
+node	2113094508	http://www.tenutasanmichele.it
 node	2113551641	https://www.villadagala.it/
 node	2122679831	https://www.poste.it
 node	2124924884	http://www.blumodicamare.com
@@ -3421,6 +3421,8 @@ node	11072466823	https://www.2cappuccini.it/
 node	11083805160	https://www.sanpieropattiturismo.it/percorso-mistico
 node	11085675150	https://www.fiasconaro.com/
 node	11085689865	http://www.bagliobonomobandb.it/
+node	11096519909	https://www.aleccaeamecca.it/it/
+node	11104856609	www.museodelcarrettosiciliano.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	http://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -3568,6 +3570,7 @@ way	70064157	https://www.policlinicorodolicosanmarco.it/g-rodolico/
 way	71167304	http://www.parcolilibeo.it/
 way	71512381	https://comune.belmonte.pa.it/
 way	73107732	https://www.icfontanarossa.edu.it/
+way	73395899	https://www.costaponente.it/
 way	74837437	http://airgest.it/
 way	76560592	http://www.hotelmillepini.com
 way	78180024	https://www.poste.it
@@ -4244,7 +4247,6 @@ way	393265625	http://mistrettaspecchi.it
 way	393267126	http://scadutoserramenti.it
 way	393271988	http://dicristofalo.it
 way	393271992	http://spinnatoforni.com
-way	393289329	https://www.poste.it
 way	393349176	http://www.comune.leni.me.it
 way	393365932	http://www.comune.librizzi.me.it
 way	393383692	http://www.comune.malfa.me.it
@@ -4287,6 +4289,7 @@ way	403057124	http://tonerverde.it/
 way	403139586	http://www.iccruillas.it/
 way	403980903	https://www.comune.catania.it/il-comune/uffici/anagrafe/
 way	404097181	https://www.comune.comiso.rg.it/
+way	404538505	http://www.autogrill.it/
 way	404979503	https://www.poste.it
 way	405011526	http://www.hotelpalladiogiardini.com
 way	405444494	http://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=162922&pagename=57
@@ -4943,6 +4946,7 @@ way	1077704643	https://www.parcodisegesta.com/home.html
 way	1080653823	https://www.euronics.it/
 way	1080654978	https://www.euronics.it/
 way	1080654979	https://www.euronics.it/
+way	1082054759	http://156.54.143.226/edifici/scheda-edificio.asp?id=25
 way	1082782472	https://www.penny.it/
 way	1083706666	http://www.oliofarruggia.eu/
 way	1086048507	https://iclinguaglossacali.edu.it/
@@ -5242,6 +5246,16 @@ way	1193605519	https://icmascali.edu.it
 way	1193605520	https://icmascali.edu.it
 way	1194868818	https://www.3icgiarre.edu.it/
 way	1194868843	https://www.3icgiarre.edu.it/
+way	1195280247	https://www.icderobertozafferana.edu.it/
+way	1195388014	http://www.icsantavenerina.edu.it/
+way	1195388020	http://www.icsantavenerina.edu.it/
+way	1195536063	https://www.aleccaeamecca.it/it/
+way	1195925697	http://www.icsantavenerina.edu.it/
+way	1195925702	http://www.icsantavenerina.edu.it/
+way	1195925714	http://www.icsantavenerina.edu.it/
+way	1196138977	https://www.poste.it
+way	1197097068	https://hotelarmonianotomarinaespa.com/
+way	1197097070	https://www.calabernardoresort.it/
 relation	271371	http://pirandellomazara.it
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -5841,6 +5855,7 @@ node	10254036465	https://www.casatrapani.it
 node	10904591657	https://lacortedeimari.it/
 node	10947661138	"https://casasantoro.it/it/,https://airbnb.com/h/casasantoro"
 node	10968964286	http://www.osterialiparota.it
+node	11100116056	https://www.onoranzefunebrialiotta.it/
 way	34227431	http://liceomazara.edu.it/
 way	35225942	http://www.mizarslothouse.it/
 way	35264757	http://www.wwfpreola.it/
