@@ -239,6 +239,7 @@ node	2139355294	https://www.ovindolimagnola.it/
 node	2139394438	https://www.esploramonti.it/monte-godi---traversata.html
 node	2150916620	http://www.hotelalbapescara.com/
 node	2200708666	https://www.chietitoday.it/attualita/bocca-di-valle-fontana-riapertura-ok-asl.html
+node	2209163774	https://www.hoteliltiglio.it
 node	2237007504	https://www.plazapescara.it/
 node	2269284005	www.pedalapedala.it
 node	2269293785	https://www.posteitaliane.it/
@@ -1672,7 +1673,6 @@ node	8155644388	https://www.hellopizza.it/
 node	8164781762	https://www.ambeco.info/
 node	8164978240	https://www.fioristapescara.it/
 node	8171342522	https://www.mydespar.it/pdv/sef-food-srl-via-roma-412-silvi-marina-3838
-node	8179102411	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/NI006031
 node	8179723991	https://www.dorasarchese.it/
 node	8179765558	https://www.igiensystem.com
 node	8184820397	https://morrodoro.mercatopoli.it
@@ -1903,7 +1903,6 @@ node	8748930215	https://biojellydm3.wordpress.com/
 node	8748948626	https://www.spinogatti.com/
 node	8750690788	https://www.maxizoo.it/mondo-dei-servizi/negozi/nuove-aperture/pescara-adriatica/
 node	8753367079	https://www.posteprivatepescara.it/
-node	8753370196	https://mania-color-la-boutique-del-colore.business.site/
 node	8753434221	https://www.cpiapech.edu.it
 node	8754904441	https://www.clinika.biz/en/
 node	8755579676	http://www.preziosotendaggi.it/
@@ -2210,7 +2209,7 @@ node	10043225934	https://canapartis.it/impresa-canapa-cannabis-light/coltivazion
 node	10045991872	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10782
 node	10045991874	http://www.toccovini.com/
 node	10046632363	https://www.farmaciediturno.org/farmacia.asp?idf=10833
-node	10046865132	onoranzefunebridagostino.it
+node	10046865132	https://onoranzefunebridagostino.it
 node	10049143398	https://www.ivpc.com/gruppo/blitz-power/
 node	10057888966	https://www.hotelclaila.com/
 node	10063078449	https://www.mps.it/
@@ -2263,6 +2262,7 @@ node	10233328717	https://www.berloni.it/it/store-locator/
 node	10235338133	https://www.caiteramo.it/
 node	10235836543	https://ewiva.com
 node	10246926143	https://www.acquaesapone.it/puntivendita/pescara-via-chieti-46/
+node	10247029693	https://www.carrefour.it/spesa-online/
 node	10252961375	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10851
 node	10262010311	http://www.facciamofestachieti.com/
 node	10264661971	https://www.fondazioneoltreleparole.it
@@ -2701,11 +2701,17 @@ node	11070896459	https://shop.dececco.net/
 node	11071249364	https://montesilvano.mercatinousato.com/
 node	11078189798	https://www.carabinieri.it
 node	11081939078	https://linktr.ee/targetloungebar
+node	11082738563	https://www.neuroriab.com
 node	11083180769	http://www.eurograficasrl.it
 node	11083863317	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10600
 node	11084229462	https://www.abruzzo-resort.it/
 node	11091126615	http://www.pizzeriaassamanu.com/
 node	11091863205	http://www.pasticcerialullo.it/
+node	11097262639	https://www.laperegina.com/
+node	11099938863	https://www.ranieribb.it
+node	11101059903	https://casadangelo.it
+node	11109723781	https://www.calavera.it
+node	11109723789	https://www.roadhouse.it/it/news/inaugurazione-del-171-ristorante-roadhouse-pescara-montesilvano
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -2862,7 +2868,6 @@ way	194337597	http://www.comune.scurcolamarsicana.aq.it/
 way	204939522	http://abruzzo.welcomevillaggi.com/
 way	204940284	https://pistagialla.it/
 way	204998754	https://www.parcomajella.it/visita-il-parco/giardini-botanici-musei-e-aree-faunistiche/giardino-botanico-brescia/
-way	207875412	http://www.carabinieri.it/arma/ieri/storia/vista-da-2015/fascicolo-42/l-arma-nelle-missioni-di-pace/ermanno-fenoglietti
 way	211678129	http://www.villapini.it/
 way	217190325	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	217190667	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
@@ -3113,7 +3118,7 @@ way	666478551	http://www.comunesangiovannilipioni.it/
 way	666635864	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-angelo-di-palombaro/
 way	666635866	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/madonna-di-coccia/
 way	666635879	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-giovanni-della-majella/
-way	666635880	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-martino-in-valle/
+way	666635880	https://www.parcomajella.it/Monastero-di-S-Martino-in-Valle.htm
 way	666635882	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-martino-in-valle/
 way	666635884	https://www.auaa.it/articoli-escursionismo/340-cascata-del-macellaro-parco-nazionale-della-majella
 way	666635885	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-onofrio-di-serramonacesca/
@@ -3337,6 +3342,7 @@ way	932529516	https://www.ilpescara.it/politica/lavori-rotatoria-colli-via-monti
 way	933376088	https://goo.gl/maps/zcXpMrfAKuo7TvFK8
 way	934047610	https://www.chiesasanfrancescodassisi.it/
 way	934261035	https://www.mancinelli.biz/contacts.html
+way	934754308	https://abruzzoweb.it/rapino-inaugurato-il-parco-della-gioia-un-luogo-di-tutti/
 way	937772393	http://www.carabinieri.it/arma/ieri/storia/vista-da-2015/fascicolo-42/l-arma-nelle-missioni-di-pace/ermanno-fenoglietti
 way	937822801	http://www.ristorantelaneviera.it/
 way	937971926	https://aivialifranchising.it/
@@ -3363,6 +3369,7 @@ way	962198778	https://www.infomedianews.com/largo-e-monumento-della-tiburtina-de
 way	964210827	https://www.conventosantissimaannunziata.org
 way	965317941	https://www.coal.it
 way	965351086	https://latecnomeccanicasud.it/en/
+way	966206912	https://www.poste.it/
 way	966374301	https://www.ctpoint.it/en/home/
 way	966384090	https://www.grautoservices.co.uk
 way	966765024	https://www.altaii.com
@@ -3434,6 +3441,7 @@ way	1056590264	http://www.autocarrozzeriacaresa.it/contatti.htm
 way	1057245626	https://bahiabeach.business.site
 way	1057572406	http://www.halleyegov.it/c069010/zf/index.php/comunita-religiose/index-chiesa/dettaglio-chiesa/parrocchia/4/chiesa/1/back/parrocchia
 way	1058125793	http://www.pescherialacquario.it
+way	1059195588	https://onoranzefunebridagostino.it
 way	1059776402	https://terraaccogliente.maiellaverde.it/la-grande-frana-di-roccamontepiano/
 way	1059801447	https://www.bec.energy/?lang=en
 way	1059863686	https://www.dizioinoxa.net
@@ -3533,7 +3541,7 @@ way	1150983173	https://lazzaronibiscotti.it/en/lazzaroni-biscotti-en/
 way	1153887336	https://www.campingdonantonio.it/
 way	1162405110	https://www.icisolacolledara.edu.it
 way	1162497493	https://parrocchiamadonnadipompei.it/museo-della-arti-contadine-5723202508271424348/
-way	1162908971	shopmancini.com
+way	1162908971	https://shopmancini.com
 way	1163828399	https://www.agriturismovoccabella.com
 way	1163919759	http://www.isalumieri.it
 way	1164547467	http://www.croce-verde.it
@@ -3558,6 +3566,9 @@ way	1192516677	https://www.dececco.net/
 way	1193707278	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	1193707279	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	1193773235	http://www.rapino.net/c069071/po/mostra_news.php?id=411&area=H
+way	1196101847	https://www.hoteliltiglio.it
+way	1197324745	http://www.carabinieri.it/arma/ieri/storia/vista-da-2015/fascicolo-42/l-arma-nelle-missioni-di-pace/ermanno-fenoglietti
+way	1197432648	https://www.cai.it/sezione/ortona/giardino-botanico/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -3757,6 +3768,8 @@ relation	15397036	https://val-vibrata.klepierre.it/
 relation	15877168	https://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-8-tagliacozzo-massa-dalbe/
 relation	16034819	http://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-7-camporotondo-tagliacozzo/
 relation	16050312	http://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-7-camporotondo-tagliacozzo/
+relation	16183966	https://www.parcoabruzzo.it/sentiero.php?id_iti=4286
+relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
