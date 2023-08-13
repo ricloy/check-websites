@@ -218,6 +218,7 @@ node	2311464590	https://www.enel.it/punto-enel/
 node	2311464591	https://www.enel.it/punto-enel/
 node	2311464592	https://www.enel.it/punto-enel/
 node	2319771433	http://www.locandavecchiomaglio.it/
+node	2321703560	https://www.credem.it/
 node	2321717252	https://www.ugolinelli.com/
 node	2329559965	https://www.osterialecivette.it/
 node	2361431768	http://www.primauto.it
@@ -799,6 +800,7 @@ node	11005336655	https://lagrottadellospuntino.eatbu.com/?lang=it
 node	11017821199	https://orari.fsbusitalia.com/epdf/GB0308.pdf
 node	11023682173	https://www.laterrazzahotel.it/centro-benessere-spa/
 node	11091891284	http://www.ternignulug.org
+node	11105577644	https://www.bambingesuspoleto.com/
 way	23079751	http://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	36195165	http://www.inorvieto.it/it/scegli/gli_imperdibili/area_archeologica_porto_di_pagliano.html
@@ -836,6 +838,7 @@ way	119694588	https://www.inail.it/
 way	123659076	http://www.igeimpianti.it/
 way	125911212	http://www.rifugideisibillini.it
 way	126512161	http://www.aripg.it/
+way	126795815	https://www.rai.it/
 way	126838616	https://liceoalessi.org/
 way	126854523	http://www.adisupg.gov.it
 way	127212720	http://www.artehotelperugia.com/
@@ -852,6 +855,7 @@ way	138165289	https://www.diocesi.terni.it/san-giovanni-bosco-in-campomaggiore/
 way	144373509	http://www.lamborghinionline.it/pagine/golf-club
 way	148489166	http://www.gsgt.it/brico.html#RIFUGIO
 way	149647658	http://www.montimartaniseranosubasio.it
+way	153761485	https://campusdavinci.edu.it
 way	154180015	https://www.gubbioculturamultiservizi.it/servizi/parcheggiare-a-gubbio/
 way	158373094	http://www.emisupermercati.it/
 way	159706780	https://www.iodibetto.edu.it/
@@ -1507,7 +1511,6 @@ relation	9384524	https://meinfernbus.de/unser-angebot/linien/n997.html
 relation	9393246	https://www.autodromomagione.com/
 relation	9423938	https://meinfernbus.de/unser-angebot/linien/n530.html
 relation	9423939	https://meinfernbus.de/unser-angebot/linien/n530.html
-relation	9619472	http://www.bambingesu.org/spoleto.htm
 relation	9671163	http://www.villaparadisovillage.it
 relation	10143734	https://www.uslumbria1.it/pagine/direzione-medica-000
 relation	10143736	https://www.uslumbria2.it/pagine/ospedale-di-foligno-000
@@ -1574,6 +1577,8 @@ relation	14784905	https://www.camminodigermanico.it/
 relation	15367498	https://www.camminoprotomartiri.it/il-cammino-dei-protomartiri-francescani/tappa-3-cammino-dei-protomartiri-da-calvi-dell-umbria-a-narni
 relation	15520758	http://www.verallicortesi.it/pagina.php?id=53
 relation	15797364	https://www.facebook.com/numerozeroperugia/
+relation	16190112	www.villafada.com
+relation	16192209	http://www.agriturismo-sanrocco.com
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1887119542	https://www.fezemauro.com/
 node	2146579118	https://www.domuspacis.it/
