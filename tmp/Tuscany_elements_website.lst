@@ -26,6 +26,7 @@ node	292068338	https://www.ristorantelaclessidra.net/
 node	292068683	http://www.pizzeriailmontino.com/
 node	293391496	http://www.fattoriabucanuova.it
 node	304977443	https://hoteldonatellofirenze.com/
+node	306980122	https://scn.caiparma.it/schede/cippo-di-confine-foce-dei-3-confini/
 node	308836455	http://apuafarma.net
 node	312830832	www.bacchereto.it
 node	314351412	https://www.casanovadipescille.com/
@@ -296,6 +297,7 @@ node	1652892293	https://pisa.cttnord.it/
 node	1652892314	https://pisa.cttnord.it/
 node	1652892324	https://pisa.cttnord.it/
 node	1652892327	https://pisa.cttnord.it/
+node	1652892345	https://pisa.cttnord.it/
 node	1652892347	https://pisa.cttnord.it/
 node	1652892350	https://pisa.cttnord.it/
 node	1652892353	https://pisa.cttnord.it/
@@ -3371,7 +3373,6 @@ node	8875213917	https://www.terradarcoiris.com/
 node	8880972872	https://www.minimoda-online.it/
 node	8881561541	http://www.ilmerloverde.it
 node	8889091722	www.rentprocchio.it
-node	8894899313	https://www.ladoganaristoro.it/home
 node	8895070299	http://www.progettoubaldini.it/eventi/castelli-ubaldini/51/cavrenno.html
 node	8906112030	https://www.lpi.org/
 node	8910384012	https://www.talamoni-capouomo.com
@@ -3797,7 +3798,6 @@ node	10018921917	https://www.sanmartino29.it/
 node	10021280703	http://hotelvenetofirenze.com/
 node	10025855679	https://www.agrialbatour.com/i-nostri-agriturismi/agriturismo-bandinelli/
 node	10032946071	http://www.provincia.livorno.it
-node	10033626993	https://www.12ozcj.com
 node	10035090255	https://fratellicorso.it/
 node	10035715299	https://latavernadelloroco.it
 node	10036199330	http://www.ricciarellispa.it
@@ -3924,6 +3924,7 @@ node	10719520545	https://www.stowyourbags.com/it/shop/pisa/deposito-bagagli-pisa
 node	10721548845	https://www.dojomukeisiena.it/
 node	10721944833	https://stores.ovs.it/it/italia/toscana/firenze/ovs-figline-valdarno
 node	10721944835	https://www.coopfirenze.it/negozi-e-promo/negozi/figline-e-incisa-valdarno?id=624afd3910fb97069771493b
+node	10724329443	https://maribe.bio/
 node	10726205097	https://www.facebook.com/fuorimenuarezzo/
 node	10738305310	https://aureliaantica.it/medical-center/
 node	10739106115	https://www.infoelba.it/isola-d-elba/escursioni-guidate/motobarca-dollaro-ii-1357
@@ -4181,6 +4182,11 @@ node	11090551709	https://www.laviadelte.it/la-via-del-t%C3%A8-1
 node	11091009606	http://Montanini.eu
 node	11091317521	https://www.eremoditrebbana.it/
 node	11091745398	https://www.booking.com/Share-k0lZDz
+node	11096827046	https://www.e-xplora.it/
+node	11101658985	https://manalu.it/
+node	11105728405	http://yamatojicf.eatbu.com
+node	11109428369	http://www.ilpozzodisantandrea.it/
+node	11109428370	https://www.bb-santandrea-siena.it/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	http://www.leopolda.it/
@@ -4532,6 +4538,8 @@ way	186549747	https://it.wikipedia.org/wiki/Monastero_di_San_Salvatore_a_Soffena
 way	186549751	http://polomusealetoscana.beniculturali.it/index.php?it/175/castelfranco-piandisc-ar-abbazia-di-s-salvatore-a-soffena
 way	186610256	http://www.rinascitadoccia.com
 way	186733156	https://www.salov.com/
+way	186925635	https://villeepalazzilucchesi.it/web/scheda_struttura.php?id_struttura=96
+way	186925640	https://villeepalazzilucchesi.it/web/scheda_struttura.php?id_struttura=45
 way	187016404	http://www.ristorantefiore.it/
 way	188062996	http://www.agriturismobibbiani.it
 way	188069476	https://www.agriturismolecapanne.com/
@@ -4768,6 +4776,8 @@ way	290446490	https://molinobardazzi.wordpress.com/
 way	291119397	https://www.gianninodistribuzione.com/
 way	291359859	http://www.campoalloca.it
 way	291957859	https://www.bernistore.it/
+way	292413609	https://villeepalazzilucchesi.it/web/scheda_struttura.php?id_struttura=32
+way	292413610	https://villeepalazzilucchesi.it/web/scheda_struttura.php?id_struttura=40
 way	292483577	http://rivadeibutteri.it
 way	292771492	https://www.adler-resorts.com/de/adler-spa-resort-thermae/25-0.html
 way	292814027	http://www.affittacamerevillasilvia.com
@@ -5033,6 +5043,7 @@ way	442927747	https://www.polimoda.com/
 way	443375533	http://www.vololiberodiecimo.it/info/dove-siamo/
 way	443751934	https://www.facebook.com/zamparco/
 way	444866591	http://ilcasello.it
+way	444866607	www.fattoriavalle.it
 way	446554185	https://www.caciallivernici.it/
 way	448669389	http://www.cartografiarl.regione.liguria.it/mapfiles/info/repertoriocartografico/pdf_protected_sites/schede_nat2000/SIC/Site_IT1342907.pdf
 way	448669392	http://www.cartografiarl.regione.liguria.it/mapfiles/info/repertoriocartografico/pdf_protected_sites/schede_nat2000/SIC/Site_IT1343502.pdf
@@ -5266,6 +5277,7 @@ way	625107703	https://www.onoranzelapiramide.it/
 way	625153518	https://www.terenzi.eu/
 way	625627875	http://villacasaforte.it/gallery.html
 way	625745479	http://www.agriturismodalpastore.it
+way	626098851	https://villeepalazzilucchesi.it/web/scheda_struttura.php?id_struttura=45
 way	628353312	http://www.lacantinadialfredo.it
 way	628418155	http://www.delloscompiglio.org/it/cucina.html
 way	628463963	www.bebvillalicia.it
@@ -5637,6 +5649,7 @@ way	1001987009	https://www.villageclubortanomare.it/en/
 way	1008707205	https://www.lenzicar.com/
 way	1008925099	https://operasantarita.it/sociosanitario/comunita-residenziali/comunita-per-autistici-villa-nesti/
 way	1012168353	http://www.notiziediprato.it/news/intitolata-al-cantore-di-prato-emanuele-bettini-una-via-a-paperino
+way	1017807600	https://villeepalazzilucchesi.it/web/scheda_struttura.php?id_struttura=81
 way	1024323356	https://erp.misericordiadibadia.it/
 way	1026178688	http://www.campeggioitalia.com/
 way	1032905163	http://www.firenzefreeride.org/
@@ -5644,7 +5657,6 @@ way	1034563807	http://www.polomusealetoscana.beniculturali.it/index.php?it/204/p
 way	1038009797	https://www.eurospin.it/punti-vendita/ponsacco-493726/
 way	1038009803	https://www.risparmiocasa.com/store/ponsacco/
 way	1038009838	https://www.sogesispa.it/
-way	1050219017	https://www.romagnatoscanaturismo.it/arte-cultura-storia/rocca-di-castiglionchio/
 way	1056807337	https://azionecattolica.siena.it/
 way	1056931883	https://www.caladeimori.com/
 way	1059700802	https://www.campingtoscanabella.com/
@@ -5739,6 +5751,11 @@ way	1188795305	https://www.at-bus.it/
 way	1190880242	https://iltirreno.gelocal.it/pistoia/cronaca/2021/02/13/news/doppia-rotatoria-per-decongestionare-e-rendere-piu-sicura-la-zona-industriale-1.39898077
 way	1192143281	https://www.unisi.it/
 way	1193585916	https://www.campingcanapai.it/
+way	1195339635	https://www.12ozcj.com
+way	1196102131	https://villeepalazzilucchesi.it/web/scheda_struttura.php?id_struttura=32
+way	1196104889	https://villeepalazzilucchesi.it/web/scheda_struttura.php?id_struttura=40
+way	1196135522	https://www.santuariomontenero.org/
+way	1197381303	https://www.romagnatoscanaturismo.it/arte-cultura-storia/rocca-di-castiglionchio/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42525	https://www.castelfrancopiandisco.it/
 relation	136257	www.caiparma.it
@@ -5891,7 +5908,7 @@ relation	4030077	http://www.caiforli.it/
 relation	4033773	http://www.caiforli.it/
 relation	4078924	http://www.polomusealetoscana.beniculturali.it/index.php?it/189/villa-corsini-a-castello-firenze
 relation	4223993	https://www.cailaspezia.it/
-relation	4224068	https://www.cailaspezia.it/
+relation	4224068	https://www.caisarzana.com
 relation	4226087	https://www.cailaspezia.it/
 relation	4226262	https://www.cailaspezia.it/
 relation	4226292	https://www.cailaspezia.it/
@@ -6625,6 +6642,7 @@ node	1396067495	http://gioielleriaarcoantico.com/
 node	1396067849	http://www.discovillage.it
 node	1400007994	http://www.tartana.com
 node	1470896489	http://it-it.facebook.com/pages/La-Baracchina-Verde/196148480053?sk=info
+node	1483779213	https://www.carrefour.it
 node	1489924570	http://www.trattoriabelmicolle.it
 node	1495430396	http://www.pizzeriadecimoporto.com
 node	1501123610	http://www.prefettura.it/livorno/multidip/index.htm
@@ -6858,7 +6876,6 @@ node	5871174881	http://www.castellodeirampolla.it
 node	5871193228	http://candialle.com/
 node	5871204131	http://www.lilliano.it/
 node	5871248799	http://tiripelli.it
-node	5871518549	https://www.mazzei.it
 node	5871518553	https://www.mazzei.it
 node	5882622795	http://www.pizzerialasvegas.it/
 node	5884205693	https://osteriavispateresalucca.it/
@@ -7045,6 +7062,7 @@ way	104826426	https://www.conad.it
 way	105912922	https://www.dsu.toscana.it
 way	116527316	http://www.toscovit.it/
 way	118351950	https://www.fortezzadiradicofani.it/
+way	118720311	https://www.mazzei.it
 way	122514435	http://www.campeggiolafinoria.it
 way	124127654	https://www.carrefour.it
 way	124162782	http://ristorantelapprodo.net
@@ -7199,7 +7217,6 @@ relation	2073703	https://www.at-bus.it/
 relation	2073705	https://www.at-bus.it/
 relation	2073708	https://www.at-bus.it/
 relation	2630230	https://castellotricerchi.com/
-relation	2790248	http://www.santuariomontenero.org/
 relation	3247649	http://www.crifollonica.it
 relation	3425426	http://www.campeggiotahiti.it/
 relation	3466145	https://www.at-bus.it/
