@@ -361,6 +361,7 @@ node	3407696361	http://www.gritacafe.it/
 node	3414060698	http://www.labodeguitacalimera.it/
 node	3414415595	https://dellattistore.com/
 node	3424429057	http://www.desantisuffici.it
+node	3439716849	https://www.ciaky.it/
 node	3444755232	http://www.laterracotta.net/
 node	3444755233	http://www.ottavionuccio.com/
 node	3445539203	http://www.residencefusaro.com/
@@ -749,7 +750,7 @@ node	5315024254	https://shop.cioccolatomaglio.it/
 node	5315081989	http://www.osterialevolte.it
 node	5317006222	http://www.oasypark.com
 node	5317452621	https://www.lidl.it/
-node	5318817441	https://friking.es/
+node	5318817441	https://www.wearenerd.it
 node	5318817443	http://www.videogamestime.cim
 node	5318831640	https://www.facebook.com/la.cheffanza.in.abbondanza/
 node	5321674823	http://www.tendedarredoenauticadesign.com
@@ -978,7 +979,6 @@ node	6481249286	http://www.paradisodipuglia.it/
 node	6485984547	https://www1.agenziaentrate.gov.it/indirizzi/agenzia/uffici_locali/lista.htm?m=2&pr=BR
 node	6485984563	https://www.toscano.it/comune-brindisi/brindisi
 node	6486015897	https://www.bbsanfrancesco.net/
-node	6487658031	https://www.portobellobeb.it/
 node	6488493350	http://www.eliotecnicadesantis.it
 node	6494357114	https://www.tenutapadrepio.com/ristorante/
 node	6499283756	https://www.facebook.com/Il-Giardino-delle-Feste-488044918015511/
@@ -1778,7 +1778,7 @@ node	9964363642	www.mazzeogiocattoli.it
 node	9964363643	www.tezenis.com
 node	9964363646	www.visionottica.it
 node	9964363647	www.conbipel.com
-node	9964363648	www.sonnybono.com
+node	9964363648	https://www.sonnybono.com/
 node	9964363649	www.aw-lab.com
 node	9964363650	www.oltre.com
 node	9964363651	www.sorbino.com
@@ -1962,7 +1962,7 @@ node	11056582240	www.lavanderiecleanart.it
 node	11056630636	https://facebook.com/miyakiristorante
 node	11056696976	https://www.pizzeriabraceriacivico7.it/
 node	11057214638	bar-clavi.business.site
-node	11057220237	www.enotecaargento.com
+node	11057220237	https://enotecaargento.com/
 node	11063347169	www.bbshanti.com
 node	11065801708	https://www.agricampingdegliulivi.it/servizi/
 node	11065801709	https://www.agricampingdegliulivi.it/servizi/
@@ -1980,6 +1980,10 @@ node	11083421974	http://www.farmaciacolafati.com/
 node	11083488940	https://www.sgmlecce.it/downloadPdfLinea.php?t=f&f=Orari%20di%20Fermata%20con%20Percorso%20-%2023n%20-%20273%20-%20R5a.PDF
 node	11087136558	https://www.stpbrindisi.it/index.php/ostuni/1189-corse-scolastiche-3
 node	11093320411	http://www.trullimania.it/;http://www.trulli.org/
+node	11098205063	https://www.starbucks.it/
+node	11105604181	https://www.tempiodellamusica.it
+node	11110454610	www.sottacqua.fish
+node	11111327819	https://nonnavittoriaapartments.it
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30791611	http://www.fierafoggia.it/
@@ -2042,7 +2046,7 @@ way	181595328	http://www.diocesifoggiabovino.it/?pag=diocesi&sub_pag=parrocchie&
 way	198901667	http://www.gommoland.it/
 way	200881623	http://www.ilcantico.nl/
 way	202178196	http://www.iamb.it/
-way	202396373	http://www.gestipark.it
+way	202396373	http://www.gestipark.it/parcheggi/bari-battisti/
 way	203541403	https://www.hotellosmeraldo.com/
 way	203541426	https://www.hotelfalcodoro.com/
 way	204527202	http://musei.beniculturali.it/musei?mid=426&nome=parco-archeologico-di-monte-sannace
@@ -2098,7 +2102,6 @@ way	275716874	http://www.bbbari.com
 way	276706366	https://www.piafondazionepanico.it/hospice
 way	276953751	https://www.apuliascuola.edu.it/
 way	279543125	http://www.citymoda.it/
-way	280715551	https://www.amtab.it/it/2015-09-30-17-04-00/aree-di-sosta/vittorio-veneto-lato-terra
 way	283873152	http://www.discotecadiomede.it/
 way	284497450	http://www.valmauto.it
 way	285280972	http://www.ammirato-falcone.it/
@@ -3595,7 +3598,9 @@ relation	14698829	https://camminomaterano.it/via/8/via-ellenica-terra-degli-uliv
 relation	14698962	https://camminomaterano.it/via/8/via-ellenica-terra-degli-ulivi
 relation	15420574	https://www.camminodelsalento.it/cammino-del-salento-via-del-mare/
 relation	15420644	https://www.camminodelsalento.it/cammino-del-salento-via-del-mare/
+relation	15586342	www.cicloviadellofanto.it
 relation	15705096	www.cicloviadellofanto.it
+relation	16178444	https://www.amtab.it/it/2015-09-30-17-04-00/aree-di-sosta/vittorio-veneto-lato-terra
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
@@ -3664,6 +3669,7 @@ node	10030447524	https://www.itc.cnr.it/ba/sc/TRL/TRL0064.html
 node	10032371712	https://www.featsrl.it/
 node	10033463542	http://www.ilgiardinodeibimbiterlizzi.it/
 node	10542776817	https://www.trmtv.it
+node	11100118525	https://www.lecarasse.it/
 way	68334157	http://www.scuoladonpappagallo.it/
 way	72401407	https://www.secondocircoloboscoterlizzi.edu.it
 way	78626385	https://www.gesmundomorofiore.edu.it
