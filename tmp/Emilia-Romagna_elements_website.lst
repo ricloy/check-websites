@@ -1036,7 +1036,6 @@ node	2827547475	https://www.lucasabbigliamentomoda.it/
 node	2827590893	http://www.mezcalimola.it/
 node	2827592803	https://www.comune.imola.bo.it/imoladove/agenzia-delle-entrate-ufficio-territoriale-di-imola
 node	2831466240	http://shop.iloveyo.it/punti-vendita/yo-imola/
-node	2831602175	https://www.labcc.it/
 node	2832106801	https://wwwt.agenziaentrate.gov.it/servizi/UfficiProvinciali/ufficio.htm?iduff=BO1&r=Emilia%20Romagna&pr=Bologna
 node	2833984890	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/13-castel-san-pietro.html
 node	2834426305	https://www.erboristeriazambrini.it/
@@ -3476,6 +3475,7 @@ node	7669518997	https://www.monalisahotelcattolica.it/
 node	7670986240	www.labotteghinadellibro.com
 node	7680162989	http://www.manolocargobike.com/
 node	7687698803	https://www.pmvclavoriedili.it/
+node	7687957569	https://ristorantepizzeriaalporticorioveggio.it/Menu%20pdf%20per%20internet_compressed
 node	7695617540	https://www.118er.it/dae/dae.asp
 node	7702420649	https://www.icbattelli.edu.it
 node	7717373180	https://www.wallstreetimola.it/
@@ -3744,8 +3744,6 @@ node	8146928192	https://www.118er.it/dae/dae.asp
 node	8146928193	https://www.118er.it/dae/dae.asp
 node	8149364585	https://m.facebook.com/streghettainspiaggia
 node	8149364591	https://www.bergaminiservice.com/
-node	8149364594	http://www.comune.bologna.it/
-node	8149364595	http://www.comune.bologna.it/
 node	8149364596	https://www.sipraengineering.it/
 node	8149364598	http://www.freakcircustattoostudio.it/
 node	8149364599	http://www.matteuzzipatenti.it/
@@ -4762,6 +4760,10 @@ node	11090581764	https://langolo-divino-cafe.eatbu.com/
 node	11091700362	https://ilgrappolocoriano.com/
 node	11093414306	https://www.officinamauro.com/
 node	11094631044	https://icrastignano.edu.it
+node	11097116665	https://www.scuoladiteatrodibologna.it/
+node	11097498729	https://www.labcc.it/
+node	11097498737	https://www.parquetdiffusion.it/
+node	11104778454	https://diegopaccini.it/
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	http://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -4928,6 +4930,7 @@ way	124541033	www.infofebbio.com
 way	124541036	www.infofebbio.com
 way	125014409	https://www.riminiverucchiogolf.com/
 way	125163502	https://www.datalogic.com/ita/index.html
+way	125334697	http://www.comune.bologna.it/
 way	125761627	https://www.nuovasportiva.it/sassuolo/
 way	126871908	http://www.acfiorano.com/web/?page_id=87
 way	128244981	http://www.roccadivignola.it
@@ -4998,6 +5001,7 @@ way	149636792	http://www.albergopallone.it
 way	149870837	https://www.mediaworld.it/it/store/bologna-parco-meraville-2146
 way	149870894	https://www.leroymerlin.it/negozi/bologna
 way	149875053	https://www.conad.it/ricerca-negozi/spazio-conad-via-larga-10-40138-bologna--003418
+way	149893698	https://www.centroandreacosta.it/
 way	149903251	http://visitareimola.it/portfolio/porta-montanara/
 way	149913744	https://www.fondazionesantacaterina.it/
 way	149937538	http://www.caffedellarocca.com
@@ -5289,6 +5293,7 @@ way	168121312	http://www.upbagnolo.it
 way	168121471	https://www.bertoli-homogenizers.com/
 way	168121569	http://wwww.sda.it
 way	168121989	http://www.iteatri.re.it
+way	168122072	https://www.rcf.it
 way	168124078	http://www.oldo.it/
 way	168124220	https://www.tavernamykonos.it/
 way	168125915	https://amysushi.it/ristoranti/ristorante-amysushi-reggio-emilia/
@@ -5827,7 +5832,6 @@ way	371210306	http://parcogiarolalancone.altervista.org/
 way	372788136	https://delfanti.com
 way	372803090	https://sites.google.com/site/gsfogliano
 way	372884814	http://www.gruppohera.it/clienti/casa/casa_servizio_ambiente/casa_racc_diff/casa_stazioni_ecologiche/pagina214-32169.html
-way	373743488	ittsrimini.gov.it
 way	373754877	http://www.smmac.it
 way	374267954	https://www.comune.re.it/retecivica/urp/retecivi.nsf/PESDocumentID/D720A6805D8A9F3EC1257FBE004F2BEC?opendocument
 way	376539934	http://www.roccadeifolli.com/
@@ -6363,6 +6367,10 @@ way	1192369140	http://www.crescenzipacinotti.it
 way	1193042449	https://tecnopolo-bo-ozzano.it/
 way	1193379347	https://www.centrocommercialepilastro.com
 way	1193602994	https://www.scuoladriftingbologna.it/
+way	1196791322	https://excentralebologna.it/
+way	1197464929	ittsrimini.gov.it
+way	1197464930	ittsrimini.gov.it
+way	1197654837	http://scuole.rimini.com/cd6rimini.gov.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42855	http://www.comunecamugnano.gov.it/
 relation	42901	http://www.comune.casteldicasio.bo.it/
@@ -6399,7 +6407,6 @@ relation	357946	http://www.caiporretta.it
 relation	357947	http://www.caiporretta.it/
 relation	357960	https://www.cai.mo.it/
 relation	358885	http://www.caiporretta.it
-relation	358901	https://www.cai.it/gruppo_regionale/gr-toscana/sentieri-e-rifugi/sentieri/gea/
 relation	380612	http://www.cai-imola.it/
 relation	418976	www.caiparma.it
 relation	419016	www.caiparma.it
@@ -7458,8 +7465,8 @@ relation	15826235	https://www.appenninoreggiano.it/it/scheda/10-sentieri-cerreto
 relation	15826259	https://www.appenninoreggiano.it/it/scheda/10-sentieri-cerreto-laghi
 relation	15826306	https://www.appenninoreggiano.it/it/scheda/10-sentieri-cerreto-laghi
 relation	15831204	www.caiparma.it
-relation	15853026	https://www.comune.re.it/argomenti/citta-collaborativa/i-progetti/qua-il-quartiere-bene-comune/i-progetti-attivi-nei-territori/reggio-emilia-citta-dei-sentieri/i-sentieri/anello-di-santa-croce-e-delle-reggiane
-relation	15853077	https://www.comune.re.it/argomenti/citta-collaborativa/i-progetti/qua-il-quartiere-bene-comune/i-progetti-attivi-nei-territori/reggio-emilia-citta-dei-sentieri/i-sentieri/anello-di-santa-croce-e-delle-reggiane
+relation	15853026	https://bit.ly/AnelloSCroce
+relation	15853077	https://bit.ly/AnelloSCroce
 relation	15865659	www.caiparma.it
 relation	15916940	https://www.appenninoreggiano.it/it/scheda/10-sentieri-cerreto-laghi
 relation	15917001	https://www.appenninoreggiano.it/it/scheda/10-sentieri-cerreto-laghi
@@ -7469,7 +7476,6 @@ relation	16048261	https://www.bolognacitta30.it
 relation	16079136	http://www.cai-imola.it/
 relation	16130745	www.caiparma.it
 relation	16133111	www.caiparma.it
-relation	16167265	https://excentralebologna.it/
 node	441918990	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/427-fidenza.html
 node	797204601	http://www.poliambulatoriolasalute.it/
 node	860582713	http://www.campeggiovivaio.it/
