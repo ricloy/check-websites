@@ -315,7 +315,6 @@ node	2232318518	http://www.sinfoniaviaggi.it/
 node	2234124621	https://www.hotelvecchiotram.com/
 node	2235362353	https://www.grom.it/
 node	2252717311	https://www.osteriadaalvise.it/
-node	2258065186	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/4246-ipercoop-montedoro.html
 node	2268105194	https://www.alberonascosto.it/
 node	2268469795	http://catastogrotte.fvg.it/202
 node	2270346966	http://www.hostariadalibero.com/
@@ -818,6 +817,7 @@ node	3633933561	https://www.biblio.units.it/DN
 node	3633933656	http://www.zkb.it/
 node	3633933680	https://www.biblio.units.it/DW
 node	3633933729	https://www.salustrieste.it/
+node	3633933805	http://www.micheleintheworld.com/trieste/
 node	3633937380	http://www.nettaredivino.eu
 node	3633938053	https://ristorante-pizzeria-al-cavallino-trieste.business.site/
 node	3633938064	https://www.crai-supermercati.it/ama/punti-vendita/pdv.php?id=2401
@@ -1103,6 +1103,7 @@ node	3895140104	www.vinipascolo.com
 node	3895140232	http://www.ronchiro.it/
 node	3895140992	http://dinoturco.com
 node	3895141036	http://www.roncoscagnet.it
+node	3896263143	https://beb.it/lascala/it/
 node	3896506675	http://www.sebico.it/easyne2/LYT.aspx?Code=BSS2&IDLYT=657&ST=SQL&SQL=ID_Documento=615
 node	3896516259	https://www.emotionarzino.it
 node	3899062557	http://www.eurospesa.it/
@@ -1249,7 +1250,6 @@ node	4489524941	http://www.zanieronline.it
 node	4498022192	http://www.next01.it/
 node	4513261987	www.cosper.it
 node	4560300258	http://www.navigandotrieste.com/
-node	4560300259	http://www.trattoriabellatrieste.com/
 node	4579309349	http://www.brottomarcello.it
 node	4580907852	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/457-cervignano.html
 node	4581099991	https://www.dardymusicandfood.it/
@@ -2182,6 +2182,7 @@ node	10308863243	https://www.miasantola.it/
 node	10311283791	https://www.facebook.com/tecnocasapad/
 node	10567615818	https://www.tesla.com/findus/location/supercharger/dineitsupercharger
 node	10591713980	https://www.ortobar.it
+node	10601267981	https://dinaclub.repower.com/check-in/?code=3b8ca4dc-3203-40d6-bebd-d100d7f8fc93
 node	10612142641	https://www.bischoff.it/
 node	10672919405	https://www.albuonditarvisio.com/
 node	10681029863	https://www.portewestern.it
@@ -2239,6 +2240,8 @@ node	11087171251	https://www.kitelifefvg.it/
 node	11091995219	https://www.ristorantealtinello.com/
 node	11091995220	https://nuovo-piccolo-ranch-grill-house.business.site/
 node	11092040590	https://www.panificiocimpello.it/
+node	11105883819	http://laperlahotel.eu
+node	11115706303	https://www.hotel-gambrinus.com/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	www.campingalbosco.it
@@ -2258,6 +2261,7 @@ way	35945051	http://www.rifugiotolazzi.it
 way	35945271	www.rifdegasperi.it
 way	35950767	www.hotelsaustri.com
 way	35984947	http://www.zoncolannoleggio.it/
+way	35984990	http://rifugiotamai.it
 way	35985091	http://www.hotelenzomoro.com/
 way	35985162	www.iccomeglians.net
 way	35986838	http://www.hotelaplisovaro.it
@@ -2315,6 +2319,7 @@ way	36045549	http://www.agriturismosanfloreano.com
 way	36046981	https://www.natisone-torre.comunitafvg.it/
 way	36047859	http://www.operapiacoianiz.it/
 way	36051435	http://www.anaudine.it/gruppo/stolvizza-sella-buja/
+way	36051557	https://explorerfvg.com/luoghi/de/rifugi/rifugio-gilberti/
 way	36051683	http://bivaccamente.blogspot.it/
 way	36051864	www.campodibonis.it
 way	36052154	http://agriturismozaro.it
@@ -2617,7 +2622,6 @@ way	36703749	http://www.hoteldaniele.com/
 way	36703821	http://www.hotelcolorado.net
 way	36703947	https://www.hotelmedusa.it/
 way	36703961	https://www.anapaya.it/
-way	36703962	https://m.facebook.com/kursaalclub
 way	36704038	http://www.meublezenith.it
 way	36704049	https://sangiorgio-hotel.it/
 way	36704232	http://www.hotelapigna.it/
@@ -2874,7 +2878,6 @@ way	420036042	https://www.tecnofervaleri.it/
 way	430104847	https://triesteadventurepark.it/
 way	439745753	http://www.despar.it
 way	441692031	http://www.portopiccolosistiana.it/
-way	441692244	http://www.portopiccolosistiana.it/it/spa_4.htm
 way	444597544	http://www.sibartol.gov.it/
 way	446661032	http://iprimidue.it/
 way	446712876	http://www.alcampodisotto.it/wl/index.php
@@ -2984,6 +2987,7 @@ way	805510298	https://lungomare.ilpanequotidiano.com/
 way	807993935	https://www.megaprezzibassi.it/stores/mega-udine/
 way	807993937	https://www.mcdonalds.it/ristorante/629
 way	830744532	http://www.autamarocchi.com
+way	842866522	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/4246-ipercoop-montedoro.html
 way	881768499	https://www.allfly.it/
 way	885060352	https://www.iissbassafriulana.gov.it/it
 way	890996826	https://scuolamosaicistifriuli.it/
@@ -3094,6 +3098,7 @@ way	1191913781	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/fer
 way	1192913791	http://www.exlavatoio.it/
 way	1195533965	https://www.lidl.it/
 way	1195533967	https://www.dhomuscasa.it/
+way	1197793015	https://lignanosabbiadoro.it/it/strutture/sabbiadoro-ufficio-spiaggia-18/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4395,6 +4400,7 @@ relation	15790898	https://www.romeastrata.org/
 relation	15797328	https://www.romeastrata.org/
 relation	15956980	https://camminodellepievi.it/
 relation	16149007	https://valpesarina.it/esplora/itinerari/
+relation	16198984	http://www.portopiccolosistiana.it/it/spa_4.htm
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
@@ -4455,6 +4461,7 @@ node	3653985848	https://iltuomenu.eu/altimon/
 node	3653986179	https://m.facebook.com/cipiacegrado/
 node	3653986444	https://m.facebook.com/theperfectwavegrado/
 node	3653986571	https://filomena-bar.business.site/
+node	3661288262	https://alemarhome.it/
 node	3661315762	http://www.sanmarcorealestate.com/
 node	3661320256	https://www.ondinaequipe.it/
 node	3661320767	https://www.tally-weijl.com/it
