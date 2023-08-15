@@ -317,6 +317,7 @@ node	738029849	http://www.linthof.com/
 node	738029994	http://www.patleidhof.it/
 node	738406332	https://www.guesthouse-arco.com/de_gh1.php
 node	739108318	https://www.scuoleprimiero.it/
+node	747763994	http://www.pizzeria-irene.it/
 node	756677274	https://fotolandia-rovereto.rikorda.it/
 node	760263751	http://www.graswegerkeller.it/
 node	760263770	https://www.farmerhof.com/formerkeller/
@@ -776,7 +777,7 @@ node	1833996316	https://www.pazeider.com/
 node	1834948420	http://www.hotelbellevue-valgardena.it
 node	1836554924	www.terrabio.it
 node	1836959868	http://www.rifugiociampedie.com/
-node	1839797802	http://www.sanmartino.com/s/it/strutture/hotel-baita-sagron-mis-s278.html
+node	1839797802	https://www.chaletgiasenei.com/
 node	1841408727	https://www.bibliotechevaldisole.it/it/biblioteche/vermiglio/presentazione
 node	1852936790	http://www.gasthof-roessl.it
 node	1863341904	http://www.salewa-cube.com
@@ -1472,6 +1473,7 @@ node	2755659758	http://www.stablerhof.it/
 node	2755659810	http://frigomont.com
 node	2755691914	http://www.zinch.it/de/
 node	2755692220	https://www.hotelrosa.com/
+node	2755692383	https://www.campedel-hof.it/portfolio-item/wohnungen-am-campedel-hof/
 node	2755692782	https://www.chaletdolomites.com/
 node	2755693911	https://www.sanon.it/
 node	2755694070	https://www.la-bar.it/
@@ -2144,7 +2146,7 @@ node	3462573810	https://www.haus-waldfrieden.it/
 node	3462574968	https://haus-weithaler.jimdo.com/
 node	3462577800	https://www.zenoburg.com
 node	3462602574	https://www.dorftirol.com/ehrenfried/
-node	3462693527	https://www.haus-muehlanger.com/
+node	3462693527	https://www.muehlanger.it/
 node	3462765469	https://www.dorftirol.com/ortswies36/
 node	3462786471	https://www.haus-wiesengrund.it/
 node	3462917768	https://www.dorftirol.com/weinguot/
@@ -3547,7 +3549,7 @@ node	5678541394	https://www.trudnerhof.com
 node	5678552132	http://www.naturoase-stegerhof.com
 node	5680205931	http://ecoargentario.it/orridopontealto
 node	5684339821	http://www.pension-lahnerhof.com
-node	5687797141	http://www.montipallidi.com
+node	5687797141	https://www.almhotel.it/
 node	5690244341	http://www.steinerwaldorf-rovereto.it/
 node	5690628799	http://pizzeriakebabk2.it/
 node	5690729584	https://www.residencetirol.com/
@@ -3766,7 +3768,6 @@ node	6286693497	https://www.proefinghof.com/
 node	6287087749	https://www.skiverleih-hofer.com/en/home
 node	6289187978	https://www.spangla.it
 node	6295145180	https://www.wastlhof.it/
-node	6301739317	www.hallo-tirolerhof.com
 node	6307645225	https://www.tennis-sparer.com/
 node	6311193012	https://www.messnerjoch.com
 node	6316198879	https://www.autoarena.it/
@@ -5122,6 +5123,9 @@ node	11081261447	https://jenesien.net
 node	11081643528	https://ccsaltosiciliar.ecospazio.it
 node	11090941786	https://www.regione.taa.it/
 node	11093980622	http://www.ristorantelaia.it/
+node	11101194151	https://www.campedel-hof.it/portfolio-item/campedel/
+node	11105041606	https://www.soley-suites.com/restaurant-brixen-zentrum
+node	11107178445	https://einstein-repair.com/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -5877,6 +5881,7 @@ way	101083595	http://www.iceforum.it/
 way	101083654	http://www.santecsrl-hlsanlagen.com/
 way	101083671	http://www.tappeiner.bz/
 way	101083700	http://www.mairoesl.bz.it/
+way	101192952	https://www.girardinilegno.it/
 way	101265124	http://www.schlosshof.net/
 way	101318651	http://www.rendena.eu/
 way	101424929	https://www.obereggerhof.it
@@ -6163,7 +6168,7 @@ way	130395384	http://www.kletterhalle.it/schluderns/
 way	130628475	http://www.garnifirn.com/
 way	130628479	http://www.pension-rosmarie.it/
 way	130878861	http://www.melodiadelbosco.it
-way	131600735	https://www.hallo-tirolerhof.com/
+way	131600735	www.hallo-tirolerhof.com
 way	131836192	https://www.suedtirol.info/de/erleben/buschenschank-oberlegar_activity_67522
 way	131849606	https://www.campinglevico.com/
 way	131861854	https://www.villataxis.it/
@@ -6284,7 +6289,7 @@ way	152250683	http://www.rifugiopassoprincipe.com
 way	152260076	https://www.payerhuette.com/
 way	152260769	http://www.stettiner.13h.de/
 way	152264483	http://www.zwickauerhuette.eu/
-way	152266832	http://www.rifugiopuez.it
+way	152266832	https://www.rifugiopuez.it/
 way	152271730	http://www.rifugiovicenza.com/it/index.html
 way	152487198	https://www.alpenjuwel.it
 way	152616491	https://www.sonnleiten.net/ihr-suedtirol-urlaub/wo-finde-ich-was/pfroderalm-auf-der-villandereralm-im-eisacktal
@@ -9617,7 +9622,7 @@ node	430017181	http://www.terragnoloeis.it
 node	430669783	https://www.pokescuse.com/trento/
 node	430669785	http://www.sositrento.it/
 node	430669786	https://www.cassaditrento.it/
-node	430669788	https://www.discovertrento.it
+node	430669788	https://www.discovertrento.it;https://trento.info
 node	431622345	http://www.poste.it/
 node	431658709	https://www.tetleyspub.it/
 node	431658713	http://www.orsogrigiotrento.com/
@@ -10269,7 +10274,7 @@ node	7879973700	https://www.pfeldererhof.it/
 node	7996807995	https://www.biobauernhof-suedtirol.com/
 node	7997089049	https://masodelgusto.it
 node	8007164097	https://www.klammsteiner.it/
-node	8007164109	https://www.small-luxury.it
+node	8007164109	https://www.soley-suites.com/
 node	8021403615	https://alpsim.it/
 node	8021411530	http://www.traubenwirt.it
 node	8022911849	https://www.nunalie.it/
@@ -11144,7 +11149,7 @@ relation	158983	http://www.sat.tn.it/Home/
 relation	418904	https://www.bikemeran.it/de/radwege/passeiertal
 relation	1562303	http://www.trekking.suedtirol.info/
 relation	2320650	http://www.stoneman.it/
-relation	2963655	https://portal.tirol.gv.at/TirolGvAt/bikeAbfrageDetail.do?cmd=bikeAbfrageDetail&cid=1&id=530
+relation	2963655	https://www.tirol.gv.at/sport/radfahren/mountainbiken/routen/mtb/routen/ansicht/details/route/530/
 relation	3200015	https://fstatic2.mtb-news.de/f3/20/2008/2008450-9fykdaxxc53f-dscf1581-large.jpg
 relation	3200833	https://fstatic2.mtb-news.de/f3/20/2008/2008450-9fykdaxxc53f-dscf1581-large.jpg
 relation	3201798	https://fstatic2.mtb-news.de/f3/20/2008/2008450-9fykdaxxc53f-dscf1581-large.jpg
