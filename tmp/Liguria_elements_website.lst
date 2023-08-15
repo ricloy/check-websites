@@ -1002,7 +1002,6 @@ node	4682087277	http://www.kaysun.it/
 node	4703993709	www.bebmonica.com
 node	4703993741	www.bedbreakfastzattera.it
 node	4704306989	www.comune.levanto.sp.it
-node	4704307063	https://www.lyrichotellevanto.com/
 node	4707148154	http://www.agriturismolamandola.it
 node	4707148157	http://www.levanto.com/mariella/
 node	4708125641	http://www.agaveframura.it/
@@ -2007,6 +2006,7 @@ node	10227700144	https://www.gioiellerialertora.it/
 node	10227706167	http://www.poppiparodi.trovaweb.net/
 node	10244312558	http://www.amalteaimmobiliare.it
 node	10247809016	https://www.studiosciandra.com/
+node	10276049709	https://teatrodellatosse.it/teatro-del-ponente/
 node	10279654652	https://www.lavalleggia.it/
 node	10281759922	https://croceverdebusalla.it
 node	10296960906	https://www.casagaspare.com
@@ -2087,6 +2087,10 @@ node	11083537872	https://www.booking.com/Share-cP49RP
 node	11097181917	https://guias-viajes.com/italy/millesimo/hotel-la-gaietta/
 node	11097263745	https://www.paginegialle.it/millesimo-sv/tende/ad-caldi-alessandro_2
 node	11097263753	http://www.ruffinopetgarden.com/
+node	11099204834	https://www.bagnialbatrosvarigotti.it/
+node	11100939553	http://www.italianpistonhouse.com/
+node	11101604256	https://www.teatroakropolis.com/
+node	11108144601	http://www.larosacanina.net/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	http://www.ospedalesanmartino.it
@@ -2106,6 +2110,7 @@ way	27328026	https://www.provincia.savona.it/strade/sp45
 way	27714990	http://www.stellamaris.tv/
 way	27873002	https://www.bnbpetit-finale.com/
 way	28024413	http://www.arenzanofc.it/
+way	28910930	https://www.alstom.com/
 way	31437028	https://www.provincia.savona.it/strade/sp28bis
 way	31437030	https://www.provincia.savona.it/strade/sp28bis
 way	31437890	https://www.provincia.savona.it/strade/sp28bis
@@ -2332,7 +2337,6 @@ way	202345818	http://www.ristorantearenella.it/
 way	202432839	https://www.cascinamiera.it/
 way	202432849	http://www.liceocarcare.gov.it/
 way	202433003	https://arredamentiboagno.it
-way	202433507	www.ostello-de-franceschini.com
 way	202436976	http://www.santuariosavona.eu/cappella-della-crocetta
 way	202437115	www.rifugiocadibona.it
 way	202437188	http://www.comunecairomontenotte.it/
@@ -2353,6 +2357,7 @@ way	202613022	https://www.laterradimingo.it/
 way	202881419	www.bagnanto.it
 way	202896629	https://m.facebook.com/BarDaDeleStellaSanBernardoSV/
 way	202901161	http://www.unsognonellavalle.it
+way	202904375	https://www.nuova-bb.com
 way	203042223	https://www.beniculturali.it/luogo/villa-groppallo
 way	203042472	https://icvadoligure.edu.it/
 way	203048551	http://www.teatrochiabrera.it/IT/HomePage
@@ -2425,7 +2430,6 @@ way	205854865	http://www.rifugiomuzzerone.it/
 way	205855128	http://www.tramontidicampiglia.it/attivita/mulino.htm
 way	205906201	http://www.focacceriadafrancesco.com/index.htm
 way	205907618	https://www.poliartigiana.it/
-way	205908844	http://www.larosacanina.net/
 way	205909169	https://fondoambiente.it/luoghi/villa-rezzola/
 way	205912591	https://www.deasecurity.com
 way	205926464	https://www.moderno.it/
@@ -2999,7 +3003,7 @@ relation	4221178	https://www.cailaspezia.it/
 relation	4221236	https://www.cailaspezia.it/
 relation	4221839	https://www.cailaspezia.it/
 relation	4223993	https://www.cailaspezia.it/
-relation	4224068	https://www.cailaspezia.it/
+relation	4224068	https://www.caisarzana.com
 relation	4224143	https://www.cailaspezia.it/
 relation	4224167	https://www.cailaspezia.it/
 relation	4226028	https://www.cailaspezia.it/
@@ -3022,7 +3026,7 @@ relation	4260859	https://www.cailaspezia.it/
 relation	4260902	https://www.cailaspezia.it/
 relation	4260916	https://www.cailaspezia.it/
 relation	4260998	https://www.cailaspezia.it/
-relation	4261013	https://www.cailaspezia.it/
+relation	4261013	www.caisarzana.com
 relation	4261037	https://www.cailaspezia.it/
 relation	4261044	https://www.cailaspezia.it/
 relation	4268378	https://www.cailaspezia.it/
@@ -3034,9 +3038,9 @@ relation	4268502	https://www.cailaspezia.it/
 relation	4268506	https://www.cailaspezia.it/
 relation	4268516	https://www.cailaspezia.it/
 relation	4268538	https://www.cailaspezia.it/
-relation	4466972	https://www.cailaspezia.it/
-relation	4466990	https://www.cailaspezia.it/
-relation	4467018	https://www.cailaspezia.it/
+relation	4466972	https://www.caisarzana.com
+relation	4466990	https://www.caisarzana.com
+relation	4467018	https://www.caisarzana.com
 relation	4467076	https://www.cailaspezia.it/
 relation	4487427	https://www.cailaspezia.it/
 relation	4487480	https://www.cailaspezia.it/
