@@ -637,7 +637,6 @@ node	9328509698	https://www.miralduolo.com
 node	9344885831	https://www.parcosculturebrufa.it/
 node	9344885835	https://www.parcosculturebrufa.it/ita/2/sculture/3/broken-circle
 node	9347247964	https://daca-assisi.it/
-node	9349137012	http://www.iluoghidelsilenzio.it/?p=224229
 node	9356562736	https://www.iluoghidelsilenzio.it/?p=242847
 node	9356605429	http://www.iluoghidelsilenzio.it/?p=3696
 node	9403513776	http://www.bettonamtb.it
@@ -801,6 +800,7 @@ node	11017821199	https://orari.fsbusitalia.com/epdf/GB0308.pdf
 node	11023682173	https://www.laterrazzahotel.it/centro-benessere-spa/
 node	11091891284	http://www.ternignulug.org
 node	11105577644	https://www.bambingesuspoleto.com/
+node	11113549526	https://www.umbraacque.com/territorio-e-sostenibilita/case-dellacqua
 way	23079751	http://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	36195165	http://www.inorvieto.it/it/scegli/gli_imperdibili/area_archeologica_porto_di_pagliano.html
@@ -884,6 +884,7 @@ way	221851889	http://www.comune.corciano.pg.it/index.php/component/k2/200-antiqu
 way	221853067	https://www.bonfiglicomprensivocorciano.gov.it
 way	221864299	https://icbastia1.gov.it/
 way	222091267	https://www.hoteldellatorre.eu/
+way	222264179	https://www.vigilfuoco.it/sitiVVF/perugia/
 way	222603424	http://www.alessandrelli.eu/
 way	224748296	http://www.mulinaccino.it/
 way	224748301	https://www.torrebisenzio.com/
@@ -1115,6 +1116,7 @@ way	528794166	http://www.iluoghidelsilenzio.it/?p=11343
 way	529180716	www.vivaiorosaria.it
 way	529187950	http://www.2circolospoleto.edu.it/jm4/
 way	529556575	https://www.ferrantinet.com/
+way	529566654	http://www.iluoghidelsilenzio.it/?p=224229
 way	529567449	http://www.iluoghidelsilenzio.it/?p=42304
 way	529665933	https://www.ulivoinfiore.com/
 way	529899707	http://www.icspoleto2.it/
@@ -1140,6 +1142,7 @@ way	541871478	http://www.primocircolospoleto.it/ita/
 way	543390093	http://www.alvecchioforno.com
 way	543655131	http://www.primocircolospoleto.it/ita/
 way	544583574	http://www.iluoghidelsilenzio.it/?p=91746
+way	546806232	https://www.circolodidatticocorciano.edu.it/scuola-primaria-bruno-ciari-di-chiugiana/
 way	547635173	http://www.carabinieri.it
 way	549556643	http://www.suncoautomotive.it/
 way	549744880	https://barton.it/
@@ -1380,6 +1383,7 @@ way	1188423429	https://www.hotelvillaverdeassisi.com
 way	1189430337	https://www.iisacp.edu.it/plessi-scolastici/liceo-classico/
 way	1189497734	http://www.lamaisonded.it/
 way	1192416858	https://junior-club-terni.business.site/?utm_source=gmb&utm_medium=referral
+way	1199951195	https://www.agrieuro.com/
 relation	1253429	http://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	2048968	http://www.camminodiassisi.it
@@ -1579,6 +1583,8 @@ relation	15520758	http://www.verallicortesi.it/pagina.php?id=53
 relation	15797364	https://www.facebook.com/numerozeroperugia/
 relation	16190112	www.villafada.com
 relation	16192209	http://www.agriturismo-sanrocco.com
+relation	16219444	http://www.torrebontempo.it
+relation	16219578	http://www.casalebecetole.com
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1887119542	https://www.fezemauro.com/
 node	2146579118	https://www.domuspacis.it/
