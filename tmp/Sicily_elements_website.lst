@@ -46,7 +46,6 @@ node	412327777	https://www.poste.it
 node	415949776	https://www.poste.it
 node	420082141	https://www.poste.it
 node	428973029	https://www.poste.it
-node	430150945	http://www.icderobertozafferana.it/
 node	458495742	http://www.hotellarosadeiventi.it/
 node	459464142	https://www.parcodisegesta.com/home/vivere/storia/Porta-di-Valle.html
 node	463256121	http://www.thebest.sicilia.it
@@ -155,7 +154,6 @@ node	1537888493	https://www.dolcicolosi.it
 node	1583140289	https://www.bricocenter.it/
 node	1583140296	https://www.euronics.it/
 node	1584508657	http://www.toysplanet.it
-node	1587021812	http://www.albaragnos.com/
 node	1603343423	http://www.donminico.com/
 node	1632946901	http://www.comune.francavilladisicilia.me.it
 node	1638905901	http://www.bluhotels.it/hotel/sicilia/agrigento/blu-hotel-kaos
@@ -1096,6 +1094,7 @@ node	4070621117	http://www.scuolacapuana.gov.it
 node	4072659489	https://www.prezzemoloevitale.net/
 node	4076180045	http://www.icsanpierniceto.gov.it
 node	4081926252	https://trattoriamarricriu.wixsite.com/marricriu
+node	4082248794	https://www.borgodelcarato.com/
 node	4086095913	http://www.icnovaradisicilia.it
 node	4087943604	http://www.icbrolo.gov.it
 node	4098930389	http://www.icvillalinaritiro.gov.it/
@@ -1588,7 +1587,6 @@ node	5476722774	https://www.facebook.com/people/Libreria-Forense/100057216049974
 node	5476722835	https://www.quintocantohotel.com/
 node	5476723551	https://www.poste.it
 node	5486908173	http://www.comune.oliveri.me.it/
-node	5495383605	http://www.icderobertozafferana.it/
 node	5495583396	https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_honorarni_konzulat_palermo.html
 node	5495865568	https://www.stagnonekitesurf.com/
 node	5501070948	http://www.bioesseri.it/bioesseri-palermo/
@@ -2790,6 +2788,7 @@ node	9102050306	https://www.scuolagiacomoalbogiovannixxiii.edu.it/
 node	9104298687	https://www.principigrimaldi.edu.it
 node	9104298688	https://www.principigrimaldi.edu.it
 node	9104299375	https://www.scuolagiacomoalbogiovannixxiii.edu.it/
+node	9111064221	https://www.cartainpalermo.it/
 node	9114708139	https://www.tenutaberretta.com/
 node	9120126917	http://www.michelangelocatania.com/
 node	9124717224	http://www.disfor.unict.it/
@@ -3422,7 +3421,12 @@ node	11083805160	https://www.sanpieropattiturismo.it/percorso-mistico
 node	11085675150	https://www.fiasconaro.com/
 node	11085689865	http://www.bagliobonomobandb.it/
 node	11096519909	https://www.aleccaeamecca.it/it/
-node	11104856609	www.museodelcarrettosiciliano.it
+node	11120881567	https://www.distilleriefichera.it/
+node	11121677960	https://rogazionistipalermo.com/
+node	11124079417	https://circolodidatticozafferana.edu.it/
+node	11124742991	https://www.caldaiebrusca.it/
+node	11126304406	https://fermataspulignietna.it/
+node	11126563660	https://www.esperiapalace.com
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	http://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -3653,7 +3657,6 @@ way	143741766	https://www.beniculturali.it/luogo/museo-archeologico-regionale-an
 way	144977448	https://www.decathlon.it/
 way	144977695	https://www.mcdonalds.it/
 way	145402859	https://www.parrocchiaolivarella.it/
-way	145706346	www.fermataspuligni.com
 way	147253253	http://www.davincimilazzo.it
 way	147478836	http://www.icbattistifoscolo.gov.it/
 way	152522288	http://www.rifugiomarini.eu/
@@ -3729,6 +3732,7 @@ way	191579663	https://www.comune.tremestieri.ct.it/
 way	194792928	https://www.poste.it
 way	195118773	https://www.poste.it
 way	195829008	http://www.calcestruzziericina.it/
+way	196540080	www.museodelcarrettosiciliano.it
 way	196553589	http://www.casalemediterraneo.it
 way	196888394	http://www.icnovaradisicilia.it/
 way	197065433	http://www.comunedimazzarrasantandrea.me.it
@@ -3806,7 +3810,6 @@ way	223709658	https://www.hotelborgodonchisciotte.it/
 way	224090486	https://www.paolovetri.edu.it
 way	224932116	http://www.mercatigenerali.org/
 way	225049393	http://www.comune.montalbanoelicona.me.it/turismo/il-castello/panoramica-castello.aspx
-way	225226711	http://esperiapalace.com/site/
 way	225400180	https://www.poste.it
 way	225900441	www.dibo.it
 way	226271609	http://www.icarcoleo.it
@@ -5052,7 +5055,7 @@ way	1123472994	https://www.scuolamarieleventre.edu.it
 way	1123473022	https://www.paolovetri.edu.it
 way	1123473053	https://www.scuolaschinina.edu.it
 way	1123621488	https://www.cifcasteltermini.it/villa-maria--la-quiete.html
-way	1124690993	https://www.icderobertozafferana.edu.it
+way	1124690993	https://www.icderobertozafferana.edu.it/
 way	1125079424	http://www.icarcoleo.it
 way	1125079426	http://icmontessoricaltagirone.edu.it/
 way	1125079427	http://icmontessoricaltagirone.edu.it/
@@ -5256,6 +5259,14 @@ way	1195925714	http://www.icsantavenerina.edu.it/
 way	1196138977	https://www.poste.it
 way	1197097068	https://hotelarmonianotomarinaespa.com/
 way	1197097070	https://www.calabernardoresort.it/
+way	1199314248	https://circolodidatticozafferana.edu.it/
+way	1199314255	https://circolodidatticozafferana.edu.it/
+way	1199314270	https://circolodidatticozafferana.edu.it/
+way	1199314286	https://www.icderobertozafferana.edu.it/
+way	1199314307	https://www.icderobertozafferana.edu.it/
+way	1199314311	https://www.icderobertozafferana.edu.it/
+way	1199314318	https://www.icderobertozafferana.edu.it/
+way	1199314340	https://www.icderobertozafferana.edu.it/
 relation	271371	http://pirandellomazara.it
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
