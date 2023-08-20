@@ -8,6 +8,7 @@ node	276129824	https://www.lacantinadibacco.it/
 node	290402015	http://www.caffemeletti.it/
 node	302657619	http://agriturismoilrustico.it/
 node	329970365	http://www.vintora.it/
+node	335752015	https://www.colverde.it/camping/
 node	344856276	https://www.ristorantemontecucco.it/
 node	428480597	http://www.palazzinasabatelli.it/
 node	429161267	https://www.bper.it/scheda-filiale/-/filiale/marche/ancona/agenzia-10060
@@ -385,7 +386,6 @@ node	3172070400	http://www.ilpanediunavolta.com/home.html
 node	3178673626	http://www.ristorantelabalestra.it/
 node	3184991356	http://www.pinetahotel.com
 node	3243143183	http://www.bluaziende.com/azienda/marche/pu/mondolfo/garden_service/
-node	3258556131	https://www.ortobotanico.univpm.it/
 node	3258671587	http://www.belvedereap.it
 node	3319150172	http://www.anconarockclimb.it
 node	3326660094	http://www.andrenacciarredamenti.it
@@ -640,6 +640,7 @@ node	5312777922	https://www.unieuro.it/online/negozi/Unieuro-Ascoli-Piceno---via
 node	5321860021	https://www.peverelliandco.com
 node	5327658531	https://www.facebook.com/La-Torre-Nera-Fantasy-Bar-241392750120899/
 node	5327916196	https://www.prodottiakmzero.com/produttori/marche/carosino
+node	5348344821	https://www.facebook.com/newtropicalfalconara/
 node	5369058595	http://www.conservatoriorossini.it/
 node	5404060465	https://www.comune.fossombrone.ps.it/
 node	5407753732	https://farmaciadavella.it/
@@ -1184,6 +1185,14 @@ node	11104188742	https://www.vivaionicolini.it
 node	11104489001	https://coccoverde.it/
 node	11107871438	https://www.xhosaa.it
 node	11108264006	http://www.agrifilippetticlaudio.it
+node	11114288713	www.lpre.it
+node	11114291525	https://www.colverde.it/
+node	11116557808	http://www.circolovelicotorrette.it/
+node	11116640179	https://www.trattoriailpodere.com/
+node	11116640180	https://www.trattoriailpodere.com/camere
+node	11128786519	https://www.hotelcasadei.it/
+node	11128856172	https://hoteleko.it/
+node	11130548105	https://www.ceunposto.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23678233	https://www.conad.it/ricerca-negozi/conad-superstore-via-guglielmo-marconi-61-60015--falconara-marittima--009860
@@ -1550,6 +1559,7 @@ way	613952172	https://www.carron.it/ita/opere/edilizia/nuovo-ospedale-di-fermo
 way	620626312	https://www.jadrolinija.hr/
 way	622282841	https://icmonteurano.edu.it/
 way	623065621	http://www.hotelrivierasanbenedetto.it/
+way	631785741	http://fatar.com/
 way	632209592	http://www.liceoannibalcaro.edu.it/site/it/
 way	632839639	https://hotelgabbiano.net/
 way	633617545	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/391-chiesa-dei-santi-quirico-e-giulitta-in-montelabbate.html
@@ -1577,6 +1587,7 @@ way	723812708	http://www.hort.it
 way	733272758	http://www.mencaroni.eu
 way	744854478	http://www.ristorantelenoci.it/
 way	746731676	http://auditoriumasetti.donorionefano.com/
+way	753583679	https://www.residenceedelweiss.com/
 way	764685017	http://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/94/
 way	782406450	https://www.hoteledelweissfano.it
 way	783905998	http://www.hospitaleterzoparadiso.it
@@ -1665,6 +1676,7 @@ way	1182249119	https://www.collinadellefate.com/
 way	1190044277	http://www.chiesasanrocchetto.it/
 way	1190654222	https://www.pesaroavventura.it/
 way	1191256141	https://www.coal.it/archives/punti-vendita/villa-fastiggi-alimentari-srl
+way	1198559387	https://www.ortobotanico.univpm.it/
 relation	1085613	http://www.sferisterio.it
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	http://www.riservasentina.it/
