@@ -841,6 +841,7 @@ node	2440193433	http://www.agrisantagnese.it/
 node	2441122948	http://www.museoleonardiano.it/
 node	2442024986	https://www.appenninoshuttle.it/
 node	2443178560	http://www.prolocofollonica.it/taxi.htm
+node	2448130890	https://ristorante.coltibuono.com/
 node	2451989120	http://www.fondazionecerratelli.it/
 node	2453165835	http://www.villalasequoia.com
 node	2453511787	http://www.barlaloggia.it
@@ -1119,6 +1120,7 @@ node	3088859965	http://www.puccinimuseum.org/
 node	3090231885	http://www.piandellafonte.it
 node	3093873362	https://www.conad.it/ricerca-negozi/negozio.005721.html
 node	3097039510	https://www.hobbycentropisa.com/
+node	3102271816	https://www.nonsolosport.it/negozi/nonsolosport-pisa
 node	3102313762	http://www.pozzodeidesideriviaggi.it/
 node	3102313765	https://www.hotelmilanopisa.it
 node	3102313766	http://www.panuozzomania.it/
@@ -1510,6 +1512,7 @@ node	4227367060	http://amorini-firenze.com
 node	4227367341	https://www.misterpizza.it/
 node	4228125000	https://www.testi1969.it/
 node	4229009726	http://labottegadifirenze.it/
+node	4229013700	https://puntivendita.iliad.it/stores/4787
 node	4229013806	https://osteriadelporcellino.com/?lang=en
 node	4229650762	http://www.noidagrandi.it
 node	4231007165	https://www.fishinglab.it/
@@ -2150,6 +2153,7 @@ node	5712183637	http://www.marlinmarinadipisa.it/
 node	5717127721	http://www.ristorantelabriciola.com
 node	5720742356	http://www.nelgiardinodicri.it
 node	5720763425	http://www.pizzerialascalettalivorno.com/
+node	5723377938	http://www.osteriaallapiazza.com/
 node	5725959902	http://www.comune.palazzuolo-sul-senio.fi.it/sites/www.comune.palazzuolo-sul-senio.fi.it/files/percorsi.pdf
 node	5744931921	https://www.raffaellohotel.it/
 node	5759886404	http://dati.toscana.it/
@@ -3560,7 +3564,6 @@ node	9365023906	https://centrovasari.it
 node	9384014612	https://www.uffizi.it/palazzo-pitti/museo-delle-icone-russe
 node	9386593029	https://www.casamariannaelba.it/
 node	9392026096	https://www.facebook.com/bottega.ripafratta/
-node	9394718058	http://autosanclemente.eu/
 node	9399371516	https://www.riccieriecappelli.it/
 node	9402681843	https://www.toscanino.com/toscanino-a-the-mall-firenze/
 node	9410405509	https://www.playcar.net/
@@ -4187,6 +4190,18 @@ node	11101658985	https://manalu.it/
 node	11105728405	http://yamatojicf.eatbu.com
 node	11109428369	http://www.ilpozzodisantandrea.it/
 node	11109428370	https://www.bb-santandrea-siena.it/
+node	11114877705	https://www.ilgiardinomontalcino.it/
+node	11117684105	http://gelateriaprimoamore.com
+node	11119196893	www.centrodelfumetto.it
+node	11127205683	https://spacciottica.it/
+node	11127218111	https://spacciottica.it/
+node	11127267082	https://spacciottica.it/
+node	11128101711	https://fahrenheitgym.it/
+node	11128101712	https://www.sakurafusion.it/
+node	11128101714	https://www.creostorevaldarno.it/
+node	11128101721	https://www.cantinasorelli.com/
+node	11128101722	https://www.rescar.it/
+node	11128101723	https://www.agrariafiorentina.it/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	http://www.leopolda.it/
@@ -5091,6 +5106,7 @@ way	470237790	https://www.otticainvpisa.com/
 way	471449797	https://educazione.comune.fi.it/attivita_e_tempo_libero/extrascuola/fattoria_ragazzi.html
 way	473813643	www.tsnfirenze.it
 way	473813644	https://www.centroippicotoscano.it/
+way	473819651	https://www.villacarobbiapartments.it/
 way	474331948	https://www.mulinodicelle.com/
 way	474410261	https://simplyparking.it/
 way	477279033	https://www.uffizi.it
@@ -5214,7 +5230,6 @@ way	558224752	https://www.dongnocchi.it/@strutture/centro-s-maria-alla-pineta
 way	558253460	https://www.acquapanna.com/it/blog/villa-panna
 way	559034439	http://www.santamariacalenzano.it/
 way	559577821	http://www.aripisa.it
-way	560208791	https://www.lenzibike.it/
 way	561203075	https://www.tenutasandonato.it/
 way	561486764	https://www.lacasadiriposo.it/c/RSA_Villa_Solaria/1152
 way	562901954	http://www.asdminicarlucca.it
@@ -5333,6 +5348,7 @@ way	692867619	https://www.mammamiafollonica.it/
 way	693818710	https://www.lenzicar.com/
 way	693818755	https://www.lenzicar.com/
 way	694076272	https://www.manganelliedilizia.com/
+way	694080229	http://www.comune.casalmaggiore.cr.it/
 way	694315913	http://www.domusgalilaeana.it/
 way	694354793	http://baiamia.com
 way	694366204	https://www.vne.it
@@ -5443,6 +5459,7 @@ way	722698598	https://www.hotelmoredicuna.it/
 way	722698853	http://www.e-coop.it/punti-vendita-dettaglio?id=6291
 way	722699765	http://www.comune.monteronidarbia.siena.it/
 way	722700075	https://papillon78.it
+way	722700401	https://www.poste.it/
 way	722709015	https://tenutalasantissima.com/
 way	722765581	https://www.residenzecontucci.it/palazzo-contucci/
 way	722825426	https://www.museoisidorofalchi.it/
@@ -5769,7 +5786,6 @@ relation	357941	http://www.caiporretta.it
 relation	358883	http://www.caiporretta.it/
 relation	358884	http://www.caiporretta.it
 relation	358885	http://www.caiporretta.it
-relation	358901	https://www.cai.it/gruppo_regionale/gr-toscana/sentieri-e-rifugi/sentieri/gea/
 relation	380612	http://www.cai-imola.it/
 relation	384642	https://eroica.cc/it
 relation	454824	https://www.albergominerva.it/
@@ -6215,6 +6231,7 @@ relation	9475618	http://faenza.uoei.it/
 relation	9475629	http://faenza.uoei.it/
 relation	9548452	https://meinfernbus.de/unser-angebot/linien/n536.html
 relation	9548453	https://meinfernbus.de/unser-angebot/linien/n536.html
+relation	9575576	https://www.trekkinglunigiana.it
 relation	9577034	https://www.terredilunigiana.com/trekking/tappetl.php
 relation	9577084	https://www.caielba.it/percorsi/
 relation	9587777	https://www.islepark.it/rete-sentieristica/sentieri-escursionistici/elba-occidentale/103
@@ -6603,6 +6620,8 @@ relation	16112188	http://www.cai-imola.it/
 relation	16140367	https://www.si.camcom.gov.it/
 relation	16143347	http://www.caiporretta.it
 relation	16153041	https://www.fontanellestate.com/hotel-the-club-house
+relation	16197464	https://www.agriturismolafarneta.com/it/
+relation	16202521	https://www.molinodibombi.com/
 node	215646877	https://www.unisi.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
@@ -6717,7 +6736,6 @@ node	2836612384	http://www.badelfpub.it/
 node	2892650436	http://www.comune.follonica.gr.it/gli_uffici/polizia_municipale/
 node	2898115836	www.vab.it
 node	2898131853	www.radiofollonica.it
-node	2969870009	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0900493921
 node	2980869492	http://www.labarrocciaia.it
 node	2980869497	http://www.laponceria.it
 node	3003818928	http://www.cinemaastrafollonica.it
@@ -7088,6 +7106,7 @@ way	175774105	http://www.ristoranteilpino.net
 way	175837714	https://trattoriadanerone.it
 way	182514363	http://www.monasterosangirolamo.it/
 way	184746984	https://www.conad.it/ricerca-negozi/negozio.006994.html
+way	194072102	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0900493921
 way	196122478	http://www.comune.follonica.gr.it
 way	198202089	https://www.rphotels.com/
 way	199075044	http://www.agrariacastellare.it
@@ -7170,6 +7189,7 @@ way	525055231	http://casabenedica.wixsite.com/casabenedica/
 way	525056778	"https://www.ospitalitareligiosa.it/strutture/ad/casa-per-ferie-pastor-angelicus,3611"
 way	539685234	https://www.carabinieri.it/
 way	547279295	https://www.ilfilo.net/arte/Oratorio_Castagno.htm
+way	560208791	https://www.lenzibike.it/
 way	571692437	https://www.ilcolto.it
 way	578138195	http://www.suoresacrafamiglia.it/la-verna/
 way	617876649	http://www.lepiscinesanminiato.it
@@ -7441,6 +7461,7 @@ way	551896334	https://storico.comune.empoli.fi.it/archivio_storico/htm/terrafino
 way	556755640	https://www.ilfilo.net/arte/borgoVillaBrocchi.htm
 way	556755678	https://www.ilfilo.net/arte/borgoVillaBrocchi.htm
 way	556755689	https://www.ilfilo.net/arte/borgoVillaBrocchi.htm
+way	558755226	https://rb.gy/iufo1
 way	558770081	https://www.ilfilo.net/arte/barberinoLoggeMedicee.htm
 way	558915313	http://rete.comuni-italiani.it/wiki/Calenzano/Ospedale_di_Chiaravalle
 way	559034439	http://rete.comuni-italiani.it/wiki/Calenzano/Santa_Maria_delle_Grazie
