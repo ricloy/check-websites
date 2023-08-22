@@ -211,6 +211,7 @@ node	1482133308	http://www.salustrieste.com
 node	1490673375	http://www.ota.it/
 node	1529329692	https://www.mmasistemi.com/
 node	1540327350	http://www.amardeclevo.it
+node	1544021212	https://www.turismofvg.it/archaeological-sites/cave-of-mitreo?LangSetCMS=en
 node	1551867344	https://www.albergoromatolmezzo.it/
 node	1554539620	http://www.elettroluce.eu/
 node	1554539662	https://www.fratellibraidatrieste.com/
@@ -2242,6 +2243,8 @@ node	11091995220	https://nuovo-piccolo-ranch-grill-house.business.site/
 node	11092040590	https://www.panificiocimpello.it/
 node	11105883819	http://laperlahotel.eu
 node	11115706303	https://www.hotel-gambrinus.com/
+node	11126275966	https://trattoriadalbolognes.eatbu.com/?lang=it
+node	11133597605	http://mypiancavallo.com
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	www.campingalbosco.it
@@ -2325,6 +2328,7 @@ way	36051864	www.campodibonis.it
 way	36052154	http://agriturismozaro.it
 way	36052390	http://rifugiopelizzo.blogspot.it/
 way	36052562	http://locandalaserenissima.com
+way	36054157	https://www.casavalcellina.it/it
 way	36057183	https://www.bottegone.eu
 way	36059115	https://www.facebook.com/pages/Agriturismo-Le-Volte/124156847746730
 way	36061157	http//www.icaviano.gov.it/
@@ -2714,7 +2718,6 @@ way	60653553	http://www.pipan.info/
 way	60653572	http://www.pitturazioni-gruden.com/
 way	62235834	http://www.interportocervignano.it/
 way	64451726	http://www.tenuta-primero.com/
-way	66295079	https://www.saf.ud.it/
 way	79685904	http://www.ziu.it/
 way	82201584	https://www.granfiume.it/
 way	83509422	http://www.ilgattile.it/
@@ -2991,6 +2994,7 @@ way	842866522	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-
 way	881768499	https://www.allfly.it/
 way	885060352	https://www.iissbassafriulana.gov.it/it
 way	890996826	https://scuolamosaicistifriuli.it/
+way	894234671	https://zoncolancampingcaravan.it/
 way	899879484	http://www.parkinglunablu.com/
 way	902124639	https://www.lacombustibile.com/
 way	909296433	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/ferrata-rio-degli-uccelli-lorenzo-palla/
@@ -3099,6 +3103,7 @@ way	1192913791	http://www.exlavatoio.it/
 way	1195533965	https://www.lidl.it/
 way	1195533967	https://www.dhomuscasa.it/
 way	1197793015	https://lignanosabbiadoro.it/it/strutture/sabbiadoro-ufficio-spiaggia-18/
+way	1198593269	http://www.portopiccolosistiana.it/it/spa_4.htm
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -3362,7 +3367,7 @@ relation	160354	http://www.residenceeuropa.com/
 relation	160367	http://www.prefettura.it/trieste/
 relation	160388	https://www.avalonwellness.it/
 relation	160665	https://www.cnpd.it
-relation	207349	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-918
+relation	207349	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/ferrata-alta-via-dei-rondoi/
 relation	216254	https://www.tal-oil.com/en/transalpine-pipeline/route
 relation	387762	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-079
 relation	532599	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-084
@@ -3833,7 +3838,7 @@ relation	10541221	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giul
 relation	10559046	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	10716218	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-031a
 relation	10909145	https://www.julius-kugy-alpine-trail.com
-relation	11003309	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-990-a
+relation	11003309	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-990a
 relation	11150131	http://www.grottagigante.it
 relation	11187900	https://www.belvederepineta.com/
 relation	11227131	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/s1-160
@@ -4037,6 +4042,7 @@ relation	12934178	https://www.outdooractive.com/de/route/bergtour/nassfeld-lesac
 relation	13088292	https://www.sabait.it/it/parcheggi/trieste/trieste-ospedale-maggiore
 relation	13158672	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13217964	http://www.comune.attimis.ud.it/index.php?id=13422
+relation	13220459	https://tplfvg.it/it/il-viaggio/servizi-marittimi/
 relation	13221541	https://www.sauris.org/maps-routes/
 relation	13221976	https://www.sauris.org/maps-routes/
 relation	13222006	https://www.sauris.org/maps-routes/
@@ -4181,7 +4187,6 @@ relation	13628040	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13628041	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13628042	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13628070	https://www.triestetrasporti.it;https://tplfvg.it/it/
-relation	13628071	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13643894	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13643895	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13666775	https://federsanita.anci.fvg.it/progetti/progetto-friuli-venezia-giulia-in-movimento
@@ -4266,6 +4271,7 @@ relation	13938319	http://www.comune.faedis.ud.it/index.php?id=5459&L=6
 relation	13938334	http://www.comune.faedis.ud.it/index.php?id=5459&L=6
 relation	13938341	http://www.comune.faedis.ud.it/index.php?id=5459&L=6
 relation	13938376	http://www.comune.faedis.ud.it/index.php?id=5459&L=6
+relation	13940198	https://tplfvg.it/it/il-viaggio/servizi-marittimi/
 relation	13970987	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13970988	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14039662	https://www.amicidipers.it/index.php/sentieri
@@ -4400,7 +4406,18 @@ relation	15790898	https://www.romeastrata.org/
 relation	15797328	https://www.romeastrata.org/
 relation	15956980	https://camminodellepievi.it/
 relation	16149007	https://valpesarina.it/esplora/itinerari/
-relation	16198984	http://www.portopiccolosistiana.it/it/spa_4.htm
+relation	16214522	https://tplfvg.it/it/il-viaggio/servizi-marittimi/
+relation	16217028	https://dolomitesgeotrail.com/
+relation	16217039	https://dolomitesgeotrail.com/
+relation	16217052	https://dolomitesgeotrail.com/
+relation	16217076	https://dolomitesgeotrail.com/
+relation	16217225	https://dolomitesgeotrail.com/
+relation	16226240	https://dolomitesgeotrail.com/
+relation	16226286	https://dolomitesgeotrail.com/
+relation	16226321	https://dolomitesgeotrail.com/
+relation	16226332	https://dolomitesgeotrail.com/
+relation	16226352	https://dolomitesgeotrail.com/
+relation	16227271	https://www.comune.prato-carnico.ud.it/media/files/030081/attachment/manifesto_giornata_12_08_2023.pdf
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
@@ -4915,7 +4932,6 @@ way	106864672	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idSch
 way	108588812	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=56&tsk=PG
 way	122375645	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=36&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	129123897	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=4&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
-way	132154104	http://www.aptgorizia.it/
 way	151721866	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=98&tsk=PG
 way	160100535	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=16&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	171140550	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=119&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
