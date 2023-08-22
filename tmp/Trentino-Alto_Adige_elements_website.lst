@@ -146,7 +146,6 @@ node	443422848	https://www.oetzi-bike-academy.com/
 node	443431043	https://www.gasteiger.it/sessellift-korblift/
 node	443448102	https://www.botango.it/
 node	445080717	https://www.furcia.info/
-node	446773163	http://www.museostorico.it
 node	448098224	http://www.hotelpordoi.eu/
 node	449096185	https://www.seegarten.it/
 node	455193451	http://www.pension-schlossberg.it/
@@ -2825,6 +2824,8 @@ node	4060942980	https://www.am-meilenstein.com/
 node	4061147346	https://www.mairamort.it/
 node	4061306154	https://www.hotel-burgund.it/
 node	4061440726	https://www.pension-lahn.com/
+node	4061444590	https://www.pension-lahn.com/de/
+node	4063177500	https://www.panorama-hotel.it/
 node	4063512865	http://www.filovignola.it/vignolavventura/acqua-vignola/
 node	4063512866	http://www.filovignola.it/vignolavventura/comune-vignola-falesina/
 node	4063512867	http://www.filovignola.it/vignolavventura/personaggi-di-vignola/
@@ -3764,6 +3765,7 @@ node	6279142574	http://www.electropeer.it/
 node	6280437111	http://www.martellmountains.com/
 node	6284809123	https://www.hotelhanny.it/
 node	6285603913	http://www.agriturcalcaiol.it/
+node	6286650604	https://m.facebook.com/mexikanischesrestaurant/
 node	6286693497	https://www.proefinghof.com/
 node	6287087749	https://www.skiverleih-hofer.com/en/home
 node	6289187978	https://www.spangla.it
@@ -5126,6 +5128,12 @@ node	11093980622	http://www.ristorantelaia.it/
 node	11101194151	https://www.campedel-hof.it/portfolio-item/campedel/
 node	11105041606	https://www.soley-suites.com/restaurant-brixen-zentrum
 node	11107178445	https://einstein-repair.com/
+node	11116993136	https://www.la-briosa.it
+node	11119030106	https://anatolia-grill-pizza-kebab.eatbu.com
+node	11123837490	www.granvera.it
+node	11126038459	https://www.kaltern.com/de/info/pfusser-ladele.html
+node	11128708662	https://www.astorsuites.com/
+node	11134662828	https://musikschulen.provinz.bz.it/deutsch-ladinischsprachige/musikschuldirektion-brixen.asp
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -5240,11 +5248,13 @@ way	42223145	https://www.rifugiocapannapizfassa.com/
 way	42224521	http://www.rifugioboe.it/
 way	42287959	https://www.gardenacia.it/it/rifugio-alta-badia
 way	42325321	http://www.residenceciasavedla.it/
+way	42560529	https://www.maurerberg.com/en/
 way	42721413	https://www.graziani.bz
 way	42721414	http://www.ciaocima.com/
 way	42739832	https://www.campingpasseier.com/
 way	42740595	https://campingsaltaus.it
 way	42760696	https://gruenesundco.com/
+way	42763081	https://campingwildberg.com/
 way	42768961	https://it.m.wikipedia.org/wiki/Castel_Beseno
 way	42828520	www.restaurant-issingerweiher.it
 way	42918220	https://www.schlosshof.it/
@@ -6268,6 +6278,7 @@ way	149264555	https://www.cusanus-gymnasium.it/
 way	150068171	https://www.app-auerhof.com/
 way	150069332	https://www.niederunterer.com/
 way	150147432	http://www.winklerhotels.com/de/sporthotel-s%C3%BCdtirol-winkler/15-0.html
+way	150259342	https://summerkanda.com/summerlake/
 way	150551130	http://www.kronplatz-gastro.com/Kron.html
 way	150551142	https://www.graziani.bz/de/chalets-dolomiten/chalets-in-st-vigil/ciasa-grazia.html
 way	150551160	https://www.lumenmuseum.it/
@@ -6473,7 +6484,7 @@ way	165530555	http://www.rebgut.it
 way	165583728	http://www.marzoneralm.it/
 way	165625617	https://www.gisshuebelhof.com/
 way	165625629	https://www.ferienpichler.com/geranienhof.html
-way	165625676	http://www.burgleitenhof.com
+way	165625711	https://burgleitenhof.com
 way	165631588	https://www.goetzfried.it/
 way	165631607	http://www.ackpfeiferhof.it
 way	165738225	https://www.gretlamsee.com/de/shops/
@@ -7483,6 +7494,8 @@ way	317061407	www.michlwirt.it
 way	317061453	http://www.restaurantpizzeriaremo.com/
 way	317083267	https://www.leitenhof.it/
 way	317620605	https://www.pizzeria-moesl.it
+way	317620822	www.bavaria.it
+way	317621010	www.bavaria.it
 way	317944899	http://www.gasthof-gemse.it/
 way	318048163	http://hotelsanvalier.com/
 way	318048166	http://trunkalunka.it/
@@ -8180,6 +8193,8 @@ way	1186016113	https://ff-freiberg.it/
 way	1186462910	https://www.impronte.tn.it/
 way	1188055153	https://alrestelar.it/
 way	1192614789	https://www.hotelsalegg.com/?utm_source=google-my-business
+way	1198318951	http://www.areaarchitetti.com/
+way	1199681719	https://www.neuhaushof.it/de/
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -9462,12 +9477,6 @@ relation	11620233	https://www.doga-cycling.it
 relation	11630927	http://ropewiki.com/Trafoi
 relation	11763942	https://www.bzgeisacktal.it/system/web/zusatzseite.aspx?menuonr=225165441&detailonr=223966113
 relation	11906559	http://www.steinegger.it/
-relation	12031647	https://www.dolomitiunesco.info/evento/geotrail/
-relation	12032073	https://www.dolomitiunesco.info/evento/geotrail/
-relation	12032176	https://www.dolomitiunesco.info/evento/geotrail/
-relation	12032275	https://www.dolomitiunesco.info/evento/geotrail/
-relation	12032320	https://www.dolomitiunesco.info/evento/geotrail/
-relation	12032373	https://www.dolomitiunesco.info/evento/geotrail/
 relation	12086137	http://www.sii.bz.it/
 relation	12088066	http://oetk.at
 relation	12102045	http://www.museumladin.it/it/default.asp
@@ -9579,6 +9588,20 @@ relation	16148671	https://dolomitesgeotrail.com/
 relation	16149279	http://www.sat.tn.it/
 relation	16150721	https://dolomitesgeotrail.com/
 relation	16151667	https://dolomitesgeotrail.com/
+relation	16206458	https://dolomitesgeotrail.com/
+relation	16206551	https://dolomitesgeotrail.com/
+relation	16206573	https://dolomitesgeotrail.com/
+relation	16206588	https://dolomitesgeotrail.com/
+relation	16213323	https://dolomitesgeotrail.com/
+relation	16213568	https://dolomitesgeotrail.com/
+relation	16213714	https://dolomitesgeotrail.com/
+relation	16226698	https://dolomitesgeotrail.com/
+relation	16226804	https://dolomitesgeotrail.com/
+relation	16226945	https://dolomitesgeotrail.com/
+relation	16227060	https://dolomitesgeotrail.com/
+relation	16229098	https://dolomitesgeotrail.com/
+relation	16229125	https://dolomitesgeotrail.com/
+relation	16229233	https://dolomitesgeotrail.com/
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	268429704	http://www.farmaciagallo.com/
@@ -9636,6 +9659,7 @@ node	441411733	http://www.poste.it/
 node	441414832	http://www.poste.it/
 node	441836391	http://www.poste.it/
 node	443422841	http://www.tierarztnaturns.it/
+node	446773163	https://museostorico.it/location/le-gallerie/
 node	459656401	http://www.hotel-florida.it
 node	459656414	http://www.hotelauroramolveno.com/
 node	459656417	http://www.dolomieten-hotel.com/
@@ -10061,6 +10085,7 @@ node	2805921697	http://www.smooke.com/
 node	2809861598	http://www.sbadige.com/
 node	2822274113	http://www.peloecontropelotn.com/
 node	2860700728	http://www.capuanomilitarystore.com/
+node	2889265682	https://www.cooperazionetrentina.it
 node	2892228873	https://trento2.tecnocasa.it/trento/trento-centro-tribunale-san-pio-x/
 node	2908569185	http://www.affittiin.it/
 node	2912067406	https://www.conad.it/ricerca-negozi/conad-via-riva-57-38024-celledizzo--010277
@@ -10132,7 +10157,7 @@ node	3727868209	http://www.bbcasafipinger.it/
 node	3727868210	www.grappalones.it
 node	3732462260	http://www.thalhof.it/
 node	3737813836	http://www.oldwildwest.com/
-node	3747338806	http://wolfwalter.eu
+node	3747338806	http://www.wolfwalter.eu
 node	3760784326	https://www.conad.it/ricerca-negozi/margherita-conad-via-xxiv-maggio-21-38024-peio--010274
 node	3779740709	http://www.lastubedelgalletto.com/
 node	3805887814	http://www.agriturvalsugana.it/index.php/it/info-prenotazioni.html
@@ -10142,7 +10167,6 @@ node	3849792227	http://www.ten-s.it/
 node	3887703011	http://www.abete-rosso.it/
 node	3899564057	https://www.burgerking.it/ristoranti/trento-trento/
 node	3903789485	https://ravellisport.business.site/
-node	3957783499	http://www.cavento.it/
 node	4013904563	www.losgringos.it
 node	4013904565	http://www.caserottisport.com/
 node	4053903163	http://www.giggelberg.com/
@@ -10259,6 +10283,7 @@ node	6853897362	https://henkerhaus.it/
 node	6875234194	https://www.dimoradifratesole.it/
 node	6964211807	http://www.scm-kanu.org
 node	6986553563	https://www.fiordalisatrentino.com/
+node	7094044891	https://museostorico.it/location/officina-dellautonomia/
 node	7155724999	http://www.deltaenergy.it
 node	7245495425	http://www.untervernatsch.com/
 node	7288185131	http://www.volabass.it/
@@ -10345,6 +10370,7 @@ node	9569407740	https://www.foto-webcam.eu/webcam/niederdorf/
 node	9569407741	https://www.foto-webcam.eu/webcam/dreizinnenblick/
 node	9569407742	https://www.foto-webcam.eu/webcam/neu-toblach/
 node	9569407743	https://www.foto-webcam.eu/webcam/toblach/
+node	9594336455	https://www.nuovoastra.incooperazione.it
 node	9656336511	http://www.baecksteinerhof.com
 node	9689278807	http://www.skinmedic.it/
 node	9690602322	https://www.stegerhaus.com/
@@ -10429,6 +10455,8 @@ node	11071776829	https://rola.railcargo.com/
 node	11078091839	https://www.demanincor.com
 node	11090941787	https://www.provincia.tn.it/Amministrazione/Organi-politici/Giunta-provinciale
 node	11090941789	https://www.locandaleduetravi.it/
+node	11133949882	https://www.conad.it/ricerca-negozi/margherita-conad-frazione-villamontagna-235-38100-trento--006770
+node	11135039811	https://www.vertikale.it
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
 way	24875513	https://www.asis.trento.it/it/impianti/campo-scuola-atletica-leggera-c-covi-e-e--postal_9425_s/
@@ -10750,7 +10778,6 @@ way	215655376	http://www.arcese.com
 way	217011764	https://www.bauer.it
 way	217011767	https://www.roechling.com/
 way	217214785	https://www.agriturismofaidellapaganella.it/
-way	220012813	https://www.vertikale.it
 way	220186097	http://www.campingspiaggia.net
 way	223355081	https://www.curiepergine.it
 way	224766909	http://www.alpenblick.org/
@@ -10931,6 +10958,7 @@ relation	15737274	https://www.trentinotrasporti.it/viaggia-con-noi/ferrovia
 relation	15739192	https://www.asis.trento.it
 relation	15814733	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
 relation	15924719	https://www.iclavis.it
+relation	16226902	https://educaline-centro-cinofilo.business.site/
 node	250103447	http://italia.indettaglio.it/ita/trentinoaltoadige/trento_pinzolo_campocarlomagno.html
 node	283551188	http://www.kronplatz-gastro.com/Treff.html
 node	331259364	http://italia.indettaglio.it/ita/trentinoaltoadige/trento_mezzana_marilleva1400.html
