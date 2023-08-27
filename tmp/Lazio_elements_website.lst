@@ -835,7 +835,6 @@ node	2311459590	https://www.enel.it/punto-enel/
 node	2311459609	https://www.enel.it/punto-enel/
 node	2311459630	https://www.enel.it/punto-enel/
 node	2311459672	https://www.enel.it/punto-enel/
-node	2311459682	https://www.enel.it/punto-enel/
 node	2311459696	https://www.enel.it/punto-enel/
 node	2311459728	https://www.enel.it/punto-enel/
 node	2311459782	https://www.enel.it/punto-enel/
@@ -2871,7 +2870,7 @@ node	5619333221	http://ristorantevelavevodetto.it
 node	5619333321	https://lacucinadellanima.it/
 node	5621489241	https://www.pewex-supermercati.it/
 node	5626357167	https://www.docmarket.it/it/punto-vendita/fonteiana
-node	5626826158	http://www.facebook.com/greenovaIT
+node	5626826158	https://greenova.shop/
 node	5636527126	https://www.facebook.com/letizia.cefarelli.3
 node	5637140866	https://www.mediaworld.it/negozi/roma-bufalotta
 node	5637140867	https://www.oldwildwest.it/ristoranti/old-wild-west-roma-porta-di-roma
@@ -3781,6 +3780,7 @@ node	7704370536	https://www.istitutigasparrini.it/
 node	7704370574	http://www.tiburtinatraslochi.it/
 node	7704370593	http://www.atepir.it/
 node	7704423453	https://www.santuarivallesanta.com/santuari/poggio-bustone/
+node	7707694033	https://forteprenestino.net/
 node	7711271241	http://www.arethusalibri.it/
 node	7711341085	http://www.associazioneasta.com
 node	7712999197	http://www.ilovecharlie.it/
@@ -5408,6 +5408,7 @@ node	10937793525	https://museocivilta.cultura.gov.it/
 node	10939893654	https://www.cinziachiullipercorsiartistici.it/monumento-al-pellegrino-della-via-francigena-inaugurazione-sabato-15-ottobre-2022/
 node	10942913305	https://www.conad.it/ricerca-negozi/conad-via-tuscania-89-01010-marta--000644
 node	10944098771	https://www.wind3online.it/store/windtre-fiumicino/
+node	10951593505	https://centocicli.it/
 node	10951596005	https://180gpizzeriaromana.com/
 node	10956804085	http://hotelpisa.ithotel.site/
 node	10956925462	https://www.cittametropolitanaroma.it
@@ -5591,6 +5592,15 @@ node	11085830762	https://www.maurys.it/punti-vendita/lazio/altre-provincie-lazio
 node	11115585883	https://www.borsi-saffi.edu.it
 node	11118517111	https://museodellenecropolirupestri.it/
 node	11125886646	https://www.allevamentocaputmundi.it/
+node	11129845958	https://www.agenziaentrate.gov.it/
+node	11139241823	https://www.beastside.it/
+node	11139241824	http://www.farmaciafarina.com/
+node	11139241827	http://www.cantone7.com/
+node	11139241831	http://www.ciccioepappa.it/
+node	11139241835	http://www.lalucciolalatina.it/
+node	11139241836	https://www.hoticepizzaegrill.com/
+node	11139241860	http://www.doolin.it/
+node	11146343245	https://oasidelgusto-roma.it/
 way	22875465	http://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7917,6 +7927,7 @@ way	1194701690	https://merchandising.uniroma1.it/it
 way	1196007912	https://www.ic-poggialispizzichino.edu.it/
 way	1196386352	https://www.santalessio.org/
 way	1197031949	https://www.trattoriavacunea.it/
+way	1200967224	https://100celleaperte.wordpress.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -8944,7 +8955,7 @@ node	9714419784	http://l.ead.me/bb3jDF
 node	9714435037	https://l.ead.me/bbC6K3
 node	9721225211	https://www.jetphotos.com/registration/MM80972
 node	9725160049	http://www.arciviterbo.it/2019/07/01/lo-spazio-del-cielo-2/
-node	9764515313	https://www.centrostampacolombo.it/
+node	9764515313	https://www.tipografia.online
 node	10082931681	https://www.teatro.it/teatri/portico-roma-cartellone
 way	23016254	https://www.provincia.viterbo.it/strade.html
 way	23016273	https://www.provincia.viterbo.it/strade.html
