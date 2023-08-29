@@ -105,7 +105,7 @@ node	598497423	https://www.trattoriapizzeriaveto.it/
 node	600068590	http://www.trattoriavaleria.it/
 node	600068592	http://www.peproject.com/
 node	600397458	https://brezzilegni.it/
-node	600397463	https://www.electriccentertrieste.it/
+node	600397463	https://www.altainformatica.it
 node	601458033	www.attcaffe.com
 node	601458034	https://www.adriagomme.it/
 node	601458041	https://www.termoservis.it/
@@ -896,7 +896,6 @@ node	3658802960	https://eliteviorica.it/
 node	3658803040	www.latteriacividale.it
 node	3658824041	https://www.cervignanodelfriuli.net/aziende_comunali/ausa_servizi_salute.html
 node	3661313876	https://www.paulandshark.com/
-node	3661316041	http://www.hotelperlalignano.com
 node	3661316115	https://www.alchioscoitalia.it/
 node	3661320962	https://www.isaprofumerie.com/
 node	3661321586	https://www.feelthefashion.it/
@@ -923,7 +922,6 @@ node	3661346438	https://salone-it.lorealprofessionnel.com/37890-mary-style-hair-
 node	3661347469	https://www.agenziapianetacasa.com/
 node	3661347914	https://gelateriamu.it/
 node	3661348357	http://www.agenturgiorgi.it/
-node	3661349167	https://www.hoteldesiree.it/
 node	3661349531	https://ristorantesapio.it/
 node	3661349559	https://www.bolinasail.it/
 node	3661350213	https://www.risskio.it/
@@ -1197,7 +1195,6 @@ node	4189190740	https://carini-toyota.it/
 node	4191840003	http://www.lamelagrana.org/
 node	4196643097	http://www.itinerarigrandeguerra.it/Cappella-Battaglione-Val-Tagliamento-Freikofel
 node	4201640067	www.fotografo-certificato.it
-node	4205881225	https://www.miramare.com/
 node	4212297986	http://www.vinicrastin.it
 node	4213681090	http://www.lapergolalignano.it
 node	4214302373	https://www.roncsoreli.com/
@@ -1281,7 +1278,7 @@ node	4745267075	http://www.peps-steakhouse.com/
 node	4745877877	https://www.ilpanequotidiano.com/
 node	4746557326	https://www.mugbakery.com/
 node	4746564199	https://www.gelatomarco.com
-node	4746570170	http://www.tavernasaporigreci.com/
+node	4746570170	https://tavernasaporigreci.wordpress.com/
 node	4748567359	http://www.geoscienze.units.it/geositi/vedigeo1.php?ID_GEO=534
 node	4748623602	http://www.geoscienze.units.it/geositi/vedigeo1.php?ID_GEO=425
 node	4750592461	http://www.geoscienze.units.it/geositi/vedigeo1.php?ID_GEO=105
@@ -2013,7 +2010,6 @@ node	9828141066	https://www.vigilfuoco.it/
 node	9840060421	https://www.isolasmeraldo.com/#welcome
 node	9842360422	http://www.hotellampara.com/
 node	9844085600	https://hotelsolun.it/
-node	9845586081	https://www.capannadoro.com/
 node	9848789805	https://www.smartrooms.it/
 node	9853652591	https://www.bluwash.it/
 node	9861318696	https://m.facebook.com/isoladorogrado
@@ -2245,6 +2241,8 @@ node	11105883819	http://laperlahotel.eu
 node	11115706303	https://www.hotel-gambrinus.com/
 node	11126275966	https://trattoriadalbolognes.eatbu.com/?lang=it
 node	11133597605	http://mypiancavallo.com
+node	11137783040	http://fotooktrieste.com/
+node	11142964655	https://rifugioalconvento.it/ristorante/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	www.campingalbosco.it
@@ -2652,6 +2650,7 @@ way	36704984	https://m.facebook.com/Lungomare-124-444222585728848/
 way	36704985	https://www.vallinhotels.com/
 way	36704988	https://www.playa.it/
 way	36705001	https://www.hotel-bristol.it/
+way	36705002	https://www.lignanofrontemare.it/
 way	36705120	https://www.ibhlignano.net/
 way	36705208	http://www.hotelvienna.it
 way	36705245	https://www.barsabbiadoro.it/
@@ -2689,6 +2688,7 @@ way	36706242	https://www.hotelvillacandia.it/
 way	36706244	http://www.laparigina.net/
 way	36706246	https://www.hotelsmarcopolo.it/
 way	36706248	http://www.hotelelvia.it
+way	36706257	http://www.hotelperlalignano.com
 way	36706327	https://www.hotelalcigno.it/
 way	36706392	http://www.apparthotelholiday.it
 way	36706399	https://www.hbl.it/
@@ -2758,7 +2758,7 @@ way	157598948	http://www.lifefriulifens.it/
 way	157862468	https://www.ilgiulia.it/
 way	158023735	http://www.salviamoilpaesaggio.it/blog/2012/02/in-provincia-di-udine-7-ettari-di-nuova-lottizzazione/
 way	158023737	http://www.salviamoilpaesaggio.it/blog/2012/02/in-provincia-di-udine-7-ettari-di-nuova-lottizzazione/
-way	158852230	https://www.villaggioalbatros.com
+way	158852230	https://www.marinajuliacampingvillage.com/;https://www.clubdelsole.com
 way	160548530	http://www.liburniats.org/p/le-spiagge.html
 way	163794292	http://www.comune.pozzuolo.udine.it
 way	170618590	http://www.agroshop-trieste.it/
@@ -2843,10 +2843,9 @@ way	296078492	http://www.tenuta-primero.com/sito/page/content/menu/195
 way	296899351	http://www.grgic.it
 way	297725615	http://www.yccupa.org/
 way	297741147	https://isontinambiente.it/
-way	300567134	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/sentiero-del-centenario-cai-gorizia/
 way	301981525	https://www.camptramontina.com/
 way	302114944	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/ferrata-via-della-vita/
-way	304348227	http://www.aipioppi.it/index.html
+way	304348227	https://www.aipioppi.it
 way	309124478	http://www.globomoda.com
 way	325173958	https://www.turismofvg.it/rnode/28609
 way	329324109	http://www.supermercatizazzeron.com/
@@ -3076,8 +3075,8 @@ way	1110311225	https://www.hotelpresidentlignano.com/
 way	1110836951	https://vallepantani.it/
 way	1122083985	https://www.batitalia.com/
 way	1124954983	https://www.casadiriposofioridelcarso.com/
-way	1133444222	www.lignanosabbiadoro.it
-way	1133444223	www.lignanosabbiadoro.it
+way	1133444222	https://lignanosabbiadoro.it/it/strutture/151-11-aragosta/
+way	1133444223	https://lignanosabbiadoro.it/it/strutture/150-10-delfino/
 way	1133444224	www.lignanosabbiadoro.it
 way	1149586120	https://www.dave.eu/
 way	1150164309	http://www.pasian.fvg.it/parchi/parco_lavia_bertrando.htm
@@ -3104,6 +3103,11 @@ way	1195533965	https://www.lidl.it/
 way	1195533967	https://www.dhomuscasa.it/
 way	1197793015	https://lignanosabbiadoro.it/it/strutture/sabbiadoro-ufficio-spiaggia-18/
 way	1198593269	http://www.portopiccolosistiana.it/it/spa_4.htm
+way	1202406102	https://www.capannadoro.com/
+way	1202665596	https://www.miramare.com/
+way	1202665599	https://www.hoteldesiree.it/
+way	1202729778	https://www.ferien-kinderfreunde.at;https://kinderfreunde.at
+way	1202986509	https://asufc.sanita.fvg.it/it/presidi-ospedalieri/ospedale_imfr_gemona/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -3359,7 +3363,6 @@ relation	141727	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carnic
 relation	141741	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-905
 relation	141744	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-906
 relation	159226	http://www.mininabbigliamento.it/
-relation	159685	https://asufc.sanita.fvg.it/it/presidi-ospedalieri/ospedale_imfr_gemona/
 relation	159960	http://www.icpagnacco.gov.it/primaria-moruzzo/
 relation	160061	http://www.termearta.org/
 relation	160345	https://www.hilton.com/en/hotels/trsdtdi-doubletree-trieste/
@@ -4315,7 +4318,6 @@ relation	14625045	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carnich
 relation	14625061	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/ferrata-amici-della-montagna/
 relation	14625246	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/ferrata-via-normale-alla-ponza-grande/
 relation	14626407	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/via-normale-al-nabois-grande/
-relation	14630035	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/sentiero-del-centenario-cai-gorizia/
 relation	14744849	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-362a/
 relation	14766262	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-776/
 relation	14766529	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-775/
@@ -4428,6 +4430,7 @@ node	668583878	https://www.mulinodelletolle.it/
 node	692767299	https://www.bricook.it/
 node	835196887	https://www.dvpanettone.com/
 node	939159246	https://www.filoxenia.it/
+node	1260510118	https://www.ristorantedatoni.it/
 node	1302181400	https://www.gradoit.it/it/scopri_le_terme_marine#
 node	1357503815	https://www.alparcoristorante.it/
 node	1749461119	https://www.giuntialpunto.it/
