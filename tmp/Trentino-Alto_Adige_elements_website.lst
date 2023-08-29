@@ -105,6 +105,7 @@ node	393455203	http://www.gasthofsalurn.it
 node	393901575	https://www.farmaciaperini.it/
 node	393901612	http://www.farmaciaallatorre.it/
 node	393901613	https://farmacia.gruppobonvicini.it/
+node	404344018	https://www.skihaus-schoeneben.it
 node	411324029	http://www.gasthofalpenrose.com
 node	411676566	https://www.ungerichthof.it/
 node	414978800	https://chaletgenziana.it/
@@ -112,6 +113,7 @@ node	414988153	https://www.hotelcevedale.it
 node	414997614	https://www.hotelortles.it/
 node	414997615	https://www.hotelgranzebru.com/it
 node	414997616	https://www.hotelkristiania.it/
+node	415504641	http://www.ristorantedolomiti.it
 node	415504648	http://www.serena-hotel.com/
 node	416692042	https://www.weisselilie.it/
 node	417200226	http://koestenthaler.com
@@ -1399,6 +1401,7 @@ node	2749683012	http://www.hofkaeserei.it/
 node	2749683342	https://www.x-metall.com
 node	2749683606	http://www.rider-hotel.com
 node	2749684162	http://www.ghost-bike.it/
+node	2749684220	https://www.schadnerhof.it/
 node	2749691952	https://evivasport.com/
 node	2749692405	http://www.okayfotodesign.com
 node	2749699039	https://www.pizzeriagaiser.it/
@@ -2985,7 +2988,6 @@ node	4294950103	http://www.comune.bieno.tn.it/
 node	4298051664	https://www.huetterwirtshof.com/
 node	4308579324	http://bauernhof-ultental.it/biohof-unterschweig/de/hofladen-qualitaet-produkte-eigene-herstellung/
 node	4309629821	http://www.bellavistahotel.it/
-node	4313928656	http://www.touratech.it
 node	4315863098	http://www.vecchiamacinapellizzano.com/
 node	4316269010	https://shop.sembenini.it/it/
 node	4316711016	http://www.apotheke.bz.it/
@@ -3548,7 +3550,6 @@ node	5661447413	http://www.studiodentisticoaltolago.com/it/
 node	5678541393	https://www.trudnerhof.com
 node	5678541394	https://www.trudnerhof.com
 node	5678552132	http://www.naturoase-stegerhof.com
-node	5680205931	http://ecoargentario.it/orridopontealto
 node	5684339821	http://www.pension-lahnerhof.com
 node	5687797141	https://www.almhotel.it/
 node	5690244341	http://www.steinerwaldorf-rovereto.it/
@@ -4768,7 +4769,6 @@ node	9885119041	http://mattuzzi.com
 node	9887268515	https://gestex.kross.travel/details/room/id/31
 node	9889830512	https://www.centromoda.tn.it/
 node	9891002037	http://www.provinz.bz.it/Zweisprachigkeit
-node	9891954274	https://ottenkeller.com/
 node	9896044192	https://www.seiseralm.it/de/erleben-geniessen/erleben/geschaefte-dienstleister-handwerker/rid-9B256E6C67635A77F19C0E50B76F860D-p-bibliothek-seis-am-schlern.html
 node	9897731667	https://www.hotelrose.it/
 node	9901813194	https://www.graffiti.it
@@ -5134,6 +5134,12 @@ node	11123837490	www.granvera.it
 node	11126038459	https://www.kaltern.com/de/info/pfusser-ladele.html
 node	11128708662	https://www.astorsuites.com/
 node	11134662828	https://musikschulen.provinz.bz.it/deutsch-ladinischsprachige/musikschuldirektion-brixen.asp
+node	11136297635	https://fisiolabtrento.it/
+node	11140407136	https://www.villamadruzzo.com/
+node	11141677719	https://www.rosra.it
+node	11142839967	https://www.instagram.com/barbu_pur/?igshid=OGQ5ZDc2ODk2ZA%3D%3D
+node	11143185960	http://www.suedtirolmobil.info
+node	11144339035	http://www.istitutotrento5.it/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -5569,7 +5575,6 @@ way	75118958	https://lenzitrattori.com/
 way	75280187	http://www.lavesan.com/Dovesiamo.aspx
 way	75310498	https://garnilavigna.it/
 way	75319299	http://www.crocebiancatn.org/
-way	75427358	http://www.gruppogiovannini.com/
 way	75542852	http://www.meran.eu/it/natura/sentieri-dacqua/waalweg-di-marlengo/
 way	75542856	http://www.meran.eu/it/natura/sentieri-dacqua/waalweg-di-marlengo/
 way	75670770	http://www.ristorantesancolombano.it/Ristorante-san-colombano.aspx
@@ -5862,7 +5867,6 @@ way	99923679	http://www.haus-sonja.it/
 way	99923715	https://www.pension-quellenhof.com/
 way	99923882	https://www.bzgvin.it/system/web/abteilung.aspx?menuonr=219001635&detailonr=219108305
 way	100082912	https://www.huetten.com/de/huette/oberpranterhuette-rt34822.html
-way	100269149	https://www.villamadruzzo.com/
 way	100463332	http://www.autoservice-glurns.lvh.it/
 way	100463347	http://www.moriggl.com/
 way	100463353	http://www.pulver-bz.it/
@@ -6517,6 +6521,7 @@ way	168298002	https://www.birreriastal.it/
 way	168339804	https://www.tabladel.com/
 way	168514320	http://www.graffer.com/
 way	168652495	www.bregadventurepark.it
+way	168652656	https://rifugio-la-primula.com/home/
 way	168652767	www.pontarno.it
 way	168652805	http://www.visittrentino.it/it/a/valli-giudicarie-e-valle-del-chiese/albergo-breguzzo-limes
 way	168873070	https://www.kleeberg-alpina.it/
@@ -6589,7 +6594,6 @@ way	181598788	https://www.unibz.it/
 way	181862410	http://www.protezionecivile.tn.it/territorio/geologia/Geositi/-LaviniMarco
 way	182659348	https://www.rebhof-kaltern.it/
 way	183174275	http://www.burggasthof.com/
-way	183174278	http://www.hotel-alte-muehle.com/
 way	183174280	http://www.hotelengel.com/
 way	183174281	https://www.hotel-saldur.com/
 way	183187648	http://www.schwarzlehen.com/
@@ -6965,6 +6969,7 @@ way	228961716	http://www.mairoesl.it/
 way	228961819	https://www.garni-claudia.it/
 way	228961825	http://rg.oberschulzentrum-schlanders.com/
 way	228961945	http://www.hotel-vierjahreszeiten.it
+way	229003439	https://www.scotoni.it
 way	229336029	http://www.teralab.it
 way	229340015	https://www.rabanser-tuning.it/
 way	229477757	https://www.circolovelatorbole.com/
@@ -7548,7 +7553,6 @@ way	336234488	http://www.skimontebondone.it/
 way	336236243	https://www.paganella.net/
 way	336474401	https://www.develey.it/
 way	336700022	http://www.hotel-levita.com
-way	338157724	http://www.istitutotrento5.it/
 way	338525439	http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?code=26087&sn=&mode=rxd&type=auto
 way	338729376	https://www.beatenhof.com/
 way	338767200	https://www.forcherhof.com/
@@ -9602,6 +9606,7 @@ relation	16227060	https://dolomitesgeotrail.com/
 relation	16229098	https://dolomitesgeotrail.com/
 relation	16229125	https://dolomitesgeotrail.com/
 relation	16229233	https://dolomitesgeotrail.com/
+relation	16244647	https://www.rifugi.lombardia.it/attivita/trekking/passo-forcel-rosso.html
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	268429704	http://www.farmaciagallo.com/
@@ -10118,7 +10123,7 @@ node	3139832281	http://www.superpoli.it/it/iperpoli/
 node	3140647111	https://www.hotel-schneider.it/
 node	3140647117	https://www.stifter.it
 node	3141296504	http://www.eurobrico.com
-node	3148715142	http://www.motorizzazione.provincia.tn.it/
+node	3148715142	https://www.provincia.tn.it/Argomenti/Mobilita-e-trasporti/Motorizzazione-civile
 node	3148715143	http://www.poste.it/
 node	3148715145	http://www.poste.it/
 node	3148715146	http://www.poste.it/
@@ -10182,6 +10187,7 @@ node	4290152712	https://www.autobrennero.it/it/in-viaggio/pedaggio/punto-blu/
 node	4297954142	https://www.steinerhof.eu/
 node	4300136767	http://www.hofschenke-alpenland.com/
 node	4309629821	http://www.bellavistahotel.it
+node	4313928656	https://www.harleydavidsontrento.it/
 node	4320942584	http://centrodonboscozambana.jimdo.com/
 node	4356465932	http://www.d-piu.com/punto-vendita/Rovereto_Via%20Abetone%20Brennero.htm?pv=198
 node	4370715433	http://www.libertyhotelmale.it
@@ -10235,6 +10241,7 @@ node	5418327407	http://www.athesiabuch.it
 node	5462637088	http://www.aldi.it/
 node	5471011199	http://www.rofenhof.com/
 node	5504957384	https://passionbrewery.com/
+node	5680205931	https://www.ecoargentario.it/orrido-di-ponte-alto/
 node	5810400324	http://cascade-suedtirol.com/gusto
 node	5810794636	http://toblhof.it
 node	5811632458	http://www.haidacher.com
@@ -10457,9 +10464,15 @@ node	11090941787	https://www.provincia.tn.it/Amministrazione/Organi-politici/Giu
 node	11090941789	https://www.locandaleduetravi.it/
 node	11133949882	https://www.conad.it/ricerca-negozi/margherita-conad-frazione-villamontagna-235-38100-trento--006770
 node	11135039811	https://www.vertikale.it
+node	11138636525	https://www.centrosantachiara.it/
+node	11140407137	http://www.casaserena.tn.it/;https://anffas.tn.it/i-nostri-servizi/nuova-casa-serena/
+node	11148131851	https://www.ecoargentario.it/orrido-di-ponte-alto/
+node	11150349194	http://www.vivaibrugna.com/
+node	11150351093	https://nadaliniflor.it/
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
 way	24875513	https://www.asis.trento.it/it/impianti/campo-scuola-atletica-leggera-c-covi-e-e--postal_9425_s/
+way	24915146	https://www.asis.trento.it/it/impianti/centro-sportivo-piedicastello-vela_9422_s/
 way	25667259	https://www.viaggiareintrentino.it/
 way	25667636	https://mobility.pnab.it/it/location/valditovel.html
 way	25923286	https://www.viaggiareintrentino.it/
@@ -10509,6 +10522,7 @@ way	61925529	http://www.chaletovel.it/
 way	61925531	http://www.albergolagorosso.it/
 way	65221812	https://coopsamuele.it
 way	65221875	https://www.fratiminori.it/luogo/convento-s-bernardino/
+way	65254971	https://www.padriventurini.it/
 way	65381779	http://www.iprase.tn.it
 way	65475870	https://www.termedilevico.it/
 way	65727762	https://www.hotellagrotta.it
@@ -10545,9 +10559,11 @@ way	73141151	http://www.alcastagneto.net/
 way	73412645	http://www.ristorantepozze.it/
 way	75310719	http://www.ristorantedapino.it/
 way	75427314	http://furlanicarni.it/it/home-it/
+way	75427358	https://www.gruppogiovannini.it/
 way	75427363	http://www.moar.it/
 way	75427371	http://www.stefanotovazzi.it/wp-content/uploads/2013/12/SLOI_giornale.pdf
 way	75465172	http://www.elettrozeta.it/
+way	75514960	https://www.appm.it/servizi-educativi/comunita-socio-sanitaria-campotrentino/
 way	75614546	http://www.hoteleverest.it/
 way	75614588	http://www.villafontana.it/
 way	75658568	https://www.frigoespress.it/
@@ -10847,7 +10863,6 @@ way	365684254	http://www.elektromarschall.it/de
 way	372517415	https://www.museopejo.it/
 way	373081086	http://www.dolcelit.it
 way	375106979	http://www.hotelstellaalpina.it
-way	378494508	http://www.vivaibrugna.com/
 way	385162547	https://www.diocesitn.it/area-cultura/
 way	404413967	www.bikebreak.it
 way	406814319	https://www.visitvalsugana.it/
