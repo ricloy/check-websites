@@ -2,8 +2,8 @@ SUCCESS_(200…299) 200 https://osm.org/browse/node/5111206410 http://atelierbal
 SUCCESS_(200…299) 200 https://osm.org/browse/way/147187152 http://bivaccolucareboulaz.weebly.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/8235734591 http://aosta.caivda.it
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/4970519067 https://osm.org/browse/node/4970519068 http://cf.regione.vda.it/lista_stazioni.php → https://cf.regione.vda.it/lista_stazioni.php
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/1667631934 http://ciclilucchini.com/ → https://www.ciclilucchini.it
 SERVER_ERROR_(500…599) 500 https://osm.org/browse/way/117702395 http://campingmonterosa.altervista.org
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1667631934 http://ciclilucchini.com/ → https://www.ciclilucchini.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670533689 https://osm.org/browse/relation/517389 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670536202 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73176A → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73176A
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670537491 https://osm.org/browse/relation/517790 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202 → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202
@@ -19,10 +19,10 @@ REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538711 https://osm.or
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538714 https://osm.org/browse/relation/517932 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538722 https://osm.org/browse/relation/517933 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AF → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AF
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538725 https://osm.org/browse/relation/517934 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG
-TIMEOUT https://osm.org/browse/node/2963295873 https://osm.org/browse/way/292792697 http://dondeynazgamba.com/home.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538738 https://osm.org/browse/relation/517938 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538741 https://osm.org/browse/relation/517939 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538748 https://osm.org/browse/relation/517940 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H
+TIMEOUT https://osm.org/browse/node/2963295873 https://osm.org/browse/way/292792697 http://dondeynazgamba.com/home.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538750 https://osm.org/browse/relation/517941 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538751 https://osm.org/browse/relation/517942 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538753 https://osm.org/browse/relation/517943 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L
@@ -37,21 +37,21 @@ REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538791 https://osm.or
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538800 https://osm.org/browse/relation/517953 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538803 https://osm.org/browse/relation/517954 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538804 https://osm.org/browse/relation/517955 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538805 https://osm.org/browse/relation/517956 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538806 https://osm.org/browse/relation/517957 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538805 https://osm.org/browse/relation/517956 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670539182 https://osm.org/browse/node/670539184 https://osm.org/browse/relation/518000 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608 → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5495602922 http://levieuxpommier.it/courmayeur/sito-it-8.html → https://levieuxpommier.it/courmayeur/sito-it-8.html
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/9043773118 http://maisonlasaxe.it → http://www.maisonlasaxe.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/5327637740 http://officine.puntopro.it/officina-laurent → https://officine.puntopro.it/officina-laurent
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/1152238179 https://osm.org/browse/way/1152238179 http://maisondunoyer.com/ → http://www.maisondunoyer.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5327637740 http://officine.puntopro.it/officina-laurent → https://officine.puntopro.it/officina-laurent
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/353081755 http://rifugio-champillon.it → https://rifugio-champillon.it/
 SAME_DOMAIN_REDIRECTION_(300…399) 301 https://osm.org/browse/node/9920764453 http://rafting.it/ → /it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/162621698 http://tegoleria.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5143203606 http://thewishingwellaosta.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/9605236343 http://stefenellidesk.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5111206427 http://www.adforum-enoteca.com/ → https://www.adforum-enoteca.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9605236343 http://stefenellidesk.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2035292433 http://www.albergocarla.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/2893731434 http://www.albergoalpenrose.it/ → https://www.albergoalpenrose.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4118550098 http://www.alpenzu.com/ → https://www.alpenzu.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/792170007 https://osm.org/browse/way/792170382 https://osm.org/browse/way/792170989 http://www.alpifortificate.com/fortificazioni.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/8960825303 http://www.alpinerooms.com/ → https://www.alpinerooms.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/372502 http://www.alptrekking.ch → https://www.valrando.ch/fr/ewalc?id=2451&key=315e22e62801a402462ea04092f5ade7
@@ -61,7 +61,7 @@ REDIRECTION_(300…399) 301 https://osm.org/browse/node/2900583662 http://www.an
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/7409720604 http://www.antichisaporihone.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2564261857 http://www.aquolinae.com/site/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/194286728 http://www.archistico.com → https://www.archistico.com/
-TIMEOUT https://osm.org/browse/node/4118550098 http://www.alpenzu.com/
+TIMEOUT https://osm.org/browse/node/2893731434 http://www.albergoalpenrose.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5270785222 http://www.astoriacervinia.com/ → https://www.astoriacervinia.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/73024728 http://www.azzurra-camper.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2339014872 http://www.bachamp1826.com/
@@ -70,23 +70,23 @@ SUCCESS_(200…299) 200 https://osm.org/browse/way/162219039 http://www.birrific
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1885091082 http://www.bistrotramet.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/6048531360 http://www.bivaccomorion.com
 SUCCESS_(200…299) 200 https://osm.org/browse/way/401733377 http://www.bnboutdoor.com/
-SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/8235617510 http://www.caichatillon.it → ./sito/menu.asp
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1745155647 http://www.bertolin.com → https://www.bertolin.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/14405841 http://www.caiseregno.it/ → https://www.caiseregno.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049840 http://www.caitorino.it/ → https://www.caitorino.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/7007938 https://osm.org/browse/relation/7111457 https://osm.org/browse/relation/7645867 https://osm.org/browse/relation/7646240 https://osm.org/browse/relation/7689967 http://www.caiivrea.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/14405841 http://www.caiseregno.it/ → https://www.caiseregno.it/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/8235617510 http://www.caichatillon.it → ./sito/menu.asp
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049840 http://www.caitorino.it/ → https://www.caitorino.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10704457716 http://www.caiverres.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/120778625 http://www.campingmargherita.com → https://www.campingmargherita.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/893997036 http://www.campingarvier.com/ → https://www.campingarvier.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/120778625 http://www.campingmargherita.com → https://www.campingmargherita.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/12100736 http://www.campingvaldirhemes.com/ → https://www.campingvaldirhemes.com/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3784836248 http://www.casacountryarnad.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/246275093 http://www.campingtouring.com/ → https://www.campingtouring.com/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/165261857 http://www.castellogamba.vda.it → https://www.castellogamba.vda.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3784836248 http://www.casacountryarnad.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/376506096 http://www.castorepolluce.com → https://www.castorepolluce.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/162259412 http://www.cattedraleaosta.it/it/ → https://cattedraleaosta.it/it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5351240120 http://www.chambresdamis.eu
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/4293296279 http://www.chamousira.net/home.html → https://www.chamousira.it/home.html
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/3332979 http://www.cc-valleedechamonixmontblanc.fr/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/4293296279 http://www.chamousira.net/home.html → https://www.chamousira.it/home.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/10076371041 https://osm.org/browse/way/81823894 https://osm.org/browse/way/243217275 http://www.cogne.com/ → https://www.cogne.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/7742091647 http://www.cogneturismo.it/ospitalita.asp?id=17&cat=15&l=1&n=68&p=2 → https://www.cogneturismo.it/ospitalita.asp?id=17&cat=15&l=1&n=68&p=2
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/7900639885 http://www.cogneturismo.it/ospitalita.asp?id=18&cat=11&l=1&n=66&p=1 → https://www.cogneturismo.it/ospitalita.asp?id=18&cat=11&l=1&n=66&p=1
@@ -99,27 +99,28 @@ REDIRECTION_(300…399) 302 https://osm.org/browse/node/1269097055 http://www.co
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/738719190 http://www.comune.verrayes.ao.it/ → https://www.comune.verrayes.ao.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/161265133 http://www.comune.villeneuve.ao.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4931460893 http://www.confreriedumoyenage.com → https://www.confreriedumoyenage.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5469217426 http://www.coopindaco.it/
+TIMEOUT https://osm.org/browse/way/247461444 http://www.cittadelladeigiovani.ao.it/cdg/
 SERVER_ERROR_(500…599) 503 https://osm.org/browse/node/2497205569 https://osm.org/browse/way/165354919 http://www.cva-ao.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2302314344 http://www.dortoirlavyiyeehcoula.it/
-TIMEOUT https://osm.org/browse/way/247461444 http://www.cittadelladeigiovani.ao.it/cdg/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/1302202773 http://www.etoiledeneige.com/ → homepage.asp?l=1
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1684761182 http://www.fioriepiantepaolaebruna.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/1326399991 http://www.fortedimachaby.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/1326399991 http://www.fortedimachaby.it/index.php
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9039023768 https://osm.org/browse/way/130854538 http://www.giasson.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/161490602 http://www.golfcourmayeur.it/ → https://www.golfcourmayeur.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5469217426 http://www.coopindaco.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/12367904 https://osm.org/browse/relation/12368042 https://osm.org/browse/relation/12368043 https://osm.org/browse/relation/12369141 https://osm.org/browse/relation/12369142 https://osm.org/browse/relation/12369248 http://www.granbalconatacervino.it/ → https://www.trekkingcervino.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/441997368 http://www.grandcombin.com
-TIMEOUT https://osm.org/browse/node/1302202773 http://www.etoiledeneige.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/147709783 http://www.grandesjorasses.com/ → https://www.grandesjorasses.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/161490602 http://www.golfcourmayeur.it/ → https://www.golfcourmayeur.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/162205785 http://www.groscidac.com/ → https://www.groscidac.eu/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/147548048 http://www.hibouprojet.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4551098194 http://www.hotel-chardoney.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/10875502005 http://www.helimontblanc.it → https://www.helimontblanc.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/925960688 http://www.hotelarmanac.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/185036928 http://www.hotelboutondor.com → http://www.hotelboutondor.com/en/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4177869337 http://www.hotel-gressoney.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1842637090 http://www.hotelboutondor.it → https://www.hotelboutondor.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4177869337 http://www.hotel-gressoney.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/160843228 http://www.hotelcroux.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/666335350 http://www.hoteldufoyer.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/666335350 http://www.hoteldufoyer.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2564532004 http://www.hotelexpressaosta.it/ → https://www.hotelexpressaosta.it/
@@ -127,53 +128,52 @@ REDIRECTION_(300…399) 301 https://osm.org/browse/node/1777902774 https://osm.o
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4774100601 http://www.hotellachancepila.it/ → https://www.hotellachancepila.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3865477959 http://www.hotellaghetto.it → https://www.hotellaghetto.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/299232222 http://www.hotelleriedemascognaz.com/ → https://www.hotelleriedemascognaz.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/8948251450 http://www.hotelmontagnards.com/ → https://www.hotelmontagnards.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2385643175 http://www.hotelmontvelan.com → https://www.hotelmontvelan.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/8948251450 http://www.hotelmontagnards.com/ → https://www.hotelmontagnards.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4373181405 http://www.hotelnotremaison.com → https://www.hotelnotremaison.it
-TIMEOUT https://osm.org/browse/way/160843228 http://www.hotelcroux.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/103017128 http://www.hotelpetitfoyer.it → https://www.hotelpetitfoyer.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1988134627 http://www.hotelrendezvous.it/ → https://www.hotelrendezvous.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5111206432 http://www.ilborgoantico.eu/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3310419237 http://www.ilcaselloverres.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/6034013574 http://www.ilcervino.com/ → https://www.ilcervino.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1347556526 http://www.labaraka.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/103017128 http://www.hotelpetitfoyer.it → https://www.hotelpetitfoyer.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3264580264 http://www.labreny.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4365450437 http://www.lafermedugrandparadis.com → http://www.lafermedugrandparadis.it
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/6707523516 http://www.lagranbeccacervinia.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/3696664892 http://www.lagrottalathuile.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3264573191 http://www.lamaisondedolphe.com/ → https://www.lamaisondedolphe.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3696664892 http://www.lagrottalathuile.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4397541169 http://www.lamaisondefranco.it → https://www.lamaisondefranco.it/
-TIMEOUT https://osm.org/browse/node/3310419237 http://www.ilcaselloverres.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/9399286093 http://www.lapalud.it/ → https://www.lapalud.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/2564279291 http://www.lareina.it/ → http://www.lareina.it/index.php?lang=it
-TIMEOUT https://osm.org/browse/node/2262972141 http://www.lamaisondugout.it
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/2262972141 http://www.lamaisondugout.it → http://www.lamaisondugout.it/homepage.asp?l=1
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/151275029 http://www.lartisana.vda.it/ → https://www.lartisana.vda.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3671946584 http://www.laviadelleterme.it → https://www.laviadelleterme.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2564279291 http://www.lareina.it/ → http://www.lareina.it/index.php?lang=it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5459687821 http://www.lavineria-aosta.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/8108975517 http://www.lazybee.it → https://www.lazybee.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/151275029 http://www.lartisana.vda.it/ → https://www.lartisana.vda.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/6780744588 http://www.lecadransolaire.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2929169744 http://www.lecoindesmelezes.it → http://www.lecoindesmelezes.it/homepage.asp?l=1
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3929064529 http://www.lepetitabri.com → https://www.lepetitabri.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1647213412 http://www.lerascard.com/
-TIMEOUT https://osm.org/browse/node/2929169744 http://www.lecoindesmelezes.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/6780744588 http://www.lecadransolaire.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/462903251 http://www.lesfleursgignod.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/9573037565 http://www.lerevecharmant.com/
 OTHER_CURL_ERROR 52  https://osm.org/browse/way/112844113 http://www.lesrefuges.it/it/rifugi/fond.html
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5525725624 http://www.letoileduberger.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/2851956810 http://www.lobarba.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9573037565 http://www.lerevecharmant.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2851956810 http://www.lobarba.it/ → https://www.lobarba.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1353685312 http://www.locanda-lacplacemoulin.it/ → https://www.locanda-lacplacemoulin.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/9035495717 http://www.lopanner.it → https://www.lopanner.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1647213422 http://www.loriondet.it → https://www.loriondet.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/725271625 http://www.lovevda.it/it/banca-dati/22/agriturismo/valsavarenche/lo-mayen/9000701 → https://www.lovevda.it/it/banca-dati/22/agriturismo/valsavarenche/lo-mayen/9000701
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/401733377 http://www.lovevda.it/it/banca-dati/22/bed-breakfast/antey-saint-andre/outdoor/9004315 → https://www.lovevda.it/it/banca-dati/22/bed-breakfast/antey-saint-andre/outdoor/9004315
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9659900 http://www.lovevda.it/it/banca-dati/7/altas-vias/valle-de-aosta/gressoney-saint-jean-crest/2983 → https://www.lovevda.it/it/banca-dati/7/altas-vias/valle-de-aosta/gressoney-saint-jean-crest/2983
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/3883252320 http://www.lovevda.it/it/banca-dati/22/bed-breakfast/gignod/clemaison/9005221 → https://www.lovevda.it/it/banca-dati/22/bed-breakfast/gignod/clemaison/9005221
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9814583 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/courmayeur-rifugio-elisabetta-soldini/2976 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/courmayeur-rifugio-elisabetta-soldini/2976
-REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9659900 http://www.lovevda.it/it/banca-dati/7/altas-vias/valle-de-aosta/gressoney-saint-jean-crest/2983 → https://www.lovevda.it/it/banca-dati/7/altas-vias/valle-de-aosta/gressoney-saint-jean-crest/2983
-REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9898858 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/eaux-rousses-rifugio-vittorio-sella/2973 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/eaux-rousses-rifugio-vittorio-sella/2973
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9675683 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/crest-rifugio-grand-tournalin/2969 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/crest-rifugio-grand-tournalin/2969
-REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9893325 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/planaval-rifugio-chalet-de-l-ep%C3%A9e/2995 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/planaval-rifugio-chalet-de-l-ep%C3%A9e/2995
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9865087 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/la-thuile-rifugio-alberto-deffeyes/2984 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/la-thuile-rifugio-alberto-deffeyes/2984
-REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9659902 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/rifugio-della-barma-niel/2981 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/rifugio-della-barma-niel/2981
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9898858 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/eaux-rousses-rifugio-vittorio-sella/2973 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/eaux-rousses-rifugio-vittorio-sella/2973
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9893325 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/planaval-rifugio-chalet-de-l-ep%C3%A9e/2995 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/planaval-rifugio-chalet-de-l-ep%C3%A9e/2995
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9678913 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/rifugio-cun%C3%A9y-oyace/2987 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/rifugio-cun%C3%A9y-oyace/2987
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9678940 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/saint-rh%C3%A9my-en-bosses-rifugio-frassati/2994 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/saint-rh%C3%A9my-en-bosses-rifugio-frassati/2994
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9659902 http://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/rifugio-della-barma-niel/2981 → https://www.lovevda.it/it/banca-dati/7/alte-vie/-valle-d-aosta-/rifugio-della-barma-niel/2981
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9899070 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/champorcher-crest/2990 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/champorcher-crest/2990
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/162371 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/cogne-rifugio-sogno-di-berdze/2974 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/cogne-rifugio-sogno-di-berdze/2974
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9899069 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/crest-donnas/2978 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/crest-donnas/2978
@@ -182,9 +182,9 @@ REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9659901 http://www.l
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9678912 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/oyace-rey-ollomont/2989 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/oyace-rey-ollomont/2989
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9678911 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rey-ollomont-rifugio-letey-champillon/2988 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rey-ollomont-rifugio-letey-champillon/2988
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9893411 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rhemes-notre-dame-eaux-rousses/2996 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rhemes-notre-dame-eaux-rousses/2996
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9675684 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-barmasse-rifugio-cuney/3000 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-barmasse-rifugio-cuney/3000
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9865106 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-alberto-deffeyes-planaval/2967 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-alberto-deffeyes-planaval/2967
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9893412 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-chalet-de-l-epee-rhemes-notre-dame/2992 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-chalet-de-l-epee-rhemes-notre-dame/2992
-REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9675684 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-barmasse-rifugio-cuney/3000 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-barmasse-rifugio-cuney/3000
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9632720 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-coda-rifugio-della-barma/2980 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-coda-rifugio-della-barma/2980
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9899071 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-dondena-champorcher/2971 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-dondena-champorcher/2971
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9814772 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-elisabetta-soldini-la-thuile/2985 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-elisabetta-soldini-la-thuile/2985
@@ -194,25 +194,25 @@ REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9678910 http://www.l
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9898947 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-sogno-di-berze-rifugio-dondena/2970 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-sogno-di-berze-rifugio-dondena/2970
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9898857 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-vittorio-sella-cogne/2972 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-vittorio-sella-cogne/2972
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9678938 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-walter-bonatti-courmayeur/2975 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/rifugio-walter-bonatti-courmayeur/2975
-REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9630568 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/sassa-rifugio-coda/2986 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/sassa-rifugio-coda/2986
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9675681 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/valtournenche-rifugio-barmasse/2997 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/valtournenche-rifugio-barmasse/2997
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9630568 http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/sassa-rifugio-coda/2986 → https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/sassa-rifugio-coda/2986
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/6551074134 http://www.lovevda.it/it/banca-dati/8/archeologia/aosta/area-funeraria-fuori-porta-decumana/1349 → https://www.lovevda.it/it/banca-dati/8/archeologia/aosta/area-funeraria-fuori-porta-decumana/1349
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/529715015 http://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/criptoportico-forense/1259 → https://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/criptoportico-forense/1259
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/82298005 http://www.lovevda.it/it/banca-dati/8/archeologia/aosta/area-megalitica-di-saint-martin-de-corleans-museo-e-parco-archeologico/751 → https://www.lovevda.it/it/banca-dati/8/archeologia/aosta/area-megalitica-di-saint-martin-de-corleans-museo-e-parco-archeologico/751
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/670954093 http://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/villa-della-consolata/752 → https://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/villa-della-consolata/752
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/529715015 http://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/criptoportico-forense/1259 → https://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/criptoportico-forense/1259
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/119555456 http://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/teatro-romano/736 → https://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/teatro-romano/736
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/120556374 http://www.lovevda.it/it/banca-dati/8/castelli-e-torri/chatillon/castello-di-ussel/809 → https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/chatillon/castello-di-ussel/809
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/670954093 http://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/villa-della-consolata/752 → https://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/villa-della-consolata/752
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/71170701 http://www.lovevda.it/it/banca-dati/8/architettura-romana/aymavilles/il-ponte-acquedotto-romano-di-pont-d-ael/852 → https://www.lovevda.it/it/banca-dati/8/architettura-romana/aymavilles/il-ponte-acquedotto-romano-di-pont-d-ael/852
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/120556374 http://www.lovevda.it/it/banca-dati/8/castelli-e-torri/chatillon/castello-di-ussel/809 → https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/chatillon/castello-di-ussel/809
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/2044885 https://osm.org/browse/relation/11976193 http://www.lovevda.it/it/banca-dati/8/castelli-e-torri/fenis/castello-di-fenis/979 → https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/fenis/castello-di-fenis/979
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/338168700 http://www.lovevda.it/it/banca-dati/8/castelli-e-torri/gressoney-saint-jean/castello-savoia/873 → https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/gressoney-saint-jean/castello-savoia/873
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/1316237658 http://www.lovevda.it/it/banca-dati/8/castelli-e-torri/issogne/castello-di-issogne/980 → https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/issogne/castello-di-issogne/980
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/194247919 http://www.lovevda.it/it/banca-dati/8/castelli-e-torri/introd/castello-di-introd/895 → https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/introd/castello-di-introd/895
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/118079558 http://www.lovevda.it/it/banca-dati/8/castelli-e-torri/verres/castello-di-verres/864 → https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/verres/castello-di-verres/864
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/1316237658 http://www.lovevda.it/it/banca-dati/8/castelli-e-torri/issogne/castello-di-issogne/980 → https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/issogne/castello-di-issogne/980
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/161681506 http://www.lovevda.it/it/banca-dati/8/castelli-e-torri/sarre/castello-reale-di-sarre/1131 → https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/sarre/castello-reale-di-sarre/1131
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/246274769 http://www.lovevda.it/turismo/proposte/sport/sport_acqua/schede_pesca_i.asp?tipo=scheda&pk=3303&nomesch=sch_Sport&ts=sport → https://www.lovevda.it/turismo/proposte/sport/sport_acqua/schede_pesca_i.asp?tipo=scheda&pk=3303&nomesch=sch_Sport&ts=sport
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/118079558 http://www.lovevda.it/it/banca-dati/8/castelli-e-torri/verres/castello-di-verres/864 → https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/verres/castello-di-verres/864
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/148214318 http://www.lovevda.it/it/banca-dati/8/chiese-e-santuari/courmayeur/santuario-di-notre-dame-de-guerison/931 → https://www.lovevda.it/it/banca-dati/8/chiese-e-santuari/courmayeur/santuario-di-notre-dame-de-guerison/931
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/3723824746 http://www.maisongaudenzio.com/ → https://www.maisongaudenzio.com/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/246274769 http://www.lovevda.it/turismo/proposte/sport/sport_acqua/schede_pesca_i.asp?tipo=scheda&pk=3303&nomesch=sch_Sport&ts=sport → https://www.lovevda.it/turismo/proposte/sport/sport_acqua/schede_pesca_i.asp?tipo=scheda&pk=3303&nomesch=sch_Sport&ts=sport
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/113803178 http://www.maisoncly.it/it/baita-fontana-freida-cucina-tipica-chamois → https://www.maisoncly.it/it/baita-fontana-freida-cucina-tipica-chamois
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3723824746 http://www.maisongaudenzio.com/ → https://www.maisongaudenzio.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3182559846 http://www.maisonlazier.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/162259957 http://www.mamajapaneserestaurant.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1836184412 http://www.marianivis.com/
@@ -221,96 +221,96 @@ CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/1333701141 http://www.m
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049715 http://www.miserinespritlibre.it/ → https://www.miserinespritlibre.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2009476687 http://www.montagneinvalledaosta.com/SITO/pagina_559_rif_biv_bivacco_pelissier/pagina_559.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3934389432 http://www.montecervinohotel.com/ → https://www.montecervinohotel.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5564658154 http://www.mandoue.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/355336844 https://osm.org/browse/node/8736057722 http://www.msmountain.it/aroundw/rifugi/bivacco_gastaldi.html → http://msmountain.it/index.php?path=aroundw/rifugi/bivacco_gastaldi.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3544679306 https://osm.org/browse/way/331091609 http://www.montmars.it/ → https://www.montmars.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/847296482 http://www.museoscienze.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/355336844 https://osm.org/browse/node/8736057722 http://www.msmountain.it/aroundw/rifugi/bivacco_gastaldi.html → http://msmountain.it/index.php?path=aroundw/rifugi/bivacco_gastaldi.html
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5564658154 http://www.mandoue.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/9019900260 http://www.onlyski.eu/ → https://www.onlyski.eu/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/847296482 http://www.museoscienze.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1930450200 http://www.ostellolacrestadellupo.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12039476 http://www.parc-animalier-introd.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5111206419 http://www.osterianando.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/365318454 http://www.parcofaunisticomontavic.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9371240100 http://www.partitodemocraticodellavalledaosta.it/
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/449223234 http://www.paysageamanger.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4358940866 http://www.pinetdelio.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/8955169068 http://www.pizzeriaetoile.com/ → http://www.pizzeriaetoile.com/courmayeur/l-etoile-it-8.html
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/165077481 http://www.ponteromano.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/449223234 http://www.paysageamanger.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1318720350 http://www.puntazerbion.com → https://www.puntazerbion.com/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/353049798 http://www.refugevieuxcrest.com/ → http://lavarets.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/491897355 http://www.regione.vda.it/risorsenaturali/faunaselvatica/CRAS/default_i.aspx → https://www.regione.vda.it/risorsenaturali/faunaselvatica/CRAS/default_i.aspx
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2186332685 http://www.residencecervino2.com
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/120778651 http://www.residencedelapierre.it/ → https://www.residencedelapierre.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4358940866 http://www.pinetdelio.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/2532532164 http://www.residencelesfleurs.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4193735406 http://www.residenceoberteil.it → https://www.residenceoberteil.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/149862628 http://www.rifugimonterosa.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2532532164 http://www.residencelesfleurs.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049825 http://www.rifugio-prarayer.it/ → https://www.rifugio-prarayer.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/149862628 http://www.rifugimonterosa.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/154481659 http://www.rifugioalpebonze.it/
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/353049833 http://www.rifugioaosta.it/a/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049771 http://www.rifugioalpenzu.it/ → http://www.rifugioalpenzu.it/homepage.asp?l=1
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/353049833 http://www.rifugioaosta.it/a/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/137043082 http://www.rifugioarbolle.it/ → https://www.rifugioarbolle.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1288185322 http://www.rifugiobelvedere.net/ → https://www.rifugiobelvedere.net/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/147172024 http://www.rifugiobenevolo.com → https://www.rifugiobenevolo.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1502683557 http://www.rifugiobarma.it → https://www.rifugiobarma.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/147536904 http://www.rifugiobonatti.it/ → https://www.rifugiobonatti.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/147963963 https://osm.org/browse/way/147963960 http://www.rifugiobertone.it/wp/it/home/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/147536904 http://www.rifugiobonatti.it/ → https://www.rifugiobonatti.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049817 http://www.rifugiocuney.it/it/il-rifugio-barmasse/ → https://www.rifugiocuney.it/it/il-rifugio-barmasse/
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/353084260 http://www.rifugiodalmazzi.com/ → http://ww25.rifugiodalmazzi.com/?subid1=20230822-1413-4100-81be-68772642099c
-SUCCESS_(200…299) 200 https://osm.org/browse/way/136187621 http://www.rifugiodeffeyes.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049844 http://www.rifugiocuney.it/ → https://www.rifugiocuney.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/353084260 http://www.rifugiodalmazzi.com/ → http://ww38.rifugiodalmazzi.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/131413425 https://osm.org/browse/way/131413425 http://www.rifugiodellemarmotte.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/353083724 http://www.rifugioelena.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/60798744 http://www.rifugioelisabetta.com → https://www.rifugioelisabetta.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/353049806 http://www.rifugioermitage.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049800 http://www.rifugioferraro.com/ → https://www.rifugioferraro.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/136187621 http://www.rifugiodeffeyes.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1407251340 http://www.rifugiofrassati.it/ → https://www.rifugiofrassati.it/
-TIMEOUT https://osm.org/browse/node/353049844 http://www.rifugiocuney.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049808 http://www.rifugiograndtournalin.com/en/ → https://www.rifugiograndtournalin.com/en/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4131425462 http://www.rifugiomagia.it
 SUCCESS_(200…299) 200 https://osm.org/browse/way/77455428 http://www.rifugiogonella.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049808 http://www.rifugiograndtournalin.com/en/ → https://www.rifugiograndtournalin.com/en/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/353085969 http://www.rifugiomontebianco.com/ → http://ww7.rifugiomontebianco.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/229567128 http://www.rifugiomontfallere.it → https://www.rifugiomontfallere.it/2023/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4131425462 http://www.rifugiomagia.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/229567128 http://www.rifugiomontfallere.it/ → https://www.rifugiomontfallere.it/2023/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/303518020 http://www.rifugioquintinosella.com/ → https://www.rifugioquintinosella.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/229567128 http://www.rifugiomontfallere.it → https://www.rifugiomontfallere.it/2023/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/61579198 http://www.rifugiosavoia.com/ → https://www.rifugiosavoia.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/303518020 http://www.rifugioquintinosella.com/ → https://www.rifugioquintinosella.com/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/295875967 http://www.rifugioteodulo.it → https://www.caitorino.it/rifugi/teodulo/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/1666029174 http://www.rifugiosella.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/148212583 http://www.rifugiotorino.com
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/163316242 http://www.ristopizzasottosopra.com/ → https://www.ristopizzasottosopra.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2541651245 http://www.ristopizzasottosopra.com/contatti.aspx → https://www.ristopizzasottosopra.com/contatti.aspx
-SUCCESS_(200…299) 200 https://osm.org/browse/node/2555409135 http://www.ristorantecaesar.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1647213374 http://www.ristorantelafordze.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/148212583 http://www.rifugiotorino.com
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5200624321 http://www.ristorantelaterrazza.com/courmayeur/sito-it-8.html
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2555409135 http://www.ristorantecaesar.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2556776805 http://www.ristoranteosteriadelloca.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1277964753 http://www.ristorolagomuffe.com/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/3484473141 http://www.rus-arlaz-herbal.it/ → https://www.rus-arlaz-herbal.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/9605272588 http://www.ristorantevecchioristoro.it/ → http://ristorantevecchioristoro.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/2963161790 http://www.samsuffy.it/ → https://www.samsuffy.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5111206434 http://www.saint-vout.com/it/saint-vout-cafe-oenotheque-fromagerie-produits-du-terroir/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9605272588 http://www.ristorantevecchioristoro.it/ → https://ristorantevecchioristoro.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/9193709471 http://www.scuolascichamois.it → https://www.scuolascichamois.it/
-TIMEOUT https://osm.org/browse/node/5111206434 http://www.saint-vout.com/it/saint-vout-cafe-oenotheque-fromagerie-produits-du-terroir/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2963161790 http://www.samsuffy.it/ → https://www.samsuffy.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/319835037 http://www.soccorsoalpinovaldostano.com/ → https://www.soccorsoalpinovaldostano.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1483752218 http://www.studioantey.com → https://www.studioantey.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/373618450 http://www.sucai.it/bivaccogervasutti/index.html
-FAILED_TO_CONNECT_TO_HOST https://osm.org/browse/node/2039958910 http://www.termedisaintvincent.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3165214101 http://www.topopazzoclimbinghouse.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/12362502 http://www.tourdescombins.ch/fr/l-itineraire/cabane-chanrion-cabane-letey-a-champillon/ → http://tourdescombins.ch/fr/l-itineraire/cabane-chanrion-cabane-letey-a-champillon/
-TIMEOUT https://osm.org/browse/way/319835037 http://www.soccorsoalpinovaldostano.com/
+FAILED_TO_CONNECT_TO_HOST https://osm.org/browse/node/2039958910 http://www.termedisaintvincent.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/12362501 http://www.tourdescombins.ch/fr/l-itineraire/cabane-letey-a-champillon-saint-rhemy/ → http://tourdescombins.ch/fr/l-itineraire/cabane-letey-a-champillon-saint-rhemy/
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/12362583 http://www.tourdescombins.ch/fr/l-itineraire/saint-rhemy-col-du-grand-st-bernard/ → http://tourdescombins.ch/fr/l-itineraire/saint-rhemy-col-du-grand-st-bernard/
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/12362502 http://www.tourdescombins.ch/fr/l-itineraire/cabane-chanrion-cabane-letey-a-champillon/ → http://tourdescombins.ch/fr/l-itineraire/cabane-chanrion-cabane-letey-a-champillon/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/3087290 http://www.tourdusaintbernard.com
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/1596159 http://www.trailvsb.com → https://verbier.utmb.world
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/12362583 http://www.tourdescombins.ch/fr/l-itineraire/saint-rhemy-col-du-grand-st-bernard/ → http://tourdescombins.ch/fr/l-itineraire/saint-rhemy-col-du-grand-st-bernard/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/1355487738 http://www.trattoriaomens.com
 SERVER_ERROR_(500…599) 500 https://osm.org/browse/node/5143336345 http://www.trattoriapraetoria.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/147709782 http://www.tronchey.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/4525912 https://osm.org/browse/way/205544546 http://www.tunnelmb.net/ → https://www.tunnelmb.net/en-US
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/4525912 https://osm.org/browse/way/205544546 http://www.tunnelmb.net/v3.0/ → http://www.tunnelmb.net/v3.0
-SUCCESS_(200…299) 200 https://osm.org/browse/way/147709782 http://www.tronchey.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/928209323 http://www.valdotain.it → https://www.valdotain.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/1726355073 http://www.tuodi.it/ → https://www.doreca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1768307866 http://www.vallee-sport.com/ → https://www.vallee-sport.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/1726355073 http://www.tuodi.it/ → https://www.tuodi.it/index.cfm?
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/1732839046 http://www.verres.polito.it/ → https://www.verres.polito.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/60360487 http://www.valverdehotel.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1732839046 http://www.verres.polito.it/ → https://www.verres.polito.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/4099116 http://www.via-alpina.org/en/stage/298
-TIMEOUT https://osm.org/browse/relation/2385342 http://www.via-alpina.org/en/stage/297
-SUCCESS_(200…299) 200 https://osm.org/browse/way/344525243 http://www.villagiuditta.eu
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/450234482 http://www.vivavda.it/aree/area_i.aspx?area=6&n=Riserva%20naturale%20%20%20%20C%C3%B4te%20de%20Gargantua → https://www.vivavda.it/aree/area_i.aspx?area=6&n=Riserva%20naturale%20%20%20%20C%C3%B4te%20de%20Gargantua
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/2385342 http://www.via-alpina.org/en/stage/297
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/4099117 http://www.via-alpina.org/en/stage/299
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/450234482 http://www.vivavda.it/aree/area_i.aspx?area=6&n=Riserva%20naturale%20%20%20%20C%C3%B4te%20de%20Gargantua → https://www.vivavda.it/aree/area_i.aspx?area=6&n=Riserva%20naturale%20%20%20%20C%C3%B4te%20de%20Gargantua
+SUCCESS_(200…299) 200 https://osm.org/browse/way/344525243 http://www.villagiuditta.eu
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/5150041486 https://aldentetrattoriaaosta.com/ → http://survey-smiles.com
 SUCCESS_(200…299) 200 https://osm.org/browse/node/3773602216 https://alimentari-da-cindy-a-donnas-vda.business.site/?utm_source=gmb&utm_medium=referral
 SUCCESS_(200…299) 200 https://osm.org/browse/node/6435894786 https://osm.org/browse/node/6699595829 https://aosta.arriva.it/
@@ -324,10 +324,10 @@ SUCCESS_(200…299) 200 https://osm.org/browse/way/246847034 https://biblio.regi
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/6893283210 https://campzero.com → https://www.aethoshotels.com/campzero/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11097141736 https://cofruits.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4937970021 https://cafequinson.it/ → https://www.cafequinson.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/3398012739 https://coppapanledahu.it/
-PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/8659272207 https://essepiu-soluzioni.com
-SUCCESS_(200…299) 200 https://osm.org/browse/node/2138833321 https://farmacia-di-arvier-della-dottssa-luisa-alimentato.business.site/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10231002528 https://eriktognan.it
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/8659272207 https://essepiu-soluzioni.com
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3398012739 https://coppapanledahu.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2138833321 https://farmacia-di-arvier-della-dottssa-luisa-alimentato.business.site/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/8118527814 https://gerolina.it → https://gerolina.it/password
 SUCCESS_(200…299) 200 https://osm.org/browse/way/166369985 https://hotelfurggen.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2929942157 https://ianua.it/
@@ -336,14 +336,14 @@ SUCCESS_(200…299) 200 https://osm.org/browse/node/9462572536 https://osm.org/b
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1064354980 https://imanzetti.scuole.vda.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9575021583 https://it.m.wikipedia.org/wiki/Villaggio_dei_Salassi_della_Cime_noire
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10006149532 https://langolinodibonny.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/9205360734 https://ivies.cogeis.it/
 PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/10008644771 https://latteriadelmonterosa.com/shop.php
 SUCCESS_(200…299) 200 https://osm.org/browse/node/3118298315 https://locanda-cervino.business.site/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9205360734 https://ivies.cogeis.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/129790073 https://loumayendelene.wixsite.com/dortoir
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4739990603 https://osm.org/browse/node/4937462921 https://lonampio.com/ → https://lonampio.ynh.fr/blog
+SUCCESS_(200…299) 200 https://osm.org/browse/way/259262715 https://maisonguyonvda.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/9367465 https://osm.org/browse/relation/9367466 https://meinfernbus.de/unser-angebot/linien/405.html
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/9367870 https://osm.org/browse/relation/9367871 https://meinfernbus.de/unser-angebot/linien/472.html
-SUCCESS_(200…299) 200 https://osm.org/browse/way/259262715 https://maisonguyonvda.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/9367626 https://osm.org/browse/relation/9367627 https://meinfernbus.de/unser-angebot/linien/n405.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/6609802587 https://park4night.com/lieu/118607//f%C3%A9nis-10-chez-machet/italy/valle-d'aosta#.XSh8Z_mYO70 → https://park4night.com/en/place/118607
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4921843722 https://mlabvda.it
@@ -354,33 +354,34 @@ SUCCESS_(200…299) 200 https://osm.org/browse/node/1710462750 https://presidi2.
 PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/2435150140 https://ristorantelagrange.beepworld.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5145342887 https://ristoranteilgirasoleaosta.it/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/8948251473 https://sciclubvaldignemb.altervista.org
-SUCCESS_(200…299) 200 https://osm.org/browse/way/167073447 https://salesianirebaudengo.it/casa-per-ferie/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/167073447 https://salesianirebaudengo.it/casa-per-ferie/ → https://salesianirebaudengo.it/informazioni/casa-per-ferie-cesare-frassy/
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12324326 https://osm.org/browse/relation/12324327 https://osm.org/browse/relation/12324328 https://tourdumontfallere.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/6056705566 https://www.adm.gov.it/portale/-/ufficio-delle-dogane-di-aosta
+SUCCESS_(200…299) 200 https://osm.org/browse/way/194247920 https://valledaostaheritage.com/chateau-sarriod-de-la-tour/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10229318541 https://www.airbnb.it/rooms/51124758
 CLIENT_ERROR_(400…499) 410 https://osm.org/browse/node/4316721857 https://www.airbnb.it/rooms/5611772?s=xfKY
+OTHER_CURL_ERROR 56  https://osm.org/browse/node/6056705566 https://www.adm.gov.it/portale/-/ufficio-delle-dogane-di-aosta
 SUCCESS_(200…299) 200 https://osm.org/browse/node/3350279489 https://www.alchimiemediali.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/194247920 https://valledaostaheritage.com/chateau-sarriod-de-la-tour/
 PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/5738235577 https://www.aostafarmacie.it/farmacia-via-c-alberto-dalla-chiesa/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5307971623 https://www.alperebelle.com
-SUCCESS_(200…299) 200 https://osm.org/browse/way/1096333248 https://www.arrampicatainvalledaosta.it/2021/09/28/corno-di-machaby/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/165276195 https://www.arrampicatainvalledaosta.it/4_alessio-garofalo-e-laurent-bosonetto-con-la-falesia-di-ivery/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1096333248 https://www.arrampicatainvalledaosta.it/2021/09/28/corno-di-machaby/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/147963958 https://www.baitacourmayeur.it → https://www.airbnb.com/rooms/43886747
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5150041467 https://www.associazioneartistivaldostani.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9524715961 https://www.bec.energy/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/131643328 https://www.biancospinointrod.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/7784835490 https://www.bblaluna.it/
-PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9343584916 https://www.cafferuitor2aosta.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10230983538 https://www.biscottisenzaglutine-aosta.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/147428209 https://www.caimondovi.it/bivacco-comino/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9343584916 https://www.cafferuitor2aosta.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1197121607 https://www.bivaccoedoardocamardella.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/147428209 https://www.caimondovi.it/bivacco-comino/ → https://www.caimondovi.it/rifugi/bivacco-comino/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/355336802 https://www.caitorino.it/rifugi/balzola/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/235480778 https://www.caipiacenza.it/la-sezione/bivacchi/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/156139764 https://www.caitorino.it/rifugi/leonessa/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/353049828 https://www.caitorino.it/rifugi/nacamuli/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/148457255 https://www.caitorino.it/rifugi/quintino-sella/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/284449666 https://www.caivarallo.com/rifugi-cai-piemonte-valsesia/bivacco-giordano/
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/1780403912 https://www.camperonline.it/area-di-sosta/Area-sosta-Fenis_3542 → https://www.camperonline.it/redirect.php?Nome=IDAREA_3542
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/79808464 https://www.camperonline.it/area-di-sosta/Area-sosta-Saint-Denis_6449 → https://www.camperonline.it/redirect.php?Nome=IDAREA_6449
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/1780403912 https://www.camperonline.it/area-di-sosta/Area-sosta-Fenis_3542 → https://www.camperonline.it/redirect.php?Nome=IDAREA_3542
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/2544568500 https://www.camperonline.it/area-di-sosta/C-o-Albergo-Conte-di-Challand_3543 → https://www.camperonline.it/redirect.php?Nome=IDAREA_3543
 SUCCESS_(200…299) 200 https://osm.org/browse/way/80035142 https://www.camperonline.it/area_di_sosta_dettaglio.asp?ID
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/443374456 https://www.camperonline.it/area_di_sosta_dettaglio.asp?ID=3519 → https://www.camperonline.it/redirect.php?Nome=IDAREA_3519&ID=3519
@@ -390,46 +391,46 @@ REDIRECTION_(300…399) 302 https://osm.org/browse/way/80039108 https://www.camp
 SUCCESS_(200…299) 200 https://osm.org/browse/node/797331763 https://www.camperonline.it/cogne.htm
 SUCCESS_(200…299) 200 https://osm.org/browse/way/84867027 https://www.camperonline.it/tschaval.htm
 SUCCESS_(200…299) 200 https://osm.org/browse/way/169200567 https://www.campingcervino.com/
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/163316311 https://www.campinglesiles.com/campeggio/index.cfm/ristorante-pizzeria.html
 SUCCESS_(200…299) 200 https://osm.org/browse/way/169148154 https://www.campingglair.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/163316311 https://www.campinglesiles.com/campeggio/index.cfm/ristorante-pizzeria.html
 SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/5034579663 https://www.carrefour.it/punti-vendita/carrefour-express-charvensod-frazione-pont-suaz-53-4426.html → /punti-vendita
+SUCCESS_(200…299) 200 https://osm.org/browse/way/831406068 https://www.campingmontebianco.it
 PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/1738582095 https://www.caseificioevancon.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9392953101 https://www.castellogamba.vda.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/831406068 https://www.campingmontebianco.it
-SUCCESS_(200…299) 200 https://osm.org/browse/node/563311749 https://www.cavemontblanc.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/690431998 https://www.chaletdelapoya.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10709257851 https://www.cerviniaski.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/353082192 https://www.chaligne.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/563311749 https://www.cavemontblanc.com/
+SAME_DOMAIN_REDIRECTION_(300…399) 301 https://osm.org/browse/way/167067130 https://www.chaletvaldotain.it/ → /it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/690431998 https://www.chaletdelapoya.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/642259707 https://www.chamonix.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/9241324442 https://www.chezannie.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/353082192 https://www.chaligne.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/146851840 https://www.chezduclos.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/3398012736 https://www.chocolat-collomb.it/
-TIMEOUT https://osm.org/browse/way/167067130 https://www.chaletvaldotain.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9241324442 https://www.chezannie.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5111206444 https://www.chocolataosta.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/360770683 https://www.clubalpinoaccademico.it/?attachment_id=601
 SUCCESS_(200…299) 200 https://osm.org/browse/node/355336801 https://www.clubalpinoaccademico.it/index.php/bivacchi/item/138-bivacco-umberto-balestrieri
 SUCCESS_(200…299) 200 https://osm.org/browse/way/130879230 https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/137-bivacco-antoldi-malvezzi
 SUCCESS_(200…299) 200 https://osm.org/browse/node/355336810 https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/139-bivacco-lorenzo-borelli
-TIMEOUT https://osm.org/browse/node/5111206444 https://www.chocolataosta.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/355336922 https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/145-bivacco-de-la-sassa-ceresa
 SUCCESS_(200…299) 200 https://osm.org/browse/node/355336830 https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/140-bivacco-alberico-borgna
-SUCCESS_(200…299) 200 https://osm.org/browse/node/1745704319 https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/154-bivacco-alessandro-martinotti
 SUCCESS_(200…299) 200 https://osm.org/browse/node/355336825 https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/151-bivacco-lampugnani-grassi
+SUCCESS_(200…299) 200 https://osm.org/browse/node/1745704319 https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/154-bivacco-alessandro-martinotti
 SUCCESS_(200…299) 200 https://osm.org/browse/node/355336909 https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/155-bivacco-tete-del-roeses
 SUCCESS_(200…299) 200 https://osm.org/browse/node/355336815 https://www.clubalpinoaccademico.it/index.php/news-2/item/275-nuovo-look-per-il-bivacco-canzio-al-colle-delle-grandes-jurasses
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5048502927 https://www.clubesse.it/strutture/hotel-pila-2000-vacanza-neve-val-d-aosta/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/180736202 https://www.comune.aymavilles.ao.it/turismo/territorio/castelli-e-dintorni/castello-di-aymavilles
-SAME_DOMAIN_REDIRECTION_(300…399) 301 https://osm.org/browse/node/5048502927 https://www.clubesse.it/strutture/hotel-pila-2000-vacanza-neve-val-d-aosta/ → /club-esse/strutture/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/8741993556 https://www.comune.brissogne.ao.it/vivere-il-territorio/informazioni-utili/bivacco-menabreaz
 SUCCESS_(200…299) 200 https://osm.org/browse/way/148853663 https://www.comune.lasalle.ao.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1726970032 https://www.conad.it/ricerca-negozi/negozio.001338.html → https://www.conad.it/ricerca-negozi/conad-via-circonvallazione-126-11029-verres--001338
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/509535787 https://www.conad.it/ricerca-negozi/negozio.005820.html → https://www.conad.it/ricerca-negozi/conad-frazione-condemine-84-11010-sarre--005820
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/3045389370 https://www.conad.it/ricerca-negozi/negozio.008258.html
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5523734363 https://osm.org/browse/relation/2202531 https://www.comune.valtournenche.ao.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/3045389370 https://www.conad.it/ricerca-negozi/negozio.008258.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/165355030 https://www.conad.it/ricerca-negozi/negozio.008291.html → https://www.conad.it/ricerca-negozi/conad-localita-perolle-21-11024-chatillon--008291
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/799295138 https://www.conad.it/ricerca-negozi/negozio.009611.html → https://www.conad.it/ricerca-negozi/conad-via-nazionale-6-11026-pont-saint-martin--009611
 SUCCESS_(200…299) 200 https://osm.org/browse/way/447819146 https://www.courmayeur-montblanc.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/910361198 https://www.croixblanche.it/
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/14059755 https://www.diocese-annecy.fr/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/556114102 https://www.crevacol.it
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/14059755 https://www.diocese-annecy.fr/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/161265126 https://www.edildueci.com/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/15880628 https://www.diocese-annecy.fr/le-diocese/les-paroisses/paroisse-saint-bernard-du-mont-blanc
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/166509032 https://www.etoiledunord.it/ → https://www.etoiledunord.info/
@@ -437,64 +438,64 @@ SUCCESS_(200…299) 200 https://osm.org/browse/node/10230965814 https://www.face
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3863346956 https://www.facebook.com/Corpo-Valdostano-Vigili-del-Fuoco-Volontari-di-Pont-Saint-Martin-371874182125/ → https://www.facebook.com/vvfvolontariPontSaintMartin
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4655280799 https://www.facebook.com/Pro-Loco-Saint-Pierre-182808561853153/ → https://www.facebook.com/ProlocoStPierre
 SUCCESS_(200…299) 200 https://osm.org/browse/way/348561914 https://www.facebook.com/coumarial/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/2537597478 https://www.eurocamping.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5004497338 https://www.facebook.com/ostemarcel
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/3278397850 https://www.facebook.com/pages/Appartamenti-Valley-Vacanze-Brusson-Valle-dAosta
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/7409076765 https://www.facebook.com/pages/category/Italian-Restaurant/Retr%C3%B3-Gusto-236123860675095/ → https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcategory%2FItalian-Restaurant%2FRetr%25C3%25B3-Gusto-236123860675095%2F
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2537597478 https://www.eurocamping.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4655268889 https://www.facebook.com/pasticceriasable/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/7416548654 https://www.fenat.net/
 OTHER_CURL_ERROR 92  https://osm.org/browse/node/1746633413 https://www.fortedibard.it
 OTHER_CURL_ERROR 92  https://osm.org/browse/node/1194448827 https://www.fortedibard.it/musei/museo-delle-alpi/
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/15311564 https://www.gal.vda.it/magic-hicking-il-sentiero-magico/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/137085118 https://www.geatcaitorino.it/bivacco-franco-nebbia-2740-m/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/167067121 https://www.ghcervino.it/ → https://vretreats.com/cervino/
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/15311564 https://www.gal.vda.it/magic-hicking-il-sentiero-magico/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5143336352 https://www.giannettistore.it/it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9587630270 https://www.ginantonic.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/148457258 https://www.giovanemontagna.org/rifugio.asp?n=Bivacco%20Gino%20Rainetto&id=10
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10013781046 https://www.grandcombin.vda.it
 SUCCESS_(200…299) 200 https://osm.org/browse/way/254529621 https://www.guidedelcervino.com/capanna-carrel/
 OTHER_CURL_ERROR 92  https://osm.org/browse/node/9638366052 https://www.hbaostahotel.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/473203577 https://www.hcdc.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/867519043 https://www.gulliver.it/itinerari/biel-placche-di/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10709279051 https://www.heliskicervinia.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9588069622 https://www.hostariadelcalvino.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/1458864995 https://www.hotel-florian.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/473203577 https://www.hcdc.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9261538511 https://www.hotelaigle.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/10709279051 https://www.heliskicervinia.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2552144468 https://www.hotelcecchin.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/6936026990 https://www.hotelbellepoqueaosta.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5048502949 https://www.hoteldellanouva.it/
 OTHER_CURL_ERROR 92  https://osm.org/browse/way/163316294 https://www.hoteldianaaosta.com/index.php/it/
-OTHER_CURL_ERROR 92  https://osm.org/browse/node/3290454777 https://www.hotelgparadiso.com
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4197441958 https://www.hoteldufour.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5048502949 https://www.hoteldellanouva.it/
+OTHER_CURL_ERROR 92  https://osm.org/browse/node/3290454777 https://www.hotelgparadiso.com
 OTHER_CURL_ERROR 92  https://osm.org/browse/way/227410286 https://www.iaraosta.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3047007767 https://osm.org/browse/node/3047007768 https://www.inail.it/ → https://www.inail.it/cs/internet/home.html
-SUCCESS_(200…299) 200 https://osm.org/browse/node/462097194 https://www.hotelmiage.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/10709279050 https://www.ivodelbrallo.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/9588041290 https://www.la-grenette.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/3914012330 https://www.inalto.org/it/schede/vette/monte_miracolo
-SUCCESS_(200…299) 200 https://osm.org/browse/node/9500979301 https://www.laborettaz.it
-SUCCESS_(200…299) 200 https://osm.org/browse/node/11076667605 https://www.labridesamis.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/2681280865 https://www.lagrottaristorantecervinia.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/542214330 https://www.larosiere.ski/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10709279050 https://www.ivodelbrallo.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/462097194 https://www.hotelmiage.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9588041290 https://www.la-grenette.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5111206425 https://www.labottegadegliantichisapori.com/
-OTHER_CURL_ERROR 92  https://osm.org/browse/node/9931726128 https://www.lasapiniere.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/542214331 https://www.lathuile.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5202056194 https://www.lebaravin.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/160891040 https://www.lemassifcourmayeur.com
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9500979301 https://www.laborettaz.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2681280865 https://www.lagrottaristorantecervinia.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11076667605 https://www.labridesamis.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5111206405 https://www.lartisana.vda.it/aosta
+OTHER_CURL_ERROR 92  https://osm.org/browse/node/9931726128 https://www.lasapiniere.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/542214330 https://www.larosiere.ski/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5202056194 https://www.lebaravin.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/542214331 https://www.lathuile.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/160891040 https://www.lemassifcourmayeur.com
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9605022512 https://www.lesgourmetsaosta.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9014410293 https://www.locandadelleminiere.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9019013823 https://www.locandadelleminiere.it/it/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/7021611885 https://www.locandaurbana.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/1930450197 https://www.lovevda.it/it/banca-dati/22/posti-tappa-dortoir/pontboset/retempio/9005836
 SUCCESS_(200…299) 200 https://osm.org/browse/node/846715830 https://www.lovevda.it/en/database/4/uffici-turistici/la-thuile/tourist-office-la-thuile/1780
-SUCCESS_(200…299) 200 https://osm.org/browse/node/9729678304 https://www.lovevda.it/it/banca-dati/7/bivacchi/la-salle/bivacco-cosimo-zappelli/3138
 SUCCESS_(200…299) 200 https://osm.org/browse/node/8948251439 https://www.lovevda.it/it/banca-dati/4/aziende-formaggi/morgex/caseificio-cooperativa-valdigne-mont-blanc/1402
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12587998 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/aosta-fenis/3019
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9729678304 https://www.lovevda.it/it/banca-dati/7/bivacchi/la-salle/bivacco-cosimo-zappelli/3138
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12585736 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/aosta-valley/introd-villeneuve/3016
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/12587998 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/aosta-fenis/3019
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12579595 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/arnad-challand-saint-victor/2952
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12581269 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/arpuilles-vetan/3009
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12585737 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/avise-introd/3012
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/12585737 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/avise-introd/3012
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12587856 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/aymavilles-aosta/3018
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12579615 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/challand-saint-victor-%E2%80%93-saint-vincent/3001
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12588041 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/chatillon-verres/3021
@@ -506,10 +507,10 @@ SUCCESS_(200…299) 200 https://osm.org/browse/relation/12571791 https://www.lov
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12571921 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/pont-saint-martin-lillianes/2949
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12574562 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/pont-saint-martin-lillianes/2950
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12588300 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/pontboset-pont-saint-martin/2946
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/12580420 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/saint-vincent-la-magdeleine/3003
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12581258 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/roisan-arpuilles/3007
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12580801 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/verrayes-nus/3005
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/12580420 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/saint-vincent-la-magdeleine/3003
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12580419 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/saint-vincent-la-magdeleine/3004
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/12580801 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/verrayes-nus/3005
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12588301 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/verres-pontboset/2945
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12585141 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/vetan-la-salle/3010
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12587857 https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-aosta/villeneuve-aymavilles/3017
@@ -522,27 +523,27 @@ SUCCESS_(200…299) 200 https://osm.org/browse/node/2556757331 https://www.musca
 OTHER_CURL_ERROR 92  https://osm.org/browse/way/248261967 https://www.oavda.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2538299307 https://www.monbijoudonnas.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10726017734 https://www.onlyski.eu/winter/onlyski-express/
-FAILED_TO_CONNECT_TO_HOST https://osm.org/browse/node/1988134632 https://www.orientalbambu.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10726017735 https://www.onlyski.eu/winter/onlyski-planibel/
+FAILED_TO_CONNECT_TO_HOST https://osm.org/browse/node/1988134632 https://www.orientalbambu.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3342860813 https://osm.org/browse/node/3342860814 https://www.ovs.it/ → https://www.ovs.it/it/it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/45147901 https://www.pila.it → https://pila.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/161482858 https://www.pilierdangle.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2422654083 https://osm.org/browse/way/161659703 https://www.poste.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/1116939649 https://www.planetmountain.com/rock/falesie/falesia.html?idfalesia=353
 SUCCESS_(200…299) 200 https://osm.org/browse/node/6682978740 https://www.poste.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1116939649 https://www.planetmountain.com/rock/falesie/falesia.html?idfalesia=353
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/7404634041 https://www.prosciuttificiodebosses-aosta.it/ → https://debosses.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1118748353 https://www.qcterme.com/it/pre-saint-didier/qc-terme-pre-saint-didier
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9391437343 https://www.quendozaosta.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10009128933 https://www.randonneurmb.com/ristorante
 SUCCESS_(200…299) 200 https://osm.org/browse/way/27264184 https://osm.org/browse/way/27264185 https://osm.org/browse/way/27264187 https://osm.org/browse/way/27264188 https://osm.org/browse/way/27264189 https://osm.org/browse/way/27264190 https://osm.org/browse/way/27264192 https://osm.org/browse/way/27264193 https://osm.org/browse/way/27264196 https://osm.org/browse/way/27264197 https://osm.org/browse/way/27264198 https://osm.org/browse/way/27264201 https://osm.org/browse/way/27264202 https://osm.org/browse/way/27264203 https://osm.org/browse/way/27264204 https://osm.org/browse/way/27264205 https://osm.org/browse/way/27264207 https://osm.org/browse/way/27264208 https://osm.org/browse/way/27264209 https://osm.org/browse/way/27264210 https://osm.org/browse/way/27264212 https://osm.org/browse/way/27264214 https://osm.org/browse/way/27264216 https://osm.org/browse/way/27264217 https://osm.org/browse/way/27264218 https://osm.org/browse/way/27264219 https://osm.org/browse/way/27264220 https://osm.org/browse/way/27264221 https://osm.org/browse/way/27264245 https://osm.org/browse/way/27511365 https://osm.org/browse/way/27511378 https://osm.org/browse/way/27511389 https://osm.org/browse/way/27518978 https://osm.org/browse/way/27519018 https://osm.org/browse/way/27519069 https://osm.org/browse/way/27519264 https://osm.org/browse/way/27835594 https://osm.org/browse/way/27840049 https://osm.org/browse/way/27840053 https://osm.org/browse/way/27840058 https://osm.org/browse/way/27840062 https://osm.org/browse/way/59047975 https://osm.org/browse/way/59047976 https://osm.org/browse/way/59047980 https://osm.org/browse/way/59047982 https://osm.org/browse/way/83107080 https://osm.org/browse/way/83107082 https://osm.org/browse/way/83107085 https://osm.org/browse/way/83107086 https://osm.org/browse/way/83107090 https://osm.org/browse/way/83107097 https://osm.org/browse/way/83107098 https://osm.org/browse/way/83107100 https://osm.org/browse/way/84837578 https://osm.org/browse/way/84837580 https://osm.org/browse/way/84837595 https://osm.org/browse/way/84837597 https://osm.org/browse/way/84837634 https://osm.org/browse/way/84959285 https://osm.org/browse/way/84959286 https://osm.org/browse/way/84959287 https://osm.org/browse/way/84959288 https://osm.org/browse/way/84959289 https://osm.org/browse/way/84959290 https://osm.org/browse/way/84959291 https://osm.org/browse/way/84959292 https://osm.org/browse/way/84959293 https://osm.org/browse/way/84959294 https://osm.org/browse/way/84959298 https://osm.org/browse/way/84959299 https://osm.org/browse/way/84959300 https://osm.org/browse/way/84959301 https://osm.org/browse/way/84959302 https://osm.org/browse/way/84959303 https://osm.org/browse/way/84959304 https://osm.org/browse/way/84959309 https://osm.org/browse/way/84959311 https://osm.org/browse/way/84959313 https://osm.org/browse/way/84959315 https://osm.org/browse/way/84959316 https://osm.org/browse/way/84959317 https://osm.org/browse/way/84959321 https://osm.org/browse/way/84959322 https://osm.org/browse/way/84959324 https://osm.org/browse/way/84959325 https://osm.org/browse/way/84959328 https://osm.org/browse/way/84959331 https://osm.org/browse/way/84959333 https://osm.org/browse/way/84959335 https://osm.org/browse/way/84959339 https://osm.org/browse/way/84959341 https://osm.org/browse/way/84959342 https://osm.org/browse/way/84959346 https://osm.org/browse/way/84959355 https://osm.org/browse/way/84960928 https://osm.org/browse/way/84960930 https://osm.org/browse/way/84960931 https://osm.org/browse/way/84960936 https://osm.org/browse/way/84960938 https://osm.org/browse/way/84960945 https://osm.org/browse/way/84960946 https://osm.org/browse/way/84960959 https://osm.org/browse/way/84960960 https://osm.org/browse/way/84960963 https://osm.org/browse/way/84962842 https://osm.org/browse/way/84962843 https://osm.org/browse/way/84962845 https://osm.org/browse/way/84962846 https://osm.org/browse/way/84962847 https://osm.org/browse/way/84962848 https://osm.org/browse/way/84962850 https://osm.org/browse/way/84962851 https://osm.org/browse/way/84962852 https://osm.org/browse/way/84962855 https://osm.org/browse/way/84962856 https://osm.org/browse/way/84962857 https://osm.org/browse/way/84962859 https://osm.org/browse/way/84962861 https://osm.org/browse/way/84962862 https://osm.org/browse/way/84962864 https://osm.org/browse/way/84962866 https://osm.org/browse/way/84962868 https://osm.org/browse/way/84962869 https://osm.org/browse/way/84962870 https://osm.org/browse/way/84962872 https://osm.org/browse/way/84962873 https://osm.org/browse/way/84962883 https://osm.org/browse/way/84962886 https://osm.org/browse/way/84962888 https://osm.org/browse/way/84962889 https://osm.org/browse/way/84962890 https://osm.org/browse/way/84962891 https://osm.org/browse/way/84962892 https://osm.org/browse/way/84962893 https://osm.org/browse/way/84962894 https://osm.org/browse/way/84962895 https://osm.org/browse/way/84962896 https://osm.org/browse/way/84963120 https://osm.org/browse/way/95633775 https://osm.org/browse/way/95633776 https://osm.org/browse/way/95633778 https://osm.org/browse/way/95633783 https://osm.org/browse/way/96733881 https://osm.org/browse/way/96734008 https://osm.org/browse/way/96734101 https://osm.org/browse/way/96734503 https://osm.org/browse/way/96753408 https://osm.org/browse/way/96753411 https://osm.org/browse/way/96753417 https://osm.org/browse/way/96753424 https://osm.org/browse/way/96753425 https://osm.org/browse/way/96753426 https://osm.org/browse/way/96754431 https://osm.org/browse/way/96754434 https://osm.org/browse/way/96754436 https://osm.org/browse/way/96754440 https://osm.org/browse/way/96754442 https://osm.org/browse/way/96754443 https://osm.org/browse/way/96754444 https://osm.org/browse/way/96754445 https://osm.org/browse/way/96757214 https://osm.org/browse/way/96757216 https://osm.org/browse/way/97469704 https://osm.org/browse/way/97469747 https://osm.org/browse/way/116870192 https://osm.org/browse/way/116870194 https://osm.org/browse/way/125499916 https://osm.org/browse/way/125499917 https://osm.org/browse/way/125499918 https://osm.org/browse/way/125499919 https://osm.org/browse/way/128083903 https://osm.org/browse/way/134128367 https://osm.org/browse/way/134128368 https://osm.org/browse/way/134128370 https://osm.org/browse/way/134128372 https://osm.org/browse/way/134128374 https://osm.org/browse/way/134128377 https://osm.org/browse/way/134128380 https://osm.org/browse/way/134128383 https://osm.org/browse/way/136405945 https://osm.org/browse/way/156568141 https://osm.org/browse/way/161438620 https://osm.org/browse/way/170151448 https://osm.org/browse/way/171671149 https://osm.org/browse/way/171671151 https://osm.org/browse/way/171671153 https://osm.org/browse/way/171671158 https://osm.org/browse/way/171671159 https://osm.org/browse/way/171671160 https://osm.org/browse/way/171671161 https://osm.org/browse/way/171671162 https://osm.org/browse/way/171671163 https://osm.org/browse/way/171671165 https://osm.org/browse/way/171671166 https://osm.org/browse/way/171671167 https://osm.org/browse/way/171671168 https://osm.org/browse/way/180531934 https://osm.org/browse/way/187761348 https://osm.org/browse/way/187761357 https://osm.org/browse/way/187761362 https://osm.org/browse/way/187761365 https://osm.org/browse/way/187761366 https://osm.org/browse/way/187776488 https://osm.org/browse/way/189565687 https://osm.org/browse/way/205544536 https://osm.org/browse/way/242863924 https://osm.org/browse/way/242863925 https://osm.org/browse/way/242863926 https://osm.org/browse/way/252266069 https://osm.org/browse/way/252266071 https://osm.org/browse/way/267842003 https://osm.org/browse/way/267842004 https://osm.org/browse/way/286994654 https://osm.org/browse/way/286994655 https://osm.org/browse/way/286994656 https://osm.org/browse/way/286994657 https://osm.org/browse/way/287802514 https://osm.org/browse/way/287802515 https://osm.org/browse/way/302523703 https://osm.org/browse/way/302523704 https://osm.org/browse/way/302523705 https://osm.org/browse/way/302523706 https://osm.org/browse/way/303711819 https://osm.org/browse/way/303711820 https://osm.org/browse/way/303711821 https://osm.org/browse/way/303711822 https://osm.org/browse/way/306428679 https://osm.org/browse/way/306428680 https://osm.org/browse/way/306428681 https://osm.org/browse/way/306428682 https://osm.org/browse/way/327243760 https://osm.org/browse/way/327243764 https://osm.org/browse/way/327243765 https://osm.org/browse/way/327243766 https://osm.org/browse/way/327243767 https://osm.org/browse/way/327243768 https://osm.org/browse/way/327243770 https://osm.org/browse/way/327243773 https://osm.org/browse/way/327243778 https://osm.org/browse/way/327243784 https://osm.org/browse/way/327245279 https://osm.org/browse/way/327247731 https://osm.org/browse/way/327251924 https://osm.org/browse/way/327251926 https://osm.org/browse/way/327259564 https://osm.org/browse/way/327267988 https://osm.org/browse/way/328913070 https://osm.org/browse/way/328916100 https://osm.org/browse/way/328916101 https://osm.org/browse/way/333323287 https://osm.org/browse/way/333323290 https://osm.org/browse/way/333332927 https://osm.org/browse/way/333332928 https://osm.org/browse/way/333452330 https://osm.org/browse/way/333499272 https://osm.org/browse/way/333499278 https://osm.org/browse/way/348970505 https://osm.org/browse/way/348970517 https://osm.org/browse/way/348982215 https://osm.org/browse/way/348982219 https://osm.org/browse/way/348982220 https://osm.org/browse/way/348982221 https://osm.org/browse/way/371630541 https://osm.org/browse/way/371630544 https://osm.org/browse/way/407195591 https://osm.org/browse/way/407195592 https://osm.org/browse/way/407195593 https://osm.org/browse/way/407195594 https://osm.org/browse/way/407195597 https://osm.org/browse/way/407195599 https://osm.org/browse/way/442985301 https://osm.org/browse/way/442985302 https://osm.org/browse/way/442985303 https://osm.org/browse/way/442985304 https://osm.org/browse/way/442985305 https://osm.org/browse/way/442985306 https://osm.org/browse/way/442985307 https://osm.org/browse/way/442985308 https://osm.org/browse/way/534200060 https://osm.org/browse/way/534200061 https://osm.org/browse/way/534200062 https://osm.org/browse/way/534200063 https://osm.org/browse/way/534200064 https://osm.org/browse/way/534200065 https://osm.org/browse/way/534200066 https://osm.org/browse/way/547261183 https://osm.org/browse/way/547261184 https://osm.org/browse/way/569057706 https://osm.org/browse/way/569057717 https://osm.org/browse/way/569057726 https://osm.org/browse/way/569057743 https://osm.org/browse/way/569057753 https://osm.org/browse/way/569057763 https://osm.org/browse/way/569057772 https://osm.org/browse/way/569057785 https://osm.org/browse/way/653815063 https://osm.org/browse/way/668139695 https://osm.org/browse/way/668139696 https://osm.org/browse/way/668139697 https://osm.org/browse/way/668139699 https://osm.org/browse/way/668139729 https://osm.org/browse/way/668139733 https://osm.org/browse/way/668139738 https://osm.org/browse/way/674113586 https://osm.org/browse/way/674113587 https://osm.org/browse/way/674113589 https://osm.org/browse/way/674113590 https://osm.org/browse/way/676271581 https://osm.org/browse/way/676271582 https://osm.org/browse/way/781503671 https://osm.org/browse/way/781503672 https://osm.org/browse/way/781503673 https://osm.org/browse/way/781503674 https://osm.org/browse/way/804875523 https://osm.org/browse/way/804875524 https://osm.org/browse/way/804875525 https://osm.org/browse/way/804875526 https://osm.org/browse/way/1077628701 https://osm.org/browse/way/1077628702 https://osm.org/browse/way/1154606513 https://osm.org/browse/way/1154606514 https://osm.org/browse/relation/1004348 https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4548989643 https://www.regione.vda.it/cultura/mostre_musei/musei/mar_aosta/default_i.aspx
 SUCCESS_(200…299) 200 https://osm.org/browse/way/247396113 https://osm.org/browse/way/247427942 https://osm.org/browse/way/247455838 https://osm.org/browse/way/247461811 https://osm.org/browse/way/247463125 https://osm.org/browse/way/247465151 https://osm.org/browse/way/247562749 https://www.regione.vda.it/gestione/riviweb/templates/aspx/environnement.aspx?pkArt=1406
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/7404634041 https://www.prosciuttificiodebosses-aosta.it/ → https://debosses.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/137043135 https://www.regione.vda.it/notizieansa/details_i.asp?id=53930 → http://www.regione.vda.it/notizie/details_i.asp?id=53930
 SUCCESS_(200…299) 200 https://osm.org/browse/node/1496293138 https://osm.org/browse/way/136403177 https://www.relaisdufoyer.it/
-OTHER_CURL_ERROR 92  https://osm.org/browse/node/3290454779 https://www.rifugiochabod.com/
 PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/131662229 https://www.rifugiobezzi.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/7840706450 https://osm.org/browse/way/810794662 https://www.rifugiograuson.it/
+OTHER_CURL_ERROR 92  https://osm.org/browse/node/3290454779 https://www.rifugiochabod.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/131721336 https://www.rifugioepee.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/7840706450 https://osm.org/browse/way/810794662 https://www.rifugiograuson.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/10721254665 https://www.rifugiolilla.it/ → https://www.rifugiolilla.it/it/
 SSL_CONNECT_ERROR https://osm.org/browse/node/1909898979 https://osm.org/browse/node/1917441244 https://www.rifugiosella.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/322272031 https://www.rifugiotetraslyre.it/
@@ -553,21 +554,21 @@ SUCCESS_(200…299) 200 https://osm.org/browse/node/4141060073 https://www.rotes
 SUCCESS_(200…299) 200 https://osm.org/browse/way/58526794 https://www.rifugiovittorioemanuele.com
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9356099069 https://www.scuoladiscipuntatzan.com
 SUCCESS_(200…299) 200 https://osm.org/browse/way/364625132 https://www.saussurea.it/
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/382247505 https://www.shop.lespeziali.com
 SUCCESS_(200…299) 200 https://osm.org/browse/way/136209069 https://osm.org/browse/way/153360856 https://www.scuolascilathuile.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/382247505 https://www.shop.lespeziali.com
 PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/130763339 https://www.sognodiberze.it/fr/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/4277997934 https://www.tesla.com/findus/location/supercharger/aostasupercharger
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4467326863 https://www.stradeanas.it/ → https://www.stradeanas.it/it
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/9585487949 https://www.thun.com/it_it/pointofsale/ao/aosta/via-s-anselmo-8
 OTHER_CURL_ERROR 92  https://osm.org/browse/node/2133107010 https://www.trattoriadicampagna.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11107564552 https://www.trattoriailboccio.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/2532408998 https://www.tivet.it/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/6699628417 https://www.unicredit.it/it/contatti-e-agenzie/lista-agenzie/ao/breuil-cervinia-valtournenche/valtournenche-breuil-cervinia-ag00821.html
 OTHER_CURL_ERROR 92  https://osm.org/browse/node/9897665465 https://www.univda.it/servizi/biblioteca/
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/1471008 https://osm.org/browse/relation/2458709 https://www.viefrancigene.org → https://www.viefrancigene.org/it/
+TIMEOUT https://osm.org/browse/node/2532408998 https://www.tivet.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4508599147 https://www.vielunghevalledaosta.com/montjovet-via-forza-vecchio-cuore-granata/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/45409595 https://osm.org/browse/way/45409596 https://osm.org/browse/way/542222459 https://osm.org/browse/way/542222461 https://www.visitmonterosa.com/ → https://visitmonterosa.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4787621984 https://www.weejay.com
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4508599147 https://www.vielunghevalledaosta.com/montjovet-via-forza-vecchio-cuore-granata/
 MISSING_URI_SCHEME https://osm.org/browse/node/7288825830 lofleye.it
 MISSING_URI_SCHEME https://osm.org/browse/node/4895210542 www.acqualifesnc.com
 MISSING_URI_SCHEME https://osm.org/browse/node/1019436474 www.albergodelponte.com
@@ -583,26 +584,26 @@ MISSING_URI_SCHEME https://osm.org/browse/node/6565047377 www.dandelionlapalud.c
 MISSING_URI_SCHEME https://osm.org/browse/node/1746633415 www.comune.bard.ao.it
 MISSING_URI_SCHEME https://osm.org/browse/node/2556762450 www.fontinacoop.it
 MISSING_URI_SCHEME https://osm.org/browse/node/2995588143 www.gervasoni.it
-MISSING_URI_SCHEME https://osm.org/browse/node/3696653187 www.guidecourmayeur.com
 MISSING_URI_SCHEME https://osm.org/browse/relation/3159528 www.golfcervino.it
 MISSING_URI_SCHEME https://osm.org/browse/node/2400501564 www.hotelarolla.it
+MISSING_URI_SCHEME https://osm.org/browse/node/3696653187 www.guidecourmayeur.com
 MISSING_URI_SCHEME https://osm.org/browse/node/372793064 www.hoteldechampoluc.it
 MISSING_URI_SCHEME https://osm.org/browse/way/163034014 www.hotelmochettaz.it
 MISSING_URI_SCHEME https://osm.org/browse/node/3377650402 www.hotelvalleedecogne.it
-MISSING_URI_SCHEME https://osm.org/browse/relation/7036043 www.iaraosta.it
 MISSING_URI_SCHEME https://osm.org/browse/node/3676280519 www.ilfieniledellanonna.it
+MISSING_URI_SCHEME https://osm.org/browse/relation/7036043 www.iaraosta.it
 MISSING_URI_SCHEME https://osm.org/browse/node/6511268366 www.ilnoceelastrega.it
 MISSING_URI_SCHEME https://osm.org/browse/node/5344574738 www.lafeniceaosta.it
-MISSING_URI_SCHEME https://osm.org/browse/node/1494476032 www.lavecchiaposta.altervista.org
 MISSING_URI_SCHEME https://osm.org/browse/node/372792977 www.lescupoles.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1494476032 www.lavecchiaposta.altervista.org
 MISSING_URI_SCHEME https://osm.org/browse/node/6293634783 www.leverger.it
 MISSING_URI_SCHEME https://osm.org/browse/node/3089037834 www.lievre.it
 MISSING_URI_SCHEME https://osm.org/browse/way/115873554 https://osm.org/browse/way/781163853 www.oavda.it
 MISSING_URI_SCHEME https://osm.org/browse/node/3045625655 www.oldwildwest.it
 MISSING_URI_SCHEME https://osm.org/browse/node/5660716857 https://osm.org/browse/node/5661487345 www.pattalibra.it
 MISSING_URI_SCHEME https://osm.org/browse/node/928228356 www.pizzeriaristoranteavalon.it
-MISSING_URI_SCHEME https://osm.org/browse/node/3644015515 www.residenceplanpincieux.it
 MISSING_URI_SCHEME https://osm.org/browse/way/239195398 www.predepascal.com
+MISSING_URI_SCHEME https://osm.org/browse/node/3644015515 www.residenceplanpincieux.it
 MISSING_URI_SCHEME https://osm.org/browse/node/353049781 www.rifugioarp.it
 MISSING_URI_SCHEME https://osm.org/browse/node/3290454779 www.rifugiochabod.com
 MISSING_URI_SCHEME https://osm.org/browse/node/353049803 www.rifugioguidefrachey.it
