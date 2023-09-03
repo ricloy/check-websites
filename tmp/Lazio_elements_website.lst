@@ -971,7 +971,6 @@ node	2493676912	https://www.tripadvisor.co.uk/Hotel_Review-g187791-d2538530-Revi
 node	2509259493	http://www.hostariadapietro.it/
 node	2509911893	http://www.immobilinfo.it
 node	2512582406	www.oggifesta.it
-node	2513865318	http://www.ristoranteedy.it/
 node	2519566154	https://www.hotelcontilia.com/
 node	2522591120	https://www.hotelcentraleroma.it/
 node	2522621010	https://www.sienahotelrome.com/
@@ -1355,6 +1354,7 @@ node	3446746542	https://lape50.eatbu.com/
 node	3448927193	https://www.cibocrudo.com
 node	3451104866	http://www.france-vatican.org/
 node	3451273278	http://vatican.mfa.gov.ge/
+node	3454106044	https://voloroma.it/per-i-piloti/#corridor
 node	3455562104	http://grafichcommunication.com
 node	3455608835	http://www.buzzicona.it
 node	3455637510	https://www.rosegardenpalace.com/
@@ -1477,6 +1477,8 @@ node	3715929164	https://farmaciasalvagni.com/
 node	3715929165	https://www.farmaciamorbella.it/
 node	3717043514	https://www.ilcircolodellequerce.com/
 node	3730409038	https://www.facebook.com/pages/GM-Grande-Magnetismo-/731203456897656
+node	3736263596	https://www.oasitigre.it/it/il-mio-negozio.946.html
+node	3736269126	http://finnpub.it
 node	3736630855	https://www.ristoranteortodiroma.it/
 node	3738996307	http://trattoria-romana.it/da/augusto
 node	3739018875	https://www.trastevere-trattoria-otello.it/
@@ -3604,6 +3606,7 @@ node	7112229685	http://www.eliteimmobiliareroma.com/
 node	7117529803	https://www.marcoaurelio.comune.roma.it/
 node	7117752909	https://www.farmaciatomaselli.com/
 node	7119266876	www.trattorialilli.it
+node	7121834786	https://www.bricofer.it/storesearch/frosinone/
 node	7122402240	http://www.mvmservice.com
 node	7122405942	https://brico-live-srl.business.site/
 node	7124948864	https://www.dvesuiterome.com/
@@ -4242,6 +4245,7 @@ node	8589289753	https://www.fashionbar.it/
 node	8596150760	https://ansv.it
 node	8596150761	https://www.zetema.it
 node	8607420551	https://prenotavaccino-covid.regione.lazio.it/
+node	8611096688	http://www.homebaked.it
 node	8615027478	fourgreenfields.it
 node	8618241192	https://www.vdorestaurant.com/
 node	8618585032	http://www.alredeicuochi.it/
@@ -4602,6 +4606,7 @@ node	9430209707	https://www.diastravel.it/
 node	9434180617	http://pizzeriatintin.it
 node	9439233996	http://www.danz-e.it/
 node	9441007917	https://www.ristoranteafiumicino.it/
+node	9446842960	http://www.romamonteverde.mercatinousato.com/
 node	9447121038	https://ideaverdeoriolo.it/
 node	9453886295	https://www.caiviterbo.it/
 node	9454865423	https://www.centopercentomoto.it/
@@ -5102,7 +5107,7 @@ node	10311301009	http://sushiting.it
 node	10311896352	http://www.museicivicialbano.it/
 node	10313435009	https://www.room26.it
 node	10316423441	https://www.alfarecovery.com
-node	10436341161	https://www.camplusguest.it/romasanpietro/en/
+node	10436341161	https://www.camplus.it/en/city/rome/camplus-san-pietro/
 node	10436444376	https://collezione.starhotels.com/en/our-hotels/hotel-d-inghilterra-rome/
 node	10454667439	https://www.origamiriabilitazioneroma.it/
 node	10538028509	http://alicepizza.it
@@ -5601,6 +5606,17 @@ node	11139241835	http://www.lalucciolalatina.it/
 node	11139241836	https://www.hoticepizzaegrill.com/
 node	11139241860	http://www.doolin.it/
 node	11146343245	https://oasidelgusto-roma.it/
+node	11148792727	https://www.ilgaudio.it
+node	11148811069	https://www.hotelpyramid.it
+node	11149706481	http://www.agriturismopiccololago.it
+node	11150047405	https://saravanaabhavanroma.it/
+node	11153084275	https://santacecilia.it
+node	11153282386	https://www.bibliotechediroma.it/opac/library/Biblioteca%20Penazzato/RMBF2
+node	11161599805	https://bip-group.com
+node	11161667006	https://www.otaleg.com
+node	11161724105	http://www.pandorumroma.com/ludopub.html
+node	11162736281	https://www.cantinecapitani.it/
+node	11163203185	https://www.vtuelettronica.com/
 way	22875465	http://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -5650,7 +5666,6 @@ way	32514483	https://www.casettamattei.com/
 way	32659685	https://www.thespacecinema.it/i-nostri-cinema/roma-parco-de-medici/info-cinema
 way	32666818	http://www.sovraintendenzaroma.it/i_luoghi/roma_antica/monumenti/casale_di_giovio
 way	32735011	https://www.unieuro.it/online/negozi/Unieuro-Roma---Muratella
-way	33381972	http://www.scuolamediafellini.it/
 way	33386229	https://vonneumann.edu.it/
 way	33531458	commercity.it
 way	33531480	https://www.fieraroma.it/
@@ -6422,6 +6437,7 @@ way	257537104	sangabrieleroma.org
 way	257777848	http://www.studiohangloose.it
 way	258109114	https://www.mcdonalds.it/
 way	258621339	http://www.zoobar.roma.it/
+way	259715396	http://www.scientificolinguistico-innocenzo12.edu.it/
 way	260535060	http://www.bollanti.it
 way	260543874	https://www.carrozzeriafalso.it/
 way	260798682	http://www.amphi-theatrum.de/1545.html
@@ -7939,7 +7955,7 @@ relation	445311	http://www.abbaziadifarfa.it/
 relation	933207	http://www.museodizoologia.it/it
 relation	958158	http://www.parks.it/parco.nazionale.circeo/pdf/fogliano1.pdf
 relation	1030019	http://www.abbaziasanpastore.it/
-relation	1148151	http://www.montecassino.it/
+relation	1148151	https://abbaziamontecassino.it/
 relation	1230678	http://www.camminodifrancesco.it/
 relation	1251569	https://www.parcobracciano.it/
 relation	1325281	https://visita.camera.it/complesso-di-vicolo-valdina
@@ -8060,6 +8076,7 @@ relation	3076110	http://www.aquilotto.it
 relation	3076111	http://www.flliabbenda.it
 relation	3076145	https://www.fratellirecchia.it/
 relation	3146649	http://www.sovraintendenzaroma.it/i_luoghi/ville_e_parchi_storici/passeggiate_parchi_e_giardini/parco_di_s_sebastiano
+relation	3159816	https://www.comune.sabaudia.lt.it
 relation	3164710	http://www.gransassolagapark.it/
 relation	3188362	comune.colonna.roma.it
 relation	3214583	http://www.iisviaromana.gov.it/
@@ -8227,6 +8244,7 @@ relation	8481080	https://www.cimiterodilatina.it/
 relation	8523163	http://www.comune.pontinia.lt.it
 relation	8545344	http://www.campusprimavera.it/
 relation	8748353	https://www.fondazionemaxxi.it
+relation	8828428	http://www.scientificolinguistico-innocenzo12.edu.it/
 relation	8848984	https://www.flixbus.de/busverbindung/fernbus-muenchen-rom-roma
 relation	8886362	https://www.flixbus.de/busverbindung/fernbus-muenchen-rom-roma
 relation	9044844	https://meinfernbus.de/unser-angebot/linien/522.html
@@ -8678,6 +8696,7 @@ relation	16178476	https://www.parcoabruzzo.it/sentiero.php?id_iti=4251
 relation	16178841	https://www.parcoabruzzo.it/sentiero.php?id_iti=4253
 relation	16183966	https://www.parcoabruzzo.it/sentiero.php?id_iti=4286
 relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
+relation	16262677	http://www.scuolamediafellini.it/
 node	251888861	https://www.multisalagreenwichroma.com/
 node	306047550	http://www.intera-mente.it
 node	802459210	https://www.oasidigreccio.it/
@@ -8750,6 +8769,7 @@ node	5407142326	http://www.nemorense-roma.it/
 node	5430030986	http://www.biolatina.it/contatti
 node	5433114538	http://www.tramtram.it
 node	5523267411	http://www.alcardinale.it/
+node	5532018332	https://www.prolocomontefiascone.it/
 node	5535091564	https://g.co/kgs/QXRMTc
 node	5535091565	https://g.co/kgs/ip3BdZ
 node	5535091930	http://www.e-choose.it/la-sfera-doro/
@@ -8820,7 +8840,9 @@ node	10883170600	https://www.parchilazio.it/sutri
 node	10939893667	https://www.roadtorome.org/
 node	11048087507	https://ziarestaurant.com/en/
 node	11100127900	https://silviatarsi.it
+node	11156162730	https://maratonalagodibolsena.it/
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
+way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
 way	61011575	https://bagnaccio.it/
 way	63113412	http://www.ristorantealbersagliere-rieti.eu/
 way	99834984	https://www.todis.it
