@@ -1257,7 +1257,6 @@ node	3506008911	https://supernatural.bike
 node	3509232196	www.albergocalifornia.it/
 node	3510490749	https://www.villapalagio.it/
 node	3511318621	http://www.computerhouse.pisa.it
-node	3517580936	www.rosicarla.it
 node	3518187675	https://www.museogalileo.it//
 node	3519049837	https://www.garumristorante.it/
 node	3519958952	http://www.anticofattore.it
@@ -1427,6 +1426,7 @@ node	4014685675	http://istorecolivorno-ldm.it/cecina6/
 node	4015466436	http://laterrazza.tavoledisangiorgio.it/
 node	4017094195	https://www.baronciniopel.it
 node	4023227275	https://www.arnosuites.com/
+node	4031948402	https://calzaturegiuliani.com/
 node	4032545836	http://copionepisa.it
 node	4038483017	https://camellietumcompitese.com/
 node	4045506887	https://www.agriturismosalutoalsole.it/
@@ -2957,6 +2957,7 @@ node	7532994793	http://www.soundcheckprato.it
 node	7532999537	https://www.capautolinee.it/
 node	7538691269	http://www.ciclimaggi.it/
 node	7551060718	www.agriturismolegallozzole.it
+node	7551629966	http://fortipizza.it/
 node	7562529182	http://www.cbtoscananord.it
 node	7563336885	http://www.ristoranteimperfetto.it
 node	7573929435	https://www.le-caselle.it/it/
@@ -4193,7 +4194,7 @@ node	11109428369	http://www.ilpozzodisantandrea.it/
 node	11109428370	https://www.bb-santandrea-siena.it/
 node	11114877705	https://www.ilgiardinomontalcino.it/
 node	11117684105	http://gelateriaprimoamore.com
-node	11119196893	www.centrodelfumetto.it
+node	11119196893	https://www.centrodelfumetto.it/
 node	11127205683	https://spacciottica.it/
 node	11127218111	https://spacciottica.it/
 node	11127267082	https://spacciottica.it/
@@ -4210,6 +4211,11 @@ node	11143182089	https://it.lacoronaristorante.com/blank
 node	11143900186	https://www.locatellisaline.it/
 node	11143971050	https://www.locatellisaline.it/
 node	11144505378	https://www.iltorotosco.it/
+node	11150109740	https://www.suncharter.de
+node	11157715268	www.agriturismovezzano.it
+node	11159397505	https://www.agriturismo.it/fr/agritourisme/toscane/sienne/PodereLaGiuda-5090735/index.html
+node	11159952345	colorfotoscandicci.it
+node	11163393905	http://www.caseificiononnobenito.com/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	http://www.leopolda.it/
@@ -4492,6 +4498,7 @@ way	163739522	https://www.hotelroma.pisa.it/
 way	163792927	http://www.agriturismolepoiane.it/
 way	164908501	http://www.sanvivaldointoscana.com/it/le-cappelle/la-madonna-dello-spasimo.html
 way	164910437	http://www.sanvivaldointoscana.com/it/le-cappelle/noli-me-tangere.html
+way	165385542	www.rosicarla.it
 way	165386141	https://www.rsc.it/
 way	165386354	http://www.remignoli.com/
 way	165538046	http://www.annahotel.it
@@ -4981,6 +4988,7 @@ way	365823060	https://www.asaspa.it/web/
 way	366935543	https://www.hotelda-vinci.it/
 way	367065069	http://www.accademiamusicavolterra.it/
 way	367123862	https://www.icmargaritonearezzo.edu.it/
+way	367421418	https://www.visitvaldicecina.com/listing/volterra-fonte-di-mandringa/
 way	368778734	http://www.barsantiematteucci.it
 way	368783137	https://www.cameraconvistalucca.it/
 way	369086128	http://www.icssecondoscandicci.it/
@@ -5798,6 +5806,7 @@ way	1197381303	https://www.romagnatoscanaturismo.it/arte-cultura-storia/rocca-di
 way	1201092277	https://csaexemerson.org/index.php/tango-2/
 way	1201092278	https://csaexemerson.org/index.php/skatepark/
 way	1202316172	https://csaexemerson.org/index.php/palestra/
+way	1204387155	https://www.cpia1livorno.edu.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42525	https://www.castelfrancopiandisco.it/
 relation	136257	www.caiparma.it
@@ -6655,6 +6664,7 @@ relation	16143347	http://www.caiporretta.it
 relation	16153041	https://www.fontanellestate.com/hotel-the-club-house
 relation	16197464	https://www.agriturismolafarneta.com/it/
 relation	16202521	https://www.molinodibombi.com/
+relation	16254202	https://valdicecinaoutdoor.it/cammino-etrusco/
 node	215646877	https://www.unisi.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
