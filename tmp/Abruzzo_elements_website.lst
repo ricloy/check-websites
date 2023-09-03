@@ -19,7 +19,6 @@ node	129939532	https://pescara-nord.klepierre.it
 node	135133652	https://multicinema.it/Programmazione?cinema=arca
 node	228262895	http://www.xfuel.it/stations.html
 node	228263519	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/API41510
-node	228265186	https://www.enistation.com/
 node	249428915	https://www.facebook.com/UTOPIA.RISTOPUB.MONTESILVANO/
 node	254086847	http://www.icpescara3.edu.it/istituto-2/via-milite-ignoto/
 node	254087448	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10779
@@ -1278,6 +1277,7 @@ node	7562261857	http://www.ms3.it/
 node	7566900307	https://www.artaabruzzo.it/
 node	7567111835	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
 node	7567219594	https://www.passeripetshop.it/
+node	7567231346	https://www.ilkilogrammo.it/
 node	7567320661	http://www.pe.camcom.it/
 node	7567361786	https://www.regione.abruzzo.it/content/contatti
 node	7567396324	http://www.centrobenesserenewlife.it/
@@ -1553,7 +1553,6 @@ node	7846532477	https://www.apicepiante.eu/it/
 node	7867055184	https://moovitapp.com/pescara_ed_abruzzo-3762/lines/4/402580/1364468/en?customerId=4908&ref=2&poiType=line
 node	7867463553	https://saperilocali.it
 node	7868563631	https://www.sanlorenzovini.com
-node	7871698615	http://www.dromedian.com/
 node	7871773340	http://ciclostazionedeitrabocchi.it/
 node	7871841117	https://parafarmacia-dottssa-laura-bosco.business.site
 node	7873368640	https://www.museiciviciloretoaprutino.it/
@@ -2316,7 +2315,6 @@ node	10302218622	https://www.bata.it/negozio?storeID=170R_S_72682
 node	10302407706	https://www.sonnybono.com/
 node	10302440998	https://www.geox.com/en-IT/storedetails?StoreID=150180
 node	10302450953	https://www.rinascimento.com/it-it/store-locator/chieti.html
-node	10304870692	https://www.cnsasabruzzo.it/
 node	10311097685	https://www.scarpescarpestore.com/
 node	10311152367	https://www.claytonitalia.com
 node	10311186678	https://www.fastweb.it/
@@ -2750,6 +2748,9 @@ node	11141682305	https://www.beerbaita.it/
 node	11142992973	https://www.freedancepescara.it/
 node	11144279823	https://www.procuravasto.it/
 node	11147964625	https://casarusti.it/
+node	11150371709	https://ponzioaluminium.com/it/rivenditori-ponzio/cilli-nico/
+node	11159159207	jakesplace.eu
+node	11159828831	https://www.dromedian.com/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -2980,6 +2981,7 @@ way	345511944	https://www.caipescara.it/rifugio-marcello-di-marco
 way	350423875	http://www.avioalanno.it/
 way	351711110	http://mtb.controguerra.info
 way	352061339	http://disciascio.it
+way	352623663	https://www.info.asl2abruzzo.it/ospedalevasto/
 way	354685857	http://www.campingsantandrea.com/
 way	359782109	https://abruzzoturismo.it/it/uffici-iat
 way	359817255	http://www.liceopudente.gov.it/it/linguistico
@@ -3060,6 +3062,7 @@ way	473062968	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-cu
 way	473535931	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-spirito-a-majella/
 way	474904366	http://caiavezzano.it/
 way	480303926	https://www.ilgrandefaggio.it
+way	480367476	https://mazzarosa.com
 way	483498665	https://www.ball.com
 way	485004583	https://bbvillamart.it/
 way	488118760	https://www.emmepiu-supermercati.it/
@@ -3245,6 +3248,7 @@ way	804454739	https://www.bblaperlarosa.it/
 way	805955186	https://www.misterimprese.it/abruzzo/pescara/pescara/casalinghi/1762441.html
 way	808429901	https://www.lidl.it/
 way	809296718	https://www.enel.it/punto-enel/
+way	810239790	https://www.enistation.com/
 way	810263074	http://artiespettacolo.org
 way	810880541	https://www.adm.gov.it/portale/-/ufficio-delle-dogane-di-pescara
 way	813737576	http://www.alpinibarisciano.it
@@ -3464,7 +3468,6 @@ way	1018888435	https://www.facebook.com/Pro-Loco-Torrebruna-131289956891274/
 way	1018888448	http://www.comune.torrebruna.ch.it/zf/index.php/itinerari/index/dettaglio-itinerario/itinerario/1
 way	1021710438	"http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&type=auto&code=13004&Chiesa_di_Sant%27Antonio_abate__Villa_Cipressi,_Citt%c3%a0_Sant%27Angelo"
 way	1022211145	http://www.comacspa.it/
-way	1025297376	https://www.facebook.com/asl2abruzzo/posts/covid-19-orari-drive-in-per-lesecuzione-dei-tamponi-molecolari-in-provincia-di-c/2977138865884800/
 way	1031685525	https://www.compisrl.it
 way	1031686089	https://www.fiorellaindustrie.it
 way	1040795868	https://www.total.com/en
@@ -3496,6 +3499,7 @@ way	1065285543	https://www.carmelitanicentroitalia.it/dove-siamo/monasteri-della
 way	1065303035	https://comprensivopescara6.edu.it/la-scuola/plessi/plesso-a/
 way	1065815691	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 way	1066635862	https://www.diocesichieti.it/wd-annuario-enti/arcidiocesi-di-chieti-vasto-1504/zona-pastorale-di-chieti-scalo-1540/s-bartolomeo-apostolo-1378/
+way	1069658004	https://www.cnsasabruzzo.it/
 way	1070290465	https://www.ilmartino.it/2018/02/mosciano-santangelo-la-fantasia-colorata-dei-murales-un-incanto-gli-occhi/
 way	1070731882	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/1493/Chiesa+del+Crocifisso
 way	1071265572	https://www.retitalia.eu
@@ -3619,6 +3623,7 @@ way	1200880016	https://prolocolanciano.jimdofree.com/convenzioni/bar-martelli-ce
 way	1201554048	https://ip.gruppoapi.com/ricerca-stazioni-servizio/station/41844
 way	1201554077	https://www.petrolgamma.com/stazione/teramo-strada-statale-80/
 way	1202037327	https://www.pasquarelliautosrl.it
+way	1204443676	https://www.tenutasantilario.com/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
