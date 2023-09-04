@@ -218,7 +218,6 @@ node	5779810994	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
 node	5779813162	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
 node	5779885532	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
 node	5779887079	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
-node	5809416454	http://villaggioformicoli.it/
 node	5851841501	https://carburanti.esso.it/it-it/find-station/esso-rosarno-100107688
 node	5948720444	http://www.nunulab.it/
 node	5948948957	http://calabriagreca.it/blog/risorse/rocca-del-drago-2/
@@ -454,6 +453,8 @@ node	11114293880	https://explosive-nutrition-store.business.site/
 node	11134874151	http://expertcalabria.expertonline.it/
 node	11148871341	https://shotslachupiteria.it/
 node	11148871342	https://bar-gelateria-venuti.business.site/
+node	11161359559	https://picieffe.it/
+node	11161359560	https://www.radikena.it/
 way	27836339	http://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	31321527	https://www.conad.it/ricerca-negozi/negozio.006286.html
 way	43042447	https://sba.unical.it/
@@ -496,7 +497,6 @@ way	190627017	http://www.hotelsouthparadise.it/
 way	198371631	http://www.museomarca.info
 way	199588232	http://www.pizzogreco.com
 way	199886417	https://www.centralemercure.it/
-way	207649532	https://www.comune.tropea.vv.it/
 way	207760353	https://www.capovaticanoresort.it/
 way	210256973	https://antonante-toyota.it/
 way	210256999	https://antonante-toyota.it/
@@ -671,7 +671,6 @@ way	718447085	https://www.laperlatropea.com/
 way	729847616	https://www.comune.girifalco.cz.it/
 way	740128407	https://www.villaggiolemuse.it/
 way	761408503	http://www.hotelsanfrancescoterme.com
-way	770844280	https://www.mumat.it
 way	783381691	https://www.santannahospital.com/
 way	783396628	http://www.clinicatricarico.it/
 way	802253440	https://www.conad.it/ricerca-negozi/negozio.009643.html
@@ -702,6 +701,7 @@ way	1052263686	https://www.eurospin.it/punti-vendita/mangone-603316/
 way	1053866242	https://villaggiorobinson.com
 way	1053866243	https://www.rollerclubtropea.it/
 way	1054090057	https://scuolemonasteraceriace.edu.it
+way	1054234060	http://www.comune.feroletodellachiesa.rc.it/
 way	1059059864	http://www.icbelmontecalabro.gov.it/
 way	1066908894	https://www.altamareapizzeria.it/
 way	1072989607	https://www.beniculturali.it/evento/locri-epizefiri-inaugurazione-del-nuovo-allestimento-del-museo-archeologico-nazionale
@@ -746,6 +746,7 @@ way	1188751230	https://www.AziendaAgricolaRende.it/
 way	1189299847	https://www.vmhotel-napeto.it/
 way	1189964757	https://laduchessaricevimenti.it/
 way	1190391763	https://www.parrocchiasangaetanocatanoso.it
+way	1192101826	http://www.udire.it/
 way	1192124840	https://www.AziendaAgricolaRende.it/
 way	1192124841	https://www.AziendaAgricolaRende.it/
 way	1192124842	https://www.AziendaAgricolaRende.it/
