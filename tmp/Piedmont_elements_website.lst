@@ -882,6 +882,7 @@ node	2400280493	https://www.stroilioro.com/gioielleria_stroili_vercelli
 node	2400280495	https://www.centrovercelli.it/negozio/medical/#
 node	2400680415	http://www.altanadelmottorosso.it/
 node	2404079505	https://www.bmgelas.com/
+node	2404144298	https://ilposticinotorino.it
 node	2405959613	http://www.brebanca.it
 node	2406157085	https://hotelbolognasrl.it
 node	2406157090	http://www.hotel-diplomatic.it/
@@ -2450,7 +2451,6 @@ node	4671775640	http://www.astioraribus.it
 node	4671775641	http://www.astioraribus.it
 node	4671775646	http://www.astioraribus.it
 node	4672751270	http://www.sherwoodtorino.com/
-node	4674566195	https://www.privatassistenza.it/vercelli/centro-vercelli/
 node	4674566196	https://langolo-di-vino-wine-bar.business.site/
 node	4676267373	http://www.bike-center.it/
 node	4680361669	http://www.bilug.it/
@@ -4804,7 +4804,6 @@ node	8704076771	http://villacoraresidenze.eu/i-pini-susa
 node	8704174272	https://www.villacoraresidenze.eu/san-giacomo-susa
 node	8704174273	https://www.villacoraresidenze.eu/canonico-boretto-susa
 node	8704340188	https://www.villacoraresidenze.eu/santo-eldrado-novalesa
-node	8705241008	www.eneldrive.it
 node	8709180856	https://www.margairastudio.it/
 node	8709645206	http://webgis.arpa.piemonte.it/bancadatimeteo/php/meteo.php?CODTOT=003086906
 node	8711852559	http://www.grappaviggiona.com/
@@ -4917,6 +4916,7 @@ node	8980212017	https://trattoriaallevolte.it/
 node	8993564469	https://www.ristorantepizzeriacaluso.torino.it/
 node	8994101548	https://www.gelmarket.it/
 node	8999176083	https://bar-autolinee.business.site/
+node	8999176084	https://iqosvercelli.business.site/
 node	9001347370	http://www.masera-eg.com
 node	9001910028	http://www.arteinmovimentotrofarello.it
 node	9007723688	https://maharaja-indiano-chivasso.eatbu.com/
@@ -5527,6 +5527,7 @@ node	10162647769	https://www.crespogarden.com
 node	10170187376	https://www.atleticapinerolo.com
 node	10172169579	http://www.ariapertapinerolo.com
 node	10172618318	http://www.locandadellelame.eu/
+node	10173780820	http://www.studiovillani.it/
 node	10175782805	http://www.asvercelli.beniculturali.it/
 node	10175798225	https://www.comune.mompantero.to.it/costi-utilizzo-sala-polivalente/
 node	10177901949	https://rostagnovini.it/
@@ -5748,6 +5749,7 @@ node	11015286186	https://www.admiralclub.it/regioni-sale/piemonte/vercelli-corso
 node	11015642191	https://www.agos.it/agenzia/vercelli---agenzia-829.aspx
 node	11015642194	https://www.adiuvosan.net/
 node	11015642196	http://www.tamarindotimbri.it/
+node	11016225960	https://inlungoeinlargo.it/
 node	11016747423	www.dbrceramiche.it
 node	11017407449	https://www.panzerotteriatorino.com/
 node	11020930996	https://casa-antoine.business.site/?utm_source=gmb&utm_medium=referral
@@ -5828,6 +5830,15 @@ node	11144797192	https://www.hotelcollifioriti.it/
 node	11147805405	https://mini-market-di-francou-stefano.business.site/
 node	11149094932	https://www.panificioilchicco.it
 node	11149094938	https://www.rollesandrogioielli.com
+node	11151954967	https://cvp.clinic/
+node	11153287091	https://www.studioercole.it
+node	11155766305	http://www.nocciolesacco.it
+node	11158999707	https://www.facebook.com/profile.php?id=100041334229461&locale=it_IT
+node	11161445860	https://trentech.it/
+node	11164807106	http://www.biud10.org/
+node	11164807108	https://interser.it/
+node	11164807111	https://www.mollibella.it/
+node	11164807114	https://www.englishsrl.it/
 way	22880457	http://www.liceogioberti.it/
 way	23028146	http://www.palavelatorino.it
 way	23079840	https://www.isola2000.com
@@ -6046,6 +6057,7 @@ way	119387319	http://brindorhotel.it/
 way	119456036	http://parrocchiasantagiulia.eu/
 way	120273598	https://www.comune.romentino.no.it/
 way	121158369	https://www.cuneocamp.it
+way	122234828	https://trm.to.it/
 way	122450489	https://www.stranaidea.it/servizi/tazzoli/
 way	122993300	http://www.rifugiovalasco.it/
 way	123180294	https://www.gamtorino.it/it
@@ -7002,6 +7014,7 @@ way	291657997	http://www.madonnadeipoveri.it/
 way	292796592	www.xeriline.it
 way	293301301	https://www.calettadelcanavese.com/
 way	293952707	http://www.consorziovgm.com/
+way	294068530	https://www.salgomma.com/
 way	294137738	https://www.rvsoleodinamica.com/hpe/
 way	294137744	https://www.easytechtorino.com/
 way	294503471	https://www.cantinadeicacciatori.it/
@@ -8652,6 +8665,7 @@ way	1200671170	https://www.ladarbia.it/cucina.html
 way	1200705837	https://www.bancadalba.it
 way	1201695377	https://www.araminiagri.it/
 way	1201695378	https://www.araminiagri.it/
+way	1204621072	https://www.facebook.com/puntaramabivaccobeltrando/
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -9013,6 +9027,7 @@ relation	8027804	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-set
 relation	8028731	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
 relation	8041882	https://www.estmonterosa.it/catasto-percorsi-vco-alto-verbano-settore-r.html
 relation	8047111	www.cai-pallanza.it/sentieristica
+relation	8166564	https://www.piemontescape.com/it/percorsi-ciclabili/vigezzo-in-bici-percorso-1-druogno-re-pineta/5e01f0d37cc4bb405026753c6b1cc428/
 relation	8171483	http://www.camminidevozionali.it/it/percorsi-devozionali
 relation	8196450	http://www.associazionefortedigavi.it/
 relation	8203224	https://www.estmonterosa.it/catasto-percorsi-vco-valle-antrona-settore-c.html
@@ -10231,7 +10246,7 @@ node	4535491138	https://www.docfix.it
 node	4598089372	http://www.trotetraversella.com
 node	4601567293	https://negozi.tigota.it/it/6123-mondovi
 node	4642102450	http://www.caffevergnano.com
-node	4665090546	http://www.isleofskyepub.it/
+node	4665090546	https://www.isleofskyepub.it/
 node	4665896271	http://www.belvedereorasso.it/
 node	4689175728	https://com.jysk.it
 node	4690969018	http://www.cornerhouse.it/
