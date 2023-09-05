@@ -3561,12 +3561,12 @@ node	5714187769	http://www.residence-concaverde.it/
 node	5714514995	http://www.comune.pomarolo.tn.it/
 node	5716923963	https://www.gomines.it/
 node	5719958034	https://www.suedtirol-rad.com/
-node	5719983495	https://www.suedtirol-rad.com/
+node	5719983495	www.papinsport.com
 node	5720014124	https://www.suedtirol-rad.com/
 node	5720027772	https://www.suedtirol-rad.com/
 node	5720040294	https://www.suedtirol-rad.com/
 node	5720053895	https://www.suedtirol-rad.com/
-node	5720065065	https://www.suedtirol-rad.com/
+node	5720065065	www.papinsport.com
 node	5720189663	https://www.suedtirol-rad.com/
 node	5720222521	https://www.suedtirol-rad.com/
 node	5720236646	https://www.suedtirol-rad.com/
@@ -4024,7 +4024,6 @@ node	7379484858	https://www.locanda2camini.it/
 node	7389039354	http://www.avis-altoadige.it/
 node	7389039373	https://www.comune.terlano.bz.it/
 node	7392453555	http://dentalhygiene.bz/
-node	7417777282	https://www.magnitudosport.com/
 node	7431572955	http://ita.colorificiogarda.cloud/
 node	7448493483	https://obermoser.wine/
 node	7464452465	http://www.esteticaartemis.it
@@ -4948,6 +4947,7 @@ node	10035794991	https://www.lakeproject.it
 node	10042875739	https://www.deltom.it/it/building/details/4/ca-delle-margherite
 node	10048048986	https://www.cmpsport.com/it/
 node	10051911617	https://mein-thai-restaurant-alte-post-naturns.business.site/
+node	10053603703	https://www.visittrentino.info/it/articoli/famiglia/lupa-lagorai
 node	10054108740	https://biblio.bz.it/rodeneck
 node	10056469117	http://Www.kauristore.com
 node	10064690213	http://www.graficheavisio.it
@@ -5140,6 +5140,12 @@ node	11141677719	https://www.rosra.it
 node	11142839967	https://www.instagram.com/barbu_pur/?igshid=OGQ5ZDc2ODk2ZA%3D%3D
 node	11143185960	http://www.suedtirolmobil.info
 node	11144339035	http://www.istitutotrento5.it/
+node	11156824023	https://lapinotteria.com
+node	11158440333	https://www.magnitudosport.com/
+node	11160891767	https://www.dutypay.eu
+node	11164611805	https://www.wegerhof-rein.it/
+node	11167084236	https://www.emmasrivadream.com
+node	11167698897	https://www.emmasrivadream.com
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -5243,7 +5249,7 @@ way	41950772	http://www.troier.com/
 way	41950774	http://www.seceda.cc/
 way	41967296	https://www.cendevaves.it/
 way	41971518	https://www.granvara.com/
-way	41971519	http://www.belaval.it
+way	41971519	https://www.belaval.it/
 way	41974936	https://www.muline.it/
 way	41976208	https://www.valdanna.com/
 way	41989569	https://malgacimana.com/
@@ -5396,7 +5402,6 @@ way	59583230	http://www.ttesercizio.it/
 way	59623038	http://www.gartenbaupozzi.com/
 way	59701053	https://www.trivena.com/
 way	59716772	https://www.eggbauer.it/
-way	60099830	https://www.villabellaria.com
 way	60133024	https://www.maximodecenter.it/de/eppan
 way	60133950	http://www.orchideariva.it/
 way	60157563	https://www.verdinserhof.it/
@@ -5515,6 +5520,7 @@ way	69728672	https://www.roneralm.com
 way	69885276	https://www.zf.com
 way	69885309	https://www.elimp.net
 way	69885322	http://www.avancinihydrotecnica.it/
+way	69928607	https://www.usmarco.it
 way	69974381	https://avio-superfici.enac.gov.it/it/public/surface/show/2080
 way	69991061	www.alea-suite.com
 way	70038841	http://www.marzadro.it/distilleria.php
@@ -5539,6 +5545,7 @@ way	70693571	http://www.ristorantemalgabaessa.com/
 way	71114315	https://segherialeonardi.com/
 way	71114479	https://www.arcobedandcamping.it/it-it/home/index
 way	71114563	http://www.arcosole.com/
+way	71121774	https://www.agriturismotrentino.com/it/agritur-ai-storti/59-10/
 way	71152400	https://www.malgacere.it/
 way	71165531	https://www.nauders.com/de/aktiv-erleben/sommer-aktiv-erleben/bike-rad/endurobike/bunker-trail_td-11728
 way	71338160	http://www.tremalzo.info/
@@ -6828,6 +6835,9 @@ way	216809140	https://www.sto.com/
 way	217014654	https://www.finstral.com/
 way	217014655	https://www.raumitalia.com/
 way	217048769	https://www.hotelbaur.it
+way	217048772	http://www.toblachersee.com/
+way	217048775	https://seerestaurant.business.site/
+way	217048792	https://www.toblachersee.com/wine-dine/
 way	217198404	http://www.marvil.it
 way	217198409	http://www.casa-salute.it/
 way	217214803	https://www.parkhotel-bellevue.com/
@@ -8018,6 +8028,7 @@ way	785321152	https://waltherpark.com/
 way	786179327	https://www.rautal.com/
 way	809576930	https://www.millenniumshof.com/
 way	809577803	http://www.stompferhof.com/
+way	809635970	https://www.montan.info/montan-neuigkeiten/forsthuette-hackelboden/
 way	813142997	https://www.sociologia.unitn.it/
 way	813142998	https://www.fbk.eu/
 way	815649637	http://www.scaniaservice.it/
@@ -8188,10 +8199,11 @@ way	1155254464	https://www.trentinoresidences.it/en/summer/residence-lagorai-in-
 way	1156125486	https://www.cristoforetti.it/
 way	1160381695	https://www.buehelwirt.com/
 way	1160400167	https://eisklettern.it/
-way	1163738171	www.icborgovalsugana.edu.it
+way	1171091460	https://www.paintballtrento.it/
 way	1172405215	https://www.ilarici.it/
 way	1178148831	https://www.am-hang.com
 way	1182875929	www.ff-zenoberg.it
+way	1185307752	https://www.valgardena.it/en/news-val-gardena/detail/new-via-ferrata-furcela-de-saslonch/
 way	1186016110	https://www.waldorf-meran.it
 way	1186016113	https://ff-freiberg.it/
 way	1186462910	https://www.impronte.tn.it/
@@ -8199,6 +8211,7 @@ way	1188055153	https://alrestelar.it/
 way	1192614789	https://www.hotelsalegg.com/?utm_source=google-my-business
 way	1198318951	http://www.areaarchitetti.com/
 way	1199681719	https://www.neuhaushof.it/de/
+way	1204922660	https://www.villabellaria.com
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -9443,7 +9456,6 @@ relation	9748585	https://www.toblini.com/
 relation	9787009	https://sito.operaromani.it/origini.html
 relation	9788876	http://www.via-alpina.org/it/stage/205
 relation	9789735	https://sito.operaromani.it/origini.html
-relation	9795242	http://www.toblachersee.com/
 relation	9986379	http://www.stiftung-st-elisabeth.it/it/
 relation	10054037	https://www.pontedilegnotonalebike.com/it/percorso/n-10-dau
 relation	10216686	http://www.teatrorosmini.it/
@@ -10108,6 +10120,8 @@ node	3101758140	http://www.almarinaio.eu
 node	3101758141	http://www.almarinaio.eu
 node	3101758142	http://www.almarinaio.eu
 node	3101758143	http://www.almarinaio.eu/
+node	3102593635	https://www.asis.trento.it/it/impianti/palatrento_9419_s/
+node	3102598241	https://www.asis.trento.it/it/impianti/palaghiaccio_9377_s/
 node	3103277273	http://www.riccadonnaservice.com
 node	3103437627	http://www.francescoambrosisrl.it
 node	3109393248	http://www.vertigotrento.com/
@@ -10482,6 +10496,7 @@ way	30213571	http://www.gardenaronda.com/
 way	32059923	https://www.trentinomobilita.it/biciclette-cp-trento
 way	35212337	http://www.capannaviote.it/
 way	36772636	http://www.volabass.it/
+way	36817720	https://www.asis.trento.it/it/impianti/centro-sportivo-ito-del-favero-madonna-bianca_9376_s/
 way	36843504	http://www.bibcom.trento.it/orari_sedi/sedi_periferiche/villazzano
 way	36879784	https://www.gruppopoli.it/
 way	37017178	http://www.prefettura.it/trento/multidip/index.htm
@@ -10911,6 +10926,7 @@ way	783051434	https://www.hoodyhotel.com/
 way	860653801	https://www.riva1.it/
 way	914196533	https://www.trentinomobilita.it/biciclette-cp-trento
 way	916837339	https://www.dinosauroabbigliamento.com/mezzolombardo/
+way	966535350	https://www.appm.it/
 way	971107438	https://www.olgacasanova.it/
 way	1051578416	https://www.tecnoplasticatrentina.com
 way	1074837111	http://www.linguisticotrento.it/
