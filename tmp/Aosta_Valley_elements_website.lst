@@ -29,7 +29,7 @@ node	910361198	https://www.croixblanche.it/
 node	925960688	http://www.hotelarmanac.it/
 node	928209323	http://www.valdotain.it
 node	928228356	www.pizzeriaristoranteavalon.it
-node	1019436474	www.albergodelponte.com
+node	1019436474	https://www.albergodelponte.com
 node	1194448827	https://www.fortedibard.it/musei/museo-delle-alpi/
 node	1269097055	http://www.comune.saintdenis.ao.it/turismo/territorio/il-castello-di-cly
 node	1302104285	http://www.comune.brusson.ao.it/
@@ -61,6 +61,7 @@ node	1746633413	https://www.fortedibard.it
 node	1746633415	www.comune.bard.ao.it
 node	1780403912	https://www.camperonline.it/area-di-sosta/Area-sosta-Fenis_3542
 node	1842637090	http://www.hotelboutondor.it
+node	1874172884	https://www.lavachey.com/
 node	1909898979	https://www.rifugiosella.com/
 node	1917441244	https://www.rifugiosella.com/
 node	1930450197	https://www.lovevda.it/it/banca-dati/22/posti-tappa-dortoir/pontboset/retempio/9005836
@@ -217,7 +218,6 @@ node	8118527814	https://gerolina.it
 node	8235617510	http://www.caichatillon.it
 node	8235734591	http://aosta.caivda.it
 node	8659272207	https://essepiu-soluzioni.com
-node	8736057722	http://www.msmountain.it/aroundw/rifugi/bivacco_gastaldi.html
 node	8741993556	https://www.comune.brissogne.ao.it/vivere-il-territorio/informazioni-utili/bivacco-menabreaz
 node	8948251439	https://www.lovevda.it/it/banca-dati/4/aziende-formaggi/morgex/caseificio-cooperativa-valdigne-mont-blanc/1402
 node	8948251450	http://www.hotelmontagnards.com/
@@ -471,6 +471,7 @@ way	97469704	https://www.ravspa.it/index.php?option=com_content&view=article&id=
 way	97469747	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	112844113	http://www.lesrefuges.it/it/rifugi/fond.html
 way	113803178	http://www.maisoncly.it/it/baita-fontana-freida-cucina-tipica-chamois
+way	114380401	https://www.planetmountain.com/rock/falesie/falesia.html?idfalesia=81
 way	115873554	www.oavda.it
 way	116870192	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	116870194	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -770,6 +771,7 @@ way	1152238179	http://maisondunoyer.com/
 way	1154606513	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	1154606514	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	1197121607	https://www.bivaccoedoardocamardella.it
+way	1204931540	https://www.lovevda.it/it/banca-dati/7/bivacchi/sarre/bivacco-alessandro-pansa/3252
 relation	162371	http://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/cogne-rifugio-sogno-di-berdze/2974
 relation	372502	http://www.alptrekking.ch
 relation	1004348	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
