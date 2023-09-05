@@ -5,6 +5,7 @@ node	66503155	http://www.gemonaweb.it
 node	66503259	https://www.preone.org/
 node	95113478	https://www.farmacia-altura.it/
 node	95116547	https://farmaciacermelj.com/
+node	227714681	http://q8.it
 node	228303011	https://www.enistation.com/
 node	228303020	https://carburanti.esso.it/it-it/find-station/esso-cervignanodelfriuli-essocervignanodelfriuli-100106187?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_source=google&utm_medium=organic&utm_campaign=gmb
 node	251653552	http://www.garageregina.it/home_it.php
@@ -646,7 +647,6 @@ node	2899340999	https://www.formula1lignanosabbiadoro.it/mobile/Default.aspx
 node	2899341203	https://osolemiolignano.it/
 node	2899341206	https://www.ridolfoalimentari.it/it/home/
 node	2899341207	https://shakerlignano.com/
-node	2908617844	https://www.gelateriamikamale.com/
 node	2916164301	http://www.damenia.it
 node	2942706599	https://scuolasuperiore.uniud.it/
 node	2952030167	http://www.trevisanstudio.it/
@@ -710,9 +710,11 @@ node	3314476332	https://www.facebook.com/eccellenzasicilianasacile/
 node	3314476450	www.studibiblici.com
 node	3314478017	http://www.canoaclubsacile.com/
 node	3314478852	https://playgroundsocialclub.it
+node	3314481696	https://cartastorie.it
 node	3331007241	https://www.centrocommercialediscount.it/
 node	3335189293	https://www.milicimpianti.com/
 node	3344092878	http://www.ibenandanti.it
+node	3347679709	https://www.poste.it
 node	3347711796	http://www.ristorantealzuc.com
 node	3361183870	https://www.masutdarive.com/
 node	3361205596	http://laroncaia.it/
@@ -970,6 +972,7 @@ node	3748977189	http://ecolex.uniud.it
 node	3748992328	http://www.opera-immobiliare.it/
 node	3748997850	http://udinaiuta.it
 node	3748998721	http://bibliomed.bib.uniud.it
+node	3748999391	https://www.poste.it
 node	3749000545	https://www.ateliersarte.it
 node	3749006338	http://www.sbhu.it/easyne2/LYT.aspx?Code=SBHU&IDLYT=657&ST=SQL&SQL=ID_Documento=59
 node	3749056721	http://www.sbhu.it/easyne2/LYT.aspx?Code=SBHU&IDLYT=657&ST=SQL&SQL=ID_Documento=60
@@ -2243,6 +2246,8 @@ node	11126275966	https://trattoriadalbolognes.eatbu.com/?lang=it
 node	11133597605	http://mypiancavallo.com
 node	11137783040	http://fotooktrieste.com/
 node	11142964655	https://rifugioalconvento.it/ristorante/
+node	11158232705	https://www.poste.it
+node	11166538553	https://trattoria-risorta.eatbu.com
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	www.campingalbosco.it
@@ -3077,7 +3082,7 @@ way	1122083985	https://www.batitalia.com/
 way	1124954983	https://www.casadiriposofioridelcarso.com/
 way	1133444222	https://lignanosabbiadoro.it/it/strutture/151-11-aragosta/
 way	1133444223	https://lignanosabbiadoro.it/it/strutture/150-10-delfino/
-way	1133444224	www.lignanosabbiadoro.it
+way	1133444224	https://lignanosabbiadoro.it/it/strutture/147-7-foca/
 way	1149586120	https://www.dave.eu/
 way	1150164309	http://www.pasian.fvg.it/parchi/parco_lavia_bertrando.htm
 way	1150164310	https://www.comune.martignacco.ud.it/it/storia-e-territorio-36755/parco-del-beato-bertrando-36763
@@ -3101,13 +3106,14 @@ way	1191913781	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/fer
 way	1192913791	http://www.exlavatoio.it/
 way	1195533965	https://www.lidl.it/
 way	1195533967	https://www.dhomuscasa.it/
-way	1197793015	https://lignanosabbiadoro.it/it/strutture/sabbiadoro-ufficio-spiaggia-18/
+way	1197793015	https://lignanosabbiadoro.it/it/strutture/156-18-pesce-palla/
 way	1198593269	http://www.portopiccolosistiana.it/it/spa_4.htm
 way	1202406102	https://www.capannadoro.com/
 way	1202665596	https://www.miramare.com/
 way	1202665599	https://www.hoteldesiree.it/
 way	1202729778	https://www.ferien-kinderfreunde.at;https://kinderfreunde.at
 way	1202986509	https://asufc.sanita.fvg.it/it/presidi-ospedalieri/ospedale_imfr_gemona/
+way	1204765088	https://lignanosabbiadoro.it/it/strutture/145-5-pescecane/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -5045,3 +5051,4 @@ relation	3422250	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?id
 relation	9458840	neveland.it
 relation	12080364	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=132&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 relation	13921837	www.montanevie.it
+relation	16284554	https://www.archeocartafvg.it/portfolio-articoli/verzegnis-ud-colle-mazeit-un-insediamento-pluristratificato/
