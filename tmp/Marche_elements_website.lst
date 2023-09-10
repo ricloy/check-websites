@@ -5,6 +5,8 @@ node	229118515	https://carburanti.esso.it/it-it/find-station/esso-ancona-essoanc
 node	257061689	https://www.farmaciaferrettidrgianpaolo.com/
 node	266580073	http://www.donegal.it/
 node	276129824	https://www.lacantinadibacco.it/
+node	280991958	https://www.campinggemma.it
+node	280991959	https://www.campingjohnny.com/index.php/it/
 node	290402015	http://www.caffemeletti.it/
 node	302657619	http://agriturismoilrustico.it/
 node	329970365	http://www.vintora.it/
@@ -162,6 +164,7 @@ node	1397443501	https://www.simplymarket.it/pdv.php?id=7718
 node	1403760214	https://www.pasticceriangelo.it/
 node	1406220918	http://www.archiviodistatoancona.beniculturali.it
 node	1413209150	http://www.pizzeriadesiderio.it/Molo71.aspx
+node	1413614977	http://www.taverna41.com/
 node	1413615044	http://www.hotelaquamarina.it
 node	1417325631	https://bluarenahotel.it/
 node	1429480094	http://www.comune.ancona.it/ankonline2/it/uffici/biblioteche/index.html
@@ -340,7 +343,7 @@ node	2962602228	https://www.hotelmamiani.it/
 node	2964603268	https://www.obi-italia.it/
 node	2970333735	https://www.zoodom.com/
 node	2975523944	https://www.helix.it/
-node	2981069675	https://www.arcaplanet.it/item/civitanova-marche/
+node	2981069675	https://www.arcaplanet.it/negozi-per-animali/civitanova-marche-v-fontanella
 node	2986028111	https://www.tiemmeservice.net/
 node	2986988741	http://www.filcaravan.it/
 node	3002873778	http://www.enotecadellangolo.com/
@@ -645,6 +648,7 @@ node	5407753732	https://farmaciadavella.it/
 node	5495661968	https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_honorarni_konzulat_ancona.html
 node	5540874127	https://www.fraticelligirottipierella.com
 node	5544031046	https://la-loggia-luxury-brand.business.site/
+node	5595937208	http://www.officinabistrot.it/
 node	5595996464	https://www.raphaelbeach.com
 node	5600657222	http://www.gabbiano-senigallia.com
 node	5642018893	http://www.angolodimario.it/
@@ -1146,6 +1150,7 @@ node	10915561882	http://www.zerosetteaccordions.com/
 node	10915570863	https://www.bugariarmando.com
 node	10916934207	avisfabriano.com
 node	10929814310	http://www.siconte.it/it/punti-vendita/si-supermercati/camerino-via-bandini
+node	10930117518	https://enjoycamerino.it
 node	10931483345	https://www.marianiassicurazioni.it
 node	10940182450	https://www.nero-su-bianco.it
 node	10944382149	https://arpa.marche.it
@@ -1191,6 +1196,16 @@ node	11157726482	https://www.morenocedroni.it/la-madonnina-del-pescatore/
 node	11163085910	https://www.intac.it
 node	11163086501	http://www.lautomobilesenigallia.it/
 node	11164743427	http://www.carrozzeriaadriatica.it/
+node	11166480355	https://www.vacanzespinnaker.it
+node	11168761721	ilgentilverde.it
+node	11169946381	http://www.trillini.com/
+node	11170009169	https://www.casa-co.it/punti-vendita/marche/macerata/civitanova-marche/
+node	11171208249	http://www.hungsingmartialarts.com/
+node	11171358033	https://impresapiu.subito.it/shops/44362-redauto-civitanova
+node	11171487382	https://icviareginaelena.edu.it/struttura/via-regina-elena/luigi-bartolini/
+node	11171487399	https://icviareginaelena.edu.it/struttura/via-regina-elena/luigi-pirandello/
+node	11178636292	https://www.cmsangiuseppe.it/
+node	11178636293	https://centro-medico-progetto-salute.business.site/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23678233	https://www.conad.it/ricerca-negozi/conad-superstore-via-guglielmo-marconi-61-60015--falconara-marittima--009860
@@ -1587,6 +1602,8 @@ way	744854478	http://www.ristorantelenoci.it/
 way	746731676	http://auditoriumasetti.donorionefano.com/
 way	753583679	https://www.residenceedelweiss.com/
 way	764685017	http://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/94/
+way	770382388	https://www.iisdavinci.edu.it
+way	773119082	https://icviareginaelena.edu.it/struttura/via-regina-elena/san-giovanni-bosco/
 way	782406450	https://www.hoteledelweissfano.it
 way	783905998	http://www.hospitaleterzoparadiso.it
 way	783907509	www.hospitaleterzoparadiso.it
@@ -1676,6 +1693,10 @@ way	1190654222	https://www.pesaroavventura.it/
 way	1191256141	https://www.coal.it/archives/punti-vendita/villa-fastiggi-alimentari-srl
 way	1198559387	https://www.ortobotanico.univpm.it/
 way	1204306718	http://www.santamariaapparente.com/
+way	1204853002	https://www.asur.marche.it/strutture-aziendali
+way	1204919842	https://www.casadicuravillapini.it/
+way	1205253580	https://cluanadog.it
+way	1205444411	https://icviareginaelena.edu.it/struttura/via-regina-elena/carlo-lorenzini-collodi/
 relation	1085613	http://www.sferisterio.it
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	http://www.riservasentina.it/
@@ -1776,7 +1797,7 @@ node	845275811	http://www.cruiser.it/docks_Site/
 node	1332887447	https://www.lazzabaretto.it/
 node	1390061950	https://www.hoteltesoro.it/
 node	1412602974	http://www.biesse.com
-node	1597985102	http://www.cinemafano.it/
+node	1597985102	https://www.politeamafano.it/
 node	1598001258	https://museocivico.comune.fano.pu.it/
 node	1614693591	https://www.hoteltesoro.it/
 node	1693895885	http://www.asetservizi.it/farmacie-comunali/farmacia-di-marotta/
