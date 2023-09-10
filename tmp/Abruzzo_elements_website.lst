@@ -49,7 +49,6 @@ node	325707932	https://www.greenroasting.it/
 node	354496155	https://www.poste.it/
 node	367395574	https://www.mps.it/
 node	368224212	https://negozi.tigota.it/5885-pescara
-node	414248160	https://www.grupposynergo.com/
 node	415121362	http://www.fontecoppa.it/
 node	415875897	https://www.quebrachoristorante.com/
 node	418373511	https://asilonidoilfilorosso.com
@@ -358,7 +357,6 @@ node	3284080192	https://www.materassiematerassi.it/it/
 node	3287756354	https://www.todis.it/
 node	3288686427	http://www.bikeprochieti.it/
 node	3289723753	http://www.mygymlaquila.com/
-node	3292291236	http://www.pescaracityplex.it/
 node	3292291237	https://questure.poliziadistato.it
 node	3292291246	https://questure.poliziadistato.it/Pescara
 node	3292330544	https://www.ceatelecomunicazioni.it/
@@ -1209,7 +1207,6 @@ node	7511559107	https://www.unigross.it/
 node	7513742991	https://www.dolceesalatopasticceria.it/
 node	7513746967	https://www.auricon.it/
 node	7513779919	https://ucciantonio.it/
-node	7513819850	https://hells-chicken.business.site/
 node	7513837478	https://erboristeria-voglia-di-benessere-pescara.business.site/
 node	7513955430	https://www.ferautoaccessori.com/
 node	7517220798	http://sunpassion.it/
@@ -1315,6 +1312,7 @@ node	7581343708	https://www.chateau-dax.it/
 node	7581350084	https://www.apruamare.it/
 node	7581388843	https://www.guardiacostiera.gov.it/pescara
 node	7589763532	http://www.gamesacademy.it/pescara/
+node	7589769950	https://www.belleartiemestieri.it/
 node	7589794243	http://www.delmarsrl.com/
 node	7589828996	http://www.pubbliartist.com/
 node	7590043996	https://king-line.business.site/
@@ -2256,7 +2254,6 @@ node	10121215280	https://www.ortopediaimar.it
 node	10121353511	http://onoranzefunebrisorrentini.com/
 node	10121365318	https://www.colussilegnami.it/
 node	10135061999	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10701
-node	10140229107	http://www.siconte.it/it/punti-vendita/si-superstore/pescara-via-monte-faito
 node	10142862657	https://mobilita.comune.pescara.it/wp-content/uploads/2021/01/PUMSPescara_agg_25giugno20201-1.pdf
 node	10143040841	www.witel.it
 node	10152486618	https://www.ivpc.com/gruppo/blitz-power/
@@ -2751,6 +2748,9 @@ node	11147964625	https://casarusti.it/
 node	11150371709	https://ponzioaluminium.com/it/rivenditori-ponzio/cilli-nico/
 node	11159159207	jakesplace.eu
 node	11159828831	https://www.dromedian.com/
+node	11166989450	http://www.ristorantepizzeriamarsica.it/
+node	11169848098	https://www.peanorosaonline.edu.it/
+node	11177325190	https://www.maversicurezza.it/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -3185,6 +3185,7 @@ way	674297178	https://www.pastacocco.com/
 way	674297517	https://www.delverde.com/it
 way	676119315	https://www.honda.it/motorcycles.html
 way	677005905	http://www.comune.trasacco.aq.it/
+way	677009634	https://www.istitutocomprensivotrasacco.edu.it/
 way	677166903	http://www.ostelloparcodabruzzo.it/
 way	677410385	https://www.cantinafrentana.it/
 way	677410387	http://www.marionegri.it/
@@ -3194,7 +3195,6 @@ way	678185321	https://www.facebook.com/laghidelsole/
 way	678185328	http://www.vinicasalbordino.com/index.php/en/
 way	678185331	http://www.vinicasalbordino.com/index.php/en/
 way	678185335	http://www.vinicasalbordino.com/index.php/en/
-way	679552343	http://www.ristorantelolimpo.it/
 way	679552344	http://www.lacollinadipeppino.com/
 way	679832900	https://ristorante-pizzeria-la-fontanella.business.site/
 way	680689680	https://www.abruzzoactivities.com/
@@ -3239,6 +3239,7 @@ way	772491732	http://www.ristorantepineta.com
 way	794703858	https://www.hotelspazioresidenza.it
 way	797037694	http://www.parcoabruzzo.it/dettaglio.php?id=36686
 way	798431200	https://www.coworker.com/italy/pescara/gigawork
+way	798441149	http://www.pescaracityplex.it/
 way	798450015	http://galileipescara.it/
 way	799299451	http://www.agricenturia.it
 way	800743796	http://www.centromedicolifecare.it/
@@ -3531,6 +3532,7 @@ way	1090414994	https://giardinodegliulivi.com
 way	1090534363	https://vivaiolafelce.com
 way	1090801046	http://www.tavsantuberto.it
 way	1091323530	http://www.comune.casteldisangro.aq.it
+way	1091528833	https://www.comune.anversadegliabruzzi.aq.it/
 way	1091930128	http://ristorantezenobi.it
 way	1093908562	https://www.ilcentro.it/pescara/l-omaggio-della-citt%C3%A0-al-sindaco-de-toma-dedicata-una-strada-1.2061639
 way	1094039145	https://mapio.net/pic/p-12899349/
@@ -3580,6 +3582,7 @@ way	1148225873	https://www.vinisincarpa.it
 way	1150379623	https://www.cosvega.it/
 way	1150983173	https://lazzaronibiscotti.it/en/lazzaroni-biscotti-en/
 way	1153887336	https://www.campingdonantonio.it/
+way	1158377659	http://www.siconte.it/it/punti-vendita/si-superstore/pescara-via-monte-faito
 way	1162405110	https://www.icisolacolledara.edu.it
 way	1162497493	https://parrocchiamadonnadipompei.it/museo-della-arti-contadine-5723202508271424348/
 way	1162908971	https://shopmancini.com
@@ -3624,6 +3627,7 @@ way	1201554048	https://ip.gruppoapi.com/ricerca-stazioni-servizio/station/41844
 way	1201554077	https://www.petrolgamma.com/stazione/teramo-strada-statale-80/
 way	1202037327	https://www.pasquarelliautosrl.it
 way	1204443676	https://www.tenutasantilario.com/
+way	1205328394	https://www.grupposynergo.com/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
