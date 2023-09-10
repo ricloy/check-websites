@@ -38,6 +38,7 @@ node	329189498	https://www.poste.it
 node	335922697	https://www.poste.it
 node	338966369	https://www.museodiocesanocatania.com/
 node	340263838	https://www.poste.it
+node	358429829	https://www.livolsifarmacia.it/
 node	368407311	https://www.poste.it
 node	370316782	https://www.poste.it
 node	380989289	http://www.farmaciadigallosilvia.it/
@@ -47,6 +48,7 @@ node	412327777	https://www.poste.it
 node	415949776	https://www.poste.it
 node	420082141	https://www.poste.it
 node	428973029	https://www.poste.it
+node	452083703	https://www.catacombefraticappuccini.com
 node	458495742	http://www.hotellarosadeiventi.it/
 node	459464142	https://www.parcodisegesta.com/home/vivere/storia/Porta-di-Valle.html
 node	463256121	http://www.thebest.sicilia.it
@@ -1420,6 +1422,7 @@ node	4989262725	http://www.prefettura.it/trapani
 node	4990841430	http://www.farmaciabocchetti.it/
 node	4993601282	http://www.firritaliaimmobiliare.it/
 node	4994237785	https://www.facebook.com/ristorantevecchiopalmento/
+node	4995323122	https://www.fud.it/en/location/catania/
 node	5002450194	https://www.poste.it
 node	5002450196	https://www.poste.it
 node	5003435262	http://www.opacsiracusa.it/easyweb/w3133/
@@ -1737,7 +1740,6 @@ node	6283499699	https://www.trenitalia.com/
 node	6287522485	https://dimorahostel.business.site/
 node	6291738548	www.barmagri.it
 node	6291853307	https://www.onoranzefunebridinicola.it/
-node	6296836178	http://www.toysplanet.it
 node	6297295942	www.sottoipini.it/
 node	6298055094	https://www.trenitalia.com/
 node	6302986138	http://arlecchinoariston.it/
@@ -2953,6 +2955,7 @@ node	9781286143	https://lecalette.it/ristoranti/cala-luna/
 node	9781392166	https://www.facebook.com/Compagnia-Opera-dei-pupi-Brigliadoro-di-Salvatore-Bumbello-Puparo-1441454699461118/
 node	9782794769	https://cannonesrl.it/
 node	9782794770	https://cannonesrl.it/
+node	9782918495	https://www.byssussuites.com
 node	9782918510	http://www.terrazzasulplemmirio.it/
 node	9788841506	http://www.siciliafotografica.it/gallery/index.php?/category/2667
 node	9794864398	www.francocuticchiopuparo.it
@@ -3430,13 +3433,26 @@ node	11124079417	https://circolodidatticozafferana.edu.it/
 node	11124742991	https://www.caldaiebrusca.it/
 node	11126304406	https://fermataspulignietna.it/
 node	11126563660	https://www.esperiapalace.com
-node	11148905994	https://www.poste.it
 node	11156256845	http://www.officineculturali.net/
 node	11156572705	https://tacchiesaporifactory.it/
 node	11158102629	http://www.barargentina.com/
 node	11158346929	https://www.magnevafavignana.com/?fbclid=IwAR0MxvVCQMMAFpKjZQBSzDw8YD1Y1o8gWAWonWLBVp8KBgKcv7en6q6scew
 node	11159647660	http://www.agricolagiordano.it/
 node	11162827139	https://lavocedellendometriosi.it/
+node	11163273411	https://www.monasterodeibenedettini.it/
+node	11164483268	https://www.filomenasuite.com/
+node	11164495914	https://www.officineculturali.net/
+node	11170060870	https://www.babiloniasrl.it
+node	11172792725	https://www.icadegasperi.edu.it/
+node	11172879993	https://www.icadegasperi.edu.it/
+node	11172880119	https://www.icadegasperi.edu.it/
+node	11172880130	https://www.icdeandreacisantantonio.edu.it/
+node	11172880131	https://www.icdeandreacisantantonio.edu.it/
+node	11172880132	https://www.icdeandreacisantantonio.edu.it/
+node	11175402147	https://www.elimihome.it/
+node	11177411432	http://www.vittoriovenetolentini.edu.it/
+node	11177411437	http://www.vittoriovenetolentini.edu.it/
+node	11177634789	https://conad.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	http://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -3890,6 +3906,7 @@ way	244964274	http://www.disabilinolimits.it/
 way	244964458	http://www.sicilia-aziende.com/web-link.html?sobi2Task=sobi2Details&catid=2428&sobi2Id=498
 way	245336734	http://www.floracafeacireale.it/
 way	245844877	http://www.avioclubsiracusa.it
+way	246693305	https://www.icadegasperi.edu.it/
 way	247776971	https://www.bambuddha.it/
 way	248218637	https://www.quasimodoragusa.edu.it
 way	248645089	http://www.basilicamadonnadelsoccorso.it
@@ -3957,6 +3974,7 @@ way	279400996	http://www.messinavventura.com/
 way	279881853	http://www.contefederico.com
 way	279883431	https://www.natalegiunta.it/
 way	279885156	https://www.massimoplazahotel.com
+way	279885598	https://ninouballerino.it
 way	280130525	https://www.facebook.com/DogLandTerradeicaniAcireale?fref=photo
 way	282116196	https://www.musco.edu.it/
 way	283142893	www.scautismo.net
@@ -4036,7 +4054,6 @@ way	308243940	https://www.istitutoinsolera.edu.it/
 way	308276159	http://www.istitutorizza.edu.it/itcrizza.net/
 way	308276164	https://www.liceoquintiliano.edu.it/
 way	308278985	http://www.autogrill.it/
-way	308936242	http://www.vittoriovenetolentini.edu.it/
 way	308936259	https://www.1comprcarlentinipirandello.edu.it/
 way	308936270	http://www.vittoriovenetolentini.edu.it/
 way	308936280	https://www.1comprcarlentinipirandello.edu.it/
@@ -4412,6 +4429,7 @@ way	475961147	https://www.iccapuana.edu.it/
 way	475961148	https://www.iccapuana.edu.it/
 way	475961223	https://www.iccapuana.edu.it/
 way	476413700	http://www.baiadinaxos.com/
+way	477321152	https://www.voihotels.com/essentia/destinazioni/voi-marsa-sicla-essentia/
 way	477587820	https://www.comprensivovittorini.edu.it
 way	477587821	https://www.comprensivovittorini.edu.it
 way	477587822	https://www.comprensivovittorini.edu.it
@@ -5313,6 +5331,16 @@ way	1203329833	https://secondoicgiarre.edu.it/
 way	1203329835	https://www.3icgiarre.edu.it/
 way	1203329860	https://www.3icgiarre.edu.it/
 way	1203329872	https://www.3icgiarre.edu.it/
+way	1204677462	https://www.poste.it
+way	1204677463	https://www.poste.it
+way	1205358642	https://www.icdeandreacisantantonio.edu.it/
+way	1205358647	https://www.icadegasperi.edu.it/
+way	1205358651	https://www.icdeandreacisantantonio.edu.it/
+way	1205614393	https://www.icadegasperi.edu.it/
+way	1205614415	https://www.icadegasperi.edu.it/
+way	1205614429	https://www.icdeandreacisantantonio.edu.it/
+way	1205614433	https://www.icdeandreacisantantonio.edu.it/
+way	1206220258	http://www.vittoriovenetolentini.edu.it/
 relation	271371	http://pirandellomazara.it
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
