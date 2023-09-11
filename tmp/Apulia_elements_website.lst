@@ -440,7 +440,7 @@ node	4058649089	http://ricciutilaw.com/
 node	4065572840	http://www.hotelristorantelacapannella.com
 node	4066539105	https://www.facebook.com/CARTOLERIAFASCILLA
 node	4081236263	http://www.castellodialceste.it/
-node	4094255590	https://musei.puglia.beniculturali.it/musei/antiquarium-canne-della-battaglia/
+node	4094255590	https://museipuglia.cultura.gov.it/musei/museo-e-parco-archeologico-canne-della-battaglia/
 node	4110646014	https://bed-breakfast-via-veneto.business.site/
 node	4112905018	www.pilapalucci.it
 node	4139397888	http://www.galileicosta.gov.it/
@@ -1998,6 +1998,16 @@ node	11145830005	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali
 node	11152566823	https://www.luxuryhomebari.com/
 node	11160557027	http://www.agriturismomontenachiro.it/
 node	11163291765	https://www.circolodellavelabisceglie.it/
+node	11166882005	https://gnservices.it
+node	11167706105	https://kaisen-sushi.eatbu.com
+node	11173433298	https://www.bnbgallerycasamexicana.com/
+node	11174849257	https://www.sanita.puglia.it/web/asl-taranto/dipartimenti_det/-/journal_content/56/36057/dipartimento-di-salute-mentale
+node	11174849258	https://www.facebook.com/people/Parrocchia-Santuario-Santissimo-Crocifisso/100064940940004/
+node	11177270852	https://www.amatomatarrese.it/
+node	11178294766	https://www.facebook.com/chiesaevangelicaroccaforzata/
+node	11178676305	https://linktr.ee/kiatz_valleditria
+node	11179318079	https://www.sehaifame.it/
+node	11181482837	https://traduefuochi.com/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30791611	http://www.fierafoggia.it/
@@ -2038,6 +2048,7 @@ way	134710304	https://www.campingsmleuca.com/
 way	134886779	http://www2.poliba.it/Ricerca/lic/Italiano/Index_ita.html
 way	137547111	http://www.immacolatafoggia.it/
 way	137547156	http://santissimosalvatorefg.altervista.org
+way	145236520	https://www.sanita.puglia.it/web/asl-brindisi/ospedali_det/-/journal_content/56/36031/presidio-di-brindisi-di-summa-perrino-
 way	145911952	www.miulli.it
 way	158732617	https://www.villamariacrispiano.it/
 way	159920966	https://www.comune.martinafranca.ta.it/pagina1144_dove-parcheggiare.html#aree
@@ -2101,6 +2112,7 @@ way	243192599	https://www.leonedecastris.com/
 way	243313705	www.campingsportlecce.it
 way	246786944	http://musei.beniculturali.it/musei?mid=879&nome=castello-di-copertino
 way	250957479	http://www.vittoriaresort.it/
+way	256044928	https://aditusculture.com/esperienze/andria/musei-parchi-archeologici/castel-del-monte-andria
 way	263082200	http://www.apuliafilmcommission.it/cineporti/cineporto-di-bari
 way	264293164	www.pianetaostuni.it/index.php/lame/rosa-marina
 way	264520183	https://www.comune.brindisi.it
@@ -3078,7 +3090,6 @@ way	502388630	http://www.derinaldisarreda.it
 way	502430786	http://www.settimocielorestaurant.it
 way	503013969	http://www.puntarenas-salento.it
 way	503418726	http://www.hotelclubazzurro.it
-way	504187692	https://www.masseriasantateresa.com/
 way	504583440	https://www.campingadriatico.it/
 way	504584433	www.villaggioarizona.com
 way	504814315	http://www.archiviodistatolecce.beniculturali.it
@@ -3689,6 +3700,7 @@ node	10542776817	https://www.trmtv.it
 node	11076679870	https://www.cittadelsole.it/companies/view/alberobello
 node	11100118525	https://www.lecarasse.it/
 node	11108033584	https://www.dantedivinoconvivio.com/
+node	11176657016	https://www.crigrottaglie.it
 way	68334157	http://www.scuoladonpappagallo.it/
 way	72401407	https://www.secondocircoloboscoterlizzi.edu.it
 way	78626385	https://www.gesmundomorofiore.edu.it
@@ -3701,6 +3713,7 @@ way	355434366	www.quintocolore.it
 way	397710431	https://www.liside.edu.it/
 way	402902564	https://www.madonnadellacoltura.it/
 way	402903524	www.fseonline.it
+way	404161253	http://www.casalespisari.it/
 way	405756608	http://www.hotelfini.it/
 way	406683983	https://www.albergoilgiardino.com/
 way	407428805	https://www.comune.barletta.bt.it/
@@ -3719,6 +3732,7 @@ way	487368660	http://www.carolihotels.com/bellavista-club/
 way	488652067	http://www.iissgiannelliparabita.gov.it/
 way	490141862	https://www.gallipoliresort.it
 way	497986872	https://www.lidolecanne.it
+way	504187692	https://www.masseriasantateresa.com/
 way	531524963	http://www.lidl.it
 way	590238364	https://www.bagno27.com/
 way	715690847	https://www.famila.it/punti-vendita/puglia/famila-giovinazzo
@@ -3729,6 +3743,8 @@ way	1133163627	http://www.hotelfrancesco.it/
 way	1175277402	http://www.astronomiacasarano.it/
 way	1178294683	https://www.comprensivoparabita.edu.it/
 way	1178777346	http://www.lestelledimeme.it/
+way	1205718766	https://www.residenzecarafa.com
+way	1205718778	https://www.vinibonsegna.it/
 relation	4041429	https://www.conventosantuariopadrepio.it/
 relation	7163382	http://www.cinemateatririuniti.com/italia/
 relation	15341788	https://www.diocesimanfredonia.it/
