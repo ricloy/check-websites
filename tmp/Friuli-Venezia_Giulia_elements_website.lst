@@ -11,7 +11,7 @@ node	228303020	https://carburanti.esso.it/it-it/find-station/esso-cervignanodelf
 node	251653552	http://www.garageregina.it/home_it.php
 node	262349244	https://www.copacabana.it/
 node	269056030	https://www.triestetrasporti.it/index.php?it
-node	270124810	http://www.caffesanmarcotrieste.eu/
+node	270124810	http://www.caffesanmarco.com/
 node	270241507	https://www.facebook.com/Goblin-Trieste-329720383812132/
 node	276424400	http://www.enoteca-cormons.it
 node	283068458	http://www.prolocotrieste.org/
@@ -66,6 +66,7 @@ node	424894699	http://www.hotelalabarda.it
 node	426581674	http://www.zkb.it/
 node	429209732	http://www.bibc.it/
 node	443367812	https://www.locanda101.it/
+node	445512753	https://www.fratellimartin.it/
 node	446273513	https://www.mps.it/
 node	447563418	https://gorizia.ubiklibri.it/
 node	475565173	http://www.knulp.org
@@ -165,7 +166,6 @@ node	970522788	https://infordata.it/
 node	972310229	http://www.sanzingomme.com
 node	973494349	https://www.conad.it/
 node	984295526	https://www.knjiznica.it/
-node	992558931	https://www.lidl.it/
 node	996210556	http://www.vsopcine.it/
 node	996210558	http://www.vsopcine.it/
 node	1003125844	http://www.alfalegname.it/
@@ -1353,6 +1353,7 @@ node	4949857380	https://www.prenatal.com/
 node	4949857382	https://www.cisalfasport.it/
 node	4960698061	https://www.gubanedorbolo.com/
 node	4974112105	https://www.euris.it/
+node	4976719622	https://www.benitalia.com/it/appartamento-ariston-lido_5762248-1.html
 node	4977287399	http://www.ristorantemondschein.it/?lang=en
 node	4977287401	https://www.baitapistanera.com/
 node	4978831262	www.alleruote.it
@@ -2248,6 +2249,8 @@ node	11137783040	http://fotooktrieste.com/
 node	11142964655	https://rifugioalconvento.it/ristorante/
 node	11158232705	https://www.poste.it
 node	11166538553	https://trattoria-risorta.eatbu.com
+node	11175196316	https://churrascariadubrasil.eatbu.com/
+node	11182025136	http://www.studiolegaletirri.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	www.campingalbosco.it
@@ -2333,6 +2336,7 @@ way	36052390	http://rifugiopelizzo.blogspot.it/
 way	36052562	http://locandalaserenissima.com
 way	36054157	https://www.casavalcellina.it/it
 way	36057183	https://www.bottegone.eu
+way	36058210	https://allochalet.com/
 way	36059115	https://www.facebook.com/pages/Agriturismo-Le-Volte/124156847746730
 way	36061157	http//www.icaviano.gov.it/
 way	36066083	www.mobilifurlan.it
@@ -2368,7 +2372,6 @@ way	36156244	www.dca.it
 way	36157003	http://www.ElmAgos.it
 way	36157017	www.algattorosso.com
 way	36158222	http://www.agriturismopetrigh.com
-way	36158904	https://www.villaggiodegliorsi.it
 way	36158945	www.allatrota.com
 way	36164436	draha.it
 way	36164613	https://www.locandaaltrivio.com/
@@ -2417,6 +2420,7 @@ way	36366516	http://www.iclucinico.it
 way	36366517	http://museocomel.it/
 way	36374886	http://www.pizzerianovecento.it/
 way	36374903	https://www.sme.it/
+way	36380925	http://www.trattoriadalcheco.com/
 way	36386154	https://www.larosta.it/
 way	36386309	http://www.mulindibraida.it/
 way	36387719	https://www.hotelinternazionale.it/
@@ -2797,6 +2801,7 @@ way	201562342	http://vidussi.it/
 way	201585989	https://www.sme.it/
 way	203186672	https://www.agriturismojuna.it/
 way	208125020	http://www.la104maneggio.it/
+way	209532175	www.gardenanna.eu; www.gardenannashop.it
 way	213579093	http://www.dijak.it/
 way	215838469	https://www.agriturismonaunal.it/
 way	219082879	http://www.edilporfiditrentina.it/
@@ -2842,7 +2847,6 @@ way	291592758	https://www.eurospin.it/punti-vendita/monfalcone-56929/
 way	293866822	https://www.bellaitaliavillage.com/it/parco-acquatico-bella-italia.php
 way	295500569	http://versajudrio.it/
 way	295605025	http://villagioeuropa.com
-way	295605279	https://isoladelparadiso.com/
 way	296076906	https://www.portosanvito.it/
 way	296078492	http://www.tenuta-primero.com/sito/page/content/menu/195
 way	296899351	http://www.grgic.it
@@ -2967,6 +2971,7 @@ way	724332707	https://www.uniud.it/it/servizi/servizi-studiare/biblioteche/sedi_
 way	726194584	https://verdepubblico.comune.trieste.it/giardini-storici/giardino-di-villa-sartorio/
 way	726969384	https://ceramicheugussi.it/
 way	729959625	http://www.ribiski-muzej.it/
+way	731071662	https://www.lidl.it/
 way	732308245	http://www.campielisi.gov.it
 way	732678830	https://asugi.sanita.fvg.it/it/presidi-ospedalieri/ospedale-cattinara/
 way	732745937	https://verdepubblico.comune.trieste.it/giardini-attrezzati/giardino-di-altura/
@@ -3027,6 +3032,7 @@ way	1011000555	https://gokbora.com/
 way	1020495877	http://www.sacrocuoretrieste.it
 way	1038867840	www.enpaudine.it
 way	1044798528	https://www.marinazzurraresort.com/
+way	1046180034	https://www.spacciocchialivision.it/ottica/gorizia/
 way	1061482304	https://www.villebianchi.com/
 way	1066416444	https://lignanosabbiadoro.it/it/strutture/130-beach-village-lignano/
 way	1073299775	www.h-europa.it
@@ -3114,6 +3120,7 @@ way	1202665599	https://www.hoteldesiree.it/
 way	1202729778	https://www.ferien-kinderfreunde.at;https://kinderfreunde.at
 way	1202986509	https://asufc.sanita.fvg.it/it/presidi-ospedalieri/ospedale_imfr_gemona/
 way	1204765088	https://lignanosabbiadoro.it/it/strutture/145-5-pescecane/
+way	1205636680	https://isoladelparadiso.com/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -3686,6 +3693,7 @@ relation	5365855	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche
 relation	5372926	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-320a
 relation	5406134	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-659
 relation	5414626	http://www.cat.ts.it/index.php?option=com_content&view=article&id=193&Itemid=151
+relation	5562005	http://www.ilcamminodisantantonio.org/
 relation	5567161	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-822
 relation	5581352	https://www.polo.pn.it/
 relation	5876882	http://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-991/
@@ -3846,7 +3854,7 @@ relation	10306412	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	10541221	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-743c
 relation	10559046	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	10716218	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-031a
-relation	10909145	https://www.julius-kugy-alpine-trail.com
+relation	10909145	https://www.julius-kugy-alpine-trail.eu
 relation	11003309	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-990a
 relation	11150131	http://www.grottagigante.it
 relation	11187900	https://www.belvederepineta.com/
@@ -4302,8 +4310,6 @@ relation	14247194	https://verzegnis.puntoquindici.com/map/
 relation	14247249	https://verzegnis.puntoquindici.com/map/
 relation	14301271	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14301272	https://www.triestetrasporti.it;https://tplfvg.it/it/
-relation	14301273	https://www.triestetrasporti.it;https://tplfvg.it/it/
-relation	14301274	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14309113	https://parco-zompitta.business.site/
 relation	14326016	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14326017	https://www.triestetrasporti.it;https://tplfvg.it/it/
@@ -4426,6 +4432,18 @@ relation	16226321	https://dolomitesgeotrail.com/
 relation	16226332	https://dolomitesgeotrail.com/
 relation	16226352	https://dolomitesgeotrail.com/
 relation	16227271	https://www.comune.prato-carnico.ud.it/media/files/030081/attachment/manifesto_giornata_12_08_2023.pdf
+relation	16314798	https://www.julius-kugy-alpine-trail.eu
+relation	16314810	https://www.julius-kugy-alpine-trail.eu
+relation	16314815	https://www.julius-kugy-alpine-trail.eu
+relation	16314820	https://www.julius-kugy-alpine-trail.eu
+relation	16314848	https://www.julius-kugy-alpine-trail.eu
+relation	16314851	https://www.julius-kugy-alpine-trail.eu
+relation	16314854	https://www.julius-kugy-alpine-trail.eu
+relation	16314882	https://www.julius-kugy-alpine-trail.eu
+relation	16314887	https://www.julius-kugy-alpine-trail.eu
+relation	16314890	https://www.julius-kugy-alpine-trail.eu
+relation	16314904	https://www.julius-kugy-alpine-trail.eu
+relation	16314913	https://www.julius-kugy-alpine-trail.eu
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
@@ -4867,7 +4885,6 @@ way	1104944147	http://www.hotelreginagrado.com/
 way	1107452935	https://www.zanuttaspa.it/punti-vendita/muzzana-del-turgnano/
 way	1108278563	https://www.lagunafarosuites.com/
 way	1110037198	https://www.parcotermalerivieraresort.it/
-relation	1991098	www.saf.ud.it
 relation	2574315	http://www.golfsenzaconfini.com
 relation	4602471	http://www.promotur.org/tarvisio/scialpinismo-in-notturna
 relation	4602473	http://www.promotur.org/tarvisio/infoneve
