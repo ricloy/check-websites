@@ -491,6 +491,7 @@ node	1131497004	https://www.ic-altavallagarina.it/
 node	1131518409	http://www.comune.calliano.tn.it/
 node	1132431839	https://www.comune.calliano.tn.it/Territorio/Informazioni-utili/Biblioteca-Pubblica-Comunale
 node	1133398991	https://www.moarhof.com/
+node	1134360765	https://www.theiner.it/de/cafe-claudia/
 node	1137509497	https://www.farmaciatonon.it
 node	1139648636	http://www.schuster.it
 node	1140956766	http://www.amicaauto.net/
@@ -944,6 +945,7 @@ node	2311465411	https://www.enel.it/punto-enel/
 node	2311465422	https://www.enel.it/punto-enel/
 node	2311465433	https://www.enel.it/punto-enel/
 node	2315416391	https://www.kircher.it
+node	2316840873	https://www.torgglerhof.com
 node	2317732379	www.gourmetladele.com
 node	2321392850	https://www.kristallalm.it/
 node	2326368943	https://www.kassian.it/
@@ -1354,6 +1356,7 @@ node	2749572171	http://www.lemayr.it/
 node	2749572196	https://www.citconsult.it
 node	2749572200	https://www.lewald.it/
 node	2749574218	https://carambolage.org/
+node	2749574658	https://www.circuitgym.eu/
 node	2749574901	https://www.europaregion.info
 node	2749577984	http://www.sixpol.com/
 node	2749578905	http://www.parafarmaciastlucia.it/
@@ -1726,9 +1729,11 @@ node	2756027745	https://www.gemeinde.tramin.bz.it/de/Apotheke_Tramin
 node	2756027819	http://www.zur-pergola.it
 node	2756028340	https://www.roner.com
 node	2756028359	https://www.sonnhof.it/
+node	2756041524	https://www.classicapartments.it/
 node	2756041682	http://www.aviscon.it
 node	2756041722	https://www.salcher.com/
 node	2756042346	https://www.sassela.com
+node	2756043199	https://www.stetteneck.com/
 node	2756044570	https://www.franco.it/
 node	2756044575	https://www.affitti-stagionali.apartments/
 node	2756045182	https://www.larciunei.it
@@ -2962,7 +2967,7 @@ node	4244992629	http://www.officinadelgeloavalon.eu/
 node	4244992630	http://otticagries.it
 node	4244992632	https://www.hackhofer.it/
 node	4245057956	http://www.lemayr.it
-node	4245063096	http://www.siegesdenkmal.com
+node	4245063096	https://www.siegesdenkmal.com/
 node	4245872151	http://www.bertoldosrl.it/
 node	4246041117	https://www.postapregasina.it/
 node	4247903119	http://www.photomstudio.it/
@@ -2995,7 +3000,6 @@ node	4317606350	http://www.konditorei-alex.com
 node	4321620690	https://www.conad.it/
 node	4325332487	http://www.garnivecchiocomune.com/
 node	4329176304	http://www.galreidhof.com
-node	4338703896	https://www.kaserhof.it/?l=de
 node	4342341833	https://www.panificiosangiacomo.com
 node	4342559631	http://www.dosstrento.it/
 node	4342932097	https://www.oberlechner-messner.it/
@@ -3962,6 +3966,7 @@ node	7014934191	https://www.residenceolivi.com/
 node	7021263666	https://www.campingmontiggl.com/
 node	7026935186	http://www.altenheime-bruneck-olang.it
 node	7050037422	https://www.floralpina.com
+node	7052523737	https://cianelselva.com/
 node	7053998576	https://www.consorzionautilus.it
 node	7054537270	https://www.hotelpralong.it
 node	7054924421	https://www.hotelsayonara.tn.it
@@ -4611,7 +4616,6 @@ node	9604949359	https://www.olina.com/standorte/suedtirol/meran
 node	9611597277	https://www.bellottibistro.it/bistro/
 node	9626641066	http://www.hermesmulching.com/
 node	9628447444	https://www.fotostudioduemila.com/
-node	9633843459	https://cusanus.it
 node	9643492600	https://www.cityresidencesrl.it/
 node	9646925243	http://www.cngeirovereto.it/
 node	9646943448	http://www.cngeirovereto.it/
@@ -5146,6 +5150,16 @@ node	11160891767	https://www.dutypay.eu
 node	11164611805	https://www.wegerhof-rein.it/
 node	11167084236	https://www.emmasrivadream.com
 node	11167698897	https://www.emmasrivadream.com
+node	11173057990	https://www.cci.tn.it/
+node	11175994973	https://www.vizacarpenteria.it/
+node	11176066162	https://www.beltcostruzioni.it/
+node	11176523502	https://servizi.comune.trento.it/Amministrazione/Luoghi/Vigili-del-fuoco-di-Cadine-Edificio-Itea#
+node	11177320437	http://www.essebie.com/
+node	11180460103	http://arcieritridentini.it/
+node	11180621537	http://www.palazzolodronbertelli.it
+node	11181235037	http://idolcidiricky.it
+node	11185049058	https://www.oasi.tn.it
+node	11185074635	https://gte-elettrica.it
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -6430,7 +6444,7 @@ way	159928000	http://www.gartenmarkt.it/
 way	159928001	http://www.strimmer.it/
 way	159928036	https://www.stecher.it/
 way	159928046	http://www.hotel-greif.com/
-way	160250074	https://www.messnerarchitects.com/de/projects.html?pID=44
+way	160250074	https://www.messnerarchitects.com/de/projects.html?pID=44;https://www.hdf.it/it/struttura/infrastruttura#c66
 way	160639931	https://www.bioenergie-ritten.it/
 way	161084286	http://www.saxillhof.com/
 way	161327807	https://www.hotel-dolomitenblick.eu/
@@ -6584,10 +6598,13 @@ way	177565870	https://www.adlernest.com/
 way	177861125	http://www.oberversanthof.com/
 way	178018255	https://www.schnalsburg.com/
 way	178306615	https://www.hotelmirabello.it/
+way	178771225	https://www.afterego.com
 way	179272494	https://www.trento7.it
 way	179351848	http://www.hotelcentral.it
 way	179543970	http://www.istitutotrento5.it/
 way	179543973	http://www.istitutotrento5.it/
+way	179971134	http://www.tecnolattonerierossi.com/
+way	179971139	http://www.officinafilippi.com
 way	180147739	http://www.jocher.it/
 way	180406221	https://www.ictrento1.it/
 way	180406222	https://www.ictrento1.it/
@@ -6852,7 +6869,6 @@ way	217477112	http://www.verniciaturalodola.it
 way	217477121	https://www.ewo.com/
 way	217477122	http://www.harobau.it/
 way	217488588	https://www.camping-olympia.com/
-way	217488641	http://www.garni-helvetia.it/
 way	217497022	www.rienznerhof.it
 way	217497036	https://www.simedia.com/
 way	217502252	https://www.mexico-city.eu/
@@ -7294,6 +7310,7 @@ way	268969153	https://www.calliarifiori.com/
 way	271270982	http://www.gscnara.it/
 way	272365864	http://www.sonnenheim.com
 way	273085816	https://www.larchwald.com/
+way	274387269	https://www.ecoargentario.it/giardinodeiciucioi/
 way	274866709	http://www.mostradiborgo.it/
 way	275318443	https://www.maths.unitn.it/
 way	275318445	https://www.disi.unitn.it/
@@ -7905,6 +7922,7 @@ way	630295174	https://www.altabadia.org/
 way	638978639	https://www.mountime.com/en/climbing-stadium-arco-rock-master.html
 way	641511741	https://maps.gardatrentino.it/it/tour/arrampicata/falesia-family-san-martino-17-itinerari-da-3a-al-6b/15370339/
 way	641975739	http://www.otticapassuello.it/
+way	643328227	https://larentispavimenti.com/
 way	647880450	http://www.gardenparadise.it/
 way	651671764	http://hotel-panorama.passo-del-tonale.hotels-in-it.com
 way	653358026	https://www.appartments-heidenberger.com
@@ -7997,6 +8015,7 @@ way	710054173	https://www.libreriarcadia.com/
 way	710054174	https://www.thun.com/it_it/
 way	710054176	http://www.lasaponeria.it/
 way	710698839	https://www.hotel-hidalgo.it/
+way	712066851	http://www.waldealm.it
 way	712199910	https://www.comune.cavizzana.tn.it/
 way	713864682	http://www.dalmassimogoloso.com/
 way	718101272	https://www.reiden.it/
@@ -8127,6 +8146,7 @@ way	1044659454	http://www.burggrafenamt.com/it/montagne-ed-escursioni/sentieri-d
 way	1044659455	http://www.burggrafenamt.com/it/montagne-ed-escursioni/sentieri-delle-rogge/roggia-di-lagundo.html
 way	1044722549	http://www.fassaparkcanazei.it
 way	1046895033	https://www.froihof.it
+way	1051032420	https://www.nardellimarmi.it/
 way	1051863175	https://www.nauders.com/de/aktiv-erleben/sommer-aktiv-erleben/bike-rad/endurobike/bunker-trail_td-11728
 way	1054831232	https://www.nauders.com/de/aktiv-erleben/sommer-aktiv-erleben/bike-rad/endurobike/bunker-trail_td-11728
 way	1056912138	https://www.nauders.com/de/aktiv-erleben/sommer-aktiv-erleben/bike-rad/endurobike/etsch-trail_td-11729
@@ -8212,6 +8232,7 @@ way	1192614789	https://www.hotelsalegg.com/?utm_source=google-my-business
 way	1198318951	http://www.areaarchitetti.com/
 way	1199681719	https://www.neuhaushof.it/de/
 way	1204922660	https://www.villabellaria.com
+way	1206332401	https://www.ecoargentario.it/giardinodeiciucioi/
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -9534,7 +9555,7 @@ relation	13726751	http://www.jakobswege-europa.de/wege/suedtirol-graubuenden.htm
 relation	13726779	http://www.jakobswege-europa.de/wege/suedtirol-graubuenden.htm
 relation	13730219	https://www.jakobswegsuedtirol.it/10-andrian-sirmian-grissian-prissian-tisens-lana/
 relation	13743730	https://www.alpenvereinaktiv.com/de/tour/03-suedalpenweg-e25-obstanser-see-huette-sillian/17673978/
-relation	13777123	http://www.jakobswege-europa.de/wege/suedtirol-graubuenden.htm
+relation	13777123	https://www.jakobswege-europa.de/wege/suedtirol-graubuenden.htm
 relation	13777124	http://www.jakobswege-europa.de/wege/suedtirol-graubuenden.htm
 relation	13777198	https://www.jakobswegsuedtirol.it/it/7-neustift-brixen-feldthurns-klausen-villanders/
 relation	13798380	https://cortinadelicious.it/
@@ -9619,6 +9640,7 @@ relation	16229098	https://dolomitesgeotrail.com/
 relation	16229125	https://dolomitesgeotrail.com/
 relation	16229233	https://dolomitesgeotrail.com/
 relation	16244647	https://www.rifugi.lombardia.it/attivita/trekking/passo-forcel-rosso.html
+relation	16307646	http://www.garni-helvetia.it/
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	268429704	http://www.farmaciagallo.com/
@@ -10523,6 +10545,7 @@ way	42828519	https://www.weiher.com/
 way	42828520	http://www.restaurant-issingerweiher.it/
 way	43956410	https://www.trentinotrasporti.it/viaggia-con-noi/funivia
 way	43975853	https://www.trentinotrasporti.it/viaggia-con-noi/funivia
+way	58696728	https://www.hotelamhang.it/
 way	58779169	https://www.sagis.tn.it/centro-acquatico/
 way	58779190	https://www.sagis.tn.it/palafiemme/
 way	58779240	https://www.sagis.tn.it/stadio-del-ghiaccio/
@@ -11203,6 +11226,7 @@ way	921068614	https://www.moviment.it/it/parco-moviment-alta-badia-kidsslope-pra
 way	958817249	https://www.comunitadellegiudicarie.it/Tematiche/Servizio-Igiene-Ambientale/Isole-ecologiche-stradali
 way	962751159	http://www.satcembra.it/?page_id=768
 way	962751160	http://www.satcembra.it/?page_id=766
+way	975586846	https://www.thecrag.com/de/klettern/italy/northern-italy/arco-trento-area/area/3220447521
 relation	123162	www.sternwarte.it
 relation	158983	http://www.sat.tn.it/Home/
 relation	418904	https://www.bikemeran.it/de/radwege/passeiertal
