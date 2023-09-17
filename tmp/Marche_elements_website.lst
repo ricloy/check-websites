@@ -229,7 +229,6 @@ node	2209163501	https://www.pizzerialospuntino.it/
 node	2219528752	http://www.giantaccordion.com/
 node	2242709034	http://www.casolareresole.com
 node	2242711806	http://www.casolareresole.com
-node	2260335966	https://www.conad.it/ricerca-negozi/negozio.009722.html
 node	2271767370	http://www.globomoda.com/puntivendita/dettagli_puntovendita.php?id
 node	2285817991	https://www.traslochiercoletti.it/
 node	2290613680	https://www.centromedicomarche.it
@@ -1197,7 +1196,7 @@ node	11163085910	https://www.intac.it
 node	11163086501	http://www.lautomobilesenigallia.it/
 node	11164743427	http://www.carrozzeriaadriatica.it/
 node	11166480355	https://www.vacanzespinnaker.it
-node	11168761721	ilgentilverde.it
+node	11168761721	https://ilgentilverde.it
 node	11169946381	http://www.trillini.com/
 node	11170009169	https://www.casa-co.it/punti-vendita/marche/macerata/civitanova-marche/
 node	11171208249	http://www.hungsingmartialarts.com/
@@ -1206,6 +1205,22 @@ node	11171487382	https://icviareginaelena.edu.it/struttura/via-regina-elena/luig
 node	11171487399	https://icviareginaelena.edu.it/struttura/via-regina-elena/luigi-pirandello/
 node	11178636292	https://www.cmsangiuseppe.it/
 node	11178636293	https://centro-medico-progetto-salute.business.site/
+node	11182456126	https://www.casamalena.it
+node	11182456128	https://www.autoscuolasciamanna.it
+node	11182799663	http://www.pasticceriaessenza.it/
+node	11182799665	http://www.mancinipneumatici.it/main.php
+node	11182799672	http://www.verdinimoto.com
+node	11182872870	http://www.pagliariniviaggi.com/
+node	11185535621	https://www.zero733.it
+node	11191510284	https://instagram.com/saragflowers
+node	11195414385	http://www.stamperiadartecavirginio.it/it/
+node	11195467509	https://www.famila.it/punti-vendita/marche/famila-market-urbino
+node	11195612438	http://coralebonagiunta.it
+node	11195665637	http://tdic.it
+node	11195665837	http://teatrodionisio.org
+node	11195873975	https://vizi3sfizi.business.site/
+node	11196124076	https://www.esteticadany.it/
+node	11196124089	https://www.adecco.it/trova-agenzie/pesaro-e-urbino/urbino/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23678233	https://www.conad.it/ricerca-negozi/conad-superstore-via-guglielmo-marconi-61-60015--falconara-marittima--009860
@@ -1298,6 +1313,7 @@ way	199469558	https://www.governatoriauto.com/
 way	199500802	https://www.oasitigre.it/it/punti-vendita.html?store=5005
 way	203870831	http://www.cantinasuasa.it/
 way	203891480	http://www.carrozzeriasuasa.it/
+way	210195133	http://comune.montelupone.mc.it
 way	223396288	https://www.campingbelvedere.net/
 way	224449069	https://www.fioredicampo.com
 way	224852030	http://www.villadellavalle.com
@@ -1328,7 +1344,6 @@ way	260836390	https://www.turismo.marche.it/Turismi/Tradizioni/RicordarelaPassio
 way	263414794	https://www.lagiuggiola.it/it/
 way	264202970	http://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	264203273	http://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
-way	272046705	https://cuoreadriatico.it/
 way	276514644	http://www.carpegnapark.it/
 way	276706536	http://www.piscinasanseverino.it
 way	277610256	http://www.villacarloboccolini.it
@@ -1517,7 +1532,6 @@ way	435144744	https://www.latorrenumana.it/
 way	435148477	https://www.caimacerata.it
 way	435272966	http://www.carabinieri.it
 way	435289979	https://www.campingvettore.it/
-way	435314327	https://www.aeo.it/punti-vendita/marche/supermercato-aeo-urbino
 way	435434331	http://www.albergovettore.it
 way	435444522	http://www.rifugideisibillini.it
 way	435764797	https://www.campinglamedusa.it/
@@ -1554,10 +1568,12 @@ way	483431279	http://www.campingterrazzosulmare.it/
 way	484916652	https://www.rivadeipini.it/
 way	501032501	https://www.almandorlo.it/
 way	509432684	https://www.cwgc.org/find-a-cemetery/cemetery/2006400/gradara-war-cemetery/
+way	515456574	http://comune.petritoli.fm.it
 way	528653981	https://www.cripesaro.org/
 way	530745000	http://www.usedengine-garage1.com/
 way	532942413	http://www.virtusbuonconvento.it/urbino.html
 way	543778946	https://www.turismo.marche.it/Turismi/Cultura-The-genius-of-Marche/Dettaglio-Itinerari/Title/San-Ginesio-Abbazia-di-S-Maria-delle-Macchie/IdPOI/3378/C/043046/T/5/ST/1?page=1
+way	545639148	http://comune.maceratafeltria.pu.it
 way	545671787	http://www.santamariadellerose.com/
 way	547456403	https://grestigomme.weebly.com/
 way	553277423	http://www.itcgcorridoni.edu.it/
@@ -1674,6 +1690,7 @@ way	1112903073	http://www.solgasonline.it/
 way	1112903074	http://www.fondazionesagrini.it/
 way	1112903078	https://www.ortopediasanitariamary.it/
 way	1112903085	https://www.carifermo.it
+way	1113139190	https://cuoreadriatico.it/
 way	1113631183	http://www.giaccheverdimarche.it/
 way	1126114699	http://www.siconte.it/it/punti-vendita/si-superstore/civitanova-marche-via-carlo-alberto-dalla-chiesa
 way	1127708981	https://www.ilpincio.it/
@@ -1697,6 +1714,7 @@ way	1204853002	https://www.asur.marche.it/strutture-aziendali
 way	1204919842	https://www.casadicuravillapini.it/
 way	1205253580	https://cluanadog.it
 way	1205444411	https://icviareginaelena.edu.it/struttura/via-regina-elena/carlo-lorenzini-collodi/
+way	1207229688	https://www.conad.it/ricerca-negozi/negozio.009722.html
 relation	1085613	http://www.sferisterio.it
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	http://www.riservasentina.it/
@@ -1722,6 +1740,7 @@ relation	7573064	http://www.camminofrancescanodellamarca.it/
 relation	7574902	http://www.camminofrancescanodellamarca.it/
 relation	7575064	http://www.camminofrancescanodellamarca.it/
 relation	7575437	http://www.camminofrancescanodellamarca.it/
+relation	8438504	https://www.casacultureancona.it/il-sentiero/
 relation	9068487	https://www.gruppozaffiro.it/residenze/marche/residenza-cappuccini/
 relation	9074536	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	9075394	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
@@ -1974,7 +1993,6 @@ node	7439804881	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Boo
 node	7439804882	https://www.librerianuovafimlibro.it/
 node	7832895416	https://civitanovamarche.ubiklibri.it/
 node	7869909173	https://www.hotelhauscharlotte.it
-node	7991359757	https://www.roadhouse.it/it/ristorante-roadhouse-civitanova-marche
 node	8094784734	https://fisioterapia-cipelli.it
 node	8608462864	https://www.gmonamour.it/
 node	8648846196	http://www.le-fontane.com
@@ -2071,6 +2089,7 @@ way	904375042	http://www.paciepagliarigruppo.it
 way	939093143	http://www.itcbramante.it
 way	960148809	https://www.hotel-mareblu.it/
 way	1029684442	https://www.sannicoladatolentino.org/
+way	1207229684	https://www.roadhouse.it/it/ristorante-roadhouse-civitanova-marche
 relation	1434016	http://www.officinabonfigli.it
 relation	6028599	http://www.aeromodellismofano.net
 relation	9311685	https://www.iscbramantefermignano.edu.it/plessi/scuola-media/
