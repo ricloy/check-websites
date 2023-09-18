@@ -224,7 +224,6 @@ node	5948948957	http://calabriagreca.it/blog/risorse/rocca-del-drago-2/
 node	5963805537	http://www.stars4all.eu/
 node	6037707289	https://www.russogioielli.it/
 node	6037717457	http://www.enobaccanti.com/
-node	6233235180	http://www.comune.mileto.vv.it/
 node	6241944148	https://www.istat.it/it/istituto-nazionale-di-statistica/organizzazione/sedi-territoriali
 node	6242229185	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
 node	6297427633	http://calabriagreca.it/blog/risorse/caldaie-del-latte/
@@ -457,6 +456,7 @@ node	11161359560	https://www.radikena.it/
 node	11169606075	www.iisvemanuele.edu.it
 node	11169846537	www.iisvemanuele.edu.it
 node	11181845206	https://bookizon.it/dl/ilgabbiano
+node	11183644919	www.baiadellostretto.it
 way	27836339	http://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	31321527	https://www.conad.it/ricerca-negozi/negozio.006286.html
 way	43042447	https://sba.unical.it/
@@ -542,6 +542,7 @@ way	266590586	http://cilea.altervista.org/
 way	268942350	https://www.thotelamezia.it/
 way	273130001	www.iisvemanuele.edu.it
 way	276296812	http://www.bibliotecacalabresesoriano.it/
+way	276776019	https://www.istitutocomprensivomaida.edu.it/
 way	277933457	http://www.girasolebed.it/home/circolo-calcetto/
 way	277935986	http://www.girasolebed.it/
 way	277935987	http://www.girasolebed.it/home/ristorante/
@@ -897,7 +898,6 @@ relation	12722622	https://www.caiverbicaro.it
 relation	12722870	https://www.caiverbicaro.it
 relation	12722933	https://www.caiverbicaro.it
 relation	12723762	https://www.caicastrovillari.it
-relation	12727204	https://www.caicastrovillari.it
 relation	12727306	https://www.caicastrovillari.it
 relation	12727336	https://www.caicastrovillari.it
 relation	12731998	http://www.caiverbicaro.it
@@ -955,7 +955,6 @@ relation	16029818	https://sentierodellinglese.wordpress.com/
 relation	16029827	https://sentierodellinglese.wordpress.com/
 relation	16029878	https://sentierodellinglese.wordpress.com/
 relation	16029942	https://sentierodellinglese.wordpress.com/
-relation	16136210	caiverbicaro.it
 node	1794725248	https://catanzarolido.ubiklibri.it
 node	1811214931	http://www.computerdiscount.it
 node	2471827092	http://www.costabluresidence.it
