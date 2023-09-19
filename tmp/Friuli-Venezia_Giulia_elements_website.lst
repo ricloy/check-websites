@@ -36,6 +36,7 @@ node	319272091	http://www.skok.it/
 node	319272094	http://www.zuanivini.it/
 node	319272096	https://www.gradisciutta.eu/
 node	319272116	https://www.tercic.com/
+node	319272118	https://www.paraschos.it/
 node	321212492	http://www.antonveneta.it/
 node	321213156	https://www.despar.it/
 node	322852753	http://www.brankowines.com
@@ -1068,6 +1069,7 @@ node	3832534055	https://www.photo-grafando.com
 node	3832547145	https://www.friulovestbanca.it/
 node	3832547239	www.ristorante-mediterraneo.it
 node	3832581212	http://www.albelvedere.it/
+node	3834046976	https://www.booking.com/Share-4gwzAp
 node	3838746856	www.comune.trivignano-udinese.ud.it
 node	3838756738	http://www.casaperferiecesclans.it/
 node	3838832770	"http://www.viaggioinfriuliveneziagiulia.it/wcms/index.php?id=11375,7945,0,0,1,0"
@@ -1204,6 +1206,7 @@ node	4214302373	https://www.roncsoreli.com/
 node	4217588891	www.alsoleroomanin.it
 node	4218047637	https://www.principe-hotel.it/
 node	4239653391	http://www.bajta.it/
+node	4239653392	https://mrcrowley.it/
 node	4239679791	http://www.pizzerialabrigatatrieste.it/
 node	4239683790	http://www.tavernamastridarme.com/
 node	4239699789	http://www.bajta.it/
@@ -1894,7 +1897,6 @@ node	8950799361	http://ecobolletrieste.com/
 node	8955368079	https://residencecaporale.it
 node	8960397851	http://www.fantasy.it/
 node	8968325695	https://www.zanuttaspa.it/
-node	8975107774	https://mrcrowley.it/
 node	8989929521	https://pianiemergenza.protezionecivile.fvg.it/carto
 node	8998251996	https://cristianmulino.goherbalife.com
 node	8999199178	http://www.maritani.it/
@@ -2251,6 +2253,9 @@ node	11158232705	https://www.poste.it
 node	11166538553	https://trattoria-risorta.eatbu.com
 node	11175196316	https://churrascariadubrasil.eatbu.com/
 node	11182025136	http://www.studiolegaletirri.it/
+node	11193853624	https://mmasistemi.com
+node	11194628289	http://marcuzziviticola.it/
+node	11199525062	https://lefucine.com/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	www.campingalbosco.it
@@ -2350,6 +2355,7 @@ way	36079713	https://www.casarossaaicolli.it
 way	36087211	https://www.terrediplovia.it/
 way	36087425	https://www.bulfon.it/
 way	36092528	www.bibliotecaspilimbergo.it
+way	36098448	https://www.coradazzi.it/punto-vendita/
 way	36099700	http://www.icpagnacco.gov.it/infanzia-moruzzo/
 way	36102709	http://mediaworld.it
 way	36103034	https://www.hotelristorantealcollio.it/
@@ -2409,6 +2415,7 @@ way	36325539	https://www.magazzinimanzanesi.it/
 way	36340075	https://www.eurohotelfriuli.it/
 way	36341050	http://www.camuliner.com/
 way	36343838	https://www.ristorantecampiello.it/
+way	36344578	https://www.contidimaniago.it/
 way	36347982	https://www.paginegialle.it/allapergola/
 way	36352039	https://www.casariz.com/
 way	36352275	http://www.komjancalessio.com/
@@ -3848,13 +3855,11 @@ relation	10104771	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-fri
 relation	10104772	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-392
 relation	10119550	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-395
 relation	10119551	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-394
-relation	10275750	http://www.ilcamminodisantantonio.org
 relation	10306411	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	10306412	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	10541221	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-743c
 relation	10559046	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	10716218	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-031a
-relation	10909145	https://www.julius-kugy-alpine-trail.eu
 relation	11003309	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-990a
 relation	11150131	http://www.grottagigante.it
 relation	11187900	https://www.belvederepineta.com/
@@ -4059,7 +4064,6 @@ relation	12934178	https://www.outdooractive.com/de/route/bergtour/nassfeld-lesac
 relation	13088292	https://www.sabait.it/it/parcheggi/trieste/trieste-ospedale-maggiore
 relation	13158672	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13217964	http://www.comune.attimis.ud.it/index.php?id=13422
-relation	13220459	https://tplfvg.it/it/il-viaggio/servizi-marittimi/
 relation	13221541	https://www.sauris.org/maps-routes/
 relation	13221976	https://www.sauris.org/maps-routes/
 relation	13222006	https://www.sauris.org/maps-routes/
@@ -4320,8 +4324,8 @@ relation	14386004	https://www.outdooractive.com/de/route/bergtour/sappada/sentie
 relation	14392025	https://www.outdooractive.com/de/route/bergtour/forni-avoltri/sentiero-dei-tre-paesi-julius-kugy-in-30-tappe-estensione-e-24c/39654650/
 relation	14543978	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-383a/
 relation	14546562	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/ferrata-rosalba-grasselli/
-relation	14604733	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-049a/
-relation	14604734	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-049b/
+relation	14604733	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/via-ferrata-rose-dinverno/
+relation	14604734	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/via-ferrata-bruno-biondi-049bf/
 relation	14619371	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/ferrata-cengle-dal-bec/
 relation	14619531	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/ferrata-arturo-ferrucci-al-bivacco-feruglio/
 relation	14619577	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/ferrata-delle-crete-rosse-alla-creta-di-aip/
@@ -4418,7 +4422,6 @@ relation	15790844	https://www.romeastrata.org/
 relation	15790859	https://www.romeastrata.org/
 relation	15790898	https://www.romeastrata.org/
 relation	15797328	https://www.romeastrata.org/
-relation	15956980	https://camminodellepievi.it/
 relation	16149007	https://valpesarina.it/esplora/itinerari/
 relation	16214522	https://tplfvg.it/it/il-viaggio/servizi-marittimi/
 relation	16217028	https://dolomitesgeotrail.com/
@@ -4432,6 +4435,8 @@ relation	16226321	https://dolomitesgeotrail.com/
 relation	16226332	https://dolomitesgeotrail.com/
 relation	16226352	https://dolomitesgeotrail.com/
 relation	16227271	https://www.comune.prato-carnico.ud.it/media/files/030081/attachment/manifesto_giornata_12_08_2023.pdf
+relation	16264103	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/ferrata-via-kugy-alla-strugova/
+relation	16264104	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/s5-513c/
 relation	16314798	https://www.julius-kugy-alpine-trail.eu
 relation	16314810	https://www.julius-kugy-alpine-trail.eu
 relation	16314815	https://www.julius-kugy-alpine-trail.eu
@@ -4444,6 +4449,22 @@ relation	16314887	https://www.julius-kugy-alpine-trail.eu
 relation	16314890	https://www.julius-kugy-alpine-trail.eu
 relation	16314904	https://www.julius-kugy-alpine-trail.eu
 relation	16314913	https://www.julius-kugy-alpine-trail.eu
+relation	16336787	https://camminodellepievi.it/tappe/quarta-tappa/
+relation	16336788	https://camminodellepievi.it/tappe/terza-tappa/
+relation	16336789	https://camminodellepievi.it/tappe/seconda-tappa/
+relation	16336790	https://camminodellepievi.it/tappe/prima-tappa/
+relation	16337519	https://camminodellepievi.it/tappe/settima-tappa/
+relation	16337520	https://camminodellepievi.it/tappe/sesta-tappa/
+relation	16337521	https://camminodellepievi.it/tappe/quinta-tappa/
+relation	16337558	https://www.ilcamminodisantantonio.org/category/cammino-gemona-padova
+relation	16338391	https://www.ilcamminodisantantonio.org/category/cammino-gemona-padova
+relation	16343133	https://www.ilcamminodisantantonio.org/category/cammino-gemona-padova
+relation	16343134	https://www.ilcamminodisantantonio.org/category/cammino-gemona-padova
+relation	16343477	https://www.ilcamminodisantantonio.org/category/cammino-gemona-padova
+relation	16343879	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/via-ferrata-rose-dinverno/
+relation	16343880	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/via-ferrata-rose-dinverno/
+relation	16344491	https://www.ilcamminodisantantonio.org/category/cammino-gemona-padova
+relation	16344619	https://www.ilcamminodisantantonio.org/category/cammino-gemona-padova
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
