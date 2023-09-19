@@ -246,6 +246,7 @@ node	1495454933	https://www.oceanbayclub.it/oceanbay/default.asp
 node	1504210658	http://ristoranteilconvivio.com/
 node	1509251491	http://www.icvarazzecelle.gov.it/index.php?option=com_content&view=category&layout=blog&id=33&Itemid=134
 node	1512608803	http://www.libreria-genova.it/
+node	1528622805	https://www.carrefour.it/punti-vendita/carrefour-market-rapallo-cso-assereto-37-3570.html
 node	1528924132	http://www.hotelmontallegro.it/
 node	1528971334	https://www.liceodavigonicoloso.gov.it/
 node	1528971354	www.icrapallozoagli.gov.it
@@ -312,6 +313,7 @@ node	1836229845	http://www.alid.it
 node	1843110037	http://www.seagullhotel.it
 node	1843111697	https://www.hotelsolemare.it/
 node	1851623605	http://www.bagnisamoa.it
+node	1864967381	http://www.navigazionegolfodeipoeti.it/
 node	1879845423	http://www.corniglia-laposada.it/
 node	1885019929	http://www.albergolamarinella.it
 node	1885677410	https://www.hotelsantamariafinale.it/
@@ -1000,6 +1002,7 @@ node	4621414385	http://www.nazionale.it
 node	4621414387	https://www.primaverahotel.com/
 node	4657689362	https://www.lacomunita.it/
 node	4674399419	https://mercanautica.it/
+node	4674415922	https://bar-gelateria-emozioni-di-caffe.business.site/
 node	4680119265	http://www.roosterrotisserie.com/
 node	4680701494	http://www.galleriadellarco.com
 node	4680701504	https://cuttysarksantamargheritapub.oneminutesite.it/
@@ -1077,6 +1080,7 @@ node	5003847304	https://www.conad.it/ricerca-negozi/negozio.010196.html
 node	5008333085	https://www.pacolor.com/
 node	5012938088	http://www.lapinetaonline.it
 node	5019278941	https://www.conad.it/ricerca-negozi/negozio.007113.html
+node	5021985224	https://pizzerialasmorfia.food-ts.com/
 node	5033078244	https://blumarlin.it/
 node	5040194994	http://ilfrantoiorecco.blogspot.it/
 node	5047630759	http://www.prolocobergeggi.it
@@ -1461,6 +1465,7 @@ node	5909964961	https://dopolavoroferroviario.it/
 node	5913663085	https://m.facebook.com/pages/Gastronomia-Dai-Pescatori/188251474536011
 node	5932621939	https://www.caipikanas.it/
 node	5945323958	https://www.lorenzasulmare.it/
+node	5948617685	https://lapia.it
 node	5972683656	https://www.dotnext.it
 node	5974617697	http://www.fidra.it/
 node	5975265315	https://associazione.opengenova.org/
@@ -2123,6 +2128,13 @@ node	11167733393	https://labitta.it
 node	11167890537	https://www.flowerburger.it/negozi/flower-burger-le-terrazze/
 node	11167893793	https://negozi.naturasi.it/italia/genova/sestri-levante
 node	11173867982	http://www.residenza-anziani.net/
+node	11196479270	http://www.farmaciarossilavagna.it/
+node	11196479301	https://www.caressesdelily-centroestetico.it/
+node	11196595551	http://www.lavagnesehotel.com/ristorante.html
+node	11196595565	https://www.monnabianca.it/
+node	11199290433	https://www.maracoiffeuse.it/
+node	11200017989	http://www.enotecainternazionale.com/
+node	11200464797	https://www.yugomarket.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	http://www.ospedalesanmartino.it
@@ -2458,6 +2470,7 @@ way	205836101	http://www.locandadelpapa.com/
 way	205836502	http://www.bvdelcarminereboccosp.wordpress.com
 way	205837018	http://museodelcastello.museilaspezia.it/
 way	205840606	http://www.attivasportutility.it/it/?page_id=9866
+way	205841446	https://belvedere9.it/
 way	205846725	http://www.asl5.liguria.it
 way	205854865	http://www.rifugiomuzzerone.it/
 way	205855128	http://www.tramontidicampiglia.it/attivita/mulino.htm
@@ -2513,7 +2526,9 @@ way	225626918	https://www.hotelalassioanita.it/
 way	225629698	https://www.rivahotelalassio.it/
 way	225630635	https://www.residencesolemare.it
 way	226530193	https://www.ileudicarasco.it/
+way	226535855	https://bluhotellavagna.it/
 way	226537397	http://www.parrocchiacavi.it/
+way	226537597	http://www.lavagnesehotel.com/
 way	226538028	https://www.hotelvillafieschi.com/
 way	226568058	http://www.legrigue.it/
 way	226569041	http://www.lacasettadisofia.it/
@@ -2879,6 +2894,10 @@ way	1187886581	https://liguria.agesci.it/basecairo/
 way	1189684445	https://www.residencevillaalda.it
 way	1191358980	https://campingcastellodeifieschi.it/
 way	1203812058	https://cenobio.it/
+way	1208716633	https://www.cantierisangermani.it/
+way	1208716635	http://www.castagnola.biz/
+way	1208716636	https://www.carm.it/
+way	1208846147	https://grandhoteltorrefara.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	http://www.apricale.org/
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
@@ -3440,6 +3459,7 @@ relation	14692237	https://www.finaleoutdoor.com/it/trails-walls/sentiero-natura
 relation	14953945	https://www.turismocelleligure.it/it/cosa-vedere/itinerari/anello-delle-sette-chiese.html
 relation	15027049	https://www.reapalusrace.it/trail-running/
 relation	16020110	http://www.cartografiarl.regione.liguria.it/mapfiles/info/repertoriocartografico/pdf_protected_sites/schede_nat2000/SIC/Site_IT1324909.pdf
+relation	16340754	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#ipd=62676737
 node	218494856	http://www.ostellogenova.it/
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
