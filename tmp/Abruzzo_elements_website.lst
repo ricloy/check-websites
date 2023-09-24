@@ -15,7 +15,6 @@ node	70993833	https://www.comune.atri.te.it
 node	70993872	https://italia.indettaglio.it/ita/abruzzo/cermignano.html
 node	75251540	https://www.thespacecinema.it/al-cinema/montesilvano
 node	108081388	https://italia.indettaglio.it/ita/abruzzo/teramo_castiglionemesserraimondo_piani.html
-node	129939532	https://pescara-nord.klepierre.it
 node	135133652	https://multicinema.it/Programmazione?cinema=arca
 node	228262895	http://www.xfuel.it/stations.html
 node	228263519	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/API41510
@@ -47,6 +46,7 @@ node	317483481	https://www.ilcentro.it/pescara/il-miracolo-mancato-beffa-lunga-2
 node	325705296	http://www.digitsoundtracks.com/
 node	325707932	https://www.greenroasting.it/
 node	354496155	https://www.poste.it/
+node	363835612	https://ristoranteautogrillmontesilvano.eatbu.com/
 node	367395574	https://www.mps.it/
 node	368224212	https://negozi.tigota.it/5885-pescara
 node	415121362	http://www.fontecoppa.it/
@@ -68,6 +68,7 @@ node	452630249	https://italia.indettaglio.it/ita/abruzzo/teramo_castelli_palomba
 node	452630271	https://italia.indettaglio.it/ita/abruzzo/teramo_colledara_villailii.html
 node	452630272	https://italia.indettaglio.it/ita/abruzzo/teramo_castelli_villarossi.html
 node	472344303	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10768
+node	472344316	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
 node	472694794	https://www.farmaperbellini.it#Contatti
 node	474352309	https://www.conad.it/ricerca-negozi/negozio.009728.html
 node	475405132	https://pasticceriamichetti.com/
@@ -81,6 +82,7 @@ node	491583149	https://www.farmaciavestina.it
 node	499159112	https://www.cittasantangelovillage.com/
 node	500912101	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10842
 node	500913529	https://www.agenziaentrateriscossione.gov.it/export/.files/it/comunicati/comMontesilvano.pdf
+node	504933016	https://www.conad.it/ricerca-negozi/conad-via-di-sotto-snc-65126--pescara--006083
 node	528652946	http://www.farmaciafabrizipescina.it/index.asp
 node	528762314	http://www.comune.casteldelmonte.aq.it/
 node	529252174	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10758
@@ -158,6 +160,7 @@ node	944203956	https://espansioneimmobiliare.com/
 node	988836072	https://ledodicitorri.eatbu.com/?lang=it
 node	988889250	https://www.cerbahealthcare.it/sedi/francavilla-al-mare-viale-nettuno-41/
 node	988889263	http://www.computerlinestore.it
+node	993117423	http://www.farmaciadelucaradocchia.it
 node	1003152120	https://ilparcoassergi.com/
 node	1003152179	www.hotelgiampy.eu
 node	1003180652	https://www.fiordigigli.com/
@@ -169,6 +172,7 @@ node	1038971926	https://www.coprikompatt.com/
 node	1064708402	https://italia.indettaglio.it/ita/abruzzo/teramo_rosetodegliabruzzi_casalthaulero.html
 node	1067346880	http://alregiotratturo.abruzzoverdeblu.it/
 node	1068913423	https://www.poste.it/
+node	1082831742	http://www.farmacialucangeli.it
 node	1084506648	http://www.acsabruzzo.it/cineteatro-comunale-teramo/
 node	1085474869	https://www.oasitigre.it/content/genteunika/it/it/il-mio-negozio.1207.html
 node	1103836489	https://www.farmaciediturno.org/farmacia.asp?idf=10874
@@ -297,6 +301,7 @@ node	2446746550	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10840
 node	2460717204	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10818
 node	2498326469	http://www.tradizionecarni.it/
 node	2513096388	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10927
+node	2514418442	http://www.farmaciadelcorsoteramo.it
 node	2516435231	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10940
 node	2562966590	http://www.valleroveto.eu/eremo-madonna-della-ritornata/
 node	2571848497	http://www.openfranchising.info
@@ -428,6 +433,7 @@ node	4427470489	http://www.cineteatroitalia.it
 node	4427484189	http://www.mielebiologico.it
 node	4435643089	https://ic1chieti.edu.it/
 node	4441607890	https://icmichettifrancavilla.edu.it/plessi/scuola-primaria-foro/
+node	4441625090	https://www.icrodari.edu.it/pagine/scuola-primaria-saline
 node	4485216937	http://www.agriturismolamandra.it
 node	4492885552	http://www.regione.abruzzo.it/xcultura/index.asp?modello=torrech&servizio=xList&stileDiv=monoLeft&template=intIndex&b=menuTorr3787&tom=787
 node	4493235744	http://www.puntaderci.it/la-riserva.html
@@ -889,6 +895,7 @@ node	6627858711	https://www.ristoromucciante.com/
 node	6646254544	http://www.peterland.it/laquila.html
 node	6658679804	https://trasparenza.comune.laquila.it/archivio13_strutture_0_2604.html
 node	6658679813	https://www.facebook.com/fllidepaulis.paganica
+node	6661551605	http://www.conad.it
 node	6665060156	https://gorianovalli.it/
 node	6665139078	https://www.gls-italy.com/
 node	6665139079	https://www.eurospin.it/gruppo/
@@ -1492,7 +1499,7 @@ node	7704782714	https://www.pizzeriabarmazzarino.it/
 node	7705023306	https://m.facebook.com/pages/category/Dessert-Shop/Sweet-Point-1573141269575844/
 node	7705059805	https://www.fisiokinesis.com/
 node	7706782005	https://www.sinuhe.it/
-node	7707004919	https://www.autofficinadragonara.com
+node	7707004919	https://www.firststop.it/gommista/rivenditore.html/2686.html
 node	7707025163	http://www.pomm.it/
 node	7707082128	https://www.satur.it/
 node	7707150754	http://www.itticopescara.it/
@@ -1537,6 +1544,7 @@ node	7819606578	https://www.ilcentro.it/pescara/ad-abbateggio-la-nuova-farmacia-
 node	7821117705	https://www.pecorinodifarindola.it/la-casera-consortile/
 node	7821150443	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10827
 node	7824495085	https://www.facebook.com/Artemide.Restaurant/
+node	7825348090	https://www.doreca.it/webdorecap/happbase.cgi?vpagedest=store&cn=SAN%20GIOVANNI%20TEATINO
 node	7825348091	http://www.gruppoedif.it/
 node	7825632978	http://somsrl.it/
 node	7829838820	https://www.enigmaroomabruzzo.it/
@@ -2752,6 +2760,19 @@ node	11166989450	http://www.ristorantepizzeriamarsica.it/
 node	11169848098	https://www.peanorosaonline.edu.it/
 node	11177325190	https://www.maversicurezza.it/
 node	11192481874	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10640
+node	11204978082	http://www.farmaciapomponio.it
+node	11205085224	https://www.conad.it/
+node	11206069022	https://www.boxhorseabbigliamento.com/
+node	11206454148	https://www.degustoeventi.it/
+node	11207098050	http://www.farmaciamissoni.it/
+node	11207307441	https://www.farmacistipreparatori.it/hp/farmacia-sciarretta
+node	11207498942	http://www.parafarmaciacolleverde.it
+node	11207564866	https://www.farmaciadimattei.it
+node	11207590602	https://www.coal.it/archives/punti-vendita/alimentari-snc-di-di-domenico-e-m
+node	11207621066	https://www.conad.it/ricerca-negozi/negozio.004747.html
+node	11207809905	https://primotazzestozze.it/
+node	11207895189	https://www.lorso.it/
+node	11208717856	https://www.cmaccumulatori.it/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -2846,6 +2867,7 @@ way	102321147	http://www.terracoste.com/leccetatorinodisangro/
 way	102321158	http://www.campinglemorge.it
 way	102546497	http://www.centrodelvasto.it/
 way	104973403	http://www.hotelbedbusiness.com/
+way	105741960	http://www.laselvapesca.it/
 way	105952860	https://www.facebook.com/pg/PxPAbruzzo/community/
 way	107537144	https://trasparenza.mit.gov.it/archivio13_strutture_-1_14198.html%C2%A0
 way	110576312	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
@@ -2919,6 +2941,7 @@ way	230333390	https://www.fishsurfing.com/es/map/il-laghetto-del-pescatore-10319
 way	231854102	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/madonna-dellaltare/
 way	232017989	https://www.castelloroccascalegna.com
 way	235480033	http://www.teramoculturale.it/index.php?id=20&itemid=284
+way	236139590	https://www.conad.it/ricerca-negozi/negozio.007028.html
 way	236565428	"https://www.poste.it/cerca/index.html#/risultati-cerca-up/67100%20L'Aquila,%20AQ,%20Italia"
 way	239166775	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-onofrio-allorfento/
 way	240113521	https://sirio-toyota.it
@@ -3631,6 +3654,7 @@ way	1201554077	https://www.petrolgamma.com/stazione/teramo-strada-statale-80/
 way	1202037327	https://www.pasquarelliautosrl.it
 way	1204443676	https://www.tenutasantilario.com/
 way	1205328394	https://www.grupposynergo.com/
+way	1210070389	https://www.aigaa.org/public/GGA.2008-08.1-02.0212.pdf
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
