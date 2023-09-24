@@ -147,7 +147,7 @@ node	942809793	www.pasticceriagaetano.it
 node	965324505	https://www.farmaciamadonnadellacqua.com/
 node	971951562	http://www.ristorantedasettimo.com/
 node	977666528	https://www.ristoranteilporto.eu/
-node	982634193	http://www.bar-ucci.it/
+node	982634193	https://www.bar-ucci.it/
 node	998383848	www.osterialacapanna.it
 node	998722771	https://www.poste.it/online/cercaup/Dettaglio.do?fraz=04108
 node	1025057219	wine.castigliondelbosco.com
@@ -770,7 +770,6 @@ node	2361888870	https://www.facebook.com/events/265939317167900/
 node	2361890902	https://www.tregigli.it/public/
 node	2361893185	https://www.dituttodipiu.net/mercatini/mercatino-firenze/
 node	2361894454	http://www.fashionsportfirenze.it/
-node	2361895884	https://www.borgoanticofirenze.com/
 node	2361896132	http://liberafirenze.it/privati/
 node	2361901059	http://www.hotelpanorama.fi.it
 node	2361908969	https://www.pampanorama.it
@@ -815,6 +814,7 @@ node	2375842068	http://www.hotelathenapisa.it
 node	2377826821	http://www.lacappella.com/
 node	2382079373	http://www.giorgibikestore.it
 node	2382411900	dueruotebike.it
+node	2383134423	http://musei.comune.pistoia.it/museo-dello-spedale-del-ceppo_2/
 node	2383134456	https://www.beniculturali.it/luogo/antico-palazzo-dei-vescovi-e-museo-della-cattedrale-di-san-zeno
 node	2384564118	https://www.leonardodavincibiketour.com
 node	2386381759	http://www.meteopisa.it/
@@ -1599,7 +1599,6 @@ node	4338698863	http://www.seatowers.it
 node	4338763809	http://www.colorificiogiorgiemekkaoui.com
 node	4342362540	https://www.hotelfabricia.com/
 node	4344804351	https://pokebykoto.it/
-node	4344824534	https://www.cannabisstoreamsterdam.com/
 node	4344824540	https://pizzeriaballerini.it/
 node	4346507443	https://www.juice.it/
 node	4346544530	https://www.gardencaffe-barpasticceria.it/
@@ -2994,6 +2993,7 @@ node	7643630985	www.roccaprataia.eu
 node	7646403790	https://www.villaboldrini.it/
 node	7650184486	http://www.intimoantonella.it
 node	7652611417	http://www.expertonline.it
+node	7652661478	https://www.bagnolasiesta.it/
 node	7652785086	https://www.sementis.it/ristorante/
 node	7661223557	https://cryptolocalatm.com
 node	7661653894	https://borgosantopietro.com/
@@ -3736,6 +3736,7 @@ node	9931994409	https://www.otticagm.com/
 node	9933284751	scarpamondo.it
 node	9937096816	http://www.canoaclublivorno.it/
 node	9939450717	https://ex-stazione-di-servizio-esso-pedala.business.site
+node	9939731466	http://www.museidimaremma.it/
 node	9941004151	https://www.metabikepiombino.it
 node	9941832117	https://www.hotelportafaenza.it/
 node	9943547417	https://www.ciclofficineteatropovero.it/
@@ -4236,6 +4237,11 @@ node	11176213854	http://torribasse.it
 node	11176966883	https://edicole.primaedicola.it/?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Siena_41290
 node	11178979695	https://ilmercatinodiscandicci.it/
 node	11191338617	https://cantinagiuliano.com/
+node	11197380277	https://www.ulixaudio.it
+node	11199977275	https://tonicnet.it/i-nostri-club/livorno/
+node	11202288098	https://www.librarteposter.com/
+node	11202798000	https://boutiquedelsud.it/
+node	11207618266	https://www.libreriapuntifermi.it/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	http://www.leopolda.it/
@@ -4404,6 +4410,7 @@ way	120936507	http://www.castellopasquini.it
 way	121403424	https://www.villaottone.com/
 way	121724882	https://parcominelba.it/
 way	121812881	http://www.elbagravitypark.it
+way	122151694	https://www.elbaparkhotelnapoleone.it/
 way	123272706	http://www.locandavignailaria.it
 way	123273808	http://www.ristorantestazionecastiglioncello.it
 way	123273809	http://www.villaparisi.com
@@ -4498,6 +4505,7 @@ way	159490367	http://www.grandhotelcrocedimalta.com/it
 way	159545741	https://www.belvehot.it/
 way	159555341	https://www.esselunga.it/cms/negozi/ricerca-negozi.CAR.html
 way	159664652	https://www.hotelboston.it/
+way	159988025	http://osteriailbivio.it
 way	160033431	https://www.circolocanottierisolvay.it/
 way	161368776	https://www.aamps.livorno.it
 way	161635127	http://www.lapiahotel.it/
@@ -5835,6 +5843,7 @@ way	1204387155	https://www.cpia1livorno.edu.it/
 way	1205914210	http://www.colle-all-asino.de/colle/index.html
 way	1206221373	http://www.pizzerialacapannina.it/
 way	1207001443	https://www.svi-spa.com/
+way	1209980909	http://www.ilgiardinodisabbia.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42525	https://www.castelfrancopiandisco.it/
 relation	136257	www.caiparma.it
@@ -6042,7 +6051,6 @@ relation	6076493	https://www.flixbus.de/busverbindung/fernbus-rom-roma-muenchen
 relation	6076494	https://www.flixbus.de/busverbindung/fernbus-rom-roma-muenchen
 relation	6087792	https://meinfernbus.de/unser-angebot/linien/522.html
 relation	6087793	https://meinfernbus.de/unser-angebot/linien/532.html
-relation	6201614	https://www.viefrancigene.org
 relation	6206106	http://www.moobix-content.de/gm/leasing/index.php?cid=95&lang=it
 relation	6206107	http://www.moobix-content.de/gm/leasing/index.php?cid=95&lang=it
 relation	6227624	https://thesenseresort.it
@@ -6698,6 +6706,12 @@ relation	16329106	https://sites.google.com/view/camminopadregiovanni/home
 relation	16337141	https://sites.google.com/view/camminopadregiovanni/home
 relation	16337531	https://sites.google.com/view/camminopadregiovanni/home
 relation	16337762	https://sites.google.com/view/camminopadregiovanni/home
+relation	16344875	https://sites.google.com/view/camminopadregiovanni/home
+relation	16344944	https://sites.google.com/view/camminopadregiovanni/home
+relation	16345009	https://sites.google.com/view/camminopadregiovanni/home
+relation	16345252	https://sites.google.com/view/camminopadregiovanni/home
+relation	16354431	https://www.wellnesscentercasanova.it/
+relation	16355161	https://sites.google.com/view/camminopadregiovanni/home
 node	215646877	https://www.unisi.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
@@ -7349,6 +7363,7 @@ relation	16276249	https://www.cosona.it/
 node	593726323	www.appartamentialpoggiolo.it
 node	730850225	http://www.hotelsanniccolo.com/
 node	730862028	http://www.chiantisculpturepark.it/
+node	829082780	https://visitcastiglionedellapescaia.it/castiglione-della-pescaia/il-porto/
 node	906764577	http://www.comune.follonica.gr.it/area_informativa/farmacie_turno
 node	1874464330	http://pescia.iltuopaese.com/city/pescia/listing/foto-notizia-25-lundicesima-castella-semi-distrutta-lignana-montagna-pesciatina/
 node	2402209554	https://resistenzatoscana.org/monumenti/tavarnelle_val_di_pesa/monumento_ai_caduti
@@ -7574,6 +7589,7 @@ way	710740054	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeH
 way	710740062	https://bonespirit.provincia.lucca.it/it/divulgativa/531/palazzo-alla-villa-a-bagni-di-lucca.html
 way	712494612	http://www502.regione.toscana.it/searcherlite/cartografia_storica_regionale_scheda_dettaglio.jsp?imgid=5834
 way	713866419	https://grossetopedia.fandom.com/it/wiki/Palazzo_Giovannini_Banchini
+way	715651838	https://visitcastiglionedellapescaia.it/attrazioni/palazzo-centurioni/
 way	767674005	https://www.ilfilo.net/arte/borgoVillaFrescobaldi.htm
 way	882827878	https://www.lamiabellatoscana.it/2011/12/le-rovine-del-mulino-di-bruscheto.html
 way	907135185	https://www.ilfilo.net/arte/BORGOcardetole.htm
@@ -7606,6 +7622,7 @@ way	1164695763	https://www.ilfilo.net/arte/BORGOVillaViterete.htm
 way	1164695771	https://www.ilfilo.net/arte/BORGOVillaLaBartolina.htm
 way	1205130841	https://www.carmignanodivino.it/it/2012/09/i-condotti-medicei-diventano-un-itinerario-turistico/
 relation	1582395	http://www.islepark.it/
+relation	1782624	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/193-bi19-ciclovia-tirrenica
 relation	1999534	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	2000666	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	5812627	https://www.piananotizie.it/villa-carmine-viaggio-allinterno-del-parco-tra-storia-e-leggenda/
