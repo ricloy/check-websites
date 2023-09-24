@@ -11,7 +11,7 @@ node	72960414	http://www.comune.atina.fr.it/
 node	72960603	http://www.comunedifumone.it/
 node	72961889	www.comune.salisano.ri.it
 node	72961991	http://www.comune.morroreatino.ri.it/
-node	72962520	https://www.visitcasape.it/
+node	72962520	https://comune.casape.rm.it
 node	72962733	https://www.comune.formello.rm.it/
 node	72962941	http://www.comune.palestrina.rm.it
 node	72963008	http://www.comune.anguillara-sabazia.roma.it/
@@ -57,6 +57,7 @@ node	301336161	http://www.mycityplex.it/savoy/
 node	307556283	https://www.ristorantelestreghe.it/
 node	307559719	https://www.ristorantelestreghe.it/
 node	308224984	farmaciaspadazzi.it
+node	309569303	http://www.ferrerocinemas.it/adriano/index.php#inside
 node	319115034	https://www.abdr.it
 node	331199461	http://t-bone.it
 node	332042746	http://www.casaclaudia.it/
@@ -432,7 +433,6 @@ node	1666118361	http://www.carsharing.roma.it/
 node	1671670447	www.art-two.it
 node	1674754682	https://www.chiostrodelbramante.it/
 node	1678062726	http://www.ilcocomerino.it/
-node	1681445045	https://www.domussessoriana.it/
 node	1686014800	http://www.tavernaantonina.it/
 node	1688847355	http://www.royalartcafe.it
 node	1689251963	http://www.libreriemondadori.com
@@ -1162,7 +1162,6 @@ node	2942535689	www.bbalporto.it
 node	2942537642	www.daotello.it
 node	2942537643	www.daotello.it
 node	2951049488	ilbarriolatino.it
-node	2955643337	http://www.lordlichfield.it/
 node	2957067329	https://vigamus.com/
 node	2957354282	http://www.viaappiaantica.com/2014/04/09/tomba-dei-licinii-e-sepolcro-dorico/
 node	2957354283	http://www.viaappiaantica.com/2014/04/09/tomba-dei-licinii-e-sepolcro-dorico/
@@ -1899,7 +1898,6 @@ node	4416421430	https://www.bludental.it/dentista-roma-sud-tuscolana-bludental
 node	4417440765	https://horusagency.com/
 node	4417971953	https://www.flyinginthesky.it/
 node	4417971964	https://www.flyinginthesky.it/
-node	4418525668	https://www.facebook.com/LaTavernadelGranoRistorante
 node	4418775773	http://www.quirinetta.com/
 node	4418927289	http://Facebook.com/colosseopanevino
 node	4419390178	https://www.larosabiancacerveteri.com/
@@ -2277,7 +2275,6 @@ node	4810448799	http://www.hoteltrastevere.net
 node	4810802885	http://www.burbee.it
 node	4810895021	https://micladbb.it/
 node	4811383941	ristoranteneko.it
-node	4812119822	www.myale.it
 node	4813538901	https://www.carrefour.it/punti-Vendetta/supermercato-carrefour-Express-roma-Sebastian-genierlichen-10a
 node	4815851742	https://lafornaceroma.eatbu.com/?lang=it
 node	4818657882	http://www.guttilla.it/
@@ -3028,7 +3025,6 @@ node	5826487615	ristorantecacciatori.com
 node	5826487867	toastamore.com
 node	5826487892	valeriabbigliamento.it
 node	5826726788	http://www.gladiatormuseum.com/
-node	5830270885	http://pastachef.com/
 node	5831838010	catering.nettuno.rm.it
 node	5831921694	http://tornatoragroup.com/primavalle/
 node	5831952849	tetcaffe.it
@@ -5633,6 +5629,11 @@ node	11190285199	http://www.musicasacra.va/
 node	11193036740	http://extralageroma.it
 node	11193038837	http://stores.ovs.it
 node	11193255175	https://www.lavalledelsacco.it/
+node	11197680649	http://www.fondazioneterracina.it/attivita/c-d-favisse-del-tempio-maggiore/
+node	11200354422	http://www.comune.canino.vt.it/
+node	11203039986	WWW.5MINFORMATICA.IT
+node	11206848637	https://rifugiohope.org
+node	11212097011	http://www.giuliettavinoecucina.com/
 way	22875465	http://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6070,7 +6071,7 @@ way	169317494	http://www.concessionariafiori.it
 way	169339670	http://www.polomusealelazio.beniculturali.it/index.php?it/561/museo-archeologico-nazionale-g-carettoni-e-area-archeologica-di-casinum
 way	169339733	https://www.roccajanula.com/
 way	169401169	https://arrampicareaguadagnolo.wordpress.com/
-way	169846799	https://www.nh-hotels.it/hotel/nh-roma-villa-carpegna?_ga=1.105931139.1661009407.1479059729
+way	169846799	https://www.nh-hotels.it/hotel/nh-roma-villa-carpegna
 way	171501951	http://www.lettere.uniroma2.it
 way	171508298	https://www.obi-italia.it/
 way	171525998	http://www.hotelmartino.it
@@ -7081,6 +7082,7 @@ way	463068670	http://www.stazionebirra.it
 way	463249657	http://www.parchilazio.it/macchiatonda
 way	463262838	https://www.vitaclub.it/
 way	463440673	http://www.interparking.com
+way	463467248	https://www.martinoquinto.it/
 way	464699136	http://www.parchilazio.it/montesoratte
 way	465645890	http://www.sanraffaele.it/assistenza/strutture-sanitarie/6/san-raffaele-montecompatri
 way	466625400	http://www.museolubriano.com
@@ -7798,6 +7800,7 @@ way	1058489023	http://www.agriturismolbstud.com/
 way	1062711697	https://www.comune.cassino.fr.it/per-i-visitatori/teatro-comunale-alessandro-manzoni/
 way	1066482690	https://www.liceokant.edu.it/
 way	1070263389	https://polisportivaderossi.it/
+way	1070758384	http://www.terredeiconsoli.it/
 way	1071661232	https://www.dongnocchi.it/@strutture/centro-s-maria-della-pace
 way	1072006927	https://www.operasantedesanctis.it/
 way	1073276243	http://www.icartemisiagentileschi.edu.it/
@@ -7968,6 +7971,8 @@ way	1200967224	https://100celleaperte.wordpress.com/
 way	1204399041	https://www.unicooptirreno.it
 way	1205151514	https://www.diag.uniroma1.it/
 way	1206553073	https://icgcagliero.edu.it/
+way	1208216421	https://escargot-labottegadeisapori.it/
+way	1209693686	https://www.lalibrata.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -8106,6 +8111,7 @@ relation	3188362	comune.colonna.roma.it
 relation	3214583	http://www.iisviaromana.gov.it/
 relation	3222576	http://www.campeggiolacaliffa.it
 relation	3249837	https://www.buyesell.net/
+relation	3289249	www.ilboscodipaliano.it
 relation	3292545	http://www.visiva.info
 relation	3341241	http://www.sheratongolfroma.com/
 relation	3366654	https://r3sport.uniroma3.it/
@@ -8484,6 +8490,7 @@ relation	12432166	www.caiamatrice.it
 relation	12432423	www.caiamatrice.it
 relation	12437841	www.caiamatrice.it/itinierari
 relation	12474311	http://www.villamercede.com/index.html
+relation	12498922	http://www.tefralite.it/home.html
 relation	12501308	http://www.caiamatrice.it/sentiero-italia-tappa-da-amatrice-a-accumoli-agriturismo/
 relation	12517031	http://www.comune.anguillara-sabazia.roma.it/
 relation	12523364	https://www.iispaciolobracciano.edu.it
@@ -8728,6 +8735,7 @@ node	802459210	https://www.oasidigreccio.it/
 node	926716805	https://ristoranteilcapriccio.it/
 node	1253223527	http://www.scholarsloungerome.com/
 node	1258879744	http://www.galloumbro.com
+node	1681445045	https://www.domussessoriana.com/
 node	1712867739	https://tavernacimoletto.business.site/
 node	1732844183	https://www.albergotoscana.net/
 node	1790313670	http://www.madeinjail.com
@@ -8776,6 +8784,7 @@ node	4641661689	http://www.hotelgiuliocesare.com
 node	4755052476	https://scuolaannibaledifrancia.it/
 node	4791996132	http://geeksacademy.it
 node	4793208029	https://www.caffedelfalco.it/
+node	4812119822	http://www.myale.net/
 node	4817311427	https://www.comingout.it/
 node	4832467222	https://www.dapaoloalmiralagomontefiascone.it/
 node	4872466256	http://www.lacasadelcremolato.com/
@@ -8866,6 +8875,8 @@ node	10939893667	https://www.roadtorome.org/
 node	11048087507	https://ziarestaurant.com/en/
 node	11100127900	https://silviatarsi.it
 node	11156162730	https://maratonalagodibolsena.it/
+node	11208682951	https://website-4771912155000348132169-restaurant.business.site/
+node	11208682953	https://scolopi.org
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
 way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
 way	61011575	https://bagnaccio.it/
@@ -9069,7 +9080,6 @@ way	583040475	https://www.cimitericapitolini.it/servizi/servizi-cimiteriali/61-c
 way	653342762	https://www.provincia.viterbo.it/strade.html
 way	653342763	https://www.provincia.viterbo.it/strade.html
 way	815445277	https://www.provincia.viterbo.it/strade.html
-way	836454091	http://terracinablog.altervista.org/terracina-ecco-il-sentiero-del-tempio-di-giove-un-itinerario-unico-per-uno-spettacolo-mozzafiato/
 way	917156506	https://www.provincia.viterbo.it/strade.html
 way	917156507	https://www.provincia.viterbo.it/strade.html
 way	949193274	https://catalogo.beniculturali.it/detail/ArchaeologicalProperty/1201339483-3
