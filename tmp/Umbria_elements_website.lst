@@ -88,6 +88,8 @@ node	68507924	http://www.comune.pennainteverina.tr.it/
 node	68507926	http://www.comune.aviglianoumbro.tr.it/
 node	68507931	http://www.comune.porano.tr.it/
 node	269742013	http://www.castelrigone.com/
+node	331801034	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
+node	331801036	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 node	331813067	http://www.hotelumbria-orvieto.it/
 node	331959806	http://www.panevinotodi.com/
 node	332159522	http://www.hotel-umbria.com
@@ -818,6 +820,7 @@ node	11169432132	http://www.assisinonnapapera.it
 node	11169436099	http://www.vogliadipizza1999.it
 way	23079751	http://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
+way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	36195165	http://www.inorvieto.it/it/scegli/gli_imperdibili/area_archeologica_porto_di_pagliano.html
 way	36994747	http://www.assisisantachiara.it
 way	44184811	http://www.opsm.it/
@@ -1251,6 +1254,7 @@ way	658486231	http://www.tsnspoleto.it/
 way	658935536	"https://www.beniculturalionline.it/location-719_Villa-Colombella---WWAP,-Sede-UNESCO.php"
 way	659484776	https://www.italgest.com/
 way	666113871	https://www.italiaendurance.it/
+way	666624877	https://www.iluoghidelsilenzio.it/chiesa-di-san-silvestro-spoleto-pg/
 way	667404188	http://www.iluoghidelsilenzio.it/?p=209671
 way	669577951	http://www.regione.umbria.it/ambiente/siti-di-importanza-comunitaria-sic
 way	670726708	http://www.2circolospoleto.edu.it/jm4/
@@ -1414,6 +1418,8 @@ relation	2154336	http://musei.beniculturali.it/musei?mid=5351&nome=museo-archeol
 relation	2163461	https://www.conservatorioperugia.it/
 relation	2365972	https://www.sinahotels.com/it/h/sina-brufani-perugia/
 relation	2417972	http://www.caiperugia.it/
+relation	2670906	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
+relation	2670907	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 relation	3083341	https://diocesigubbio.it
 relation	5178549	http://www.vallantica.com/it/default.asp
 relation	5392342	http://www.camminodellaluce.it/
