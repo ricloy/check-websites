@@ -679,6 +679,7 @@ node	5128090614	https://scaturchio.it/
 node	5141213637	http://www.barveneruso.it
 node	5141279449	http://welovepuro.it
 node	5144799028	https://www.cocumella.com/
+node	5147391561	https://www.villaigeasorrento.com/
 node	5152326737	https://www.mdspa.it/punti-vendita/Campania/Napoli/740-TORRE-DEL-GRECO
 node	5165628800	https://www.rent2ride.it/
 node	5168737292	http://www.lacontrora.com/
@@ -2122,6 +2123,10 @@ node	11181729052	https://www.oscarwildebeer.it
 node	11190245503	https://bowl-napoli.com
 node	11196155693	https://www.ischiabluresort.com
 node	11197474037	http://melrosesorrento.it
+node	11207848262	"https://it.wikipedia.org/wiki/File:San_Mango_sul_Calore_(AV),_2010,_ruderi_del_ponte_romano_sul_fiume_Calore..jpg"
+node	11208404379	www.selladellespine.com
+node	11215709383	https://www.maravi.it/
+node	11215709454	https://www.hotelspicy.com/
 way	22652287	http://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2795,7 +2800,6 @@ way	742460816	http://www.barpasticcerianunzio.com/nuovo/site/index.php
 way	749056563	https://www.piccolo-paradiso.com/it/la-spiaggia
 way	749056632	https://www.ristorantedamichele.net/
 way	749057185	https://www.hoteldelfino.com/
-way	749092120	https://www.hotelspicy.com/
 way	749092943	http://www.francischiello.it/
 way	749094005	https://www.comunemassalubrense.eu/
 way	749102754	https://fattoriaterranova.it/it/
@@ -3146,6 +3150,8 @@ way	1202274062	https://www.fotosiani.it/
 way	1202337904	https://www.facebook.com/MuseoStoricodiRoccamonfinaUnaStoriadaRaccontare
 way	1205532089	https://www.comprensivoguadagni.it/
 way	1208041560	https://pagodahotel.it
+way	1208879831	https://www.arredamentibasileo.it
+way	1210566605	https://www.zizzonavillage.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	http://www.comune.pozzuoli.na.it/
 relation	40837	http://santandreaconza.altervista.org/
@@ -3267,6 +3273,7 @@ node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
 node	1692455244	http://www.hotelcavadellisola.it/
 node	1692455246	http://www.ristorantelacapanna.com/
+node	1879132315	https://www.figaroburgerhouse.it/
 node	2229877668	https://www.royalpalm.it/
 node	3077486456	https://www.sorrisoresort.it/
 node	3077486498	http://www.trattoriaterradelfuoco.it
@@ -3301,6 +3308,8 @@ node	10905242126	https://www.lagemmabnb.it/
 node	10946126923	https://www.pizzerierricoporzio.it
 node	10966288391	https://www.collinedizenone.com
 node	11123045897	www.giuliomartino.it
+node	11200953324	http://www.latavolozzapositano.it/
+node	11200954425	http://www.lastminutestore.info/
 way	79268408	http://www.szn.it
 way	170920731	www.giardiniposeidon.it
 way	174047981	http://www.cittadellascienza.it/
