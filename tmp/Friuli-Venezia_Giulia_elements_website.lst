@@ -281,7 +281,6 @@ node	1923547876	https://www.marinazauto.it/
 node	1955337327	http://www.vianishop.it/
 node	1955337356	http://www.pittarello.com/
 node	1960281851	https://lussari.com/it
-node	1979536337	https://barbombengrado.eatbu.com/
 node	2068263291	https://latteriacoderno.it/
 node	2068263295	https://www.tosoniformaggi.it/
 node	2088822212	http://www.osteriaagliartisti.it/index.html
@@ -691,7 +690,6 @@ node	3186636412	http://www.lacarrozzeriamonfalcone.com/
 node	3191293778	http://www.studiogtf.com
 node	3213464600	http://www.pizzeriatrattorialeban.it/
 node	3219818261	https://www.saptecnica.com/
-node	3224615262	http://www.palestrapuntofit.it/
 node	3226556781	http://www.pizzerialanapa.it/
 node	3227127657	https://www.euroauto-udine.it/
 node	3236769429	https://www.conservatorio.udine.it/
@@ -2256,6 +2254,9 @@ node	11182025136	http://www.studiolegaletirri.it/
 node	11193853624	https://mmasistemi.com
 node	11194628289	http://marcuzziviticola.it/
 node	11199525062	https://lefucine.com/
+node	11211170237	https://www.maxisupermercati.it
+node	11211175037	http://www.lebotteghedivalvasone.it/wp/?cpt_artists=bar-ai-portici-isa-carlo
+node	11211419537	https://www.colledanibulian.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	www.campingalbosco.it
@@ -2337,7 +2338,7 @@ way	36051557	https://explorerfvg.com/luoghi/de/rifugi/rifugio-gilberti/
 way	36051683	http://bivaccamente.blogspot.it/
 way	36051864	www.campodibonis.it
 way	36052154	http://agriturismozaro.it
-way	36052390	http://rifugiopelizzo.blogspot.it/
+way	36052390	https://www.facebook.com/rifugiopelizzo
 way	36052562	http://locandalaserenissima.com
 way	36054157	https://www.casavalcellina.it/it
 way	36057183	https://www.bottegone.eu
@@ -3041,6 +3042,7 @@ way	1038867840	www.enpaudine.it
 way	1044798528	https://www.marinazzurraresort.com/
 way	1046180034	https://www.spacciocchialivision.it/ottica/gorizia/
 way	1061482304	https://www.villebianchi.com/
+way	1062006445	www.netaziendapulita.it
 way	1066416444	https://lignanosabbiadoro.it/it/strutture/130-beach-village-lignano/
 way	1073299775	www.h-europa.it
 way	1076804700	https://www.larixguest.com/
@@ -3128,6 +3130,7 @@ way	1202729778	https://www.ferien-kinderfreunde.at;https://kinderfreunde.at
 way	1202986509	https://asufc.sanita.fvg.it/it/presidi-ospedalieri/ospedale_imfr_gemona/
 way	1204765088	https://lignanosabbiadoro.it/it/strutture/145-5-pescecane/
 way	1205636680	https://isoladelparadiso.com/
+way	1210753695	https://www.lagerlablu.it
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4465,6 +4468,8 @@ relation	16343879	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-setto
 relation	16343880	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/via-ferrata-rose-dinverno/
 relation	16344491	https://www.ilcamminodisantantonio.org/category/cammino-gemona-padova
 relation	16344619	https://www.ilcamminodisantantonio.org/category/cammino-gemona-padova
+relation	16359002	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-766
+relation	16381207	http://camminomariano.it/
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
@@ -4489,6 +4494,7 @@ node	1960281944	http://www.timeout-tarvisio.it
 node	1960307844	http://rentaski.ws/
 node	1964891874	http://www.exposta.it
 node	1968555164	https://www.rifugioalsantuario.com/
+node	1979536337	https://barbombengrado.eatbu.com
 node	2014105117	https://lacantinadiepicuro.com/
 node	2134678466	http://www.carbonneri.it/
 node	2137017691	https://www.poste.it/
@@ -4916,6 +4922,7 @@ node	777152345	http://italia.indettaglio.it/ita/friuliveneziagiulia/udine_latisa
 node	1428296095	http://www.protezionecivile.fvg.it/it/rete-idrometeorologica/pciv-corno-di-rosazzo
 node	1907489404	http://italia.indettaglio.it/ita/friuliveneziagiulia/udine_latisana_gorgo.html
 node	2275825136	http://www.catastogrotte.fvg.it/3917
+node	2739044697	https://coinatmradar.com/bitcoin_atm/111/bitcoin-atm-lamassu-udine-gavrilobtc-headquarters/
 node	2975045849	https://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/UDEE819039/luigi-bevilacqua-flaibano/
 node	3876052146	http://italia.indettaglio.it/ita/friuliveneziagiulia/udine_latisana_bevazzana.html
 node	7426750911	https://catastogrotte.regione.fvg.it/scheda/?var=cavita&cave=1671
