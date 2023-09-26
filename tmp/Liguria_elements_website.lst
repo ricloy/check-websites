@@ -141,6 +141,7 @@ node	748330625	www.eprierosse.it
 node	750472623	www.capalla.it
 node	765282658	http://www.parkhotelcastello.com/
 node	765355176	https://www.hotelstella-riviera.com/
+node	765553367	https://www.hotelrivierarapallo.com
 node	767546730	https://www.beausejourhotel.it/
 node	767549375	http://www.hotelhermitage.info
 node	767549380	https://www.bagliettoesecco.it/
@@ -711,6 +712,7 @@ node	3600473149	https://www.ecagroup.com/en/training-simulation
 node	3609806329	http://www.larosabiancadiportofino.com/
 node	3610446812	https://albergostelladelmare.it/
 node	3614940800	https://www.sarabanda-associazione.it/attivit%C3%A0/tiqu-teatro-internazionale-di-quartiere-genova/
+node	3616323186	http://www.bagniliguria.it/
 node	3617518203	http://hoteluliviarenzano.it/
 node	3623934818	erwittcastelnuovomagra.com
 node	3638931902	www.gealateriapastorino.it
@@ -1081,6 +1083,7 @@ node	5008333085	https://www.pacolor.com/
 node	5012938088	http://www.lapinetaonline.it
 node	5019278941	https://www.conad.it/ricerca-negozi/negozio.007113.html
 node	5021985224	https://pizzerialasmorfia.food-ts.com/
+node	5022064727	https://www.emysway.it/
 node	5033078244	https://blumarlin.it/
 node	5040194994	http://ilfrantoiorecco.blogspot.it/
 node	5047630759	http://www.prolocobergeggi.it
@@ -1107,7 +1110,6 @@ node	5097242881	https://www.pizzeriailborgo.com
 node	5100804384	http://www.asdidem.it/
 node	5100804385	https://www.eurospin.it/
 node	5111237377	www.stars4all.eu
-node	5116363423	http://genova-righi.parcoavventura.it/
 node	5116525830	http://www.radioarenzano.net/
 node	5120581523	http://www.cnr.it
 node	5120581540	http://www.ibf.cnr.it/it/home_genova
@@ -2135,6 +2137,9 @@ node	11196595565	https://www.monnabianca.it/
 node	11199290433	https://www.maracoiffeuse.it/
 node	11200017989	http://www.enotecainternazionale.com/
 node	11200464797	https://www.yugomarket.it/
+node	11206982451	https://altamareaimperia.com
+node	11208376993	https://www.burancocinqueterre.it/
+node	11208376994	https://www.burancocinqueterre.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	http://www.ospedalesanmartino.it
@@ -2224,6 +2229,7 @@ way	110183243	http://www.fincantieri.it/
 way	114406955	https://www.golfclubalbisola.it/index.html
 way	115986374	https://www.carraraonline.com/castello-di-coderone.html
 way	117976870	http://www.icsassello.edu.it
+way	118205496	https://www.fincantieri.com/
 way	120141422	http://www.itchiavari.org
 way	120233136	https://www.villaggio.org/
 way	122650661	https://www.jw.org/
@@ -2413,7 +2419,6 @@ way	203181084	http://fornofratellibolla.it/
 way	203198422	http://www.icvarazze.gov.it/
 way	203198900	http://www.cinealbisola.com/
 way	203199040	https://www.olmo-bike.it/
-way	203200670	https://www.protezionecivilevarazze.it/a/
 way	203202119	www.hotellidovarazze.it
 way	203202604	https://www.miltonvarazze.it
 way	203203991	https://www.santacaterinavarazze.it/
@@ -2455,6 +2460,7 @@ way	204702009	https://www.casabalin.it/
 way	204739468	http://www.altaviadeimontiliguri.it/portale/it/ospview.wp?contentId=OSP2203
 way	204741616	http://www.agriturismoilsogno.it
 way	204742078	https://www.comune.rapallo.ge.it/pagina600_la-funivia-rapallo-montallegro.html
+way	204746610	http://www.hotelastoriarapallo.it/
 way	204749728	http://www.comune.cicagna.ge.it
 way	204756943	http://mulinoretro.ciaranfi.com
 way	204941533	http://www.albergoamici.com
@@ -2471,7 +2477,7 @@ way	205836502	http://www.bvdelcarminereboccosp.wordpress.com
 way	205837018	http://museodelcastello.museilaspezia.it/
 way	205840606	http://www.attivasportutility.it/it/?page_id=9866
 way	205841446	https://belvedere9.it/
-way	205846725	http://www.asl5.liguria.it
+way	205846725	https://www.asl5.liguria.it/PerilCittadino/Ospedale.aspx
 way	205854865	http://www.rifugiomuzzerone.it/
 way	205855128	http://www.tramontidicampiglia.it/attivita/mulino.htm
 way	205906201	http://www.focacceriadafrancesco.com/index.htm
@@ -2635,9 +2641,11 @@ way	350231492	http://www.oliodeandreis.com/
 way	350231745	http://www.agriturismoprofumodilavanda.it
 way	350992646	https://farmamagliolo.business.site/
 way	351300471	http://www.zitalevanto.com/
+way	351304406	https://terradelbosco.it/
 way	351620383	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/cava-di-rio-fine/
 way	351755496	http://www.villacaterina.com/
 way	351755531	http://www.laquiete.com
+way	351863254	https://www.burancocinqueterre.it/
 way	352977519	http://www.ideahotel.it/savona.html
 way	353554815	https://www.castellocoppede.com/
 way	353712529	http://www.tsngenova.it/index.html
@@ -2898,6 +2906,8 @@ way	1208716633	https://www.cantierisangermani.it/
 way	1208716635	http://www.castagnola.biz/
 way	1208716636	https://www.carm.it/
 way	1208846147	https://grandhoteltorrefara.com/
+way	1209209924	https://www.parcoavventuragenova.it/
+way	1209528759	https://www.clinicaalmamater.it
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	http://www.apricale.org/
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
@@ -3278,6 +3288,7 @@ relation	5588093	https://www.cailaspezia.it/
 relation	5588098	https://www.cailaspezia.it/
 relation	5640261	http://www.archeoliguria.beniculturali.it/index.php?it/381/antiquarium-e-area-archeologica-della-citt-antica-di-albintimilium
 relation	5648754	http://www.museodiocesanogenova.it
+relation	5656169	http://www.akuadaoscar.it/
 relation	5824086	http://www.trekkingplus.it/SB%20-%20Tappa%201
 relation	5824087	http://www.trekkingplus.it/SB%20-%20Tappa%202
 relation	5824088	http://www.trekkingplus.it/SB%20-%20Tappa%203
@@ -3542,7 +3553,6 @@ node	243297256	http://www.amt.genova.it/rete_e_orari/funicolari.asp
 node	243299007	http://www.amt.genova.it/rete_e_orari/funicolari.asp
 node	243719356	http://www.statturismo.com/autolinee.asp/p/0
 node	247351098	http://www.amt.genova.it/orari/orari_urbana.asp
-node	248947670	http://www.amt.genova.it/rete_e_orari/navebus.asp
 node	248947761	http://www.amt.genova.it/rete_e_orari/navebus.asp
 node	252630595	http://www.museidigenova.it/spip.php?rubrique27
 node	253266745	http://www.circuitocinemagenova.com/
@@ -6432,6 +6442,7 @@ relation	462162	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf
 relation	462163	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162N
 relation	462164	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162O
 relation	1229467	http://www.ferroviagenovacasella.it/
+relation	1782624	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/193-bi19-ciclovia-tirrenica
 relation	1999533	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	1999534	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	2908593	http://www.irolli.it/genova_unesco/palazzo/piazza_de_marini_1.html
