@@ -296,6 +296,7 @@ node	673194565	http://www.agriturmontibeller.it/
 node	676868706	http://www.prolocostravino.it
 node	684186798	https://www.gasthofwieser.com/
 node	690540443	http://www.laterne.it
+node	691989434	https://www.hotel-ortler.com/
 node	691990570	http://www.ssp-ulten.it/
 node	691991006	https://www.schwemmerhof.com/
 node	700373524	www.stachelburgkeller.it
@@ -506,7 +507,6 @@ node	1178006834	https://www.lipp.it/
 node	1187578102	www.gossensass.org
 node	1187578130	https://www.gemeindebrenner.eu/
 node	1187775594	https://www.apss.tn.it/Azienda/Luoghi/Drive-through-vaccinale-anticovid-Trento-sud
-node	1206016240	http://www.hotelvela.com/
 node	1211111977	http://www.majonladina.com
 node	1211135256	https://www.alpiccolohotel.it/
 node	1212207472	https://lavecchiazambana.it/
@@ -1602,6 +1602,7 @@ node	2755905888	http://www.spotti.eu/
 node	2755907305	http://www.gasthaus-moar.it/
 node	2755910091	http://www.hochfeilerhuette.it
 node	2755910225	https://www.hotelrose.it/
+node	2755912957	http://kranebitt.com/willkommen-in-pfitsch.html
 node	2755924068	https://www.e-werk-prad.it
 node	2755929788	https://www.vierbrunnenhof.com
 node	2755929822	https://www.roterhahn.it/de/urlaub-auf-dem-bauernhof-in-suedtirol/ferienwohnungen-und-zimmer/bauernhof-urlaub/pfaffingerhof-rasen-antholz+4089.html
@@ -3931,7 +3932,6 @@ node	6837790900	http://www.mals.it/blaas/
 node	6837807694	https://www.kronemals.it/
 node	6846505543	http://www.hotelmondschein.it/
 node	6855697529	https://ristorante-al-selva-verde.eatbu.com/
-node	6855773385	https://www.hotelmontebondone.it/de/restaurantdeu/
 node	6872053556	http://www.saunaschaller.com
 node	6872075029	http://www.hallerdesign.it/
 node	6872089633	https://www.moebelreisinger.it/
@@ -3955,7 +3955,6 @@ node	6911687110	https://www.esperanto.trento.it
 node	6915290154	https://www.coronatahaus.it/
 node	6923613205	https://www.caribz.it/
 node	6923613230	http://www.enaiptrentino.it/i_centri/cfp-borgo-valsugana
-node	6927194675	https://thecoffyway.com
 node	6928891980	https://www.bauhuette-wiesenkirche.de/de/ruckblick/berichte/wegmarke/
 node	6929480687	http://www.reiterhof-oberfahrer.com/
 node	6952150890	http://www.casalpinadobbiaco.com/
@@ -4923,7 +4922,7 @@ node	10003553087	https://www.tipografia-tonelli.it/
 node	10003553089	http://www.i-speak.it/
 node	10003553099	http://www.soccorsostrdaletasin.com/
 node	10003581334	https://www.avisautonoleggio.it/guida-con-avis/localit%C3%A0-noleggio-auto/europa/italia/riva-del-garda/riva-del-garda
-node	10004106092	https://www.europaregion.info/it/
+node	10004106092	https://www.europaregion.info/
 node	10004207243	http://www.zeuschargingstation.com
 node	10004207244	http://www.zeuschargingstation.com
 node	10005893916	https://www.repluscentroriuso.it/
@@ -5068,7 +5067,6 @@ node	10760891228	http://www.algarotti.it/
 node	10771732476	https://drinkstore.shop/
 node	10775318906	https://www.merano-suedtirol.it/de/passeiertal/info-service/informationen/kontakt-oeffnungszeiten/rid-5E325D6EB5B3FE57E4EF730C88C6D7C4-p-infobuero-moos-in-passeier.html
 node	10793806056	https://www.simedia.com
-node	10794878605	https://www.comune.sarnonico.tn.it/Servizi/Servizi-sul-territorio/Centro-Raccolta-Materiali-Sarnonico
 node	10808267221	https://mindshub.it
 node	10830054226	https://vivishare.net/
 node	10839750327	https://www.heli.bz.it/de/flugrettung-suedtirol-1.html
@@ -5168,6 +5166,14 @@ node	11190438820	https://www.bewake.it
 node	11191370940	https://roesslbianco.it/
 node	11199141160	https://www.asparagozambana.it/
 node	11200495337	https://www.comune.rivadelgarda.tn.it/Aree-tematiche/Archivio-storico
+node	11202607930	pizzora.it
+node	11205081611	https://www.gardatrentino.it/it/info/falesia-family-massi-delle-traole_8898
+node	11205555007	https://archivimuseodellaguerra.archiui.com/oggetti/58475-carta-topografica-della-valle-del-sarca?i=2
+node	11207025771	https://www.sonnenschein.bz.it/index_de.html
+node	11209769382	https://www.outdooractive.com/it/route/sentiero-alpinistico/garda-trentino/22.-grande-guerra-doss-casina-e-dosso-alto/8002613/#dmlb=1
+node	11209892074	ttps://www.cremetrentino.it
+node	11212241958	https://www.comune.trento.it/Comune/Organi-politici/Circoscrizioni/Circoscrizione-n.-12-Centro-storico-Piedicastello/Sale-della-circoscrizione/Sala-Polivalente-Vela
+node	11215793435	https://www.filmclub.it
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -5279,6 +5285,7 @@ way	41989569	https://malgacimana.com/
 way	42108886	http://www.jimmyhuette.com/
 way	42141391	https://www.utiaforcelles.it/
 way	42150263	http://www.mesoles.it
+way	42158566	https://www.campingcolfosco.org
 way	42223145	https://www.rifugiocapannapizfassa.com/
 way	42224521	http://www.rifugioboe.it/
 way	42287959	https://www.gardenacia.it/it/rifugio-alta-badia
@@ -6384,6 +6391,7 @@ way	155407553	https://www.franco.it/
 way	155438568	http://oberraut.it/de/gasthof.html
 way	155542542	http://www.gasthof-tuckett.com/
 way	155542544	http://www.hotel-tannenheim.com/
+way	155831303	http://www.hotelvela.com/
 way	155831857	https://passostelvio.eu/
 way	155831861	https://www.baitaortler.net/
 way	155831868	http://www.thoni3000.it/
@@ -7005,6 +7013,7 @@ way	228961819	https://www.garni-claudia.it/
 way	228961825	http://rg.oberschulzentrum-schlanders.com/
 way	228961945	http://www.hotel-vierjahreszeiten.it
 way	229003439	https://www.scotoni.it
+way	229186914	https://museum.hinterpasseier.it/stieber-museum/
 way	229336029	http://www.teralab.it
 way	229340015	https://www.rabanser-tuning.it/
 way	229477757	https://www.circolovelatorbole.com/
@@ -7938,6 +7947,7 @@ way	653358026	https://www.appartments-heidenberger.com
 way	653944640	https://www.schoeneben.it
 way	655228960	https://www.oberholz.com/
 way	658389982	https://www.kulturhaus-branzoll.com/
+way	660123328	https://www.comune.sarnonico.tn.it/Servizi/Servizi-sul-territorio/Centro-Raccolta-Materiali-Sarnonico
 way	662363635	https://www.icaldenomattarello.edu.it/
 way	662363637	https://www.icaldenomattarello.edu.it/
 way	662440702	www.zanettiarreda.it
@@ -8122,7 +8132,7 @@ way	964724437	https://www.riarco.eu/
 way	969463135	https://www.kaltern.com/de/info/parkplatz-bahnhofstrasse-p6.html
 way	970428891	https://www.ssp-kaltern.it/index.php/schulstellen/gs-kaltern
 way	971386417	https://www.hotel-saltus.com
-way	971541794	http://www.spitalerhof.bz.it
+way	971541793	http://www.spitalerhof.bz.it
 way	977545309	https://www.aqualido.it/
 way	977545310	https://www.aqualido.it/
 way	983124134	https://alpinn.it/
@@ -8247,6 +8257,8 @@ way	1207441058	http://www.autodemolizionirigotti.it
 way	1208368069	https://www.oanfoch-natuerlich.it/kraeutergarten.html
 way	1208800309	http://www.burggrafenamt.com/it/montagne-ed-escursioni/sentieri-delle-rogge/roggia-di-lagundo.html
 way	1208800310	http://www.burggrafenamt.com/it/montagne-ed-escursioni/sentieri-delle-rogge/roggia-di-lagundo.html
+way	1209988579	http://www.gardatrekking.com/itinerari/alto-garda/sentiero-della-memoria
+way	1209995193	https://www.outdooractive.com/it/route/sentiero-alpinistico/garda-trentino/22.-grande-guerra-doss-casina-e-dosso-alto/8002613/#dmlb=1
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -8769,7 +8781,6 @@ relation	4771016	schutzgebiete.at/index.php?sid=pages&pid=44
 relation	4784735	http://www.sat.tn.it/
 relation	4833207	http://www.caisezionethiene.it/
 relation	4873346	https://www.flixbus.de/busverbindung/fernbus-meran-merano-muenchen-flughafen
-relation	5095948	http://www.fgfontana.eu/
 relation	5095949	http://www.fgfontana.eu/
 relation	5172172	https://www.pnab.it/
 relation	5389731	http://www.sat.tn.it/
@@ -10105,6 +10116,7 @@ node	2749632344	https://art-accessoires-by-markus-damini.business.site/
 node	2749636195	http://www.schlachthof.it/
 node	2749636198	https://www.krone.bz
 node	2749639855	http://www.stellakino.com/
+node	2749656079	https://roctraam.com/
 node	2749685677	http://www.naturheilt.it
 node	2749726424	http://www.saxl.it/
 node	2749760612	https://www.pichler-hof.com/
@@ -10987,6 +10999,7 @@ way	1194727349	https://www.trentinomobilita.it/biciclette-cp-trento
 way	1194727350	https://www.trentinomobilita.it/biciclette-cp-trento
 way	1194727351	https://www.trentinomobilita.it/biciclette-cp-trento
 way	1209045872	https://www.padeltrento.com/
+way	1209075180	https://www.museonazionalealpini.it/
 relation	58994	https://www.fbk.eu
 relation	946442	https://www.lecta.com/it/fabbrica-cartiere-del-garda
 relation	1110127	http://www.istitutosacrocuore.it/
@@ -11004,6 +11017,7 @@ relation	3019157	http://www.parrocchie.it/rovereto/caterina/home.htm
 relation	3080215	https://www.viaggiareintrentino.it/
 relation	3518496	http://www.centroantidroga-tn.it/
 relation	3804183	http://www.borgodeiposseri.com/
+relation	5122161	https://www.cogsci.unitn.it/
 relation	5555605	https://www.cappuccinitriveneto.it/2018/01/18/terzolas-provincia-e-arcidiocesi-di-trento/
 relation	5744316	https://www.superbrown.it/it/superbrown/centro-f-a.html
 relation	5944161	http://www.complessobraide.it/
