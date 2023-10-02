@@ -1000,6 +1000,7 @@ node	2589393171	http://www.agriturismogiaglione.it/
 node	2591426073	http://www.cislcuneo.it/orari-uffici-caf-bra.asp
 node	2591701965	http://www.scuolaelementarecolloditorino.it/index.php/chi-siamo/rodari.html
 node	2591701968	http://www.scuolacalamandrei.org/
+node	2598781575	http://www.giomarsrl.eu/
 node	2601850744	www.locandadelcassinale.it
 node	2602120831	http://www.farmafedelta.it/
 node	2604459009	https://www.laturna.it/
@@ -1659,7 +1660,6 @@ node	3826588276	https://www.unionemontanavalsesia.it/it-it/servizi/usare-un-mezz
 node	3829036667	http://www.tobike.it/
 node	3834933061	http://www.peveradasnc.it/mtb/percorsi/foto/torino/avandrate3_2.jpg
 node	3841517028	https://www.cusatibikeshop.it/
-node	3843211891	http://www.piuspazioquattro.it/
 node	3849336672	https://www.connerypub.com/
 node	3851249458	http://www.hoteltroisetoiles.com/
 node	3851303038	http://www.hotelligurevinadio.it/
@@ -2199,6 +2199,7 @@ node	4504553480	http://www.simplymarket.it/pdv.php?id=520296B
 node	4504553482	https://www.orgeassport.com/
 node	4504553487	https://www.cantinadeglialpini.it
 node	4504554739	https://www.lacasettadelgad.it/
+node	4508127438	https://www.tenutatenaglia.it/
 node	4509356307	http://www.comune.calliano.at.it/Home/Guida-al-paese?IDPagina=16018&IDCat=2430
 node	4509391767	http://www.centrocongressilingotto.it/
 node	4509391768	http://www.centrocongressilingotto.it/
@@ -2600,6 +2601,7 @@ node	4734602711	https://www.bioletti-gioielli.it/
 node	4734602822	http://www.marameotorino.it/
 node	4734733906	https://it-it.facebook.com/BiciMotoGiuntaTorino/
 node	4734735569	https://www.eurofunerali.it/
+node	4734735648	https://www.homezon.it
 node	4734735809	http://www.yukihanaristorantegiapponese.it/
 node	4734736087	https://la-birroteca-diner.business.site/
 node	4734763352	https://www.rambalditorino.com/
@@ -2664,8 +2666,10 @@ node	4736055107	https://www.maithai.it/
 node	4736055632	https://sweetlabtorino.it/
 node	4736055654	https://prestofresco.it/
 node	4736055674	https://www.centrogiochieducativi.it/
+node	4736055685	http://www.rossiprofumi.it/
 node	4736056215	http://www.magazzino52.it/
 node	4736057602	https://www.lillapois.com/
+node	4736057655	https://www.crostone.it/
 node	4736058939	https://www.meno18.com/
 node	4736058970	http://www.caffemulassano.com/
 node	4736077735	http://torteriaolsen.it/
@@ -5615,7 +5619,6 @@ node	10577802812	http://www.ruralpizza.it/
 node	10586053859	https://www.alcantounchiomonte.it/
 node	10586065523	https://www.alcantounchiomonte.it/
 node	10586476548	www.theworkationvillage.com
-node	10586567004	https://www.homezon.it
 node	10587617871	http://portolago.com/SpondaPiemontese/Pallanza/Porti/PontiliGalleggianti.html
 node	10593582633	http://www.comune.cumiana.to.it/Home/Guida-al-paese?IDPagina=22140
 node	10593622928	https://www.comune.castelnuovoscrivia.al.it/it-it/biblioteca
@@ -5742,7 +5745,6 @@ node	10968071728	https://it.viver1.com/
 node	10968131680	https://stores.elenamiro.com/it/italia/vercelli/vercelli-via-v-veneto-2
 node	10968131683	https://tempocasa.it/it/agenzie-immobiliari/vercelli/vercelli/964-vercelli
 node	10968853347	http://www.leroi.torino.it/
-node	10973869955	www.centrostoricoalba.edu.it
 node	10976170536	https://www.carrozzeriadonnadio.it
 node	10978536105	http://lamussia.it
 node	10980262424	https://www.satvolo.org
@@ -5879,6 +5881,11 @@ node	11206453644	http://www.graficheambert.com
 node	11210953929	https://oddeninoassicura.it
 node	11210958237	https://fiatponzio.it
 node	11217484614	https://www.agriturismoamodomio.com/
+node	11221475267	https://www.radioalba.it/
+node	11222223434	https://vercelli.cnosfap.net/
+node	11230820724	https://www.gamestop.it/
+node	11230820725	https://www.mialuis.it/
+node	11231208927	www.yoyogurt.com
 way	22880457	http://www.liceogioberti.it/
 way	23028146	http://www.palavelatorino.it
 way	23079840	https://www.isola2000.com
@@ -5959,6 +5966,7 @@ way	75614681	https://www.rifugiogenova.it/
 way	76258503	https://www.rifugioamprimo.it/
 way	76564523	https://www.comune.momo.no.it
 way	76608482	https://www.isolino.it/
+way	76643887	https://www.campinglaquiete.it/
 way	76706584	https://www.rifugiotoesca.com
 way	77161503	turismoceresolereale.it
 way	77684438	https://caibiella.it
@@ -6067,6 +6075,7 @@ way	108801928	http://www.rifugiovalgravio.it
 way	109152371	http://www.iciliegigolfclub.it/
 way	109293385	https://it.yamaha-motor.eu/concessionari/magic-bike
 way	109917117	http://www.oasimadonnina.eu/
+way	110679251	http://www.duomoditorino.com
 way	111177416	https://www.facebook.com/ristoranteilsole
 way	111728387	http://www.cascinabert.ideasolidale.org/
 way	111799709	http://www.comune.santhia.vc.it/
@@ -6282,6 +6291,7 @@ way	178289048	http://www.curiepinerolo.gov.it/
 way	178326602	https://www.alberti-porro.edu.it/wordpress/
 way	178415434	https://www.comune.ivrea.to.it/scopri-ivrea/mercati.html
 way	178458015	https://www.comune.grignasco.no.it/
+way	178458025	https://www.carrefour.it/punti-vendita/carrefour-market-grignasco-via-iv-novembre-31-4445.html
 way	178479652	http://www.fablabalessandria.it
 way	178547149	https://www.liceobotta.it/
 way	178547165	http://www.tribunaleivrea.it/default.aspx
@@ -7581,6 +7591,7 @@ way	420754820	http://www.poderedeifiori.it/
 way	420836404	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	420836405	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	420997702	http://www.cascinalapresidenta.it/
+way	423150315	https://www.piuspazioquattro.it/
 way	423886039	https://www.comune.cavaglietto.no.it/it
 way	424314588	https://www.comune.vapriodagogna.no.it/
 way	425672501	http://www.parcofluvialegessostura.it/vivere/sport.html
@@ -8722,7 +8733,8 @@ way	1207150724	https://www.miscasale.com/
 way	1208132469	https://www.sestantenizza.it/
 way	1208814554	https://www.comune.ozzanomonferrato.al.it/it
 way	1209468331	https://tajare.it/percorsi-tracce-gps-cartina/
-way	1210421599	https://www.icquartieremoretta.edu.it
+way	1210421606	https://www.icquartieremoretta.edu.it
+way	1211130228	https://www.centrostoricoalba.edu.it
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -10035,6 +10047,10 @@ relation	16055873	http://vicolungo.thestyleoutlets.it/
 relation	16116055	https://www.viaaltavallemaggia.ch/it
 relation	16124971	https://www.azalai.bio/eventi/pom-a-moj/
 relation	16165252	https://www.fondazionecralessandria.it/
+relation	16389001	https://aunpassodallavetta.wixsite.com/trekking/post/le-fontane-di-caldirola
+relation	16398869	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
+relation	16398932	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
+relation	16399512	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 node	63629039	http://www.comune.chiusadisanmichele.to.it
 node	63631321	http://www.cittadisusa.it/
 node	306555609	https://www.rinascente.it/it/store-torino-via-lagrange
@@ -10313,6 +10329,7 @@ node	4720799980	http://www.vianoprofumicoltelli.com/
 node	4733913882	https://www.olimpiaacciai.it/
 node	4734594014	http://www.birreriarol.it/
 node	4734602718	https://www.ladispensatorino.com
+node	4734735648	https://www.homezon.it
 node	4734737864	http://www.racconigicarta.com
 node	4734764198	https://www.caffeboutic.it
 node	4735056196	https://www.merlocamping.it/
@@ -10587,7 +10604,6 @@ node	10245695696	http://www.torino16.mercatinousato.com/
 node	10274147090	http://www.spezialemilitaria.com/
 node	10282042150	http://www.otticapetrini.it/
 node	10284329351	https://www.amycasettadicharme.com/
-node	10586567004	https://www.homezon.it
 node	10629964363	http://www.casacanada.eu
 node	10633412531	https://www.labessanocciole.it/
 node	10680298307	https://www.contiroero.eu
