@@ -139,6 +139,7 @@ node	730186901	https://www.ristorantemargherita.it
 node	730216694	https://www.fontartana.it
 node	734442770	https://lacivitellapizzeriabraceria.eatbu.com
 node	739564918	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10595
+node	744777692	https://streetitaly.com/store/index.php?route=common/home
 node	749862258	https://www.teatromarrucino.eu/
 node	761839338	https://www.poste.it/
 node	769145259	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10798
@@ -1478,7 +1479,6 @@ node	7667686311	https://qbr-pescara.business.site
 node	7667712325	https://www.losfiziodigennaro.it/
 node	7668650157	https://www.jeunesseboutique.it/
 node	7668659799	https://www.antonellapescara.it/
-node	7668728269	https://www.urbanfitness.it/
 node	7669061031	https://www.aslteramo.it/servizi-sanitari/guardia-medica-turistica-2019/
 node	7669123998	https://www.aslteramo.it/servizi-sanitari/guardia-medica-turistica-2019/
 node	7672940952	https://www.pieriparquet.it/
@@ -2712,7 +2712,7 @@ node	11046230905	https://www.ilmiobar.net/32posti/
 node	11048029095	https://pescara.cronos.house/
 node	11048428527	https://italia.indettaglio.it/ita/abruzzo/pescara_manoppello_sancallisto.html
 node	11049425428	https://www.eurospin.it/punti-vendita/chieti-3/
-node	11050625719	http://www.linealegnoabruzzo.it/web/index.php/azienda.html
+node	11050625719	http://www.linealegnoabruzzo.it/web/index.php
 node	11056544163	https://www.centromedicosaluspescara.it/
 node	11061289626	https://www.minicucciricambi.it/
 node	11065915032	https://www.felumabistrot.it/
@@ -2784,6 +2784,18 @@ node	11219354186	https://www.vonuo.it/
 node	11220175438	http://emidiopepe.com
 node	11224419187	https://lanuevaeradancingschool.it/
 node	11228725728	https://comune.isola.te.it
+node	11233194230	https://store.terranovastyle.com/2246-montesilvano
+node	11233208059	https://www.satur.it/
+node	11233261949	https://www.salmoiraghievigano.it/
+node	11233278337	https://www.misterimprese.it/abruzzo/pescara/pescara/casalinghi/1762441.html
+node	11233469037	https://www.academyforme.it/
+node	11233469038	http://www.vista-si.it/
+node	11233469040	https://www.allscent.it/storelocator/Allscentchieti
+node	11233469041	http://kenovo.it/
+node	11233469042	http://www.sarnioro.it/
+node	11233469045	https://www.arcaplanet.it/negozi-per-animali/chieti-v-masci
+node	11235408652	https://www.sigma-evo.it/
+node	11238205461	https://www.vinipietrantonj.it/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -2815,6 +2827,7 @@ way	55400363	https://www.bricocenter.it/it/punti-vendita/ep-minisito-punto-vendi
 way	57364548	https://www.centrodabruzzo.com/
 way	57364981	https://www.obi-italia.it/negozi/sambuceto/?wt_mc=GP.IT042_Sambuceto%E2%80%A6
 way	58808135	http://www.lavalledellapescara.it
+way	59399534	https://centauroweb.it/
 way	59530435	https://www.federicisofa.com/punti-vendita/montesilvano/
 way	59563955	https://www.ictroianodelfico.edu.it/
 way	59616549	https://www.lidl.it/
@@ -2837,6 +2850,7 @@ way	77595189	https://www.facebook.com/BioZonaAssociazione
 way	79401619	https://www.lngs.infn.it/
 way	80608046	https://www.soc.it/
 way	81194093	https://icmasci.it/oldsite/backup/istitutocomprensivomasci.edu.it/index.html
+way	81512669	https://www.pasquarelliauto.it/sedi/concessionaria-ufficiale-toyota-e-lexus-a-sambuceto-pasquarelli-auto/
 way	82748488	https://www.hotelalbatrosroseto.it/
 way	84977536	http://www.e-fish.pescara.it/
 way	85081322	https://pescarasambuceto.mercatinousato.com/
@@ -3001,7 +3015,7 @@ way	324054743	https://www.greenvillageabruzzo.it/index.php/it/
 way	329565720	https://www.iccastiglionemm.edu.it/
 way	330100723	https://www.parconaturalemajella.it/parco-avventura
 way	331567966	https://www.decathlon.it/store-view/negozio-sport-san-giovanni-teatino-chieti-0070028600286
-way	332231297	https://www.portoallegro.eu/il-centro
+way	332231297	https://www.portoallegro.eu/
 way	335383555	https://www.parcomajella.it/visita-il-parco/sentieri-e-itinerari/sentieri-e-itinerari/sentieristica/sentieri-per-famiglia/sentiero-per-famiglie-n-04-leremo-di-santonofrio-di-serramonacesca/
 way	342485603	https://www.campinglapanoramica.com/wp/
 way	342488435	http://www.campingvecchiomulino.it/index.html
@@ -3283,7 +3297,6 @@ way	800743796	http://www.centromedicolifecare.it/
 way	801307271	https://www.volleypescara3.it
 way	804163119	https://www.conad.it/ricerca-negozi/negozio.009515.html
 way	804454739	https://www.bblaperlarosa.it/
-way	805955186	https://www.misterimprese.it/abruzzo/pescara/pescara/casalinghi/1762441.html
 way	808429901	https://www.lidl.it/
 way	809296718	https://www.enel.it/punto-enel/
 way	810239790	https://www.enistation.com/
@@ -3319,6 +3332,7 @@ way	829610047	https://shop.pittarello.com
 way	829964451	https://www.comune.tollo.ch.it/section/pubblicazioni/Antonio-Del-Colle--Tollo-Incontro-pubblico-e-intitolazione-di-una-via/
 way	830375523	http://www.portobelloareadiservizio.it/lanciano.html
 way	830376416	http://www.portobelloareadiservizio.it/chieti.html
+way	839569617	https://ic1chieti.edu.it/secondaria-chiarini/
 way	842112527	https://www.rifugiodellarocca.it/
 way	842328614	http://www.comunesantostefanodisessanio.aq.it/
 way	843445764	https://www.matchfishing.it/2013/04/04/the-king-of-the-lake-catignano-pe-sa-gi-p-tour-la-selettiva-abruzzo-a-di-tonto-garofalo/
@@ -3473,7 +3487,6 @@ way	977660995	https://www.resortolympus.it
 way	978821736	https://www.info.asl2abruzzo.it/assistenzaterritoriale/dsbcastiglione.html
 way	978968636	https://www.laquercia.me
 way	979554433	https://mobilita.comune.pescara.it/parcheggi-estivi-a-nord-e-a-sud-della-citta/
-way	979554434	https://mobilita.comune.pescara.it/parcheggi-estivi-a-nord-e-a-sud-della-citta/
 way	979813343	http://www.roccamontepiano.info/territorio/monastero-di-san-pietro-celestino.html
 way	980120336	http://www.piscinaprovinciale.it
 way	980433114	https://www.villese.it/
@@ -3667,6 +3680,7 @@ way	1202037327	https://www.pasquarelliautosrl.it
 way	1204443676	https://www.tenutasantilario.com/
 way	1205328394	https://www.grupposynergo.com/
 way	1210070389	https://www.aigaa.org/public/GGA.2008-08.1-02.0212.pdf
+way	1213995845	https://mobilita.comune.pescara.it/parcheggi-estivi-a-nord-e-a-sud-della-citta/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -3883,6 +3897,7 @@ node	9203799774	https://www.facebook.com/pizzerialozio/
 node	9471038392	https://autoricambitritella.it
 node	10731454559	https://www.campingcarouan.it/
 node	10978467236	https://ilgiuggioloverde.it/contatti/
+node	11234246802	https://www.hotelrojan.it/
 way	93958554	https://www.storkcampingvillage.com/
 way	148593095	https://www.hotellenazioni.com
 way	288614834	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-onofrio-al-morrone/
@@ -3906,6 +3921,7 @@ node	8854958906	https://www.ilpescara.it/cronaca/montesilvano/sito-web-centro-ri
 node	9053829474	https://www.liritv.it/montesilvano-pe-defibrillatori-accessibili-installato-dae-al-campo-di-via-foscolo/
 node	9926972892	https://it.wikipedia.org/wiki/Gallo_(Tagliacozzo)
 node	11017555269	https://www.pietredellamemoria.it/pietre/monumento-ai-caduti-di-santa-barbara-chieti/
+node	11207307441	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10858
 way	359782109	http://www.comune.pineto.te.it/pagina1798_informazioni-utili.html
 way	378791366	https://scelgofullservice.com/e-store
 way	558584552	https://bar-la-torretta.business.site
