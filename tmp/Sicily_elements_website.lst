@@ -2408,6 +2408,7 @@ node	8077041152	https://barlacoccinella.myadj.it/v/barlacoccinella
 node	8084098721	https://www.facebook.com/Sciaccapiazzaitaliastore.it/
 node	8084098749	https://www.facebook.com/spacegym.sciacca/
 node	8089098575	http://www.icmarianorossi.edu.it/
+node	8104283610	https://www.santapanagia.it/
 node	8121188262	https://www.gruppoarena.it/
 node	8121434736	https://cristaldi.it/
 node	8121434769	http://www.siciliahome.it/
@@ -2529,7 +2530,6 @@ node	8700759667	http://angoloinformatico.it
 node	8702543062	https://www.avaliani.it/
 node	8707001000	https://www.facebook.com/Club-Alpino-italiano-Sezione-di-Polizzi-Generosa
 node	8707266197	https://www.facebook.com/caipantelleria/
-node	8707359205	https://cannonesrl.it/
 node	8707359206	https://cannonesrl.it/
 node	8707359207	https://cannonesrl.it/
 node	8721041012	http://www.nnigiuvanninu.it
@@ -3303,7 +3303,6 @@ node	10764087199	https://www.atlocalhost.it/
 node	10774285389	http://www.centromedicobiosragusa.it/
 node	10781447277	http://musei.unipa.it/chimica.html
 node	10783679453	http://www.dammusivacanze.com/
-node	10788414538	https://cannonesrl.it/
 node	10789948428	https://www.hoteltiffanysicilia.it/
 node	10790401595	https://cannonesrl.it/
 node	10790401596	https://cannonesrl.it/
@@ -3484,6 +3483,12 @@ node	11224571176	https://sisasiciliaspa.it/
 node	11225983126	https://cannonesrl.it/
 node	11225983127	https://cannonesrl.it/
 node	11225983128	https://cannonesrl.it/
+node	11233144037	http://www.salinarentbongiorno.it
+node	11233167113	http://www.farmacialodatosnc.it/
+node	11233170957	http://www.farmaciadottoririzzo.it/
+node	11242109208	https://www.facebook.com/neromiciok/
+node	11244238166	http://www.trasportiurbaniagrigento.it/mappa-linea-2-.html
+node	11244238168	http://www.trasportiurbaniagrigento.it/mappa-linea-2-.html
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	http://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -3612,7 +3617,6 @@ way	56030979	https://www.primocircoloadrano.edu.it
 way	56132270	https://www.sgboscobiancavilla.edu.it
 way	56132310	https://www.aspct.it/azienda/presidi-ospedalieri/biancavilla/
 way	56132704	https://www.comune.biancavilla.ct.it/
-way	56206365	http://www.iashotels.com
 way	57687511	https://www.vigilfuoco.it
 way	57687527	https://www.adspmaresiciliaorientale.it/
 way	58621860	https://www.conad.it/ricerca-negozi/negozio.009134.html
@@ -3722,7 +3726,6 @@ way	155851736	http://www.medicina.unict.it/it
 way	157869317	https://www.icsdecruyllasramacca.edu.it/
 way	157869747	https://www.icsdecruyllasramacca.edu.it/
 way	157873052	https://www.icsdecruyllasramacca.edu.it/
-way	158086178	https://de.campings.com/camping-baia-unci-lipari
 way	158590459	https://www.hotelvillaenricalipari.com/
 way	160332796	www.madonnadellasciara.it
 way	160428601	https://www.liceoboggiolera.edu.it/
@@ -4256,6 +4259,7 @@ way	364953358	www.sportingresidenceclub.it
 way	365633525	www.hotelsanvincenzo.it
 way	367065501	http://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei/pagina_musei.asp?ID=165&IdSito=129
 way	369237717	www.campingsalica.it
+way	369272777	http://www.isolavulcano.it/
 way	369272781	http://auravulcano.com
 way	369272791	http://vulcanohotel.it
 way	369274155	https://www.hotelgardenvulcano.com/
@@ -5408,6 +5412,9 @@ way	1209879124	https://www.icsfalconeacicastello.edu.it/
 way	1209879129	https://www.icsfalconeacicastello.edu.it/
 way	1210430555	https://www.baiaverde.it/
 way	1211519462	https://www.conad.it/ricerca-negozi/conad-city-via-monsignor-salvatore-siino-31-90040--capaci--010157
+way	1212390289	https://www.autostoregroup.eu/
+way	1212758551	http://www.iashotels.com
+way	1213164624	https://acomercatovittoria.it/ortomercato-di-vittoria/
 relation	271371	http://pirandellomazara.it
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
