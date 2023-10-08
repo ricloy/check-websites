@@ -10,14 +10,21 @@ node	72960162	https://www.comune.strangolagalli.fr.it/
 node	72960196	https://www.comune.veroli.fr.it/
 node	72960414	http://www.comune.atina.fr.it/
 node	72960603	http://www.comunedifumone.it/
+node	72960983	https://www.comune.aprilia.lt.it/
+node	72961052	http://www.comune.cori.lt.it/
 node	72961889	www.comune.salisano.ri.it
 node	72961991	http://www.comune.morroreatino.ri.it/
+node	72962224	https://www.comune.fiumicino.rm.it/
 node	72962520	https://comune.casape.rm.it
 node	72962662	https://www.labico.com/home
 node	72962733	https://www.comune.formello.rm.it/
+node	72962846	https://www.comune.rignanoflaminio.rm.it/
 node	72962941	http://www.comune.palestrina.rm.it
 node	72963008	http://www.comune.anguillara-sabazia.roma.it/
+node	72963331	http://www.comune.trevignanoromano.rm.it/
 node	72963393	https://www.comune.valmontone.rm.it
+node	72963520	https://comune.ardea.rm.it/
+node	72963608	http://www.comunedimaglianoromano.it/
 node	72963655	http://www.comune.monteflavio.rm.it
 node	72963725	http://www.comune.orte.vt.it
 node	72963845	http://www.comune.valentano.vt.it/
@@ -312,7 +319,6 @@ node	1364564205	https://www.ambasciatoriplacehotel.com/
 node	1368886011	https://www.facebook.com/fisiosport.pecchia
 node	1372594122	www.aedesplacida.it
 node	1373617756	http://www.carsharing.roma.it/
-node	1385339535	https://www.museobrigantaggiocellere.org
 node	1388480852	http://www.ristorantelasorgentelt.com
 node	1391511097	http://www.archeologica.librari.beniculturali.it/
 node	1391602797	http://coin.it
@@ -1733,6 +1739,7 @@ node	4248541006	http://www.vaticansweethome.it
 node	4250958790	http://www.mercatomonti.com/
 node	4252088796	https://www.officine-iphone.com/
 node	4252228880	www.mototomassini.it
+node	4253123722	http://www.edencaffe.it/
 node	4254071494	http://www.treccani.it/enciclopedia/veiano_(Enciclopedia-dell'-Arte-Antica)/
 node	4256572190	http://hotelfilipporoma.it
 node	4257524467	www.renzovalentini.com
@@ -1831,6 +1838,7 @@ node	4352730901	http://www.gruppooro.it/
 node	4353295189	https://lagallinabiancaroma.it/
 node	4355034889	https://www.archimedehotelroma.it/
 node	4355474415	https://www.ancaprilia.org/
+node	4356588759	https://vertiginiclimbing.it/aprilia
 node	4356811095	https://www.hotelorazia.it/
 node	4356977390	http://www.bicibaci.com/
 node	4359093490	http://www.pizzerianerone.com/en/
@@ -2022,6 +2030,7 @@ node	4554553404	https://edencar.it/
 node	4555798007	ristorante-lavilletta.com
 node	4555798031	lisolaceliaca.it
 node	4555798032	dance-dance.it
+node	4555798033	https://www.dinzu.it/monterotondo/
 node	4556255200	gruppoclark.com
 node	4556320653	https://www.bplazio.it/
 node	4564170330	http://derossifitness.it/
@@ -2062,6 +2071,7 @@ node	4598483005	studio7roma.it
 node	4598673902	https://www.ferramentabrenda.com/
 node	4598763004	https://www.piscinapasseroni.it
 node	4599760954	https://www.risparmiocasa.com/
+node	4600492813	https://www.fondidal1936.it/
 node	4604602040	https://opac.uniroma1.it/SebinaOpacRMS/library/RMS45
 node	4605604305	https://www.pastaimperiale.com/
 node	4606909024	http://www.paolettiarredamenti.com
@@ -3364,7 +3374,6 @@ node	6473976841	https://www.osteria33.it/
 node	6473976845	https://www.immaginebenessere.it/
 node	6476405885	https://www.facebook.com/muranomax
 node	6492481685	http://gelateriadiegracchi.it
-node	6497666024	http://www.planetarioroma.it/it/il_museo/planetario
 node	6497896682	http://www.museodellarepubblicaromana.it/it/il_museo/editoriale
 node	6497917970	http://www.galleriaartemodernaroma.it/it/il_museo/editoriale
 node	6498036950	http://www.casaalbertomoravia.it/it/il_museo/editoriale
@@ -4177,6 +4186,7 @@ node	8419732966	https://www.farmaciamazziniroma.it/
 node	8423200156	https://www.lacastellina15.com/
 node	8437277688	http://www.lamovidafashion.com/
 node	8437277709	https://ilgiglioroma.it/
+node	8437277757	http://www.ristorantekoko.com/
 node	8440886010	https://www.myoporumsas.com/
 node	8442573261	https://www.pescatoandmangiato.it/
 node	8442926797	https://www.applerediroma.it/
@@ -4533,6 +4543,7 @@ node	9173753979	https://hotelgeo.it/
 node	9176112020	https://farmacia-corsi.business.site/
 node	9176112021	https://www.aslroma6.it/distretti/dh4-pomezia/uoc-direzione-sanitaria-di-pomezia
 node	9176112023	https://www.levore.it/
+node	9176146844	https://www.pastarenzoelucia.it
 node	9177025917	https://www.1990accademiadelgusto.it
 node	9178219009	https://www.gliarchiristorante.com
 node	9179733960	www.dascenzitende.com
@@ -5648,6 +5659,9 @@ node	11222983508	https://gradolarum.com
 node	11224849000	https://arvueuropea.it
 node	11224856753	https://www.diagest.it/
 node	11229568512	http://www.soapontheroad.com
+node	11234142608	https://www.museocivicodizoologia.it/it
+node	11234142609	https://www.comune.roma.it/web/it/istituzione-biblioteche-di-roma.page
+node	11239859988	https://www.tecnomet.cloud/
 way	22875465	http://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -5855,6 +5869,7 @@ way	90081661	https://www.orioli.gov.it/it/
 way	90513304	http://www.cmmotor.it
 way	90523115	http://www.imballaggifidaleo.it
 way	91562025	bancadiviterbo.it
+way	93103421	https://museoarcheologicoischiadicastro.it/
 way	93613059	https://www.orizzonteshop.it/
 way	94078930	https://www.conad.it/ricerca-negozi/negozio.009894.html
 way	94080566	http://www.tendastrisce.it/
@@ -6289,6 +6304,7 @@ way	218815246	http://www.ostia-antica.org/regio4/9/9-2.htm
 way	219120063	http://www.sunnypalace.it
 way	219512281	http://www.tuodi.it/
 way	219800322	http://.casalepodererosa.org
+way	219840963	https://www.comune.maglianosabina.ri.it/
 way	220101516	http://www.gardenvalerio.com
 way	220244121	http://www.treccani.it/vocabolario/procoio/
 way	220246297	http://www.cooplaflacca.it
@@ -6636,7 +6652,6 @@ way	332765465	www.cineteatrobuonarroti.it
 way	332857939	http://questure.poliziadistato.it/Frosinone
 way	333042709	https://www.arredamentimarrocco.it/
 way	333094514	http://www.romainbici.com/la-ciclorimessa.html
-way	333251209	http://www.architettura.uniroma1.it/
 way	333884386	https://www.liceoaristofane.gov.it/
 way	333902709	https://www.auraparking.it/
 way	333902710	http://www.fcoairportparking.it
@@ -6904,6 +6919,7 @@ way	414096561	http://www.ghaleb.it/Museo.htm
 way	414146708	http://www.gruppoini.it/
 way	414150594	https://www.castelli-international.it/
 way	414398895	http://www.liceoburatti.gov.it/
+way	414418523	https://www.comune.aprilia.lt.it/
 way	414653006	http://www.liceosantarosavt.it/
 way	414665653	http://www.ristorantepizzeriaeatviterbo.it
 way	414754031	http://www.hotelartisroma.com/index.html
@@ -7993,6 +8009,9 @@ way	1208216421	https://escargot-labottegadeisapori.it/
 way	1209693686	https://www.lalibrata.it/
 way	1211314246	https://terredeiconsoligolfclub.it/percorso/championship-course/#01
 way	1211614097	https://www.parcoallenoci.it/il-gambero-di-fiume
+way	1212561861	https://www.architettura.uniroma1.it/
+way	1213311119	https://www.museobrigantaggiocellere.org
+way	1213347850	https://www.provincia.viterbo.it
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -8001,7 +8020,6 @@ relation	326080	http://www.basilicasanclemente.com
 relation	326201	https://www.eurspa.it/it/asset-property/patrimonio/edifici-storici/palazzo-arte-antica
 relation	392946	https://www.trenitalia.com/
 relation	445311	http://www.abbaziadifarfa.it/
-relation	933207	http://www.museodizoologia.it/it
 relation	958158	http://www.parks.it/parco.nazionale.circeo/pdf/fogliano1.pdf
 relation	1030019	http://www.abbaziasanpastore.it/
 relation	1148151	https://abbaziamontecassino.it/
@@ -8175,7 +8193,6 @@ relation	5394215	liceogiuliocesare.it
 relation	5428781	http://www.cattedralesora.it/
 relation	5456784	https://www.gdp.roma.giustizia.it/
 relation	5471230	scuolamausiliatriceroma.org
-relation	5557442	https://www.facebook.com/dulcinearoma.it
 relation	5562289	https://www.camminodibenedetto.it/
 relation	5576236	https://www.icvialeveneziagiulia.it/index.php/la-scuola/secondaria/sede-via-di-torre-annunziata
 relation	5649096	http://www.istruzionecaravaggio.it/
@@ -8752,6 +8769,7 @@ relation	16183966	https://www.parcoabruzzo.it/sentiero.php?id_iti=4286
 relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
 relation	16262677	http://www.scuolamediafellini.it/
 relation	16386355	https://www.parcobracciano.it/
+relation	16439916	https://www.museobrigantaggiocellere.org/sentiero-bandito/
 node	251888861	https://www.multisalagreenwichroma.com/
 node	306047550	http://www.intera-mente.it
 node	452570567	http://www.catacombe.org
@@ -8797,7 +8815,6 @@ node	3832252157	http://www.caffedelleartiroma.com/
 node	3883978750	http://www.isiaroma.it/
 node	4059822722	https://www.locandafrancigena.it/
 node	4071574515	https://www.conad.it/ricerca-negozi/negozio.006436.html
-node	4215174053	https://laperegina.it/il-bosco-del-sasseto-di-torre-alfina/
 node	4230923577	http://www.latavernettaumbra.com
 node	4230932883	http://www.napularte.it/
 node	4230953562	http://www.pieroefrancesco.it/
@@ -8893,6 +8910,7 @@ node	10173068283	www.bnl.it
 node	10215257717	https://www.mostrepalazzobonaparte.it/
 node	10568688246	https://elmaiz.it/
 node	10844701213	https://www.castellodiproceno.it/
+node	10861102844	https://pe-odontoiatria.business.site/
 node	10877839218	https://www.ristorante-sahara.com
 node	10883170600	https://www.parchilazio.it/sutri
 node	10939893667	https://www.roadtorome.org/
@@ -8901,6 +8919,7 @@ node	11100127900	https://silviatarsi.it
 node	11156162730	https://maratonalagodibolsena.it/
 node	11208682951	https://website-4771912155000348132169-restaurant.business.site/
 node	11208682953	https://scolopi.org
+node	11239908102	https://www.ilcomputer.it
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
 way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
 way	61011575	https://bagnaccio.it/
@@ -9144,3 +9163,4 @@ relation	13557047	https://www.laboratorioroma.it/citta-dei-giovani.html
 relation	13747286	https://www.sentieriperblera.it/petrolo-citta-antica/
 relation	13844950	https://www.facebook.com/camminotrevillaggi/
 relation	14986760	http://www.etruschi.name.it
+relation	16439916	https://comune.cellere.vt.it/contenuti/338104/percorso-trekking
