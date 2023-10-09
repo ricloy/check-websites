@@ -815,7 +815,6 @@ node	5284392274	http://www.nonsolo-bar.it
 node	5284392277	https://www.carrefour.it/punti-vendita/supermercato-carrefour-express-napoli-f-del-carretto-3545
 node	5292237443	https://www.dabaffone.com/
 node	5292237445	https://www.supergarage.it/
-node	5292237465	http://www.urbanjunglestore.com/it/stores/urban-jungle-napoli-toledo-326
 node	5292237467	http://www.urbanjunglestore.com/it/stores/urban-jungle-napoli-toledo-326
 node	5292237469	https://it.lush.com/
 node	5292237470	http://otticabettanini.altervista.org
@@ -1465,6 +1464,7 @@ node	9071039262	https://www.relaisilchiostro.it/
 node	9071039288	http://www.ilconvento.biz/
 node	9076506503	https://www.facebook.com/pages/Ammaturo-Bikes/305366877755
 node	9087388918	www.lascimmiettagelateria.it
+node	9088955746	https://www.ciaccogelo.com/
 node	9091504402	https://www.bancaetica.it/contatto/filiale-napoli
 node	9097593498	https://www.primigi.it/it/
 node	9101763519	https://iperstorebarletta.com/iperstore-montesarchio-liz-gallery.php
@@ -2132,6 +2132,9 @@ node	11225656143	https://www.liadiva.it/
 node	11225656148	https://www.bad-bike.it/
 node	11225656150	https://legumischioppi.com/
 node	11230763232	https://www.ristorantelacolombaccia.com/
+node	11235936118	https://caffesantacruz.com
+node	11245369346	https://www.affittacamere3torri.it
+node	11247848016	https://quattrospicchipizzeria.it/
 way	22652287	http://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2559,7 +2562,6 @@ way	414817336	http://www.ipsarpetronio.it/
 way	414841104	https://www.lanapolisotterranea.it/
 way	415753759	http://www.paintballnolimits.com
 way	415817947	https://www.greenpark-hotel.it/
-way	415817948	https://www.mediateur.it/natale-al-loreto/
 way	416149156	http://www.amemi.info
 way	416149179	http://www.officinadellacucina.it/
 way	416155151	http://www.liceovirgiliopozzuoli.gov.it
@@ -3157,6 +3159,7 @@ way	1205532089	https://www.comprensivoguadagni.it/
 way	1208041560	https://pagodahotel.it
 way	1208879831	https://www.arredamentibasileo.it
 way	1210566605	https://www.zizzonavillage.it/
+way	1212830172	https://novariabilitazione.com
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	http://www.comune.pozzuoli.na.it/
 relation	40837	http://santandreaconza.altervista.org/
@@ -3273,6 +3276,7 @@ relation	15952582	https://www.sorrentowalks.com/circuito-del-deserto-14.php
 relation	15969381	https://aircampania.it/linee-ed-orari/
 relation	16035103	https://www.curreriviaggi.it/it/navetta-aeroporto-di-napoli
 relation	16035165	https://www.curreriviaggi.it/it/navetta-aeroporto-di-napoli
+relation	16439875	https://www.mediateur.it/natale-al-loreto/
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
