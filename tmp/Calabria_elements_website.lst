@@ -1,9 +1,8 @@
 @type	@id	website
+node	26859466	https://www.costaverde.org
 node	26859619	https://www.lamantinera.it/
 node	470282967	http://www.parcopollino.it/grotta-del-romito/
-node	790496616	https://www.calabriaverdevv.it/
 node	870392827	www.radasiri.com
-node	996897900	http://www.hoteldomusresidence.it/
 node	996897953	https://www.fattoriastocchi.it/
 node	996912498	https://www.sushirende.it/
 node	1059765456	https://campingcammellogrigio.it/
@@ -466,6 +465,10 @@ node	11215850867	https://www.domusnovarc.it
 node	11215853308	https://www.facebook.com/ziofedele.rc
 node	11220844819	https://www.agriturismovillavittoria.it
 node	11228479274	https://www.sandomenicopizzo.it
+node	11235884826	https://www.parafarmaciamarconi.com/
+node	11245411741	http://www.sushikokusai.com/
+node	11245411744	http://www.exabytecomputer.it/
+node	11249162753	www.tirrenohotel.it
 way	27836339	http://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	31321527	https://www.conad.it/ricerca-negozi/negozio.006286.html
 way	43042447	https://sba.unical.it/
@@ -530,6 +533,8 @@ way	249382692	http://www.chucksurf.com/camp
 way	255425793	http://www.hotelconcadoro.org
 way	258634913	www.squillaceonline.it/castello.html
 way	259751325	http://www.museodeibrettiiedeglienotri.it
+way	259885262	http://www.hoteldomusresidence.it/
+way	259885556	https://www.hotelmajorana.com/
 way	259927880	http://www.comune.pianopoli.cz.it/
 way	260258784	https://www.fattoriastocchi.it/
 way	260258812	https://www.mindujo.it/
@@ -684,7 +689,7 @@ way	740128407	https://www.villaggiolemuse.it/
 way	761408503	http://www.hotelsanfrancescoterme.com
 way	783381691	https://www.santannahospital.com/
 way	783396628	http://www.clinicatricarico.it/
-way	787280248	http://www.poltero.it
+way	787280248	https://www.poltero.it
 way	802253440	https://www.conad.it/ricerca-negozi/negozio.009643.html
 way	802450095	https://www.conad.it/ricerca-negozi/negozio.050247.html
 way	824208995	https://www.palazzopolicastrisuites.it/
@@ -764,6 +769,7 @@ way	1192124840	https://www.AziendaAgricolaRende.it/
 way	1192124841	https://www.AziendaAgricolaRende.it/
 way	1192124842	https://www.AziendaAgricolaRende.it/
 way	1196164072	cittadelladellimmacolata.it
+way	1200617414	https://www.villaggiocampinglascogliera.com
 way	1205211398	www.iisvemanuele.edu.it
 way	1205212596	www.iisvemanuele.edu.it
 way	1205242265	https://www.youtube.com/watch?v=g2WtOHyQstI
