@@ -119,7 +119,6 @@ node	601458086	http://www.danev.it/
 node	612129492	www.grottedivillanova.it
 node	616107532	https://www.lafrasca.com/
 node	618983974	http://www.gssg.it/grotta-nera/
-node	621582200	https://www.osteriadietrolequinte.it/
 node	623869157	http://www.gruppobosco.it/
 node	632190803	https://www.palacehotelmoderno.it/
 node	669962108	https://www.confartigianatoudine.com/
@@ -1621,14 +1620,12 @@ node	6539120986	https://www.confartigianatoudine.com/
 node	6539186233	https://www.confartigianatoudine.com/
 node	6539203970	https://www.confartigianatoudine.com/
 node	6539210169	https://www.confartigianatoudine.com/
-node	6540710389	http://www.campchalet.at
 node	6566353686	http://www.oikos-immobiliare.com/
 node	6576957450	https://www.d-piu.com/punti_vendita/g534-lignano-sabbiadoro/
 node	6586697887	http://www.agricolastefanutti.com
 node	6591184493	http://www.lacappellaunderground.org
 node	6591698987	http://www.italuil.it/index.jsp?id=234&regioni=6
 node	6628455763	http://www.lacebi.it/
-node	6640778562	https://walledo.com
 node	6646116038	https://www.inasset.it
 node	6652245885	https://www.notaiochersi.com/
 node	6653874485	http://www.dadoonline.com/ita/punti-vendita/belmarket-cuore.php
@@ -1696,9 +1693,6 @@ node	7183903577	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
 node	7196041523	http://www.webandana.com/crags/pn/cuargnui01.html
 node	7196041620	http://www.webandana.com/crags/pn/cuargnui01.html
 node	7214031366	https://it.cathopedia.org/wiki/Museo_%22Renato_Raffaelli%22_di_Gemona_del_Friuli
-node	7221445820	https://www.idealdomus.com/
-node	7221445821	https://www.finestraconnessa.com/
-node	7221445822	https://www.pergoleudine.com/
 node	7238291079	https://www.tcimpianti.it/#
 node	7261218402	http://www.debona.it
 node	7261218403	http://palazzo900.net
@@ -2087,6 +2081,7 @@ node	9991818790	https://fumo-di-londra-antique-store.business.site/
 node	9993111255	http://www.alcamping.it/
 node	9993554445	https://studiobet.com/
 node	9995414962	http://www.valparaiso.it/
+node	9995496699	https://www.pajarobici3.it/
 node	9998444841	https://lignanosabbiadoro.it/it/strutture/150-10-delfino/
 node	10003545236	https://www.niks-harley-davidson.com/
 node	10005481568	https://www.micidiale.it/
@@ -2523,6 +2518,7 @@ way	36424136	http://beps.it
 way	36424168	http://pilosio.com
 way	36424226	http://www.telonifiascaris.it
 way	36424549	https://ferriauto.it/
+way	36425231	https://www.idealdomus.com/
 way	36425233	https://www.salomonisrl.it/
 way	36425652	http://www.dca.it
 way	36426237	http://www.latteriacividale.it
@@ -3136,6 +3132,7 @@ way	1202986509	https://asufc.sanita.fvg.it/it/presidi-ospedalieri/ospedale_imfr_
 way	1204765088	https://lignanosabbiadoro.it/it/strutture/145-5-pescecane/
 way	1205636680	https://isoladelparadiso.com/
 way	1210753695	https://www.lagerlablu.it
+way	1214489154	https://www.eurospin.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -3708,7 +3705,6 @@ relation	5365855	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche
 relation	5372926	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-320a
 relation	5406134	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-659
 relation	5414626	http://www.cat.ts.it/index.php?option=com_content&view=article&id=193&Itemid=151
-relation	5562005	http://www.ilcamminodisantantonio.org/
 relation	5567161	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-822
 relation	5581352	https://www.polo.pn.it/
 relation	5876882	http://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-991/
@@ -4015,7 +4011,6 @@ relation	12321776	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/
 relation	12340037	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-623
 relation	12340089	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-662a
 relation	12379478	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/ferrata-sartor-al-monte-peralba/
-relation	12379521	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/ferrata-cai-portogruaro/
 relation	12395620	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/ferrata-sentiero-dello-stivale/
 relation	12400853	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/via-normale-alla-creta-della-chianevate/
 relation	12401536	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/s1-173a
@@ -4306,12 +4301,10 @@ relation	14039662	https://www.amicidipers.it/index.php/sentieri
 relation	14039753	https://www.amicidipers.it/index.php/sentieri
 relation	14041484	https://www.amicidipers.it/index.php/sentieri
 relation	14041485	https://www.amicidipers.it/index.php/sentieri
-relation	14043756	https://www.amicidipers.it/index.php/sentieri
 relation	14053922	http://ropewiki.com/Rio_Ponte_di_Muro
-relation	14064120	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/ferrata-sartor-al-monte-peralba/
 relation	14068504	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/ferrata-brigata-julia/
 relation	14068505	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/ferrata-brigata-julia/
-relation	14095052	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/ferrata-tenente-antonio-ferrante-di-ruffiano/
+relation	14095052	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/ferrata-tenente-antonio-ferrante-di-ruffano/
 relation	14106983	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/ferrata-norina/
 relation	14107008	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/ferrata-vandul/
 relation	14110237	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/via-normale-al-montasio-scala-pipan/
@@ -4333,13 +4326,9 @@ relation	14543978	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-fri
 relation	14546562	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/ferrata-rosalba-grasselli/
 relation	14604733	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/via-ferrata-rose-dinverno/
 relation	14604734	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/via-ferrata-bruno-biondi-049bf/
-relation	14619371	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/ferrata-cengle-dal-bec/
 relation	14619531	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/ferrata-arturo-ferrucci-al-bivacco-feruglio/
-relation	14619577	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/ferrata-delle-crete-rosse-alla-creta-di-aip/
 relation	14624874	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/ferrata-dell-amariana/
-relation	14625045	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/ferrata-degli-alpini-zuc-della-guardia/
 relation	14625061	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/ferrata-amici-della-montagna/
-relation	14625246	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/ferrata-via-normale-alla-ponza-grande/
 relation	14626407	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/via-normale-al-nabois-grande/
 relation	14744849	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-362a/
 relation	14766262	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-776/
@@ -4753,6 +4742,7 @@ node	10133937125	https://www.isolaugusta.com/
 node	10587615301	https://www.hotelcentrotrieste.it/
 node	10587621614	https://www.regione.fvg.it/
 node	10791024366	https://www.supermercativisotto.it/
+node	11243083917	www.battistutta.it
 way	35945116	http://www.casaperaria.it
 way	35946164	http://www.albergodiffusoilgrop.it/
 way	35946195	http://www.sotlanapa.it/
@@ -4795,6 +4785,7 @@ way	36091695	https://www.poste.it/
 way	36194927	https://lefucine.com/
 way	36263188	https://www.prixquality.com/
 way	36301969	http://www.castfvg.it/
+way	36306096	https://www.gruppotaboga.it/
 way	36314941	https://www.conforama.it/
 way	36319114	https://icpalazzolo.edu.it/
 way	36381986	https://www.icdestratorre.edu.it/sito/index.php/scuola/informazioni-generali/primaria-di-ruda
@@ -4870,6 +4861,7 @@ way	360694657	https://www.carabinieri.it/
 way	367207078	https://www.losnidoslignano.it/
 way	375049142	https://www.bellaitaliavillage.com/it/piscina-bella-italia.php
 way	399742376	http://www.kanaeteam.it
+way	461917015	https://www.decathlon.it/
 way	593078460	http://www.kanaeteam.it
 way	619568102	https://costadelsolgrado.it/
 way	620120268	https://www.spiaggiaairone.it/
