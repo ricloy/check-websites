@@ -2142,6 +2142,7 @@ node	11208376993	https://www.burancocinqueterre.it/
 node	11208376994	https://www.burancocinqueterre.it/
 node	11233178940	https://www.barmariucciaportofino.it
 node	11251293969	https://www.autoservicesrl.net
+node	11255041321	https://mille806.com/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	http://www.ospedalesanmartino.it
@@ -2584,7 +2585,7 @@ way	259376236	http://www.sogecodepo.it/
 way	260108728	https://www.facebook.com/people/La-locanda-del-marinaio/100063695581006/
 way	260108729	https://www.marinadiving.com/
 way	266371132	http://www.seminariodigenova.it/
-way	266371168	www.osservatoriorighi.it
+way	266371168	https://www.osservatoriorighi.it/
 way	266382978	https://www.freewebs.com/oadgenova/ilsantuario.htm
 way	268116331	http://www.operasancamillo.net/rsa-san-camillo
 way	279159709	http://www.tamoaclub.it/
@@ -2911,6 +2912,10 @@ way	1208716636	https://www.carm.it/
 way	1208846147	https://grandhoteltorrefara.com/
 way	1209209924	https://www.parcoavventuragenova.it/
 way	1209528759	https://www.clinicaalmamater.it
+way	1214804156	https://www.provincia.savona.it/strade/sp45
+way	1214804157	https://www.provincia.savona.it/strade/sp45
+way	1214804158	https://www.provincia.savona.it/strade/sp45
+way	1214804159	https://www.provincia.savona.it/strade/sp45
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	http://www.apricale.org/
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
@@ -3476,7 +3481,7 @@ relation	16020110	http://www.cartografiarl.regione.liguria.it/mapfiles/info/repe
 relation	16340754	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#ipd=62676737
 relation	16412012	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#ipd=62676736
 relation	16436073	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#ipd=62676752
-node	218494856	http://www.ostellogenova.it/
+relation	16469507	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#dm=1&ipd=62676738
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1315100281	www.libreriaragazzi.com
@@ -6409,6 +6414,7 @@ way	926736204	http://www.cogoletoinfo.it/storia/fornaci/fornaci.htm
 way	991897902	https://www.thecrag.com/en/climbing/italy/finale-ligure/rian-cornei/area/2496160839
 way	1052316469	https://www.thecrag.com/en/climbing/italy/finale-ligure/valle-aquila/area/1950858624
 way	1159590613	https://youtu.be/xlXlMIKUJe8
+way	1214577471	https://www.thecrag.com/en/climbing/italy/albenga/area/6649998117
 relation	42641	http://www.cartografiarl.regione.liguria.it/mapfiles/repertoriocartografico/CONFINI/56.asp?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3
 relation	42663	http://www.cartografiarl.regione.liguria.it/mapfiles/repertoriocartografico/CONFINI/56.asp?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3
 relation	42681	http://www.dolceacqua.it/
