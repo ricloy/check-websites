@@ -18,6 +18,7 @@ node	255892384	http://www.boccaccio.it/
 node	256475131	https://www.lavelatirrenia.it
 node	256819101	https://www.unicooptirreno.it
 node	262796018	http://www.hotelsavoy.it/
+node	264914388	http://www.osterialarocca.it/
 node	271389932	https://www.hotelsilla.it/
 node	276065358	http://www.obrii.it/
 node	279249286	www.HotelGranducato.it
@@ -614,7 +615,6 @@ node	2311463503	https://www.enel.it/punto-enel/
 node	2311463514	https://www.enel.it/punto-enel/
 node	2311463532	https://www.enel.it/punto-enel/
 node	2311463556	https://www.enel.it/punto-enel/
-node	2311463581	https://www.enel.it/punto-enel/
 node	2311463598	https://www.enel.it/punto-enel/
 node	2311463649	https://www.enel.it/punto-enel/
 node	2311463680	https://www.enel.it/punto-enel/
@@ -690,7 +690,6 @@ node	2361653525	http://www.trattoriadagiorgio.it/
 node	2361655692	https://at-bus.it
 node	2361657322	https://www.pampanorama.it
 node	2361657982	http://www.lacasadellastampa.com
-node	2361658042	https://www.coopfirenze.it/punti-vendita/firenze-via-caracciolo
 node	2361658273	https://rawveganfirenze.com
 node	2361658358	https://www.oradariaristorante.com/
 node	2361661402	https://www.trattoriadatito.it/
@@ -2316,7 +2315,6 @@ node	5779671022	http://www.sagona.it
 node	5784492830	https://www.papisa.it/riglione/
 node	5793860160	https://www.arthotel-milano.it/
 node	5793901390	http://www.cosmopolitanresort.it/
-node	5810154556	http://www.ilsambuco.si.it
 node	5813208445	https://www.hotelorologioflorence.com/
 node	5814282819	http://fortini.it
 node	5816416306	http://www.soulspace.it/
@@ -3762,6 +3760,7 @@ node	9943547417	https://www.ciclofficineteatropovero.it/
 node	9946822354	https://www.bluebandit.it/
 node	9947344259	https://www.cesvot.it
 node	9949080884	http://www.vinattieri.net/
+node	9949098849	https://stores.ovs.it/it/italia/toscana/siena/ovs-siena?utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Siena_1556
 node	9950014791	https://www.agricap.it/
 node	9950155310	https://nibbiaie.com
 node	9952399620	https://www.aparthotelanghel.com/
@@ -4356,6 +4355,8 @@ node	11261893599	https://www.catalogo.beniculturali.it/detail/HistoricOrArtistic
 node	11261956827	https://www.catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0901143720
 node	11261963643	https://www.catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0901143719
 node	11262550119	https://www.catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900959894
+node	11274801408	https://www.farmshoppizzeria.com/
+node	11279083390	https://www.guardiacostiera.gov.it/organizzazione/Pages/ufficio-locale-marittimo-di-marciana-marina.aspx
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	http://www.leopolda.it/
@@ -5626,6 +5627,7 @@ way	714986639	http://www.termepetriolo.it/
 way	715032232	http://www.barberinotavarnelle.it/
 way	715066414	https://oletapasbar.it
 way	715466308	https://www.hotelbelmaretoscana.it/
+way	715601420	https://agriturismocollelungodimaremma.jimdofree.com/
 way	715873759	http://www.misericordie.it/fornacette
 way	715890062	http://www.torredelcampese.it/
 way	715890086	http://www.torredelcampese.it/
@@ -6041,6 +6043,7 @@ way	1213796429	http://www.grandhotelexcelsior.it/
 way	1213796620	http://www.hotelquisisanachianciano.it/
 way	1213797731	http://www.rvenere.it/
 way	1214295282	http://www.hotelattico.net/
+way	1216171402	https://www.coopfirenze.it/punti-vendita/firenze-via-caracciolo
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42525	https://www.castelfrancopiandisco.it/
 relation	136257	www.caiparma.it
@@ -6085,6 +6088,7 @@ relation	1878220	https://www.at-bus.it/it/linee-e-orari/livorno-urbano-lamrossa
 relation	1879831	https://www.at-bus.it/it/linee-e-orari/livorno-urbano-3
 relation	1893690	https://www.at-bus.it/it/linee-e-orari/livorno-urbano-lamrossa
 relation	1894220	https://www.at-bus.it/it/linee-e-orari/livorno-urbano-4
+relation	1921250	http://www.arpat.toscana.it/
 relation	1948090	https://chemindassise.org/it/
 relation	1948091	https://chemindassise.org/it/
 relation	2048968	http://www.camminodiassisi.it
@@ -6135,6 +6139,7 @@ relation	2990694	https://www.cai.mo.it/
 relation	3160577	http://www.ego-gw.it/
 relation	3208526	https://www.cai.mo.it/
 relation	3262073	https://www.hotelfontanelle.com/it/home.html
+relation	3280745	https://www.cai.mo.it/
 relation	3341834	http://www.centropecci.it
 relation	3494744	http://ambiente.regione.emilia-romagna.it/parchi-natura2000/rete-natura-2000
 relation	3497980	http://www.parcofrignano.it/
@@ -6310,6 +6315,7 @@ relation	7654135	http://www.caifaenza.it/
 relation	7654136	http://www.caifaenza.it
 relation	7654137	http://www.caifaenza.it/
 relation	7654185	http://www.cailugo.it
+relation	7654326	https://www.caibo.it/
 relation	7654393	https://ambiente.regione.emilia-romagna.it/it/parchi-natura2000/fruizione/altavia/tappe/12.-poranceto-boccadirio/12.-poranceto-boccadirio
 relation	7654396	http://www.caiporretta.it
 relation	7662674	https://www.medicivilla.com/
@@ -6334,6 +6340,7 @@ relation	7773581	http://www.caiporretta.it/
 relation	7773631	http://www.caiporretta.it
 relation	7773637	http://www.caiporretta.it/
 relation	7773644	http://www.caiporretta.it
+relation	7799956	https://www.caibo.it/
 relation	7820031	http://www.ilcamminodisantagiulia.it
 relation	7820131	http://www.caifaenza.it
 relation	7820132	http://www.caifaenza.it
@@ -6624,6 +6631,7 @@ relation	11513616	tiemmespa.it
 relation	11683733	https://lunigiana.uk/wp-content/uploads/2020/09/Zeri_Walks.pdf
 relation	11687548	https://lunigiana.uk/wp-content/uploads/2020/09/Zeri_Walks.pdf
 relation	11816150	www.caiparma.it
+relation	11823143	https://www.cai.mo.it/
 relation	11930889	http://www.assaporaparma.it/it/sulle-tracce-di-antiche-vie
 relation	11961433	http://www.ilcamminodisantagiulia.it
 relation	11964540	http://www.ilcamminodisantagiulia.it
@@ -6908,6 +6916,7 @@ relation	16344875	https://sites.google.com/view/camminopadregiovanni/home
 relation	16344944	https://sites.google.com/view/camminopadregiovanni/home
 relation	16345009	https://sites.google.com/view/camminopadregiovanni/home
 relation	16345252	https://sites.google.com/view/camminopadregiovanni/home
+relation	16350757	https://www.caibo.it/
 relation	16354431	https://www.wellnesscentercasanova.it/
 relation	16355161	https://sites.google.com/view/camminopadregiovanni/home
 relation	16405921	https://www.internationalschoolofsiena.it/
@@ -7107,6 +7116,7 @@ node	4476801705	http://www.bicincitta.com
 node	4476801706	http://www.bicincitta.com
 node	4476801707	http://www.bicincitta.com
 node	4498639597	http://www.ristorantelafonte.it
+node	4514879591	https://www.ostellodicamaiore.it/
 node	4556857348	http://www.snapart.it
 node	4585607504	http://www.gliostinati.it/
 node	4703669368	https://www.caipisa.it/
@@ -7347,6 +7357,7 @@ node	10695089086	https://bikevillage.eu/biker-cafe/
 node	10719903904	https://www.motezza.com/
 node	10734876559	https://www.gate52pisarooms.it/
 node	10819826513	http://itersangiulianoterme.it/
+node	10820278463	https://lepiccolemacie.com/
 node	10827427723	https://www.cannondoro.com/
 node	10832478949	http://www.provolterra.it/
 node	10832501071	https://www.animadivolterra.it/
@@ -7370,6 +7381,7 @@ node	11259040854	https://www.selvella.com/
 node	11259842965	https://borgolanovella.it/
 node	11259878550	https://agriturismosantapollinare.it/
 node	11259885415	http://www.cerretale.com/
+node	11274766784	https://www.studiotop.me
 way	41735556	http://www.verrazzano.com/
 way	58670208	https://www.acquariodilivorno.it/
 way	79652355	http://www.pubblicaassistenza.it
@@ -7513,6 +7525,7 @@ way	702637874	https://www.lastagionedellarte.it
 way	704367010	http://www.oasilabadia.com
 way	722714995	http://centrocresti.it/
 way	724185351	https://agriturismocastiglione.com/
+way	724825123	https://fattorialamaliosa.it
 way	727179209	https://saturnia.bike/
 way	729216388	https://agriturismosantapollinare.it/
 way	788459664	https://icpisano.edu.it
@@ -7563,7 +7576,6 @@ relation	6723739	http://www.viafrancigena.bike
 relation	6783829	http://bagnoleforbici.it/
 relation	7834598	https://www.at-bus.it/
 relation	8364090	https://www.caparzo.com/
-relation	10399544	https://www.quinewselba.it/rio-riaperta-antica-strada-maestra-riese-cammino-della-rada-volterraio.htm
 relation	11327198	http://www.circolonauticocalaviolina.it
 relation	12300146	http://www.follonica-apartments.com
 relation	12384413	http://www.acquavillage.it
@@ -7716,6 +7728,7 @@ way	295423028	http://nostrasignoralourdesfollonica.blogspot.it/
 way	300910280	https://fondoambiente.it/luoghi/villa-gargallo-a-treppio?ldc
 way	304947836	http://www.walkingitaly.com/abstract/0001722%20-%20mulino%20di%20nelle/0001722%20-%20mulino%20di%20nelle.htm
 way	306555897	http://www.walkingitaly.com/abstract/0001524%20-%20villa%20rospigliosi%20di%20candeglia/0001524%20-%20villa%20rospigliosi%20di%20candeglia.htm
+way	309401179	http://mapserver.provincia.prato.it/prv_po/Cartapatrimonio/_console/07_pdf/Edifici_Pses/008_Il%20Mulino_di_Savignano.pdf
 way	312118857	http://mapserver.provincia.prato.it/prv_po/ptc2008/_console/07_pdf/giardini_schede/G038.pdf
 way	313265156	http://mapserver.provincia.prato.it/prv_po/ptc2008/_console/07_pdf/giardini_schede/G041.pdf
 way	314256826	https://www.ilfilo.net/arte/borgoVillaeOratorioRadicchia.htm
