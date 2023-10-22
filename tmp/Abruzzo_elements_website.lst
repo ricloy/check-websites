@@ -8,6 +8,7 @@ node	70991868	https://italia.indettaglio.it/ita/abruzzo/poggiofiorito.html
 node	70992246	http://www.comune.ateleta.aq.it/zf/index.php/storia-comune
 node	70992294	http://www.comune.acciano.aq.it/
 node	70993229	http://www.comune.molinaaterno.aq.it/
+node	70993342	http://www.comune.montesilvano.pe.it/
 node	70993483	http://comune.toccodacasauria.pe.it
 node	70993494	https://www.tuttitalia.it/abruzzo/38-serramonacesca/
 node	70993774	https://italia.indettaglio.it/ita/abruzzo/colledara.html
@@ -87,6 +88,7 @@ node	500913529	https://www.agenziaentrateriscossione.gov.it/export/.files/it/com
 node	504933016	https://www.conad.it/ricerca-negozi/conad-via-di-sotto-snc-65126--pescara--006083
 node	528652946	http://www.farmaciafabrizipescina.it/index.asp
 node	528762314	http://www.comune.casteldelmonte.aq.it/
+node	528762389	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10743
 node	529252174	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10758
 node	532319910	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10766
 node	540505714	https://www.credit-agricole.it/
@@ -130,8 +132,6 @@ node	663103989	https://www.spesaonlinepescara.it/
 node	663467809	http://www.y2informatica.it/
 node	673260659	https://www.conad.it/ricerca-negozi/negozio.005592.html
 node	688869705	https://www.profumidimarevillaraspa.it/
-node	692755982	http://www.pittarello.com
-node	692756001	https://www.mondoconv.it
 node	723246426	http://www.provincia.pescara.it/
 node	723266223	https://www.d-piu.com
 node	723966323	https://www.conad.it/ricerca-negozi/conad-superstore-via-federico-fellini-2-65010--spoltore--009890
@@ -1076,8 +1076,6 @@ node	7111876056	http://www.parafarmaciaranalli.com/
 node	7111894712	https://vinoeamorepescara.com/
 node	7115096926	https://www.facebook.com/Cartomondo-369294333408620/
 node	7115175418	https://www.labottegadellatenda.com/
-node	7115370596	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
-node	7115370597	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 node	7115504366	https://patronato-caf-sinalp-pescara.business.site/
 node	7117966417	https://www.fedelfarma.com/
 node	7118156351	https://arbiterbibendi.wixsite.com/arbiterbibendi
@@ -1142,7 +1140,6 @@ node	7209423525	https://escapefromdarkland.it/
 node	7212083503	https://www.agenziaentrateriscossione.gov.it/it/
 node	7212094964	http://www.fabriziocamplone.eu/
 node	7222012457	http://www.donbasilico.it/
-node	7223191238	http://www.berardiselettroimpianti.com/
 node	7235221680	http://www.farcasa.net/
 node	7247115674	http://www.otticadalimonte.com/
 node	7247115675	https://giuliogennari.it/
@@ -1174,7 +1171,6 @@ node	7398563729	https://www.impresacingoli.it/
 node	7399570409	http://www.centroippicostjust.com/
 node	7399610752	https://www.onoranzefunebriesposito.it/
 node	7415106972	http://www.macelleriatarquini.it/
-node	7416464438	https://sites.google.com/view/ecobolle-di-omar-paludi
 node	7418608538	http://www.organizzazionedangelo.it/bar_d'angelo.htm
 node	7435502782	https://www.leapidipapa.com/
 node	7440962163	http://www.fantasilandiaplayandfun.it/
@@ -2065,7 +2061,6 @@ node	9231155543	https://www.crezy-queen.com
 node	9233668711	https://tecnousatopescara.it/
 node	9234918860	https://www.madonnacarminemontesilvano.it
 node	9235036776	https://www.sarniristorazione.it
-node	9238045821	https://www.poliambulatorioreginaelena.it/
 node	9246684655	http://italia.indettaglio.it/ita/abruzzo/chieti_casalincontrada_malandravecchia.html
 node	9248130105	https://www.bimbostore.com
 node	9248507711	https://www.bec.energy/?lang=en
@@ -2443,7 +2438,7 @@ node	10607668834	https://www.vivaiovr.it/
 node	10615003523	https://bbportobello.business.site/
 node	10621192160	https://www.dimuzioedilizia.com/
 node	10641401884	https://tua.mycicero.it/TPWebPortal/solutions/start-journey
-node	10669304970	https://www.oasitigre.it/it/il-mio-negozio.2303.html?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=2303
+node	10669304970	https://www.oasitigre.it/it/il-mio-negozio.2303.html
 node	10671406124	https://linktr.ee/maia.camping
 node	10672700463	http://www.parrocchie.it/torrevecchiateatina/sanrocco/
 node	10675949734	https://www.vinisincarpa.it/
@@ -2801,6 +2796,14 @@ node	11235408652	https://www.sigma-evo.it/
 node	11238205461	https://www.vinipietrantonj.it/
 node	11251492520	https://www.casedellacqua.net
 node	11259364788	https://www.mercatodelpane.com/i-menu/
+node	11271449359	https://www.dagostinodriveandgo.it/
+node	11271449362	https://travelto.world/
+node	11271449363	https://digiovanniwww.it/
+node	11272999681	https://www.linearredodinicola.it/
+node	11273036211	https://dieffematic.com/
+node	11277127761	https://pizzeriaciferni.it/
+node	11278966349	https://trattoriadirenzo1912.eatbu.com/
+node	11279052238	https://www.sushigarage.it/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -2823,7 +2826,7 @@ way	27896384	https://ctpescara.it/
 way	28524470	https://www.teatrofenaroli.it/
 way	28738491	http://hadriapescara.it/?doing_wp_cron=1578299741.8722538948059082031250
 way	37194887	https://www.gabrielliunika.it/it/il-mio-negozio.423.html
-way	41055462	http://www.vigilfuoco.it/sitiVVF/pescara/
+way	41055462	https://www.vigilfuoco.it/sitiVVF/pescara/
 way	42021343	http://www.sanclementeacasauria.beniculturali.it/
 way	43199133	https://www.ausl.pe.it/DettaglioUUUA.jsp?id=47
 way	46136617	https://www.megaloweb.it/
@@ -2831,12 +2834,16 @@ way	50376870	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di
 way	55400363	https://www.bricocenter.it/it/punti-vendita/ep-minisito-punto-vendita/citta-santangelo
 way	57364548	https://www.centrodabruzzo.com/
 way	57364981	https://www.obi-italia.it/negozi/sambuceto/?wt_mc=GP.IT042_Sambuceto%E2%80%A6
+way	58377650	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 way	58808135	http://www.lavalledellapescara.it
 way	59399534	https://centauroweb.it/
+way	59399543	https://www.vigilfuoco.it/sitivvf/chieti/
 way	59530435	https://www.federicisofa.com/punti-vendita/montesilvano/
 way	59563955	https://www.ictroianodelfico.edu.it/
 way	59616549	https://www.lidl.it/
 way	60008561	https://www.eurospin.it
+way	60264625	http://www.pittarello.com
+way	60264627	https://www.mondoconv.it
 way	60295526	https://www.musei.abruzzo.beniculturali.it/musei?mid=61&nome=museo-archeologico-nazionale-dabruzzo-villa-frigerj
 way	60784239	https://www.eurospin.it/punti-vendita/pescara-523878/
 way	62263820	https://www.facebook.com/Time-Caf%C3%A8-1258231397610520/
@@ -2920,6 +2927,7 @@ way	128070300	gransasso3.it
 way	128070301	hotelamorocchi.it
 way	130678724	https://aqualandvasto.com/
 way	130984186	https://www.ico.it
+way	132135448	http://www.legadelcanepescara.org/
 way	134727476	hmiramonti.com
 way	137473583	https://www.musei.abruzzo.beniculturali.it/musei?mid=316&nome=museo-archeologico-nazionale-la-civitella
 way	137473630	http://visitabruzzo.altervista.org/it/2012/01/parco-archeologico-e-anfiteatro-della-civitella-chieti/
@@ -3096,6 +3104,7 @@ way	442566502	http://www.comunetossicia.gov.it/da-visitare/28-chiesa-madonna-del
 way	450295603	https://www.mondimedievali.net/Castelli/Abruzzo/pescara/pescara.htm
 way	452050846	http://www.collemoro.it
 way	452117242	https://teleriazed.com/
+way	456015084	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 way	457405083	https://www.liceodascanio.edu.it
 way	459618670	https://www.penelopeamare.it/
 way	461526367	http://www.comunetossicia.gov.it/
@@ -3362,7 +3371,6 @@ way	853366753	https://www.carlomaresca.it
 way	854040682	https://www.moreroseto.it/
 way	854328033	http://www.asdeasytennis.it
 way	854473022	https://anffaspescara.it
-way	854583749	https://www.ingenio-web.it/articoli/il-ponte-filomena-delli-castelli-sul-fiume-saline-pe/
 way	856543919	http://www.villaggiolidodabruzzo.it/en/
 way	857281027	https://it-it.facebook.com/emissario.capistrello/
 way	857641091	http://www.sanmartinosm.it/zf/index.php/musei-monumenti/index/dettaglio-museo/museo/3
@@ -3532,6 +3540,7 @@ way	1040795868	https://www.total.com/en
 way	1044159645	https://www.majagreen.it
 way	1044295175	https://www.hgnews.it/2021/06/01/pescara-via-del-circuito-partono-i-lavori-per-il-raddoppio-la-soddisfazione-del-pd-in-regione-e-comune/
 way	1044795464	https://www.comune.salle.pe.it/
+way	1051870920	https://www.poliambulatorioreginaelena.it/
 way	1055707437	https://cittadelcinemavasto.it/?playlist=cd48870&video=5a7bbdd
 way	1056032891	https://www.sopamcouture.it
 way	1056056606	https://www.agriomeca.it
@@ -3892,6 +3901,7 @@ relation	16034819	http://www.camminodisantommaso.org/il-progetto/percorso-a-pied
 relation	16050312	http://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-7-camporotondo-tagliacozzo/
 relation	16183966	https://www.parcoabruzzo.it/sentiero.php?id_iti=4286
 relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
+relation	16494983	https://www.ingenio-web.it/articoli/il-ponte-filomena-delli-castelli-sul-fiume-saline-pe/
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
