@@ -1618,6 +1618,7 @@ node	3711538814	www.abbazianovalesa.org
 node	3713037106	https://www.crai-supermercati.it/code/punti-vendita/pdv.php?id=381
 node	3716878601	http://damatraa.it
 node	3721581074	https://www.hotellerondini.it
+node	3725873809	http://www.studio-macri.it/
 node	3726165139	http://www.hotelmarguareis.com
 node	3729164008	https://www.kerafting.it/
 node	3734648576	http://www.casalbeltrameonline.it/museo/
@@ -5916,6 +5917,15 @@ node	11247918443	https://www.ziggyclub.it/
 node	11248560850	https://www.legrandivolte.com/
 node	11254946199	https://www.studio-simonetti.com/
 node	11255987562	https://www.greenwood-lounge.it/
+node	11269180207	https://www.hairgemini.it/
+node	11271056601	http://www.quadrifogliowinebar.com/
+node	11274687270	https://www.centrosportivorobilant.it/
+node	11274717469	https://www.zzamaria.it/
+node	11275678455	https://www.bqbpub.it
+node	11277715469	https://koinesistemi.com
+node	11280320508	https://lacasermetta.com
+node	11280677238	https://negozi.libraccio.it/negozi/torino/libraccio-torino
+node	11281721332	https://www.lacasadeglienigmi.com/
 way	22880457	http://www.liceogioberti.it/
 way	23028146	http://www.palavelatorino.it
 way	23079840	https://www.isola2000.com
@@ -7191,6 +7201,7 @@ way	306039915	https://sites.google.com/site/scuolacatti/
 way	306364035	https://www.conad.it/ricerca-negozi/negozio.006550.html
 way	306375738	http://www.archeo.piemonte.beniculturali.it/index.php/it/musei/aree-archeologiche/70-aree-arch-prov-di-torino/347-villa-romana-di-caselette
 way	306496759	http://www.museogottardpark.it
+way	306556278	https://www.envipark.com/campus-tecnologico/
 way	306556286	https://www.envipark.com/
 way	306557089	https://www.comune.collegno.gov.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/659
 way	306771396	https://www.facebook.com/pages/Il-Porticciolo-Bar-Le-Lumie-Snc-di-Leonardi-Emanuela-e-Sacchi-Francesca/350730971699152
@@ -7463,6 +7474,7 @@ way	376040645	https://www.giordanovini.it
 way	376495012	https://plana.edu.it/
 way	376502497	https://www.comprensivoleini.it/
 way	376690521	http://www.comune.castellinotanaro.cn.it
+way	376738563	https://cascina-cerea.com
 way	376771827	http://www.adlergroup.it
 way	376774821	http://www.icvillanovamondovi.edu.it/
 way	376775344	http://www.adlergroup.it
@@ -9153,6 +9165,7 @@ relation	8418986	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-se
 relation	8424012	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 relation	8425118	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 relation	8429733	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
+relation	8434088	https://www.ecomuseodellerocche.it/it/sentieri/27/s3-roero-orientale
 relation	8447029	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 relation	8447817	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 relation	8526192	http://www.caiivrea.it/
@@ -9342,7 +9355,7 @@ relation	9334886	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce
 relation	9342474	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 relation	9342627	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html
 relation	9345019	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
-relation	9345574	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html
+relation	9345574	https://percorsi.estmonterosa.it/a/A00v.pdf
 relation	9345603	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html
 relation	9351023	https://www.estmonterosa.it/percorsi-vco.html
 relation	9351143	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html
@@ -10071,7 +10084,7 @@ relation	15035469	https://www.estmonterosa.it/catasto-percorsi-vco-valle-strona-
 relation	15035503	https://www.estmonterosa.it/catasto-percorsi-vco-valle-strona-settore-z.html
 relation	15037161	https://www.estmonterosa.it/catasto-percorsi-vco-valle-strona-settore-z.html
 relation	15048716	https://www.estmonterosa.it/catasto-percorsi-vco-valle-strona-settore-z.html
-relation	15053263	www.caiasti.it/attivita/sentieristica/item/386-i-sentieri-di-tigliole.html
+relation	15053263	https://www.caiasti.it/attivita/sentieristica/item/386-i-sentieri-di-tigliole.html
 relation	15073311	https://www.estmonterosa.it/catasto-percorsi-vco-cusio-settore-t.html
 relation	15094107	https://www.estmonterosa.it/catasto-percorsi-vco-cusio-settore-t.html
 relation	15261892	https://www.estmonterosa.it/catasto-percorsi-vco-cusio-settore-t.html
@@ -10306,7 +10319,6 @@ node	3725807499	http://www.erbamedica.com/
 node	3725842492	http://www.dever.it/
 node	3733568683	http://www.grancentralcafe.it/
 node	3738902352	http://www.eurostore-ferramenta-torino.it/
-node	3768518871	http://www.studiomedicomirafiori.it
 node	3768562972	http://www.studiomedicomirafiori.it
 node	3770207929	http://www.cosedicasadiblandino.com
 node	3770227836	http://www.rprceramiche.com/
@@ -11493,6 +11505,7 @@ relation	9310170	http://percorsi.estmonterosa.it/c/C00(3)/C00(3).kml
 relation	9310816	http://percorsi.estmonterosa.it/c/C27/C27.kml
 relation	9328144	https://percorsi.estmonterosa.it/a/A08/A08.kml
 relation	9334886	https://percorsi.estmonterosa.it/a/A00(1)/A00(1).kml
+relation	9345574	https://percorsi.estmonterosa.it/a/A00v/A00v.kml
 relation	9345603	https://percorsi.estmonterosa.it/a/A00(2)/A00(2).kml
 relation	9350144	http://caipallanzapercorsi.altervista.org/PercorsiVCO/LTB-2019/LTB-2019-FTP.kml
 relation	9351023	https://percorsi.estmonterosa.it/m/M00(1).kmz
