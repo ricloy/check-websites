@@ -290,7 +290,6 @@ node	2109257658	http://www.danzadieci.org/
 node	2109934694	http://www.eurojapan.biz/
 node	2116397743	http://www.hificlubonline.it/
 node	2120835494	http://www.pkelettronica.it/
-node	2134671105	http://www.ristorantealcason.it/
 node	2134766425	http://www.bibliotecamonfalcone.it
 node	2135704987	http://www.comune.moimacco.ud.it
 node	2141280636	http://www.5online.rikorda.it
@@ -848,6 +847,7 @@ node	3633952126	http://www.azcasa.net
 node	3633955787	http://www.liviosaranz.it
 node	3633955959	https://www.sdgz.it/
 node	3633956236	https://www.biblio.units.it/pageview?pcode=J0
+node	3633956552	https://www.lnitrieste.it/
 node	3635919092	http://www.alabarda.it/
 node	3635927728	https://www.salustrieste.it/
 node	3638946992	https://emporiobioallegro.it/
@@ -922,7 +922,6 @@ node	3661340969	https://www.hotelcentrale-lignano.it/
 node	3661342302	https://m.facebook.com/Municipio36/
 node	3661343603	https://www.pittonerikahairstudio.com/
 node	3661344477	https://www.goldenpoint.com/
-node	3661346347	https://www.vinademar.it
 node	3661346438	https://salone-it.lorealprofessionnel.com/37890-mary-style-hair-di-monorchio-maria
 node	3661347469	https://www.agenziapianetacasa.com/
 node	3661347914	https://gelateriamu.it/
@@ -1480,6 +1479,7 @@ node	5842154985	http://www.meteotriveneto.it/malgacampo/
 node	5856722788	http://www.boreaimmobiliare.it/
 node	5859179752	https://www.spesaonlinegrado.it/
 node	5865891769	http://www.hotelriolignano.com
+node	5873222827	www.italricambi.org
 node	5879578749	http://www.ristorantevalrojale.com/
 node	5884901437	https://www.aziendadelpoggio.it/
 node	5895609005	www.paneyoda.com
@@ -2284,6 +2284,11 @@ node	11255288406	https://franchising.layogurteria.it/
 node	11256817215	https://www.gradoit.it/it/wellness_center
 node	11259989411	https://tuttoestetica.wixsite.com/tuttoestetica-srl
 node	11261269362	https://www.turismofvg.it/en/grandeguerra-trieste-e-the-karst/open-air-museum-of-mt-ermada
+node	11282362428	https://www.ssorg.eu/
+node	11284308384	https://bikeandgo.it/it/prenotazione-lignano-passo-barca.html
+node	11284604250	https://www.facebook.com/people/La-bottega-di-Gina/100088211875785/
+node	11284623653	https://www.attcaffe.com/
+node	11284623654	https://pagna.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	www.campingalbosco.it
@@ -2542,6 +2547,10 @@ way	36419851	http://www.tavernacigui.it
 way	36420731	https://www.latavoladicarnia.com/home/
 way	36422225	lionsteel.it
 way	36422714	https://www.nuova-agraria.it
+way	36423757	https://www.eurolls.com/
+way	36423769	https://www.eurolls.com/
+way	36423772	https://hdt-auto.com/
+way	36423774	https://www.pmc-italy.it/
 way	36424056	http://www.artegiardino.net/
 way	36424069	https://famastudio.it/
 way	36424078	http://www.pertoldi.it/
@@ -2653,6 +2662,7 @@ way	36701406	http://www.fraipini.it/
 way	36701443	http://www.hotelolympia.it
 way	36701866	http://www.ambassadorhotel.it
 way	36702264	https://www.lagranseolaristorantelignano.it/
+way	36702278	http://www.ristorantealcason.it/
 way	36702299	https://www.termedilignano.it/
 way	36702320	https://www.carltonhotel.it/
 way	36702361	https://www.befedpub.com/?utm_source=Google&utm_medium=Yext
@@ -2664,6 +2674,7 @@ way	36702583	https://www.hotelfriuli.it/
 way	36702585	http://www.hotel-newyork.it/
 way	36702656	https://www.oasidelpesce.it/
 way	36702784	https://www.hoteloldriver.it/
+way	36703147	https://www.vinademar.it
 way	36703260	https://www.hotelsmeraldo.net/it/
 way	36703286	http://www.hoteldellenazioni.com
 way	36703288	www.ristorantesanremolignano.it
@@ -2822,6 +2833,7 @@ way	178144865	https://www.greenresort.eu
 way	178302238	http://www.monstertruck.it
 way	178766554	https://www.turismofvg.it/rnode/56360?UrlBack=aHR0cHM6Ly93d3cudHVyaXNtb2Z2Zy5pdC9QT0kvTWFwP0ZpbHRlcj0yMzcwI0ZpbHRlcj0yMzcwJkZpbHRlcj0xOTAxJlBhZ2VyU3RhcnRJbmRleD0w
 way	179934334	http://www.pistakartalberone.it/
+way	185442927	https://www.despar.it/it/punto-vendita-eurospar/168/tarvisio/
 way	185442963	https://www.ristorantepizzeriakasarnjak.it/
 way	185444989	http://www.hotelraibl.com
 way	185445009	http://www.alpinobarpizzeria.it/
@@ -3165,6 +3177,7 @@ way	1204765088	https://lignanosabbiadoro.it/it/strutture/145-5-pescecane/
 way	1205636680	https://isoladelparadiso.com/
 way	1210753695	https://www.lagerlablu.it
 way	1214489154	https://www.eurospin.it/
+way	1217761695	https://www.fantoni.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4221,6 +4234,7 @@ relation	13577064	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13577065	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13577066	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13577067	https://www.triestetrasporti.it;https://tplfvg.it/it/
+relation	13578294	https://en.eurovelo.com/ev9/italy
 relation	13590519	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13590520	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13590521	https://www.triestetrasporti.it;https://tplfvg.it/it/
@@ -4497,6 +4511,8 @@ relation	16359002	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giul
 relation	16381207	http://camminomariano.it/
 relation	16391590	https://www.comune.attimis.ud.it/media/files/030007/attachment/MappaSentieriAttimisProvaSitoComune.jpg
 relation	16485612	www.collinbici.com
+relation	16529801	https://www.hoptour.it/
+relation	16530768	https://tplfvg.it/it/il-viaggio/servizi-a-chiamata/trieste/
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
