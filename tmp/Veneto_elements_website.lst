@@ -110,8 +110,6 @@ node	429235453	https://www.hotel-negretto.com/
 node	430397937	http://www.tropicarium.it/
 node	432649108	https://www.aparthotelsheila.net
 node	432649109	https://www.lepetitjesolo.it
-node	432649123	http://www.coppehotels.com
-node	432649125	https://www.hotelperujesolo.com
 node	440102532	https://www.hotelzoldana.it/
 node	442051937	http://www.hotelgranditalia.it
 node	442872482	https://www.h222.it
@@ -133,6 +131,7 @@ node	475841606	https://www.hotelgalileopadova.it
 node	492062968	http://www.elbrol.com
 node	492752820	http://www.eurostarsresidenzacannaregio.com/
 node	497557537	https://www.shghotelcatullo.com/it/
+node	498124516	https://www.mardignon.it/
 node	498731263	www.hotelezzelino.com
 node	500616845	https://www.aipioppi.com
 node	500616960	http://www.cinemamanzoni.it/
@@ -549,8 +548,6 @@ node	1562472860	https://www.hoteloasiverde.com
 node	1562493041	http://www.hotelcarli.it
 node	1562493051	https://www.elite-hotel.it
 node	1562493055	http://www.palmbeach.it
-node	1562493056	http://www.hotelvianello.it
-node	1562493067	https://www.idealsole.it
 node	1562493069	http://www.villaggioazzurrojesolo.it
 node	1562784900	http://www.centrofer.it/
 node	1564216606	http://www.aurorahotel.org
@@ -1646,7 +1643,6 @@ node	3675541554	www.trattoriacrocedoro.it
 node	3675635932	http://www.gelatiroberto.com/
 node	3676186588	http://www.garnicosta.com
 node	3676514360	https://www.aparthotelimperial.eu/
-node	3678611704	https://www.hotelkennedy.org
 node	3682609001	http://www.isacc.it/
 node	3682667910	http://www.villabrocchicolonna.it/
 node	3684054767	https://museoterritorialedelgarda.weebly.com
@@ -1678,8 +1674,6 @@ node	3711883802	https://www.scarpa.net/
 node	3714232271	ristoranteallastanga.it
 node	3714347962	https://www.gullivertravelbooks.it/
 node	3715990442	http://www.autoscuolaburan.it
-node	3716892750	https://www.hotel-labrezza.it
-node	3716896974	http://www.hotelsayonarajesolo.it
 node	3716897442	https://www.tropicalhotel.it
 node	3719062602	http://pizzeriabiga.it/
 node	3719095489	https://www.birrificiob2o.com/
@@ -1849,7 +1843,7 @@ node	4054764175	http://gericotv.altervista.org/joomla/vigna-001/730-fontana01
 node	4062077099	https://www.tonetti1962.it
 node	4065500642	http://www.smppolesine.it/miele/
 node	4066671849	www.pasticceriabiasetto.it
-node	4068347920	https://www.farmaciemeltias.it/
+node	4068347920	https://mefarma.simplybook.it/
 node	4068980798	https://www.nike.com/
 node	4069585022	www.veneziacentopercento.it
 node	4070251389	http://www.rivieradelbrentabike.it
@@ -1902,7 +1896,6 @@ node	4181344173	http://www.bbcasarosa.it
 node	4181686290	http://www.tenutacazen.it/
 node	4183529160	http://cortebolandina.strikingly.com/
 node	4185144056	https://barralarga.it/
-node	4185183667	https://ristorantegrottaazzurra.com/
 node	4186182302	https://www.ristorantesantagata.com/
 node	4187519810	https://www.relear.it
 node	4188800090	http://www.ala-salese.it
@@ -2134,6 +2127,8 @@ node	4470326165	http://www.autofficinabonamini.com/
 node	4470326166	http://www.benettimotorssrl.it/
 node	4470326169	http://www.traslochisignori.com/
 node	4470344757	https://it.pennyblack.com/store/0100721
+node	4470344762	https://www.americanvintage-store.com/fr/fr/store?id=304
+node	4470344765	https://marinarinaldi.com/store/0100625
 node	4470655789	https://ristoranteildesco.it/
 node	4471148265	http://www.wladoil.com/
 node	4472312063	http://www.thetis.it
@@ -2643,7 +2638,7 @@ node	5025680021	https://www.buedorovaleggio.it/
 node	5029721521	http://www.danano.it
 node	5030121491	http://www.zairo.net
 node	5030121492	https://www.ristorantesaligustapadova.it/
-node	5036903034	http://www.crakbrewery.com/tap-room/
+node	5036903034	www.crakbrewery.com
 node	5041092517	http://www.pizzaexpressmania.com/
 node	5041847021	https://www.ancoravenezia.it
 node	5041890922	http://www.birrarialacorte.it/index.html
@@ -3089,7 +3084,6 @@ node	5870572788	https://www.dalnane1921.com/
 node	5872229715	http://www.lavillettadaroberto.it/
 node	5872272894	http://www.hoteldabenito.it
 node	5873889463	http://www.hotel-lido.org
-node	5873889466	http://m.continentalbibione.it
 node	5873889675	http://www.regentbeach.com
 node	5873889676	https://www.hotelpalace-bibione.it/
 node	5882940611	https://www.autovega.com/
@@ -3374,7 +3368,7 @@ node	6540638091	https://www.adm.gov.it/portale/-/veneto-e-trentino-alto-adige
 node	6543310386	http://www.madbreadco.com
 node	6544301199	www.lasanitaria.eu
 node	6545994685	http://www.pizzerialittleitaly.com
-node	6547231896	altromercato.it
+node	6547231896	https://www.altromercato.it
 node	6550898398	https://alportico.com/en/
 node	6551619678	https://www.agriturismo.it/it/agriturismi/veneto/treviso/DaAndreina-7031807/ristorante.html
 node	6551825303	https://www.rustichelliemangione.com/
@@ -5159,7 +5153,6 @@ node	9791043242	http://www.belmare.eu/
 node	9791043243	https://www.credifriuli.it/
 node	9791043245	https://www.azzurrabibione.com/
 node	9791320401	http://www.agenziabusolin.it/
-node	9791984693	https://www.alfogo.it/
 node	9792584949	www.rivetticafe.it
 node	9793145537	https://m.musei.unipd.it/it/macchine
 node	9795139496	https://www.fmcurvati.com/
@@ -5697,6 +5690,7 @@ node	10788530937	https://www.nuvolari.biz/stores/verona-c-c-adigeo
 node	10792612350	http://www.ristorantepaioa.it
 node	10792843015	https://www.epiu.biz/padova-2/
 node	10794821531	http://www.scuderialafortezza.it/
+node	10794976406	https://www.facebook.com/malgapralongo/
 node	10795372796	https://tanadelluppoloeste.webador.com
 node	10795407559	http://www.ic-ponso.it
 node	10795745422	https://ottica-supervisione-este.business.site
@@ -5962,6 +5956,15 @@ node	11264783522	https://www.tricotcafe.com/it/punti-vendita/1-merceria-tricot-c
 node	11264813469	https://www.villaggiosole.it/
 node	11266790428	https://www.gualti.it/
 node	11268654393	https://www.bergamin.it/
+node	11271735362	https://www.denicolapiovedisacco.edu.it
+node	11274707896	https://www.salesianichioggia.it
+node	11274901550	https://chioggiafarmacia.it/
+node	11276131568	https://www.cortedellegiuggiole.com/
+node	11279260857	https://www.bancapatavina.it
+node	11280121740	http://www.cadelmorovenice.com
+node	11280367661	http://www.oficinadarte.it/
+node	11283481578	https://www.gabetti.it/agenzie-immobiliari/conselve/1132
+node	11283885117	https://opengatepub.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
 way	19912693	http://www.iispacinottive.it/
 way	22561329	https://www.agenziapo.it/idrovia/idrovia-po-brondolo
@@ -6167,6 +6170,7 @@ way	94216715	http://www.locandaseggiovia.com/
 way	94648273	http://www.lealidelfrassino.it
 way	96104825	http://www.eurocampingpacengo.it/
 way	96763847	https://www.vertigopadova.it/
+way	98230150	https://mobile.terminalfusina.it/de/parking
 way	98291054	https://poggio-ameno9.webnode.it/
 way	98720126	dadaltlorenzi.com
 way	99474343	http://www.belvedererivalta.it/
@@ -6908,14 +6912,17 @@ way	178479450	http://www.osteriadanicola.com/
 way	178491659	https://www.hotelstorione.it
 way	178491667	http://www.beny.it
 way	178491692	http://www.hotelreno.it
+way	178491757	http://www.hotelvianello.it
 way	178491873	https://www.crocedimalta.info
 way	178491953	https://www.hotelmariver.it
 way	178492020	http://www.hotelgermania.net
 way	178492049	https://www.jethotel.it
 way	178492230	http://www.hotelhalifax.it
+way	178492609	https://www.idealsole.it
 way	178492641	https://www.hotelaltinate.it
 way	178492653	http://www.hotelruhl.it
 way	178492913	https://www.hoteltermini.it/
+way	178492969	http://www.hotelsayonarajesolo.it
 way	178493260	http://www.bjh-hotels.com
 way	178493383	https://www.hotel-riviera.org
 way	178493442	https://www.hotelsantiago.com
@@ -6987,6 +6994,7 @@ way	185700815	https://m.facebook.com/RistoranteCocktailBarChioscoGabbiano/
 way	185701516	http://www.hotelkaribe.it
 way	185702392	https://www.poste.it/
 way	185702476	https://www.hotelbianchibibione.com
+way	185702724	http://m.continentalbibione.it
 way	185702773	https://www.hotel-bellevue.it/
 way	185703452	https://www.hotelbibionepalace.it
 way	185703767	https://www.palacehotelregina.it
@@ -6997,7 +7005,9 @@ way	185816364	https://www.aquasalata.it/
 way	185817301	http://www.campeggioparadisochioggia.it/
 way	185817338	https://www.campingtredue.it/
 way	185836536	https://www.arrivaveneto.it/
+way	185838904	http://www.chioggiapesca.it/it/mercato-ittico-al-minuto-di-chioggia
 way	185839801	https://museo.chioggia.org
+way	185843267	https://www.chioggia3.edu.it/
 way	186199224	http://www.conservatoriobuzzolla.it/
 way	186199266	https://scuolavittorino.jimdo.com/
 way	186219503	https://www.agriturismo.it/de/bauernhof/venetien/venedig/Dune-0320422/index.html
@@ -7306,6 +7316,7 @@ way	224059780	https://www.baldosprea.it/
 way	224060609	https://www.facebook.com/pages/category/Pizza-place/Pizzeria-La-Cupola-107956738180220/
 way	224062367	https://www.villazoppi.com
 way	224296946	https://www.vittoria.biz/
+way	224506865	http://ofmconv.eremosanfelice.org/
 way	224871191	http://www.tiv.it/
 way	224871192	http://www.vecon.it/
 way	225533265	http://www.erbecedarioristorante.it
@@ -7460,6 +7471,7 @@ way	255937165	http://www.icfusinato.gov.it/
 way	256048864	https://vialettomaterialiedili.com/
 way	256095799	http://www.boscodisanstino.ilbello.com/
 way	256547312	https://www.campingverona.com/
+way	256547554	http://www.fossabova.it/
 way	256548335	http://www.ic13verona.edu.it
 way	256548337	https://www.comprensivovr11.edu.it
 way	256950067	http://www.bimtrento.it/Il-Territorio/Centrali/La-centrale-di-Sospirolo
@@ -7612,11 +7624,13 @@ way	347960680	http://www.comprensivovr11.edu.it
 way	348490561	http://www.percorsomediapianuravicentina.it/
 way	350162456	http://www.campingmammalucia.it/
 way	350903204	https://www.negrisolo.it/
+way	350908396	https://valesalmin.wixsite.com/marconiconselve
 way	350984070	http://www.beataverginedellamisericordia.it
 way	350985492	http://irvv.regione.veneto.it/index.php?wp=INDEX
 way	351010835	https://www.comune.bovolenta.pd.it/
 way	351012092	https://www.farmaciafabrobovolenta.it/
 way	351012420	http://irvv.regione.veneto.it/lib/pxmlServiceGate.php?fAction=XwAttachment&fCmd=get&fName=B0490PD001.PDF&fRespMode=show&fId=41438.PDF
+way	351012444	https://www.varem.com/
 way	351012906	https://www.permo.it/
 way	351480204	www.manifatturacorona.it
 way	351480267	https://www.sellesmp.com/
@@ -7693,7 +7707,6 @@ way	371405620	http://www.traibanchi.it/index.php?option=com_content&view=article
 way	371405621	http://www.traibanchi.it/index.php?option=com_content&view=article&id=107&Itemid=59
 way	371421628	http://altaforum.it/
 way	371421876	https://www.maschio.com/
-way	371428617	www.crakbrewery.com
 way	371429232	https://www.villamenini.it/
 way	371507109	https://www.campingserenissima.com
 way	371519002	http://www.aimmobilita.it/it/mobilita/auto/parcheggi_a_sbarra/parcheggio_bologna
@@ -8396,6 +8409,12 @@ way	1214082424	http://flycard.vivereilgrappa.it
 way	1214503088	https://www.cnsas.it/
 way	1214654588	http://www.lenotecapeschiera.com/
 way	1215347430	https://www.allacrosarona.com/
+way	1217420095	https://www.hotel-labrezza.it
+way	1217420097	http://www.coppehotels.com
+way	1217420098	https://www.hotelperujesolo.com
+way	1217420101	https://www.hotelkennedy.org
+way	1217432294	https://www.alfogo.it/
+way	1217774802	https://ilparcodelladige.com/
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -8477,7 +8496,7 @@ relation	2092717	https://www.rswstudio.it
 relation	2103593	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/s1-131/
 relation	2103594	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/s1-132/
 relation	2125823	http://www.percorsocolceresa.it/
-relation	2139488	http://www.dolomitiunesco.info/
+relation	2139488	https://www.dolomitiunesco.info/
 relation	2168922	http://www.sat.tn.it/
 relation	2168928	http://www.sat.tn.it/
 relation	2173682	http://www.caiasiago.it
@@ -9118,6 +9137,7 @@ relation	13139875	http://www.parcosile.it/it/iti_dettaglio.php?id_iti=4889
 relation	13185895	http://www.escursionismolessinia.altervista.org/
 relation	13185896	http://www.escursionismolessinia.altervista.org/
 relation	13196934	http://ropewiki.com/Scroa
+relation	13286256	https://www.veneto.eu/EN/landscapes_Palladio/
 relation	13342624	https://sites.google.com/site/turismodaltamontagna/Tabella-dei-sentieri
 relation	13559235	https://www.caiasiago.it/861b-ribenach-montagna-nova
 relation	13567212	https://circ8.comune.verona.it/nqcontent.cfm?a_id=75368
