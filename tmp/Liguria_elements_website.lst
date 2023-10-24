@@ -23,7 +23,7 @@ node	218494856	https://www.ostellogenova.it/
 node	229932579	https://www.hotelboccascena.it
 node	229945142	http://www.farmaciaalvigini.com
 node	229954217	www.hotelricci.com
-node	243210379	www.osservatoriorighi.it
+node	243210379	https://www.osservatoriorighi.it/
 node	243454536	www.hotelcolombo.it
 node	243881466	www.farmaciadelcastello.it
 node	247849985	http://www.musei.it/liguria/genova/museo-del-risorgimento---casa-mazzini.asp
@@ -73,6 +73,7 @@ node	385386928	http://www.lunarestaurant.it/
 node	403873103	www.piana.it
 node	413997625	http://www.tristanoeisotta.com/
 node	416523226	https://www.hotelsangiuseppe.com
+node	417645340	https://www.funiviarapallomontallegro.it
 node	418883069	http://www.ergcasaccia.com/
 node	420358207	www.hoteltigullio.eu
 node	423806795	www.microkit.com
@@ -561,7 +562,6 @@ node	2824480248	http://www.palazzocambiaso.it/
 node	2827016312	http://www.agridurin.it/
 node	2829828403	https://www.bnb-vignola.com/
 node	2831564163	http://www.bottegasolidale.it/wordpress/dove-siamo/le-botteghe-2/bottega-porto-antico
-node	2833363605	http://www.villa-argentina.it
 node	2834100275	https://www.agriturismosantilario.it/
 node	2837596579	http://www.barbarossasavona.com/
 node	2837618537	http://www.mividacafe.com/
@@ -623,7 +623,7 @@ node	3098894522	https://www.lapizzadiegizio.com/
 node	3106123164	http://www.exultategenova.com/
 node	3106123167	https://www.ristorantepanson.com/
 node	3107124684	http://www.caponordsantamargheritaligure.com/
-node	3118365052	http://www.hotelbernheof.it/
+node	3118365052	https://sites.google.com/view/hotel-bernheof-genova/
 node	3119409740	https://www.facebook.com/TrattoriaLaPosta/
 node	3119409744	http://www.allavilla.com/
 node	3120644397	https://www.facebook.com/pages/category/Specialty-Grocery-Store/IL-FORNO-dal-1949-Badalucco-1465838983552517/
@@ -1630,6 +1630,7 @@ node	7914962878	https://www.iismarsano.edu.it/
 node	7959775085	http://ossidiseppia.com
 node	7965814720	https://www.instagram.com/pestobene/
 node	7966165227	http://www.ceraunavoltaagriturismo.it/
+node	8032979596	http://www.milleniumcarta.it/
 node	8034298283	https://www.agriturismodaogatto.it/
 node	8044465583	www.treninimiletto.it
 node	8084846717	https://www.edolce.it
@@ -2143,6 +2144,9 @@ node	11208376994	https://www.burancocinqueterre.it/
 node	11233178940	https://www.barmariucciaportofino.it
 node	11251293969	https://www.autoservicesrl.net
 node	11255041321	https://mille806.com/
+node	11269470676	www.lepalmebeach.it
+node	11278046841	https://www.tigulliocarnisrl.com/la-vendita
+node	11282193775	https://laspartana.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	http://www.ospedalesanmartino.it
@@ -2916,6 +2920,7 @@ way	1214804156	https://www.provincia.savona.it/strade/sp45
 way	1214804157	https://www.provincia.savona.it/strade/sp45
 way	1214804158	https://www.provincia.savona.it/strade/sp45
 way	1214804159	https://www.provincia.savona.it/strade/sp45
+way	1216656463	https://www.villa-argentina.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	http://www.apricale.org/
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
