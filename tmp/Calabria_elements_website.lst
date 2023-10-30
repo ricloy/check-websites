@@ -1,7 +1,7 @@
 @type	@id	website
 node	26859466	https://www.costaverde.org
 node	26859619	https://www.lamantinera.it/
-node	470282967	http://www.parcopollino.it/grotta-del-romito/
+node	470282967	https://www.parcopollino.it/grotta-del-romito/
 node	870392827	www.radasiri.com
 node	996897953	https://www.fattoriastocchi.it/
 node	996912498	https://www.sushirende.it/
@@ -89,7 +89,7 @@ node	2561503679	http://lamaisondeslivres.it/
 node	2585754348	http://www.jinostrara.it/
 node	2601612606	http://www.anarchia.info/
 node	2612860516	http://www.ristorantelacascina1899.it/home/
-node	2642112829	http://www.protezionecivile.gov.it/jcms/it/ricostruzione_cerzeto.wp;jsessionid=C210FD7CFA62201039EC976A6FFE11EB.worker3
+node	2642112829	https://www.protezionecivile.gov.it/jcms/it/ricostruzione_cerzeto.wp;jsessionid=C210FD7CFA62201039EC976A6FFE11EB.worker3
 node	2642192623	https://www.profumeriamarino.it
 node	2653443588	https://www.ilbak.it/
 node	2658850817	http://www.comune.paludi.cs.it/index.php?action=index&p=439
@@ -139,7 +139,6 @@ node	3774625578	http://www.crac.eu
 node	3774671876	http://vertshop.it
 node	3796219336	http://www.actionbayfabiano.com/
 node	3930552820	https://www.comune.maida.cz.it/
-node	4002041460	http://www.krataiis.it/
 node	4042131289	https://www.dottoressalocanto.it/
 node	4069013933	https://www.pasticceriasarne.com/
 node	4069013934	https://www.pasticceriasarne.com/
@@ -191,11 +190,11 @@ node	5050211244	https://www.facebook.com/Bar-Gelateria-Da-Giacinto-2819575018368
 node	5119046424	http://www.lidoskipper.com
 node	5119059425	http://www.lidoskipper.com
 node	5120696586	https://www.tesla.com/findus/location/supercharger/moranocalabrosupercharger
-node	5235087484	http://www.giardinoiti.it/
+node	5235087484	https://www.giardinoiti.it/
 node	5237894981	https://www.sabait.it/it/parcheggi/cosenza/cosenza-i-due-fiumi
 node	5325412922	https://carontetourist.it/
 node	5333052321	http://www.dentalservicerc.it
-node	5390507472	http://radicediliquirizia.com/
+node	5390507472	https://radicediliquirizia.com/
 node	5450652924	https://thermstore.it/
 node	5548745922	http://www.camping-damario.eu
 node	5562168221	http://www.subamicidiving.it
@@ -401,7 +400,7 @@ node	10311350120	www.bruscoassicurazioni.it
 node	10540066020	https://gardeniahotelrc.it/
 node	10557034410	https://sapuricalabrisi.com
 node	10586805647	https://polizzeseelettricita.it/
-node	10657188572	www.galcedri.it
+node	10657188572	https://www.galcedri.it/
 node	10727969522	https://www.viniartese.it
 node	10732961188	https://www.facebook.com/ilnettaredeglidei/
 node	10752483186	https://www.carabinieri.it
@@ -435,7 +434,7 @@ node	10919985636	https://lavanderia-da-lorena.business.site/
 node	10929248477	http://www.latersud.it/it
 node	10944471207	https://www.plaingross.com/
 node	10982918610	https://www.ristorantelacucciarda.com/
-node	11012207009	www.terrazzaragonese.it
+node	11012207009	https://www.terrazzaragonese.it/
 node	11017376246	https://www.naturium.it/
 node	11017376247	https://www.trony.it/online/store/TRO192_A
 node	11017376248	https://ristoranteacquolina.it/
@@ -471,11 +470,12 @@ node	11245411741	https://www.sushikokusai.com/
 node	11245411744	http://www.exabytecomputer.it/
 node	11249162753	https://www.tirrenohotel.it/
 node	11262080078	https://www.mapapibeach.it/
+node	11293038630	https://lesoliteholidayrooms.it/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	31321527	https://www.conad.it/ricerca-negozi/negozio.006286.html
 way	43042447	https://sba.unical.it/
 way	86940311	https://www.sacal.it/
-way	110044884	www.comune.crotone.it
+way	110044884	https://www.comune.crotone.it/
 way	115953988	https://www.ardsicilia.it/punti-vendita/624/crotone-ss-106-km-245-localit-s-giorgio
 way	120661943	http://www.castellocosenza.it
 way	124275592	https://www.parcolacometa.it/
@@ -483,7 +483,7 @@ way	129026587	https://www.isoppido.edu.it/
 way	137409999	https://www.cittanovaonline.it/Cittanova_Le_Chiese.html
 way	137411113	https://www.comune.cittanova.rc.it/
 way	137414080	https://www.cittanovaonline.it/Cittanova_Le_Chiese.html
-way	146019866	http://www.provincia.crotone.it
+way	146019866	https://www.provincia.crotone.it/
 way	150519096	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151762&pagename=157031
 way	160900775	https://www.sabap-rc.beniculturali.it/it/244/parco-archeologico-dei-tauriani
 way	165325333	https://www.parrocchiasacrocuorecatanzaro.it/
@@ -506,12 +506,12 @@ way	179452266	http://www.area.cs.cnr.it/biblio/taurianova
 way	179565419	www.upim.it
 way	180623227	http://www.carmar.eu/
 way	180759669	https://www.pagineazzurre.com/porti-della-basilicata/corigliano-calabro/
-way	180818176	http://www.minervaclubresort.it/golf
+way	180818176	https://www.minervaclubresort.it/golf
 way	182192725	http://www.alfiercamping.it/
 way	182331370	https://www.piaggio.com/
 way	190627017	https://hotelsouthparadise.it/
 way	198371631	http://www.museomarca.info
-way	199588232	http://www.pizzogreco.com
+way	199588232	https://www.pizzogreco.com/
 way	199886417	https://www.centralemercure.it/
 way	207760353	https://www.capovaticanoresort.it/
 way	210256973	https://antonante-toyota.it/
@@ -567,8 +567,8 @@ way	278699813	https://www.asp.rc.it/?q=node/1574
 way	278789151	http://www.prolocogioiosajonica.it/DA-VISITARE/palazzo-amaduri.html
 way	279225696	http://www.treeffecenter.it/
 way	284634539	https://www.onda-azzurra.it/
-way	294983284	http://www.museisantaseverina.it
-way	297492666	http://www.hotelroscianum.it
+way	294983284	https://www.museisantaseverina.it/
+way	297492666	https://www.hotelroscianum.it/
 way	302713278	http://www.vallecrocchio.it/itinerari/naturalistici/Itinerario%2012.pdf
 way	303056586	http://www.beatoangelo.it/
 way	305856774	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150288&pagename=157031
@@ -592,7 +592,7 @@ way	326388190	http://www.maregrande.it
 way	333558339	https://www.newkitezone.it/
 way	338120756	http://www.lameziateam.it/
 way	338456217	http://www.iislamezia.it
-way	350820524	http://www.sibarifly.com
+way	350820524	https://www.sibarifly.com/
 way	351179930	http://www.museocivicoaltomonte.it/MW/
 way	352688714	http://www.newmagnagreciahotel.it/
 way	353414619	https://www.beniculturali.it/luogo/museo-e-parco-archeologico-archeoderi?page=2#contatti
@@ -609,7 +609,7 @@ way	395517125	https://www.nicoterabeachvillage.it/
 way	395583064	https://voihotels.com/en/hotels/voi-floriana-resort/hotel
 way	395583075	https://voihotels.com/en/hotels/voi-pizzo-calabro-resort/hotel
 way	395774631	https://scogliodellagalea.it/
-way	396000717	http://villaggiobaiadegliachei.it
+way	396000717	https://www.villaggiobaiadegliachei.it/
 way	396279897	https://www.essofuelfinder.it/598190-stazione-di-servizio-esso-maida
 way	403901207	http://www.liceosoverato.it
 way	425740569	http://www.comune.castrovillari.cs.gov.it/
@@ -650,7 +650,7 @@ way	493760479	http://www.comune.drapia.vv.it/
 way	496409485	http://www.appartamentipousada.it
 way	513171949	acadieclub.com
 way	520119532	https://www.clubesse.it/strutture/hotel-sunbeach/
-way	536150271	http://www.termesibarite.it
+way	536150271	https://www.termesibarite.it/
 way	539871252	https://www.comune.pietrafitta.cs.it/
 way	540622329	https://www.bebmula.it/
 way	542240189	https://www.zeuscalabria.it/
@@ -681,7 +681,7 @@ way	591850721	http://www.artelegnoacri.it/index.html
 way	592029438	https://www.facebook.com/pages/Volo-Rosso/771259226302963
 way	596528518	http://www.itgrighi.gov.it/
 way	598971773	https://www.parcoecolandia.it/ecosite/
-way	625005221	www.lidoaurora.it
+way	625005221	https://www.lidoaurora.it/
 way	647038443	https://www.comune.soverato.cz.it/
 way	662332623	https://www.orafoluigimungo.it/
 way	670239358	http://www.icsantamariadelcedro.gov.it/
@@ -693,10 +693,12 @@ way	783381691	https://www.santannahospital.com/
 way	783396628	http://www.clinicatricarico.it/
 way	787280248	https://www.poltero.it
 way	802253440	https://www.conad.it/ricerca-negozi/negozio.009643.html
+way	812508910	http://www.calme.it/
 way	824208995	https://www.palazzopolicastrisuites.it/
 way	834217990	https://www.popiliaresort.it/
 way	850413604	https://www.museocodexrossano.it/
-way	859313247	http://campingthurium.com
+way	859313247	https://campingthurium.com/
+way	859615532	https://www.poliziadistato.it/
 way	875838296	https://www.carabinieri.it/
 way	881756132	https://portalidicalabria.altervista.org/palazzo-cosentino-romiti-a-isca-sullo-ionio-cz/
 way	884468010	https://temesaresort.it/
@@ -776,6 +778,7 @@ way	1200617414	https://www.villaggiocampinglascogliera.com
 way	1205211398	https://www.iisvemanuele.edu.it/
 way	1205212596	https://www.iisvemanuele.edu.it/
 way	1205242265	https://www.youtube.com/watch?v=g2WtOHyQstI
+way	1217981059	http://www.krataiis.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	5437445	http://www.certosini.info/
 relation	5951634	https://www.grandhotelparadiso.it/
@@ -1003,6 +1006,7 @@ node	11280194825	https://www.costaelisabeth.it/
 way	150646604	http://www.pertinikr.gov.it/
 way	170206470	http://acquaparkatlantis.com/
 way	170486603	http://www.parcosila.it/index.php
+way	184223841	http://scilla.asmenet.it/
 way	239391413	http://www.costabluresidence.it
 way	336712523	https://www.agriturismoninea.net/
 way	368654307	http://lidoalexander.it
@@ -1011,6 +1015,7 @@ way	473808525	http://www.mirarchipneumatici.it/
 way	599969250	http://www.asedsrl.it/
 way	702212887	https://www.hotelbaiadelcapo.com/
 way	702244425	https://www.costarealtropea.com/
+way	812508926	https://www.sda.it/
 way	1039118536	https://www.conad.it/ricerca-negozi/conad-strada-statale-18-snc-87023--diamante--010227
 relation	9761581	https://www.villaggiosantamonica.com/
 relation	16172031	http://www.iistropea.gov.it/
