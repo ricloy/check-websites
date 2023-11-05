@@ -1262,7 +1262,6 @@ node	4456105018	https://www.explorertech.it/
 node	4457499403	https://www.clinichedentali.net/
 node	4460323089	http://www.bbteatromassimo.com
 node	4460378641	https://www.etnanatura.it/sentieri/sentieri.php?nome=Cerro_di_Monte_Fontane
-node	4461319856	http://www.castrovincirestauri.it/
 node	4461319858	http://www.calcagnomoda.it/
 node	4461319860	https://comunitaeden.wordpress.com/
 node	4472225806	http://www.allombradelmassimo.it/
@@ -1730,11 +1729,13 @@ node	6214032274	https://www.poste.it
 node	6215251971	https://ledivise.it
 node	6219040661	https://lacasaalduomo.wordpress.com
 node	6219920587	https://www.casamusicalesanfilippo.it/
+node	6238471429	https://www.nomasvello.it/depilazione-laser-siracusa1-201-nomasvello
 node	6238472222	https://www.nonnange.it/
 node	6242005989	https://www.istat.it/it/istituto-nazionale-di-statistica/organizzazione/sedi-territoriali
 node	6247890109	https://www.verticalclimbingcenter.it
 node	6254818095	https://tuttoincornice.com/
 node	6261435198	https://www.residenzadelturista.it/
+node	6261435389	https://www.sirmuma.it/
 node	6261900186	https://www.hotelvillaesperia.it/
 node	6265407985	https://www.labellamotors.it
 node	6265568774	https://www.pixweb.it
@@ -1783,6 +1784,7 @@ node	6415303530	https://vimavìgliartigianideriposo.com/
 node	6416406159	https://www.poste.it
 node	6416406160	https://www.poste.it
 node	6419464640	https://www.eurospin.it/punti-vendita/marsala-709451/
+node	6419763989	https://www.boatstore.it/
 node	6437150585	http://www.lanoce.org/foresteria/
 node	6437159285	https://www.zeroglutinelife.it/
 node	6445131476	http://www.hotelbellevuepalermo.com
@@ -3500,6 +3502,9 @@ node	11263012310	https://lacasadelascarcasas.it/
 node	11263316437	https://www.trasportiurbaniagrigento.it/orari-e-percorsi.html
 node	11268038152	https://www.scillamarisnoto.it/
 node	11277922141	https://www.poste.it
+node	11302770359	https://www.nomasvello.it/depilazione-laser-siracusa1-201-nomasvello
+node	11305057269	https://www.desparsicilia.it/
+node	11310859769	http://www.informa-giovani.net
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	https://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -4025,7 +4030,6 @@ way	282116196	https://www.musco.edu.it/
 way	283142893	www.scautismo.net
 way	283592994	http://roccadigonato.cmsvisuale.it/
 way	284595828	http://area14.it
-way	284595829	https://www.altheapalacehotel.it/
 way	284777531	http://www.bluhotels.it/hotel/sicilia/funari-me/blu-hotel-portorosa
 way	285544814	https://www.calamida.it/
 way	289567771	http://www.icscalvino.edu.it
@@ -5201,6 +5205,7 @@ way	1139830983	https://www.vigilfuoco.it
 way	1139830987	https://www.vigilfuoco.it
 way	1144944823	https://www.poste.it
 way	1144988612	https://www.poste.it
+way	1147544367	https://www.altheapalacehotel.it/
 way	1147661603	https://www.csraias.it/paceco-tp/
 way	1147681639	https://www.lesalinehotel.com/
 way	1147769088	https://www.icscasteldiiudica.edu.it
@@ -5490,6 +5495,8 @@ relation	7368318	agroverde.it
 relation	7840318	http://www.caibelpasso.org
 relation	7840381	http://www.caibelpasso.org
 relation	7841468	https://www.cai.it/sezione/catania/
+relation	7841526	https://www.caipedara.it/
+relation	7841553	https://www.caipedara.it/
 relation	7843999	https://parcoetna.it/
 relation	7844029	https://parcoetna.it/
 relation	7844069	https://parcoetna.it/
@@ -5502,6 +5509,9 @@ relation	7844381	http://www.caiacireale.it/
 relation	7844572	https://www.caimessina.it/
 relation	7848010	http://www.cailinguaglossa.com/
 relation	7849034	http://www.cailinguaglossa.com/
+relation	7849210	https://www.cai.it/sezione/catania/
+relation	7849344	https://www.cai.it/sezione/catania/
+relation	7849365	https://www.cai.it/sezione/catania/
 relation	7849473	http://www.caiacireale.it/
 relation	7849525	https://parcoetna.it/
 relation	7849637	https://www.cai.it/sezione/catania/
@@ -5533,7 +5543,7 @@ relation	8813605	http://www.casalgismondo.it/agriturismo.htm
 relation	8824086	https://www.castelloincantato.it/2014/10/26/il-casale-micciche-o-la-robba-di-villalba-perche-rivalutarla/
 relation	8877213	https://www.alpoggetto.it/
 relation	8917171	https://www.cai.it/sezione/catania/
-relation	8917172	https://www.cai.it/sezione/catania/
+relation	8917172	https://www.etnaviva.it/
 relation	8917742	http://www.caiacireale.it/
 relation	8917743	http://www.caiacireale.it/
 relation	8917744	http://www.caiacireale.it/
@@ -5569,6 +5579,7 @@ relation	11094311	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=38
 relation	11100548	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=21
 relation	11106476	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=167
 relation	11180795	http://www.cutgana.unict.it/content/complesso-speleologico-villasmundo-s-alfio
+relation	11296030	https://www.cai.it/sezione/catania/
 relation	11299074	http://www.tribunaleragusa.it/
 relation	11578359	https://www.imonasterigolfresort.com/
 relation	11603897	https://mappasentieroitalia.cai.it
@@ -5902,7 +5913,6 @@ relation	15956197	https://www.camminareipeloritani.it/cammini-dei-peloritani/cam
 relation	15956205	https://www.camminareipeloritani.it/cammini-dei-peloritani/cammino-dellanima
 relation	15956208	https://www.camminareipeloritani.it/cammini-dei-peloritani/cammino-dellanima
 relation	15956319	https://www.camminareipeloritani.it/cammini-dei-peloritani/cammino-dellanima
-relation	15956456	https://www.camminareipeloritani.it/cammini-dei-peloritani/cammino-dellanima
 relation	15957012	https://www.camminareipeloritani.it/cammini-dei-peloritani/cammino-dellanima
 relation	15958904	https://sicilydivide.it
 relation	15959051	https://sicilydivide.it
@@ -5938,6 +5948,7 @@ relation	15972050	https://www.prolocomonreale.it/ilcamminodeimille/il-cammino/
 relation	15973567	https://www.prolocomonreale.it/ilcamminodeimille/il-cammino/
 relation	15973779	https://www.prolocomonreale.it/ilcamminodeimille/il-cammino/
 relation	15985202	https://unikore.it/
+relation	16119066	https://www.cai.it/sezione/catania/
 relation	16136156	https://www.santamarialavetere.com/
 relation	16140572	https://www.santamarialavetere.com/
 relation	16151887	https://www.caimessina.it/
