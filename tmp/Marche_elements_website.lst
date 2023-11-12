@@ -62,6 +62,7 @@ node	664964924	https://www.farmacianazionalepergoli.it/
 node	664964926	https://inlingua-ancona.it/
 node	665605874	http://www.ristoranteorientale.it/
 node	665605899	http://www.dovizi.it/
+node	665605901	https://www.morandigroup.it/
 node	672555229	https://www.pizzeriadabruno.it/
 node	672985843	https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/9896
 node	672986219	https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/9897
@@ -136,7 +137,6 @@ node	1259956932	https://www.gocoppola-ancona.it/
 node	1260345426	https://sessanta126.it
 node	1260345472	https://www.conad.it/ricerca-negozi/negozio.009862.html
 node	1276195887	https://www.facileristrutturare.it/sedi/ancona/
-node	1278198228	https://www.paginegialle.it/fratelliramaccioni
 node	1280849076	https://maps.app.goo.gl/dEfeTiZbJQ24rmG66
 node	1298222235	https://www.lagirandola.eu/
 node	1308875606	https://www.newink.it
@@ -159,8 +159,8 @@ node	1364681347	http://www.siconte.it/it/punti-vendita/si-superstore/ancona-coll
 node	1365032889	http://www.farmaciavallemiano.it
 node	1365032892	https://www.credit-agricole.it/
 node	1372462637	http://www.hotelguiderocchi.it/
-node	1382883509	http://www.accademiadiurbino.it/aabb/
-node	1382883510	http://www.accademiadiurbino.it/aabb/
+node	1382883509	https://www.accademiadiurbino.it/aabb/
+node	1382883510	https://www.accademiadiurbino.it/aabb/
 node	1397443501	https://www.simplymarket.it/pdv.php?id=7718
 node	1403760214	https://www.pasticceriangelo.it/
 node	1406220918	http://www.archiviodistatoancona.beniculturali.it
@@ -198,7 +198,7 @@ node	1751776482	http://www.sangirolamo.com
 node	1751799559	https://www.laroccadeimalatesta.com/
 node	1755092520	https://www.terracruda.it/
 node	1755183916	https://www.libracciourbino.it/
-node	1755231738	http://www.ristorantemagnagrecia.it
+node	1755231738	https://www.ristorantemagnagrecia.it/
 node	1773479013	https://www.ristorantelamezzaluna.com/
 node	1801527134	https://www.locandarocco.it/
 node	1864606661	https://www.frescomarket.it/negozio.cfm?pdv=90537
@@ -287,7 +287,7 @@ node	2398789245	https://www.facebook.com/parcolequerce/
 node	2410716794	http://www.barbaldini.com/trattoria/
 node	2422237114	http://www.primasecca.it/
 node	2429114684	http://www.portodifano.it/
-node	2435255178	http://tavernadelcacciatore.it
+node	2435255178	https://tavernadelcacciatore.it/
 node	2445787336	https://www.palazzoricci.it/
 node	2450535111	https://www.dondisalotti.it
 node	2469054629	https://www.pasticceriadolcemania.it/
@@ -308,7 +308,7 @@ node	2532557258	https://www.musei.marche.beniculturali.it/musei/?mid=203&nome=an
 node	2533094030	http://www.lagrandeagave.it/home.html
 node	2539860693	https://www.olimpia.it
 node	2558547440	https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=448
-node	2558547441	http://www.agriturismolacaputa.com/
+node	2558547441	https://www.agriturismolacaputa.com/
 node	2558766666	https://www.oasitigre.it/it/punti-vendita.html?store=6905
 node	2563243791	https://www.groovyland.it/
 node	2585194422	http://www.farmaciatacchi.it/
@@ -488,7 +488,7 @@ node	3865170690	https://www.sandwichtime.it
 node	3873401360	https://www.anticouliveto.com/
 node	3885785924	http://www.axis-italy.com
 node	3895182603	https://www.confindustria.ap.it/
-node	3896391381	http://www.caserrantonio-ferri.com/
+node	3896391381	https://www.caserrantonio-ferri.com/
 node	3896391392	http://locandavalpietro.it/
 node	3905496895	https://www.labirratorio.net/
 node	3917433878	https://anticamacelleriaitaliana.it
@@ -508,7 +508,7 @@ node	4012970442	https://www.casadelpaneurbino.it/
 node	4033261819	https://www.nerogiardini.it/
 node	4080303040	https://www.lidurbania.it/
 node	4084580034	https://www.tavolomatto.it/
-node	4088983168	http://www.unieuro.it/online/negozi/Unieuro-Urbania
+node	4088983168	https://www.unieuro.it/online/negozi/Unieuro-Urbania
 node	4159112294	https://www.disantevini.it/
 node	4159143102	https://www.fioriniwines.it/
 node	4159167220	https://www.aziendaguerrieri.it/
@@ -719,8 +719,8 @@ node	6411397800	https://il-cortegiano-ristorante.business.site/
 node	6411397801	http://www.ilcortegiano.it/b&b-bed-and-breakfast-urbino/
 node	6426040084	https://www.emotionsposi.it
 node	6468606949	https://economiaediritto.unimc.it/it
-node	6496082598	http://www.ristorantevecchiomontefeltro.com/
-node	6502759428	http://hotelulisse.it/
+node	6496082598	https://ristorantevecchiomontefeltro.com/
+node	6502759428	https://www.hotelulisse.it/
 node	6528023068	http://www.osterialacueva.it/
 node	6551473305	http://www.angolodivino.biz/
 node	6572474525	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=153024&pagename=157031
@@ -764,9 +764,9 @@ node	7133877283	https://www.nuovomelograno.it/
 node	7154353747	https://www.fontesomma.it
 node	7155160107	https://www.musei.marche.beniculturali.it/musei/?mid=200&nome=museo-archeologico-nazionale-delle-marche
 node	7159240252	http://musei.beniculturali.it/musei?mid=205&nome=museo-archeologico-statale-di-cingoli
+node	7161612638	https://www.campoverde.store/
 node	7161612639	http://www.alessandrelli1961.it/
 node	7161612640	https://www.bobeche.it/
-node	7161612642	https://www.kipoint.it/it/pv/KI228/
 node	7164948139	http://www.cantinaortenzi.it/
 node	7164992184	https://www.tribunale.fermo.it/
 node	7165005747	https://cinema27.wixsite.com/saladegliartisti/
@@ -875,7 +875,7 @@ node	8459166218	http://www.comune.pesaro.pu.it/cultura/luoghi-della-cultura/muse
 node	8492525173	https://www.podereseipoorte.it/
 node	8495392936	https://www.enotecadorica.com/
 node	8497869731	https://www.comune.acqualagna.ps.it
-node	8498107581	http://www.comune.apecchio.ps.it
+node	8498107581	https://www.comune.apecchio.ps.it/
 node	8500881731	http://lnx.radioascoli.it/
 node	8508746033	https://www.coal.it/archives/punti-vendita/lillini-marco
 node	8508746061	https://www.tortellinibolognesi.it/
@@ -925,7 +925,7 @@ node	8895908707	https://www.villasilvia.com/
 node	8926943117	https://www.linfinitoatavola.com/
 node	8929257165	https://calalapasta.dandreagiovanni.it/
 node	8931156977	https://www.calzatureginevra.it/
-node	8934005748	http://www.futurmecurbania.com/
+node	8934005748	https://www.futurmecurbania.com/
 node	8947501023	https://www.computernewfile.com/
 node	8947501024	http://www.winkstore.it/
 node	8980990149	https://www.vagninielettrodomestici.it/
@@ -1037,6 +1037,7 @@ node	9750175784	https://www.hotelrossini.it/
 node	9750175785	https://www.hotelelveziapesaro.it/
 node	9805507927	https://casafilinara.it/
 node	9812728973	https://museomarec.it/
+node	9827717208	https://lepetitcafenumana.com/
 node	9853465817	https://urbino.lavapiu.it/
 node	9853488018	https://the-bosom-pub.business.site/
 node	9857994892	http://www.dachicco.com/
@@ -1126,7 +1127,7 @@ node	10720192301	https://www.risparmiocasa.com/store/ancona/
 node	10720192302	https://sushiko.it/locali/ancona/
 node	10720203105	https://negozi.iperbimbo.it/ancona/
 node	10738172366	https://www.furlo.it/
-node	10767091285	www.bibliotecafabriano.it
+node	10767091285	http://www.bibliotecafabriano.it
 node	10767101965	https://fornomadrefabriano.it/
 node	10767116263	https://www.bynicegelato.it
 node	10767128978	https://www.grattacacio.it/
@@ -1146,11 +1147,11 @@ node	10831764956	https://labistronomia.it/
 node	10832898543	https://hummusplantcafe.it
 node	10846747594	http://www.latorrettasulborgo.it
 node	10847135019	https://wesharingo.com/
-node	10847159723	mondosolidale.org/sito
+node	10847159723	http://www.mondosolidale.org/sito/bottega-di-fabriano/
 node	10853142921	https://www.crealia.it/
 node	10858842281	https://janusristocafe.it/
 node	10858842912	https://www.ristoranteilpiaceredellacarne.it/
-node	10876598018	scuromilano.it
+node	10876598018	http://scuromilano.it
 node	10876598492	http://www.flatshop.it/
 node	10877142210	https://prink.it/
 node	10879136567	https://basecamp1070.business.site/
@@ -1166,7 +1167,7 @@ node	10908218211	https://radio.unicam.it
 node	10908438237	https://www.roberto-conti.it
 node	10915561882	http://www.zerosetteaccordions.com/
 node	10915570863	https://www.bugariarmando.com
-node	10916934207	avisfabriano.com
+node	10916934207	https://avisfabriano.com
 node	10929814310	http://www.siconte.it/it/punti-vendita/si-supermercati/camerino-via-bandini
 node	10930117518	https://enjoycamerino.it
 node	10931483345	https://www.marianiassicurazioni.it
@@ -1297,7 +1298,6 @@ node	11243554415	https://www.facebook.com/emozioniinlegnourbino
 node	11245138918	https://erdis.it/3-servizio-ristorazione-punti-di-ristoro-urbino/
 node	11245227955	https://www.urbinosecretgarden.it/default.aspx
 node	11247690836	https://sites.google.com/view/casa-vacanza-urbino/home-page
-node	11252869830	https://www.facebook.com/TimoRistoranteCivitanovaMarche
 node	11252926729	https://www.viphotels.it/hotel/hotel-residence-dei-duchi-urbino/
 node	11256846285	http://www.hotel-tortorina.it/
 node	11263977974	https://www.bbsassofiorito.it/it/
@@ -1312,6 +1312,14 @@ node	11297658384	https://www.etsy.com/it/shop/OfficinaGraficaUrb?ref=seller-plat
 node	11297749415	https://www.felicasacentrorisparmio.it/
 node	11303956502	https://www.booking.com/hotel/it/arco-augusto-fano.it.html
 node	11307672847	https://anconabaraccola.bloomest.it/
+node	11335707828	https://www.airbnb.it/rooms/32639590
+node	11336858922	https://www.osteriadellaspada.it/
+node	11342321709	https://www.toniromualdo.it/
+node	11342436912	https://www.filtcgil.it/sedi-filt/52-sedi-marche/1786-filt-marche.html
+node	11342436927	http://ankonautica.it/
+node	11342436928	https://www.superfastitalia.it
+node	11342436929	https://www.webtours.it/
+node	11342436930	https://www.lenavigroup.it/il-gruppo/ancona/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23678233	https://www.conad.it/ricerca-negozi/conad-superstore-via-guglielmo-marconi-61-60015--falconara-marittima--009860
@@ -1354,7 +1362,7 @@ way	75614891	http://www.asmontecatria.com
 way	81296770	https://www.allasolagna.it/
 way	82135616	http://www.quadrifogliohotel.it/
 way	93722799	https://www.campingstellamaris.it/
-way	96604905	http://www.scioviemontenerone.it
+way	96604905	https://www.scioviemontenerone.it/
 way	97176141	http://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	100298769	https://www.lagrancia.net/
 way	105812217	https://www.atlanticpesaro.it/
@@ -1726,7 +1734,7 @@ way	790201409	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-
 way	791271023	http://www.madonnadelsole.it/
 way	802442484	https://www.conad.it/ricerca-negozi/negozio.007668.html
 way	803357651	https://www.campingsibilla.it
-way	813176156	http://greenpowergen.it
+way	813176156	https://greenpowergen.it/
 way	818525864	http://www.asci-basescout.it/
 way	821444225	http://www.subtridente.it/
 way	824473008	https://www.stellaadriatica.it/
@@ -1885,7 +1893,7 @@ relation	11103526	https://www.comunesbt.it/Aree-tematiche/Quartieri-2/Porto-d-As
 relation	11103673	https://www.comunesbt.it/Aree-tematiche/Quartieri-2/Salaria
 relation	11103731	https://www.comunesbt.it/Aree-tematiche/Quartieri-2/Agraria
 relation	11103781	https://www.comunesbt.it/Aree-tematiche/Quartieri-2/Fosso-dei-Galli
-relation	11567554	http://ropewiki.com/Presale
+relation	11567554	https://ropewiki.com/Presale
 relation	12234549	https://www.comune.montelupone.mc.it/avvisi-cms/monitoraggio-impianto-fotovoltaico-di-san-firmano/
 relation	12379392	https://www.amastrofili.it/osservatorio/
 relation	13145363	https://www.marinadorica.it/
@@ -2212,5 +2220,6 @@ node	3184281715	http://www.facebook.com/frontemarepesaro
 node	5180660621	http://www.luoghidelsilenzio.it/marche/02_eremi/00049/index.htm
 node	10001454964	https://www.pietredellamemoria.it/pietre/monumento-ai-martiri-della-liberta-jesi-an/
 node	10048771656	https://www.iomangiobiologico.it
+way	31869757	https://pontesancarlo.comune.jesi.an.it/
 way	437828400	http://pesaro.fiere.name
 way	1109212826	https://www.mondavioturismo.it/area-camper-mondavio/
