@@ -1594,6 +1594,7 @@ node	5476722774	https://www.facebook.com/people/Libreria-Forense/100057216049974
 node	5476722835	https://www.quintocantohotel.com/
 node	5476723551	https://www.poste.it
 node	5486908173	http://www.comune.oliveri.me.it/
+node	5488707156	https://coopgrupporadenza.it/
 node	5491370733	https://www.conad.it/ricerca-negozi/conad-city-corso-vittorio-veneto-18-90030-palazzo-adriano--009258
 node	5495583396	https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_misi/ceske_urady_v_zahranici/italie_honorarni_konzulat_palermo.html
 node	5495865568	https://www.stagnonekitesurf.com/
@@ -1692,6 +1693,7 @@ node	5952387221	www.villaguilianarelais.it
 node	5953519902	http://www.farmacianeglia.it/
 node	5964620521	http://www.pacatviaggi.it
 node	5965009778	https://www.visitselinunte.com/parco-archeologico/
+node	5970221780	https://www.clinicacaruso.com/
 node	5987915850	https://www.larosaventi.com/
 node	5989439186	http://terraw.org
 node	5995084888	http://www.caffeginerva.com
@@ -2868,6 +2870,7 @@ node	9496693490	http://maluburger.it/
 node	9498347623	https://www.calderoneviaggi.com
 node	9500265977	https://dwweb.it/menu-sala-treporcellini/
 node	9501053553	https://www.ivigneri.it
+node	9502448299	https://www.capriccioaugusta.it/
 node	9510373411	https://www.famila.it/punti-vendita/sicilia/famila-market-palermo-via-oreto-218
 node	9517273830	https://www.procura.palermo.giustizia.it/
 node	9519021263	https://www.facebook.com/Panificio-Belvedere-Aragona-108849570745978
@@ -3066,6 +3069,7 @@ node	9975939937	https://ledueruote.net/
 node	9977271126	https://www.hotelbagliocatalano.com/
 node	9981874739	https://mydecogruppoarena.it/punto-vendita/f-lli-arena-s-r-l-65.html
 node	9986278566	https://monicacastiglioni.com/
+node	9988509015	https://www.clinicacaruso.com/
 node	9991099206	https://www.liceogaribaldi.edu.it/
 node	9999968719	https://pizzicottipizzeria.it/
 node	10007551122	https://iporticivillage.it/
@@ -3214,6 +3218,7 @@ node	10311536234	https://skiticchio-snc.business.site/
 node	10313842494	https://www.hotelvillasturzo.it/
 node	10336985545	https://parchiarcheologici.regione.sicilia.it/leontinoi/siti-archeologici/area-archeologica-di-leontinoi/
 node	10469518725	https://villadandrea.it/
+node	10543462745	https://www.clinicacaruso.com/
 node	10550535982	https://www.rdtconstruction.it
 node	10554808439	https://www.siciliainminiatura.net
 node	10560153429	https://www.ordinefarmacisti.ag.it/farmacie/?s=2&id=100
@@ -3505,6 +3510,9 @@ node	11277922141	https://www.poste.it
 node	11302770359	https://www.nomasvello.it/depilazione-laser-siracusa1-201-nomasvello
 node	11305057269	https://www.desparsicilia.it/
 node	11310859769	http://www.informa-giovani.net
+node	11331408919	https://www.clinicacaruso.com/
+node	11339176085	https://www.laterrazzasulporto.net/
+node	11339277229	https://www.commendadisancalogero.com/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	https://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -4092,7 +4100,7 @@ way	308232124	https://www.3icsr.edu.it/
 way	308232125	https://www.dodicesimosiracusa.edu.it/
 way	308232127	https://www.3icsr.edu.it/
 way	308232143	http://www.istitutocomprensivoarchimede.edu.it/
-way	308232149	https://www.undicesimosiracusa.edu.it/
+way	308232149	http://www.istitutocomprensivoarchimede.edu.it/
 way	308232927	https://www.istitutocomprensivoglradice.edu.it/
 way	308233501	https://www.chindemi.edu.it/
 way	308235480	https://www.chindemi.edu.it/
@@ -5512,12 +5520,15 @@ relation	7849034	http://www.cailinguaglossa.com/
 relation	7849210	https://www.cai.it/sezione/catania/
 relation	7849344	https://www.cai.it/sezione/catania/
 relation	7849365	https://www.cai.it/sezione/catania/
+relation	7849382	http://www.caiacireale.it/
 relation	7849473	http://www.caiacireale.it/
 relation	7849525	https://parcoetna.it/
 relation	7849637	https://www.cai.it/sezione/catania/
 relation	7854063	https://www.caipedara.it/
 relation	7854097	http://www.caibelpasso.org/
 relation	7854099	http://www.caibelpasso.org/
+relation	7854128	http://www.caibelpasso.org/
+relation	7854134	http://www.caibelpasso.org/
 relation	7854145	https://www.caipedara.it/
 relation	7854146	https://www.caipedara.it/
 relation	7858635	http://www.caiacireale.it/
@@ -5525,6 +5536,7 @@ relation	7872456	https://mappasentieroitalia.cai.it
 relation	7872628	https://mappasentieroitalia.cai.it
 relation	7874137	https://mappasentieroitalia.cai.it
 relation	7874964	https://www.sentieroitalia.it
+relation	7877986	https://www.cai.it/sezione/catania/
 relation	7909310	http://www.caibelpasso.org
 relation	7949026	https://www.facebook.com/CAIsicani/?locale=it_IT
 relation	7949575	https://www.facebook.com/CAIsicani/?locale=it_IT
@@ -5571,6 +5583,7 @@ relation	10394724	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=8
 relation	10400677	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=16
 relation	10400678	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=54
 relation	10423565	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=40
+relation	10704524	https://www.cai.it/sezione/bronte/
 relation	10788612	https://www.villaromanadelcasale.it/
 relation	10908967	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=175
 relation	11069759	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=45
@@ -5752,6 +5765,7 @@ relation	13016320	https://www.etnanatura.it/sentieri.php?nome=Bosco_di_Centorbi
 relation	13024262	https://www.caitaormina.it/
 relation	13027744	https://www.cairagusa.org/
 relation	13027817	https://www.cairagusa.org/
+relation	13028583	http://www.caibelpasso.org/
 relation	13028659	https://www.caipedara.it/
 relation	13028660	https://www.caipedara.it/
 relation	13028661	https://www.caipedara.it/
