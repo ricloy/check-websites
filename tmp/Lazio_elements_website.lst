@@ -32,13 +32,13 @@ node	72963655	http://www.comune.monteflavio.rm.it
 node	72963725	http://www.comune.orte.vt.it
 node	72963845	https://www.comune.valentano.vt.it/
 node	72963903	http://www.tarquinia.net/
-node	72964051	http://www.comunebarbaranoromano.it/
+node	72964051	https://www.comunebarbaranoromano.it/
 node	72964078	https://www.comune.bolsena.vt.it/
 node	72964080	http://www.comuneblera.gov.it/
 node	72964091	https://comune.fabricadiroma.vt.it/
 node	72964305	https://www.comune.bassanoromano.vt.it/
 node	72964340	https://www.comune.civitacastellana.vt.it/
-node	72964345	http://www.comune.vejano.vt.it/
+node	72964345	https://comune.vejano.vt.it/
 node	72964353	https://comune.vitorchiano.vt.it/home
 node	227995864	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/API41724
 node	227995866	https://www.tamoil.it/
@@ -2132,7 +2132,6 @@ node	4659488035	http://www.albergogalli.com/
 node	4659488036	https://www.hotelfenicia.it/
 node	4659895861	http://www.gastrociboecaffe.it/
 node	4659895867	https://www.facebook.com/BarBraccioDaMontone/
-node	4659895869	https://www.dalodi.com/
 node	4659895871	https://www.gelateriafattori.com/
 node	4659895872	http://www.darciriola.it/
 node	4660196074	https://www.facebook.com/Violetta-caff%C3%A8-cucina-718317308266363/
@@ -2362,7 +2361,6 @@ node	4906492142	http://www.buonemaniere.net
 node	4906535921	https://www.centrofuoco.com/
 node	4908436480	http://www.lemeridienviscontirome.com/
 node	4908985122	http://www.comparone.it
-node	4911021036	https://www.facebook.com/Farineinarrivabili/
 node	4920186122	https://www.farmaciagenovese.it/
 node	4920232121	http://www.infinito.it
 node	4921691879	https://www.terranostraorioloromano.it/
@@ -4412,6 +4410,7 @@ node	8899040920	https://www.pavilionshotels.com/rome/thefirstarte
 node	8908192123	www.alpassettodiborgo.it
 node	8910601513	https://alvecchiofienile.wixsite.com/rifugio
 node	8911377172	https://www.ristorantepizzeriadamonique.it
+node	8912410629	https://www.drmax.it/le-nostre-farmacie/minturno-via-appia-1092
 node	8913256041	warakuramen.com
 node	8917220218	https://www.shamrockrestaurant.it/
 node	8919660265	https://blublu.org/b/2014/12/25/porto/
@@ -5703,7 +5702,7 @@ node	11302138839	https://vinileria.it
 node	11310852569	https://triticummicropanificio.com/
 node	11314055669	https://www.racingnuoto.it/
 node	11315535308	https://www.centroautozianna.it/
-node	11327517991	www.fabra-casamiaenonsolo.com
+node	11327517991	https://www.fabra-casamiaenonsolo.com/
 node	11333617115	https://www.trelibrettisulcomo.it
 node	11336634807	https://www.comune.roma.it/web/it/municipio-ix-uffici-e-contatti.page?contentId=UFF31377
 node	11337946500	http://www.gruppomarini.it/
@@ -5712,6 +5711,11 @@ node	11337946502	http://www.gruppomarini.it/
 node	11338202475	https://cicciotto.pizza
 node	11340913139	https://nutrizionistadaleo.com
 node	11340917626	https://nutrizionistadaleo.com
+node	11349263798	https://www.drmax.it/le-nostre-farmacie/aquino-piazza-paolo-vi-1
+node	11349277434	https://www.drmax.it/le-nostre-farmacie/pontinia-via-camillo-benso-conte-di-cavour-33
+node	11349329581	https://www.drmax.it/le-nostre-farmacie/fara-in-sabina-via-giovanni-falcone-8-loc-passo-corese
+node	11358040076	https://kebhouze.com/
+node	11358052148	https://kebhouze.com/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -8052,6 +8056,7 @@ way	1196007912	https://www.ic-poggialispizzichino.edu.it/
 way	1196386352	https://www.santalessio.org/
 way	1197031949	https://www.trattoriavacunea.it/
 way	1200967224	https://100celleaperte.wordpress.com/
+way	1204398818	https://kebhouze.com/
 way	1204399041	https://www.unicooptirreno.it
 way	1205151514	https://www.diag.uniroma1.it/
 way	1206553073	https://icgcagliero.edu.it/
@@ -8068,6 +8073,7 @@ way	1218110420	https://www.icviapadresemeria.edu.it/plesso-leonardo-da-vinci/
 way	1221954040	https://questure.poliziadistato.it/Latina
 way	1222257598	https://www.aeronautica.difesa.it/2017/08/03/ventotene-inaugurata-elisuperficie-isola-di-santo-stefano-realizzata-da-reparti-genio-dellam/
 way	1222349327	https://termicaricambi.com/
+way	1222962395	https://www.oldwildwest.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -8663,6 +8669,7 @@ relation	13239349	https://agricenterpaolucci.it/index.php
 relation	13251551	http://www.sacrocuoregiussano.it/Page.asp/id=243
 relation	13251564	https://www.mercatidautore.com/mercati/condottieri/
 relation	13264416	https://www.golfmarcosimone.com
+relation	13289280	https://www.cinemaaquila.it/
 relation	13293405	https://www.icviadalverme.edu.it/
 relation	13293601	http://www.villarebecca.it/
 relation	13303370	https://www.simonettasalacone.edu.it/CMS/index.php?option=com_content&view=article&id=970:scuola-primaria-iqbal-masih&catid=85&lang=it&Itemid=338
@@ -8989,6 +8996,7 @@ node	11263105878	https://fear.vacationstay.eu/casa-vacanze-antica-volsinii-italy
 node	11265933899	https://www.levigne.it/
 node	11266842148	https://meridiano12.eu/
 node	11295755708	https://www.terradimemorie.it/lapide-in-memoria-delle-quattordici-vittime-del-rastrellamento-di-blera/
+node	11355784275	http://www.conventobolsena.org
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
 way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
 way	61011575	https://bagnaccio.it/
