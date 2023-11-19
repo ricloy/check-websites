@@ -2389,7 +2389,7 @@ node	7961950791	https://www.lego.com/en-it/stores/store/palermo
 node	7963686832	https://www.comune.pollina.pa.it/
 node	7963856843	https://www.comune.valderice.tp.it/
 node	7963885711	https://www.comune.paceco.tp.it/
-node	7964472893	http://www.partanna.gov.it/
+node	7964472893	https://www.comune.partanna.tp.it/
 node	7964934988	http://www.comune.montevago.ag.it/
 node	7966317801	https://www.comune.portoempedocle.ag.it/
 node	7966324225	https://www.comune.montallegro.ag.it/
@@ -3509,10 +3509,16 @@ node	11268038152	https://www.scillamarisnoto.it/
 node	11277922141	https://www.poste.it
 node	11302770359	https://www.nomasvello.it/depilazione-laser-siracusa1-201-nomasvello
 node	11305057269	https://www.desparsicilia.it/
-node	11310859769	http://www.informa-giovani.net
+node	11310859769	https://www.informa-giovani.net/
 node	11331408919	https://www.clinicacaruso.com/
 node	11339176085	https://www.laterrazzasulporto.net/
 node	11339277229	https://www.commendadisancalogero.com/
+node	11346564681	https://www.reggiadelsaraceno.com/
+node	11347167573	https://www.nerocento.it/
+node	11353695812	https://www.conad.it/ricerca-negozi/negozio.008966.html
+node	11357964587	https://www.facebook.com/civico27.it/
+node	11359598713	https://settesoli.it/
+node	11359598714	https://www.poste.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	https://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -4779,7 +4785,6 @@ way	741146320	https://www.poste.it
 way	741146322	https://www.poste.it
 way	741146324	https://www.poste.it
 way	741352397	https://www.poste.it
-way	741352401	https://www.poste.it
 way	741352409	https://www.poste.it
 way	741352410	https://www.poste.it
 way	741352412	https://www.poste.it
@@ -5028,7 +5033,6 @@ way	1052695714	https://www.icsamore.edu.it/
 way	1058548978	https://www.clubmed.it/
 way	1059466009	kamarina.it
 way	1060087246	https://www.icsvergascordia.it/
-way	1062863623	https://settesoli.it/
 way	1063831030	http://www.sciaccamusei.it/index.php?option=com_k2&view=item&id=7:project-2-name&Itemid=120
 way	1064658061	https://palazzocastelluccio.it
 way	1065496508	https://www.vigilfuoco.it/sitiVVF/palermo/dislocazione.aspx?s=205&p=279
@@ -6114,7 +6118,6 @@ way	153855158	http://www.mazaradelvallo.mercatinousato.com/
 way	154237068	http://www.cantinesanfrancesco.it
 way	158261673	http://www.poderefossarunza.it/
 way	160056154	http://ristorantesaro.it/
-way	165753580	http://www.16games.it/
 way	170024536	http://www.chiesamadrediisola.it/
 way	185266495	http://www.cantinecolombabianca.it/
 way	186884997	http://www.anticoborgomarinaro.it/
