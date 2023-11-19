@@ -411,7 +411,6 @@ node	4979023436	https://www.facebook.com/dolceesalatospoleto/
 node	4986178815	https://www.tavernadellospagna.it/
 node	4986707561	https://www.trattorialatorretta.com/
 node	4986915394	https://www.ganzo.top
-node	5000300521	http://www.caseificioferretti.it
 node	5005503338	https://www.umbra.org/
 node	5035076874	http://www.comunediattigliano.gov.it/
 node	5048105770	https://www.raftingmarmore.com/
@@ -613,7 +612,6 @@ node	8324733002	https://ristorantelabadiaorvieto.it/
 node	8368058413	https://www.iluoghidelsilenzio.it/?p=251371
 node	8368091715	http://www.iluoghidelsilenzio.it/?p=122985
 node	8368114026	https://www.iluoghidelsilenzio.it/?p=239365
-node	8461429624	https://www.lacampagnadiassignano.it/
 node	8591869964	https://www.lacasellaagriturismo.com
 node	8599088762	http://www.ilgaribaldino.com
 node	8639672623	https://www.instagram.com/jollyrogerperugia
@@ -821,6 +819,8 @@ node	11169436099	http://www.vogliadipizza1999.it
 node	11273622004	http://www.hotelorvieto.it/
 node	11310638069	https://www.incantodellanatura.com/
 node	11323177654	https://gymclubperugia.it/
+node	11344985917	https://www.circolodidatticomagione.edu.it
+node	11346033127	https://villaredenta.com/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1420,6 +1420,7 @@ way	1192416858	https://junior-club-terni.business.site/?utm_source=gmb&utm_mediu
 way	1199951195	https://www.agrieuro.com/
 way	1200896586	https://icperugia15.edu.it/struttura/piccione/
 way	1202487354	http://www.agriturismoiltruffarello.it
+way	1204236077	https://cocobistro.it
 way	1210565664	www.agriturismolamolinella.com/
 way	1217029171	https://www.iluoghidelsilenzio.it/chiesa-di-san-sebastiano-pupaggi/
 way	1220822571	https://www.cityhotelfoligno.com/
@@ -1533,7 +1534,6 @@ relation	8054848	https://www.viadifrancesco.it/
 relation	8054851	https://www.viadifrancesco.it/
 relation	8061172	https://dsa3.unipg.it/
 relation	8089052	https://www.fortesorgnano.com/
-relation	8090697	https://villaredenta.com/
 relation	8366019	http://www.lagotrasimeno.de/pg.itinerari.scheda.php?id=41&cat=2
 relation	8366096	http://www.lagotrasimeno.de/pg.itinerari.scheda.php?id=41&cat=2
 relation	8366581	http://www.lagotrasimeno.de/pg.itinerari.scheda.php?id=41&cat=2
@@ -1583,6 +1583,7 @@ relation	12023668	https://www.camminoprotomartiri.it/il-cammino-dei-protomartiri
 relation	12025896	https://www.camminoprotomartiri.it/il-cammino-dei-protomartiri-francescani/tappa-6-cammino-dei-protomartiri-da-cesi-a-terni
 relation	12170054	http://www.comune.spoleto.pg.it/turismoecultura/itinerari/itinerari-trekking/ex-ferrovia-spoleto-norcia/
 relation	12360586	https://www.sentieriamerini.it/
+relation	12370509	https://www.lacampagnadiassignano.it/
 relation	12495122	https://www.hortustodi.it/
 relation	12809773	http://www.ilsentierodifrancesco.it/
 relation	12819837	https://www.uslumbria1.it/pagine/poliambulatori-perugia-p-le-europa-e-p-s-giovanni
