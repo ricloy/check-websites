@@ -100,7 +100,6 @@ node	554198621	https://dilanaedaltrestorie.it/
 node	561306285	https://www.farmaciediturno.org/farmacia.asp?idf=10778
 node	566829316	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10805
 node	597503047	https://www.farmaciafratellimarciani.it
-node	597718577	http://www.portobelloareadiservizio.it/casalbordino.html
 node	618657096	https://www.ipercasa.eu
 node	619210339	https://www.eurobet.it/
 node	622196688	https://www.phonatonitalia.com/
@@ -212,6 +211,7 @@ node	1511501207	https://www.acquaesapone.it
 node	1512897664	http://caffevittoriachieti.it
 node	1515975321	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10583
 node	1515976018	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10584
+node	1528215806	https://restaurantguru.it/Bar-Full-Time-Chieti
 node	1561433491	https://m.facebook.com/Gran-Caffè-Cigno-Chieti-scalo-347681895417068/?ref=page_internal&mt_nav=1
 node	1562369207	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10585
 node	1563051984	https://www.albergodegliamici.it/ristorante.html
@@ -219,7 +219,6 @@ node	1563051993	https://www.albergodegliamici.it/
 node	1563065724	https://farmaciabrunori.it/
 node	1594837749	https://italia.indettaglio.it/ita/abruzzo/teramo_pineto_borgosantamariaimmacolata.html
 node	1617644379	https://www.semgroup.it/contatti/
-node	1617644380	https://m.facebook.com/ilGustoCh/
 node	1649575636	https://stores.tedi.com/tedi-acbe7f790862
 node	1652271120	https://www.poste.it/
 node	1656012730	https://www.acasadiluigi.it/
@@ -232,6 +231,7 @@ node	1763643170	http://www.concapeligna.it/Comuni/pratola/artcultu/musecivil/pra
 node	1767923012	http://rete.comuni-italiani.it/wiki/Cortino
 node	1776613539	https://www.oldwildwest.it/ristoranti/old-wild-west-chieti-megalo
 node	1776613544	https://fratellilabufala.com/
+node	1781680865	https://agriturismolacollinetta.it/
 node	1783789931	https://www.villabriccone.it/
 node	1817675067	https://www.cittasantangelovillage.com/negozi/bagaria-caffetteria/
 node	1817675068	https://www.cittasantangelovillage.com/negozi/cotton-silk/
@@ -444,6 +444,7 @@ node	3946861780	https://www.facebook.com/digiuseppemotorsavezzano
 node	3986181512	https://www.lagardeniabeb.it/
 node	3991359928	http://www.comune.roccamontepiano.ch.it/
 node	4103693665	https://www.spaziodesartistes.it
+node	4103694706	https://negozi.arcaplanet.it/abruzzo/te/teramo-viale-francesco-crispi-257-b
 node	4111985489	http://www.ristorantecittadella.it/
 node	4252919468	http://www.fattoriatanadellavolpe.com
 node	4252940766	http://www.fattoriatanadellavolpe.com
@@ -1413,7 +1414,6 @@ node	7621844292	https://mondo-baby-di-iacobozzi-germana.business.site/
 node	7621904414	http://www.moodphotography.it/
 node	7622488824	http://www.gdf.gov.it/
 node	7622781374	http://bibliotecapineto.tlm4.it/webopac/
-node	7622794524	https://www.poste.it/
 node	7623274223	http://www.dimagrimentoesalute.it/chi-siamo/
 node	7624132834	https://centralstudio.it/
 node	7624144152	https://www.federalpol.net/
@@ -2902,6 +2902,15 @@ node	11330912588	https://www.cittasantangelovillage.com/negozi/cmp/
 node	11332673325	https://casalelecrete.wordpress.com/
 node	11333193815	https://www.casedellacqua.net
 node	11341842983	https://www.bccabruzzese.it/
+node	11349069781	https://www.bec.energy/?lang=en
+node	11349070027	https://www.pompefunebrisanpio.it
+node	11351207643	https://www.bricoio.it/it/it/brit/storelocator/store/1250
+node	11351207644	https://stores.upim.com/it/italia/abruzzo/teramo/teramo-contrada-fiumicino
+node	11351978157	https://www.primissrl.it
+node	11355703014	https://www.bec.energy/?lang=en
+node	11360340207	https://www.urmet.com/it-it/
+node	11360443655	https://www.fuelflash.eu/it/italfuel-staroil-chieti-italia-5-via-tiburtina-valeria-km_-0000-pescara--69795/
+node	11361347057	https://www.pharmanextchieti.it
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -2986,7 +2995,6 @@ way	93982256	http://hotel-clorinda.roseto-degli-abruzzi.hotels-in-it.com/it/
 way	93982257	https://www.hotelpalmarosa.it/
 way	93982258	http://www.hotelfatinatrilli.it
 way	93982259	https://www.libertyroseto.it/
-way	93982260	http://www.radarhotel.it
 way	93985854	https://www.hotellina.net/
 way	93985856	http://www.residencefelicioni.com
 way	93989809	https://www.hotellaperla.it/
@@ -3015,6 +3023,7 @@ way	114412946	https://www.diocesipescara.it/wd-annuario-enti/pescara-centrale-66
 way	116640345	https://www.eurospin.it/punti-vendita/montesilvano-530410/
 way	120171255	https://www.aslteramo.it/ospedale-g-mazzini-di-teramo/
 way	122363921	https://www.diocesipescara.it/
+way	122581493	https://www.cuoreimmacolato.org/
 way	125433560	https://www.aslteramo.it/ospedale-di-santomero/
 way	126622254	https://www.aptar.com/it
 way	126705553	http://www.rifugioducadegliabruzzi.it
@@ -3035,6 +3044,7 @@ way	137475563	https://www.unich.it/
 way	137535991	https://chieti.aci.it/
 way	138166809	https://www.albergoabruzzo.it/
 way	141134674	https://www.unite.it/UniTE/Bioscienze_e_tecnologie_agro-alimentari_e_ambientali
+way	142601531	https://www.maurys.it/
 way	142719390	http://www.ciapiabruzzo.it/
 way	144391302	https://www.info.asl2abruzzo.it/ospedalechieti/direzione-sanitaria.html
 way	146465117	https://www.bblepalme.it/
@@ -3083,6 +3093,7 @@ way	236139590	https://www.conad.it/ricerca-negozi/negozio.007028.html
 way	236565428	"https://www.poste.it/cerca/index.html#/risultati-cerca-up/67100%20L'Aquila,%20AQ,%20Italia"
 way	239166775	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-onofrio-allorfento/
 way	240113521	https://sirio-toyota.it
+way	242929487	https://www.izs.it/
 way	243063904	http://www.protezionecivile-fontecchio.it
 way	246885192	https://it-it.facebook.com/emissario.capistrello/
 way	247257998	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150264&pagename=157031
@@ -3184,6 +3195,7 @@ way	391270420	https://portal.ponzioaluminium.com/it/professionisti/contatti/
 way	391293962	https://www.bb30.it/bed_and_breakfast/bed_and_breakfast_La_Dimora_dei_Venti_Pineto_BB16202.htm#map-position
 way	397130509	https://www.mammarosa.it/
 way	404699998	https://www.valledeicerri.it/
+way	409227903	http://www.parrocchiacartecchio.it/
 way	419738715	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-germano-di-pacentro/
 way	420137868	http://www.simbruini.it/
 way	422839507	https://www.hotelvillaluigi.it/
@@ -3239,6 +3251,7 @@ way	501213648	https://www.villaducadegliabruzzi.com
 way	503504129	https://cooperativatavolarotonda.com/camping-orsa-minore/
 way	503526781	https://abruzzo.agenziaentrate.it
 way	503947374	http://www.madaservice.it
+way	508454795	https://www.poste.it/
 way	509869857	https://www.facebook.com/Punto-Basilio-146108355549139/
 way	512987347	http://www.daitaliasansalvo.it/
 way	516713716	https://hotelcercone.it/
@@ -3802,6 +3815,7 @@ way	1214086034	https://www.facebook.com/profile.php?id=100027756471959&sk=about
 way	1214399157	https://www.comune.montebellosulsangro.ch.it/
 way	1215094040	https://www.apicolturalucafinocchio.it/
 way	1215094044	https://www.facebook.com/groups/213017468747809/about/
+way	1223142723	https://www.onpmi.org/case-di-accoglienza/ofena-aq/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -3908,6 +3922,7 @@ relation	12612859	https://camminodeibriganti.it
 relation	12612860	https://camminodeibriganti.it
 relation	12612862	https://camminodeibriganti.it
 relation	12612863	https://camminodeibriganti.it
+relation	12640328	https://www.abruzzoairport.com/
 relation	12666952	https://www.comune.casacanditella.ch.it
 relation	12701796	https://www.wwf.it/progetto_fratino/
 relation	12705226	https://fatergroup.com/
