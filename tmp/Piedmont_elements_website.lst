@@ -3036,7 +3036,6 @@ node	5478177290	https://it.mathworks.com
 node	5482049568	http://www.museodellafrutta.it
 node	5483999429	https://www.babysart.net/
 node	5484015906	https://www.bicierin.it/
-node	5484610822	https://www.amiat.it/servizi/centri-di-raccolta
 node	5485421468	http://www.palco19.com
 node	5487212744	https://www.poste.it
 node	5489085627	https://marcellorissoarchitetto.com/
@@ -5922,6 +5921,9 @@ node	11315868770	https://www.casabona1910.it/
 node	11325937920	https://www.domoticasaimmobiliare.it/
 node	11328834099	https://valminier.com/
 node	11336770904	https://it-it.facebook.com/LoopTorino/
+node	11348172370	https://www.occhialifabbricatorino.it/
+node	11351358803	www.senfors.it
+node	11363832344	https://laplacette.it/
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6423,6 +6425,7 @@ way	195428779	https://www.jack-fruit.it
 way	195440500	https://www.eurospin.it/punti-vendita/vercelli-via-trattato-di-roma/
 way	195619802	http://www.golfverbania.it
 way	195819419	https://www.baravallemacchine.com
+way	196336098	https://www.caitorino.it/rifugi/leonesi
 way	196653197	https://www.olivari.it/
 way	196653215	https://sab.concessionaria.renault.it
 way	197064493	https://www.auxologico.com/hospitals/auxologico-piancavallo
@@ -7183,7 +7186,6 @@ way	304450303	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	304450304	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	304465186	http://www.bibliotecarchimede.it/
 way	304465993	https://www.mu-ch.it/
-way	304564859	http://www.stresabike.it
 way	304786252	https://www.villascati.it/
 way	304786680	https://www.villascati.it/
 way	304798243	http://www.hotelvictoria-torino.com
@@ -7329,6 +7331,7 @@ way	332576045	www.marconi-galletti.it
 way	333390069	http://www.ortodossiatorino.net/
 way	333433524	http://www.caivarallo.it/valsesia/sentieri-valsesia/sentieri-valsesia-dettaglio.php?sentiero=408
 way	333536373	http://www.parrocchiacrocetta.org/
+way	333683075	https://www.igorpneumaticitorino.com/
 way	333945007	http://www.prontotaxi5737.it/
 way	334328379	https://www.tenutailcorvo.it/
 way	334598197	http://www.fortesan.it/centro_fortesan.php?id=2583
@@ -9166,7 +9169,6 @@ relation	8705330	https://www.estmonterosa.it/catasto-percorsi-vco-valle-strona-s
 relation	8760535	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
 relation	8760819	http://www.caiivrea.it/
 relation	8761237	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
-relation	8762418	https://percorsi.estmonterosa.it/NOAV/VH2.pdf
 relation	8765336	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 relation	8783098	http://www.caiivrea.it/
 relation	8788209	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
@@ -9389,6 +9391,7 @@ relation	9436905	https://www.estmonterosa.it/percorsi-vco.html
 relation	9444324	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html://www.estmonterosa.it/percorsi-vco.html
 relation	9463667	https://www.estmonterosa.it/catasto-percorsi-vco-valle-devero-settore-h.html
 relation	9464328	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html
+relation	9465855	https://percorsi.estmonterosa.it/d/D00(4).pdf
 relation	9478803	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html
 relation	9479088	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html
 relation	9485098	https://www.estmonterosa.it/catasto-percorsi-vco-valle-anzasca-settore-b.html
@@ -10661,6 +10664,7 @@ node	11146443901	https://cristianamarengo.it/
 node	11290308901	https://domori.com
 node	11331948943	https://www.ilbrusafer.com
 node	11335553434	https://www.batteryclinic.it
+node	11361346932	https://www.agriturismolafontanella.it/
 way	24600050	https://booking.isoleborromee.it/it/product/7/detail
 way	39670307	https://www.bardonecchia.it/strutture/posto-tappa-valfredda/
 way	58323423	http://www.aeroclubvercelli.it/
@@ -11571,6 +11575,7 @@ relation	12221744	https://percorsi.estmonterosa.it/t/T32a/T32a.kml
 relation	12221745	https://percorsi.estmonterosa.it/t/T34b/T34b.kml
 relation	12221747	https://percorsi.estmonterosa.it/t/T36a/T36a.kml
 relation	12221789	https://percorsi.estmonterosa.it/t/T26/T26.kml
+relation	12420496	http://percorsi.estmonterosa.it/c/C06/C06.kml
 relation	12474194	http://danbag.altervista.org/PercorsiVCO/XP1c/XP1c-FTP.kml
 relation	12588061	https://percorsi.estmonterosa.it/m/M37a/M37a.kml
 relation	12645455	https://percorsi.estmonterosa.it/d/D06.pdf
