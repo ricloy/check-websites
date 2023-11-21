@@ -1494,10 +1494,12 @@ node	6244075533	http://www.dimesrl.com/
 node	6251530493	https://genova.mid.ru/ru_RU/
 node	6262199253	https://www.cianciarredamenti.com/
 node	6262199254	https://www.cianciarredamenti.com/
+node	6283580219	https://www.emiluxsavona.it
+node	6283580383	https://www.ristorantejindu.org
 node	6283592725	https://www.buranchetto.com/
 node	6283611454	https://emmegrafica.net/
 node	6314666654	https://www.glfc.it/it/
-node	6329603092	http://www.raviolhouse.it
+node	6329603092	https://www.raviolhouse.it/
 node	6329603093	https://www.massarija.com/
 node	6355038388	http://www.poterie.it
 node	6357081998	https://www.hotellapalma.it/
@@ -1959,6 +1961,7 @@ node	9747478096	https://www.studiopilatessarzana.it/it/
 node	9747478102	https://www.gd-grafichedigitali.com/
 node	9747478103	https://buffetti.it/il-business/
 node	9752186190	https://m.facebook.com/pages/category/Restaurant/Ristorante-il-casale-cosseria-343598449097483/?locale2=it_IT
+node	9757907692	https://kebhouze.com/
 node	9773774958	https://www.anticatrattoriailcucco.it/
 node	9782235126	https://www.iltuoserramentosrl.it/
 node	9814326200	https://www.santegidioliguria.org/
@@ -2152,10 +2155,13 @@ node	11296079063	https://il-profumo-del-mosto.business.site
 node	11304954886	https://turismovallesanlorenzo.com/parco-novaro/
 node	11307971251	https://www.paniegrani.net
 node	11307971252	https://www.ristopub82.it
-node	11316391587	lavogliadigenova.it
+node	11316391587	https://www.lavogliadigenova.it/
 node	11328364825	http://7suites.it/fr/
 node	11335898465	https://www.grandhotelarenzano.com/en/3856/Restaurant/Our-cuisine
 node	11346014793	https://www.agriturismosantilario.it/it/
+node	11360387773	https://www.dueclic.com
+node	11364480407	https://www.crocebianca.it/
+node	11364480415	https://cri.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2163,7 +2169,7 @@ way	19614796	https://corporate.enel.it/it/futur-e/impianti/genova
 way	22703883	http://www.dopart.it/genova/
 way	22789353	http://www.santuariodelmonte.it/
 way	22969165	https://www.acquariodigenova.it/bigo-panoramic/
-way	22977972	https://www.museidigenova.it/it/museo-darte-contemporanea-di-villa-croce
+way	22977972	https://www.museidigenova.it/en/contemporary-art-museum-villa-croce
 way	22978285	https://www.acquariodigenova.it/
 way	23061191	https://www.fsm.it/
 way	23515010	http://www.mercatodelcarmine.it/
@@ -2522,7 +2528,6 @@ way	219242456	http://www.imterminal.it/
 way	219698319	http://www.ledakos.it/
 way	219905604	https://marinaportoantico.it/
 way	220104185	https://www.camperparkgenova.it/
-way	222255335	https://www.dueclic.com
 way	222753312	http://www.interportovio.it/
 way	222822714	http://www.campingcapomele.it/
 way	223153239	http://www.agriturismomonterosso.it/strutture.html
@@ -2595,6 +2600,7 @@ way	255994324	www.facebook.com/basenauticamercury
 way	256859697	https://www.villailpoggiolo.it/
 way	256949051	https://www.bordighera.it/storia/luoghi_ed_edifici/giardini_belvedere_lombardi
 way	257434869	http://www.capo-mimosa.net/
+way	259258752	https://www.camping-vallescura.it/
 way	259376236	http://www.sogecodepo.it/
 way	260108728	https://www.facebook.com/people/La-locanda-del-marinaio/100063695581006/
 way	260108729	https://www.marinadiving.com/
@@ -2622,6 +2628,7 @@ way	298213727	https://www.genova7.it/basi
 way	301242652	https://www.hotelrivieravarazze.it/
 way	302293387	https://www.ilvillaggiodigiuele.it/
 way	302321299	http://www.pvlungomare.com/
+way	305438517	https://sampei-pesca-genova.it/
 way	314411066	http://www.iisl.it/
 way	315071729	https://www.sviluppoeconomico.gov.it/index.php/it/?option=com_content&view=article&id=2011606
 way	317181530	https://www.sportivasturla.it/
@@ -3496,6 +3503,7 @@ relation	16340754	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-lig
 relation	16412012	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#ipd=62676736
 relation	16436073	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#ipd=62676752
 relation	16469507	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#dm=1&ipd=62676738
+relation	16730351	http://www.quotazero.com/forum/viewtopic.php?f=15&t=21644&p=354505
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1315100281	www.libreriaragazzi.com
