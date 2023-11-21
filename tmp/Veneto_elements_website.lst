@@ -1,6 +1,7 @@
 @type	@id	website
 node	26859406	https://campingbergamini.it/en/
 node	26859874	http://www.campingvicenza.it
+node	32824612	https://www.dunarossa.com/
 node	64778487	http://www.comune.canaro.ro.it/hh/index.php
 node	64778490	https://www.comune.castelmassa.ro.it/
 node	64778555	https://www.comune.gaiba.ro.it/
@@ -51,7 +52,6 @@ node	303100506	http://volpara.com/
 node	303116724	https://www.colvetoraz.it/
 node	304230205	https://aulss7.veneto.it/
 node	305329116	https://www.dallamena.it/
-node	306105969	http://www.malgarossaweb.it
 node	310173221	https://www.villapalma.eu
 node	311389293	https://www.carlafailela.it/
 node	313883915	http://www.oasidicasale.it/
@@ -459,7 +459,6 @@ node	1452169334	https://www.hotelalcason.com
 node	1452290864	https://www.la-vecchiafattoria.it/
 node	1452360575	https://www.centroveneto.it/
 node	1452373298	https://www.bbaileoni.com
-node	1452373305	https://www.osteriascalin.it/
 node	1454717711	www.kilometrizero.eu
 node	1458908112	https://www.crai-supermercati.it/punti-vendita/pdv.php?id=252
 node	1458908123	https://www.gelateriagiannipadova.com
@@ -516,6 +515,7 @@ node	1508792164	https://www.pasticceriazamuner.it/
 node	1510217928	https://www.pasticceriaducale.it/
 node	1511628651	http://www.bpv.it
 node	1513077860	www.ledelizie.biz
+node	1520359515	https://www.rifugiopassoduran.it/
 node	1521729309	https://it-it.facebook.com/pages/Trattoria-al-Metano-Da-Anna/314258748604147
 node	1521846677	https://www.danielihotelvenice.com/
 node	1521865296	https://www.venezia.isprambiente.it/istituto
@@ -1409,6 +1409,7 @@ node	3089443852	https://labocchetta.it
 node	3093830882	https://www.comune.gaiba.ro.it/scavi-archeologici-in-chiunsano.html
 node	3098745752	https://www.scamperleortofrutta.it/
 node	3102549037	https://www.relaisvenezia.com/
+node	3107463537	https://www.facebook.com/pizzeriasanquirico
 node	3109007665	http://www.traguardovolante.com/
 node	3109195828	http://www.bdtrubano.it/
 node	3112482052	http://www.osterialacarega.com/
@@ -1479,7 +1480,7 @@ node	3279218627	http://www.osteriailborgodeitemplari.it/
 node	3280121270	http://www.novation.it/
 node	3280217427	https://www.passsport.it/default.asp
 node	3280925951	https://www.tesla.com/findus/location/supercharger/veronasupercharger
-node	3281938438	http://www.museialtovicentino.it/musei/patrimonio-industriale/283-spazio-espositivo-lanificio-conte.html
+node	3281938438	https://www.museialtovicentino.it/musei/patrimonio-industriale/283-spazio-espositivo-lanificio-conte.html
 node	3284592569	https://www.palladiomuseum.org/
 node	3286314533	https://www.arthouse.it/
 node	3286314534	https://www.arthouse.it/
@@ -1759,6 +1760,7 @@ node	3858713857	https://www.pentaonline.it/
 node	3859019185	https://www.ristorante-veneranda.it/
 node	3859019186	https://www.ristoranteguglielmini.it/
 node	3861381512	https://www.enotecaenos.com/
+node	3861381527	https://www.ristorantebucintoro.it/
 node	3861552020	http://www.nettunohotel.com
 node	3861552021	https://www.hotelveneziacaorle.it/
 node	3861552023	http://www.internationalbeachhotel.it
@@ -2212,7 +2214,7 @@ node	4531882426	http://www.cartoleria-camiololaura.it/
 node	4531884970	https://www.farmaciatrevigiana.it/
 node	4531887749	https://mocainteractive.com/
 node	4531887982	https://daspillo.it/
-node	4531888009	www.trattorianorge.com
+node	4531888009	https://www.trattorianorge.com/
 node	4531889985	https://bastianosteria.it/
 node	4531895889	https://www.studiomunarolo.it/
 node	4531901531	https://cavasingiardinaggio.it/
@@ -2693,7 +2695,7 @@ node	5108754643	https://www.logos.rovigo.it/
 node	5108756961	https://www.logos.rovigo.it/
 node	5109284821	https://www.osteriamondodoro.it/
 node	5110931508	http://www.e-coop.it/web/guest/punti-vendita-dettaglio?id=4817
-node	5117168169	www.stars4all.eu
+node	5117168169	https://www.stars4all.eu/
 node	5117793121	http://supermercati-riviera.jany.io/
 node	5119874871	https://www.comune.jesolo.ve.it/
 node	5128041145	http://palazzovictoria.com/
@@ -3043,7 +3045,7 @@ node	5783333257	http://www.villaguastaverzabottura.com
 node	5783333258	https://www.caribe.it/
 node	5787092379	https://www.casadianna.net/
 node	5792005934	http://www.bebcentrostorico.it/
-node	5792049070	http://www.albergocappello.com/
+node	5792049070	https://www.albergocappello.com/
 node	5792059834	https://www.lapiave.net/
 node	5792073395	http://www.bbgaribaldibelluno.it
 node	5792575639	https://www.eurobrico.com/
@@ -4191,7 +4193,7 @@ node	7490350306	https://www.anticaosteriavalpolicella.it/
 node	7490363349	http://hotelvilladelquar.it/
 node	7504583995	https://www.mazzari.it/
 node	7506069052	https://moserdistribuzionebibite.myadj.it/v/moserdistribuzionebibite
-node	7521621685	http://www.eclisse.it
+node	7521621685	https://www.eclisse.it/
 node	7531978255	https://country-house-dalla-caterina.business.site
 node	7532093152	https://www.villadellatorre.it
 node	7532201286	https://www.costadegliulivi.com/
@@ -4423,7 +4425,7 @@ node	8080393948	https://www.agriturismolapausa.it/
 node	8082868757	http://www.toyscenter.it/
 node	8084081924	https://barbaraestetica.it/
 node	8084217284	http://www.jurri.it/
-node	8084646730	http://www.immobiliareghedin.it
+node	8084646730	https://www.immobiliareghedin.it/
 node	8084656542	https://greatdeals24.it/
 node	8085608620	http://portanova12.com/Artisti/andrea-roule/
 node	8092972911	https://www.artediabitare.it/web/immobiliare.asp?language=ita&group_cod_agenzia=8105
@@ -5196,7 +5198,7 @@ node	9833951231	www.quota101.com
 node	9833952966	https://www.terre-preziose.com/
 node	9834324512	https://bikeandgo.it/
 node	9835841811	https://www.happycasastore.it/
-node	9835841815	www.hotelvillacarpenada.it
+node	9835841815	https://www.hotelvillacarpenada.it/
 node	9836112973	https://www.insmercato.it/
 node	9836112977	https://www.farmaciasanvalentino.com/
 node	9839529316	https://www.bottegatredici.com/
@@ -5968,6 +5970,7 @@ node	11274901550	https://chioggiafarmacia.it/
 node	11276131568	https://www.cortedellegiuggiole.com/
 node	11279260857	https://www.bancapatavina.it
 node	11280121740	http://www.cadelmorovenice.com
+node	11280367660	https://cantondelgusto.it/
 node	11280367661	http://www.oficinadarte.it/
 node	11283481578	https://www.gabetti.it/agenzie-immobiliari/conselve/1132
 node	11283885117	https://opengatepub.it/
@@ -6002,6 +6005,22 @@ node	11331183190	https://kebhouze.com
 node	11337984307	https://www.ciasacoletin.com/
 node	11345246101	https:// mobilimerlinshop.com
 node	11346941432	https://www.bancaprealpisanbiagio.it/privati/
+node	11348607121	https://www.volaonlus.it/
+node	11348617204	https://www.facebook.com/La-botega-dal-1927-373396429339577/
+node	11348617206	https://brks.it/
+node	11348617208	https://www.zamuner.it/
+node	11348816039	https://www.labottegadellafoto.it
+node	11350890285	https://www.teatrodellemming.it/
+node	11353679709	https://www.cortetorcolodelgarda.com
+node	11355741897	https://www.scuoledelcaburlotto-caorle.it/scuola-dellinfanzia/
+node	11355741905	https://website--2429922855220675793164-restaurant.business.site/
+node	11355741944	https://www.gioielleriarigon.it/
+node	11355741955	https://www.calzedonia.com/it/negozi/veneto/venezia/caorle_rio_terra__delle_botteghe_49/CP20.html
+node	11355741956	https://filofilato.business.site/
+node	11356390393	https://comprensivovr11.edu.it
+node	11356390394	https://www.comprensivovr11.edu.it/
+node	11356390395	https://www.comprensivovr11.edu.it/
+node	11356593434	https://www.cortequadri.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
 way	19912693	http://www.iispacinottive.it/
 way	22561329	https://www.agenziapo.it/idrovia/idrovia-po-brondolo
@@ -6098,6 +6117,7 @@ way	59294605	http://www.camp-cappuccini.com/
 way	59321950	https://m.facebook.com/lagopontealto/
 way	59385049	http://www.cimagrappa.it/
 way	59397456	https://www.villaparcobolasco.it/
+way	59563595	https://www.comune.cervarese.pd.it/Luoghi?ID=618
 way	60338452	https://www.campingbelvedere.com
 way	60447484	https://www.lissa.it/
 way	60958905	https://www.salusterme.it/
@@ -6177,7 +6197,7 @@ way	88071138	www.hotelariane.it
 way	88071158	http://www.icscarre.it/dante-alighieri-di-zane/
 way	88227718	https://www.garnionda.com/
 way	88452146	https://www.vegapark.ve.it/
-way	88629364	www.nevioscala.it
+way	88629364	https://www.nevioscala.it/
 way	89519560	http://www.oasicervara.it/
 way	89520169	https://www.trattoriaalgallo.com/
 way	89721892	http://www.labarcaccia.com/
@@ -6246,6 +6266,7 @@ way	111732888	http://www.bazzarellobike.it
 way	111825992	https://www.caiveneto.it/bivacco/dalla-bernardina
 way	112588908	https://www.sabait.it/en/parking-venice-mestre/parking-saba-stazione
 way	112800942	https://www.hotelolimpiacortina.com/it/home
+way	112801189	https://parrocchiacortina.it/le-chiese-succursali/chiesa-della-madonna-della-difesa/
 way	112802220	https://www.hoteloasi.it/
 way	112802538	https://www.sporthotelcortina.it/
 way	112802612	https://www.franceschiparkhotel.com/
@@ -6315,7 +6336,7 @@ way	131727393	boomerangclub.it
 way	131727907	https://www.trtrucks.it/
 way	131730020	https://www.barchessadario.com/
 way	131762271	http://www.padovanet.it/dettaglio.jsp?id=9211#.UAQPtNlDh8E
-way	131797082	http://9icpadova.it/index.php/le-scuole/206-scuola-primaria-4martiri
+way	131797082	https://9icpadova.it/index.php/le-scuole/206-scuola-primaria-4martiri
 way	131798149	https://www.ruzzasergio.it/
 way	131798543	http://www.abbaziasantagiustina.org
 way	131799858	https://www.residenzaforcellini.it/
@@ -7534,7 +7555,6 @@ way	263147742	https://www.dallabarbaelisa.com/
 way	263510441	http://www.tirosportivovaleggio.com/
 way	264209672	https://www.santangelopiove.net/Comune/Associazioni/Culturali/bosco
 way	269362535	https://www.comune.merlara.pd.it/hh/index.php?jvs=0&acc=1
-way	269508595	http://www.museicollieuganei.it
 way	270598691	https://www.centrouniversitariopd.it/
 way	271116065	http://www.volpatogroup.it/
 way	271412418	https://www.pampanorama.it/punti-vendita/padova-santa-croce
@@ -7661,8 +7681,6 @@ way	346583242	https://www.pcmontecchio.it/
 way	346586528	https://sites.google.com/site/clubspeleologicoproteo/
 way	347679273	https://www.galileivr.edu.it/
 way	347679275	https://www.einaudivr.edu.it/
-way	347959536	https://www.comprensivovr11.edu.it/
-way	347960680	https://www.comprensivovr11.edu.it/
 way	348490561	http://www.percorsomediapianuravicentina.it/
 way	350162456	http://www.campingmammalucia.it/
 way	350903204	https://www.negrisolo.it/
@@ -8290,7 +8308,7 @@ way	1081036064	https://www.bristol-hotel.it
 way	1081036065	https://elpiro.elpiro.com
 way	1081036069	https://m.hotelconchiglia.com
 way	1081595659	https://www.supermercativisotto.it/
-way	1082594869	http://www.hotelcesareaugustus.com
+way	1082594869	https://www.hotelcesareaugustus.com/
 way	1083608306	https://www.leonardo-hotels.it/
 way	1086795122	https://www.gdf.gov.it/
 way	1087714164	https://www.nihaogroup.it/
@@ -8462,6 +8480,7 @@ way	1217774802	https://ilparcodelladige.com/
 way	1218973437	https://www.icportotolle.edu.it/
 way	1220384754	https://www.villaboni.com
 way	1222353585	https://hotelnoventa.com/
+way	1223846545	https://www.comune.cervarese.pd.it/Luoghi?ID=618
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -8714,7 +8733,6 @@ relation	5120316	http://www.caisezionethiene.it/
 relation	5120394	http://www.caisezionethiene.it/
 relation	5123952	http://www.caivalpolicella.it
 relation	5167236	https://biblioinrete.comperio.it/library/biblioteca-pubblica-di-riviera-berica/
-relation	5185752	http://www.comprensivovr11.gov.it/
 relation	5195410	https://www.caimalo.it/
 relation	5205405	http://www.terredelcustoza.com/
 relation	5205416	http://www.terredelcustoza.com/
@@ -9212,8 +9230,6 @@ relation	14168265	https://www.miramarecamping.com/
 relation	14168297	https://www.campinginternazionale.net/
 relation	14171087	https://www.bibione.com/it/dettagliopuntointeresse/167-giralagune/
 relation	14183580	https://www.visitcavallino.com/media/1967/mappa_ciclopedonale_2022_web.pdf
-relation	14298554	https://www.dunarossa.com/
-relation	14344601	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/137-bi12-ciclovia-pedemontana-alpina
 relation	14362251	https://www.iliad.it/?utm_source=google&utm_medium=Yext&utm_campaign=4494
 relation	14386004	https://www.outdooractive.com/de/route/bergtour/sappada/sentiero-dei-tre-paesi-julius-kugy-in-30-tappe-estensione-e-24b/39652445/
 relation	14730695	https://www.viaromeagermanica.com/
@@ -9297,6 +9313,8 @@ relation	16485876	https://www.veneto.eu/IT/Garda-Venezia
 relation	16485877	https://www.veneto.eu/IT/Garda-Venezia
 relation	16485878	https://www.veneto.eu/IT/Garda-Venezia
 relation	16665779	https://www.clodi.it/
+relation	16695336	https://visitborgovalbelluna.it/percorso/zelant-praderadego-col-de-moi-n-2313-2313a/
+relation	16695374	https://visitborgovalbelluna.it/percorso/zelant-praderadego-col-de-moi-n-2313-2313a/
 node	64778383	http://www.comune.cittadella.pd.it/
 node	256072226	www.padovafarmacie.it
 node	262650779	http://www.lidopaina.it
@@ -9308,6 +9326,7 @@ node	325130331	http://www.caffepedrocchi.it/
 node	345598737	http://www.hoteloasieste.it/
 node	382367883	www.cristinaefranco.com
 node	456270980	http://www.ristorantelapacemalcesine.com
+node	476506948	https://www.pizzerialafenice.eu/
 node	495261072	https://ilgiardinetto.eu/
 node	512008215	https://www.navigazionelaghi.it
 node	520544050	www.molinettodellacroda.it/
@@ -9365,7 +9384,6 @@ node	1470942554	http://www.villaemo.it
 node	1471087754	http://www.galbassapadovana.it
 node	1471087761	http://www.galpatavino.it/
 node	1471087768	http://www.venetianhostel.it/
-node	1471280638	http://castellosanmartinodellavaneza.it
 node	1471840038	www.ristorantelemacine.info
 node	1473107180	www.caffepigafetta.it
 node	1473107184	www.selfrighetti.it
@@ -10209,6 +10227,7 @@ node	11241833923	https://www.centrogiotto.com/negozi/pittarosso/
 node	11241833927	https://www.centrogiotto.com/negozi/la-feltrinelli/
 node	11241833928	https://www.centrogiotto.com/negozi/bettin/
 node	11241833929	https://www.centrogiotto.com/negozi/bluespirit/
+node	11355741902	https://www.caorle.eu/en/discover/caorle-on-bike/caorle-on-bike
 way	27196208	http://www.archeoveneto.it/portale/wp-content/filemaker/stampa_scheda_estesa.php?recid=34
 way	30977414	https://www.facebook.com/Agrimarchetto2003saonara/?locale=it_IT
 way	46970550	https://padovanet.it/informazione/monumento-memoria-e-luce
