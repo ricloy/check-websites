@@ -13,6 +13,7 @@ node	329970365	http://www.vintora.it/
 node	335752015	https://www.colverde.it/camping/
 node	344856276	https://www.ristorantemontecucco.it/
 node	428480597	http://www.palazzinasabatelli.it/
+node	429157908	https://beacons.ai/lumierebottegapop
 node	429161267	https://www.bper.it/scheda-filiale/-/filiale/marche/ancona/agenzia-10060
 node	437172834	https://www.cityhotel.it/it/
 node	437190514	https://rotondabruscoli.business.site/
@@ -649,6 +650,7 @@ node	5232390257	https://www.italms.it
 node	5236283556	http://www.clat.it/
 node	5250257621	https://marinellistudiocom.business.site/
 node	5270931604	https://www.mcdonalds.it/ristorante/marche/ancona/ancona-torrette
+node	5294680845	https://www.pizzabiancamore.it/
 node	5297665412	http://www.agriturismoloscoiattolo.it
 node	5312777922	https://www.unieuro.it/online/negozi/Unieuro-Ascoli-Piceno---viale-Indipendenza
 node	5321860021	https://www.peverelliandco.com
@@ -1340,6 +1342,13 @@ node	11346100676	http://www.arteplastica.it/
 node	11346193768	https://www.romagnoliarredi.com/
 node	11350646997	https://www.superautoottaviani.it/
 node	11350965548	https://www.neneurbino.com/
+node	11365460568	https://duearchipizzeria.sitoup.com/
+node	11365718908	https://www.adcmobility.it/
+node	11366816949	https://www.canonici.it/
+node	11371855769	https://terredelpiano.it/
+node	11371892569	https://www.prontocampi.nl/
+node	11374534426	https://etoilebistrot.com/
+node	11375095924	https://www.ristorantelevante.com/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1849,6 +1858,7 @@ way	1210601660	https://www.ristorantenordest.it
 way	1212197095	https://icpetritoli.edu.it/
 way	1214756685	https://www.sacrocuoredigesu.org/
 way	1220131004	https://comune.loreto.an.it/
+way	1226716982	https://ambiente.regione.emilia-romagna.it/it/parchi-natura2000/aree-protette/riserve-naturali/onfe/carta-identita
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -1941,6 +1951,8 @@ relation	15657082	https://pedalareconlentezza.com/muro-ortezzano/
 relation	16051021	https://visitaltemarche.it/ciclo-appeninica/
 relation	16408219	https://www.ascolitrailarea.it/tracks/fall-and-flow/
 relation	16412210	https://www.ascolitrailarea.it/tracks/longobards-ring/
+relation	16751540	https://camminoterremutate.org/
+relation	16752347	https://whc.unesco.org/en/list/1692
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
@@ -2151,6 +2163,7 @@ node	11023063270	https://museostoricoaeronautico.it/
 node	11100186063	https://www.gramaglia.it/
 node	11303005683	https://www.gioielleriarossetti.it/
 node	11350883408	http://museopontificio.santuarioloreto.it/
+node	11374438486	https://digisvapo.it
 way	44523218	http://www.arterisko.com
 way	61094272	http://www.athleticclubpesaro.it/
 way	77068331	http://www.rossinicenter.it
