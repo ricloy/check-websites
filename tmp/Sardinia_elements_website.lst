@@ -188,7 +188,7 @@ node	72992632	https://www.comune.onani.nu.it/index.asp
 node	72992642	https://www.comune.ottana.nu.it/
 node	72992669	https://www.comune.mamoiada.nu.it/index.asp
 node	72992684	http://www.comunedimacomer.it/index.asp
-node	72992708	http://www.comune.meanasardo.nu.it/
+node	72992708	https://www.comune.meanasardo.nu.it/
 node	72992727	http://www.comune.laconi.or.it/home_sar.php?lang=sar&inc=home_sar
 node	72992749	https://www.comunedilode.it/index.asp
 node	72992761	http://www.comuneloceri.gov.it/index.asp
@@ -325,7 +325,7 @@ node	72994567	https://www.comune.usini.ss.it/
 node	72994583	https://www.comune.santantoniodigallura.ot.it/
 node	72994593	http://www.comune.golfoaranci.ot.it/
 node	72994606	https://www.comunedierula.it/
-node	72994620	http://www.comuneditergu.it/
+node	72994620	https://www.comuneditergu.it/
 node	72994632	https://www.comune.villanovamonteleone.ss.it/
 node	72994640	https://www.comune.torralba.ss.it/
 node	72994662	http://www.viddalba.gov.it/
@@ -1259,7 +1259,7 @@ node	5599110928	https://www.ex-animo.it/
 node	5615152823	https://www.sardovagando.com/
 node	5632299281	https://www.gruppovege.it
 node	5635362206	https://www.gruppovege.it
-node	5729920781	http://www.greenshare.it
+node	5729920781	https://greenshare.it/
 node	5731826206	http://www.portocontericerche.it/
 node	5736357799	https://www.ragnodorovignola.it/
 node	5736357800	https://www.stazzolacugara.it/la-cugara/
@@ -1624,17 +1624,18 @@ node	11283431793	https://hotellamargherita.it/
 node	11287040869	https://trattoriatipica.sassari.it
 node	11289063703	https://www.lacortehotelolbia.it/
 node	11338237002	https://www.crottisafety.it/
+node	11362816114	https://www.mcdonalds.it/
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28890396	http://www.apmolentargius.it/stagno_platamona.php
 way	38808261	https://www.tre.it/
-way	38811543	http://www.cagliariairport.it
+way	38811543	https://www.cagliariairport.it/
 way	41180949	https://www.nora.sardegna.it/
 way	42573831	https://www.facebook.com/cooltour.gallura?fref=ts
 way	45522655	https://www.areamarinasinis.it/
 way	46428086	https://www.geasar.it/
 way	46428171	https://www.aeroportodialghero.it/
-way	46428450	http://www.cagliariairport.it
+way	46428450	https://www.cagliariairport.it/
 way	46428834	http://www.sogeaor.it
 way	47031201	http://musei.beniculturali.it/musei?mid=447&nome=necropoli-di-li-muri-di-arzachena
 way	58244093	http://www.castellodibosa.com/
@@ -1960,7 +1961,6 @@ way	281459337	http://www.mirkoshop.com
 way	281474404	https://www.puntalizzu.com/
 way	281474679	http://www.sardegnabiblioteche.it/index.php?xsl=839&s=2&v=9&c=5941&codice=IT-NU0082
 way	281515480	http://www.coopvillabbas.sardegna.it/museo.htm
-way	283514808	https://www.comune.iglesias.ca.it/it/
 way	283514823	http://www.provincia.carboniaiglesias.it/
 way	283641944	https://www.agriturismolakustera.com/
 way	283691215	https://www.mdspa.it/punti-vendita/Sardegna/CA-Cagliari/1017-Capoterra
@@ -2047,7 +2047,7 @@ way	296398389	https://www.comune.villasanpietro.ca.it/
 way	296547799	https://www.comune.sorgono.nu.it/
 way	296547906	http://web.tiscali.it/balero/
 way	296549279	https://www.comune.atzara.nu.it/
-way	296550285	http://www.comune.meanasardo.nu.it/
+way	296550285	https://www.comune.meanasardo.nu.it/
 way	296562120	https://www.comune.belvi.nu.it/
 way	296579468	https://sites.google.com/site/museoteti1/
 way	296579542	https://www.comune.ovodda.nu.it/
@@ -2551,7 +2551,7 @@ relation	40128	https://comune.aritzo.nu.it/index.asp
 relation	40129	https://www.comune.siamanna.or.it/
 relation	40130	http://www.comunedielini.net/
 relation	40133	https://www.comune.samugheo.or.it/
-relation	40144	http://www.comune.meanasardo.nu.it/
+relation	40144	https://www.comune.meanasardo.nu.it/
 relation	40150	https://www.comune.simaxis.or.it/
 relation	40151	https://comune.solarussa.or.it/
 relation	40155	http://www.comune.siapiccia.or.it/
@@ -2581,7 +2581,7 @@ relation	40194	http://www.comunetriei.gov.it/index.asp
 relation	40195	https://www.comune.ortueri.nu.it/
 relation	40198	http://www.comune.sanveromilis.or.it/
 relation	40210	https://www.comune.paulilatino.or.it/
-relation	40211	http://www.bauladu.net/
+relation	40211	https://www.bauladu.net/
 relation	40215	https://www.comune.ulatirso.or.it/index.asp
 relation	40221	https://www.comune.narbolia.or.it/
 relation	40222	http://www.comunemilis.net/
@@ -2721,7 +2721,7 @@ relation	40787	https://www.comunelaerru.ss.it/
 relation	40794	http://www.comune.tempiopausania.ot.it/index.php
 relation	40797	https://www.comune.sorso.ss.it/
 relation	40806	https://www.comune.bulzi.ss.it/
-relation	40817	http://www.comuneditergu.it/
+relation	40817	https://www.comuneditergu.it/
 relation	40821	https://www.comune.porto-torres.ss.it/
 relation	40827	https://www.comune.calangianus.ot.it/
 relation	40833	http://www.comune.telti.ot.it/
