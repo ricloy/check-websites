@@ -225,7 +225,7 @@ node	2319771433	http://www.locandavecchiomaglio.it/
 node	2321703560	https://www.credem.it/
 node	2321717252	https://www.ugolinelli.com/
 node	2329559965	https://www.osterialecivette.it/
-node	2361431768	http://www.primauto.it
+node	2361431768	https://www.primauto.it/
 node	2371528656	https://www.hazienda.it/
 node	2371528665	https://www.hazienda.it/
 node	2383180105	http://www.ristorantelarocchettamarmore.it/
@@ -287,7 +287,7 @@ node	3040221134	https://youtu.be/pF5VDIjHy50
 node	3043313945	https://www.umbriamobilita.it/
 node	3049533169	http://www.bebalcastello.it/
 node	3050666049	https://umamibeer.it/birraartigianale/index.html
-node	3060796065	http://www.lamattonata.it/
+node	3060796065	https://www.lamattonata.it/
 node	3062671813	https://www.facebook.com/ganzoebulo.it
 node	3096559969	https://www.conad.it/ricerca-negozi/negozio.008990.html
 node	3098670187	http://www.unawayhotels.it/it/unaway_fabro/hotel_fabro.htm
@@ -633,6 +633,7 @@ node	9113126338	https://www.umbraacque.com
 node	9180696886	https://www.montecchiostorianatura.it/
 node	9192548415	https://www.cospeavillage.it/negozi/pianeta-food/
 node	9216693896	https://tenutelunelli.it/it/tenute_umbria.php
+node	9222101217	https://www.degae.info/
 node	9246767588	https://www.fratticioli.com
 node	9246792087	www.fratticioli.com
 node	9291496972	https://www.casamanza.it
@@ -1005,6 +1006,7 @@ way	366008683	https://www.turismoguardea.it/ita/17/parco-aiola/
 way	366975900	http://www.albergoumbriaotricoli.it
 way	368665277	https://www.conad.it/ricerca-negozi/negozio.050303.html
 way	370612644	http://www.hotel-amerino.it/
+way	372366646	https://www.iisorfini.edu.it/
 way	372367186	https://www.ittfoligno.it
 way	372988860	https://www.casavacanzenorcia.it/
 way	372988862	http://lebontadelparco.com/
@@ -1154,7 +1156,6 @@ way	531306167	https://www.unique-center.it/
 way	531306170	https://durantispoleto.com/
 way	531464520	https://turismo.comune.perugia.it/poip/museo-della-casa-contadina-don-franco-pulcinelli
 way	532810555	http://www.laconteabybice.it/index.php
-way	532836363	http://www.chiaraebenedetta.com/index.html?i=1
 way	532969511	http://www.iluoghidelsilenzio.it/?p=115702
 way	533185729	http://www.iluoghidelsilenzio.it/?p=11401
 way	534451081	http://www.iisperugia.gov.it/index.asp
@@ -1426,6 +1427,8 @@ way	1217029171	https://www.iluoghidelsilenzio.it/chiesa-di-san-sebastiano-pupagg
 way	1220822571	https://www.cityhotelfoligno.com/
 way	1220822572	https://www.cityhotelfoligno.com/
 way	1220822573	https://www.cityhotelfoligno.com/
+way	1224812932	http://www.chiaraebenedetta.com/index.html?i=1
+way	1225718509	https://www.direzionedidatticabastia.edu.it/scuola/primaria-xxv-aprile/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	2048968	http://www.camminodiassisi.it
@@ -1629,6 +1632,7 @@ relation	16190112	www.villafada.com
 relation	16192209	http://www.agriturismo-sanrocco.com
 relation	16219444	https://www.torrebontempo.it/
 relation	16219578	http://www.casalebecetole.com
+relation	16739328	https://liceoclassicofoligno.edu.it/
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1887119542	https://www.fezemauro.com/
 node	2146579118	https://www.domuspacis.it/
