@@ -4,7 +4,7 @@ node	32338215	http://torrerossaparkhotel.hotelinroma.com/
 node	72959652	https://www.comune.roma.it/
 node	72959697	https://www.comune.rieti.it/
 node	72959792	https://www.comune.casalvieri.fr.it/
-node	72959900	http://www.comune.ferentino.fr.it/
+node	72959900	https://www.comune.ferentino.fr.it/
 node	72959938	https://www.comune.isoladelliri.fr.it/
 node	72959966	http://www.comune.picinisco.fr.it
 node	72960162	https://www.comune.strangolagalli.fr.it/
@@ -18,10 +18,12 @@ node	72961889	https://www.comune.salisano.ri.it/
 node	72961991	https://www.comune.morroreatino.ri.it/
 node	72962224	https://www.comune.fiumicino.rm.it/
 node	72962312	http://www.comunedileonessa.eu/
+node	72962473	https://www.comune.cerveteri.rm.it
 node	72962520	https://comune.casape.rm.it
 node	72962662	https://www.labico.com/home
 node	72962733	https://www.comune.formello.rm.it/
 node	72962846	https://www.comune.rignanoflaminio.rm.it/
+node	72962874	https://comune.pisoniano.rm.it/
 node	72962941	http://www.comune.palestrina.rm.it
 node	72963008	https://www.comune.anguillara-sabazia.roma.it/
 node	72963331	http://www.comune.trevignanoromano.rm.it/
@@ -269,6 +271,7 @@ node	1172695774	http://www.theatrecaferoma.it
 node	1179544491	https://www.campingazzurro.it/
 node	1179816983	https://www.emmepiu-supermercati.it/
 node	1189775168	http://www.carsharing.roma.it/
+node	1201568109	https://www.teatrovascello.it
 node	1207370172	http://www.carsharing.roma.it/
 node	1212706398	www.ritmix.it
 node	1212710048	https://www.radiocittafutura.it/
@@ -477,7 +480,7 @@ node	1711542195	https://www.cyclingandfitness.net/
 node	1713322801	http://www.centroitticoterracina.it
 node	1713448019	http://www.la-torricella.com/torricella2/
 node	1714925889	www.ceramichepersia.it
-node	1717644056	http://www.polomusealelazio.beniculturali.it/index.php?it/554/museo-archeologico-nazionale-di-formia
+node	1717644056	https://www.polomusealelazio.beniculturali.it/index.php?it/554/museo-archeologico-nazionale-di-formia
 node	1717944447	https://www.ostiaanticaparkhotel.it
 node	1719138872	http://www.hotelwindrose.it
 node	1721632497	https://www.idillio.net/
@@ -822,7 +825,7 @@ node	2278298352	https://matfis.uniroma3.it
 node	2279385094	https://www.mondoarancina.com/
 node	2279463851	https://www.autoricambilido.jimdo.com/
 node	2283627533	http://www.ristorantereferdinando.net
-node	2290919600	http://www.polomusealelazio.beniculturali.it/index.php?it/254/abbazia-greca-di-san-nilo
+node	2290919600	https://www.polomusealelazio.beniculturali.it/index.php?it/254/abbazia-greca-di-san-nilo
 node	2290920639	https://www.autocarrozzeriafrascati.it/autolavaggio
 node	2290936975	https://www.autocarrozzeriafrascati.it/
 node	2290966030	http://www.enotecafaiola.it
@@ -1301,7 +1304,7 @@ node	3237227534	http://trattoriapizzeriaportamaggiore.com
 node	3245022411	https://www.legnomat.it/
 node	3246677485	https://www.bplazio.it/
 node	3248302183	www.lamolisanella.com
-node	3248374122	checcoercarettiere.it
+node	3248374122	https://checcoercarettiere.it/
 node	3248385621	anticacaciara.it
 node	3253562870	https://romamobilita.it/it/carsharing
 node	3256968161	http://www.ristorantelatavernadelbarone.com
@@ -1399,7 +1402,7 @@ node	3497053878	http://www.paradisoricevimenti.it/
 node	3501088583	https://www.rrtrek.com/
 node	3502704900	https://www.nalep.org/index.php/it/
 node	3503874861	http://www.asl.vt.it/MaternoInfantile/Consultori/consultori_dist1.html
-node	3507247426	http://www.popso.it/
+node	3507247426	https://www.popso.it/
 node	3508154494	http://www.casaravasco.it/Objects/Home1.asp
 node	3511034055	http://www.piazzaravenna.it
 node	3512007469	https://www.pelatelli.com/
@@ -2070,7 +2073,6 @@ node	4584611453	http://www.lascalettaroma.it
 node	4585277948	https://www.dsa-serramenti.it/
 node	4585417333	https://www.greenlinetours.com/
 node	4587179661	https://www.hoteltaormina.net/
-node	4590564607	http://www.rossogaribaldi.it/punti-vendita/cc-euroma2
 node	4591721263	http://www.laboutiquedelcaffefondi.it
 node	4592136369	https://donpizzafritta.com/
 node	4592626762	http://www.museogeologicoedellefrane.it
@@ -2379,7 +2381,7 @@ node	4951747132	https://www.facebook.com/CIANI-SRL-1434954013467715/
 node	4952482127	bigmamascafe.it
 node	4952482317	https://www.bibliotecavetralla.it
 node	4954695172	https://www.bytewise.it/
-node	4957186774	http://www.comune.ferentino.fr.it/pagina676_parco-molazzete.html
+node	4957186774	https://www.comune.ferentino.fr.it/pagina676_parco-molazzete.html
 node	4958574363	https://www.acasatuaroma.it/
 node	4959103221	https://www.hoteltraiano.it/
 node	4960456221	https://www.inviafioriroma.it/
@@ -2610,7 +2612,7 @@ node	5307474440	https://www.un-industria.it/
 node	5308439651	https://www.mondoinformatica.it/
 node	5309328256	https://onemediastore.com/
 node	5309328284	https://brubakerstore.it/
-node	5310107551	http://www.polomusealelazio.beniculturali.it/index.php?it/174/museo-nazionale-etrusco-rocca-albornoz
+node	5310107551	https://www.polomusealelazio.beniculturali.it/index.php?it/174/museo-nazionale-etrusco-rocca-albornoz
 node	5310107552	https://www.gdf.gov.it/
 node	5310200485	https://www.difesa.it/Protocollo/AOO_Difesa/Esercito/Pagine/E24014.aspx
 node	5310559721	https://www.ovs.it/
@@ -3532,7 +3534,7 @@ node	6845152620	https://www.lacastellina15.com/
 node	6853468958	https://walledo.com
 node	6853509398	https://walledo.com
 node	6854692796	https://www.ristorantemargotprati.it
-node	6854985192	http://www.pneusservicesrl.it
+node	6854985192	https://www.pneusservicesrl.it/
 node	6855940593	https://altamontagnabio.it
 node	6865359484	http://www.hotelkatty.it/
 node	6867616648	https://www.sportingprati.com/
@@ -4199,7 +4201,7 @@ node	8442926804	https://www.albertocalzature.it/
 node	8445942603	https://www.twinsy01.it/
 node	8450792391	https://www.la-quercia-institute.com/it/about-us/the-oak/
 node	8451435163	https://www.corteconti.it/HOME/URP
-node	8454741964	http://www.cafcecchignola.it
+node	8454741964	https://cafcecchignola.it/
 node	8458366547	https://www.unimedgroup.it/
 node	8460527245	https://www.autocarrozzeriafrascati.it/autonoleggio
 node	8461265009	https://www.facebook.com/antichisapori01/
@@ -4256,6 +4258,7 @@ node	8574010737	https://www.naturasi.it/
 node	8575536141	http://www.scuolaorchestra.org/
 node	8576298982	http://www.lakeprint.it/
 node	8578612161	https://www.comune.anguillara-sabazia.roma.it/i_servizi/188-biblioteca-comunale/
+node	8579493620	https://www.caffe104.it/
 node	8585626434	http://www.centroitaliabiliardi.eu/
 node	8585626444	https://www.pasticceriafortunato.com/
 node	8589289753	https://www.fashionbar.it/
@@ -4897,7 +4900,7 @@ node	9975467400	https://www.50epiu.it/
 node	9976185659	https://www.effeimmobiliare.eu/
 node	9976185664	https://www.thinkaway.it/
 node	9979430718	https://www.ilfavogoloso.com/
-node	9980099776	http://www.polomusealelazio.beniculturali.it/index.php?it/551/museo-archeologico-di-vulci
+node	9980099776	https://www.polomusealelazio.beniculturali.it/index.php?it/551/museo-archeologico-di-vulci
 node	9981152944	http://www.mandolesiassistenzaufficio.it/
 node	9981152949	https://www.nuovautonomentana.it/
 node	9981152959	https://www.mistertraslochi.it/
@@ -5377,7 +5380,7 @@ node	10811286046	https://www.latreccia.it/
 node	10828949582	https://www.cicilardone.com/
 node	10831590806	https://musicgaragestudio.com
 node	10831591034	http://www.otticagioberti.com/
-node	10832441435	www.aqla.it
+node	10832441435	http://www.aqla.it
 node	10841729585	https://www.uniroma3.it/
 node	10841732071	https://www.agi.it/
 node	10844266259	https://www.cittametropolitanaroma.it
@@ -5452,7 +5455,6 @@ node	10983543159	http://www.afservizimmobiliari.it/
 node	10983783109	https://www.amaroma.it/raccolta-differenziata/quartieri/?showmarkers=domenicali&IdVia=b02c6320c127fbe44f47969462e7eec4&form-via=Viale+Francesco+Caltagirone&azienda=0&target=menu-raccolte-domenicali&elencoVie=Viale+Francesco+Caltagirone
 node	10989126201	https://www.ernesto.it
 node	10991568485	http://www.mondoarancinaflaminia.com/
-node	10991568486	https://www.burgerking.it/
 node	10991659178	https://www.ristorantecasamaria.com/
 node	10991662020	http://www.mmhotel.it/
 node	10993717127	https://www.labottegadinoi.it
@@ -5716,6 +5718,7 @@ node	11349277434	https://www.drmax.it/le-nostre-farmacie/pontinia-via-camillo-be
 node	11349329581	https://www.drmax.it/le-nostre-farmacie/fara-in-sabina-via-giovanni-falcone-8-loc-passo-corese
 node	11358040076	https://kebhouze.com/
 node	11358052148	https://kebhouze.com/
+node	11374607569	https://www.panificiobeti.it/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -5766,7 +5769,7 @@ way	32659685	https://www.thespacecinema.it/i-nostri-cinema/roma-parco-de-medici/
 way	32666818	https://www.sovraintendenzaroma.it/i_luoghi/roma_antica/monumenti/casale_di_giovio
 way	32735011	https://www.unieuro.it/online/negozi/Unieuro-Roma---Muratella
 way	33386229	https://vonneumann.edu.it/
-way	33531458	commercity.it
+way	33531458	https://www.commercity.it/
 way	33531480	https://www.fieraroma.it/
 way	33536520	https://www.vicariatusurbis.org/Ente.asp?ID=222
 way	33548248	http://www.itnw.roma.it/ostia/scavi/showquestion.php?faq=1&fldAuto=12
@@ -5797,7 +5800,7 @@ way	45296819	http://corviale.it/i-luoghi/il-centro-polivalente-nicoletta-campane
 way	46275576	https://www.galleriaportadiroma.it/
 way	48541500	https://www.centroitaca.it/
 way	49416788	https://www.hilton.com/en/hotels/romhiwa-rome-cavalieri
-way	49776714	http://www.polomusealelazio.beniculturali.it/index.php?it/254/abbazia-greca-di-san-nilo
+way	49776714	https://www.polomusealelazio.beniculturali.it/index.php?it/254/abbazia-greca-di-san-nilo
 way	50588762	https://procura-roma.giustizia.it/
 way	50588764	https://www.tribunale.roma.it/
 way	50773070	https://www.vicariatusurbis.org/?page_id=188&ID=881
@@ -5855,7 +5858,7 @@ way	60690664	http://www.espuntalaluna.it
 way	61319926	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII177332
 way	61689999	https://www.riomartino.it
 way	61690021	http://www.corpoforestale.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/3
-way	62036277	http://www.hotelromasud.com/
+way	62036277	https://www.hotelromasud.com/
 way	62220682	http://www.monasterodisanmagno.it
 way	65584351	https://magicland.it/
 way	66599244	https://www.sovraintendenzaroma.it/i_luoghi/roma_antica/monumenti/cisterna_della_via_colombo
@@ -6134,7 +6137,7 @@ way	161896553	https://www.comune.frascati.rm.it/
 way	161992190	http://web.tiscali.it/prolocoanagni/
 way	161992191	http://www.anagnicattedrale.org
 way	161997387	http://www.sanpaoloalatri.it/
-way	161997972	http://www.polomusealelazio.beniculturali.it/index.php?it/229/museo-nazionale-delle-navi-romane
+way	161997972	https://www.polomusealelazio.beniculturali.it/index.php?it/229/museo-nazionale-delle-navi-romane
 way	162025863	http://www.vaticanobservatory.va/content/specolavaticana/en.html
 way	163229783	https://www.comune.poggiomirteto.ri.it/
 way	163600481	https://www.leroymerlin.it/negozi/roma-la-romanina
@@ -6154,7 +6157,7 @@ way	166465736	https://www.iluoghidelsilenzio.it/abbazia-di-santa-maria-in-faller
 way	168951517	http://www.isoladellapesca.it
 way	168974053	http://www.cretegialle.it
 way	169317494	https://concessionariafiori.it/
-way	169339670	http://www.polomusealelazio.beniculturali.it/index.php?it/561/museo-archeologico-nazionale-g-carettoni-e-area-archeologica-di-casinum
+way	169339670	https://www.polomusealelazio.beniculturali.it/index.php?it/561/museo-archeologico-nazionale-g-carettoni-e-area-archeologica-di-casinum
 way	169339733	https://www.roccajanula.com/
 way	169401169	https://arrampicareaguadagnolo.wordpress.com/
 way	169846799	https://www.nh-hotels.it/hotel/nh-roma-villa-carpegna
@@ -6244,7 +6247,7 @@ way	191570482	https://www.salariasportvillage.it/
 way	191639680	http://www.speedservices.eu
 way	191774717	http://www.pensionecampese.com
 way	191787058	http://www.agh.it
-way	191912285	http://www.polomusealelazio.beniculturali.it/index.php?it/228/museo-archeologico-nazionale-prenestino
+way	191912285	https://www.polomusealelazio.beniculturali.it/index.php?it/228/museo-archeologico-nazionale-prenestino
 way	192452346	https://www.villageflaminio.com/
 way	192491965	https://www.casamediterranea.it/
 way	192688917	http://www.centroaldofabrizi.roma.it/
@@ -6332,7 +6335,7 @@ way	208086960	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII1
 way	208400537	https://www.facebook.com/agriturismo.collecammino
 way	208963923	https://mgmotors-toyota.it/
 way	209041820	https://www.clinicasanmarco.it
-way	211435385	http://www.arancioeblu.com/
+way	211435385	https://www.arancioeblu.com/
 way	211435387	http://www.lifeduepuntozero.it/
 way	211435389	http://www.piubio.it/
 way	211927664	https://www.burgerking.it/ristoranti/lazio/roma/burger-king-roma-23/
@@ -6469,7 +6472,7 @@ way	236292431	http://www.albergopanoramafrascati.com/
 way	236323134	http://www.basc.it/
 way	236723361	http://www.aziendagricolafutura.com
 way	236848641	http://www.icroccapriora.it/
-way	236976582	http://www.polomusealelazio.beniculturali.it/index.php?it/262/monastero-di-san-benedetto-sacro-speco
+way	236976582	https://www.polomusealelazio.beniculturali.it/index.php?it/262/monastero-di-san-benedetto-sacro-speco
 way	236978438	https://www.hotelcasatranoiroma.com/
 way	237520318	https://fp.cisl.it/
 way	237583225	https://prm.rfi.it/qo_prm/QO_Partenze_SiPMR.aspx?Id=1695&lin=&dalle=00.00&alle=24.00&ora=00.00&guid=e3d4f583-02d6-4816-9161-20a81e229a4a
@@ -6573,7 +6576,7 @@ way	268590223	http://www.relaisilcasale.it/
 way	270125821	http://www.santamarinella.rm.gov.it/pagina/parrocchia-santangela-merici
 way	270127461	https://www.hospites.it/Objects/Servizio.asp?ModType=603&StrID=2088&ID=2&offset=1920&
 way	270365308	https://www.rostialpigneto.it/
-way	270559633	http://www.tripenilegnami.com/
+way	270559633	https://www.tripenilegnami.com/
 way	270631329	http://aquaniene.it
 way	270810318	http://www.jemsport.it/Pages/HomePage
 way	271412337	http://www.asl.ri.it/
@@ -6746,7 +6749,7 @@ way	341484772	http://m2t.matrimoniolatina.com/home.php
 way	342482977	https://www.asiloilnido.it/
 way	342506271	https://www.icslagiustiniana.edu.it/
 way	342518808	https://viacassia.pl/it/site/index
-way	342724235	http://www.polomusealelazio.beniculturali.it/index.php?it/243/villa-lante
+way	342724235	https://www.polomusealelazio.beniculturali.it/index.php?it/243/villa-lante
 way	343004381	http://www.istitutocomprensivovalentano.gov.it/
 way	343069798	http://www.roma.mid.ru
 way	343186908	https://www.comune.viterbo.it/
@@ -7263,6 +7266,7 @@ way	494890555	https://www.iportici.org/
 way	495116318	www.ristoaereo.com
 way	496202345	https://www.lascoglieracastelgandolfo.it/
 way	496202346	https://www.ristoilpozzo.it/
+way	496204748	https://titanus.it/titanus-elios/
 way	498598422	https://sovraintendenzaroma.it/i_luoghi/ville_e_parchi_storici/passeggiate_parchi_e_giardini/giardino_del_quirinale_gia_di_carlo_alberto
 way	499025083	http://www.comune.lubriano.vt.it
 way	499031255	http://www.museiresina.it/musei/museo-naturalistico-del-monte-soratte/
@@ -7678,7 +7682,7 @@ way	824799227	https://www.risparmiocasa.com/
 way	826220285	https://associazione.fse.it/base-brownsea/
 way	826302825	http://leonediporto.it/
 way	826410612	http://deodati.it/
-way	830680339	http://www.regione.lazio.it/binary/rl_ambiente/tbl_contenuti/cartografia/Roma/IT6030001.PDF
+way	830680339	https://www.regione.lazio.it/binary/rl_ambiente/tbl_contenuti/cartografia/Roma/IT6030001.PDF
 way	834984795	https://www.ibnsavio.it/it/home/home
 way	834990876	https://www.mariobianchimobili.com/
 way	835547315	https://www.marcucciarredamenti.it/
@@ -7816,7 +7820,7 @@ way	973263760	https://icviapoppeasabina.edu.it
 way	976725494	http://www.sabap-rm-met.beniculturali.it/it/281/area-archeologica-di-volsinii
 way	979338761	http://www.asl.latina.it/index.php/presidi-ospedalieri
 way	979675284	https://www.mcdonalds.it
-way	981931958	http://www.campingsabaudia.it/
+way	981931958	https://www.campingsabaudia.it/
 way	982087095	https://www.lilanda.it/
 way	984819141	https://www.aslroma2.it/index.php/adulti-5d/sert-tossicodipendenze-ed-alcoolismo-5d
 way	985763636	http://www.agriturismoulivarella.it/
@@ -8056,7 +8060,6 @@ way	1196007912	https://www.ic-poggialispizzichino.edu.it/
 way	1196386352	https://www.santalessio.org/
 way	1197031949	https://www.trattoriavacunea.it/
 way	1200967224	https://100celleaperte.wordpress.com/
-way	1204398818	https://kebhouze.com/
 way	1204399041	https://www.unicooptirreno.it
 way	1205151514	https://www.diag.uniroma1.it/
 way	1206553073	https://icgcagliero.edu.it/
@@ -8074,6 +8077,7 @@ way	1221954040	https://questure.poliziadistato.it/Latina
 way	1222257598	https://www.aeronautica.difesa.it/2017/08/03/ventotene-inaugurata-elisuperficie-isola-di-santo-stefano-realizzata-da-reparti-genio-dellam/
 way	1222349327	https://termicaricambi.com/
 way	1222962395	https://www.oldwildwest.it/
+way	1225286775	https://kebhouze.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -8088,7 +8092,7 @@ relation	1148151	https://abbaziamontecassino.it/
 relation	1230678	https://www.camminodifrancesco.it/
 relation	1251569	https://www.parcobracciano.it/
 relation	1325281	https://visita.camera.it/complesso-di-vicolo-valdina
-relation	1354394	http://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=155188&pagename=157031
+relation	1354394	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=155188&pagename=157031
 relation	1370434	http://etruriameridionale.beniculturali.it/index.php?it/156/necropoli-della-banditaccia-di-cerveteri
 relation	1391821	http://www.museomacro.org/
 relation	1427743	https://www.stradeanas.it/
@@ -8147,7 +8151,7 @@ relation	2189753	http://www.benedettinesantacecilia.it/
 relation	2199010	http://www.vigilfuoco.it/sitiVVF/latina/
 relation	2234038	https://abbaziadicasamari.it/
 relation	2234039	https://www.polomusealelazio.beniculturali.it/index.php?it/251/abbazia-di-casamari
-relation	2254972	http://www.polomusealelazio.beniculturali.it/index.php?it/561/museo-archeologico-nazionale-g-carettoni-e-area-archeologica-di-casinum
+relation	2254972	https://www.polomusealelazio.beniculturali.it/index.php?it/561/museo-archeologico-nazionale-g-carettoni-e-area-archeologica-di-casinum
 relation	2271575	http://www.laziodisco.it/luoghi/residenza-assisi/
 relation	2271576	https://www.hotel-bb.com/it/hotel/roma-tuscolana
 relation	2275890	http://www.consorziomotus.it/
@@ -8260,10 +8264,10 @@ relation	5576236	https://www.icvialeveneziagiulia.it/index.php/la-scuola/seconda
 relation	5649096	http://www.istruzionecaravaggio.it/
 relation	5660515	https://www.turismoroma.it/it/luoghi/emporium-antico-porto-fluviale-di-testaccio
 relation	5679033	https://www.cortedicassazione.it/
-relation	5733172	http://www.polomusealelazio.beniculturali.it/index.php?it/263/monastero-di-santa-scolastica
+relation	5733172	https://www.polomusealelazio.beniculturali.it/index.php?it/263/monastero-di-santa-scolastica
 relation	5858075	https://www.comune.roma.it/PCR/resources/cms/documents/villaggionelbosco.pdf
 relation	5867918	http://archeoroma.beniculturali.it/musei/museo-ostiense-porta-spaolo
-relation	5883108	http://www.gardenbimbo.it/
+relation	5883108	https://www.gardenbimbo.it/
 relation	5901860	http://www.liceosocrate.gov.it/
 relation	5912825	https://www.icleonardodavinci.gov.it/
 relation	5926251	https://www.comune.roma.it/web/it/municipio-viii.page
@@ -8307,8 +8311,8 @@ relation	6952366	https://www.parchilazio.it/sasseto
 relation	6953298	https://www.wwf.it/oasi/lazio/pian_sant_angelo/
 relation	7005316	http://www.bibobaboparcogiochi.it
 relation	7117234	https://www.hoteltiberfiumicino.it/
-relation	7170757	http://www.polomusealelazio.beniculturali.it/index.php?it/242/villa-giustiniani
-relation	7235724	http://www.polomusealelazio.beniculturali.it/index.php?it/558/museo-archeologico-nazionale-di-tuscania
+relation	7170757	https://www.polomusealelazio.beniculturali.it/index.php?it/242/villa-giustiniani
+relation	7235724	https://www.polomusealelazio.beniculturali.it/index.php?it/558/museo-archeologico-nazionale-di-tuscania
 relation	7268353	http://www.ilgranarone.com/
 relation	7324479	https://iismarconilatina.edu.it
 relation	7325404	https://www.liceomajoranalatina.it/
@@ -8322,7 +8326,7 @@ relation	7435893	http://www.itcvittorioveneto.eu
 relation	7449235	https://www.manzonilatina.edu.it/it/
 relation	7624013	https://www.latinafiori.com/
 relation	7669227	http://www.sangaspareroma.altervista.org/
-relation	7769092	http://www.polomusealelazio.beniculturali.it/index.php?it/240/santuario-madonna-della-quercia
+relation	7769092	https://www.polomusealelazio.beniculturali.it/index.php?it/240/santuario-madonna-della-quercia
 relation	7771387	https://www.viadifrancesco.it/
 relation	7773585	https://www.viadifrancesco.it/
 relation	7776340	https://www.viadifrancesco.it/
@@ -8984,6 +8988,7 @@ node	10883170600	https://www.parchilazio.it/sutri
 node	10939893667	https://www.roadtorome.org/
 node	11048087507	https://ziarestaurant.com/en/
 node	11100127900	https://silviatarsi.it
+node	11146164765	https://www.bancolibri.it
 node	11156162730	https://maratonalagodibolsena.it/
 node	11208682951	https://website-4771912155000348132169-restaurant.business.site/
 node	11208682953	https://scolopi.org
@@ -8997,6 +9002,8 @@ node	11265933899	https://www.levigne.it/
 node	11266842148	https://meridiano12.eu/
 node	11295755708	https://www.terradimemorie.it/lapide-in-memoria-delle-quattordici-vittime-del-rastrellamento-di-blera/
 node	11355784275	http://www.conventobolsena.org
+node	11374440814	https://www.littlegenius.school
+node	11374460396	https://www.limotoursinrome.com/
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
 way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
 way	61011575	https://bagnaccio.it/
