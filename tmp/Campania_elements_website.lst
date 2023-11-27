@@ -460,7 +460,7 @@ node	4123727309	http://www.farmaciamatachione.it/farmacie.asp?id_farmacia=13
 node	4123727310	http://www.cmocentropolispecialistico.it
 node	4124466497	https://www.farmaciasegreto.com/
 node	4125803129	http://www.ilfioredipinto.it
-node	4125803138	http://www.almavibio.it
+node	4125803138	https://mapcarta.com/N4125803138
 node	4125803147	http://orgogliocampano.altervista.org
 node	4126279545	https://www.enel.it/punto-enel/
 node	4126279554	http://www.scommesseitalia.it
@@ -568,7 +568,7 @@ node	4425303815	https://www.desca.it/
 node	4425418038	http://www.sexshopempirex.it
 node	4426438497	https://www.legalservice.na.it/
 node	4428111154	https://www.associazioneshalom.org/
-node	4434967438	http://www.tuttoinstock.com
+node	4434967438	https://www.tuttoinstock.com/
 node	4435046597	http://www.cucinedautore.it/Cucine-Lube-TORRE-DEL-GRECO-NAPOLI.asp
 node	4435046618	http://www.dariocromas.it
 node	4435046631	https://www.giardinoborbonico.it/
@@ -1871,7 +1871,7 @@ node	10098555033	https://instagram.com/luviname_
 node	10100721591	https://hotelziteresa.it/
 node	10103070229	https://www.comune.monteforteirpino.av.it/hh/index.php
 node	10109725717	https://scuolacomics.com/
-node	10113214464	http://cpsdauria.com/
+node	10113214464	https://www.cpsdauria.com/
 node	10113295215	https://omdofficinemeccaniche.it/
 node	10113312942	https://deiuliis.it/
 node	10113322800	https://www.officineomi.it/
@@ -2170,6 +2170,15 @@ node	11355806619	https://www.laboratorialfa.it/
 node	11355806627	https://dylansdiner.it/
 node	11360483737	http://www.g-arcade.it
 node	11361754008	https://puntivenditadeco.multicedi.it/it/italia/benevento/benevento-via-dei-mulini?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Benevento_6550
+node	11364221264	https://www.sisley.com
+node	11364221266	https://www.armani.com/it-it/experience/armani-exchange
+node	11364230369	https://www.luisaspagnoli.com
+node	11368719486	www.new.palapartenope.it
+node	11370920846	https://www.bimbostore.com
+node	11373284961	http://www.yogorino.it
+node	11374335630	https://websorrento.it
+node	11374335637	https://lineservice.eu
+node	11374335814	https://ghlapace.com/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2616,11 +2625,11 @@ way	428874421	www.hotelserenella.it
 way	428878386	https://www.unisob.na.it/
 way	430177930	https://www.galleriaborbonica.com/it/map/
 way	430177931	https://www.galleriaborbonica.com/it/map/
-way	432096213	https://ghlapace.com/
 way	433111468	http://www.brunopositano.it/
 way	436798498	http://ic4pergolesi.gov.it/
 way	436800623	http://www.sanluca-arcofelice.it/
 way	438466354	https://www.savoybeachhotel.it/
+way	439770827	https://www.motorsud.com
 way	440000608	http://maleventosport.blogspot.it/
 way	440327025	www.villadeifioriacerra.it
 way	440523421	https://www.centroilrubino.it/
@@ -2647,7 +2656,7 @@ way	445310151	http://www.ilsentieroalvesuvio.it/
 way	446119251	https://www.associazioneforensedenicola.it/
 way	446197879	www.taburnidomus.com
 way	446319119	https://www.giunigor.it/
-way	446652271	http://www.matematica.unina.it/
+way	446652271	https://www.matematica.unina.it/
 way	447263004	https://biscotticoppola.it/
 way	447263016	http://www.big-cars.net
 way	447519821	https://www.ristorantecasinarossa.it/
@@ -2727,7 +2736,7 @@ way	547952219	http://www.gloriavillage.com/
 way	549806722	http://www.consorzioagrariobenevento.it/
 way	550480897	http://www.comunesantamariaavico.it/
 way	554931188	https://www.caprireview.it/project/lo-spettacolo-del-parco/
-way	557414687	liceomedicicciano.edu.it
+way	557414687	https://liceomedicicciano.edu.it/
 way	565485241	https://www.tortorellaspa.com/
 way	568344797	https://www.centromorrone.it/
 way	568652321	www.liceoscientificocortese.gov.it
@@ -3112,8 +3121,8 @@ way	1085128480	https://www.isemidelladiscordia.it/
 way	1085385606	https://www.iccaposele.it/
 way	1086177979	https://www.queenschips.eu/
 way	1087721287	https://www.icbuonocorefiengameta.edu.it/
-way	1087722929	www.ic2panzinicastellammare.edu.it
-way	1087724720	www.ic2panzinicastellammare.edu.it
+way	1087722929	https://www.ic2panzinicastellammare.edu.it/
+way	1087724720	https://www.ic2panzinicastellammare.edu.it/
 way	1087911536	https://www.fattoriamariapetrillo.com/
 way	1087911538	https://www.comune.lapio.av.it/palazzo-filangieri/
 way	1087953140	https://www.poste.it/
@@ -3149,6 +3158,7 @@ way	1107384255	https://www.icfontanarosa.edu.it/
 way	1107961267	https://www.misericordiapaternopoli.it/
 way	1108937782	https://www.itmattei.edu.it/
 way	1113175931	https://www.merliano-tansillo.edu.it/
+way	1115458500	https://www.gruppofarina.com
 way	1115956937	https://www.vesum.it/
 way	1116277456	https://www.centroneapolis.com/
 way	1118351028	https://centrolabirreria.it/
@@ -3160,7 +3170,7 @@ way	1124697203	https://www.portedipompei.it/
 way	1126688718	https://ortoincampania.it/
 way	1128081618	http://www.officina99.org/
 way	1131946933	https://www.fri-el.it/it/business-units/liquid-biomass/#38
-way	1133391973	http://www.villalacollinetta.it
+way	1133391973	https://www.villalacollinetta.it/
 way	1148102762	https://www.supermercatipiccolo.it/
 way	1154545234	http://www.centrostudinormanni.it/2020/09/09/torre-magna/
 way	1157470381	https://www.agriturismoburo.it/
