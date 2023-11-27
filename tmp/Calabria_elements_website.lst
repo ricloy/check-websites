@@ -232,10 +232,10 @@ node	6509200879	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luog
 node	6509337127	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=158783&pagename=57
 node	6514764787	https://www.parks.it/parco.nazionale.sila/gallery_dettaglio.php?id=17992
 node	6514765948	http://www.ecomuseolongobucco.it/index.php/home
-node	6514772331	http://www.parcosila.it/it/
+node	6514772331	https://www.parcosila.it/it/
 node	6514780136	http://www.parcoaspromonte.gov.it/musei/
 node	6514811156	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150841&pagename=57
-node	6514819205	http://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151064&pagename=66143
+node	6514819205	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151064&pagename=66143
 node	6515374066	http://www.iresudcalabria.it/museo.asp?id=28
 node	6515845192	http://www.iresudcalabria.it/museo.asp?id=41
 node	6515848804	https://www.museopaleomarino.org/presentazione.php
@@ -494,7 +494,7 @@ way	169860955	http://www.mnlg.it
 way	170098139	www.scolacium.it
 way	170188085	www.liceoscorza.gov.it
 way	170272236	http://www.cattedralereggiocalabria.it/
-way	170272691	http://turismo.reggiocal.it/HomePage.aspx
+way	170272691	https://turismo.reggiocal.it/HomePage.aspx
 way	170364748	https://www.reggiocal.it/
 way	174685994	https://www.locriantica.it/sito/teatro.htm
 way	174813690	https://www.locriantica.it/
@@ -1007,6 +1007,7 @@ node	9968851723	https://www.bouganvillehotelpalace.it/?gclid=Cj0KCQjwr4eYBhDrARI
 node	10557820765	http://www.csoacartella.org/
 node	11278211917	http://www.starentbovalino.it/
 node	11280194825	https://www.costaelisabeth.it/
+node	11367489342	https://www.msglass.it/
 way	150646604	http://www.pertinikr.gov.it/
 way	170206470	http://acquaparkatlantis.com/
 way	170486603	http://www.parcosila.it/index.php
