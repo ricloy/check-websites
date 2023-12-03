@@ -58,6 +58,7 @@ node	658940303	https://stores.oltre.com/it/italia/ascoli-piceno/ascoli-piceno-zo
 node	659630533	https://osteriadellapiazza.com/it/
 node	659630555	https://www.acquaesapone.it/puntivendita/ancona-via-giordano-bruno-85/
 node	659630594	http://www.e-coop.it/punti-vendita-dettaglio?id=4119
+node	660051170	https://muda-bar.eatbu.com/
 node	660916135	http://www.lineapane.com/
 node	660916142	https://www.otticamanna.it/
 node	660916150	https://pasticceria-bar-chantilly.business.site/
@@ -197,6 +198,7 @@ node	1640143475	https://www.thecityancona.it/
 node	1643882770	https://www.lafeltrinelli.it/fcom/it/home/pages/puntivendita/negozi/trova/marche/la-Feltrinelli-Librerie-Ancona.html
 node	1654067604	https://www.conad.it/ricerca-negozi/negozio.009914.html
 node	1668147440	https://www.crai-supermercati.it/punto-vendita/5193-crai-extra-falconara/
+node	1699887911	https://otello-cafe.business.site/
 node	1707812186	https://www.gabrielliunika.it/it/punti-vendita.html?store=7102
 node	1737574929	http://www.caffeimperialejesi.it
 node	1749497065	http://www.lavignapizzeria.it/
@@ -1349,6 +1351,7 @@ node	11371855769	https://terredelpiano.it/
 node	11371892569	https://www.prontocampi.nl/
 node	11374534426	https://etoilebistrot.com/
 node	11375095924	https://www.ristorantelevante.com/
+node	11379428915	https://www.gabriellispa.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1442,6 +1445,7 @@ way	199469558	https://www.governatoriauto.com/
 way	199500802	https://www.oasitigre.it/it/punti-vendita.html?store=5005
 way	203870831	http://www.cantinasuasa.it/
 way	203891480	http://www.carrozzeriasuasa.it/
+way	204867623	https://www.liceogalileiancona.edu.it/
 way	208331822	https://www.sanfrancescourbino.com/chi-siamo/il-complesso/la-chiesa
 way	210195133	https://www.comune.montelupone.mc.it/
 way	223396288	https://www.campingbelvedere.net/
@@ -1536,7 +1540,7 @@ way	310213495	https://www.barettorosso.it/
 way	310376600	https://www.hotelazzurrasenigallia.it/
 way	310376941	https://www.hotelturistica.it/
 way	310442767	http://www.casa-molleone.com/en/
-way	310479439	http://www.hotel-hollywood.it/
+way	310479439	https://www.hotel-hollywood.it/
 way	310479440	https://www.hotelsirena.com/
 way	310487224	https://www.hargentina.com/
 way	310487225	https://www.residenceamerica.it/
@@ -1859,6 +1863,7 @@ way	1212197095	https://icpetritoli.edu.it/
 way	1214756685	https://www.sacrocuoredigesu.org/
 way	1220131004	https://comune.loreto.an.it/
 way	1226716982	https://ambiente.regione.emilia-romagna.it/it/parchi-natura2000/aree-protette/riserve-naturali/onfe/carta-identita
+way	1227135666	https://www.oasitigre.it/content/ot/it/it/il-mio-negozio.546.html
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -1938,13 +1943,9 @@ relation	14223406	http://www.sibillini.net/
 relation	14248618	https://www.eurospin.it/punti-vendita/ascoli-piceno-via-genova-493502/
 relation	14381580	https://www.parcosanbartolo.it/
 relation	14466885	https://www.prolococossinea.com/p/percorso-naturalistico-le-cese.html
-relation	14595162	https://camminilauretani.eu/
-relation	14595163	https://camminilauretani.eu/
+relation	14588022	https://camminilauretani.eu/
 relation	14597735	https://camminilauretani.eu/
-relation	14597736	https://camminilauretani.eu/
-relation	14599165	https://camminilauretani.eu/
 relation	14601418	https://camminilauretani.eu/
-relation	14601419	https://camminilauretani.eu/
 relation	14606707	https://camminilauretani.eu/
 relation	14874398	https://www.lacapanninadiportonovo.it/
 relation	15657082	https://pedalareconlentezza.com/muro-ortezzano/
@@ -1953,6 +1954,7 @@ relation	16408219	https://www.ascolitrailarea.it/tracks/fall-and-flow/
 relation	16412210	https://www.ascolitrailarea.it/tracks/longobards-ring/
 relation	16751540	https://camminoterremutate.org/
 relation	16752347	https://whc.unesco.org/en/list/1692
+relation	16757488	https://camminoterremutate.org/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
