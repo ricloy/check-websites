@@ -4223,8 +4223,8 @@ node	11072828734	https://www.poste.it/
 node	11073433484	https://www.ilfontino.eu/?fbclid=PAAaZDkFBLaToVSvaP6bYQL3rWctVWkWwebxAjeYeNLu-GcQOk3Kg-4_6g1dc_aem_AbXACAdBoHSLi3Z4LtjuBZX4Zkt6nLwMGbtIxnONprKjgPiP42HoZ_V8K2OV__NqVbc
 node	11074579577	https://www.poggiodegliulivi.it
 node	11074579578	https://www.poggiodegliulivi.it
-node	11074982460	http://www.pasticceriesinatti.it/
-node	11075046926	http://www.ilmestolo.it/
+node	11074982460	https://www.pasticceriesinatti.it/
+node	11075046926	https://www.ilmestolo.it/
 node	11078850396	https://oasycontemporaryart.com/
 node	11080961112	https://www.j63.it/
 node	11085017915	https://caricomassimo.org/
@@ -4518,8 +4518,8 @@ node	11359849664	https://www.neomedicasiena.it/
 node	11359849665	https://stores.upim.com/it/italia/toscana/siena/siena-ss-73-levante?utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Siena_6988
 node	11359915024	https://palestrasunrise.it
 node	11368831609	https://www.labottegadirosaria.it/
-node	11368831611	http://www.esteticaarmonia.it/
-node	11368831612	http://www.sella.it/
+node	11368831611	https://www.esteticaarmonia.it/
+node	11368831612	https://www.sella.it/
 node	11368831613	https://www.bancageneraliprivate.it/
 node	11368831624	https://www.wintoto.it/
 node	11368831625	https://www.agriflorfiori.it/
@@ -4527,6 +4527,11 @@ node	11368831626	https://www.tim.it/
 node	11373215232	https://www.trattorialacarabaccia.com/
 node	11375064371	https://www.dogsitterfiglinevaldarno.com/
 node	11375940953	http://www.lory.net
+node	11379834174	https://www.alessandromugnone.it/
+node	11379884895	https://www.galuppo.biz/
+node	11379884921	https://guidaevai.com/autoscuole/autoscuola-torrita
+node	11379884950	https://www.autoscuolaetruria.it/
+node	11387533237	https://www.facebook.com/pizzeriadasandrinopontassieve
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -4621,7 +4626,6 @@ way	83534355	https://www.toysuper.it/
 way	83535810	https://www.hotelautopark.com/
 way	83603363	http://www.piancaldoli.it/daVedere.aspx
 way	83688736	https://tuttatoscana-net.translate.goog/itinerari-2/santa-colomba-nella-montagnola-senese/?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp
-way	88837517	http://www.cistercensi.info/certosadifirenze/index.php
 way	89002916	https://hotelrex.it/
 way	90081257	https://www.hotelmoderno.pisa.it/
 way	91299869	http://www.fattoriajavello.it/
@@ -5450,6 +5454,9 @@ way	460234716	https://www.asmana.it/
 way	460385071	https://www.ostellolasalana.it/
 way	461721824	https://sanbartoloacintoia.wordpress.com
 way	463119900	https://www.tuodi.it/negozi-dettaglio.cfm?negozio=90723
+way	463309302	https://liceodavincifi.edu.it
+way	463309307	https://liceodavincifi.edu.it
+way	463309340	https://liceodavincifi.edu.it
 way	463891029	http://www.comune.carrara.ms.gov.it/archivio10_notizie-e-comunicati_0_2246.html
 way	464541301	http://www.ganzaroli.it
 way	465308033	https://www.accademiacarrara.it/it/scuole/scultura
@@ -6242,6 +6249,7 @@ way	1220622135	https://www.uc-valdarnoevaldisieve.fi.it/rifugi-bivacchi-e-aree-d
 way	1221693372	//www.75avventura.com/it
 way	1226606832	https://canesapiens.wixsite.com/canesapiens
 relation	27485	https://en.eurovelo.com/ev5/italy
+relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
 relation	136257	https://www.caiparma.it/
 relation	271945	https://www.islepark.it/rete-sentieristica/sentieri-escursionistici/elba-centrale/245
@@ -6403,7 +6411,6 @@ relation	4226087	https://www.cailaspezia.it/
 relation	4226262	https://www.cailaspezia.it/
 relation	4226292	https://www.cailaspezia.it/
 relation	4260669	https://www.cailaspezia.it/
-relation	4260815	https://www.cailaspezia.it/
 relation	4268378	https://www.cailaspezia.it/
 relation	4268460	https://www.cailaspezia.it/
 relation	4268473	https://www.cailaspezia.it/
@@ -6624,6 +6631,7 @@ relation	7944347	http://www.uc-amiatavaldorcia.gov.it/
 relation	7944348	https://www.cm-amiata.gr.it/
 relation	7944413	https://www.unionecomuni.valdichiana.si.it/
 relation	7944414	https://www.cm-collinedelfiora.it/
+relation	8015228	https://www.caibo.it/
 relation	8039535	https://www.geoplan.it/luoghi-interesse-italia/monumenti-provincia-firenze/cartina-monumenti-sesto-fiorentino/monumenti-sesto-fiorentino-villa-gerini.htm
 relation	8213199	https://www.caielba.it/percorsi/216-2/
 relation	8213205	https://www.caielba.it/percorsi/218/
@@ -7111,6 +7119,7 @@ relation	15980388	https://www.camminidellacqua.it/i-cammini/39-area-pistoiese/10
 relation	16021424	https://www.ic2siena.edu.it/index.php/l-istituto/la-scuola/scuola-secondaria
 relation	16062615	https://www.parchivaldicornia.it/info-e-servizi/mobilita-e-parcheggi/
 relation	16112188	https://www.cai-imola.it/
+relation	16124999	https://www.caibo.it/
 relation	16140367	https://www.si.camcom.gov.it/
 relation	16143347	http://www.caiporretta.it
 relation	16153041	https://www.fontanellestate.com/hotel-the-club-house
@@ -7129,6 +7138,7 @@ relation	16345252	https://sites.google.com/view/camminopadregiovanni/home
 relation	16350757	https://www.caibo.it/
 relation	16354431	https://www.wellnesscentercasanova.it/
 relation	16355161	https://sites.google.com/view/camminopadregiovanni/home
+relation	16393252	https://www.viefrancigene.org
 relation	16405921	https://www.internationalschoolofsiena.it/
 relation	16464281	https://cittadeltufo.com
 relation	16514278	https://www.caibo.it/
