@@ -5392,6 +5392,7 @@ node	4448817384	https://www.subdued.com
 node	4448817387	http://www.vannucci.it/
 node	4448868337	http://www.danielachiodi.it
 node	4449004403	https://www.thefriendspubmilano.it
+node	4450444202	https://www.facebook.com/labiciclettadellosportmilano/
 node	4450997872	http://www.trattoria-per-bacco.it/
 node	4452542112	http://www.newrockbrescia.it/
 node	4454821214	http://hotelbritanniacadenabbia.com/
@@ -6904,7 +6905,7 @@ node	5367923148	https://colombogioielleria.com/
 node	5368438870	http://scsconcept.it
 node	5368603191	https://robdematt.org/
 node	5369534021	http://www.cortebelvedere.it/
-node	5370539005	http://www.bimbochiamabimbonlus.it/
+node	5370539005	http://www.bimbochiamabimbo.it/
 node	5370990294	http://fratellicarrara.one-point.it/
 node	5371203150	https://www.cartolibreriagrafite.it/
 node	5371452195	https://www.pinbowl.it/
@@ -12083,7 +12084,6 @@ node	10229471662	https://www.zella.it/
 node	10230735597	https://stonex.it
 node	10235172415	https://www.argentinosrestaurant.com/
 node	10235332118	https://www.novalisopenschool.it/
-node	10238238938	http://www.prolocopremana.it
 node	10245126437	https://www.ristoranteilbraciere.net/
 node	10247805662	http://setabeauty.com/index.php
 node	10247805663	https://setabeauty.com/
@@ -13552,12 +13552,16 @@ node	11369215160	https://www.antegnateshoppingcenter.it/
 node	11369314695	https://safitaly.net/sesto-san-giovanni
 node	11370623447	https://bonnieandclyde-friggitoriaromana.it/
 node	11370924984	https://www.assistenzadeb.it
+node	11372230244	https://mauropizzeriaegastronomia.it/
 node	11373315138	https://www.byoblu.com/
 node	11374871581	https://lacasadellefeste.com/
 node	11378052567	https://mixmarkt.it/negozi/mix-markt-lombardia-srl-viale-della-repubblica/
 node	11380221723	https://www.farmaciaolona.it/
 node	11380345047	https://www.azveicoli.it/
 node	11382040603	https://elpollogordo.it/
+node	11384094702	https://biricicletta.it/
+node	11384235947	https://www.soloaffitti.it/
+node	11389853698	https://www.equirelais.it/
 way	4522481	https://www.marriott.it/hotels/travel/milit-milan-marriott-hotel/
 way	4915384	http://www.monumentale.net/
 way	4998830	https://www.piccoloteatro.org/
@@ -16394,6 +16398,7 @@ way	375699760	https://www.mondogattosandonato.com/
 way	375857646	www.tulliohotel.com
 way	376076145	https://www.conad.it/ricerca-negozi/negozio.009610.html
 way	376146202	https://www.ristorantelagrodolce.com/
+way	376391082	https://www.dottipitture.com/en/
 way	376558448	http://www.casamemoria.org/
 way	376655681	http://ecoflysrl.it/
 way	376667301	https://www.teatroofficina.it
@@ -20553,7 +20558,6 @@ node	940897103	https://www.floydpub.it
 node	946458827	https://www.damorris.it
 node	962401311	www.gelateriagioria.it
 node	962401347	https://www.ecostore.it/store/eco-store-varese/
-node	1038653874	http://www.simplymarket.it/pdv.php?id=5895
 node	1056386098	http://www.lamagolfa.it/
 node	1108004332	http://www.pasticceriaghidoni.com/
 node	1171155322	https://www.supersigma.com/?p=74012
@@ -22260,6 +22264,7 @@ node	7087941173	https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00
 node	7138867841	https://anagrafe.iccu.sbn.it/isil/IT-MI0452
 node	7855093853	http://www.labregaglia.ch/?p=35412
 node	7865695866	https://www.milanocittastato.it/milano/il-monumento-piu-brutto-di-milano/;https://www.ilgiornale.it/news/scultura-danza-quartiere-fiera.html
+node	8071117185	https://www.osavalmadrera.it/San-Tomaso.htm
 node	8311272683	https://anagrafe.iccu.sbn.it/isil/IT-SO0011
 node	8752733176	http://italia.indettaglio.it/ita/lombardia/milano_rho_cascinabruciata.html;https://www.lombardiabeniculturali.it/architetture/schede/MI100-06004/
 node	8752733179	http://italia.indettaglio.it/ita/lombardia/milano_vanzago_valdarenne.html
