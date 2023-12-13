@@ -1491,7 +1491,6 @@ node	2262460459	https://www.laringhierapub.it/
 node	2262460461	https://capuanos.it/
 node	2262460464	https://www.pizzeriatradizionale.com/
 node	2263249745	http://www.hotelviennamilano.com/
-node	2263249788	http://alpiccoloborgo.it
 node	2265699963	https://www.centrodentisticopiovanizubani.it/
 node	2266246540	https://www.latradizionale.com/
 node	2266655271	https://rilegaturatesi.it/
@@ -1940,6 +1939,7 @@ node	2411191415	http://www.farmaciazecca.com/
 node	2411555088	http://www.corpoforestale.it
 node	2411897311	http://www.rifugioalpeponte.it
 node	2411940673	https://www.caiborno.it/
+node	2412055504	https://piedradelsol.it/
 node	2412100380	https://www.biblioteche.mn.it/la-rete-delle-biblioteche/Volta-Mantovana/
 node	2412105856	http://www.agriturismocascinaguardia.it
 node	2412145069	https://www.dalpescatore.com/
@@ -2700,7 +2700,6 @@ node	2750987911	http://www.amalusrl.com/
 node	2751468221	http://www.kortescomics.it/
 node	2751650848	https://www.onlybarbel.com/
 node	2758108707	http://www.acquasala.it/
-node	2758108713	http://www.bondmilano.it
 node	2758108728	https://www.facebook.com/pages/Le-Vigne/172579989421123
 node	2758108733	https://www.pizzerianaturale.it/
 node	2761985315	https://www.mbnews.it/
@@ -8805,6 +8804,7 @@ node	7113020723	https://lamiagastronomia.com/
 node	7113020724	https://www.lamurrina.com/it/
 node	7115241961	https://www.ilremolino.it/
 node	7118177389	https://www.principessadanza.it/
+node	7120111285	http://www.negozioleggero.it
 node	7120341438	https://amazon.it/lockervieri
 node	7120354119	https://amazon.it/lockerluke
 node	7122278731	https://gruppohumantech.com/raccolta-negozi-ortopedici/ortopedia-burini-osio-sotto/
@@ -10949,7 +10949,6 @@ node	9422392690	https://www.palazzomarignano.com
 node	9423454515	www.aqvagold.it
 node	9423499292	www.aqvagold.it
 node	9423502571	www.aqvagold.it
-node	9423591348	https://www.stopego.com/
 node	9423602449	https://www.stopego.com/
 node	9423912980	https://www.stopego.com/
 node	9423926005	www.aqvagold.it
@@ -13505,7 +13504,6 @@ node	11334874282	https://www.weg.net/
 node	11336264626	https://kebhouze.com/
 node	11336329268	https://kebhouze.com/
 node	11336334948	https://www.darioeiciopizzeriaalmetro.it/
-node	11336427784	http://www.peregoautomobili.it/
 node	11336480520	https://www.spaziocinema.info/
 node	11338627740	https://primainfanzia.consorziofa.it/asili-nido/stella-stellina/
 node	11338692172	https://www.ristorantecavallinotreviglio.it
@@ -13562,6 +13560,19 @@ node	11382040603	https://elpollogordo.it/
 node	11384094702	https://biricicletta.it/
 node	11384235947	https://www.soloaffitti.it/
 node	11389853698	https://www.equirelais.it/
+node	11402859545	https://www.casagricolavaltrumplina.it/
+node	11403291520	https://www.willysport.eu/
+node	11403533164	http://www.protezioneciviletreviglio.it
+node	11405298669	https://www.martinelliefoschettimilano.com/
+node	11405775875	http://www.ristorantepizzeriacorona.it/
+node	11405959072	https://www.instagram.com/ff.nutrizionista/
+node	11405978664	www.giardinoblu.org
+node	11406019056	www.la-vineria.it
+node	11406255960	https://www.bibliotecaostinata.it
+node	11406279756	https://www.drogheriasociale.com/
+node	11407096041	http://www.protezionecivileparatico.it
+node	11407156061	https://www.facebook.com/SantuarioErbivori/
+node	11413911092	https://ziogiussano.it/
 way	4522481	https://www.marriott.it/hotels/travel/milit-milan-marriott-hotel/
 way	4915384	http://www.monumentale.net/
 way	4998830	https://www.piccoloteatro.org/
@@ -13815,6 +13826,7 @@ way	60136355	http://modopersonale.it/npk/mvsprinting.it
 way	60136442	https://www.dromokart.com/
 way	60136472	https://www.shunfa.it/punti-vendita-dettaglio.php?id=buccinasco
 way	60151011	https://alpenvillagehotel.it/
+way	60166654	https://www.booking.com/Share-n6shKt
 way	60216353	https://www.kronehotel.com/
 way	60218682	http://www.hotelcrocebianca.org/livigno/eng/hotel-livigno-croce-bianca.asp
 way	60358179	http://www.autodemciliberti.com/
@@ -16615,7 +16627,6 @@ way	420005518	https://www.museoscienza.org/it/mustshop
 way	420027680	http://agriturismoilcinema.com/
 way	420028357	https://affreschivallelomellina.jimdo.com/
 way	420462521	https://www.traum-ferienwohnungen.de/247937/
-way	420491984	http://www.protezioneciviletreviglio.it
 way	420549976	http://www.icbossibusto.gov.it/
 way	420800891	http://www.reginacarmeli.it/
 way	421039818	https://www.villaggiolafoce.it/
@@ -16796,7 +16807,7 @@ way	462101329	https://rivoltacarmignani.com/
 way	462104862	https://bausch.com/
 way	462215803	https://www.icsviadavinci.edu.it/primaria-don-l-sturzo/
 way	462279693	https://www.bbhotels.it/aparthotel-bicocca/
-way	462413582	http://agrariacantoni.gov.it
+way	462413582	https://agrariacantoni.edu.it/
 way	462593257	https://www.lombardiabeniculturali.it/architetture/schede/LO620-00052/
 way	462923332	http://labellezzadicleopatra.it
 way	462980122	http://www.lozio.gov.it
@@ -16886,7 +16897,6 @@ way	478335772	https://www.ranchelpicadero.it/
 way	478408584	https://www.maternacarcanotreviglio.it/
 way	478669041	http://web.lasanfermese.com/
 way	478678762	eire.it
-way	478785041	http://www.agrariacantoni.gov.it
 way	478925303	https://www.cilastella.it/
 way	479908246	https://garagevisconti.it/
 way	480729311	https://motoclubeuropa.it/
@@ -17719,7 +17729,6 @@ way	749052316	www.astemgestioni.it
 way	749132054	http://hibuontap.it/
 way	749600377	https://www.acquarelamadesimo.it/
 way	751783771	https://villa-s-cuore.business.site/
-way	753099999	http://www.ristorantepizzeriacorona.it/
 way	753490168	https://www.alpenchaletvivione.it/
 way	753505001	https://www.atlanticenter.com
 way	755548505	http://iisgiorgimilano.gov.it
@@ -18171,7 +18180,6 @@ way	1015396085	https://www.pfpvaltellina.it/
 way	1016868238	https://www.icalbino.edu.it
 way	1016886504	https://www.icalbino.edu.it/
 way	1017834460	http://www.gm-motors-ronco.it/
-way	1017835128	http://www.gm-motors-ronco.it/
 way	1018323297	https://www.lacornicesulgarda.com/
 way	1018804209	http://www.fondazionehonegger.it/
 way	1018804210	http://www.fondazionehonegger.it/
@@ -18710,7 +18718,6 @@ relation	2709964	http://www.campingsansimone.it
 relation	2715461	https://www.verbella.it/
 relation	2715748	https://cantierenauticopiccaluga.it/
 relation	2728966	https://www.caicollio.it/2011/08/343-memmosette-crocette/
-relation	2736632	https://www.funicolarecomo.it/
 relation	2759974	https://en.eurovelo.com/ev7/italy
 relation	2761848	https://www.aviovaltellina.it/
 relation	2771985	http://www.casadelmantegna.it/
@@ -19766,7 +19773,7 @@ relation	12039921	https://www.caibergamo.it/geoportale/sentieri/892
 relation	12078313	https://www.caibergamo.it/geoportale/sentieri/598
 relation	12078410	https://www.caibergamo.it/geoportale/sentieri/598A
 relation	12081608	https://www.spinaverde.it/
-relation	12086750	https://www.greenwayvalliresilienti.it/it/
+relation	12086750	https://www.greenwayvalliresilienti.it/it/percorsi/89/
 relation	12089551	https://www.caibergamo.it/geoportale/sentieri/597
 relation	12104202	https://www.pnab.it/poi/ghiacciaio-delladamello-mandrone/
 relation	12108739	http://www.cai-desenzano.it/joomla/index.php?option=com_content&view=article&id=29&Itemid=96&lang=it
@@ -20500,6 +20507,7 @@ relation	16747522	https://www.fondazionepaoladirosa.it/rsa/villa-di-salute/descr
 relation	16747524	https://www.fondazionepaoladirosa.it/rsa/mons-faustino-pinzoni/descrizione-mons-pinzoni
 relation	16747525	https://www.cacciamattaiseo.it/
 relation	16747677	https://www.fondazionecarettoni.com
+relation	16804473	https://www.greenwayvalliresilienti.it/it/percorsi/50/
 node	62513200	http://www.comune.sustinente.mn.it/
 node	62513208	http://www.comune.suzzara.mn.it/servizi/notizie/notizie_homepage.aspx
 node	62513306	http://www.comune.ostiglia.mn.it/
@@ -20588,6 +20596,7 @@ node	1650251595	https://fornoantico.eatbu.com
 node	1665073566	http://www.zeroduemilano.com
 node	1675597922	https://www.farmaciaferrarinisnc.it/
 node	1679694028	http://birrificiolambrate.com
+node	1726715782	https://www.oconnellirishpubmilanobrera.it
 node	1726715799	http://www.salsamenteria.eu
 node	1735145991	http://www.lissana.com
 node	1737981847	http://www.hotelgrecomilano.com
@@ -21024,6 +21033,7 @@ node	5236284654	https://www.stuzzisushi.it
 node	5237579640	http://oldamericacomo.it
 node	5237579641	http://v6como.it
 node	5237593209	http://www.tartaruga.com
+node	5237994730	https://www.osteriaacquaciara.it
 node	5241188824	http://arealameccanica.com/
 node	5242745573	http://www.different-burger.com/
 node	5248732451	https://albavillahotel.it
@@ -21120,6 +21130,7 @@ node	6143299585	https://www.ristorantelago.com
 node	6149843560	http://www.locandalacasetta.it
 node	6220469027	http://www.osteriadellangiolina.it/
 node	6223509493	https://www.camerette.net
+node	6244882616	https://it.yamaha-motor.eu/concessionari/motosalone-crea
 node	6246183366	http://ristorantenepalese.it
 node	6252296614	http://www.hotelthurwieser.it
 node	6267682930	https://opac.provincia.brescia.it/library/sala-di-lettura-umberto-eco
@@ -21248,6 +21259,7 @@ node	7727062278	https://www.ilsalumaiodimontenapoleone.it/caf%C3%A9-bistrot-gall
 node	7737386850	http://www.officineanalfabeta.it
 node	7823973367	https://www.miralago.net/
 node	7826350028	https://www.facebook.com/isabelvegastavernola
+node	7845550532	https://ristorantehaveli.com
 node	7845550600	https://www.chefexpress.it/poi/stazione-di-varese/
 node	7856407319	http://www.parrocchiacerromaggiore.com/CAPPUCCINI.HTM
 node	7858465972	https://parrucchiere-e-estetica-lidia.business.site/
@@ -21595,6 +21607,7 @@ node	11283557517	https://www.civico52.com/
 node	11300162327	http://www.cascinaalbarito.it/
 node	11310791926	https://larioludens.it/
 node	11357967715	https://kebhouze.com/
+node	11407345179	https://www.centrocinofilobattilazampa.it/
 way	4497863	http://www.teatronazionale.it
 way	25902153	https://www.milanosport.it/impianto/15/cozzi/27/
 way	26438681	https://www.milanosport.it/impianto/26/saini/77/
@@ -21832,6 +21845,7 @@ way	1225398812	https://www.merlatabloommilano.com
 relation	214504	http://www.matematica.unimi.it
 relation	1120255	https://www.collegiogallio.it
 relation	1837136	https://www.centrosarca.it
+relation	2736632	https://www.funicolarecomo.it
 relation	5195802	http://www.francescogonzaga.gov.it/
 relation	5856373	https://www.castellodichignolopo.it
 relation	7731693	http://www.sartiranaarte.it/
