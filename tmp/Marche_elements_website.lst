@@ -124,7 +124,6 @@ node	1092104709	http://www.farmaciafarmacomfabriano.it/
 node	1117996957	http://www.grassetti.it/
 node	1202390890	https://www.conad.it/ricerca-negozi/negozio.009839.html
 node	1202391084	http://www.farmaciafarmacomfabriano.it/
-node	1206924943	https://www.domusmacerata.it/
 node	1231015825	https://www.oasitigre.it/content/genteunika/it/it/il-mio-negozio.510.html
 node	1231713521	https://cobar-ristorazione.it/
 node	1231713528	https://cobar-ristorazione.it/
@@ -558,6 +557,7 @@ node	4321686228	https://www.prolocovisso.it/
 node	4338524391	https://www.tribsorv.ancona.giustizia.it/
 node	4338973860	https://www.ciavattinigarden.it/floreale-del-passetto/
 node	4338987960	http://www.bocasalina.com/
+node	4338999196	https://ristoranteselfgino.it
 node	4340538433	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Ancona-Mazzini/1117/
 node	4340538434	https://www.momentidite.it/
 node	4340538437	https://www.clickcafeshop.it/module/storelocator/storedetails?id=3
@@ -833,6 +833,7 @@ node	7821117702	https://www.quattromura.com/
 node	7835273352	https://www.danialtri.it/
 node	7835876676	https://www.vintagecafecivitanova.com/menu/phone/index.html
 node	7853783899	https://scarpettadivenere.it/
+node	7863241034	https://www.basilicoancona.it/
 node	7882167292	https://www.oasitigre.it/it/punti-vendita.html?store=9102
 node	7885182354	http://www.bellanapolifano.it/
 node	7924840308	https://www.unieuro.it/online/
@@ -1358,6 +1359,9 @@ node	11379428915	https://www.gabriellispa.it/
 node	11392512168	https://www.carifermo.it/it/
 node	11396953653	https://osteria-scacciadiavoli.business.site/
 node	11397146841	https://www.hairshopancona.com
+node	11410277752	www.agriturismovernuccio.it
+node	11411797865	https://shop.happycasastore.it/pages/punti-vendita?store_name=Ancona&store_code=188
+node	11417096286	https://coworkingfermo.com/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2048,7 +2052,6 @@ node	4442935624	http://www.farmaciaercolani.eu/
 node	4446391089	http://www.ristorantevilladelcerro.com/
 node	4446418335	http://paradisopasticceria.it/
 node	4459351221	http://www.relaisconcorde.it
-node	4517133050	http://www.sorellepoveredisantachiara.it/
 node	4557951532	http://www.newdaytel.com/
 node	4567034541	https://www.ristornatelagreppia-montemaggiore.it/
 node	4584371713	http://www.farmaciavannucci.it/
@@ -2161,6 +2164,7 @@ node	10065100790	https://lasorgentedelsole.com/
 node	10089105756	https://www.nordesthotel.com/
 node	10089105759	https://www.hotelexcelsiorgabicce.com/
 node	10571038167	http://www.sorellepoveredisantachiara.it/
+node	10571494794	https://www.carmelitanecamerino.it/
 node	10573501001	https://www.lapucci.de
 node	10573665598	https://palazzobonfranceschi.com/
 node	10573665600	https://noitolentino.altervista.org/loratorio/
@@ -2252,11 +2256,13 @@ way	939093143	http://www.itcbramante.it
 way	960148809	https://www.hotel-mareblu.it/
 way	1029684442	https://www.sannicoladatolentino.org/
 way	1126116303	https://www.coopalleanza3-0.it/
+way	1133916798	https://www.carmelitanecamerino.it/
 way	1207229684	https://www.roadhouse.it/it/ristorante-roadhouse-civitanova-marche
 way	1219847974	https://chaletvela.it/
 way	1223292488	http://www.radiomagnetic.it/
 relation	1434016	http://www.officinabonfigli.it
 relation	6028599	http://www.aeromodellismofano.net
+relation	6517698	http://www.sorellepoveredisantachiara.it/
 relation	9311685	https://www.iscbramantefermignano.edu.it/plessi/scuola-media/
 relation	9311686	https://www.iscbramantefermignano.edu.it/plessi/scuola-elementare/
 relation	10967104	https://www.schnell.it/
