@@ -1724,7 +1724,6 @@ node	4526775930	http://www.tirrenoresidence.com/
 node	4534063834	https://www.villaggiodeipopoli.org/
 node	4534191417	https://www.villaggiodeipopoli.org/
 node	4534568899	http://www.poderebosco.com/
-node	4541226588	https://www.residenzecontucci.it/palazzo-contucci/
 node	4547023919	https://www.angolodellapizza.net
 node	4548929994	http://procuralucca.giustizia.it
 node	4553946289	https://www.trattoriapalledorofirenze.com/
@@ -3051,7 +3050,6 @@ node	7721515299	https://roccamare.it
 node	7732314894	http://hoteladarsena.it
 node	7732626567	https://ilcerrosughero.com
 node	7734536785	http://www.oasicocchiola.it
-node	7736583599	http://www.campinglesorgenti.it/it/home-page-campeggio-mugello-toscana.html
 node	7737115544	https://www.tuttobene-bar.it/
 node	7755677797	https://www.anticamacelleriastoppioni.it/
 node	7769549475	https://www.hotelvillagiada.it
@@ -4545,6 +4543,12 @@ node	11397524424	https://www.studiofdi.it/
 node	11397524425	https://dondisalotti.com/
 node	11397754712	https://bandaultralarga.italia.it/mappa/?entity=50009&pcn=1
 node	11398151097	https://circuitocorto.weebly.com/il-mercatino-dellusato.html
+node	11407754442	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/3443
+node	11412885871	http://www.sushibarsiena.it/
+node	11418023292	https://linktr.ee/lanarchico
+node	11422390677	https://www.ilcolto.it
+node	11424107073	https://cantinanardi.com/
+node	11424107074	https://yataimad.it/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -5230,6 +5234,7 @@ way	306694402	http://www.museocasasiviero.it/
 way	306972553	https://www.ambulatorimisericordia.com
 way	307153264	https://www.nh-collection.com/en/hotel/nh-collection-firenze-palazzo-gaddi
 way	307153268	http://www.bargellomusei.beniculturali.it/musei/4/davanzati/
+way	307539787	https://www.scuolacittapestalozzi.it/
 way	308574883	http://www.cycleclub.it/
 way	308639147	https://www.lacantinettadirignana.it/
 way	308838352	http://www.hotelastor.pisa.it/
@@ -6281,6 +6286,7 @@ way	1220622135	https://www.uc-valdarnoevaldisieve.fi.it/rifugi-bivacchi-e-aree-d
 way	1221693372	//www.75avventura.com/it
 way	1226606832	https://canesapiens.wixsite.com/canesapiens
 way	1228599356	https://www.uslcentro.toscana.it/index.php/sedi-territoriali/846-sedi-territoriali-prato/zona-pratese/10711-prato-centro-presidio-misericordia-e-dolce
+way	1230386629	http://www.campinglesorgenti.it/it/home-page-campeggio-mugello-toscana.html
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -6373,6 +6379,7 @@ relation	2734858	http://www.caifaenza.it/
 relation	2734861	http://www.caifaenza.it/
 relation	2734862	http://www.caifaenza.it
 relation	2736729	https://www.cai-imola.it/
+relation	2827085	https://www.turismo.lucca.it/ciclopedonale-puccini
 relation	2877404	http://www.caifaenza.it
 relation	2914521	https://www.caiprato.it/
 relation	2917153	https://www.cai-imola.it/
@@ -7180,6 +7187,7 @@ relation	16514279	https://www.caibo.it/
 relation	16551446	https://icipressinidelcastellaccio.com/
 relation	16618790	https://www.viefrancigene.org
 relation	16619475	https://www.ilcamminodisanjacopo.it/
+relation	16828257	https://www.mps.it/
 node	215646877	https://www.unisi.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
@@ -7764,7 +7772,6 @@ way	525056778	"https://www.ospitalitareligiosa.it/strutture/ad/casa-per-ferie-pa
 way	539685234	https://www.carabinieri.it/
 way	547279295	https://www.ilfilo.net/arte/Oratorio_Castagno.htm
 way	560208791	https://www.lenzibike.it/
-way	571692437	https://www.ilcolto.it
 way	578138195	http://www.suoresacrafamiglia.it/la-verna/
 way	617876649	http://www.lepiscinesanminiato.it
 way	618099353	http://www.pizzartesanminiato.it
@@ -7851,7 +7858,6 @@ relation	15088478	http://www.tenutacoldisasso.com
 relation	15835217	http://parcovacanzeilveliero.it
 relation	15988652	http://www.castellodipopulonia.it
 relation	16276249	https://www.cosona.it/
-node	593726323	www.appartamentialpoggiolo.it
 node	730850225	http://www.hotelsanniccolo.com/
 node	730862028	http://www.chiantisculpturepark.it/
 node	829082780	https://visitcastiglionedellapescaia.it/castiglione-della-pescaia/il-porto/
@@ -7957,6 +7963,7 @@ way	52105919	http://www.comune.prato.it/storiastrade/?stato=scheda&id=11695
 way	52105920	http://www.comune.prato.it/storiastrade/?stato=scheda&id=12106
 way	52105977	http://www.comune.prato.it/storiastrade/?stato=scheda&id=13234
 way	52105980	http://www.comune.prato.it/storiastrade/?stato=scheda&id=10945
+way	52315194	www.appartamentialpoggiolo.it
 way	58375887	https://aiams.eu/archivio-dei-mulini/archivio-mulini/scheda/189.html
 way	60797150	http://www.agriturismoilfrassine.com
 way	81102722	http://www.villabelvederefirenze.it/
