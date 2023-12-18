@@ -2,6 +2,7 @@
 node	67280349	http://www.comune.montescaglioso.mt.it/
 node	67280603	www.comune.fardella.pz.it
 node	67280708	https://www.comune.marsiconuovo.pz.it/
+node	67280745	https://www.comune.rapolla.pz.it/
 node	391662692	https://www.comune.ferrandina.mt.it/
 node	391663461	https://www.hotelristorante407.it/
 node	426784653	https://www.federicovalicenti.it/
@@ -174,6 +175,7 @@ node	4191642969	https://www.palazzogattini.it/it/la-spa/
 node	4191806504	https://luoghidelcontemporaneo.beniculturali.it/mu-765-g-(la-goccia)
 node	4192062326	https://www.albergodelsedile.it/
 node	4254145903	https://www.oimari.it/
+node	4291084494	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/5752
 node	4320901396	http://www.ristorantelancione.com/
 node	4321139881	http://www.bbantoniovivaldi.it/
 node	4321307797	https://www.poste.it
@@ -262,7 +264,6 @@ node	6761732376	https://www.bebfiorentini.com/
 node	6763618364	http://www.locandadisanmartino.it/
 node	6763618365	http://www.locandadisanmartino.it/en/termae-romanae-3/
 node	6802922596	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/4803-ipercoop-matera.html/
-node	6838266125	https://www.acquazzurrapark.net/
 node	6841541266	https://www.touchdownmetaponto.it
 node	7036049887	https://ilrusticone.com/
 node	7130330685	www.pz.ism.cnr.it
@@ -474,6 +475,7 @@ node	11145820589	https://www.hotelmosaicomatera.it/
 node	11207956486	https://www.aziendecafra.com/
 node	11370655300	https://www.comune.vagliobasilicata.pz.it
 node	11370719748	https://www.comune.brindisimontagna.pz.it
+node	11410842170	https://www.fandangopizzeria.it/
 way	33887443	http://musei.beniculturali.it/musei?mid=68&nome=museo-archeologico-nazionale-di-metaponto
 way	33887449	http://musei.beniculturali.it/musei?mid=326&nome=tempio-delle-tavole-palatine
 way	66767193	http://www.castelgrande.net/
@@ -669,6 +671,8 @@ way	1179953822	http://www.hotelmartino.net/ristorante.html
 way	1179953823	https://www.hotelmartino.net/
 way	1201162519	https://www.extratech.it/
 way	1205402350	https://www.hotelimperialenovasiri.it/
+way	1217078506	https://www.cosmetgroup.it/
+way	1230382101	https://www.acquazzurrapark.net/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	3160701	https://www.montescaglioso.net/node/1513
 relation	3293582	http://www.liceoscientificomt.it/
@@ -802,3 +806,5 @@ relation	16284930	http://www.icnovasiri.edu.it/
 node	1893135959	http://www.lagiaramaratea.it/
 node	1895052179	http://www.sanmarcoagriturismo.it/
 node	3583367906	http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/PZMM880015/l-la-vista-pz/
+node	11410362739	https://www.policoro.basilicata.it/
+way	1230386602	http://www.comune.novasiri.mt.it
