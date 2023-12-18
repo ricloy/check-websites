@@ -202,7 +202,6 @@ node	1152799817	www.elitemotorsports.it
 node	1170039578	https://www.brek.com/
 node	1172116298	https://www.hilton.com/en/hotels/trntldi-doubletree-turin-lingotto/
 node	1172116311	https://www.ucicinemas.it/
-node	1194126644	https://www.mcdonalds.it/
 node	1196735153	http://www.tobike.it/
 node	1198746192	https://locandarossignoli1913.com
 node	1213089377	https://www.agriturismoiride.com//
@@ -557,7 +556,7 @@ node	2016414027	http://www.garageclub.it/
 node	2018087960	https://www.pizzeriatorino.it/
 node	2018090709	https://tokyo-zen.business.site/?m=true
 node	2018099975	https://www.beniarchitettonicipiemonte.it/
-node	2018127839	https://www.boggi.it/
+node	2018127839	https://www.boggi.com/it_IT/storedetails?country=IT&city=torino&store=torino-via-xx-settembre-11/c&id=1004
 node	2018127843	https://www.lafeltrinelli.it/punto-vendita/torino/ms-torino/557
 node	2018127892	https://granmogol.bqhotel.it/
 node	2018203620	http://www.adalesia.it/
@@ -1309,7 +1308,6 @@ node	3233897114	www.anticoscorcio.it
 node	3242421263	https://www.jazzclub.torino.it/
 node	3244218984	https://www.hoteljazza.com/
 node	3249834570	http://dronero.tavernacolo.it/
-node	3249973002	http://www.facebook.com/bettyfood
 node	3250100498	https://www.ristoranterossorubino.it
 node	3250676613	https://www.trattorialacasadibacco.it/
 node	3252616321	https://negozi.ovs.it/it/negozi/italia/asti/ovs-asti_01046.aspx
@@ -2109,7 +2107,6 @@ node	4359400849	https://www.trattoriavigezzina.it
 node	4359859536	http://ostellodelpo.org/index.html
 node	4359866939	https://keluar.it/site/gestioni/open011/
 node	4359924508	https://www.meeting-service.it/ozanam-house/
-node	4359971970	http://www.ostelloalagna.it/servizi.html
 node	4359985892	https://www.ostelloverbania.com/english/services.htm
 node	4360022499	https://www.agriturismoalbrich.it/
 node	4361689190	https://www.premiaterme.com/
@@ -2639,6 +2636,7 @@ node	4735867352	http://www.farmaciasantagiuliasnc.it/
 node	4735867714	https://thebeachmurazzi.it/
 node	4735868305	https://www.ristorantemarenostrum.it/
 node	4735868851	http://www.osteriainvinoveritas.it
+node	4735868972	https://www.trattoriapiemontese.it/
 node	4735869375	https://www.melissatorino.com/
 node	4735870059	http://www.amsterdamchips.com/
 node	4735870670	https://www.pastificiorenato.it/
@@ -2811,7 +2809,7 @@ node	5015806721	http://www.comune.torino.it/circ2
 node	5026707144	https://www.rocchedeibarbari.it/
 node	5026715036	http://www.gigibianco.it
 node	5030541695	https://www.borgovecchioneive.it/donna-selvatica-ristorante/
-node	5030541696	http://aromatario.com
+node	5030541696	https://aromatario.com/
 node	5031116621	https://www.cortesegiuseppe.it/bb/contatti-bed-breakfast-giuseppe-cortese.php
 node	5031535936	http://www.donatellabistrot.it
 node	5034702112	http://www.anselmaitalia.com/
@@ -5910,6 +5908,7 @@ node	11283717884	https://shop.kombusushi.com/
 node	11286609369	https://www.ilpicciotto.it/
 node	11288343625	https://www.cadutitrecate.it/
 node	11288362916	https://traduzione.tech
+node	11289065094	http://www.ristorantesilvana.it
 node	11290337396	https://www.rifugiogattascosa.com/
 node	11290805829	https://www.tenutasantannapiemonte.it/
 node	11291175701	https://www.coverfop.it
@@ -5935,7 +5934,15 @@ node	11379843302	https://teenlab.it/
 node	11392673420	http://www.vascellodoro.it/
 node	11393863544	http://www.louciouch.it/
 node	11402743669	https://caffetteriaretro.it/
-node	11402755571	http://spah14.it/
+node	11402755571	https://www.spah14.it/
+node	11410280662	https://www.boggi.com/it_IT/storedetails?country=IT&city=to&store=torino-via-giuseppe-l.-lagrange-34&id=1044
+node	11410471528	https://www.lush.com/it/it/shops/lush-torino?id=LUSH019
+node	11414911746	https://www.ipeaportedesign.com/
+node	11415100525	https://dedtruck.it/
+node	11418611869	http://www.ortopediasanity.it
+node	11419946470	https://www.abacospa.it/
+node	11420866369	https://www.microlabpc.com/
+node	11422992516	https://www.zidalab.it/
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -7424,7 +7431,7 @@ way	368062770	http://www.ascomform.it/
 way	368083379	https://www.museidibra.it/museocraveri
 way	368209065	http://www.rolfo.it/
 way	368224506	https://www.museidibra.it/museozizzola
-way	368437198	http://www.campingcasabianca.altervista.org/
+way	368437198	http://campingcasabianca.altervista.org/
 way	368589658	https://www.icmatteotti.gov.it/plessi/primaria-c-perone
 way	368626097	https://www.comune.casalino.no.it/
 way	368767040	http://www.mariaausiliatricegiaveno.it/
@@ -7983,7 +7990,6 @@ way	541183789	https://www.hysteron.it/
 way	542990419	https://www.palazzomazzetti.eu
 way	543128570	https://www.decathlon.it/
 way	543843034	http://www.comune.viola.cn.it/Home/DettaglioNews/tabid/16265/Default.aspx?IDNews=49547
-way	544395586	https://rifugiolagodellavecchia.com/
 way	544610891	http://www.golfclubclaviere.it
 way	544655539	https://www.hotelpalio.com/
 way	545553223	http://factoryperformance.it
@@ -10029,6 +10035,7 @@ relation	14153583	https://www.estmonterosa.it/catasto-percorsi-vco-valle-antrona
 relation	14153687	https://www.estmonterosa.it/catasto-percorsi-vco-valle-antrona-settore-c.html
 relation	14153813	https://www.estmonterosa.it/catasto-percorsi-vco-valle-antrona-settore-c.html
 relation	14154120	https://www.estmonterosa.it/catasto-percorsi-vco-valle-antrona-settore-c.html
+relation	14158542	https://www.estmonterosa.it/catasto-percorsi-vco-valle-bognanco-settore-d.html
 relation	14158612	https://www.estmonterosa.it/catasto-percorsi-vco-valle-antrona-settore-c.html
 relation	14158753	https://www.estmonterosa.it/catasto-percorsi-vco-valle-antrona-settore-c.html
 relation	14158870	https://www.estmonterosa.it/catasto-percorsi-vco-valle-antrona-settore-c.html
@@ -10694,7 +10701,7 @@ way	60049820	http://www.albergoristorantevittoria.net/
 way	61408101	https://www.sancarlosalotti.com/
 way	61408108	https://www.movefitness.it
 way	64537436	https://www.rifugio-rosazza.it
-way	68528056	https://campingpiccoloparadiso.it/
+way	68528056	https://www.campingpiccoloparadiso.it/
 way	70417795	http://www.fsm.it
 way	75134587	https://campingmonterosa.eu
 way	82400829	http://www.parrocchiadivinaprovvidenza.it
@@ -10835,7 +10842,6 @@ way	525987338	https://www.comune.chieri.to.it/Biblioteca/orari-contatti
 way	530528487	http://www.birrabeba.it
 way	531000987	https://www.cadelpitur.it
 way	540979676	https://www.mormone.it
-way	544396494	http://www.rifugiolagodellavecchia.com/
 way	560321338	https://www.pampanorama.it/punti-vendita/torino-racconigi
 way	572127600	http://www.residencecianfuran.com/
 way	591394683	http://www.chiesa-avigliana.it
@@ -10845,6 +10851,7 @@ way	615783351	http://www.relaisdelbrigante.com
 way	624736164	http://www.casadiriposoborsettisellafacenda.it/
 way	625828083	http://www.teatrosocialevillani.it/
 way	629204383	http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=8649
+way	631824302	http://www.paolettofratelli.it/
 way	632641331	https://fondoambiente.it/luoghi/mazzarelli-casa-natale-di-santa-maria-mazzarello
 way	635545160	http://www.ismercurinogattinara.it/
 way	646794862	http://www.parcosassihotel.com
@@ -11496,6 +11503,7 @@ relation	8907315	https://percorsi.estmonterosa.it/g/G00a/G00a.kml
 relation	8907376	https://percorsi.estmonterosa.it/h/H00(1).kmz
 relation	8907973	https://percorsi.estmonterosa.it/c/C05c/C05c.kml
 relation	8910253	https://percorsi.estmonterosa.it/t/T30/T30.kml
+relation	8910483	https://percorsi.estmonterosa.it/t/T22/T22.kml
 relation	8910562	https://percorsi.estmonterosa.it/t/T22a/T22a.kml
 relation	8910685	https://percorsi.estmonterosa.it/t/T20b/T20b.kml
 relation	8910785	https://percorsi.estmonterosa.it/t/T20a/T20a.kml
