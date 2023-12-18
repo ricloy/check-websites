@@ -102,8 +102,8 @@ node	2879837874	http://www.santagostinoaffittacamere.it/
 node	2879837875	https://www.trattoriadelpescefresco.com/
 node	2885265040	http://www.cortedeigreci.net/
 node	2885373660	http://www.cortedeigreci.net/
-node	2893353755	www.pasticceriasantandrea.calabriaplus.it
 node	2903015961	http://www.iltulipanonero.it
+node	2916174673	https://www.decathlon.it/
 node	2940661543	www.palmadorobagnara.it
 node	3072850484	https://www.hotelvalemare.it/
 node	3081362916	https://www.museofumetto.it/
@@ -473,6 +473,7 @@ node	11249162753	https://www.tirrenohotel.it/
 node	11262080078	https://www.mapapibeach.it/
 node	11293038630	https://lesoliteholidayrooms.it/
 node	11343820095	https://www.profumerieautieri.it/
+node	11418074248	http://ww25.cinesudmegastore.com/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	31321527	https://www.conad.it/ricerca-negozi/negozio.006286.html
 way	43042447	https://sba.unical.it/
@@ -490,6 +491,7 @@ way	150519096	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/
 way	160900775	https://www.sabap-rc.beniculturali.it/it/244/parco-archeologico-dei-tauriani
 way	165325333	https://www.parrocchiasacrocuorecatanzaro.it/
 way	166376102	http://calabriagreca.it/blog/hotel/casello-di-marupapa/
+way	166653838	https://www.lagru.it/
 way	169419324	http://asdssrende.it
 way	169860955	http://www.mnlg.it
 way	170098139	www.scolacium.it
@@ -782,6 +784,7 @@ way	1200617414	https://www.villaggiocampinglascogliera.com
 way	1205211398	https://www.iisvemanuele.edu.it/
 way	1205212596	https://www.iisvemanuele.edu.it/
 way	1205242265	https://www.youtube.com/watch?v=g2WtOHyQstI
+way	1215351805	https://www.lagalleriaonline.com/
 way	1217981059	http://www.krataiis.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	5437445	http://www.certosini.info/
@@ -995,12 +998,16 @@ relation	16345959	https://www.cicloviaparchicalabria.it
 relation	16346109	https://www.cicloviaparchicalabria.it
 relation	16346110	https://www.cicloviaparchicalabria.it
 relation	16641557	www.caicastrovillari.it
+relation	16822862	https://www.parcocommercialelefontane.it/
 node	1794725248	https://catanzarolido.ubiklibri.it
 node	1811214931	http://www.computerdiscount.it
 node	2471827092	http://www.costabluresidence.it
 node	3611589147	https://www.ehilatakeaway.it
 node	4671785498	www.master90.it
 node	5331491599	http://bedandbreakfastanna.altervista.org/
+node	7761144621	https://www.coopmaster.it/
+node	7761154787	https://www.mcdonalds.it/
+node	7761161894	https://www.ivanue.it/
 node	8672531469	https://www.lavecchiamacina-bovalino.it/
 node	9873430908	https://www.spiagge.it/stabilimenti-balneari/19827-marina-dei-pioppi/?cmp=gcpcg&gclid=CjwKCAjwiJqWBhBdEiwAtESPaMR_HFaDzWZRaiXWYZZHUmqCtJqF6dBIogG00dDotz-RDBPnKG-CqBoCMecQAvD_BwE
 node	9873436138	https://www.hoteldellestelle.it/
@@ -1010,11 +1017,13 @@ node	11278211917	http://www.starentbovalino.it/
 node	11280194825	https://www.costaelisabeth.it/
 node	11367489342	https://www.msglass.it/
 node	11405923368	https://wood-catanzaro-di-cardamone-francesco.business.site/?utm_source=gmb&utm_medium=referral
+node	11418074252	https://www.yamamay.com/
 way	150646604	http://www.pertinikr.gov.it/
 way	170206470	http://acquaparkatlantis.com/
 way	170486603	http://www.parcosila.it/index.php
 way	184223841	http://scilla.asmenet.it/
 way	239391413	http://www.costabluresidence.it
+way	304503499	https://www.lidl.it/
 way	336712523	https://www.agriturismoninea.net/
 way	368654307	http://lidoalexander.it
 way	473609923	http://stationfinder.eni.com/iveportal/stations/stationfinder.do?locale=it_IT&m=3&id=IT8556
@@ -1025,8 +1034,10 @@ way	702244425	https://www.costarealtropea.com/
 way	812508926	https://www.sda.it/
 way	1039118536	https://www.conad.it/ricerca-negozi/conad-strada-statale-18-snc-87023--diamante--010227
 way	1230127300	http://www.parcoleninfee.com/
+way	1231176426	www.giuntialpunto.it
 relation	9761581	https://www.villaggiosantamonica.com/
 relation	16172031	http://www.iistropea.gov.it/
+relation	16822856	https://www.centrocommercialelevele.it/
 node	2696198330	https://portalidicalabria.altervista.org/palazzo-de-nobili-sellia-marina/
 node	9899918440	https://www.tuibluetropea.com
 node	9899927291	https://www.orizzonteblu.it/
