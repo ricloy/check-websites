@@ -985,7 +985,7 @@ node	3749006338	http://www.sbhu.it/easyne2/LYT.aspx?Code=SBHU&IDLYT=657&ST=SQL&S
 node	3749056721	http://www.sbhu.it/easyne2/LYT.aspx?Code=SBHU&IDLYT=657&ST=SQL&SQL=ID_Documento=60
 node	3749061448	https://www.studioelisabettasabbadini.it/
 node	3749064557	https://m.facebook.com/pages/Antica-Osteria-Da-Pozzo/382011048506786
-node	3749067185	www.apforniture.it
+node	3749067185	https://www.apforniture.it/
 node	3750432086	https://www.uaar.it/pordenone
 node	3765051723	https://www.hotelsantinpordenone.it/
 node	3765085943	https://ristorantebean.it
@@ -2246,6 +2246,7 @@ node	11049673468	https://dexive.it/
 node	11052791488	https://ilwla.it/
 node	11058084287	https://www.bec.energy
 node	11063033005	http://Locandarossaromans.it
+node	11069222577	https://ilcentrostudi.com
 node	11072672079	https://trattoriaalfontanon.it/
 node	11073445990	https://www.synlab.it/
 node	11078306710	http://www.cueidibaret.it/
@@ -2303,6 +2304,10 @@ node	11356900730	http://www.doganavecchia.it/chi-siamo/
 node	11366743393	https://www.facebook.com/cuoredabruzzoudine/
 node	11379929752	http://www.serivosrl.it/
 node	11411662994	https://www.ediliziacrobatica.com
+node	11415269271	http://www.diemmesas.com/
+node	11415269272	https://www.yesdesign.it/
+node	11415458654	https://www.sesonrose.bio/se-son-rose/
+node	11418063581	https://www.nerotrieste.com/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	https://campingalbosco.it/
@@ -2415,7 +2420,7 @@ way	36125967	https://archiviodistatoudine.beniculturali.it/
 way	36126118	https://www.udinetoday.it/eventi/location/teatro-palamostre/
 way	36128455	http//4.icudine.gov.it/
 way	36129973	https://www.icudine.it/
-way	36132432	www.comune.udine.it
+way	36132432	https://www.comune.udine.it/
 way	36132499	https://www.comune.udine.it/it/sicurezza-22643/protezione-civile-50370
 way	36144922	https://www.dsegno.biz/
 way	36147588	http://www.afamweb.com/
@@ -2451,6 +2456,7 @@ way	36264929	https://www.fossamala.it/
 way	36266041	https://www.ucicinemas.it/
 way	36273328	https://www.sofimspa.it/
 way	36277656	http://www.nuotosanvito.it
+way	36281702	https://www.allequerce.com/
 way	36281982	http://www.camalvani.it
 way	36289848	http://www.castellodicordovado.com/
 way	36306435	https://www.folador.it/
@@ -3488,6 +3494,8 @@ relation	1526505	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settor
 relation	1554500	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-077
 relation	1554501	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-072
 relation	1587644	https://www.comune.duino-aurisina.ts.it/
+relation	1699148	https://www.stat.si/obcine/Region/Index/11
+relation	1699230	https://www.stat.si/obcine/Region/Index/9
 relation	1730704	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-662
 relation	1777257	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-713
 relation	1777290	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/s5-516
@@ -4537,6 +4545,7 @@ relation	16485612	https://www.collinbici.com/
 relation	16529801	https://www.hoptour.it/
 relation	16530768	https://tplfvg.it/it/il-viaggio/servizi-a-chiamata/trieste/
 relation	16811911	https://www.jakobova-kolesarska-pot.si/
+relation	16825905	https://www.jakobova-kolesarska-pot.si/
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
