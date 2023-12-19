@@ -968,6 +968,7 @@ node	4426179546	http://www.eventigenova.it/bibiservice/
 node	4440317211	https://cinque-valli.com/listing/bar-pradio/
 node	4440340424	https://macelleriaolivabadalucco.myadj.it/v/macelleriaolivabadalucco
 node	4442358035	https://www.formaelucis.com/museo-diocesano/onde-barocche-biglietti-orari-albenga-pieve-di-tec
+node	4442370141	https://www.museopassatempo.it/
 node	4446277273	https://www.cmac.it/
 node	4452442993	https://locandaitremerli.com
 node	4453271993	http://www.anticaosteriadapalmira.it/
@@ -2107,6 +2108,7 @@ node	11047302705	https://www.luppolio.it/
 node	11064082706	https://ristorante-bar-a-mare.business.site/?m=true
 node	11065039452	https://rochadomar.it/
 node	11083537872	https://www.booking.com/Share-cP49RP
+node	11090484740	https://www.bfscollezionidigitali.org/oggetti/18007-rinaldo-spadaccini
 node	11097181917	https://guias-viajes.com/italy/millesimo/hotel-la-gaietta/
 node	11097263745	https://www.paginegialle.it/millesimo-sv/tende/ad-caldi-alessandro_2
 node	11097263753	http://www.ruffinopetgarden.com/
@@ -2209,6 +2211,14 @@ node	11398143445	https:/kledamystravel.com
 node	11401708462	https://belvedere9.it/
 node	11403837607	http://sigillo.museilaspezia.it/
 node	11403977839	https://marcopolo1960.com
+node	11413022475	https://www.albergosmeraldo.it/
+node	11415824617	https://www.parodinutra.com/
+node	11415855917	https://villaduchessadigalliera.com/
+node	11415866339	https://www.hotelargentinaportofino.it
+node	11415892288	http://www.legrigue.it/
+node	11420730424	www.ristoranteisognatori.it
+node	11425579746	https://www.ambientegiardini.it/
+node	11428528177	https://www.itsagroalimentare.liguria.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2290,7 +2300,6 @@ way	104430859	https://www.residenzasantantonio-sassello.it/
 way	104579055	http://www.pistakartvittoria.it/
 way	106590654	https://www.marcellinegenova.it/
 way	107716422	http://www.irolli.it/genova_unesco/palazzo/via_cairoli_18.html=1
-way	108153599	https://odstore.it/
 way	108760246	https://www.sorrisofrancescano.org/
 way	109787202	https://www.portopetroli.com/
 way	110183243	http://www.fincantieri.it/
@@ -2308,7 +2317,6 @@ way	129127432	https://www.casadiriposoimperial.it/
 way	131184960	https://calvino.ge.it/
 way	131440594	https://www.lecinqueterre.org/trekking/viadellamore.php
 way	131894804	https://www.fidra.it/
-way	132702541	https://villaduchessadigalliera.com/
 way	132713061	https://www.glfc.it/it/videoporto
 way	133331147	http://www.bibliotecafranzoniana.it/
 way	133332071	https://www.clemson.edu/caah/departments/architecture/programs/fluid-campus/genoa.html
@@ -2366,7 +2374,6 @@ way	185536865	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII1
 way	188747026	http://www.ecg-genova.eu
 way	190067605	www.comprensivoquezzi.it/
 way	195587323	https://giardinihanbury.com/
-way	200437554	https://www.hotelargentinaportofino.it
 way	200437784	https://paraggi.eighthotels.it/
 way	200438108	https://www.castellobrown.com/index.php
 way	200438223	https://www.yachtclubitaliano.it/en/club/portofino-office
@@ -2485,8 +2492,6 @@ way	203609444	https://www.croceorosciarborasca.it/
 way	204217103	https://agriturismolacosta.net/
 way	204224480	http://altaviarelax.it
 way	204228521	https://www.facebook.com/Rifugio-Escurisionistico-di-Cia%C3%A9-183339688372989/?fref=ts
-way	204228816	https://iprovenzali.it/it/
-way	204231822	https://www.parodinutra.com/
 way	204285831	http://www.ristorantegrit.it/
 way	204297469	https://comune.casella.ge.it/
 way	204302111	http://www.villagrit.com/#
@@ -2580,7 +2585,6 @@ way	226537397	http://www.parrocchiacavi.it/
 way	226537597	http://www.lavagnesehotel.com/
 way	226538028	https://www.hotelvillafieschi.com/
 way	226567497	http://www.corallomoneglia.it/
-way	226568058	http://www.legrigue.it/
 way	226569041	http://www.lacasettadisofia.it/
 way	226597594	https://www.villafanny.eu/
 way	226619419	https://www.nuanatua.eu/la-locanda/locanda.html
@@ -2959,6 +2963,7 @@ way	1216656463	https://www.villa-argentina.it/
 way	1218559702	https://emanuellisimoncini.com/
 way	1220997570	https://www.iccasella.edu.it/
 way	1222841155	https://www.finaleoutdoor.com/
+way	1230970421	https://iprovenzali.it/it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
@@ -3586,7 +3591,6 @@ way	202465238	www.cascinastra.it/
 way	202604851	http://www.palabeachvillage.it/
 way	225228057	www.claspesto.com
 way	225443643	http://www.rivieratrasporti.it/
-way	226570195	http://www.legrigue.it
 way	226589814	www.bbfiume.it
 way	230769914	https://www.cartieragrillo.net/
 way	342151132	http://www.promo-sport.it/
