@@ -156,7 +156,6 @@ node	1536916627	https://etnaportal.it/santalfio/chiesa_magazzeni/foto
 node	1537471776	https://www.poste.it
 node	1537888493	https://www.dolcicolosi.it
 node	1583140289	https://www.bricocenter.it/
-node	1583140296	https://www.euronics.it/
 node	1584508657	http://www.toysplanet.it
 node	1603343423	http://www.donminico.com/
 node	1632946901	https://www.comune.francavilladisicilia.me.it/
@@ -1373,7 +1372,6 @@ node	4748882825	https://mydecogruppoarena.it/punto-vendita/f-lli-arena-s-r-l-65.
 node	4752717132	http://www.casaturismoilmandorlo.com/
 node	4753009785	https://www.etnaquotamille.it/
 node	4753359430	http://www.bbpiccoloranch.it/
-node	4763176527	www.barmagri.it
 node	4764939881	http://www.anticadolceriarizza.it/
 node	4768863820	https://www.comune.agrigento.it/
 node	4768864168	https://www.poste.it
@@ -2893,6 +2891,7 @@ node	9557454864	https://brightlampadario.com/
 node	9562300284	https://www.aci.it
 node	9562417722	https://www.bacionero.it
 node	9565750357	https://www.farmaciacascioferro.it
+node	9566521664	http://www.loredanahome.it/
 node	9597121117	https://officina31ibla.it/
 node	9600020113	https://www.mangiafico1972.it/
 node	9600020114	https://www.mangiafico1972.it/
@@ -3538,6 +3537,12 @@ node	11399043531	https://www.sanibaby.it/
 node	11399982295	https://www.camagnacountryhouse.it/
 node	11414297430	http://www.aspag.it/index.php/continuita-assistenziale-guardia-medica
 node	11414577552	https://go-dive.net/travelhero/dona/
+node	11425850201	http://www.loredanahome.it/
+node	11425850202	http://www.loredanahome.it/
+node	11425850203	http://www.loredanahome.it/
+node	11425850204	http://www.loredanahome.it/
+node	11430099168	https://www.poste.it
+node	11433129234	https://gioiellerialbanese.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	https://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -3699,6 +3704,7 @@ way	83696299	http://www.ilgiardinodigraziella.it/
 way	83826054	https://www.ghshotels.it/astoria/
 way	88669721	https://www.eplanetcinemas.it/
 way	88723920	https://www.istitutocarducci.edu.it
+way	90062699	https://www.lidl.it/
 way	90184664	https://www.scuolapirandellocomiso.edu.it/
 way	90340843	https://www.scuolapirandellocomiso.edu.it/
 way	91258624	https://www.battistix.it
@@ -4892,7 +4898,6 @@ way	870497464	https://www.magicmotorsport.com/
 way	871510469	https://www.habitat-arredamenti.it/
 way	876237413	https://www.siciliahotelspa.it/
 way	881761570	https://www.vigilfuoco.it
-way	887604217	https://www.lidl.it/
 way	888307015	https://www.penny.it/
 way	888517210	https://www.penny.it/
 way	889210325	https://www.ddrodarivillabate.edu.it/
@@ -5996,6 +6001,7 @@ relation	16151896	https://www.caimessina.it/
 relation	16509514	https://www.cai.it/sezione/petralia-sottana/
 relation	16509525	https://www.cai.it/sezione/petralia-sottana/
 relation	16509539	https://www.cai.it/sezione/polizzi-generosa/
+relation	16850222	https://www.portedicatania.it/
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	548101816	http://www.medicalcentermazara.it
 node	582900801	https://www.villaaltair.com/
@@ -6017,6 +6023,7 @@ node	1505733954	http://www.cortiledivenere.it/
 node	1513499798	https://farmaciabrunomilazzo.wixsite.com/farmaciabruno
 node	1776168563	https://www.dianabrown.it
 node	1882538216	http://www.selinunte.net/museo_cv.htm
+node	1939885872	https://petrol-service-lampedusa.business.site/
 node	1983996777	www.agriturismosorgenterefalzafi.it
 node	2005579921	http://www.annalisabuccellato.it/
 node	2005579929	http://www.santuariodisanvitolocapo.it/museo/museo.html
@@ -6065,6 +6072,7 @@ node	5670565805	http://www.ateliermelody.com
 node	5725863291	https://www.centrodermatologicocatalfamo.it/
 node	6015666528	http://www.parafarmaciadeltindari.it
 node	6063310988	http://fablabpalermo.org
+node	6222710510	http://www.raiatea.mediainx.com/start.inx
 node	6497282968	http://www.pediatramerlino.it/sedi
 node	6502412894	https://www.ristorantevillasalvenere.it
 node	6757394075	http://laperlaneravacanze.it
@@ -6153,6 +6161,7 @@ way	222354705	http://www.geniocivilerg.it/
 way	228992303	https://www.centroolimpopalermo.it/
 way	245055218	http://www.campinglapineta.it/italy/
 way	257262779	http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=399
+way	275935131	https://www.eurospin.it/
 way	279460081	http://www.siciliaoutletvillage.it/
 way	316423358	http://www.kartodromolascari.it/
 way	333413153	http://www.caposcalambri.com/
@@ -6174,6 +6183,8 @@ way	988831644	https://www.villa-sanbiagio.it
 way	988831645	https://www.villa-sanbiagio.it
 way	1076653697	http://www.teatrolidea.com
 way	1150237053	http://www.hoteladmeto.it
+way	1232484414	https://www.ctvmessina.it/
+way	1233473026	https://www.campingparadise.it/
 relation	1175567	http://www.liceoscientificomazara.it/
 relation	1242170	http://giardinoemiro.altervista.org/
 relation	1383540	http://www.itcmazara.it/
