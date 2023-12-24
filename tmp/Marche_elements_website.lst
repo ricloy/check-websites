@@ -20,7 +20,6 @@ node	437190514	https://rotondabruscoli.business.site/
 node	453243895	https://valdicastro.it/
 node	462212888	http://www.tuttogelato.com/
 node	465611749	https://www.frescomarket.it/negozio.cfm?pdv=90541
-node	469091831	https://www.frescomarket.it/negozio.cfm?pdv=90538
 node	469094013	https://www.museoomero.it/main?pp=pagina_iniziale
 node	469111941	https://www.farmaciagalatello.it/
 node	489390861	http://www.farmaciapaloni.com/
@@ -155,14 +154,16 @@ node	1316682994	https://www.yumyumfood.it
 node	1321082413	https://www.pamo.it/
 node	1321082517	https://www.egohotelancona.it/
 node	1321082564	https://www.bmw-motorrad.it/topmotors-ancona/it/home.html
-node	1321082570	https://www.pizza-pazza.it/
+node	1321082570	https://www.mociga.it/
 node	1331732180	https://www.marenostrum.cloud
+node	1331732454	https://www.mitobreakbar.com/
 node	1332887430	https://www.grandhotelpalaceancona.com/
 node	1332887464	http://www.nh-hotels.it/nh/it/hotels/italia/ancona/nh-ancona.html
 node	1339932766	http://www.pizzeriavallemiano.it
 node	1339932771	https://bowow.it/
 node	1348507378	http://www.agriturismoaccipicchia.it/
 node	1364270407	http://www.barluana.it/
+node	1364270417	https://www.conerobreak.it/
 node	1364270428	https://www.barangolo.it/
 node	1364681347	http://www.siconte.it/it/punti-vendita/si-superstore/ancona-collemarino
 node	1365032889	http://www.farmaciavallemiano.it
@@ -194,7 +195,6 @@ node	1598153211	http://www.cinemafano.it/
 node	1600678000	https://www.7piazzadiaz.it/
 node	1600678004	http://www.ristorantegiardinoancona.it
 node	1605084516	https://www.vecchiogelso.com
-node	1605084537	https://www.facebook.com/hotelromapetritoli
 node	1612357313	https://www.piadinapiu.it/
 node	1624167522	https://www.croceverdem-m.it/
 node	1640143475	https://www.thecityancona.it/
@@ -211,9 +211,9 @@ node	1755092520	https://www.terracruda.it/
 node	1755183916	https://www.libracciourbino.it/
 node	1755231738	https://www.ristorantemagnagrecia.it/
 node	1773479013	https://www.ristorantelamezzaluna.com/
+node	1782153850	https://www.amoreborghese.it/
 node	1801527134	https://www.locandarocco.it/
 node	1820978259	https://www.bardellostadio.it/
-node	1864606661	https://www.frescomarket.it/negozio.cfm?pdv=90537
 node	1869425558	https://www.halleyweb.com/c042049/
 node	1871040415	https://www.eurospin.it/punti-vendita/castelfidardo-492793/
 node	1872488278	https://www.ristorantealvaro.com/
@@ -233,6 +233,7 @@ node	2029569202	https://www.eurospin.it/
 node	2037705254	https://www.marylo.it/
 node	2089791115	https://www.ucicinemas.it/uci_pesaro/index.php/
 node	2092920681	https://www.palazzodeimercanti.it/
+node	2094238675	https://la-vecchia-ancona3.webnode.it/
 node	2099747806	https://anellodororistorante.business.site/
 node	2103560476	http://www.osterialucia.it
 node	2114985286	http://www.bpls.it/
@@ -284,7 +285,6 @@ node	2315938842	https://agriturismomoretti.it/
 node	2316408066	http://www.luchettisport.it
 node	2321245149	https://www.conad.it/ricerca-negozi/negozio.009863.html
 node	2323146096	http://www.melania.it
-node	2323146097	http://www.melania.it
 node	2323146100	https://www.poltronesofa.com/
 node	2326722516	https://www.laluma.it/
 node	2333895201	http://www.arredamentifratellimorresi.com/
@@ -558,6 +558,7 @@ node	4338524391	https://www.tribsorv.ancona.giustizia.it/
 node	4338973860	https://www.ciavattinigarden.it/floreale-del-passetto/
 node	4338987960	http://www.bocasalina.com/
 node	4338999196	https://ristoranteselfgino.it
+node	4338999197	https://plazaportonovo.it/
 node	4340538433	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Ancona-Mazzini/1117/
 node	4340538434	https://www.momentidite.it/
 node	4340538437	https://www.clickcafeshop.it/module/storelocator/storedetails?id=3
@@ -1359,9 +1360,11 @@ node	11379428915	https://www.gabriellispa.it/
 node	11392512168	https://www.carifermo.it/it/
 node	11396953653	https://osteria-scacciadiavoli.business.site/
 node	11397146841	https://www.hairshopancona.com
-node	11410277752	www.agriturismovernuccio.it
+node	11410277752	http://www.agriturismovernuccio.it
 node	11411797865	https://shop.happycasastore.it/pages/punti-vendita?store_name=Ancona&store_code=188
+node	11415096965	https://ristorantebuonobuono.com/
 node	11417096286	https://coworkingfermo.com/
+node	11438824570	http://www.dlfancona.it/servizi.asp?page=60
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1636,7 +1639,7 @@ way	366437049	https://www.abbronzatissimabeach.it/
 way	366483323	http://gigole.it/
 way	367884334	https://www.hotelnuovodiana.com/
 way	368607505	http://www.monteprata.it/
-way	370734199	http://www.roadhousegrill.it/
+way	370734199	https://www.roadhouse.it/it/ristorante-roadhouse-senigallia
 way	372491186	https://www.carabinieri.it/
 way	372645010	http://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	373179950	http://www.rifugiocupi.it/
