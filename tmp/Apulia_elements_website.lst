@@ -329,7 +329,6 @@ node	3274276263	http://www.birsciop.it
 node	3278485861	https://www.sella.it/
 node	3279886302	https://www.silver-hotel.it/
 node	3299322564	http://www.newranch.it/
-node	3301992261	https://www.scagap.com/
 node	3303208466	https://lecce.ens.it/
 node	3309959740	https://www.supermercatidok.it/index.php?idpdv=171&last=no&p=promozioni&pdv=BARI+-+VIA+BRIGATA+REGINA%2C+SN
 node	3318976433	https://www.risorgimentoresort.it/
@@ -1972,6 +1971,9 @@ node	11417845732	http://www.goldenpoint.com
 node	11417845735	https://www.elenamiro.com/
 node	11417845744	https://centromontessorilecce.it/
 node	11418304184	https://www.multicinemagalleria.it/
+node	11434592245	https://centro-spesa.business.site/
+node	11435535165	https://www.panificiorecchia.it/
+node	11436816623	https://burgerking.it/ristoranti/ristorante.php?storeId=31093
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30791611	https://fierafoggia.it/
@@ -3413,7 +3415,6 @@ way	68334157	http://www.scuoladonpappagallo.it/
 way	72401407	https://www.secondocircoloboscoterlizzi.edu.it
 way	78626385	https://www.gesmundomorofiore.edu.it
 way	92402804	http://www.santuariosanmichele.it/
-way	128055187	http://www.comune.bari.it
 way	148789446	http://www.aeroclubbrindisi.it/
 way	186273199	https://www.liceisylosfiore.edu.it
 way	298867779	https://linktr.ee/monkeyclub.lecce
@@ -3465,6 +3466,7 @@ way	1212951225	https://services.brt.it/it/filiale/lecce-sud
 way	1213658376	https://www.secolario.com
 way	1218435563	https://www.dolmensportresort.it/
 way	1225944158	https://www.lidl.it/
+relation	3536823	http://www.comune.bari.it
 relation	4041429	https://www.conventosantuariopadrepio.it/
 relation	5724434	http://www.comune.taranto.it/
 relation	7163382	http://www.cinemateatririuniti.com/italia/
