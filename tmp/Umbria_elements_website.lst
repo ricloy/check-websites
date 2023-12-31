@@ -894,7 +894,6 @@ way	176335219	https://www.listro.it/
 way	176589640	http://musei.beniculturali.it/musei?mid=4673&nome=teatro-romano-e-antiquarium-di-gubbio
 way	177687147	https://www.fontemaggio.it/
 way	177727322	http://www.fontemaggio.it/hotel.htm
-way	179935735	http://www.ilboschetto.com/
 way	201172745	https://www.per.umbria.it/
 way	203170559	https://www.areasostacampercampeggiocapitello.it
 way	204687572	https://www.fontemaggio.it
@@ -929,7 +928,7 @@ way	237016079	http://www.liceoartisticoterni.it/index.html
 way	237750831	http://musei.beniculturali.it/musei?mid=5350&nome=palazzo-ducale-di-gubbio
 way	237972937	http://www.scogliodellaquilone.it/hotel_scoglio_dell_aquilone.asp
 way	237972938	https://www.tavlacavallerizza.it/
-way	238107829	https://dipartimenti.unipg.it/scienzestoriche/sezioni/82-campo-della-fiera-descrizione-dettagliata
+way	238107829	https://www.campodellafiera.it/
 way	238164056	https://www.agriturismoilcastello.com/
 way	238535343	https://www.40martiridigubbio.it/
 way	239765480	https://www.umbriamobilita.it/
@@ -1642,6 +1641,7 @@ relation	16739328	https://liceoclassicofoligno.edu.it/
 relation	16751540	https://camminoterremutate.org/
 relation	16757488	https://camminoterremutate.org/
 relation	16773556	https://www.camminodifrancesco.it/
+relation	16892973	https://www.camminodifrancesco.it/
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1887119542	https://www.fezemauro.com/
 node	2146579118	https://www.domuspacis.it/
@@ -1666,9 +1666,11 @@ node	11079164424	http://www.utopiaggia.eu
 node	11382162576	https://marianigiovannicommerciale.it
 way	140678619	https://www.superconti.eu/punti-vendita/orvieto/
 way	149526977	https://www.santacolette.com/
+way	179935735	http://www.ilboschetto.com/
 way	204687572	https://www.fontemaggio.it
 way	222602134	http://www.irpi.cnr.it/
 way	228635691	https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004000/assisi-war-cemetery/
+way	246213227	https://www.assisiofm.it/sacro-speco-narni-68-1.html
 way	279367111	https://www.montalionline.com
 way	279367126	http://www.montalionline.com/
 way	450266768	http://www.hotelquadrifogliocascia.com/
@@ -1695,4 +1697,5 @@ node	2329559965	www.osterialecivette.it
 node	4364974414	http://www.umbriameteo.com/webcam/castelluccio/
 node	7726566305	http://www.museiprovinciaterni.it/context_musei.jsp?ID_LINK=498&area=47
 way	54603680	http://www.assisihostel.com
+way	238107829	https://pleiades.stoa.org/places/416806
 way	833610917	https://www.iluoghidelsilenzio.it/eremo-di-santangelo-in-pantanelli-baschi/
