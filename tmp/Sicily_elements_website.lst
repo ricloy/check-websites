@@ -1382,7 +1382,6 @@ node	4779820641	http://www.hotel-sofia.it/
 node	4779820642	http://www.bebalba.it/
 node	4781721724	https://www.cicciopassamilolio.it/
 node	4783723031	https://www.poste.it
-node	4785005001	https://www.comune.noto.sr.it/il-turista/guida/
 node	4785226590	http://carocarrubo.org/
 node	4787599424	http://www.solenaturamare.it/
 node	4795266983	https://www.terredieolo.it/
@@ -1576,6 +1575,7 @@ node	5451557195	https://www.bata.it/negozio?storeID=170R_S_72716
 node	5451557425	https://www.spinnato.it
 node	5451557426	https://stores.footlocker.it/it/palermo/via-stabile-174-176.html
 node	5451557432	https://www.tezenis.com/it/palermo_via_ruggero_settimo_11/T712.html
+node	5451857633	www.comune.realmonte.ag.it
 node	5457347318	http://www.sicilianeilibri.eu/
 node	5457347433	https://www.eurostarshotels.it/eurostars-centrale-palace.html
 node	5457347438	https://libreriaportinaio.com
@@ -1731,7 +1731,6 @@ node	6215251971	https://ledivise.it
 node	6219040661	https://lacasaalduomo.wordpress.com
 node	6219920587	https://www.casamusicalesanfilippo.it/
 node	6238471429	https://www.nomasvello.it/depilazione-laser-siracusa1-201-nomasvello
-node	6238472222	https://www.nonnange.it/
 node	6242005989	https://www.istat.it/it/istituto-nazionale-di-statistica/organizzazione/sedi-territoriali
 node	6247890109	https://www.verticalclimbingcenter.it
 node	6254818095	https://tuttoincornice.com/
@@ -3273,7 +3272,6 @@ node	10736030317	http://www.hotel-maugeri.it
 node	10736030380	https://www.etimue.it/
 node	10737088070	http://l.ead.me/batnkI
 node	10737348575	https://www.vibrosiculasrl.com
-node	10737810124	https://www.penny.it/
 node	10737810125	https://www.penny.it/
 node	10737810129	https://www.penny.it/
 node	10737810145	https://www.penny.it/
@@ -3543,6 +3541,8 @@ node	11425850203	http://www.loredanahome.it/
 node	11425850204	http://www.loredanahome.it/
 node	11430099168	https://www.poste.it
 node	11433129234	https://gioiellerialbanese.it/
+node	11451638370	http://tuminomoto.it
+node	11455838394	https://fitprime.com/it/palestre/ragusa/equator_sport_clinic
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	https://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -3734,6 +3734,7 @@ way	114695124	https://www.scuolapoidomani.edu.it
 way	116457185	https://www.riserva-vendicari.it/torre-sveva/
 way	118184946	http://www.madison-restaurant.com
 way	118427376	https://cdspedalieribronte.edu.it
+way	119024826	https://www.decathlon.it/
 way	119895746	http://www.operaprimaartigianigelatieri.com/
 way	120020982	https://www.hoteltermeacquagrazia.com/
 way	121751538	https://www.eplanetcinemas.it/
@@ -4106,7 +4107,6 @@ way	302268815	https://www.istitutoraiti.edu.it/
 way	302350747	https://www.istitutoraelinoto.edu.it/
 way	302599992	https://www.poste.it
 way	302603501	https://www.poste.it
-way	302618655	https://www.poste.it
 way	302618656	https://www.poste.it
 way	302618658	https://www.poste.it
 way	302624000	https://www.poste.it
@@ -4687,6 +4687,7 @@ way	683545982	https://www.hellatron-weee.it/
 way	684023235	https://www.iisspiolatorre.edu.it/
 way	684682836	https://www.lagarderie.it/
 way	685078672	http://www.agriturismotenutepispisasegesta.com/
+way	685332439	https://www.letelediaracne.it/
 way	685468670	https://turismo.comune.palermo.it/palermo-welcome-luogo-dettaglio.php?tp=68&det=21&id=185
 way	686408437	https://www.villadafne.it/
 way	689331691	http://www.giannonelavorazionepietra.com/
@@ -5471,6 +5472,8 @@ way	1215610519	https://hotelristoranteparadise.it/
 way	1216518716	http://www.istitutomajoranaavola.it/
 way	1216948935	https://www.arcaplanet.it/
 way	1225273515	https://www.poste.it
+way	1235316947	https://www.penny.it/
+way	1235567453	https://www.poste.it
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
