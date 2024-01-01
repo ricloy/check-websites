@@ -670,6 +670,7 @@ node	2129225823	https://www.videoarts.eu/
 node	2130102581	https://www.instagram.com/somewhere_a_tree/
 node	2134665586	https://www.setaweb.it/
 node	2138802876	https://www.fotovip.com/
+node	2140753014	https://www.caibo.it/
 node	2144934530	http://www.readytofly.it/
 node	2146564889	https://www.agrisanpolo.it/
 node	2148033408	http://www.imattianni30.it
@@ -847,7 +848,7 @@ node	2502758808	https://www.centroilcastello.it/
 node	2505732335	https://www.setaweb.it/
 node	2505732337	https://www.setaweb.it/
 node	2505963021	https://lovastreetfood.it/
-node	2511265422	http://cts.w.istruzioneer.it/
+node	2511265422	http://bo.cts.istruzioneer.it/
 node	2515184407	https://www.imaginetraduzioni.it/
 node	2519572047	https://www.setaweb.it/
 node	2519572048	https://www.setaweb.it/
@@ -1080,6 +1081,7 @@ node	2718204533	https://www.terraesole.it/
 node	2718204901	https://www.circusrimini.com/
 node	2718206159	https://www.emgt.it
 node	2718207992	http://www.pachamama-rimini.org/
+node	2718208201	https://www.touringhotelrimini.com/
 node	2718212961	https://www.bancavalconca.it/
 node	2718213381	https://www.pizzeriaprimaopoi.it/
 node	2718214040	https://www.enel.it/punto-enel/
@@ -1940,7 +1942,7 @@ node	4613058502	www.agronauta.it
 node	4616292037	https://www.reggiochildren.it/pause/
 node	4618171125	https://www.abcbilance.it/it/pese-pubbliche/pesa-pubblica-campogalliano
 node	4621956489	http://www.osteriabartolinibologna.com
-node	4622014589	https://www.berberepizza.it/en/berbere-bologna/
+node	4622014589	https://www.berberepizza.it/berbere-bologna/
 node	4622395589	http://www.mariani-ravenna.it
 node	4622412189	https://www.villaggioglobale.ra.it/
 node	4623272540	http://www.tagliattipoltrone.it/
@@ -3312,6 +3314,7 @@ node	6149249629	https://www.sistemireggioemilia.it/
 node	6150229507	https://www.cacoevents.com/it/locali/lab0542.html
 node	6152193594	http://www.grisendicostruzioni.com
 node	6153168366	https://www.rootclub.it/
+node	6153651212	https://www.ayakisushi.it/
 node	6158322604	https://www.adm.gov.it/portale/-/ufficio-delle-dogane-di-ravenna
 node	6158334829	https://www.adm.gov.it/portale/-/ufficio-delle-dogane-di-forli-cesena
 node	6159948167	https://www.iispololugo.edu.it/
@@ -4640,7 +4643,6 @@ node	10299448389	https://www.studiolegaleianelli.it/
 node	10299458412	https://www.aicsbologna.it/spazio/casa-di-quartiere-scipione-dal-ferro/
 node	10300122070	https://centrodelledonne.women.it/
 node	10300285509	https://www.camperopoli.it/
-node	10300856112	https://www.berberepizza.it/
 node	10300856910	https://www.berberepizza.it/
 node	10300933227	https://www.comune.imola.bo.it/imoladove/medicina-di-base-sportello-unico-distrettuale
 node	10303196649	https://www.wwf.it/dove-interveniamo/il-nostro-lavoro-in-italia/oasi/oasi-di-ca-brigida/
@@ -4679,6 +4681,7 @@ node	10576745588	https://ionity.eu/
 node	10576745589	https://ionity.eu/
 node	10581032110	https://www.facebook.com/profile.php?id=100057333254810
 node	10582680602	https://zuffiinfissi.it/
+node	10586735235	https://www.americagraffiti.it/
 node	10589165018	https://corsi.unibo.it/laurea/TecnicheRadiologiaMedica/contatti
 node	10589229711	https://www.ordineinfermieribologna.it/lordine/contatti/
 node	10589287390	https://www.parcheggio.bologna.it/
@@ -5038,7 +5041,6 @@ node	11343819116	https://manasushi.it/
 node	11352582755	https://www.caibo.it/
 node	11356415405	https://www.gruppomorini.it/sedi/centro-logistico-ricambi-auto-bologna/
 node	11362941942	https://www.caibo.it/
-node	11362998783	https://www.caibo.it/
 node	11362998786	https://www.caibo.it/
 node	11363865698	https://www.umpi.it/
 node	11366038508	http://www.embit.eu
@@ -5086,6 +5088,11 @@ node	11423452164	www.brunovicentini.blogspot.com
 node	11428898982	https://aribo-re.it
 node	11439227168	https://www.prismaimmobiliare.biz/
 node	11443058547	https://forno-reverberi.business.site/
+node	11458973969	http://totosapore.com
+node	11462836650	https://www.architettobertuzzi.com/
+node	11465471985	https://incantocesena.it/
+node	11465628095	https://www.emmahotelbolognafiera.it/
+node	11470214668	https://www.momomanga.it/
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	https://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -8239,6 +8246,7 @@ relation	16769794	https://www.sentieripartigiani.it
 relation	16826236	https://www.sentieripartigiani.it
 relation	16833536	https://sentieri.caiparma.it
 relation	16842158	https://dar.unibo.it/it
+relation	16876581	https://sentieri.caiparma.it
 node	441918990	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/427-fidenza.html
 node	797204601	http://www.poliambulatoriolasalute.it/
 node	860582713	http://www.campeggiovivaio.it/
