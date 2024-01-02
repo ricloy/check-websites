@@ -52,6 +52,7 @@ node	298072757	http://www.seilbahn-hochmuth.it/
 node	299473833	https://www.raiffeisen.it/rta
 node	299473860	https://www.apotheke-farmacia.it/
 node	299473920	http://www.anjoka.it/conad-sand-in-taufers/
+node	299487253	https://www.hotelrosengarten.it
 node	299495954	https://www.hotelberger.it/
 node	299497268	https://www.raiffeisen.it/de/deutschnofen-aldein/
 node	299651022	https://farmaciavenezian.it/
@@ -592,6 +593,7 @@ node	1336725512	https://www.chaletfogajard.it/it/ristorante-fogajard
 node	1337549629	https://www.rainerum.it/index.php/scuole/liceo-scientifico-delle-scienze-applicate/
 node	1337552650	https://www.rainerum.it/index.php/teatro-cinema/
 node	1338486503	https://www.windschar.com/
+node	1339467007	https://stadlalm.it
 node	1339467009	https://www.geigerhof.it/
 node	1341506801	https://www.savoy-altabadia.it/
 node	1350118992	http://www.anjoka.it/eurospin-sterzing/
@@ -944,7 +946,7 @@ node	2263411770	https://www.pradasport.tn.it/
 node	2264062043	https://www.hotel-flora.net
 node	2269407152	http://www.residence-mirabell.com
 node	2269414651	http://www.viertlerhof.it
-node	2275425309	https://www.innerleiterhof.it/
+node	2275425309	http://www.innerleiterhof.it/
 node	2278358737	https://www.pfifftoys.com/
 node	2281376830	https://www.tallero.it/
 node	2282488564	https://www.platter.bz/
@@ -1036,7 +1038,7 @@ node	2410342455	https://www.hotel-irma.com/
 node	2410355679	https://www.hotelalpentirolis.com/
 node	2412419054	https://www.ciclighesla.com/
 node	2412851336	https://www.hoteleccher.com/
-node	2414893483	https://www.grafhartwig.schenna.com/
+node	2414893483	http://www.grafhartwig.schenna.com/
 node	2418610860	https://www.hotelmarchi.com/
 node	2419545217	https://www.hotelrezia.com/
 node	2421486324	https://www.steurer.it/
@@ -1057,7 +1059,6 @@ node	2427875807	https://my.sportler.com/sportler-filialen/sportler-brixen/
 node	2428432877	https://www.denardo.it/content/detailverkauf.php
 node	2429300308	http://www.michaeler.info/
 node	2429349900	https://www.pubwaage.it/
-node	2429403534	http://www.anjoka.it/eurospin-feldthurns/
 node	2429436059	www.olivierofacchinetti.it
 node	2429657283	http://www.baeckerei-gasser.it/it/punti-vendita/bressanone-piazza-san-erardo.html
 node	2429847474	https://www.sportkleon.it/
@@ -1835,6 +1836,7 @@ node	2930164552	http://www.sii.bz.it/
 node	2943773576	https://www.acodat.com/
 node	2946662248	https://locanda-al-castello.it
 node	2953808903	http://www.tirolergoldschmied.it/
+node	2957454881	http://www.malgaroncac.it
 node	2958440288	https://www.eurospin.it/
 node	2959552521	https://www.hotel-alpenrose.it/
 node	2960912240	https://www.hofanger.com/
@@ -1850,7 +1852,7 @@ node	2983690662	https://www.climbing-nives.it/
 node	2989672233	https://www.meran2000.com/en/summer/with-children/alpin-bob/25-0.html
 node	2990626681	https://www.cooperativa19.it/
 node	2990924571	https://muehlhaus.schenna.com/
-node	2991010283	https://www.feldhof-schenna.com/
+node	2991010283	http://www.feldhof-schenna.com/
 node	2991954777	https://www.weinklaus.com/
 node	3003020081	https://vinschgaubike.com/
 node	3006779936	http://oberspeiser.com/
@@ -2316,7 +2318,7 @@ node	3502179872	https://www.hotelgutenberg.eu
 node	3502506347	https://www.katnau.com/
 node	3502553412	https://www.prunner-luxury-suites.com/
 node	3502772879	https://www.schmiedhans.com/
-node	3502798379	https://www.astorhotel.info/
+node	3502798379	http://www.astorhotel.info/
 node	3502814116	https://www.weinmesser.com/
 node	3502815378	https://www.ritterhof.schenna.com/
 node	3502829696	https://www.hotel-walter.it/
@@ -2360,7 +2362,7 @@ node	3523061210	https://www.hotel-tyrol-schenna.com/
 node	3523098457	https://www.bachmair.it/
 node	3523104193	https://www.hotel-ifinger.it/
 node	3523146994	http://www.appartement-schenna.com/
-node	3523151303	https://www.walchhof.schenna.com/
+node	3523151303	http://www.walchhof.schenna.com/
 node	3523568006	https://www.hotel-kroell-schenna.com/
 node	3523899397	https://www.sonne.schenna.com/
 node	3523982376	https://www.sennamegg.it
@@ -2406,11 +2408,11 @@ node	3561054753	http://www.gartenheim.bz/
 node	3561073177	https://www.eckhardwies.schenna.com/
 node	3561524470	https://www.vvf-borgovalsugana.it/
 node	3562463337	https://www.duerrenstein.com/
-node	3562570993	https://www.nachtigall.it/
+node	3562570993	http://www.nachtigall.it/
 node	3562578664	https://www.chalet-andy.com/
 node	3562591793	http://www.schoenbrunn.schenna.com/
 node	3563079194	https://www.lichtenau.com/
-node	3563380861	https://www.ehrenfels.info/
+node	3563380861	http://www.ehrenfels.info/
 node	3563468193	https://www.alpenhof-schenna.com/
 node	3564808499	http://www.petaunerhof.com/
 node	3565266995	http://www.alpin-schenna.com/
@@ -2428,23 +2430,23 @@ node	3568658893	http://www.wiesenhof.schenna.com/
 node	3568748093	https://www.hotelwalder.com/
 node	3568777293	https://www.hotel-tenne.com/
 node	3570705566	https://www.schoen-aussicht.com//
-node	3570722694	https://www.schennerhof.com/
+node	3570722694	http://www.schennerhof.com/
 node	3570805994	http://www.tannerhof.net/
 node	3571122993	https://www.moserhof.it/
 node	3571156893	https://www.mitlechnerhof.com/
 node	3571221626	https://www.klarnerhof.com/
-node	3571262893	https://www.hotel-kiendl.com/
+node	3571262893	http://www.hotel-kiendl.com/
 node	3571374093	https://www.alpenrose-hotel.it/
-node	3571957893	https://www.taseralm.com/
+node	3571957893	http://www.taseralm.com/
 node	3574203308	https://www.schlosswirt.it
-node	3574316693	https://www.meinhardt.it/
+node	3574316693	http://www.meinhardt.it/
 node	3574418993	https://www.langwies.it/
 node	3574458224	https://www.hirzer.com/
 node	3577920827	https://www.gruenwalderhof.com/
 node	3577953384	https://www.gruberhof.schenna.com/
 node	3577958509	https://www.hotel-fink.com/
 node	3578193601	https://www.schennahotels.com/
-node	3578215495	https://www.bergland.net/
+node	3578215495	http://www.bergland.net/
 node	3580039995	https://www.hotellagrein.com/
 node	3580080693	https://www.hotel-ifinger.it
 node	3580311632	https://www.das-sonnenparadies.it/
@@ -2813,6 +2815,8 @@ node	4011676463	https://www.battistigroup.it/
 node	4011676465	https://www.marmimeneghini.it/
 node	4013472289	https://www.farmaciasangiorgiorovereto.com
 node	4013904556	https://www.hotelalpen.com/
+node	4013904562	https://www.amministrazionivaldisole.com/
+node	4013904570	https://alice-sport.business.site/
 node	4016946863	https://www.diana-hotel.it/
 node	4020650514	http://www.risotteriarustichel.it/
 node	4028995356	https://www.bottegadelcolore.net/
@@ -4899,7 +4903,6 @@ node	9947177496	http://www.ledrolakesuites.com
 node	9947775711	https://www.bbledro.com/
 node	9948843606	https://www.ledroholiday.it
 node	9948852837	https://www.tulipanaturalhome.com
-node	9951000064	http://www.ctledro.it
 node	9951145085	https://www.ledro-food.com/
 node	9952301020	https://www.residencepalafitte.com/
 node	9952753011	https://www.aziendaagricolarossiandrea.com
@@ -5041,7 +5044,7 @@ node	10287074803	https://www.traum-ferienwohnungen.de/393309
 node	10287453639	https://www.roath-hof.schenna.com
 node	10295389144	https://schlossfreudenstein.com/de/essen-im-schloss/restaurant-by-danilo-dambra/
 node	10295389145	https://schlossfreudenstein.com/en/dining-in-the-castle/panoramic-bar/
-node	10296257065	https://www.rooftop-schenna.com
+node	10296257065	http://www.rooftop-schenna.com
 node	10300316497	https://www.pixnerhof.com/
 node	10302717189	https://www.ritterhof.it/
 node	10309533819	https://hyperbit.it
@@ -5055,7 +5058,6 @@ node	10560768045	https://www.puenthof.com/
 node	10561752205	https://www.pension-hauenstein.it/
 node	10564143537	https://www.hanswirt.com/
 node	10570090838	https://www.maxentia.it/
-node	10576282749	https://kronair.it/
 node	10577544983	https://www.creativematrix.it/
 node	10581709424	http://valentinoapartment.it
 node	10600997628	https://www.villaverde-meran.com
@@ -5108,6 +5110,7 @@ node	10750656935	https://www.hotel-lux.it/
 node	10757513085	http://www.tiefbau-weger-laurein.com/de/
 node	10760891228	http://www.algarotti.it/
 node	10771732476	https://drinkstore.shop/
+node	10773025072	https://www.risengym.it/
 node	10775318906	https://www.merano-suedtirol.it/de/passeiertal/info-service/informationen/kontakt-oeffnungszeiten/rid-5E325D6EB5B3FE57E4EF730C88C6D7C4-p-infobuero-moos-in-passeier.html
 node	10784284500	https://www.zimmerei-silgoner.com/
 node	10784739594	https://www.caimerano.it/
@@ -5283,8 +5286,23 @@ node	11429010327	https://www.magrisgroup.com/
 node	11429122483	https://www.naves.it/
 node	11432613537	https://www.oberalp.com/de/Press%20Media/2022_08_17_Bike%20Wash%20Station
 node	11450670737	http://wwwgasserhof.info/
-node	11452053291	www.pension-gasser.com
+node	11452053291	https://www.pension-gasser.com/
 node	11452165609	https://www.gardenahotels.com/
+node	11456191214	https://apresski.valdipejo.me/it/
+node	11456243615	https://www.greenholiday.com
+node	11456243616	https://www.greenholiday.com
+node	11459558092	https://ferienhaus-krier.de/lago-di-ledro-trentino/
+node	11461070515	https://www.cadelbepi.com
+node	11461070517	https://www.greenholiday.com
+node	11461160682	https://www.greenholiday.com
+node	11461464732	https://vallediledro.net/le-strutture/chalet-le-querce
+node	11461775178	https://hausbrigitte-ledro.com/
+node	11462235631	https://www.cadelbepi.com
+node	11462235632	https://www.cadelbepi.com
+node	11462702816	www.erbbrot.it
+node	11474784461	https://www.bzgbga.it/de/Einrichtungen/Seniorenwohnheime/Altersheim_Schenna
+node	11475955208	https://trattoriadeiborghi.it/
+node	11478714261	https://www.burvel.com/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -5385,7 +5403,7 @@ way	41903875	https://www.hotel-rodes.com/
 way	41908951	https://www.parkurtijei.it/it/parcheggio-setil
 way	41917203	https://www.cavallino-bianco.com/
 way	41926476	https://www.tubladel.com/
-way	41947852	https://www.hotel-tirler.com/
+way	41947852	https://www.altoadigepertutti/de/poi/tirler-alm
 way	41950772	http://www.troier.com/
 way	41950774	http://www.seceda.cc/
 way	41967296	https://www.cendevaves.it/
@@ -5749,6 +5767,7 @@ way	76895248	https://www.gruppospes.it/servizi/rsa-villa-alpina
 way	77091083	https://www.vallediledro.com/it/fucina-dele-broche
 way	77127918	https://www.hotelcimadoro.com/
 way	77249585	https://www.hotelsancarlo.info/
+way	77339792	http://www.ctledro.it
 way	77343995	https://www.hotelmezzolago.it
 way	77383418	https://villavaleria.net/
 way	77383433	https://www.hotelbambi.com/
@@ -5841,7 +5860,7 @@ way	83834701	https://www.diocesitn.it/site/wd-annuario-enti/altogarda-e-valli-de
 way	83863484	http://www.pisoni.net
 way	83991914	http://www.thetruffulatree.com
 way	84053486	https://www.lapraterianago.com/
-way	84171836	http://www.campingvaldisole.it/
+way	84171836	http://www.valdisolecamping.it/
 way	84523982	https://www.garniminigolf.it/
 way	84524032	https://www.alpieveledro.it
 way	84524108	https://www.alpinegardaholiday.it/
@@ -5944,6 +5963,7 @@ way	94779902	https://www.bergschloessl.com/
 way	94816450	https://www.huberalm.com/
 way	95032339	https://www.rifugiocanziani.it/
 way	95085034	https://www.gallianetwork.it/
+way	95282967	https://www.hotellupobianco.it
 way	95286404	https://grumel.it/
 way	95420782	https://www.rifugiosalei.it/
 way	95423851	https://www.rifugiopanorama.com/
@@ -6090,7 +6110,7 @@ way	102724227	https://www.hotelkrone.net/
 way	103028242	http://davidtscholl.wix.com/koblategg#!page-6
 way	103235034	https://www.rosenhof.it/
 way	103317094	https://www.lagodibraies.com/
-way	103317133	https://www.gasthof-huber.it/
+way	103317133	https://www.gasthof-huber.it
 way	103325526	https://www.sennes.com/
 way	103495389	https://www.speckstube-eggerhof.it/
 way	103506309	https://www.comune.albiano.tn.it/
@@ -6230,7 +6250,7 @@ way	119156743	https://www.zundlhof.it/
 way	119355057	https://www.tecmaservice.com/
 way	119355062	https://www.ekla.it/
 way	119390733	http://www.gasthof-brueckele.it
-way	119446225	https://www.gasthof-dolomiten.com/
+way	119446225	https://www.gasthof-dolomiten.com
 way	120055662	https://www.parkhotel-linde.com/
 way	120058131	https://www.osteriasantanna.com/
 way	120176069	https://maribelhotel.it/
@@ -6290,7 +6310,6 @@ way	125041925	http://www.albergopanoramicacomano.it
 way	125360458	https://www.stallonericambi.com/
 way	125369235	https://www.scoles-selva.it/ld/scola-mesana-selva-santa-cristina.php
 way	125369479	https://www.hotel-interski.com
-way	125684218	https://www.campingalsole.it/
 way	125953897	https://www.aziendasociale.bz.it/Seniorenwohnheim_Villa_Serena/
 way	125972477	https://www.provinz.bz.it/bildung-sprache/kindergarten/landesdirektion-sprengel/kindergaerten-deutscher-kindergartensprengel-bozen.asp?news_action=4&news_article_id=599524
 way	125988273	https://www.ldmarket.it/it/punto-vendita/91_bolzano/
@@ -6340,12 +6359,12 @@ way	129958987	http://www.olivotto.bz.it/
 way	130038304	https://www.fassa.com/it/servizi/rifugio-col-rodella
 way	130077382	http://www.valsuganarentbike.it
 way	130126144	https://www.roderhof.it/
-way	130274418	http://www.asdrugbytrento.it
 way	130301743	https://www.puni.com/
 way	130393821	https://www.hoppe.com/
 way	130395384	http://www.kletterhalle.it/schluderns/
 way	130628475	http://www.garnifirn.com/
 way	130628479	http://www.pension-rosmarie.it/
+way	130630215	https://www.tuffalm.it
 way	130878861	https://www.melodiadelbosco.it/
 way	131600735	https://www.hallo-tirolerhof.com/
 way	131836192	https://www.suedtirol.info/de/erleben/buschenschank-oberlegar_activity_67522
@@ -8400,6 +8419,9 @@ way	1229025853	https://www.carpenteriafilippi.it/
 way	1229025854	https://www.alpilegno.com/
 way	1229038892	https://www.eco-holz.it/
 way	1229050727	https://www.2rlegnami.it
+way	1234360501	http://www.villaggiosantalucialedro.it
+way	1234633295	http://www.avll.it
+way	1235652044	https://kronair.it/
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -9651,7 +9673,7 @@ relation	10452653	http://www.via-alpina.org/de/stage/208
 relation	10732925	http://www.arabba.it
 relation	10732928	https://www.valgardena.it/
 relation	10885831	https://www.gartenhotelmoser.com/
-relation	11009657	www.sat.tn.it/sentieri/translagorai/
+relation	11009657	https://www.sat.tn.it/sentieri/translagorai/
 relation	11076842	http://via-alpina.org/en/stage/251
 relation	11077470	http://via-alpina.org/en/stage/250
 relation	11077704	http://via-alpina.org/en/stage/249
@@ -9808,8 +9830,8 @@ relation	16761569	https://www.sat.tn.it/
 relation	16761570	https://www.sat.tn.it/
 relation	16761571	https://www.sat.tn.it/
 relation	16864133	https://www.ledrolandart.eu/
-relation	16867356	www.sat.tn.it/sentieri/translagorai/
-relation	16868565	www.sat.tn.it/sentieri/translagorai/
+relation	16867356	https://www.sat.tn.it/sentieri/translagorai/
+relation	16868565	https://www.sat.tn.it/sentieri/translagorai/
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	268429704	http://www.farmaciagallo.com/
@@ -10385,7 +10407,6 @@ node	3849792227	http://www.ten-s.it/
 node	3887703011	http://www.abete-rosso.it/
 node	3899564057	https://www.burgerking.it/ristoranti/trento-trento/
 node	3903789485	https://ravellisport.business.site/
-node	4013904563	www.losgringos.it
 node	4013904565	http://www.caserottisport.com/
 node	4053903163	http://www.giggelberg.com/
 node	4127952589	https://www.mormone.it/
@@ -10704,6 +10725,9 @@ node	11380070955	https://www.coop-alpi.it/
 node	11380070956	https://maccani.it/
 node	11380070957	https://www.ravinacar.it/
 node	11385957036	https://www.musiccenter.it/
+node	11468870015	https://www.ctolmi24.it/
+node	11476648880	https://www.fiemme.ski/
+node	11478352374	https://www.rugbytrento.it
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
 way	24875513	https://www.asis.trento.it/it/impianti/campo-scuola-atletica-leggera-c-covi-e-e--postal_9425_s/
@@ -10734,6 +10758,7 @@ way	38069895	http://www.pittarello.com/
 way	38180314	https://www.gunneboentrancecontrol.com
 way	38180965	http://www.sda.it
 way	39255829	https://www.wieserhof-aldein.it/almurlaub-in-einzigartigen-appartements/
+way	39262846	https://www.acquarena.com/
 way	39471489	http://brixen.jugendherberge.it/
 way	39690597	https://masibrenta.it/
 way	40223444	http://www.hotelalpian.com/
@@ -11178,6 +11203,7 @@ way	1173222628	https://www.buonconsiglio.it/index.php/Castello-del-Buonconsiglio
 way	1173879653	https://www.comune.trento.it/Aree-tematiche/Cultura-e-turismo/Visitare/Altri-siti-di-interesse-turistico/I-luoghi-di-Chiara-Lubich/Aiuola-della-Pace
 way	1175628923	https://www.nutriretrento.it/Gli-attori/Orti/Orto-urbano-Montevaccino
 way	1181361605	http://www.bibcom.trento.it
+way	1186219813	https://www.costruzioniangelini.it/residenza-buonconsiglio/
 way	1193475770	https://www.roechling.com/
 way	1194727347	https://www.trentinomobilita.it/biciclette-cp-trento
 way	1194727349	https://www.trentinomobilita.it/biciclette-cp-trento
