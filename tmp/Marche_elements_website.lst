@@ -1,5 +1,6 @@
 @type	@id	website
 node	26859701	http://www.camping-pineta-urbino.it/
+node	70980633	https://www.comune.grottammare.ap.it/
 node	130009920	http://www.hotelpassetto.it/
 node	229118515	https://carburanti.esso.it/it-it/find-station/esso-ancona-essoancona-100364360
 node	257061689	https://www.farmaciaferrettidrgianpaolo.com/
@@ -10,6 +11,7 @@ node	280991959	https://www.campingjohnny.com/index.php/it/
 node	290402015	https://www.caffemeletti.it/
 node	290402277	https://www.barsestili.it/
 node	302657619	https://agriturismoilrustico.it/
+node	324282024	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/52-ancona---via-valle-miano.html
 node	329970365	http://www.vintora.it/
 node	335752015	https://www.colverde.it/camping/
 node	344856276	https://www.ristorantemontecucco.it/
@@ -396,6 +398,7 @@ node	3130943412	https://www.facebook.com/Societ%C3%A0-Operaia-di-M-S-Fermo-1864-
 node	3140093682	https://www.credit-agricole.it/
 node	3143447361	https://www.conad.it/ricerca-negozi/negozio.010048.html
 node	3150218201	https://www.cosedite.it/
+node	3150248950	https://www.ristorantepizzerialunarossa-senigallia.it/
 node	3156294094	https://www.gianniguerra.it/penelope/penelope.htm
 node	3164294497	https://www.alcuocodibordo.it/
 node	3164305586	https://www.labuga.it/
@@ -466,6 +469,7 @@ node	3716465227	http://www.slonech.com/
 node	3716465427	https://www.naima.it/it/naima-falconara-marittima-cc-le-ville
 node	3724486808	https://www.giacomoleopardi.it/
 node	3724486809	http://www.leopardiwine.com/
+node	3725830042	https://www.coal.it/archives/punti-vendita/ascani-primo
 node	3728915652	https://www.puroebio.it/
 node	3728930943	https://www.paolobrunelli.me/
 node	3728955110	http://www.osteriadescuretto.it
@@ -903,7 +907,6 @@ node	8500881731	http://lnx.radioascoli.it/
 node	8508746033	https://www.coal.it/archives/punti-vendita/lillini-marco
 node	8508746061	https://www.tortellinibolognesi.it/
 node	8508746063	https://www.ionocoid.com/
-node	8515771311	https://www.crai-supermercati.it/nealco/punti-vendita/pdv.php?id=314
 node	8515771313	https://www.gioacchinistoccafisso.com/
 node	8515771315	https://www.mariocalviomacelleria.it/
 node	8515834618	https://www.lazazie.com/laboratori/ancona-corso-giuseppe-mazzini/
@@ -1063,6 +1066,7 @@ node	9805507927	https://casafilinara.it/
 node	9812728973	https://museomarec.it/
 node	9827717208	https://lepetitcafenumana.com/
 node	9853465817	https://urbino.lavapiu.it/
+node	9853466017	https://www.menudigitale.io/ristorantepizzerialocandadellastazioneurbino
 node	9853488018	https://the-bosom-pub.business.site/
 node	9857994892	http://www.dachicco.com/
 node	9859795455	https://www.agenziaimmobiliaresgiurbino.com/index.php
@@ -1373,6 +1377,13 @@ node	11415096965	https://ristorantebuonobuono.com/
 node	11417096286	https://coworkingfermo.com/
 node	11438824570	http://www.dlfancona.it/servizi.asp?page=60
 node	11468998050	https://www.libriusatisonnino.it/
+node	11477322084	https://www.giocondi.it/
+node	11482516410	http://www.ristorantedelleloggette.it
+node	11486430329	https://stores.liujo.com/it/italia/ancona/ancona
+node	11487011846	https://www.ristorantedapeppino.com/
+node	11493855846	https://farmacialucasimonelli.it/
+node	11493922601	https://ristoranteamicidelmare.eatbu.com
+node	11494056414	https://www.docallestimenticamper.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1500,7 +1511,6 @@ way	243485851	https://www.lariva.net/
 way	245867864	http://www.casadicuravillaserena.com/it
 way	247057447	https://www.casadicurastellamaris.it/
 way	256016240	http://www.piqu.eu
-way	260836390	https://www.turismo.marche.it/Turismi/Tradizioni/RicordarelaPassione/tabid/234/Title/Falerone-Teatro-romano/IdPOI/58/C/109005/C1/3/C2/31/T/13/page/1/Default.aspx
 way	263414794	https://www.lagiuggiola.it/it/
 way	264202970	http://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	264203273	http://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
@@ -1519,7 +1529,7 @@ way	294002268	https://www.faonline.it/
 way	295345036	https://www.agrituristlafonte.it/
 way	297539974	https://www.riservagoladelfurlo.it/
 way	297803088	http://www.azzurravini.it
-way	299758199	http://www.ilteatrodellaria.it/
+way	299758199	https://www.ilteatrodellaria.it/
 way	301672526	http://www.casa-aurora.it/en/camping.html
 way	302222103	https://www.ismatteirecanati.it/
 way	303079296	http://www.leopardiwines.com
@@ -1846,6 +1856,7 @@ way	1094781880	https://www.iisraffaello.edu.it/
 way	1096312500	http://www.valdifiori.nl
 way	1097799401	http://www.abbaziadisanturbano.it/
 way	1099684516	http://www.renox.com
+way	1102457386	https://caffesaccariashop.it/
 way	1112283489	https://campeggiolatorreportonovo.com/
 way	1112315184	https://www.ristorantedagiacchetti.it/
 way	1112538034	http://www.anticastamperiafabiani.it/
@@ -2006,6 +2017,7 @@ node	2099036011	http://www.farmaciapierinifano.it/
 node	2206750674	http://www.cirionitrasporti.it/index.php
 node	2258865130	http://www.adecco.it/
 node	2309842503	http://www.bowlingancona.com/
+node	2326324373	https://www.frasassi.com/
 node	2330339690	http://www.uniurb.it/cla
 node	2524606650	http://www.metaofficina.it/
 node	2875106428	http://www.mondolfoferro.it/
@@ -2062,7 +2074,6 @@ node	4438427139	http://www.recorddata.it/
 node	4442935624	http://www.farmaciaercolani.eu/
 node	4446391089	http://www.ristorantevilladelcerro.com/
 node	4446418335	http://paradisopasticceria.it/
-node	4459351221	http://www.relaisconcorde.it
 node	4557951532	http://www.newdaytel.com/
 node	4567034541	https://www.ristornatelagreppia-montemaggiore.it/
 node	4584371713	http://www.farmaciavannucci.it/
@@ -2198,6 +2209,7 @@ way	100298833	http://www.officinabonfigli.it
 way	104628956	https://domusmacerata.it/
 way	105064358	http://www.teatrodellafortuna.it/
 way	105811627	http://hotelgala.it
+way	123803755	https://www.conventinogradara.it/
 way	128734412	http://www.dancingtris.it/
 way	128738273	http://www.settimocielodancing.it/
 way	135232277	http://www.sportpark.it/
@@ -2271,6 +2283,7 @@ way	1133916798	https://www.carmelitanecamerino.it/
 way	1207229684	https://www.roadhouse.it/it/ristorante-roadhouse-civitanova-marche
 way	1219847974	https://chaletvela.it/
 way	1223292488	http://www.radiomagnetic.it/
+way	1236100673	http://www.relaisconcorde.it
 relation	1434016	http://www.officinabonfigli.it
 relation	6028599	http://www.aeromodellismofano.net
 relation	6517698	http://www.sorellepoveredisantachiara.it/
