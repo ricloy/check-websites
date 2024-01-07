@@ -353,6 +353,7 @@ node	2791951219	https://eusebi.it/
 node	2796394158	http://www.adesrl.it
 node	2845681779	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10765
 node	2845880924	https://flyingtiger.com/
+node	2860973852	https://www.redlion.it
 node	2863210915	http://www.pizzeriavogliacapricciosa.it
 node	2902381409	https://www.melluso.it
 node	2902510963	https://www.bcccastiglione.it/
@@ -483,7 +484,6 @@ node	4623060920	https://www.abruzzoturismo.it/index.php?Canale=Dove&IDCanaleSub=
 node	4624816759	https://www.farmaciediturno.org/farmacia.asp?idf=10683
 node	4647099792	https://chieti4comprensivo.edu.it/primariavillaggioceldit/
 node	4658680389	https://chieti4comprensivo.edu.it/primariaviabosio/
-node	4670813289	https://www.icripatorrevecchia.edu.it/
 node	4670998590	http://www.chieti4comprensivo.edu.it/chieti4/
 node	4684853599	https://www.iccastelfrentano.it
 node	4692733735	http://www.rmvfm.it/
@@ -648,6 +648,7 @@ node	5853343480	https://www.fabiodisconzi.com/open-carburanti/provincia-pe/46633
 node	5853345037	https://www.ranallishipping.com
 node	5859998085	https://scienzeumane.univaq.it/index.php?id=1684
 node	5882434108	https://www.consiglio.regione.abruzzo.it
+node	5884289822	https://www.rondinellacamping.it/
 node	5884290022	https://www.parcomajella.it/visita-il-parco/multimedia/webcam/seufemia-a-maiella-pe-giardino-botanico-daniela-brescia/
 node	5893949616	https://iltimo.it
 node	5893949617	https://iltimo.it
@@ -971,7 +972,6 @@ node	6757864043	http://www.danilogiampaolo.com/
 node	6760534983	https://carne-butchershop.business.site/
 node	6760605387	https://www.andreasbaraglia.com/
 node	6774825925	https://www.bper.it/scheda-filiale?p_p_id=&p_p_lifecycle=0&p_p_mode=view&__mylat=42.3662232&__mylng=13.442201&__lat=42.3569669&__lng=13.4069304&__subsidiaryId=695&__distance=5.1+km&__duration=8+min
-node	6776601701	https://m.facebook.com/PasticceriaCakeMe/
 node	6780847702	https://www.ristoromucciante.com/
 node	6780953542	https://teatrostabile.abruzzo.it/
 node	6785536861	https://m.facebook.com/handmadetattooshop/
@@ -1562,7 +1562,6 @@ node	7821117705	https://www.pecorinodifarindola.it/la-casera-consortile/
 node	7821150443	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10827
 node	7824495085	https://www.facebook.com/Artemide.Restaurant/
 node	7825348090	https://www.doreca.it/webdorecap/happbase.cgi?vpagedest=store&cn=SAN%20GIOVANNI%20TEATINO
-node	7825348091	https://gruppoedif.it/
 node	7825632978	https://www.somsrl.it/
 node	7829838820	https://www.enigmaroomabruzzo.it/
 node	7829838821	https://pescara.cronos.house/
@@ -2405,7 +2404,6 @@ node	10555045537	http://www.fotografandoweb.it/
 node	10557143369	https://www.gallucciimmobiliare.com/
 node	10557254518	https://cake-me-up.com/
 node	10563585214	http://www.tecnologiauto.it/
-node	10564666922	https://dpgommatech.com/
 node	10564865801	https://www.torrediblaga.com/
 node	10567107690	https://www.gommistachieti.it/
 node	10567320104	https://domusaurea.business.site/
@@ -2909,6 +2907,14 @@ node	11432829435	https://www.centrodabruzzo.com/negozi/superga-robe-di-kappa/
 node	11435095892	https://www.a2a.it/casa/a2a-easy-moving
 node	11438550857	https://www.flaiano.net/
 node	11443216743	https://jedaproject.com/
+node	11478487238	https://www.dalesiovini.it/
+node	11478616175	http://www.pizzabar.it/
+node	11478616176	https://www.coal.it/archives/punti-vendita/castagna-snc-di-castagna-maurizio
+node	11478616189	https://www.omnicomprensivocsangelo.edu.it/
+node	11478616194	https://www.exclusivecarciarrocchi.it/
+node	11486641667	https://www.centroesteticocomfortlife.com/
+node	11492683521	https://www.zaffineria.com/
+node	11493956521	https://www.nuovalibreriabosio.it/it/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -2972,6 +2978,7 @@ way	81512669	https://www.pasquarelliauto.it/sedi/concessionaria-ufficiale-toyota
 way	82748488	https://www.hotelalbatrosroseto.it/
 way	84977536	http://www.e-fish.pescara.it/
 way	85081322	https://pescarasambuceto.mercatinousato.com/
+way	85081331	https://gruppoedif.it/
 way	85354152	https://ghotelpescara.it
 way	85556856	https://www.galleriascalo.it/
 way	86585507	http://www.aeroportodeiparchi.it/
@@ -3064,6 +3071,7 @@ way	165575777	https://bricomio.it
 way	166095545	https://villadiega.it
 way	167435169	http://www.liberpri.com
 way	170189899	https://www.gabriellispa.it/it/insegne/tigre.html
+way	171014287	https://www.asl.pe.it/DettaglioSede.jsp?id=9
 way	171942884	https://www.centoquindici.com/
 way	172292407	http://www.liceomarconipescara.gov.it/
 way	173613005	https://www.hapimag.com/it/resorts/countries/IT/36
@@ -3674,6 +3682,7 @@ way	1056590264	http://www.autocarrozzeriacaresa.it/contatti.htm
 way	1057245626	https://bahiabeach.business.site
 way	1057572406	http://www.halleyegov.it/c069010/zf/index.php/comunita-religiose/index-chiesa/dettaglio-chiesa/parrocchia/4/chiesa/1/back/parrocchia
 way	1058125793	https://www.pescherialacquario.it/
+way	1059017292	https://onoranzefunebridebonis.com/
 way	1059195588	https://onoranzefunebridagostino.it
 way	1059776402	https://terraaccogliente.maiellaverde.it/la-grande-frana-di-roccamontepiano/
 way	1059801447	https://www.bec.energy/?lang=en
@@ -3694,6 +3703,7 @@ way	1066635862	https://www.diocesichieti.it/wd-annuario-enti/arcidiocesi-di-chie
 way	1069658004	https://www.cnsasabruzzo.it/
 way	1070290465	https://www.ilmartino.it/2018/02/mosciano-santangelo-la-fantasia-colorata-dei-murales-un-incanto-gli-occhi/
 way	1070731882	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/1493/Chiesa+del+Crocifisso
+way	1071112137	https://www.icripatorrevecchia.edu.it/
 way	1071265572	https://www.retitalia.eu
 way	1071316203	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10850
 way	1072022804	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/1657/Chiesa+di+Santa+Maria+di+Propezzano
@@ -3759,6 +3769,7 @@ way	1126996246	https://www.regione.abruzzo.it/content/lavori-urgenti-di-manutenz
 way	1127978895	https://www.repubblica.it/cronaca/2021/08/01/news/pescara_incendio_e_feriti_e_fuggi_fuggi_dei_bagnanti_sulla_spiaggia-312606247/
 way	1131941700	https://www.diocesipescara.it/wd-annuario-enti/castiglione-m-r-659/beata-vergine-maria-delle-grazie-341/
 way	1132471917	https://ucciantonio.it
+way	1133093266	https://dpgommatech.com/
 way	1133764997	https://www.sanlorenzovini.com
 way	1134646668	https://www.villaggioholiday.it/
 way	1136134555	https://marmoeresina.it
@@ -3839,6 +3850,7 @@ way	1228396022	https://www.nauticagabbiano.it
 way	1229486760	https://www.jcglobalservice.com
 way	1229511806	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	1229511807	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
+way	1229908140	https://www.artfireworks.eu/
 way	1232479304	https://www.freecomsas.it
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
@@ -3921,7 +3933,6 @@ relation	12018445	https://www.viadeilupi.eu
 relation	12018649	https://www.viadeilupi.eu
 relation	12018650	https://www.viadeilupi.eu
 relation	12038485	http://www.museocorfinio.it/parcoarcheologico.html
-relation	12047743	https://www.visitroseto.it/Vedere/Chiesa-Beata-Teresa-di-Calcutta/6-24-1.html
 relation	12101959	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 relation	12120202	https://www.parcomontisimbruini.it/
 relation	12139200	https://www.caisora.it
@@ -4046,6 +4057,30 @@ relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
 relation	16494983	https://www.ingenio-web.it/articoli/il-ponte-filomena-delli-castelli-sul-fiume-saline-pe/
 relation	16751540	https://camminoterremutate.org/
 relation	16752739	https://www.agenziaentrate.gov.it/portale/web/guest/uffici/-/uffici/uffici_INSTANCE_6TA6OwuprQd0/dettagliouffTTerritorio/KBA/cr/915/iur/KBA
+relation	16941683	https://www.ilcamminodellapace.it
+relation	16944256	https://www.ilcamminodellapace.it
+relation	16944367	https://www.ilcamminodellapace.it
+relation	16944395	https://www.ilcamminodellapace.it
+relation	16944534	https://www.ilcamminodellapace.it
+relation	16945320	https://www.ilcamminodellapace.it
+relation	16945377	https://www.ilcamminodellapace.it
+relation	16946268	https://www.ilcamminodellapace.it
+relation	16946665	https://www.ilcamminodellapace.it
+relation	16946805	https://www.ilcamminodellapace.it
+relation	16947246	https://www.ilcamminodellapace.it
+relation	16947430	https://www.ilcamminodellapace.it
+relation	16948630	https://www.ilcamminodellapace.it
+relation	16948729	https://www.ilcamminodellapace.it
+relation	16948739	https://www.ilcamminodellapace.it
+relation	16948819	https://www.ilcamminodellapace.it
+relation	16949152	https://www.ilcamminodellapace.it
+relation	16949261	https://www.ilcamminodellapace.it
+relation	16950222	https://www.ilcamminodellapace.it
+relation	16950924	https://www.ilcamminodellapace.it
+relation	16950961	https://www.ilcamminodellapace.it
+relation	16951053	https://www.ilcamminodellapace.it
+relation	16951386	https://www.ilcamminodellapace.it
+relation	16953052	https://www.ilcamminodellapace.it
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
