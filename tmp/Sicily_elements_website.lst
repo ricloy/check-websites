@@ -1719,10 +1719,10 @@ node	6139277427	https://www.15icpaolorsi.edu.it/
 node	6139397291	https://buscenter.travel/autobus/gela/
 node	6140152603	https://ristorantecontatto.it/
 node	6146278286	http://www.pelleriti.com
+node	6148677131	https://www.di-blasi.com/
 node	6166536485	https://m.facebook.com/ristorante131/
 node	6166910385	https://m.facebook.com/Tritalo-604898419695732/?hc_ref=PAGES_TIMELINE
 node	6176383086	http://hosteltaormina.com
-node	6186195485	https://www.ladependancehotel.it/
 node	6188902866	https://www.aputiadellecosebuone.it/
 node	6188902879	https://ortygiabs.org/
 node	6211006394	https://lacasadelascarcasas.it/
@@ -2241,7 +2241,6 @@ node	7518946649	https://www.terrenormanne.com
 node	7522945573	https://www.conad.it/ricerca-negozi/negozio.009155.html
 node	7522953324	https://www.conad.it/ricerca-negozi/negozio.009660.html
 node	7525314832	https://www.conad.it/ricerca-negozi/negozio.007560.html
-node	7525362241	https://www.conad.it/ricerca-negozi/negozio.008717.html
 node	7525370233	https://www.conad.it/ricerca-negozi/negozio.008359.html
 node	7525419097	https://www.conad.it/ricerca-negozi/negozio.008966.html
 node	7556720794	https://www.montainbici.it/
@@ -3543,6 +3542,11 @@ node	11430099168	https://www.poste.it
 node	11433129234	https://gioiellerialbanese.it/
 node	11451638370	http://tuminomoto.it
 node	11455838394	https://fitprime.com/it/palestre/ragusa/equator_sport_clinic
+node	11472420591	https://www.poste.it
+node	11473313854	https://www.comune.comiso.rg.it/
+node	11480649139	https://www.museocivicoarcheologiconoto.eu/
+node	11483338392	https://www.ladependancehotel.it/
+node	11483589173	https://www.stauferstelen.net/texts/siracusa-episcopo.htm
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	https://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -3659,6 +3663,7 @@ way	49750033	https://www.cattedrale.palermo.it/
 way	49769029	http://basilicalamagione.diocesipa.it/
 way	50281710	https://www.istitutocarducci.edu.it
 way	50281712	https://www.scuolapirandellocomiso.edu.it/
+way	51144599	https://www.portedicatania.it/
 way	52015124	https://mapcarta.com/N5297948350
 way	52015728	http://www.baitadelletna.it/
 way	52015734	https://www.residenceserralanave.com/
@@ -3704,7 +3709,6 @@ way	83696299	http://www.ilgiardinodigraziella.it/
 way	83826054	https://www.ghshotels.it/astoria/
 way	88669721	https://www.eplanetcinemas.it/
 way	88723920	https://www.istitutocarducci.edu.it
-way	90062699	https://www.lidl.it/
 way	90184664	https://www.scuolapirandellocomiso.edu.it/
 way	90340843	https://www.scuolapirandellocomiso.edu.it/
 way	91258624	https://www.battistix.it
@@ -4411,7 +4415,6 @@ way	402628369	https://www.hotelaristontaormina.it/
 way	403057124	https://tonerverde.it/
 way	403139586	http://www.iccruillas.it/
 way	403980903	https://www.comune.catania.it/il-comune/uffici/anagrafe/
-way	404097181	https://www.comune.comiso.rg.it/
 way	404538505	https://www.autogrill.it/
 way	404979503	https://www.poste.it
 way	405011526	http://www.hotelpalladiogiardini.com
@@ -4802,7 +4805,6 @@ way	741067567	https://www.poste.it
 way	741067568	https://www.poste.it
 way	741067569	https://www.poste.it
 way	741067570	https://www.poste.it
-way	741067571	https://www.poste.it
 way	741067572	https://www.poste.it
 way	741067573	https://www.poste.it
 way	741067574	https://www.poste.it
@@ -4845,7 +4847,6 @@ way	751478177	https://www.comune.nizzadisicilia.me.it/jo/parco-suburbano
 way	756011574	https://www.icsgesualdobufalino.edu.it/
 way	756371890	http://www.casalesanleonardo.com
 way	759408280	https://www.scuoladusmetnicolosi.edu.it
-way	760821159	https://www.penny.it/
 way	761089711	https://www.etnawineagriturismo.com/
 way	761308109	https://www.montessorimascagnict.edu.it/
 way	762044612	https://www.etnaquotamille.it/
@@ -4897,8 +4898,10 @@ way	867268997	https://american-bar-restaurant.business.site
 way	868087725	https://www.smspalumbo.edu.it/
 way	870497464	https://www.magicmotorsport.com/
 way	871510469	https://www.habitat-arredamenti.it/
+way	874819909	https://www.eurospin.it/
 way	876237413	https://www.siciliahotelspa.it/
 way	881761570	https://www.vigilfuoco.it
+way	887604217	https://www.lidl.it/
 way	888307015	https://www.penny.it/
 way	888517210	https://www.penny.it/
 way	889210325	https://www.ddrodarivillabate.edu.it/
@@ -5474,6 +5477,7 @@ way	1216948935	https://www.arcaplanet.it/
 way	1225273515	https://www.poste.it
 way	1235316947	https://www.penny.it/
 way	1235567453	https://www.poste.it
+way	1236095889	https://www.puntabiancaexperience.com/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -5530,7 +5534,6 @@ relation	6236720	https://www.comune.barcellona-pozzo-di-gotto.me.it/
 relation	6457018	https://www.unime.it/
 relation	6464816	https://www.unipa.it/
 relation	6464845	https://www.unict.it/it
-relation	6736188	http://www.fratiminoriconventualisicilia.it/conventi/noto.htm
 relation	6878746	https://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=ITA070014
 relation	7224540	https://www.ilvulcanoapiedi.it/
 relation	7368318	agroverde.it
@@ -6004,7 +6007,6 @@ relation	16151896	https://www.caimessina.it/
 relation	16509514	https://www.cai.it/sezione/petralia-sottana/
 relation	16509525	https://www.cai.it/sezione/petralia-sottana/
 relation	16509539	https://www.cai.it/sezione/polizzi-generosa/
-relation	16850222	https://www.portedicatania.it/
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	548101816	http://www.medicalcentermazara.it
 node	582900801	https://www.villaaltair.com/
@@ -6164,7 +6166,6 @@ way	222354705	http://www.geniocivilerg.it/
 way	228992303	https://www.centroolimpopalermo.it/
 way	245055218	http://www.campinglapineta.it/italy/
 way	257262779	http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=399
-way	275935131	https://www.eurospin.it/
 way	279460081	http://www.siciliaoutletvillage.it/
 way	316423358	http://www.kartodromolascari.it/
 way	333413153	http://www.caposcalambri.com/
@@ -6188,6 +6189,7 @@ way	1076653697	http://www.teatrolidea.com
 way	1150237053	http://www.hoteladmeto.it
 way	1232484414	https://www.ctvmessina.it/
 way	1233473026	https://www.campingparadise.it/
+way	1236092113	https://www.villaries.it/
 relation	1175567	http://www.liceoscientificomazara.it/
 relation	1242170	http://giardinoemiro.altervista.org/
 relation	1383540	http://www.itcmazara.it/
