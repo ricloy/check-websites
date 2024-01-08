@@ -1223,7 +1223,7 @@ node	3040781483	https://www.lacasaditotoalpignano.it
 node	3040796478	https://www.lidl.it/
 node	3042914817	http://autoscuoleepifanio.it
 node	3051585933	https://www.maidireno.it
-node	3051585934	vibestorino.com
+node	3051585934	https://vibestorino.com/
 node	3054581999	https://www.facebook.com/pizzaalcampanile/
 node	3054994257	http://www.bardoimmobiliare.com
 node	3059456321	https://www.casanelparco.it/
@@ -3049,6 +3049,7 @@ node	5493923017	https://www.aceapinerolese.it/
 node	5493923018	https://www.aceapinerolese.it/
 node	5493923019	https://www.aceapinerolese.it/
 node	5494003086	https://www.beps.it/torino
+node	5498431221	https://monumenti.comune.novara.it/it/07_torre_palazzo_natta
 node	5498694279	https://www.aceapinerolese.it/
 node	5498694280	https://www.aceapinerolese.it/
 node	5498694281	https://www.aceapinerolese.it/
@@ -5931,6 +5932,7 @@ node	11336770904	https://it-it.facebook.com/LoopTorino/
 node	11348172370	https://www.occhialifabbricatorino.it/
 node	11351358803	www.senfors.it
 node	11363832344	https://laplacette.it/
+node	11364019792	https://monumenti.comune.novara.it/it/09_resti_romani_piazza_cavour
 node	11364163658	https://ginopanino.it/
 node	11368461807	http://www.comune.salassa.to.it
 node	11374918450	https://tamcureggio.it/
@@ -5960,10 +5962,12 @@ node	11453692121	https://mgservizitipografici.com/
 node	11455406128	http://www.rifugiovulpot.com
 node	11459030374	https://www.istarter.it/
 node	11463183716	http://lasmorfiadipulcinella.it/
-node	11463467869	http://www.artigianinotorino.com
-node	11463491369	http://negozioleggero.it
+node	11463467869	https://www.artigianinotorino.com/
+node	11463491369	https://negozioleggero.it/
 node	11470158369	https://gustomadre.it/
 node	11475785852	http://www.barbabucbb.it/
+node	11476048894	https://www.sonounbrigante.it
+node	11479555972	https://monumenti.comune.novara.it/it/35_palazzo_natta
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -7390,6 +7394,7 @@ way	337462031	https://www.centrocommercialeibricchi.com
 way	337648837	http://www.itcgdomodossola.it/
 way	338494041	https://www.museoartiemestieri.it/
 way	338632170	https://www.recordhotel.it/
+way	339017360	https://iccostigliole.edu.it
 way	339019521	http://www.torrepaoloballadadisaintrobert.it
 way	341808894	http://www.hotelprincipidacaja.com/
 way	341906477	https://www.caseificiomoris.it/
@@ -7489,6 +7494,7 @@ way	373914903	http://www.comune.chiesanuova.to.it
 way	373981392	https://www.turismousseglio.it/it-it/vivi/dove-dormire/area-camper-comunale-35262-1-766ddbfa9dfc5739ebf1214a2fa35006
 way	374061203	http://www.comune.usseglio.to.it/ComSchedaTem.asp?Id=35264
 way	374062597	https://mulinbarot.it/
+way	374074677	http://www.lamarmista.it/
 way	374096354	http://www.comune.usseglio.to.it/ComSchedaTem.asp?Id=35260
 way	374431613	http://www.scuolacairoli.gov.it/index.php
 way	374431614	https://www.ipsiabirago.it/
@@ -8491,6 +8497,7 @@ way	858917803	https://www.comune.castellazzonovarese.no.it/
 way	858928968	https://www.comune.cerano.no.it/
 way	859069626	http://www.comune.premeno.vb.it/
 way	859755943	https://www.agriturismoalpecrampiolo.it/
+way	859994150	https://www.botanicgozzano.it/
 way	860985703	http://www.aziendaagricolasbarato.com/
 way	865322070	https://www.conad.it/ricerca-negozi/negozio.050412.html
 way	871989149	https://www.armandovivai.it
@@ -8562,7 +8569,7 @@ way	934631316	https://www.aulina.it
 way	938051018	https://www.comune.lesa.no.it/it-it/vivere-il-comune/cosa-vedere/il-castellaccio-27856-1-d1b45961135ec44ee1dbc7b0fba673bd
 way	938443917	https://www.gulliver.it/itinerari/fiorano-falesia-di/
 way	938443919	https://www.gulliver.it/itinerari/fiorano-falesia-di/
-way	943151934	www.edoardopatrone.com
+way	943151934	https://www.edoardopatrone.com/
 way	944093892	http://www.caicvl.eu/bivacco_revelli.htm
 way	945432021	https://www.globalsecurity.it/
 way	945997342	http://www.artesina.it/page.asp?pg=summerpass
@@ -8834,10 +8841,11 @@ way	1227554567	https://www.gulliver.it/itinerari/ronco-di-fervento-falesia/
 way	1227554568	https://www.gulliver.it/itinerari/ronco-di-fervento-falesia/
 way	1228905640	https://www.mdspa.it/punti-vendita/Piemonte/NO-Novara/1107-GALLIATE/
 way	1229018982	https://www.lospiffero.com/ls_article.php?id=64928
-way	1233395108	www.compagnianad.it
+way	1233395108	https://www.compagnianad.it/
 way	1235814797	https://fioccodineverelais.com/gourmet/
 way	1235828167	https://primocircoloasti.edu.it
 way	1235828168	https://primocircoloasti.edu.it
+way	1236298350	http://www.capnordovest.it/
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -10146,6 +10154,7 @@ relation	16389001	https://aunpassodallavetta.wixsite.com/trekking/post/le-fontan
 relation	16398932	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 relation	16399512	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 relation	16730744	https://monumenti.comune.novara.it/it/percorso1
+relation	16949289	https://www.beyoo.it/residenza-universitaria/torino/taurasia-living-torino/
 node	63629039	http://www.comune.chiusadisanmichele.to.it
 node	63631321	http://www.cittadisusa.it/
 node	306555609	https://www.rinascente.it/it/store-torino-via-lagrange
