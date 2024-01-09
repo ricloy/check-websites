@@ -82,6 +82,7 @@ node	441526377	https://www.hotel-rossini.it/
 node	454393136	https://erbagatta.it/
 node	454884295	http://www.cioilonghi.it/
 node	472443888	https://www.conad.it/ricerca-negozi/negozio.004022.html
+node	472445652	http://www.museodellolivo.com/
 node	475972313	https://www.volodeigabbiani.it/
 node	479048838	https://www.hotelserenval.it/
 node	479926331	https://www.lasagola.it/
@@ -1973,6 +1974,7 @@ node	9782235126	https://www.iltuoserramentosrl.it/
 node	9814326200	https://www.santegidioliguria.org/
 node	9825772103	https://la-piramide-manarola-affittacamere.jimdosite.com
 node	9837827167	https://www.relaisdelgolfo.it/
+node	9855217484	https://centro-foto.business.site/
 node	9865614416	https://giuntialpunto.it
 node	9867432776	https://www.hotelalexandersanremo.it/
 node	9876430416	https://liuteriaferrarese.com/
@@ -2006,7 +2008,6 @@ node	9990706894	https://osterialapiccola.com
 node	9992545418	https://cherry-house-apartment-stellanello.hotelmix.it/
 node	9997127479	https://www.italiareti.com
 node	9997127480	https://www.albertoscarcella.it
-node	10040413282	https://abbadiasangiorgio.com/
 node	10056678826	https://www.rifugiocinqueterre.com/
 node	10081622745	www.botiggiagiustiniani.it
 node	10097740143	https://lightning-bike.it
@@ -2229,11 +2230,15 @@ node	11449516309	https://www.agos.it/
 node	11449516312	https://www.58rosso.it/
 node	11449516317	https://mondocaffegenova.com/
 node	11459215866	https://mazzantisrl.it/
-node	11466383010	www.golfomar.net
+node	11466383010	https://www.golfomar.net/
 node	11466770820	https://www.mymercato.it/punti-vendita/liguria/mercato-local-vallecrosia
 node	11468766853	www.chiappiinimobili.it/scavolini-la-spezia
 node	11468894838	https://etlimtravel.it
 node	11468894841	https://www.damareterraemare.it
+node	11492004269	https://www.ristorantequattrostrade.it/
+node	11498126829	https://www.residenceleduneclub.it/
+node	11499451035	https://candidollo.com/
+node	11500704019	https://www.confindustria.imperia.it
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2659,6 +2664,7 @@ way	285105863	http://www.diocesi.genova.it/documenti.php?idd=203&parrocchia=162
 way	285106263	http://www.aggiohouse.it/
 way	286259543	www.monte-reale.it
 way	290388822	https://www.hotelfelucabonassola.com/
+way	292457854	https://www.poste.it/
 way	292874749	http://www.campingdegliulivi.it
 way	292874750	https://www.campingfornacialmare.it/
 way	294642295	http://www.ilnidodelgabbiano.com/
@@ -3541,6 +3547,7 @@ relation	16412012	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-lig
 relation	16436073	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#ipd=62676752
 relation	16469507	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#dm=1&ipd=62676738
 relation	16730351	http://www.quotazero.com/forum/viewtopic.php?f=15&t=21644&p=354505
+relation	17001623	https://abbadiasangiorgio.com/
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1315100281	www.libreriaragazzi.com
