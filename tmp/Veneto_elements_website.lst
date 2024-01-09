@@ -105,8 +105,6 @@ node	428413446	https://www.speckstube.com/
 node	429235440	https://www.hotellelampare.it
 node	429235453	https://www.hotel-negretto.com/
 node	430397937	https://tropicarium.it/
-node	432649108	https://www.aparthotelsheila.net
-node	432649109	https://www.lepetitjesolo.it
 node	440102532	https://www.hotelzoldana.it/
 node	442051937	https://www.hotelgranditalia.it/
 node	442872482	https://www.h222.it
@@ -554,7 +552,6 @@ node	1559066979	http://www.hotelglamour.eu
 node	1559067011	http://www.hotelalcamin.com
 node	1559449368	http://www.nico.it/
 node	1560585237	https://villapisani.it/
-node	1562472860	https://www.hoteloasiverde.com
 node	1562493069	https://www.villaggioazzurrojesolo.it/
 node	1562784900	https://www.centrofer.it/
 node	1564216606	https://www.aurorahotel.org/
@@ -767,8 +764,6 @@ node	1946624881	https://www.shakerjesolo.it/
 node	1946624887	http://www.gelaterialovat.it/
 node	1946690701	http://www.perlanera.it/
 node	1947183805	https://www.bigbenpubjesolo.it/
-node	1947253390	https://www.hotelkingjesolo.it/
-node	1947253431	https://www.lapinetajesolo.com/
 node	1947259267	https://www.lasophora.it/
 node	1947681869	https://www.hotelresidencemara.it/
 node	1948119435	https://www.alpassettoghedina.it/
@@ -2955,7 +2950,6 @@ node	5614051975	http://www.climbeer.it/crags/13
 node	5614802031	https://www.magnoliaverona.it/
 node	5615388898	https://cavazzawine.com/territorio-e-tenute/tenuta-cicogna/
 node	5616678099	https://www.vogadorivini.it
-node	5617649075	http://www.alisea2000.it
 node	5617649077	http://www.alisea2000.it
 node	5617649079	http://www.alisea2000.it
 node	5622519139	https://www.fattoria-didattica-massignan.it/
@@ -2984,7 +2978,6 @@ node	5650928224	https://www.farmaciazanibellato.it/
 node	5652061461	http://www.alisea2000.it
 node	5652061483	http://www.alisea2000.it
 node	5652061486	http://www.alisea2000.it
-node	5652061496	http://www.alisea2000.it
 node	5654129602	https://www.albergocimaipra.com
 node	5657328221	http://www.floridahotel.eu/
 node	5660708287	https://www.naturasi.it/
@@ -4266,7 +4259,6 @@ node	7781392380	https://www.goffredoparise.it/index.php?area=65&menu=248&page=44
 node	7781467166	http://www.cantinabravin.it/
 node	7792613837	https://www.hotelcorsojesolo.com
 node	7792685151	http://www.countryhousesalome.it
-node	7792708442	https://www.beaurivagepineta.com
 node	7794152153	https://ladolcevita.pro/
 node	7797035492	https://aedoombre.com/
 node	7797493647	https://www.tesla.com/findus/location/supercharger/borcadicadoresupercharger
@@ -5428,6 +5420,8 @@ node	10021341701	https://www.buratoabbigliamento.it/
 node	10024003510	https://www.trattoriadallalibera.it/
 node	10024309297	https://www.alsoleauronzo.net/
 node	10029081647	https://www.lavignaosteria.it/
+node	10030041369	https://woodenstore.it/
+node	10030041378	http://www.basevijeans.it/
 node	10032039171	https://fusarouomo.eu/
 node	10035938701	https://sunsetyogurt.com/
 node	10038030109	https://www.lampasnc.it/
@@ -6069,6 +6063,9 @@ node	11469985764	https://www.comprensivo3conegliano.edu.it/pagine/scuola-primari
 node	11469985765	https://www.comprensivo3conegliano.edu.it/pagine/scuola-dellinfanzia-danilo-dolci-
 node	11470116537	https://www.areacamperlazise.it/
 node	11470414365	http://www.osteriadanicola.com/
+node	11483884133	https://www.bccpm.it
+node	11486980345	https://www.chiaraorsetti.it/
+node	11494464513	https://osteriagiapponese.wixsite.com/ajiosteriagiapponese
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
 way	19912693	http://www.iispacinottive.it/
 way	21403920	http://www.fortecarpenedo.it/
@@ -6357,7 +6354,6 @@ way	123875636	https://www.pennarhotel.it/
 way	123875998	https://www.golfresort.it/
 way	123880178	https://www.albergovescovi.com/
 way	124061591	https://www.despar.it/it/punto-vendita-eurospar/693/bardolino/
-way	124255223	http://shop.semeraro.it/index.php?lang=it
 way	124343740	https://www.laleprebianca.eu/
 way	124346383	https://www.rigonidiasiago.it/
 way	125136623	http://www.ristorantebaitaalfungo.it/
@@ -7029,11 +7025,15 @@ way	178477396	https://www.hbjesolo.it
 way	178478377	https://www.harveysuites.com/
 way	178479077	https://www.hotelgallia.com
 way	178479201	https://www.villaromabedandbreakfast.com/
+way	178479315	https://www.hoteloasiverde.com
 way	178487592	http://www.jesolopalace.it
+way	178487611	https://www.lapinetajesolo.com/
 way	178487700	https://www.mediterraneojesolo.com
 way	178488732	https://www.hotel-bertha.it
+way	178489019	https://www.hotelkingjesolo.it/
 way	178491659	https://www.hotelstorione.it
 way	178491667	http://www.beny.it
+way	178491684	https://www.lepetitjesolo.it
 way	178491692	http://www.hotelreno.it
 way	178491757	https://www.hotelvianello.it/
 way	178491769	https://www.elite-hotel.it
@@ -7049,6 +7049,7 @@ way	178492609	https://www.idealsole.it
 way	178492641	https://www.hotelaltinate.it
 way	178492653	https://www.hotelruhl.it/
 way	178492913	https://www.hoteltermini.it/
+way	178492915	https://www.aparthotelsheila.net
 way	178492969	https://www.hotelsayonarajesolo.it/
 way	178492979	https://www.hotelrado.com/
 way	178493260	https://www.bjh-hotels.com/
@@ -7075,6 +7076,7 @@ way	178819377	http://www.royhotel.it/
 way	179307415	https://www.lidl.it/
 way	179671205	https://www.legambienteverona.it/malga-derocon/
 way	179702488	https://www.rivadeitor.it/
+way	180142157	https://altaviadolomitibellunesi.it/accommodation/casera-campotorondo/
 way	181396015	http://www.collesanfelice.it
 way	181587262	http://asdcalciointrepida.com/stagione.htm
 way	182188671	http://www.predil.eu/
@@ -7120,6 +7122,7 @@ way	185694781	https://www.iltridente.com/index.aspx
 way	185694959	https://hotelesplanada.it/
 way	185699542	https://www.hotelolimpia.net
 way	185699764	https://www.princessaparthotel.com/it
+way	185699772	https://www.allapergola.it
 way	185699895	https://www.hotel-excelsior.it/
 way	185700582	https://m.facebook.com/pages/category/Italian-Restaurant/Chiosco-Luna-1495601594098789/
 way	185700815	https://m.facebook.com/RistoranteCocktailBarChioscoGabbiano/
@@ -8267,6 +8270,7 @@ way	840918968	Vidotto Dissipatori
 way	842357143	https://www.cison.it/attivita_desc.asp?id=28
 way	844687570	https://www.pareus.it/de/Pareus_Areal.html
 way	844689284	https://www.pareus.it/de/Pareus_Areal.html
+way	846452228	https://www.agriturismocavetta.com/
 way	846910045	https://www.accoglienza.diocesi.it/it/strutture/villagregoriana/home-villa-gregoriana.html
 way	847792888	https://www.verdevalle.it/
 way	852327796	https://www.azzurracortina.com/
@@ -8580,7 +8584,11 @@ way	1228683983	https://www.fratisaccolongo.it/
 way	1230200487	https://www.wallabytex.it/
 way	1232501456	https://www.beverlyhillsportingcentre.it
 way	1234542545	https://campingparkdeidogi.com/
+way	1234723120	http://www.jesolocamper.it/
 way	1236243249	https://villaggiomarzotto.it/
+way	1236351854	https://campingmalibubeach.com/
+way	1236402043	http://www.gommapiuma.net/
+way	1236402046	https://www.beaurivagepineta.com
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -8930,6 +8938,7 @@ relation	6087793	https://meinfernbus.de/unser-angebot/linien/532.html
 relation	6088003	https://meinfernbus.de/unser-angebot/linien/481.html
 relation	6089575	https://www.flixbus.de/busverbindung/fernbus-muenchen-venedig-flughafen
 relation	6125017	http://www.terredelcustoza.com/
+relation	6182621	https://caipordenone.it/attivita/sentieri/elenco-sentieri/sentiero-924/
 relation	6234112	https://www.aquafollie.it/
 relation	6234113	https://www.campercaorle.it/
 relation	6247627	https://www.caischio.it/
@@ -9680,7 +9689,7 @@ node	4864164331	http://www.itasinato.it/home.html
 node	4864164623	https://negozi.libraccio.it/negozi/padova/libraccio-padova
 node	4910584739	http://www.osteriaortodeimori.com
 node	4967342171	https://www.greencab.it
-node	5109047944	www.hotelallacorte.it/
+node	5109047944	https://www.hotelallacorte.it/
 node	5144311793	http://www.limericklibri.com/
 node	5201390482	http://www.ferramentalonghin.it/
 node	5257229527	www.barin.it
@@ -10170,7 +10179,7 @@ way	485227188	https://www.dianahotel.it/rifugio-alpino-la-zopa/
 way	574572861	https://ffw-oberschwappach.de.tl/Kontakt.htm
 way	580241233	https://www.junior-family.it/residence-delle-rose-cavallino-treporti/
 way	580241235	https://www.junior-family.it/zimmer/
-way	622411922	http://www.areacamperdonbosco.it/
+way	622411922	http://www.jesolocamper.it/
 way	627427037	https://martora.it/
 way	675690169	http://www.birrificiodiquero.it/
 way	686657762	https://www.ics12padova.edu.it/index.php/le-nostre-scuole/scuola-sec-i-grado
