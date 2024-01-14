@@ -8,9 +8,13 @@ node	70991744	http://www.comunefarafiliorumpetri.it/
 node	70991868	https://italia.indettaglio.it/ita/abruzzo/poggiofiorito.html
 node	70992107	http://www.comune.vasto.ch.it/
 node	70992246	https://www.comune.ateleta.aq.it/zf/index.php/storia-comune
+node	70992281	https://comunediaielli.it
 node	70992294	https://www.comune.acciano.aq.it/
+node	70992342	https://www.comune.casteldisangro.aq.it
 node	70992482	https://www.comune.opi.aq.it/
+node	70992775	http://www.comune.villettabarrea.aq.it
 node	70992946	https://www.comune.sulmona.aq.it/
+node	70993202	http://www.comune.pettorano.aq.it/
 node	70993229	http://www.comune.molinaaterno.aq.it/
 node	70993342	https://www.comune.montesilvano.pe.it/
 node	70993483	https://comune.toccodacasauria.pe.it/
@@ -293,7 +297,6 @@ node	2311459359	https://www.enel.it/punto-enel/
 node	2311459408	https://www.enel.it/punto-enel/
 node	2311459431	https://www.enel.it/punto-enel/
 node	2311459449	https://www.enel.it/punto-enel/
-node	2311459457	https://www.enel.it/punto-enel/
 node	2311459468	https://www.enel.it/punto-enel/
 node	2311459478	https://www.enel.it/punto-enel/
 node	2311459479	https://www.enel.it/punto-enel/
@@ -1198,7 +1201,6 @@ node	7467707861	https://www.donorione.it
 node	7467755278	https://www.spazio010.com/coworking/
 node	7467760246	https://www.feragalli.com/
 node	7467812329	https://www.donnaserena.org/
-node	7467823135	https://www.fira.it/info?currentItem=1425
 node	7467826759	https://www.dottfrancescodicola.it/
 node	7467828342	https://www.farmaciediturno.org/farmacia.asp?idf=10796
 node	7467828344	https://www.farmaciediturno.org/farmacia.asp?idf=10799
@@ -1527,7 +1529,6 @@ node	7713307992	https://www.autoscuoleriunite.it/
 node	7713837824	https://carpediem.pizza
 node	7713989541	https://www.dormiresano.eu/
 node	7716092725	https://www.comeinunafavola.it/puntivendita/pescara/21/
-node	7716092727	https://www.penelopeacasa.it/
 node	7719509720	https://www.tropicoexotico.it/
 node	7723468542	https://brancaleo.thefork.rest/en_GB/
 node	7725989612	https://www.pinko.com
@@ -2157,7 +2158,6 @@ node	9775305586	https://www.hoteliltiglio.com/
 node	9776929947	https://www.ivpc.com/gruppo/blitz-power/
 node	9779038224	https://www.7venti.it/
 node	9779038225	https://ristoranteprospettive.com
-node	9782294929	https://www.fira.it
 node	9783650652	https://mobilita.comune.pescara.it/wp-content/uploads/2021/01/PUMSPescara_agg_25giugno20201-1.pdf
 node	9785602410	https://www.villapeppe.it
 node	9785938819	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
@@ -2299,6 +2299,7 @@ node	10269900990	https://www.thefoxgiocattoli.it/
 node	10271353435	http://www.ortofruttacostantini.it/
 node	10275358076	https://www.scame.com/e-mobility-charging-modes
 node	10278033461	https://rumbletumbletattoo.business.site/
+node	10278217202	https://www.emozioniitaliane.org/
 node	10278218052	https://www.facebook.com/acasamiaaq/
 node	10279849723	https://casadellemore.com
 node	10280590532	https://www.masseriaspadone.it
@@ -2818,6 +2819,7 @@ node	11285656215	https://www.casedellacqua.net
 node	11287380625	https://www.asfaltizaccardi.eu/
 node	11301975818	https://www.lacamerettaitalia.it/
 node	11302878599	https://www.agriturismosantostefanoinrivomaris.it/
+node	11306631422	https://www.gruppoitas.it/homepage
 node	11309385746	https://www.difabioarredi.it/
 node	11309385747	https://www.sistemipiscineabruzzo.it/
 node	11309385749	https://www.xlsrl.com/
@@ -2915,6 +2917,18 @@ node	11478616194	https://www.exclusivecarciarrocchi.it/
 node	11486641667	https://www.centroesteticocomfortlife.com/
 node	11492683521	https://www.zaffineria.com/
 node	11493956521	https://www.nuovalibreriabosio.it/it/
+node	11496872152	https://green-angels.it/
+node	11498155751	https://esteticauno.it/
+node	11498223300	https://www.toscano.it/comune-pescara/pescara-#agenzia
+node	11499695901	https://www.farmaciediturno.org/orariofarmacia.asp?idf=17100
+node	11500097539	https://www.ideabellezza.it/
+node	11500124491	https://www.edizionisanpaolo.it/
+node	11503833855	https://geom-leontino-stipani.business.site/
+node	11503833857	https://aggalvan.com/
+node	11503833860	https://www.mediapnet.it/
+node	11510666694	https://www.museobarbella.it/
+node	11513556652	https://www.tamoil.it/Map
+node	11514002126	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10537
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -3067,6 +3081,7 @@ way	153446496	https://www.fordautostar.it/dove-siamo/sede-principale-6896
 way	156799568	https://www.fotocard.it
 way	159146267	http://www.campingceppo.it/
 way	165257464	https://www.pescarabruzzo.it/
+way	165548537	http://www.parrocchiasantagostino.net/
 way	165575777	https://bricomio.it
 way	166095545	https://villadiega.it
 way	167435169	http://www.liberpri.com
@@ -3230,6 +3245,7 @@ way	454723594	http://www.valleroveto.eu/eremo-madonna-della-ritornata/
 way	456015084	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 way	457405083	https://www.liceodascanio.edu.it
 way	459618670	https://www.penelopeamare.it/
+way	461179725	https://www.istitutocomprensivopescara2.edu.it/
 way	461526367	http://www.comunetossicia.gov.it/
 way	461529817	http://www.paesiteramani.it/Paesi/Tossicia.htm
 way	461907559	http://www.paesiteramani.it/Paesi/Castiglione.htm
@@ -3515,7 +3531,6 @@ way	867479643	https://www.maurys.it/punti-vendita/abruzzo/item/2716-pescara.html
 way	868558944	https://www.villabenice.com/
 way	869000533	https://www.tiendeo.it/Negozi/san-valentino-in-abruzzo-citeriore/maxicoal-via-valle-n%C2%B0/146454
 way	869739545	https://www.asl1abruzzo.it/
-way	870496987	https://www.tamoil.it/Map
 way	870789688	https://www.tuttitalia.it/abruzzo/98-san-valentino-in-abruzzo-citeriore/89-scuole/scuola-primaria/
 way	871203219	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10821
 way	871660334	https://edicola-storica-pescara.business.site/
@@ -3749,6 +3764,7 @@ way	1100839891	https://www.booking.com/hotel/it/agriturismo-il-noceto-100s.en-gb
 way	1102608441	http://www.comunelettopalena.it/zf/index.php/musei-monumenti/index/dettaglio-museo/museo/3
 way	1105570154	https://trasparenza.comune.laquila.it/archivio13_strutture_0_2575.html
 way	1106456268	https://www.facebook.com/rifugidelparco/
+way	1111146030	https://sanita.regione.abruzzo.it/canale-ospedali/ospedale-di-castel-di-sangro
 way	1113137974	https://www.monteselva.it
 way	1114714224	https://www.vemapla.it/
 way	1114864103	https://mgcereali.business.site
@@ -3785,6 +3801,7 @@ way	1147124767	https://www.thegreenpark.it/
 way	1148225873	https://www.vinisincarpa.it
 way	1150379623	https://www.cosvega.it/
 way	1150983173	https://lazzaronibiscotti.it/en/lazzaroni-biscotti-en/
+way	1152885066	https://isola.net/
 way	1153887336	https://www.campingdonantonio.it/
 way	1158377659	http://www.siconte.it/it/punti-vendita/si-superstore/pescara-via-monte-faito
 way	1162405110	https://www.icisolacolledara.edu.it
@@ -3827,6 +3844,7 @@ way	1200880005	https://www.autoscout24.it/concessionari/rd-auto-srl
 way	1200880006	https://www.federalpol.net/
 way	1200880009	https://impresapiu.subito.it/shops/23195-autopiu-srls
 way	1200880016	https://prolocolanciano.jimdofree.com/convenzioni/bar-martelli-centro-sportivo/
+way	1201438692	https://ofcontini.it/
 way	1201554048	https://ip.gruppoapi.com/ricerca-stazioni-servizio/station/41844
 way	1201554077	https://www.petrolgamma.com/stazione/teramo-strada-statale-80/
 way	1202037327	https://www.pasquarelliautosrl.it
@@ -3947,6 +3965,7 @@ relation	12574793	https://aurum.comune.pescara.it
 relation	12585938	https://www.villese.it/index.php/en
 relation	12593198	https://ic9pescara.edu.it
 relation	12597440	http://www.caiamatrice.it/sentieri-e-itinerari/
+relation	12598894	https://il-pozzo-dei-desideri-castelnuovo-perugia.hotelmix.it
 relation	12611832	https://camminodeibriganti.it
 relation	12611833	https://camminodeibriganti.it
 relation	12611834	https://camminodeibriganti.it
