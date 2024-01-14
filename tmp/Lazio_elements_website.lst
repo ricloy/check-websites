@@ -782,7 +782,6 @@ node	2138753806	https://cenciolaparolaccia.it/
 node	2138756992	https://ilcontedimontecristo.it/
 node	2139261441	https://casanatense.it/
 node	2139860370	https://www.targetrestaurant.it/
-node	2139917819	https://www.mcdonalds.it/
 node	2139921756	https://www.mcdonalds.it/
 node	2139923602	https://www.mcdonalds.it/
 node	2140862140	http://kikiskitchen.net
@@ -3763,6 +3762,7 @@ node	7216127162	https://unicooptirreno.it/punto-vendita/roma-tacito-90a
 node	7216808795	https://www.ristorantedamassi.com
 node	7216808796	http://www.ristorantemelarancio.it
 node	7227495620	http://www.donorione.org/
+node	7236713779	https://www.bordopizzeria.it/
 node	7240854899	https://www.levicivita.edu.it/
 node	7240854900	https://www.divittoriolattanzio.it/home/index.php
 node	7242118637	https://www.facebook.com/osteriamontesacro/
@@ -5837,6 +5837,10 @@ node	11482878912	https://www.pepet.it/
 node	11482928343	https://negozi.arcaplanet.it/lazio/rm/roma-via-circonvallazione-appia-43
 node	11486662224	https://www.zoomarine.it/Contentcdn/documents/Regolamento%20Generale%20del%20Parco_2023.pdf
 node	11488200970	https://legendstudio.it/
+node	11496723934	https://www.booking.com/hotel/it/la-casa-di-zoe-provincia-di-viterbo.it.html
+node	11500779932	http://www.cleanecoservice.it/wordpress/
+node	11502774097	https://www.enotecavinoinanfora.it
+node	11504479647	https://www.antuorimaterassiunicasede.com/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7541,6 +7545,7 @@ way	561757113	icsdallachiesa.it
 way	561758298	https://www.babylunapark.it/
 way	562100251	http://www.ristorantelacasettaceri.it/
 way	562740671	https://paoloniceramiche.it/
+way	562766818	https://ineroma.org
 way	562939905	http://www.coopcolor.it/
 way	563119429	http://www.villatiberiahospital.it/
 way	563728652	https://www.nuovavillaclaudia.it/
@@ -8546,6 +8551,7 @@ relation	10295007	https://www.viefrancigene.org
 relation	10295316	https://www.viefrancigene.org
 relation	10295362	https://www.viefrancigene.org
 relation	10342065	https://athenasporting.com/
+relation	10558714	https://www.comune.roma.it/web/it/municipio-vii.page
 relation	10579137	https://www.lepiniorientali.it/
 relation	11106304	https://www.navegnacervia.it/
 relation	11109162	https://www.camminodibenedetto.it/
@@ -9221,7 +9227,6 @@ relation	13007814	https://www.romeowcatbistrot.com
 relation	14228417	https://www.santuarivallesanta.com/santuari/poggio-bustone/
 node	32631124	http://www.giolitti.it/
 node	72962031	http://italia.indettaglio.it/ita/lazio/poggiomirteto.html
-node	258081023	http://www.cybertuba.org
 node	260540041	http://www.mymovies.it/cinema/roma/4916/
 node	264673865	http://colosseoorg.wix.com/aitrescalini
 node	342445043	http://www.hoteladriano.it
