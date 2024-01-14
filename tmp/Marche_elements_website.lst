@@ -68,7 +68,7 @@ node	660916150	https://pasticceria-bar-chantilly.business.site/
 node	664964909	https://www.otticamancini.com
 node	664964924	https://www.farmacianazionalepergoli.it/
 node	664964926	https://inlingua-ancona.it/
-node	665605874	http://www.ristoranteorientale.it/
+node	665605874	https://ristorantecineseorientale.it/
 node	665605899	http://www.dovizi.it/
 node	665605901	https://www.morandigroup.it/
 node	672555229	https://www.pizzeriadabruno.it/
@@ -577,6 +577,7 @@ node	4340538442	https://www.vinoalvinobistrot.it/
 node	4341913052	http://www.clinicaveterinariadorica.it
 node	4341913064	https://uqr.to/1dmjl
 node	4341913071	https://www.wokaway.it/
+node	4341913073	https://www.zuccheroaveloancona.it/
 node	4346988355	https://www.farmaciamatteucci.it
 node	4346998420	https://www.facebook.com/Mistic-Pizza-877830408924053/
 node	4353337470	https://www.anticoborgopiceno.it/
@@ -711,7 +712,6 @@ node	5930272457	https://www.emporiofogola.it/
 node	5930812880	https://www.nordinproperties.com/
 node	5933722016	https://www.raffaellodegusteria.it/
 node	6010332329	https://www.mponoranzefunebri.it/
-node	6015933744	http://www.caiamandola.it
 node	6033910251	https://ristorantepizzeriavisso.it/
 node	6041313672	https://www.decathlon.it/
 node	6063165906	https://paladinisnc.it
@@ -1151,6 +1151,7 @@ node	10665119835	https://www.marcopaladiniflowers.it/
 node	10671281872	https://castellodellapieve.it
 node	10687553105	https://www.cgilpesaro.it/sede-urbania/
 node	10699316105	https://ancona.mercatopoli.it
+node	10711742649	http://www.caiamandola.it
 node	10712922632	https://stores.upim.com/it/italia/marche/pesaro-e-urbino/pesaro-via-giolitti-212
 node	10720192301	https://www.risparmiocasa.com/store/ancona/
 node	10720192302	https://sushiko.it/locali/ancona/
@@ -1357,9 +1358,11 @@ node	11346100672	https://www.amicimieiristorantepizzeria.it/
 node	11346100673	https://www.labaciocca.com/
 node	11346100675	https://urbino.scavolinistore.net/
 node	11346100676	http://www.arteplastica.it/
+node	11346100763	www.agenziaentrate.gov.it
 node	11346193768	https://www.romagnoliarredi.com/
 node	11350646997	https://www.superautoottaviani.it/
 node	11350965548	https://www.neneurbino.com/
+node	11361857117	https://www.oasicannetacci.it/
 node	11365460568	https://duearchipizzeria.sitoup.com/
 node	11365718908	https://www.adcmobility.it/
 node	11366816949	https://www.canonici.it/
@@ -1384,6 +1387,8 @@ node	11487011846	https://www.ristorantedapeppino.com/
 node	11493855846	https://farmacialucasimonelli.it/
 node	11493922601	https://ristoranteamicidelmare.eatbu.com
 node	11494056414	https://www.docallestimenticamper.it/
+node	11500124268	https://www.pasticceriabrunelli.it/
+node	11507864693	www.agenziaterritorio.gov.it
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
