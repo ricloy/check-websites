@@ -1406,7 +1406,6 @@ node	3907841757	http://farmacia-pelago.it/
 node	3907846205	https://www.toscanaintour.it/
 node	3907862178	https://plushostels.com/it/firenze
 node	3909378477	https://www.trattoriazaza.it/
-node	3912481072	www.at-bus.it
 node	3914910412	http://www.cinemacastello.it/
 node	3914929936	https://www.cinemaspaziouno.it/
 node	3914930975	http://www.cinecittafirenze.it/
@@ -2148,6 +2147,7 @@ node	5673530757	http://affitticonsuma.it
 node	5673544827	http://affitticonsuma.it
 node	5674186030	http://steakhousececina.it
 node	5674249421	https://ifichisecchi.it
+node	5676288845	https://capodimontepisa.it/
 node	5677208051	https://dati.toscana.it/
 node	5677210081	https://www.cignella.com
 node	5679627826	https://www.timesis.it/
@@ -2790,6 +2790,7 @@ node	6867261007	https://www.azienda-trequanda.it/
 node	6871403855	https://www.ilcacciatorecortona.it/
 node	6871723044	https://www.credit-agricole.it/
 node	6877423978	https://erp.ms.it/
+node	6877727111	https://www.lafarmacia.it/trova-farmacia/centrale-vicchio
 node	6884653119	https://www.farmavaldarno.it/contents/farmacia-comunale-santa-barbara/
 node	6900513529	https://www.lasvoltafastfoodgourmet.com/
 node	6907675395	http://albergoristorantelaposta.com/
@@ -3545,6 +3546,7 @@ node	9173415974	http://www.farmacia-santostefano.it
 node	9175060547	https://farmaciaederiferi.com/
 node	9175302412	https://www.dimorapieri.com
 node	9176929465	https://sequerciani.it
+node	9183525090	https://www.farmacialafenice.it/
 node	9186871223	https://www.restorepisa.it/
 node	9188455515	https://www.caipescia.it/
 node	9188510040	https://www.macelleriapieretti.com
@@ -4288,6 +4290,7 @@ node	11218831406	https://www.lestreghedelcolore.com/
 node	11219707289	https://at-bus.it
 node	11220196055	https://www.at-bus.it/
 node	11221290201	https://www.koffeestore.it/
+node	11221290202	https://www.vitabyte.it/
 node	11222289549	https://www.la-divisa.com/
 node	11222300583	https://www.copisteriaturri.it/;https://www.printeasy.it/
 node	11224872537	https://www.hotelparmaeoriente.it/
@@ -4564,6 +4567,12 @@ node	11494517764	https://www.paologiannotti.it
 node	11495421491	http://ristorantehasu.com/
 node	11495421492	https://www.farmaciamoccia.it/
 node	11495421498	https://gabbianosushi.com/
+node	11506190594	https://europedirect.comune.fi.it/
+node	11506852247	https://www.giustisrl.it/#carwash
+node	11508772439	https://poderelachiusa.wordpress.com/
+node	11511532919	https://www.hertz.it/rentacar/location/italia/siena/SAYC61?utm_campaign=gmb-Hertz-Autonoleggio---Siena---Viale-Sardegna-14-&utm_medium=gmb-websitelink
+node	11511532920	https://www.iperceramica.it/it/ita/negozi/pavimenti-parquet-arredo-bagno-sanitari-siena?utm_content=IPERCERAMICA+Siena&utm_medium=localrecord
+node	11514864204	https://www.symposioristorante.com
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -4726,6 +4735,7 @@ way	119891912	http://www.hotelcorolle.it/
 way	120008590	https://www.miramarbistrot.it/
 way	120028693	http://www.teammayol.com/villa-glaucos
 way	120046090	https://lecanne.com/
+way	120078352	www.at-bus.it
 way	120135590	http://www.casalido.de
 way	120147585	https://www.hapimag.com/it/resorts/countries/IT/37.html
 way	120272978	https://www.fondazioneronald.org/it-it/cosa-facciamo/case-ronald/casa-ronald-firenze/
@@ -5061,7 +5071,6 @@ way	241020043	http://www.sanjacopoefilippo.it/
 way	241212806	https://www.ilnidodigabbiano.it/
 way	241613931	http://www.lalimonaia.pisa.it/
 way	241701303	https://www.wwf.it/oasi/toscana/laguna_di_orbetello/
-way	241791515	https://www.termedisaturnia.it/
 way	241881505	http://www.sarnaresidence.it
 way	242761193	http://www.pastificiopalandri.it/
 way	243201772	https://www.gogofirenze.it/venues/giardino-buonamici.html
@@ -5399,7 +5408,6 @@ way	382462044	https://www.terredilunigiana.com/musei/mulinoarlia.php
 way	383958386	https://www.falesiaonline.it/falesia/canne_d_organo.html
 way	384973626	https://www.albergosantantonio.com/
 way	385607277	http://www.kare-firenze.it
-way	386178744	https://www.ilpoggioditeo.it/
 way	386477600	https://www.prolocosigna.it/storia-e-arte/il-patrimonio-storico-culturale/la-fabbrica-di-esplosivi-nobel
 way	386487669	https://www.aquasalataisoladelba.it/
 way	386778768	http://www.villaruch.com/
@@ -6279,7 +6287,7 @@ way	1213302104	https://www.marystella.it/
 way	1213321960	https://patria.barbettihotels.it/
 way	1213321976	https://staidhotel.eu/alexander-palme-italy
 way	1213364453	https://rafaelstravelexperience.com/albergo-villa-dionori-italy
-way	1213583395	http://www.ilgabbiano-residence.it/
+way	1213583395	https://www.ilgabbiano-residence.it/
 way	1213583419	http://www.hotelvittoriachianciano.com/
 way	1213583422	https://residence-i-fucoli.italytravelblog.top/
 way	1213583440	https://www.hotelmonica-chiancianoterme.it/
@@ -6309,6 +6317,7 @@ way	1226606832	https://canesapiens.wixsite.com/canesapiens
 way	1228599356	https://www.uslcentro.toscana.it/index.php/sedi-territoriali/846-sedi-territoriali-prato/zona-pratese/10711-prato-centro-presidio-misericordia-e-dolce
 way	1230386629	http://www.campinglesorgenti.it/it/home-page-campeggio-mugello-toscana.html
 way	1237249551	http://farmaciacomunalemassamarittima.it
+way	1238704448	https://www.aliaserviziambientali.it/wp-content/uploads/2018/08/Ecocentri-indirizzi-orari.pdf
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -6956,11 +6965,11 @@ relation	11159839	https://www.comune.bucine.ar.it/turismo/it/sentieri-del-vianda
 relation	11159885	https://www.comune.bucine.ar.it/turismo/it/sentieri-del-viandante.html
 relation	11159913	https://www.comune.bucine.ar.it/turismo/it/sentieri-del-viandante.html
 relation	11221374	https://www.ilcamminodisanjacopo.it/
-relation	11246439	https://www.facebook.com/Colle-di-Buggiano-519045731445586/
-relation	11247828	https://www.facebook.com/Colle-di-Buggiano-519045731445586/
-relation	11247829	https://www.facebook.com/Colle-di-Buggiano-519045731445586/
-relation	11248785	https://www.facebook.com/Colle-di-Buggiano-519045731445586/
-relation	11248786	https://www.facebook.com/Colle-di-Buggiano-519045731445586/
+relation	11246439	https://www.facebook.com/colleedintorni
+relation	11247828	https://www.facebook.com/colleedintorni
+relation	11247829	https://www.facebook.com/colleedintorni
+relation	11248785	https://www.facebook.com/colleedintorni
+relation	11248786	https://www.facebook.com/colleedintorni
 relation	11294097	https://www.cailugo.it/
 relation	11294101	https://www.cailugo.it/
 relation	11296100	https://www.caiparma.it/
@@ -7310,6 +7319,9 @@ relation	16928958	https://www.caiscandicci.it/
 relation	16934421	https://www.portedimarliana.it/percorso/sentiero-del-pane/
 relation	16947280	https://www.palaiatoscana.it/sentieristica/
 relation	16949077	https://www.palaiatoscana.it/sentieristica/
+relation	16991189	https://www.facebook.com/colleedintorni
+relation	17004398	https://www.palaiatoscana.it/sentieristica/
+relation	17017375	https://www.ilpoggioditeo.it/
 node	215646877	https://www.unisi.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
@@ -7926,6 +7938,7 @@ way	1186323536	https://www.comune.buonconvento.si.it/
 way	1212783148	http://www.sunbeachelba.it/
 way	1215085465	https://poderesangiorgio.net
 way	1217840222	https://ricambi.pianigianirottami.it/
+way	1238858747	https://www.saturniadayspa.com/
 relation	25564	https://www.at-bus.it/
 relation	1014432	http://www.abbaziasansalvatore.it/
 relation	1178262	https://www.campingtripesce.it
