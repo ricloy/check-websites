@@ -1,8 +1,10 @@
 @type	@id	website
 node	67280349	http://www.comune.montescaglioso.mt.it/
+node	67280505	http://www.comune.barile.pz.it
 node	67280603	www.comune.fardella.pz.it
 node	67280708	https://www.comune.marsiconuovo.pz.it/
 node	67280745	https://www.comune.rapolla.pz.it/
+node	67281259	http://www.comune.rioneroinvulture.pz.it/
 node	391662692	https://www.comune.ferrandina.mt.it/
 node	391663461	https://www.hotelristorante407.it/
 node	426784653	https://www.federicovalicenti.it/
@@ -280,6 +282,7 @@ node	7745543944	https://eticket.ferrovieappulolucane.it/FAL/
 node	7857436758	https://www.comune.moliterno.pz.it/bibliomediateca.html
 node	7862656676	https://www.wokilab.it/
 node	7959945282	https://infomur.it/casa-natia-di-san-gerardo/
+node	8002530452	https://www.comune.melfi.pz.it
 node	8022763830	https://www.inviaggioinbasilicata.it
 node	8041775185	https://www.lagala.it/
 node	8063716604	https://www.sportvillagematera.it/
@@ -673,6 +676,7 @@ way	1201162519	https://www.extratech.it/
 way	1205402350	https://www.hotelimperialenovasiri.it/
 way	1217078506	https://www.cosmetgroup.it/
 way	1230382101	https://www.acquazzurrapark.net/
+way	1238282499	https://www.despar.com/pdv/maiora-s-r-l-via-einaudi-ang-via-berlinguer-lavello-162
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	3160701	https://www.montescaglioso.net/node/1513
 relation	3293582	http://www.liceoscientificomt.it/
