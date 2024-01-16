@@ -472,7 +472,7 @@ node	1459245063	https://www.pd.camcom.it/
 node	1459284612	https://hoteleuropapd.it
 node	1459298300	http://www.passionepizzapadova.it/
 node	1459304970	https://www.albergoverdipadova.it
-node	1459304979	http://www.peace-spice.com/
+node	1459304979	https://peaceandspice.com/
 node	1459353827	https://www.farmaciasantagiustina.pd.it/
 node	1459404946	https://www.anpi.it/donne-e-uomini/224/flavio-busonera
 node	1459404955	https://www.miele.it/c/miele-experience-center-padova-2372.htm
@@ -1679,7 +1679,7 @@ node	3724865553	https://www.ecolavo.it/i-negozi-detersivi-sfusi/
 node	3726115638	http://www.arredamentosilvanodue.it
 node	3726770127	http://www.hotelalemagna.com
 node	3727414216	http://www.enolapi.it
-node	3730375319	http://farmaciasedico.it/
+node	3730375319	www.farmaciedelpiave.it
 node	3730802629	http://www.farmaciadallefeste.it/
 node	3733204552	https://www.pasticceriadavidedallomo.it/
 node	3733496650	https://okevenezia.com/
@@ -2178,7 +2178,7 @@ node	4526470556	https://www.peoplefamilynetwork.com/
 node	4526474418	https://www.bancaetica.it/contatti/vi
 node	4526474446	https://www.centroveneto.it/
 node	4526474523	http://www.ristoranteindianomaster.it/
-node	4526474895	https://www.kkofler.com/vicenza/
+node	4526474895	https://www.leondororestaurant.com/
 node	4526474896	http://www.autofficinameggiorin.it/
 node	4526476446	https://www.webforma.it
 node	4526476454	www.chickennchicken.it
@@ -6066,6 +6066,11 @@ node	11470414365	http://www.osteriadanicola.com/
 node	11483884133	https://www.bccpm.it
 node	11486980345	https://www.chiaraorsetti.it/
 node	11494464513	https://osteriagiapponese.wixsite.com/ajiosteriagiapponese
+node	11503445235	https://www.artigianatogiapponese.it/
+node	11506705269	https://www.facebook.com/OsteriaAlBacareto
+node	11506736618	https://www.butterflylab.it/news/punto-prelievi-dueville/
+node	11510427100	www.venicemarathon.it
+node	11518860647	https://bikehostel.it/bicigrill/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
 way	19912693	http://www.iispacinottive.it/
 way	21403920	http://www.fortecarpenedo.it/
@@ -7662,7 +7667,6 @@ way	284542092	http://www.icverona10.edu.it
 way	284542093	http://www.icverona10.edu.it
 way	284673463	https://www.comunemalcesine.it/cultura-e-storia-il-museo-di-storia-naturale/
 way	285086131	http://www.tulipinnpadova.com
-way	285391847	http://www.venice-ro-port.com/
 way	285959780	https://www.gardesana.eu/
 way	286430364	www.garagesanmarco.com
 way	286787461	http://www.fortificazioni.net/batterie/Rocchetta.htm
@@ -7741,6 +7745,7 @@ way	320654175	http://www.cortedegliangeli.com/
 way	321786599	http://www.rugbysandona.it/index.php?p=stadio-pippo-torresan
 way	322307237	http://www.parcodelsojo.it/
 way	324276593	https://www.provincia.vicenza.it/ente/la-struttura-della-provincia/servizi/agricoltura/agricoltura-sostenibile
+way	327308318	www.biowood.it
 way	328382813	http://www.algor.it/
 way	329933820	https://www.odeonline.it/
 way	329962576	https://www.seminariopadova.it/
@@ -7850,6 +7855,7 @@ way	369808432	https://agriturismolapenisola.it/
 way	369809421	https://www.gottardospa.it/
 way	370137356	https://www.campingsannicolo.com/
 way	370440386	https://www.campingsilva.it/
+way	371327674	https://villamulinodeicigni.com/
 way	371405620	http://www.traibanchi.it/index.php?option=com_content&view=article&id=71&Itemid=62
 way	371405621	http://www.traibanchi.it/index.php?option=com_content&view=article&id=107&Itemid=59
 way	371421628	http://altaforum.it/
@@ -8443,6 +8449,7 @@ way	1107539581	https://superstradapedemontanaveneta.it/
 way	1108105348	https://www.aulss6.veneto.it/Ospedale-di-Montagnana
 way	1110046777	https://www.sanpiox1708.it/
 way	1111569873	https://www.parcoagane.it/
+way	1111860073	https://fattoriapiave.wordpress.com/
 way	1112005327	https://www.lerivedenadal.com/
 way	1112310403	https://www.lidl.it/
 way	1112540371	https://www.conad.it/ricerca-negozi/spesa-facile-via-c-agostini-158-35018--san-martino-di-lupari--010412
@@ -8589,6 +8596,7 @@ way	1236243249	https://villaggiomarzotto.it/
 way	1236351854	https://campingmalibubeach.com/
 way	1236402043	http://www.gommapiuma.net/
 way	1236402046	https://www.beaurivagepineta.com
+way	1239879353	https://www.ecomontsrl.it/ecocentro/
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -9190,7 +9198,6 @@ relation	9448207	https://meinfernbus.de/unser-angebot/linien/994.html;https://ww
 relation	9450629	https://meinfernbus.de/unser-angebot/linien/537.html
 relation	9450995	https://meinfernbus.de/unser-angebot/linien/994.html;https://www.fudeks.rs/portfolio/Italy?timetable-id=italy&lang=en
 relation	9450999	https://meinfernbus.de/unser-angebot/linien/991.html;https://www.fudeks.rs/portfolio/Italy?timetable-id=italy&lang=en
-relation	9451000	https://meinfernbus.de/unser-angebot/linien/991.html;https://www.fudeks.rs/portfolio/Italy?timetable-id=italy&lang=en
 relation	9489538	https://www.cesarebattisti.org/
 relation	9503687	http://www.caivalpolicella.it
 relation	9523574	https://www.cesarebattisti.org/
@@ -9424,6 +9431,7 @@ relation	16665779	https://www.clodi.it/
 relation	16695336	https://visitborgovalbelluna.it/percorso/zelant-praderadego-col-de-moi-n-2313-2313a/
 relation	16695374	https://visitborgovalbelluna.it/percorso/zelant-praderadego-col-de-moi-n-2313-2313a/
 relation	16882490	https://www.parcocapraro.it
+relation	17028197	https://www.caiasiago.it/858-campanellameletta-davanti
 node	64778383	http://www.comune.cittadella.pd.it/
 node	256072226	www.padovafarmacie.it
 node	262650779	http://www.lidopaina.it
@@ -9949,6 +9957,7 @@ node	11295680598	https://www.leggimenu.it/menu/straneria
 node	11367416918	https://www.albergomolteni.it/
 node	11367453797	https://dacallegaro.com/
 node	11387429936	https://www.irpcds.org
+node	11513591553	https://www.dagiselda.it/
 way	27198535	http://basilicadelsanto.org
 way	40460962	https://www.laquercia.it/
 way	42424990	http://www.traiglicinieilsambuco.it/
@@ -10348,6 +10357,7 @@ way	135049806	https://www.facebook.com/Ca-del-Tajo-263497147593153/
 way	138800932	http://www.basilicasanmarco.it/
 way	139987336	vitourism.it/detail/?action=getLuoghidinteresseDetails&id=57
 way	140837622	https://www.facebook.com/VillaPerale20/
+way	140988512	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0500184100
 way	141028749	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0500174878
 way	145858855	https://www.facebook.com/santateresacountryhouse/
 way	145867967	https://anagrafe.iccu.sbn.it/isil/IT-VE0217;https://www.comune.venezia.it/it/content/favaro-veneto-0
@@ -10412,6 +10422,9 @@ way	1131305166	https://www.facebook.com/parcoinclusivoviadelleacaciefontaniva/
 way	1200602355	http://www.sportingcenter.it
 way	1206353099	http://www.fortificazioni.net/forti/andrea.htm
 way	1232711996	https://www.facebook.com/Padova4FSE?locale=it_IT
+way	1238626990	https://comune.cadoneghe.pd.it/contenuti/254349/orti-sociali
+way	1238626992	https://comune.cadoneghe.pd.it/contenuti/254349/orti-sociali
+way	1238626996	https://comune.cadoneghe.pd.it/contenuti/254349/orti-sociali
 relation	1203928	https://moovitapp.com/index/it/mezzi_pubblici-line-LIS-Padova-1842-775352-771261-0
 relation	2320650	http://www.stoneman.it/
 relation	2660295	https://www.comunesanmichele.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2476
