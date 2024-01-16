@@ -513,6 +513,7 @@ way	134128380	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	134128383	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	136187621	http://www.rifugiodeffeyes.it/
 way	136209069	https://www.scuolascilathuile.it/
+way	136209109	https://www.facebook.com/laclotze/
 way	136403177	https://www.relaisdufoyer.it/
 way	136405945	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	137043082	https://www.rifugioarbolle.it/
@@ -709,7 +710,6 @@ way	442985308	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	443374456	https://www.camperonline.it/area_di_sosta_dettaglio.asp?ID=3519
 way	447819146	https://www.courmayeur-montblanc.com/
 way	449223234	http://www.paysageamanger.it/
-way	450234482	https://www.vivavda.it/aree/area_i.aspx?area=6&n=Riserva%20naturale%20%20%20%20C%C3%B4te%20de%20Gargantua
 way	462903251	http://www.lesfleursgignod.it/
 way	491897355	https://www.regione.vda.it/risorsenaturali/faunaselvatica/CRAS/default_i.aspx
 way	509535787	https://www.conad.it/ricerca-negozi/negozio.005820.html
@@ -882,6 +882,7 @@ relation	12588301	https://www.lovevda.it/it/banca-dati/7/cammino-balteo/valle-d-
 relation	14145184	https://www.campingtunnel.it/
 relation	14405841	https://www.caiseregno.it/
 relation	15311564	https://www.gal.vda.it/magic-hicking-il-sentiero-magico/
+relation	17010467	https://www.vivavda.it/aree/area_i.aspx?area=6&n=Riserva%20naturale%20%20%20%20C%C3%B4te%20de%20Gargantua
 node	299232222	http://www.hotelleriedemascognaz.com/
 node	353049781	www.rifugioarp.it
 node	353049803	www.rifugioguidefrachey.it
