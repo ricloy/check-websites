@@ -27,10 +27,13 @@ node	72960598	https://www.comune.piglio.fr.it/home
 node	72960603	http://www.comunedifumone.it/
 node	72960609	https://www.comune.giulianodiroma.fr.it/
 node	72960613	https://www.comune.guarcino.fr.it/
+node	72960629	https://www.comune.sgurgola.fr.it/
 node	72960644	https://comune.serrone.fr.it/
 node	72960672	https://www.comune.supino.fr.it/
 node	72960812	https://www.comune.torrecajetani.fr.it/
+node	72960855	https://www.comune.trivigliano.fr.it/
 node	72960983	https://www.comune.aprilia.lt.it/
+node	72961012	https://www.comunedisermoneta.it
 node	72961029	http://www.comune.lenola.lt.it/
 node	72961049	https://www.comunedifondi.it
 node	72961052	https://www.comune.cori.lt.it/
@@ -66,6 +69,7 @@ node	72962646	https://www.comunemaranoequo.it/
 node	72962662	https://www.labico.com/home
 node	72962667	https://www.comune.jenne.rm.it/
 node	72962676	https://www.comune.grottaferrata.rm.it/
+node	72962692	https://www.comune.gorga.rm.it/
 node	72962717	https://www.comune.genazzano.roma.it
 node	72962733	https://www.comune.formello.rm.it/
 node	72962788	https://www.comune.colonna.roma.it/
@@ -2052,6 +2056,7 @@ node	4460276305	https://www.ilfico.com/
 node	4461277289	https://www.unicredit.it/it/contatti-e-agenzie/scheda-agenzia.02368.html
 node	4463705567	http://www.acasamiaristoranteroma.com
 node	4464461794	http://www.circusroma.it
+node	4464465298	https://www.caffedoria.it/
 node	4464465301	https://www.soramargherita.com
 node	4471160633	https://italy.100montaditos.com/
 node	4471160634	https://www.trapizzino.it/trapizzino/trapizzino-roma-ponte-milvio/
@@ -3171,7 +3176,6 @@ node	5908306523	https://www.cafedesamis.it/
 node	5908476985	https://www.wani.bio/
 node	5908569791	https://www.federmoto.it/
 node	5911221686	https://www.consap.it/
-node	5913723547	ulivoantico.it
 node	5918174137	https://www.tandem.coop
 node	5922649664	https://www.praticheautoroma.com
 node	5922739189	https://www.facebook.com/treccacucinadimercato
@@ -5841,6 +5845,11 @@ node	11496723934	https://www.booking.com/hotel/it/la-casa-di-zoe-provincia-di-vi
 node	11500779932	http://www.cleanecoservice.it/wordpress/
 node	11502774097	https://www.enotecavinoinanfora.it
 node	11504479647	https://www.antuorimaterassiunicasede.com/
+node	11518526807	https://mramotors.com/
+node	11518526810	http://www.lacombriccoladeimarmocchi.it/index.php
+node	11521166638	http://www.cappannagioielli.it/
+node	11524589628	https://www.alpompiereroma.com/
+node	11530922162	https://www.facebook.com/sinestesiacaffe
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -8966,6 +8975,7 @@ relation	16178841	https://www.parcoabruzzo.it/sentiero.php?id_iti=4253
 relation	16183966	https://www.parcoabruzzo.it/sentiero.php?id_iti=4286
 relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
 relation	16262677	http://www.scuolamediafellini.it/
+relation	16266387	https://www.halleyweb.com/c056007/zf/index.php/musei-monumenti/index/dettaglio-museo/museo/1
 relation	16386355	https://www.parcobracciano.it/
 relation	16439916	https://www.museobrigantaggiocellere.org/sentiero-bandito/
 relation	16509652	https://www.ambasciatapalestina.com/
@@ -8981,6 +8991,7 @@ relation	16862803	https://www.sslazioarchery.it
 relation	16892973	https://www.camminodifrancesco.it/
 relation	16897033	https://www.camminodifrancesco.it/
 relation	16897034	https://www.camminodifrancesco.it/
+relation	17039338	www.caimonterotondo.it
 node	251888861	https://www.multisalagreenwichroma.com/
 node	306047550	http://www.intera-mente.it
 node	452570567	http://www.catacombe.org
