@@ -245,7 +245,6 @@ node	1491158634	http://ristorantetrearchi.com
 node	1491158957	https://ilpalagio.com/
 node	1492256370	http://www.massadavivere.it/commerciante-il-socio-pub-massa
 node	1492257567	http://www.ristorantealberica.it/
-node	1496673206	http://terredelfrigido.comune.massa.ms.it/node/30
 node	1504233516	https://www.tribunale.livorno.it/
 node	1534718859	http://www.decoltelli.it/
 node	1536508344	https://www.uffizi.it/gli-uffizi/disegni-e-stampe
@@ -1283,7 +1282,6 @@ node	3521871278	http://www.invaiano.com/affiliati/9-invidia-abbigliamento
 node	3521871279	http://www.invaiano.com/affiliati/27-langolo-pizza-a-taglio
 node	3521871281	http://www.invaiano.com/affiliati/31-mesticheria-ferramenta-vignolini
 node	3521871282	https://www.mps.it
-node	3521872335	https://it-it.facebook.com/RistorantePizzeriaSottovoce
 node	3521986612	www.casagiulia.it
 node	3522094149	https://www.villaalbasangimignano.it/it/ristorante-san-gimignano.php
 node	3522094715	https://www.daltoscanosangimignano.it/
@@ -1590,6 +1588,7 @@ node	4324048264	https://www.media-law.it
 node	4325255689	http://www.ilpalazzotto.com
 node	4326966789	https://www.menudittaartigianale.com/
 node	4327258468	https://www.selvabellainchianti.com/
+node	4327903406	https://ilmaialetto.com/osteria/
 node	4329704327	https://www.romitideltorrente.com/
 node	4331011290	http://www.gallonero.it/
 node	4331274891	https://www.bioconsult-srl.com/
@@ -2571,6 +2570,7 @@ node	6426717326	https://www.immobiliaremaestrale.it/
 node	6426717378	http://www.immobiliareaquilone.it
 node	6426945322	https://www.pratoranieri.it/
 node	6429012492	https://www.lagallinacubista.it
+node	6429227696	https://cultura.gov.it/luogo/area-archeologica-castelluccio
 node	6429522727	https://www.follonicafrigo.com
 node	6429580779	https://www.pizzeriailpirata2.com/
 node	6431721926	http://www.torturemuseum.it/musei-permanenti/lucca/
@@ -4573,6 +4573,16 @@ node	11508772439	https://poderelachiusa.wordpress.com/
 node	11511532919	https://www.hertz.it/rentacar/location/italia/siena/SAYC61?utm_campaign=gmb-Hertz-Autonoleggio---Siena---Viale-Sardegna-14-&utm_medium=gmb-websitelink
 node	11511532920	https://www.iperceramica.it/it/ita/negozi/pavimenti-parquet-arredo-bagno-sanitari-siena?utm_content=IPERCERAMICA+Siena&utm_medium=localrecord
 node	11514864204	https://www.symposioristorante.com
+node	11522019609	https://alimentari-ortofrutta-essedue.business.site/?utm_source=gmb&utm_medium=referral
+node	11523366333	https://ilmaialetto.com/macelleria/
+node	11524944967	https://www.collinealbelle.com/
+node	11525160881	https://trattoriadalloste.com/
+node	11525160882	https://trattoriadalloste.com/
+node	11527752133	http://www.lisini.com/
+node	11529021015	https://iviaggidelfilorosso.com/
+node	11533694542	https://www.lunchillotto.com/
+node	11534913888	http://cpnsauro.it/
+node	11534913947	https://circolonauticolivorno.com
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -5094,7 +5104,7 @@ way	251891517	https://www.falesiaonline.it/falesia/foce_di_compito.html
 way	252122263	https://www.profilplastic.it/
 way	252246465	https://www.falesiaonline.it/falesia/pruno.html
 way	252446352	https://www.toscanafair.it/home.html?reload
-way	252694007	http://www.rifugiorossi.com/
+way	252694007	https://www.rifugioenricorossi.it/
 way	252694095	https://www.falesiaonline.it/falesia/trombacco.html
 way	253247408	https://www.comune.pisa.it/it/ufficio/165/Biblioteca.html
 way	254594934	https://www.falesiaonline.it/falesia/uncini.html
@@ -5281,6 +5291,7 @@ way	317588909	https://operasantarita.it/sociosanitario/comunita-residenziali/cam
 way	317933799	https://fattoriadimacia.com/
 way	318408643	http://www.museivaldicecina.it/uk/rocca_sillana.php
 way	318458440	https://www.unamicotiaspetta.it/
+way	319104318	http://terredelfrigido.comune.massa.ms.it/node/30
 way	319604568	https://www.ecoturismoacquerinocantagallo.it/centro-visite-di-cantagallo/
 way	319750158	https://www.hotelboschetto.it
 way	320036853	http://www.ecoturismoacquerinocantagallo.it/eco-lodge-cannicciaie/
@@ -6318,6 +6329,7 @@ way	1228599356	https://www.uslcentro.toscana.it/index.php/sedi-territoriali/846-
 way	1230386629	http://www.campinglesorgenti.it/it/home-page-campeggio-mugello-toscana.html
 way	1237249551	http://farmaciacomunalemassamarittima.it
 way	1238704448	https://www.aliaserviziambientali.it/wp-content/uploads/2018/08/Ecocentri-indirizzi-orari.pdf
+way	1241187602	https://www.viadifrancescofirenzelaverna.it/it/stages/attractions/castel-castagnaio/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -7322,6 +7334,12 @@ relation	16949077	https://www.palaiatoscana.it/sentieristica/
 relation	16991189	https://www.facebook.com/colleedintorni
 relation	17004398	https://www.palaiatoscana.it/sentieristica/
 relation	17017375	https://www.ilpoggioditeo.it/
+relation	17035760	https://www.portedimarliana.it/percorso/percorso-in-mountainbike/
+relation	17039633	http://www.caifaenza.it
+relation	17042959	https://www.portedimarliana.it/percorso/sentiero-della-pietra/
+relation	17046510	https://www.palaiatoscana.it/sentieristica/
+relation	17046700	https://www.palaiatoscana.it/sentieristica/
+relation	17051656	https://www.palaiatoscana.it/sentieristica/
 node	215646877	https://www.unisi.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
@@ -8045,6 +8063,7 @@ node	10257866056	http://www.sinistrapercalenzano.it/articoli/8-comunicati-stampa
 node	10284901996	https://www.risorgimentofirenze.it/loggetta-platonica/
 node	10544057199	https://provinciadiprato.wordpress.com/2014/09/09/le-mura-del-castelnuovo
 node	10832196660	https://www.ilfilo.net/arte/borgoIlTabernacolodiLutiano.htm
+node	11307578651	http://www.speleotoscana.it/scheda-catastale/?id=248
 way	23485067	http://www.comune.prato.it/storiastrade/?stato=scheda&id=82283
 way	23757921	http://www.comune.prato.it/storiastrade/?stato=scheda&id=42068
 way	25146571	http://www.comune.prato.it/storiastrade/?stato=scheda&id=11695
