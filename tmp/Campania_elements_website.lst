@@ -1,6 +1,7 @@
 @type	@id	website
 node	26859367	http://www.campingsantantonio.it/
 node	26859668	https://www.nubedargento.com/
+node	26859809	https://soleado.info/
 node	68566158	https://www.comune.caserta.it
 node	68579913	http://www.museincampania.it/spip.php?page=musei_dettaglio&id_museo=110
 node	68580078	https://www.comune.casagiove.ce.it/
@@ -362,7 +363,6 @@ node	3223117834	http://www.gamblinghall.it/
 node	3248524025	https://www.casalfinocchito.it/
 node	3248681668	http://www.salotto-comfortfood.it/
 node	3248687204	https://www.facebook.com/pages/Bad-Bros/296432837171040
-node	3253822061	https://digilander.libero.it/trattorianennella/nennella.htm
 node	3256352296	http://www.specialkairos.it/
 node	3256363482	https://www.sgaglione.it/
 node	3276379464	http://latelabianca.com/
@@ -377,6 +377,7 @@ node	3406563713	https://www.4emme.net/
 node	3414564354	https://www.garagecentrale1958.it
 node	3423651159	https://www.salderiso.it/
 node	3427592443	http://www.amalfitrattoriadamaria.com/
+node	3427659915	http://www.farfalleegabbiani.it/
 node	3429881327	http://www.ilportoncino.com
 node	3429881328	https://www.napoli.city-sightseeing.it/
 node	3431280691	https://www.ristorantemarinagrande.com/
@@ -2146,6 +2147,7 @@ node	11181729052	https://www.oscarwildebeer.it
 node	11190245503	https://bowl-napoli.com
 node	11196155693	https://www.ischiabluresort.com
 node	11197474037	http://melrosesorrento.it
+node	11200580203	http://hotelristorantesirena.it/
 node	11207848262	"https://it.wikipedia.org/wiki/File:San_Mango_sul_Calore_(AV),_2010,_ruderi_del_ponte_romano_sul_fiume_Calore..jpg"
 node	11208404379	https://www.selladellespine.com/
 node	11215709383	https://www.maravi.it/
@@ -2232,6 +2234,11 @@ node	11473300113	https://www.forexchange.it/agenzie/napoli-f-s
 node	11477201909	https://www.italytoner.it/
 node	11477201912	https://www.cmrdesignco.com/
 node	11497592558	http://www.agriturismolatempa.it/
+node	11519504042	http://www.fiortramonti.it/
+node	11524496203	https://ilgiardinodorato.it/
+node	11525140800	https://borgosantandrea.it/it/sito-ufficiale/
+node	11530264327	https://www.trattorianennella.it/
+node	11537676837	http://www.ilcefalo.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2531,7 +2538,6 @@ way	311995298	https://www.rifugiosantamaria.com/
 way	312036530	http://www.associazionesangiuseppeonlus.it/homepage.html
 way	313302462	https://www.villapalmentiello.it/public/
 way	314351905	ozianiello.it
-way	314801622	http://www.pompeiisites.org/Sezione.jsp?titolo=La+casa+dell%27albergo&idSezione=188
 way	315006954	https://www.valleorso.it/
 way	315008854	https://www.supermercatideco.it//puntivendita/NAPOLI/NAPOLI-VIA-GIOVANNI-XXIII-N-41
 way	315013667	https://www.eurobowling.it/
@@ -2560,7 +2566,6 @@ way	334753238	https://www.motorvillageitalia-napoli.it/
 way	334754170	https://www.liceovillari.edu.it/
 way	335877152	http://www.latorrediro.com/
 way	336044362	https://casazarino.it/
-way	336086263	https://www.caimontilattari.it/sentiero/300/
 way	337028909	https://www.restauriraia.com/
 way	337031212	https://www.restauriraia.com/
 way	338402112	www.bikesharingnapoli.it
@@ -2804,7 +2809,6 @@ way	583953585	http://www.scuolapsb.unina.it/
 way	585896432	https://www.villadellemagnolie.it/
 way	588793407	https://unisa.it
 way	590868847	http://www.isisvincenzocorrado.gov.it
-way	597511010	https://www.ilcefalo.it
 way	597511056	https://www.albergodacarmine.it/
 way	603644502	http://www.hotelquadrifoglio.eu/
 way	607990877	http://pompeiisites.org/en/archaeological-site/house-of-the-lararium-of-achilles/
@@ -3139,6 +3143,7 @@ way	1028726512	https://www.isiseuropa.edu.it/
 way	1029279959	https://www.iisassteas.edu.it/itis-oc/
 way	1029687286	https://www.ilrifugiopalinuro.it
 way	1030979566	https://www.kadelmar.com/
+way	1033750846	https://www.lachoradipaestum.it/
 way	1036595887	http://www.ristorantedafrancesco.it
 way	1039131452	http://www.shintonapoli.it
 way	1039131460	https://www.istitutopertiniafragola.edu.it
@@ -3323,6 +3328,7 @@ relation	4808042	https://www.caimontilattari.it/sentiero/324/
 relation	4827347	https://www.caimontilattari.it/sentiero/349b/
 relation	5341891	https://www.vesuviosorrento.com/
 relation	5407110	http://www.museoalfonsiano.it/node/40
+relation	5424672	http://www.pompeiisites.org/Sezione.jsp?titolo=La+casa+dell%27albergo&idSezione=188
 relation	6047432	https://www.comune.torreannunziata.na.it/hh/index.php
 relation	6087793	https://meinfernbus.de/unser-angebot/linien/532.html
 relation	6179936	https://www.foqusnapoli.it/
@@ -3346,7 +3352,6 @@ relation	8758442	www.pompeiisites.org/Sezione.jsp?titolo=I+misteri+e+la+Villa+de
 relation	9046336	https://meinfernbus.de/unser-angebot/linien/532.html
 relation	9046337	https://meinfernbus.de/unser-angebot/linien/532.html
 relation	9075394	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
-relation	9315161	https://www.caimontilattari.it/sentiero/300/
 relation	9356515	https://www.cattedraledisalerno.it/
 relation	9391853	http://www.boscodicapodimonte.it/
 relation	9574955	https://www.era-ewv-ferp.org/e-paths/e1/
