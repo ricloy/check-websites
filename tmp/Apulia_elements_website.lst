@@ -1874,6 +1874,7 @@ node	11057220237	https://enotecaargento.com/
 node	11063347169	https://www.bbshanti.com/
 node	11065801708	https://www.agricampingdegliulivi.it/servizi/
 node	11065801709	https://www.agricampingdegliulivi.it/servizi/
+node	11073540699	http://museodellapreistoria.com/
 node	11073609036	https://www.sella.it
 node	11073686526	https://edicolaricevitorialupiae.business.site/
 node	11073693961	https://www.hobbyfloralecce.it
@@ -2047,6 +2048,14 @@ node	11514078183	https://bari.mae.ro/
 node	11514140161	https://www.eda.admin.ch/countries/italy/it/home/rappresentanze/ambasciata-roma/consolati-onorari/consolato-bari.html
 node	11514140162	https://portaldascomunidades.mne.gov.pt/pt/rede-consular/europa/italia#consulado-honorario-de-portugal-em-bari
 node	11515966363	https://www.consolatomali.it/
+node	11519496597	https://negozi.arcaplanet.it/puglia/ba/modugno-via-papa-giovanni-paolo-ii-1
+node	11519496598	https://www.bluespirit.com/
+node	11519496599	https://www.paolariva.com/
+node	11519496600	https://www.primadonnacollection.com/
+node	11519511588	https://www.pilolli.com/
+node	11519511589	https://www.lamaoptical.it/
+node	11528505164	https://goherweb.it
+node	11534560175	https://www.paginegialle.it/taranto-ta/azienda-sanitaria-locale-ta_6
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30791611	https://fierafoggia.it/
@@ -2323,6 +2332,7 @@ way	384150528	https://www.circolodellavelabari.it/
 way	384154668	https://www.canottieribarion.it/
 way	384292557	http://www.quarantagiuseppe.com/
 way	384292563	http://www.bernardicioccolato.com/
+way	384330825	https://www.scuolasanfilipponeri.edu.it/
 way	384347172	https://www.torchetticasa.it
 way	384808139	https://all.accor.com/hotel/7504/index.it.shtml/
 way	385336909	https://www.costedelsud.com/case-vacanza/la-casetta-del-pescatore-fronte-mare-a-posto-rosso-codice-001.html
@@ -2433,7 +2443,7 @@ way	410629864	https://www.fratelliazzaro.it/
 way	410903062	http://www.iissdenora.gov.it/
 way	410903072	http://www.iissdenora.gov.it/
 way	410904348	https://www.masseriafilodellatorre.it
-way	412167074	https://www.barinedita.it/inchieste/n2014-palazzo-fizzarotti-gioiello-nascosto-agli-occhi-dei-baresi--viaggio-e-foto
+way	412167074	https://palazzofizzarotti.com/
 way	412529117	https://www.ristorantelaragostabari.com/
 way	412715106	https://www.montecosrl.it/
 way	413944453	www.pianetaostuni.it/index.php/18-chiese-rurali/562-soluco-24
@@ -3023,6 +3033,7 @@ way	1229032693	https://www.carrefoursuditalia.com/puntivendita/122
 way	1230075017	http://ristorantedeamicis.eatbu.com/
 way	1235544605	https://sangirolamobari.com
 way	1237212408	www.pfcfoggia.it
+way	1239514053	https://www.fondazioneortobotanico.lecce.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	334867	https://www.uniba.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
@@ -3178,6 +3189,8 @@ relation	17008264	https://www.larottadeiduemari.it
 relation	17008355	https://www.larottadeiduemari.it
 relation	17008356	https://www.larottadeiduemari.it
 relation	17008390	https://www.larottadeiduemari.it
+relation	17037198	https://masseriasantulasi.org
+relation	17046188	https://www.residencemoderno.com/
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
