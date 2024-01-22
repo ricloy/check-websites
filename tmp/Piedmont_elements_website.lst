@@ -49,6 +49,7 @@ node	248407403	https://www.bancobpm.it/trova-filiali/tutte-le-filiali/piemonte/T
 node	248511621	http://www.comune.torino.it/papum/user.php?context=opere&submitAction=dettaglio&ID_opera=M008
 node	248771289	https://www.museireali.beniculturali.it
 node	262100274	https://www.ucicinemas.it/
+node	262423146	https://ristorantesunshine.com/
 node	271638929	https://www.essofuelfinder.it/it-it/gas-station/oulx--esso-100106404
 node	275951852	http://www.produttoridelbarbaresco.com/
 node	286527931	http://www.borghialpini.it/dettaglio.aspx?id=71113
@@ -146,7 +147,6 @@ node	809747828	https://www.codirosso.it/
 node	810385256	https://www.fortedivinadio.com
 node	811087135	https://hotelruota.it/
 node	825250098	http://www.rifugiomuzio.com
-node	830291660	https://proloconoasca8.wixsite.com/proloconoasca/post/la-nostra-cascata
 node	845434597	https://www.farmaciagrella.it/
 node	845434608	https://www.farmaciatrisoglio.it/
 node	846410835	https://www.facebook.com/pages/Caff-Vini-Emilio-Ranzini
@@ -240,7 +240,7 @@ node	1316538374	http://www.valliunite.com/
 node	1325513277	https://www.saracca.com/
 node	1328570155	http://www.fluido.to/
 node	1333701142	http://www.queenbike.com
-node	1333701144	https://mrsntorino.it/it/
+node	1333701144	https://mrsntorino.it/
 node	1334583480	https://ilfumettoal.business.site/
 node	1336762855	https://fitprime.com/it/palestre/vercelli/the_crew_fit_fight
 node	1345780338	https://www.crivercelli.it/
@@ -5973,6 +5973,9 @@ node	11512025109	http://finotello.com/
 node	11512062604	https://www.scalabrinigroup.com/caffeina-tour/
 node	11515868871	https://albergopasset.com/il-ristorante/
 node	11515887278	https://albergopasset.com/
+node	11528013048	https://www.italgas.it/
+node	11528019883	https://www.italgas.it/
+node	11533587981	https://proloconoasca8.wixsite.com/proloconoasca/post/la-nostra-cascata
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6115,6 +6118,7 @@ way	83825215	https://www.suism.unito.it
 way	83924867	www.comune.conzano.al.it/La_Citta/villa_vidua.htm
 way	84014797	http://www.colledellys.it
 way	84172691	http://www.archeo.piemonte.beniculturali.it/index.php/it/musei/aree-archeologiche/65-aree-arch-prov-di-alessandria/297-area-archeologica-di-libarna
+way	84476401	https://www.rsaservais.it/
 way	84963119	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	84963120	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	84963121	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -7609,6 +7613,7 @@ way	384949317	https://ciclimattio.com/
 way	385013622	https://www.castellodibagnolo.it/
 way	385013637	https://www.comune.bagnolo.cn.it/
 way	385152068	https://www.valverbe.it/
+way	385202810	https://maerovini.com/
 way	385324335	https://www.comune.gambasca.cn.it
 way	385527937	https://www.hotelmontenebin.it/
 way	385562422	http://www.aikido-dojoshinai.it/
@@ -8318,7 +8323,6 @@ way	730101571	http://www.vigilidelfuocosanmaurizio.it/chidovesiamo/home/
 way	730801012	https://piemont.sunstar.ch
 way	731935822	https://www.pizzeriaisolitiignoti.com/
 way	736366906	https://www.miglio608.com/
-way	737057845	https://www.caivigezzo.org/rifugi/rifugio-regi/
 way	738203228	https://www.alterpolis.it
 way	738661421	https://monregalecalcio.it/
 way	739503176	https://www.comune.leini.to.it/Home/Guida-al-paese?IDDettaglio=17277
@@ -8798,7 +8802,7 @@ way	1168299038	https://tommaseo.edu.it/la-scuola/i-luoghi/17-infanzia-plana
 way	1171014719	https://www.sushi-to.com/
 way	1173000071	https://www.fedex.com/it-it/campaign/novara-hub.html
 way	1173001071	https://www.mercatocentrale.it/torino/
-way	1173244350	http://www.comune.torino.it/cultura/biblioteche/sedi_orari/amoretti.shtml
+way	1173244350	https://bct.comune.torino.it/sedi-orari/villa-amoretti
 way	1173677924	http://www.caivarallo.it/valsesia/sentieri-valsesia/sentieri-valsesia-dettaglio.php?sentiero=408
 way	1173677925	http://www.caivarallo.it/valsesia/sentieri-valsesia/sentieri-valsesia-dettaglio.php?sentiero=408
 way	1174226520	http://www.alpepintas.it/
@@ -8883,6 +8887,7 @@ relation	2065693	https://www.visitfossano.it
 relation	2067952	http://www.caivarallo.it
 relation	2092709	https://www.cmop.it/
 relation	2093999	https://randoxygene.departement06.fr/haute-vesubie/lac-negre-9202.html
+relation	2169030	https://schweizmobil.ch/de/wanderland/route-40
 relation	2310758	https://www.comune.alessandria.it/servizi/politiche-giovanili-scuola-educazione/biblioteca-civica
 relation	2379755	https://www.comune.pinerolo.to.it/
 relation	2388863	https://www.tribunale.torino.giustizia.it/
@@ -10162,6 +10167,7 @@ relation	16398932	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-s
 relation	16399512	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 relation	16730744	https://monumenti.comune.novara.it/it/percorso1
 relation	16949289	https://www.beyoo.it/residenza-universitaria/torino/taurasia-living-torino/
+relation	17035575	http://www.estmonterosa.it/percorsi-vco.html
 node	63629039	http://www.comune.chiusadisanmichele.to.it
 node	63631321	http://www.cittadisusa.it/
 node	306555609	https://www.rinascente.it/it/store-torino-via-lagrange
