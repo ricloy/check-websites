@@ -695,7 +695,6 @@ node	3477003568	http://www.arcadinoegenova.it/
 node	3479517076	https://sites.google.com/site/bibliotecacomunalecostarainera/
 node	3479699151	http://www.rmsushirestaurant.com/
 node	3488880882	https://wwwt.agenziaentrate.gov.it/servizi/UfficiProvinciali/ufficio.htm?iduff=GE1&r=Liguria&pr=Genova
-node	3488943093	https://wwwt.agenziaentrate.gov.it/servizi/UfficiProvinciali/ufficio.htm?iduff=IM1&r=Liguria&pr=Imperia
 node	3488962333	https://wwwt.agenziaentrate.gov.it/servizi/UfficiProvinciali/ufficio.htm?iduff=SP1&m=1&pr=La%20Spezia&r=Liguria
 node	3493463744	https://www.fitclubgenova.com/
 node	3495810393	https://sites.google.com/site/massaggiorientaligenova/
@@ -965,6 +964,7 @@ node	4369962093	https://www.baciristorante.it/
 node	4383785691	http://www.lalocandadelgallese.it
 node	4383785692	http://www.scooterpointlaspezia.com
 node	4384552270	https://www.b612-ristorante.it/
+node	4399595276	http://aga.mysupersite.it/
 node	4422322574	http://www.hotelmondialrapallo.it/
 node	4426179546	http://www.eventigenova.it/bibiservice/
 node	4440317211	https://cinque-valli.com/listing/bar-pradio/
@@ -1505,6 +1505,7 @@ node	6283580383	https://www.ristorantejindu.org
 node	6283583973	https://bianalisi.it/struttura/punto-prelievo-savona-verdi
 node	6283592725	https://www.buranchetto.com/
 node	6283604849	https://linktr.ee/retrobottega
+node	6283605731	https://www.risvegliofactory.it/
 node	6283611454	https://emmegrafica.net/
 node	6314666654	https://www.glfc.it/it/
 node	6329603092	https://www.raviolhouse.it/
@@ -1702,7 +1703,6 @@ node	8565645759	https://www.serraturesos.it/
 node	8570048415	https://www.villailpoggiolo.it/
 node	8578527937	http://www.annetteprofumerie.com/
 node	8578527938	http://www.olioardissone.com/
-node	8582787769	https://www.risvegliofactory.it/
 node	8626732644	https://www.facebook.com/Oronero-bar-Ristorante-400718533669710/
 node	8651566585	https://www.ilbaluardobedandbreakfast.it
 node	8678980948	http://www.rebaudoarmando.it/
@@ -1945,6 +1945,7 @@ node	9431486026	https://www.casasalute.eu/
 node	9434227605	http://www.podologogabrieleridella.it/
 node	9447902710	https://www.facebook.com/CAI-Valbormida-Cairo-Montenotte-912480968839835/
 node	9453137192	https://areadiservizio456.it/
+node	9461164844	https://cds.it/
 node	9494604722	https://www.ristorantemeta.it/
 node	9505209881	http://www.gymclub.net/
 node	9523893739	https://www.facebook.com/dalauraesergio/
@@ -2014,9 +2015,16 @@ node	10097740143	https://lightning-bike.it
 node	10100719336	http://www.csbmachining.it/
 node	10107120394	https://www.comune.arenzano.ge.it/il-comune/gli-uffici-comunali/area-2/ufficio-anagrafe.htm
 node	10111544755	https://liguria.on-line.it/opac/article/il-sistema-bibliotecario-urbano-della-citta-di-alassio/chi_siamo?sysb=LI3AL
+node	10114720912	https://caffetteriabistrotsangiovanni.business.site/
 node	10116940066	https://ristorantepanevino.it
 node	10116940067	https://www.chezbraccioforte.com
+node	10116940087	https://angelaboutique.com/
 node	10117192326	https://ristorantesalvocacciatori.it/
+node	10117192337	http://www.elviocampi.it/
+node	10117192339	https://www.ristrutturapoint.it
+node	10119247709	https://www.dallapadellallabrace.com
+node	10119281633	https://www.fenoggio.it/
+node	10120632671	https://fototticabruno.it/
 node	10121550164	https://www.eventiesagre.it/Mercatini_Filiera+Corta/21183436_Mercato+Settimanale+Di+Lerici.html
 node	10123055227	https://giannifranzi.it/deck.html
 node	10123067255	http://www.osteriamattana.com/
@@ -2251,6 +2259,20 @@ node	11512367520	https://www.ilnettarecinqueterre.com/english
 node	11518698594	https://postaprivatamsimperia.online/
 node	11518698599	https://www.gruppodellerba.it
 node	11520120928	https://www.gruppodellerba.it/contatti
+node	11521709191	https://caricasa.it
+node	11521709193	https://www.sibillaviaxx.com
+node	11528593141	https://www.manpower.it
+node	11531678796	https://www.unoenergy.it
+node	11531678800	https://bottegaisnardi.it
+node	11531678802	https://www.threemonkeys3m.com
+node	11534737171	http://www.spaziovuoto.com/
+node	11534894648	https://www.artificioimperia.it/
+node	11534894649	https://www.lukhairsalon.it
+node	11534894651	https://www.immobiliareareaquattro.it
+node	11534894655	https://kipointimperia.business.site/
+node	11541016598	https://www.bellamano.it/
+node	11541016601	https://oreficeriabelmonte.it/
+node	11541147196	https://tipografianante.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2607,6 +2629,7 @@ way	225404167	http://www.parrocchiasanbartolomeo.net/
 way	225407939	http://www.croceorocervo.it/joomla/index.php
 way	225445400	https://www.comune.dianoarentino.im.it/
 way	225464024	https://www.oliobenza.it/
+way	225484774	https://wwwt.agenziaentrate.gov.it/servizi/UfficiProvinciali/ufficio.htm?iduff=IM1&r=Liguria&pr=Imperia
 way	225501579	http://www.agriturismocollarina.it/
 way	225503354	https://www.agriturismoilgeco.it/
 way	225513518	https://www.provincia.imperia.it/
@@ -3001,6 +3024,7 @@ way	1218559702	https://emanuellisimoncini.com/
 way	1220997570	https://www.iccasella.edu.it/
 way	1222841155	https://www.finaleoutdoor.com/
 way	1230970421	https://iprovenzali.it/it/
+way	1240649855	https://www.melabruna.it
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
@@ -4415,8 +4439,6 @@ node	592514461	http://www.atp-spa.it/cartina.php
 node	592514464	http://www.atp-spa.it/cartina.php
 node	592514466	http://www.atp-spa.it/cartina.php
 node	592514469	http://www.atp-spa.it/cartina.php
-node	592514475	http://www.atp-spa.it/cartina.php
-node	592514482	http://www.atp-spa.it/cartina.php
 node	592514485	http://www.atp-spa.it/cartina.php
 node	592514487	http://www.atp-spa.it/cartina.php
 node	592514492	http://www.atp-spa.it/cartina.php
@@ -6390,7 +6412,6 @@ node	5366691172	http://www.amt.genova.it/orari/orari_urbana.asp
 node	5366691173	http://www.amt.genova.it/orari/orari_urbana.asp
 node	5366691185	http://www.amt.genova.it/orari/orari_urbana.asp
 node	5366691186	http://www.amt.genova.it/orari/orari_urbana.asp
-node	5368633582	http://www.amt.genova.it/orari/orari_urbana.asp
 node	5368633606	http://www.amt.genova.it/orari/orari_urbana.asp
 node	5368633607	http://www.amt.genova.it/orari/orari_urbana.asp
 node	5368633608	http://www.amt.genova.it/orari/orari_urbana.asp
