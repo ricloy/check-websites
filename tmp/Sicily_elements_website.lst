@@ -402,7 +402,7 @@ node	2142455476	http://www.aspag.it/index.php/continuita-assistenziale-guardia-m
 node	2142455477	http://www.aspag.it/index.php/continuita-assistenziale-guardia-medica
 node	2142455478	http://www.aspag.it/index.php/continuita-assistenziale-guardia-medica
 node	2142455479	http://www.aspag.it/index.php/continuita-assistenziale-guardia-medica
-node	2151666372	http://www.ristoranteikebana.it
+node	2151666372	http://ikebanacatania.it
 node	2151680028	https://www.poste.it
 node	2162399503	https://www.mylipari.com/
 node	2176931644	http://www.aspag.it/index.php/continuita-assistenziale-guardia-medica
@@ -2450,7 +2450,6 @@ node	8306875186	http://www.cafesauvage.it/
 node	8306875226	https://www.swarovski.com/Web_IT/it/index
 node	8312648786	https://www.al-qubbaresort.com/
 node	8318069703	https://www.radialsrl.it/
-node	8318092365	https://www.sgarrorestaurant.it/
 node	8320424805	https://www.ricevimentivillagarufi.it/
 node	8322426766	https://cryptolocalatm.com
 node	8330236849	https://www.casalemargherita.eu/
@@ -2547,6 +2546,7 @@ node	8766026978	www.casavostracatania.it
 node	8766158725	http://www.gemdeluxe.it/
 node	8766158731	https://www.lacollegiata.com/
 node	8768435623	https://www.agriristocuntissa.it/
+node	8776860217	https://www.decathlon.it/
 node	8781400305	https://www.icmartogliosr.edu.it/
 node	8781400306	https://www.undicesimosiracusa.edu.it/
 node	8781400307	https://www.decimogiaraca.edu.it/
@@ -3540,6 +3540,7 @@ node	11483338392	https://www.ladependancehotel.it/
 node	11483589173	https://www.stauferstelen.net/texts/siracusa-episcopo.htm
 node	11497430643	https://www.poste.it
 node	11500499334	https://www.lamaisonortigia.com/
+node	11500842495	https://sites.google.com/view/da-aloisia/home-page
 node	11512418412	https://www.locautorent.com/en/car-rental/locations/sicily/palermo/downtown/
 node	11519748694	https://www.famila.it
 node	11521221730	https://www.poste.it
@@ -3557,6 +3558,8 @@ node	11535092476	https://www.comune.sanmichelediganzaria.ct.it/
 node	11535092477	https://www.comune.mirabellaimbaccari.ct.it/
 node	11535092480	https://www.comune.acate.rg.it/home/
 node	11535092481	https://www.comune.santa-croce-camerina.rg.it/
+node	11537311210	https://www.airbnb.it/rooms/11705866
+node	11549020294	https://www.museionline.info/musei/museo-della-tonnara-di-bonagia
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	https://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -4027,7 +4030,6 @@ way	257370738	https://www.poste.it
 way	258248781	https://www.hotelvillaperetti.com/
 way	259724516	https://www.masseria-rossella.com
 way	259799812	https://www.poste.it
-way	260756056	https://www.hotelvillariis.com/
 way	260756063	http://www.grandhotelsanpietro.net/
 way	260776540	https://www.hotelcorallotaormina.it/
 way	260783555	https://www.poste.it
@@ -4433,7 +4435,6 @@ way	409050304	https://www.vigilfuoco.it
 way	409836090	https://www.hotel-siracusa.com/
 way	411506314	http://www.isola-bella.it
 way	412288426	https://www.parkhotelsilemi.com/
-way	413058490	http://www.mediterraneetaormina.it/
 way	416453643	http://torredelgrifovillage.it
 way	416718524	http://teatroluigipirandello.it
 way	417416354	https://www.istitutocomprensivovannanto.edu.it
@@ -6024,6 +6025,9 @@ relation	16151896	https://www.caimessina.it/
 relation	16509514	https://www.cai.it/sezione/petralia-sottana/
 relation	16509525	https://www.cai.it/sezione/petralia-sottana/
 relation	16509539	https://www.cai.it/sezione/polizzi-generosa/
+relation	17071363	https://parchiarcheologici.regione.sicilia.it/himera-solunto-iato/siti-archeologici/area-archeologica-di-himera-buonfornello/
+relation	17087161	https://www.hotelvillariis.com/
+relation	17088003	http://www.mediterraneetaormina.it/
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	548101816	http://www.medicalcentermazara.it
 node	582900801	https://www.villaaltair.com/
@@ -6126,7 +6130,6 @@ node	11191549835	https://www.panaceaweb.it/
 node	11200848233	https://www.tasting-sicily.com
 node	11375512088	www.pirainetoairportparking.com
 node	11500819053	https://www.decathlon.it/
-node	11500842495	https://sites.google.com/view/da-aloisia/home-page
 way	34227431	http://liceomazara.edu.it/
 way	35225942	http://www.mizarslothouse.it/
 way	35264757	http://www.wwfpreola.it/
