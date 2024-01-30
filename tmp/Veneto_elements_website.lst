@@ -280,7 +280,6 @@ node	1054810021	https://www.sanmarcoseconda.it/
 node	1062349599	http://www.ospedaleveterinarioconegliano.eu/
 node	1062349606	https://www.lostraniero.com/
 node	1064028763	http://www.marinadiliogrando.com/
-node	1064028856	https://www.portobaseleghe.com/index.aspx
 node	1085336458	http://www.villadelpoeta.it/it/
 node	1085336498	http://www.villadelpoeta.it/it/
 node	1092441252	http://www.risthotelmulino.it/
@@ -1859,7 +1858,7 @@ node	4113516844	https://www1.agenziaentrate.gov.it/indirizzi/agenzia/uffici_loca
 node	4119278582	https://ostellobassanodelgrappa.weebly.com/
 node	4119509644	https://www.isushi.it/it/ristorante/22
 node	4120789989	Mormon.org
-node	4121738103	https://polomusealeveneto.beniculturali.it/musei/museo-archeologico-nazionale-di-venezia
+node	4121738103	https://archeologicovenezia.cultura.gov.it/
 node	4123013929	https://www.ilsalumiere.it/
 node	4124022843	Mormon.org
 node	4125830438	http://www.giancarlofaccin.com/
@@ -2829,6 +2828,7 @@ node	5414009056	https://www.tonyinformatica.it/
 node	5414131222	https://www.naturalcuisine.it/
 node	5417958615	www.farmaciaveronese.it
 node	5420810651	www.infissipvc.venezia.it
+node	5421675125	https://www.12ozcj.com/
 node	5425221744	http://www.streetsonfiresk8shop.com
 node	5432754012	https://www.hoteladriavenice.it/
 node	5433818468	https://www.cantinafilippi.it/
@@ -4550,6 +4550,7 @@ node	8552304365	https://autobase.concessionaria.renault.it
 node	8553813865	https://www.amesvenezia.it/
 node	8589565352	https://concessionaria.kia.com/it/debonamotors/Homepage/
 node	8603140717	https://www.facebook.com/Divin-gelato-Battaglia-terme-660755363993175/
+node	8613300040	https://vicentini1966.com
 node	8614930774	https://www.comunita-servizi.it/abile/
 node	8618830017	http://www.hotelgarnilacuba.it/
 node	8628200151	https://poliambulatorisangaetano.it/
@@ -6074,6 +6075,13 @@ node	11518860647	https://bikehostel.it/bicigrill/
 node	11532581746	https://legalbitcoin.it/
 node	11534979143	https://ilpiaceredelvino.net
 node	11537204252	https://www.prixquality.com/punti-vendita/sedico-407/
+node	11543721309	https://www.eurospin.it/punti-vendita/thiene-via-garziere/
+node	11543803457	https://it.casashops.com/it/negozi/thiene/0291/
+node	11561439980	http://www.icthiene.gov.it/
+node	11563977515	https://www.liceocorradini.edu.it/
+node	11563977520	https://www.chilesotti.edu.it/
+node	11565509070	https://www.garbin.edu.it/
+node	11565509071	https://www.auloceccato.gov.it/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6245,11 +6253,9 @@ way	87214918	https://www.allachiesa.it/
 way	87215007	http://www.colledelbarbarossa.it/
 way	87215416	http://www.roccapendice.com/
 way	87314823	https://www.agec.it/IT/Agec-Servizi-Cimiteriali/Home.html
-way	88065991	https://www.liceocorradini.gov.it/
 way	88066156	https://istitutomusicaleveneto.it/
 way	88067050	https://www.poste.it
 way	88067216	http://www.pweb.org/duomodithiene/sede-oo-pp
-way	88068105	https://www.aeo.it/
 way	88068877	http://www.sebastianothiene.it
 way	88070008	http://www.santadoroteathiene.it/
 way	88070739	http://www.polizialocalenevi.it/web/cplnevi/
@@ -6380,7 +6386,6 @@ way	130019104	http://www.hotellaserenissima.it/
 way	130019131	http://www.hotellaserenissima.it/
 way	130023435	https://pizzeriaristorantebirreriatux.eatbu.com/
 way	130028023	https://www.hotelmionipezzato.com/
-way	130183016	https://www.liceocorradini.gov.it/
 way	130749435	https://scinfanzia-caramor.wixsite.com/website
 way	130749843	https://bluedreamhotel.it/
 way	130909471	http://palaghiacciofeltre.it/
@@ -6604,6 +6609,7 @@ way	140960903	http://www.villadaportoslaviero.altervista.org
 way	140962805	https://www.centroveneto.it/
 way	140963328	https://www.facebook.com/profile.php?id=100057351015266
 way	140966196	https://www.interacciai.it/
+way	140968505	acquerisorgive.it
 way	140974528	http://www.casadicuravillamargherita.it/
 way	140981211	https://www.nekocafe.it/
 way	140985049	https://www.cuoa.it/
@@ -7646,7 +7652,6 @@ way	262021651	https://www.terradegliasini.it/
 way	262132154	https://www.www.prixquality.com/it/
 way	262134580	https://carrozzeriatorre.it/
 way	262136347	https://www.hotelsagittario.com/
-way	262294782	http://www.chilesotti.it
 way	262302290	http://www.villafabris.eu/
 way	263147742	https://www.dallabarbaelisa.com/
 way	263510441	http://www.tirosportivovaleggio.com/
@@ -7661,7 +7666,6 @@ way	275163756	https://nave-de-vero.klepierre.it/
 way	281261367	http://www.aicasoni.it/
 way	282709581	https://www.despar.it/it/punto-vendita-eurospar/528/thiene/#
 way	282709588	https://www.castellodithiene.com/
-way	282709597	http://www.icthiene.gov.it/
 way	282709602	http://www.icthiene.gov.it/
 way	282709654	http://www.pweb.org/duomodithiene/
 way	283638023	https://www.astroschio.it/novegno.htm
@@ -7713,7 +7717,6 @@ way	301512631	https://www.jw.org/
 way	301768667	https://www.testigroup.com/
 way	302805198	http://www.savnoservizi.it/c/comune-di-chiarano.html
 way	304851161	https://www.arag.it/
-way	305449322	https://www.auloceccato.gov.it/
 way	305591574	https://www.decathlon.it/
 way	305860183	https://www.filp.it/
 way	306164978	http://www.paludidiostiglia.it/servizi/stradario/stradario_fase01.htm
@@ -7751,7 +7754,7 @@ way	320654175	http://www.cortedegliangeli.com/
 way	321786599	http://www.rugbysandona.it/index.php?p=stadio-pippo-torresan
 way	322307237	http://www.parcodelsojo.it/
 way	324276593	https://www.provincia.vicenza.it/ente/la-struttura-della-provincia/servizi/agricoltura/agricoltura-sostenibile
-way	327308318	www.biowood.it
+way	327308318	https://www.biowood.it/
 way	328382813	http://www.algor.it/
 way	329933820	https://www.odeonline.it/
 way	329962576	https://www.seminariopadova.it/
@@ -7820,6 +7823,7 @@ way	362460827	https://www.bancaprealpi.it/
 way	362572119	https://www.sirca.it/
 way	362601506	https://www.comune.santurbano.pd.it/pagine.php?idp=15
 way	363380228	https://www.villacaconti.com/
+way	363520113	https://www.portobaseleghe.com/index.aspx
 way	363637780	https://www.erbecedario.it/
 way	363726354	https://www.villa-tacchi.com/
 way	364143553	https://www.jtaca.com
@@ -8142,6 +8146,7 @@ way	627427033	https://www.campingclaudia.it/
 way	627427037	https://martora.it/
 way	627427044	https://www.campingazzurromalcesine.net/
 way	627427052	https://www.campingcampagnola.it
+way	627518522	https://www.camuffo.it/
 way	627728908	https://www.miramaresottomarina.it
 way	630034169	https://www.residenzaalparco.it/
 way	631937201	https://www.experica.it/
@@ -8603,6 +8608,7 @@ way	1236351854	https://campingmalibubeach.com/
 way	1236402043	http://www.gommapiuma.net/
 way	1236402046	https://www.beaurivagepineta.com
 way	1239879353	https://www.ecomontsrl.it/ecocentro/
+way	1242654098	https://www.hotelstellalpina.com/
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -9103,6 +9109,7 @@ relation	8481601	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche
 relation	8487508	http://www.caivalpolicella.it
 relation	8607824	https://termemarconi.it/
 relation	8630575	http://www.usgiarre.it/
+relation	8655886	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/ferrata-rino-costacurta/
 relation	8664096	http://hanastasis.wixsite.com/monastero/
 relation	8762539	https://sites.google.com/site/turismodaltamontagna/Tabella-dei-sentieri
 relation	8763498	http://www.polisportivatorreglia.com
@@ -9965,6 +9972,7 @@ node	11367453797	https://dacallegaro.com/
 node	11387429936	https://www.irpcds.org
 node	11513591553	https://www.dagiselda.it/
 node	11541693474	https://www.zentakeaway.it/home-page
+node	11556029286	https://www.osteriafiorenero.it/
 way	27198535	http://basilicadelsanto.org
 way	40460962	https://www.laquercia.it/
 way	42424990	http://www.traiglicinieilsambuco.it/
@@ -10401,6 +10409,7 @@ way	475486812	http://www.cortinacube.it/
 way	488653559	https://www.padovanet.it/informazione/centro-infanzia-bambini-del-mediterraneo
 way	520412057	http://moduliweb.enac.gov.it/Applicazioni/avioeli/Avio_04.asp?selaeroporto=525
 way	610557021	https://www.facebook.com/Bike-Park-Scorz%C3%A8-384656858715780/
+way	622134934	https://gruppoambientesgdp.wordpress.com/oasi-f-rossato-2/
 way	622135827	https://www.facebook.com/parco.guizze
 way	816658964	https://www.padovanet.it/famiglia-sociale-e-sport/asilo-nido-lo-scarabocchio
 way	827491932	https://www.youtube.com/watch?v=qLy5eHhdkSc
