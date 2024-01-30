@@ -1475,6 +1475,7 @@ node	5913663085	https://m.facebook.com/pages/Gastronomia-Dai-Pescatori/188251474
 node	5932621939	https://www.caipikanas.it/
 node	5945323958	https://www.lorenzasulmare.it/
 node	5948617685	https://lapia.it
+node	5952537050	https://www.ilcorniglianese.it/
 node	5972683656	https://www.dotnext.it
 node	5974617697	https://www.fidra.it/
 node	5975265315	https://associazione.opengenova.org/
@@ -2018,7 +2019,10 @@ node	10111544755	https://liguria.on-line.it/opac/article/il-sistema-bibliotecari
 node	10114720912	https://caffetteriabistrotsangiovanni.business.site/
 node	10116940066	https://ristorantepanevino.it
 node	10116940067	https://www.chezbraccioforte.com
+node	10116940077	http://www.nuovadiffel.com/
+node	10116940078	https://www.galleriadelsonno.it/
 node	10116940087	https://angelaboutique.com/
+node	10117130872	https://www.modaccessori.it
 node	10117192326	https://ristorantesalvocacciatori.it/
 node	10117192337	http://www.elviocampi.it/
 node	10117192339	https://www.ristrutturapoint.it
@@ -2028,6 +2032,8 @@ node	10120632671	https://fototticabruno.it/
 node	10121550164	https://www.eventiesagre.it/Mercatini_Filiera+Corta/21183436_Mercato+Settimanale+Di+Lerici.html
 node	10123055227	https://giannifranzi.it/deck.html
 node	10123067255	http://www.osteriamattana.com/
+node	10128741156	https://ponenteligure.aci.it
+node	10128741160	https://www.autocarrozzeriapierino.it/
 node	10140289549	https://www.facebook.com/CasaMaMa.Genova/
 node	10143122437	http://www.micheleintheworld.com/genova/
 node	10143208834	https://www.bibliotechedigenova.it/saffi
@@ -2273,6 +2279,19 @@ node	11534894655	https://kipointimperia.business.site/
 node	11541016598	https://www.bellamano.it/
 node	11541016601	https://oreficeriabelmonte.it/
 node	11541147196	https://tipografianante.it/
+node	11544106648	https://www.cma.imperia.it/
+node	11544134846	https://www.fabiolamartucci.com/
+node	11545902026	https://www.autocarrozzeriapierino.it/
+node	11552060099	https://www.emporiodoltremare.com/
+node	11554844997	https://www.liguriahomes.com/en/
+node	11554844999	https://www.confartigianatoimperia.it
+node	11554845003	http://www.studiocontatto.it/
+node	11554845004	https://www.labarberiadiimperia.it/
+node	11560950656	https://pcsanremo.com/
+node	11561131455	https://sanremo.ubiklibri.it
+node	11561421743	https://pigiaeportaaca.it/
+node	11563559576	https://www.caseificiomoris.it
+node	11564919080	https://www.nuovazetagricoltura.it
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3025,6 +3044,7 @@ way	1220997570	https://www.iccasella.edu.it/
 way	1222841155	https://www.finaleoutdoor.com/
 way	1230970421	https://iprovenzali.it/it/
 way	1240649855	https://www.melabruna.it
+way	1242614014	http://www.torriglf.it/#
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
@@ -3625,7 +3645,6 @@ node	4467496585	www.possibile.com
 node	4878856100	https://www.paginegialle.it/moneglia-ge/pizzerie/pizzeria-ciocco
 node	5146204592	http://www.ulivoeilmare.it
 node	5154735413	http://www.nauroz.com/
-node	5329052292	http://www.celtorretta.it/
 node	5347879759	http://www.croceverdequarto.it
 node	5347905495	http://www.ilcerchiodellerelazioni.it
 node	5347905496	http://www.ilcerchiodellerelazioni.it/centro-mascherona/
@@ -3647,6 +3666,7 @@ node	11299657682	https://www.autoscuolegruppozena.com/
 node	11380379580	http://www.bbgiutte.it
 node	11392242462	https://minervasoluzioni.it/
 node	11397077627	www.cozzani.com
+way	134211659	http://www.celtorretta.it/
 way	201976842	http://www.apsoverland.com/
 way	201976923	http://www.ilporticotoirano.it/
 way	202465238	www.cascinastra.it/
