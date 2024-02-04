@@ -93,6 +93,7 @@ node	72962854	http://www.comune.roccacanterano.rm.it/
 node	72962862	https://www.comune.riano.rm.it/
 node	72962874	https://comune.pisoniano.rm.it/
 node	72962885	https://www.comune.pomezia.rm.it/
+node	72962907	https://www.percilecomune.it/
 node	72962927	https://www.comune.olevanoromano.rm.it
 node	72962941	http://www.comune.palestrina.rm.it
 node	72962975	https://www.comune.nettuno.roma.it/
@@ -126,6 +127,7 @@ node	72963535	https://www.fonte-nuova.it/
 node	72963554	https://www.comune.sancesareo.rm.it/
 node	72963572	http://www.comunevallinfreda.rm.it/
 node	72963587	http://www.comune.lanuvio.rm.it/
+node	72963600	https://www.comune.licenza.rm.it/
 node	72963608	http://www.comunedimaglianoromano.it/
 node	72963655	http://www.comune.monteflavio.rm.it
 node	72963658	https://www.comune.montelanico.roma.it/
@@ -3026,6 +3028,7 @@ node	5645664465	ristorantebrasiliano.roma.it
 node	5646985922	http://www.agrimaresperalonga.it
 node	5651444929	https://ztl-bici.it/
 node	5655733522	http://www.anticoforno.it
+node	5655792423	https://melograno-pizza-restaurant.business.site/
 node	5660708310	https://www.bbelisiroma.it/
 node	5668366021	https://www.tangsinn.com/
 node	5677412470	https://gelatodessai.it/
@@ -5551,11 +5554,11 @@ node	10937793525	https://museocivilta.cultura.gov.it/
 node	10939893654	https://www.cinziachiullipercorsiartistici.it/monumento-al-pellegrino-della-via-francigena-inaugurazione-sabato-15-ottobre-2022/
 node	10942913305	https://www.conad.it/ricerca-negozi/conad-via-tuscania-89-01010-marta--000644
 node	10944098771	https://www.wind3online.it/store/windtre-fiumicino/
+node	10946649861	https://www.bulgarihotels.com/en_US/rome/
 node	10951593505	https://centocicli.it/
 node	10951596005	https://180gpizzeriaromana.com/
 node	10956804085	http://hotelpisa.ithotel.site/
 node	10956925462	https://www.cittametropolitanaroma.it
-node	10957851421	https://coworkingtivoli.it
 node	10958938462	http://www.hotelelide.com/
 node	10961094908	https://www.farmaciagiovannone.it/
 node	10977162511	https://www.roadhouse.it/
@@ -5873,7 +5876,7 @@ node	11502774097	https://www.enotecavinoinanfora.it
 node	11504479647	https://www.antuorimaterassiunicasede.com/
 node	11518526807	https://mramotors.com/
 node	11518526810	http://www.lacombriccoladeimarmocchi.it/index.php
-node	11521166638	http://www.cappannagioielli.it/
+node	11521166638	https://www.cappannagioielli.it/
 node	11524589628	https://www.alpompiereroma.com/
 node	11530922162	https://www.facebook.com/sinestesiacaffe
 node	11543268059	https://www.museoapr.it/
@@ -5881,6 +5884,13 @@ node	11545678043	https://roma-cila.com
 node	11547027214	https://www.viefrancigene.org/it/murale-vetralla-via-francigena/
 node	11553248886	https://romamobilita.it/it
 node	11556649483	http://www.lantesrl.com
+node	11559152851	https://www.nextmuseum.net/en/exhibition-locations/next-museum-rome/
+node	11559841569	https://www.maiorestaurant.com/roma/
+node	11566834428	http://pcsoffice.it/
+node	11578590078	https://www.hatha-yoga-roma.it/
+node	11578590407	https://www.tangoinprogress.it/
+node	11578639411	https://clinica-iphone.com/cliniche/clinica-iphone-tivoli/
+node	11579572580	www.lollagelato.it
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6784,6 +6794,7 @@ way	292872992	http://www.capitalcargroup.com/
 way	292873100	https://www.ictulliodemauro.edu.it/
 way	294164398	https://questure.poliziadistato.it/it/Viterbo
 way	294657627	https://www.villaicidia.it/
+way	295628219	https://www.viviminturnoscauri.it/luoghi/acquedotto-vespasiano/
 way	296496866	https://accademiadellestelle.org/
 way	296781809	http://www.hotelgrazia.com
 way	296781810	http://www.marinadegliulivi.com
@@ -7353,6 +7364,7 @@ way	470941239	https://www.ospedaleveterinariolandi.com/
 way	472235855	www.AnnaMariaBeB.it
 way	472574905	https://www.museodelfiore.it/
 way	472681667	https://da.lnf.infn.it/projects/dafne/
+way	472681712	https://www.frascati.enea.it
 way	472681715	https://www.enea.it/it/centro-ricerche-frascati
 way	472683167	https://www.luiss.edu
 way	473688618	carabinieri.it
@@ -8254,6 +8266,7 @@ way	1225286775	https://kebhouze.com/
 way	1230130786	https://www.lavecchiaquercia.net
 way	1230544607	https://euroskyroma.it/
 way	1242295562	https://www.contradarapello.it/
+way	1243942268	https://www.arcidiocesigaeta.it/wd-annuario-enti/minturno-4492/parrocchia-santa-maria-del-buon-rimedio-4524/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
