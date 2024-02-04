@@ -15,8 +15,9 @@ node	70992482	https://www.comune.opi.aq.it/
 node	70992775	http://www.comune.villettabarrea.aq.it
 node	70992860	https://comune.scurcolamarsicana.aq.it/
 node	70992946	https://www.comune.sulmona.aq.it/
-node	70993202	http://www.comune.pettorano.aq.it/
+node	70993202	https://comune.pettorano.aq.it/
 node	70993229	http://www.comune.molinaaterno.aq.it/
+node	70993237	https://www.comune.oricola.aq.it/
 node	70993266	https://comune.maglianodemarsi.aq.it/
 node	70993342	https://www.comune.montesilvano.pe.it/
 node	70993483	https://comune.toccodacasauria.pe.it/
@@ -290,7 +291,6 @@ node	2304262708	https://www.enel.it/punto-enel/
 node	2311459214	https://www.enel.it/punto-enel/
 node	2311459235	https://www.enel.it/punto-enel/
 node	2311459265	https://www.enel.it/punto-enel/
-node	2311459276	https://www.enel.it/punto-enel/
 node	2311459286	https://www.enel.it/punto-enel/
 node	2311459297	https://www.enel.it/punto-enel/
 node	2311459320	https://www.enel.it/punto-enel/
@@ -453,7 +453,6 @@ node	4103693665	https://www.spaziodesartistes.it
 node	4103694706	https://negozi.arcaplanet.it/abruzzo/te/teramo-viale-francesco-crispi-257-b
 node	4111985489	http://www.ristorantecittadella.it/
 node	4252919468	http://www.fattoriatanadellavolpe.com
-node	4252940766	http://www.fattoriatanadellavolpe.com
 node	4260135990	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151594&pagename=57
 node	4333671791	https://profumodisole.com/
 node	4341909121	https://www.caputfrigoris.it/santamaria.htm
@@ -2930,7 +2929,7 @@ node	11510666694	https://www.museobarbella.it/
 node	11513556652	https://www.tamoil.it/Map
 node	11514002126	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10537
 node	11516316034	https://chieti2.tecnocasa.it/chieti/chieti/
-node	11516956458	http://www.casakalipe.it/
+node	11516956458	https://www.casakalipe.it/
 node	11517665535	https://www.itforpassion.com/
 node	11517686195	https://maja.bedsandhotels.com/
 node	11526038811	https://www.igmi.org/it/geoprodotti/punti-geodetici/capisaldi-livellazione/caposaldo-1541576322.89
@@ -2945,6 +2944,8 @@ node	11536329680	https://oflarinascente.com/
 node	11536329683	https://www.graphicartpescara.it/
 node	11539360589	https://abruzzoauto.it/
 node	11545968520	https://laboratorio-sos-pc.business.site/
+node	11563933468	https://www.enel.it/punto-enel/
+node	11564318705	https://www.ksolutionssrl.com/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -3155,6 +3156,7 @@ way	264204679	https://www.info.asl2abruzzo.it/ospedaleguardiagrele/
 way	267637426	https://tilm.it/
 way	268110453	http://www.hotellavecchiaminiera.com/
 way	276212659	https://www.fatergroup.com/en
+way	290024030	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1300300808
 way	294085366	https://www.cantinatollo.it/en/
 way	301861360	https://www.centrovacanzepoker.it/
 way	304589677	http://www.caiisola.it/index.php?option=com_content&view=article&id=62&Itemid=194
@@ -3227,6 +3229,7 @@ way	372540044	https://www.forddecar.it
 way	374845639	https://www.waltertosto.it/en/
 way	376266659	https://www.comune.spoltore.pe.it
 way	378791366	https://scelgofullservice.com
+way	380097681	http://www.fattoriatanadellavolpe.com
 way	380255141	https://sacaservizi.com/
 way	380875511	https://www.ilcentro.it/chieti/sottopasso-allagato-auto-sommersa-alla-stazione-di-tollo-1.1996312
 way	380875513	https://www.ilcentro.it/chieti/sottopasso-allagato-auto-sommersa-alla-stazione-di-tollo-1.1996312
@@ -3879,7 +3882,7 @@ way	1223142723	https://www.onpmi.org/case-di-accoglienza/ofena-aq/
 way	1225415023	https://questure.poliziadistato.it/it/Teramo
 way	1225415024	https://questure.poliziadistato.it/servizio/uffici/5730dc9d62dab858942235
 way	1225535770	https://www.enelgreenpower.com/it/impianti/operativi/centrale-idroelettrica-triano
-way	1226773738	www.ziplinemajella.com
+way	1226773738	https://ziplinemajella.com/
 way	1227356348	https://ispettorati.mise.gov.it/index.php/ispettorato-lazio-e-abruzzo
 way	1227770473	https://www.autodemolizioniflacco.com
 way	1227770498	https://www.syngentabiologicals.com/usa/en-us/
@@ -3893,6 +3896,7 @@ way	1232479304	https://www.freecomsas.it
 way	1239666352	https://www.vivaiowonderland.com
 way	1242961312	https://www.todis.it/
 way	1242975124	https://www.peanorosaonline.edu.it/
+way	1244766524	https://www.prolocopacentro.it/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4123,6 +4127,7 @@ relation	16950961	https://www.ilcamminodellapace.it
 relation	16951053	https://www.ilcamminodellapace.it
 relation	16951386	https://www.ilcamminodellapace.it
 relation	16953052	https://www.ilcamminodellapace.it
+relation	17141221	https://piantando.it/project/silva/
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
