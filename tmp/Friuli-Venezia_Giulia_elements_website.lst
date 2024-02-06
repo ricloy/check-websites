@@ -181,6 +181,7 @@ node	1120210862	https://www.hotel-bb.com/it/hotel/udine.htm
 node	1134553694	https://www.ambassadorpalacehotel.it/
 node	1144571430	https://www.alpomodoro.com/
 node	1178193935	http://www.caneo.it/
+node	1182648500	https://www.gruppobosco.it/
 node	1243756859	https://www.flondar.it/2022/06/museo/
 node	1248791864	https://www.ristorantelaprimula.it/hotel
 node	1248791871	https://www.ristorantelaprimula.it/ristorante
@@ -796,6 +797,7 @@ node	3633900398	https://disu.units.it/it/dipartimento/patrimonio-dipartimento/Ar
 node	3633901595	https://www.molinomoras.it/
 node	3633902163	https://www.informazione-aziende.it/Azienda_RUPEL-MARKO
 node	3633902416	http://2scomputers.com
+node	3633903157	https://ilmelograno.online/
 node	3633905182	http://biblioteche.comune.trieste.it
 node	3633907108	http://www.biblio.univ.trieste.it/pageview?pid=44
 node	3633907946	http://www.bombonieremarina.it/
@@ -1013,6 +1015,7 @@ node	3784363003	https://www.immaginarioscientifico.it/
 node	3784378421	https://www.righinicasalinghi.it/
 node	3784380133	https://asuiud.sanita.fvg.it/servizi/per-le-persone/medici-e-pediatri/trova-il-tuo-medico?id=123
 node	3784380643	https://www.saloneuomo.it/
+node	3784381012	https://ilmelograno.online/
 node	3784381325	https://www.deganoprimo.it/
 node	3784383871	https://www.carglass.it
 node	3784384108	https://www.poste.it/
@@ -1099,6 +1102,8 @@ node	3846447789	https://www.candidaimmobiliare.it/
 node	3846448995	https://www.comune.socchieve.ud.it/index.php?id=4212
 node	3854178567	https://standardhoteludine.it/
 node	3854179677	http://patagoniaristorante.it
+node	3854186206	https://parcopizzapradamano.it/
+node	3854189471	https://www.pizzeriagastronomianordesud.it/
 node	3857552795	http://www.deltorre.it/
 node	3863223789	https://www.safaraeditore.com/
 node	3869547245	http://www.ristorantetrattoriasanmauro.it/
@@ -1692,6 +1697,7 @@ node	7055439948	https://www.oceanmarine.it/
 node	7056800983	https://www.imacoritti.it/
 node	7082533973	https://www.hotelinternazionale.it/it/ristorante
 node	7093575629	https://www.comunegrado.it/polizia-locale
+node	7099334476	https://ilmelograno.online/
 node	7105481128	https://geomatics.uniud.it/
 node	7110595016	https://www.roadhouse.it/it/ristorante-roadhouse-trieste
 node	7126639599	https://www.falesia.it/it/sector/932/villa-santina/madrabau.html
@@ -2326,6 +2332,11 @@ node	11502920729	https://linktr.ee/angelonero1988
 node	11513869544	https://caseificiosangregorio.it/
 node	11524844365	https://www.ristorantedagenio.com/
 node	11536286686	https://catastogrotte.regione.fvg.it/scheda/7160-Pozzo_presso_la_dolina_dei_Sette_Nani
+node	11576242507	http://www.caigemona.it/
+node	11576295367	https://www.caispilimbergo.it/sottosezione-valvasone/
+node	11576313971	http://artegna.alpinafriulana.it/storia/
+node	11578657951	http://www.caisandaniele.it/
+node	11578714293	http://digilander.libero.it/delio/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	https://campingalbosco.it/
@@ -2398,7 +2409,6 @@ way	36035105	https://www.albergodamichele.it/
 way	36035488	http://www.farfalledibordano.it
 way	36037061	http://www.cinetecadelfriuli.org
 way	36037887	http://associazionelaserstalis.blogspot.it/
-way	36038842	http://www.caigemona.it/
 way	36045549	http://www.agriturismosanfloreano.com
 way	36046981	https://www.natisone-torre.comunitafvg.it/
 way	36047859	https://www.operapiacoianiz.it/
@@ -2584,6 +2594,7 @@ way	36417363	http://www.riservavalrosandra-glinscica.it
 way	36417881	https://www.centerhotel.it/
 way	36417890	https://www.centerhotel.it/
 way	36419851	http://www.tavernacigui.it
+way	36420497	http://www.artekna.it/
 way	36420731	https://www.latavoladicarnia.com/home/
 way	36422225	https://www.lionsteel.it/
 way	36422714	https://www.nuova-agraria.it
@@ -2894,6 +2905,7 @@ way	196605140	https://www.comune.sappada.ud.it/
 way	197173591	https://www.lidl.it/
 way	197764412	http://www3.comune.gorizia.it/turismo/it/parco-del-municipio
 way	198339911	https://ristorantealfiumestella.com
+way	198789618	https://artcart.it/it/
 way	199843563	http://www.castellodiprampero.org/
 way	200613383	www.wafna.it
 way	201562342	http://vidussi.it/
