@@ -219,7 +219,6 @@ node	530719587	www.hotel4fontane.com
 node	534730709	http://www.villadellerose.it/
 node	538995415	https://www.siciliainboccaflaminio.com/
 node	550325597	http://www.pizzeriabaffetto.it/
-node	560195548	http://www.simplymarket.it/pdv.php?id=1948
 node	560418226	https://www.ristoranteilfungo.it/quattordicesimo-piano/
 node	564967151	https://www.taiwanembassy.org/VA/
 node	565053942	https://www.exteriores.gob.es/Embajadas/santasede/es/Embajada/Paginas/index.aspx
@@ -659,6 +658,7 @@ node	1810022542	http://www.carsharing.roma.it/
 node	1812809988	https://www.comune.viconellazio.fr.it/
 node	1815044994	https://bancacentrolazio.net/
 node	1816064208	http://www.tendarte.eu
+node	1816973702	http://www.ibarberini.it/
 node	1816973718	https://www.onoranzefunebriazeta.com/
 node	1818883225	http://www.comune.orte.vt.it/Home/UfficiDettagli/Uffici?IDUfficio=11127
 node	1825339618	https://www.urbangardenhotelroma.com/
@@ -730,7 +730,6 @@ node	1988966799	https://www.chiantiosteriatoscana.it/
 node	1993727974	http://www.lanuovaposta.it
 node	1995951741	http://www.florianscafe.it/
 node	1996727548	http://www.ristoranteatratino.it
-node	1997317558	http://www.enotecaprovinciaromana.it
 node	1998779872	https://www.iclementini.it/
 node	2002018313	www.romainbicielettrica.it
 node	2002046006	http://www.carsharing.roma.it/
@@ -5891,6 +5890,15 @@ node	11578590078	https://www.hatha-yoga-roma.it/
 node	11578590407	https://www.tangoinprogress.it/
 node	11578639411	https://clinica-iphone.com/cliniche/clinica-iphone-tivoli/
 node	11579572580	www.lollagelato.it
+node	11583986000	https://www.elitepapersolutions.it
+node	11591180928	https://www.daitoscani.com/
+node	11593896214	https://www.caisora.it
+node	11593896215	https://www.caisora.it
+node	11593940085	www.caicassino.com
+node	11595428110	https://www.hostariaromanaenrico.it/
+node	11601686093	https://www.parkinstation.it/eccellenze/351755-roma-termini-piastra
+node	11608407753	https://cicacicaboom.it/
+node	11608407754	https://pipistrello-nightclub.it/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7078,7 +7086,6 @@ way	385928529	https://www.hotelmassimino.com/
 way	386079083	https://o-zoneshop.it/
 way	386176499	https://www.fattoriadellaramegna.it/
 way	386265378	https://www.la-caletta.com/
-way	386265390	anticochiosco.com
 way	386265391	https://lavelaristoranteanguillara.it/
 way	386265399	cortedeprincipi.com
 way	386266604	http://www.reginapacisanguillara.it/
@@ -7938,7 +7945,6 @@ way	896173467	https://ilcastellodisermugnano.weebly.com/
 way	896954969	https://www.istitutocomprensivogaribaldigenzano.edu.it/
 way	897481765	http://www.cedirspa.com/
 way	899427547	http://www.luminastudios.it/
-way	899445149	www.caicassino.com
 way	901416087	https://www.alltrails.com/explore/trail/italy/lazio/rifugio-cognolo-via-fabioman-pass
 way	901420856	https://www.alltrails.com/explore/trail/italy/lazio/rifugio-cognolo-via-fabioman-pass
 way	901420857	https://www.alltrails.com/explore/trail/italy/lazio/rifugio-cognolo-via-fabioman-pass
@@ -7956,8 +7962,6 @@ way	911257286	https://www.visitcasape.it/localita-chiesa-di-santa-maria
 way	911270009	https://www.visitcasape.it/localita-cappellina-del-sacro-cuore
 way	911631000	http://www.circoloippicolaperna.it
 way	912726421	https://www.facebook.com/Tutto-per-te-187175671751238/
-way	914401413	https://www.caisora.it
-way	914401414	https://www.caisora.it
 way	915820935	https://icvialaparelli.edu.it/index.php
 way	915820936	https://icvialaparelli.edu.it/index.php
 way	917631934	https://www.alltrails.com/explore/trail/italy/lazio/rifugio-cognolo-via-fabioman-pass
@@ -8267,6 +8271,7 @@ way	1230130786	https://www.lavecchiaquercia.net
 way	1230544607	https://euroskyroma.it/
 way	1242295562	https://www.contradarapello.it/
 way	1243942268	https://www.arcidiocesigaeta.it/wd-annuario-enti/minturno-4492/parrocchia-santa-maria-del-buon-rimedio-4524/
+way	1246290365	https://www.zetacar.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -8511,6 +8516,7 @@ relation	7378396	http://www.sangiuseppemoscatiroma.it
 relation	7399959	http://www.camminodellaluce.it/
 relation	7435893	http://www.itcvittorioveneto.eu
 relation	7449235	https://www.manzonilatina.edu.it/it/
+relation	7601914	https://www.annamicheli.it/
 relation	7624013	https://www.latinafiori.com/
 relation	7669227	http://www.sangaspareroma.altervista.org/
 relation	7769092	https://www.polomusealelazio.beniculturali.it/index.php?it/240/santuario-madonna-della-quercia
@@ -9022,7 +9028,7 @@ relation	16178476	https://www.parcoabruzzo.it/sentiero.php?id_iti=4251
 relation	16178841	https://www.parcoabruzzo.it/sentiero.php?id_iti=4253
 relation	16183966	https://www.parcoabruzzo.it/sentiero.php?id_iti=4286
 relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
-relation	16262677	http://www.scuolamediafellini.it/
+relation	16262677	https://www.icbelfortedelchienti.edu.it
 relation	16266387	https://www.halleyweb.com/c056007/zf/index.php/musei-monumenti/index/dettaglio-museo/museo/1
 relation	16386355	https://www.parcobracciano.it/
 relation	16439916	https://www.museobrigantaggiocellere.org/sentiero-bandito/
@@ -9169,7 +9175,6 @@ node	9725172332	https://www.facebook.com/profile.php?id=100069146257667
 node	9730660421	https://www.hotelbenigni.it/
 node	9730702758	https://www.hotelbenigni.it/
 node	9733337945	https://www.doreca.com
-node	9770623859	https://m.facebook.com/Salone-Barberia-Fiorini-115898983590307/
 node	9791083050	https://pastaevinoroma.it
 node	9831988735	https://www.summithotel.it/
 node	9962533153	https://www.donnardea.it/
@@ -9436,6 +9441,8 @@ way	1013711658	https://27crags.com/
 way	1013711659	https://27crags.com/
 way	1068735575	https://wiki.openstreetmap.org/wiki/Ramsar_site
 way	1221735753	http://www.lazioverticale.joomlafree.it/
+way	1246182264	https://www.provincia.viterbo.it/strade.html
+way	1246182267	https://www.provincia.viterbo.it/strade.html
 relation	539134	https://sansaba.gesuiti.it/basilica-storia-arte/
 relation	919376	http://www.archidiap.com/opera/albergo-rosso/
 relation	1026680	http://www.centroculturalearacoeli.it/CMS/Alle-Sprachen/Alle-Kategorien/Oasi-Ges%C3%B9-Bambino-Greccio.aspx?Sel=339&lg=4
