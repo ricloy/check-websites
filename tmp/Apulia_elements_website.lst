@@ -1396,7 +1396,7 @@ node	9348416598	https://spazio13.org
 node	9348440529	https://www.lafayettehotelbari.com/?utm_source=GB&utm_medium=organic
 node	9348448114	https://www.goldenpoint.com/
 node	9348448116	http://www.devboutique.com/
-node	9348455241	http://www.mariomossa.it/
+node	9348455241	https://www.mariomossa.it/
 node	9348455243	https://www.rocca1794.com/it/
 node	9348455244	http://www.mossa.com/
 node	9348455245	https://www.geox.com/it-IT/?utm_source=Bari&utm_medium=store&utm_campaign=BariViaSparano_AV3
@@ -1838,7 +1838,7 @@ node	10966668601	https://www.lartediluciano.it/
 node	10973434832	https://www.residencevillalemacine.com/
 node	10973434833	https://www.oleificiovieste.com/
 node	10979740855	https://bb-la-pigna.business.site/
-node	10981026236	http://www.solho.it/
+node	10981026236	https://www.solho.it/
 node	10981035596	https://oro2000.com/
 node	10981427008	https://breakfast483.wixsite.com/anticaosteriapompoio
 node	10981427024	https://www.creoadv.com/menudigitale/la-chicca/
@@ -2004,8 +2004,8 @@ node	11435535165	https://www.panificiorecchia.it/
 node	11436816623	https://burgerking.it/ristoranti/ristorante.php?storeId=31093
 node	11449855566	https://www.mydaycoffee.it/
 node	11483817036	https://www.stauferstelen.net/stele-fiorentino.htm
-node	11491575224	http://www.guess.eu/
-node	11491575225	http://www.piquadro.com/
+node	11491575224	https://www.guess.eu/
+node	11491575225	https://www.piquadro.com/
 node	11491575226	https://www.camomillaitalia.com
 node	11491575227	https://lacasadelascarcasas.it/
 node	11491584168	https://www.yves-rocher.it/trova-il-tuo-negozio#!/l/bari/via-sparano-da-bari-6/1253277
@@ -2016,9 +2016,9 @@ node	11491829719	https://www.maisonoperative.com/
 node	11494272926	http://www.baciodilattebari.it/
 node	11497951727	https://www.patriziapepe.com/it/it/
 node	11498142593	https://www.stefanel.com/it/stores/italia/puglia/bari/bari-via-sparano-59-61?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Bari_9167
-node	11498142595	http://www.dodo.it/
+node	11498142595	https://www.dodo.it/
 node	11500870422	https://peroniabbigliamento.com/
-node	11500870423	http://www.culpado.com/
+node	11500870423	https://culpado.com/
 node	11500932876	https://www.calzedonia.com/it/negozi/puglia/bari/bari_via_sparano_da_bari_96_98/CD87.html
 node	11500932879	https://www.stroilioro.com/it_IT/gioiellerie-stroili/dettagli-negozio/?storeID=0350
 node	11500932880	https://www.lordbyroncollege.com/
@@ -2038,13 +2038,13 @@ node	11512096934	https://it.iqos.com/it
 node	11512096935	https://www.primadonnacollection.com/
 node	11512132790	https://www.tiffanycaffe.com/
 node	11512132791	https://www.frulez.it/
-node	11512204423	http://www.twinset.com/
+node	11512204423	https://www.twinset.com/
 node	11512204425	https://www.maccosmetics.it/
 node	11512308467	https://www.doppelganger.it/
 node	11512308468	https://www.cimabari.it/
 node	11512334571	https://it.sisley.com/
 node	11513853000	https://lillabari.it/
-node	11513925287	http://honestbari.com/
+node	11513925287	https://www.honestbari.com/
 node	11514053895	https://consolatomoldovabari.it/
 node	11514078183	https://bari.mae.ro/
 node	11514140161	https://www.eda.admin.ch/countries/italy/it/home/rappresentanze/ambasciata-roma/consolati-onorari/consolato-bari.html
@@ -2062,6 +2062,11 @@ node	11570059543	http://www.tarallificiosanpadrepio.it/
 node	11570059544	https://www.mobilificiosc.it/
 node	11572441888	https://www.poste.it/
 node	11584102227	https://www.tenutacesano.bio/
+node	11591478307	https://www.boxeseco.it/
+node	11598961460	https://www.escaperoombarletta.com/
+node	11608392521	https://www.pinacotecabari.it/
+node	11608490524	http://www.ilmulinopizzeria.it/
+node	11610544243	http://www.palazzomariano.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2103,7 +2108,6 @@ way	134710304	https://www.campingsmleuca.com/
 way	134886779	http://www2.poliba.it/Ricerca/lic/Italiano/Index_ita.html
 way	137547111	http://www.immacolatafoggia.it/
 way	137547156	http://santissimosalvatorefg.altervista.org
-way	145911952	https://www.miulli.it/
 way	158732617	https://www.villamariacrispiano.it/
 way	159920966	https://www.comune.martinafranca.ta.it/pagina1144_dove-parcheggiare.html#aree
 way	159981787	https://www.majoranaiiss.edu.it/
@@ -2168,7 +2172,6 @@ way	246786944	http://musei.beniculturali.it/musei?mid=879&nome=castello-di-coper
 way	250957479	https://www.vittoriaresort.it/
 way	263082200	https://www.apuliafilmcommission.it/cineporti/cineporto-di-bari
 way	264520183	https://www.comune.brindisi.it
-way	264770035	http://www.pinacotecabari.it/
 way	264868538	http://www.spaziomurat.it/
 way	265437269	http://cartapulia.it/dettaglio?id=129434
 way	266711492	http://www.barialtogolfclub.com/
@@ -2606,6 +2609,7 @@ way	424325215	http://www.villaggiotiziana.com/
 way	424451741	https://www.nigrosrl.com/
 way	424549504	http://tpress-emma.blogspot.it/2015/03/depuratore-gennarini-scarico-mare.html
 way	424552515	https://www.salinahotel.it/
+way	424552720	https://www.tursport.it/
 way	424570570	https://www.eurospin.it/
 way	424594517	https://www.villaverdetaranto.it/
 way	424595376	https://www.clinicabernardini.it/
@@ -3042,9 +3046,11 @@ way	1228419155	https://www.sanita.puglia.it/web/asl-brindisi/ospedali_det/-/jour
 way	1229032693	https://www.carrefoursuditalia.com/puntivendita/122
 way	1230075017	http://ristorantedeamicis.eatbu.com/
 way	1235544605	https://sangirolamobari.com
-way	1237212408	www.pfcfoggia.it
+way	1237212408	https://www.pfcfoggia.it/
 way	1239514053	https://www.fondazioneortobotanico.lecce.it/
 way	1242190726	http://www.icjapigia1verga.it/
+way	1246959162	https://www.tursport.it/
+way	1248260049	https://www.miulli.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	334867	https://www.uniba.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
