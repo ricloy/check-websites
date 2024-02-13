@@ -1940,6 +1940,7 @@ node	4238219510	https://www.palladiohotelspa.com
 node	4238219539	https://fruttivendolo-grocery-store.business.site/
 node	4241158468	http://www.agriturismocascinamattarello.info/
 node	4242822844	http://www.prosciuttoeparmigiano.it/
+node	4245882189	https://www.cadeltentor.com/
 node	4251183390	https://www.hotelcortecontarina.it/
 node	4254149463	http://www.canovaalloggi.it/
 node	4254149464	https://www.hotelmarcopolovenezia.com/
@@ -1989,7 +1990,7 @@ node	4309680132	https://www.onesails.com/
 node	4311850816	http://www.pipercaffe.it
 node	4313934142	http://www.clubfantair.com
 node	4315443082	http://www.grappagravitygames.it/
-node	4315535928	http://dersuit.it
+node	4315535928	http://www.dersuit.it
 node	4316206516	https://www.lagrigliaverona.it
 node	4316208618	https://www.ristorantenastroazzurroverona.it/en/index.html
 node	4317452329	https://www.ferramentatoscan.it/
@@ -2592,7 +2593,6 @@ node	4915203805	https://hotelgrancan.it/
 node	4917425029	https://www.caorologio.com/
 node	4917662821	https://www.veronafablab.it/
 node	4917717426	http://www.liston12.it/
-node	4920409341	https://www.netwir.com
 node	4920566553	https://www.bikeverona.it/
 node	4920566555	https://www.bikeverona.it/
 node	4920603858	https://www.sushiko.it/it/
@@ -6086,14 +6086,19 @@ node	11565509071	https://www.auloceccato.gov.it/
 node	11569873592	https://saugo.it/
 node	11577747913	http://vinilascagliara.it
 node	11577747915	http://vinilascagliara.it
-node	11579740690	www.veneziarooms.com
-node	11579746463	www.veneziarooms.com
-node	11579822586	www.veneziarooms.com
+node	11579740690	https://www.veneziarooms.com/
+node	11579746463	https://www.veneziarooms.com/
+node	11579822586	https://www.veneziarooms.com/
 node	11584068215	https://www.moratopane.com
-node	11586519935	www.megahub.it
+node	11586519935	https://www.megahub.it/
 node	11586693774	https://www.serramentimanieroleonardo.it/
 node	11587778535	https://www.atvo.it
 node	11588925340	http://www.claudeandreini.it/fisioterapia/index.php
+node	11593892613	https://esteticaeliana.com/
+node	11595259459	https://www.marinasantelena.com
+node	11598808311	https://www.casangiorgio.com/
+node	11600298458	https://www.netwir.com
+node	11609710195	https://www.casamary.com/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6508,7 +6513,6 @@ way	138801104	https://www.foresteriavenezia.it/
 way	138801290	https://www.bauervenezia.com/
 way	138802061	https://www.archiviostudiadriatici.it/
 way	138802164	http://www.ilpalazzovenezia.com/location
-way	138803119	https://yachtclubvenezia.it/
 way	138803884	http://www.hotelcipriani.com/
 way	138804229	https://www.venice4sea.it/
 way	138804409	https://scuole.comune.venezia.it/node/255
@@ -6554,7 +6558,7 @@ way	138857556	https://www.liceomorin.edu.it/
 way	138858915	https://www.megaprezzibassi.it/stores/mega-marghera/
 way	138861651	https://www.cpuvenezia.it/san-michele
 way	138863081	https://www.aulss3.veneto.it/index.cfm?method=mys.page&content_id=1860
-way	138867057	www.veneziarooms.com
+way	138867057	https://www.veneziarooms.com/
 way	138893173	http://www.liceolioy.it/
 way	138894091	https://www.museicivicivicenza.it/it/mrr/villa_parco.php
 way	138894266	https://www.ostellovicenza.com/
@@ -7435,7 +7439,7 @@ way	212890471	https://www.infodolomiti.it/dolomiti-da-vedere/ville-venete/feltri
 way	212903170	www.papaluciani.it
 way	213929203	https://www.lecenturie.com/
 way	214295922	https://allanticatorre.com
-way	214296535	http://www.sovramonteturismo.it/la-storia/l-umo-di-val-rosna.html
+way	214296535	https://www.sovramonteturismo.it/la-storia/l-umo-di-val-rosna.html
 way	214564057	https://www.visitlessinia.eu/it/baito-della-coletta-19
 way	214578345	https://www.hotellessinia.it/it/home/
 way	214578440	https://www.hotelpiccolamantova.it/hotel_boscochiesanuova/albergo_ristorante_boscochiesanuova.htm
@@ -7893,7 +7897,6 @@ way	372385855	https://www.megaprezzibassi.it/stores/mega-vigonza/
 way	372388939	https://www.modelleriabuggin.it/
 way	372392640	https://www.pittarello.com/
 way	372395203	https://www.alpentolone.it/
-way	372645040	https://www.marinasantelena.com/
 way	372714047	http://www.villadaponte.it/
 way	372715535	https://www.ristorantedagambaro.com/
 way	372995696	https://www.thespacecinema.it/
@@ -9008,7 +9011,7 @@ relation	6802838	http://www.caibassanograppa.com/sentieri/sinistra-brenta/item/i
 relation	6802839	http://www.caibassanograppa.com
 relation	6803269	http://www.caibassanograppa.com
 relation	6873759	http://www.prolocotorrebelvicino.it/percorso-31-%E2%80%93-sentiero-panoramico-della-val-leogra_lit_3_43_11.asp
-relation	6902107	https://sentieroitalia.cai.it/track/si-b09-casera-dignas-bivio-rifugio-calvi/
+relation	6902107	https://sentieroitalia.cai.it/tappa/?id=SI+B09
 relation	6922633	http://www.lifeonthehill.it/sentieri/sentiero-del-risorgimento-a-vicenza/
 relation	6923533	https://www.provincia.pd.it/uploads/piste-ciclabili/Presentazione-Bacchiglione.pdf
 relation	6949632	https://www.caischio.it/
@@ -9210,7 +9213,6 @@ relation	9426202	https://meinfernbus.de/unser-angebot/linien/424.html
 relation	9426203	https://meinfernbus.de/unser-angebot/linien/424.html
 relation	9426321	https://meinfernbus.de/unser-angebot/linien/413.html
 relation	9426322	https://meinfernbus.de/unser-angebot/linien/413.html
-relation	9426323	https://meinfernbus.de/unser-angebot/linien/413.html
 relation	9426368	https://www.cesarebattisti.org/
 relation	9426465	https://meinfernbus.de/unser-angebot/linien/537.html
 relation	9426466	https://meinfernbus.de/unser-angebot/linien/994.html;https://www.fudeks.rs/portfolio/Italy?timetable-id=italy&lang=en
@@ -9317,7 +9319,6 @@ relation	11637422	https://ropewiki.com/Maor
 relation	11637436	https://ropewiki.com/Maggiore
 relation	11641330	https://www.caiauronzo.it/sentieri/74-107-sopra-lago-di-cengia--rif-carducci.html
 relation	11665320	https://www.traildelgevero.it/
-relation	11717071	http://viapostumia.eu/
 relation	11733679	https://www.aidainbici.it
 relation	11740203	http://www.rifugioantelao.com
 relation	11785442	http://www.fortificazioni.net/batterie/CASABIAN.htm
@@ -9462,6 +9463,22 @@ relation	16695336	https://visitborgovalbelluna.it/percorso/zelant-praderadego-co
 relation	16695374	https://visitborgovalbelluna.it/percorso/zelant-praderadego-col-de-moi-n-2313-2313a/
 relation	16882490	https://www.parcocapraro.it
 relation	17028197	https://www.caiasiago.it/858-campanellameletta-davanti
+relation	17186637	http://viapostumia.eu/
+relation	17186714	http://viapostumia.eu/
+relation	17186715	http://viapostumia.eu/
+relation	17188052	http://viapostumia.eu/
+relation	17188053	http://viapostumia.eu/
+relation	17188266	http://viapostumia.eu/
+relation	17188267	http://viapostumia.eu/
+relation	17188438	http://viapostumia.eu/
+relation	17188439	http://viapostumia.eu/
+relation	17188440	http://viapostumia.eu/
+relation	17188441	http://viapostumia.eu/
+relation	17188531	http://viapostumia.eu/
+relation	17188532	http://viapostumia.eu/
+relation	17189045	http://viapostumia.eu/
+relation	17189046	http://viapostumia.eu/
+relation	17189047	http://viapostumia.eu/
 node	64778383	http://www.comune.cittadella.pd.it/
 node	256072226	www.padovafarmacie.it
 node	262650779	http://www.lidopaina.it
@@ -9516,6 +9533,7 @@ node	1359899939	http://www.pizzeriaristorantegianca.com/
 node	1393973113	www.teatroaccademia.it
 node	1399961768	http://www.liceogiorgione.gov.it
 node	1403118331	http://www.mandrillo.com/
+node	1419411256	https://bargiorgione.it/
 node	1419946941	https://www.farmaciafabrospinea.it/
 node	1422538360	https://www.pizzeriaalponte.com/
 node	1422882256	http://alteaerboristeria.it/
@@ -9992,6 +10010,7 @@ node	11513591553	https://www.dagiselda.it/
 node	11541693474	https://www.zentakeaway.it/home-page
 node	11556029286	https://www.osteriafiorenero.it/
 node	11572134998	https://www.tiramisumeria.com
+node	11592585543	https://www.terrebianche.it
 way	27198535	http://basilicadelsanto.org
 way	40460962	https://www.laquercia.it/
 way	42424990	http://www.traiglicinieilsambuco.it/
