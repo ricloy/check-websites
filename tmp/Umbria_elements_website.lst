@@ -188,6 +188,7 @@ node	2147584087	http://www.assisibartrovellesi.com/
 node	2151002402	https://www.hotelclarici.it/
 node	2153791121	https://www.volanteinn.it/
 node	2161270461	https://www.tavernadellorso.it/
+node	2177090236	https://www.cittadelladomenica.it/
 node	2251242503	http://www.residencediamanterosso.it/
 node	2280264801	https://www.sangallo.it/
 node	2280845766	https://www.classichotelterni.com/
@@ -837,6 +838,9 @@ node	11557830749	http://www.piccolorelais-gallettodimarzo.it/
 node	11573959934	https://www.facebook.com/il.cucuzzaro.7/
 node	11585225721	https://www.lasaponaria.it/biostorie-bastia-umbra
 node	11603171691	https://manricoossidi.it/
+node	11621890269	https://www.iluoghidelsilenzio.it/cappella-della-beata-vergine-piedicammoro/
+node	11630376383	https://www.ilgrigioviandante.com/
+node	11632244538	https://www.iluoghidelsilenzio.it/convento-di-santa-croce-sterpare/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1024,7 +1028,6 @@ way	370612644	http://www.hotel-amerino.it/
 way	372366646	https://www.iisorfini.edu.it/
 way	372367186	https://www.ittfoligno.it
 way	372988860	https://www.casavacanzenorcia.it/
-way	372988862	http://lebontadelparco.com/
 way	376388036	www.siami.it/
 way	391912309	www.SanPonziano.it
 way	391912316	http://www.iluoghidelsilenzio.it/?p=1462
@@ -1061,12 +1064,15 @@ way	439163149	http://www.iluoghidelsilenzio.it/?p=13877
 way	439167293	http://www.iluoghidelsilenzio.it/?p=8359
 way	439167304	http://www.iluoghidelsilenzio.it/?p=118582
 way	439181439	https://www.casevacanzeagrifoglio.com/
+way	439197781	https://www.iluoghidelsilenzio.it/chiesa-di-santanna-mocali-di-sellano/
 way	439207844	https://www.casevacanzeagrifoglio.com/
 way	439229974	https://www.iluoghidelsilenzio.it/chiesa-di-san-pietro-forfi-cimitero-sellano/
 way	439275764	https://www.grandhotelelite.it/
+way	439332506	https://www.iluoghidelsilenzio.it/chiesa-di-san-severino-montalbo/
 way	439342705	http://www.iluoghidelsilenzio.it/?p=14822
 way	439402090	http://www.iluoghidelsilenzio.it/?p=137799
 way	439736321	http://www.iluoghidelsilenzio.it/?p=5689
+way	439757949	https://www.iluoghidelsilenzio.it/chiesa-di-santa-chiara-loc-vene/
 way	439863788	https://www.iluoghidelsilenzio.it/?p=252663
 way	439863789	http://www.iluoghidelsilenzio.it/?p=72644
 way	439863830	https://www.iluoghidelsilenzio.it/convento-di-santantonio-monteluco-di-spoleto/
@@ -1146,6 +1152,7 @@ way	522173031	http://www.iluoghidelsilenzio.it/?p=3263
 way	524311645	http://www.iluoghidelsilenzio.it/?p=104011
 way	524475586	http://fiefoligno.it
 way	524632058	http://www.iluoghidelsilenzio.it/?p=14129
+way	524974725	https://www.iluoghidelsilenzio.it/chiesa-di-santa-lucia-cammoro/
 way	527996569	https://www.casalottofrancescano.it/
 way	528127769	https://valdichiascio.net/
 way	528132179	https://www.agriturismoilbeccafico.it/
@@ -1218,6 +1225,7 @@ way	567471026	http://www.iluoghidelsilenzio.it/?p=78300
 way	568086740	http://www.iluoghidelsilenzio.it/?p=236029
 way	568144530	http://www.iluoghidelsilenzio.it/?p=81658
 way	568943271	http://www.primocircolospoleto.it/ita/
+way	569419566	https://m.iluoghidelsilenzio.it/articolo.html?id=chiesa-della-madonna-del-rosario-cammoro-di-sellano-pg&title=Chiesa%20della%20Madonna%20del%20Rosario%20%E2%80%93%20C%C3%A0mmoro%20di%20Sellano%20(PG)
 way	569419855	http://www.iluoghidelsilenzio.it/?p=61519
 way	569971527	http://www.iluoghidelsilenzio.it/?p=135354
 way	571223199	https://m.iluoghidelsilenzio.it/articolo.html?id=eremo-della-madonna-di-panico-panico
@@ -1454,6 +1462,10 @@ way	1243314391	https://m.iluoghidelsilenzio.it/articolo.html?id=chiesa-di-san-mi
 way	1243314397	https://m.iluoghidelsilenzio.it/articolo.html?id=chiesa-di-santa-maria-assunta-orsano&title=Chiesa%20di%20Santa%20Maria%20Assunta%20-%20Orsano
 way	1243314403	https://m.iluoghidelsilenzio.it/articolo.html?id=chiesa-di-santa-maria-o-san-vincenzo-ferrer-orsano&title=Chiesa%20di%20Santa%20Maria%20o%20San%20Vincenzo%20Ferrer%20-%20Orsano
 way	1246639426	https://m.iluoghidelsilenzio.it/articolo.html?id=chiesa-di-san-donato-colletrampo-di-sellano-pg&title=Chiesa%20di%20San%20Donato%20-%20Colletrampo%20di%20Sellano%20(PG)
+way	1249295682	https://www.iluoghidelsilenzio.it/cappella-della-beata-maria-vergine-della-pieta-molini-di-sellano-pg/
+way	1249679042	https://www.iluoghidelsilenzio.it/chiesa-di-santantonio-torre-di-cammoro-di-sellano-pg/
+way	1250037904	https://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-novella-cammoro/
+way	1250057020	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-della-ginestra-pupaggi-di-sellano/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	1948091	https://chemindassise.org/it/
