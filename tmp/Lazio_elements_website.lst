@@ -658,7 +658,7 @@ node	1810022542	http://www.carsharing.roma.it/
 node	1812809988	https://www.comune.viconellazio.fr.it/
 node	1815044994	https://bancacentrolazio.net/
 node	1816064208	http://www.tendarte.eu
-node	1816973702	http://www.ibarberini.it/
+node	1816973702	https://www.ibarberini.it/
 node	1816973718	https://www.onoranzefunebriazeta.com/
 node	1818883225	http://www.comune.orte.vt.it/Home/UfficiDettagli/Uffici?IDUfficio=11127
 node	1825339618	https://www.urbangardenhotelroma.com/
@@ -1843,7 +1843,6 @@ node	4232014990	https://www.palaceinn.it/
 node	4233545417	http://www.tortafragolosa.it/
 node	4233649358	http://www.unicooptirreno.it
 node	4233959889	https://www.hoteldeiborgia.it/
-node	4237302412	https://www.unicredit.it/
 node	4239062215	https://www.garr.it/
 node	4239352103	https://www.facebook.com/Il-Seme-e-la-Foglia-176318615742469/
 node	4239352105	https://www.todis.it/
@@ -4683,7 +4682,7 @@ node	9225162348	https://www.ristorantepigneto.it/
 node	9226942677	https://www.allanticovinaio.com/
 node	9227665911	http://biblioteca-provinciale.provincia.roma.it/
 node	9229855881	https://www.nudiecrudi.com/
-node	9234794165	https://www.sicurezzanazionale.gov.it/sisr.nsf/index.html
+node	9234794165	https://www.sicurezzanazionale.gov.it
 node	9238568606	https://www.sitbusshuttle.com/
 node	9239202100	https://www.coraggioitalia.it/
 node	9239225304	https://www.sinistraitaliana.si/
@@ -5460,7 +5459,6 @@ node	10759819839	https://romamobilita.it/it/carsharing
 node	10759819840	https://romamobilita.it/it/carsharing
 node	10760659788	https://www.ricambiautocidiservice.com/it/
 node	10760752705	https://kebhouze.com
-node	10763843201	http://www.whiterooms.it/
 node	10765722330	https://asicmining.it/
 node	10765792981	https://bandaultralarga.italia.it
 node	10765792982	https://bandaultralarga.italia.it
@@ -5885,7 +5883,7 @@ node	11553248886	https://romamobilita.it/it
 node	11556649483	http://www.lantesrl.com
 node	11559152851	https://www.nextmuseum.net/en/exhibition-locations/next-museum-rome/
 node	11559841569	https://www.maiorestaurant.com/roma/
-node	11566834428	http://pcsoffice.it/
+node	11566834428	https://pcsoffice.it/
 node	11578590078	https://www.hatha-yoga-roma.it/
 node	11578590407	https://www.tangoinprogress.it/
 node	11578639411	https://clinica-iphone.com/cliniche/clinica-iphone-tivoli/
@@ -5899,6 +5897,13 @@ node	11595428110	https://www.hostariaromanaenrico.it/
 node	11601686093	https://www.parkinstation.it/eccellenze/351755-roma-termini-piastra
 node	11608407753	https://cicacicaboom.it/
 node	11608407754	https://pipistrello-nightclub.it/
+node	11609768369	https://www.radissonhotels.com/en-us/hotels/radisson-collection-rome-palazzo-montemartini
+node	11610009096	https://www.erboristeriacastelverde.it
+node	11610009101	http://beautyvanityroma.it/
+node	11610009109	https://www.topphysioroma.it/
+node	11613081037	https://www.mediastore-computer.it/
+node	11634026885	https://mattarellopiazzabologna.it/
+node	11634525860	http://www.rocrimodellismo.com/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6153,6 +6158,7 @@ way	105716086	ristorantesantaseverailmaestrale.com
 way	105781986	http://www.anniverdi.org/
 way	106266541	http://www.pinoalmare.it/
 way	106294737	https://www.cantinaoliveto.com/index.php?id_category=6&controller=category
+way	107045002	www.muralatine.it
 way	107417116	https://www.hoteldesiderioroma.it/
 way	107426367	https://www.leopoldopirelli.edu.it/
 way	108126598	https://villabruschifalgari.it/
@@ -7521,7 +7527,9 @@ way	527060849	https://www.unicredit.it/
 way	527264551	https://www.bim.srl/
 way	528657817	https://www.hilton.com/en/hotels/romeshx-hampton-rome-east/
 way	528658828	http://www.bolapadelclub.com/
+way	528945526	https://paparussopneumatici.it/
 way	528979746	https://www.genazzanobeb.com/rooms/genazzano-bb-la-taverna/
+way	529468862	https://www.comeart.it/
 way	529632451	https://www.risparmiocasa.com/
 way	529674427	https://centroinfissiarredo.com/
 way	529906582	http://www.esriitalia.it/
@@ -8221,6 +8229,7 @@ way	1170884053	https://www.oasidipace.it/
 way	1174518478	https://www.seraphicum.org/
 way	1174518487	https://www.icmontezemolo.edu.it/luoghi?id=951
 way	1176327563	https://www.eurspa.it/it/polo-congressuale/il-palazzo-dei-congressi
+way	1176605639	http://www.whiterooms.it/
 way	1177320386	https://www.chaletdellagoromaeur.it/
 way	1178629265	https://www.camperlapineta.it/
 way	1179785879	https://diendimedia.com/contatti/
