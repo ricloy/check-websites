@@ -129,8 +129,9 @@ node	1117996957	http://www.grassetti.it/
 node	1202390890	https://www.conad.it/ricerca-negozi/negozio.009839.html
 node	1202391084	http://www.farmaciafarmacomfabriano.it/
 node	1231015825	https://www.oasitigre.it/content/genteunika/it/it/il-mio-negozio.510.html
-node	1231713521	https://cobar-ristorazione.it/
-node	1231713528	https://cobar-ristorazione.it/
+node	1231713520	https://www.cobaristorazione.it/cobar-ristorazione-self-service-buffet-82038203stazione-di-ancona.html
+node	1231713521	https://www.cobaristorazione.it/cobar-caffetteria-stazione-di-ancona.html
+node	1231713528	https://www.cobaristorazione.it/caffetteria-pizzeria-stazione-di-ancona.html
 node	1231713544	http://www.taxi-ancona.it/
 node	1232292203	http://www.baiaimperiale.net/
 node	1234855121	https://www.villaserraalta.it/
@@ -288,6 +289,7 @@ node	2311465312	https://www.enel.it/punto-enel/
 node	2313056558	https://negozi.ovs.it/it/negozi/italia/ancona/ovs-senigallia_00129.aspx
 node	2315938842	https://agriturismomoretti.it/
 node	2316408066	http://www.luchettisport.it
+node	2316551050	https://www.acquaesapone.it/puntivendita/chiaravalle-via-che-guevara-60/
 node	2321245149	https://www.conad.it/ricerca-negozi/negozio.009863.html
 node	2323146096	http://www.melania.it
 node	2323146100	https://www.poltronesofa.com/
@@ -543,7 +545,6 @@ node	4175758803	https://studiumanistici.unimc.it/it
 node	4175775203	https://studiumanistici.unimc.it/it/locations/sede-di-via-illuminati-4
 node	4175854779	https://biblioteche.unimc.it/it
 node	4175861097	https://csia.unimc.it/it
-node	4221906897	http://www.sidecar.it
 node	4226559875	https://it.intimissimi.com/
 node	4232479290	https://www.poggioristorante.com/
 node	4237858536	https://romanticapizza.it/pizzerie/pesaro/
@@ -570,6 +571,7 @@ node	4338973860	https://www.ciavattinigarden.it/floreale-del-passetto/
 node	4338987960	http://www.bocasalina.com/
 node	4338999196	https://ristoranteselfgino.it
 node	4338999197	https://plazaportonovo.it/
+node	4339021635	https://www.hopbarpinseria.it/
 node	4340280649	http://www.pizzeriatorrette.ancona.it/
 node	4340538433	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Ancona-Mazzini/1117/
 node	4340538434	https://www.momentidite.it/
@@ -868,7 +870,7 @@ node	7970056275	https://www.bccascioli.it/
 node	7973379752	https://www.ristoranteportoverde.it/
 node	7997430650	https://www.oliopoldo.it/
 node	7997476541	https://www.museodellafisarmonica.it/
-node	7997492032	https://www.facebook.com/pages/Nonna-Triestina/202065080632267
+node	7997492032	https://www.facebook.com/p/Trattoria-Nonna-Triestina-100057245987935/
 node	7997500914	https://www.sistemamuseo.it/ita/2/musei/43/santelpidio-a-mare-marche-museo-della-calzatura-cav-vincenzo-andolfi/
 node	7997568800	http://www.gelateriadelporto.it/
 node	8004103813	http://www.fotostudioimmagini.com
@@ -1420,6 +1422,9 @@ node	11594013959	https://www.farmaciacardinali.it/
 node	11594013960	https://www.farmaciagriffoni.it/
 node	11597933187	https://www.loretomultiservizi.it/loreto-multiservizi/farmacia-comunale/
 node	11598400368	https://www.zeroglutineancona.it/
+node	11610458845	http://www.ristorantedellerose.it/
+node	11632234036	http://www.farmaciabucci.it/
+node	11632443424	https://www.mcdonalds.it/ristorante/marche/macerata/montecassiano
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1755,6 +1760,7 @@ way	439016112	http://www.rifugiosibilla1540.com/
 way	439208734	https://www.iluoghidelsilenzio.it/chiesa-della-romita-a-croce-visso-mc/
 way	439644620	https://sol.bibliomarchenord.it/opactest/library/FRONTONE%20-%20Biblioteca%20Comunale/URB$CNFRONTONE
 way	440671434	https://rifugiocollelecese.it/
+way	444189301	http://www.sidecar.it
 way	445824345	https://teatrodelleapi.it/
 way	447985152	https://www.corteconti.it/Home/Organizzazione/UfficiCentraliRegionali/UffMarche
 way	449760449	https://www.unicam.it/
@@ -2037,6 +2043,7 @@ relation	16757488	https://camminoterremutate.org/
 relation	17065001	http://www.turismoffida.com/it/naturalmenteoffida.html
 relation	17189410	https://parrocchiachiaravalle.it/
 relation	17189505	https://www.diocesi.ancona.it/
+relation	17206971	http://www.prelaturaloreto.it/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
