@@ -113,6 +113,9 @@ node	11178825321	https://www.labottegadegliangeligolosi.it/
 node	11178840459	https://www.capracotta.com/
 node	11453972769	https://paolino.it/
 node	11506211733	https://www.inail.it/cs/internet/istituto/struttura-organizzativa/uffici-territoriali/molise.html
+node	11618891515	http://www.studiopolisena.it
+node	11626368897	https://dnameccanica.com/
+node	11626453762	https://www.caimontaquila.it/
 way	62075956	https://www.musei.molise.beniculturali.it/musei?mid=934&nome=castello-di-civitacampomarano
 way	67731527	https://www.hotelmeridiano.com/it/ristorante-luna-restaurant.html/
 way	67731795	https://www.hotelmistral.net/it/
@@ -276,10 +279,8 @@ relation	1085623	http://www.altovastese.it/ambient/il-sito-di-interesse-comunita
 relation	4034536	http://www.ilgiardinoparlante.com/mappa-interattiva/
 relation	4037638	https://www.musei.molise.beniculturali.it/musei?mid=214&nome=museo-nazionale-di-castello-pandone
 relation	4462553	http://musei.beniculturali.it/musei?mid=6027&nome=museo-archeologico-santa-maria-delle-monache
-relation	6087791	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	8134422	http://www3.regione.molise.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/657
 relation	9075394	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
-relation	9088794	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	9206442	https://www.tenutemartarosa.com/
 relation	9210464	https://www.claudiocipressi.it/site/it/home/
 relation	9210480	https://www.claudiocipressi.it/site/it/home/
@@ -288,8 +289,6 @@ relation	9210715	https://www.vinica.it/it/
 relation	9544178	http://turismo.provincia.campobasso.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/407
 relation	9574955	https://www.era-ewv-ferp.org/e-paths/e1/
 relation	9796879	https://www.parcoabruzzo.it/sentiero.php?id_iti=4229
-relation	10092992	https://meinfernbus.de/unser-angebot/linien/n431.html
-relation	10092993	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	11067511	http://www.istitutomnicomprensivotrivento.gov.it/
 relation	12227294	https://www.consorziobonificasud.it/
 relation	13743212	https://www.kalenartemaack.com/
@@ -301,6 +300,7 @@ relation	16953052	https://www.ilcamminodellapace.it
 relation	16978897	https://www.ilcamminodellapace.it
 relation	16990869	https://www.ilcamminodellapace.it
 relation	16990968	https://www.ilcamminodellapace.it
+way	261652608	https://www.m2movement.it/
 way	1056651661	https://www.rivazzurrahomes.it
 way	1076684927	https://www.calasveva.it/
 way	1076684935	https://ildelfino.wordpress.com/
