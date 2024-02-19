@@ -2063,10 +2063,12 @@ node	11570059544	https://www.mobilificiosc.it/
 node	11572441888	https://www.poste.it/
 node	11584102227	https://www.tenutacesano.bio/
 node	11591478307	https://www.boxeseco.it/
+node	11591587480	https://m.facebook.com/people/Caffetteria-Bistrot-Duemila/100064588193171/
 node	11598961460	https://www.escaperoombarletta.com/
 node	11608392521	https://www.pinacotecabari.it/
-node	11608490524	http://www.ilmulinopizzeria.it/
+node	11608490524	https://ilmulinopizzeria.it/
 node	11610544243	http://www.palazzomariano.it/
+node	11631042369	http://www.museodelpaneforte.it
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -3036,7 +3038,9 @@ way	1191893479	https://www.residenceelena.it/
 way	1192823985	https://www.residencetramonti.com/
 way	1192823986	https://www.portoselvaggioresort.it/
 way	1202035702	https://www.tenutadonmonaco.it/
+way	1213885905	https://www.sanita.puglia.it/web/asl-foggia/poliambulatori_det/-/journal_content/56/36044/poliambulatorio-zapponeta
 way	1218481873	https://cittadellasantamargherita.it/
+way	1220214602	https://www.bibliotecacomunalegdipalmazapponeta.com/home-page
 way	1223814198	https://www.pacinottitaranto.edu.it/
 way	1226460371	https://www.japigiaii-torreamare.edu.it/
 way	1227656766	https://www.foodbeveragesrl.it/
@@ -3082,7 +3086,6 @@ relation	5711287	http://www.cdmancini.it/
 relation	5995040	https://www.albergopalazzo.it/
 relation	6032730	https://www.comune.trepuzzi.le.it/
 relation	6062516	http://www.comune.santagatadipuglia.fg.it/cmpro-v-p-92.html
-relation	6087791	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	6097292	https://questure.poliziadistato.it/BarlettaAndriaTrani
 relation	6106077	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150134&pagename=157031
 relation	6121085	https://www.icdeamicisgiovanni23.edu.it/scuola-sec-i-grado.html
@@ -3104,7 +3107,6 @@ relation	8055419	http://www.iczannotti.edu.it/sito1/index.php
 relation	8055449	https://www.pestalozzi.edu.it/
 relation	8221789	http://parcodellegravine.provincia.ta.it/
 relation	8281520	https://www.tap-ag.com/
-relation	9088794	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	9122913	https://www.eoshotel.it/
 relation	9288466	https://mappasentieroitalia.cai.it/#/main/details/1742
 relation	9288543	https://mappasentieroitalia.cai.it/#/main/details/1743
@@ -3118,8 +3120,6 @@ relation	9647014	https://italy-cycling-guide.info/cycle-routes/coastal-rides/pug
 relation	9651733	https://italy-cycling-guide.info/cycle-routes/coastal-rides/puglia-tour/
 relation	9763706	https://www.parcoaltamurgia.gov.it
 relation	10048058	https://www.aeroportidipuglia.it/
-relation	10092992	https://meinfernbus.de/unser-angebot/linien/n431.html
-relation	10092993	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	10927680	www.guidedocartis.it/?page_id=35032
 relation	11081386	https://scuoladuse.gov.it
 relation	11103068	https://www.lamaforca.it/
