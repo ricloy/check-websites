@@ -378,7 +378,7 @@ node	3406563713	https://www.4emme.net/
 node	3414564354	https://www.garagecentrale1958.it
 node	3423651159	https://www.salderiso.it/
 node	3427592443	http://www.amalfitrattoriadamaria.com/
-node	3427659915	http://www.farfalleegabbiani.it/
+node	3427659915	https://www.farfalleegabbiani.it/
 node	3429881327	http://www.ilportoncino.com
 node	3429881328	https://www.napoli.city-sightseeing.it/
 node	3431280691	https://www.ristorantemarinagrande.com/
@@ -2097,6 +2097,8 @@ node	11066535313	https://caffesansone.com/
 node	11066698714	https://www.instagram.com/grandmabigburgers/
 node	11067635629	https://www.estintorionline.it/
 node	11069364718	http://www.shuki.it
+node	11074710696	https://mixmarkt.it/negozi/mini-mix-napoli-corso-arnaldo-lucci/
+node	11074773108	https://mixmarkt.it/negozi/mix-markt-napoli-na-via-galileo-ferraris/
 node	11074773111	https://www.smeraglia.clinic/
 node	11074773112	https://www.sanident.com/
 node	11074773122	https://www.puglieseottica.it/
@@ -2235,16 +2237,21 @@ node	11473300113	https://www.forexchange.it/agenzie/napoli-f-s
 node	11477201909	https://www.italytoner.it/
 node	11477201912	https://www.cmrdesignco.com/
 node	11497592558	http://www.agriturismolatempa.it/
-node	11519504042	http://www.fiortramonti.it/
+node	11519504042	https://www.fiortramonti.it/
 node	11524496203	https://ilgiardinodorato.it/
 node	11525140800	https://borgosantandrea.it/it/sito-ufficiale/
 node	11530264327	https://www.trattorianennella.it/
-node	11537676837	http://www.ilcefalo.it/
+node	11537676837	https://www.ilcefalo.it/
 node	11552263526	https://www.fondazionedefilippo.it/
-node	11564806066	http://www.paradisodilettere.com/
+node	11564806066	https://www.paradisodilettere.com/
 node	11565710869	https://www.lapizzadivincenzomansi.it/
 node	11576376100	https://www.villadurrueli.it
 node	11582070666	https://www.agriturismolaforesta.com/
+node	11622612833	"https://nextcharge.app/map?lang=it&station=OCPI-287-IT*MEC*PME00015&provider=MeCharge&location=41.064707,14.408889"
+node	11623208269	https://www.booking.com/hotel/it/home-olympus-vesuvio.html
+node	11630608822	https://www.verisure.it/
+node	11638058678	https://lasolara.com
+node	11638058872	https://villasabrinasorrento.com
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -3259,6 +3266,7 @@ way	1184025680	http://www.royalbowling.it
 way	1186171664	https://www.icolevanost.edu.it/
 way	1186171944	https://www.icolevanost.edu.it/
 way	1188603658	https://www.tenutatambaro.it/
+way	1189690360	https://www.asianapoli.it/
 way	1193868855	www.bvsm.it
 way	1194031649	https://www.comune.pietrelcina.bn.it/
 way	1194031657	https://www.cappuccinipietrelcina.it
@@ -3326,6 +3334,10 @@ relation	4628311	https://www.caimontilattari.it/sentiero/336/
 relation	4757514	https://www.caimontilattari.it/sentiero/327/
 relation	4761938	https://www.caimontilattari.it/sentiero/329/
 relation	4761993	https://www.caimontilattari.it/sentiero/338b/
+relation	4763658	https://www.caimontilattari.it/sentiero/324a/
+relation	4763694	https://www.caimontilattari.it/sentiero/326/
+relation	4767751	https://www.caimontilattari.it/sentiero/328
+relation	4767762	https://www.caimontilattari.it/sentiero/329a/
 relation	4768295	https://www.caimontilattari.it/sentiero/336a/
 relation	4768303	https://www.caimontilattari.it/sentiero/336c/
 relation	4768306	https://www.caimontilattari.it/sentiero/338/
@@ -3340,7 +3352,6 @@ relation	5341891	https://www.vesuviosorrento.com/
 relation	5407110	http://www.museoalfonsiano.it/node/40
 relation	5424672	http://www.pompeiisites.org/Sezione.jsp?titolo=La+casa+dell%27albergo&idSezione=188
 relation	6047432	https://www.comune.torreannunziata.na.it/hh/index.php
-relation	6087793	https://meinfernbus.de/unser-angebot/linien/532.html
 relation	6179936	https://www.foqusnapoli.it/
 relation	6181836	http://www.ogmotors.com
 relation	6183464	http://www.santuariosangennaro.it
@@ -3359,7 +3370,6 @@ relation	8552756	http://www.giurisprudenza.unina2.it/
 relation	8552758	http://www.comune.santa-maria-capua-vetere.ce.it/
 relation	8758441	"http://www.pompeiisites.org/Sezione.jsp?titolo=terme%20stabiane%20(vii,2)&idSezione=607"
 relation	8758442	www.pompeiisites.org/Sezione.jsp?titolo=I+misteri+e+la+Villa+dei+Misteri&idSezione=6958
-relation	9046336	https://meinfernbus.de/unser-angebot/linien/532.html
 relation	9075394	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	9356515	https://www.cattedraledisalerno.it/
 relation	9391853	http://www.boscodicapodimonte.it/
