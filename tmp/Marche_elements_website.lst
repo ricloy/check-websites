@@ -58,7 +58,6 @@ node	644135437	https://www.villasanmarco.it/
 node	647384024	https://www.gabrielliunika.it/it/il-mio-negozio.425.html
 node	653001436	https://www.conad.it/ricerca-negozi/negozio.009949.html
 node	658940303	https://stores.oltre.com/it/italia/ascoli-piceno/ascoli-piceno-zona-industriale-campolungo
-node	659630533	https://osteriadellapiazza.com/it/
 node	659630555	https://www.acquaesapone.it/puntivendita/ancona-via-giordano-bruno-85/
 node	659630594	http://www.e-coop.it/punti-vendita-dettaglio?id=4119
 node	660051170	https://muda-bar.eatbu.com/
@@ -136,6 +135,7 @@ node	1231713544	http://www.taxi-ancona.it/
 node	1232292203	http://www.baiaimperiale.net/
 node	1234855121	https://www.villaserraalta.it/
 node	1237351323	https://www.immobiliareserini.it/
+node	1238991009	https://www.ristorantepizzeriaricominciodadue.com/
 node	1238991017	http://www.trattorialacantineta.it/
 node	1238991022	https://www.trattoriaulderico.com/
 node	1238991031	http://www.siconte.it/it/punti-vendita/si-supermercati/supermercati-ancona-via-matteotti
@@ -593,6 +593,7 @@ node	4358044189	https://www.superconti.eu/punti-vendita/camerino/
 node	4358133005	https://www.hopscivitanovamarche.it/
 node	4381498225	https://www.lagodioz.it/
 node	4395316189	https://www.fcelectro.it/
+node	4395363191	https://www.travelbuyancona.it
 node	4395473448	https://www.fiditalia.it/filiali/provincia-ancona/382-ancona-corso-amendola--13-b
 node	4395473453	https://www.brokey.it/
 node	4395473476	https://www.mangioergosum.it/
@@ -738,6 +739,7 @@ node	6185797367	https://colle-del-lupo.com/
 node	6209837276	http://www.winenotancona.it/
 node	6241779859	https://www4.istat.it/it/istituto-nazionale-di-statistica/organizzazione/sedi-territoriali/marche
 node	6272805489	https://loscrignotrend.it/
+node	6282026920	https://dominaimmobiliare.com/
 node	6285170496	https://poldoburgerbar.eatbu.com
 node	6287203839	https://www.cgilancona.it/orari-e-servizi-2/
 node	6305629547	https://www.rossoconero.it/
@@ -773,6 +775,7 @@ node	6780410058	https://www.gate-away.com
 node	6823873570	http://www.farmaciafortuna.it/
 node	6828345292	https://www.farmaciablasi.it/Home-Page
 node	6832789217	https://www.facebook.com/farmaciasalaria/
+node	6858926135	https://www.pastalamadia.it/
 node	6872910286	https://ilmandriano.it/
 node	6883678069	https://www.timelessbrand.it/
 node	6893523311	https://www.facebook.com/FarmaCP/
@@ -1092,6 +1095,7 @@ node	9981346936	https://ravalfamily.it/terrazzaraval/
 node	9981691643	http://ilbiroccio.com
 node	9981749117	https://www.sirpatrickpizzeria.it/
 node	9981792712	https://www.ristorantepatchankabistrot.it/
+node	9981792739	https://farmaciamercuri.it/
 node	9981792748	https://www.supermercatimadis.com/wp/?page_id=725
 node	9984156449	https://restaurantguru.it/Pizzeria-King-Filottrano
 node	9984190143	https://www.fondazioneferretti.org/
@@ -1425,6 +1429,8 @@ node	11598400368	https://www.zeroglutineancona.it/
 node	11610458845	http://www.ristorantedellerose.it/
 node	11632234036	http://www.farmaciabucci.it/
 node	11632443424	https://www.mcdonalds.it/ristorante/marche/macerata/montecassiano
+node	11645576334	http://www.unsognonellemani.com/
+node	11646914774	https://www.lasaponaria.it/biostorie-fano
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1948,7 +1954,7 @@ way	1226716982	https://ambiente.regione.emilia-romagna.it/it/parchi-natura2000/a
 way	1227135666	https://www.oasitigre.it/content/ot/it/it/il-mio-negozio.546.html
 way	1242775991	https://www.vigilfuoco.it/sitivvf/fermo/
 way	1244772646	https://www.villaderuschi.it/
-way	1247118038	http://www.ipsiacorridoni.edu.it/
+way	1247118038	https://www.ipsiacorridoni.edu.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -1960,7 +1966,6 @@ relation	3415695	http://www.parcodelconero.com
 relation	4053386	https://www.civicatolentino.it/servizi-asp-civica-tolentino/servizi-residenziali-asp-tolentino-macerata.html
 relation	4163743	https://www.hotelpalace.net/
 relation	6029931	http://www.avioclubfano.com/
-relation	6087791	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	6594890	https://www.comune.barbara.an.it/po/mostra_news.php?id=217
 relation	6677755	https://www.pinacotecafabriano.it/
 relation	7429583	https://rivaverde.it/
@@ -1978,7 +1983,6 @@ relation	8438504	https://www.casacultureancona.it/il-sentiero/
 relation	9068487	https://www.gruppozaffiro.it/residenze/marche/residenza-cappuccini/
 relation	9074536	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	9075394	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
-relation	9088794	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	9292581	http://www.ospedaliriuniti.marche.it
 relation	9316026	http://www.sibillini.net/
 relation	9316027	http://www.sibillini.net/
@@ -1997,8 +2001,6 @@ relation	9316453	http://www.sibillini.net/
 relation	9545582	https://www.flixbus.de/busverbindung/fernbus-ancona-muenchen
 relation	9545583	https://www.flixbus.de/busverbindung/fernbus-muenchen-ancona
 relation	9758071	https://www.villa-valente.com
-relation	10092992	https://meinfernbus.de/unser-angebot/linien/n431.html
-relation	10092993	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	10579798	http://www.actml.it/
 relation	10631731	http://www.coloniacagnano.it/
 relation	11037908	https://www.villaligi.it/
@@ -2044,6 +2046,7 @@ relation	17065001	http://www.turismoffida.com/it/naturalmenteoffida.html
 relation	17189410	https://parrocchiachiaravalle.it/
 relation	17189505	https://www.diocesi.ancona.it/
 relation	17206971	http://www.prelaturaloreto.it/
+relation	17239577	https://www.jesidiocesi.it/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
