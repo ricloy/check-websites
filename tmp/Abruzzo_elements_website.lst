@@ -2952,6 +2952,7 @@ node	11564318705	https://www.ksolutionssrl.com/
 node	11593887068	https://www.cai.it/sezione/atessa/
 node	11622201690	https://italia.indettaglio.it/ita/abruzzo/laquila_pescocostanzo_villaggiosantantonio.html
 node	11622396022	https://www.studioserafiniassociati.it/
+node	11640332329	https://www.pasticceriaregina.it/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -3904,6 +3905,7 @@ way	1242961312	https://www.todis.it/
 way	1242975124	https://www.peanorosaonline.edu.it/
 way	1244766524	https://www.prolocopacentro.it/
 way	1246957401	https://archidiap.com/opera/chiesa-di-cristo-re-a-sulmona/
+way	1254275562	https://www.camping.it/en/abruzzo/scheda-846.aspx
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -3915,7 +3917,6 @@ relation	3389624	http://www.abruzzomotori.com
 relation	3389625	https://www.eurocot.it/
 relation	4854843	http://www.villamonrepos.it
 relation	5620482	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-spirito-al-morrone/
-relation	6087791	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	6965509	https://www.colledeilupi.it/
 relation	7401586	https://sentieroitalia.cai.it/
 relation	7401587	https://sentieroitalia.cai.it/
@@ -3938,7 +3939,6 @@ relation	8708400	https://ec.univaq.it/index.php?id=67
 relation	8733540	https://www.hotelfedericosecondo.it
 relation	8902372	https://www.circolotennisaquila.it/
 relation	9075394	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
-relation	9088794	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	9111200	https://www.euromaster-pneumatici.it/montaggio-pneumatici/AQ/l-aquila/9798-euromaster-auto-in-aquila
 relation	9193471	https://www.sergiodelcasale.com/
 relation	9193472	http://www.jasci.it/
@@ -3951,8 +3951,6 @@ relation	9642197	https://www.consaq.it/
 relation	9694418	https://www.iisbafile.edu.it/
 relation	9708693	https://trasparenza.comune.laquila.it/archivio13_strutture_0_2747.html
 relation	9880142	https://www.castellodisemivicoli.com/
-relation	10092992	https://meinfernbus.de/unser-angebot/linien/n431.html
-relation	10092993	https://meinfernbus.de/unser-angebot/linien/n431.html
 relation	10287535	http://www.tecnopolodabruzzo.it
 relation	10611947	https://www.canadianhotel.it
 relation	10631493	http://www.dompe.com/polodeLAquila/
@@ -4135,6 +4133,11 @@ relation	16951053	https://www.ilcamminodellapace.it
 relation	16951386	https://www.ilcamminodellapace.it
 relation	16953052	https://www.ilcamminodellapace.it
 relation	17141221	https://piantando.it/project/silva/
+relation	17244850	https://camminodelgransasso.it/
+relation	17246950	https://camminodelgransasso.it/
+relation	17247273	https://camminodelgransasso.it/
+relation	17247851	https://camminodelgransasso.it/
+relation	17247876	https://camminodelgransasso.it/
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
