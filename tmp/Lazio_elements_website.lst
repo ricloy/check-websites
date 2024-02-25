@@ -451,6 +451,7 @@ node	1403618207	https://www.comune.tuscania.vt.it/
 node	1404380020	https://www.termo.com
 node	1404388771	https://www.termo.com
 node	1404450674	http://www.stravato.it
+node	1409366993	https://www.carrefour.it/punti-vendita/carrefour-express-bracciano-via-traversini-snc-0788.html
 node	1409371971	https://idroscalobracciano.it/
 node	1412049041	http://www.beausiterome.com/
 node	1413977904	https://pmi.katolikus.hu/
@@ -880,6 +881,7 @@ node	2267113048	http://www.ristorante3scalini.it
 node	2267121923	https://www.salumeriaroscioli.com/
 node	2267127838	http://www.ilsanlorenzo.it
 node	2267137974	https://www.baladin.it/it/i-locali/open-baladin-roma
+node	2268107186	http://boscofficine.com/
 node	2269519020	https://www.ristorantejaipur.com/
 node	2269768727	https://www.fotodigitaldiscount.it/
 node	2270350036	https://www.enjoypizza.it/
@@ -1454,6 +1456,7 @@ node	3385918011	https://bludental.it/dentista-roma-nord-balduina-cipro-bludental
 node	3388069411	https://miatintoria.it/
 node	3393609605	https://www.ciclirossi.com/
 node	3394164813	http://www.aristongaeta.it
+node	3394186923	https://www.bancaetica.it/filiale/filiale-di-roma/
 node	3395331362	ciroristorante.it
 node	3398932345	https://caicolleferro.it
 node	3400262453	https://www.hotelnordnuovaroma.it/
@@ -3309,7 +3312,6 @@ node	6180677369	https://parcocolosseo.it/
 node	6181195160	https://www.damianipellami.com/
 node	6181525986	https://pizzium.com/
 node	6185600359	https://benderpub.it/
-node	6185696790	http://brylla.it
 node	6185714586	http://ristoranteilgarigliano.it
 node	6185755385	http://crashroma.it
 node	6188611092	https://www.prolocopinciano.it/
@@ -4946,6 +4948,7 @@ node	9840550248	https://www.viaggiwanderlust.it
 node	9840550250	https://partitodemocraticovalmontone.wordpress.com/
 node	9841050946	http://www.alladolcevita.it
 node	9841221776	https://www.flowerburger.it/negozi/flower-burger-roma-alessandria/
+node	9846385513	https://lesmaudits.it
 node	9849945206	https://www.ccampo.flazio.com/home
 node	9856809217	https://daddy1onutz.wixsite.com/home/
 node	9857146322	https://www.ecomedicaonline.it
@@ -5887,7 +5890,7 @@ node	11566834428	https://pcsoffice.it/
 node	11578590078	https://www.hatha-yoga-roma.it/
 node	11578590407	https://www.tangoinprogress.it/
 node	11578639411	https://clinica-iphone.com/cliniche/clinica-iphone-tivoli/
-node	11579572580	www.lollagelato.it
+node	11579572580	https://www.lollagelato.it/
 node	11583986000	https://www.elitepapersolutions.it
 node	11591180928	https://www.daitoscani.com/
 node	11593896214	https://www.caisora.it
@@ -5904,6 +5907,12 @@ node	11610009109	https://www.topphysioroma.it/
 node	11613081037	https://www.mediastore-computer.it/
 node	11634026885	https://mattarellopiazzabologna.it/
 node	11634525860	http://www.rocrimodellismo.com/
+node	11637752535	https://www.bancaetica.it/
+node	11642929577	https://studiokumariabilitazione.business.site/
+node	11657407103	https://www.cdca.it/
+node	11657407105	https://fondazione-bm.org/
+node	11659414639	http://www.fisiomizar.com/
+node	11659814871	http://mimiecoco.com
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -8092,6 +8101,7 @@ way	1072006927	https://www.operasantedesanctis.it/
 way	1073276243	http://www.icartemisiagentileschi.edu.it/
 way	1074052543	https://www.agriresortleporcine.it/
 way	1074877994	https://www.tribunale.roma.it/
+way	1075172483	https://www.circolotennisdellastampa.it/
 way	1075471796	https://www.facebook.com/Falesia-di-Campo-Staffi-Fr-106140935174171/photos/pcb.176116491509948/176116468176617/
 way	1075775967	http://www.facebook.com/renato2765/
 way	1075805951	https://www.policlinicoumberto1.it/unita/neuropsichiatria-infantile/
@@ -8475,8 +8485,6 @@ relation	5926251	https://www.comune.roma.it/web/it/municipio-viii.page
 relation	6004829	http://www.icleonardodavinci.eu
 relation	6076493	https://www.flixbus.de/busverbindung/fernbus-rom-roma-muenchen
 relation	6076494	https://www.flixbus.de/busverbindung/fernbus-rom-roma-muenchen
-relation	6087792	https://meinfernbus.de/unser-angebot/linien/522.html
-relation	6087793	https://meinfernbus.de/unser-angebot/linien/532.html
 relation	6099297	https://www.castellodifumone.it/
 relation	6178828	http://www.liceoburatti.gov.it/
 relation	6201614	https://www.viefrancigene.org
@@ -8584,23 +8592,11 @@ relation	8748353	https://www.fondazionemaxxi.it
 relation	8828428	http://www.scientificolinguistico-innocenzo12.edu.it/
 relation	8848984	https://www.flixbus.de/busverbindung/fernbus-muenchen-rom-roma
 relation	8886362	https://www.flixbus.de/busverbindung/fernbus-muenchen-rom-roma
-relation	9044844	https://meinfernbus.de/unser-angebot/linien/522.html
-relation	9046336	https://meinfernbus.de/unser-angebot/linien/532.html
 relation	9075394	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	9217656	https://www.interparkingitalia.it/
 relation	9240368	https://www.casadicuravillaimmacolata.it/
 relation	9359584	http://www.monteranoriserva.com
 relation	9359705	http://www.monteranoriserva.com
-relation	9368194	https://meinfernbus.de/unser-angebot/linien/534.html
-relation	9368195	https://meinfernbus.de/unser-angebot/linien/534.html
-relation	9384020	https://meinfernbus.de/unser-angebot/linien/533.html
-relation	9384021	https://meinfernbus.de/unser-angebot/linien/533.html
-relation	9384218	https://meinfernbus.de/unser-angebot/linien/n533.html
-relation	9384220	https://meinfernbus.de/unser-angebot/linien/n533.html
-relation	9384523	https://meinfernbus.de/unser-angebot/linien/n997.html
-relation	9384524	https://meinfernbus.de/unser-angebot/linien/n997.html
-relation	9423938	https://meinfernbus.de/unser-angebot/linien/n530.html
-relation	9423939	https://meinfernbus.de/unser-angebot/linien/n530.html
 relation	9702648	https://www.parcobracciano.it/
 relation	9702664	https://www.parcobracciano.it/
 relation	9706231	https://www.parcobracciano.it/
@@ -9113,6 +9109,7 @@ node	4793208029	https://www.caffedelfalco.it/
 node	4812119822	http://www.myale.net/
 node	4817311427	https://www.comingout.it/
 node	4832467222	https://www.dapaoloalmiralagomontefiascone.it/
+node	4839408522	https://rosemary.bio/
 node	4872466256	http://www.lacasadelcremolato.com/
 node	4890074524	https://agustarello-a-testaccio.jimdosite.com/
 node	4937342021	http://www.grazieadioevenerdi.com
@@ -9223,6 +9220,7 @@ node	11384524908	https://www.bancolibri.it/store/bancolibri-cinecitta/
 node	11384624621	https://airbnb.com/h/pignetovillage
 node	11428658844	http://www.ssassunta.it/
 node	11428658846	https://www.ssmlsandomenico.it/
+node	11638032638	https://book.staydaplace.com/roma/gran-torino-suites
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
 way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
 way	61011575	https://bagnaccio.it/
@@ -9284,6 +9282,7 @@ way	1162435641	https://club-ristorante.business.site/
 way	1169435607	https://www.todis.it/
 way	1170885901	https://www.acquaparkfontevivola.it/
 way	1192049735	https://lanticafattoria.it/
+way	1252801477	https://www.romaworld.com/
 relation	1026680	https://www.oasidigreccio.it/
 relation	1578095	http://casamadrenazarena.it/
 relation	2562181	http://www.universitadeibambini.it/Libera_Universita_dei_Bambini/I._Home_Page.html
