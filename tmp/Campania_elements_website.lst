@@ -341,6 +341,7 @@ node	3071702235	http://figlemichele.altervista.org/
 node	3077489374	https://www.douceatmosphere.com
 node	3081521023	http://www.elbodeguero.it/
 node	3093794614	https://villavesuviana.it/
+node	3095624333	https://www.casaleantonietta.com/
 node	3106284041	https://www.spazivolta.it/
 node	3106295729	https://www.pizzeriatrianon.it/
 node	3106299632	https://www.sorbillo.it/
@@ -2252,6 +2253,13 @@ node	11623208269	https://www.booking.com/hotel/it/home-olympus-vesuvio.html
 node	11630608822	https://www.verisure.it/
 node	11638058678	https://lasolara.com
 node	11638058872	https://villasabrinasorrento.com
+node	11649455329	https://www.capperichepizza.com/
+node	11649455330	http://www.delucacartaria.it/
+node	11649455331	http://www.autodue.it/
+node	11652580071	www.cooperativasociale.it
+node	11653228053	https://www.meteoproject.it/ftp/stazioni/rifugiocervati/index.php
+node	11659633962	https://www.gtoresorts.com/atlantic-palace/
+node	11663643698	https://www.carranofuneral.com
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2360,6 +2368,7 @@ way	188073168	https://www.centrocommercialeisanniti.com/
 way	188278613	https://retemuseale.provincia.benevento.it/complesso-monumentale-di-santilario
 way	192699311	http://www.pompeiisites.org/Sezione.jsp?titolo=Memorial+Arches&idSezione=2306&lookfor=forum
 way	193043746	http://www.comprensivomilani.it/
+way	195732082	https://www.acquaparkisolaverde.it/
 way	197967727	https://www.cilentooutlet.com/
 way	198945590	https://parconazionaledelvesuvio.it/pnv/visitailparco/sentiero_somma.asp
 way	199114381	https://parconazionaledelvesuvio.it/pnv/visitailparco/sentiero_somma.asp
@@ -2424,6 +2433,7 @@ way	232658798	https://www.globomoda.com/
 way	235552609	http://www.villacasale.org
 way	237075566	https://osservatorio.astrocampania.it/
 way	237532916	https://www.cartotrekking.com/
+way	237581413	https://www.convienexxl.it/
 way	238993371	https://www.lidofaro.com/
 way	239182636	https://www.capritourism.com/en/article?article1_id=1782
 way	239574196	https://www.comuneischia.it/
@@ -3079,6 +3089,7 @@ way	976380533	https://www.conad.it/ricerca-negozi/negozio.008887.html
 way	976380535	https://www.conad.it/ricerca-negozi/negozio.050291.html
 way	978562063	http://www.ildecumanoshoppingcenter.com
 way	978792468	https://parcodellaquarantena.it/
+way	979561370	https://www.campingsalerno.it/
 way	980396884	https://www.supermercatipiccolo.it/
 way	980969303	https://parconazionaledelvesuvio.it/pnv/visitailparco/sentiero_somma.asp
 way	981019427	http://www.icdassisinicolaamore.edu.it
@@ -3297,7 +3308,10 @@ way	1235820858	https://www.hotelsica.it/
 way	1238339379	https://www.comune.maddaloni.ce.it/
 way	1243462595	https://www1.agenziaentrate.it/indirizzi/agenzia/uffici_locali/lista.htm?m=2&pr=BN
 way	1245525822	https://www.enerfuel-carburanti.it
-way	1245536865	http://www.scuolareginacarmeli.it
+way	1245536865	https://www.scuolareginacarmeli.it/
+way	1253189580	https://www.hotelolimpico.it/
+way	1253189581	https://quadrifoglio.eu/
+way	1253302536	https://www.oldwildwest.it/code/25807/Salerno-C-C-Siniscalchi
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3338,6 +3352,10 @@ relation	4763658	https://www.caimontilattari.it/sentiero/324a/
 relation	4763694	https://www.caimontilattari.it/sentiero/326/
 relation	4767751	https://www.caimontilattari.it/sentiero/328
 relation	4767762	https://www.caimontilattari.it/sentiero/329a/
+relation	4767775	https://www.caimontilattari.it/sentiero/329b/
+relation	4767794	https://www.caimontilattari.it/sentiero/329c/
+relation	4767797	https://www.caimontilattari.it/sentiero/329d/
+relation	4767810	https://www.caimontilattari.it/sentiero/329e/
 relation	4768295	https://www.caimontilattari.it/sentiero/336a/
 relation	4768303	https://www.caimontilattari.it/sentiero/336c/
 relation	4768306	https://www.caimontilattari.it/sentiero/338/
