@@ -393,7 +393,6 @@ node	2298340336	https://www.facebook.com/pg/pasticceriascalvini/about/?ref=page_
 node	2299779301	www.dammideltugenova.it
 node	2302202099	https://retelimet.centrometeoligure.it/meteo-pratorotondo/pratocam/pratocam.php
 node	2304263443	https://www.enel.it/punto-enel/
-node	2304263444	https://www.enel.it/punto-enel/
 node	2304263464	https://www.enel.it/punto-enel/
 node	2304263477	https://www.enel.it/punto-enel/
 node	2305069512	https://www.mcdonalds.it/ristorante/275
@@ -1012,6 +1011,7 @@ node	4621414373	http://www.villagentile.com
 node	4621414375	www.lagrottaazzurra.com
 node	4621414385	https://nazionale.it/
 node	4621414387	https://www.primaverahotel.com/
+node	4628587875	https://www.obiettivodanza.net
 node	4657689362	https://www.lacomunita.it/
 node	4674399419	https://mercanautica.it/
 node	4674415922	https://bar-gelateria-emozioni-di-caffe.business.site/
@@ -1087,7 +1087,6 @@ node	4964750710	www.proreccoarrampicata.it/
 node	4971257221	http://www.bagnimatuzia.it
 node	4977048545	https://www.campingfinaleligure.it/
 node	4977810829	http://www.allevecchiemura.it
-node	4986489528	http://www.ferroefuoco.net/
 node	5003306458	http://www.alpinicogoleto.it
 node	5003847304	https://www.conad.it/ricerca-negozi/negozio.010196.html
 node	5008333085	https://www.pacolor.com/
@@ -1515,7 +1514,6 @@ node	6283612390	https://www.hotelsmarco.com
 node	6283613811	https://nabicheantona.it
 node	6314666654	https://www.glfc.it/it/
 node	6329603092	https://www.raviolhouse.it/
-node	6329603093	https://www.massarija.com/
 node	6355038388	http://www.poterie.it
 node	6357081998	https://www.hotellapalma.it/
 node	6368102286	https://www.5terrebackpackers.com/
@@ -2340,6 +2338,7 @@ node	11602347021	https://www.saccherirestauri.it/
 node	11616178606	www.girodelcielo.it
 node	11619624558	https://dancingproject.it/
 node	11619624561	https://www.l-auraestetica.it/
+node	11622621716	https://www.gruppoge.it/sedi/genova-vendita-e-assistenza-citroen/
 node	11627386714	https://www.autoaccessorio-imperia.it/
 node	11627386716	https://www.salcserramentiimperia.com/
 node	11627386721	https://sicurfor.com/
@@ -2358,6 +2357,9 @@ node	11632180501	https://www.pdelectronic.com/
 node	11638920547	https://cds.it/struttura/albenga/
 node	11640839200	https://www.vinoecucina1999.com/
 node	11640858559	https://vivaidevoto.com/
+node	11658016953	https://www.orologeriaoreficeriagiacomobruni.it
+node	11663512707	https://www.confael.net/imperia/
+node	11663512712	https://city-lab.it/app/lab-21-6/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3663,6 +3665,7 @@ relation	16436073	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-lig
 relation	16469507	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#dm=1&ipd=62676738
 relation	16730351	http://www.quotazero.com/forum/viewtopic.php?f=15&t=21644&p=354505
 relation	17001623	https://abbadiasangiorgio.com/
+relation	17271637	https://mappe.comune.genova.it/MapStore2/#/wmsfeatureviewer/openlayers/SITGEO:V_MOB_PISTE_CICLABILI/ID%3E0
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1315100281	www.libreriaragazzi.com
