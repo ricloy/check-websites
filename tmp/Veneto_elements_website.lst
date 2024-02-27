@@ -1996,7 +1996,7 @@ node	4317452329	https://www.ferramentatoscan.it/
 node	4318125791	www.anticofenilon.it
 node	4318257310	https://www.interlingua.it/
 node	4322939992	http://www.cinesegiardinodigiada.com/
-node	4323499392	http://www.ristorantedarenata.it/
+node	4323499392	https://www.ristorantedarenata.it/
 node	4324103412	https://www.agriturismoalcastel.com/
 node	4325212490	http://www.ristorantetrerisotti.it/
 node	4329534990	http://www.ilcontedelpesin.com
@@ -2206,6 +2206,7 @@ node	4526599088	www.veciabotte.com
 node	4531859723	https://www.mangiapizzatreviso.it/
 node	4531861350	http://selvana.natatorium.it/
 node	4531867637	http://www.busattoristorantetreviso.it/
+node	4531882410	https://www.crmrevisioni.it/
 node	4531882426	http://www.cartoleria-camiololaura.it/
 node	4531884970	https://www.farmaciatrevigiana.it/
 node	4531887749	https://mocainteractive.com/
@@ -6097,7 +6098,7 @@ node	11584068215	https://www.moratopane.com
 node	11586519935	https://www.megahub.it/
 node	11586693774	https://www.serramentimanieroleonardo.it/
 node	11587778535	https://www.atvo.it
-node	11588925340	http://www.claudeandreini.it/fisioterapia/index.php
+node	11588925340	https://www.claudeandreini.it/fisioterapia/index.php
 node	11593819693	https://www.residenzagoldoni.com
 node	11593892613	https://esteticaeliana.com/
 node	11595259459	https://www.marinasantelena.com
@@ -6107,6 +6108,11 @@ node	11609710195	https://www.casamary.com/
 node	11630620729	http://www.geaz.org/
 node	11630715733	https://www.caisanpolo.com/
 node	11630726334	https://www.famigliaalpinistica.it/
+node	11645936815	https://www.labrentavecchia.it/
+node	11652293177	https://www.alducadivenezia.com/
+node	11652426941	https://www.ldchotelsitaly.com/it/palazzovenart-venezia/
+node	11657876801	https://www.flyparkvenezia.it/
+node	11665767091	http://www.archiviodistatotreviso.beniculturali.it/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6446,6 +6452,7 @@ way	131813447	"http://www.ulss16.padova.it/it/distrettuali/distretto-n-3/,84"
 way	131813818	https://www.gelateriaromana.com/45-gelateria-padova.php
 way	131964616	https://www.padovanet.it/informazione/settore-servizi-scolastici
 way	131966231	https://www.collegiodimesse.it/index.asp
+way	131966273	https://www.hilton.com/en/hotels/tsfpagi-hilton-garden-inn-padova-city-centre/
 way	131968021	https://www.sportandkombat.com/
 way	131969607	https://www.simonelongato.it
 way	131970015	https://capatoast.it/
@@ -8294,6 +8301,7 @@ way	793222647	http://marina.ventodivenezia.it/
 way	794853080	https://www.siedenergia.it/
 way	796596363	https://www.bertoletta.it/
 way	800798057	https://www.circolo1maggio.it
+way	803086385	https://www.agugiarofigna.com/
 way	803086401	https://www.walmaz.it/en/
 way	806470189	http://nuovo.comprensivocervarese.it/
 way	817110847	https://www.agricampingborghetto.com/it/
@@ -8390,6 +8398,7 @@ way	980603629	https://www.liceoartisticotreviso.edu.it/index.php/le-sedi/scuola-
 way	980605395	https://www.liceoartisticotreviso.edu.it/index.php/le-sedi/sede-tolpada
 way	980881980	https://www.venediafattorie.it/
 way	985077090	http://www.ferroviefelettane.it/
+way	985587110	https://www.flyparkvenezia.it/
 way	986229255	https://www.villaburatti.it/
 way	986229257	https://www.villaburatti.it/
 way	986372894	https://www.euganeavasi.it/
@@ -9939,6 +9948,7 @@ node	11556029286	https://www.osteriafiorenero.it/
 node	11572134998	https://www.tiramisumeria.com
 node	11592585543	https://www.terrebianche.it
 node	11638670440	parafarmaciamarosticana.it
+node	11658273208	https://trattoria-cavazuccherina.business.site/
 way	27198535	http://basilicadelsanto.org
 way	40460962	https://www.laquercia.it/
 way	42424990	http://www.traiglicinieilsambuco.it/
@@ -10116,7 +10126,7 @@ way	201302257	https://www.facebook.com/pages/Ai-Lares-Agriturismo/15012907867648
 way	202012091	http://www.rifugioscotter.it/
 way	206274761	http://www.ic2sangiovannilupatoto.it/
 way	208629607	http://www.rifugiopranolz.com/
-way	216746686	http://parcolonzina.co.nr/
+way	216746686	https://parcolonzina.it/
 way	218598168	http://www.madonnadellacorona.it
 way	222557762	http://www.cortebussari.it/
 way	229086198	https://www.centronuotolebandie.it/
@@ -10254,6 +10264,7 @@ way	1227411388	https://www.swarovski.com/it-IT/
 way	1227411395	https://www.piazzaitalia.it/
 way	1227411396	https://www.despar.it/it/mobile/
 way	1227411399	https://www.cisalfasport.it/
+way	1254196760	http://tiroasegnojesolo.it/
 relation	958734	http://www.rondinipadova.it/
 relation	1183410	http://www.eugas.it/
 relation	1350691	http://www.valsanzibiogiardino.it
