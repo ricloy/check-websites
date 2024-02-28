@@ -221,7 +221,6 @@ node	338432050	http://www.anacapri.mi.it/index_file/Page387.htm
 node	339303655	http://www.forneriasalvetti.it/
 node	340096546	https://www.fridaisola.it/
 node	345848330	https://www.bierhaus.it/
-node	345848332	http://www.brotherfood.it/
 node	346350998	https://www.liceozucchi.it/
 node	347461153	http://www.rossignoli.it
 node	347610108	http://www.labicicletteria.it
@@ -365,6 +364,7 @@ node	571123875	https://www.colereskiarea.it/
 node	571450170	https://www.hotelbrunelleschi.net/
 node	571496057	https://www.gastronomiadelizie.it/
 node	571655575	https://nagoyax.it/nagoya-x-triumplina/
+node	579822638	https://www.lentatese.it/
 node	582551391	http://www.mauragiovine.it/
 node	589977550	http://www.farmaciagiovanninetti.it/
 node	593316478	http://www.delfinoblu1981.it/
@@ -833,6 +833,7 @@ node	1444686906	http://www.sessaklein.com
 node	1447219000	https://www.lloydsfarmacia.it/store-locator/milano/lloyds-farmacia-via-palmanova---farmacia-n--58
 node	1450505228	https://www.hotellafenice.it/
 node	1457153959	https://www.sabait.it/it/parcheggio-cremona/parcheggio-saba-marconi
+node	1457569224	https://www.lafontehotelfranciacorta.it/
 node	1458999085	http://www.casadelteatro.it/index-ita.htm
 node	1460565158	https://www.buosi.it/
 node	1461396535	http://www.conservatorio.brescia.it/
@@ -1361,6 +1362,8 @@ node	2075241362	https://www.farmaciaolmetto.com/
 node	2078816559	https://www.panificioifruttidelgrano.com/
 node	2081286500	http://www.ciclicoss.it
 node	2084503046	https://www.3motorspoint.it/
+node	2084661174	https://brescia.arriva.it/
+node	2084661178	https://brescia.arriva.it/
 node	2087390261	http://www.museopiadena.it
 node	2087523994	https://www.backschool.it/
 node	2087934469	www.torredellacquedotto.it
@@ -1382,6 +1385,7 @@ node	2098656835	https://www.happychild.it/nidi-e-scuole/scuola/zona-lorenteggio-
 node	2100286694	https://www.carmentown.it/
 node	2101707168	https://www.radissonhotels.com/en-us/hotels/radisson-blu-milan?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:cese+h:ITMIL1https://www.radissonhotels.com/en-us/hotels/radisson-blu-milan
 node	2101718742	https://opac.provincia.brescia.it/library/-BARBARIGA/
+node	2102157442	https://icsprimolevi.edu.it
 node	2104112893	https://www.scalofarini.it/
 node	2104853263	https://www.hoteldestemilano.it/
 node	2106319424	http://www.farmaciaorio.com/index.asp
@@ -1625,6 +1629,7 @@ node	2311467392	https://www.enel.it/punto-enel/
 node	2311467404	https://www.enel.it/punto-enel/
 node	2312838433	https://baiadipare.it/
 node	2312851421	https://www.facebook.com/Panificio-Beretta-1553659534869893/
+node	2313914972	https://www.spes-srl.org/farmacie/farmacia-malpensa-terminal-2/
 node	2315533882	https://www.bb-nik900.it/
 node	2315957162	http://www.hotel-residence-gargnano.com
 node	2317606241	http://www.the-place.it
@@ -2886,7 +2891,6 @@ node	2884954200	https://www.oxoitalia.com/
 node	2884972897	https://www.villagioielli.it/
 node	2884972898	www.otticavilla.it
 node	2885224763	http://www.sottomilano.it/diurno.htm
-node	2885256165	www.codiciricerche.it
 node	2885542906	http://www.ildolcesogno.com
 node	2887069388	http://labottegadivittorio.com
 node	2887097646	http://www.farmaciaromagna.com/
@@ -3259,6 +3263,7 @@ node	3073715378	https://www.affariesport.com/
 node	3074129355	http://www.fgacoperture.it/
 node	3074414343	http://sushi-sakura.it/
 node	3074597490	https://solive.it/
+node	3075299810	https://www.minuscolistore.it/negozi/bergamo-citta-alta/
 node	3075691025	https://www.coeweb.org/
 node	3076938289	https://www.beatscuoladarte.it/
 node	3077210019	https://www.carrefour.it/
@@ -3284,8 +3289,7 @@ node	3086149774	https://www.iziplaymonza.it/
 node	3086182488	http://stefanacconciature.it/
 node	3086184949	https://linktr.ee/oasifortuna
 node	3086481571	https://www.leccotrasporti.it/upload/orari/invernali_dal_14_marzo_2011/D60.pdf
-node	3087322643	https://www.croceverdesempione.org/
-node	3087358672	http://www.mondialpol.it/it/mondialpol_milano_spa/
+node	3087224191	https://elettronicaservicemilano.it/
 node	3089025001	https://asfautolinee.it/
 node	3089025002	http://asfautolinee.it/Portals/5/Documents/Orari/I1213/cantu/60.pdf e http://www.muoversi.regione.lombardia.it/planner/ReadFileEdmaServlet?idEdma=51061540&codiceLinea=C84
 node	3089025003	http://asfautolinee.it/Portals/5/Documents/Orari/I1213/cantu/60.pdf e http://www.muoversi.regione.lombardia.it/planner/ReadFileEdmaServlet?idEdma=51061537&codiceLinea=C84
@@ -3312,7 +3316,6 @@ node	3097248974	https://www.tripolina.it/
 node	3097290869	https://monza.mercatopoli.it/
 node	3097506677	https://www.teslamotors.com/
 node	3097574889	http://www.newmadison.it/
-node	3097574890	https://www.creative-academy.com/
 node	3098331519	http://aztecnologia.it/
 node	3100896007	http://www.pizzeriaspontini.it
 node	3102252278	http://www.frassiregalo.it/
@@ -3379,8 +3382,7 @@ node	3125689688	http://www.sakura-sas.it/
 node	3125888135	http://www.brondolin.it/
 node	3125888136	http://www.meca.it/
 node	3126561663	http://www.zerozerouno.it/
-node	3126581765	http://www.jollysupplies.it/
-node	3126581767	https://www.itxcargo.com/lang/en/
+node	3126581766	https://www.italmondo.com/
 node	3126725613	https://www.meininger-hotels.com/en/hotels/milano/hotel-milan-garibaldi-station/
 node	3127362067	https://www.nihaogroup.it/
 node	3129429421	http://www.comune.marnate.va.it/
@@ -4621,6 +4623,7 @@ node	3987048492	https://www.muoversi.regione.lombardia.it/planner/ReadFileEdmaSe
 node	3989817016	http://www.pizzeria-naturale.it/
 node	3989817017	http://www.bbiamhere.com/
 node	3991140658	https://www.omsafittings.it/
+node	3991333711	http://www.sangiorgioclinic.com/
 node	3991739848	https://www.uptownpalace.com/
 node	3991744035	http://www.autosantasofia.it/
 node	3991744040	https://www.bianchetti.it/
@@ -4824,10 +4827,9 @@ node	4129960591	https://www.mormon.org/
 node	4129962092	https://mormon.org/
 node	4130538497	https://www.yetopen.com
 node	4131592695	https://tuttocapsule.it/
-node	4132367458	http://www.ristorantelagranseolamilano.it
+node	4132367458	https://slow-sud.it/
 node	4132367460	https://ilovepoke.it/
 node	4132367461	https://www.facebook.com/dentistaportagenova/
-node	4132367462	https://www.gastronomiatathagata.com
 node	4135079393	http://www.paradisodellesorprese.it/
 node	4135080548	https://www.dianamilano.it/
 node	4135142197	http://www.farmaciafiordalisi.com/
@@ -4943,6 +4945,7 @@ node	4194183007	https://www.cocobeachclub.net/
 node	4194889889	www.Kevlove.it
 node	4195944689	http://edilfiore.it/
 node	4197244274	https://www.arsocchiali.it/
+node	4198278495	https://spontinimilano.com/pizzerie/MILANO-TORTONA
 node	4198407290	http://www.mudec.it/ita/
 node	4198763614	https://www.farmacianobili.it/
 node	4200293191	https://www.mafel.com/
@@ -5500,7 +5503,6 @@ node	4493298463	https://www.labirba.com/castronno/index.html
 node	4494452075	https://www.palmabit.com/
 node	4496386859	http://www.contearte.com/
 node	4496388369	https://terangarestaurant.com/
-node	4496388523	https://www.prayforburger.it
 node	4496388891	http://www.nheromilano.com/
 node	4496389072	http://www.tavernaparioli.it/
 node	4496390356	http://mosele.net/
@@ -5556,6 +5558,7 @@ node	4540472790	https://www.armanihotelmilano.com/it/bar-e-ristorante/armani-bam
 node	4541125230	fornacecurti.it
 node	4541673558	www.caicomo.it
 node	4542006489	http://www.morettiacciai.com
+node	4543896538	https://www.getfit.it/club/via-cagliero/
 node	4544124491	https://www.osteriaconvista.it/
 node	4544196898	http://www.learabesque.net
 node	4545007099	www.lacasarecciacinisello.com
@@ -6203,6 +6206,7 @@ node	4907188604	https://www.autoscuolaflora.it/
 node	4907217089	https://www.comune.milano.it/dseserver/webcity/comunicati.nsf/weball/FDBAEB820EF7DCDFC125754C0044E884
 node	4907495207	http://www.farcombrescia.it
 node	4910562968	http://www.gardaclimbing.it/falesia/placca-cremonesi/
+node	4910646021	http://www.lacolubrina.it/
 node	4911249118	https://www.residenceilgabbiano.it/
 node	4911483006	https://it.caudalie.com/
 node	4911495929	https://www.farmaciamontenero.it/
@@ -6234,6 +6238,7 @@ node	4927328253	https://opac.provincia.brescia.it/library/biblioteca-comunale-di
 node	4927335121	https://www.stowyourbags.com/
 node	4929082422	https://www.hostariadelteatro.it/
 node	4929934463	https://www.parcovallelambro.it
+node	4930839642	https://pizzaokseveso.it/
 node	4931804712	http://www.flying-circus.it
 node	4932271994	https://www.roadhouse.it/
 node	4933658706	http://www.hotelbristolsestomilano.com/
@@ -6751,6 +6756,7 @@ node	5253634931	https://santaceciliameda.it/
 node	5253634932	https://www.ipcmeda.edu.it/pagine/contatti
 node	5253847040	http://www.decengineering.org/
 node	5254195148	https://www.camp.it/azienda.aspx?CAT=65
+node	5255335091	https://www.dentistaseveso.com/
 node	5257392908	https://www.decimpianti.com/corporate/maps/DEC_WAREHOUSE-LAINATE-how-to-reach-us_en.html
 node	5257398404	https://www.allfoodspa.com/
 node	5257679477	https://www.superstudiocafe.com/
@@ -6830,7 +6836,6 @@ node	5296383955	http://www.metalcarb.it
 node	5298149221	https://www.autodiretto.it/
 node	5299797554	http://www.rosaselvatica.eu/
 node	5299818742	https://www.ilgiardinodiirene.it/
-node	5300438084	https://www.alidem.com/
 node	5300438101	https://www.pescetta.it/
 node	5300438106	https://www.ristoranteluccellina.it/
 node	5300438112	http://www.leacoiffeur.com/
@@ -7094,6 +7099,7 @@ node	5468803285	http://www.mazzastilografiche.it/
 node	5468803286	https://artambrosiana.it/
 node	5469385662	http://www.agriturismodossobadino.it/
 node	5469794088	http://cadeval.com
+node	5469794089	www.cadelval.com
 node	5470383237	http://www.alponteristorante.com/
 node	5471112660	https://www.duebikestore.it
 node	5471265364	https://www.lanostratrattoria.it/
@@ -7342,6 +7348,7 @@ node	5657220344	https://www.tuv.it
 node	5657259241	https://www.agriturismolapioppa.it/
 node	5658024074	https://rossiegrassi.it/
 node	5658024081	https://www.doriani.it/restaurant.php
+node	5658024113	https://www.fondazionecorriere.corriere.it/
 node	5658396147	http://www.valledegliulivi.net/
 node	5658630607	http://www.museocasanova.it/
 node	5659087438	https://www.bikemi.com
@@ -7448,7 +7455,7 @@ node	5733617884	https://pizzeriadabassano.it/
 node	5733776870	https://www.autoscuoladerosa.it/
 node	5733777485	https://www.galaxygrill.it/
 node	5734049021	http://www.osteriailgiardinetto.it
-node	5734054221	https://basaramilano.it/it/
+node	5734054221	https://basaramilano.it/it/dove-siamo/ristoranti/milano-via-tortona/
 node	5736093470	https://www.valtellina.it/
 node	5736571928	https://www.enotecaguanella.it/
 node	5736577885	https://www.enotecaguanella.it/
@@ -8905,6 +8912,7 @@ node	7177207886	https://yipinramen.business.site/
 node	7177366665	http://www.portolago.com/SpondaLombarda/Maccagno/Porti/PontiliGalleggianti.html
 node	7177415729	http://www.portolago.com/SpondaLombarda/Maccagno/Porti/PontiliGalleggianti.html
 node	7177440213	https://www.liceoporta.edu.it/
+node	7177698245	https://www.veganfruttariano.it/
 node	7178137386	https://www.miscusi.com/it/ristoranti/milano-stazione-centrale
 node	7180684987	http://www.aps-hesperia.it/
 node	7184641278	https://il-porticone.business.site/
@@ -8983,6 +8991,7 @@ node	7279487085	https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/I
 node	7279487103	https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
 node	7283489002	https://easyestetica.mytreatwell.it/
 node	7283489019	https://www.libreria-menabo.it/
+node	7283489020	https://www.estclothing.eu/
 node	7284430772	https://farmacia-la-gozzolina-srl.business.site/#details
 node	7284720972	https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
 node	7285315309	https://hotelmayerdesenzano.com/
@@ -10550,6 +10559,7 @@ node	9164402313	http://www.galleriabellinzona.com/
 node	9164771613	https://www.fabbroaperturaporte.com/
 node	9165989185	https://fornaiocoxitcastellanza.eatbu.com
 node	9166185017	https://ristoranteparravicini.it
+node	9168968130	https://lavanderia-seveso-di-city-wash.business.site/
 node	9169388197	https://www.iperalspesaonline.it
 node	9169396047	https://www.berettaauto.com/
 node	9169458073	http://www.albese.pescevela.it/ceraunavolta/
@@ -10816,6 +10826,7 @@ node	9351402362	https://www.birreriadane.com/
 node	9351434218	https://www.facebook.com/BeautyDesinger/
 node	9352993967	https://www.thestreetmilano.com/
 node	9353414787	http://www.hotelidealemilano.it/
+node	9355811768	https://pasticcerialefontane.altervista.org/
 node	9355811770	https://www.spaziolalibellula.it/
 node	9355811778	https://www.veterinarioargo.com
 node	9355811780	https://www.rolandobarbiere.it
@@ -11876,7 +11887,7 @@ node	10012109517	https://www.mixmarkt.eu/it/home/supermercati/11953/
 node	10013104422	https://www.ristoranteilvizio.it
 node	10013235719	https://www.modes.com/
 node	10013874468	https://www.passadori.it/
-node	10015307529	https://asdcaccialanza.webnode.it/
+node	10015307530	https://asdcaccialanza.webnode.it/
 node	10015732619	https://www.ikigaibovisio.it/
 node	10016345054	https://www.giardinicolombari.com/
 node	10017778059	http://www.centro-euroacustic.com/
@@ -12111,6 +12122,7 @@ node	10182575067	https://www.autoscuolasiziano.it/
 node	10182575080	https://www.newgelsrl.it/
 node	10182575081	https://www.metro.it/
 node	10183166275	https://www.centrolacortelombarda.it/
+node	10184420833	https://www.ats-brescia.it/sedi-e-orari-dei-centri-vaccinali-asst-antinfluenzale-e-anticovid-19
 node	10184441393	http://www.elettrautocrema.com/
 node	10184441394	https://restaurant.thedryaged.it/
 node	10184441395	https://diffrent.it/noleggio-furgoni-meda/
@@ -12346,6 +12358,7 @@ node	10307537195	https://vibe-restaurant.it/
 node	10308639251	https://www.farmaciasangiovanni.srl/
 node	10308867292	https://www.cisom.org
 node	10308927203	https://www.protezionecivilevignate.it
+node	10310834920	https://abitareagency.it/
 node	10310834922	https://www.sara.it/agenzia?id=535C
 node	10310834923	https://www.akicobeauty.com
 node	10310834924	https://www.alicepizza.it/
@@ -12359,6 +12372,7 @@ node	10313614178	https://www.sushimaison.it/sushi-maison-ristorante-giapponese-a
 node	10315680188	https://www.during.it/filiale/?MonzaMB#19
 node	10315680189	https://www.facebook.com/people/Pepe-dacqua/100063497714647/
 node	10316143429	https://crocebianca.org
+node	10316680200	https://langolonascosto.com/
 node	10316974448	https://www.tecnoct.it/
 node	10316993957	https://cernusco.cngei.it
 node	10316993958	https://cernusco.cngei.it
@@ -12760,7 +12774,7 @@ node	10746554316	https://www.fotoponessa.it/
 node	10746554317	https://www.limontawall.com/
 node	10746554318	https://www.societylimonta.com/
 node	10746554332	https://www.tabaccheriapims.it/
-node	10746554333	+39031398611
+node	10746554333	+39 031 398611
 node	10746554389	https://www.facebook.com/pizzeriaginestrino2/
 node	10748183906	https://www.paolo-sonja.net/larioclimb/falesie_lecco/magnodeno/maggiociondolo.html
 node	10748866710	https://www.capoeiramilano.it/
@@ -13935,6 +13949,26 @@ node	11642933939	https://www.mercatinoluino.com/
 node	11644932069	https://garda.tel
 node	11644944469	https://garda.tel
 node	11645690285	https://flanet.org/
+node	11649070498	https://www.agenziamedica.it/studiomedico/synlab-voghera
+node	11654764778	https://bizzo.it/
+node	11656068069	https://www.ristorantetoyama.it/toyama-2
+node	11657482909	https://www.wadirum.it/
+node	11658179821	https://terroirwinebar.it
+node	11659931564	www.ristorantemonza1931.com
+node	11660229547	https://www.lombardiabeniculturali.it/architetture/schede/MI100-03679/
+node	11662406476	https://www.croceverdesempione.org/
+node	11663083708	https://togbistrot.it/
+node	11663252569	https://sonata.hotel-detail-check.com/sclap-appartamenti-livigno-livigno-italy
+node	11666223339	www.buzzettisport.com
+node	11666691214	https://www.atm.it
+node	11666800785	http://www.lightsonbergamo.it
+node	11667634389	http://www.vegamoremilano.com/
+node	11668608749	https://www.alidem.com/
+node	11668832773	https://caroli12.it/
+node	11669492948	https://www.pensionatobertoni.it/
+node	11669846020	http://www.itcombrescia.it/
+node	11670998124	https://www.spreadwingsurfing.com/
+node	11672274558	https://www.cav-voghera.it/
 way	4522481	https://www.marriott.it/hotels/travel/milit-milan-marriott-hotel/
 way	4915384	http://www.monumentale.net/
 way	4998830	https://www.piccoloteatro.org/
@@ -15017,6 +15051,7 @@ way	169002681	https://www.albergosanfermo.com/
 way	169037264	http://www.albergolafabbrica.it/
 way	169124540	https://www.comune.albino.bg.it/
 way	169233545	https://www.vb-srl.it/
+way	169401155	https://www.ristorantedaguido.it
 way	169408196	https://www.eccolecco.it/arte-cultura/chiese-basiliche/santuario-nostra-signora-della-vittoria
 way	169458842	https://www.ilcamminoprodottibiologici.it/
 way	169507685	https://www.lombardiabeniculturali.it/architetture/schede/MI100-02623/
@@ -18704,6 +18739,7 @@ way	1073274056	https://piomboleghe.it/
 way	1073814675	https://www.fondazionefalck.it/
 way	1074546711	http://www.gialdini.com/
 way	1075092446	https://www.lombardiabeniculturali.it/architetture/schede/CO250-00622/
+way	1076873364	https://www.cribustoarsizio.com/
 way	1079959932	https://www.residenzaemanuela.it/
 way	1080118258	https://www.chiesadilainate.it/san-francesco-d-assisi/
 way	1080229132	https://www.facebook.com/oratoriosanfrancescolainate/
@@ -18732,6 +18768,7 @@ way	1090727155	https://www.planetmountain.com/rock/falesie/falesia.html?idfalesi
 way	1090790116	https://www.ssab.com/it-it
 way	1090801538	https://www.bandinellirottami.it/
 way	1095218647	https://www.lombardiabeniculturali.it/architetture/schede/CO260-00105/
+way	1095380933	https://www.facebook.com/AsiloNidoScuolaInfanziaBaruccanaSeveso/
 way	1096562074	https://www.caminella.it
 way	1096964539	https://www.grupposandonato.it/strutture/ospedale-galeazzi-sant-ambrogio
 way	1096971221	https://www.korian.it/strutture/casa-di-riposo-milano-saccardo-alzheimer
@@ -18763,6 +18800,7 @@ way	1127838253	https://www.ovs.it/it/it/stores/italia/lombardia/bergamo/ovs-cara
 way	1128262202	https://www.legarzide.it/it/circolo-ippico
 way	1130978663	https://www.agrati.com/it/
 way	1132145645	https://www.casa-ananda.it/
+way	1132233270	https://www.green-side.it
 way	1134013596	fitclubintegrassd.it
 way	1134340359	https://istitutogiglirovato.edu.it
 way	1136290305	https://www.aldi.it/puntivendita/it-it/Search?SingleSlotGeo=Monza%2C%20MB%2C%20Italia&Mode=None
@@ -18907,6 +18945,9 @@ way	1242446479	https://www.vienormali.it/montagna/cima_scheda.asp?cod=2705
 way	1242772322	https://www.facebook.com/trattoriadafopela/
 way	1242773264	http://www.arcierideldrago.it/site/?page_id=46
 way	1243847318	https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&type=auto&code=14788&Chiesa_di_San_Michele__Monticello_Brianza
+way	1253291181	https://4strade.com/
+way	1254998580	https://www.centrosportivoquadri.it/piscina/
+way	1255599406	http://www.24hours7days.it
 relation	1918	https://www.milanocastello.it/
 relation	14195	https://www.tribunale.milano.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
@@ -19243,7 +19284,6 @@ relation	3462062	http://www.iccentro2brescia.gov.it/
 relation	3463633	https://liceoarnaldo.it/
 relation	3463701	https://www.ambienteparco.it/
 relation	3468965	https://www.centrodirezionalecolleoni.com/
-relation	3477430	http://www.trentinograndeguerra.it/sec_gen_searchresult.jsp?area=125&ID_LINK=307&id_schema=41&COL0001=2&COL0002=10&geoarea=10
 relation	3488598	https://www.caivestone.it/
 relation	3489405	http://www.cailumezzane.it/sentieri/367/sentieri%20lumezzane%20367.html
 relation	3494744	https://ambiente.regione.emilia-romagna.it/parchi-natura2000/rete-natura-2000
@@ -21014,7 +21054,6 @@ node	2197293996	https://beatotemilano.it
 node	2211158474	www.delicatessen.eu
 node	2272560098	http://www.ristorantecost.it
 node	2280627366	http://www.tiellecamp.it/
-node	2280627371	http://www.otetransport.com/
 node	2282193030	http://www.farmaciaboccaccio.it
 node	2282193917	http://www.godsavethefood.it
 node	2288851555	http://www.ingegnoli.it/
@@ -21421,6 +21460,7 @@ node	5265908345	http://www.residenze.polimi.it/index.php@id=207&L=0.htmlwheelcha
 node	5266157802	http://www.pasticceriaroan.it
 node	5268026929	https://www.ristorantedarosa.com
 node	5273151139	https://godocastellanza.it/castellanza/
+node	5273410533	http://www.farmaciaingardi.it/
 node	5298458923	https://www.cascinaboneta.it
 node	5317139125	http://www.trattorialongchang.it
 node	5327289778	http://gisdev.io
@@ -21541,6 +21581,7 @@ node	6763611841	https://www.farmaciagallaratese.it
 node	6783601199	http://www.fusionrestaurant.it
 node	6783707035	http://www.pasticceriagiorgia.it
 node	6792996885	http://www.ristoranteroyal.it/
+node	6802601594	https://www.studioimmobiliarebroletto.it/web/
 node	6802833834	https://www.coopalleanza3-0.it/
 node	6813967769	http://casacosi.com
 node	6832696085	http://www.alvolopavia.com
@@ -21937,6 +21978,7 @@ node	10712855281	https://www.osteriaaquiladoro.it/
 node	10720585287	https://www.vinotecabustoarsizio.it
 node	10720775705	https://www.sultanrestaurant.it
 node	10723943046	https://www.lacicalaarredamenti.it
+node	10746554333	https://www.achillepinto.com
 node	10767981003	https://www.poliespanso.it/
 node	10775065752	https://www.liveclub.it
 node	10793792458	https://www.chefexpress.it/poi/stazione-di-saronno/
@@ -22015,6 +22057,13 @@ node	11616974350	https://www.giorgiomarandola.com
 node	11624869645	https://www.bmiimpianti.com
 node	11624898986	https://www.anticacortebusto.it
 node	11645059381	https://palestrangfitness.it
+node	11658244502	https://seconet.it
+node	11659383007	https://www.hotelsanpietrobormio.it/
+node	11659383018	https://www.hotelginepro.com/
+node	11662741925	https://www.anticadolceriabs.com/
+node	11668817369	https://cimeriduttori.com/
+node	11669599111	http://www.tiellecamp.it/
+node	11670308721	https://www.boutiquedelgioiello.it/
 way	4497863	http://www.teatronazionale.it
 way	25902153	https://www.milanosport.it/impianto/15/cozzi/27/
 way	26438681	https://www.milanosport.it/impianto/26/saini/77/
