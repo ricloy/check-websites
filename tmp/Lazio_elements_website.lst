@@ -1169,6 +1169,7 @@ node	2628451292	http://www.farmaciadeiconsoli.com/
 node	2628477755	https://www.emmepiu-supermercati.it/
 node	2628511972	https://www.tripadvisor.com/Restaurant_Review-g187791-d13004796-Reviews-Alchemico-Rome_Lazio.html
 node	2628531881	http://www.mondadorituscolanaroma.it/
+node	2629144988	www.iiscolomboroma.edu.it
 node	2630352815	www.trattoriasoracencia.it
 node	2631791388	http://it.china-embassy.org
 node	2632239837	https://biblioteca.camera.it/
@@ -1279,6 +1280,7 @@ node	2880168948	http://www.funiculifunicula.com/
 node	2880304450	https://www.albergoitaliatorvaianica.it/
 node	2889411908	www.equocomes.org
 node	2906119016	https://www.risparmiocasa.com/
+node	2906119022	http://www.pasticceriabaralventitre.it/
 node	2912496029	https://www.percorsiaudio.com/
 node	2916528853	https://www.fondimmobiliare.com/
 node	2916659813	https://www.scienzegiuridiche.uniroma1.it/
@@ -3351,7 +3353,7 @@ node	6251215882	https://web.uniroma1.it/sbs/biblioteche/RMS-BF-01
 node	6251215883	https://opac.uniroma1.it/SebinaOpacRMS/library/RMS40
 node	6251236671	https://opac.uniroma1.it/SebinaOpacRMS/library/RMSMI
 node	6251236672	https://opac.uniroma1.it/SebinaOpacRMS/library/Biblioteca%20della%20Facolt%C3%A0%20di%20Medicina%20e%20psicologia%20Ernesto%20Valentini%20(Sede%20principale%20Psicologia)/RMS53?locale=eng
-node	6251263784	https://web.uniroma1.it/sbs/biblioteche/RMS-55-01
+node	6251263784	https://opac.uniroma1.it/SebinaOpacRMS/library/RMS$PS02
 node	6251303455	https://web.uniroma1.it/sbs/biblioteche/RMS-M3-04
 node	6251333335	https://web.uniroma1.it/sbs/biblioteche/RMS-IC-01
 node	6251333336	https://web.uniroma1.it/sbs/biblioteche/RMS-IE-01
@@ -4826,6 +4828,7 @@ node	9662296153	https://www.ristorantehokkaido.com/
 node	9662296154	https://www.hotelmarisarome.com/
 node	9665179217	https://www.munsushibar.com/
 node	9666124986	http://www.danazzareno.com/
+node	9666125004	https://www.ristoranteluigiroma.it/
 node	9666125056	https://www.hotelassisiroma.it
 node	9666125059	http://www.hotelmirage.org/
 node	9668145368	https://azionecattolica.it/
@@ -5525,6 +5528,7 @@ node	10877748427	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-cast
 node	10877817761	https://www.modafferibarbershop.it
 node	10877863692	https://www.ristorante-sahara.com
 node	10880269484	https://www.arciviterbo.it/2019/07/01/lo-spazio-del-cielo-2/
+node	10880677873	https://santinifuneraria.it/
 node	10886236810	https://www.caffevelluti.com/
 node	10889468171	https://www.figliedisancamillo.it/roma/ospedale-vannini/centro-unico-di-prenotazione/
 node	10892764135	https://www.altrimondiviaggi.it/
@@ -5911,8 +5915,23 @@ node	11637752535	https://www.bancaetica.it/
 node	11642929577	https://studiokumariabilitazione.business.site/
 node	11657407103	https://www.cdca.it/
 node	11657407105	https://fondazione-bm.org/
-node	11659414639	http://www.fisiomizar.com/
+node	11659414639	https://www.fisiomizar.com/
 node	11659814871	http://mimiecoco.com
+node	11662271569	http://morrisons.it
+node	11663100302	https://www.dentalsem.it/
+node	11665140295	http://www.macrhome.it/
+node	11665837776	https://www.progettoarca.org/news/tutte-le-notizie/412-nasce-a-roma-il-condominio-sociale-casa-arca-degli-esposti.html
+node	11670267200	http://www.studiodentisticosuraci.it/
+node	11670267201	http://www.sanitcasalotti.com/
+node	11670267202	http://www.london-bus.it/
+node	11670267203	https://www.intesasanpaolo.com/it/
+node	11670267204	https://paolinisistemimedicali.it/
+node	11670267205	https://www.doctolib.it/ortopedico-traumatologo/roma/domenico-marotta
+node	11670267207	http://www.fisiolabcasalotti.it/
+node	11681506347	https://opac.uniroma1.it/SebinaOpacRMS/library/RMSPS
+node	11681912900	https://opac.uniroma1.it/SebinaOpacRMS/library/RMS$PS03
+node	11684936037	https://www.action.com/it-it/negozi/manziana-via-braccianese-claudia/
+node	11685234507	https://shop.unigross.it/negozi/manziana/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6053,6 +6072,7 @@ way	60690664	http://www.espuntalaluna.it
 way	61319926	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII177332
 way	61689999	https://www.riomartino.it
 way	61690021	http://www.corpoforestale.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/3
+way	62001364	https://www.pfse-auxilium.org/it/
 way	62036277	https://www.hotelromasud.com/
 way	62220682	http://www.monasterodisanmagno.it
 way	65584351	https://magicland.it/
@@ -6063,7 +6083,7 @@ way	69103863	https://www.lazioinnova.it/home/retieservizi/progetto-spazio-attivo
 way	69200328	https://www.laquerciahotel.it
 way	69257060	https://www.telpress.it/
 way	69914697	https://www.centrocommercialeperseo.com/
-way	72346405	http://www.acquaparklatina.com
+way	72346405	http://www.miami-island.it/
 way	72353162	https://www.hawaypark.com/
 way	72561251	https://www.poste.it/
 way	72567060	https://www.comune.gaeta.lt.it/
@@ -7192,7 +7212,6 @@ way	419415063	https://www.parcobracciano.it/
 way	419783694	http://www.vivaio.parcoaurunci.it
 way	419890599	https://www.virginactive.it/club/roma/roma-eur
 way	419894788	auditoriumsantachiara.it
-way	420137868	http://www.simbruini.it/
 way	420279390	https://www.aslroma2.it/index.php/home-7-distretto/uoc-casa-della-salute
 way	420500805	https://ristorantelacaravella.net/
 way	421287866	https://www.risparmiocasa.com/
@@ -7723,6 +7742,7 @@ way	637963574	http://www.oasidialviano.org/
 way	638580113	http://www.falchifondi.it
 way	641305181	https://www.icemmacastelnuovo.edu.it/
 way	641573110	https://bioversityinternational.com
+way	641874098	https://www.mcdonalds.it/ristorante/lazio/roma/roma-casalotti
 way	642452066	"https://www.google.com/maps/place/Stadio+Corriere+Dello+Sport/@41.9160057,12.3689909,144m"
 way	648503807	https://www.maxpetroli.com/
 way	651673172	https://www.asdliquid.it/
@@ -7916,7 +7936,6 @@ way	868418898	http://www.icsonofri.edu.it/sito/index.php/chi-siamo/i-plessi/12-l
 way	868601085	http://scuolafratellicervi.edu.it/plesso-martini
 way	868601087	https://scuolafratellicervi.edu.it/
 way	868839865	https://www.trinitaviterbo.it/
-way	870827537	https://www.aeronautica.difesa.it/organizzazione/csma/enti_dipendenti/COMAER/Pagine/ComandoAeroportoVignadivalle.aspx
 way	872765268	https://lycee-chateaubriand.eu/
 way	875326887	https://www.ceramicagsg.it/
 way	875326890	https://www.aquilanti.it/
@@ -9051,6 +9070,8 @@ relation	16892973	https://www.camminodifrancesco.it/
 relation	16897033	https://www.camminodifrancesco.it/
 relation	16897034	https://www.camminodifrancesco.it/
 relation	17039338	www.caimonterotondo.it
+relation	17278735	http://www.simbruini.it/
+relation	17282511	https://www.aeronautica.difesa.it/organizzazione/csma/enti_dipendenti/COMAER/Pagine/ComandoAeroportoVignadivalle.aspx
 node	251888861	https://www.multisalagreenwichroma.com/
 node	306047550	http://www.intera-mente.it
 node	452570567	http://www.catacombe.org
@@ -9221,7 +9242,9 @@ node	11384624621	https://airbnb.com/h/pignetovillage
 node	11428658844	http://www.ssassunta.it/
 node	11428658846	https://www.ssmlsandomenico.it/
 node	11638032638	https://book.staydaplace.com/roma/gran-torino-suites
+node	11681646152	https://www.alpinserinoroma.it/
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
+way	36385826	https://www.aeronautica.difesa.it/home/storia-e-tradizione/museo-storico/
 way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
 way	61011575	https://bagnaccio.it/
 way	63113412	http://www.ristorantealbersagliere-rieti.eu/
