@@ -120,6 +120,7 @@ node	938924503	https://it.marella.com/store/0153005
 node	945519680	https://www.globomoda.com/
 node	945519753	https://www.papillonristorazione.com/
 node	977644182	https://www.ristoranteilritrovo.net/
+node	1000475955	https://ancona.movieland.18tickets.it/
 node	1081161653	https://farmacialuchetti.it/
 node	1081383826	https://locandadelmedioevo.it/
 node	1081387782	https://www.oasitigre.it/it/punti-vendita.html?store=7405
@@ -639,7 +640,6 @@ node	4851396254	https://www.hotelgabiccemonte.com/
 node	4853534162	https://www.ristorantelatagliata.it/
 node	4960069295	https://www.roadhouse.it/it/ristorante-roadhouse-ancona
 node	4960069303	https://lowengrube.it/birrerie/ancona/
-node	4964932573	https://www.informagiovaniancona.com
 node	4978428552	https://www.esa1.eu/
 node	4986432521	http://www.giorgiomarescia.it
 node	4989800289	https://antonionisport.it/
@@ -1100,6 +1100,7 @@ node	9981792748	https://www.supermercatimadis.com/wp/?page_id=725
 node	9984156449	https://restaurantguru.it/Pizzeria-King-Filottrano
 node	9984190143	https://www.fondazioneferretti.org/
 node	9991655204	https://www.poliarte.net/
+node	10002398565	https://www.iluoghidelsilenzio.it/torre-matteucci-fermo/
 node	10008503979	https://www.sineglossa.it/en/home-eng/
 node	10023809182	http://www.fotocarretta.it/
 node	10029699483	https://www.ennegi.it/
@@ -1431,6 +1432,11 @@ node	11632234036	http://www.farmaciabucci.it/
 node	11632443424	https://www.mcdonalds.it/ristorante/marche/macerata/montecassiano
 node	11645576334	http://www.unsognonellemani.com/
 node	11646914774	https://www.lasaponaria.it/biostorie-fano
+node	11663889123	https://www.gentlemanleathercare.com/
+node	11663940504	https://www.sscgarage.com/
+node	11668776533	https://www.informagiovaniancona.com
+node	11676343433	https://www.rina.org
+node	11682818832	https://www.farmaciaangelinisimplicio.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1755,6 +1761,7 @@ way	435434331	http://www.albergovettore.it
 way	435444522	https://www.rifugideisibillini.it/
 way	435764797	https://www.campinglamedusa.it/
 way	435764911	https://www.campeggioclubadriatico.it/
+way	436938683	https://www.teoremacinema.it/cinema-teatro-italia/
 way	437135192	http://www.lacarpinella.it
 way	437135223	https://www.seebayhotel.com/
 way	437135225	https://pescifuordacqua.it/
@@ -1934,6 +1941,7 @@ way	1170345238	https://campinglemarche.com/
 way	1175831449	https://www.cortecampioli.com
 way	1180066892	https://www.cuscamerino.it/
 way	1182249119	https://www.collinadellefate.com/
+way	1185080172	https://www.iluoghidelsilenzio.it/chiesa-di-s-maria-apparente-monte-urano-fm/
 way	1190044277	http://www.chiesasanrocchetto.it/
 way	1190654222	https://www.pesaroavventura.it/
 way	1191256141	https://www.coal.it/archives/punti-vendita/villa-fastiggi-alimentari-srl
@@ -1955,6 +1963,11 @@ way	1227135666	https://www.oasitigre.it/content/ot/it/it/il-mio-negozio.546.html
 way	1242775991	https://www.vigilfuoco.it/sitivvf/fermo/
 way	1244772646	https://www.villaderuschi.it/
 way	1247118038	https://www.ipsiacorridoni.edu.it/
+way	1254647656	https://crifano.it/
+way	1255052209	https://www.iluoghidelsilenzio.it/abbazia-di-santa-croce-casette-dete-fm/
+way	1256338825	https://www.iluoghidelsilenzio.it/badia-dei-santi-biagio-e-flaviano-monterubbiano-fm/
+way	1256644325	https://www.iluoghidelsilenzio.it/chiesa-della-scala-santa-monte-urano-fm/
+way	1256645874	https://www.iluoghidelsilenzio.it/santuario-madonna-degli-angeli-santelpidio-a-mare-fm/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -2275,7 +2288,6 @@ way	135234505	http://www.parcheggiovanvitellifano.it/
 way	139601298	http://www.fano.gallerieauchan.it
 way	143339638	https://www.iguzzini.com/
 way	157172901	https://www.icmarotta.edu.it/
-way	158217806	http://www.liceogmarconi.gov.it/
 way	172284112	http://www.vecchiaquercia.it/
 way	196204922	http://www.centromiralfiore.it/
 way	219553036	http://www.maceromaceratese.it/
@@ -2351,11 +2363,13 @@ relation	9311686	https://www.iscbramantefermignano.edu.it/plessi/scuola-elementa
 relation	10967104	https://www.schnell.it/
 relation	15341759	https://diocesimacerata.it/
 relation	15982110	https://www.rivieradelconero.info/
+relation	17269004	http://www.liceogmarconi.gov.it/
 node	1342443841	http://lnx.montaltomarche.it/montalto2/Mercato/Ristora/Sistov/sistov.php
 node	1342443842	http://www.comune.grottammare.ap.it/contents/Castello/380
 node	1342443843	http://noteurbane.com/en/shop/hotel-pinella-montalto-delle-marche-peretti
 node	1342443844	http://www.museisistini.it/museo-montalto.html
 node	2724110539	https://www.facebook.com/pages/Bar-Diamond/421191581300138
+node	2918695876	https://www.lavalledelmetauro.it/contenuti/comuni-del-bacino/scheda/8225.html
 node	3184281715	http://www.facebook.com/frontemarepesaro
 node	5180660621	http://www.luoghidelsilenzio.it/marche/02_eremi/00049/index.htm
 node	10001454964	https://www.pietredellamemoria.it/pietre/monumento-ai-martiri-della-liberta-jesi-an/
