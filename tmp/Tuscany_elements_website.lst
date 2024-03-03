@@ -1,5 +1,6 @@
 @type	@id	website
 node	26859410	https://www.blucamp.it/campeggio_in_toscana_contatti_per_prenotazione_campeggio_tenda_piazzola_e_bungalow.html
+node	61753373	https://www.comune.siena.it/
 node	61753588	http://www.comune.castelnuovodigarfagnana.lu.it/
 node	213470889	https://www.msn.unipi.it/it/
 node	213847571	https://www.liceodini.it/
@@ -61,6 +62,8 @@ node	427765480	https://www.museocivicomontepulciano.it/it/
 node	431425665	https://lescuderiepisa.it/
 node	445833023	http://www.osteriadalcontesanvincenzo.com
 node	447912285	https://www.hoteledenparkversilia.it
+node	451088601	https://www.tialocasiena.it/
+node	454333162	https://www.bb-camollia.it/
 node	454333183	http://www.iltimpano.it/
 node	458460120	https://www.fisiocritici.it/it/
 node	459035256	https://g.page/labottegadelcaffecedraldo?gm
@@ -721,6 +724,7 @@ node	2361683976	https://www.signumfirenze.it/
 node	2361684453	http://littledavid.it
 node	2361684494	https://malloni.com/
 node	2361696347	http://www.osteriarematto.com
+node	2361697399	https://www.lastreganocciola.it/
 node	2361698562	http://www.theflorenceirshpub.com
 node	2361698806	http://damilaflorence.com
 node	2361699927	https://www.enotecabussotti.it/
@@ -770,6 +774,7 @@ node	2361852338	https://www.hotelfirenze-fi.it/it/
 node	2361854876	https://www.allegroitalia.it/allegroitalia-san-gallo-firenze/
 node	2361855295	https://www.aadfi.it/
 node	2361859382	https://www.signumfirenze.it/
+node	2361859457	http://www.ristorantemirofirenze.com
 node	2361861181	https://rifugiodigitale.it/it/home/
 node	2361862453	http://www.multiverso.biz/
 node	2361866731	https://www.luigifusaro.com/
@@ -1555,6 +1560,7 @@ node	4228125000	https://www.testi1969.it/
 node	4229009726	http://labottegadifirenze.it/
 node	4229013700	https://puntivendita.iliad.it/stores/4787
 node	4229013789	https://www.ristoranteindianogandhi-pisa.it/
+node	4229013805	https://www.hoteldavanzati.it
 node	4229013806	https://osteriadelporcellino.com/?lang=en
 node	4229650762	http://www.noidagrandi.it
 node	4231007165	https://www.fishinglab.it/
@@ -2825,6 +2831,7 @@ node	6845081778	https://www.nuovacarrozzeriamarchetti.it/
 node	6845081779	https://www.moonlightdance.net/
 node	6845294295	https://www.farmaciaceriani.it
 node	6845347513	https://farmacia-comunale-foiano-della-chiana.business.site
+node	6845602372	https://pasticceriacaffetteriamario.it/
 node	6846278687	https://it-it.facebook.com/farmaciamonterappoli/
 node	6848822519	https://www.genioassicura.it/
 node	6853371810	https://www.menchetti.it/
@@ -4788,7 +4795,23 @@ node	11645150408	https://www.caipontassieve.it/
 node	11645958446	https://www.locchi.com/
 node	11649546808	https://vesparental.eu/
 node	11653235383	https://lartigiano-trattoria-pizzeria.business.site/
-node	11659685348	http://pizzerialaveranda.it/
+node	11659685348	https://pizzerialaveranda.it/
+node	11663374711	https://www.axa.it/trova-agente
+node	11663374712	https://concessionario.citroen.it/serimarcello
+node	11663852644	https://www.scirersranch.it
+node	11666631703	https://www.vecchiastazionesiena.it/
+node	11666631704	https://www.ilvinaiodifurio.it/
+node	11666631746	https://colonrettosiena.org/
+node	11666631747	https://www.sienabikeshop.it/
+node	11666639976	https://optikongroup.it/
+node	11668826268	https://extensionsforjoomla.com
+node	11676312082	https://www.cittametropolitana.fi.it/wp-content/uploads/bacheca1.pdf
+node	11676347638	https://www.cittametropolitana.fi.it/wp-content/uploads/1-Pannello_cerreto_ovest_nuovo_logo.pdf
+node	11676531118	https://www.cittametropolitana.fi.it/wp-content/uploads/2-Pannello_cerreto_est_nuovo_logo.pdf
+node	11677807547	https://www.cittametropolitana.fi.it/wp-content/uploads/3-Pannello_vinci_nuovo_logo.pdf
+node	11681361920	https://www.prontopegno.it
+node	11685051066	https://www.cittametropolitana.fi.it/wp-content/uploads/5-Pannello_vitolini_nuovo_logo.pdf
+node	11685051067	https://www.cittametropolitana.fi.it/wp-content/uploads/4-Pannello_mignana_nuovo_logo.pdf
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -4837,6 +4860,7 @@ way	46731952	http://archeodromopoggibonsi.it/
 way	47296055	https://www.villanozzole.it
 way	48904565	https://icsigna.edu.it/
 way	48927444	https://www.edison.it/it/la-centrale-idroelettrica-rocchetta-ms
+way	48959434	https://tribunale-siena.giustizia.it/it/homepage.page
 way	48961012	https://www.amiata4s.it
 way	48961280	http://www.moverviareggio.it/interno.php?id=1048&lang=it
 way	49009184	https://www.risparmiocasa.com/
@@ -4844,6 +4868,7 @@ way	49323561	http://www.polomusealetoscana.beniculturali.it/index.php?it/187/pog
 way	49772279	https://www.coopfirenze.it/punti-vendita/montramito
 way	49835971	https://www.navionics.com/
 way	50083709	https://www.siena.chiesavaldese.org/
+way	50177046	https://www.corsinisiena.com/
 way	50342305	http://www.museobenozzogozzoli.it
 way	50365804	https://piscine.cgfs.it/piscina-galilei/
 way	50649199	https://www.olmopienza.it
@@ -5116,6 +5141,7 @@ way	171503349	https://www.jollyplastic.com/en/
 way	171884796	https://www.ucicinemas.it/cinema/toscana/firenze/uci-cinemas-campi-bisenzio-firenze/
 way	172709442	https://www.golfodelsole.com/
 way	172709450	https://www.unicooptirreno.it/punto-vendita/follonica-golfo-del-sole
+way	172783060	https://www.acquavillage.it/en/cecina-waterpark/
 way	172783517	https://sunlightpark.it/
 way	173179341	https://www.7starsms.eu/
 way	173748534	https://www.ipinguini.it/
@@ -5504,7 +5530,6 @@ way	308574883	http://www.cycleclub.it/
 way	308639147	https://www.lacantinettadirignana.it/
 way	308838352	http://www.hotelastor.pisa.it/
 way	309049971	https://patrignone.com
-way	309152441	https://www.museidimaremma.it/it/museo.asp?keymuseo=47
 way	310375778	https://www.mcdonalds.it/
 way	311166618	https://www.voguehotel.it/
 way	311396353	http://web.comune.carrara.ms.it/moduli/downloadFile.php?file=oggetto_notizie/183441604390O__Oordinanza+312.pdf
@@ -6399,6 +6424,7 @@ way	1068726948	https://www.lanazione.it/viareggio/cronaca/spiaggia-lecciona-1.77
 way	1074557331	https://www.giardinodellapieve.it/
 way	1074557351	http://www.laconvenienza.it/
 way	1074875213	https://www.istitutodeandre.edu.it/scuola-primaria-u-cipolli-s-casciano/
+way	1076056422	https://www.pubblicaassistenzasiena.it/
 way	1077802957	https://www.tenutadisticciano.com/
 way	1081948082	https://www.sangimignano.com/en/useful-information/parking-and-city-bus/
 way	1081955490	https://www.ladispensadicampagna.com/
@@ -7565,6 +7591,7 @@ relation	16551446	https://icipressinidelcastellaccio.com/
 relation	16618790	https://www.viefrancigene.org
 relation	16619475	https://www.ilcamminodisanjacopo.it/
 relation	16828257	https://www.mps.it/
+relation	16828688	http://www.unisi.it/altre-strutture/presidio-san-miniato
 relation	16876385	https://www.portedimarliana.it/percorso/percorso-in-bici-su-strada/
 relation	16923989	https://www.palaiatoscana.it/sentieristica/
 relation	16924054	https://www.palaiatoscana.it/sentieristica/
@@ -7604,6 +7631,11 @@ relation	17192781	https://www.thegambassiexperience.com/project/i-sentieri-dei-c
 relation	17195155	https://www.thegambassiexperience.com/project/i-sentieri-dei-casciani/
 relation	17206205	https://www.thegambassiexperience.com/project/i-sentieri-dei-casciani/
 relation	17211590	https://www.thegambassiexperience.com/project/i-sentieri-dei-casciani/
+relation	17271405	https://www.montaioneintuscany.it/natura-e-paesaggio/rete-escursionistica-itinerari-nel-verde/
+relation	17271522	https://www.montaioneintuscany.it/natura-e-paesaggio/rete-escursionistica-itinerari-nel-verde/
+relation	17274505	https://visitcascianatermelari.it/percorsi/#ipd=110161644
+relation	17292999	https://www.visittuscany.com/it/itinerari/la-via-etrusca-da-fucecchio-a-fiesole/
+relation	17296770	https://www.visittuscany.com/it/itinerari/la-via-etrusca-da-fucecchio-a-fiesole/
 node	215646877	https://www.unisi.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
@@ -8335,6 +8367,7 @@ node	10284901996	https://www.risorgimentofirenze.it/loggetta-platonica/
 node	10544057199	https://provinciadiprato.wordpress.com/2014/09/09/le-mura-del-castelnuovo
 node	10832196660	https://www.ilfilo.net/arte/borgoIlTabernacolodiLutiano.htm
 node	11307578651	http://www.speleotoscana.it/scheda-catastale/?id=248
+node	11663945036	https://www.museidimaremma.it/it/museo.asp?keymuseo=4
 way	23485067	http://www.comune.prato.it/storiastrade/?stato=scheda&id=82283
 way	23757921	http://www.comune.prato.it/storiastrade/?stato=scheda&id=42068
 way	25146571	http://www.comune.prato.it/storiastrade/?stato=scheda&id=11695
@@ -8422,6 +8455,7 @@ way	295423028	http://nostrasignoralourdesfollonica.blogspot.it/
 way	300910280	https://fondoambiente.it/luoghi/villa-gargallo-a-treppio?ldc
 way	304947836	http://www.walkingitaly.com/abstract/0001722%20-%20mulino%20di%20nelle/0001722%20-%20mulino%20di%20nelle.htm
 way	306555897	http://www.walkingitaly.com/abstract/0001524%20-%20villa%20rospigliosi%20di%20candeglia/0001524%20-%20villa%20rospigliosi%20di%20candeglia.htm
+way	309152441	https://www.museidimaremma.it/it/museo.asp?keymuseo=47
 way	309401179	http://mapserver.provincia.prato.it/prv_po/Cartapatrimonio/_console/07_pdf/Edifici_Pses/008_Il%20Mulino_di_Savignano.pdf
 way	312118857	http://mapserver.provincia.prato.it/prv_po/ptc2008/_console/07_pdf/giardini_schede/G038.pdf
 way	313265156	http://mapserver.provincia.prato.it/prv_po/ptc2008/_console/07_pdf/giardini_schede/G041.pdf
