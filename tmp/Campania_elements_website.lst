@@ -234,6 +234,7 @@ node	2479106995	https://www.fontelina-capri.com/en/restaurant
 node	2481698029	https://www.nuovorebecchino.it/
 node	2482979566	http://www.pompeiisites.org/Sezione.jsp?titolo=Foro+triangolare+e+Tempio+dorico+%28VIII%2C7%2C30-34%29&idSezione=136
 node	2482979568	http://www.pompeiisites.org/Sezione.jsp?titolo=The+Domus+of+Triptolemus&idSezione=3148&lookfor=basilica
+node	2482979571	http://pompeiisites.org/en/archaeological-site/comitium-and-municipal-buildings/
 node	2493466958	https://www.oasialento.it/
 node	2496583337	http://www.hotelclarean.it/
 node	2496583343	https://www.unieuro.it/
@@ -975,7 +976,6 @@ node	5863672777	https://www.facebook.com/coinfinanziaria
 node	5883093321	https://etesupermercati.it
 node	5883093339	https://www.pizzerianumberone.it/
 node	5884618300	https://www.conad.it/ricerca-negozi/negozio.009265.html
-node	5884618301	https://negozi.ovs.it/it/negozi/italia/napoli/ovs-casandrino_02135.aspx
 node	5885375729	https://www.farmaciadamoreteresa.it/
 node	5925890688	http://www.pasticceria-pina.com
 node	5929306486	https://www.biglietteriavecchione.it/
@@ -1636,7 +1636,7 @@ node	9407632766	https://www.perdormire.com/negozi/nola-na/
 node	9407632768	https://castaldodesign.it/
 node	9407637695	info@schettinoinfanzia.com
 node	9407873905	https://www.lartigianoceramiche.com
-node	9408699290	https://linktr.ee/wellyitalia
+node	9408699290	https://www.eatwellys.com/
 node	9408705233	https://macelleria-vegetariana-italia-butcher-shop.business.site/
 node	9408742217	http://www.biergarten-bierkeller.it/home-biergarten/
 node	9415985777	https://www.febalcasa.com/it/
@@ -2248,6 +2248,7 @@ node	11564806066	https://www.paradisodilettere.com/
 node	11565710869	https://www.lapizzadivincenzomansi.it/
 node	11576376100	https://www.villadurrueli.it
 node	11582070666	https://www.agriturismolaforesta.com/
+node	11589082136	https://www.conad.it
 node	11622612833	"https://nextcharge.app/map?lang=it&station=OCPI-287-IT*MEC*PME00015&provider=MeCharge&location=41.064707,14.408889"
 node	11623208269	https://www.booking.com/hotel/it/home-olympus-vesuvio.html
 node	11630608822	https://www.verisure.it/
@@ -2260,6 +2261,9 @@ node	11652580071	www.cooperativasociale.it
 node	11653228053	https://www.meteoproject.it/ftp/stazioni/rifugiocervati/index.php
 node	11659633962	https://www.gtoresorts.com/atlantic-palace/
 node	11663643698	https://www.carranofuneral.com
+node	11672710737	https://giordano1983.it
+node	11672725370	http://www.sloppyjoes.it
+node	11688212888	https://padelclubgiugliano.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2606,6 +2610,7 @@ way	360078117	https://www.catacombedinapoli.it/
 way	360141058	https://www.liceogandhi.edu.it/
 way	362126229	http://www.liceoettoremajorana.gov.it/
 way	362427646	https://www.lecasegiallemelizzano.com/
+way	363324237	https://toil.it
 way	363477943	http://www.redentoriste.it/
 way	365314728	https://www.icdefilippoderuggiero.edu.it/
 way	367206119	https://www.portoturisticodicapri.com/
@@ -3009,6 +3014,7 @@ way	840997350	https://www.icmarconi-torricelli.edu.it/
 way	841174736	https://www.agriturismoi7venti.it/
 way	842635769	http://www.ic61sauropascoli.gov.it/
 way	842635770	https://www.vittoriovenetonapoli.edu.it/
+way	844166825	https://toil.it
 way	846514796	https://www.lidl.it/
 way	847481373	https://www.cdungaretti.edu.it/
 way	847565781	https://www.scuolarenatofucini.edu.it/site/
@@ -3312,6 +3318,7 @@ way	1245536865	https://www.scuolareginacarmeli.it/
 way	1253189580	https://www.hotelolimpico.it/
 way	1253189581	https://quadrifoglio.eu/
 way	1253302536	https://www.oldwildwest.it/code/25807/Salerno-C-C-Siniscalchi
+way	1256724081	https://it-it.facebook.com/LaLocandaDelGallo
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3344,9 +3351,11 @@ relation	4627483	https://www.caimontilattari.it/sentiero/349/
 relation	4628222	https://www.caimontilattari.it/sentiero/349c/
 relation	4628280	https://www.caimontilattari.it/sentiero/350/
 relation	4628287	https://www.caimontilattari.it/sentiero/336b/
+relation	4628300	https://www.caimontilattari.it/sentiero/334/
 relation	4628311	https://www.caimontilattari.it/sentiero/336/
 relation	4757514	https://www.caimontilattari.it/sentiero/327/
 relation	4761938	https://www.caimontilattari.it/sentiero/329/
+relation	4761978	https://www.caimontilattari.it/sentiero/332a/
 relation	4761993	https://www.caimontilattari.it/sentiero/338b/
 relation	4763658	https://www.caimontilattari.it/sentiero/324a/
 relation	4763694	https://www.caimontilattari.it/sentiero/326/
@@ -3356,6 +3365,11 @@ relation	4767775	https://www.caimontilattari.it/sentiero/329b/
 relation	4767794	https://www.caimontilattari.it/sentiero/329c/
 relation	4767797	https://www.caimontilattari.it/sentiero/329d/
 relation	4767810	https://www.caimontilattari.it/sentiero/329e/
+relation	4767852	https://www.caimontilattari.it/sentiero/330/
+relation	4767863	https://www.caimontilattari.it/sentiero/332/
+relation	4767880	https://www.caimontilattari.it/sentiero/332b/
+relation	4767881	https://www.caimontilattari.it/sentiero/332c/
+relation	4767884	https://www.caimontilattari.it/sentiero/335/
 relation	4768295	https://www.caimontilattari.it/sentiero/336a/
 relation	4768303	https://www.caimontilattari.it/sentiero/336c/
 relation	4768306	https://www.caimontilattari.it/sentiero/338/
@@ -3369,6 +3383,7 @@ relation	4827347	https://www.caimontilattari.it/sentiero/349b/
 relation	5341891	https://www.vesuviosorrento.com/
 relation	5407110	http://www.museoalfonsiano.it/node/40
 relation	5424672	http://www.pompeiisites.org/Sezione.jsp?titolo=La+casa+dell%27albergo&idSezione=188
+relation	5863745	https://www.caimontilattari.it/sentiero/330b/
 relation	6047432	https://www.comune.torreannunziata.na.it/hh/index.php
 relation	6179936	https://www.foqusnapoli.it/
 relation	6181836	http://www.ogmotors.com
@@ -3439,6 +3454,7 @@ relation	16035103	https://www.curreriviaggi.it/it/navetta-aeroporto-di-napoli
 relation	16035165	https://www.curreriviaggi.it/it/navetta-aeroporto-di-napoli
 relation	16439875	https://www.mediateur.it/natale-al-loreto/
 relation	17005066	https://lecotoniere.it/
+relation	17270859	https://www.caimontilattari.it/sentiero/330a/
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
