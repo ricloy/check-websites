@@ -773,7 +773,6 @@ node	2311467791	https://www.enel.it/punto-enel/
 node	2311467793	https://www.enel.it/punto-enel/
 node	2311467794	https://www.enel.it/punto-enel/
 node	2311467795	https://www.enel.it/punto-enel/
-node	2311467796	https://www.enel.it/punto-enel/
 node	2311467798	https://www.enel.it/punto-enel/
 node	2311467799	https://www.enel.it/punto-enel/
 node	2311467800	https://www.enel.it/punto-enel/
@@ -784,7 +783,6 @@ node	2311467806	https://www.enel.it/punto-enel/
 node	2311467807	https://www.enel.it/punto-enel/
 node	2311467808	https://www.enel.it/punto-enel/
 node	2311467809	https://www.enel.it/punto-enel/
-node	2311467810	https://www.enel.it/punto-enel/
 node	2311467811	https://www.enel.it/punto-enel/
 node	2311467812	https://www.enel.it/punto-enel/
 node	2311467813	https://www.enel.it/punto-enel/
@@ -1193,6 +1191,7 @@ node	2956231691	https://www.hoteltripoli.it/
 node	2956258044	https://www.decathlon.it/store-view/sport-shop-settimo-torinese-0070073200732
 node	2960715234	https://www.irpi.cnr.it/chi-siamo/sedi/torino/
 node	2967070145	http://www.ciclidrigani.com/
+node	2975475598	https://www.ricerchemediche.it
 node	2975884167	https://www.comune.vercelli.it/cultura-turismo/mac-museo-archeologico-civico-bruzza
 node	2976438679	https://www.e-coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/1424
 node	2980644972	https://u2supermercato.unes.it/
@@ -1767,7 +1766,7 @@ node	3929932764	https://www.farmaciamaggiore.com/
 node	3933373834	https://www.ilcastellocossogno.com/
 node	3939392991	https://www.itacae.com/
 node	3940805575	https://www.ristorantealbuegrasso.it/
-node	3943092278	https://www.facebook.com/pg/novarafarmacia/about/
+node	3943092278	http://farmacianovara.com/
 node	3943307180	http://www.allante.it
 node	3945673179	https://www.findomestic.it/
 node	3946017788	http://www.farmaciabaima.it/
@@ -2943,6 +2942,8 @@ node	5277040472	https://www.iisgaeaulenti.it/
 node	5278605844	https://www.agrigelateria.eu/
 node	5288085203	https://www.facebook.com/canaoula/
 node	5288093330	https://aifontana.com/
+node	5295345733	https://www.aiapinerolo.it/
+node	5295352284	https://icepolepinerolo.it/
 node	5298041272	https://www.conad.it/ricerca-negozi/negozio.050051.html
 node	5301224729	http://www.dastor.it
 node	5302512721	http://www.focacceriegrantorino.it/
@@ -3292,6 +3293,7 @@ node	5912619818	http://www.ablondi.it/
 node	5912638571	https://sa-web.it/
 node	5912642592	https://www.agriturismolousaret.it
 node	5913522483	http://www.farmafedelta.it/
+node	5913529079	https://www.novaracinema.it/cinema/araldo
 node	5920089877	https://www.vignasanta.com/
 node	5921139176	https://www.poste.it/cerca/index.html#/risultati-cerca-up/cerro%20tanaro
 node	5922280939	https://www.facebook.com/pufftorino/
@@ -5245,7 +5247,6 @@ node	9581423175	https://www.ristoranteelbeso.it/
 node	9583437324	https://www.lasvegasbyplaypark.com/sala/caresanablot/
 node	9587548719	https://www.caiovada.it/
 node	9587611654	http://bebacasadililly.it/
-node	9588350521	http://www.bryanauto.it/
 node	9588350522	http://floorzeta.it/
 node	9588764034	https://larc.it/via-don-murialdo/
 node	9594181275	https://questure.poliziadistato.it/it/Vercelli/articolo/12305b5ac392a103f868211627
@@ -5675,7 +5676,6 @@ node	10717363568	https://www.fogliettiracing.it
 node	10718340391	https://www.museomida.it/
 node	10718942397	https://donaya.it/
 node	10720168881	https://www.ricamificiokiro.it/azienda.html
-node	10721052144	https://www.burgerking.it/ristoranti/piemonte/torino/pinerolo/
 node	10723895953	https://camere-camillo.com
 node	10728544332	https://www.camomillaitalia.com/it-it/
 node	10728563297	https://www.ristorantedelbarcaiolo.it/
@@ -6019,6 +6019,9 @@ node	11642490526	https://www.scuolamaigret.com/
 node	11649888665	https://www.vetrocar.it/centri/vetrocar-vercelli-2/
 node	11652650037	https://www.casaperferiefalbert.it/
 node	11655621695	https://torino.cronos.house/
+node	11668832872	https://www.tuttolegnobricolage.com
+node	11684891253	https://sites.google.com/view/autoscuolavercellese
+node	11685817688	https://www.novaracinema.it/cinema/faraggiana;https://www.teatrofaraggiana.it/cinema-novara
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6067,6 +6070,7 @@ way	49046715	http://www.copernicoluxemburg.gov.it
 way	49046716	https://www.sme.unito.it
 way	49393402	https://www.vialattea.it
 way	50259561	https://www.carrefour.it/punti-vendita/carrefour-iper-torino-corso-turati-n75-I041.html
+way	50414788	https://www.cinelandia.it/le-nostre-sale/cinema-casale.html
 way	55693706	https://www.rifugiogastaldi.com/
 way	56470867	https://www.denso-ts.com/
 way	56471684	http://www.laraenergy.it/
@@ -6424,6 +6428,7 @@ way	177896495	http://www.vallauri.edu/public/ita/pagina.asp
 way	178181518	https://www.bioindustrypark.eu/
 way	178289048	http://www.curiepinerolo.gov.it/
 way	178326602	https://www.alberti-porro.edu.it/wordpress/
+way	178326614	https://www.burgerking.it/ristoranti/piemonte/torino/pinerolo/
 way	178415434	https://www.comune.ivrea.to.it/scopri-ivrea/mercati.html
 way	178458015	https://www.comune.grignasco.no.it/
 way	178458025	https://www.carrefour.it/punti-vendita/carrefour-market-grignasco-via-iv-novembre-31-4445.html
@@ -7492,7 +7497,8 @@ way	363635468	https://www.roccacivalieri.com/
 way	363722805	http://www.istitutocomprensivosantambrogio.it/costa.htm
 way	364250617	https://www.cailiguregenova.it/index.php?option=com_content&view=article&id=38:rifugio-talarico&catid=6:rifugi&Itemid=50
 way	364263466	http://www.archeo.piemonte.beniculturali.it/index.php/it/musei/aree-archeologiche/70-aree-arch-prov-di-torino/346-villa-romana-di-almese
-way	364490601	http://www.agriciuvin.it/
+way	364490598	https://www.damaurizio.eu/
+way	364490601	https://www.damaurizio.eu
 way	364505683	http://www.castellodiuviglie.com/index.php
 way	364874904	https://www.hotelpanoramico.it/
 way	365084439	http://www.alessandriaoggi.info/sito/2011/10/11/crac-siltal-in-manette-limprenditore-perugino-caraffini-2/
@@ -8913,6 +8919,7 @@ way	1235828168	https://primocircoloasti.edu.it
 way	1236298350	https://www.capnordovest.it/
 way	1248093797	https://www.caseificioquaglia.it
 way	1254342726	https://www.spacciocultura.it/lospacciodiculturaportapalazzo/
+way	1256899821	http://www.bryanauto.it/
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -10173,6 +10180,7 @@ relation	16399512	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-s
 relation	16730744	https://monumenti.comune.novara.it/it/percorso1
 relation	16949289	https://www.beyoo.it/residenza-universitaria/torino/taurasia-living-torino/
 relation	17035575	https://www.estmonterosa.it/percorsi-vco.html
+relation	17075184	http://www.estmonterosa.it/percorsi-vco.html
 relation	17153596	https://zou.maregionsud.fr
 relation	17153597	https://zou.maregionsud.fr
 node	63629039	http://www.comune.chiusadisanmichele.to.it
@@ -10749,6 +10757,7 @@ node	11335553434	https://www.batteryclinic.it
 node	11361346932	https://www.agriturismolafontanella.it/
 node	11407447686	https://www.movimentorangers.com/
 node	11503611098	http://www.intec-2000.it/
+node	11665555284	Officinadelcomputer.net
 way	24600050	https://booking.isoleborromee.it/it/product/7/detail
 way	39670307	https://www.bardonecchia.it/strutture/posto-tappa-valfredda/
 way	58323423	http://www.aeroclubvercelli.it/
@@ -11693,3 +11702,4 @@ relation	14097689	https://percorsi.estmonterosa.it/h/H10/H10.kml
 relation	14165318	https://percorsi.estmonterosa.it/h/H01/H01.kml
 relation	14191481	https://percorsi.estmonterosa.it/h/H09y/H09y.kml
 relation	15261892	https://percorsi.estmonterosa.it/t/T20c/T20c.kml
+relation	17075184	https://percorsi.estmonterosa.it/a/A01a.kmz
