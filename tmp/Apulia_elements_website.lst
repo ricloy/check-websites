@@ -348,6 +348,7 @@ node	3385976843	http://www.minimacroma.com
 node	3387922293	https://www.terranobile.it/
 node	3394904037	http://www.pinowebshop.it
 node	3394904042	https://www.facebook.com/pages/hair-for-passion/290772980559?fref=ts
+node	3396163608	https://www.poste.it/
 node	3398354616	https://www.comune.martinafranca.ta.it/
 node	3401739593	https://www.lapucciaonline.it/
 node	3404727846	https://www.takamilecce.it
@@ -423,7 +424,6 @@ node	3846262795	https://www.cittadelsole.it/
 node	3859476091	http://www.icosport.it/
 node	3873814377	https://www.officinadegliesordi.it/
 node	3874335810	http://www.museofaggiano.it
-node	3881168386	https://www.comevuoigroup.com/
 node	3886241776	https://www.sanita.puglia.it/portal/page/portal/SAUSSC/Aziende%20Sanitarie/ASL/ASL%20Brindisi/Distretti%20Socio%20Sanitari/DSS%20N.%203%20-%20Francavilla%20Fontana/Punto%20Primo%20Intervento/Punto%20Primo%20Intervento%20Ceglie%20Messapica1
 node	3909500934	https://www.gioiellerialavinia.com/
 node	3911359892	https://www.brosrestaurant.it/
@@ -1392,6 +1392,7 @@ node	9329458580	https://www.cartolerialafenice.it/
 node	9329479271	http://www.umisushi.it/
 node	9329508478	https://restaurantguru.it/BAR-Stallone-di-Stallone-Ignazio-Bari
 node	9329519700	https://www.oiza.it/
+node	9340200265	https://www.bricomontemurro.it/
 node	9348416598	https://spazio13.org
 node	9348440529	https://www.lafayettehotelbari.com/?utm_source=GB&utm_medium=organic
 node	9348448114	https://www.goldenpoint.com/
@@ -2044,7 +2045,7 @@ node	11512132791	https://www.frulez.it/
 node	11512204423	https://www.twinset.com/
 node	11512204425	https://www.maccosmetics.it/
 node	11512308467	https://www.doppelganger.it/
-node	11512308468	https://www.cimabari.it/
+node	11512308468	https://www.ysl.com/it-it
 node	11512334571	https://it.sisley.com/
 node	11513853000	https://lillabari.it/
 node	11513925287	https://www.honestbari.com/
@@ -2071,7 +2072,7 @@ node	11598961460	https://www.escaperoombarletta.com/
 node	11608392521	https://www.pinacotecabari.it/
 node	11608490524	https://ilmulinopizzeria.it/
 node	11610544243	http://www.palazzomariano.it/
-node	11631042369	http://www.museodelpaneforte.it
+node	11631042369	https://www.museodelpaneforte.it/
 node	11642918267	https://www.tenutadonnacaterina.it/
 node	11649674735	https://bari.mfa.gov.ge/
 node	11649752955	http://www.cassaedilebari.it/
@@ -2080,6 +2081,19 @@ node	11652753610	https://www.facebook.com/sanpiopanificio
 node	11657909744	https://m.facebook.com/p/Medusa-caf%C3%A8-Zapponeta-100062706831173/
 node	11662554534	https://central-bar-gelateria-bar.business.site/?utm_source=gmb&utm_medium=referral
 node	11663716280	https://www.facebook.com/p/Pizzeria-del-vicolo-100063721441822/?locale=IT
+node	11671805962	https://www.comevuoigroup.com/
+node	11677603416	https://www.bonificacapitanata.it/
+node	11679053188	https://montevagoluxurybags.com/
+node	11679053189	https://amalobari.it/
+node	11679077327	https://www.escapecampus.it/
+node	11679077328	https://www.amplifon.com/it/cerca-centro-amplifon/apparecchi-acustici-bari/amplifon-piazza-umberto-i-s11?utm_source=google&utm_medium=yext
+node	11679077329	https://www.fitandgo.it/
+node	11681602615	https://www.nadagioielli.it/
+node	11681722589	https://www.nove25.net/it/
+node	11682242686	https://central-pizzeria-zapponeta.business.site/
+node	11682281445	https://www.facebook.com/centralpasticceria/?locale=it_IT
+node	11687501894	https://www.iobebestore.com/
+node	11687501895	https://www.immaginibari.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2919,6 +2933,7 @@ way	741676742	https://www.lecaledotranto.com
 way	741676745	https://www.torresantostefano.it
 way	747003691	https://www.agrimatsalento.com/
 way	753746558	http://www.teatrocrest.it/
+way	760239726	https://camperlife.it/zapponeta-beach.html
 way	769416558	iccavallino.gov.it
 way	769424574	iccavallino.gov.it
 way	769768290	http://www.liceolilla.it
@@ -3119,6 +3134,7 @@ relation	6134103	www.masseriadeimonelli.it
 relation	6195091	https://www.sportclubpiazzaeuropa.it/
 relation	6197020	https://mongolfierasantacaterina.it/
 relation	6201836	https://www.comune.fasano.br.it/pagina55_egnazia-il-parco-archeologico.html
+relation	6212679	https://www.ba.camcom.it/
 relation	6225175	http://www.city-manager.info/-un-habitat-residenziale--a-terrazzo-.html
 relation	6251742	https://www.sanita.puglia.it/web/asl-brindisi/distretti-socio-sanitari_det/-/journal_content/56/36031/poliambulatorio-di-mesagne
 relation	6264780	http://www.secondocomprensivofrancavillafontana.gov.it
