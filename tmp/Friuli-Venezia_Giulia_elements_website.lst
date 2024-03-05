@@ -621,7 +621,7 @@ node	2713242039	https://www.alcavallino.org/
 node	2722875419	https://www.giudittateresa.com/
 node	2722896773	https://www.smo-center.eu/
 node	2723741631	https://www.mosettimarmi.com/
-node	2730832382	https://www.uniud.it/dipartimenti/disg
+node	2730832382	https://disg.uniud.it/
 node	2740932518	https://www.fabrisauto.com/
 node	2744292457	http://www.poiana.it
 node	2744292458	http://www.fvgwifi.it
@@ -794,6 +794,7 @@ node	3633894269	http://www.sanitariatriestina.it/
 node	3633895107	http://www.retecivica.trieste.it/triestecultura/new/bibliotecamattioni/default.asp
 node	3633898073	http://www.conservatorio.trieste.it/biblio.html
 node	3633900398	https://disu.units.it/it/dipartimento/patrimonio-dipartimento/Archivio-degli-scrittori-e-della-cultura-regionale
+node	3633901489	https://museopetrarchesco.it/
 node	3633901595	https://www.molinomoras.it/
 node	3633902163	https://www.informazione-aziende.it/Azienda_RUPEL-MARKO
 node	3633902416	http://2scomputers.com
@@ -803,6 +804,7 @@ node	3633907108	http://www.biblio.univ.trieste.it/pageview?pid=44
 node	3633907946	http://www.bombonieremarina.it/
 node	3633909545	http://www.emporioistriano.com/
 node	3633909581	https://www.hotelvictoriatrieste.com/
+node	3633910571	https://museopetrarchesco.it/
 node	3633910809	http://www.spin.it/
 node	3633911789	https://www.canottieriadria1877.com/
 node	3633911959	http://www.triestebike.com
@@ -1014,6 +1016,8 @@ node	3775603019	https://www.ossoauto.com/
 node	3780260913	https://www.piassalber.it/
 node	3784350092	https://www.farmaciasatti.com/
 node	3784350130	http://www.tretiarredamenti.it/
+node	3784356506	http://www.agriturismotonutti.it
+node	3784357214	http://www.agriturismotonutti.it/le-camere/
 node	3784363003	https://www.immaginarioscientifico.it/
 node	3784378421	https://www.righinicasalinghi.it/
 node	3784380133	https://asuiud.sanita.fvg.it/servizi/per-le-persone/medici-e-pediatri/trova-il-tuo-medico?id=123
@@ -2139,7 +2143,6 @@ node	10006304573	https://www.hotelpashalignano.it/
 node	10010261484	https://www.mobile.doimohotels.it/sancarlo/it/
 node	10010261515	https://www.ristoranteagosti.it/
 node	10010283539	https://www.falzarano.it/
-node	10010283566	https://www.galleriademartin.com/galleria-aurifontana/
 node	10010323081	https://www.insmercato.it/
 node	10012354056	https://bar-gelateria-kings.business.site/
 node	10012354057	https://giocasaimmobiliare.it/
@@ -2353,6 +2356,7 @@ node	11608491940	www.infoteca.it/sbcasarsa
 node	11627198771	http://www.cnsas-fvg.it/stazioni/stazione-di-forni-avoltri.html
 node	11627225038	http://www.cnsas-fvg.it/stazioni/moggio-udinese.html
 node	11627229484	http://www.cnsas-fvg.it/stazioni/cave-del-predil.html
+node	11684657808	https://www.domenis1898.eu/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	https://campingalbosco.it/
@@ -3258,6 +3262,7 @@ way	1223145371	http://www.associazionesangregorio.org/index.php?option=com_conte
 way	1223215744	https://icpordenonesud.edu.it/scuola-primaria-gaspare-gozzi
 way	1239902628	https://www.elettrosanvitese.it/
 way	1241226336	http://www.bottosso.eu/
+way	1242961557	https://refoscollection.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -3875,7 +3880,7 @@ relation	7115464	https://www.collinbici.com/
 relation	7156011	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-997
 relation	7176549	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/s1-158
 relation	7201084	http://www.spdt.org/
-relation	7233567	http://www.spdt.org/
+relation	7233567	https://www.spdt.org/
 relation	7253647	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-712
 relation	7255126	http://www.spdt.org/
 relation	7257027	http://www.spdt.org/
