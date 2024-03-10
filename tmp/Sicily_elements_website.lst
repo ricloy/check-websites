@@ -3322,6 +3322,7 @@ node	10796910983	https://www.museionline.info/musei/museo-della-cucina-iblea
 node	10797796273	https://www.verdechiaro.info/
 node	10797805148	https://palermitanoscacchi.it/
 node	10799574333	https://syrah-restaurant.business.site/
+node	10800026881	https://www.castellana.it
 node	10802224146	https://www.booking.com/hotel/it/casa-nicea.it.html
 node	10802256438	https://www.booking.com/hotel/it/casa-aquila-sveva.it.html
 node	10804719394	https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-territorio-ambiente/comando-corpo-forestale-regione-siciliana
@@ -3346,7 +3347,6 @@ node	10856023505	https://www.fisiomedicaragusa.it
 node	10856023506	https://www.clinicaveterinariaplatani.it/
 node	10858714096	https://www.saisautolinee.it
 node	10861200577	http://www.ristorantedazino.it
-node	10873138916	https://www.conad.it/ricerca-negozi/negozio.008966.html
 node	10873177772	https://www.frisku.it/
 node	10876517177	https://www.poste.it
 node	10879679055	https://www.iccarlolevimaniace.edu.it/
@@ -3548,6 +3548,7 @@ node	11535092477	https://www.comune.mirabellaimbaccari.ct.it/
 node	11535092480	https://www.comune.acate.rg.it/home/
 node	11535092481	https://www.comune.santa-croce-camerina.rg.it/
 node	11537311210	https://www.airbnb.it/rooms/11705866
+node	11543707703	https://www.sushisusiracusa.it/
 node	11549020294	https://www.museionline.info/musei/museo-della-tonnara-di-bonagia
 node	11564885008	http://www.hobbyzoo.org/
 node	11564885009	http://www.hobbyzoo.org/
@@ -3621,9 +3622,11 @@ node	11669644223	https://www.3iccapuana.edu.it/
 node	11669644224	https://www.icbianca.edu.it/
 node	11672922755	https://www.coopvalica.it/
 node	11674112080	https://www.altritempiantichita.it/
+node	11674142491	https://www.langolodeisaporipistacchio.it/
 node	11677242446	https://www.italia21agency.it/
 node	11682588652	https://ramiruralresort.it/
 node	11685885087	https://tuttoagri.it/
+node	11692057798	https://www.ipssatchinnicinicolosi.edu.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	https://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -3956,6 +3959,7 @@ way	204822586	https://www.aurispa-noto.edu.it/
 way	205461865	https://derobertoct.edu.it/
 way	205643522	https://www.sdslingue.unict.it/
 way	206096611	http://www.istitutotecnicoregionalecatania.it
+way	206283507	https://www.scuoladusmetnicolosi.edu.it
 way	206515616	http://scuolaromagnoligela.gov.it/
 way	206515617	https://istitutoeschilogela.edu.it
 way	207347603	http://www.silosristorante.com/
@@ -3964,10 +3968,7 @@ way	207984277	http://www.santuariopapardura.it/
 way	208099153	palazzocastro.it
 way	209764596	http://www.guardiacostiera.it/capitanerieonline/index.cfm?id=63
 way	210076077	https://www.unirg.it/
-way	210137018	https://www.cantonegomme.it
 way	210137046	https://www.dais.it/
-way	210137074	https://www.sicilog.com/
-way	210137077	https://agrisicilia.eu/
 way	210244046	https://www.centrocommercialelafortezza.it/
 way	210244091	https://www.circolodidatticopozzallo.edu.it/
 way	210449027	https://www.comune.ragusa.gov.it/turismo/unesco/13rocca.html
@@ -4019,6 +4020,7 @@ way	227934166	https://www.acquaparkbelvedere.com/
 way	228047925	https://www.cargill.it/
 way	230589024	https://www.comune.taormina.me.it/
 way	230721936	https://www.comune.giardini-naxos.me.it/
+way	230948520	https://www.scuoladusmetnicolosi.edu.it/
 way	230998414	https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-territorio-ambiente/comando-corpo-forestale-regione-siciliana
 way	231002059	https://www.fermisiracusa.it/
 way	231371799	https://www.istitutocomprensivovannanto.edu.it
@@ -4508,6 +4510,7 @@ way	407062013	https://www.kili-caffe.it/
 way	409050304	https://www.vigilfuoco.it
 way	409836090	https://www.hotel-siracusa.com/
 way	411506314	http://www.isola-bella.it
+way	412284638	http://www.campeggioforzadagromare.it/
 way	412288426	https://www.parkhotelsilemi.com/
 way	416453643	http://torredelgrifovillage.it
 way	416718524	http://teatroluigipirandello.it
@@ -4932,6 +4935,7 @@ way	751347375	www.pietrenereresort.it
 way	751478177	https://www.comune.nizzadisicilia.me.it/jo/parco-suburbano
 way	756011574	https://www.icsgesualdobufalino.edu.it/
 way	756371890	http://www.casalesanleonardo.com
+way	759408279	https://www.scuoladusmetnicolosi.edu.it
 way	759408280	https://www.scuoladusmetnicolosi.edu.it
 way	760821159	https://www.penny.it/
 way	761089711	https://www.etnawineagriturismo.com/
@@ -5632,6 +5636,15 @@ way	1255331038	https://www.icbianca.edu.it/
 way	1256076004	https://www.casavacanzekastalia.com/
 way	1256076005	https://www.casavacanzekastalia.com/
 way	1256076006	https://www.casavacanzekastalia.com/
+way	1257243852	https://www.casavacanzelachesi.it/
+way	1257621147	https://www.scuoladusmetnicolosi.edu.it
+way	1257621169	http://www.istitutosantalucia.it/
+way	1257621171	https://www.ipssatchinnicinicolosi.edu.it/
+way	1257621176	https://www.ipssatchinnicinicolosi.edu.it/
+way	1257621182	https://www.ipssatchinnicinicolosi.edu.it/
+way	1258382063	https://agrisicilia.eu/
+way	1258382064	https://www.sicilog.com/
+way	1258382065	https://www.cantonegomme.it
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6222,6 +6235,7 @@ node	4693870954	http://www.pasticceriacalamunci.it/
 node	4736605311	http://www.crocedorosanfrancesco.com
 node	4759415458	http://infocenter.me
 node	5076281574	https://www.bbportasoprana.it/
+node	5155209122	https://agriturismo-trinacria.business.site/?utm_source=gmb&utm_medium=referral
 node	5175735657	http://www.arddiscount.it
 node	5278559970	http://www.spaccioalimentare.it
 node	5451294972	https://www.belvedereresidence.it/
@@ -6280,7 +6294,6 @@ node	11649325122	https://www.caffenakone.com/
 node	11649818463	http://www.bibliotecamodica.it/
 node	11653416982	https://www.campoallegrosicilia.it/
 node	11657337602	http://casamemoria.it/
-node	11674142491	https://www.langolodeisaporipistacchio.it/
 way	34227431	http://liceomazara.edu.it/
 way	34314619	https://www.zoculture.it/
 way	35264757	http://www.wwfpreola.it/
@@ -6366,6 +6379,7 @@ way	1233473026	https://www.campingparadise.it/
 way	1236092113	https://www.villaries.it/
 way	1240792631	https://sealanddiscoteque.com/
 way	1253728713	https://www.eurospin.it/
+way	1257130521	https://www.hpa-automotive.it/
 relation	1175567	http://www.liceoscientificomazara.it/
 relation	1242170	http://giardinoemiro.altervista.org/
 relation	1383540	http://www.itcmazara.it/
@@ -6380,6 +6394,7 @@ node	7106569916	https://www.trapanishuttle.com
 node	7106569918	https://www.sanvitolocaposhuttle.com
 node	7162048723	http://www.scuolasubpalermo.it
 node	9510275015	https://www.thecrag.com/climbing/italy/central-and-southern-italy/sicily/area/1221011889
+node	9810551033	https://it.sicilyrealty.com/apt-cortile-carini-sciacca
 way	420556066	http://www.casaquasimodo.it/
 way	459158351	http://www.prodromo-vegetazione-italia.org/scheda/rumici-astragalion-siculi/636
 way	485717699	http://www.comune.noto.sr.it/la-cultura/palazzo-nicolaci/
