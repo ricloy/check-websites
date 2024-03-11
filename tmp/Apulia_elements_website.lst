@@ -1625,6 +1625,7 @@ node	9871909928	https://www.vinslounge.it/
 node	9872018783	https://www.hotelripa.com/
 node	9876330154	http://www.viestedamare.it/
 node	9878520991	https://www.unicredit.it/
+node	9878663660	https://www.kemare.it
 node	9878724505	https://www.mareversus.com/
 node	9880727145	https://www.piccolonicola.it/
 node	9880942517	https://ristorantemarechiaro.net/
@@ -2094,6 +2095,19 @@ node	11682242686	https://central-pizzeria-zapponeta.business.site/
 node	11682281445	https://www.facebook.com/centralpasticceria/?locale=it_IT
 node	11687501894	https://www.iobebestore.com/
 node	11687501895	https://www.immaginibari.it/
+node	11691734729	https://www.facebook.com/salapiapharma
+node	11691734730	https://www.facebook.com/farmaciadr.garofalo/?locale=it_IT
+node	11693146869	https://www.gioielleriatiffany.it
+node	11694567885	https://ita.finconsgroup.com/
+node	11694846000	https://m.facebook.com/profile.php?id=100090737225827&_rdr
+node	11694859373	https://m.facebook.com/p/JAMBO-club-Zapponeta-100054594332773/
+node	11696824532	https://www.gruppobcciccrea.it/Pagine/Default.aspx
+node	11697388646	https://www.farmaciapadrepioandria.com/
+node	11697388648	https://www.stefanocoratella.it/
+node	11697410316	https://www.facebook.com/tuttorto
+node	11697410317	https://www.facebook.com/tuttorto
+node	11708503883	https://www.lc-apartmentspuglia.com/it/pagina/home-experience
+node	11708931619	https://www.facebook.com/people/BAR-NEW-YORK/100063716875849/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -3096,6 +3110,8 @@ way	1253917797	https://www.parcogargano.it/poi/foce-varano/
 way	1253917798	https://www.parcogargano.it/poi/foce-varano/
 way	1253917799	https://www.parcogargano.it/poi/foce-varano/
 way	1253917800	https://www.parcogargano.it/poi/foce-varano/
+way	1258980258	https://www.medicinaintegratamoscati.it/
+way	1259705050	https://polcavallaro.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	334867	https://www.uniba.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
@@ -3135,6 +3151,8 @@ relation	6195091	https://www.sportclubpiazzaeuropa.it/
 relation	6197020	https://mongolfierasantacaterina.it/
 relation	6201836	https://www.comune.fasano.br.it/pagina55_egnazia-il-parco-archeologico.html
 relation	6212679	https://www.ba.camcom.it/
+relation	6212927	https://www.jr-hotels.com/it/collection/jr-hotels-grande-albergo-delle-nazioni-bari
+relation	6223648	https://www.comune.putignano.ba.it/polizialocale
 relation	6225175	http://www.city-manager.info/-un-habitat-residenziale--a-terrazzo-.html
 relation	6251742	https://www.sanita.puglia.it/web/asl-brindisi/distretti-socio-sanitari_det/-/journal_content/56/36031/poliambulatorio-di-mesagne
 relation	6264780	http://www.secondocomprensivofrancavillafontana.gov.it
@@ -3177,6 +3195,7 @@ relation	11798572	http://www.marinobusurbano.it/linea_scalo_ferroviario_sx.pdf
 relation	11843712	https://acciaierieditalia.com
 relation	12576335	https://www.viefrancigenedelsud.it/
 relation	12585682	https://www.viefrancigenedelsud.it/
+relation	12857931	https://brindisi.airports.aeroportidipuglia.it/
 relation	13543541	https://www.viefrancigene.org/
 relation	13664625	https://www.viefrancigene.org/
 relation	14178831	https://camminomaterano.it/via/9/via-ellenica-terra-delle-gravine
