@@ -3,6 +3,8 @@ node	26859466	https://www.costaverde.org
 node	26859619	https://www.lamantinera.it/
 node	67273943	https://www.comunedicrosia.it
 node	67274418	http://www.comune.calopezzati.cs.it/
+node	67274740	https://www.comune.sandemetriocorone.cs.it/
+node	67274934	https://www.comune.santasofiadepiro.cs.it/
 node	470282967	https://www.parcopollino.it/grotta-del-romito/
 node	870392827	www.radasiri.com
 node	996897953	https://www.fattoriastocchi.it/
@@ -220,7 +222,6 @@ node	5779810994	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
 node	5779813162	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
 node	5779885532	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
 node	5779887079	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
-node	5851841501	https://carburanti.esso.it/it-it/find-station/esso-rosarno-100107688
 node	5948720444	https://www.nunulab.it/
 node	5948948957	http://calabriagreca.it/blog/risorse/rocca-del-drago-2/
 node	5963805537	https://www.stars4all.eu/
@@ -251,7 +252,7 @@ node	6520427463	https://www.facebook.com/museo.delpresente/
 node	6524669682	https://www.radioecosud.it/
 node	6588449860	https://www.clubesse.it/strutture/hotel-sunbeach/
 node	6588449861	https://www.clubesse.it/strutture/hotel-costa-dello-ionio/
-node	6594617442	http://www.hotel-ilgattopardo.it/
+node	6594617442	https://www.hotel-ilgattopardo.it/
 node	6633353008	www.groticelle.com
 node	6700410728	http://www.parkhotelcalabria.eu
 node	6741718375	https://www.agenziademanio.it/opencms/it/agenzia/strutturaorganizzativa/direzioniterritoriali/calabria/
@@ -453,7 +454,7 @@ node	11069275269	https://etssrl.eu/
 node	11083164555	https://sapuricalabrisi.com
 node	11084113600	https://pentathlonfitness.business.site/
 node	11084149310	https://www.torronegolden.it/
-node	11105957505	http://www.hotelcalabrisella.it/
+node	11105957505	https://hotelcalabrisella.it/
 node	11114293880	https://explosive-nutrition-store.business.site/
 node	11134874151	https://expertcalabria.expertonline.it/
 node	11148871341	https://shotslachupiteria.it/
@@ -513,6 +514,9 @@ node	11618328421	http://phoenixfuel.it/
 node	11623123397	https://www.facebook.com/MacaBistrot
 node	11659334998	https://arcadiatropea.it/
 node	11684641097	https://www.laperlatropea.com/
+node	11697350950	https://suigeneristropea.it/
+node	11698038076	http://www.villanticaglia.it/
+node	11709187494	https://www.barbarosport.com/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	31321527	https://www.conad.it/ricerca-negozi/negozio.006286.html
 way	43042447	https://sba.unical.it/
@@ -826,6 +830,8 @@ way	1205212596	https://www.iisvemanuele.edu.it/
 way	1205242265	https://www.youtube.com/watch?v=g2WtOHyQstI
 way	1215351805	https://www.lagalleriaonline.com/
 way	1217981059	http://www.krataiis.it/
+way	1259465053	https://www.andandoporelmundo.com/italia/villa-san-giovanni/albergo-autostello-di-idone-domenica/
+way	1259777453	https://carburanti.esso.it/it-it/find-station/esso-rosarno-100107688
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	5437445	http://www.certosini.info/
 relation	5951634	https://www.grandhotelparadiso.it/
