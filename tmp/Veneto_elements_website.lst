@@ -931,7 +931,6 @@ node	2311465657	https://www.enel.it/punto-enel/
 node	2311465666	https://www.enel.it/punto-enel/
 node	2311465676	https://www.enel.it/punto-enel/
 node	2311465687	https://www.enel.it/punto-enel/
-node	2311465696	https://www.enel.it/punto-enel/
 node	2311465707	https://www.enel.it/punto-enel/
 node	2311465718	https://www.enel.it/punto-enel/
 node	2311465734	https://www.enel.it/punto-enel/
@@ -6119,6 +6118,11 @@ node	11665767091	http://www.archiviodistatotreviso.beniculturali.it/
 node	11681713969	https://www.cherrybank.it
 node	11687692819	https://m.facebook.com/pizzeriapomodoroospedaletto/
 node	11691202869	http://elmaneton.com
+node	11704861484	https://dpr2depaoli.it/
+node	11709364811	https://www.tavernadelluppolo.com/menu.php
+node	11716755163	https://www.obiettivopubblicita.it
+node	11716945169	https://casa-margherita.bedsandhotels.com
+node	11722011232	https://www.sirmax.com/en/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6178,6 +6182,7 @@ way	35584309	https://www.pianidiclodia.it
 way	36889458	https://www.jtaca.com
 way	37766489	https://www.csaarcadia.org/
 way	38180676	https://www.agec.it/IT/Agec-Servizi-Cimiteriali/Home.html
+way	38421394	https://www.livecivetta.it/
 way	38496520	https://www.rifugiomalgalessinia.it/
 way	38535301	https://www.ucicinemas.it/cinema/veneto/venezia/uci-cinemas-venezia-marcon/
 way	38668989	https://www.campeggioeuropa.net/
@@ -6228,6 +6233,7 @@ way	61291562	https://www.campingfossalta.com
 way	61957011	https://www.campingeuropa.com/
 way	62103955	https://www.comune.breganze.vi.it/
 way	62332429	https://www.math.unipd.it/
+way	62367822	https://www.diodatabertolo.it/
 way	62745580	http://www.motoclub.it/mouse2002/pista2002.htm
 way	63115041	https://www.lainauto.com/
 way	65284747	https://www.villagallaratiscotti.com
@@ -8655,6 +8661,7 @@ way	1244741947	https://www.villabogdano1880.it/natura/
 way	1245398107	https://en.carmens.it/
 way	1246313927	https://www.trattoriasantantonio.com/index.php/parapendio
 way	1252143469	http://www.terraesogni.it/
+way	1260647923	https://www.comune.tregnago.vr.it
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -10288,7 +10295,7 @@ relation	2918002	http://www.centroculturalecandiani.it/
 relation	3638309	https://upvillafrancavr.it/parrocchie/chiesa-di-san-zeno/
 relation	4042407	http://www.actt.it/-canova-park
 relation	7165063	https://www.parconaturaviva.it/
-relation	15716374	https://questure.poliziadistato.it/servizio/commissariati/5730dc9d27b27587077239
+relation	15716374	https://www.poliziadistato.it/
 relation	15717475	https://www.comune.jesolo.ve.it/home
 node	64778766	http://italia.indettaglio.it/ita/veneto/concordiasagittaria.html
 node	256323620	https://www.facebook.com/fondazionecavendramin/
