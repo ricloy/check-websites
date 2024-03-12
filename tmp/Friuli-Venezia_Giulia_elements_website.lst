@@ -73,7 +73,6 @@ node	446273513	https://www.mps.it/
 node	447563418	https://gorizia.ubiklibri.it/
 node	475565173	http://www.knulp.org
 node	480770874	https://www.senzaconfinitrieste.org/
-node	507117556	https://www.marinapuntafaro.it/de/index.aspx
 node	513701664	https://www.rosenbar.it/
 node	514713667	https://www.zkb.it/
 node	516390467	https://www.zkb.it/
@@ -1096,7 +1095,6 @@ node	3832534055	https://www.photo-grafando.com
 node	3832547145	https://www.friulovestbanca.it/
 node	3832547239	https://www.ristorante-mediterraneo.it/
 node	3832581212	http://www.albelvedere.it/
-node	3834046976	https://www.booking.com/Share-4gwzAp
 node	3838746856	www.comune.trivignano-udinese.ud.it
 node	3838756738	https://www.casaperferiecesclans.it/
 node	3838832770	"http://www.viaggioinfriuliveneziagiulia.it/wcms/index.php?id=11375,7945,0,0,1,0"
@@ -1545,9 +1543,9 @@ node	6149774443	http://www.mareeterra.net/
 node	6169500087	https://www.dhomuscasa.it/
 node	6169500088	https://www.dhomuspet.it/
 node	6198464972	www.caispilimbergo.com/
-node	6200835259	http://www.caicividale.it
+node	6200835259	https://www.caicividale.org/
 node	6200857301	https://www.caisag.ts.it/
-node	6200859179	http://www.caipontebba.it
+node	6200859179	https://www.caimonfalcone.org/
 node	6200861801	http://www.caicervignano.it
 node	6200867737	https://www.caicodroipo.it/
 node	6200883427	https://www.caisanvito.it/
@@ -1674,7 +1672,7 @@ node	6726349552	https://www.facebook.com/Trattoria-La-Tavernetta-768725379860620
 node	6741855969	https://www.agenziademanio.it/opencms/it/agenzia/strutturaorganizzativa/direzioniterritoriali/friuliveneziagiulia/
 node	6743791053	http://www.pizzamillenium.it
 node	6744499592	http://www.stopsleepudine.com/stop-sleep-camere-a-venzone/
-node	6745559551	https://www.crai-supermercati.it/
+node	6745559551	https://www.despar.it/it/punto-vendita-despar/979/trieste/
 node	6755717324	http://www.birrificiodiresiutta.it/it/birrificio.php
 node	6756025950	https://www.egoristorante.com/
 node	6763488251	https://www.hotelcigno.it/it/ristorante-pizzeria.html
@@ -2357,6 +2355,8 @@ node	11627198771	http://www.cnsas-fvg.it/stazioni/stazione-di-forni-avoltri.html
 node	11627225038	http://www.cnsas-fvg.it/stazioni/moggio-udinese.html
 node	11627229484	http://www.cnsas-fvg.it/stazioni/cave-del-predil.html
 node	11684657808	https://www.domenis1898.eu/
+node	11710679319	https://m.facebook.com/boteghinalgiardin?wtsid=rdr_0yrz8KLA8PSIBmaEE
+node	11710964422	https://www.yumart.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	https://campingalbosco.it/
@@ -2388,6 +2388,7 @@ way	35992111	http://www.frascaverde.com
 way	36008212	http://www.friulitipico.org/prt/index.php?option=com_content&task=view&id=481&Itemid=157
 way	36008758	https://www.museograndeguerratimau.com/
 way	36008940	http://www.livio.at/
+way	36010481	https://www.booking.com/Share-4gwzAp
 way	36013859	https://www.albergo-miramonti.it/
 way	36013866	http://www.hotelcella.it
 way	36014285	http://www.lapolse.org
@@ -3263,6 +3264,8 @@ way	1223215744	https://icpordenonesud.edu.it/scuola-primaria-gaspare-gozzi
 way	1239902628	https://www.elettrosanvitese.it/
 way	1241226336	http://www.bottosso.eu/
 way	1242961557	https://refoscollection.it/
+way	1259214718	https://www.marinapuntafaro.it/de/index.aspx
+way	1259726230	https://www.curaticonstile.it/it/percorso/800/cimolais-pian_fontana-valle_dei_cantoni-forcella_compol-forcella_dei_cantoni-cima_dei_pret.html
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -3776,8 +3779,8 @@ relation	2889111	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giuli
 relation	2908246	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/s4-461
 relation	2919361	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche/s4-441b
 relation	2919383	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-632a/
-relation	2920834	http://www.spdt.org/
-relation	2920835	http://www.spdt.org/
+relation	2920834	https://www.spdt.org/
+relation	2920835	https://www.spdt.org/
 relation	2925532	http://www.via-alpina.org/it/stage/181
 relation	2925533	http://www.via-alpina.org/it/stage/67
 relation	2925549	http://www.via-alpina.org/en/stage/68
@@ -3879,11 +3882,11 @@ relation	7108579	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s
 relation	7115464	https://www.collinbici.com/
 relation	7156011	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-997
 relation	7176549	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/s1-158
-relation	7201084	http://www.spdt.org/
+relation	7201084	https://www.spdt.org/
 relation	7233567	https://www.spdt.org/
 relation	7253647	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-712
-relation	7255126	http://www.spdt.org/
-relation	7257027	http://www.spdt.org/
+relation	7255126	https://www.spdt.org/
+relation	7257027	https://www.spdt.org/
 relation	7276582	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-746
 relation	7289842	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	7290536	https://www.triestetrasporti.it;https://tplfvg.it/it/
