@@ -47,7 +47,6 @@ node	2304263938	https://www.enel.it/punto-enel/
 node	2304263951	https://www.enel.it/punto-enel/
 node	2311467936	https://www.enel.it/punto-enel/
 node	2311467959	https://www.enel.it/punto-enel/
-node	2311467972	https://www.enel.it/punto-enel/
 node	2311467985	https://www.enel.it/punto-enel/
 node	2311468004	https://www.enel.it/punto-enel/
 node	2311468017	https://www.enel.it/punto-enel/
@@ -55,7 +54,6 @@ node	2311468030	https://www.enel.it/punto-enel/
 node	2311468044	https://www.enel.it/punto-enel/
 node	2311468053	https://www.enel.it/punto-enel/
 node	2311468054	https://www.enel.it/punto-enel/
-node	2311468067	https://www.enel.it/punto-enel/
 node	2311468093	https://www.enel.it/punto-enel/
 node	2311468108	https://www.enel.it/punto-enel/
 node	2311468144	https://www.enel.it/punto-enel/
@@ -284,7 +282,6 @@ node	8177729693	https://www.facebook.com/LeArcate.DanieleVescio
 node	8225466341	http://www.resvigo.com
 node	8262669810	https://www.agriturismovota.it
 node	8364588112	https://www.crai-supermercati.it/punto-vendita/5461-crai-sibari/
-node	8446564584	https://www.abacatanzaro.it
 node	8509404591	https://www.facebook.com/MAISONdeBEAUTE.FC/?ref=page_internal
 node	8578353412	http://www.e-coop.it/punti-vendita-dettaglio?id=5641
 node	8578353673	https://www.lidl.it/
@@ -517,6 +514,8 @@ node	11684641097	https://www.laperlatropea.com/
 node	11697350950	https://suigeneristropea.it/
 node	11698038076	http://www.villanticaglia.it/
 node	11709187494	https://www.barbarosport.com/
+node	11730419328	http://www.sunshinehotel.it/
+node	11739361083	http://www.lepalmebedandbreakfast.com/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	31321527	https://www.conad.it/ricerca-negozi/negozio.006286.html
 way	43042447	https://sba.unical.it/
@@ -765,6 +764,7 @@ way	975038803	https://www.laconchigliaresort.com/
 way	975824698	https://www.donboscosoverato.com/scuola/
 way	987220136	http://www.bncs.librari.beniculturali.it//icms/opencms/polocosenza
 way	992458302	https://icrizziconi.edu.it/w19/
+way	1037701369	https://www.eurospin.it/
 way	1046663083	https://vslancora.it/
 way	1046901977	http://areacs.cnr.it/
 way	1052263686	https://www.eurospin.it/punti-vendita/mangone-603316/
@@ -832,6 +832,8 @@ way	1215351805	https://www.lagalleriaonline.com/
 way	1217981059	http://www.krataiis.it/
 way	1259465053	https://www.andandoporelmundo.com/italia/villa-san-giovanni/albergo-autostello-di-idone-domenica/
 way	1259777453	https://carburanti.esso.it/it-it/find-station/esso-rosarno-100107688
+way	1263052061	https://www.thegardenparkcaterina.it/
+way	1263184472	https://www.abacatanzaro.it
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	5437445	http://www.certosini.info/
 relation	5951634	https://www.grandhotelparadiso.it/
