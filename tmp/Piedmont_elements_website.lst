@@ -1161,7 +1161,7 @@ node	2931926868	www.comune.vistrorio.to.it
 node	2931926891	www.ristorantelaselvaivrea.com
 node	2931926897	https://latofejavistrorio.com/
 node	2933492218	https://cornercateringtorino.com
-node	2934710653	www.comune.issiglio.to.it
+node	2934710653	http://www.comune.issiglio.to.it
 node	2934710662	lapiazzettaissiglio.blogspot.it
 node	2937597424	https://lapuledra.it/
 node	2939372371	https://www.anavalsusa.it/
@@ -1411,7 +1411,6 @@ node	3352056176	http://www.teatrodellacaduta.org/
 node	3352061372	http://www.teatrogiuliadibarolo.com/
 node	3352071960	http://www.teatrodellacaduta.org/
 node	3352080598	https://www.arcipiemonte.it/torino/affiliati/madeventart
-node	3352096005	https://www.fsm.it/istituto.php?id=4288
 node	3352189835	http://parrocchiasantagiulia.eu/
 node	3352189836	https://www.daimonart.it/
 node	3352199953	https://www.valentinostudio.it/
@@ -1567,6 +1566,7 @@ node	3508238125	http://www.bblacasanelbosco.it/
 node	3513458924	http://www.albergodelviale.com
 node	3517152046	http://www.valvaraitaholidays.it
 node	3530607245	http://www.aquilanera.org
+node	3539813663	https://lacedraia.it
 node	3548109418	https://www.hoteloleggio.com/
 node	3548191289	http://www.villaggioriosecco.it/
 node	3556356548	http://provincia.alessandria.it/index.php?ctl=dotazioneorganica&fl=singola&id=131
@@ -1887,7 +1887,6 @@ node	4086481191	http://www.anffas.piemonte.it/associazione/chi_siamo
 node	4086487142	https://www.fisip.it/showquestion.php?faq=1&fldAuto=22
 node	4086494672	https://www.fssi.it/
 node	4086502595	https://www.vitalia-salute.it/
-node	4086514527	https://www.cemedi.it
 node	4086520147	https://www.custorino.it/
 node	4086523262	https://www.custorino.it/impianti/panetti/
 node	4086534541	http://www.mspcalciotorino.com/index.php#
@@ -3620,7 +3619,6 @@ node	6421726116	https://www.lafabbricadeisuoni.it/content/aperture-al-pubblico-b
 node	6422357318	https://www.comune.chiomonte.to.it/arte-e-cultura/pinacoteca-comunale-e-palazzo-levis/
 node	6422388352	https://www.mufant.it
 node	6423407030	https://www.lecoccinellepizzeria.it/
-node	6425340685	https://www.nordaffari.com
 node	6425340842	https://www.orestesport.it
 node	6425716569	https://www.lavenaria.it/it/esplora/castello-mandria/gli-appartamenti-reali
 node	6425777001	https://www.arteintorino.com/musei/borgo-medievale/la-rocca/
@@ -6032,6 +6030,15 @@ node	11696470945	https://hotelilcampanile.com
 node	11700107301	www.primidolci.it
 node	11709194508	https://www.intimodabygiustetto.it/
 node	11715967094	https://www.caivigezzo.org/
+node	11717571006	https://osteriaxbacco.it/
+node	11724650308	https://www.larosadeigustitorino.it
+node	11726476743	https://orbyta.it/
+node	11726522561	https://www.auxilium.online/
+node	11727713378	https://www.worklinestore.com/
+node	11727832385	https://www.caigozzano.it/
+node	11727834859	http://caiuget.it
+node	11727843580	https://www.caiorbassano.it/
+node	11735009974	https://negozi.tigota.it/6091-torino
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6143,7 +6150,6 @@ way	82079876	http://www.comune.torino.it/papum/user.php?context=opere&submitActi
 way	82080309	http://www.comune.torino.it/papum/user.php?context=opere&submitAction=dettaglio&ID_opera=M050
 way	82173458	https://www.caddys.it/negozi/vercelli-9838
 way	82256497	https://www.istitutoaltierospinelli.com
-way	82315452	http://caiuget.it
 way	82513026	https://www.chateau-dax.it/store/vercelli
 way	82789602	https://www.aquarama.it/
 way	82878215	https://www.edisu.piemonte.it/it/servizi/abitare/residenze-universitarie/residenza-universitaria-castalia
@@ -6418,6 +6424,7 @@ way	173731971	https://www.fondazionevaldese.org/fondazionevaldese.php?codice=A31
 way	174055401	http://www.alessandriainmovimento.info/
 way	174149577	https://www.comune.porte.to.it/
 way	174498169	https://www.icmatteotti.gov.it/
+way	174943519	https://www.lcavour.edu.it
 way	175206922	https://www.arpa.piemonte.it/chi-siamo/organizzazione/dipartimenti-provinciali
 way	175535615	https://www.aceapinerolese.it/
 way	175987258	https://www.acquapiandellamussa.com/it
@@ -6505,6 +6512,8 @@ way	190347136	https://acquatlantis.com
 way	190470221	https://www.vecchiaeuropa.it
 way	190482102	https://www.igg.cnr.it/
 way	190482116	https://latfc.inrim.it/
+way	190490120	https://www.grandhotelmajestic.it/
+way	190626622	https://www.hotelbelvederesangottardo.com/
 way	190723237	https://www.rifugiojumarre.it/
 way	190818715	http://www.iltiglio.it
 way	190878630	https://www.fondazionecosso.com/
@@ -6721,7 +6730,6 @@ way	208265381	https://www.agriturismoalagna.com/
 way	208279429	https://www.comune.gozzano.no.it/
 way	208465635	http://www.comune.alagnavalsesia.vc.it/
 way	208545169	https://www.alagna.it/attivita/passeggiate/la-segheria-della-resiga/
-way	208755725	https://www.caigozzano.it/
 way	208839058	https://www.relaisregina.it/
 way	209086936	https://www.ilcaprifogliocampiglione.com/
 way	209094577	https://www.discotecalunarossa.com
@@ -7347,6 +7355,7 @@ way	314541414	http://www.comune.santamariamaggiore.vb.it
 way	315443087	http://www.sangiacomochieri.it/
 way	315503999	http://12alle12.it/settimo-torinese-parco-7-ettari-in-tangenziale-verde-105336
 way	315954811	http://www.adi-torino.it/
+way	316203053	https://www.icsmaugeri.it/dove-siamo/ics-torino
 way	316378961	https://www.donetti.it
 way	316378965	https://www.lautomobilesrl.it/
 way	316511270	https://www.casariposobricherasio.it/
@@ -7943,6 +7952,7 @@ way	462918563	http://www.casadelpopolo.net/
 way	463102989	http://www.franzosipneumaticisrl.it/
 way	463686507	http://www.ristorantecastagneto.com
 way	464132576	https://www.lentinis.it/
+way	464291813	https://www.cemedi.it
 way	464718229	https://www.johnsonelectric.com/en/contact/contact-us/europe/italy
 way	466184120	http://www.icstrambino.gov.it/
 way	466427815	https://www.parks.it/riserva.confluenza.sesia.grana/index.php
@@ -8636,7 +8646,6 @@ way	928803961	https://www.comune.valduggia.vc.it/
 way	929264016	http://www.comune.viola.cn.it/
 way	931337437	http://www.iisenricofermiarona.it/
 way	932427680	https://www.basko.it/p/supermercati/torino-3/
-way	932431271	https://www.caiorbassano.it/
 way	934631316	https://www.aulina.it
 way	938051018	https://www.comune.lesa.no.it/it-it/vivere-il-comune/cosa-vedere/il-castellaccio-27856-1-d1b45961135ec44ee1dbc7b0fba673bd
 way	938443917	https://www.gulliver.it/itinerari/fiorano-falesia-di/
@@ -8907,6 +8916,7 @@ way	1207150724	https://www.miscasale.com/
 way	1208132469	https://www.sestantenizza.it/
 way	1208814554	https://www.comune.ozzanomonferrato.al.it/it
 way	1209468331	https://tajare.it/percorsi-tracce-gps-cartina/
+way	1210277879	https://www.liceocattaneotorino.it
 way	1210421606	https://www.icquartieremoretta.edu.it
 way	1211130228	https://www.centrostoricoalba.edu.it
 way	1213696208	https://www.affidea.it/it/cen/affidea-cdc-vercelli-srl
@@ -10571,6 +10581,7 @@ node	6357746922	http://www.happycasastore.it
 node	6358566731	https://lamericano.store/
 node	6373585229	https://hotelvictoriacuneo.it
 node	6420525774	http://www.fuoritempo.net
+node	6425340685	https://www.nordaffari.com
 node	6440639639	https://www.grancollina.com
 node	6468199496	http://www.maccheria.it
 node	6505421822	http://mulinodibairo.it
@@ -10816,6 +10827,7 @@ way	195931966	http://www.albergoaquilaalpina.it
 way	195932004	https://chalet-ceresolereale.it/
 way	199484998	https://www.casafrancoli.it
 way	199889727	http://it-it.facebook.com/pages/RIFUGIO-SAP/93535874718
+way	201288642	https://www.airbnb.it/rooms/35394232?guests=1&adults=1&s=67&unique_share_id=e5341d0b-347d-4bac-8c3b-ab51e0ee0829
 way	201625351	http://www.rifugiopontese.it
 way	205206370	http://www.locandaaquilabianca.it
 way	206974302	http://www.comune.pontcanavese.to.it/ComSchedaTem.asp?Id=4987
