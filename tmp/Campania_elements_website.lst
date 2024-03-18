@@ -620,7 +620,6 @@ node	4681024389	https://www.schiano.eu/
 node	4692147383	http://www.riotstudio.it/
 node	4703357869	https://napolimonitor.it/
 node	4747710522	https://www.facebook.com/pg/daragonaricambicastellammare
-node	4751655521	http://www.oroincensoebirra.com/
 node	4753147021	http://labotte.net
 node	4767966222	https://www.trattoriacastelnuovo.com
 node	4771030025	http://www.casacuccaro.it/
@@ -2264,7 +2263,6 @@ node	11659633962	https://www.gtoresorts.com/atlantic-palace/
 node	11663643698	https://www.carranofuneral.com
 node	11672710737	https://giordano1983.it
 node	11672725370	https://www.sloppyjoes.it/
-node	11688212888	https://padelclubgiugliano.it/
 node	11691741017	http://www.capuanomoto.it/
 node	11691859270	https://pulecenellasalerno.it/unicasede
 node	11707950151	http://www.sweetmeetcafe.it/
@@ -2277,6 +2275,12 @@ node	11708146607	http://www.isiscorbino.it/
 node	11708226376	https://www.vesuviosorrento.com/
 node	11708578273	https://www.ristorantedasabatinoaicamaldoli.it/
 node	11711088460	http://www.sole365.it
+node	11717129545	https://www.leadtech.it/
+node	11724977045	https://www.parrucchiera-dalucia.it/
+node	11725427342	https://www.dispensaemilia.it/it
+node	11737373337	https://www.netgroup.it/en/
+node	11738741611	https://www.libreriaromano.com/
+node	11739293676	https://innovaway.it/en/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2343,6 +2347,7 @@ way	139879720	http://www.mesunemas.unicampania.it/
 way	142086905	https://www.cilentooutlet.com/
 way	142086906	https://www.cilentooutlet.com/
 way	145594485	https://www.bonificapaestum.it/
+way	147100755	https://www.decathlon.it/
 way	147455183	http://www.comune.angri.sa.it/castello-doria.htm
 way	148170073	https://golfclubsalerno.it/
 way	148190574	http://www.campingvillaggiovictoria.it/
@@ -3337,6 +3342,7 @@ way	1257844367	https://www.villaggiodeiragazzi.it
 way	1258796089	https://pellicanosupermercati.it/punto-vendita/capodrise-ce-3
 way	1259334371	https://www.merolacar.it/
 way	1259334375	http://www.extremebit.it/
+way	1260614640	https://padelclubgiugliano.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3396,6 +3402,13 @@ relation	4768308	https://www.caimontilattari.it/sentiero/338a/
 relation	4768309	https://www.caimontilattari.it/sentiero/338c/
 relation	4768313	https://www.caimontilattari.it/sentiero/340/
 relation	4768322	https://www.caimontilattari.it/sentiero/340a/
+relation	4768333	https://www.caimontilattari.it/sentiero/340b/
+relation	4768334	https://www.caimontilattari.it/sentiero/340c/
+relation	4771062	https://www.caimontilattari.it/sentiero/342/
+relation	4771065	https://www.caimontilattari.it/sentiero/343/
+relation	4771069	https://www.caimontilattari.it/sentiero/344/
+relation	4771071	https://www.caimontilattari.it/sentiero/345/
+relation	4771074	https://www.caimontilattari.it/sentiero/345a/
 relation	4773305	https://www.traghetti-napoli.net/isola-capri/itinerari-sentieri
 relation	4774171	https://www.caimontilattari.it/sentiero/327a/
 relation	4807954	https://www.caimontilattari.it/sentiero/314/
@@ -3450,7 +3463,7 @@ relation	14034334	https://fondoambiente.it/luoghi/baia-di-ieranto
 relation	14048568	https://www.massalubrenseturismo.it/monastero-del-santissimo-rosario-di-monticchio/
 relation	14172030	https://www.era-ewv-ferp.org/e-paths/e1/
 relation	14434407	https://www.wwf.it/oasi/campania/lago_di_campolattaro/
-relation	14468270	https://www.viaggiamo.it/il-cammino-di-san-filippo/
+relation	14468270	https://www.camminodisanfilipponeri.com
 relation	14635178	https://www.parcoregionaledelmatese.it/
 relation	14860832	https://www.sorrentowalks.com/sorrento-sant-agata-via-acquacarbone-9.php
 relation	14861987	https://www.sorrentowalks.com/mura-e-porte-di-sorrento-4.php
@@ -3476,6 +3489,7 @@ relation	16035165	https://www.curreriviaggi.it/it/navetta-aeroporto-di-napoli
 relation	16439875	https://www.mediateur.it/natale-al-loreto/
 relation	17005066	https://lecotoniere.it/
 relation	17270859	https://www.caimontilattari.it/sentiero/330a/
+relation	17352410	https://www.camminodisanfilipponeri.com
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
