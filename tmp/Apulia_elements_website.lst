@@ -28,7 +28,6 @@ node	592016534	https://www.teatroverdi.eu/
 node	611584735	http://www.puntalunga.it
 node	615632967	https://www.facebook.com/ibucanieri
 node	615632974	https://www.saint-patrick.it/
-node	616872099	http://www.nicolaushotels.com/it/
 node	620120661	https://www.anchecinema.com/
 node	624399054	www.barimotors.it
 node	643883764	http://www.cinemaesedra.it/
@@ -1123,7 +1122,6 @@ node	7366033909	www.guidedocartis.it/?page_id=35394
 node	7366034037	www.guidedocartis.it/?page_id=35415
 node	7366042465	www.guidedocartis.it/?page_id=35409
 node	7366043806	www.guidedocartis.it/?page_id=35403
-node	7366048539	www.guidedocartis.it/?page_id=35418
 node	7366069478	www.guidedocartis.it/?page_id=35406
 node	7369068537	http://cartapulia.it/web/guest/dettaglio?id=133352
 node	7369068538	http://cartapulia.it/web/guest/dettaglio?id=133353
@@ -1262,7 +1260,6 @@ node	8442775078	https://agriturismo-la-crianza.business.site/
 node	8445055776	http://www.salentodreamhomes.com
 node	8464686218	http://www.degiorgioferramenta.com/
 node	8464735817	https://www.farmaciagraniglia.it/
-node	8479268280	www.guidedocartis.it/?page_id=35415
 node	8479293733	www.guidedocartis.it/?page_id=35415
 node	8479302446	www.guidedocartis.it/?page_id=35415
 node	8479304532	www.guidedocartis.it/?page_id=35415
@@ -1533,7 +1530,6 @@ node	9554551915	https://www.facebook.com/DALI.COFFEE.AND.DRINK/
 node	9554557447	https://pugliainpizza.it/
 node	9572470553	www.pianetaostuni.it/index.php/18-chiese-rurali/514-san-benedetto-piccolo-2
 node	9576167930	www.docartis.com/OSTUNI_CHIESE_RURALI/Chiesa_mass_CERTOSA.pdf
-node	9583346954	www.guidedocartis.it/?page_id=35415
 node	9599376347	www.pianetaostuni.it/index.php/18-chiese-rurali/540-trinchera-2
 node	9600947279	http://www.ristorantegiuliocesare.it
 node	9603653551	https://www.pizzeriapulcinella.com/
@@ -2108,6 +2104,8 @@ node	11697410316	https://www.facebook.com/tuttorto
 node	11697410317	https://www.facebook.com/tuttorto
 node	11708503883	https://www.lc-apartmentspuglia.com/it/pagina/home-experience
 node	11708931619	https://www.facebook.com/people/BAR-NEW-YORK/100063716875849/
+node	11731020830	https://musicaeparole.it/
+node	11738584655	https://www.laterza.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2442,8 +2440,10 @@ way	405233465	https://www.amgasblu.it/
 way	405568566	https://www.comune.rignanogarganico.fg.it/hh/index.php
 way	405569620	https://www.poste.it/
 way	405756725	https://www.expedia.com/San-Giovanni-Rotondo-Hotels-Hotel-Ristorante-La-Collina.h27335671.Hotel-Information
+way	405757389	https://hotelristorantelasolaria.it/
 way	405762481	https://www.hotelgranparadiso.it/
 way	405764115	https://www.tenutachianchito.it/
+way	405764853	https://solariahouse.business.site/
 way	406096605	https://www.villapallotta.it/
 way	406096724	https://www.agriturismomoschella.com/
 way	406111732	iposea.com
@@ -2515,6 +2515,7 @@ way	416930127	https://www.salveminionline.gov.it/
 way	416930188	https://www.airbnb.com/rooms/26273556
 way	416945881	https://www.facebook.com/pg/autoscuoladitano
 way	416955893	http://www.biancopascoli.gov.it/
+way	416962978	http://lnx.oliosavoia.com/la-masseria/
 way	417124227	https://www.fseonline.it/
 way	417124804	https://www.penny.it/
 way	417150281	https://www.famila.it/punti-vendita/puglia/famila-bari-livatino
@@ -2531,6 +2532,7 @@ way	418001435	https://www.e-coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/56
 way	418001525	https://www.consba.it/
 way	418005612	http://www.comune.bari.it/
 way	418005634	http://www.palamartino.it
+way	418005660	https://www.fondazionepetruzzelli.it/
 way	418024840	http://dimoradellegrotte.com
 way	418208053	http://www.mizarblu.com
 way	418208054	http://www.icmodugnogalilei.gov.it
@@ -2696,7 +2698,6 @@ way	434708458	http://www.scuolasangiovannibosco.gov.it
 way	435038560	http://www.cortedelcasaro.it/
 way	436313833	http://www.hemingwaybeach.it
 way	437301965	https://www.masseriacasacapanna.com/
-way	439749701	https://musicaeparole.it/
 way	441216478	https://isolaloscoglio.it/
 way	442131629	http://www.lapajarabeach.it/
 way	442423393	http://www.iisslanocemaglie.it
@@ -3180,7 +3181,6 @@ relation	9647014	https://italy-cycling-guide.info/cycle-routes/coastal-rides/pug
 relation	9651733	https://italy-cycling-guide.info/cycle-routes/coastal-rides/puglia-tour/
 relation	9763706	https://www.parcoaltamurgia.gov.it
 relation	10048058	https://www.aeroportidipuglia.it/
-relation	10927680	www.guidedocartis.it/?page_id=35032
 relation	11081386	https://scuoladuse.gov.it
 relation	11103068	https://www.lamaforca.it/
 relation	11103070	https://www.thostuni.it/
@@ -3269,6 +3269,7 @@ relation	17008356	https://www.larottadeiduemari.it
 relation	17008390	https://www.larottadeiduemari.it
 relation	17037198	https://masseriasantulasi.org
 relation	17046188	https://www.residencemoderno.com/
+relation	17349766	https://www.thenicolaushotel.com/
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
@@ -3290,9 +3291,11 @@ node	4432190804	http://www.bbtemplari.com
 node	4799174514	http://www.facula.eu/
 node	4807243721	http://www.pennettilab.it
 node	4955086668	www.karabu.it
+node	5003035800	https://www.conventosantuariopadrepio.it/
 node	5199447007	http://www.cantodellerane.it
 node	5300942194	https://linktr.ee/Vinicio_Bitonto
 node	6049526625	http://www.vocedipadrepio.com
+node	6049526692	https://www.ristorantepizzerialacialda.it/
 node	6131171574	www.anellienoteca.com
 node	6472575820	https://museotancredi.it/
 node	6482957534	https://www.teleradiopadrepio.it/
@@ -3352,6 +3355,7 @@ node	11367018637	https://www.pbacasamia.com/bb-puglia/
 node	11380111135	https://www.dalbacostruzioni.it/
 node	11407209641	https://paolocasolo.com/
 node	11513656728	https://uomodialtamura.it/Centro-Lamalunga/3
+node	11716602810	https://www.santuariosanmichele.it/musei-tecum/
 way	68334157	http://www.scuoladonpappagallo.it/
 way	72401407	https://www.secondocircoloboscoterlizzi.edu.it
 way	78626385	https://www.gesmundomorofiore.edu.it
@@ -3367,7 +3371,7 @@ way	402903524	www.fseonline.it
 way	403251903	https://www.tenutaroccicerasoli.it/
 way	403712491	http://www.masserialatorre.it/
 way	404161253	http://www.casalespisari.it/
-way	405756608	http://www.hotelfini.it/
+way	405756608	https://www.hotelfini.it/
 way	406683983	https://www.albergoilgiardino.com/
 way	407428805	https://www.comune.barletta.bt.it/
 way	409147276	https://www.scuoladonpappagallo.edu.it
@@ -3391,6 +3395,7 @@ way	504187692	https://www.masseriasantateresa.com/
 way	531524963	http://www.lidl.it
 way	590238364	https://www.bagno27.com/
 way	715690847	https://www.famila.it/punti-vendita/puglia/famila-giovinazzo
+way	729540430	https://www.santuariosanmichele.it/
 way	762293547	https://www.mcdonalds.it/
 way	999975302	https://www.agrisafrapuglia.com/
 way	1070593441	https://www.lidl.it/
