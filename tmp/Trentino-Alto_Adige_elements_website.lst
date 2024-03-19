@@ -596,7 +596,6 @@ node	1270987616	https://www.nkd.it/
 node	1271249241	https://www.carsharing.tn.it/
 node	1271249247	https://www.carsharing.tn.it/
 node	1271249250	https://www.carsharing.tn.it/
-node	1271249257	https://www.carsharing.tn.it/
 node	1271249269	https://www.carsharing.tn.it/
 node	1271249273	https://www.carsharing.tn.it/
 node	1271249277	https://www.carsharing.tn.it/
@@ -950,6 +949,7 @@ node	2133322245	https://www.city.bz.it/
 node	2137103384	https://www.facebook.com/pages/W%C3%BCrstelstandl-Vetzan/423070134375646?fref=ts
 node	2139449448	https://www.rosabianca.tn.it/contatto-predazzo/
 node	2145602852	https://www.kradorferhof.it/
+node	2145625726	https://www.gsieserhof.com
 node	2146848300	https://www.ausserharmerhof.com/
 node	2148984030	https://www.walde.it/
 node	2151018561	https://www.facebook.com/barmanialcielo/
@@ -3896,7 +3896,7 @@ node	5992419784	https://www.marketingdesign.it/
 node	5992462939	https://www.studiopsicologiafacci.it/
 node	6008611682	https://www.valgardena.it/en/bus-schedule/
 node	6008611683	https://www.valgardena.it/en/bus-schedule/
-node	6012435117	http://www.ssp-bruneck2.it
+node	6012435117	https://www.ssp-bruneck2.it/
 node	6018284595	http://www.kimm-meran.it/
 node	6028639983	https://www.valgardena.it/en/addresses/detail/base/company/selva-val-gardena/apres-ski-bar-saltos/D5AE018CE93711D3A09D006097A8F6AC/?RequestKey=170792103765ccce8d53243
 node	6031965474	www.baldostube.it
@@ -4502,6 +4502,7 @@ node	8225108015	https://www.bortolottilaquadra.it/
 node	8234982751	https://www.huettenland.com/huette.php?objekt|D=1022
 node	8238391290	https://www.ristorantelacasina.com/
 node	8240528218	https://www.happylovefood.it/
+node	8240705291	https://www.apartments-hubertus.it/
 node	8243798945	https://www.weisseskreuz.bz.it/de/wer-sind-wir/sektionen/seis-1948.html
 node	8244965828	https://www.prolocodrena.it
 node	8245065529	www.lagazzaladra.eu
@@ -5763,6 +5764,8 @@ node	11708171149	https://blumen-florianne.com
 node	11708171163	https://tassellicashmere.com
 node	11708815470	https://bhubarco.it/
 node	11710939108	https://www.alpegger.com/
+node	11741795587	https://www.oacherhof.it/
+node	11742243609	https://www.agenziaentrate.gov.it/portale/alto-adige-itde
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -6662,6 +6665,7 @@ way	107478357	https://www.wastl.it/
 way	107478497	https://www.zumfalken.it/
 way	107478597	https://www.martini-sohn.it/de
 way	107728200	https://www.mediapage.it/jaegerheim/
+way	107975049	https://www.endasbolzano.it/
 way	108198244	https://conduk.com/
 way	108198262	http://www.oberrauchkg.com/
 way	108198311	https://www.hotel-unterrain.com/
@@ -7143,7 +7147,7 @@ way	159336495	https://www.hausrottensteiner.com/
 way	159341710	https://www.chaletgrumer.it
 way	159341712	https://pippos.it/
 way	159341780	https://gasthof-schluff.com/it/
-way	159351821	https://www.wirtshaus.it/
+way	159351821	https://www.gerhard.bz.it/
 way	159351822	https://www.miil.it/
 way	159368135	http://www.ssp-graun.it/mittelschule/
 way	159546046	https://www.oberhauserhuette.com/
@@ -7217,6 +7221,7 @@ way	165353385	https://www.aluminiumbozen.com/
 way	165353429	https://www.twentybz.it/
 way	165438952	http://www.fewo-hillebrand.it
 way	165438960	https://galanthus.it/
+way	165440148	https://www.kreuzwegerhof.com
 way	165440151	https://www.ortguterhof.it/
 way	165451495	http://www.hotelwerth.com
 way	165455382	https://www.franziskanergymnasium.it/
@@ -7441,6 +7446,7 @@ way	203462704	https://www.sporthotelpampeago.it/
 way	203874857	http://www.trentinalatte.it
 way	204025437	https://messnerhuette.com
 way	204266016	https://www.foestlerhof.com/
+way	204275978	https://www.rotmoos.com/
 way	204432854	https://www.app-montana.it
 way	204432880	https://www.neuhuben.com/
 way	205074298	https://www.apss.tn.it/Azienda/Luoghi/Cassa-poliambulatorio-Trento-Gocciadoro
@@ -9095,6 +9101,7 @@ way	1249707368	https://www.trentinosolidale.it/
 way	1250873770	https://www.saegewerk-wurzer.it
 way	1255577858	https://www.hotel-bucaneve.com/
 way	1257840145	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/residence-ravisa/C0DF9E3276D911D18F2900A02427D15E/
+way	1263037387	https://www.moerlhof.com
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
