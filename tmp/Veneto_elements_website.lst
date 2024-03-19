@@ -2251,6 +2251,7 @@ node	4546955607	http://www.frarys.it
 node	4547331659	https://www.d-piu.com/
 node	4550756143	architettosegato.it
 node	4553672059	https://www.officinavr.it/
+node	4553675192	http://www.gnomiverdi.it/
 node	4553677025	http://www.facciotti.com/
 node	4553677420	http://www.parafarmacia.scienzanatura.it/
 node	4553679025	https://www.aulss9.veneto.it/index.cfm?action=medici.dettaglio&id=006786
@@ -2318,6 +2319,7 @@ node	4553763189	https://vivo-pizza-kebab.business.site/
 node	4553764751	https://www.miscusi.com/
 node	4553764755	https://www.pescaria.it
 node	4553764771	https://ostinativerona.it
+node	4553764991	https://www.destrisrl.com/it/
 node	4553766111	https://www.huromitalia.it/
 node	4553766187	https://ziolele.it/
 node	4553766393	https://www.gioiellisoprana.it/
@@ -2494,7 +2496,6 @@ node	4796661138	https://www.leseidirezioni.it/
 node	4797951780	https://www.osteriaaesconte.it/
 node	4797951781	https://www.cantinacanaletto.it/
 node	4797951782	https://www.aquapalace.it/
-node	4798311623	https://commons.wikimedia.org/wiki/File:Stele_Sottoportego_Falier_Rio_Apostoli_Venezia.jpg
 node	4798318427	https://www.viziovirtu.com/
 node	4801497185	https://lavecchialatteria.it/
 node	4802427081	https://www.istitutobruni.com/
@@ -2751,9 +2752,8 @@ node	5225101122	https://www.bluemoonvenice.com/
 node	5225491716	https://www.termeorvieto.it/
 node	5226740304	http://anticafattoria.it/
 node	5232627822	http://www.basco.it
-node	5233478151	https://www.veneziasantalucia.it/it/offertacommerciale/dettaglio/rossopomodoro
 node	5237628458	https://www.sushinara-pescantina.it/
-node	5238321396	https://www.veneziasantalucia.it/it/offertacommerciale/dettaglio/rossopomodoro
+node	5238321396	https://ristoranti.rossopomodoro.it/santaluciastazionefsvenezia-5d2e0dde5f56
 node	5239064921	http://thelondonschool.it
 node	5245885421	http://www.basco.it
 node	5248417121	https://www.fioreriaangolofiorito.it/
@@ -3589,7 +3589,6 @@ node	6817231388	https://www.florintesa.it/punica-granatum/
 node	6817237314	http://www.fabriziagianni.it/page/fabrizia-gianni/tree/tiglio-nostrano/treecontentid/424
 node	6817238390	http://www.fabriziagianni.it/page/fabrizia-gianni/tree/acero-riccio-acero-platanoide
 node	6817498797	https://www.termesalesiani.it/mammamargherita/
-node	6817498798	https://www.termesalesiani.it/mammamargherita/
 node	6817653692	https://www.bedandbikebelfiore.it/
 node	6818003069	https://kkofler.com/
 node	6819217942	http://www.fabriziagianni.it/page/fabrizia-gianni/tree/frassino-comune
@@ -4368,7 +4367,6 @@ node	7951643334	https://www.agsm.it
 node	7952330370	https://www.montepiana.com/
 node	7959901319	https://www.anticarampa.it
 node	7965232778	https://enbocon.com
-node	7965636561	http://www.ic16verona.gov.it
 node	7965676267	https://www.icestverona.it/
 node	7965678183	http://www.pontecrencanoquinzanoavesa.gov.it
 node	7965678294	http://vric88800v@istruzione.it
@@ -6123,6 +6121,11 @@ node	11709364811	https://www.tavernadelluppolo.com/menu.php
 node	11716755163	https://www.obiettivopubblicita.it
 node	11716945169	https://casa-margherita.bedsandhotels.com
 node	11722011232	https://www.sirmax.com/en/
+node	11731156509	https://www.deda.group/home-en
+node	11739316913	https://www.reply.com/en
+node	11740810769	http://www.residenzadimoraimperfetta.com
+node	11741344307	https://lagenovesa.org/
+node	11741344309	https://www.teamanubis.dog/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6374,6 +6377,7 @@ way	111499449	http://www.altorcio.com/
 way	111732888	http://www.bazzarellobike.it
 way	111825992	https://www.caiveneto.it/bivacco/dalla-bernardina
 way	112588908	https://www.sabait.it/en/parking-venice-mestre/parking-saba-stazione
+way	112617192	https://www.marina.difesa.it/il-tuo-futuro-e-il-mare/formazione-in-marina/morosini/Pagine/default.aspx
 way	112800942	https://www.hotelolimpiacortina.com/it/home
 way	112801189	https://parrocchiacortina.it/le-chiese-succursali/chiesa-della-madonna-della-difesa/
 way	112802220	https://www.hoteloasi.it/
@@ -6535,7 +6539,6 @@ way	138797471	https://www.ceisbelluno.org/
 way	138797906	https://www.hotelcauccio.com
 way	138798203	https://www.cortebenetti.it/
 way	138799532	www.bedbreakfastgf.it
-way	138801101	https://www.marina.difesa.it/formazione/istituti/morosini/Pagine/default.aspx
 way	138801104	https://www.foresteriavenezia.it/
 way	138801290	https://www.bauervenezia.com/
 way	138802061	https://www.archiviostudiadriatici.it/
@@ -7306,6 +7309,7 @@ way	197220061	http://www.portogruaro.net/citta/contenuti/visualizza.php?menu=7&v
 way	197239307	https://www.comune.concordiasagittaria.ve.it/
 way	197239308	www.saccoevanzetti.com
 way	197241337	www.villafloraportogruaro.it
+way	198390894	https://www.cooplevalli.it
 way	198390912	https://www.locandalabaita.it/
 way	198391840	https://www.falegnameriapomare.com
 way	198392609	http://campingcomelico.it/
@@ -7423,6 +7427,7 @@ way	202008826	https://www.hroma.it
 way	202008957	https://www.chaletallagocortina.it
 way	202011838	http://www.dolomitivacanze.net/
 way	202012100	https://www.hoteldolomiti.com/
+way	202135206	https://www.cooplevalli.it
 way	202499066	https://www.scuolesacrafamiglia.it/
 way	202945890	http://www.agriturismocornolade.it/default.asp?iId=GFGIJI
 way	203801766	https://www.rifugionaturadeltapo.it/
@@ -8662,6 +8667,7 @@ way	1245398107	https://en.carmens.it/
 way	1246313927	https://www.trattoriasantantonio.com/index.php/parapendio
 way	1252143469	http://www.terraesogni.it/
 way	1260647923	https://www.comune.tregnago.vr.it
+way	1263692479	http://www.ic16verona.gov.it
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -9429,6 +9435,9 @@ relation	17188532	http://viapostumia.eu/
 relation	17189045	http://viapostumia.eu/
 relation	17189046	http://viapostumia.eu/
 relation	17189047	http://viapostumia.eu/
+relation	17357156	http://www.prolocotorrebelvicino.it/percorso-32-%E2%80%93-sentiero-delle-cinque-colombe_lit_3_43_12.asp
+relation	17359828	https://visitborgovalbelluna.it/percorso/anello-monte-frontal-del-cacciatore-n-2320/
+relation	17360632	http://www.prolocotorrebelvicino.it/percorso-33-%E2%80%93-sentiero-del-forte-enna_lit_3_43_13.asp
 node	64778383	http://www.comune.cittadella.pd.it/
 node	256072226	www.padovafarmacie.it
 node	262650779	http://www.lidopaina.it
@@ -10040,6 +10049,7 @@ way	105191629	http://www.artluceilluminazione.com/
 way	105191683	http://www.finind.com/
 way	122098986	https://www.turismopadova.it/
 way	130019228	http://www.hotelduetorriabano.it/
+way	130019269	http://www.monteortone.it/
 way	130028322	http://www.abanoterme.net
 way	130745144	http://www.scir.it/sacrocuore/scuore.html
 way	130745270	http://www.castellodimonselice.it/
@@ -10200,6 +10210,7 @@ way	686657762	https://www.ics12padova.edu.it/index.php/le-nostre-scuole/scuola-s
 way	686671104	http://community.oiconlus.it/centroinfanzia/
 way	693886245	http://www.padovanet.it/informazione/scuola-dellinfanzia-cremonese-chi-siamo-obbiettivi-e-servizi
 way	723610182	https://www.pampanorama.it/punti-vendita/padova-grassi
+way	727479477	https://www.termesalesiani.it/mammamargherita/
 way	736433338	http://www.bluemoonfiammingo.com/
 way	737078236	https://www.augustascuolainfanzia.it/
 way	748707189	https://www.visitmuranoglassfactory.com/
@@ -10294,6 +10305,7 @@ relation	2317795	http://www.palazzograssi.it/fr/about/les-lieux/punta-della-doga
 relation	2918002	http://www.centroculturalecandiani.it/
 relation	3638309	https://upvillafrancavr.it/parrocchie/chiesa-di-san-zeno/
 relation	4042407	http://www.actt.it/-canova-park
+relation	5732164	https://www.termesalesiani.it/sanmarco/
 relation	7165063	https://www.parconaturaviva.it/
 relation	15716374	https://www.poliziadistato.it/
 relation	15717475	https://www.comune.jesolo.ve.it/home
