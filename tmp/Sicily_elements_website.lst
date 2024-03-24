@@ -35,6 +35,7 @@ node	306254851	https://www.poste.it
 node	306254865	https://www.cicciosultano.it/
 node	313357047	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
 node	313480110	https://www.comunepantelleria.it/
+node	317492309	https://www.eplanetcinemas.it/
 node	329189498	https://www.poste.it
 node	335922697	https://www.poste.it
 node	338966369	https://www.museodiocesanocatania.com/
@@ -99,6 +100,7 @@ node	861703219	http://www.villapetrusa.it
 node	861703242	http://www.villaggiostromboli.it
 node	861703245	https://www.lasirenetta.it/
 node	861703272	https://www.hotellasciara.it/
+node	861703309	https://www.pedraresidence.it/servizi/ristorante-ritrovo-ingrid
 node	862858093	https://bibliotp.regione.sicilia.it
 node	875514196	https://www.poste.it
 node	918327584	https://www.lecuspidi.it/
@@ -3595,7 +3597,7 @@ node	11629803553	http://iisscmcarafa.gov.it
 node	11630792617	https://www.mindat.org/loc-271021.html
 node	11634336759	https://www.enel.it/punto-enel/
 node	11635303961	https://www.enotecacivita.com/
-node	11638624068	www.vacanzeagroericino.it
+node	11638624068	https://www.vacanzeagroericino.it/
 node	11638752397	http://www.anchise38.it/
 node	11646059867	https://casedelsorriso.cesvi.org/
 node	11652152700	https://parchiarcheologici.regione.sicilia.it/kamarina-cava-ispica/en/siti-archeologici/necropoli-arcaica-di-contrada-rifriscolaro-camarina/
@@ -3608,10 +3610,10 @@ node	11657182005	https://www.maremontitours.it/
 node	11657308166	http://www.cupassampinci.it/
 node	11657344469	https://www.hotelmagaggiari.com/
 node	11660225319	https://www.techlabitalia.it/
-node	11662400597	http://www.icpartanna.edu.it
+node	11662400597	https://www.icpartanna.edu.it/
 node	11662400598	http://www.istitutodaguirre.gov.it
-node	11664648602	http://www.icpartanna.edu.it/
-node	11664648603	http://www.icpartanna.edu.it
+node	11664648602	https://www.icpartanna.edu.it/
+node	11664648603	https://www.icpartanna.edu.it/
 node	11666982959	https://www.spinno.org/
 node	11669644215	http://www.istitutomajoranaavola.it/
 node	11669644221	https://www.icbianca.edu.it/
@@ -3632,6 +3634,9 @@ node	11727842230	https://www.centromega.it/
 node	11727842231	https://www.ljcplus.com
 node	11729822947	https://www.pwc.com/it/it/
 node	11735459347	https://bowlingfrenz.it/
+node	11739213576	https://scuolamaternasoleluna.com/
+node	11739213577	https://www.istitutosantamariamercede.it/
+node	11748286702	https://www.syrakous.com
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24006470	https://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
@@ -3890,7 +3895,6 @@ way	167902089	https://www.paternoterzocircolo.edu.it
 way	170781200	http://www.parcouditore.org/
 way	171621460	www.parrocchiadellaguardia.it
 way	172589718	http://93.94.88.173/castelbuono/hh/index.php
-way	173796973	https://www.eplanetcinemas.it/
 way	174329127	https://www.grandhotelortigia.it/
 way	174517439	https://www.livingstonhotel.it/
 way	174777751	https://www.istitutorapisardi.edu.it/
@@ -3919,6 +3923,7 @@ way	179011541	https://www.scuolecassibile.edu.it/
 way	179093963	https://www.poste.it
 way	179310806	https://www.scuolecassibile.edu.it/
 way	179489827	https://www.euronics.it/
+way	179598993	https://www.icgiovannipaolo2gravinact.edu.it/
 way	180142473	https://www.lacasadelgrecale.it/
 way	181016594	https://www.alfrantoiovalderice.it/
 way	181103411	https://www.dodicesimosiracusa.edu.it/
@@ -4170,6 +4175,7 @@ way	283592994	http://roccadigonato.cmsvisuale.it/
 way	284595828	http://area14.it
 way	284777531	http://www.bluhotels.it/hotel/sicilia/funari-me/blu-hotel-portorosa
 way	285544814	https://www.calamida.it/
+way	288313225	http://www.noidellalampedusa.edu.it/
 way	289567771	http://www.icscalvino.edu.it
 way	289710644	https://www.fermieredia.edu.it/
 way	289852343	https://www.villagiardini.it/
@@ -5677,8 +5683,16 @@ way	1262635994	https://condorelli.it/
 way	1263346111	https://www.circolodidatticosantagatalibattiati.edu.it/
 way	1263346114	https://www.circolodidatticosantagatalibattiati.edu.it/
 way	1263346116	https://www.circolodidatticosantagatalibattiati.edu.it/
-way	1263346135	http://www.pluchinotta.edu.it
+way	1263346135	https://www.pluchinotta.edu.it/
 way	1263346186	https://www.circolodidatticosantagatalibattiati.edu.it/
+way	1264831876	https://www.hapimag.com/de-de/italien/sizilien/cefalu/
+way	1265318027	http://www.noidellalampedusa.edu.it/
+way	1265318028	http://www.noidellalampedusa.edu.it/
+way	1265318029	http://www.noidellalampedusa.edu.it/
+way	1265655012	https://www.icgiovannipaolo2gravinact.edu.it/
+way	1265655020	http://www.icrodarinosengo.edu.it/
+way	1265655021	https://www.icgiovannipaolo2gravinact.edu.it/
+way	1265655024	http://www.icrodarinosengo.edu.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6328,6 +6342,8 @@ node	11649325122	https://www.caffenakone.com/
 node	11649818463	http://www.bibliotecamodica.it/
 node	11653416982	https://www.campoallegrosicilia.it/
 node	11657337602	http://casamemoria.it/
+node	11750908434	https://ucpme.it/
+node	11751790893	https://www.bbvianazionale.it/it/
 way	34227431	http://liceomazara.edu.it/
 way	34314619	https://www.zoculture.it/
 way	35264757	http://www.wwfpreola.it/
@@ -6377,6 +6393,7 @@ way	170024536	http://www.chiesamadrediisola.it/
 way	185266495	http://www.cantinecolombabianca.it/
 way	186884997	http://www.anticoborgomarinaro.it/
 way	201333724	http://www.kikocosmetics.com
+way	204954851	https://www.giomi.com/
 way	211996214	http://www.ristorantelacollinetta.it/
 way	212770208	http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=76
 way	220163195	https://www.adpugliese.it/
@@ -6386,6 +6403,7 @@ way	245055218	http://www.campinglapineta.it/italy/
 way	257262779	http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=399
 way	278803360	http://www.torreata.it/
 way	279460081	http://www.siciliaoutletvillage.it/
+way	315620765	https://bbagricolarosa.it/
 way	316423358	http://www.kartodromolascari.it/
 way	318113279	https://www.eurospin.it/
 way	333413153	http://www.caposcalambri.com/
