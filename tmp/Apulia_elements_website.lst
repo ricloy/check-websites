@@ -1159,7 +1159,6 @@ node	7798989244	http://www.trattoriaspecialitapesceaotranto.lecce.le.it/
 node	7799179149	https://tabaccheria-mangone.business.site/
 node	7799185610	https://farmacia-marsella-luisa.business.site/
 node	7820264085	https://www.prada.com/
-node	7820264086	https://www.trussardi.com/
 node	7820264087	https://shop.magicaterra.com/
 node	7832933989	http://cartapulia.it/web/guest/dettaglio?id=113142
 node	7837168386	https://www.pollicastroboutiquehotel.com/
@@ -1948,6 +1947,7 @@ node	11277508339	https://www.facebook.com/sixpackbari
 node	11284337169	https://www.pizzeria400gradi.it/
 node	11290669966	https://www.globomoda.com/
 node	11290771656	https://www.shivananda.org
+node	11302077930	https://oasidellapizza-bari.it/
 node	11303843261	www.casadevita.it
 node	11323141634	http://www.barinfiori.it/
 node	11323149710	https://www.pizzeriadesideria.com/
@@ -2072,7 +2072,7 @@ node	11610544243	http://www.palazzomariano.it/
 node	11631042369	https://www.museodelpaneforte.it/
 node	11642918267	https://www.tenutadonnacaterina.it/
 node	11649674735	https://bari.mfa.gov.ge/
-node	11649752955	http://www.cassaedilebari.it/
+node	11649752955	https://www.cassaedilebari.it/
 node	11652544603	https://www.paginegialle.it/massafra-ta/ristoranti/byblos-cafe-s-n-c-di-castiglia-cosima-and-c
 node	11652753610	https://www.facebook.com/sanpiopanificio
 node	11657909744	https://m.facebook.com/p/Medusa-caf%C3%A8-Zapponeta-100062706831173/
@@ -2106,6 +2106,12 @@ node	11708503883	https://www.lc-apartmentspuglia.com/it/pagina/home-experience
 node	11708931619	https://www.facebook.com/people/BAR-NEW-YORK/100063716875849/
 node	11731020830	https://musicaeparole.it/
 node	11738584655	https://www.laterza.it/
+node	11747836064	https://www.facebook.com/Trattoria.ectmeng.AR.65/?locale=it_IT
+node	11747907901	https://www.facebook.com/p/Panificio-Del-Corso-100054564424251/?locale=it_IT
+node	11747925742	https://www.instagram.com/_mamascake_/
+node	11747960985	https://www.facebook.com/BarSportPallotta
+node	11751235309	https://www.art-and-more.it/
+node	11756858347	https://www.e-coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/5677
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2528,7 +2534,6 @@ way	417998810	https://www.adspmam.it
 way	417998815	http://www.parrocchiascalzibari.it/
 way	417999127	https://www.nuovoteatroabeliano.com/
 way	417999516	https://campusx.it
-way	418001435	https://www.e-coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/5677
 way	418001525	https://www.consba.it/
 way	418005612	http://www.comune.bari.it/
 way	418005634	http://www.palamartino.it
@@ -2705,6 +2710,7 @@ way	442423394	https://www.poste.it/
 way	447480422	https://www.riservaditorreguaceto.it/
 way	449068486	https://www.colacem.com/
 way	449423300	https://www.lacasarana.it/
+way	449539859	http://parcosaturo.it/
 way	451391011	https://www.comune.taranto.it/index.php/contatti-ed-uffici/ambiente-salute-qualita-della-vita
 way	452113769	http://www.shoescomponents.it
 way	452325287	https://www.basilianiresort.com/
@@ -3270,6 +3276,7 @@ relation	17008390	https://www.larottadeiduemari.it
 relation	17037198	https://masseriasantulasi.org
 relation	17046188	https://www.residencemoderno.com/
 relation	17349766	https://www.thenicolaushotel.com/
+relation	17373731	https://www.bonificacapitanata.it/
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
@@ -3356,6 +3363,7 @@ node	11380111135	https://www.dalbacostruzioni.it/
 node	11407209641	https://paolocasolo.com/
 node	11513656728	https://uomodialtamura.it/Centro-Lamalunga/3
 node	11716602810	https://www.santuariosanmichele.it/musei-tecum/
+node	11750119900	http://www.brindisieleantichestrade.com/
 way	68334157	http://www.scuoladonpappagallo.it/
 way	72401407	https://www.secondocircoloboscoterlizzi.edu.it
 way	78626385	https://www.gesmundomorofiore.edu.it
@@ -3372,6 +3380,7 @@ way	403251903	https://www.tenutaroccicerasoli.it/
 way	403712491	http://www.masserialatorre.it/
 way	404161253	http://www.casalespisari.it/
 way	405756608	https://www.hotelfini.it/
+way	406310589	https://regiohotel.it/
 way	406683983	https://www.albergoilgiardino.com/
 way	407428805	https://www.comune.barletta.bt.it/
 way	409147276	https://www.scuoladonpappagallo.edu.it
@@ -3399,7 +3408,7 @@ way	729540430	https://www.santuariosanmichele.it/
 way	762293547	https://www.mcdonalds.it/
 way	999975302	https://www.agrisafrapuglia.com/
 way	1070593441	https://www.lidl.it/
-way	1080298824	http://www.cappuccinifoggia.it/conventi/clarisse
+way	1080298824	https://www.clarcap.it/dove-siamo/monasteri/
 way	1095607002	http://www.bimbolandiaterlizzi.it
 way	1133163627	http://www.hotelfrancesco.it/
 way	1175277402	http://www.astronomiacasarano.it/
