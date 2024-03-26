@@ -1488,7 +1488,6 @@ node	5992851742	https://www.noleggiogommoni.net/
 node	5998560781	http://www.figinianimalisestri.it/
 node	6013916714	https://it.wikipedia.org/wiki/Volto_megalitico_di_Borzone
 node	6031626230	http://www.alconvivio.it
-node	6047318543	https://it.wikipedia.org/wiki/Santuario_di_Nostra_Signora_Incoronata#/media/File:Genova-oratorio_ns_assunta_di_Coronata-complesso.jpg
 node	6059615104	https://www.adm.gov.it/portale/-/ligur-1
 node	6059625632	https://www.adm.gov.it/portale/-/ligur-1
 node	6059652638	https://www.adm.gov.it/portale/-/ligur-1
@@ -1574,6 +1573,7 @@ node	6853670785	https://www.simonettigelati.it/
 node	6877331450	http://www.scuolatennisvado.it
 node	6918907601	https://www.arcaplanet.it/negozi/portfolio_page/arcaplanet-savona
 node	6929604867	https://www.parkgenova.com/
+node	6943064419	https://www.loggialevanto.it
 node	6972806564	https://www.fordauto2000.it/
 node	6989148983	https://www.cdmfutsal.it/
 node	7007728913	https://www.jpdroni.it/
@@ -2373,6 +2373,12 @@ node	11740897780	https://www.caiarenzano.it/
 node	11740943245	http://caicengio.it/
 node	11741096446	http://www.caisestri.com/
 node	11741818691	https://o3-tech.it
+node	11755582076	https://www.lafrontiera.it
+node	11756008615	https://www.adm.gov.it/portale/-/direzione-interregiona-3
+node	11762178826	https://piccoloborgochiavari.com/
+node	11762178839	http://www.vassilissa.it/index.html
+node	11762206598	https://www.illuminazionelavagna.it
+node	11762206604	http://www.ughes.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2400,7 +2406,7 @@ way	34954437	https://youtu.be/EYBcM1QxNJY
 way	37047930	https://www.chiossone.it/
 way	37381756	https://www.caravanparklavesima.it/
 way	38434962	www.colombadoro.it
-way	39651881	https://campingosservatorio.wixsite.com/
+way	39651881	https://www.campingosservatorio.it/
 way	41913298	http://www.comune.lavagna.ge.it/servizi-cimiteriali
 way	42784551	http://www.parrocchiasangiuseppecottolengo.it
 way	43311482	https://www.museidigenova.it/it/content/museo-darte-orientale
@@ -2579,7 +2585,6 @@ way	201755630	http://www.ritrovodegliamici.it/
 way	201756015	www.mendatica.com
 way	201865785	https://www.bestofcinqueterre.com/it/spiaggia-per-nudisti-guvano
 way	201940261	http://amicidelcarmo.it/
-way	201940480	http://www.ristoranterosadeiventi.org/
 way	201961228	http://www.cadisappi.it
 way	202197499	https://www.carrefour.it/
 way	202197668	http://www.hoteldellapunta.it/
@@ -3303,7 +3308,7 @@ relation	4226307	https://www.cailaspezia.it/
 relation	4226323	https://www.cailaspezia.it/
 relation	4236528	https://www.cailaspezia.it/
 relation	4236533	https://www.cailaspezia.it/
-relation	4236621	https://www.cailaspezia.it/
+relation	4236621	https://www.caisarzana.com
 relation	4260669	https://www.cailaspezia.it/
 relation	4260838	https://www.cailaspezia.it/
 relation	4260846	https://www.cailaspezia.it/
@@ -3322,7 +3327,7 @@ relation	4268473	https://www.cailaspezia.it/
 relation	4268502	https://www.cailaspezia.it/
 relation	4268506	https://www.cailaspezia.it/
 relation	4268516	https://www.cailaspezia.it/
-relation	4268538	https://www.cailaspezia.it/
+relation	4268538	https://www.caisarzana.com
 relation	4466972	https://www.caisarzana.com
 relation	4466990	https://www.caisarzana.com
 relation	4467018	https://www.caisarzana.com
@@ -3742,8 +3747,6 @@ node	11392242462	https://minervasoluzioni.it/
 node	11397077627	www.cozzani.com
 node	11670347899	http://www.collinatorre.it/it/home
 way	134211659	http://www.celtorretta.it/
-way	201976842	http://www.apsoverland.com/
-way	201976923	http://www.ilporticotoirano.it/
 way	202465238	www.cascinastra.it/
 way	202604851	http://www.palabeachvillage.it/
 way	225228057	www.claspesto.com
