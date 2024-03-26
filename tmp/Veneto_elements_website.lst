@@ -125,6 +125,7 @@ node	472594230	http://www.grandhotelmisurina.com
 node	475841606	https://www.hotelgalileopadova.it
 node	492062968	https://www.elbrol.com/
 node	492752820	http://www.eurostarsresidenzacannaregio.com/
+node	497252838	https://pasticceriabelvedere.it
 node	497557537	https://www.shghotelcatullo.com/it/
 node	498124516	https://www.mardignon.it/
 node	498731263	www.hotelezzelino.com
@@ -1004,7 +1005,6 @@ node	2374776535	http://www.ortobotanicomontebaldo.org/
 node	2374776562	http://www.novezza.it/
 node	2377000550	https://www.hotelfieraverona.biz
 node	2381215276	http://www.luckyindiandonerkebab.it/
-node	2381215314	https://oblo-comfort-food.eatbu.com/
 node	2383309043	https://www.notoriouscinemas.it/rovigo/index.php
 node	2383568492	https://www.trerape.com/
 node	2384256206	http://www.agriturismofornoantico.it/italianindex.html
@@ -2299,7 +2299,6 @@ node	4553730052	https://www.loscrittoio.com/
 node	4553732434	http://www.pizzaleone.it/
 node	4553733027	https://www.pugliagustoverona.com/
 node	4553733264	http://www.ceramichebenedetti.it/
-node	4553733880	https://www.lapiazzettaverona.com/
 node	4553734972	https://www.veronafinestre.it/
 node	4553735983	http://newstyleelena.com
 node	4553741566	https://it.yamaha-motor.eu/concessionari/rigobello
@@ -2325,7 +2324,6 @@ node	4553766187	https://ziolele.it/
 node	4553766393	https://www.gioiellisoprana.it/
 node	4553766833	http://www.bikestoreverona.com/
 node	4553767996	https://www.engisbakery.it
-node	4553768507	https://poke-house.com/en-en/place/
 node	4553770114	http://www.vivavinoverona.com/
 node	4553772860	https://ristorantescaligero.it/
 node	4553774993	https://www.conad.it/ricerca-negozi/tuday-conad-via-stella-8-37131-verona--010521
@@ -6112,10 +6110,10 @@ node	11645936815	https://www.labrentavecchia.it/
 node	11652293177	https://www.alducadivenezia.com/
 node	11652426941	https://www.ldchotelsitaly.com/it/palazzovenart-venezia/
 node	11657876801	https://www.flyparkvenezia.it/
-node	11665767091	http://www.archiviodistatotreviso.beniculturali.it/
+node	11665767091	https://www.archiviodistatotreviso.beniculturali.it/
 node	11681713969	https://www.cherrybank.it
 node	11687692819	https://m.facebook.com/pizzeriapomodoroospedaletto/
-node	11691202869	http://elmaneton.com
+node	11691202869	https://www.elmaneton.com/
 node	11704861484	https://dpr2depaoli.it/
 node	11709364811	https://www.tavernadelluppolo.com/menu.php
 node	11716755163	https://www.obiettivopubblicita.it
@@ -6126,6 +6124,19 @@ node	11739316913	https://www.reply.com/en
 node	11740810769	http://www.residenzadimoraimperfetta.com
 node	11741344307	https://lagenovesa.org/
 node	11741344309	https://www.teamanubis.dog/
+node	11744786441	https://www.lonardi.it/
+node	11744786445	https://agri-verde.it/
+node	11744786446	https://www.euroristorazione.it/
+node	11746650950	https://invictus-padova.it
+node	11746772380	https://www.farmaciasanbiagio.eu
+node	11747249641	https://www.intesys.it/
+node	11749080606	https://www.sabrinacrystal.it/
+node	11750909365	https://www.farmaciavidor.it/
+node	11752525279	https://www.alparcobnb.it/
+node	11755415954	https://www.begale.it/
+node	11757702665	https://ctgbrenzone.org/teatro-degli-ulivi/
+node	11761206118	https://hotspotvenice.com/en/ca-marcello
+node	11761421770	https://hotspotvenice.com/en/el-fulvia
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6935,7 +6946,7 @@ way	175910158	https://www.chaletmontecoston.com
 way	176655196	https://www.venissa.it/
 way	176655262	https://www.agescivenezia.it/basi/mazzorbetto/informazioni-utili
 way	176655267	https://www.museoandrich.com/
-way	176657628	http://sbmp.provincia.venezia.it/mir/musei/torcello/home.htm
+way	176657628	https://museoditorcello.cittametropolitana.ve.it/
 way	176900930	https://www.sme.it/
 way	176904921	http://www.fattoriaicanarini.it/
 way	176996668	http://www.fortificazioni.net/VENEZIA/batteria_amalfi.htm
@@ -7150,6 +7161,7 @@ way	183010986	http://www.villagodipiovene.it
 way	183078764	http://www.ranchalleroste.com/
 way	183083084	https://www.bbnordestsudest.it/
 way	183083276	https://www.comune.agordo.bl.it/
+way	183083392	https://www.aulss1.veneto.it/sezione/ospedale-di-agordo/
 way	183142031	https://www.alcredazzo.it/
 way	183144076	http://wami.it
 way	183159491	https://www.alpemadre.it
@@ -8171,6 +8183,7 @@ way	569050052	https://www.villafava.it/
 way	577785818	https://www.up-gesucapo.it/
 way	587643595	https://www.ecomontsrl.it/
 way	589339453	https://questure.poliziadistato.it/it/Rovigo
+way	597470814	https://www.campertreviso.com/
 way	601129022	https://www.skiareasanvito.com/
 way	601129540	https://www.facebook.com/MonteAvena
 way	602810405	http://www.paguspictus.it/crbst_4.html
@@ -9438,6 +9451,8 @@ relation	17189047	http://viapostumia.eu/
 relation	17357156	http://www.prolocotorrebelvicino.it/percorso-32-%E2%80%93-sentiero-delle-cinque-colombe_lit_3_43_12.asp
 relation	17359828	https://visitborgovalbelluna.it/percorso/anello-monte-frontal-del-cacciatore-n-2320/
 relation	17360632	http://www.prolocotorrebelvicino.it/percorso-33-%E2%80%93-sentiero-del-forte-enna_lit_3_43_13.asp
+relation	17363544	https://visitborgovalbelluna.it/percorso/anello-sui-luoghi-della-resistenza-n-2321/
+relation	17363616	https://visitborgovalbelluna.it/percorso/anello-spelonca-di-frontal-n-2322/
 node	64778383	http://www.comune.cittadella.pd.it/
 node	256072226	www.padovafarmacie.it
 node	262650779	http://www.lidopaina.it
@@ -9694,6 +9709,8 @@ node	4526569265	https://www.oscugnizzonapoletano-vicenza.it/
 node	4526570048	https://www.barausse.com/it/dove-acquistare/porte-e-finestre-barausse-dqg/
 node	4531917691	https://www.alexdepasetattoo.com/
 node	4531923105	https://linktr.ee/bosshoggwhiskycounty
+node	4553733880	https://osteriaenotecalapiazzetta.eatbu.com
+node	4553768507	https://poke-house.com/en-us/location/
 node	4601433606	http://www.panificiovianello.it/
 node	4662861489	http://www.autodemolizionirizzardo.it/
 node	4745095890	https://www.bierstubefestung.com/
@@ -9901,6 +9918,7 @@ node	10008869362	https://www.visitschio.it/it/vivi/cuore-di-schio/calzoleria-ret
 node	10009276723	http://imaginacafe.it
 node	10018621078	https://stringhetta-luca.business.site/
 node	10018995779	http://www.laurafavotto.it/wordpress/
+node	10031638976	https://www.oblocomfortfood.it/
 node	10042939827	https://esteticabeautyk.it/
 node	10043032450	https://www.admiralclub.it/
 node	10043032519	http://www.crossfitjesolo.com/
@@ -10120,7 +10138,6 @@ way	169078858	http://www.ipsiaconegliano.it/
 way	169679631	http://www.comprensivochinaglia.it/
 way	173619525	http://www.palazzograssi.it
 way	173619548	http://www.palazzograssi.it/it/about/spazi/teatrino/
-way	174979907	https://www.kingrock.it
 way	175241510	http://www.agriturismorivademilan.it/
 way	178460229	https://www.hotelanthony.it/
 way	178460825	https://m.facebook.com/pages/category/Bar/Chiosco-Da-Walter-Jesolo-166935210034567/
@@ -10322,6 +10339,7 @@ node	1491987375	www.locandasanlorenzo.it
 node	1576575991	https://www.facebook.com/iltelaiobikecafe/
 node	1591708793	https://www.facebook.com/Agrimarchetto2003saonara/?locale=it_IT
 node	2235642785	https://www.facebook.com/MichelangeloDaVinci
+node	2403657171	https://www.mainentipasticceria.it/
 node	2435497843	https://www.planetmountain.com/english/Rock/crags/settore.html?idfalesia=154&idsettore=1
 node	2460068331	http://www.wwwind.com
 node	2603490233	www.hotelvillaalba.it
