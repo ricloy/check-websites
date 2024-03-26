@@ -141,7 +141,6 @@ node	417322481	https://www.rifugioserot.eu/
 node	417327450	http://www.viaggioin.com/agriturismo-agritur-depedri-luciano-trento-289355
 node	417409276	http://www.tettamantibike.it/
 node	418013916	https://www.badbergfall.com/
-node	418013950	http://www.fojedoera.it
 node	418014829	https://www.christl.bz/
 node	418590055	https://www.lobishof.com/de/gasthaus-restaurant-ritten.htm
 node	418670673	http://bibliothek-tirol.blogspot.de
@@ -511,6 +510,7 @@ node	1005689714	www.kikkys.it
 node	1005861217	https://www.etschgrund.com/
 node	1005870617	https://www.hotel-guenther.com/
 node	1007752959	https://www.bestinparking.com/it/it/garage/parcheggio-piazza-walther
+node	1007816981	https://alma9.com/
 node	1024780378	http://www.galas.it/
 node	1026932691	https://www.martinsbrunn.it/
 node	1026932699	www.ff-gratsch.com
@@ -845,6 +845,7 @@ node	1826016969	https://www.gutesaussuedtirol.com/epages/Store.sf/?ObjectID=8696
 node	1826975803	https://www.raiffeisen.it/salurn/rund-um-meine-bank/ueber-uns/geschaeftsstellen-und-oeffnungszeiten.html
 node	1827584574	https://www.pardumerhof.com/
 node	1827608680	https://www.pension-gasser.com/de/restaurant-pizzeria
+node	1828011183	https://www.raiffeisen.it/de/bruneck/wir-sind-genossenschaft/geschaeftsstellen-und-oeffnungszeiten.html#branch-collapse-317
 node	1829223187	http://www.goldenerloewe.it/
 node	1829223235	http://www.matanerbrot.com/
 node	1833996316	https://www.pazeider.com/
@@ -1826,7 +1827,7 @@ node	2755996020	https://www.haselstaude.it/
 node	2755996071	http://www.papierprofi.it/index.html
 node	2755996111	https://www.niedersteinhof.com/
 node	2755996465	https://www.innerwalten.it/
-node	2755996811	https://www.gasthaus-alpenrose.com/
+node	2755996811	https://www.gasthausalpenrosewalten.com/
 node	2755999432	https://www.obi-suedtirol.com/
 node	2756001151	https://www.ausluger.com/hofladen/
 node	2756001553	https://www.blumen-rosi.com/
@@ -3122,7 +3123,7 @@ node	4245063096	https://www.siegesdenkmal.com/
 node	4245872151	http://www.bertoldosrl.it/
 node	4246041117	https://www.postapregasina.it/
 node	4247903119	https://www.photomstudio.it/
-node	4248786003	http://pizza-viva.it
+node	4248786003	https://www.pizza-viva-bruneck.it/de/home
 node	4248816589	pizza-viva.it
 node	4249337315	https://www.trenker.com/
 node	4254280399	https://www.raner.it/de/ranerhof-innichen-hochpustertal-willkommen.html
@@ -4304,7 +4305,7 @@ node	7683329284	https://www.ultnerbrot.it/
 node	7685931023	https://www.arcigaydeltrentino.it/
 node	7685936091	https://www.agrivalsugana.it/
 node	7690997760	https://www.bruneck.com/de/infos/puppenmuseum_2531
-node	7696038885	http://acherer.com
+node	7696038885	https://www.acherer.com/
 node	7700500561	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/charging-station-for-e-cars-cultural-centre-o-v-w/3C5C2DD4E15E37F613DBEB5416AAE1AD/?RequestKey=170927826465e184380865d
 node	7703580968	https://www.valgardena.it/en/holiday-with-dog/
 node	7703688697	https://www.valgardena.it/en/holiday-with-dog/
@@ -4425,6 +4426,7 @@ node	7952251511	https://passostelvio.eu/
 node	7952251512	https://passostelvio.eu/
 node	7952251515	https://passostelvio.eu/
 node	7952251520	https://passostelvio.eu/
+node	7965788063	https://www.pursuedtirol.com/de/ueber-uns/unsere-maerkte/bruneck/
 node	7968438668	info@webahof.com
 node	7978239116	http://www.tipografiaquaresima.it/
 node	7992649133	https://www.laimer.bz/
@@ -5766,6 +5768,12 @@ node	11708815470	https://bhubarco.it/
 node	11710939108	https://www.alpegger.com/
 node	11741795587	https://www.oacherhof.it/
 node	11742243609	https://www.agenziaentrate.gov.it/portale/alto-adige-itde
+node	11749029469	https://www.preindlerhof.com/
+node	11753289916	https://polytec.bmgroup.com/
+node	11757423176	https://www.herrischner.it/
+node	11757429385	https://www.battisti-suites.com/
+node	11758849957	https://www.sunnseitn-lodge.com/
+node	11762496019	https://eisexpress.it/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -6827,6 +6835,7 @@ way	122969847	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-ga
 way	122969851	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/garni-hotel-soraiser-dolomites-small-luxury/C0DF9AA976D911D18F2900A02427D15E/
 way	123226915	https://www.camping-antholz.it
 way	123751238	https://www.campingsassdlacia.it/
+way	123838729	https://www.caibrunico.it/index.php/rifugio-plan-de-corones/
 way	124048209	https://www.hotelsolea.com
 way	124058798	https://www.camping-al-cor.it/
 way	124067040	https://www.campingalporto.it/
@@ -6863,7 +6872,7 @@ way	125369582	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-ga
 way	125369592	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/hotel-rodella/C0DF9A0376D911D18F2900A02427D15E/
 way	125953897	https://www.aziendasociale.bz.it/Seniorenwohnheim_Villa_Serena/
 way	125972477	https://www.provinz.bz.it/bildung-sprache/kindergarten/landesdirektion-sprengel/kindergaerten-deutscher-kindergartensprengel-bozen.asp?news_action=4&news_article_id=599524
-way	125988273	https://www.ldmarket.it/it/punto-vendita/91_bolzano/
+way	125988273	https://www.mdspa.it/punti-vendita/Trentino-Alto-Adige/BZ-Bolzano/315-Bolzano/
 way	126098036	http://www.la-fonte.org/
 way	126102188	https://chaletpassosommo.it/
 way	126116517	http://www.egger-kg.it/
@@ -6985,7 +6994,6 @@ way	139450234	https://www.gourmetitalia.it/
 way	139460895	https://www.enaiptrentino.it/i_centri/cfp-borgo-valsugana
 way	139501252	http://www.revisioniborgovalsugana.it/
 way	139501763	https://www.bauexpert.it/
-way	139502978	https://www.istalcidedegasperi.it/website/
 way	139510163	http://www.ferramentasegnana.com/
 way	139510216	https://www.carabinieri.it/
 way	139516174	https://www.masovalli.it/it/
@@ -7044,7 +7052,7 @@ way	152250683	http://www.rifugiopassoprincipe.com
 way	152260076	https://www.payerhuette.com/
 way	152260769	https://www.stettiner.13h.de/
 way	152264483	http://www.zwickauerhuette.eu/
-way	152266832	https://www.valgardena.it/en/addresses/detail/base/company/selva-val-gardena/puez-hut/71247288BA7C525A24D9852A3B9732DC/
+way	152266832	https://www.rifugiopuez.it/
 way	152271730	https://www.rifugiovicenza.com/
 way	152487198	https://www.alpenjuwel.it
 way	152616491	https://www.sonnleiten.net/ihr-suedtirol-urlaub/wo-finde-ich-was/pfroderalm-auf-der-villandereralm-im-eisacktal
@@ -8467,7 +8475,7 @@ way	387892057	http://senzabarriere.org/
 way	387931172	https://www.ristorante-da-anita.com/
 way	389279289	https://www.finstral.com/
 way	389741793	http://www.appartments-gruenewald.it
-way	389949906	https://www.istalcidedegasperi.it/
+way	389949906	https://www.istalcidedegasperi.it/website/
 way	394685155	https://www.albergoeden.it/
 way	394926925	https://ski-bike-rent.it/
 way	394926936	https://www.hotel-schoenwald.com/
@@ -9570,7 +9578,6 @@ relation	3528151	https://www.sat.tn.it/
 relation	3536484	https://www.sat.tn.it/
 relation	3556659	https://www.golfclubpasseier.com/
 relation	3578043	https://www.apss.tn.it/Azienda/Luoghi/Ospedale-San-Lorenzo-di-Borgo-Valsugana
-relation	3578337	https://monasteroclarisseborgo.wordpress.com/
 relation	3581774	http://hocheppan.it/
 relation	3624212	https://www.sifteberti.it/
 relation	3625878	https://www.comune.trento.it/Aree-tematiche/Ambiente-e-territorio/Parchi-e-giardini/Mappa-parchi-e-giardini/Elenco-parchi-e-giardini/Area-piazza-d-Arogno
@@ -11999,6 +12006,7 @@ relation	2953568	https://www.ferraritrento.com/
 relation	3019157	http://www.parrocchie.it/rovereto/caterina/home.htm
 relation	3080215	https://www.viaggiareintrentino.it/
 relation	3518496	https://www.prolococacomuna.it/le-famiglie-benestanti-e-nobiliari
+relation	3578337	http://www.clarisseborgovalsugana.it/;http://www.clarisseborgovalsugana.it/
 relation	3804183	http://www.borgodeiposseri.com/
 relation	5122161	https://www.cogsci.unitn.it/
 relation	5555605	https://www.cappuccinitriveneto.it/2018/01/18/terzolas-provincia-e-arcidiocesi-di-trento/
