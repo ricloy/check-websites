@@ -201,7 +201,6 @@ node	414032311	http://www.borgofaiti.it
 node	414291043	http://www.tigertandoori.com
 node	422019522	https://trattoriacacioepepeprati.com
 node	422042472	www.beere.it
-node	422564593	https://www.pampanorama.it/
 node	442111257	https://www.museiincomuneroma.it/
 node	442561853	https://gelateriaoldbridge.com/
 node	443610569	https://www.hotelroyalsantina.com/
@@ -5202,6 +5201,7 @@ node	10217113117	https://www.enelx.com/it/it/mappa-stazioni-ricarica
 node	10217135317	https://eurosurgelati-italia-prima-porta.business.site/
 node	10221052470	https://www.facebook.com/latteriaitri/
 node	10221534813	https://www.dequintili.com/
+node	10229019105	https://www.bibliotechediroma.it/opac/library/teatro-biblioteca-quarticciolo/RMBG2
 node	10229190419	https://jw.org
 node	10229382464	https://damicheleroma.it/
 node	10232937816	http://www.ciervotermoidraulica.com/
@@ -5875,6 +5875,7 @@ node	11496723934	https://www.booking.com/hotel/it/la-casa-di-zoe-provincia-di-vi
 node	11500779932	http://www.cleanecoservice.it/wordpress/
 node	11502774097	https://www.enotecavinoinanfora.it
 node	11504479647	https://www.antuorimaterassiunicasede.com/
+node	11509026537	https://www.turismoroma.it/it/luoghi/museo-della-forma-urbis
 node	11518526807	https://mramotors.com/
 node	11518526810	http://www.lacombriccoladeimarmocchi.it/index.php
 node	11521166638	https://www.cappannagioielli.it/
@@ -5965,6 +5966,16 @@ node	11748811530	https://www.fspark.it/content/metropark_nd/it/parcheggi/centro-
 node	11753192451	https://www.progesoftware.it/en/
 node	11753391274	https://www.zurla68.it/
 node	11755742316	https://www.cavalieriappiaantica.it
+node	11760157969	https://daenzoristorante.business.site/
+node	11761555122	https://www2.deloitte.com/it/it.html
+node	11768222262	https://leonardoglobalsolutions.com/it/
+node	11769296724	https://gruppoecosafety.it/
+node	11769302896	https://www.soprasteria.com/home
+node	11769907431	carpfishinggradoli.it
+node	11771650430	https://studiobrillante.it
+node	11772117658	https://www.acacieepepe.it/
+node	11772119432	https://100celleaperte.wordpress.com/
+node	11772119433	https://www.aslroma2.it/index.php/consultori-familiari?view=page&id=2
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6986,6 +6997,7 @@ way	335691054	https://www.figliedimariaimmacolata.it/
 way	335691430	http://www.icdifrascati-viadonbosco.it/secondaria-i-grado-d-azeglio
 way	335711139	http://www.icfrascati1.gov.it/
 way	336026935	http://www.pacinottiarchimede.gov.it/
+way	336284823	http://www.rexbus.it/area-sosta-camper-romae/
 way	336371953	http://www.sportingpalace.com
 way	337605791	https://www.aslroma5.it/distretti/distretto-di-tivoli/
 way	337677655	https://greenparkmadama.it/
@@ -7057,7 +7069,7 @@ way	353708300	https://lantico-chiosco-di-sgiovanni.eatbu.com
 way	354290032	https://www.simonettasalacone.edu.it/
 way	354360888	https://www.facebook.com/offlinegaeta/
 way	355095987	http://www.pensionebullicanteroma.com/
-way	355291059	www.dotcampus.it
+way	355291059	https://www.dotcampus.it/
 way	355506496	http://www.casalerappini.it
 way	355788655	http://www.giardinoponza.it
 way	358538665	https://www.chiesavaldese.org/romapiazzacavour/
@@ -8319,7 +8331,6 @@ way	1194701690	https://merchandising.uniroma1.it/it
 way	1196007912	https://www.ic-poggialispizzichino.edu.it/
 way	1196386352	https://www.santalessio.org/
 way	1197031949	https://www.trattoriavacunea.it/
-way	1200967224	https://100celleaperte.wordpress.com/
 way	1204399041	https://www.unicooptirreno.it
 way	1204399083	https://www.stradivarius.com/it/
 way	1205151514	https://www.diag.uniroma1.it/
@@ -9119,10 +9130,10 @@ relation	17336976	https://www.camminodegliaurunci.org
 relation	17337009	https://www.camminodegliaurunci.org
 relation	17341818	http://www.camminodellasibilla.com/
 relation	17341920	http://www.camminodellasibilla.com/
-relation	17341965	http://www.camminodellasibilla.com/
-relation	17342024	http://www.camminodellasibilla.com/
-relation	17342110	http://www.camminodellasibilla.com/
-relation	17342149	http://www.camminodellasibilla.com/
+relation	17341965	https://www.camminodellasibilla.com/
+relation	17342024	https://www.camminodellasibilla.com/
+relation	17342110	https://www.camminodellasibilla.com/
+relation	17342149	https://www.camminodellasibilla.com/
 relation	17352410	https://www.camminodisanfilipponeri.com
 relation	17352498	https://www.camminodisanfilipponeri.com
 relation	17356913	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150137&pagename=157031
@@ -9441,6 +9452,7 @@ node	9721225211	https://www.jetphotos.com/registration/MM80972
 node	9725160049	http://www.arciviterbo.it/2019/07/01/lo-spazio-del-cielo-2/
 node	9764515313	https://www.tipografia.online
 node	10082931681	https://www.teatro.it/teatri/portico-roma-cartellone
+node	11509026537	https://www.comune.roma.it/web/it/notizia.page?contentId=NWS1127992
 way	23016254	https://www.provincia.viterbo.it/strade.html
 way	23016273	https://www.provincia.viterbo.it/strade.html
 way	23480542	https://www.provincia.viterbo.it/strade.html
