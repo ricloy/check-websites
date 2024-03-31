@@ -630,7 +630,7 @@ node	4653015095	http://www.divini.gov.it
 node	4718305555	https://romanticapizza.it/pizzerie/ancona/
 node	4718305557	https://www.dadiemattoncini.it
 node	4732806659	https://www.ortofiorito.com/
-node	4747701639	https://www.pharmaremedia.it
+node	4747701639	http://pharmanatura.net/
 node	4762954043	http://www.larocchettaripa.it
 node	4767603859	http://www.ceraunavoltailpane.com/
 node	4770527567	https://www.comune.pollenza.mc.it/
@@ -754,6 +754,7 @@ node	6399647079	https://www.conad.it/ricerca-negozi/negozio.010045.html
 node	6411397800	https://il-cortegiano-ristorante.business.site/
 node	6411397801	http://www.ilcortegiano.it/b&b-bed-and-breakfast-urbino/
 node	6426040084	https://www.emotionsposi.it
+node	6429253685	http://www.cinemaapennello.it/index.asp
 node	6468606949	https://economiaediritto.unimc.it/it
 node	6496082598	https://ristorantevecchiomontefeltro.com/
 node	6502759428	https://www.hotelulisse.it/
@@ -1138,6 +1139,7 @@ node	10173324910	https://www.famila.it/punti-vendita/marche/famila-marina-di-mon
 node	10173324911	https://www.d-piu.com/punti_vendita/d280-montemarciano/
 node	10175871701	https://www.risparmiocasa.com/store/castelfidardo/
 node	10177798532	https://www.locandadelwest.it/
+node	10182477342	https://stores.blukids.com/it/italia/marche/ancona/montemarciano
 node	10182481939	https://www.ripa.bcc.it
 node	10186456351	https://www.farmaciacomunalemorrovalle.it
 node	10210367601	https://www.caijesi.it/
@@ -1446,6 +1448,8 @@ node	11682818832	https://www.farmaciaangelinisimplicio.it/
 node	11700362030	https://juris.unicam.it/
 node	11700389485	https://cinfo.unicam.it/
 node	11750546138	https://www.boscodoroshop.com
+node	11757892921	https://lidaste.it/?cat=1
+node	11768533315	https://www.giomettirealestatecinema.it/cinema/multiplex-jesi/programmazione
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1457,7 +1461,6 @@ way	24887462	http://www.molino.castiglionidiarcevia.it
 way	25213597	http://www.adriaticarena.it
 way	39042118	https://www.parcozoofalconara.com/it/lo-zoo/chi-siamo.html
 way	41139927	https://www.vallesinapleinair.it/
-way	41392909	https://www.giomettirealestatecinema.it/cinema/multiplex-jesi/programmazione
 way	41590972	http://www.centrolafornace.com
 way	41997362	https://www.centrovaldichienti.it/
 way	42022756	http://www.mcmcarbonari.it/
@@ -1594,6 +1597,7 @@ way	297803088	http://www.azzurravini.it
 way	299758199	https://www.ilteatrodellaria.it/
 way	301672526	http://www.casa-aurora.it/en/camping.html
 way	302222103	https://www.ismatteirecanati.it/
+way	302803603	https://www.corinaldoturismo.it/visita/area-sosta-camper-corinaldo/
 way	303079296	http://www.leopardiwines.com
 way	303079297	https://www.numanablu.it/
 way	303079299	https://www.adamoedevanumana.it/
@@ -1978,6 +1982,7 @@ way	1255052209	https://www.iluoghidelsilenzio.it/abbazia-di-santa-croce-casette-
 way	1256338825	https://www.iluoghidelsilenzio.it/badia-dei-santi-biagio-e-flaviano-monterubbiano-fm/
 way	1256644325	https://www.iluoghidelsilenzio.it/chiesa-della-scala-santa-monte-urano-fm/
 way	1256645874	https://www.iluoghidelsilenzio.it/santuario-madonna-degli-angeli-santelpidio-a-mare-fm/
+way	1266807714	https://www.visitain.cloud/MERGOAREACAMPER/MERGO-AREA-CAMPER
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
