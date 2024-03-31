@@ -304,7 +304,6 @@ node	1652855644	https://pisa.cttnord.it/
 node	1652878250	https://pisa.cttnord.it/
 node	1652878307	https://pisa.cttnord.it/
 node	1652892233	https://pisa.cttnord.it/
-node	1652892242	https://pisa.cttnord.it/
 node	1652892243	https://pisa.cttnord.it/
 node	1652892256	https://pisa.cttnord.it/
 node	1652892258	https://pisa.cttnord.it/
@@ -1572,6 +1571,7 @@ node	4240018014	https://www.wwf.it/oasi/toscana/lago_di_burano/
 node	4240041637	http://farmaciafrancabartolotti.it
 node	4241447203	https://www.lillypineta.com/
 node	4241447204	https://www.lillymare.com/
+node	4241590389	https://gelateriadellapassera.it/
 node	4242722989	http://agriturismolacastellana.com/
 node	4242957871	https://www.bistrotfidelio.it/
 node	4242961594	https://www.mps.it/
@@ -2011,11 +2011,14 @@ node	5122784128	http://www.intergommaservice4.it/sede-ghezzano/
 node	5124611098	https://www.easybikemaremma.it
 node	5128363319	https://pisa.cttnord.it/
 node	5131166919	https://www.ideacolore.it/
-node	5136214749	https://www.otticafontani.it/
+node	5136214749	"https://www.otticafontani.it/
+https://otticafontani.com
+https://fotootticafontani.com"
 node	5137018222	https://www.pantanello.it/
 node	5138588223	http://www.osteriabernardo.it
 node	5141413697	http://www.lesalaiole.it/
 node	5142589104	https://www.ristoranteilmerlo.it/
+node	5145868821	https://osteria1rosso.com/
 node	5147364323	https://www.parione.net/
 node	5157243631	https://www.podernuovobp.it/
 node	5159901227	https://www.studiomecommercialisti.it/
@@ -3129,6 +3132,7 @@ node	7786986423	https://sites.google.com/view/valsavignone-bulciano-fratelle/una
 node	7793713457	https://www.ssannunziata.it/
 node	7793734257	https://www.agriturismocostaetrusca.it/
 node	7796129485	https://www.tenutaprimapietra.com
+node	7814604888	http://www.comune.firenzuola.fi.it/eventi-notizie/chiusura-area-sosta-camper-in-loc-le-fornaci-firenzuola-1
 node	7820796072	https://www.mps.it/
 node	7826968085	http://www.locandamartinelli.it/
 node	7833220604	https://www.ospedaleveterinariosanconcordio.it/
@@ -3910,7 +3914,7 @@ node	9984737748	https://www.museogonfienti.it/IT/home
 node	9985667992	http://www.luccamuseum.com/
 node	9986313792	http://www.luccamuseum.com/en
 node	9991699184	https://www.mostodimalto.it/
-node	9994898252	http://www.salumificioanzuini.it
+node	9994898252	https://www.salumificioanzuini.it/
 node	10000139917	https://mycontactlessmenu.mycia.it/r/q/7130/menu
 node	10000443728	https://www.ilcaratello.biz/
 node	10000679856	https://shop.flaviocastellani.it/
@@ -4877,12 +4881,14 @@ node	11748007926	https://hotelportaromana.octosite.net/
 node	11748007930	http://pasticceria-peccatidigola.it/
 node	11748007932	http://www.renzocampanini.it/
 node	11748007934	https://em-apartment.italyadventures.top/
-node	11748165549	http://www.brandini.it
+node	11748165549	https://www.brandini.it/
 node	11749261257	https://www.gruppoferrando.it/
 node	11750160051	https://www.pinoallefonti.it/coming-soon/
 node	11753227300	http://www.articolo80.com/agenzia-europa.php
 node	11753337393	https://www.eng.it/en/
 node	11753845832	https://www.gignola.it
+node	11765541741	https://www.sapracentrosanitario.it
+node	11769248262	https://www.aep-italia.it/en/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -5260,6 +5266,7 @@ way	183704612	https://www.bevedetta.com/
 way	183897542	http://www.marzoccosangiovannese.it/magazine/campi/i-campi.html
 way	183975382	https://fondoambiente.it/luoghi/torre-e-casa-campatelli
 way	184152323	https://www.bindozzino.com/en/farm-stay-valdorcia.html
+way	184234317	https://www.fspark.it/content/metropark_nd/it/parcheggi/centro-italia/pisa.html
 way	184353097	http://www.oasilipumassaciuccoli.org
 way	184506137	https://www.parcosanrossore.org/centri-visita-dettaglio.php?id=778
 way	184621030	http://www.ristorantecolonnino.it/
@@ -6379,6 +6386,7 @@ way	813405902	http://www.notiziediprato.it/news/intitolata-al-cantore-di-prato-e
 way	813437926	https://www.beautycarauto.it
 way	814686231	https://www.numerounofitness.it/palestra-livorno/
 way	814971842	https://www.liviprato.edu.it/
+way	816340679	https://www.comunepomarance.it/in-evidenza/area-camper-/4585
 way	817520307	https://www.sanrossoresportvillage.it/
 way	820424203	https://www.bebinfissi.com
 way	822661548	http://www.tortugaelba.com/
@@ -7747,6 +7755,14 @@ relation	17369005	https://comune.san-miniato.pi.it/per-i-cittadini/cultura-e-mus
 relation	17371065	http://www.caifaenza.it/
 relation	17376226	http://www.lisini.com/
 relation	17378093	http://www.caifaenza.it
+relation	17388314	https://comune.san-miniato.pi.it/per-i-cittadini/cultura-e-musei/rete-sentieristica-del-comune-di-san-miniato/
+relation	17392300	https://comune.san-miniato.pi.it/per-i-cittadini/cultura-e-musei/rete-sentieristica-del-comune-di-san-miniato/
+relation	17392341	https://comune.san-miniato.pi.it/per-i-cittadini/cultura-e-musei/rete-sentieristica-del-comune-di-san-miniato/
+relation	17392374	https://comune.san-miniato.pi.it/per-i-cittadini/cultura-e-musei/rete-sentieristica-del-comune-di-san-miniato/
+relation	17392553	https://comune.san-miniato.pi.it/per-i-cittadini/cultura-e-musei/rete-sentieristica-del-comune-di-san-miniato/
+relation	17392952	https://comune.san-miniato.pi.it/per-i-cittadini/cultura-e-musei/rete-sentieristica-del-comune-di-san-miniato/
+relation	17396409	https://comune.san-miniato.pi.it/per-i-cittadini/cultura-e-musei/rete-sentieristica-del-comune-di-san-miniato/
+relation	17401088	https://comune.san-miniato.pi.it/per-i-cittadini/cultura-e-musei/rete-sentieristica-del-comune-di-san-miniato/
 node	215646877	https://www.unisi.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
@@ -8644,6 +8660,7 @@ way	567131304	http://epigrafinascoste.blogspot.com/2016/02/vernio-giovanni-benel
 way	572181101	https://cultura.ilfilo.net/la-villa-di-valdastra-e-lintervento-dei-chini-nellottocento/
 way	593047842	http://industrialheritagemap.sc17.it/?places=ex-fabbrica-24
 way	609021947	http://www.monteriggioniturismo.it/en/info-turistiche/area-camper-la-posta/
+way	628355925	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0900110102
 way	691296300	http://mapserver.provincia.prato.it/prv_po/Mappecittadini/pdfs/Mappecittadini_scheda_563.pdf
 way	693818787	http://mapserver.provincia.prato.it/prv_po/Mappecittadini/pdfs/Mappecittadini_scheda_450.pdf
 way	695797042	http://mapserver.provincia.prato.it/prv_po/Mappecittadini/pdfs/Mappecittadini_scheda_742.pdf
