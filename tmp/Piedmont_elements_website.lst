@@ -1444,7 +1444,7 @@ node	3361783212	https://www.apito.it/
 node	3361815388	http://www.apibiella.it
 node	3361829281	http://www.giarololeader.it/
 node	3361833754	https://www.monferratoastigiano.it/
-node	3361843390	www.apiasti.it
+node	3361843390	https://www.apiasti.it
 node	3361857030	https://www.builditup.it/
 node	3361866795	http://www.galgvp.eu/
 node	3361870352	https://www.cna-to.it/
@@ -1567,7 +1567,7 @@ node	3508238125	http://www.bblacasanelbosco.it/
 node	3513458924	http://www.albergodelviale.com
 node	3517152046	http://www.valvaraitaholidays.it
 node	3530607245	http://www.aquilanera.org
-node	3539813663	https://lacedraia.it
+node	3539813663	https://www.lacedraia.it
 node	3548109418	https://www.hoteloleggio.com/
 node	3548191289	http://www.villaggioriosecco.it/
 node	3556356548	http://provincia.alessandria.it/index.php?ctl=dotazioneorganica&fl=singola&id=131
@@ -2606,6 +2606,7 @@ node	4735667581	https://prestofresco.it/cgi-bin/puntivendita/TORINO-23-93.asp
 node	4735668281	https://www.gruppocdc.it/sedi/centro-polispecialistico-privato
 node	4735669379	https://www.japs.it
 node	4735719425	https://www.pfatisch.com/
+node	4735721029	http://www.openhousetorino.it/edifici/casa-pazza/
 node	4735721050	https://www.hotelbostontorino.it
 node	4735721051	https://www.timesis.it/
 node	4735722086	https://fondazionetime2.it/
@@ -4612,7 +4613,6 @@ node	8185251117	https://www.distilleriaromanolevi.com
 node	8186644013	https://surlys-barbershop.business.site/
 node	8195055666	https://www.autorita-trasporti.it
 node	8197191336	http://www.itinerantivcoverbania.it
-node	8197191523	https://www.itinerantivcoverbania.it/
 node	8204974733	https://www.labellotta.com/
 node	8210481718	https://www.tenutamarengo.it/
 node	8213695843	https://sigmavending.com/
@@ -5689,6 +5689,7 @@ node	10756117124	https://www.ebikerentcollegno.com/
 node	10761269486	www.artisticamusica.it
 node	10766482289	https://shitcoins.club/localizzazione-atm/atm-bitcoin-torino-centro-commerciale-piazza-paradiso-piazza-bruno
 node	10767225117	https://www.gilber.it/
+node	10769159379	https://rigeneralab.it/
 node	10770516395	https://www.betolameana.it/
 node	10779871490	www.caiivrea.it
 node	10784291696	https://www.meizoun.it
@@ -6064,6 +6065,13 @@ node	11750739404	https://bancadelvino.it
 node	11753403436	https://www.castellosforzini.it/
 node	11757412951	https://www.vecchionovecento.it/
 node	11757424050	https://www.italiainventa.it
+node	11761482212	https://www.visualitics.it/?lang=en
+node	11764155670	https://www.otticavisuspiossasco.com/
+node	11765700052	http://www.lostal.it/
+node	11771964637	https://birraceca.it/il-pub/
+node	11775209765	https://www.alten.it/
+node	11775218800	https://www.facebook.com/profile.php?id=100057097704137
+node	11775225173	https://34bigthings.com/
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6446,6 +6454,7 @@ way	173157125	http://bimse.altervista.org/
 way	173161637	https://www.ecomuseominiere.it/
 way	173284079	https://www.hotelgalant.it/
 way	173643050	http://www.pinoscuola.edu.it/
+way	173698562	https://www.dana.com
 way	173731971	https://www.fondazionevaldese.org/fondazionevaldese.php?codice=A31304
 way	174055401	http://www.alessandriainmovimento.info/
 way	174149577	https://www.comune.porte.to.it/
@@ -6473,6 +6482,7 @@ way	178289048	http://www.curiepinerolo.gov.it/
 way	178326602	https://www.alberti-porro.edu.it/wordpress/
 way	178326614	https://www.burgerking.it/ristoranti/piemonte/torino/pinerolo/
 way	178415434	https://www.comune.ivrea.to.it/scopri-ivrea/mercati.html
+way	178444816	https://www.collegiosantachiara.com/
 way	178458015	https://www.comune.grignasco.no.it/
 way	178458025	https://www.carrefour.it/punti-vendita/carrefour-market-grignasco-via-iv-novembre-31-4445.html
 way	178479652	http://www.fablabalessandria.it
@@ -6950,7 +6960,6 @@ way	233600647	https://www.bragardhotel.com/
 way	233753714	https://sani-plast.com/
 way	233889485	http://www.sanpaolo-to.com/
 way	233901470	http://www.agricolailgirasole.com/
-way	233958688	https://www.aziendaagricolascaglia.it/
 way	234102415	http://www.sostacampervenaria.it/
 way	234126881	https://www.petmark.it/negozio_dett.asp?ilNeg=203
 way	235224618	https://www.centrocalzaturiero.it/ita/punto-vendita/trecate-calzature/
@@ -7507,7 +7516,6 @@ way	344981694	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	344981700	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	344981705	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	345602260	https://www.hotelastortorino.it/
-way	346310238	http://www.lostal.it/
 way	347233177	https://it-it.facebook.com/maseracalciofemminile
 way	347708736	https://www.pomela.it/
 way	348677034	http://www.thejulians.it
@@ -8089,12 +8097,13 @@ way	527055808	https://www.villaottolenghiwedekind.com
 way	527359845	http://www.alleportediasti.it
 way	528984364	https://www.comune.cassine.al.it/
 way	529199004	https://www.nauticatarello.it
-way	529275029	https://www.facebook.com/Dream-Team-Pump-627384360698345/
 way	529715273	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	529715274	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	529715275	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	529937415	https://www.crigiaveno.it/
+way	529945643	https://www.zonco.it/
 way	529946236	https://www.docbi.it/modules/smartsection/item.php?itemid=90
+way	529947260	https://www.klinger.it/
 way	530400179	https://www.birrificioparsifal.it/
 way	530788063	https://www.laregibussa.it/
 way	531271023	https://www.fondazionetessilchieri.com/imbiancheriadelvajro/
@@ -8124,6 +8133,7 @@ way	543128570	https://www.decathlon.it/
 way	543843034	http://www.comune.viola.cn.it/Home/DettaglioNews/tabid/16265/Default.aspx?IDNews=49547
 way	544610891	http://www.golfclubclaviere.it
 way	544655539	https://www.hotelpalio.com/
+way	544777662	https://www.minoxdyeing.it/
 way	545553223	http://factoryperformance.it
 way	545556896	https://www.laguardiavilladelfini.com
 way	546862689	https://www.comune.sostegno.bi.it/
@@ -8360,7 +8370,6 @@ way	689745713	https://parapendiocavallaria.jimdo.com/
 way	689745715	https://parapendiocavallaria.jimdo.com/
 way	689927745	https://www.cailanzo.it/index.php/palestre-di-roccia/item/175
 way	690662129	https://www.s-croce.it/
-way	690830479	https://www.collegiosantachiara.com/
 way	690881608	https://www.comune.chieri.to.it/vivi-la-citta/mura-antiche
 way	690901227	https://www.clinicacittadialessandria.it
 way	690901235	https://www.clinicacittadialessandria.it
@@ -8504,6 +8513,7 @@ way	768812183	https://www.liceojuvarra.it/
 way	768902068	https://www.russell-moro-guarini.edu.it/
 way	769032633	https://pellerina.it/
 way	769035071	http://bodoniparavia.it/
+way	770525246	https://www.dana.com/
 way	772251056	https://www.mymercato.it/punti-vendita/piemonte/mercato-extra-alessandria---via-vecchia-torino
 way	773637539	http://www.stacricambi.it/
 way	776185560	https://www.castellogalli.it/
@@ -8968,6 +8978,9 @@ way	1256899821	http://www.bryanauto.it/
 way	1257831735	https://colisee.it/residenze/residenza-madama/
 way	1258560887	https://www.infrato.it/wp-content/uploads/2024/02/2024_02_20_Via-Po.pdf
 way	1258560888	https://www.infrato.it/wp-content/uploads/2024/02/2024_02_20_Via-Po.pdf
+way	1266603030	https://www.facebook.com/Dream-Team-Pump-627384360698345/
+way	1266781960	https://www.comune.ormea.cn.it/it-it/vivere-il-comune/dove-dormire/area-sosta-camper-37205-1-f6bf93782b1338a2de26b9b1e92fb7d9
+way	1266944688	https://www.osp-koelliker.it/
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -10419,6 +10432,7 @@ node	3052692275	https://azetaservices.business.site/
 node	3073055490	http://www.mixmarkt.eu/
 node	3079897780	http://www.ristorantepiazzano.com/
 node	3093842542	https://www.poliziadistato.it/
+node	3120115352	https://www.mbun.it
 node	3156564534	http://www.barbamarc.it/
 node	3202699457	http://www.mosca1916.it/
 node	3202699919	http://www.arrugginita.com/
@@ -10809,7 +10823,7 @@ node	11407447686	https://www.movimentorangers.com/
 node	11503611098	http://www.intec-2000.it/
 node	11665555284	Officinadelcomputer.net
 node	11704782348	https://www.maretorino.com
-node	11760543011	https://www.comgiordanocioccolato.comit
+node	11760543011	https://www.giordanocioccolato.it
 way	24600050	https://booking.isoleborromee.it/it/product/7/detail
 way	39670307	https://www.bardonecchia.it/strutture/posto-tappa-valfredda/
 way	58323423	http://www.aeroclubvercelli.it/
@@ -10839,6 +10853,7 @@ way	155318267	https://www.isoleborromee.it/isola-madre/
 way	156946357	http://www.birrabba.it/
 way	159685145	https://www.ilmulinodeifiori.it/
 way	160965698	http://www.castellodelroccolo.it/it/
+way	162566106	http://parcoavventuraorma.com
 way	165762177	http://www.unicredit.it
 way	165966739	https://www.retesuperservice.it/it_it/centrosuperservice/929202/gomma--srl/chi-siamo.html
 way	167309815	http://www.rifugiobarant.it/
@@ -11631,7 +11646,7 @@ relation	8910685	https://percorsi.estmonterosa.it/t/T20b/T20b.kml
 relation	8910785	https://percorsi.estmonterosa.it/t/T20a/T20a.kml
 relation	8910942	http://percorsi.estmonterosa.it/c/C05b/C05b.kml
 relation	8924252	https://percorsi.estmonterosa.it/c/C14b/C14b.kml
-relation	8926154	http://percorsi.estmonterosa.it/t/T02/T02.kml
+relation	8926154	https://percorsi.estmonterosa.it/t/T02/T02.kml
 relation	8926183	https://percorsi.estmonterosa.it/t/T06/T06.kml
 relation	8926571	https://percorsi.estmonterosa.it/t/T10/T10.kml
 relation	8926705	https://percorsi.estmonterosa.it/t/T12/T12.kml
