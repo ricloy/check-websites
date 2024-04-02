@@ -2362,6 +2362,9 @@ node	11737469051	http://malignani.ud.it/Lpm/index.html
 node	11740605963	http://www.thetownhouse.it/
 node	11763355794	https://trieste.linux.it/
 node	11763979645	https://mrsmoky.it/
+node	11770976367	https://www.agliamici.it/
+node	11775813422	https://www.geoparcoalpicarniche.org/it/geositi/successione-triassica-del-monte-bivera/
+node	11778072685	http://www.supermercato-bertocchi.com/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	https://campingalbosco.it/
@@ -2611,7 +2614,6 @@ way	36415148	http://www.lecorderiehotel.it
 way	36416352	https://www.cai-fvg.it/sentieri-e-rifugi/rifugi-e-opere-alpine/opere-alpine/003-casello-gabrio-modugno-2/
 way	36416393	https://www.tecnonoleggi.it/
 way	36416402	https://www.vspangerc.eu/otroski-vrtec-palcica-v-ricmanjih
-way	36417046	http://www.supermercato-bertocchi.com/
 way	36417362	https://www.vspangerc.eu/otroski-vrtec-kekec-in-miskolin-v-boljuncu
 way	36417363	http://www.riservavalrosandra-glinscica.it
 way	36417881	https://www.centerhotel.it/
@@ -2903,7 +2905,6 @@ way	158023737	http://www.salviamoilpaesaggio.it/blog/2012/02/in-provincia-di-udi
 way	158852230	https://www.marinajuliacampingvillage.com/;https://www.clubdelsole.com
 way	160548530	http://www.liburniats.org/p/le-spiagge.html
 way	163794292	http://www.comune.pozzuolo.udine.it
-way	170618590	http://www.agroshop-trieste.it/
 way	170856596	https://www.sauris.org/maps-routes/2E
 way	171519490	https://www.univ.trieste.it/
 way	171532815	http://versajudrio.it/
@@ -2930,6 +2931,7 @@ way	197173591	https://www.lidl.it/
 way	197764412	http://www3.comune.gorizia.it/turismo/it/parco-del-municipio
 way	198339911	https://ristorantealfiumestella.com
 way	198789618	https://artcart.it/it/
+way	199103313	https://www.turismofvg.it/en/turismofvg-where-to-go/san-vito-al-tagliamento
 way	199843563	http://www.castellodiprampero.org/
 way	200613383	www.wafna.it
 way	201562342	http://vidussi.it/
@@ -3022,6 +3024,7 @@ way	408946273	http://www.liceogrigoletti.gov.it/
 way	411086313	http://www.terminal-gorizia.eu/
 way	416323535	https://www.marepineta.com/
 way	420036042	https://www.tecnofervaleri.it/
+way	428172441	https://www.comune.corno-di-rosazzo.ud.it/media/files/030030/attachment/Regolamento_area_sosta_camper_01_1Vvtkn9.pdf
 way	430104847	https://triesteadventurepark.it/
 way	439745753	https://www.despar.it/
 way	441692031	https://www.portopiccolosistiana.it/
@@ -3059,7 +3062,6 @@ way	538958500	http://liceomarinelli.gov.it/
 way	547144069	http://www.e-coop.it/web/guest/punti-vendita-dettaglio?id=5584
 way	548008458	https://www.icsacile.edu.it
 way	559474423	https://www.conad.it/ricerca-negozi/negozio.050404.html
-way	560390245	https://www.dgcolortrieste.com/
 way	562265847	http://www.fazioli.com
 way	571610486	https://iclignano.edu.it/
 way	574185159	http://www.autodemolizionizampatrieste.it/
@@ -4570,6 +4572,7 @@ relation	17186596	http://viapostumia.eu/
 relation	17186630	http://viapostumia.eu/
 relation	17186637	http://viapostumia.eu/
 relation	17186638	http://viapostumia.eu/
+relation	17392204	https://www.jakobova-pot.si/
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
@@ -4620,6 +4623,7 @@ node	2211443911	http://www.reporterstarvisio.it
 node	2465694154	http://www.lanificiomarchesin.it
 node	2479127662	http://www.comuneditarvisio.com/
 node	2510766758	https://www.autofficinadino.it/
+node	2547437356	https://freesolarimpianti.it/
 node	2599764374	http://www.quiwolf.it
 node	2599764377	http://www.ristoranteallapace.it
 node	2601556166	http://www.birreriamondial.it
@@ -4716,6 +4720,7 @@ node	5302200576	http://www.comune.maranolagunare.ud.it/index.php?id=14362
 node	5338743521	www.dokdallava.com
 node	6119132985	http://www.farmaciadare.it/
 node	6119132990	http://www.farmaciatoso.it/index.asp
+node	6242084249	http://lacoccinelladoro.com
 node	6274097495	http://www.aldolcenero.it/
 node	6274965083	https://www.ristorantecentopassi.it/
 node	6496439185	https://www.altiglioveg.it
@@ -5131,7 +5136,6 @@ way	280292542	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idSch
 way	293599636	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=31&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	329817890	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=15&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	334290395	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=218&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
-way	428172441	https://www.comune.corno-di-rosazzo.ud.it/media/files/030030/attachment/Regolamento_area_sosta_camper_01_1Vvtkn9.pdf
 way	485178753	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=231&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	547715372	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=112&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	627568926	https://verdepubblico.comune.trieste.it/giardini-attrezzati/giardino-di-via-boccaccio/
