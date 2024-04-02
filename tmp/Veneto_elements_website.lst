@@ -715,7 +715,7 @@ node	1879269070	https://gunarestaurant.it/
 node	1880779143	https://www.bccpm.it/
 node	1881207786	https://dolomitimountainresort.com
 node	1882140345	http://www.algallo.com/
-node	1883523557	https://www.hotelimperocortina.it/
+node	1883523557	https://hoteldelen.it/en/hotel-de-len/
 node	1883541912	https://www.hotelsancarlo.net/home.htm
 node	1885697727	https://www.spiaggiadoro.info/
 node	1886724793	https://www.albergodelgarda.com/
@@ -6121,7 +6121,7 @@ node	11716945169	https://casa-margherita.bedsandhotels.com
 node	11722011232	https://www.sirmax.com/en/
 node	11731156509	https://www.deda.group/home-en
 node	11739316913	https://www.reply.com/en
-node	11740810769	http://www.residenzadimoraimperfetta.com
+node	11740810769	https://www.residenzadimoraimperfetta.com/
 node	11741344307	https://lagenovesa.org/
 node	11741344309	https://www.teamanubis.dog/
 node	11744786441	https://www.lonardi.it/
@@ -6137,6 +6137,11 @@ node	11755415954	https://www.begale.it/
 node	11757702665	https://ctgbrenzone.org/teatro-degli-ulivi/
 node	11761206118	https://hotspotvenice.com/en/ca-marcello
 node	11761421770	https://hotspotvenice.com/en/el-fulvia
+node	11766071505	www.agriturismolaborina.com
+node	11766109145	wwww.agriturismoaborina.com
+node	11769760015	https://ortogonale1.com/
+node	11769760016	https://ortogonale1.com/punti-di-interesse-storico/campogrosso/
+node	11773263971	http://labiciclettabb.com
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -8180,6 +8185,7 @@ way	557709974	https://www.padovanet.it/informazione/biblioteca-bassanello-voltab
 way	564997764	https://giardinogiusti.com/
 way	567462275	https://www.arcieriscaligeri.it
 way	569050052	https://www.villafava.it/
+way	577785816	https://www.visitschio.it/it/servizi/area-sosta-camper
 way	577785818	https://www.up-gesucapo.it/
 way	587643595	https://www.ecomontsrl.it/
 way	589339453	https://questure.poliziadistato.it/it/Rovigo
@@ -8439,6 +8445,7 @@ way	989698765	https://www.facebook.com/area151shopping/
 way	991479592	https://www.marinafiorita.com/
 way	991741515	http://www.agricampeggiodascarpa.it
 way	992671473	https://www.lavandapolesana.it/
+way	993462538	https://www.chioggia.org/index.php?area=84&menu=680&page=1718&lingua=4&idnotizia=1171
 way	995941038	https://dolse.it/
 way	1005604876	https://papp-logistics.de/it/
 way	1006500887	http://www.lozzodicadore.eu/parcodellamemoria/col-cervera-spianata-del-col-de-le-pite-ex-ricovero-cervera/
@@ -8681,6 +8688,7 @@ way	1246313927	https://www.trattoriasantantonio.com/index.php/parapendio
 way	1252143469	http://www.terraesogni.it/
 way	1260647923	https://www.comune.tregnago.vr.it
 way	1263692479	http://www.ic16verona.gov.it
+way	1267701385	https://www.agenziaimmobiliaredallarizza.com/
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -9453,6 +9461,9 @@ relation	17359828	https://visitborgovalbelluna.it/percorso/anello-monte-frontal-
 relation	17360632	http://www.prolocotorrebelvicino.it/percorso-33-%E2%80%93-sentiero-del-forte-enna_lit_3_43_13.asp
 relation	17363544	https://visitborgovalbelluna.it/percorso/anello-sui-luoghi-della-resistenza-n-2321/
 relation	17363616	https://visitborgovalbelluna.it/percorso/anello-spelonca-di-frontal-n-2322/
+relation	17394546	https://www.naturalmentevittorioveneto.it/v12-mt-altare/
+relation	17394623	https://www.naturalmentevittorioveneto.it/v11-san-paolo/
+relation	17394714	https://www.naturalmentevittorioveneto.it/v13-v_perdonanze-stellung/
 node	64778383	http://www.comune.cittadella.pd.it/
 node	256072226	www.padovafarmacie.it
 node	262650779	http://www.lidopaina.it
