@@ -1469,7 +1469,6 @@ node	5110976787	https://libreria-europa.it/
 node	5115693619	https://m.facebook.com/alfa2aa/
 node	5117696689	https://www.scaleedintorniparquet.it
 node	5124415521	http://www.bb-rodionoff.com
-node	5126521022	https://www.bteck.it/
 node	5129445624	https://www.hostelstaormina.com/
 node	5137114726	https://m.facebook.com/pages/Osteria-Bacchus/800844259949950?fref=ts
 node	5137622323	https://www.poste.it
@@ -1606,7 +1605,7 @@ node	5574376821	http://www.laterrazzasulmaretaormina.com/
 node	5577172817	https://www.casevacanzacustonaci.it/
 node	5578153623	http://4archi.it
 node	5578154922	http://www.fattoriailtris.it
-node	5581406525	http://www.marzamemiholidays.it
+node	5581406525	https://reginamargheritabeb.it/
 node	5591124288	https://www.bancaetica.it/
 node	5596817454	www.crossfitcantiere.com
 node	5602546921	http://www.inzerilli.it
@@ -1710,6 +1709,7 @@ node	6166536485	https://m.facebook.com/ristorante131/
 node	6166910385	https://m.facebook.com/Tritalo-604898419695732/?hc_ref=PAGES_TIMELINE
 node	6176383086	http://hosteltaormina.com
 node	6188902866	https://www.aputiadellecosebuone.it/
+node	6188902878	https://www.siculamente.it/
 node	6188902879	https://ortygiabs.org/
 node	6211006394	https://lacasadelascarcasas.it/
 node	6214032274	https://www.poste.it
@@ -2649,6 +2649,7 @@ node	8951993903	http://www.savia.it
 node	8951993913	https://etnarosso.eatbu.com
 node	8951993917	https://www.eplanetcinemas.it/
 node	8952484008	https://www.ilprincipehotel.com/
+node	8952484009	https://pizzeriadepositobagagli.it/
 node	8952484010	https://www.amenano.it/
 node	8954761809	https://www.studiotecnicopalermo.it/
 node	8954764779	www.ediliziapalermo.com
@@ -3633,12 +3634,14 @@ node	11735459347	https://bowlingfrenz.it/
 node	11739213576	https://scuolamaternasoleluna.com/
 node	11739213577	https://www.istitutosantamariamercede.it/
 node	11748286702	https://www.syrakous.com
-node	11760350769	http://Luccicamare.com
+node	11760350769	https://www.luccicamare.com/
 node	11761512817	https://www.aubay.it/
 node	11761626578	http://www.hobbyzoo.org/
 node	11771197713	http://www.lacambusaristorante.com/
+node	11778917763	https://baronesergio.it/
+node	11780658131	https://qwince.com/en/home/
+node	11788102952	https://www.farmaciacaragliano.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
-way	24006470	https://www.vincimascalucia.edu.it/
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
 way	24937131	https://www.teatromassimo.it/
@@ -4802,7 +4805,6 @@ way	692055737	http://www.campingvalledeitempli.com
 way	692092732	https://centroarchimede.it/
 way	702096992	https://www.mareneveresort.com
 way	702528191	https://www.agrimaccari.com/
-way	702528198	https://www.agrimaccari.com
 way	703144286	https://www.etnaguide.eu/
 way	704220520	https://www.facebook.com/bistrotdelmarsr/
 way	704220521	https://www.malafemminaristorante.it/
@@ -5017,6 +5019,8 @@ way	905909652	https://www.vigilfuoco.it
 way	906638005	http://www.ateliersulmare.com/it/fiumara/opere/curva.html
 way	906639399	http://www.ateliersulmare.com/it/fiumara/opere/monumento-poeta.html
 way	906639550	www.infoipaalcamo.com
+way	907185042	https://www.icgfava.edu.it/
+way	907902130	https://www.vincimascalucia.it/
 way	908526891	https://www.leonardocompany.com
 way	908526892	https://number1.it
 way	909169017	https://www.adragna.it/
@@ -5695,6 +5699,17 @@ way	1265655012	https://www.icgiovannipaolo2gravinact.edu.it/
 way	1265655020	http://www.icrodarinosengo.edu.it/
 way	1265655021	https://www.icgiovannipaolo2gravinact.edu.it/
 way	1265655024	http://www.icrodarinosengo.edu.it/
+way	1267925896	https://www.ortopedianiorsa.it/
+way	1268224198	https://www.pietrabiancamarzamemi.it/
+way	1268504058	https://www.iismarchesimascalucia.edu.it/
+way	1268504073	https://www.iismarchesimascalucia.edu.it/
+way	1268504087	https://www.fsveviamascalucia.edu.it/
+way	1268504088	https://www.fsveviamascalucia.edu.it/
+way	1268504099	https://www.vincimascalucia.it/
+way	1268504255	https://www.vincimascalucia.it/
+way	1268862103	https://www.icgfava.edu.it/
+way	1268862120	https://www.icgfava.edu.it/
+way	1270174497	https://www.icsommatinodelia.edu.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6413,6 +6428,7 @@ way	318113279	https://www.eurospin.it/
 way	333413153	http://www.caposcalambri.com/
 way	391907270	www.trattoriaborrello.it
 way	442926431	www.ceramichecear.it
+way	443673155	http://www.inps.it
 way	517672259	http://www.ducarteam.it/
 way	521147272	http://www.voloclubalbatros.com/
 way	521147279	http://moduliweb.enac.gov.it/Applicazioni/avioeli/Avio_04.asp?selaeroporto=32
