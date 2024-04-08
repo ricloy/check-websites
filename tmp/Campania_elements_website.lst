@@ -374,6 +374,7 @@ node	3285663670	http://www.alexiacookingschool.com
 node	3343815525	http://www.ilpozzoeilpepe.it
 node	3346354431	https://plus.google.com/104807425829333328444/about
 node	3357651661	http://www.lievitomadreiommella.org
+node	3362129293	https://garagepetraglia.it/
 node	3362140227	https://centrostorico.culturehotel.it/
 node	3372361415	https://bancarottabagnoli.wordpress.com/
 node	3375905312	https://www.labottegadeifiorituri.it/
@@ -534,7 +535,6 @@ node	4258222396	https://www.pellonepizzeria.it/
 node	4258447333	https://www.ascione.it/mobi/it/passione/museo.html
 node	4258814388	https://www.bbaunpassoda.it/
 node	4269549494	http://www.sirialab.it
-node	4270046496	http://www.collinabakery.it
 node	4277217543	https://www.osterialachitarra.it/
 node	4281257105	https://www.fondazioneplart.it/
 node	4294699305	https://napolibike.com/
@@ -2300,6 +2300,11 @@ node	11767776359	https://www.camperstopitaly.com/it/area-sosta-camper-attrezzata
 node	11769184869	https://frankmalonebrewstore.com/
 node	11769295452	https://www.goapp.it/en/home/
 node	11775684024	https://www.teksped.com/
+node	11780244389	https://salernoponteggi.it/
+node	11783468119	https://www.adecco.it/
+node	11795114962	https://www.locautorent.com/
+node	11795138769	https://teniamocipermanoonlus.net
+node	11795138770	https://www.uglferrovieri.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2448,7 +2453,6 @@ way	222167524	http://www.liceoparmenidevallo.it
 way	222169821	www.clinicacobellis.it
 way	222271951	www.fratelliruocco.com
 way	223016182	www.comune.cannalonga.sa.it
-way	223292189	http://www.cisnet.it/
 way	223292192	https://www.bucci.it/italiano/tfg2.htm
 way	223292193	http://www.conateco.it/
 way	223412532	https://www.liccarditrasporti.com/
@@ -2752,7 +2756,6 @@ way	428874421	www.hotelserenella.it
 way	428878386	https://www.unisob.na.it/
 way	430177930	https://www.galleriaborbonica.com/it/map/
 way	430177931	https://www.galleriaborbonica.com/it/map/
-way	433111468	http://www.brunopositano.it/
 way	436798498	http://ic4pergolesi.gov.it/
 way	436800623	http://www.sanluca-arcofelice.it/
 way	438466354	https://www.savoybeachhotel.it/
@@ -2910,6 +2913,7 @@ way	671123940	https://www.ilreticolobebsalerno.it/
 way	671759035	https://www.sangiovannieruggi.it/
 way	671938763	https://www.popburger.it
 way	672183803	https://embarcaderosalerno.it/
+way	672365757	https://www.salernomobilita.it/index.php/servizi/aree-camper/
 way	672578029	https://www.edilker.it/
 way	672748808	https://www.icmarconi-torricelli.edu.it/
 way	673281304	https://www.ristorantelarambla.com/
@@ -3372,6 +3376,8 @@ way	1265506175	http://www.centralcamping.it/
 way	1266798774	https://www.sportsun.it/
 way	1267677898	http://www.mcdonalds.it
 way	1267911609	https://app.skyfitness.it
+way	1269968800	https://www.nonsokepizzaecucina.it/
+way	1269968808	http://www.donnamariu.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3412,6 +3418,7 @@ relation	4761938	https://www.caimontilattari.it/sentiero/329/
 relation	4761943	https://www.caimontilattari.it/sentiero/339/
 relation	4761978	https://www.caimontilattari.it/sentiero/332a/
 relation	4761993	https://www.caimontilattari.it/sentiero/338b/
+relation	4761996	https://www.caimontilattari.it/sentiero/350b/
 relation	4763658	https://www.caimontilattari.it/sentiero/324a/
 relation	4763694	https://www.caimontilattari.it/sentiero/326/
 relation	4767751	https://www.caimontilattari.it/sentiero/328
@@ -3444,6 +3451,12 @@ relation	4771078	https://www.caimontilattari.it/sentiero/346/
 relation	4771080	https://www.caimontilattari.it/sentiero/347/
 relation	4771089	https://www.caimontilattari.it/sentiero/347a/
 relation	4771090	https://www.caimontilattari.it/sentiero/348/
+relation	4773201	https://www.caimontilattari.it/sentiero/350a/
+relation	4773228	https://www.caimontilattari.it/sentiero/355/
+relation	4773230	https://www.caimontilattari.it/sentiero/365/
+relation	4773288	https://www.caimontilattari.it/sentiero/367
+relation	4773291	https://www.caimontilattari.it/sentiero/369/
+relation	4773300	https://www.caimontilattari.it/sentiero/369a/
 relation	4773305	https://www.traghetti-napoli.net/isola-capri/itinerari-sentieri
 relation	4774171	https://www.caimontilattari.it/sentiero/327a/
 relation	4807954	https://www.caimontilattari.it/sentiero/314/
@@ -3525,6 +3538,7 @@ relation	16439875	https://www.mediateur.it/natale-al-loreto/
 relation	17005066	https://lecotoniere.it/
 relation	17270859	https://www.caimontilattari.it/sentiero/330a/
 relation	17352410	https://www.camminodisanfilipponeri.com
+relation	17421666	http://www.cisnet.it/
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
