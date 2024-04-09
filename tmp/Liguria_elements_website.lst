@@ -556,7 +556,7 @@ node	2763755951	https://www.facebook.com/CaffeCaboto
 node	2763786847	https://www.albergonazionalesv.com/
 node	2767863796	http://www.maddalena-bertani.gov.it/
 node	2767870185	http://www.maddalena-bertani.gov.it/scuole/primaria-grillo
-node	2775158723	www.crigenova.it
+node	2775158723	https://www.crigenova.it/
 node	2791931015	https://ttwa.it/
 node	2792724630	http://www.osteriabancorosso.com
 node	2795773376	https://www.altromercato.it/flex/FixedPages/Common/part.php/L/IT/par/par-8815982
@@ -1531,7 +1531,7 @@ node	6433268894	https://www.hotelhelios.com/
 node	6449228350	http://www.comune.tribogna.ge.it
 node	6452979617	http://www.albergolampara.it/
 node	6482114331	https://resade.it/
-node	6506135843	www.crigenova.it
+node	6506135843	https://www.crigenova.it/
 node	6517553232	bedandbreakfastlia.it
 node	6517743965	https://www.cinqueterrecoasttocoast.it/
 node	6528420885	https://www.lecupole.eu/
@@ -2127,6 +2127,8 @@ node	10978326023	https://www.moroidraulica.it/
 node	10981600532	https://www.bodyanddream.it/
 node	10989112169	https://beb.it/verdemarebordighera
 node	10994718381	https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0700345603
+node	10996600758	https://www.repower.com/it/dina/
+node	11003053444	https://www.repower.com/it/dina/
 node	11003406902	https://www.hotelmary.it/
 node	11005606809	https://www.bagnisliguria.it/
 node	11010116583	https://www.welcomecharter.it/
@@ -2145,6 +2147,8 @@ node	11097263753	http://www.ruffinopetgarden.com/
 node	11099204834	https://www.bagnialbatrosvarigotti.it/
 node	11100939553	https://italianpistonhouse.com/
 node	11101604256	https://www.teatroakropolis.com/
+node	11102104244	https://www.repower.com/it/dina/
+node	11106976385	https://www.repower.com/it/dina/
 node	11108144601	http://www.larosacanina.net/
 node	11121542197	https://www.marketjosedespar.it/
 node	11125583793	https://www.creostoregenova.it/
@@ -2368,7 +2372,7 @@ node	11682648625	https://parconaturalealpiliguri.it/
 node	11682648626	https://parconaturalealpiliguri.it/
 node	11682648628	http://nfelettronica.it/
 node	11693434423	http://www.caisori.it/
-node	11740685818	www.crigenova.it
+node	11740685818	https://www.crigenova.it/
 node	11740897780	https://www.caiarenzano.it/
 node	11740943245	http://caicengio.it/
 node	11741096446	http://www.caisestri.com/
@@ -2381,6 +2385,8 @@ node	11762206598	https://www.illuminazionelavagna.it
 node	11762206604	http://www.ughes.it/
 node	11778877527	https://beb.it/vecchiafattoriaceriana/it/
 node	11778894315	https://www.boutsenclassiccars.com/
+node	11779872469	http://www.affittacamerelancora.it
+node	11802888265	www.lelagore.com
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2746,6 +2752,7 @@ way	225514506	http://www.hotelmiramareimperia.it
 way	225516303	https://hotelcrocedimalta.com/
 way	225573373	http://www.santuariodellarovere.it/
 way	225626918	https://www.hotelalassioanita.it/
+way	225627359	https://www.hotelbeaurivage.it/
 way	225629698	https://www.rivahotelalassio.it/
 way	225630635	https://www.residencesolemare.it
 way	226530193	https://www.ileudicarasco.it/
@@ -2867,7 +2874,6 @@ way	351863254	https://www.burancocinqueterre.it/
 way	352977519	http://www.ideahotel.it/savona.html
 way	353554815	https://www.castellocoppede.com/
 way	353712529	http://www.tsngenova.it/index.html
-way	354206217	https://dimi.unige.it/
 way	354418875	http://www.laternadigenova.it
 way	354426986	https://www.yachtclubitaliano.it/
 way	354426989	http://www.podisticaperalto.it/
@@ -3119,6 +3125,7 @@ way	1184791278	http://angelschool.it/
 way	1187886581	https://liguria.agesci.it/basecairo/
 way	1189684445	https://www.residencevillaalda.it
 way	1191358980	https://campingcastellodeifieschi.it/
+way	1194539060	https://www.instagram.com/leclarissediapolline/
 way	1203812058	https://cenobio.it/
 way	1208716633	https://www.cantierisangermani.it/
 way	1208716635	http://www.castagnola.biz/
@@ -3691,6 +3698,7 @@ relation	16469507	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-lig
 relation	16730351	http://www.quotazero.com/forum/viewtopic.php?f=15&t=21644&p=354505
 relation	17001623	https://abbadiasangiorgio.com/
 relation	17271637	https://mappe.comune.genova.it/MapStore2/#/wmsfeatureviewer/openlayers/SITGEO:V_MOB_PISTE_CICLABILI/ID%3E0
+relation	17416705	https://dimi.unige.it/
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1315100281	www.libreriaragazzi.com
