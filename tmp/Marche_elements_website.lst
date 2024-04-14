@@ -631,7 +631,7 @@ node	4653015095	http://www.divini.gov.it
 node	4718305555	https://romanticapizza.it/pizzerie/ancona/
 node	4718305557	https://www.dadiemattoncini.it
 node	4732806659	https://www.ortofiorito.com/
-node	4747701639	http://pharmanatura.net/
+node	4747701639	https://pharmanatura.net/
 node	4762954043	http://www.larocchettaripa.it
 node	4767603859	http://www.ceraunavoltailpane.com/
 node	4770527567	https://www.comune.pollenza.mc.it/
@@ -840,6 +840,7 @@ node	7391791056	https://www.oasitigre.it/it/punti-vendita.html?store=5905
 node	7403581723	https://www.farmaciavillapigna.com/
 node	7407596885	https://www.operapiamastai.org/
 node	7419310293	http://www.stacciaminaccia.it/
+node	7419710036	https://daenrysimangia.it/
 node	7430404991	http://www.hospitaleterzoparadiso.it
 node	7450627646	http://www.domusstellamaris.it
 node	7476227585	https://www.laforestale.it/
@@ -1153,6 +1154,7 @@ node	10240333092	https://www.assiadriatica.it/sede-assicurazione-unipolsai/assia
 node	10252828979	https://www.multiradio.it/
 node	10263483204	https://ristorantedaluisa.it/
 node	10288602503	http://www.hotelaugustus.it/
+node	10297463543	https://www.repower.com/it/la-mobilita-elettrica/
 node	10554651585	https://www.protocollicreativi.it/
 node	10566976132	https://natalicalzature.business.site
 node	10570233060	https://lasagneria.filoteapasta.com/
@@ -1454,6 +1456,12 @@ node	11757892921	https://lidaste.it/?cat=1
 node	11768533315	https://www.giomettirealestatecinema.it/cinema/multiplex-jesi/programmazione
 node	11781910848	https://www.hotelclodi.it/
 node	11788086069	https://www.briansbikeshop.it
+node	11799696385	http://www.campidifragole.it/
+node	11802251537	http://www.puroebio.it
+node	11802301249	https://www.morescoagriturismo.it
+node	11802371629	https://www.farmaciarocchegiani.com/
+node	11809577374	https://www.autoricambiancona.eu/
+node	11809577375	http://fabriziod215.sg-host.com/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1843,6 +1851,7 @@ way	633617545	https://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e
 way	634114070	https://www.tastitalia.com/
 way	634114074	https://www.estego.eu/
 way	642846602	https://www.gruppomarchemultiservizi.it/
+way	648544500	https://www.cooperativailtalento.org
 way	655556416	http://www.athleticclubpesaro.it/
 way	661615772	https://www.mobiltesino.it/
 way	663185830	https://www.villaggiolemimose.it
@@ -1991,7 +2000,7 @@ way	1266807714	https://www.visitain.cloud/MERGOAREACAMPER/MERGO-AREA-CAMPER
 way	1268534997	https://www.iscdongiussani.edu.it/pagine/primaria-marino-del-tronto
 way	1268982529	https://www.casadicuramarchetti.it/
 way	1270064050	https://www.castellomontegiove.it/
-way	1270410598	http://www.tabanocamerecucina.it/
+way	1270410598	https://www.tabanocamerecucina.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -2294,7 +2303,7 @@ node	10571038167	http://www.sorellepoveredisantachiara.it/
 node	10571494794	https://www.carmelitanecamerino.it/
 node	10573501001	https://www.lapucci.de
 node	10573665598	https://palazzobonfranceschi.com/
-node	10573665600	https://noitolentino.altervista.org/loratorio/
+node	10573665600	https://noitolentino.altervista.org
 node	10573665601	https://www.sannicoladatolentino.org/accoglienza/
 node	10573665606	https://www.clarissepollenza.com/
 node	10573665607	https://www.salesianimacerata.it/
@@ -2322,6 +2331,7 @@ way	135232277	http://www.sportpark.it/
 way	135234505	http://www.parcheggiovanvitellifano.it/
 way	139601298	http://www.fano.gallerieauchan.it
 way	143339638	https://www.iguzzini.com/
+way	144658381	https://sangiuseppedacopertino.net/
 way	157172901	https://www.icmarotta.edu.it/
 way	172284112	http://www.vecchiaquercia.it/
 way	196204922	http://www.centromiralfiore.it/
