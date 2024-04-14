@@ -966,7 +966,6 @@ node	2311459728	https://www.enel.it/punto-enel/
 node	2311459782	https://www.enel.it/punto-enel/
 node	2311459803	https://www.enel.it/punto-enel/
 node	2311459822	https://www.enel.it/punto-enel/
-node	2311459879	https://www.enel.it/punto-enel/
 node	2311459927	https://www.enel.it/punto-enel/
 node	2311459939	https://www.enel.it/punto-enel/
 node	2311459959	https://www.enel.it/punto-enel/
@@ -5972,8 +5971,8 @@ node	11772119433	https://www.aslroma2.it/index.php/consultori-familiari?view=pag
 node	11773904452	https://www.capramara.com/
 node	11775202795	https://www.minsait.com/en
 node	11778270807	https://spaziosette.ubiklibri.it/home.html
-node	11778306004	http://www.libreriagriot.it
-node	11779006871	http://www.gm-computer.eu
+node	11778306004	https://libreriagriot.it/
+node	11779006871	https://www.gm-computer.eu/
 node	11779006875	http://www.sciclubeur.org/
 node	11781029810	https://www.unikey.it/Home
 node	11787412770	https://3gatti.com/
@@ -5981,6 +5980,12 @@ node	11793142997	https://indiecampers.it/
 node	11793348339	https://www.cegeka.com/
 node	11794894805	https://www.scuolasciovindoli.it/
 node	11795582258	https://iissambrosoli.edu.it/sitonuovo/
+node	11799462971	https://www.ostiaantica.beniculturali.it/it/home/
+node	11802294332	https://www.fabrick.com/it-it/
+node	11805051011	https://www.infocert.it/
+node	11810607823	https://coinbar.io/
+node	11813273882	Mixmarkt.it
+node	11813593969	http://www.harmonia-mundi.it
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6417,6 +6422,7 @@ way	165299514	http://www.viaappiaantica.com/2014/04/09/tumuli-degli-orazi-e-curi
 way	165345505	http://www.viaappiaantica.com/2014/04/09/tomba-di-seneca/
 way	165754315	http://istitutocomprensivoviamarrosso.it/
 way	165755792	http://www.istscsuorepresentazione.it/homePrese.htm
+way	165829316	https://www.hoteltogopalace.com
 way	165876023	http://www.prolocorivodutri.it/node/17
 way	165974879	https://www.vicariatusurbis.org/Ente.asp?ID=332
 way	166465736	https://www.iluoghidelsilenzio.it/abbazia-di-santa-maria-in-falleri-fabrica-di-roma-vt-2/
@@ -6790,7 +6796,6 @@ way	251152756	http://www.casadelsole.it
 way	251331418	http://archeoroma.beniculturali.it/en/archaeological-site/temple-portunus-forum-boarium
 way	251522505	https://www.z-gas.com/
 way	251906615	http://www.villamariateresaformia.it
-way	252274615	https://www.ostiaantica.beniculturali.it/it/home/
 way	253789702	http://www.arvaliastoria.it/dblog/fotografia.asp?fotografia=9889
 way	253804635	https://archiviodistatolatina.cultura.gov.it/home
 way	253875336	http://archeoroma.beniculturali.it/en/node/187
@@ -7900,6 +7905,7 @@ way	762878707	https://pesceep.it/
 way	763417780	https://www.lepiniorientali.it/project/rifugi_mlo/rifugi_mlo.htm
 way	764349094	https://www.poste.it/
 way	764541373	https://www.tuodi.it/negozi-dettaglio.cfm?negozio=90515&promo=2
+way	767910099	https://www.hoteltrecime.it/
 way	768222556	http://www.trattoriailcasalelafoce.it
 way	772168484	https://www.icdamasiano.edu.it/
 way	772708158	http://www.multiplexcinemapomezia.it/
@@ -8210,6 +8216,8 @@ way	1111021725	https://www.laziodisco.it/
 way	1111950507	https://hoteleuropalatina.com/
 way	1114751922	http://www.bblavecchiascuola.com/
 way	1117808061	https://easybox.it/
+way	1119835486	https://www.paganicosabino.org/gole-dellovito/
+way	1119835488	https://www.paganicosabino.org/gole-dellovito/
 way	1123841981	https://bestwaystore.it/piscine-fuori-terra/struttura-in-acciaio/piscina-rettangolare-in-acciaio-steel-protm-300x201x66-cm-dp
 way	1123858950	https://www.icviaposeidone.edu.it/scuole-dell-infanzia/469-scuola-dell-infanzia-antonio-crupi-2
 way	1125621663	https://www.sanpiox.it/archivio/i-priorati/albano/il-priorato
@@ -8368,6 +8376,7 @@ way	1265621767	https://www.ictulliodemauro.edu.it/
 way	1265625779	http://www.itisgiovannixxiii.it/
 way	1270188912	https://www.kappaequestre.it/
 way	1270456872	https://www.romapaintball.com
+way	1270698254	https://www.lascaglia.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -9134,8 +9143,8 @@ relation	17336661	https://www.camminodegliaurunci.org
 relation	17336799	https://www.camminodegliaurunci.org
 relation	17336976	https://www.camminodegliaurunci.org
 relation	17337009	https://www.camminodegliaurunci.org
-relation	17341818	http://www.camminodellasibilla.com/
-relation	17341920	http://www.camminodellasibilla.com/
+relation	17341818	https://www.camminodellasibilla.com/
+relation	17341920	https://www.camminodellasibilla.com/
 relation	17341965	https://www.camminodellasibilla.com/
 relation	17342024	https://www.camminodellasibilla.com/
 relation	17342110	https://www.camminodellasibilla.com/
@@ -9325,7 +9334,7 @@ way	63113412	http://www.ristorantealbersagliere-rieti.eu/
 way	99834984	https://www.todis.it
 way	99835277	https://www.poste.it/
 way	108019913	http://www.pgsmproma.it/
-way	109302903	http://villamaterred.lapunk.hu/
+way	109302903	https://vmr.katolikus.hu/
 way	111736197	https://www.centrointernazionalegiovanilesanlorenzo.com/
 way	112416615	http://parrocchiasantantonio.it/
 way	116193401	http://www.santosepolcroacquapendente.it/
