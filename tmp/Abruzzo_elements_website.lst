@@ -1046,7 +1046,6 @@ node	7035158157	https://www.lafeltrinelli.it/punto-vendita/pescara/lf-pescara/48
 node	7035187715	https://www.poste.it
 node	7035188113	https://www.mondadoristore.it/
 node	7041928170	https://panificioilgemello.it/
-node	7042002486	https://dbeasy.it/
 node	7042002488	https://www.masicalzature.it/
 node	7042012151	https://bnl.it/
 node	7045903324	https://www.gabrielliunika.it/it/il-mio-negozio.7702.html
@@ -1128,7 +1127,6 @@ node	7153222492	https://m.facebook.com/Ristorante-Pizzeria-Lupo-122788624506373/
 node	7154654308	https://www.serenitystore.it/
 node	7157265249	https://www.sunriseaviation.eu/
 node	7158887751	https://www.ciakcity.it/
-node	7160104020	https://www.valentinagiorgi.com/contacts/
 node	7160439774	https://affittacamere-le-rondini.webnode.it/
 node	7160460468	https://www.facebook.com/Trattoriadasabatino-534433079975307/?rf=193905310639328
 node	7160480329	https://www.hotelvaldirose.it/
@@ -1838,6 +1836,7 @@ node	8520701711	https://www.realhabitat.it/
 node	8521455386	https://www.bccroma.it/
 node	8521507331	http://www.themabowling.com/
 node	8521569840	https://www.ucicinemas.it/cinema/abruzzo/chieti/uci-cinemas-megalo/
+node	8533013569	https://www.ristoranteilventoinpoppa.com/
 node	8533045035	http://www.lidoilcorallo.it/
 node	8533053425	https://www.kidlandparcoristorante.it/
 node	8533055469	https://www.laprora.it/
@@ -2973,6 +2972,9 @@ node	11738612386	https://www.si-t.eu/
 node	11767236069	http://studioguardiani.com
 node	11768960236	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10542
 node	11778334402	https://www.retitalia.eu
+node	11806829426	https://ristoranteselfservicelapalma.eatbu.com/?lang=it
+node	11807583802	https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede/dettaglio-sedi.it.sezione-sedi.sedi-inps.600000.600000-elencoStruttureInps.html
+node	11811946469	https://sunrisedental.it/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -3293,6 +3295,7 @@ way	454723594	http://www.valleroveto.eu/eremo-madonna-della-ritornata/
 way	456015084	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 way	457405083	https://www.liceodascanio.edu.it
 way	459618670	https://www.penelopeamare.it/
+way	459630956	https://haibinpescara.it/
 way	461179725	https://www.istitutocomprensivopescara2.edu.it/
 way	461526367	http://www.comunetossicia.gov.it/
 way	461529817	http://www.paesiteramani.it/Paesi/Tossicia.htm
@@ -3350,6 +3353,7 @@ way	557693411	http://www.loscoiattolo.org/
 way	560476431	https://criaq.it/
 way	561501899	http://www.paesiteramani.it/Paesi/MutignanoSAntonio.htm
 way	571950497	https://www.hotelsporting.com/
+way	576476872	https://www.fcagroup.com/it-it/pages/home.aspx
 way	576476878	https://www.isri.de/
 way	577306276	https://www.comunedibomba.it/
 way	580247021	http://hotelmiramaresilvi.com
@@ -3402,7 +3406,6 @@ way	661424127	https://calatempe.it/
 way	661767909	https://cantinespinelli.it/
 way	661828233	https://www.laciucculella.it/
 way	661828247	http://www.damimi.eu/
-way	663820406	https://www.fcagroup.com/it-it/pages/home.aspx
 way	663905558	https://www.fondazionemileno.it/
 way	663909897	https://www.coal.it/punti-vendita
 way	663983163	https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&type=auto&code=26939
@@ -3509,7 +3512,6 @@ way	815428621	https://www.ilpescara.it/politica/lavori-rotatoria-colli-via-monti
 way	817248090	http://www.arcobalenocommerciale.it/
 way	817359936	https://www.spaziomatta.it/
 way	817616679	http://www.siconte.it/it/
-way	817616680	https://www.ilpescara.it/guida/lavoro/inps-pescara-sedi-orari-uffici-provincia.html
 way	817649035	https://www.booking.com/hotel/it/pescara-house.it.html
 way	818692506	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	818692509	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
@@ -3809,7 +3811,6 @@ way	1100839891	https://www.booking.com/hotel/it/agriturismo-il-noceto-100s.en-gb
 way	1102608441	http://www.comunelettopalena.it/zf/index.php/musei-monumenti/index/dettaglio-museo/museo/3
 way	1105570154	https://trasparenza.comune.laquila.it/archivio13_strutture_0_2575.html
 way	1106456268	https://www.facebook.com/rifugidelparco/
-way	1111146030	https://sanita.regione.abruzzo.it/canale-ospedali/ospedale-di-castel-di-sangro
 way	1113137974	https://www.monteselva.it
 way	1114714224	https://www.vemapla.it/
 way	1114864103	https://mgcereali.business.site
@@ -3929,6 +3930,7 @@ way	1255397208	https://www.traboccopuntamare.com/
 way	1256598815	https://www.comune.alanno.pe.it/it/point-of-interest/742178?category_id=339102
 way	1259323818	https://www.coocori.it/
 way	1259743107	https://www.comune.montazzoli.ch.it/it
+way	1271393350	https://sanita.regione.abruzzo.it/canale-ospedali/ospedale-di-castel-di-sangro
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
