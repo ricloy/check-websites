@@ -1417,7 +1417,6 @@ node	5002450194	https://www.poste.it
 node	5002450196	https://www.poste.it
 node	5003435262	http://www.opacsiracusa.it/easyweb/w3133/
 node	5003435279	https://www.aglaeristorante.it
-node	5008220263	https://www.futuraitalia.com
 node	5009217634	http://www.vanita.academy
 node	5016240995	https://www.thun.com/
 node	5023352244	http://www.solemarepachino.it/
@@ -3641,6 +3640,15 @@ node	11771197713	http://www.lacambusaristorante.com/
 node	11778917763	https://baronesergio.it/
 node	11780658131	https://qwince.com/en/home/
 node	11788102952	https://www.farmaciacaragliano.it/
+node	11800348531	https://www.icspitagora.edu.it/
+node	11800348558	https://www.icleonardodavincimisterbianco.edu.it
+node	11800348715	https://www.icsciasciamisterbianco.edu.it/
+node	11802457790	https://www.futuraitalia.com
+node	11809384053	https://www.bastionecefalu.com/
+node	11810135805	https://www.combattentiereduci.it/
+node	11810258328	https://www.mangiafico1972.it/
+node	11810611504	https://lapomeliasofia.com/
+node	11811431398	https://www.flowerburger.it/negozi/flower-burger-palermo-2/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3671,6 +3679,7 @@ way	27104062	https://citycataniasportsclub.com
 way	27125644	https://www.icpizzigonicarducci.edu.it/
 way	27370854	http://www.scuoladiazcatania.it/
 way	28399127	http://teatromassimobellini.it/
+way	28716662	https://www.centroetnapolis.it/
 way	28876174	https://www.icpizzigonicarducci.edu.it/
 way	28876177	https://www.lombardoradicect.edu.it/
 way	29024589	https://www.liceocutelli.edu.it/
@@ -3729,6 +3738,7 @@ way	41387822	http://www.champagneriavilladellerose.it/
 way	41424754	https://www.scuolacoppola.edu.it/
 way	41424762	https://www.montessorimascagnict.edu.it/
 way	41689601	http://www.marketmoda.it/
+way	43168158	https://www.icspadrepio-misterbianco.edu.it/
 way	44177573	https://www.rifugiosapienza.com/
 way	44177576	https://terrazzaetnasud.it/
 way	44335431	https://www.unipa.it/amministrazione/areasistemiinformativieportalediateneo/
@@ -4021,6 +4031,7 @@ way	223401996	http://ippomed.it/
 way	223509642	http://www.comuneitala.it
 way	223709658	https://www.hotelborgodonchisciotte.it/
 way	224090486	https://www.paolovetri.edu.it
+way	224397707	https://www.icsdonmilanimisterbianco.edu.it/
 way	224932116	http://www.mercatigenerali.org/
 way	225049393	https://www.comune.montalbanoelicona.me.it/turismo/il-castello/panoramica-castello.aspx
 way	225400180	https://www.poste.it
@@ -4302,6 +4313,7 @@ way	318127602	http://hoteldegliangeli.info
 way	318713505	https://www.primocircolopaterno.edu.it
 way	318715634	https://www.iterusso.edu.it/
 way	318721107	https://campingjonio.com/
+way	318721972	https://www.icsciasciamisterbianco.edu.it/
 way	318742056	http://www.istitutodesanctis.edu.it/
 way	320723831	https://www.lampedusa.to
 way	320775205	https://ascotinternational.com/
@@ -4525,7 +4537,6 @@ way	409836090	https://www.hotel-siracusa.com/
 way	411506314	http://www.isola-bella.it
 way	412284638	http://www.campeggioforzadagromare.it/
 way	412288426	https://www.parkhotelsilemi.com/
-way	416453643	http://torredelgrifovillage.it
 way	416718524	http://teatroluigipirandello.it
 way	417416354	https://www.istitutocomprensivovannanto.edu.it
 way	417425065	http://agahotel.com/
@@ -5155,6 +5166,8 @@ way	986756719	https://www.modicapalacehotel.it/
 way	987185081	https://www.dipbiogeo.unict.it/
 way	987185086	https://www.disfor.unict.it/
 way	987185087	https://www.dei.unict.it/
+way	991782595	http://www.aristidegabelli.edu.it/
+way	991782598	http://www.aristidegabelli.edu.it/
 way	994095224	https://www.fratelliburgio.com/porto/
 way	1015895606	http://www.airliquide.it/
 way	1016682944	www.icmgiannone.com
@@ -5710,6 +5723,13 @@ way	1268504255	https://www.vincimascalucia.it/
 way	1268862103	https://www.icgfava.edu.it/
 way	1268862120	https://www.icgfava.edu.it/
 way	1270174497	https://www.icsommatinodelia.edu.it/
+way	1270702247	https://www.icspitagora.edu.it/
+way	1270702271	https://www.icspitagora.edu.it/
+way	1270702289	https://www.icspadrepio-misterbianco.edu.it/
+way	1270702327	https://www.icsciasciamisterbianco.edu.it/
+way	1270702347	https://www.icsciasciamisterbianco.edu.it/
+way	1271226231	https://www.aiasacireale.it/
+way	1271226261	https://castellodelleaci.com/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
