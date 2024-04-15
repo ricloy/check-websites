@@ -77,7 +77,6 @@ node	385070343	https://www.distrettolaghi.it/it/luoghi/arona
 node	401286850	http://archeocarta.org/salussola-bi-porta-urbica-e-resti-medievali/
 node	415370054	https://www.carrefour.it/punti-vendita/carrefour-express-cannero-riviera-via-guglielmo-marconi-33-3336.html
 node	426879848	http://www.cuoredasportivo.com/
-node	433725338	http://www.ciclipietrosanto.com
 node	439225000	http://www.lalberodelleruote.com/
 node	439819742	http://www.chaletlemarmotte.com
 node	441266882	https://www.carcityclub.it/
@@ -486,6 +485,7 @@ node	1844971589	https://www.fondazionevaldese.org/fondazionevaldese.php?codice=A
 node	1845247883	https://www.layogurteria.it/it/galleria/torino.html
 node	1853996999	https://www.caicvl.eu/index.php/i-rifugi/val-d-ala/bivacco-gino-gandolfo
 node	1856039554	https://farmapiemonte.org/
+node	1857270804	https://ristorantelagograndepubbelsugne.eatbu.com/?lang=it
 node	1857460693	https://www.amagmobilita.it/
 node	1858739408	https://www.dlfal.it/html/cultura/ambra.html
 node	1859284648	https://www.ristorante-venus.it/
@@ -1390,7 +1390,7 @@ node	3343770523	https://club32.oneminutesite.it/contatti.html
 node	3343784638	https://www.aelcenter.it/
 node	3343923818	https://www.acasadipulcinella.it/
 node	3344822514	http://www.farmacianuovapinerolo.it/
-node	3345410629	http://www.comune.torino.it/commercio/mercati/mercati-allaperto/mercato-santa-giulia/
+node	3345410629	https://commercio.comune.torino.it/mercati/mercati-allaperto/mercato-santa-giulia/
 node	3345460435	https://www.edisu.piemonte.it/Contenuti-Principali/Sedi-e-Contatti/Ricerca-per-servizio-di-interesse/Mense-universitarie/Mensa-universitaria-OLIMPIA
 node	3345600834	https://www.bibliotecabobbio.unito.it/
 node	3345696100	http://www.lixper.it
@@ -1849,8 +1849,6 @@ node	4071903062	https://www.amagmobilita.it/
 node	4071903063	https://www.amagmobilita.it/
 node	4071903064	https://www.amagmobilita.it/
 node	4071904531	https://www.amagmobilita.it/
-node	4071906293	http://atm-alessandria.it
-node	4071906294	http://atm-alessandria.it
 node	4071910301	https://www.amagmobilita.it/
 node	4071910302	https://www.amagmobilita.it/
 node	4071910303	https://www.amagmobilita.it/
@@ -1927,8 +1925,6 @@ node	4099067390	http://atm-alessandria.it
 node	4099067391	http://atm-alessandria.it
 node	4099067392	http://atm-alessandria.it
 node	4099067393	http://atm-alessandria.it
-node	4099067394	https://www.amagmobilita.it/
-node	4099067395	http://atm-alessandria.it
 node	4099068528	http://atm-alessandria.i
 node	4099071718	https://www.amagmobilita.it/
 node	4099071719	https://www.amagmobilita.it/
@@ -1943,8 +1939,6 @@ node	4099123948	https://www.amagmobilita.it/
 node	4099123949	https://www.amagmobilita.it/
 node	4099123950	http://atm-alessandria.it
 node	4099123951	https://www.amagmobilita.it/
-node	4099123952	http://atm-alessandria.it
-node	4099123953	http://atm-alessandria.it
 node	4099123954	http://atm-alessandria.it
 node	4099123955	https://www.amagmobilita.it/
 node	4099135301	http://atm-alessandria.it
@@ -2606,6 +2600,7 @@ node	4735667327	https://igecos.net/
 node	4735667581	https://prestofresco.it/cgi-bin/puntivendita/TORINO-23-93.asp
 node	4735668281	https://www.gruppocdc.it/sedi/centro-polispecialistico-privato
 node	4735669379	https://www.japs.it
+node	4735669380	https://www.nivagelato.com/gelaterie/#degasperi
 node	4735719425	https://www.pfatisch.com/
 node	4735721029	http://www.openhousetorino.it/edifici/casa-pazza/
 node	4735721050	https://www.hotelbostontorino.it
@@ -2912,6 +2907,7 @@ node	5206205621	https://www.cgil.al.it/cgilalessandria/
 node	5206724628	https://www.galup.it
 node	5213203957	https://www.chiale.it/
 node	5214332383	www.sossobike.it
+node	5214333550	www.croceverdecumiana.it
 node	5215777939	https://www.aethia.com/
 node	5216229424	https://www.arcaprogettisrl.it/
 node	5219173957	https://www.comune.vigone.to.it/
@@ -5633,6 +5629,7 @@ node	10593992188	https://gastronomia-il-golosone.business.site/
 node	10595988195	https://www.castellosangiorgio.it/
 node	10596448197	https://www.casaevela.com/noleggi-nautici/
 node	10600766322	https://www.repower.com/it/dina/
+node	10601067423	https://www.repower.com/it/dina/
 node	10603366305	https://www.sorbillo.it/
 node	10603966005	https://www.lagomaggioreguide.com/mercato-settimanale-sul-lago-maggiore/
 node	10608755813	https://www.lucadelpiano.it/
@@ -5760,8 +5757,10 @@ node	10978536105	http://lamussia.it
 node	10980262424	https://www.satvolo.org
 node	10984696578	https://www.prefettura.it/asti/
 node	10994442656	https://www.bussipierovini.it/
+node	11003021476	https://www.repower.com/it/dina/
 node	11003036947	https://www.repower.com/it/dina/
 node	11003038461	https://www.repower.com/it/dina/
+node	11003052566	https://www.repower.com/it/dina/
 node	11007114000	https://www.centrocopie.it
 node	11009072625	https://healthnaturalprod.wixsite.com/palestravigor
 node	11009123545	https://gorrerigiardini.it/
@@ -6082,6 +6081,11 @@ node	11782178869	https://www.fitactive.it/Home/InstaBio/Castagnito?fbclid=PAAaZH
 node	11794986970	https://ristorantecaciuccotorino.it/
 node	11799809591	https://www.gericonovara.it/ristorante/
 node	11800271242	https://fratellidesideri.com/
+node	11802316294	https://www.msc.com/tech-italy
+node	11805396651	https://www.e-belf.it
+node	11810603473	https://www.torinoloft.com/
+node	11811439667	https://www.laricciagarage.it/
+node	11817352480	http://atm-alessandria.it
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6905,7 +6909,6 @@ way	223819179	http://welovedogsvc.altervista.org/index.html
 way	224008150	http://www.maggioramotocross.com
 way	224013935	https://www.comune.maggiora.no.it/
 way	224208786	https://www.comune.asti.it/pagina793_cripta-e-museo-di-santanastasio.html
-way	224217735	https://www.facebook.com/galliatebeerbacco
 way	224414240	https://monvisopiemonte.com/briatore-bed-and-breakfast-a-saluzzo/
 way	224414433	https://monvisopiemonte.com/cascina-moneia/
 way	224458004	https://www.comune.civiasco.vc.it/
@@ -9335,7 +9338,7 @@ relation	7982500	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-set
 relation	8001171	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
 relation	8001733	https://www.cai-pallanza.it/sentieristica
 relation	8008769	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
-relation	8016969	https://www.cai-pallanza.it/sentieristica
+relation	8016969	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html
 relation	8027804	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
 relation	8028731	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
 relation	8041882	https://www.estmonterosa.it/catasto-percorsi-vco-alto-verbano-settore-r.html
@@ -10245,6 +10248,7 @@ relation	15827838	https://www.ic-rosastampa.edu.it/
 relation	15867541	https://www.viviceresole.it/it-it/scopri/itinerari/sentiero-dei-carandi-colore-azzurro-56008-1-32425cb0a04ecc2d6566d7c27c9111a0
 relation	15876746	https://www.cmop.it/
 relation	15959864	https://www.viviceresole.it/it-it/scopri/itinerari/sentiero-delle-terre-rosse-colore-rosso-56007-1-c2e15ec0a1f096f0e972bed3d0ae76a0
+relation	16027915	http://www.caivarallo.it/valsesia/sentieri-valsesia/sentieri-valsesia-dettaglio.php?sentiero=275
 relation	16055873	https://vicolungo.thestyleoutlets.it/
 relation	16116055	https://www.viaaltavallemaggia.ch/it
 relation	16124971	https://www.azalai.bio/eventi/pom-a-moj/
@@ -10258,6 +10262,7 @@ relation	17035575	https://www.estmonterosa.it/percorsi-vco.html
 relation	17075184	https://www.estmonterosa.it/percorsi-vco.html
 relation	17153596	https://zou.maregionsud.fr
 relation	17153597	https://zou.maregionsud.fr
+relation	17454790	https://www.facebook.com/galliatebeerbacco
 node	63629039	http://www.comune.chiusadisanmichele.to.it
 node	63631321	http://www.cittadisusa.it/
 node	306555609	https://www.rinascente.it/it/store-torino-via-lagrange
@@ -11005,7 +11010,7 @@ way	631824302	http://www.paolettofratelli.it/
 way	632641331	https://fondoambiente.it/luoghi/mazzarelli-casa-natale-di-santa-maria-mazzarello
 way	635545160	http://www.ismercurinogattinara.it/
 way	646794862	http://www.parcosassihotel.com
-way	655420251	http://mercati.comune.torino.it/item/crocetta/
+way	655420251	https://commercio.comune.torino.it/mercati/mercati-allaperto/mercato-crocetta/
 way	665611405	https://www.castellodelguado.com/
 way	669369906	http://www.comune.borgosesia.vc.it/
 way	717597464	http://www.universocapelli.net/
@@ -11631,7 +11636,7 @@ relation	7903099	https://percorsi.estmonterosa.it/s/S05b/S05b.kml
 relation	7982500	https://percorsi.estmonterosa.it/p/P01v/P01v.kml
 relation	8001733	https://percorsi.estmonterosa.it/r/R01a/R01a.kml
 relation	8008769	https://percorsi.estmonterosa.it/p/P02b/P02b.kml
-relation	8016969	http://caipallanzapercorsi.altervista.org/PercorsiVCO/A58/A58-FTP.kml
+relation	8016969	https://percorsi.estmonterosa.it/a/A58/A58.kml
 relation	8027804	https://percorsi.estmonterosa.it/p/P02c/P02c.kml
 relation	8028731	https://percorsi.estmonterosa.it/p/P02d/P02d.kml
 relation	8041882	https://percorsi.estmonterosa.it/r/R30a/R30a.kml
