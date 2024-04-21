@@ -3636,7 +3636,7 @@ node	11748286702	https://www.syrakous.com
 node	11760350769	https://www.luccicamare.com/
 node	11761512817	https://www.aubay.it/
 node	11761626578	http://www.hobbyzoo.org/
-node	11771197713	http://www.lacambusaristorante.com/
+node	11771197713	https://www.lacambusaristorante.com/
 node	11778917763	https://baronesergio.it/
 node	11780658131	https://qwince.com/en/home/
 node	11788102952	https://www.farmaciacaragliano.it/
@@ -3649,6 +3649,10 @@ node	11810135805	https://www.combattentiereduci.it/
 node	11810258328	https://www.mangiafico1972.it/
 node	11810611504	https://lapomeliasofia.com/
 node	11811431398	https://www.flowerburger.it/negozi/flower-burger-palermo-2/
+node	11818518448	http://www.ddsteresadiriva.edu.it/
+node	11819454885	http://www.acqualavica.it/
+node	11830121116	www.poderedelletnasegreta.it
+node	11833898776	http://www.icsdannunziomotta.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3901,7 +3905,6 @@ way	163206899	https://www.comune.falcone.me.it/
 way	163527093	http://www.istitutocomprensivopascoli-crispi.gov.it/
 way	163863711	https://www.poste.it
 way	164760414	https://www.medicina.unict.it/it
-way	165546807	https://www.bowlingmanhattan.com/
 way	165584454	www.zeniabar.com
 way	166602025	https://www.montessorimascagnict.edu.it/
 way	167902089	https://www.paternoterzocircolo.edu.it
@@ -4234,6 +4237,7 @@ way	303509601	https://www.gbnicolosi.edu.it
 way	304005582	https://www.cefaluseapalace.it
 way	304111293	https://www.aspct.it/azienda/presidi-ospedalieri/patern/
 way	304117496	https://www.poste.it
+way	304804695	https://www.villaromanadelcasale.it/
 way	305008248	www.roccuzzo.it
 way	305159428	http://www.campinglidovalderice.it/
 way	305285855	http://www.campeggiopraiamare.it
@@ -4412,6 +4416,7 @@ way	340245509	https://www.visitasicilia.com/chiese-sicilia/madonna-del-piano
 way	341153951	http://www.dolcearte.net/
 way	343790012	http://www.comune.modica.rg.it/museo_flb/
 way	351507345	http://cds.unict.it/
+way	351941404	https://www.instagram.com/kaffa_streetbar/
 way	351941461	https://www.tappezzeriarizza.com/
 way	358935236	https://www.icbrancati.edu.it/
 way	360470893	http://www.millemusi.it
@@ -5166,8 +5171,8 @@ way	986756719	https://www.modicapalacehotel.it/
 way	987185081	https://www.dipbiogeo.unict.it/
 way	987185086	https://www.disfor.unict.it/
 way	987185087	https://www.dei.unict.it/
-way	991782595	http://www.aristidegabelli.edu.it/
-way	991782598	http://www.aristidegabelli.edu.it/
+way	991782595	https://www.aristidegabelli.edu.it/
+way	991782598	https://www.aristidegabelli.edu.it/
 way	994095224	https://www.fratelliburgio.com/porto/
 way	1015895606	http://www.airliquide.it/
 way	1016682944	www.icmgiannone.com
@@ -5730,6 +5735,8 @@ way	1270702327	https://www.icsciasciamisterbianco.edu.it/
 way	1270702347	https://www.icsciasciamisterbianco.edu.it/
 way	1271226231	https://www.aiasacireale.it/
 way	1271226261	https://castellodelleaci.com/
+way	1273538612	https://www.bowlingmanhattan.com/
+way	1274513744	http://www.icsdannunziomotta.it
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -5872,7 +5879,6 @@ relation	10400677	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=16
 relation	10400678	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=54
 relation	10423565	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=40
 relation	10704524	https://www.cai.it/sezione/bronte/
-relation	10788612	https://www.villaromanadelcasale.it/
 relation	10908967	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=175
 relation	11069759	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=45
 relation	11073140	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=252
