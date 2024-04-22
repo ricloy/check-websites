@@ -568,8 +568,6 @@ way	223256778	http://www.castellodicoriglianocalabro.it/Default.aspx
 way	224234469	http://www.parcoavventuracalabria.it/
 way	224237582	https://www.adrenalinaverde.it/
 way	224510113	www.portorhoca.it
-way	225048698	https://www.parcodelleserre.it/
-way	225049060	https://www.parcodelleserre.it/
 way	227188511	https://www.comune.cerchiara.cs.it/Santuario-Santa-Maria-delle-armi
 way	229385408	http://scilla.asmenet.it/index.php?action=index&p=244
 way	233314483	http://www.vigilfuoco.it/sitivvf/reggiocalabria/
@@ -622,14 +620,7 @@ way	308086202	http://www.pista2mari.com/
 way	308263822	http://www.cattedralelameziaterme.it/
 way	312079987	http://www.icperripitagora.gov.it
 way	316514667	https://www.castellomurat.it/
-way	320528956	https://www.parcodelleserre.it/
-way	320528957	https://www.parcodelleserre.it/
-way	320528958	https://www.parcodelleserre.it/
-way	320528959	https://www.parcodelleserre.it/
-way	320528960	https://www.parcodelleserre.it/
 way	320528962	https://www.parcodelleserre.it/
-way	320528963	https://www.parcodelleserre.it/
-way	320528972	https://www.parcodelleserre.it/
 way	323979993	www.finestresulloionio.com
 way	326385207	http://www.roccettemare.it
 way	326385211	https://www.leroccettesanleonardo.it/
@@ -708,11 +699,6 @@ way	547107590	https://istitutocomprensivotropea.edu.it
 way	557193690	https://earthobservatory.nasa.gov/NaturalHazards/view.php?id=43160
 way	567096006	http://www.comune.sanmartinodifinita.cs.it
 way	568772101	http://santeufemiadaspromonte.asmenet.it/
-way	570726301	http://www.parcoaspromonte.gov.it/
-way	570726302	http://www.parcoaspromonte.gov.it/
-way	570726305	http://www.parcoaspromonte.gov.it/
-way	570726319	http://www.parcoaspromonte.gov.it/
-way	570732209	http://www.parcoaspromonte.gov.it/
 way	575116903	https://hotelfattoria.it/
 way	580854245	https://www.cittanovaonline.it/Cittanova_Le_Chiese.html
 way	581807657	https://www.cittanovaonline.it/Cittanova_Le_Chiese.html
@@ -789,6 +775,7 @@ way	1113473037	https://www.fisioterapiaroccella.it
 way	1123921022	https://www.hotelmiramarecalabria.it/en/index.htm
 way	1124463808	https://www.icmonteleonepascoli.edu.it/
 way	1124463809	https://www.icmonteleonepascoli.edu.it/
+way	1125136843	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
 way	1125672407	https://www.cittanovaonline.it/Cittanova_la_villa_comunale.html
 way	1137001545	https://www.icvivaldicatanzaro.edu.it/
 way	1137003995	https://www.iisfermi.edu.it/
@@ -836,6 +823,7 @@ way	1263052061	https://www.thegardenparkcaterina.it/
 way	1263184472	https://www.abacatanzaro.it
 way	1267996777	https://tenutabocchineri.it/
 way	1271724657	www.castellocosenza.it
+relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	5437445	http://www.certosini.info/
 relation	5951634	https://www.grandhotelparadiso.it/
