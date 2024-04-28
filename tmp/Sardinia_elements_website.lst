@@ -1,5 +1,4 @@
 @type	@id	website
-node	26860529	https://www.campingcapoferrato.com/
 node	26860544	https://www.selemacamping.com/
 node	26860549	http://www.campeggiotorrechia.it/
 node	72990657	http://www.comune.cagliari.it/portale/
@@ -358,7 +357,6 @@ node	498459613	https://www.dettorimarket.it/
 node	502984278	https://www.newbarcavela.it/
 node	525793484	https://fortezzamontealtura.com/
 node	538508137	http://www.ghivine.com/serraorrios.htm
-node	588589383	https://www.campingcugnana.it/
 node	590038254	https://ristorante-il-pozzo-italian-restaurant.business.site/
 node	596586890	https://www.camping-bellasardinia.com/de/
 node	610512699	https://www.villaggiomandragola.com/
@@ -1080,6 +1078,7 @@ node	4473484698	https://www.facebook.com/Le-Nouveau-Gourmand-da-Lina-50971571912
 node	4473484699	https://www.maremagnum.com/librerie/libreria-vademecum
 node	4473489619	http://www.pescedoroalghero.it/
 node	4473490938	https://www.residenceucalipti.it/
+node	4473505654	https://sibul.it
 node	4473521520	https://www.obracultural.cat/
 node	4473522938	https://www.obracultural.cat/biblioteca-catalana/
 node	4473523208	https://www.residenceucalipti.it/en/residence-and-apartments-with-pool-alghero.html
@@ -1112,6 +1111,7 @@ node	4496922561	https://www.supersigma.com
 node	4497986583	https://www.fruttamarini.it/
 node	4497986723	http://www.qualitysardegna.com
 node	4497986746	https://www.villasimiusweb.com/
+node	4497987826	https://semplicebarristorantepizzeria.eatbu.com/?lang=en
 node	4497987857	http://www.hotelbelvir.it/
 node	4497988124	http://www.edilrentsimius.com
 node	4498675438	https://www.tessutisardi.it/
@@ -1788,6 +1788,7 @@ way	183613350	http://www.charmingsardinia.com
 way	184345806	https://www.castelsardoresortvillage.it/
 way	185269018	https://www.capodorso.it/
 way	185466329	https://www.saxrjoba.it
+way	185495568	https://www.campingcugnana.it/
 way	186179802	https://www.supramonte.it
 way	186658798	http://www.campercagliaripark.it
 way	186854301	http://www.basilicasantagiusta.it/
@@ -1874,6 +1875,7 @@ way	256348501	http://www.giuseppesedilesu.com
 way	256838334	https://www.tiscali.com/
 way	257355529	http://www.anfiteatrotharros.it
 way	258070692	https://www.airbnb.it/rooms/1258408
+way	260081063	https://www.campingcapoferrato.com/
 way	260477553	http://musei.beniculturali.it/musei?mid=458&nome=area-archeologica-anghelu-ruyu
 way	260948901	https://www.tiliguerta.com/
 way	261198693	https://www.piscinarei.it/
