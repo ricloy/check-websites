@@ -103,6 +103,7 @@ node	1990091790	https://www.agriturismoilconvento.biz/
 node	1993099740	http://www.ristorante-saleepepe.com/
 node	1998297701	https://hotelscheck-in.com/casamorgano/en/
 node	2010190782	https://gracekitchenbar.it/
+node	2018203686	https://www.tramontodoro.it/
 node	2022160796	https://www.alconvento.net/
 node	2022160858	https://www.sanpietroristorante.it/
 node	2029586594	http://pompeiisites.org/Sezione.jsp?idSezione=151
@@ -1140,7 +1141,6 @@ node	7256378271	https://perfumoebalocchistore.it/
 node	7256378273	http://www.autoscuolaserapide.it/
 node	7272229577	https://www.chiku.it/
 node	7277418406	http://www.vetrotouchdisplaysamsungiphone.com/
-node	7278428507	https://www.wienerhaus.it/code/23336/marcianise-campania
 node	7278428512	https://www.anemaecozze.com/
 node	7278428513	https://www.hollywoodkart.it/
 node	7282721584	http://www.osteriadelpozzillo.it
@@ -2311,11 +2311,18 @@ node	11815185969	http://www.hotelschuhmann.com
 node	11816197261	https://cryptolocalatm.com
 node	11816542410	https://overdrivepub.info
 node	11816542411	https://passiespassi-shop.com
-node	11816605148	http://www.uplevel.fitness
+node	11816605148	https://uplevel.fitness/
 node	11817056129	https://www.vocedelmare.it/
 node	11821074063	www.theatreon-tourism.it
 node	11821148208	https://www.pescoranteolupino.it/
 node	11829871444	https://casamaresalerno.it/
+node	11837559601	https://www.miluluxuryvilla.com/
+node	11841053063	https://www.sole365.it
+node	11844243784	https://www.villasirena.com/
+node	11844355169	https://www.voltapensieri.it/
+node	11847641024	https://smashie.com
+node	11847661226	https://www.latorresorrento.com/
+node	11854076081	http://www.locandacostadiva.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2759,6 +2766,7 @@ way	416456806	https://www.miramareresidence.com/
 way	416456829	http://www.solexpress.it
 way	423182314	www.fieredivallo.it
 way	423466520	https://www.hotelvillacimbrone.com/
+way	424024791	https://www.capvin.com
 way	424488454	www.alberghierocastelnuovocilento.gov.it
 way	424501510	https://www.ficosa.com/
 way	425342548	https://www.clinicamediterranea.it/
@@ -3394,7 +3402,8 @@ way	1269968808	https://www.donnamariu.it/
 way	1270801641	https://www.lelettrodomestiko.it/
 way	1270970557	https://euroindoorpadel.it
 way	1271700655	https://www.italcost.com/
-way	1272190024	http://www.umbertorosiellosrl.it
+way	1272190024	https://www.umbertorosiellosrl.it/
+way	1276159718	https://www.autoparcocasertasud.it
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3484,7 +3493,13 @@ relation	4807934	https://www.caimontilattari.it/sentiero/310a/
 relation	4807938	https://www.caimontilattari.it/sentiero/312/
 relation	4807943	https://www.caimontilattari.it/sentiero/312a/
 relation	4807945	https://www.caimontilattari.it/sentiero/312b/
+relation	4807947	https://www.caimontilattari.it/sentiero/313/
 relation	4807954	https://www.caimontilattari.it/sentiero/314/
+relation	4807955	https://www.caimontilattari.it/sentiero/315/
+relation	4807970	https://www.caimontilattari.it/sentiero/315a/
+relation	4807973	https://www.caimontilattari.it/sentiero/315b/
+relation	4807994	https://www.caimontilattari.it/sentiero/315c/
+relation	4807996	https://www.caimontilattari.it/sentiero/315d/
 relation	4808036	https://www.caimontilattari.it/sentiero/322/
 relation	4808042	https://www.caimontilattari.it/sentiero/324/
 relation	4827347	https://www.caimontilattari.it/sentiero/349b/
