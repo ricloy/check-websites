@@ -1146,7 +1146,6 @@ node	2924651957	http://www.bellatomobili.it/
 node	2924651964	http://www.piastrellando.biz/
 node	2924694923	http://www.fratellidauria.it/
 node	2924694928	https://cisalpinatours.it/
-node	2924694941	http://www.labrigatadelbirraio.it/
 node	2924698393	https://www.boetto.it/
 node	2928051446	https://www.facebook.com/rifugioildosso
 node	2928057607	https://www.strobino.it/
@@ -1829,7 +1828,6 @@ node	4061273008	www.nuovaram.it
 node	4063659811	https://www.bikeidentity.it/
 node	4064071763	https://www.elyshop.com/
 node	4071903052	https://www.amagmobilita.it/
-node	4071903064	https://www.amagmobilita.it/
 node	4075182543	https://www.facebook.com/Gruppo-PE-Arreda-1483097071997950/
 node	4078260720	https://www.torinocoiffeur.it/
 node	4078743230	https://cantinarivalta.it/
@@ -1902,11 +1900,8 @@ node	4099067393	http://atm-alessandria.it
 node	4099068528	http://atm-alessandria.i
 node	4099071721	https://www.amagmobilita.it/
 node	4099071722	https://www.amagmobilita.it/
-node	4099071723	https://www.amagmobilita.it/
-node	4099071724	https://www.amagmobilita.it/
 node	4099071725	https://www.amagmobilita.it/
 node	4099123947	https://www.amagmobilita.it/
-node	4099123948	https://www.amagmobilita.it/
 node	4099123949	https://www.amagmobilita.it/
 node	4099123951	https://www.amagmobilita.it/
 node	4099123954	http://atm-alessandria.it
@@ -1915,19 +1910,7 @@ node	4099148424	https://www.amagmobilita.it/
 node	4099148426	https://www.amagmobilita.it/
 node	4099297564	https://www.amagmobilita.it/
 node	4099297568	https://www.amagmobilita.it/
-node	4099297571	https://www.amagmobilita.it/
-node	4099297572	https://www.amagmobilita.it/
-node	4099297573	https://www.amagmobilita.it/
-node	4099297574	https://www.amagmobilita.it/
-node	4099297575	https://www.amagmobilita.it/
-node	4099297576	https://www.amagmobilita.it/
-node	4099297577	https://www.amagmobilita.it/
-node	4099297578	https://www.amagmobilita.it/
-node	4099297579	https://www.amagmobilita.it/
-node	4099297581	https://www.amagmobilita.it/
-node	4099297582	https://www.amagmobilita.it/
 node	4099297584	https://www.amagmobilita.it/
-node	4099297585	https://www.amagmobilita.it/
 node	4099298089	https://www.amagmobilita.it/
 node	4099298103	https://www.amagmobilita.it/
 node	4099578716	https://www.latorbiera.it/
@@ -3262,6 +3245,7 @@ node	5922280939	https://www.facebook.com/pufftorino/
 node	5922530063	https://www.ilcavalloscosso.it
 node	5922548716	"https://www.poste.it/cerca/index.html#/risultati-cerca-up/Serravalle,%20AT,%20Italia"
 node	5923740008	https://www.ristorantelacarrozza.com/
+node	5931285101	https://www.oasizegna.com/it/luoghi/bocchetta-luvera-oasi-zegna-luoghi_9195.html
 node	5934579205	http://www.bbcasacarla.it/
 node	5939530074	https://www.inpromasrl.com/
 node	5939531120	https://gai-it.com/
@@ -5842,7 +5826,7 @@ node	11183556270	https://www.curtiscanava.com
 node	11188449599	http://www.casaverdi.net/
 node	11188726911	https://laboratorionumero9.com/
 node	11192841234	https://www.bbilfrutteto.it/
-node	11193167642	ratticarburanti
+node	11193167642	https://ratticarburanti.it/
 node	11194955485	https://www.centrovercelli.it/negozio/g-m-g-tabacchi/
 node	11195045293	https://www.ldvnovara.it/
 node	11195045294	https://www.agenzie.generali.it/vercellipiazzapajetta
@@ -6058,6 +6042,9 @@ node	11824226916	http://tenutadeifiori.com
 node	11832975814	https://www.berberepizza.it/torino-porta-palazzo/
 node	11833007062	https://www.amagmobilita.it/trasporti-alessandria/orari-autobus-alessandria
 node	11833007067	https://www.amagmobilita.it/trasporti-alessandria/orari-autobus-alessandria
+node	11835703320	https://www.lalenza.it/ristorante/
+node	11838833696	https://www.lalenza.it/residence-il-tiglio/
+node	11843441664	https://www.cuorcuma.com/
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6893,6 +6880,7 @@ way	225124297	https://www.officinearfino.it/
 way	225124302	https://www.bocciolone.com/
 way	225124305	https://www.turlo.it/
 way	225124332	https://www.reggianistretch.it/
+way	225430872	https://www.lavazzei.it/
 way	225650860	https://www.eurossola.com/
 way	225914036	https://laprealpina.com
 way	226044578	https://www.astrofilibisalta.it/
@@ -7178,6 +7166,7 @@ way	279943800	https://www.sacrimonti.org/sacro-monte-di-oropa/punto-di-interesse
 way	280507601	http://ic-viaricasoli-torino.org/
 way	281251031	https://www.soralama.it/
 way	282000454	https://laroccabianca.wordpress.com/la-rocca-bianca-english/
+way	282000639	https://www.festiona.it/
 way	282011969	https://www.molinobongiovanni.com/
 way	282274133	https://it-it.facebook.com/pages/Cafe-Del-F%C3%BCns-Snc/215712408595620
 way	282658356	https://www.coloniaviberti.it/coloniaviberti/la-casa/
@@ -7637,6 +7626,7 @@ way	379326568	https://www.thalesgroup.com/en/global/activities/space
 way	379938747	http://bbacasa.wix.com/bbacasadialice
 way	380107062	http://www.ambrogiogru.it
 way	380137580	http://www.cuneo360.it/rifugi/23
+way	380150034	https://comune.brigaalta.cn.it/vivere-il-comune/luoghi/chiesa-della-madonna-della-neve/
 way	380410053	https://www.quadrifoglioristorante.it/
 way	380411435	http://www.comune.pezzolovalleuzzone.cn.it
 way	380903483	http://www.comune.frabosasoprana.cn.it
@@ -8021,6 +8011,7 @@ way	488328811	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	488328812	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	488328813	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	488328814	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
+way	489214112	https://www.festiona.it/bar-ristorante-a-lubac/
 way	489558641	https://www.mulinoottino.it
 way	489852212	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	490741907	http://www.iltirabuscion.it/
@@ -8130,6 +8121,7 @@ way	548105938	https://www.iisprever.gov.it
 way	549179823	https://laginestra-cesana.it/
 way	549183775	https://olympicmountains.it/
 way	551095452	https://www.tavernadellortica.com/
+way	551096363	https://www.velodromofrancone.it/
 way	553591447	http://www.comune.torino.it/commercio/mercati/mercati-allaperto/mercato-barcellona/
 way	554451963	https://cavadeivini.it/
 way	554513017	https://www.bancacrasti.it
@@ -10266,7 +10258,6 @@ node	1393590360	http://www.comune.quintovercellese.vc.it/dettagli.aspx?c=1&sc=23
 node	1437227056	http://www.rifugimonterosa.it/
 node	1469560691	http://colombodicuccaro.it
 node	1472092603	http://follis.it/
-node	1523268262	www.obi-italia.it
 node	1708113961	http://www.monterosapromotion.com/la-miacceria.html
 node	1716770173	https://magivosushi.it/
 node	1738088355	bgarchitettinovi.it
@@ -10523,6 +10514,7 @@ node	4734602718	https://www.ladispensatorino.com
 node	4734735648	https://www.homezon.it
 node	4734737864	http://www.racconigicarta.com
 node	4734764198	https://www.caffeboutic.it
+node	4734922751	https://www.caffeputto.it
 node	4735056196	https://www.merlocamping.it/
 node	4735719224	http://www.losfusotorino.it/
 node	4735804561	https://www.ristorantelastadera.it/
@@ -10821,6 +10813,8 @@ node	11665555284	Officinadelcomputer.net
 node	11704782348	https://www.maretorino.com
 node	11760543011	https://www.giordanocioccolato.it
 node	11818427765	https://rivoldrink.it/
+node	11847907734	https://www.airbnb.it/rooms/35394232?guests=1&adults=1&s=67&unique_share_id=e5341d0b-347d-4bac-8c3b-ab51e0ee0829
+node	11865757755	https://www.caffeputto.it
 way	24600050	https://booking.isoleborromee.it/it/product/7/detail
 way	39670307	https://www.bardonecchia.it/strutture/posto-tappa-valfredda/
 way	58323423	http://www.aeroclubvercelli.it/
@@ -10866,7 +10860,6 @@ way	195931966	http://www.albergoaquilaalpina.it
 way	195932004	https://chalet-ceresolereale.it/
 way	199484998	https://www.casafrancoli.it
 way	199889727	http://it-it.facebook.com/pages/RIFUGIO-SAP/93535874718
-way	201288642	https://www.airbnb.it/rooms/35394232?guests=1&adults=1&s=67&unique_share_id=e5341d0b-347d-4bac-8c3b-ab51e0ee0829
 way	201625351	http://www.rifugiopontese.it
 way	205206370	http://www.locandaaquilabianca.it
 way	206974302	http://www.comune.pontcanavese.to.it/ComSchedaTem.asp?Id=4987
@@ -11739,6 +11732,7 @@ relation	11283423	https://percorsi.estmonterosa.it/h/H06/H06.kml
 relation	11283513	https://percorsi.estmonterosa.it/h/H08c/H08c.kml
 relation	11286314	https://percorsi.estmonterosa.it/g/G21/G21.kml
 relation	11560386	https://www.departement06.fr/itinerance-sur-plusieurs-jours/le-grand-tour-alpi-marittime-mercantour-2283.html
+relation	11787388	https://percorsi.estmonterosa.it/t/T02a/T02a.kml
 relation	12125021	https://percorsi.estmonterosa.it/s/S29a/S29a.kml
 relation	12221744	https://percorsi.estmonterosa.it/t/T32a/T32a.kml
 relation	12221745	https://percorsi.estmonterosa.it/t/T34b/T34b.kml
