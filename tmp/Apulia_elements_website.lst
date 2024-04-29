@@ -33,6 +33,7 @@ node	624399054	www.barimotors.it
 node	643883764	http://www.cinemaesedra.it/
 node	656532192	http://musei.beniculturali.it/musei?mid=5365&nome=museo-nazionale-archeologico-di-manfredonia
 node	711446136	https://www.lanottebike.it/
+node	844669913	https://www.burgerking.it/
 node	865131076	http://www.quattrocolonne.it
 node	868523023	https://www.ristorantearatro.it/
 node	870621015	https://www.casadorsi.it/
@@ -68,6 +69,7 @@ node	1349636216	https://www.comune.casarano.le.it/
 node	1375229531	https://www.executivebusinesshotel.it/
 node	1416078267	https://www.villaggiomascia.it/
 node	1421106868	https://www.lamuragliabari.it/
+node	1425194967	https://lacontadina.it/
 node	1438739274	https://www.mastrociccio.it/
 node	1442008047	https://www.centrostudinatura.it/
 node	1478901344	https://www.leantichesere.it/
@@ -592,7 +594,6 @@ node	4808050494	https://www.latavernadelduca.com/
 node	4809691966	https://www.alcasistemi.com/
 node	4809734821	http://www.cioffirenato.it
 node	4809770653	https://www.scalilla.it/
-node	4828964110	https://poggiolevante.it
 node	4830442120	http://www.sanpancraziosalentino.gov.it/
 node	4836570478	https://www.teatrorfeo.it/
 node	4838580822	https://www.iltrabuccoristorante.it/
@@ -1772,6 +1773,7 @@ node	10207429338	https://www.pineappy.biz/
 node	10220359120	https://www.masserianarducci.it/
 node	10220359121	https://www.masserianarducci.it/
 node	10233251317	http://www.break24.it/
+node	10277433260	https://matsu-sushi.it/
 node	10278745210	http://www.larusticalecce.it/
 node	10278745211	https://www.trearchi.it/
 node	10281875910	vitruviosrl.it
@@ -1954,6 +1956,7 @@ node	11268849984	http://www.pennettilab.it/
 node	11268849991	www.radiologiamorella.it
 node	11274129855	https://www.rhubbit.it/#
 node	11277508339	https://www.facebook.com/sixpackbari
+node	11278909359	https://mobilirizzi.it/
 node	11284337169	https://www.pizzeria400gradi.it/
 node	11290669966	https://www.globomoda.com/
 node	11290771656	https://www.shivananda.org
@@ -2159,6 +2162,9 @@ node	11833907086	https://sisuites.it/
 node	11833907099	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Point-Bari/37822/
 node	11834685102	https://www.sigmasupermercatipuglia.it/
 node	11835366008	https://www.lafilandasalento.it
+node	11850980209	https://www.stocotto.it/
+node	11860482389	https://www.ristorantebraceriapizzeriafilocore.com/
+node	11861746243	http://www.ekata.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2191,6 +2197,7 @@ way	123338642	https://www.uniba.it/ateneo/sede-di-taranto/
 way	124063585	https://unhrd.org/
 way	125360269	https://www.piscinameridiana.com/
 way	126547924	https://www.turismovieste.it/il-pizzomunno-%E2%98%85%E2%98%85/
+way	129120194	https://www.wspace.it/
 way	129693063	https://www.baiadigallipoli.com/
 way	131417294	https://www.albergolapineta.info/
 way	131417307	https://daelioisoletremiti.weebly.com/
@@ -2202,6 +2209,7 @@ way	132680880	https://www.grandhoteltiziano.it/
 way	134710304	https://www.campingsmleuca.com/
 way	137547111	http://www.immacolatafoggia.it/
 way	137547156	http://santissimosalvatorefg.altervista.org
+way	147961516	https://www.liceosocratebari.edu.it/
 way	158732617	https://www.villamariacrispiano.it/
 way	159920966	https://www.comune.martinafranca.ta.it/pagina1144_dove-parcheggiare.html#aree
 way	159981787	https://www.majoranaiiss.edu.it/
@@ -3175,6 +3183,10 @@ way	1271131539	https://www.fsitaliane.it/content/fsitaliane/it/opere-strategiche
 way	1271242838	https://www.eurospin.it/punti-vendita/bari-via-bovio/
 way	1272800403	https://www.lugoterminal.com/terminal/giovinazzo/
 way	1274590787	https://www.epcpep.com/scuola-materna/
+way	1276164577	https://www.intesasportclubbari.it/
+way	1276164578	https://www.poggiolevante.it/
+way	1276184351	https://www.icsmaugeri.it/
+way	1276547222	https://officinefanuli.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
