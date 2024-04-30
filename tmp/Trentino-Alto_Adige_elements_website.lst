@@ -1556,7 +1556,6 @@ node	2749760966	https://www.chalet-hafling.it/
 node	2749760968	https://www.chalet-hafling.it/
 node	2749760981	https://www.hotel-hirzer.com/
 node	2749760982	http://www.unterwegerhof.info
-node	2749760985	http://www.nusserhof.com
 node	2749760998	https://www.salten.it/
 node	2749761018	http://www.hotel-viktoria.com
 node	2749761024	http://www.reiten-in-hafling.com
@@ -3312,7 +3311,6 @@ node	4485188603	https://www.roterhahn.it/de/urlaub-auf-dem-bauernhof-in-suedtiro
 node	4486493094	https://pfendt-group.de/
 node	4493099390	http://www.lanz-suedtirol.it
 node	4494873211	https://www.sanikal.com/
-node	4494876074	https://www.conter.store/
 node	4494889172	http://digiprint.net/
 node	4497466439	https://www.mcdonalds.it/ristorante/trentino-alto-adige/trento/trento-nord
 node	4506216950	https://www.nln.it
@@ -4969,6 +4967,7 @@ node	9817190462	https://www.arcierivirtus.org/
 node	9819191956	https://www.viridishotel.it/
 node	9819697616	https://www.gardaview.it
 node	9819726170	https://sdmcom.it/
+node	9820428269	https://www.repower.com/it/dina/
 node	9820653913	https://www.st-hubertus.it/it/
 node	9822496620	https://www.sima.info/
 node	9822496621	https://www.innerhofer.it/it/showrooms/arco/34-66.html
@@ -5846,6 +5845,12 @@ node	11832965230	https://www.comune.vermiglio.tn.it
 node	11835073221	http://www.kushi-ling.com/
 node	11837595751	https://www.facebook.com/p/Bar-Pizzeria-LAngolo-della-Pizza-100064159802862/
 node	11837596944	https://www.agriturlaterra.it/
+node	11841224509	http://www.floricolturaalberta.it/
+node	11841224510	http://www.moschiniadv.com/
+node	11841224513	https://energiealternativetn.it/
+node	11843419202	www.catores.com
+node	11843419537	www.catores.com
+node	11866977722	https://www.netikom.it/
 way	22890146	https://www.prags.bz/en
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
@@ -7370,7 +7375,6 @@ way	165456178	https://www.brandstaetter.it/
 way	165530454	http://www.santerpaul.com/
 way	165530493	https://www.freiberghof.com/
 way	165530497	https://www.kirchacker.com/
-way	165530518	https://www.schrenteweinhof.com/
 way	165530526	https://www.ballguthof.com/
 way	165530529	https://www.obstbaumuseum.it/
 way	165530541	https://www.erlengut.com/
@@ -8286,6 +8290,7 @@ way	268460041	https://campiprada.wordpress.com/campo1/
 way	268462681	https://campiprada.wordpress.com/campo-3/
 way	268466832	https://campiprada.wordpress.com/campo2/
 way	268969153	https://www.calliarifiori.com/
+way	271176201	http://www.nusserhof.com
 way	271270982	https://www.gscnara.it/
 way	272365864	https://www.sonnenheim.com/
 way	273085816	https://www.larchwald.com/
@@ -9060,6 +9065,7 @@ way	767239693	https://www.trento7.it
 way	769124007	http://www.zirmerhof.com/
 way	771578872	https://www.rosspach.it/
 way	779327740	https://www.unteranger.it/
+way	779351462	https://www.schrenteweinhof.com/
 way	780353141	https://www.wabes.it/
 way	781512446	https://www.kaltern.com/de/info/parkplatz-weinstrasse-p5.html
 way	783318566	https://www.inail.it/cs/internet/istituto/struttura-organizzativa/uffici-territoriali/trentino.html#pannello-10
@@ -10934,6 +10940,7 @@ node	1073482386	http://www.patware.it
 node	1073656665	http://www.motcenter.it/
 node	1105107842	http://www.kreuzbergpass.com/
 node	1107747441	http://www.pulllove.com/
+node	1112898190	https://www.nkd.it/filialen/trento/38121/nkd-via-brennero-320
 node	1127046857	http://www.grandhotelmolveno.it/
 node	1128116224	http://www.hotel-langhof.com/
 node	1129326730	http://w.subway.com/en-IT/
@@ -11378,6 +11385,7 @@ node	4417471640	https://www.mareithof.com
 node	4446398905	https://evway.net/
 node	4471893653	https://www.visitfiemme.it/it/val-di-cembra/Arte%20e%20paesaggi%20da%20cartolina/Le%20Piramidi%20di%20Segonzano
 node	4477117790	http://www.bibliogais.ch/index.html
+node	4494876074	https://www.conter.store/
 node	4555224995	http://ecoargentario.it/
 node	4557760209	http://www.pittarosso.com/
 node	4557760210	https://www.unieuro.it/
