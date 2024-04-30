@@ -513,7 +513,6 @@ node	1504152113	http://www.alportego.com/
 node	1504578999	http://www.hotelborghetti.com
 node	1508654394	http://www.lomitosargentinos.com/
 node	1508792164	https://www.pasticceriazamuner.it/
-node	1510217928	https://www.pasticceriaducale.it/
 node	1511628651	http://www.bpv.it
 node	1513077860	www.ledelizie.biz
 node	1520359515	https://www.rifugiopassoduran.it/
@@ -2660,7 +2659,6 @@ node	5052408158	https://www.casasantandrea.it
 node	5054120500	https://www.bancadellamarca.it
 node	5056963122	https://www.studiorubini.it/
 node	5056975621	https://www.backloop.biz/
-node	5057165724	https://www.lidl.it/
 node	5060235860	www.anticofigher.com/
 node	5061902357	https://www.arcaplanet.it/negozi-per-animali/padova-v-cernaia
 node	5063057516	https://www.comune.vazzola.tv.it/
@@ -2854,6 +2852,7 @@ node	5464026069	https://rivaratta.it/
 node	5464170350	http://www.agriturismovillaferiani.it/
 node	5464180591	http://www.palazzorossofarm.com
 node	5467586810	https://www.utilya.it/Sezione.jsp?titolo=Gestione+ecocentri&idSezione=43
+node	5468000101	https://www.yallaamigo.it/
 node	5470643650	http://www.agriturismovillaferiani.it
 node	5471255155	www.pariolidancing.com
 node	5472340382	https://www.locandaanticovallo.it/
@@ -3021,7 +3020,7 @@ node	5748633029	https://www.hotelute.com/
 node	5748633035	https://www.hoteloceanic.net
 node	5748633039	https://www.hotelverdijesolo.com
 node	5752129241	https://www.tenutagoroveneto.it
-node	5754735221	https://www.luxardo.it/
+node	5754735221	https://www.luxardo.it/it/negozio-girolamo-luxardo/
 node	5754776321	https://www.sengiari.it/
 node	5757241928	http://www.hotelautostrada.com
 node	5758537221	https://www.gelateriaromana.com/40-gelateria-treviso.php
@@ -5393,6 +5392,7 @@ node	9966021606	https://www.nihaogroup.it/
 node	9967381533	https://www.repower.com/it/dina/
 node	9967402864	https://www.repower.com/it/dina/
 node	9967408276	https://www.repower.com/it/dina/
+node	9967415577	https://www.repower.com/it/dina/
 node	9967415949	https://www.repower.com/it/dina/
 node	9967434296	https://www.repower.com/it/dina/
 node	9967448194	https://www.repower.com/it/dina/
@@ -5417,6 +5417,7 @@ node	9968196845	https://www.hotelguidi.it
 node	9970795603	https://www.repower.com/it/dina/
 node	9970795907	https://www.repower.com/it/dina/
 node	9970917393	https://www.repower.com/it/dina/
+node	9970930548	https://www.repower.com/it/dina/
 node	9971154686	https://www.starhotelairportverona.com/
 node	9971594909	https://www.poggiodigiano.com/
 node	9971594910	http://www.cabiancaverona.it/
@@ -5683,6 +5684,7 @@ node	10600766321	https://www.repower.com/it/dina/
 node	10600794097	https://www.repower.com/it/dina/
 node	10600926732	https://www.repower.com/it/dina/
 node	10600966783	https://www.repower.com/it/dina/
+node	10601012624	https://www.repower.com/it/dina/
 node	10601015085	https://www.repower.com/it/dina/
 node	10601026059	https://www.repower.com/it/dina/
 node	10601032044	https://www.repower.com/it/dina/
@@ -5944,6 +5946,7 @@ node	11128540506	https://linktr.ee/smartphonerecovery
 node	11129525573	https://swinginmyshoes.com/
 node	11129623006	https://www.arciericarmagnola.it/
 node	11132826024	parchesgiotreviso.it
+node	11132932193	https://www.repower.com/it/dina/
 node	11132932195	https://www.repower.com/it/dina/
 node	11132987288	http://www.liquorifrescura.it/
 node	11134051637	http://www.dolcecapriccio.it/
@@ -6243,6 +6246,9 @@ node	11834096056	https://www.lechatnoirbar.it/
 node	11834101066	https://tabaccheriagaribaldi.it/
 node	11834187170	https://oldinktattoo.it/
 node	11835935526	https://lubestoresannicolo.it
+node	11841894798	https://www.tifviaggi.it
+node	11848080042	https://www.fattoriaalleorigini.it
+node	11848085374	https://www.edillazzaro.it
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -8497,6 +8503,7 @@ way	854821139	https://www.legadelcane-padova.it/
 way	854842296	https://www.ic5verona.edu.it/
 way	855543493	https://www.ferrarisfermi.it/
 way	857836573	http://ranazzurralido.it/
+way	859802200	https://www.lidl.it/
 way	860030273	https://www.unipd.it/
 way	861167542	https://www.fordautomarca.it/
 way	863361717	https://www.aldi.it/
@@ -8756,6 +8763,7 @@ way	1204599619	https://www.paintballvicenza.it/
 way	1204651301	https:/rossettogroup.it/
 way	1204704143	http://www.emmauspadova.it
 way	1205562271	http://www.malghemaraiapopena.it/
+way	1205970916	https://sereniorizzonti.it/customer/residence?id=42
 way	1206581431	https://www.kingsclubjesolo.it/
 way	1206914378	https://www.taxijesolo.it
 way	1207847532	https://www.hotelnazionalejesolo.it/
@@ -9586,6 +9594,7 @@ relation	17394546	https://www.naturalmentevittorioveneto.it/v12-mt-altare/
 relation	17394623	https://www.naturalmentevittorioveneto.it/v11-san-paolo/
 relation	17394714	https://www.naturalmentevittorioveneto.it/v13-v_perdonanze-stellung/
 relation	17450858	https://www.prolocotorrebelvicino.it/percorso-11-%E2%80%93-sentiero-di-mondonovo_lit_3_10_6.asp
+relation	17515028	https://www.trodoitrails.com/
 node	64778383	http://www.comune.cittadella.pd.it/
 node	256072226	www.padovafarmacie.it
 node	262650779	http://www.lidopaina.it
@@ -10124,6 +10133,7 @@ node	11592585543	https://www.terrebianche.it
 node	11638670440	parafarmaciamarosticana.it
 node	11658273208	https://trattoria-cavazuccherina.business.site/
 node	11825051307	https://borgo-co.it/
+node	11868224457	http://www.iperlando.it/
 way	27198535	http://basilicadelsanto.org
 way	40460962	https://www.laquercia.it/
 way	42424990	http://www.traiglicinieilsambuco.it/
@@ -10319,7 +10329,6 @@ way	305614547	http://www.campingpalafavera.com/home_eng.php
 way	315286243	https://www.areacamperpeschiera.com/
 way	359184028	http://www.acerocampestre.com
 way	367023599	www.girardicittadella.it
-way	367023600	http://www.iperlando.it/
 way	367034504	http://www.ristorante-papilla.it/
 way	367035106	http://www.fisioandsport.com/
 way	367669800	http://www.fratellifabian.it
