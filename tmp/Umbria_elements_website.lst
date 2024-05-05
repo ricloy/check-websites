@@ -875,6 +875,10 @@ node	11837363737	https://www.repower.com/it/la-mobilita-elettrica/
 node	11837363738	https://www.repower.com/it/la-mobilita-elettrica/
 node	11841970755	https://www.museomontefalco.it/schNewsMusaTplMod.asp?id_news=35
 node	11844935692	https://tenutailglicine.it/
+node	11873994979	http://www.labottegadelvino.net/
+node	11880711269	https://www.uslumbria2.it/notizie/centro-di-salute-n-1-tacito
+node	11880711270	https://www.uslumbria2.it/notizie/centro-di-salute-n-1-tacito
+node	11880711271	https://www.uslumbria2.it/notizie/centro-di-salute-n-1-tacito
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1293,6 +1297,7 @@ way	623771525	https://mabsolution.it/
 way	623783588	https://www.illux.it/
 way	626389813	https://istitutocomprensivoperugia1.gov.it/le_scuole/ponte-doddi-alfa-beta-gamma/
 way	626610957	https://liceodonatelli.edu.it/
+way	626617132	https://www.uslumbria2.it/notizie/centro-di-salute-n-1-tacito
 way	626635048	https://www.tanaitalia.com/
 way	626873287	https://www.caos.museum/
 way	627766354	https://www.italproget.it/
@@ -1510,9 +1515,10 @@ way	1250037904	https://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-novella-c
 way	1250057020	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-della-ginestra-pupaggi-di-sellano/
 way	1253374289	https://www.iluoghidelsilenzio.it/chiesa-di-santa-lucia-sellano-pg/
 way	1253397505	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-della-neve-san-martino-di-sellano/
+way	1279651638	https://www.iluoghidelsilenzio.it/chiesa-di-san-pietro-in-tutorio-civitella/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
-relation	1948091	https://chemindassise.org/it/
+relation	1948091	https://chemindassise.org/
 relation	2048968	http://www.camminodiassisi.it
 relation	2154336	http://musei.beniculturali.it/musei?mid=5351&nome=museo-archeologico-nazionale-dellumbria
 relation	2163461	https://www.conservatorioperugia.it/
@@ -1529,6 +1535,7 @@ relation	6395829	http://osbnorcia.org/
 relation	6455357	https://www.vetrya.com/
 relation	6554441	https://www.carabinieri.it/
 relation	6599043	http://www.lascarzuola.com/
+relation	6689530	https://www.viadifrancesco.it/
 relation	6713762	http://www.lavalnerina.it/dett_luogo.php?id_item=104
 relation	6862481	http://www.monterufeno.it/
 relation	7182014	https://www.umbriamobilita.it/it/umbria-mobilita/ex-ferrovia-spoleto-norcia-1
@@ -1587,6 +1594,7 @@ relation	7793174	https://www.viadifrancesco.it/
 relation	7793205	https://www.viadifrancesco.it/
 relation	7793228	https://www.viadifrancesco.it/
 relation	7793237	https://www.viadifrancesco.it/
+relation	7793277	https://www.viadifrancesco.it/
 relation	7793285	https://www.viadifrancesco.it/
 relation	7794323	https://www.viadifrancesco.it/
 relation	7794325	https://www.viadifrancesco.it/
@@ -1719,6 +1727,7 @@ node	3195383402	http://www.ristoranteilcavaliere.com
 node	3594203684	http://www.up.aci.it/perugia/
 node	4581702789	https://todi.ubiklibri.it
 node	4614970272	https://www.lietasosta.it/
+node	6206621145	https://www.lagiostrinadeicanape.it/servizi/la-giostrina.html
 node	6823102355	https://hotellacorte.magrellihr.com
 node	7809059981	https://www.ristorantenumero1.it/
 node	8121295640	https://www.associazionedare.it/
@@ -1736,6 +1745,8 @@ node	11079164424	http://www.utopiaggia.eu
 node	11382162576	https://marianigiovannicommerciale.it
 node	11681306449	https://www.casamonteripido.it/albergo/
 node	11789451074	https://www.pescapiu.it
+node	11872122269	https://www.citytourperugia.it
+node	11874971676	https://anticaporchetteriagranieri.it
 way	43051908	https://santuariorivotortoassisi.org/
 way	140678619	https://www.superconti.eu/punti-vendita/orvieto/
 way	149526977	https://www.santacolette.com/
@@ -1753,6 +1764,7 @@ way	452956087	http://kartinglequerce.altervista.org/
 way	457411570	https://www.piandiboccio.com/
 way	528899364	http://www.AssisiBellavista.it
 way	528899396	https://www.ilRoseto.com
+way	560118130	https://www.lagiostrinadeicanape.it/servizi/il-trenino.html
 way	588200103	http://www.canoaclubperugia.it
 way	620147295	http://www.cittadella.org/
 way	757260586	https://panoramadincanto.it/
