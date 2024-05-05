@@ -2586,7 +2586,6 @@ node	5097151521	https://www.fonzietheburgershouse.com
 node	5098681289	https://www.proecontromoda.it/
 node	5098681290	https://danerone.thefork.rest/
 node	5098681294	https://www.obycasa.it/a/969--agenzia-obycasa-di-bracciano.html
-node	5098681295	http://www.yogorino.it/
 node	5098681298	https://ristorantepercorsi.it/
 node	5100815918	www.jonathan.it
 node	5105065721	https://www.facebook.com/Rosso-Vino-winebar-Terracina-208226355892923/
@@ -3310,7 +3309,6 @@ node	6185755385	http://crashroma.it
 node	6188611092	https://www.prolocopinciano.it/
 node	6191377791	https://prefettibellezza.it/
 node	6197661716	https://kemlu.go.id/rome
-node	6207175448	https://www.zerobikeroma.it
 node	6207258386	https://ultrasuonirecords.com/
 node	6207262985	https://goodymusic.it/
 node	6207262986	http://ristoranteorto.it
@@ -5410,6 +5408,7 @@ node	10696932164	https://www.arpalazio.it/documents/20124/67746/AL008.pdf
 node	10699302684	https://www.illy.com/it-it/home
 node	10699458185	https://www.ct-group.it/
 node	10701088905	https://www.wearebranca.com/
+node	10702308215	https://www.get-sherpa.com/
 node	10704234605	https://hotelcentrallodge.com/
 node	10705065705	https://www.verdepistacchiolab.it/
 node	10706508700	https://www.paninidesantis.it/
@@ -5571,6 +5570,7 @@ node	11002305506	https://www.royalpanjab.com
 node	11002763365	https://maurys.it/punti-vendita/lazio/altre-provincie-lazio/item/58-palestrina-via-prenestina-antica-vicino-c-c-i-platani.html
 node	11003037162	https://www.repower.com/it/dina/
 node	11005969034	https://www.agenziaprenestino.com/
+node	11006961786	http://www.pinsallegra.it
 node	11013576039	https://www.gamestop.it
 node	11015537318	https://www.ernestopro.com
 node	11016537934	https://riderlinestore.com
@@ -6002,6 +6002,9 @@ node	11845253611	https://www.fishenjoy.com/
 node	11847576432	https://www.passpartoutroma.it/
 node	11847787922	http://www.centrocartapizzino.it/
 node	11853695091	https://www.centroraphael.it/parafarmacia-e-sanitaria
+node	11865532070	http://www.orizzonteshop.it
+node	11872430355	http://www.fenixwar.it/
+node	11877019402	https://www.shop.ipzs.it/spazio-verdi
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6616,7 +6619,6 @@ way	204322186	http://www.aleramoroma.it/
 way	204398096	https://porta-di-roma.klepierre.it/
 way	205224756	https://www.museobrigantaggio.it/
 way	205228817	http://www.albergoilgrottone.it
-way	205778171	http://physicalhealthcenter.it
 way	206309500	http://www.villaaurelia.net/
 way	206928819	https://www.comune.monteporziocatone.rm.it/polo_museale.php
 way	206928820	https://www.comune.monteporziocatone.rm.it/polo_museale.php
@@ -6836,7 +6838,6 @@ way	258621339	http://www.zoobar.roma.it/
 way	259715396	http://www.scientificolinguistico-innocenzo12.edu.it/
 way	260535060	http://www.bollanti.it
 way	260543874	https://www.carrozzeriafalso.it/
-way	260798682	https://www.amphi-theatrum.de/1545.html
 way	261041458	http://www.esercito.difesa.it/Comunicazione/Musei/Granatieri/Pagine/default.aspx
 way	261078268	icviagentile40.gov.it
 way	261078274	https://www.prosportroma.it/
@@ -7301,7 +7302,6 @@ way	421867863	https://www.carabinieri.it/
 way	421868912	http://www.lafienatora.it/
 way	421991104	http://www.atlanticoroma.it/
 way	422024916	http://www.centrocommercialeletorri.com
-way	422436688	http://cleliapalace.hotelinroma.com
 way	422622222	https://www.docmarket.it/it/punto-vendita/marino
 way	422802695	https://bnl.it/it/Corporate
 way	422920261	www.bramawellness.com
@@ -8400,6 +8400,8 @@ way	1270698254	https://www.lascaglia.it/
 way	1273812551	www.ortidiveio.it
 way	1274643140	https://www.altipianiadventures.com
 way	1276262772	https://www.atelierserrasposa.it
+way	1278873343	https://www.twinsroma.it
+way	1279281173	www.museoarcheologicocicolano.it
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -9178,6 +9180,7 @@ relation	17356913	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Lu
 relation	17428760	http://www.bppark.it/
 relation	17469368	http://.casalepodererosa.org
 relation	17515376	http://www.sabap-rm-met.beniculturali.it/it/281/area-archeologica-di-volsinii
+relation	17550852	http://www.poligonotestadilepre.it/
 node	251888861	https://www.multisalagreenwichroma.com/
 node	452570567	http://www.catacombe.org
 node	802459210	https://www.oasidigreccio.it/
@@ -9360,6 +9363,7 @@ node	11835513677	https://www.foresteriaroma.com/
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
 way	36385826	https://www.aeronautica.difesa.it/home/storia-e-tradizione/museo-storico/
 way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
+way	61008689	https://termedeipapi.it/
 way	61011575	https://bagnaccio.it/
 way	63113412	http://www.ristorantealbersagliere-rieti.eu/
 way	99834984	https://www.todis.it
