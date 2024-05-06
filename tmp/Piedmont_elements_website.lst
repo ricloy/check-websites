@@ -288,6 +288,7 @@ node	1447874000	https://www.comune.roccafortemondovi.cn.it/
 node	1447936798	http://www.ciclibergamin.it
 node	1453627246	http://www.redbike.eu
 node	1453637871	https://www.ciclidedonato.it/
+node	1456831554	https://villatitti.clickmaster.it/
 node	1460932687	http://www.comune.condove.to.it
 node	1464244093	https://www.facebook.com/novecento.asti
 node	1464809930	http://www.cafeneruda.org/
@@ -1289,7 +1290,7 @@ node	3209363872	http://www.tobike.it/
 node	3215652758	https://www.caicervasca.it/
 node	3217647226	https://www.panassilibrerie.it/
 node	3218559758	https://www.ramassin.it/ita/index.php
-node	3218899676	https://www.pizzeriacecchi.it/
+node	3218899676	https://tradizionececchi.it/
 node	3221956838	https://www.talentgarden.org/
 node	3222217853	http://www.osservatoriopaesaggioami.it/
 node	3224033330	https://visaisa.com/
@@ -1889,15 +1890,7 @@ node	4092495317	http://www.farmaciagazzopicchio.it/
 node	4097309213	http://www.securitytec.it
 node	4099030689	https://www.amagmobilita.it/
 node	4099049770	https://www.amagmobilita.it/
-node	4099049771	http://atm-alessandria.it
-node	4099060623	http://atm-alessandria.i
 node	4099063850	https://www.amagmobilita.it/
-node	4099067389	http://atm-alessandria.it
-node	4099067390	http://atm-alessandria.it
-node	4099067391	http://atm-alessandria.it
-node	4099067392	http://atm-alessandria.it
-node	4099067393	http://atm-alessandria.it
-node	4099068528	http://atm-alessandria.i
 node	4099071721	https://www.amagmobilita.it/
 node	4099071722	https://www.amagmobilita.it/
 node	4099071725	https://www.amagmobilita.it/
@@ -1911,7 +1904,6 @@ node	4099148426	https://www.amagmobilita.it/
 node	4099297564	https://www.amagmobilita.it/
 node	4099297568	https://www.amagmobilita.it/
 node	4099297584	https://www.amagmobilita.it/
-node	4099298089	https://www.amagmobilita.it/
 node	4099298103	https://www.amagmobilita.it/
 node	4099578716	https://www.latorbiera.it/
 node	4103633515	https://www.publidokcomputers.it/
@@ -2571,6 +2563,7 @@ node	4735827400	https://it-it.facebook.com/bicierin/
 node	4735827412	https://rageroom-torino.it/
 node	4735827837	https://www.ristoranteilbarbabuc.it/
 node	4735829173	https://rossorubino.net/
+node	4735829222	https://www.ibericostorino.com/
 node	4735830320	https://www.lavgon.it/
 node	4735830458	http://www.sushibarmikien.it/
 node	4735866710	https://laadan.it
@@ -5000,6 +4993,7 @@ node	9261905781	https://www.cartuccetorino.it/
 node	9264594096	http://www.cucineecucine.eu/
 node	9270098055	https://www.carambolaviaggi.it/
 node	9270098057	https://stores.footlocker.it/it/vercelli/corso-liberta-79.html
+node	9270098058	https://www.nuovenergiespa.it/contatti/vieni-a-trovarci/negozio-partner-vercelli/
 node	9270128258	https://www.lageardarchitettura.com/
 node	9270219408	https://www.photoidea.it
 node	9270245767	https://www.ecoriparazione.it/
@@ -6045,6 +6039,10 @@ node	11833007067	https://www.amagmobilita.it/trasporti-alessandria/orari-autobus
 node	11835703320	https://www.lalenza.it/ristorante/
 node	11838833696	https://www.lalenza.it/residence-il-tiglio/
 node	11843441664	https://www.cuorcuma.com/
+node	11869387669	http://hotelsitalian.com
+node	11871444880	https://www.lecattedrali.com/
+node	11872611359	https://www.pizzeriasportello.it/
+node	11878372633	https://www.labriccola.com/
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -7403,6 +7401,7 @@ way	322457550	https://rossopellet.it
 way	322497873	http://www.legnamibeltramoaurelio.com/
 way	322709772	http://www.comune.torino.it/circ10/cm/pages/ServeBLOB.php/L/IT/IDPagina/1436
 way	322762895	http://www.edilcem.biz/portfolio-articoli/palazzo-svolta/
+way	322840101	www.cairivoli.it
 way	322904675	https://cinemacentrale.wordpress.com/
 way	322909623	https://fratellimarxcinema.wordpress.com/
 way	322915733	https://www.aeroportoditorino.it/
@@ -7461,6 +7460,7 @@ way	331813132	https://www.istitutovalfieri.edu.it
 way	331926402	http://museo.sicdat.it
 way	332456005	http://mercati.comune.torino.it/item/pavese/
 way	332576045	www.marconi-galletti.it
+way	333283642	https://www.gulliver.it/itinerari/mollia-parete-bianca/
 way	333390069	http://www.ortodossiatorino.net/
 way	333433524	http://www.caivarallo.it/valsesia/sentieri-valsesia/sentieri-valsesia-dettaglio.php?sentiero=408
 way	333536373	http://www.parrocchiacrocetta.org/
@@ -8990,7 +8990,7 @@ relation	1768490	https://www.atapspa.it/
 relation	1777413	http://www.circoloeridano.it/
 relation	1782102	https://www.mongr.fr/trouver-prochaine-randonnee/parcours/gr-52a-panoramique-du-mercantour
 relation	1801819	https://www.parcodelticino.pmn.it/
-relation	1947992	https://chemindassise.org/it/
+relation	1947992	https://chemindassise.org/
 relation	1948437	https://www.visitfossano.it/
 relation	1976006	https://www.estmonterosa.it/catasto-percorsi-vco-cusio-settore-t.html
 relation	2065693	https://www.visitfossano.it
@@ -9350,6 +9350,8 @@ relation	8788227	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-lag
 relation	8788251	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8788304	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8788335	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
+relation	8788340	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
+relation	8791589	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8795794	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8799892	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8800797	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
@@ -9368,6 +9370,7 @@ relation	8858278	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-setto
 relation	8858286	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
 relation	8858336	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8858817	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
+relation	8858851	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8858875	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8858884	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8881063	https://www.estmonterosa.it/catasto-percorsi-vco-cusio-settore-t.html
@@ -11307,6 +11310,7 @@ node	10067464879	http://www.vercellisantandrea.com/index.html?scene_id=10
 node	10067464881	http://www.vercellisantandrea.com/index.html?scene_id=8
 node	10067508166	http://www.vercellisantandrea.com/index.html?scene_id=9
 node	10068662040	http://www.vercellisantandrea.com/index.html?scene_id=5
+node	10766482289	https://coinatmradar.com/bitcoin_atm/55467/bitcoin-atm-shitcoins-club-torino-piazza-paradiso-torino-bitcoin-atm/
 node	10797357513	https://guida.prolocorosazza.it/stella.html
 node	10797357547	https://guida.prolocorosazza.it/fontanarosa.html
 node	10799063142	https://guida.prolocorosazza.it/fontanafede.html
@@ -11756,6 +11760,7 @@ relation	13929242	https://percorsi.estmonterosa.it/g/G38/G38.kml
 relation	13930105	https://percorsi.estmonterosa.it/g/G10/G10.kml
 relation	13931294	https://percorsi.estmonterosa.it/g/G12/G12.kml
 relation	13935756	https://percorsi.estmonterosa.it/g/G20/G20.kml
+relation	13938907	https://percorsi.estmonterosa.it/g/G26/G26.kml
 relation	13944084	https://percorsi.estmonterosa.it/g/G34b/G34b.kml
 relation	13981897	https://percorsi.estmonterosa.it/g/G97.pdf
 relation	13983921	https://percorsi.estmonterosa.it/s/S03a/S03a.kml
