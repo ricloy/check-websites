@@ -99,6 +99,7 @@ node	534834927	https://www.d-piu.com/punti_vendita/d297-san-giovanni-al-natisone
 node	536780038	https://www.triestetrasporti.it/orari-e-percorsi/linee-e-orari/linea-6/
 node	552477035	http://www.museomonfalcone.it/paleontologia.php
 node	575336136	http://riservafoceisonzo.it/
+node	578015343	http://www.carmaauto.it/
 node	581962435	http://www.e-coop.it/web/guest/punti-vendita-dettaglio?id=5084
 node	582942377	http://www.geoscienze.units.it/geositi/vedigeo1.php?ID_GEO=534
 node	583274658	http://www.vesnabrezina.it/novo/sl/plessi/otroski-vrtec-v-nabrezini
@@ -1178,7 +1179,6 @@ node	3987614316	http://catastogrotte.fvg.it/7477
 node	3994948434	https://www.legambientefvg.it/
 node	3997107077	http://www.sebico.it/easyne2/LYT.aspx?Code=BSS2&IDLYT=657&ST=SQL&SQL=ID_Documento=613
 node	3997279609	http://www.allimbarcadero.com
-node	3998580677	http://www.sebico.it/easyne2/LYT.aspx?Code=BSS2&IDLYT=657&ST=SQL&SQL=ID_Documento=614
 node	4000366505	https://www.uniud.it/didattica/servizi_studenti/consultazione/biblioteche/cepo/
 node	4000429758	www.bibliotecafontanafredda.it
 node	4000588353	https://www.irsml.it/Biblioteca.htm
@@ -1993,6 +1993,7 @@ node	9321388706	https://www.cacjanaipa.com/
 node	9321388708	https://www.petbazar.it/
 node	9324873768	https://carini-toyota.it/
 node	9330343444	https://www.cantinarauscedo.com/
+node	9338017336	https://negozi.tigota.it/5544-trieste
 node	9339250648	http://www.vesnabrezina.it/novo/sl/plessi/prvostopenjska-srednja-sola-iga-grudna
 node	9339250649	http://www.vesnabrezina.it/
 node	9345090850	https://www.porziogroup.it/
@@ -2439,6 +2440,8 @@ node	11828527750	https://www.ferriauto.it/
 node	11828527751	https://www.ferriauto.it/
 node	11836913894	http://www.iamspazioeventi.it/
 node	11851439340	https://enotecananut.eatbu.com/
+node	11882088954	https://www.birragarlatticosta.it/
+node	11886358908	https://jozefstefan.org/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	https://campingalbosco.it/
@@ -2520,7 +2523,7 @@ way	36051557	https://explorerfvg.com/luoghi/de/rifugi/rifugio-gilberti/
 way	36051683	http://bivaccamente.blogspot.it/
 way	36051864	www.campodibonis.it
 way	36052154	https://agriturismozaro.it/
-way	36052390	https://www.facebook.com/rifugiopelizzo
+way	36052390	https://www.cividale.com/it/il_rifugio_pelizzo
 way	36052562	https://locandalaserenissima.com/
 way	36054157	https://www.casavalcellina.it/it
 way	36057183	https://www.bottegone.eu
@@ -2532,6 +2535,7 @@ way	36066083	www.mobilifurlan.it
 way	36068236	http://www.valcolvera.it/
 way	36078558	http://www.istitutodellevallimedunacosarzino.ed
 way	36078566	http://www.sebico.it/easyne2/LYT.aspx?Code=BSS2&IDLYT=4104&ST=SQL&SQL=ID_Documento=612
+way	36079487	https://www.peraulis.net/biblioteche/
 way	36079491	http://www.istitutocomprensivotravesio.it
 way	36079499	http://www.istitutodellevallimedunacosarzino.edu.it
 way	36079618	https://it.wikipedia.org/wiki/Ragogna#Monumenti_e_luoghi_d'interesse
