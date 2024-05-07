@@ -100,7 +100,6 @@ node	511193427	http://lacollettaristorante.com
 node	534814385	https://www.suite1906.it/
 node	538899391	https://www.puntottica.it/
 node	539062346	https://www.roosterrotisserie.com/
-node	539721586	https://www.atpesercizio.it/cartina2.php?sez=TOc
 node	551491601	https://www.oasihotel.eu/
 node	551586594	https://www.lagiadadelmesco.it
 node	551586608	www.maremesco.it
@@ -2406,6 +2405,10 @@ node	11829151587	https://www.satassistenzaelettrodomestici.com
 node	11829151594	https://www.liguriadiesel.it/
 node	11829151596	https://www.fabbroserramentirolando.com/
 node	11851229186	https://www.fortinfissi.it/
+node	11876543045	https://www.agenziazurich.it/im503
+node	11880998004	https://www.liguriadigitale.it/
+node	11881272247	https://www.museopassatempo.it/
+node	11881544068	https://www.ristoranteagrillo.it
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2932,6 +2935,7 @@ way	430206446	http://www.ar-nav.it/
 way	430206447	https://www.marina3b.it/
 way	430206449	http://www.portoboccadimagra.it
 way	430779526	https://www.intermarine.it/
+way	431354980	https://www.atpesercizio.it/cartina2.php?sez=TOc
 way	432985676	http://www.terredelmistero.it/
 way	436637867	http://www.fondazionebaglietto.it/
 way	436830788	https://www.parrocchiadisantanna.it/
@@ -3137,7 +3141,6 @@ way	1161621512	http://www.lattealberti.it/informativa
 way	1161621513	http://www.lattealberti.it/informativa
 way	1162787486	http://www.campingcinqueterre.it/
 way	1162787488	https://www.campingalberodoro.com/
-way	1178791147	http://www.arenzanoffroad.it
 way	1178791148	http://www.arenzanoffroad.it
 way	1179985116	http://www.shiyunjia.it/
 way	1179991363	https://www.liguriahomes.com/
@@ -3182,8 +3185,8 @@ relation	1532374	http://palazzorealegenova.beniculturali.it
 relation	1539287	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1547991	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1718980	https://www.poliziamunicipale.it/
-relation	1947992	https://chemindassise.org/it/
-relation	1948090	https://chemindassise.org/it/
+relation	1947992	https://chemindassise.org/
+relation	1948090	https://chemindassise.org/
 relation	2005160	http://www.porto.genova.it
 relation	2198352	http://www.parktennisclub.com/
 relation	2547675	http://www.sfdapaola.it
@@ -3380,7 +3383,6 @@ relation	4561152	https://www.cailaspezia.it/
 relation	4561564	https://www.cailaspezia.it/
 relation	4562857	https://www.cailaspezia.it/
 relation	4562872	https://www.cailaspezia.it/
-relation	4562888	https://www.cailaspezia.it/
 relation	4563023	https://www.cailaspezia.it/
 relation	4563344	https://www.cailaspezia.it/
 relation	4563442	https://www.cailaspezia.it/
@@ -3394,7 +3396,7 @@ relation	4564367	https://www.cailaspezia.it/
 relation	4564421	https://www.cailaspezia.it/
 relation	4564448	https://www.cailaspezia.it/
 relation	4564551	https://www.cailaspezia.it/
-relation	4564613	https://www.cailaspezia.it/
+relation	4564613	https://www.caisarzana.com/
 relation	4578355	https://www.cailaspezia.it/
 relation	4578366	https://www.cailaspezia.it/
 relation	4578403	https://www.cailaspezia.it/
@@ -3529,7 +3531,6 @@ relation	5414090	https://www.cailaspezia.it/
 relation	5414142	https://www.cailaspezia.it/
 relation	5414164	https://www.cailaspezia.it/
 relation	5414202	https://www.cailaspezia.it/
-relation	5421270	https://www.cailaspezia.it/
 relation	5551539	https://www.cailaspezia.it/
 relation	5551543	https://www.cailaspezia.it/
 relation	5551554	https://www.cailaspezia.it/
