@@ -419,7 +419,6 @@ node	2193298469	https://www.eremomadonnadellegrazie.com/
 node	2194081171	https://www.poste.it
 node	2215173169	http://www.aputiarovinu.com/home.aspx
 node	2254915368	https://www.poste.it
-node	2255096727	https://www.hotelvilladorataetna.com/
 node	2255806144	http://www.bedandbreakfast-etnahouse.it/
 node	2255806152	http://www.sotto-ilvulcano.it/
 node	2260117857	http://www.lozingaro.it
@@ -453,7 +452,6 @@ node	2311469477	https://www.enel.it/punto-enel/
 node	2311469534	https://www.enel.it/punto-enel/
 node	2311469554	https://www.enel.it/punto-enel/
 node	2311469566	https://www.enel.it/punto-enel/
-node	2311469578	https://www.enel.it/punto-enel/
 node	2311469589	https://www.enel.it/punto-enel/
 node	2311469622	https://www.enel.it/punto-enel/
 node	2311469627	https://www.enel.it/punto-enel/
@@ -3651,14 +3649,14 @@ node	11810135805	https://www.combattentiereduci.it/
 node	11810258328	https://www.mangiafico1972.it/
 node	11810611504	https://lapomeliasofia.com/
 node	11811431398	https://www.flowerburger.it/negozi/flower-burger-palermo-2/
-node	11818518448	http://www.ddsteresadiriva.edu.it/
-node	11819454885	http://www.acqualavica.it/
+node	11818518448	https://www.ddsteresadiriva.edu.it/
+node	11819454885	https://www.acqualavica.it/
 node	11828535440	https://www.route115.com/
-node	11830121116	www.poderedelletnasegreta.it
-node	11833898776	http://www.icsdannunziomotta.it
+node	11830121116	https://www.poderedelletnasegreta.it/
+node	11833898776	https://www.icsdannunziomotta.it/
 node	11838336669	https://centro-storico.bedsandhotels.com/
 node	11846520448	http://www.algiardino.net
-node	11847963646	www.autetaormina.com
+node	11847963646	https://www.autetaormina.com/
 node	11849630633	https://www.pantarei-ristorante.com/
 node	11851517327	https://www.cdbelpasso.edu.it
 node	11851517337	https://www.cdbelpasso.edu.it
@@ -3670,6 +3668,9 @@ node	11869469073	https://villanuema.it/
 node	11871172697	http://www.parcoquasimodo.it
 node	11876584221	https://www.museodelsale.it
 node	11876651950	https://www.comune.nizzadisicilia.me.it/jo/biblioteca-comunale
+node	11883865922	https://hkennedy.it
+node	11895566913	https://mannanoto.it
+node	11895634895	https://cdspedalieribronte.edu.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3865,7 +3866,6 @@ way	118184946	http://www.madison-restaurant.com
 way	118427376	https://cdspedalieribronte.edu.it
 way	119024826	https://www.decathlon.it/
 way	119895746	http://www.operaprimaartigianigelatieri.com/
-way	120020982	https://www.hoteltermeacquagrazia.com/
 way	121751538	https://www.eplanetcinemas.it/
 way	122388053	https://www.ateliernelbosco.it/
 way	122664308	http://www.santagataalborgo.it/
@@ -4026,6 +4026,7 @@ way	214806410	www.anticamasseriagargiuffe.com
 way	215287577	http://quisquina.com
 way	215452776	https://www.ipssatchinnicinicolosi.edu.it/
 way	215452786	http://www.marconiscuola.edu.it/
+way	216146897	https://www.hotelvilladorataetna.com/
 way	216204085	https://www.regione.sicilia.it/presidenza/protezionecivile/pp/archivio_sima_id=0.asp
 way	216506652	https://www.poste.it
 way	217627593	https://www.beniculturali.it/luogo/museo-regionale-di-kamarina
@@ -4077,7 +4078,6 @@ way	234955038	https://www.etnaland.eu/
 way	234993544	https://www.gbnicolosi.edu.it
 way	235038239	https://www.icpuglisiacate.edu.it/
 way	235184337	https://www.icpuglisiacate.edu.it/
-way	236059747	http://www.feudosanvito.com/
 way	236853089	https://www.hotelorizzonte.it/
 way	237288962	https://www.barpalummo.it/
 way	238139367	https://www.filippograsso.it/
@@ -4469,7 +4469,6 @@ way	382711069	https://www.quasimodoragusa.edu.it
 way	384292472	http://mancusogelati.it
 way	385042156	http://www.istitutoguastellachiaramonte.it
 way	385784264	https://www.vigilfuoco.it
-way	385928379	https://hkennedy.it
 way	386836258	https://www.comunedisinagra.it/
 way	388832065	http://osteriamiseriaenobilta.it
 way	388843144	http://gelafruit.it/
@@ -5443,7 +5442,6 @@ way	1160634470	https://lezagaredivendicari.it/
 way	1160638110	http://www.agriturismopaparanza.it/
 way	1160643745	https://www.ilgelsominoritrovato.it/area-attrezzata-per-camper-a-milazzo/
 way	1160774090	https://www.poste.it
-way	1160774156	https://cdspedalieribronte.edu.it
 way	1160934383	https://mariausiliatrice.chiesadipalermo.it/
 way	1160944540	https://www.icgiovanni23piazzi.edu.it/
 way	1161715600	https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-territorio-ambiente/comando-corpo-forestale-regione-siciliana
@@ -5754,10 +5752,11 @@ way	1270702347	https://www.icsciasciamisterbianco.edu.it/
 way	1271226231	https://www.aiasacireale.it/
 way	1271226261	https://castellodelleaci.com/
 way	1273538612	https://www.bowlingmanhattan.com/
-way	1274513744	http://www.icsdannunziomotta.it
+way	1274513744	https://www.icsdannunziomotta.it/
 way	1276586044	https://www.cdbelpasso.edu.it
 way	1276586048	https://www.cdbelpasso.edu.it
 way	1276586059	https://www.cdbelpasso.edu.it
+way	1280911260	https://www.hoteltermeacquagrazia.com/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
