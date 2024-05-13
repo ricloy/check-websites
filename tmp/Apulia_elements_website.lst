@@ -64,7 +64,7 @@ node	1241563275	http://www.hotellesina.it
 node	1242968273	http://www.locandadellabbazia.it
 node	1244390603	https://www.facebook.com/pages/Parkway-Bikers-Caf%C3%A8-Bari/232259998286
 node	1249832171	https://www.cospas-sarsat-italy.it/
-node	1297708241	http://www.repower.com/gruppe/%C3%BCber-uns/unsere-anlagen/windanlagen/
+node	1297708241	https://www.repower.com/it/lenergia-di-repower/produzione-di-energia-elettrica/
 node	1349636216	https://www.comune.casarano.le.it/
 node	1375229531	https://www.executivebusinesshotel.it/
 node	1416078267	https://www.villaggiomascia.it/
@@ -439,6 +439,7 @@ node	3953341832	http://www.archeolido.com
 node	3976448398	https://lamasangiorgio.it
 node	4000782707	https://www.allegrinitaly.com/shop/
 node	4011650718	https://www.relaishisto.it/
+node	4011921428	https://www.bibliotecadeleo.it
 node	4043500830	https://p20bistrot.com/
 node	4058649089	http://ricciutilaw.com/
 node	4065572840	http://www.hotelristorantelacapannella.com
@@ -927,7 +928,7 @@ node	6381048541	https://it-it.facebook.com/La.fantasia.dell.usato.di.Angelo/
 node	6386663970	https://www.negrovaliani.it
 node	6389331078	https://www.dimoranettare.it/
 node	6389459844	https://ilgermogliobio.it/
-node	6389488279	https://www.naturasi.it/negozi/bari/bari-piazza-umberto-i
+node	6389488279	https://www.naturasi.it/
 node	6396389718	https://www.poste.it
 node	6398007453	https://it-it.facebook.com/pages/category/Shopping-Mall/Shanghai-Tamburi-344252142996738/
 node	6398083481	https://www.arifpuglia.it/index.php/contatti/dove-siamo/sede-di-taranto-attivita-forestali
@@ -2090,6 +2091,7 @@ node	11608490524	https://ilmulinopizzeria.it/
 node	11610544243	http://www.palazzomariano.it/
 node	11631042369	https://www.museodelpaneforte.it/
 node	11642918267	https://www.tenutadonnacaterina.it/
+node	11646054351	https://www.laterza.it/
 node	11649674735	https://bari.mfa.gov.ge/
 node	11649752955	https://www.cassaedilebari.it/
 node	11652544603	https://www.paginegialle.it/massafra-ta/ristoranti/byblos-cafe-s-n-c-di-castiglia-cosima-and-c
@@ -2124,7 +2126,6 @@ node	11697410317	https://www.facebook.com/tuttorto
 node	11708503883	https://www.lc-apartmentspuglia.com/it/pagina/home-experience
 node	11708931619	https://www.facebook.com/people/BAR-NEW-YORK/100063716875849/
 node	11731020830	https://musicaeparole.it/
-node	11738584655	https://www.laterza.it/
 node	11747836064	https://www.facebook.com/Trattoria.ectmeng.AR.65/?locale=it_IT
 node	11747907901	https://www.facebook.com/p/Panificio-Del-Corso-100054564424251/?locale=it_IT
 node	11747925742	https://www.instagram.com/_mamascake_/
@@ -2183,6 +2184,23 @@ node	11879105472	https://www.nucciacostantino.it/
 node	11879890528	https://bigaefila.it/
 node	11880640093	https://www.casasanpaolo.it/
 node	11881093383	https://www.tripadvisor.com/Restaurant_Review-g194820-d21184746-Reviews-Osteria_Del_Borgo-Mattinata_Province_of_Foggia_Puglia.html
+node	11883142098	https://www.kartodromobarimax.it/
+node	11887455195	https://kitesurfingnest.eu/casa-enza-ostuni-italy
+node	11889472684	https://www.areepicnic.it/item/ulivo-madre-della-coratina-sosta-picnic-via-francigena-del-sud/
+node	11891182022	https://www.bikerently.it/
+node	11891796860	https://www.cnbeauty.it/
+node	11893078362	https://incantalupo.it/
+node	11893103308	https://www.facebook.com/p/Caseificio-Consoli-SRL-100057070105545/
+node	11894888707	https://www.italcredibari.com/
+node	11895137461	https://ristorantevettor.it/
+node	11895137462	https://taqoz.it/
+node	11897004290	https://www.moncadaepartners.com/
+node	11898347587	https://www.mozart-bnb.it/
+node	11898347591	http://www.ernestonicola.it/
+node	11898347600	https://www.puntostoreandria.it/
+node	11898347602	https://www.puntostoreandria.it/
+node	11898347603	https://www.puntostoreandria.it/
+node	11898347604	https://www.puntostoreandria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2205,7 +2223,6 @@ way	103383688	http://wikispesa.costodellostato.it/Invaso_Pappadai_%E2%80%93_Tara
 way	108455948	http://www.sgangiulli.it/
 way	108684298	https://www.acquafantasy.it/
 way	109092917	https://www.zoosafari.it/
-way	113970435	https://www.ucicinemas.it/cinema/puglia/bari/uci-cinemas-showville-bari/
 way	117514397	https://www.leganavale.it/portale/sezioni/index.asp?ID_sezione=154
 way	121717471	https://www.pistakart.it/
 way	122049136	https://www.facebook.com/alfonsodidonnalidovalentino/?locale=it_IT
@@ -2231,6 +2248,7 @@ way	147961516	https://www.liceosocratebari.edu.it/
 way	158732617	https://www.villamariacrispiano.it/
 way	159920966	https://www.comune.martinafranca.ta.it/pagina1144_dove-parcheggiare.html#aree
 way	159981787	https://www.majoranaiiss.edu.it/
+way	163959695	https://www.ucicinemas.it/cinema/puglia/bari/uci-cinemas-showville-bari/
 way	164842431	https://quickparking.it/
 way	167491735	https://www.parrocchiaimmacolatamodugno.it/
 way	168068895	http://salentomnia.it
@@ -2499,7 +2517,7 @@ way	403138441	https://www.tecneco.com/
 way	403139264	https://www.notalilampadari.it/
 way	403168729	http://www.artigraficheapulia.it/
 way	403179713	https://www.gemsautosrl.it/
-way	403188351	www.mefhotelgallipoli.it
+way	403188351	https://www.mefhotelgallipoli.it/
 way	403188883	https://www.aglioeolioristorante.net
 way	403252006	https://www.agriturismosantachiara.it/
 way	403262207	https://www.tenutadoxi.it/
@@ -2714,6 +2732,7 @@ way	422357678	https://www.decathlon.it/
 way	422365507	http://www.automondosrl.it
 way	422368707	https://www.mareabrindisi.com/
 way	422908834	https://www.primed.it/
+way	423042540	http://www.parrocchiasanpaolomartinafranca.blogspot.com/
 way	423153183	www.pianetaostuni.it/index.php/masserie/tutte/329-soluco
 way	423154807	https://www.tenutaodegitria.it/it/
 way	423162418	http://www.comunemartinafranca.gov.it/index.php?option=com_content&view=article&id=1160:1-porta-di-santo-stefano-oggi-detta-arco-di-sant-antonio&catid=139&Itemid=175&lang=it&skin=white&size=80
@@ -3461,6 +3480,7 @@ node	11407209641	https://paolocasolo.com/
 node	11513656728	https://uomodialtamura.it/Centro-Lamalunga/3
 node	11716602810	https://www.santuariosanmichele.it/musei-tecum/
 node	11750119900	http://www.brindisieleantichestrade.com/
+node	11884849968	www.brico-casa.it
 way	68334157	http://www.scuoladonpappagallo.it/
 way	72401407	https://www.secondocircoloboscoterlizzi.edu.it
 way	78626385	https://www.gesmundomorofiore.edu.it
