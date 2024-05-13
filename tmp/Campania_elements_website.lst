@@ -321,6 +321,7 @@ node	3056293763	http://www.milettiantonio.it/
 node	3056293770	https://napoli.ubiklibri.it
 node	3056337705	http://www.pizzeriadellangelo.com/
 node	3056337706	http://www.vesi.it/
+node	3058697148	https://rinomatoristoranti.it/
 node	3061608884	http://www.belvederesorrento.com/
 node	3061608886	https://barmeetingsorrento.jimdo.com/
 node	3061608887	http://www.bar-rita.it/
@@ -2336,6 +2337,8 @@ node	11868955082	https://www.ilbikini.com
 node	11872422069	http://www.hostelnap.com/
 node	11879205778	https://Umbertoprimonapoli.com
 node	11881016827	http://www.cauterochampagne.it/
+node	11894474277	https://www.kromlaboro.it
+node	11898883101	https://www.action.com/it-it
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2345,6 +2348,7 @@ way	29403971	http://www.polomusealecampania.beniculturali.it/index.php/il-castel
 way	29449184	http://www.metro.na.it/metro/index.php?option=com_content&task=view&id=82&Itemid=100
 way	29466656	https://www.novartis.it
 way	29497382	www.centromercatoduenapoli.it
+way	29702407	https://www.nocerina.it
 way	43564404	https://www.itimedi.it/
 way	43565068	https://parconazionaledelvesuvio.it/pnv/visitailparco/sentiero_somma.asp
 way	43565075	https://parconazionaledelvesuvio.it/pnv/visitailparco/sentiero_somma.asp
@@ -3524,7 +3528,14 @@ relation	4808036	https://www.caimontilattari.it/sentiero/322/
 relation	4808040	https://www.caimontilattari.it/sentiero/323/
 relation	4808041	https://www.caimontilattari.it/sentiero/323a/
 relation	4808042	https://www.caimontilattari.it/sentiero/324/
+relation	4814062	https://www.caimontilattari.it/sentiero/331a/
+relation	4814064	https://www.caimontilattari.it/sentiero/331b/
+relation	4814065	https://www.caimontilattari.it/sentiero/333/
+relation	4814067	https://www.caimontilattari.it/sentiero/333a/
+relation	4814077	https://www.caimontilattari.it/sentiero/351a/
+relation	4814078	https://www.caimontilattari.it/sentiero/351b/
 relation	4827347	https://www.caimontilattari.it/sentiero/349b/
+relation	4840057	https://www.caimontilattari.it/sentiero/309/
 relation	5407110	http://www.museoalfonsiano.it/node/40
 relation	5424672	http://www.pompeiisites.org/Sezione.jsp?titolo=La+casa+dell%27albergo&idSezione=188
 relation	5763561	https://www.caimontilattari.it/sentiero/325a/
