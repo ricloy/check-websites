@@ -1239,7 +1239,6 @@ node	2522011840	https://passostelvio.eu/
 node	2525393005	https://www.burgen-adi.at/ruine_froelichsburg/froelich_sehenswert.htm
 node	2527976352	http://www.ausserhof.com
 node	2527976417	https://www.callhof.it/
-node	2527976433	https://www.birkholz.it/
 node	2527976447	https://www.buchrast.com/
 node	2527976455	https://www.burgerhof.com/
 node	2527976493	http://www.dreimaedelhaus.it
@@ -1419,6 +1418,7 @@ node	2707328602	https://www.stiegenwirt.net/
 node	2707328604	https://www.hotel-sonne.it/
 node	2707328607	https://www.kronenwirt.com
 node	2711121246	http://www.bachler-kastelruth.com
+node	2711125642	https://www.konsummarkt.com/
 node	2711340765	http://snow-world.it/en/location-of-our-ski-rentals-in-santa-cristina-val-gardena/
 node	2715433391	https://www.farmaciaschlernapotheke.it/
 node	2717949890	https://www.europa-splendid.com/de/hotel-meran/1-0.html
@@ -1597,6 +1597,8 @@ node	2755696012	https://www.sporthans.com/
 node	2755696137	https://www.sensoriadolomites.com/
 node	2755696485	https://www.santners.it/de/restaurant-pizzeria/
 node	2755697728	https://www.hotelarvina.com/
+node	2755698889	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/sport-gardena-sport-fashion-shop-rental/1477DB912BB82A24EF51D4F47539088A/
+node	2755698890	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/goldform-marita/0C0856BA60D6419E934EC8DAC6EC9F6A/
 node	2755698921	https://www.seiseralm.it/de/ferienwohnung-seiser-alm/rid-EB977AFA87D8A4A48967553C78578593-villa-euringer.html
 node	2755698959	http://www.anemone-seiseralm.com
 node	2755699093	https://www.seiseralm.com/en/seiser-alm-compatsch/family-hotel.html
@@ -1623,6 +1625,7 @@ node	2755757803	https://www.hotelraffl.com/
 node	2755759560	http://www.metzgerei-zelger.it
 node	2755768291	https://www.residence-lanz.it/
 node	2755768455	https://www.joechlerhof.com/
+node	2755768619	https://www.malojerhof.com/
 node	2755777242	www.malbo.it
 node	2755785249	http://www.dr-zaros.it
 node	2755797338	https://www.appartements-lena.info/en/
@@ -1908,14 +1911,23 @@ node	2756041524	https://www.classicapartments.it/
 node	2756041682	https://www.aviscon.it/
 node	2756041722	https://www.salcher.com/
 node	2756041832	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/artigianato-gardenese-dolfi/5FC286F270F6A5FCE293C25011A3F694/
+node	2756041971	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/andreas-mayr-kondrak/8AE72FE397EB4A93D3420C59DAA131CC/
+node	2756042101	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/mk-by-malsiner/59519DB5CA5D41FCD8A9AC221DE9FB00/
 node	2756042346	https://www.sassela.com
+node	2756042437	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/raetia-tours/DF9B8588D29296FF282A19D5DB7BB7D5/
+node	2756042603	https://www.valgardena.it/en/addresses/detail/base/company/ortisei-val-gardena/gioia-squisitezze/44DA887AA6AFF8B07C5CD548307EC599/
 node	2756042641	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/peter/A821497BFE80FDCCFA3B3DA3E1110930/
+node	2756042746	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/flowers-inge/90AED203EF90426081C5F678347247AD/
 node	2756042756	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/intimissimi/5C4679688CE94364AA55B7DDA8F6109B/
+node	2756042992	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/ivo/080AE78D62C1449286F4732A8118E776/
 node	2756043199	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-gardena/classic-hotel-am-stetteneck/824D850329E711D599D20050DA7125DB/
 node	2756043491	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/antlaries/0BB107526E3C42358B741405AB928C2A/
 node	2756043799	https://www.valgardena.it/en/addresses/detail/base/company/ortisei-val-gardena/the-classic-cafe-stetteneck/824D850329E711D599D20050DA7125DB/
+node	2756043853	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/maso-dello-speck/EF7FA6FC6FD24049AE95599CDB5525C6/
+node	2756043876	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/nero-fluido/0EEC21F07E18465A934F0DEDC4F1CC1B/
 node	2756044570	https://www.franco.it/
 node	2756044575	https://www.affitti-stagionali.apartments/
+node	2756044982	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/conrad-moroder-woodcarvings/397F6082EEE8477CA4F9BC056C5FC0C0/
 node	2756045182	https://www.larciunei.it
 node	2756045676	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/denim-project/067FE146E3B285D83B2E3B5F133BFADA/
 node	2756045889	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/ski-snowboard-school-saslong/E0381FF9BBA8DBAC3F2496C0FFEF0C8F/
@@ -3172,7 +3184,6 @@ node	4233900091	http://www.alperia.eu/
 node	4233992389	https://streetfood-fantasy.it/
 node	4234374538	https://www.starbeneshop.net/
 node	4234394542	https://calzaturedueleoni.it/
-node	4236496241	https://www.gandolfi.bz.it/
 node	4236527511	http://www.gfw.eu/
 node	4236527513	https://www.clinicatresanti.it/
 node	4239211297	https://www.salto.bz/
@@ -3969,6 +3980,7 @@ node	5992462939	https://www.studiopsicologiafacci.it/
 node	6008611682	https://www.valgardena.it/en/bus-schedule/
 node	6008611683	https://www.valgardena.it/en/bus-schedule/
 node	6012435117	https://www.ssp-bruneck2.it/
+node	6012930685	https://www.valgardena.it/en/addresses/detail/base/company/ortisei-val-gardena/ustaria-da-checco/5C2BC103533397F44058D01E582EF043/
 node	6018284595	http://www.kimm-meran.it/
 node	6028639983	https://www.valgardena.it/en/addresses/detail/base/company/selva-val-gardena/apres-ski-bar-saltos/D5AE018CE93711D3A09D006097A8F6AC/?RequestKey=170792103765ccce8d53243
 node	6031965474	www.baldostube.it
@@ -4819,6 +4831,10 @@ node	9151291241	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-v
 node	9151291242	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/juwellery-runggaldier-m-co/7CDD48BC46A1436BA69612A72795BEEA/
 node	9151291243	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/sport-schmalzl/31A33E1D96CC4032A030574998E205AA/
 node	9151291245	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-gardena/hotel-maria/824D851529E711D599D20050DA7125DB/
+node	9151313008	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/marka-drogstore/86F5E4DEDC954FC8B5048D3742A45768/
+node	9151313010	https://www.valgardena.it/en/addresses/detail/base/company/ortisei-val-gardena/vedl-mulin/051EDD4CDD714F6B8B7522F371AFC17C/
+node	9151313011	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/la-flaura/B6E974E37F2B48D4A2FC5357F7BA346B/
+node	9152026334	https://www.valgardena.it/en/addresses/detail/base/company/ortisei-val-gardena/pitla-stua/1EFBAC9B41E102AE00CA2125A9E921DA/
 node	9155167768	https://www.gattererhof.it/
 node	9155286260	https://www.haidnerhof.com/
 node	9155313741	http://www.aichnerhof.com/
@@ -5385,7 +5401,7 @@ node	10621311997	https://www.zoll.one/
 node	10634889106	https://www.lapiadineria.com/
 node	10635339623	https://www.oberwirtshof.com/
 node	10648018707	http://www.zumpfitscher.it/
-node	10649556605	http://www.skiservice-thomas.it/
+node	10649556605	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/skiservice-thomas/DA4B34E8467A6756711BC1A890CAF371/?RequestKey=17156030406642066087e4e
 node	10651066285	https://www.villa-bea.it/
 node	10651897244	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/hotel-comploj/C0DF98D976D911D18F2900A02427D15E/
 node	10657692439	https://www.mutlechnerhof.it/
@@ -5909,6 +5925,11 @@ node	11876946346	https://www.hartwigthaler.de/
 node	11882327411	https://www.rex-bx.it/it/home-it/
 node	11883639345	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/peter-moroder/EAC046849C1A43F280A07470A0DE6DED/
 node	11886232847	www.alpi-group.eu
+node	11888323562	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/senoner-tinderla/1098FF5E65E749B59F3955E4AE8CB82D/
+node	11890818222	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/mk-by-malsiner/59519DB5CA5D41FCD8A9AC221DE9FB00/
+node	11891016875	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/mk-by-malsiner/59519DB5CA5D41FCD8A9AC221DE9FB00/
+node	11903427851	https://www.gandolfi.bz.it/
+node	11903427852	https://www.gandolfi.bz.it/
 way	22890146	https://www.prags.bz/en
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
@@ -6893,6 +6914,7 @@ way	117682678	http://www.faurisnc.it/
 way	117984542	https://www.ekla.it/
 way	117991608	http://www.fauri.it/
 way	117991830	http://www.flam-bz.com
+way	118218390	http://www.satrivadelgarda.it/0/capannasantabarbara/1/1905/page.aspx
 way	118714287	https://www.athabaska.info/
 way	118823198	https://www.merano-suedtirol.it/de/meran/hotel-unterkunft/camping.html
 way	118934295	http://www.scalelorenzetti.com
@@ -7306,6 +7328,7 @@ way	155303872	http://www.haus-platzer.com/
 way	155303893	https://www.hotel-stilfserhof.com/
 way	155303921	https://www.hoteltraube.it/
 way	155305530	https://www.stilfs.it/
+way	155401944	https://www.hanigerschwaige.com
 way	155403549	https://www.cyprianerhof.com
 way	155407553	https://www.franco.it/
 way	155438568	http://oberraut.it/de/gasthof.html
@@ -7728,8 +7751,11 @@ way	209135712	https://www.brugghof.com/
 way	209145148	https://www.cascade-suedtirol.com/
 way	209265890	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/alpenhotel-piz-seteur/D5AE0187E93711D3A09D006097A8F6AC/
 way	209266124	https://www.seiseralm.it/it/esperienze-e-piaceri-culinari/buoni-sapori/ristoranti-e-bar/rid-DE9AD91142264401845E73D0BD19ED02-g-baita-murmeltierhuette.html
+way	209266172	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-gardena/gardena-groednerhof-gourmet-hotel-spa/824D84E229E711D599D20050DA7125DB/
 way	209266345	https://www.villa-laurin.de/
+way	209266431	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-gardena/apartments-oswald/824D861729E711D599D20050DA7125DB/
 way	209266564	https://www.dolomitenhof.it/
+way	209266635	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-gardena/hotel-cosmea/824D84DF29E711D599D20050DA7125DB/
 way	209612964	https://www.residence-vier-pfoten.com/
 way	209824135	https://www.parcopan.org/
 way	210004305	http://www.rifugiotreviso.it/
@@ -8728,6 +8754,7 @@ way	386316259	https://www.gatrentino.it/
 way	386317267	https://www.gatrentino.it/
 way	386376071	http://www.mojaristorante.it/#modern-organic-thai
 way	386630383	https://www.ictrento3.it/
+way	386658780	https://www.ronsolhof.com
 way	387892057	http://senzabarriere.org/
 way	387931172	https://www.ristorante-da-anita.com/
 way	389279289	https://www.finstral.com/
@@ -8742,6 +8769,7 @@ way	395937448	https://www.prags.bz/en
 way	395937449	https://www.prags.bz/en
 way	396041296	https://musikantenstadl.it/
 way	396942188	https://www.rainell.com/
+way	396945277	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-gardena/albergo-sureghes/824D853029E711D599D20050DA7125DB/
 way	397789782	http://cantina.vallarom.com/
 way	398304424	https://sites.google.com/site/moenahome
 way	398759523	https://www.prags.bz/en
@@ -9121,6 +9149,7 @@ way	710698839	https://www.hotel-hidalgo.it/
 way	712066851	http://www.waldealm.it
 way	712199910	https://www.comune.cavizzana.tn.it/
 way	713864682	https://www.dalmassimogoloso.com/
+way	715353931	https://biblio.bz.it/terlan
 way	718101272	https://www.reiden.it/
 way	718208714	https://www.comune.ledro.tn.it/Territorio/Vivere-Ledro/Strutture-Pubbliche/Sale-Pubbliche/Auditorium
 way	722842408	https://www.isera-rovereto.it/
@@ -9261,6 +9290,7 @@ way	1024873651	https://www.garnilabercia.com/
 way	1030872814	https://jochgrimm.com
 way	1031595812	https://www.ziplinemontepana.com/
 way	1033549866	https://www.visitfiemme.it/en/more-info/fiemme/all-fiemme/Snowpark-Malga-Varena_isd_91340
+way	1037945895	https://www.valgardena.it/en/addresses/detail/base/poi/ortisei-val-gardena/buteeiga-dal-pan-hofer/2011D89674EC7A157B4C6B9FA12226B2/
 way	1040180621	https://www.atleticavalledicembra.it/
 way	1044538098	https://www.demenego.it/punti-vendita/rovereto/
 way	1044659454	http://www.burggrafenamt.com/it/montagne-ed-escursioni/sentieri-delle-rogge/roggia-di-lagundo.html
@@ -9407,6 +9437,7 @@ way	1257840145	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-g
 way	1263037387	https://www.moerlhof.com
 way	1268693537	https://www.sat-mori.it/sezione/parco-boulder/
 way	1272991342	https://www.ultenerhof.com/
+way	1281231985	https://www.gruppospes.it/servizi/rsa-residenza-sacro-cuore
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -10834,6 +10865,7 @@ relation	17211191	https://www.bertaminiserramenti.it
 relation	17233442	https://www.valsuganasport.it/
 relation	17265244	https://www.lavaze.com/it/inverno/piste
 relation	17405562	https://noi.bz.it/
+relation	17582413	https://www.sat.tn.it/
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -11036,6 +11068,7 @@ node	1198858546	https://www.tempimoderniorologi.it/
 node	1198858975	http://www.tomasigioielli.eu/
 node	1200892929	http://www.fioreriadaaldo.it/
 node	1211136673	http://www.tastiko.it/
+node	1214589445	https://www.conad.it/ricerca-negozi/tuday-conad-piazza-smaria-maggiore-1-38122-trento--010584
 node	1220020492	https://www.cannabisstoreamsterdam.com/
 node	1220020564	https://www.dameate.com/
 node	1220020579	http://www.centrofelix.it
@@ -11417,7 +11450,7 @@ node	3587799126	https://www.pizzol-hof.com/
 node	3627001074	https://www.masozepp.it/
 node	3634529334	https://www.bersntol.it/Da-vedere/De-Mil
 node	3651003378	https://www.hotel-anabel.com/
-node	3657582980	https://snaltnerhof.it/
+node	3657582980	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-gardena/garni-hotel-snaltnerhof/824D85C329E711D599D20050DA7125DB/
 node	3658506325	http://www.lajen.com/
 node	3685075907	http://www.hotelcondor.com
 node	3693890436	https://www.sukiyosushi.com/
