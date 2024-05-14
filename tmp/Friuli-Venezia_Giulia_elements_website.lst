@@ -124,6 +124,7 @@ node	616107532	https://www.lafrasca.com/
 node	618983974	https://www.gssg.it/grotta-nera/
 node	623869157	https://www.gruppobosco.it/
 node	632190803	https://www.palacehotelmoderno.it/
+node	665935115	http://www.agri3.it/
 node	669962108	https://www.confartigianatoudine.com/
 node	669962123	http://www.aquilanera.biz/
 node	671788416	http://www.vesnabrezina.it/novo/sl/plessi/otroski-vrtec-v-mavhinjah
@@ -1556,9 +1557,6 @@ node	6200970840	http://www.caiforni.it
 node	6212669442	https://6icudine.gov.it/
 node	6212739149	https://sites.google.com/6icudine.edu.it/infanzia-forte/home
 node	6212833190	http://www.liceopercoto.ud.it
-node	6212870828	https://www.icudine.it/
-node	6212878559	http//4.icudine.gov.it/
-node	6212881985	http//4.icudine.gov.it/
 node	6212888837	http//4.icudine.gov.it/
 node	6212892740	http//4.icudine.gov.it/
 node	6212910920	https://www.icudine.it/
@@ -2434,14 +2432,18 @@ node	11770976367	https://www.agliamici.it/
 node	11775813422	https://www.geoparcoalpicarniche.org/it/geositi/successione-triassica-del-monte-bivera/
 node	11778072685	http://www.supermercato-bertocchi.com/
 node	11789471256	https://www.apropositodigatsby.it/
-node	11801491043	http://www.poliziadistato.it/
+node	11801491043	https://www.poliziadistato.it/
 node	11810023232	http://www.agriturismomalgavalli.it/
 node	11828527750	https://www.ferriauto.it/
 node	11828527751	https://www.ferriauto.it/
-node	11836913894	http://www.iamspazioeventi.it/
+node	11836913894	https://www.iamspazioeventi.it/
 node	11851439340	https://enotecananut.eatbu.com/
+node	11862015939	https://www.doctolib.it/medico-di-medicina-generale/bagnarola/tiziana-zanco
 node	11882088954	https://www.birragarlatticosta.it/
 node	11886358908	https://jozefstefan.org/
+node	11892982744	https://www.motorcycle-store.it/
+node	11896809767	http://www.realhumanrights.org/
+node	11896847889	http://bandabagnarola.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	26978622	https://campingalbosco.it/
@@ -2591,6 +2593,7 @@ way	36263281	https://www.comune.codroipo.ud.it/
 way	36264929	https://www.fossamala.it/
 way	36266041	https://www.ucicinemas.it/
 way	36273328	https://www.sofimspa.it/
+way	36277628	https://www.vivaitrevisan.it/
 way	36277656	http://www.nuotosanvito.it
 way	36281702	https://www.allequerce.com/
 way	36281982	http://www.camalvani.it
@@ -2724,9 +2727,10 @@ way	36427284	http://www.underleaf.eu
 way	36428883	https://www.farodellavittoria.it/
 way	36428941	http://alfaelettronica.com
 way	36429712	https://www.peressini.it/
+way	36430040	http://www.officinaemmecar.com/
 way	36430043	https://www.vetreriatramontin.it/
-way	36430366	http://www.ispadue.it/
-way	36430373	http://www.menardisnc.it/
+way	36430366	https://www.ispadue.it/
+way	36430373	https://www.menardisnc.it/
 way	36430389	https://www.friulpack.it/
 way	36430391	https://www.allus.it/
 way	36430574	http://www.costrusionlen.it/
@@ -2772,6 +2776,7 @@ way	36676286	http://www.albergotrattoriaalcastello.com
 way	36677702	http://marzona.net/
 way	36677839	https://www.cai-fvg.it/sentieri-e-rifugi/rifugi-e-opere-alpine/opere-alpine/616-bivacco-d-mazzeni/
 way	36677854	http://www.caitarvisio.it/capanna--brunner-.html
+way	36681404	https://www.facebook.com/fioreriatrevisan/
 way	36684437	https://dolina-pieve.eu/
 way	36684594	http://www.montegrisa.org
 way	36684658	http://www.parrocchia-sanmarco.it/
@@ -3079,7 +3084,7 @@ way	304348227	https://www.aipioppi.it
 way	308385834	https://www.turismofvg.it/quota-298-dosso-della-trincea-museo-all-aperto-del-monte-ermada
 way	309124478	https://www.globomoda.com/
 way	325173958	https://www.turismofvg.it/rnode/28609
-way	329324109	https://www.supermercatizazzeron.com/
+way	329324109	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/6792-trieste-cattinara.html
 way	331192411	https://www.puntoram.it/
 way	332028095	https://www.camuliner.com/
 way	332866744	https://www.camuliner.com/
@@ -3365,6 +3370,7 @@ way	1274476400	https://www.newstarwood.com/
 way	1275508844	https://www.sereniorizzonti.it/
 way	1277073365	https://nuovagema.it/
 way	1278258175	http://www.lacortedeivizi.it/it/
+way	1282017022	http://www.erediquerin.com/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
