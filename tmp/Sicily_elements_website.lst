@@ -426,6 +426,7 @@ node	2264288510	https://www.madonielive.com/index.php/privati/load/810
 node	2264291667	https://www.gabrielepicco.com/
 node	2264598577	http://www.laconchiglia-ristorante.it
 node	2271675815	https://www.poste.it
+node	2275189762	http://www.ggbistrot.com/
 node	2302377838	http://www.lanassastromboli.it
 node	2304264001	https://www.enel.it/punto-enel/
 node	2304264036	https://www.enel.it/punto-enel/
@@ -1397,6 +1398,7 @@ node	4895538059	https://www.poste.it
 node	4906784302	http://www.legiarebeb.it/
 node	4907701282	http://www.aitreparchibb.it/
 node	4920358903	https://www.entefaunasiciliana.it/centro%20visitatori.html
+node	4920485072	https://www.facebook.com/ristorantecampisimarzamemi
 node	4920485073	http://www.liccamuciula.it
 node	4920542797	https://www.poste.it
 node	4920565533	https://www.poste.it
@@ -3671,6 +3673,13 @@ node	11876651950	https://www.comune.nizzadisicilia.me.it/jo/biblioteca-comunale
 node	11883865922	https://hkennedy.it
 node	11895566913	https://mannanoto.it
 node	11895634895	https://cdspedalieribronte.edu.it
+node	11900395098	https://www.brontesecondocircolo.edu.it
+node	11901078115	https://www.brontesecondocircolo.edu.it
+node	11903984150	https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-territorio-ambiente/comando-corpo-forestale-regione-siciliana
+node	11904372219	http://www.scuolacastiglione.edu.it/
+node	11906772265	https://www.suitemarzamemi.it/
+node	11907073774	http://www.iscapizzi.edu.it/
+node	11911699787	https://www.brontesecondocircolo.edu.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4732,7 +4741,6 @@ way	533896213	https://www.istitutoeinaudi.edu.it/
 way	533934314	https://www.poste.it
 way	538351327	http://nuovasudimballaggi.it
 way	538353380	https://pomodorisecchi.com/
-way	540088619	https://www.brontesecondocircolo.edu.it
 way	542530824	https://www.milmotors.it/milnautica/
 way	542530831	http://www.cannistrainfissi.it/
 way	542825092	https://www.portitalia.eu/
@@ -4798,6 +4806,7 @@ way	632648390	https://www.conad.it/ricerca-negozi/negozio.008101.html
 way	638568583	https://www.casalesalerno.it/
 way	638832858	www.holidayparksnc.it
 way	643645582	https://www.lafornacecentrocommerciale.com/
+way	648584373	https://ideavacanzepa.it/
 way	655328750	http://villagiocolano.it
 way	655433684	https://www.diveedivine.it/
 way	663909276	https://www.bowlingmanhattan.com/
@@ -5430,11 +5439,7 @@ way	1160162205	https://www.kamarinapitstop.com/
 way	1160212515	https://www.campinglapalma.com/
 way	1160298133	https://www.isradice.edu.it
 way	1160448691	https://www.bioparcodisicilia.it/
-way	1160580023	https://www.brontesecondocircolo.edu.it
 way	1160580025	https://www.brontesecondocircolo.edu.it
-way	1160580026	https://www.brontesecondocircolo.edu.it
-way	1160580042	http://www.scuolacastiglione.edu.it/
-way	1160580055	http://www.iscapizzi.edu.it/
 way	1160580058	http://www.iscapizzi.edu.it/
 way	1160580099	http://www.iscapizzi.edu.it/
 way	1160580107	http://www.hotelparcodelletna.it/
@@ -5452,7 +5457,6 @@ way	1164960641	https://www.icsfalconeacicastello.edu.it/
 way	1164960698	https://www.iisamari.edu.it/
 way	1165233986	https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-territorio-ambiente/comando-corpo-forestale-regione-siciliana
 way	1165233990	https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-territorio-ambiente/comando-corpo-forestale-regione-siciliana
-way	1165233997	https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-territorio-ambiente/comando-corpo-forestale-regione-siciliana
 way	1165234007	https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-territorio-ambiente/comando-corpo-forestale-regione-siciliana
 way	1165491762	https://www.icsdecruyllasramacca.edu.it/
 way	1165491783	https://www.icsdecruyllasramacca.edu.it/
@@ -5757,6 +5761,7 @@ way	1276586044	https://www.cdbelpasso.edu.it
 way	1276586048	https://www.cdbelpasso.edu.it
 way	1276586059	https://www.cdbelpasso.edu.it
 way	1280911260	https://www.hoteltermeacquagrazia.com/
+way	1282742153	http://www.marullospa.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6515,6 +6520,7 @@ node	7106569918	https://www.sanvitolocaposhuttle.com
 node	7162048723	http://www.scuolasubpalermo.it
 node	9510275015	https://www.thecrag.com/climbing/italy/central-and-southern-italy/sicily/area/1221011889
 node	9810551033	https://it.sicilyrealty.com/apt-cortile-carini-sciacca
+node	11906772266	https://www.campisiconserve.it/
 way	420556066	http://www.casaquasimodo.it/
 way	459158351	http://www.prodromo-vegetazione-italia.org/scheda/rumici-astragalion-siculi/636
 way	485717699	http://www.comune.noto.sr.it/la-cultura/palazzo-nicolaci/
