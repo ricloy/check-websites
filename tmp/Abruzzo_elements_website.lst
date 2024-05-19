@@ -22,7 +22,6 @@ node	70993266	https://comune.maglianodemarsi.aq.it/
 node	70993342	https://www.comune.montesilvano.pe.it/
 node	70993483	https://comune.toccodacasauria.pe.it/
 node	70993494	https://www.tuttitalia.it/abruzzo/38-serramonacesca/
-node	70993644	http://www.comune.silvi.te.it/
 node	70993774	https://italia.indettaglio.it/ita/abruzzo/colledara.html
 node	70993788	https://italia.indettaglio.it/ita/abruzzo/castelli.html
 node	70993833	https://www.comune.atri.te.it
@@ -473,6 +472,7 @@ node	4427484189	http://www.mielebiologico.it
 node	4435643089	https://ic1chieti.edu.it/
 node	4441607890	https://icmichettifrancavilla.edu.it/plessi/scuola-primaria-foro/
 node	4441625090	https://www.icrodari.edu.it/pagine/scuola-primaria-saline
+node	4484344190	https://www.risparmiocasa.com/store/montesilvano/
 node	4485216937	http://www.agriturismolamandra.it
 node	4492885552	https://www.regione.abruzzo.it/xcultura/index.asp?modello=torrech&servizio=xList&stileDiv=monoLeft&template=intIndex&b=menuTorr3787&tom=787
 node	4493235744	https://www.puntaderci.it/la-riserva.html
@@ -2985,6 +2985,8 @@ node	11849533886	https://goodyswingschool.altervista.org/
 node	11866318695	https://www.adrizoo.com/
 node	11877196329	https://pizzeriaaltagliolospuntino.eatbu.com/?lang=it
 node	11879257015	https://www.mareazzurro.eu/
+node	11906602039	https://www.brokerconsult.it/
+node	11906673388	https://pescara3.tecnocasa.it/pescara/pescara-porta-nuova/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -3943,9 +3945,12 @@ way	1256598815	https://www.comune.alanno.pe.it/it/point-of-interest/742178?categ
 way	1259323818	https://www.coocori.it/
 way	1259743107	https://www.comune.montazzoli.ch.it/it
 way	1271393350	https://sanita.regione.abruzzo.it/canale-ospedali/ospedale-di-castel-di-sangro
+way	1282432449	https://roccaraso.net/
+way	1283634491	https://www.elenaclubresort.com/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
+relation	42078	http://www.comune.silvi.te.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2046930	http://www.acmerecording.it/
 relation	3159222	https://www.parcomajella.it/Sentieri-nel-Parco.htm
@@ -4034,7 +4039,6 @@ relation	12569594	https://it.wikiloc.com/percorsi-mountain-bike/chieti-calanchi-
 relation	12574793	https://aurum.comune.pescara.it
 relation	12585938	https://www.villese.it/index.php/en
 relation	12593198	https://ic9pescara.edu.it
-relation	12597440	http://www.caiamatrice.it/sentieri-e-itinerari/
 relation	12598894	https://il-pozzo-dei-desideri-castelnuovo-perugia.hotelmix.it
 relation	12611832	https://camminodeibriganti.it
 relation	12611833	https://camminodeibriganti.it
