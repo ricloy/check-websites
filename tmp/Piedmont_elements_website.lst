@@ -1209,7 +1209,6 @@ node	2992837031	https://www.pizzorante.biz/
 node	2995014048	https://www.nh-hotels.com/hotel/nh-torino-centro
 node	2995375956	https://www.marcellinearona.it/
 node	3002488936	https://www.cooperativaisola.org/
-node	3005106330	https://www.gpchannel.com/
 node	3010509301	https://toolboxcoworking.com/
 node	3013074477	https://www.sun.novara.it/
 node	3018568580	https://www.caimacugnaga.org/sezione/rifugi/25-rifugio-sella
@@ -2036,7 +2035,7 @@ node	4359216134	http://www.rafting-canoa.it/index.php?id=3642&L=3
 node	4359221878	https://www.ostellocuneo.com/
 node	4359242088	https://www.ostellotorino.it/
 node	4359256374	http://ostellolasosta.blogspot.de/
-node	4359267957	http://www.ostelloconterosso.it/Home.html
+node	4359267957	https://www.casaconterosso.it/
 node	4359400849	https://www.trattoriavigezzina.it
 node	4359859536	http://ostellodelpo.org/index.html
 node	4359866939	https://keluar.it/site/gestioni/open011/
@@ -2519,7 +2518,7 @@ node	4734735648	https://www.homezon.it
 node	4734735809	http://www.yukihanaristorantegiapponese.it/
 node	4734736087	https://la-birroteca-diner.business.site/
 node	4734763093	https://residencestar.com/ita/residence-torino.php
-node	4734763295	http://www.ristorantezhengyang.com/
+node	4734763295	https://www.ristorantezhengyang.com/
 node	4734763352	https://www.rambalditorino.com/
 node	4734764206	https://www.polibike.it/
 node	4734764990	https://www.pizzerialasarda.it/
@@ -2686,7 +2685,6 @@ node	4935811798	https://it-it.facebook.com/pg/albarondisavoia/about/?ref
 node	4936420561	https://www.trattorialabottestresa.it/
 node	4936420565	http://www.via-mazzini.com
 node	4937918034	https://www.comune.trinita.cn.it//
-node	4950520522	http://www.tobike.it/
 node	4950860992	http://www.tobike.it/
 node	4952091883	https://www.caschistocktorino.it/
 node	4952265621	http://www.tobike.it/
@@ -5841,6 +5839,7 @@ node	11199692929	http://www.asl13.novara.it/intranet/Territorio/Guardia-Me/Sedi-
 node	11200043842	https://autominici-giuseppe.business.site
 node	11200063505	https://www.gommistatorino.com
 node	11204165938	https://www.repower.com/it/dina/
+node	11204970910	https://www.facebook.com/mombercellitrattoria/
 node	11206132634	https://danieladessipsicologa.com/
 node	11206453644	http://www.graficheambert.com
 node	11210953929	https://oddeninoassicura.it
@@ -6041,7 +6040,7 @@ node	11833007067	https://www.amagmobilita.it/trasporti-alessandria/orari-autobus
 node	11835703320	https://www.lalenza.it/ristorante/
 node	11838833696	https://www.lalenza.it/residence-il-tiglio/
 node	11843441664	https://www.cuorcuma.com/
-node	11869387669	http://hotelsitalian.com
+node	11869387669	https://hotelsitalian.com/
 node	11871444880	https://www.lecattedrali.com/
 node	11872611359	https://www.pizzeriasportello.it/
 node	11878372633	https://www.labriccola.com/
@@ -6056,6 +6055,11 @@ node	11897476327	https://trattoriasanpietropecetto.eatbu.com
 node	11897531773	https://lerbi.com
 node	11898100208	https://www.avocuddlecafe.it/
 node	11900407184	https://youtube.com/@WrcAdventures
+node	11909393670	https://www.simpolagency.com
+node	11909903905	https://www.gpchannel.com/
+node	11915612971	https://www.novaratoday.it/attualita/novara-ristorante-langhe-specialita.html
+node	11917449835	http://www.universohotel.it/
+node	11917492799	https://www.ristorantelacapricciosa.it/
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -11273,6 +11277,7 @@ node	2376287541	http://fornoalpigraie.it/img/IMG_20130706_165055s.jpg
 node	2376287542	http://fornoalpigraie.it/img/IMG_20130706_165121s.jpg
 node	2385340755	https://www.thecrag.com/de/klettern/italy/mont-orfano/area/408571107
 node	2420282734	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127E
+node	2502755111	https://identify.plantnet.org/it/k-middle-europe/observations/1022378313
 node	2624742499	http://www.inmondadori.it/app/storeLocator/detail?pickUpPoint=1023
 node	2635311005	http://www.inps.it/AgendaSedi/DatiSede.asp?D6=01V81V02V00
 node	2638040736	https://www.facebook.com/pages/la-bottega-delle-lingue/256169607634?id=256169607634&sk=info
@@ -11648,7 +11653,7 @@ relation	8765336	https://percorsi.estmonterosa.it/f/F99/F99.kml
 relation	8824538	https://percorsi.estmonterosa.it/v/VL2/VL2.kml
 relation	8858286	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
 relation	8858875	https://percorsi.estmonterosa.it/NOAV/VR3/VR3.kml
-relation	8888442	https://percorsi.estmonterosa.it/NOAT/T36/T36.kml
+relation	8888442	https://percorsi.estmonterosa.it/t/T36/T36.kml
 relation	8907209	https://percorsi.estmonterosa.it/g/G00b/G00b.kml
 relation	8907315	https://percorsi.estmonterosa.it/g/G00a/G00a.kml
 relation	8907376	https://percorsi.estmonterosa.it/h/H00(1).kmz
