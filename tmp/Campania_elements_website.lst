@@ -1056,6 +1056,7 @@ node	6736458589	http://studioarsnova.it/
 node	6741849649	https://hotelmamela.hotelscheck-in.com/en/
 node	6741907420	https://www.agenziademanio.it/opencms/it/agenzia/strutturaorganizzativa/direzioniterritoriali/campania/
 node	6743933483	https://www.farmaciedeigolfi.it/t/farmacia/pozzuoli
+node	6746963286	https://linktr.ee/pizzataxiarcofelice
 node	6758624783	www.lacasadeltortellino.it
 node	6759579985	http://kennetstreet.it
 node	6771134264	https://www1.agenziaentrate.gov.it/indirizzi/agenzia/uffici_locali/lista.htm?m=2&pr=CE
@@ -1841,6 +1842,7 @@ node	10009189172	https://www.it.skechers.com
 node	10013650650	http://www.theship.it/
 node	10014171184	https://www.booking.com/hotel/it/giuseppe-amp-giuseppe.html?aid=376372;label=it-5Srxg0e1twJI_ryrey2UnQS267778030993:pl:ta:p1:p22.389.000:ac:ap1t1:neg:fi:tiaud-294889295893:kwd-65526620:lp20533:li:dec:dm;sid=0c7be8913f46cbac0366e17b4cc1c397;frindrecv=1
 node	10014265512	https://www.villagervasio.it/
+node	10016184026	https://www.cisbu.it/
 node	10037618979	https://www.supermercatipiccolo.it/
 node	10037977511	https://www.leaxidie.it/
 node	10045775530	https://www.scoutmenu.it/dettagli-locale.php?id=385
@@ -2101,7 +2103,6 @@ node	11074773111	https://www.smeraglia.clinic/
 node	11074773112	https://www.sanident.com/
 node	11074773122	https://www.puglieseottica.it/
 node	11074967609	http://www.babettegroup.it/
-node	11076795929	https://www.pc-tecnology.it/
 node	11077374504	https://www.stradeanas.it/it/struttura-territoriale-campania
 node	11087093940	https://linktr.ee/gattobistrot
 node	11089336595	https://iborbonipizzeria.com/
@@ -2339,6 +2340,9 @@ node	11879205778	https://Umbertoprimonapoli.com
 node	11881016827	http://www.cauterochampagne.it/
 node	11894474277	https://www.kromlaboro.it
 node	11898883101	https://www.action.com/it-it
+node	11907045248	https://www.facebook.com/novellinoantonio65/
+node	11915770867	http://www.lasergamecaserta.it
+node	11915797679	https://www.agenziaentrateriscossione.gov.it/it
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2351,7 +2355,6 @@ way	29497382	www.centromercatoduenapoli.it
 way	29702407	https://www.nocerina.it
 way	43564404	https://www.itimedi.it/
 way	43565068	https://parconazionaledelvesuvio.it/pnv/visitailparco/sentiero_somma.asp
-way	43565075	https://parconazionaledelvesuvio.it/pnv/visitailparco/sentiero_somma.asp
 way	44843964	https://parconazionaledelvesuvio.it/pnv/visitailparco/sentiero_lava.asp
 way	59559263	http://pompeiisites.org/Sezione.jsp?titolo=Casa+della+Venere+in+Conchiglia+(II+3%2C3)&idSezione=73
 way	73396612	https://www.torredelsaracino.it/
@@ -3534,6 +3537,12 @@ relation	4814065	https://www.caimontilattari.it/sentiero/333/
 relation	4814067	https://www.caimontilattari.it/sentiero/333a/
 relation	4814077	https://www.caimontilattari.it/sentiero/351a/
 relation	4814078	https://www.caimontilattari.it/sentiero/351b/
+relation	4814080	https://www.caimontilattari.it/sentiero/353/
+relation	4814081	https://www.caimontilattari.it/sentiero/354/
+relation	4814083	https://www.caimontilattari.it/sentiero/354a/
+relation	4814086	https://www.caimontilattari.it/sentiero/359/
+relation	4814087	https://www.caimontilattari.it/sentiero/361/
+relation	4814090	https://www.caimontilattari.it/sentiero/361b/
 relation	4827347	https://www.caimontilattari.it/sentiero/349b/
 relation	4840057	https://www.caimontilattari.it/sentiero/309/
 relation	5407110	http://www.museoalfonsiano.it/node/40
