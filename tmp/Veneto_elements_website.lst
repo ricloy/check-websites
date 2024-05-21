@@ -1704,7 +1704,6 @@ node	3774621747	https://www.labicicletteria.eu/
 node	3776350753	https://chatquirit.it/
 node	3776400855	http://www.hotelpalazzovitturi.com
 node	3776410750	https://www.ca-contessa.com/
-node	3780798253	http://www.osteriaparcorubano.it/
 node	3781869701	http://www.equipeetaevolutiva.it
 node	3789356034	http://www.lapignara.it
 node	3792885365	https://www.agriturismovillagreggio.com/
@@ -2218,7 +2217,7 @@ node	4531887982	https://daspillo.it/
 node	4531888009	https://www.trattorianorge.com/
 node	4531889985	https://bastianosteria.it/
 node	4531895889	https://www.studiomunarolo.it/
-node	4531901531	https://cavasingiardinaggio.it/
+node	4531901531	https://consorzioagrariotreviso.it/it/
 node	4531903793	https://www.shoku.it/
 node	4531903821	https://www.trevisoricambi.it/
 node	4531914399	https://pizzeriazerottouno.it/
@@ -3213,7 +3212,7 @@ node	6216786986	https://www.lataverna1994.com/
 node	6227437802	https://fablabvive.it/wp/
 node	6230686315	https://www.novarad.it/vicenza.aspx
 node	6231024303	https://www.bandballacadirosa.com/
-node	6236567436	https://chainblock.it
+node	6236567436	https://chainblock.it/atm/
 node	6236602365	https://csirovigo.it
 node	6240553749	https://www.facileristrutturare.it/
 node	6241235425	https://www.intavolapizzaecucina.com/
@@ -4384,7 +4383,6 @@ node	7997440283	https://aimurazzi.it/
 node	7999828099	https://www.enistation.com/
 node	7999927247	https://www.temakinho.com/
 node	7999943136	http://www.marinato.it
-node	8000440104	https://www.casaperbellini.com
 node	8012516109	https://ladeliziaverona.it
 node	8012559536	https://www.panzere.it/
 node	8012565174	https://www.trattoriaalbersagliere.it
@@ -4626,6 +4624,8 @@ node	8748963834	https://quickdentalmed.it/
 node	8753097385	https://cryptolocalatm.com
 node	8753152316	https://www.facebook.com/radanabandovaphotography
 node	8760572012	https://www.agsm.it
+node	8761755012	https://viniciostocco.blogspot.com/2013/08/il-cavallo-nino.html
+node	8761770384	https://viniciostocco.blogspot.com/2013/09/icaro.html
 node	8765690569	https://www.gestioneservizipubblici.bl.it/
 node	8767380885	http://www.casadicuradiaz.it
 node	8770411569	https://www.locandalascuola.com/
@@ -4849,6 +4849,7 @@ node	9324889709	https://nordauto-toyota.it/sedi/nordauto-san-fior/
 node	9326682984	https://311verona.com/
 node	9326759501	https://www.io-computer.net/
 node	9330585648	https://www.ginnasticapatavium.it/
+node	9330585649	https://www.bikarting.com/
 node	9339228989	http://www.confortobike.it/
 node	9352915827	https://www.aambiolab.it/
 node	9354024894	https://dueville1.tecnocasa.it/dueville/prima-periferiaduevillepasso-di-rivapovolarovivaro/
@@ -6273,6 +6274,11 @@ node	11892012088	https://studiofranceschetti.com
 node	11897850510	http://www.coislha.net/
 node	11901205394	http://www.ecomuseograndeguerra.it/veneto/piave_grappa_montello/3_07a.php
 node	11902287309	https://saloneniko.it/
+node	11913835578	https://www.agriturismoipeccatidellaterra.com/
+node	11915623250	https://www.assaporito.com/trattoria-pizzeria/
+node	11917446369	http://Migross.it
+node	11917542038	http://www.nuovavetreria.com/
+node	11919869044	https://chaletmatilde.it
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6530,6 +6536,7 @@ way	112617192	https://www.marina.difesa.it/il-tuo-futuro-e-il-mare/formazione-in
 way	112800942	https://www.hotelolimpiacortina.com/it/home
 way	112801189	https://parrocchiacortina.it/le-chiese-succursali/chiesa-della-madonna-della-difesa/
 way	112802220	https://www.hoteloasi.it/
+way	112802357	http://cristallo.it
 way	112802538	https://www.sporthotelcortina.it/
 way	112802612	https://www.franceschiparkhotel.com/
 way	113688476	http://www.associazioneamicidellamusica.it
@@ -6739,6 +6746,7 @@ way	138861651	https://www.cpuvenezia.it/san-michele
 way	138863081	https://www.aulss3.veneto.it/index.cfm?method=mys.page&content_id=1860
 way	138867057	https://www.veneziarooms.com/
 way	138893173	http://www.liceolioy.it/
+way	138893840	https://www.ipab.vicenza.it/
 way	138894091	https://www.museicivicivicenza.it/it/mrr/villa_parco.php
 way	138894266	https://www.ostellovicenza.com/
 way	138894519	https://archiviodistatovicenza.cultura.gov.it/
@@ -8849,6 +8857,7 @@ way	1269081596	https://www.agricampeggiopadova.it/
 way	1269092561	https://casalsrl.eu/
 way	1270016891	https://www.noisanpaolo.it/orto-botanico-conservativo-busnello/
 way	1278859425	https://www.mcdonalds.it/
+way	1284878072	https://www.chaletmatilde.it
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -9199,7 +9208,6 @@ relation	6247627	https://www.caischio.it/
 relation	6343616	https://www.fiabverona.it/spip/
 relation	6390769	https://www.flixbus.de/busverbindung/fernbus-nuernberg-florenz-firenze
 relation	6427935	https://www.gardaland.it/
-relation	6498666	https://www.veneto.eu/EN/landscapes_Palladio/
 relation	6504729	https://www.muenchen-venezia.info/
 relation	6517239	http://www.caiasiago.it
 relation	6520568	http://www.caiasiago.it
@@ -9808,7 +9816,7 @@ node	2579387830	www.maisazi.it
 node	2618643718	http://www.mercatinousato.com/
 node	2618643719	https://mercatodelleoccasioni.com/
 node	2618643721	http://www.sportwayshop.com/
-node	2670568712	http:\\www.impianti-rm.it
+node	2670568712	http://www.impianti-rm.it
 node	2718677871	https://www.bonometti.it/
 node	2721631663	https://farmaciainternazionalecortina.it
 node	2733251107	http://www.playfantasypark.it
@@ -10528,6 +10536,7 @@ node	2435497843	https://www.planetmountain.com/english/Rock/crags/settore.html?i
 node	2460068331	http://www.wwwind.com
 node	2603490233	www.hotelvillaalba.it
 node	5495857384	https://www.planetmountain.com/english/Rock/crags/settore.html?idfalesia=42&idsettore=1
+node	6236567436	https://coinatmradar.com/bitcoin_atm/5718/bitcoin-atm-general-bytes-sona-centro-commerciale-la-grande-mela/
 node	7372893638	https://www.facebook.com/ciboeventi/
 node	7726380523	https://www.agriturismoacinatico.it
 node	7740279153	https://www.facebook.com/alfistomba/
