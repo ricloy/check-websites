@@ -415,6 +415,7 @@ node	4874454099	https://www.ilpratospoleto.com/index.php
 node	4874548903	http://www.caiterni.it/
 node	4887528823	https://www.podernovo.it/
 node	4889966332	https://www.caifoligno.it
+node	4901685056	https://www.comune.spoleto.pg.it/turismoecultura/punti-dinteresse/porta-ponzianina/
 node	4943576863	https://www.hotelathenaspoleto.it/
 node	4979023436	https://www.facebook.com/dolceesalatospoleto/
 node	4986178815	https://www.tavernadellospagna.it/
@@ -609,7 +610,6 @@ node	7985476743	https://ilnarcisorelaxsoulbody.com/
 node	7985501671	https://www.corpoeanima.it/
 node	8091610898	https://www.papatartufi.it/
 node	8118741351	https://www.cedrav.net/ecomuseo/
-node	8122090944	www.associazionelafortezza.it
 node	8151798116	https://www.biancorossoeverdure.it
 node	8154837499	http://www.villasensi.it/
 node	8208478164	https://www.molino49.com/
@@ -885,6 +885,8 @@ node	11882075300	www.cupumbria.it
 node	11904522109	https://www.repower.com/it/la-mobilita-elettrica/
 node	11915132771	https://www.cattolica.it/
 node	11915629463	https://www.menudigitale.io/factory-todi
+node	11928509134	https://www.hoteldeiduchi.com/
+node	11931610056	https://lnx.clarisseperugia.it/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -974,6 +976,7 @@ way	222603424	http://www.alessandrelli.eu/
 way	224748296	https://www.mulinaccino.it/
 way	224748301	https://www.torrebisenzio.com/
 way	225080564	http://www.casasereni.it/
+way	226225306	https://www.umbriatourism.it/it/-/chiesa-di-santa-maria-maggiore-spello
 way	226242135	https://www.comune.spello.pg.it/
 way	228701541	https://www.lapervincasa.info/
 way	229358867	https://www.fonteantica.it/
@@ -1239,6 +1242,7 @@ way	540219714	https://www.2circolospoleto.edu.it/jm4/
 way	540656127	https://www.sda.it
 way	541871478	http://www.primocircolospoleto.it/ita/
 way	543390093	https://www.alvecchioforno.com/
+way	543451612	https://m.iluoghidelsilenzio.it/articolo.html?id=chiesa-della-madonna-di-lugo-spoleto
 way	543655131	http://www.primocircolospoleto.it/ita/
 way	544583574	http://www.iluoghidelsilenzio.it/?p=91746
 way	546806232	https://www.circolodidatticocorciano.edu.it/scuola-primaria-bruno-ciari-di-chiugiana/
@@ -1368,7 +1372,6 @@ way	700829494	http://www.primocircolospoleto.it/ita/
 way	703288572	https://www.hotelsanluca.com/
 way	709569345	https://www.uslumbria2.it/pagine/distretto-di-foligno
 way	717721267	https://www.cdsamianto.com/
-way	718838185	https://www.hoteldeiduchi.com/
 way	726443432	https://chiesatonda.it/
 way	729710756	https://www.monasterodibose.it/fraternita/assisi
 way	731205825	https://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-vallo-di-nera/
@@ -1523,6 +1526,7 @@ way	1250057020	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-della-gine
 way	1253374289	https://www.iluoghidelsilenzio.it/chiesa-di-santa-lucia-sellano-pg/
 way	1253397505	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-della-neve-san-martino-di-sellano/
 way	1279651638	https://www.iluoghidelsilenzio.it/chiesa-di-san-pietro-in-tutorio-civitella/
+way	1286394352	https://turba.noblogs.org/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	1948091	https://chemindassise.org/
@@ -1734,6 +1738,7 @@ node	2337023142	https://www.assisihotelantonelli.it/
 node	3195383402	http://www.ristoranteilcavaliere.com
 node	3594203684	http://www.up.aci.it/perugia/
 node	4270656460	https://www.lakebikestore.it
+node	4528307077	https://www.carloni1989.it/
 node	4581702789	https://todi.ubiklibri.it
 node	4614970272	https://www.lietasosta.it/
 node	6206621145	https://www.lagiostrinadeicanape.it/servizi/la-giostrina.html
@@ -1747,6 +1752,7 @@ node	10570958563	http://www.suorefrancescanemissionariediassisi.org/suore/Immaco
 node	10571038162	https://www.alcantarineassisi.it/
 node	10573665597	https://www.agostinianespello.it/
 node	10580895199	https://www.birrificiocolfiorito.com/
+node	10758459973	https://www.pizzeriamarchigiana.it/
 node	10848122258	https://terrazza-farnese-belvedere-di-orvieto.business.site/
 node	10961427872	https://www.ristoranteilcantinoneperugia.com
 node	11078925541	https://birranursia.com/
@@ -1758,7 +1764,9 @@ node	11872122269	https://www.citytourperugia.it
 node	11874971676	https://anticaporchetteriagranieri.it
 node	11906824722	https://www.ristorantepicchioverde.com
 node	11916159148	https://fondazionemacsa.org/palazzo-degli-oddi/
+node	11931194124	https://www.lapiantadelte.it/shop/content/4-teaperugia-sala-da-te-punto-vendita-perugia-la-pianta-del-te
 way	43051908	https://santuariorivotortoassisi.org/
+way	106506111	https://www.santuarioeremodellecarceri.org/
 way	140678619	https://www.superconti.eu/punti-vendita/orvieto/
 way	149526977	https://www.santacolette.com/
 way	179935735	http://www.ilboschetto.com/
@@ -1778,6 +1786,7 @@ way	528899396	https://www.ilRoseto.com
 way	560118130	https://www.lagiostrinadeicanape.it/servizi/il-trenino.html
 way	588200103	http://www.canoaclubperugia.it
 way	620147295	http://www.cittadella.org/
+way	728195596	https://sanbenedettoalsubasio.it/
 way	757260586	https://panoramadincanto.it/
 way	835401677	https://villagabbiano.it/
 way	837491011	http://www.agriturismopoponi.it/
