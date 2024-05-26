@@ -426,7 +426,6 @@ node	2264288510	https://www.madonielive.com/index.php/privati/load/810
 node	2264291667	https://www.gabrielepicco.com/
 node	2264598577	http://www.laconchiglia-ristorante.it
 node	2271675815	https://www.poste.it
-node	2275189762	http://www.ggbistrot.com/
 node	2302377838	http://www.lanassastromboli.it
 node	2304264001	https://www.enel.it/punto-enel/
 node	2304264036	https://www.enel.it/punto-enel/
@@ -1329,7 +1328,6 @@ node	4621929748	https://www.villaggiopetruso.it/
 node	4631599789	https://www.icvittorioemanueleterzo.edu.it/
 node	4634339292	www.facellamoto.com
 node	4634344317	www.facellamoto.com
-node	4636347527	https://www.dakoky.com/
 node	4643796838	www.ristorantiitaliani.it
 node	4654080992	https://bnl.it
 node	4666651287	https://valverdesrl.com/
@@ -1489,6 +1487,7 @@ node	5201555224	http://www.bedandbreakfast-ragusa.it
 node	5204654421	https://www.agrisit.com/
 node	5207774474	https://www.hotelmonrepostaormina.com/
 node	5211292383	https://www.altraforma.net/
+node	5220403404	info@biscottitumminello.it
 node	5225018422	http://www.thebitcoincenter.net
 node	5225046326	https://www.acasadiamici.com/
 node	5225858692	http://www.casavacanzescacciapensieri.com/
@@ -2172,7 +2171,6 @@ node	7091125636	http://www.labussolapedara.it/
 node	7091854665	https://www.etnaviva.it/
 node	7105144761	https://palermo37.tecnocasa.it/palermo/centro-tribunale-cala-massimo/
 node	7105168295	http://www.otticacensuales.com/
-node	7105743737	https://www.tevere60.it/
 node	7106747017	http://www.magnetico.work/
 node	7109039441	https://www.cdra.it/
 node	7109090989	http://www.sampolo246.com/
@@ -3105,7 +3103,6 @@ node	10090429517	https://www.cisalfasport.it/
 node	10090457833	https://www.mondodivani.net/
 node	10091555286	https://bardellangolo.it/
 node	10095842036	https://www.ilcubosrl.com/
-node	10098489540	https://www.tevere60.it/
 node	10099148580	https://www.mangiafico1972.it/
 node	10102155007	https://www.caitaormina.it/
 node	10102972318	https://www.conad.it/ricerca-negozi/margherita-conad-via-filippo-cordova-21-90100--palermo--007580
@@ -3680,6 +3677,11 @@ node	11904372219	http://www.scuolacastiglione.edu.it/
 node	11906772265	https://www.suitemarzamemi.it/
 node	11907073774	http://www.iscapizzi.edu.it/
 node	11911699787	https://www.brontesecondocircolo.edu.it
+node	11917878742	http://www.ggbistrot.com/
+node	11917878745	http://www.ggbistrot.com/
+node	11921664969	https://commers.it
+node	11922620024	https://www.casabellinipalermo.it/
+node	11931642714	https://www.tripadvisor.it/Restaurant_Review-g1187116-d10678380-Reviews-La_Siesta_Trattoria_Pizzeria_Cucina_Tipica_Servizio_Bar-Naso_Province_of_Messin.html
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -5762,6 +5764,9 @@ way	1276586048	https://www.cdbelpasso.edu.it
 way	1276586059	https://www.cdbelpasso.edu.it
 way	1280911260	https://www.hoteltermeacquagrazia.com/
 way	1282742153	http://www.marullospa.it/
+way	1284691556	http://www.marconiscuola.edu.it/
+way	1284691562	http://www.marconiscuola.edu.it/
+way	1284691566	http://www.marconiscuola.edu.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6415,7 +6420,7 @@ node	11750908434	https://ucpme.it/
 node	11751790893	https://www.bbvianazionale.it/it/
 node	11757424487	www.lancoramilazzo.it
 node	11835685565	https://www.eolianresidence.com/
-node	11847846132	http://www.seleneimbesi-immunoallergologa.it
+node	11847846132	https://www.seleneimbesi-immunoallergologia.it/
 way	34227431	http://liceomazara.edu.it/
 way	34314619	https://www.zoculture.it/
 way	35264757	http://www.wwfpreola.it/
