@@ -187,6 +187,7 @@ node	1413209150	http://www.pizzeriadesiderio.it/Molo71.aspx
 node	1413614977	https://www.taverna41.com/
 node	1413615044	https://www.hotelaquamarina.it/
 node	1417325631	https://bluarenahotel.it/
+node	1421248376	https://m.iluoghidelsilenzio.it/articolo.html?id=eremo-della-madonna-del-sasso-valleremita
 node	1429480094	http://www.comune.ancona.it/ankonline2/it/uffici/biblioteche/index.html
 node	1454752060	http://www.osteriadeipigliapochi.it
 node	1457111285	https://www.ilgiogo.it/
@@ -721,7 +722,7 @@ node	5881009063	https://www.nethesis.it/
 node	5893162282	http://www.otticadaros.com
 node	5893162489	https://www.osteriadallapeppa.it/
 node	5893162501	http://eusebicicli.com/
-node	5893162505	https://monnalisafano.it/
+node	5893162505	https://waikikipoke.it/
 node	5916267300	https://www.dimensioninascoste.it
 node	5923960613	http://www.beniculturali.marche.it/Ricerca/tabid/41/ids/69903/Fonte-Moscardina/Default.aspx
 node	5930272457	https://www.emporiofogola.it/
@@ -979,6 +980,7 @@ node	8934005748	https://www.futurmecurbania.com/
 node	8947501023	https://www.computernewfile.com/
 node	8947501024	http://www.winkstore.it/
 node	8980990149	https://www.vagninielettrodomestici.it/
+node	9001866044	https://www.sushiando.com/
 node	9004082437	https://www.facebook.com/Le-delizie-del-borgo-303640020471898/
 node	9012728288	http://www.la-scaletta.com
 node	9039589749	https://www.conad.it/ricerca-negozi/negozio.009834.html
@@ -1141,7 +1143,6 @@ node	10063930894	https://www.metaldomo.com/
 node	10063938169	https://linea3.com/
 node	10063951291	https://www.tecnofilm.com/
 node	10063959855	http://www.latabernabraceria.it/
-node	10089431372	https://ambiente.unicam.it/
 node	10110893272	http://www.finproject.it/
 node	10110915344	http://www.meccanicah7.it/
 node	10118407916	https://www.lacollinadellago.it/
@@ -1461,7 +1462,6 @@ node	11663940504	https://www.sscgarage.com/
 node	11668776533	https://www.informagiovaniancona.com
 node	11676343433	https://www.rina.org
 node	11682818832	https://www.farmaciaangelinisimplicio.it/
-node	11700362030	https://juris.unicam.it/
 node	11700389485	https://cinfo.unicam.it/
 node	11750546138	https://www.boscodoroshop.com
 node	11757892921	https://lidaste.it/?cat=1
@@ -1481,6 +1481,8 @@ node	11896489919	https://www.coopservizipavoni.it/
 node	11898997921	https://web.popup.lol/1142
 node	11910708805	https://www.bourmet.it/
 node	11911699148	https://gigliosanlorenzo.blogspot.com/
+node	11917978494	https://www.anticafarmaciadellospedale.it/
+node	11920480577	https://www.subito.it/vi/551785629.htm
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1769,6 +1771,7 @@ way	376940809	https://www.kinesissport.it/
 way	377192013	https://www.mdspa.it/punti-vendita/Marche/Ancona/827-Ancona
 way	377192030	https://www.cgilancona.it/orari-e-servizi/
 way	379334582	http://www.serboni.it
+way	382645913	https://www.centrofunerariomacerata.it/
 way	383595246	http://www.simmarpackaging.com/
 way	386164541	http://www.countryhousechiciabocca.it
 way	386205883	https://www.basilicasanpaterniano.it/
@@ -1821,6 +1824,7 @@ way	440671434	https://rifugiocollelecese.it/
 way	444189301	http://www.sidecar.it
 way	445824345	https://teatrodelleapi.it/
 way	447985152	https://www.corteconti.it/Home/Organizzazione/UfficiCentraliRegionali/UffMarche
+way	449663031	https://ambiente.unicam.it/
 way	449760449	https://www.unicam.it/
 way	449987997	https://www.serrealte.com
 way	450049810	https://www.comune.matelica.mc.it/museopiersanti/index.asp
@@ -1865,6 +1869,7 @@ way	620626312	https://www.jadrolinija.hr/
 way	622282841	https://icmonteurano.edu.it/
 way	623065621	https://www.hotelrivierasanbenedetto.it/
 way	628520806	https://www.portasantalucia.com/
+way	628769228	https://juris.unicam.it/
 way	631785741	http://fatar.com/
 way	632174675	http://www.museodiocesanofermo.it/
 way	632209592	https://www.liceoannibalcaro.edu.it/site/it/
@@ -2328,7 +2333,6 @@ node	10065100786	https://lasorgentedelsole.com/
 node	10065100790	https://lasorgentedelsole.com/
 node	10089105756	https://www.nordesthotel.com/
 node	10089105759	https://www.hotelexcelsiorgabicce.com/
-node	10571038167	http://www.sorellepoveredisantachiara.it/
 node	10571494794	https://www.carmelitanecamerino.it/
 node	10573501001	https://www.lapucci.de
 node	10573665598	https://palazzobonfranceschi.com/
@@ -2433,6 +2437,8 @@ way	1220130978	https://hotelmadonnadiloreto.it/
 way	1223292488	http://www.radiomagnetic.it/
 way	1236100673	http://www.relaisconcorde.it
 way	1245772345	https://www.tasteria.it/
+way	1286175568	http://www.sorellepoveredisantachiara.it/
+relation	1085619	https://www.cappuccinimarche.org/?page_id=21673
 relation	1434016	http://www.officinabonfigli.it
 relation	6517698	http://www.sorellepoveredisantachiara.it/
 relation	9311685	https://www.iscbramantefermignano.edu.it/plessi/scuola-media/
