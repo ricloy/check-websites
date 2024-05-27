@@ -403,7 +403,6 @@ node	1711282301	http://www.puntakappa.it/
 node	1713467670	https://www.candelagomme.it
 node	1713467689	https://www.itiscuneo.gov.it/
 node	1715969592	https://ristoranteosterialcantun.it/
-node	1718173652	http://www.tobike.it/
 node	1719215672	https://www.museotorino.it/view/s/a176b6774aad4bf9b2c09c6546ce4065
 node	1723172678	http://www.cocner.it
 node	1728936026	http://www.tobike.it/
@@ -931,6 +930,7 @@ node	2449315047	https://www.larosanelborgo.it/agri-camping/
 node	2451353240	https://www.avbrain.it/
 node	2451472484	https://www.tomato.to.it/
 node	2455133839	https://www.cineteatrobaretti.it/
+node	2456360690	https://www.repower.com/it/dina/
 node	2456491823	https://gorrerigiardini.it/
 node	2456881375	https://www.pitonipreziosi.com/
 node	2457253408	https://www.casanelparco.it/
@@ -1528,6 +1528,7 @@ node	3441676129	http://www.tsnsusa.it/
 node	3441754158	https://www.anavalsusa.it/
 node	3447213700	http://www.taxialdo.it/
 node	3447460250	http://www.farmaciacomunaledomo.com/
+node	3450446420	https://www.saloonristopizza.it/
 node	3451906133	http://www.conogelato.com/
 node	3451906134	https://www.kirkukkaffe.com/
 node	3452687789	https://farmaciagiardiniguala.it/
@@ -1886,7 +1887,6 @@ node	4088027330	http://www.fidalbiellavercelli.it/Home.aspx?ID=315
 node	4090178126	https://www.polimedicarivarolese.com/
 node	4092018777	http://www.e-montale.it
 node	4092495317	http://www.farmaciagazzopicchio.it/
-node	4097309213	http://www.securitytec.it
 node	4099030689	https://www.amagmobilita.it/
 node	4099049770	https://www.amagmobilita.it/
 node	4099063850	https://www.amagmobilita.it/
@@ -2613,6 +2613,7 @@ node	4736083478	https://consiglionotariletorino.it
 node	4736083518	https://www.lafarcia.it/locations.aspx?citta=Torino
 node	4736083784	https://www.enodolceriaservetto.it/
 node	4736083899	https://shoretorino.it/
+node	4736083922	www.pastarell.com
 node	4736084237	https://lapalestradelcibo.com
 node	4736084517	https://piemonte.engim.org/
 node	4736109696	https://www.vianelli-immobili.com/
@@ -3370,7 +3371,7 @@ node	6139260804	https://www.fiasistem.it/
 node	6139260805	http://www.nuovocomprooro.eu/
 node	6140622999	https://www.acgozzanocalcio.it
 node	6140789867	https://www.residenzagloboazzurro.it/
-node	6141130130	https://it-it.facebook.com/people/Sonamu-Korean-Restaurant/100063542651923/
+node	6141130130	https://www.facebook.com/profile.php?id=100063542651923
 node	6141441511	http://www.centrodipsicodiagnostica.it/
 node	6144710746	https://www.belebon.it/
 node	6145171611	https://www.bluespirit.com/
@@ -5130,6 +5131,7 @@ node	9472185389	https://www.zabardiservice.it/
 node	9473900774	https://www.campinggranbosco.it/
 node	9473919981	https://www.mdspa.it/punti-vendita/Piemonte/TO-Torino/947-Leini
 node	9476683605	https://www.polskikot.it/
+node	9488941563	https://www.facebook.com/cannellabistrot/
 node	9492934661	https://negozi.tigota.it/piemonte-71
 node	9493058271	https://negozi.tigota.it/12158-novara
 node	9495928258	https://www.autoservicemonterosa.it/
@@ -6044,7 +6046,7 @@ node	11869387669	https://hotelsitalian.com/
 node	11871444880	https://www.lecattedrali.com/
 node	11872611359	https://www.pizzeriasportello.it/
 node	11878372633	https://www.labriccola.com/
-node	11878617465	http://www.soridiano.it/
+node	11878617465	https://www.soridiano.it/
 node	11878767373	https://www.bancadalba.it/le-filiali/filiale-diano-dalba/
 node	11886242181	https://www.cerseo.com/
 node	11887569735	https://www.radioalba.it/
@@ -6060,6 +6062,10 @@ node	11909903905	https://www.gpchannel.com/
 node	11915612971	https://www.novaratoday.it/attualita/novara-ristorante-langhe-specialita.html
 node	11917449835	http://www.universohotel.it/
 node	11917492799	https://www.ristorantelacapricciosa.it/
+node	11926381625	https://bct.comune.torino.it/sedi-orari/centrale/centro-rete
+node	11928356727	https://shitcoins.club/localizzazione-atm/atm-bitcoin-torino-corso-unione-sovietica
+node	11931158469	http://www.elvo.it
+node	11934372254	https://balabiottpub.it/
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6083,6 +6089,7 @@ way	39539966	https://www.irccs.com
 way	39670282	http://www.rifugiovaccarone.eu/
 way	39670289	https://www.rifugiolevimolinari.it/
 way	39670291	https://www.rifugi-bivacchi.com/fr/2043/Bivouac-Sigot-Mario
+way	40347667	https://www.campingmagicforest.com/
 way	41753512	https://www.palaalpitour.it/
 way	42068754	https://www.centrovercelli.it/
 way	42783132	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -6092,6 +6099,7 @@ way	42864476	https://itisavogadro.it/
 way	42929460	https://pellerina.it/
 way	43139444	https://www.carceretorino.it/
 way	43271463	https://www.decathlon.it/store-view/sport-shop-grugliasco-0070022400224
+way	44333711	https://www.trofarellocircuit.it
 way	45094811	https://www.bardonecchiaski.com
 way	45094892	https://www.bardonecchiaski.com/
 way	45147728	https://pratonevoso.com/
@@ -6445,6 +6453,7 @@ way	173284079	https://www.hotelgalant.it/
 way	173643050	http://www.pinoscuola.edu.it/
 way	173698562	https://www.dana.com
 way	173731971	https://www.fondazionevaldese.org/fondazionevaldese.php?codice=A31304
+way	173782711	https://www.campeggiolagoverde.it/
 way	174055401	http://www.alessandriainmovimento.info/
 way	174149577	https://www.comune.porte.to.it/
 way	174498169	https://www.icmatteotti.gov.it/
@@ -6644,7 +6653,7 @@ way	201950121	https://pantocratore.com/
 way	201956187	https://clinica-veterinaria-lago-maggiore.business.site
 way	202012973	https://www.polisportivavarese.it/
 way	202045813	https://www.comune.fioranocanavese.to.it/
-way	202087547	http://www.autosportpons.com/
+way	202087547	https://www.autosportpons.com/
 way	202107370	https://www.laica.eu/
 way	202136403	https://www.parcoroccaarona.com
 way	202178163	https://www.rubinetteriestella.it/
@@ -6907,7 +6916,7 @@ way	226432971	https://comune.bolzanonovarese.no.it
 way	226435163	http://www.comune.luecuccaromonferrato.al.it/
 way	227399316	https://www.cascinalissona.com
 way	227560023	www.rbcrosscenter.it
-way	227577924	www.motocrosstrofarello.it
+way	227577924	https://www.trofarellocircuit.it
 way	227578246	www.avilianum.it
 way	227617806	https://www.pneumaticiroberto.com/
 way	227623715	https://www.cvsa.eu/
@@ -7559,6 +7568,7 @@ way	366669074	https://www.comune.garbagna.no.it/it-it/home
 way	367058115	https://www.giacoletti.it/category/punta-udine-2/
 way	367720257	https://www.barologolfresort.com/
 way	367731196	https://www.casabarbabella.com/English.html
+way	367731644	https://www.repower.com/it/dina/
 way	367970286	https://www.isiss-magarotto.edu.it/torino
 way	368060560	http://www.ascombra.it
 way	368062770	http://www.ascomform.it/
@@ -7715,6 +7725,7 @@ way	385152068	https://www.valverbe.it/
 way	385202810	https://maerovini.com/
 way	385324335	https://www.comune.gambasca.cn.it
 way	385527937	https://www.hotelmontenebin.it/
+way	385527950	https://campingvalvaraita.it
 way	385562422	http://www.aikido-dojoshinai.it/
 way	385644332	http://www.rifugiobagnour.it
 way	385644333	https://www.grongiosmartre.com/
@@ -7747,6 +7758,7 @@ way	390009020	https://www.torinoauto.it/
 way	390127759	https://www.locandadelsorriso.com/
 way	390128047	http://www.bmgelas.it/italiano/rifugio-san-giacomo/
 way	391571405	http://www.cuneoclimbing.it/relazioni/falesie/miroglio.pdf
+way	392769486	https://www.vallesusa-tesori.it/it/luoghi/salbertrand/chiesa-di-san-giovanni-battista
 way	392779532	https://www.scuolamediafalbert.it/scuola/chi-siamo/o-n-l-u-s-b-f-albert
 way	392924144	www.iccandelo-sandigliano.it
 way	393467918	https://www.castellodiproh.it/
@@ -8317,6 +8329,7 @@ way	657571010	http://www.comune.arola.vb.it
 way	660043279	https://www.campingverna.it/
 way	660219498	https://www.sogimi.com/
 way	660545320	http://santannahotel.it
+way	662460561	https://www.campingnarciso.com
 way	662629445	http://www.borgodellacultura.it/la-cinta-muraria-domodossola.html
 way	663982589	https://gualapackgroup.com/
 way	664934775	http://www.lalunadielsa.org/
@@ -8752,6 +8765,7 @@ way	1015884699	https://comune.usseaux.to.it/lamministrazione/notizie-e-info/camp
 way	1018402200	http://www.archiviodistatoalessandria.beniculturali.it/
 way	1018657102	https://store.terranovastyle.com/it/2899-alessandria
 way	1018657103	https://negozi.scarpescarpestore.com/it/italia/alessandria/scarpe-scarpe-alessandria
+way	1019020013	https://campeggioserremarie.it
 way	1019085669	https://www.comune.vogogna.vb.it/it-it/appuntamenti/apertura-castello-visconteo-67704-1-ee5f9e206b0b25e253d67e246f0bc50e
 way	1019167198	http://www.cuneoclimbing.it/relazioni/falesie/frabosa_lockdown.pdf
 way	1020882445	https://www.asmvercelli.it/Igiene-Ambientale/Strutture/Centro-di-Multi-Raccolta-1.html
@@ -9376,6 +9390,7 @@ relation	8791589	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-lag
 relation	8795794	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8799892	https://www.estmonterosa.it/catasto-percorsi-novara-c-m-due-laghi-settore-v.html
 relation	8800797	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
+relation	8815219	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
 relation	8824538	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
 relation	8827761	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
 relation	8828146	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
@@ -10255,6 +10270,7 @@ relation	17035575	https://www.estmonterosa.it/percorsi-vco.html
 relation	17075184	https://www.estmonterosa.it/percorsi-vco.html
 relation	17153596	https://zou.maregionsud.fr
 relation	17153597	https://zou.maregionsud.fr
+relation	17454784	https://www.comune.galliate.no.it/
 relation	17454790	https://www.facebook.com/galliatebeerbacco
 relation	17479039	https://www.castellosforzini.it/
 node	63629039	http://www.comune.chiusadisanmichele.to.it
@@ -11650,6 +11666,7 @@ relation	8359593	https://percorsi.estmonterosa.it/c/C14/C14.kml
 relation	8704388	https://percorsi.estmonterosa.it/h/H99/H99.kml
 relation	8761237	https://percorsi.estmonterosa.it/v/VL7/VL7.kml
 relation	8765336	https://percorsi.estmonterosa.it/f/F99/F99.kml
+relation	8815219	https://percorsi.estmonterosa.it/v/VM2/VM2.kml
 relation	8824538	https://percorsi.estmonterosa.it/v/VL2/VL2.kml
 relation	8858286	https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html
 relation	8858875	https://percorsi.estmonterosa.it/NOAV/VR3/VR3.kml
@@ -11744,6 +11761,7 @@ relation	10949840	https://percorsi.estmonterosa.it/a/A52f/A52f.kml
 relation	10995050	https://percorsi.estmonterosa.it/m/M00(2).kmz
 relation	11017506	http://percorsi.estmonterosa.it/c/C23a/C23a.kml
 relation	11043233	https://percorsi.estmonterosa.it/m/M02/M02.kml
+relation	11053828	https://percorsi.estmonterosa.it/m/M15/M15.kml
 relation	11087107	https://percorsi.estmonterosa.it/p/P01e/P01e.kml
 relation	11102442	https://percorsi.estmonterosa.it/m/M35/M35.kml
 relation	11102718	https://percorsi.estmonterosa.it/m/M37/M37.kml
@@ -11753,6 +11771,7 @@ relation	11204873	http://danbag.altervista.org/Valgrande/X99/X99-FTP.kml
 relation	11267970	https://percorsi.estmonterosa.it/g/G27/G27.kml
 relation	11283137	https://percorsi.estmonterosa.it/g/G19/G19.kml
 relation	11283139	https://percorsi.estmonterosa.it/g/G19b/G19b.kml
+relation	11283302	https://percorsi.estmonterosa.it/h/H16/H16.kml
 relation	11283363	https://percorsi.estmonterosa.it/h/H08/H08.kml
 relation	11283423	https://percorsi.estmonterosa.it/h/H06/H06.kml
 relation	11283513	https://percorsi.estmonterosa.it/h/H08c/H08c.kml
