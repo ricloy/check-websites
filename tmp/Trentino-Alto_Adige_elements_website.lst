@@ -398,6 +398,7 @@ node	781925531	https://www.valgardena.it/en/bus-schedule/
 node	799244380	https://lastualevicoterme.wixsite.com/
 node	799244416	http://www.pizzeriamillennium.it
 node	799271628	https://www.ranuimuellerhof.com/
+node	801387905	https://www.caseificiocavalese.it/
 node	803390631	http://www.kasseler-huette.com/
 node	803470586	https://www.dorftirol.com/koenigbauer/
 node	804040398	https://www.falkensteiner.com/de/hotel/falkensteinerhof
@@ -617,6 +618,7 @@ node	1312807665	https://www.baeckerei-ueberbacher.it/
 node	1312808936	http://www.baeckerei-gasser.it/filialen/villnoess-stpeter.html
 node	1312812175	https://www.raiffeisen.it/villnoess.html
 node	1312812804	https://toeglhof.com/
+node	1313709007	https://lordconcept.com/
 node	1318116512	http://petrol-airport.it/
 node	1320271204	https://www.plafoetsch.com/
 node	1320403973	https://www.georgen.it/
@@ -5017,6 +5019,7 @@ node	9731951831	https://applebloodcider.com
 node	9735040697	https://www.pursuedtirol.com/
 node	9735040698	https://www.suedtirol-solar.com/
 node	9748085486	https://www.kvw.org/
+node	9748471632	https://aloislageder.eu/alois-lageder-paradeis-de/vineria-restaurant_de
 node	9754548662	https://www.niki-back.com
 node	9758385897	https://wegerrestaurant.it/
 node	9758448217	http://hellweger.it
@@ -5374,7 +5377,6 @@ node	10252816302	https://www.larchwalder.it/
 node	10255511718	https://www.waalheim.it
 node	10263304040	http://www.cerism.it/
 node	10266184675	http://www.baitalazondra.it/
-node	10268207557	https://www.roessl-naturns.it
 node	10273072939	https://www.eichenstein.it/
 node	10282115886	https://www.calendula-kosmetik.it/
 node	10287074803	https://www.traum-ferienwohnungen.de/393309
@@ -5839,7 +5841,6 @@ node	11672983631	https://www.valgardena.it/en/addresses/detail/base/poi/selva-va
 node	11673047956	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-col-raiser/90F07BDD272E416197A9AD912EA2F5A7/?RequestKey=170913954865df665c0cfa8
 node	11673048671	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-continental/C92B96778A644E4BB8F9BD04CE907A1C/?RequestKey=170913864965df62d923ad5
 node	11673048672	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/garage-danterceepies/4E50D7C75D3F49BA9494A8D71482AD18/?RequestKey=170913875065df633eb42be
-node	11673071383	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-vallunga/06862677FEAB47E8A6A3768EA98A28AB/?RequestKey=170913907565df64832a2a4
 node	11673091845	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-sciuz/B062FDCED857219195E915B11856BDB2/?RequestKey=170913924865df653084f48
 node	11676102445	https://www.stroblhof.com/
 node	11676232704	https://satpine.wordpress.com/
@@ -5941,6 +5942,16 @@ node	11903427851	https://www.gandolfi.bz.it/
 node	11903427852	https://www.gandolfi.bz.it/
 node	11909661806	https://www.geighof.com/
 node	11919288237	https://rubein.com/de-de/zimmer/
+node	11923480131	https://www.thecrag.com/climbing/italy/alto-adige/area/3242778318
+node	11923485265	https://www.thecrag.com/climbing/italy/alto-adige/area/1042490022
+node	11925916422	http://www.carpenteriaoma.it
+node	11927577666	https://www.residenza-cinisca.com
+node	11928027654	https://www.kostner.net/
+node	11928198803	https://www.residenzasanrocco.it
+node	11928198804	https://www.palazzooltre.it/
+node	11936642391	https://www.lapraterianago.com/
+node	11937072749	http://www.hotelgenzianella.eu/
+node	11939457311	https://www.valgardena.it/en/bus-schedule/
 way	22890146	https://www.prags.bz/en
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
@@ -6441,7 +6452,6 @@ way	78300094	http://www.monasteroarco.eu/
 way	78363064	https://create-net.fbk.eu/
 way	78368295	http://www.aktivhoteleden.com/
 way	78490783	https://www.garniontherock.com/
-way	78494906	http://www.hotelgenzianella.eu/
 way	78610772	https://www.malgazanga.com/
 way	78631627	http://www.cusanus.bz.it/
 way	79499362	https://www.laghel7.it/
@@ -6512,7 +6522,6 @@ way	83834644	https://www.chemelli.it/
 way	83834701	https://www.diocesitn.it/site/wd-annuario-enti/altogarda-e-valli-dei-laghi-82/fraveggio-s-bartolomeo/
 way	83863484	http://www.pisoni.net
 way	83991914	http://www.thetruffulatree.com
-way	84053486	https://www.lapraterianago.com/
 way	84171836	http://www.valdisolecamping.it/
 way	84523982	https://www.garniminigolf.it/
 way	84524032	https://www.alpieveledro.it
@@ -6925,7 +6934,7 @@ way	117682678	http://www.faurisnc.it/
 way	117984542	https://www.ekla.it/
 way	117991608	http://www.fauri.it/
 way	117991830	http://www.flam-bz.com
-way	118218390	http://www.satrivadelgarda.it/0/capannasantabarbara/1/1905/page.aspx
+way	118218390	https://www.satrivadelgarda.it/0/capannasantabarbara/1/1905/page.aspx
 way	118714287	https://www.athabaska.info/
 way	118823198	https://www.merano-suedtirol.it/de/meran/hotel-unterkunft/camping.html
 way	118934295	http://www.scalelorenzetti.com
@@ -7153,6 +7162,7 @@ way	129219173	https://www.stelvio-residence.com/de/residence.html
 way	129401084	https://www.claudiana.bz.it/
 way	129402179	https://ambiente.provincia.bz.it/
 way	129431996	https://www.autoindustriale.com/
+way	129564374	https://www.egger-terlan.eu
 way	129823361	https://www.drschaer.com/
 way	129823410	https://www.danfoss.com/it-it/about-danfoss/our-businesses/drives/
 way	129958987	http://www.olivotto.bz.it/
@@ -7503,7 +7513,6 @@ way	165984219	https://www.ebnerm.com/
 way	165984224	https://www.pfattner.com/
 way	165984238	https://www.garden-residence.com/
 way	166071897	https://www.zukallhof.com/
-way	166530620	https://www.kostner.net/
 way	166705991	http://dobbiaco.jugendherberge.it
 way	166874595	https://www.hotel-dolomiten.com/
 way	166897487	https://www.brandiskeller.it/
@@ -7882,7 +7891,6 @@ way	218093662	https://interbrennero.it
 way	218135422	http://www.herilu.it/
 way	218492563	http://agrituracquastilla.it
 way	218932326	https://www.iceman.it
-way	218985884	https://www.agriturnonsolomele.com
 way	219346406	https://www.castelvasio.net/
 way	219573859	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/garni-hotel-sunela/C0DF9A6676D911D18F2900A02427D15E/
 way	219621505	https://www.pramstrahler.eu
@@ -8443,6 +8451,7 @@ way	288063904	https://www.camping-kiefernhain.it/
 way	288266963	http://www.naranch.it
 way	288822679	https://www.mairjosef.it/
 way	289144654	http://www.snets.it/ssp-algund
+way	289145208	https://www.toerggelehof.net/
 way	289147880	http://www.karlhofer.it
 way	289394722	http://www.setteselle.altervista.org/
 way	289917641	pension-grasser.com
@@ -8991,7 +9000,6 @@ way	542238137	https://www.alpecermis.it/
 way	542239467	https://www.schnalstal.com/
 way	542908410	https://www.weisseskreuz.bz.it/
 way	543080258	https://www.riega-sexten.com/
-way	545038369	https://www.residenza-cinisca.com/
 way	545287530	https://www.ambientiarco.it
 way	545373570	http://eum.bz/de/dienstleistungen/tankstelle/11-0.html
 way	545783350	https://www.facebook.com/davioslaboratoriodellapizza/
@@ -9450,6 +9458,7 @@ way	1257840145	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-g
 way	1263037387	https://www.moerlhof.com
 way	1268693537	https://www.sat-mori.it/sezione/parco-boulder/
 way	1272991342	https://www.ultenerhof.com/
+way	1279859639	https://www.agriturnonsolomele.com
 way	1281231985	https://www.gruppospes.it/servizi/rsa-residenza-sacro-cuore
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
@@ -10880,6 +10889,7 @@ relation	17233442	https://www.valsuganasport.it/
 relation	17265244	https://www.lavaze.com/it/inverno/piste
 relation	17405562	https://noi.bz.it/
 relation	17582413	https://www.sat.tn.it/
+relation	17636677	https://www.sat.tn.it/
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -11825,6 +11835,7 @@ node	11660010596	https://www.lavaze.com/it/inverno/prezzi-e-offerte
 node	11660043215	https://www.lavaze.com/it/inverno/prezzi-e-offerte
 node	11685100044	https://rechtebner.it
 node	11805686718	https://www.innerhofer.it/it/showrooms/trento/34-49.html
+node	11933961265	https://www.roeck.bz/
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24441737	https://www.trentinomobilita.it/parcheggi-coperti
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
@@ -12278,7 +12289,6 @@ way	454334049	https://www.valdirabbi.com/it
 way	454762085	https://www.abeterosso.com/
 way	460782720	https://www.bestinparking.com/it/it/garage/parcheggio-piazza-di-fiera
 way	471919272	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
-way	473625882	https://www.roeck.bz/
 way	516827453	https://www.visitfiemme.it/it/val-di-cembra/Arte%20e%20paesaggi%20da%20cartolina/Le%20Piramidi%20di%20Segonzano
 way	545094991	https://www.trentinomobilita.it/sosta-camper
 way	576647438	https://www.visitvaldisole.it
