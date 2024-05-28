@@ -2083,7 +2083,7 @@ node	4416267991	https://www.trattoriaantenore.it/
 node	4417582926	https://www.ikarocentrosalute.it/
 node	4418039589	http://trattoriatrento.com
 node	4419452089	https://www.bagnicapannina.it
-node	4423158622	www.alfunghetto.it
+node	4423158622	https://www.alfunghetto.it
 node	4425722896	https://www.key-hotel.it/
 node	4426091200	http://www.villaaicedri.it/
 node	4426795261	http://www.ristorante-laporta.com
@@ -2157,7 +2157,6 @@ node	4511161134	https://www.casepiu.net/
 node	4511211136	http://www.pasticceriazizzola.it/
 node	4511271849	https://www.fotoscarpis.it/
 node	4511858611	http://www.montelliana.it/
-node	4512664144	http://www.fablabcfv.org/
 node	4512684353	https://www.bobbiebeckman.it/
 node	4512753266	http://www.nordestviaggi.it/
 node	4512792689	http://montebelluna.manai.it/
@@ -4263,7 +4262,6 @@ node	7763446785	http://maneggiosanmamante.it
 node	7765418085	https://fr-fr.facebook.com/pages/category/Coffee-Shop/Osteria-Caff%C3%A8-La-Cantina-di-Romeo-230831090945013/
 node	7781056664	https://www.facebook.com/Aula-Magna-N-Paro-1513210865647300/
 node	7781073325	https://www.icsalgareda.edu.it/
-node	7781392380	https://www.goffredoparise.it/index.php?area=65&menu=248&page=446&lingua=4
 node	7781467166	http://www.cantinabravin.it/
 node	7792613837	https://www.hotelcorsojesolo.com
 node	7792685151	http://www.countryhousesalome.it
@@ -6279,6 +6277,13 @@ node	11915623250	https://www.assaporito.com/trattoria-pizzeria/
 node	11917446369	http://Migross.it
 node	11917542038	http://www.nuovavetreria.com/
 node	11919869044	https://chaletmatilde.it
+node	11921727787	https://www.scanferlasrl.it
+node	11928368360	https://shitcoins.club/localizzazione-atm/atm-bitcoin-verona-via-venti-settembre
+node	11933473260	https://otticacasalserugo.it/
+node	11934584885	https://www.facebook.com/ilporticciolo20/
+node	11935188508	https://www.hostelsclub.com/en/hostel/la-pescheria-backpackers
+node	11935188509	https://www.hostelsclub.com/sk/hostel/ai-boteri
+node	11937523619	https://bassastore.it/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6389,7 +6394,6 @@ way	60958905	https://www.salusterme.it/
 way	61291562	https://www.campingfossalta.com
 way	61957011	https://www.campingeuropa.com/
 way	62103955	https://www.comune.breganze.vi.it/
-way	62332429	https://www.math.unipd.it/
 way	62367822	https://www.diodatabertolo.it/
 way	62745580	http://www.motoclub.it/mouse2002/pista2002.htm
 way	63115041	https://www.lainauto.com/
@@ -7434,6 +7438,7 @@ way	193207032	https://www.4-flying.com/
 way	193710076	https://www.teopiki.com/
 way	193712607	http://www.icsanstino.gov.it/plessi-sedi/primaria-corbolone
 way	193715880	https://www.comune.ceggia.ve.it/
+way	193723558	https://www.goffredoparise.it/index.php?area=65&menu=248&page=446&lingua=4
 way	193726349	https://www.icsalgareda.edu.it/
 way	193873377	http://www.castellodironcade.it/index.php
 way	193892300	https://www.facebook.com/skholesanbiagio
@@ -7609,6 +7614,7 @@ way	205667220	https://lapresa.it/
 way	205681394	https://www.jw.org/
 way	206333242	https://marciana.venezia.sbn.it
 way	206703171	http://www.piscinepeschiera.it/
+way	208200119	https://centrolevallette.it/
 way	208200128	http://www.davincicerea.gov.it/
 way	208200857	https://www.carabinieri.it/
 way	208206737	https://trattoriadacarlo.jimdofree.com/
@@ -7652,7 +7658,9 @@ way	216672642	http://www.pontediveja.com/
 way	216678171	http://www.albergoleso.it/
 way	216715041	http://www.villadaprato.it
 way	216735590	http://www.cdcpederzoli.it/
+way	217019137	https://www.comune.feltre.bl.it/amministrazione/uffici/istruzione/asilonido
 way	217415957	https://www.centronuototezze.it/
+way	217538349	https://www.hotelcangrande.it/
 way	217541125	https://www.locandaaicapitelli.com/
 way	217886952	http://www.distillerialecrode.com
 way	218056989	http://www.centrodonchiavacci.it/
@@ -7672,6 +7680,7 @@ way	219521539	http://www.rifugiochierego.com/
 way	219532251	www.villacariola.com
 way	219631547	https://cieloblufitness.it/
 way	219632132	https://www.eurospin.it/punti-vendita/sandrigo-120949/
+way	219632584	cristofarigiovanni.com
 way	219907556	http://www.rifugiocesarebattisti.com/
 way	219907777	http://www.rifugiobertagnoli.it
 way	219968995	https://www.laviadeicimbribeb.it/
@@ -7824,6 +7833,7 @@ way	246240880	http://www.teatrosmeraldovaleggio.it/
 way	248745093	www.linzelectric.com
 way	249529804	www.birralagroletta.it
 way	249589199	https://www.mediaworld.it
+way	249816944	https://www.casamuseogiacomomatteotti.it/
 way	250330952	http://www.piscinelepiramidi.it/
 way	250807582	https://www.padovanet.it/informazione/orti-urbani
 way	251551907	https://www.ipabvillafiorita.it/
@@ -8616,6 +8626,7 @@ way	1008966405	http://www.asilonidoreleone.it/
 way	1012212766	https://www.scuolascidolomitesreba.it/
 way	1012215211	https://scuolasciarabba.com/
 way	1012229030	https://www.arabba.it/
+way	1014431874	https://www.aquamore.it/spinea/
 way	1014475270	https://cappellina.com/
 way	1019526124	https://www.lidl.it/
 way	1021755897	https://www.tsnvv.it/
@@ -8630,6 +8641,7 @@ way	1034835720	https://www.giardinomistico.it
 way	1038697780	https://domori.it/
 way	1044756336	https://www.planetariumresort.com/
 way	1044770644	https://www.linodellefateresort.com
+way	1046170570	https://www.cadoro.it/punti-vendita/Spinea
 way	1050803104	https://maxizoo.it
 way	1058148619	https://www.fattoriadanieletto.it/
 way	1060000556	https://www.famila.it/punti-vendita/veneto/famila-piovene-rocchette/offerte-volantino
@@ -8858,6 +8870,7 @@ way	1269092561	https://casalsrl.eu/
 way	1270016891	https://www.noisanpaolo.it/orto-botanico-conservativo-busnello/
 way	1278859425	https://www.mcdonalds.it/
 way	1284878072	https://www.chaletmatilde.it
+way	1287079069	https://agricampeggioleterrazzesulgarda.com
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -9038,6 +9051,7 @@ relation	3338652	http://www.golfvillagiusti.it
 relation	3341415	https://www.golfclubcadegliulivi.it/
 relation	3342389	https://www.golfclubparadiso.it/
 relation	3342402	https://www.golfvillacondulmer.com/
+relation	3446664	http://www.ilcamminodisantantonio.org
 relation	3477430	http://www.trentinograndeguerra.it/sec_gen_searchresult.jsp?area=125&ID_LINK=307&id_schema=41&COL0001=2&COL0002=10&geoarea=10
 relation	3599897	https://www.cesarebattisti.org/
 relation	3599898	https://www.cesarebattisti.org/
@@ -9638,6 +9652,8 @@ relation	17515028	https://www.trodoitrails.com/
 relation	17545078	https://www.visitmarostica.eu/it/visitare/itinerari/percorso-tre-dalla-pianura-allaltopiano-di-asiago-/
 relation	17562666	https://www.trodoitrails.com/
 relation	17589259	https://visitborgovalbelluna.it/en/percorso/giro-di-paltrac-n-2312/
+relation	17630692	https://www.math.unipd.it/
+relation	17634106	https://www.prolocotorrebelvicino.it/percorso-12-%E2%80%93-sentiero-del-singio_lit_3_10_7.asp
 node	64778383	http://www.comune.cittadella.pd.it/
 node	256072226	www.padovafarmacie.it
 node	262650779	http://www.lidopaina.it
@@ -9767,6 +9783,7 @@ node	1791683142	http://www.labottegadelparrucchiere.it/
 node	1791788091	http://www.rickyspub.com/
 node	1791864694	http://www.lalocandadelgusto.it/
 node	1802001329	http://www.officine-creative.com/
+node	1805499209	cavaliereauto.com/
 node	1823054046	http://www.lamentecomune.it/
 node	1844417593	http://www.hotelcastelloeste.com/
 node	1844417598	http://www.rizzoeste.it/
@@ -10179,6 +10196,8 @@ node	11658273208	https://trattoria-cavazuccherina.business.site/
 node	11825051307	https://borgo-co.it/
 node	11868224457	http://www.iperlando.it/
 node	11887585339	https://www.sigurta.it
+node	11931364716	https://www.ristorantepizzeriaprimavera.it/
+node	11933416779	https://www.fablabcfv.org/
 way	27198535	http://basilicadelsanto.org
 way	40460962	https://www.laquercia.it/
 way	42424990	http://www.traiglicinieilsambuco.it/
@@ -10618,7 +10637,6 @@ way	350910782	https://www.progettofrigus.it/destinations/casone-di-via-beolo/
 way	350985962	https://mattipessetti.it
 way	351483306	https://www.casalserugoedintorni.it/villa-argenti
 way	371407256	https://www.facebook.com/areaverdepalazzina/
-way	375086961	http://www.sportingcenter.it
 way	375292649	https://it-it.facebook.com/pg/equusvillatrento/
 way	475486812	http://www.cortinacube.it/
 way	488653559	https://www.padovanet.it/informazione/centro-infanzia-bambini-del-mediterraneo
