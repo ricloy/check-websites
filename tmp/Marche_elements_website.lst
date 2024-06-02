@@ -187,7 +187,6 @@ node	1413209150	http://www.pizzeriadesiderio.it/Molo71.aspx
 node	1413614977	https://www.taverna41.com/
 node	1413615044	https://www.hotelaquamarina.it/
 node	1417325631	https://bluarenahotel.it/
-node	1421248376	https://m.iluoghidelsilenzio.it/articolo.html?id=eremo-della-madonna-del-sasso-valleremita
 node	1429480094	http://www.comune.ancona.it/ankonline2/it/uffici/biblioteche/index.html
 node	1454752060	http://www.osteriadeipigliapochi.it
 node	1457111285	https://www.ilgiogo.it/
@@ -2033,6 +2032,8 @@ way	1276478922	https://www.beerstrot.it/
 way	1277682601	https://www.comune.pesaro.pu.it/cultura/teatri-e-arene/teatri/chiesa-della-santissima-annunziata/
 way	1282128846	https://www.navaltecnica.net/
 way	1283737285	https://bagnielsa.it/
+way	1288489020	https://www.iluoghidelsilenzio.it/eremo-della-madonna-del-sasso-valleremita/
+way	1288737769	https://www.iluoghidelsilenzio.it/chiesa-sconsacrata-di-san-sebastiano-belforte-del-chienti-mc/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -2350,6 +2351,7 @@ node	11303005683	https://www.gioielleriarossetti.it/
 node	11350883408	http://museopontificio.santuarioloreto.it/
 node	11374438486	https://digisvapo.it
 node	11891148388	https://www.santuarioloreto.va/it/accoglienza/strutture-ricettive/ristorante.html
+node	11950457583	https://midac.wordpress.com/
 way	14805243	https://www.santuarioloreto.va
 way	44523218	http://www.arterisko.com
 way	61094272	http://www.athleticclubpesaro.it/
