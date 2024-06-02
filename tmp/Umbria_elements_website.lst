@@ -95,6 +95,7 @@ node	331959806	https://panevinotodi.com/
 node	332159522	https://www.hotel-umbria.com/
 node	332159685	https://www.hotelirispg.com/
 node	332160385	http://www.tavernapappagloria.it/
+node	413411470	https://www.hotelcorso.net/
 node	417817504	https://www.valentinohotel.com/
 node	521335538	https://www.campingmarmore.it/
 node	539336194	http://www.ilborgodmd.it/
@@ -887,6 +888,12 @@ node	11915132771	https://www.cattolica.it/
 node	11915629463	https://www.menudigitale.io/factory-todi
 node	11928509134	https://www.hoteldeiduchi.com/
 node	11931610056	https://lnx.clarisseperugia.it/
+node	11937131165	https://www.albaciamano.it/
+node	11939842486	https://www.facebook.com/bevagna1
+node	11944884596	www.sudosteria.it
+node	11945606486	https://www.norcineriafelici.it/
+node	11945619193	https://www.moscatellitartufi.com/
+node	11949811972	https://www.santarcangelotodi.com/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -924,7 +931,6 @@ way	116392468	https://diocesi.perugia.it/wd-annuario-enti/diocesi-di-perugia-cit
 way	116646484	https://www.unipg.it/
 way	119694588	https://www.inail.it/
 way	123659076	https://www.igeimpianti.it/
-way	125911212	https://www.rifugideisibillini.it/
 way	126512161	http://www.aripg.it/
 way	126795815	https://www.rai.it/
 way	126838616	https://liceoalessi.org/
@@ -1102,7 +1108,9 @@ way	432080508	http://www.itspoleto.gov.it/
 way	432085632	https://www.carabinieri.it/
 way	432537973	https://www.abbazia.net/
 way	438784089	https://www.palazzoseneca.com
+way	438796638	https://casavacanzenorcia.it/
 way	438798422	https://www.uslumbria2.it/pagine/ospedale-di-norcia-000
+way	438850395	https://norciaospitalita.it/
 way	439007217	http://www.iluoghidelsilenzio.it/?p=70502
 way	439018574	http://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-annunziata-poggio-di-croce-preci-pg/
 way	439018586	http://www.iluoghidelsilenzio.it/chiesa-di-santegidio-poggio-di-croce-preci-pg/
@@ -1493,6 +1501,7 @@ way	1154989277	http://www.lavalnerina.it/dett_luogo.php?id_item=888
 way	1154993192	http://www.lavalnerina.it/dett_luogo.php?id_item=489
 way	1156247069	https://www.iluoghidelsilenzio.it/chiesa-di-san-cassiano-mercatello-di-montefalco-pg/
 way	1172237890	https://www.iluoghidelsilenzio.it/chiesa-di-san-giuseppe-montescosso-di-ponte-felcino-pg/
+way	1177772704	https://teatrodegliocchi.com/
 way	1177938974	https://www.relaisvilladeangelis.it
 way	1184496042	https://www.frantoiosepioni.it/
 way	1184778112	https://www.turismostroncone.it/ita/6/arte-e-cultura/5/sacrario-delle-armi/?ss=4
@@ -1527,6 +1536,7 @@ way	1253374289	https://www.iluoghidelsilenzio.it/chiesa-di-santa-lucia-sellano-p
 way	1253397505	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-della-neve-san-martino-di-sellano/
 way	1279651638	https://www.iluoghidelsilenzio.it/chiesa-di-san-pietro-in-tutorio-civitella/
 way	1286394352	https://turba.noblogs.org/
+way	1286987318	https://www.rifugideisibillini.it/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	1948091	https://chemindassise.org/
@@ -1739,6 +1749,8 @@ node	3195383402	http://www.ristoranteilcavaliere.com
 node	3594203684	http://www.up.aci.it/perugia/
 node	4270656460	https://www.lakebikestore.it
 node	4528307077	https://www.carloni1989.it/
+node	4528371043	https://www.ristoranteilmoderno.store/menu/
+node	4529186809	https://www.alphaville-italia.com
 node	4581702789	https://todi.ubiklibri.it
 node	4614970272	https://www.lietasosta.it/
 node	6206621145	https://www.lagiostrinadeicanape.it/servizi/la-giostrina.html
