@@ -66,6 +66,7 @@ node	2508980099	http://www.comprensivotorracamatera.gov.it/
 node	2509490266	http://www.miccolis-spa.it/la-tua-citta/matera
 node	2509490275	http://www.miccolis-spa.it/lecce-napoli-da-scoprire/matera
 node	2510047546	https://www.iismorra.it/
+node	2510639051	https://www.basilicataturistica.it/scopri-la-basilicata/matera-patrimonio-mondiale-dellumanita/le-chiese-di-matera/le-chiese-rupestri-di-matera/?privacy=updated
 node	2511829028	https://www.eurospin.it/
 node	2511831692	https://www.e-coop.it/
 node	2511964263	https://www.larturo.com/
@@ -186,6 +187,7 @@ node	4357505889	https://www.paneepace.it
 node	4358112816	http://volumezero.eu
 node	4375829791	https://modanegozio.xoom.it/
 node	4420215189	https://www.alessidamo.it/
+node	4435891347	https://www.isassidimatera.com/cosa-vedere/chiese-rupestri/madonna-degli-angeli/
 node	4456201990	https://wemapp.eu/
 node	4510330795	http://www.fiorincentro.com
 node	4510351142	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Matera/1360/
@@ -496,6 +498,7 @@ way	33887449	http://musei.beniculturali.it/musei?mid=326&nome=tempio-delle-tavol
 way	66767193	http://www.castelgrande.net/
 way	69532398	https://cultura.gov.it/luogo/parco-archeologico-di-grumentum
 way	70083562	http://musei.beniculturali.it/musei?mid=325&nome=parco-archeologico-dellarea-urbana
+way	88078191	https://www.basilicataturistica.it/scopri-la-basilicata/arte-e-cultura-in-basilicata/castelli-della-basilicata/il-castello-di-venosa/
 way	97756179	https://www.asi.it/it/agenzia/struttura-organizzativa/basi-e-centri/centro-di-geodesia-spaziale
 way	107829170	http://www.torresatriano.it/
 way	108481316	http://kartodromopalazzo.it/
@@ -507,6 +510,8 @@ way	157331516	https://www.beniculturali.it/luogo/museo-dei-culti-arborei
 way	184405903	https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_2113907389.html
 way	212089144	https://ics1lavello.edu.it/
 way	213544859	https://www.volodellangelo.com/ita/web/item.asp?nav=8
+way	215095482	https://www.portacoeli.it/venosa/it/il-contesto/cattedrale-di-sant-andrea
+way	216895891	https://www.isassidimatera.com/cosa-vedere/nelle-vicinanze/castello-tramontano/
 way	236399980	https://www.campingmaratea.it/
 way	237534021	https://grupposimm.it/
 way	240809752	https://www.parrocchiasanlavierotito.it/
@@ -515,7 +520,9 @@ way	240813369	https://www.parrocchiasanlavierotito.it/
 way	240815049	https://www.parrocchiasanlavierotito.it/
 way	240817075	https://www.parrocchiasanlavierotito.it/
 way	242360096	https://it.m.wikipedia.org/wiki/Stadio_XXI_Settembre-Franco_Salerno
+way	242363549	https://www.wikimatera.it/cosa-vedere-a-matera/la-cattedrale-le-chiese-ed-i-santuari-di-matera/chiesa-di-san-giovanni-battista/
 way	242364344	https://www.matera-basilicata2019.it/
+way	242627556	https://www.isassidimatera.com/cosa-vedere/chiesa-san-francesco-d-assisi/
 way	243129118	https://www.circolotennismatera.it/
 way	243141983	https://www.oltrelartematera.it/
 way	243183099	https://moduliweb.enac.gov.it/applicazioni/avioeli/Avio_04.asp?selaeroporto=415
@@ -596,9 +603,11 @@ way	349844609	https://www.icdomenicosaviopz.edu.it/
 way	350415335	https://www.ospedalesancarlo.it/
 way	350428794	https://icmilanipz.edu.it/index.php/infanzia-2/
 way	352875131	http://www.parcobadenpowell.it/
+way	368740664	https://catalogo.cultura.gov.it/approfondimento/elenco-degli-edifizi-monumentali-italia-del-1902/basilicata-provincia-potenza/chiesa-cattedrale-rapolla
 way	375962077	https://www.crob.it/
 way	386527855	https://www.isassidimatera.com/cosa-vedere/ponte-sul-canyon/
 way	386791672	https://www.aspbasilicata.it/servizi/ospedale-di-villa-dagri
+way	389515427	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/83087/Chiesa+di+Santa+Maria+Assunta
 way	395060570	https://hotelportogreco.it/
 way	395106053	https://villaggiotorredelfaro.it/
 way	395736076	https://www.tibluvillage.it/
@@ -693,6 +702,7 @@ way	1238282499	https://www.despar.com/pdv/maiora-s-r-l-via-einaudi-ang-via-berli
 way	1242487071	https://www.aspbasilicata.it/organizzazione/azienda/presidi-ospedalieri-distrettuali/ospedale-di-maratea/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	3160701	https://www.montescaglioso.net/node/1513
+relation	3274279	https://www.isassidimatera.com/chiesa-sant-agostino/
 relation	3293582	http://www.liceoscientificomt.it/
 relation	3293654	https://www.prefettura.it/matera/multidip/index.htm
 relation	3474467	http://www.artibasilicata.beniculturali.it
@@ -702,6 +712,7 @@ relation	6274746	http://parcoappenninolucano.it/
 relation	8085866	http://www.santuariopicciano.it/
 relation	8221789	http://parcodellegravine.provincia.ta.it/
 relation	9085460	http://www.comune.pignola.pz.it
+relation	10951071	https://fondoambiente.it/luoghi/castello-marchesale-di-palazzo-san-gervasio?ldc
 relation	10966342	http://www.rgspneumatici.it
 relation	12645985	https://www.comune.pietrapertosa.pz.it/it/item.asp?nav=percorso-7-pietre
 relation	12727336	https://www.caicastrovillari.it
@@ -723,6 +734,7 @@ relation	14251864	https://camminomaterano.it/via/1/via-peuceta
 relation	14561416	https://www.castellodilagopesole.com/
 relation	14614956	http://musei.beniculturali.it/musei?mid=71&nome=museo-archeologico-nazionale-della-siritide
 relation	16328653	https://museometaponto.beniculturali.it/
+relation	16859095	https://museomassimopallottino.beniculturali.it/il-castello-di-melfi/
 relation	17133490	www.caicastrovillari.it
 node	1325468665	http://www.farmaciafigliola.it
 node	2217378718	https://www.fornosorellepalese.it
