@@ -172,6 +172,7 @@ node	1853514005	https://www.ilbalestruccio.it/
 node	1854154169	https://ciclivalentini.it/
 node	1861608269	https://parkhotelaicappuccini.it/
 node	1862929384	https://www.caifoligno.it/
+node	1870731936	https://www.iuvanum.it/
 node	1884124193	www.ristorantesantino.it
 node	1884453250	http://www.grottaantica.com/
 node	1884481950	https://www.fontemaggio.it/
@@ -187,6 +188,7 @@ node	2147499234	https://www.sanfelicissimo.com
 node	2147506141	https://www.ilquerceto.umbria.it/
 node	2147584087	http://www.assisibartrovellesi.com/
 node	2151002402	https://www.hotelclarici.it/
+node	2151540144	https://www.comune.spoleto.pg.it/turismoecultura/the-city/monumenti/casa-romana/
 node	2153791121	https://www.volanteinn.it/
 node	2161270461	https://www.tavernadellorso.it/
 node	2177090236	https://www.cittadelladomenica.it/
@@ -255,6 +257,7 @@ node	2497114731	http://www.studiobaglioni.it
 node	2566081614	http://www.comunespoleto.gov.it/turismoecultura/la-citta/biblioteche/biblioteca-comunale-giosue-carducci/
 node	2570220372	http://www.conadspesafacile.com/
 node	2570220376	http://www.linsolitocaffe.com/
+node	2593033655	https://www.palazzodeiconsoli.it/
 node	2609444358	http://polomusealeumbria.beniculturali.it/?page_id=3609
 node	2610886567	http://www.mummiediferentillo.it/
 node	2616069741	https://www.conad.it/ricerca-negozi/conad-via-umberto-i-68-06034-foligno--000034
@@ -278,6 +281,7 @@ node	2902631338	http://www.ddastudio.net
 node	2927741732	https://www.narnia.it/sanguinaro.html
 node	2941322901	https://pizzeria-porta-pesa.eatbu.com/
 node	2944119126	http://www.pozzoetrusco.it/
+node	2944484985	https://www.ristoranteferrari.com/
 node	2944719652	www.fratticioli.com
 node	2962265380	https://www.perugiacheckup.it/
 node	3008391712	http://www.porcellitavern.it/
@@ -374,6 +378,7 @@ node	4293469009	http://www.lillero.it/
 node	4294230455	https://www.fugs.it/
 node	4301317214	https://www.hotellavela.it/
 node	4304120396	https://www.antonelliottica.it/
+node	4310811618	https://www.comune.spoleto.pg.it/turismoecultura/the-city/museums/museo-del-tessuto-e-del-costume/
 node	4337767206	https://www.borgodeicontiresort.com/
 node	4345580794	https://www.nailover.it/
 node	4367597762	https://www.poggiovalle.com/
@@ -576,7 +581,6 @@ node	7381728320	https://parafarmaciatommasone.blogspot.com/
 node	7383470488	http://www.ddsg.it/
 node	7392694882	www.saporedimareperugia.it
 node	7402349012	https://www.sassodeilupi.it/
-node	7402349013	https://www.bastianbirraio.it/
 node	7404927779	https://www.irosticceriperugia.it/
 node	7410186490	https://www.facebook.com/325514081231448/posts/869115046871346/
 node	7413643775	https://www.facebook.com/trattoriasanmartino/
@@ -848,6 +852,7 @@ node	11477176517	https://leradicisocietaagricola.it
 node	11487561812	http://www.autoscuolaazzurra.it/
 node	11488362478	https://www.facebook.com/newformulasportingclub
 node	11504383045	https://www.sanmarcosartoretti.it/index.asp
+node	11528127561	https://teatrostabile.umbria.it/teatro/teatro-caio-melisso-spoleto/
 node	11541127254	https://www.almaerrante.com/
 node	11557830749	http://www.piccolorelais-gallettodimarzo.it/
 node	11573959934	https://www.facebook.com/il.cucuzzaro.7/
@@ -909,6 +914,8 @@ way	62463839	https://www.comune.magione.pg.it/turismo-e-cultura/luoghi-di-intere
 way	72463646	https://www.liceiangeloniterni.gov.it/
 way	72463677	http://ittterni.gov.it/
 way	72473883	https://cinecittastudios.it/en/studios/umbria-studios
+way	73988241	https://fondoambiente.it/luoghi/cattedrale-di-santa-maria-argentea
+way	73988262	https://www.umbriatourism.it/it/-/basilica-di-san-benedetto
 way	75767955	https://turismo.comune.perugia.it/poi/orto-medievale
 way	77013288	https://www.carsulae.it/
 way	77205886	http://musei.beniculturali.it/musei?mid=5032&nome=ipogeo-dei-volumni-e-necropoli-del-palazzone
@@ -937,6 +944,7 @@ way	126838616	https://liceoalessi.org/
 way	126854523	http://www.adisupg.gov.it
 way	127212720	http://www.artehotelperugia.com/
 way	127505739	http://www.albornozpalace.com
+way	127505742	https://www.comune.spoleto.pg.it/turismoecultura/the-city/churches/chiesa-di-san-pietro-extra-moenia-2/
 way	127725824	https://it.wikipedia.org/wiki/Arco_dei_Gigli
 way	128542211	https://www.hotelgarden.com/
 way	129703647	https://www.bussolinidistribuzione.com/mugnano
@@ -949,10 +957,13 @@ way	138165289	https://www.diocesi.terni.it/san-giovanni-bosco-in-campomaggiore/
 way	144373509	http://www.lamborghinionline.it/pagine/golf-club
 way	148489166	http://www.gsgt.it/brico.html#RIFUGIO
 way	149647658	http://www.montimartaniseranosubasio.it
+way	149675315	https://www.duomospoleto.it/
 way	153761485	https://campusdavinci.edu.it
 way	154180015	https://www.gubbioculturamultiservizi.it/servizi/parcheggiare-a-gubbio/
 way	158373094	https://www.emisupermercati.it/
 way	159706780	https://www.iodibetto.edu.it/
+way	166104160	https://www.comune.spoleto.pg.it/turismoecultura/the-city/teatri/complesso-monumentale-di-san-nicolo/
+way	166106912	https://www.comune.spoleto.pg.it/turismoecultura/the-city/churches/chiesa-dei-ss-domenico-e-francesco/
 way	166123192	http://www.comune.spoleto.pg.it/
 way	168541215	http://polomusealeumbria.beniculturali.it/?page_id=3676
 way	174753710	http://touring24.info?STP=191
@@ -962,9 +973,11 @@ way	176335219	https://www.listro.it/
 way	176589640	http://musei.beniculturali.it/musei?mid=4673&nome=teatro-romano-e-antiquarium-di-gubbio
 way	177687147	https://www.fontemaggio.it/
 way	177727322	http://www.fontemaggio.it/hotel.htm
+way	194299532	https://www.comune.spoleto.pg.it/servizi/polizia-mortuaria/servizi-cimiteriali/
 way	201172745	https://www.per.umbria.it/
 way	203170559	https://www.areasostacampercampeggiocapitello.it
 way	204687572	https://www.fontemaggio.it
+way	204950959	https://www.duomospoleto.it/luoghi/sant-eufemia.html
 way	204958236	http://www.iluoghidelsilenzio.it/?p=11388
 way	206597933	http://www.iluoghidelsilenzio.it/?p=127345
 way	207812059	https://www.montelabate.com/
@@ -977,6 +990,7 @@ way	221851889	https://www.comune.corciano.pg.it/index.php/component/k2/200-antiq
 way	221853067	https://www.bonfiglicomprensivocorciano.gov.it
 way	221864299	https://icbastia1.gov.it/
 way	222091267	https://www.hoteldellatorre.eu/
+way	222174104	https://www.comune.spoleto.pg.it/turismoecultura/the-city/churches/chiesa-di-san-filippo-neri/
 way	222264179	https://www.vigilfuoco.it/sitiVVF/perugia/
 way	222603424	http://www.alessandrelli.eu/
 way	224748296	https://www.mulinaccino.it/
@@ -995,6 +1009,7 @@ way	236523861	http://www.betatex.com/
 way	236885583	http://www.rifugiosangaspare.it
 way	237016079	http://www.liceoartisticoterni.it/index.html
 way	237750831	http://musei.beniculturali.it/musei?mid=5350&nome=palazzo-ducale-di-gubbio
+way	237751169	https://www.umbriatourism.it/it/-/cattedrale-dei-santi-mariano-e-giacomo-gubbio
 way	237972937	http://www.scogliodellaquilone.it/hotel_scoglio_dell_aquilone.asp
 way	237972938	https://www.tavlacavallerizza.it/
 way	238107829	https://www.campodellafiera.it/
@@ -1013,6 +1028,8 @@ way	254200485	https://www.turismotorgiano.it/ita/15/monumenti-e-luoghi-di-intere
 way	254826551	http://www.comune.torgiano.pg.it/
 way	255060449	https://www.castellomonterone.com/it/
 way	255221327	https://www.collegiodelcambio.it/
+way	255227005	https://www.casamenotti.it/
+way	255228652	https://www.comune.spoleto.pg.it/turismoecultura/la-citta/musei/museo-diocesano-e-basilica-di-s-eufemia-2/
 way	256190289	http://musei.beniculturali.it/musei?mid=5416&nome=villa-del-colle-del-cardinale
 way	256344611	https://www.cinemaclarici.it
 way	258070591	https://www.comune.deruta.pg.it/uffici-comunali/ufficio-demografia-e-statistica-2/
@@ -1083,6 +1100,7 @@ way	372367186	https://www.ittfoligno.it
 way	372988860	https://www.casavacanzenorcia.it/
 way	376388036	www.siami.it/
 way	391912309	www.SanPonziano.it
+way	391912313	https://www.comune.spoleto.pg.it/turismoecultura/la-citta/chiese/chiesa-di-san-paolo-inter-vineas/
 way	391912316	http://www.iluoghidelsilenzio.it/?p=1462
 way	396750600	https://www.locandapoggioleone.it/
 way	405343407	https://www.agriturismoilcasanova.com/umbriaholiday/index.php
@@ -1102,8 +1120,10 @@ way	429844766	http://www.ilrifugioperugia.it/
 way	430197915	https://www.stradeanas.it/
 way	430963804	https://www.itticatranquilli.com/
 way	430963881	http://www.iluoghidelsilenzio.it/?p=200479
+way	431847387	https://www.comune.spoleto.pg.it/turismoecultura/the-city/teatri/teatro-romano/
 way	431880083	https://www.albergoferretti.com/
 way	431880169	https://www.iluoghidelsilenzio.it/?p=248791
+way	432064160	https://www.comune.spoleto.pg.it/turismoecultura/the-city/monumenti/ponte-delle-torri-e-fortilizio-dei-mulini/
 way	432080508	http://www.itspoleto.gov.it/
 way	432085632	https://www.carabinieri.it/
 way	432537973	https://www.abbazia.net/
@@ -1114,6 +1134,7 @@ way	438850395	https://norciaospitalita.it/
 way	439007217	http://www.iluoghidelsilenzio.it/?p=70502
 way	439018574	http://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-annunziata-poggio-di-croce-preci-pg/
 way	439018586	http://www.iluoghidelsilenzio.it/chiesa-di-santegidio-poggio-di-croce-preci-pg/
+way	439068422	https://www.iluoghidelsilenzio.it/chiesa-di-san-lorenzo-postignano-di-sellano-pg-2/
 way	439125929	https://www.borgodelrio.com/
 way	439163149	http://www.iluoghidelsilenzio.it/?p=13877
 way	439167293	http://www.iluoghidelsilenzio.it/?p=8359
@@ -1170,6 +1191,7 @@ way	475672322	https://www.regione.umbria.it/protezione-civile
 way	476048505	https://perugia.hoteleuropapg.com/
 way	476251513	https://clinicalami.it/
 way	477332058	https://www.2circolospoleto.edu.it/jm4/
+way	477456377	https://www.comune.spoleto.pg.it/turismoecultura/la-citta/monumenti/complesso-dellanfiteatro-romano/
 way	477886586	https://www.iluoghidelsilenzio.it/chiesa-di-san-tommaso-spoleto-pg/
 way	478905271	https://www.2circolospoleto.edu.it/jm4/
 way	481351131	http://www.e-coop.it/StoreLocator/mobile/storeDetail.jsp?store=251&zoom=9
@@ -1194,6 +1216,7 @@ way	490732342	http://www.amormisericordioso.org/ws/mapa/eam/italia/eam-montecchi
 way	490865529	https://www.casanazareno.it/
 way	494153174	https://www.icdellagengaalighieri.gov.it
 way	494481595	http://www.ctspoleto.it/index.html
+way	494902627	https://www.iluoghidelsilenzio.it/chiesa-di-san-marco-in-pomeriis-spoleto-pg/
 way	495165604	http://www.relaislafattoria.com/
 way	495444025	https://www.ilsarale.it/
 way	495621236	https://www.agriturismolabicocca.it
@@ -1246,8 +1269,10 @@ way	536689885	www.AgriturismoLaPila.com
 way	537391165	https://www.montesca.eu/
 way	540191463	https://www.santuariodimontemelino.it/
 way	540195378	https://www.cantinaberioli.it/
+way	540199485	https://montesperello.it/
 way	540219714	https://www.2circolospoleto.edu.it/jm4/
 way	540656127	https://www.sda.it
+way	540668136	https://www.comune.spoleto.pg.it/turismoecultura/the-city/monumenti/arco-di-druso-e-germanico/
 way	541871478	http://www.primocircolospoleto.it/ita/
 way	543390093	https://www.alvecchioforno.com/
 way	543451612	https://m.iluoghidelsilenzio.it/articolo.html?id=chiesa-della-madonna-di-lugo-spoleto
@@ -1503,6 +1528,7 @@ way	1156247069	https://www.iluoghidelsilenzio.it/chiesa-di-san-cassiano-mercatel
 way	1172237890	https://www.iluoghidelsilenzio.it/chiesa-di-san-giuseppe-montescosso-di-ponte-felcino-pg/
 way	1177772704	https://teatrodegliocchi.com/
 way	1177938974	https://www.relaisvilladeangelis.it
+way	1184418605	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-di-ricciano-poi-san-matteo-piano-di-ricciano-pg/
 way	1184496042	https://www.frantoiosepioni.it/
 way	1184778112	https://www.turismostroncone.it/ita/6/arte-e-cultura/5/sacrario-delle-armi/?ss=4
 way	1186200136	https://hotelcatignano.com/
@@ -1553,6 +1579,7 @@ relation	5392342	http://www.camminodellaluce.it/
 relation	6076493	https://www.flixbus.de/busverbindung/fernbus-rom-roma-muenchen
 relation	6076494	https://www.flixbus.de/busverbindung/fernbus-rom-roma-muenchen
 relation	6395829	http://osbnorcia.org/
+relation	6426252	https://www.iluoghidelsilenzio.it/rocca-albornoziana-spoleto-pg/
 relation	6455357	https://www.vetrya.com/
 relation	6554441	https://www.carabinieri.it/
 relation	6599043	http://www.lascarzuola.com/
@@ -1738,8 +1765,15 @@ relation	17375915	http://www.casecorboli.it/
 relation	17407102	https://www.camminoprotomartiri.it/il-cammino-dei-protomartiri-francescani/tappa-1-cammino-dei-protomartiri-da-terni-a-stroncone
 relation	17409935	https://www.camminodeicappuccini.it/
 relation	17428148	https://www.iluoghidelsilenzio.it/convento-di-santantonio-monteluco-di-spoleto/
+relation	17488039	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18538/Chiesa+di+San+Giovanni+Battista
 relation	17500657	http://www.agriturismoiltruffarello.it
 relation	17572848	http://www.agriturismovillaalpiano.it/
+relation	17667874	https://www.comune.corciano.pg.it/ecocorciano/itinerario-1-poggiolo
+relation	17670607	https://www.palazzocollicola.it/galleria.html
+relation	17675711	https://www.comune.corciano.pg.it/ecocorciano/itinerario-2-trosce
+relation	17675835	https://www.comune.corciano.pg.it/ecocorciano/itinerario-3-piagge
+relation	17675917	https://www.comune.corciano.pg.it/ecocorciano/itinerario-4-campore
+relation	17675981	https://www.comune.corciano.pg.it/ecocorciano/sentiero-fantastico
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1887119542	https://www.fezemauro.com/
 node	2146579118	https://www.domuspacis.it/
@@ -1777,6 +1811,7 @@ node	11874971676	https://anticaporchetteriagranieri.it
 node	11906824722	https://www.ristorantepicchioverde.com
 node	11916159148	https://fondazionemacsa.org/palazzo-degli-oddi/
 node	11931194124	https://www.lapiantadelte.it/shop/content/4-teaperugia-sala-da-te-punto-vendita-perugia-la-pianta-del-te
+node	11954443862	https://www.assisimuseodiocesano.it/visitaci/
 way	43051908	https://santuariorivotortoassisi.org/
 way	106506111	https://www.santuarioeremodellecarceri.org/
 way	140678619	https://www.superconti.eu/punti-vendita/orvieto/
@@ -1786,6 +1821,7 @@ way	204687572	https://www.fontemaggio.it
 way	222602134	http://www.irpi.cnr.it/
 way	228635691	https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2004000/assisi-war-cemetery/
 way	246213227	https://www.assisiofm.it/sacro-speco-narni-68-1.html
+way	254854443	https://www.assisimuseodiocesano.it/visitaci/
 way	279367111	https://www.montalionline.com
 way	279367126	http://www.montalionline.com/
 way	412972455	https://www.convittoassisi.edu.it/
@@ -1801,17 +1837,19 @@ way	620147295	http://www.cittadella.org/
 way	728195596	https://sanbenedettoalsubasio.it/
 way	757260586	https://panoramadincanto.it/
 way	835401677	https://villagabbiano.it/
-way	837491011	http://www.agriturismopoponi.it/
 way	849611228	http://www.olioragani.com/
 way	896680861	http://www.ostellovictorcenter.com
 way	915987117	http://www.victorhostel.com/
 way	1075546946	http://www.teatroinstabili.com/
 way	1111886908	http://www.fontebella.com
 way	1193573273	https://nursia.org/
+way	1289711090	https://turismo.comune.perugia.it/pagine/biblioteca-comunale-degli-arconi-perugia
+way	1290599799	http://www.upsandomenico.church/
 relation	2997264	https://casasangirolamo.azionecattolica.it/
 relation	3444241	https://www.casamonteripido.it/
 relation	8050899	http://www.viaggispirituali.it/strutture-turismo-religioso/umbria/monastero-s-croce_3353/
 relation	16020019	http://www.lavalnerina.it/
+relation	17666893	http://www.agriturismopoponi.it/
 node	703424171	http://italia.indettaglio.it/ita/umbria/perugia_sangiustino_cospaia.html
 node	2329559965	www.osterialecivette.it
 node	4364974414	http://www.umbriameteo.com/webcam/castelluccio/
