@@ -216,6 +216,7 @@ node	2002695502	https://www.poste.it
 node	2002719276	https://www.poste.it
 node	2002731416	https://www.poste.it
 node	2002999228	https://www.poste.it
+node	2005579919	https://trapaniedintorni.altervista.org/tag/museo-daniel-chalonge-erice/
 node	2015289574	http://www.feudohotel.it/home_page.htm
 node	2039090776	http://www.hotelcortese.info
 node	2039096636	https://www.hoteldelcentro.it/
@@ -501,6 +502,7 @@ node	2447905341	https://www.etnanatura.it/sentieri.php?nome=orgale
 node	2454252032	https://www.poste.it
 node	2458618807	https://www.poste.it
 node	2460840155	http://granieri.altervista.org
+node	2460985667	http://www.la-brace.it/
 node	2461680060	https://latrinacriacefalu.it/
 node	2462145631	http://www.consorzioarca.it/
 node	2462687192	https://www.poste.it
@@ -1754,6 +1756,7 @@ node	6385323217	http://www.museodiocesanomonreale.it
 node	6389392649	http://www.casadisaluteattardi.it/index.html
 node	6389746608	https://www.elettrautoluigirizza.com/
 node	6389746668	https://biovegansalone.it/
+node	6401593258	http://www.tutteleparrucchechevuoi.com/
 node	6414325344	https://www.poste.it
 node	6414325347	https://www.poste.it
 node	6415303530	https://vimavìgliartigianideriposo.com/
@@ -3348,6 +3351,7 @@ node	10895064417	https://www.feudovagliasindi.it/
 node	10907267705	https://www.capersud.it/
 node	10923510095	http://www.sicilianvilla.co.uk
 node	10925070811	https://www.volupizzeria.com/
+node	10926340332	https://www.badamo.it
 node	10926811818	https://www.piazzascammacca.com/
 node	10931717067	https://casadonpuglisi.it/
 node	10942031306	https://www.crai-supermercati.it/home/index.php
@@ -3673,14 +3677,27 @@ node	11917878745	http://www.ggbistrot.com/
 node	11921664969	https://commers.it
 node	11922620024	https://www.casabellinipalermo.it/
 node	11931642714	https://www.tripadvisor.it/Restaurant_Review-g1187116-d10678380-Reviews-La_Siesta_Trattoria_Pizzeria_Cucina_Tipica_Servizio_Bar-Naso_Province_of_Messin.html
-node	11933575694	http://www.comprensivomarconi.edu.it
-node	11936533243	http://www.comprensivomarconi.edu.it
+node	11933575694	https://www.comprensivomarconi.edu.it/
+node	11936533243	https://www.comprensivomarconi.edu.it/
 node	11937116811	http://www.comune.alcaralifusi.me.it
 node	11938224551	https://enotecadelletna.com
 node	11938667224	https://adspstretto.it/en/ports-of-stretto/port-of-messina/
-node	11939773781	http://www.comprensivomarconi.edu.it/
+node	11939773781	https://www.comprensivomarconi.edu.it/
 node	11940270669	www.gsportsiracusa.eu
 node	11945260279	https://www.mammamiaitaly.com/
+node	11951579755	http://www.associazionethalassa.it/
+node	11954269833	https://shitcoins.club/localizzazione-atm/bitcoin-bancomat-catania-vivante
+node	11954512038	https://www.badima.it/
+node	11956467386	https://bigbenchcommunityproject.org/
+node	11956499536	https://osterianicuzza.wordpress.com/2022/07/27/menu/
+node	11957861219	http://www.matteigela.edu.it
+node	11959825542	http://www.matteigela.edu.it
+node	11959841161	http://www.matteigela.edu.it
+node	11960745530	http://www.matteigela.edu.it
+node	11960745531	http://www.matteigela.gov.it
+node	11963159290	https://www.marinaarenella.it/
+node	11963665169	https://www.ilvolodipindaro.com/
+node	11963665171	https://www.dolphinexcursion.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3855,7 +3872,10 @@ way	95670373	https://www.icdusmetdoria.edu.it/
 way	97560233	https://www.ilpiccioloetnagolfresort.com/
 way	100142992	https://www.poste.it
 way	102487266	https://iclinguaglossacali.edu.it/
+way	105137673	http://cattedraletrapani.it/
+way	105440790	http://www.madonnaditrapani.it/
 way	105517673	https://www.poste.it
+way	105519298	https://comune.trapani.it/turismo/chiesa-santagostino/
 way	105587073	http://www.constp.it/
 way	106059254	http://www.comune.favignana.tp.gov.it/hh/index.php
 way	106231197	http://www.visitsicily.info/ex-stabilimento-florio-tonnara-favignana/
@@ -3868,6 +3888,7 @@ way	107399171	https://www.poste.it
 way	112572033	https://www.comune.siculiana.ag.it/
 way	113718601	https://www.poste.it
 way	113941330	https://www.anticastazione.it/
+way	113941355	https://www.beniculturali.it/luogo/real-casina-di-caccia-di-ficuzza
 way	114133356	https://www.poste.it
 way	114693854	https://www.principigrimaldi.edu.it
 way	114695124	https://www.scuolapoidomani.edu.it
@@ -3917,10 +3938,13 @@ way	147478836	http://www.icbattistifoscolo.gov.it/
 way	152522288	https://www.rifugiomarini.it/
 way	152673616	http://www.turrisicolonna.it/
 way	152697982	https://www.dfa.unict.it/
+way	153358879	https://www.santuaritaliani.it/santuario/madonna-di-dinnammare/
+way	153424773	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/45848/Erice+%28TP%29+%7C+Chiesa+di+Maria+Santissima+Assunta
 way	155851736	https://www.medicina.unict.it/it
 way	157869317	https://www.icsdecruyllasramacca.edu.it/
 way	157869747	https://www.icsdecruyllasramacca.edu.it/
 way	157873052	https://www.icsdecruyllasramacca.edu.it/
+way	158366234	http://visitme.comune.messina.it/it/luoghi/la-chiesa-di-santa-maria-della-valle-detta-la-badiazza-messina
 way	158590459	https://www.hotelvillaenricalipari.com/
 way	160332796	https://www.madonnadellasciara.it/
 way	160428601	https://www.liceoboggiolera.edu.it/
@@ -3966,12 +3990,14 @@ way	179093963	https://www.poste.it
 way	179310806	https://www.scuolecassibile.edu.it/
 way	179489827	https://www.euronics.it/
 way	179598993	https://www.icgiovannipaolo2gravinact.edu.it/
+way	180135702	https://www.comune.belpasso.ct.it/it/point-of-interest/705459
 way	180142473	https://www.lacasadelgrecale.it/
 way	181016594	https://www.alfrantoiovalderice.it/
 way	181103411	https://www.dodicesimosiracusa.edu.it/
 way	182673736	https://www.elbahira.it/
 way	182675995	https://piazzaborsa.it/
 way	182697160	https://www.forum-palermo.it/
+way	183282811	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/75386/Chiesa+di+Maria+Santissima+Assunta+in+Cielo
 way	184284609	http://hotelsileno.com/
 way	185266768	https://naturistphysis.wordpress.com/
 way	186189353	https://www.alfondacodelconte.it/en/
@@ -4015,7 +4041,6 @@ way	206283507	https://www.scuoladusmetnicolosi.edu.it
 way	206515616	http://scuolaromagnoligela.gov.it/
 way	206515617	https://istitutoeschilogela.edu.it
 way	207347603	http://www.silosristorante.com/
-way	207592023	https://www.altasferasicilia.it/
 way	207984267	http://rete.comuni-italiani.it/wiki/Enna/Chiesa_di_San_Pietro
 way	207984277	http://www.santuariopapardura.it/
 way	208099153	palazzocastro.it
@@ -4082,6 +4107,7 @@ way	231371799	https://www.istitutocomprensivovannanto.edu.it
 way	232215846	https://www.francescocrispi.edu.it/
 way	232215854	https://www.francescocrispi.edu.it
 way	232544266	https://www.regione.sicilia.it/industria/corpo%20delle%20miniere/servizio%20geologico/favignana.pdf
+way	232834705	https://turismo.chiesadipalermo.it/parrocchia-s-maria-maddalena-ciminna-sesto-vicariato-seconda-zona-pastorale/
 way	232906524	https://www.istitutoberlinguer.edu.it
 way	233424636	http://lacasadimariu.blogspot.it/
 way	233746598	https://www.ristorantepizzerialaragosta.it/
@@ -4114,6 +4140,7 @@ way	242060326	https://www.albertopoiatti.it/
 way	242062192	http://www.madacaf.com/
 way	242098245	https://www.scuolamarieleventre.edu.it
 way	242516025	https://www.istitutoberlinguer.edu.it
+way	242583103	https://www.visitpiana.com/cattedrale-san-demetrio
 way	242691971	http://www.mofetadeipalici.it/
 way	242727204	http://www.concadoropalermo.it
 way	243033783	ibagliresort.it
@@ -4332,6 +4359,8 @@ way	309325108	https://www.icvalledellanapo.edu.it/
 way	309325109	https://www.icvalledellanapo.edu.it/
 way	309325116	https://www.polivalentepalazzolo.edu.it/
 way	309822723	https://www.vemacar.it/
+way	309967150	https://riservamontecofano.com/torre-e-tonnara-di-monte-cofano/
+way	310056972	"https://www.comune.alcamo.tp.it/it/point-of-interest/746114#:~:text=Edificata%20nel%201547%20per%20volont%C3%A0,cappella%20centrale%20dietro%20l'altare."
 way	313860778	https://it-it.facebook.com/centrosportivo.sagittario/
 way	313863888	http://kikkivillage.net/en/
 way	313906792	https://plemmirio.eu/
@@ -4503,6 +4532,9 @@ way	391912402	http://www.ateliersulmare.com/it/fiumara/opere/parallelo.html
 way	391912403	http://www.ateliersulmare.com/it/fiumara/opere/muro-vita.html
 way	392976772	http://www.ateliersulmare.com/it/fiumara/opere/arianna.html
 way	392976774	https://www.comune.brolo.me.it
+way	393035358	https://www.comune.alcamo.tp.it/it/point-of-interest/746180
+way	393037934	https://www.comune.alcamo.tp.it/it/point-of-interest/746113
+way	393038214	https://www.comune.alcamo.tp.it/it/point-of-interest/chiesa-di-sant-oliva
 way	393151084	https://www.comune.forzadagro.me.it/
 way	393210424	http://www.campinguidaloca.it
 way	393235920	https://www.residenceguidaloca.it/
@@ -4522,6 +4554,7 @@ way	393511077	http://www.comunemalvagna.gov.it
 way	393513320	https://www.comunedimandanici.it/
 way	393521558	http://mistretta.info/it/pin.php?idP=3
 way	393614425	http://www.vacanze-a-scopello.it/
+way	394108596	http://www.parrocchianovaradisicilia.it/
 way	394635093	http://www.comune.santateresadiriva.me.it
 way	395075861	http://www.comune.santagatadimilitello.me.it
 way	395077591	https://www.comunescalettazanclea.it/
@@ -4563,6 +4596,7 @@ way	405682507	https://www.agostinianahotel.com
 way	405895672	http://www.accademiadeglizelanti.it/2008/giovannivecchio.pdf
 way	406114956	https://www.liceofloridia.edu.it
 way	406372171	https://www.comunecastelmola.gov.it/
+way	406554656	https://www.loquis.com/it/loquis/647287/Chiesa+di+Sant+Antonio+Abate
 way	407062013	https://www.kili-caffe.it/
 way	409050304	https://www.vigilfuoco.it
 way	409836090	https://www.hotel-siracusa.com/
@@ -5051,6 +5085,7 @@ way	881761570	https://www.vigilfuoco.it
 way	887604217	https://www.lidl.it/
 way	888307015	https://www.penny.it/
 way	888517210	https://www.penny.it/
+way	888750960	https://www.altasferasicilia.it/
 way	889210325	https://www.ddrodarivillabate.edu.it/
 way	892596271	http://www.museosantifurnari.it/
 way	896041663	https://www.euronics.it/
@@ -5224,6 +5259,7 @@ way	1071598508	https://www.lunaminoica.it/
 way	1075091659	www.adler-sicilia.com
 way	1075827711	https://www.facebook.com/giokolandia.parcogiochi
 way	1077704643	https://www.parcodisegesta.com/home.html
+way	1078728668	https://www.cefalumadoniehimera.it/pois/chiesa-madre-petralia-sottana/
 way	1080653823	https://www.euronics.it/
 way	1080654978	https://www.euronics.it/
 way	1080654979	https://www.euronics.it/
@@ -5779,6 +5815,7 @@ relation	909190	http://ortobotanico.unict.it/
 relation	1157427	http://seminariovescovilediocesimazara.blogspot.com/
 relation	1291574	https://www.monasterosantacaterina.com
 relation	1291721	http://www.musei.unipa.it/carceri.html
+relation	1505128	https://www2.regione.sicilia.it/beniculturali/museopepoli/museopepoli.html
 relation	2174735	https://www.me.camcom.it/me.camcom.it
 relation	2423951	https://www.eni.com/it-IT/attivita/italia-gela-la-bio-raffineria.html
 relation	2452912	http://www.irsapsicilia.it/uffici-periferici/irsap-gela.html
@@ -6012,6 +6049,7 @@ relation	12480052	https://www.caitaormina.it/
 relation	12481840	https://www.caimessina.it/
 relation	12482255	https://www.caimessina.it/
 relation	12492080	https://www.cairagusa.org/
+relation	12497792	https://www.comune.alcamo.tp.it/it/point-of-interest/castello-dei-conti-di-modica
 relation	12507120	https://www.caitaormina.it/
 relation	12507262	https://www.caitaormina.it/
 relation	12507324	https://www.caitaormina.it/
@@ -6170,7 +6208,6 @@ relation	14867037	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14868075	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14868201	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14868274	http://www.viefrancigenedisicilia.it/PaMe.php
-relation	14868375	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14868580	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14868736	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14868890	http://www.viefrancigenedisicilia.it/PaMe.php
@@ -6178,7 +6215,6 @@ relation	14869927	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14870017	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14870095	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14870227	http://www.viefrancigenedisicilia.it/PaMe.php
-relation	14872924	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14872948	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14873014	http://www.viefrancigenedisicilia.it/PaMe.php
 relation	14873066	http://www.viefrancigenedisicilia.it/PaMe.php
@@ -6326,6 +6362,8 @@ relation	17656119	https://www.viefrancigenedisicilia.it/
 relation	17656670	https://www.viefrancigenedisicilia.it/
 relation	17656755	https://www.viefrancigenedisicilia.it/
 relation	17656928	https://www.viefrancigenedisicilia.it/
+relation	17685775	http://www.viefrancigenedisicilia.it/PaMe.php
+relation	17686492	http://www.viefrancigenedisicilia.it/PaMe.php
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	548101816	http://www.medicalcentermazara.it
 node	582900801	https://www.villaaltair.com/
@@ -6450,6 +6488,7 @@ node	11835685565	https://www.eolianresidence.com/
 node	11847846132	https://www.seleneimbesi-immunoallergologia.it/
 node	11934917202	https://anticasena.it/
 node	11950505164	https://bbagricolarosa.it/
+node	11955289120	https://www.linkspace.it/
 way	34227431	http://liceomazara.edu.it/
 way	34314619	https://www.zoculture.it/
 way	35264757	http://www.wwfpreola.it/
