@@ -47,6 +47,7 @@ node	610671412	https://www.conad.it/ricerca-negozi/conad-superstore-viale-costan
 node	610671413	https://caffedelduca.business.site/
 node	618134478	https://www.rosacremeriafood.it
 node	619002123	https://www.lafermanella.com/
+node	627797955	https://www.centromedicosantemidio.it/
 node	636108666	http://www.siconte.it/it/punti-vendita/si-supermercati/supermercati-ancona-tavernelle
 node	637949781	https://www.lorenzcafe.it/
 node	637971065	https://www.locandaannomille.it/menu-osteria-anno-mille
@@ -74,6 +75,7 @@ node	665605901	https://www.morandigroup.it/
 node	672555229	https://www.pizzeriadabruno.it/
 node	672985843	https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/9896
 node	672986219	https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/9897
+node	672990072	https://www.farmacialoffreda.it/
 node	672992968	https://albergosantemidio.it/
 node	673024078	http://musei.beniculturali.it/musei?mid=204&nome=museo-archeologico-statale-di-ascoli-piceno
 node	675435326	https://www.albergodorico.com
@@ -234,6 +236,7 @@ node	1875607893	http://www.comune.pesaro.pu.it/cultura/biblioteche/biblioteche-d
 node	1875634048	https://ristorante-giapponese-hachiko.eatbu.com/
 node	1884913016	http://www.villagruccione.it/
 node	1903921716	https://www.europcar.it/
+node	1944932058	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18486/Chiesa+di+San+Giovanni+Battista
 node	1947715291	https://www.libreriadelmonte.it/
 node	1962525554	http://www.dalmarchigiano.it
 node	1969807116	http://www.ilcerchiomagico.net/
@@ -674,6 +677,7 @@ node	5068857230	https://fabriano-matelica.it/
 node	5073727272	https://studiocalzonetti.it/
 node	5122058024	https://www.bblavalle.com/
 node	5147898021	https://www.teknoteam.it/
+node	5182134568	https://fondoambiente.it/luoghi/santuario-di-santa-maria-delle-stelle-cagli-90542
 node	5218627021	https://www.santoripianoforti.it/
 node	5223024480	http://www.treia.mobi/wp/monumento-papa-pio-vi/
 node	5223303239	https://www.dafoschetta.it
@@ -1055,6 +1059,7 @@ node	9458041007	http://www.andreabiancheriaofferta.it/
 node	9458041009	https://www.mattiolisposi.it/negozio-sposi-fano.html
 node	9458041010	https://www.assistudiogroup.it/
 node	9464539820	https://www.semidinchiostro.com
+node	9471789477	http://www.croceverdemsg.org/
 node	9473835733	https://www.facebook.com/QUASIbistrot
 node	9490966718	https://www.illaboratoriodelfarmacista.it/home
 node	9491014018	https://moarsvapo.com/
@@ -1482,6 +1487,10 @@ node	11910708805	https://www.bourmet.it/
 node	11911699148	https://gigliosanlorenzo.blogspot.com/
 node	11917978494	https://www.anticafarmaciadellospedale.it/
 node	11920480577	https://www.subito.it/vi/551785629.htm
+node	11953874725	https://www.leggimenu.it/menu/75sk7fao75q1?fbclid=PAAaaWao-s5O2ne-o1GN9TFYXtIQVMIxF8WFRgoKiyyZ6jvDl3BHXN7ceSayM
+node	11962273977	www.eaglesaviationacademy.com
+node	11964590568	http://mare-vento.blogspot.com/
+node	11965433118	https://www.modaiole.it
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1508,6 +1517,7 @@ way	44582742	http://www.abbadiafiastra.net/index.php?option=com_content&view=art
 way	45374726	https://www.casadelsolepineta.it/
 way	54579458	https://www.rifugideisibillini.it/
 way	54579745	http://www.rifugiomontisibillini.it/
+way	55334188	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/70665/Collegiata+di+Maria+Santissima
 way	58319973	https://albattente.it/
 way	58627567	http://www.seminariovescovileascolipiceno.it/
 way	60611667	https://www.garofolivini.it/
@@ -1522,6 +1532,7 @@ way	68458699	http://www.santuariomacereto.it/
 way	69764943	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII158941#
 way	70050612	https://www.lasorgenteagriturismo.com/
 way	72857152	https://www.treiamusei.it/teatro-comunale/
+way	75614890	https://fonteavellana.it/
 way	75614891	http://www.asmontecatria.com
 way	81296770	https://www.allasolagna.it/
 way	82135616	http://www.quadrifogliohotel.it/
@@ -1529,6 +1540,7 @@ way	93722799	https://www.campingstellamaris.it/
 way	96604905	https://www.scioviemontenerone.it/
 way	97176141	http://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	100298769	https://www.lagrancia.net/
+way	105806467	https://ourhotel.store/it/pesaro-13382/hotel_nettuno-325126.html
 way	105812217	https://www.atlanticpesaro.it/
 way	106274924	https://www.ramuse.it
 way	108129237	http://www.roccavarano.info/
@@ -1567,7 +1579,6 @@ way	174192367	https://trattoriamolosud.it/
 way	174192372	https://mercatoitticosbt.it/
 way	176823254	http://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	176823255	http://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
-way	177972002	https://www.ristorantechiaroscuro.it/
 way	183160671	http://www.standbycoffeebistro.com/
 way	196171471	http://www.finisafricae.info/
 way	196176606	http://www.comune.pesaro.pu.it/turismo/da-vedere-in-citta/parchi-e-giardini/parco-miralfiore/
@@ -1765,6 +1776,7 @@ way	373184465	http://www.sibillini.net/
 way	373194350	http://www.rifugioaltino.it/
 way	375684358	https://www.aspes.it/3/servizi-e-attivita/servizi-cimiteriali/attivita.html
 way	375994743	http://www.casaaccoglienzadilvabaroni.org
+way	375998165	https://www.iluoghidelsilenzio.it/abbazia-di-san-vittore-alle-chiuse-genga-an/
 way	376352931	https://www.operapadreguido.it/
 way	376940809	https://www.kinesissport.it/
 way	377192013	https://www.mdspa.it/punti-vendita/Marche/Ancona/827-Ancona
@@ -1820,6 +1832,7 @@ way	439016112	http://www.rifugiosibilla1540.com/
 way	439208734	https://www.iluoghidelsilenzio.it/chiesa-della-romita-a-croce-visso-mc/
 way	439644620	https://sol.bibliomarchenord.it/opactest/library/FRONTONE%20-%20Biblioteca%20Comunale/URB$CNFRONTONE
 way	440671434	https://rifugiocollelecese.it/
+way	442655082	https://www.lavalledelmetauro.it/contenuti/beni-storici-artistici/scheda/4680.html
 way	444189301	http://www.sidecar.it
 way	445824345	https://teatrodelleapi.it/
 way	447985152	https://www.corteconti.it/Home/Organizzazione/UfficiCentraliRegionali/UffMarche
@@ -1957,6 +1970,7 @@ way	1037855788	http://parrocchiamarina.it/
 way	1039132317	https://tenutasanmarcello.net/esperienze/
 way	1050395484	http://www.sportvillagepesaro.it/
 way	1052245266	https://www.effettoluce.it/
+way	1060371569	https://carpegnacampingcippo.it
 way	1073337728	https://amicocountryhouse.com/
 way	1074286204	https://www.centromontessori.it/
 way	1078864712	https://www.casadelpoggio.com/
@@ -1965,6 +1979,7 @@ way	1082015715	https://www.papie.it
 way	1084246420	http://www.agriturismosbrega.com/
 way	1087320574	https://www.fondazionevillasangiuliano.com/
 way	1094781880	https://www.iisraffaello.edu.it/
+way	1095746610	https://fondoambiente.it/luoghi/cripta-e-capitolo-dell-abbazia-di-sangelo-di-chiaserna?ldc
 way	1096312500	http://www.valdifiori.nl
 way	1097228554	https://www.albergodellorsobo.it/
 way	1097799401	http://www.abbaziadisanturbano.it/
@@ -2034,13 +2049,13 @@ way	1282128846	https://www.navaltecnica.net/
 way	1283737285	https://bagnielsa.it/
 way	1288489020	https://www.iluoghidelsilenzio.it/eremo-della-madonna-del-sasso-valleremita/
 way	1288737769	https://www.iluoghidelsilenzio.it/chiesa-sconsacrata-di-san-sebastiano-belforte-del-chienti-mc/
+way	1290057374	http://www.chaletmarakaibo.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
 relation	1749100	http://musei.beniculturali.it/musei?mid=4093&nome=anfiteatro-romano-di-ancona
 relation	2126671	https://www.mirahotels.com/it/nuovonaturalvillage
 relation	3164710	https://www.gransassolagapark.it/
-relation	3210785	https://www.castellopallotta.com/
 relation	3415695	http://www.parcodelconero.com
 relation	4053386	https://www.civicatolentino.it/servizi-asp-civica-tolentino/servizi-residenziali-asp-tolentino-macerata.html
 relation	4163743	https://www.hotelpalace.net/
@@ -2111,8 +2126,6 @@ relation	14381580	https://www.parcosanbartolo.it/
 relation	14466885	https://www.prolococossinea.com/p/percorso-naturalistico-le-cese.html
 relation	14588022	https://camminilauretani.eu/
 relation	14597735	https://camminilauretani.eu/
-relation	14601418	https://camminilauretani.eu/
-relation	14606707	https://camminilauretani.eu/
 relation	14874398	https://www.lacapanninadiportonovo.it/
 relation	15657082	https://pedalareconlentezza.com/muro-ortezzano/
 relation	16051021	https://visitaltemarche.it/ciclo-appeninica/
@@ -2139,6 +2152,7 @@ relation	17358806	https://www.grandeanellodeiborghiascolani.it
 relation	17371893	https://www.caiascoli.it
 relation	17386687	https://www.caiascoli.it
 relation	17409935	https://www.camminodeicappuccini.it/
+relation	17685720	https://www.castellopallotta.com/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
@@ -2352,6 +2366,7 @@ node	11350883408	http://museopontificio.santuarioloreto.it/
 node	11374438486	https://digisvapo.it
 node	11891148388	https://www.santuarioloreto.va/it/accoglienza/strutture-ricettive/ristorante.html
 node	11950457583	https://midac.wordpress.com/
+node	11953271433	https://www.ristorantechiaroscuro.it/
 way	14805243	https://www.santuarioloreto.va
 way	44523218	http://www.arterisko.com
 way	61094272	http://www.athleticclubpesaro.it/
@@ -2371,6 +2386,7 @@ way	143339638	https://www.iguzzini.com/
 way	144658381	https://sangiuseppedacopertino.net/
 way	157172901	https://www.icmarotta.edu.it/
 way	172284112	http://www.vecchiaquercia.it/
+way	177972002	https://www.ristorantechiaroscuro.it/
 way	196204922	http://www.centromiralfiore.it/
 way	219553036	http://www.maceromaceratese.it/
 way	244078703	http://www.cavirginia.it
@@ -2379,6 +2395,7 @@ way	281623176	https://www.valledelmetaurocountryhouse.it/
 way	295395130	http://www.ferienwohnungen.de/ferienhaus/10218/
 way	296951374	http://www.comune.senigallia.an.it/senigallia/senigallia/infocitta/la_rotonda/index.htmlhttp://www.comune.senigallia.an.it/senigallia/senigallia/infocitta/la_rotonda/index.html
 way	300426555	http://www.vinisantabarbara.it
+way	304053944	https://www.uliassi.com/
 way	306795438	http://www.casa-aurora.it
 way	307177264	http://www.lamarcadisanmichele.com
 way	308902876	http://www.agriturismolulivo.com
@@ -2439,7 +2456,9 @@ way	1220130978	https://hotelmadonnadiloreto.it/
 way	1223292488	http://www.radiomagnetic.it/
 way	1236100673	http://www.relaisconcorde.it
 way	1245772345	https://www.tasteria.it/
+way	1245805544	https://www.vinirocchi.it/
 way	1286175568	http://www.sorellepoveredisantachiara.it/
+way	1289060611	http://turismo.comune.caldarola.mc.it/musei-cms/antiquarium/
 relation	1085619	https://www.cappuccinimarche.org/?page_id=21673
 relation	1434016	http://www.officinabonfigli.it
 relation	6517698	http://www.sorellepoveredisantachiara.it/
