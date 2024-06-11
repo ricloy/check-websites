@@ -15,7 +15,6 @@ node	226905520	http://frigoristoshop.it/index.php
 node	227538028	https://www.conad.it/ricerca-negozi/negozio.050473.html
 node	227758048	https://www.enistation.com/
 node	228109189	https://www.ecoscaligera.com/
-node	228167587	https://carburanti.esso.it/it-it/find-station/100105836
 node	250135708	https://www.multiastra.it/
 node	250318477	https://farmaciamodernabartoli.it/
 node	250421437	http://gamgamkosher.com
@@ -404,7 +403,7 @@ node	1416427223	https://www.comune.castellodigodego.tv.it/
 node	1416495699	https://www.mebelettroforniture.it/
 node	1416534841	https://www.hoteldalponte.it/
 node	1416684827	https://www.villadewinckels.it/
-node	1417147910	http://www.centroitalmark.it/
+node	1417147910	https://www.italmark.it/puntivendita/italmark-valeggio-sul-mincio-via-dei-pittori/
 node	1418801547	https://www.ristoasi.com/
 node	1420137938	https://www.pizzeriaalvesuvio.it/
 node	1420785422	https://www.marinadiportolevante.it/
@@ -6243,6 +6242,7 @@ node	11807983697	https://www.abbigliamentocandeovettorato.it
 node	11811529203	https://www.lanubelessinia.it/
 node	11811564268	https://www.hostariasanbenedetto.it/
 node	11816159256	https://www.anticapusterla.com/en/
+node	11816826950	https://www.starbien.it
 node	11818576387	https://risotto.linux.it/
 node	11822788620	https://tend-hair.net/
 node	11824889366	https://laverduradeisanti.it/
@@ -6287,6 +6287,7 @@ node	11917542038	http://www.nuovavetreria.com/
 node	11919869044	https://chaletmatilde.it
 node	11921727787	https://www.scanferlasrl.it
 node	11928368360	https://shitcoins.club/localizzazione-atm/atm-bitcoin-verona-via-venti-settembre
+node	11930183059	https://www.repower.com/it/la-mobilita-elettrica/
 node	11933473260	https://otticacasalserugo.it/
 node	11934584885	https://www.facebook.com/ilporticciolo20/
 node	11935188508	https://www.hostelsclub.com/en/hostel/la-pescheria-backpackers
@@ -6307,6 +6308,14 @@ node	11945033080	https://www.micronidoatuttotondo.com/
 node	11950852269	https://www.scuolagrandesanteodoro.it
 node	11952442769	https://berggruenarts.org
 node	11954889115	https://www.hoteloasi.it/
+node	11955486423	https://www.dananni.com/
+node	11957935755	https://www.lasaponaria.it/biostorie-montebelluna
+node	11961345771	https://www.studioarchitetturadomus.it/
+node	11962252315	mgonline.it
+node	11966413569	http://berggruenarts.org/it/
+node	11967732448	https://www.robertomartin.it/
+node	11967732463	https://www.disinfestazionidashja.it
+node	11969057439	https://www.centroservizianzianitintoretto.it/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6920,7 +6929,6 @@ way	146011061	http://www.ossariocustoza.it
 way	146011555	https://www.aziendaagricolatamburinosardo.it/
 way	146022688	https://campsite.bio/bfconegliano
 way	146031361	https://www.sme.it/
-way	146031528	https://www.comprensivo3conegliano.edu.it/pagine/-scuola-secondaria-di-i-grado-a-brustolon-
 way	146059658	https://www.proseccozinto.it/
 way	146061941	https://tegolacanadese.com/
 way	146078811	http://www.schioindustrialheritage.it/it/page_42.html
@@ -7326,7 +7334,6 @@ way	178807553	http://www.calozzio.com
 way	178807608	https://www.sictel.it/
 way	178807787	https://www.diocesivittorioveneto.it/territorio/parrocchie.asp?for=10&parr=90
 way	178819377	http://www.royhotel.it/
-way	179307415	https://www.lidl.it/
 way	179671205	https://www.legambienteverona.it/malga-derocon/
 way	179702488	https://www.rivadeitor.it/
 way	180142157	https://altaviadolomitibellunesi.it/accommodation/casera-campotorondo/
@@ -7441,6 +7448,7 @@ way	189924863	https://iccorner.edu.it/le_scuole/leonardo-da-vinci/
 way	189925134	https://www.villasagredo.it/
 way	189928806	https://www.facebook.com/VigoHype/
 way	189934513	http://www.chiesacristianadolo.it/
+way	189935432	https://www.hotel-in.it/
 way	189951721	https://www.prixquality.com/punti-vendita/campagna-lupia-572/
 way	189956563	https://www.parrocchiacamponogara.it/
 way	189966541	https://icalvisepisani.edu.it/
@@ -8156,7 +8164,7 @@ way	373681324	https://www.silverplated.it/
 way	373698108	http://www.asiagofood.it/
 way	373761094	www.beriabus.it
 way	374699552	https://www.icrubano.it/pagine/da-vinci
-way	374700574	https://www.centrolebrentelle.it/
+way	374700574	https://centrolebrentelle.it/
 way	374700577	http://www.parrocchiasarmeola.it
 way	374700584	http://www.irpea.it/infanzia.html
 way	374700585	http://www.ulss16.padova.it
@@ -8874,6 +8882,7 @@ way	1227411400	https://www.alcott.eu/
 way	1228683983	https://www.fratisaccolongo.it/
 way	1230200487	https://www.wallabytex.it/
 way	1232501456	https://www.beverlyhillsportingcentre.it
+way	1234481793	https://labulloneria.it/
 way	1234542545	https://campingparkdeidogi.com/
 way	1234723120	http://www.jesolocamper.it/
 way	1236243249	https://villaggiomarzotto.it/
@@ -8896,6 +8905,7 @@ way	1278859425	https://www.mcdonalds.it/
 way	1284878072	https://www.chaletmatilde.it
 way	1287079069	https://agricampeggioleterrazzesulgarda.com
 way	1288052612	https://unizeb.it/
+way	1290355780	https://www.comprensivo3conegliano.edu.it/pagine/-scuola-secondaria-di-i-grado-a-brustolon-
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -8968,6 +8978,7 @@ relation	1825422	http://www.caisezionethiene.it/
 relation	1825457	http://www.caisezionethiene.it/
 relation	1826618	http://www.caidueville.it
 relation	1899174	https://www.magicoveneto.it/Altipian/trek/Sentiero-Pace-1.htm
+relation	1922275	https://www.kempinski.com/en/san-clemente-palace-kempinski
 relation	1927025	https://carezzonico.visitmuve.it
 relation	1970896	http://www.347.it/duomovillafrancadiverona/
 relation	2015439	https://www.campingcaorle.it/it
