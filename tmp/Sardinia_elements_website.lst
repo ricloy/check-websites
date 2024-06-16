@@ -695,7 +695,6 @@ node	3087612335	http://www.sardegnacultura.it/j/v/253?s=20748&v=2&c=2488&c1=2129
 node	3087713959	https://www.sardegnaturismo.it/en/point-of-interest/sa-carcaredda-area
 node	3091400632	https://www.comune.padria.ss.it/en/Padria/IPontiRomani/Ettori/
 node	3093989698	https://www.hotelvillabelfiori.it/
-node	3099250559	http://www.hotelcorallosardegna.it/
 node	3105836455	www.redlion-sassari.it
 node	3109790616	www.actiniabb.com
 node	3145904906	http://www.guardiacostiera.gov.it/alghero
@@ -918,6 +917,7 @@ node	4207372214	https://mulinu.it/
 node	4207374142	http://www.farmaciagali.it
 node	4207379307	https://www.oltre.com/
 node	4207388676	https://www.miamakeup.it/
+node	4207389891	https://www.sardegnacultura.it/articolo/nuoro-museo-della-ceramica-isre
 node	4207397500	https://www.bancosardegna.it/
 node	4207400140	https://www.abbanoa.it/Azienda/Distretti/Distretto-5-Nuoro
 node	4209178711	http://www.sasabbilas.it/
@@ -981,6 +981,7 @@ node	4266006881	https://nuragheapartments.it/
 node	4268322210	http://www.anticadimoraolbia.it/
 node	4268326693	https://rosasgioiellerie.com/
 node	4268445652	http://welldoneburger.com/olbia/
+node	4268452840	https://olbiascooterrental.com/
 node	4274032389	http://www.bflat.it/
 node	4305131932	http://www.superconcas.it/contatti/superconcas-isola-rossa/
 node	4307705249	https://www.tellas.org/
@@ -1675,6 +1676,8 @@ node	11891845962	https://www.supermercatipan.it/punti-vendita/sardegna/superpan-
 node	11925747476	https://shitcoins.club/localizzazione-atm/bancomat-bitcoin-Cagliari
 node	11939613369	http://ortoristorante.it
 node	11951479265	https://www.campovoloportopino.it
+node	11977520186	www.e-boat.it
+node	11977533996	www.sadomoartesarda.com
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1713,7 +1716,7 @@ way	102711368	https://www.calaliberotto.info/
 way	102711476	http://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/2000240944A
 way	103281362	https://www.nuraghelosa.net/
 way	114146044	http://www.lascogliera-ristorante.it/
-way	117912510	www.piniemare.com
+way	117912510	https://www.lavitacamp.it/index.html
 way	118555645	http://www.anfiteatroromano.it/
 way	118559015	https://www.duomodicagliari.it/
 way	118615004	https://ersucagliari.it/
@@ -1749,6 +1752,8 @@ way	142884664	https://www.comune.orroli.ca.it/
 way	143936132	https://www.comune.gavoi.nu.it/
 way	146021538	https://pozzosantacristina.com
 way	146254555	https://www.beniculturali.it/luogo/palazzo-di-baldu
+way	146254613	https://www.gallurago.it/punti-interesse/chiesa-di-santo-stefano
+way	146255652	https://www.sardegnaturismo.it/it/esplora/eremo-di-san-trano
 way	147467110	http://musei.beniculturali.it/musei?mid=948&nome=castello-del-goceano
 way	147820350	https://www.guardiacostiera.gov.it/organizzazione/Pages/ufficio-locale-marittimo-di-siniscola.aspx
 way	148161152	https://www.itcgoggiano.edu.it/
@@ -1835,6 +1840,7 @@ way	224162270	https://www.comune.gairo.nu.it/index.asp
 way	225050799	https://www.comune.ozieri.ss.it/
 way	225107194	https://ilcanneto.it.gg/
 way	225138405	https://www.comune.osini.nu.it/
+way	227848866	https://www.loquis.com/it/loquis/243064/Chiesa+di+Nostra+Signora+del+Carmelo
 way	228070254	https://www.hotelsetar.it/
 way	228130813	https://www.campingledune.it/
 way	228552758	http://www.ristorantegolfoaranci.net
@@ -1869,6 +1875,7 @@ way	248433658	http://web.tiscali.it/isgrazias/
 way	248684742	http://www.comune.masullas.or.it
 way	248785726	http://www.sardegnacultura.it/j/v/253?s=20773&v=2&c=2488&c1=2123&visb=&t=1
 way	248785840	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/38069/Chiesa+di+Nostra+Signora+di+Bonaria
+way	248786030	http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&type=auto&code=38068
 way	249087856	https://www.distrettoculturaledelnuorese.it/it/vivi-nuorese/cosa-vedere/luogo/Chiesa-della-Madonna-della-Solitudine/
 way	249484355	http://www.sardegnacultura.it/j/v/253?s=17880&v=2&c=2471&c1=2629&visb=&t=1
 way	249860768	https://www.zio-ciro.com/
@@ -1921,6 +1928,8 @@ way	273558302	https://www.hotellepalmeportocervo.it/de/hotel-porto-cervo/1-0.htm
 way	273558926	https://www.bbsmeralda.com/
 way	273559704	https://ristoranteilguscio.it/
 way	273567995	https://www.scuoladiarzachena.it/index.php/secondariaabbiadori.html
+way	273799034	https://www.galtellisardegna.it/
+way	273799036	https://www.sardegnaturismo.it/it/esplora/santissimo-crocifisso-galtelli
 way	274938784	https://www.cantinadorgali.it
 way	274938794	https://www.diocesidinuoro.it/wd-annuario-enti/santa-caterina-dalessandria-dorgali-224/
 way	275439788	https://www.sardegnainminiatura.it/
@@ -1973,6 +1982,7 @@ way	278062543	http://www.bibliotecasatta.org
 way	278062646	https://www.hotelsandalia.com/
 way	278062760	https://teatroeliseonuoro.sardegnateatro.it/
 way	278063019	http://www.exmenuoro.it/
+way	278063563	https://www.distrettoculturaledelnuorese.it/it/vivi-nuorese/cosa-vedere/luogo/Cattedrale-di-Santa-Maria-della-Neve/
 way	278063667	http://www.bibliotecasatta.org
 way	278066005	http://www.vestisefralu.it/
 way	278066760	https://www.mdspa.it
@@ -2012,6 +2022,7 @@ way	279271916	https://www.villamosca.it/
 way	279272665	https://www.architettura.uniss.it/
 way	279386425	https://www.campingsanteodoro.com
 way	279388114	https://www.ristorantemiriacheddu.it/
+way	279399229	https://www.galluraturismo.eu/chiese-campestri-ad-ala-dei-sardi/
 way	279424755	https://nuraghedellagocoghinas.com
 way	280115960	https://www.samarina.com
 way	280117671	http://www.ristoranteshardana.it/
@@ -2028,6 +2039,7 @@ way	281459337	http://www.mirkoshop.com
 way	281474404	https://www.puntalizzu.com/
 way	281474679	http://www.sardegnabiblioteche.it/index.php?xsl=839&s=2&v=9&c=5941&codice=IT-NU0082
 way	281515480	http://www.coopvillabbas.sardegna.it/museo.htm
+way	283264936	https://www.santateresadigallura.com/la-chiesa-della-madonna-del-buoncammino/
 way	283514823	http://www.provincia.carboniaiglesias.it/
 way	283518800	https://virtualarchaeology.sardegnacultura.it/index.php/it/siti-archeologici/eta-medievale/torri-costiere-di-arbatax/schede-di-dettaglio/1267-il-sistema-delle-torri-costiere
 way	283641944	https://www.agriturismolakustera.com/
@@ -2047,6 +2059,7 @@ way	289634125	https://www.ianas.edu.it/
 way	289634914	https://www.ianas.edu.it/luogo/convitto-san-giovanni/
 way	289637073	https://www.supasu.it/
 way	289637625	http://www.cantinaogliastra.it
+way	291564560	http://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/2000147501-bene-individuo
 way	291564670	https://www.coopenis.it/
 way	291565535	https://www.comune.oliena.nu.it/
 way	291566726	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/84005/
@@ -2094,8 +2107,10 @@ way	295531709	http://www.hotelviadelmare.com/
 way	295594484	https://www.zona.eu/shop/home
 way	295643303	http://www.visitmuravera.it/museo-la-casa-dei-candelai/
 way	295705610	https://www.comune.serdiana.ca.it/citta-e-territorio/spazi-culturali/biblioteca.html
+way	295732977	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/38074/Burcei+%28CA%29+%7C+Chiesa+di+Nostra+Signora+di+Monserrato
 way	295893536	https://www.ilsognospettacoloso.com
 way	295896452	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/38282/Villasalto+%28CA%29+%7C+Chiesa+di+San+Cristoforo
+way	295898222	https://chiesedisardegna.weebly.com/villasalto.html
 way	295899376	http://www.agriturismoilnuraghe.it/agriturismo.asp
 way	295902066	https://www.lunalughente.eu/
 way	295904508	https://www.panificiopeis.com
@@ -2182,7 +2197,10 @@ way	305321731	https://www.costarossasardegna.com/website/storia-e-cultura/chiese
 way	305328645	https://www.sardegnacultura.it/j/v/298?s=39015&v=2&c=2550&gg=19&m=05&y=2022&t=1
 way	305329579	http://www.ristorantebonvicino.it/
 way	305330058	www.concamarina.it
+way	305334674	https://www.gallurago.it/punti-interesse/basilica-nostra-signora-di-luogosanto
+way	305336914	http://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/2000047706
 way	305337080	https://web.archive.org/web/20160909235554/http://galluraeanglona.myblog.it/2010/09/18/chiesa-campestre-di-n-s-delle-grazie-calangianus-ot/
+way	305337654	https://catalogo.cultura.gov.it/detail/ArchitecturalOrLandscapeHeritage/2000047710
 way	305351371	http://bbsustrangiu.altervista.org
 way	305644772	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/2000240940A
 way	306484654	https://www.hotelpausaniainn.com/
@@ -2312,10 +2330,12 @@ way	459279369	https://www.camping-tavolara.it/
 way	460285327	https://www.romanzesu.sardegna.it
 way	460307345	http://www.lorenzobellu.com/sito/gallerie/storia/Bortigali%20-%20Orolo/index.html
 way	460690915	https://www.eurospin.it/
+way	461376220	https://nuraghi.net/nuraghe-agnu
 way	461377823	http://www.sardegnacultura.it/j/v/253?s=20730&v=2&c=2651&c1=2616&t=1
 way	461535820	http://www.pfts.it/
 way	462934972	http://www.coopvillabbas.sardegna.it/anastasia.htm
 way	463424374	https://www.fradiles.it/
+way	463431492	https://idese.cultura.gov.it/place/ex-convento-dei-frati-cappuccini-chiesa-santa-maria-degli-angeli/
 way	464103133	https://www.agriturismosumassaiu.it/
 way	464275788	https://www.eurospin.it/
 way	488049229	http://www.sardegnacultura.it/j/v/253?s=20737&v=2&c=2488&c1=2130&t=1
