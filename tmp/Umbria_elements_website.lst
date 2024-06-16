@@ -494,6 +494,7 @@ node	5584810064	https://www.ediliziainrima.it/
 node	5588785106	https://www.agriturismobellarosa.it/
 node	5628874648	https://www.leonigrafiche.it/
 node	5642238227	http://www.contistore.eu/
+node	5647928967	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/42406
 node	5669791421	https://www.vivomarket.it/comune/54051/Spoleto.html
 node	5675766175	https://www.bebopgelateria.it/
 node	5675827389	https://www.acquadolcesailing.it/
@@ -895,10 +896,12 @@ node	11928509134	https://www.hoteldeiduchi.com/
 node	11931610056	https://lnx.clarisseperugia.it/
 node	11937131165	https://www.albaciamano.it/
 node	11939842486	https://www.facebook.com/bevagna1
-node	11944884596	www.sudosteria.it
+node	11944884596	https://www.sudosteria.it/
 node	11945606486	https://www.norcineriafelici.it/
 node	11945619193	https://www.moscatellitartufi.com/
 node	11949811972	https://www.santarcangelotodi.com/
+node	11971672582	https://www.comune.spoleto.pg.it/turismoecultura/la-citta/musei/museo-diocesano-e-basilica-di-s-eufemia-2/
+node	11971704285	http://www.comune.spoleto.pg.it/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -964,7 +967,6 @@ way	158373094	https://www.emisupermercati.it/
 way	159706780	https://www.iodibetto.edu.it/
 way	166104160	https://www.comune.spoleto.pg.it/turismoecultura/the-city/teatri/complesso-monumentale-di-san-nicolo/
 way	166106912	https://www.comune.spoleto.pg.it/turismoecultura/the-city/churches/chiesa-dei-ss-domenico-e-francesco/
-way	166123192	http://www.comune.spoleto.pg.it/
 way	168541215	http://polomusealeumbria.beniculturali.it/?page_id=3676
 way	174753710	http://touring24.info?STP=191
 way	174970797	https://www.comune.gubbio.pg.it/turismo/mausoleo-di-pomponio-grecino
@@ -977,7 +979,6 @@ way	194299532	https://www.comune.spoleto.pg.it/servizi/polizia-mortuaria/servizi
 way	201172745	https://www.per.umbria.it/
 way	203170559	https://www.areasostacampercampeggiocapitello.it
 way	204687572	https://www.fontemaggio.it
-way	204950959	https://www.duomospoleto.it/luoghi/sant-eufemia.html
 way	204958236	http://www.iluoghidelsilenzio.it/?p=11388
 way	206597933	http://www.iluoghidelsilenzio.it/?p=127345
 way	207812059	https://www.montelabate.com/
@@ -1029,7 +1030,6 @@ way	254826551	http://www.comune.torgiano.pg.it/
 way	255060449	https://www.castellomonterone.com/it/
 way	255221327	https://www.collegiodelcambio.it/
 way	255227005	https://www.casamenotti.it/
-way	255228652	https://www.comune.spoleto.pg.it/turismoecultura/la-citta/musei/museo-diocesano-e-basilica-di-s-eufemia-2/
 way	256190289	http://musei.beniculturali.it/musei?mid=5416&nome=villa-del-colle-del-cardinale
 way	256344611	https://www.cinemaclarici.it
 way	258070591	https://www.comune.deruta.pg.it/uffici-comunali/ufficio-demografia-e-statistica-2/
@@ -1563,6 +1563,7 @@ way	1253397505	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-della-neve
 way	1279651638	https://www.iluoghidelsilenzio.it/chiesa-di-san-pietro-in-tutorio-civitella/
 way	1286394352	https://turba.noblogs.org/
 way	1286987318	https://www.rifugideisibillini.it/
+way	1290858409	https://incantevolespello.wordpress.com/2016/08/21/madonna-della-stella/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	1948091	https://chemindassise.org/
@@ -1774,6 +1775,8 @@ relation	17675711	https://www.comune.corciano.pg.it/ecocorciano/itinerario-2-tro
 relation	17675835	https://www.comune.corciano.pg.it/ecocorciano/itinerario-3-piagge
 relation	17675917	https://www.comune.corciano.pg.it/ecocorciano/itinerario-4-campore
 relation	17675981	https://www.comune.corciano.pg.it/ecocorciano/sentiero-fantastico
+relation	17704126	https://www.duomospoleto.it/luoghi/sant-eufemia.html
+relation	17705499	http://www.montideltezio.it/
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1887119542	https://www.fezemauro.com/
 node	2146579118	https://www.domuspacis.it/
