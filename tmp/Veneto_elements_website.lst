@@ -402,6 +402,7 @@ node	1414876317	https://polomusealeveneto.beniculturali.it/musei/museo-archeolog
 node	1416427223	https://www.comune.castellodigodego.tv.it/
 node	1416495699	https://www.mebelettroforniture.it/
 node	1416534841	https://www.hoteldalponte.it/
+node	1416605719	https://www.trattoriaallastazione.it/
 node	1416684827	https://www.villadewinckels.it/
 node	1417147910	https://www.italmark.it/puntivendita/italmark-valeggio-sul-mincio-via-dei-pittori/
 node	1418801547	https://www.ristoasi.com/
@@ -1051,7 +1052,6 @@ node	2442180515	https://www.museocasagiorgione.it
 node	2450346210	https://www.giuliettaeromeo.it/
 node	2450364158	http://www.hotelalcastello.it
 node	2451035528	https://www.facebook.com/pages/Gelateria-Pasticceria-Borgo-Antico-Di-Ravini-Michele/137312126314425
-node	2451704382	https://www.miragecortina.it
 node	2452106887	https://www.dallava.com/
 node	2454711194	http://www.ristoclassique.it/origano/origano.html
 node	2456370145	https://www.pizzeria4stagioni.it/
@@ -2337,6 +2337,7 @@ node	4553770114	http://www.vivavinoverona.com/
 node	4553772860	https://ristorantescaligero.it/
 node	4553774993	https://www.conad.it/ricerca-negozi/tuday-conad-via-stella-8-37131-verona--010521
 node	4553775009	https://www.pasticceriaflego.net
+node	4553777813	https://www.yumeramen.it/verona
 node	4553778625	https://www.bancaetica.it/contatto/filiale-verona
 node	4553779191	https://www.sanzenoverona.it
 node	4553779199	https://www.alcalmiere.com
@@ -5020,7 +5021,7 @@ node	9666533347	https://www.miodottore.it/daniela-benvenuti-3/psicologo-psicoter
 node	9667343287	https://www.bottegadelgelatolimena.it/
 node	9670040502	http://www.andrealenzini.it/
 node	9674191757	http://www.calavezzera.eurorentals.info/
-node	9675621212	https://www.eurospin.it/punti-vendita/piove-di-sacco-100097/
+node	9675621212	https://www.eurospin.ithttps://www.eurospin.it/punti-vendita/piove-di-sacco-via-a-valerio/
 node	9677510332	https://www.ilcavallucciomarino.eu/
 node	9679825182	http://www.lacolombaragaium.it/
 node	9682146173	https://www.veniceberg.com/
@@ -6316,6 +6317,19 @@ node	11966413569	http://berggruenarts.org/it/
 node	11967732448	https://www.robertomartin.it/
 node	11967732463	https://www.disinfestazionidashja.it
 node	11969057439	https://www.centroservizianzianitintoretto.it/
+node	11971489952	www.confesercentidelvenetocentrale.it
+node	11971705048	https://betasoftware.it/
+node	11972318481	https://dolomitilodge.eu/
+node	11973795771	https://www.baitadovich.it
+node	11974769605	https://centrodioli.it/
+node	11975303381	https://www.lineagem.it/
+node	11978160017	https://www.raggiodisole-onlus.it
+node	11981656277	https://www.pasqualerosso.it
+node	11982892757	https://www.brocadelloviaggi.it/
+node	11982926515	https://infortunisticabaraldi.it/
+node	11982926570	https://www.pointrentcar.com/noleggio-automobili/
+node	11982964979	https://www.mantoancasa.it/
+node	11985813309	https://www.giuriolo.com/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -7267,7 +7281,6 @@ way	178473591	http://www.manzonijesolo.com
 way	178473702	https://www.strandhotel.it
 way	178473747	https://hotel-atlantico.it
 way	178473876	https://www.loreleyhotel.com/
-way	178473884	https://ourhotel.store/it/lido_di_jesolo-13009/hotel_garni_san_carlo-657938.html
 way	178473927	https://www.jesolohotelbritannia.it
 way	178474021	https://www.hotelhollywoodjesolo.com
 way	178474147	https://www.hotelmondial.org
@@ -7489,7 +7502,7 @@ way	195832924	https://www.villaggioisamar.com/servizi/la-cabana.php
 way	195832925	https://www.campinglaconchiglia.com/
 way	195892103	https://www.villamomis.it/
 way	195916375	http://www.hotelalexander.ro.it
-way	195979880	https://www.hilton.com/en/hotels/vcemvdi-doubletree-venice-north/
+way	195979880	https://www.movehotels.com
 way	196375392	https://www.rifugionaturadeltapo.it/
 way	196378692	https://www.hotelmilan.it
 way	196574943	http://www.rifugioberti.it
@@ -7713,7 +7726,7 @@ way	219532251	www.villacariola.com
 way	219631547	https://cieloblufitness.it/
 way	219632132	https://www.eurospin.it/punti-vendita/sandrigo-120949/
 way	219632584	https://cristofarigiovanni.com/
-way	219907556	http://www.rifugiocesarebattisti.com/
+way	219907556	www.rifugiocesarebattisti.com
 way	219907777	http://www.rifugiobertagnoli.it
 way	219968995	https://www.laviadeicimbribeb.it/
 way	220310431	https://www.messedaglia.edu.it/
@@ -8158,6 +8171,7 @@ way	373629973	https://parrocchianoventa.org/
 way	373629985	https://www.comune.noventa.pd.it/
 way	373629991	https://icsantini.edu.it/
 way	373630005	https://www.villatodeschini.it/
+way	373630337	https://www.angolidimondo.it/vendita/mercatino-usato-noventa-padovana/
 way	373674909	https://www.anticatrattoriaalbosco.com/
 way	373674919	http://www.trattoriaaivivai.com/
 way	373681324	https://www.silverplated.it/
@@ -8791,6 +8805,7 @@ way	1182469249	https://www.prixquality.com
 way	1183509432	https://www.somslentiai.org/
 way	1184851415	https://www.istitutocomprensivolegnaro.edu.it/pagine/scuola-primaria-di-volparo
 way	1184890519	https://www.cedavecia.it/
+way	1189407053	https://www.miragecortina.it
 way	1190000448	http://www.colorificiopaulin.eu/
 way	1190289407	https://m.facebook.com/chioscolillybar/
 way	1190421483	https://www.necsi.it/
@@ -8901,6 +8916,7 @@ way	1267701385	https://www.agenziaimmobiliaredallarizza.com/
 way	1269081596	https://www.agricampeggiopadova.it/
 way	1269092561	https://casalsrl.eu/
 way	1270016891	https://www.noisanpaolo.it/orto-botanico-conservativo-busnello/
+way	1276586278	https://www.mcdonalds.it/ristorante/veneto/padova/piove-di-sacco
 way	1278859425	https://www.mcdonalds.it/
 way	1284878072	https://www.chaletmatilde.it
 way	1287079069	https://agricampeggioleterrazzesulgarda.com
@@ -9556,6 +9572,7 @@ relation	13798380	https://cortinadelicious.it/
 relation	13798381	https://www.visitmarmolada.com/
 relation	13798382	https://www.dolomitisuperski.com
 relation	13798742	https://www.infodolomiti.it/vacanza-attiva/alte-vie-delle-dolomiti/alta-via-delle-dolomiti-n-8/7158-l1.html
+relation	13830109	https://www.valdifassalift.it/
 relation	13830460	https://www.feetgrezzana.it/
 relation	13911659	https://www.bolca.it/site/index.php?option=com_content&view=article&id=12&Itemid=120
 relation	13911722	https://www.bolca.it/site/index.php?option=com_content&view=article&id=12&Itemid=120
@@ -10113,7 +10130,6 @@ node	9871202428	https://luppoland.com/
 node	9884145925	https://www.ostiinombra.it/
 node	9925157842	https://www.trattoriaalpioppo.it/
 node	9939244186	https://ellenfashion8.business.site/
-node	9939244187	https://www.justeat.it/restaurants-cheng168_8hotmailcom-marconje/menu
 node	9952902778	https://attenti-al-lupo-tattoo.business.site/
 node	9952902779	https://www.terranovastyle.com/it_it/
 node	9952902780	http://www.framesiclub.it/saloni-framesi/argento-vivo-parrucchieri/
@@ -10235,6 +10251,7 @@ node	11868224457	http://www.iperlando.it/
 node	11887585339	https://www.sigurta.it
 node	11931364716	https://www.ristorantepizzeriaprimavera.it/
 node	11933416779	https://www.fablabcfv.org/
+node	11978160017	https://www.facebook.com/raggiodisole.onlus.5?fref=ts
 way	27198535	http://basilicadelsanto.org
 way	40460962	https://www.laquercia.it/
 way	42424990	http://www.traiglicinieilsambuco.it/
@@ -10675,6 +10692,7 @@ way	350985962	https://mattipessetti.it
 way	351483306	https://www.casalserugoedintorni.it/villa-argenti
 way	371407256	https://www.facebook.com/areaverdepalazzina/
 way	375292649	https://it-it.facebook.com/pg/equusvillatrento/
+way	386786889	https://www.comune.selvazzano-dentro.pd.it/zf/index.php/musei-monumenti/index/dettaglio-museo/museo/9
 way	475486812	http://www.cortinacube.it/
 way	488653559	https://www.padovanet.it/informazione/centro-infanzia-bambini-del-mediterraneo
 way	520412057	http://moduliweb.enac.gov.it/Applicazioni/avioeli/Avio_04.asp?selaeroporto=525
@@ -10711,6 +10729,7 @@ way	1232711996	https://www.facebook.com/Padova4FSE?locale=it_IT
 way	1238626990	https://comune.cadoneghe.pd.it/contenuti/254349/orti-sociali
 way	1238626992	https://comune.cadoneghe.pd.it/contenuti/254349/orti-sociali
 way	1238626996	https://comune.cadoneghe.pd.it/contenuti/254349/orti-sociali
+way	1291509647	https://www.culturaveneto.it/it/beni-culturali/ville-venete/5d931808ac5c3fddcc272a11
 relation	1203928	https://moovitapp.com/index/it/mezzi_pubblici-line-LIS-Padova-1842-775352-771261-0
 relation	2320650	http://www.stoneman.it/
 relation	2660295	https://www.comunesanmichele.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2476
