@@ -2012,6 +2012,7 @@ node	9372007562	http://www.afuocolentoristopub.it/
 node	9383798304	https://it-it.facebook.com/capricciodimanzano/
 node	9435090360	https://motocharlietrieste.it/
 node	9439287804	https://goo.gl/maps/pRng7NZBTWacExrd9
+node	9455400694	http://despar.it
 node	9463674775	http://www.optica.ud.it/
 node	9467951911	https://www.diemmelegno.it/
 node	9502861271	https://www.open-door.it/associazione/gruppo-scout-f-s-e-trieste-2/
@@ -2480,6 +2481,16 @@ node	11951881545	https://pizza-kebab-da-manuel.eatbu.com/
 node	11963345563	https://www.autoscuolatesan.it/
 node	11964433728	https://www.acispilimbergo.it/
 node	11966231531	https://www.liscoapparecchiacustici.com/homepage
+node	11973870213	https://comune.grado.go.it/it/vivere-il-comune-22477/luoghi-22478/museo-della-pesca-e-della-civilta-lagunare-106718
+node	11974970079	https://www.bccveneziagiulia.it/
+node	11980916898	https://linktr.ee/Ma.armoladaArt?fbclid=PAZXh0bgNhZW0CMTEAAab21UrFK8GPO9qQpBG1sLHqZAghQhylICmYogHy_rvxFkkjjHose8qtG74_aem_ZmFrZWR1bW15MTZieXRlcw
+node	11984300470	https://sircelli.it
+node	11984300471	https://libreriadedalus.blogspot.com
+node	11987381965	https://ertfvg.it/teatri/spilimbergo/
+node	11989104745	https://www.plodn.info/casa_museo.php
+node	11989777880	https://www.sdag.it/it/servizi/infopoint/
+node	11989777881	https://www.sdag.it/it/servizi/snack-bar/
+node	11990103369	https://www.puntosalutefvg.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2772,6 +2783,7 @@ way	36430373	https://www.menardisnc.it/
 way	36430389	https://www.friulpack.it/
 way	36430391	https://www.allus.it/
 way	36430574	http://www.costrusionlen.it/
+way	36430711	http://portonigaragepordenone.it/
 way	36430945	https://www.grappanonino.it/
 way	36432046	https://www.trilago.it
 way	36432295	https://www.mobiliagroup.it/
@@ -2983,6 +2995,7 @@ way	36706392	http://www.apparthotelholiday.it
 way	36706399	https://www.hbl.it/
 way	36706578	https://pizzeria-lupin-lignano-sabbiadoro.business.site/
 way	36706689	https://www.ristorantemarechiaro.com/
+way	36706809	https://golflignano.it/hotel-golf-inn/
 way	36706840	http://www.lignano.it/hotel/nuovaflavia
 way	36706909	https://www.ristorantedagigimarchetto.it/
 way	36707198	https://www.casavolton.com/
@@ -3035,6 +3048,8 @@ way	137534439	https://www.mwfep.com/
 way	138294826	https://www.eurospin.it/
 way	142167881	https://www.centerhotel.it/
 way	144790593	https://www.sme.it/
+way	146820925	http://www.fortificazioni.net/Udine/lago_predil.htm
+way	146820933	https://www.thewalkofpeace.com/it/locations/fort-of-predil-lake/
 way	147465602	https://www.avro.it/
 way	148460782	https://fondoambiente.it/luoghi/castello-di-prosecco?ldc
 way	149882600	https://www.centrocommercialediscount.it/
@@ -3071,7 +3086,6 @@ way	185445009	http://www.alpinobarpizzeria.it/
 way	185529147	http://www.mercatotarvisio.it/
 way	185835380	https://www.facebook.com/BaufastTS
 way	193712966	https://www.dragonsclubsgn.it/
-way	196603084	https://www.plodn.info/casa_museo.php
 way	196603559	http://www.altemontagne.it/rifugi/Rifugio_Piani_Cristo.html
 way	196604790	www.hoffervacanze.com
 way	196605140	https://www.comune.sappada.ud.it/
@@ -3103,6 +3117,7 @@ way	224619869	https://www.orocaffe.com/
 way	225233474	http://www.hotelanticoborgotorricella.it/
 way	225694357	https://lignanosabbiadoro.it/portovecchio/
 way	226059876	https://www.camping-natisone-pulfero.it
+way	226263921	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/46693
 way	230244383	www.scuolascicarnia.it
 way	236458172	https://www.collevillano.it/
 way	238261205	https://www.turismofvg.it/rnode/41733
@@ -3158,6 +3173,7 @@ way	365260307	https://www.interportotrieste.it/
 way	367622709	http://interportocentroingrosso.com/
 way	369127386	https://www.saf.ud.it/
 way	372943157	http://www.aicocolars.com
+way	375130167	https://golflignano.it/
 way	375436703	http://www.golfclublafaula.com
 way	379326640	https://iclignano.edu.it/index.php?page=plesso&menu=102&p=2
 way	379348667	https://www.protezionecivile.fvg.it/it/comune/pagnacco
@@ -4256,6 +4272,7 @@ relation	12251040	https://www.camminodisancristoforo.com/it/resource/statictrack
 relation	12252778	https://www.camminodisancristoforo.com/it/resource/statictrack/cammino-di-san-cristoforo-tappa-03-da-udine-maniag/
 relation	12254483	https://www.camminodisancristoforo.com/it/resource/statictrack/cammino-di-san-cristoforo-tappa-4-meduno-clauzetto/
 relation	12255518	https://www.camminodisancristoforo.com/it/resource/statictrack/cammino-di-san-cristoforo-tappa-5-clauzetto-spilim/
+relation	12255606	https://www.camminodisancristoforo.com
 relation	12257458	https://www.camminodisancristoforo.com/it/resource/statictrack/cammino-di-san-cristoforo-tappa-6-spilimbergo-mani/
 relation	12264129	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-001/
 relation	12265609	https://www.camminodisancristoforo.com/it/resource/statictrack/cammino-di-san-cristoforo-tappa-7-pordenone-corden/
@@ -4809,7 +4826,6 @@ node	3424506659	https://www.eurospesa.it/
 node	3424506660	https://www.aeo.it/
 node	3427697558	https://www.giacomelloalzetta.com/
 node	3653971050	https://www.winestoregrado.it/
-node	3653971108	http://www.lacroma.it/
 node	3653972330	https://villamori.eu/
 node	3653978229	https://grado.it/it/cosa-fare/benessere/equipe-acconciature-paolo-valentina/
 node	3653978679	https://m.facebook.com/DaRenata.1967/
@@ -5051,6 +5067,7 @@ node	11263359092	https://pepco.it/
 node	11263359093	www.jdsports.it
 node	11807614061	https://www.lodgeart.it/en-gb/veneta
 node	11851439338	https://fratellilabufala.com/
+node	11989104680	http://www.agriturismozaine.it/
 way	35945116	http://www.casaperaria.it
 way	35946164	http://www.albergodiffusoilgrop.it/
 way	35946195	http://www.sotlanapa.it/
@@ -5162,7 +5179,6 @@ way	185835374	https://www.carpenteriabreg.com/
 way	185835375	http://www.mingot.it
 way	185835378	http://www.otaimpianti.it
 way	185835380	http://www.sisli.it/
-way	196605133	http://www.agriturismozaine.it/
 way	213211137	http://www.1301inn.it
 way	254164767	http://www.alcentrobarsport.it
 way	268426006	http://www.vecchiosauris.it
@@ -5202,6 +5218,7 @@ way	1095872399	https://edicola-guarino.business.site/
 way	1098330278	https://www.hoteltizianogrado.it/
 way	1098330279	https://www.residenceormeggio.it/
 way	1098330301	https://www.aparthotelmiramaregrado.com/
+way	1098362127	http://www.lacroma.it/
 way	1098486725	http://www.hotel-abbazia-grado.com/
 way	1098609047	http://www.villagiuliagrado.it
 way	1098646096	https://www.hcresortlignano.it/
