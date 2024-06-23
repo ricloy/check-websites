@@ -1101,6 +1101,7 @@ node	9853466017	https://www.menudigitale.io/ristorantepizzerialocandadellastazio
 node	9853488018	https://the-bosom-pub.business.site/
 node	9857994892	http://www.dachicco.com/
 node	9859795455	https://www.agenziaimmobiliaresgiurbino.com/index.php
+node	9860388445	https://www.palazzogiustiurbino.com/
 node	9860388452	https://www.tavernadelduca.it/
 node	9860931099	https://www.cnfrestaurant.com/index.php/it/
 node	9869636008	http://anticalocandaladiligenza.it
@@ -1115,7 +1116,6 @@ node	9967419868	https://www.repower.com/it/dina/
 node	9969837932	https://www.hotelolimpo.com/
 node	9970831165	https://www.repower.com/it/dina/
 node	9974739318	http://legambientefermano.it
-node	9981346936	https://ravalfamily.it/terrazzaraval/
 node	9981691643	http://ilbiroccio.com
 node	9981749117	https://www.sirpatrickpizzeria.it/
 node	9981792712	https://www.ristorantepatchankabistrot.it/
@@ -1207,7 +1207,6 @@ node	10784670858	https://icamcarni.it
 node	10789233954	https://lava-rap.business.site/
 node	10789233956	http://www.asscoop.it/s/d/44/casa_protetta_di_montemarciano
 node	10792718991	https://www.contemporaneohouse.it/it/Contemporaneo-Arredamento-Ancona
-node	10792734437	https://www.marcopostancona.com/
 node	10794162107	http://www.scuolavenerini.an.it/
 node	10828164452	https://www.tetsu.it
 node	10831764956	https://labistronomia.it/
@@ -1493,7 +1492,11 @@ node	11964590568	http://mare-vento.blogspot.com/
 node	11965433118	https://www.modaiole.it
 node	11975336450	https://vittoriaprofumi.com/site/
 node	11980292628	https://www.gruppopieralisi.it/manutenzione-auto-officine-ocra
-node	11980292629	http://www.gruppopieralisi.it/
+node	11980292629	https://www.gruppopieralisi.it/
+node	11987487379	https://www.agenziaentrate.gov.it/portale/uffici2/-/uffici/uffici_INSTANCE_760I75Ju693C/dettaglioufficio/TQX
+node	11987517158	https://www.corecom.marche.it/
+node	11990331950	https://www.ilgirasoleristorante.it/
+node	11997866469	https://www.ccode.net
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1539,11 +1542,11 @@ way	75614890	https://fonteavellana.it/
 way	75614891	http://www.asmontecatria.com
 way	81296770	https://www.allasolagna.it/
 way	82135616	http://www.quadrifogliohotel.it/
+way	93549682	https://www.archeologiamacerata.it/index.php/treia
 way	93722799	https://www.campingstellamaris.it/
 way	96604905	https://www.scioviemontenerone.it/
 way	97176141	http://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	100298769	https://www.lagrancia.net/
-way	105806467	https://ourhotel.store/it/pesaro-13382/hotel_nettuno-325126.html
 way	105812217	https://www.atlanticpesaro.it/
 way	106274924	https://www.ramuse.it
 way	108129237	http://www.roccavarano.info/
@@ -1726,7 +1729,7 @@ way	334243254	https://www.ersumc.it/JErsuNew/index.php?option=com_content&view=a
 way	335336752	https://www.dublinhouse.it/
 way	341154436	https://www.verdemarecountryhouse.it/
 way	347568381	http://www.jcube.org/
-way	348356911	http://www.crmspa.it/
+way	348356911	https://www.crmspa.it/
 way	350617333	https://www.villadecastelletta.it/
 way	350617962	https://www.villacattani.it/
 way	351331103	http://www.avioclubmadonnadiloreto.it/
@@ -2058,7 +2061,7 @@ way	1282128846	https://www.navaltecnica.net/
 way	1283737285	https://bagnielsa.it/
 way	1288489020	https://www.iluoghidelsilenzio.it/eremo-della-madonna-del-sasso-valleremita/
 way	1288737769	https://www.iluoghidelsilenzio.it/chiesa-sconsacrata-di-san-sebastiano-belforte-del-chienti-mc/
-way	1290057374	http://www.chaletmarakaibo.it/
+way	1290057374	https://www.chaletmarakaibo.it/
 way	1292295353	https://www.sonepar.it/it-it/store/jesi-an-M21M?utm_source=google&utm_medium=gmb&utm_campaign=gmb&utm_content=website_button
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
