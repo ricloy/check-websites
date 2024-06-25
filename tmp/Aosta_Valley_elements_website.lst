@@ -168,7 +168,7 @@ node	5111206432	http://www.ilborgoantico.eu/
 node	5111206434	http://www.saint-vout.com/it/saint-vout-cafe-oenotheque-fromagerie-produits-du-terroir/
 node	5111206444	https://www.chocolataosta.com/
 node	5143203606	http://thewishingwellaosta.com/
-node	5143336345	http://www.trattoriapraetoria.it/
+node	5143336345	https://www.trattoriapraetoria.it/
 node	5143336352	https://www.giannettistore.it/it/
 node	5145342887	https://ristoranteilgirasoleaosta.it/
 node	5150041467	https://www.associazioneartistivaldostani.it/
@@ -256,7 +256,7 @@ node	9587630270	https://www.ginantonic.com/
 node	9588041290	https://www.la-grenette.it/
 node	9588069622	https://www.hostariadelcalvino.it/
 node	9605022512	https://www.lesgourmetsaosta.it/
-node	9605236343	http://stefenellidesk.com/
+node	9605236343	https://stefenellidesk.com/
 node	9605272588	https://ristorantevecchioristoro.it/
 node	9638366052	https://www.hbaostahotel.com/
 node	9661750840	https://www.repower.com/it/dina/
@@ -284,7 +284,7 @@ node	10571434283	https://ionity.eu/
 node	10571434284	https://ionity.eu/
 node	10571434285	https://ionity.eu/
 node	10665298576	https://presidi2.regione.vda.it/str_dataview_station/1080
-node	10704457716	http://www.caiverres.it/
+node	10704457716	https://www.caiverres.it/
 node	10709257851	https://www.cerviniaski.com/
 node	10709279050	https://www.ivodelbrallo.it/
 node	10709279051	https://www.heliskicervinia.com/
@@ -313,6 +313,7 @@ node	11333524652	https://www.lebouquetaosta.it/
 node	11350961345	https://www.repower.com/it/dina/
 node	11350982873	https://www.repower.com/it/dina/
 node	11374126360	http://www.bb-montmars.com
+node	11381226128	https://fondoambiente.it/luoghi/frazione-cretaz?ldc
 node	11405487051	https://www.pitstopcervinia.it
 node	11457611069	http://Www.helimontblanc.it
 node	11542461094	https://www.weejay.com
@@ -546,10 +547,10 @@ way	147428209	https://www.caimondovi.it/bivacco-comino/
 way	147548048	http://www.hibouprojet.it
 way	147709782	http://www.tronchey.com/
 way	147709783	https://www.grandesjorasses.com/
-way	147947893	http://www.areasostaitalia.it/index.php?IdAreaS=438
+way	147947893	https://www.areasostaitalia.it/index.php?IdAreaS=438
 way	147963958	https://www.baitacourmayeur.it
 way	147963963	http://www.rifugiobertone.it/wp/it/home/
-way	148212583	http://www.rifugiotorino.com
+way	148212583	https://www.rifugiotorino.com/
 way	148214318	https://www.lovevda.it/it/banca-dati/8/chiese-e-santuari/courmayeur/santuario-di-notre-dame-de-guerison/931
 way	148457255	https://www.caitorino.it/rifugi/quintino-sella/
 way	148457258	https://www.giovanemontagna.org/rifugio.asp?n=Bivacco%20Gino%20Rainetto&id=10
@@ -568,7 +569,7 @@ way	160891082	pizzeriadutunnel.it
 way	160977653	https://ih-hotels.com/it/i-nostri-aberghi/ih-hotels-courmayeur-mont-blanc-resort.html
 way	160998408	https://www.hotelsvizzero.com/
 way	161265126	https://www.edildueci.com/
-way	161265133	http://www.comune.villeneuve.ao.it/
+way	161265133	https://www.comune.villeneuve.ao.it/
 way	161265167	https://cofruits.it/
 way	161438620	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	161482858	https://www.pilierdangle.it/
@@ -817,7 +818,7 @@ relation	1471008	https://www.viefrancigene.org
 relation	1596159	http://www.trailvsb.com
 relation	2044885	https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/fenis/castello-di-fenis/979
 relation	2202531	https://www.comune.valtournenche.ao.it/
-relation	2227144	www.velodoire.it
+relation	2227144	https://www.velodoire.it/
 relation	2385342	http://www.via-alpina.org/en/stage/297
 relation	2458709	https://www.viefrancigene.org
 relation	3087290	http://www.tourdusaintbernard.com
