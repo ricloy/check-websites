@@ -231,7 +231,6 @@ node	1446873593	https://www.atcesercizio.it/
 node	1454893908	http://www.bbverdesulmare.it/
 node	1454897463	http://www.piccardosrl.it/
 node	1454898213	http://www.officinacervetto.it/
-node	1454903720	https://www.criarenzano.it/
 node	1454904648	https://www.casadiriposooasisolemare.com/
 node	1454905181	http://www.pirlobiscotti.com
 node	1457602944	https://www.hubhair.it/
@@ -2027,6 +2026,7 @@ node	10107120394	https://www.comune.arenzano.ge.it/il-comune/gli-uffici-comunali
 node	10111544755	https://liguria.on-line.it/opac/article/il-sistema-bibliotecario-urbano-della-citta-di-alassio/chi_siamo?sysb=LI3AL
 node	10114720912	https://caffetteriabistrotsangiovanni.business.site/
 node	10114913508	https://www.autoscuolaalfieri.it/
+node	10114913511	https://www.concessionideltirreno.it/
 node	10116940066	https://ristorantepanevino.it
 node	10116940067	https://www.chezbraccioforte.com
 node	10116940077	http://www.nuovadiffel.com/
@@ -2425,6 +2425,8 @@ node	11985778946	https://www.hotelpalacelevanto.it/
 node	11985924073	http://www.caravellahotel.com/it
 node	11985924352	https://www.laquiete.com/
 node	11985926197	https://www.burancocinqueterre.it/
+node	11994474971	residencesanvalentino.it
+node	11998016739	https://www.bissonvini.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3099,7 +3101,6 @@ way	731888106	https://www.liceoaprosio.it/
 way	751515265	https://www.casapietraligure.it/
 way	758179842	http://www.laergroup.com/web-vision/contatti.php?c=Albenga
 way	760553846	https://it-it.facebook.com/canilediventimiglia/
-way	761673944	https://www.bissonvini.it/
 way	770768822	https://www.biesseedilizia.it/
 way	770768823	https://www.biesseedilizia.it/
 way	770768824	https://www.biesseedilizia.it/
@@ -3166,7 +3167,6 @@ way	1151637314	https://www.officine-volkswagen.it/autosport.html
 way	1153226951	https://apigenova.com/
 way	1157162522	https://www.arpal.gov.it/index.php?option=com_flexicontent&view=items&cid=56&id=179&Itemid=217
 way	1158248781	https://www.campingdolcevita.it/
-way	1159590613	http://www.highestbridges.com/wiki/index.php?title=Gorsexio_Bridge
 way	1161621509	http://www.lattealberti.it/informativa
 way	1161621512	http://www.lattealberti.it/informativa
 way	1161621513	http://www.lattealberti.it/informativa
@@ -3206,6 +3206,7 @@ way	1292895095	http://www.agriturismolacollinaverde.it
 way	1292940003	http://www.borea.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
+relation	283620	https://www.inps.it
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
 relation	334891	https://www.viefrancigene.org
 relation	414151	http://www.parcoportofino.it
@@ -6694,7 +6695,6 @@ way	875789516	https://www.gulliver.it/itinerari/telematica-falesia/
 way	926736204	http://www.cogoletoinfo.it/storia/fornaci/fornaci.htm
 way	991897902	https://www.thecrag.com/en/climbing/italy/finale-ligure/rian-cornei/area/2496160839
 way	1052316469	https://www.thecrag.com/en/climbing/italy/finale-ligure/valle-aquila/area/1950858624
-way	1159590613	https://youtu.be/xlXlMIKUJe8
 way	1214577471	https://www.thecrag.com/en/climbing/italy/albenga/area/6649998117
 way	1222841155	https://www.thecrag.com/de/klettern/italy/finale-ligure/rocca-degli-uccelli
 relation	42641	http://www.cartografiarl.regione.liguria.it/mapfiles/repertoriocartografico/CONFINI/56.asp?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3
