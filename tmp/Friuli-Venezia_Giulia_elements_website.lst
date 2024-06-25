@@ -217,6 +217,7 @@ node	1447394547	http://www.e-coop.it/punti-vendita-dettaglio?id=5078
 node	1447951080	https://www.ordineingegneri.ts.it/
 node	1478872844	https://www.trattoriadetoni.it/
 node	1482133308	http://www.salustrieste.com
+node	1489867196	https://patrimonioculturale.regione.fvg.it/architettura/?s_id=442750
 node	1490673375	http://www.ota.it/
 node	1540327350	http://www.amardeclevo.it
 node	1544021212	https://www.turismofvg.it/archaeological-sites/cave-of-mitreo?LangSetCMS=en
@@ -2281,10 +2282,10 @@ node	10601255381	https://www.repower.com/it/dina/
 node	10601260465	https://www.repower.com/it/dina/
 node	10601265422	https://www.repower.com/it/dina/
 node	10601267981	https://dinaclub.repower.com/check-in/?code=3b8ca4dc-3203-40d6-bebd-d100d7f8fc93
-node	10601268445	https://www.repower.com/it/dina/
+node	10601268445	https://www.dinaclub.cloud
 node	10601275115	https://www.repower.com/it/dina/
 node	10601283514	https://www.repower.com/it/dina/
-node	10601351942	https://www.repower.com/it/dina/
+node	10601351942	https://www.dinaclub.cloud
 node	10612142641	https://www.bischoff.it/
 node	10672919405	https://www.albuonditarvisio.com/
 node	10681029863	https://www.portewestern.it
@@ -2310,6 +2311,7 @@ node	10788363662	https://www.repower.com/it/dina/
 node	10788408396	https://www.repower.com/it/dina/
 node	10788414242	https://www.repower.com/it/dina/
 node	10788748105	https://www.marchiol.com
+node	10790016454	https://www.repower.com/it/dina/
 node	10798948192	https://catastogrotte.regione.fvg.it/1255
 node	10799099629	www.salonelisaestetica.com
 node	10821156069	https://www.funandbike.it/
@@ -2491,6 +2493,9 @@ node	11989104745	https://www.plodn.info/casa_museo.php
 node	11989777880	https://www.sdag.it/it/servizi/infopoint/
 node	11989777881	https://www.sdag.it/it/servizi/snack-bar/
 node	11990103369	https://www.puntosalutefvg.it/
+node	12009463272	https://uniresport.it/
+node	12009463273	http://www.zoedancebertiolo.com/
+node	12009463274	http://www.shindojofriuli.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2785,6 +2790,8 @@ way	36430391	https://www.allus.it/
 way	36430574	http://www.costrusionlen.it/
 way	36430711	http://portonigaragepordenone.it/
 way	36430945	https://www.grappanonino.it/
+way	36431146	http://www.udine.edrfvg.it/
+way	36431159	cabert.it
 way	36432046	https://www.trilago.it
 way	36432295	https://www.mobiliagroup.it/
 way	36432346	https://www.conad.it/ricerca-negozi/negozio.009096.html
@@ -3456,6 +3463,7 @@ way	1285141839	https://lignanosabbiadoro.it/it/strutture/sabbiadoro-area-vip-7/
 way	1285142894	https://lignanosabbiadoro.it/it/strutture/palestra-technogym/
 way	1288005255	https://www.hotelsmeraldo.net/it/
 way	1289812678	https://m.facebook.com/antichetermegrado/
+way	1295716259	https://marinamonfalcone.com/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
