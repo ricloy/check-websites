@@ -287,7 +287,6 @@ node	605016526	https://www.tirolerhof-hotel.it/
 node	610205153	https://www.alpenroyal.com/
 node	610217867	https://www.chalet-s.eu/
 node	610221224	https://www.hotel-nives.com/
-node	610222897	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/hotel-antares/C0DF935876D911D18F2900A02427D15E/
 node	610557068	https://www.portillo-dolomites.it/
 node	614388185	https://www.hellenstainer.berufsschule.it
 node	614841287	https://www.farmaciatomasi.com/
@@ -994,6 +993,7 @@ node	2184359835	https://www.fassa.com/EN/Skibus-service/
 node	2184359849	https://www.fassa.com/EN/Skibus-service/
 node	2184359862	https://www.fassa.com/EN/Skibus-service/
 node	2184360775	https://www.fassa.com/EN/Skibus-service/
+node	2188712129	https://www.albiviohotel.it
 node	2192829434	https://www.bergchalet-feichterhof.com/
 node	2192829443	https://www.masitterhof.com
 node	2195683493	http://www.bbeden.it/
@@ -1220,7 +1220,6 @@ node	2498490356	http://www.acontax.it
 node	2498881438	https://pizzeriaalporto.com
 node	2500491684	https://www.almrausch.it/
 node	2501489468	https://www.mercatomoderno.it/
-node	2502933766	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/garni-crepaz/C0DF98E476D911D18F2900A02427D15E/
 node	2503251423	http://www.preiss-brot.com/
 node	2503251424	http://www.barcremona.com/
 node	2503251427	http://www.goldschmied-gamper.com/
@@ -4882,6 +4881,8 @@ node	9227716354	https://www.lapietramusicplanet.it
 node	9233533690	https://www.bicincitta.com
 node	9233858900	https://poco-ma-buono.business.site/
 node	9234581894	https://www.lorenzettipneumatici.it/
+node	9235196672	https://www.cec.com/negozi-apple/bolzano
+node	9235196673	https://coopbz.it/it/coop-piazza-walther-bolzano
 node	9235666236	https://www.punto3c.com/
 node	9236169520	https://www.tuomerano.com/
 node	9236574011	https://www.gemeinsam-stark.it/
@@ -5352,6 +5353,8 @@ node	10053603703	https://www.visittrentino.info/it/articoli/famiglia/lupa-lagora
 node	10054108740	https://biblio.bz.it/rodeneck
 node	10056469117	http://Www.kauristore.com
 node	10064690213	https://www.graficheavisio.it/
+node	10073778608	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Valle-San-Felice
+node	10073778609	https://www.casserurali.it/filiali/filiale-di-valle-san-felice/
 node	10076401796	https://www.apscarpediem.com/
 node	10076819407	https://www.falkensteiner.bz/
 node	10092588775	https://skorpion.express/
@@ -5823,39 +5826,17 @@ node	11665288075	https://www.satmezzocorona.it/
 node	11665289937	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/emergency-medical-service-for-visitors/6EB4DEE6457B3CD1BA5C2153EF9B3336/?RequestKey=170895498965dc956d234c1
 node	11665329954	http://www.satpergine.it/
 node	11665344803	https://www.sat-pievedibono.it/
-node	11665374446	https://www.valgardena.it/en/public-parking-places/
 node	11665413881	https://www.valgardena.it/en/public-parking-places/
 node	11665458401	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-garage-chemun/FE9B21AAB26FFA0B3E2561039584DA71/?RequestKey=170896006665dca9422dce6
-node	11665508103	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-ice-rink/1ABB5F0341DD4622952B6665A4115FD7/?RequestKey=170896047165dcaad75cc36
 node	11665527822	https://www.lanthalerhof.vacation-bookings.com/
-node	11665575054	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-ski-school/F84D7A1E7DAE475FBB337BCB5EF2C1AA/?RequestKey=170896351565dcb6bb1673a
-node	11665606224	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-town-hall-library/880FCCC8E432B5683589850F284F686E/?RequestKey=170896114165dcad7523626
 node	11668523777	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/flowers-andergassen/01C1BFC941C04A41B809981BE2490125/
 node	11668524224	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/children-s-playground-town-hall/6099DA9519A84E09A373C398F9DBBCB9/?RequestKey=170902098465dd97381f1cb
 node	11668524225	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/children-s-playground-sportstadion-pranives/7648C0499A0147328EB79B903D719709/?RequestKey=170902108065dd97981dcf5
 node	11668552098	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/children-s-playground-dauneei/DA16894352924AE09A1FB95DCF417B72/?RequestKey=170902124665dd983eeb257
 node	11668552099	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/children-s-playground-plan/C6B1E39BD877CFDD38C3256F6BD704B5/?RequestKey=170902193965dd9af316f82
 node	11669492953	https://www.valgardena.it/en/search/?tx_solr%5Bq%5D=market
-node	11671638535	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-piazza/BCB022B835D34E4A80C57410F848FF53/?RequestKey=170910671265dee618e20d7
-node	11671694608	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-ruacia-maciaconi/D810D1EE42DC4B4C971646D2D004FD6C/?RequestKey=170910662665dee5c25cd5e
-node	11671704413	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-plan-taiadices/03396CB6A55D4932CECD95F6602F720D/?RequestKey=170910769865dee9f2afe1c
-node	11671705093	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-bacher-saslong/63A6F29D09BB4CDEAD32B0D7F896AB8C/?RequestKey=170910628965dee47187ba9
-node	11671705954	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-ciampinoi-tennis/96C03D7C44D94B0AAC24A8FD321546EF/?RequestKey=170910702165dee74d9d66c
-node	11671723087	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-ingram-bar-edda/4BE6664D3DD7481CB1EDF9CC7C281E3A/?RequestKey=170910723765dee825cb696
-node	11671723089	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-business-park/FFF026A74D2143EB9DAE7C253E794B41/?RequestKey=170910730665dee86a41344
-node	11671750921	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-plan-de-gralba/2590F7DE63874C9893D0D1F816334529/?RequestKey=170910790365deeabfe3c41
 node	11671751120	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-passo-gardena/762900D4E3B8455490E0140737E94844/?RequestKey=170910821565deebf72ed91
-node	11671767575	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-speckkeller/863DF43007CA498CA9302CF908934388/?RequestKey=170910877865deee2a1d9de
-node	11671776110	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-isgla/34F0793069494F21B70BBB905D922617/?RequestKey=170910963065def17e19111
-node	11671798198	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-central-parking/7B1DBA466C6B4FA7B4A418E11B81A3DF/?RequestKey=170911003265def31055ccc
-node	11671810461	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/garage-and-parking-ciampinoi/3DD6C25EE1D943F7924A99F3055358C3/?RequestKey=170911041665def4906446d
-node	11671840618	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-passo-sella/EE413704564D44E3AEDB5B9CEA20076E/?RequestKey=170911187865defa46ee0b7
-node	11671850178	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/garage-and-parking-ciampinoi/3DD6C25EE1D943F7924A99F3055358C3/?RequestKey=170911041665def4906446d
-node	11672983631	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-fraces/C5AA086C52D44E89B3AE10531214A203/?RequestKey=170913893365df63f5a45e8
-node	11673047956	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-col-raiser/90F07BDD272E416197A9AD912EA2F5A7/?RequestKey=170913954865df665c0cfa8
-node	11673048671	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-continental/C92B96778A644E4BB8F9BD04CE907A1C/?RequestKey=170913864965df62d923ad5
 node	11673048672	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/garage-danterceepies/4E50D7C75D3F49BA9494A8D71482AD18/?RequestKey=170913875065df633eb42be
-node	11673091845	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-sciuz/B062FDCED857219195E915B11856BDB2/?RequestKey=170913924865df653084f48
 node	11676102445	https://www.stroblhof.com/
 node	11676232704	https://satpine.wordpress.com/
 node	11676233778	http://www.satpinzolo.it/index.php
@@ -5985,6 +5966,11 @@ node	11980129066	https://www.falegnameriabenoni.it/
 node	11984840958	https://www.panificiovaldigresta.com/
 node	11989730056	ttps://baitabordala.com
 node	11989730057	https://baitabordala.com
+node	12004365365	https://www.rosslaufhof.com/
+node	12005932170	https://www.mynt-merano.com
+node	12006441391	https://www.rwo.tn.it/
+node	12006519408	https://bandatrento.com/
+node	12009092577	https://www.loacker.com/int/en/experience-loacker/loacker-cafe/loacker-cafes/loacker-cafe-bolzano-piazza-walther
 way	22890146	https://www.prags.bz/en
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
@@ -5998,6 +5984,8 @@ way	26665728	https://www.trauttmansdorff.it/
 way	26727136	http://www.piscina-termeno.com
 way	27183837	https://www.camping-obstgarten.it
 way	27275413	https://www.lasamarmo.it/
+way	29748660	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-col-raiser/90F07BDD272E416197A9AD912EA2F5A7/?RequestKey=170913954865df665c0cfa8
+way	29986752	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-plan-de-gralba/2590F7DE63874C9893D0D1F816334529/?RequestKey=170910790365deeabfe3c41
 way	30001684	https://www.quellenhof.it/
 way	30838313	https://www.kohlererbahn.it/home-2/home.html
 way	31243834	https://www.hotel-wolfsgrubenersee.com/
@@ -6064,7 +6052,6 @@ way	38613134	https://www.rifugio-tuckett.it/
 way	39383605	https://www.campingmiralago.it/
 way	39518695	http://www.wasserfallbar.com/?site=sights&lang=it
 way	39687327	http://www.rifugioalimonta.it/
-way	39851562	https://www.rosslaufhof.com/
 way	39852372	https://www.hoteltyrol.com
 way	40023689	https://www.garnimelissa.it/
 way	41556517	https://www.penserjoch.com/
@@ -6100,7 +6087,9 @@ way	41976208	https://www.valdanna.com/
 way	41989259	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/ice-rink-pranives-selva-val-gardena/B03E871CB859A5350E0FBDE610E26B68/
 way	41989569	https://malgacimana.com/
 way	41991571	https://www.desalpes.info/
+way	41992858	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/garage-and-parking-ciampinoi/3DD6C25EE1D943F7924A99F3055358C3/?RequestKey=170911041665def4906446d
 way	41994635	https://www.valgardena.it/de/adressen-groeden/detail/base/company/wolkenstein-groeden/la-stua/D5AE015EE93711D3A09D006097A8F6AC/?RequestKey=170807506965cf283dae689
+way	41995444	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-ingram-bar-edda/4BE6664D3DD7481CB1EDF9CC7C281E3A/?RequestKey=170910723765dee825cb696
 way	42045164	https://www.valgardena.it/en/addresses/detail/base/company/selva-val-gardena/chalet-gerard/C0DF9C2076D911D18F2900A02427D15E/?RequestKey=170783845065cb8bf26d0a1
 way	42107052	http://www.hotelcir.com/
 way	42108886	http://www.jimmyhuette.com/
@@ -7518,6 +7507,7 @@ way	164328994	https://www.pschoalhof.com/
 way	164328999	https://www.hotel-martha.com/
 way	164329008	https://www.pension-weingarten.com/
 way	164329023	https://www.wiesenhof-lana.it/
+way	164350300	https://palais-campofranco.com/it/shopping/
 way	164433883	https://schloss-proesels.seiseralm.it/
 way	164840201	http://www.latis-service.com/
 way	164840229	http://valsugana_vetri.lisec-sw.com/it/site
@@ -7805,7 +7795,6 @@ way	207984126	https://kayi.it/bolzano/
 way	208117196	http://www.albergo-contrin.com/
 way	208263089	https://www.arcivescoviletrento.it
 way	208263090	https://www.rosmini.eu
-way	208591418	https://www.albiviohotel.it
 way	208619684	https://www.romantikhotelpost.com/
 way	208619731	https://www.braunhof.com/
 way	208619782	https://appartements-panorama.it
@@ -8239,6 +8228,7 @@ way	238715343	https://englhorn.com/?page_id=229
 way	238793864	https://www.provinz.bz.it/bauen-wohnen/oeffentliche-bauten/abgeschlossene-projekte/brixen-dreifachturnhalle-zinggen-rosslauf.asp
 way	238847066	https://www.zentral.it/
 way	238982884	https://www.gemeinde.kastelruth.bz.it/system/web/zusatzseite.aspx?detailonr=147829032
+way	239217317	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-fraces/C5AA086C52D44E89B3AE10531214A203/?RequestKey=170913893365df63f5a45e8
 way	239434063	https://hotelval.it/
 way	239854409	https://www.comune.lavarone.tn.it/
 way	240340309	https://www.schnalsersaege.com/
@@ -8268,6 +8258,7 @@ way	243816388	https://www.suedtirol.info/de/erleben/Kortscher-Alm_activity_34563
 way	244083792	https://www.icaldenomattarello.edu.it/
 way	244178591	https://www.pardillerhof.it/
 way	244181805	https://www.reatlhof.it/
+way	244210416	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-ice-rink/1ABB5F0341DD4622952B6665A4115FD7/?RequestKey=170896047165dcaad75cc36
 way	244298018	https://www.planatscherhof.it/
 way	244298751	https://www.unteraichnerhof.com/
 way	244312967	https://www.tischlerei-moser.com/
@@ -8338,6 +8329,7 @@ way	254317348	https://www.woehrmaurer.com/
 way	254347356	http://www.miaaltabadia.it/luch-rinna/
 way	254880745	http://www.fodara.it
 way	254881312	http://www.christof.it/
+way	255045806	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-piazza/BCB022B835D34E4A80C57410F848FF53/?RequestKey=170910671265dee618e20d7
 way	255085415	http://www.albergocervolavarone.it
 way	255159863	http://www.condominiosciliar.altervista.org/
 way	255286277	https://www.hotel-sonne.bz.it/
@@ -8362,6 +8354,8 @@ way	255574325	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-ga
 way	255574333	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/hotel-somont/C0DF9A4B76D911D18F2900A02427D15E/
 way	255574335	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-brunelle/7C6DEC9F43E677D5F3EF90C91F9F7DDC/
 way	255574339	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-elvis/C0DFA0EE76D911D18F2900A02427D15E/?RequestKey=17115247726603cba45382b
+way	255574340	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-ciampinoi-tennis/96C03D7C44D94B0AAC24A8FD321546EF/?RequestKey=170910702165dee74d9d66c
+way	255574342	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-speckkeller/863DF43007CA498CA9302CF908934388/?RequestKey=170910877865deee2a1d9de
 way	255574347	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-rondula/C0DFA0A676D911D18F2900A02427D15E/
 way	255574349	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/mountain-design-hotel-eden-selva/C0DF98F776D911D18F2900A02427D15E/
 way	255574350	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-nido/C0DFA3EC76D911D18F2900A02427D15E/
@@ -8407,6 +8401,8 @@ way	255592952	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-ga
 way	255592953	https://www.valgardena.it/en/accommodation/base/hotel/s-cristina-val-gardena/apartments-olympic/C0DF900976D911D18F2900A02427D15E/
 way	255592957	https://www.aaritz.com/
 way	255592975	http://www.pluaniaselva.it/parrochia-s-maria-assunta-selva-val-gardena/
+way	255592979	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-town-hall-library/880FCCC8E432B5683589850F284F686E/?RequestKey=170896114165dcad7523626
+way	255592988	https://www.valgardena.it/en/public-parking-places/
 way	255592989	https://www.hotelarmin.com/
 way	255592990	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/hotel-la-truga/C0DF999776D911D18F2900A02427D15E/
 way	255592992	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-clivia/C0DFA04A76D911D18F2900A02427D15E/?RequestKey=17115307246603e2e472c81
@@ -8839,6 +8835,7 @@ way	386630383	https://www.ictrento3.it/
 way	386658780	https://www.ronsolhof.com
 way	387892057	http://senzabarriere.org/
 way	387931172	https://www.ristorante-da-anita.com/
+way	388863912	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-business-park/FFF026A74D2143EB9DAE7C253E794B41/?RequestKey=170910730665dee86a41344
 way	389279289	https://www.finstral.com/
 way	389741793	http://www.appartments-gruenewald.it
 way	389949906	https://www.istalcidedegasperi.it/website/
@@ -8892,6 +8889,7 @@ way	424760166	https://www.hotelelbele.com
 way	424928382	https://www.meranarena.it/
 way	425541449	http://www.palacehotelravelli.it
 way	425546207	https://www.hotelpangrazzi.com/
+way	425930330	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-sciuz/B062FDCED857219195E915B11856BDB2/
 way	425932027	https://www.soleiga.com/
 way	425934208	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/b-b-fudle/C0DF9BBA76D911D18F2900A02427D15E/
 way	425934215	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/hotel-bellevue/C0DF948476D911D18F2900A02427D15E/
@@ -9081,6 +9079,9 @@ way	563848673	https://www.visitchiesecultura.it/
 way	563863455	https://www.sporthotel-zoll.com
 way	564463189	https://www.montebel.it/
 way	564819471	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/b-b-mountain-chalet-pra-ronch/C0DF9B7E76D911D18F2900A02427D15E/
+way	564826952	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-bacher-saslong/63A6F29D09BB4CDEAD32B0D7F896AB8C/?RequestKey=170910628965dee47187ba9
+way	564988191	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-plan-taiadices/03396CB6A55D4932CECD95F6602F720D/?RequestKey=170910769865dee9f2afe1c
+way	564996030	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-isgla/34F0793069494F21B70BBB905D922617/?RequestKey=170910963065def17e19111
 way	565123368	https://www.dolomitiambiente.it/content/centro-raccolta-materiali-crm-a-rovereto
 way	571576398	https://www.gruppospes.it/servizi/rsa/servizirsa-casa-famiglia/
 way	576585657	https://www.rimessaggiotrento.com/
@@ -9088,8 +9089,10 @@ way	579656294	https://www.mountime.com/
 way	580349611	https://www.leitz.org/
 way	580349616	https://www.molinomerano.it/
 way	580351004	https://www.kmu-loft.it/
+way	580763936	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-ski-school/F84D7A1E7DAE475FBB337BCB5EF2C1AA/?RequestKey=170896351565dcb6bb1673a
 way	580769683	https://www.iprona.com/
 way	580769684	https://www.bermartec.com/
+way	580769922	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-continental/C92B96778A644E4BB8F9BD04CE907A1C/?RequestKey=170913864965df62d923ad5
 way	585106367	https://www.comune.luserna.tn.it/Territorio/Luoghi-e-punti-di-interesse/Cosa-puoi-visitare2/Cimitero-di-Costalta
 way	585726016	https://www.merano-suedtirol.it/de/partschins/betrieb/panorama-klettergarten-huafwond-2630/
 way	588336145	https://www.nauders.com/de/aktiv-erleben/sommer-aktiv-erleben/bike-rad/endurobike/etsch-trail_td-11729
@@ -9109,6 +9112,7 @@ way	609324366	https://www.comune.bresimo.tn.it/
 way	610199301	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/6037/Chiesa+di+San+Martino
 way	610239683	http://www.ober1.com
 way	612276890	https://www.icfondorevo.it/index.php/sp-romeno
+way	614597308	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-central-parking/7B1DBA466C6B4FA7B4A418E11B81A3DF/?RequestKey=170911003265def31055ccc
 way	617196032	https://www.lacoccinella.coop/content/nido-di-martignano
 way	620401589	https://www.olgacasanova.it/
 way	620401590	https://www.olgacasanova.it/
@@ -9517,6 +9521,7 @@ way	1243408396	https://calzaperformancehorses.it/
 way	1243702673	https://pratisaiano.it/
 way	1249563998	https://arco.enaiptrentino.it
 way	1249707368	https://www.trentinosolidale.it/
+way	1250591091	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-ruacia-maciaconi/D810D1EE42DC4B4C971646D2D004FD6C/?RequestKey=170910662665dee5c25cd5e
 way	1250873770	https://www.saegewerk-wurzer.it
 way	1255577858	https://www.hotel-bucaneve.com/
 way	1257840145	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/residence-ravisa/C0DF9E3276D911D18F2900A02427D15E/
@@ -10733,6 +10738,7 @@ relation	9288679	https://www.flixbus.de/busverbindung/fernbus-nuernberg-mailand-
 relation	9289023	https://www.flixbus.de/busverbindung/fernbus-mailand-milano-nuernberg
 relation	9333022	http://www.caivalpolicella.it
 relation	9346448	https://www.vvt.at/
+relation	9435832	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-passo-sella/EE413704564D44E3AEDB5B9CEA20076E/?RequestKey=170911187865defa46ee0b7
 relation	9489538	https://www.cesarebattisti.org/
 relation	9520240	https://www.asilorosmini.it/la-scuola/
 relation	9545582	https://www.flixbus.de/busverbindung/fernbus-ancona-muenchen
@@ -10957,6 +10963,7 @@ relation	17265244	https://www.lavaze.com/it/inverno/piste
 relation	17405562	https://noi.bz.it/
 relation	17582413	https://www.sat.tn.it/
 relation	17636677	https://www.sat.tn.it/
+relation	17744534	https://parcopan.org/track/percorso-caoria-paneveggio/
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -11138,6 +11145,7 @@ node	1005689700	http://www.mooifashion.it
 node	1010809827	http://www.lavaloner.com/
 node	1014941656	http://www.bang-olufsen.com
 node	1016602915	http://www.casa-arredo.com/
+node	1037290948	https://www.caprizza.it/
 node	1045044740	http://www.pizzium.com/
 node	1073482386	http://www.patware.it
 node	1073656665	http://www.motcenter.it/
@@ -11656,7 +11664,6 @@ node	5862215675	https://www.miramontefilm.com/
 node	5905898090	https://www.albergoalcacciatore.eu/
 node	5983798415	http://www.restaurant-fink.it/
 node	5998800152	https://www.mrssporty.it/club/trento-buonarroti/
-node	5998800163	https://evway.net/
 node	6011142676	http://www.heartoftrento.com/
 node	6036162191	https://forchettaerastrello.it/attivita/ristorazione/barone-al-castello/
 node	6179745981	https://www.neuhof.it/
@@ -11909,6 +11916,8 @@ node	11805686718	https://www.innerhofer.it/it/showrooms/trento/34-49.html
 node	11933961265	https://www.roeck.bz/
 node	11949825659	https://www.soggiornodolomiti.it/
 node	11981478395	https://activa.bmw.it/
+node	11998617215	https://www.latorre-forst.it/
+node	12001435125	http://www.hotelmiramontimer.com
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24441737	https://www.trentinomobilita.it/parcheggi-coperti
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
@@ -12214,7 +12223,6 @@ way	156222352	http://www.gasthof-schwaiger.it/
 way	156269410	www.mattimport.it
 way	157089437	https://www.garni-wildbach.com/
 way	157765001	http://www.teutschhaus.it
-way	158210374	http://www.museocivico.rovereto.tn.it/sperimentarea
 way	160392710	https://www.bancapts.it
 way	163216379	https://www.bancapts.it
 way	164960054	https://www.serenestar.it/produttori/cooperativa-c-ba-v-consorzio-ortofrutticolo-bassa-valsugana-sca/
@@ -12323,7 +12331,6 @@ way	292302915	http://www.mountain-living.eu
 way	293867069	http://www.obermairhof.net/
 way	294169904	https://www.zumloewen.it/#menue
 way	298285514	http://www.campingmario.com
-way	303193374	http://www.hotelmiramontimer.com
 way	303193375	http://www.rifugiofonteghi.it
 way	310806042	https://www.visitvaldisole.it/it/info/castello-san-michele-ossana
 way	317621064	https://www.sirmian.com
@@ -12476,6 +12483,7 @@ relation	16693997	https://www.gruppodolomitienergia.it/
 relation	17087035	https://www.casteldrena.it/
 relation	17604111	https://www.museonazionalealpini.it/
 relation	17704577	https://bioenergiatrentino.it/
+relation	17735540	http://www.museocivico.rovereto.tn.it/sperimentarea
 node	250103447	http://italia.indettaglio.it/ita/trentinoaltoadige/trento_pinzolo_campocarlomagno.html
 node	283551188	http://www.kronplatz-gastro.com/Treff.html
 node	331259364	http://italia.indettaglio.it/ita/trentinoaltoadige/trento_mezzana_marilleva1400.html
