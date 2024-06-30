@@ -1197,6 +1197,7 @@ node	2686006666	https://www.sovraintendenzaroma.it/i_luoghi/roma_antica/monument
 node	2687356401	https://acrobax.org/
 node	2689710722	http://www.hopcorner.com/
 node	2696074624	http://www.ribercarni.it
+node	2697465346	https://europeancoffeetrip.com/cafe/lelevain-rome/
 node	2705548595	https://www.farmaciacorsetti.it/
 node	2715323394	http://www.moonlooker.com
 node	2727770854	https://rosaitaliarome.it/
@@ -2258,6 +2259,7 @@ node	4664779090	https://www.marzapaneroma.com/
 node	4664809889	http://www.madreroma.com
 node	4665431291	http://trapizzino.it
 node	4665498889	https://www.suppliroma.it/
+node	4665522089	http://www.caffecolbert.it/
 node	4665574280	https://www.fotodigitaldiscount.it/
 node	4674301151	https://www.agesci.it/
 node	4678861536	https://consumer.huawei.com/it/support/
@@ -2471,9 +2473,7 @@ node	4920186122	https://www.farmaciagenovese.it/
 node	4920232121	http://www.infinito.it
 node	4921691879	https://www.terranostraorioloromano.it/
 node	4924127953	info@stellinagarbatella.it
-node	4928538922	http://www.blueiceitalia.com
 node	4928547924	http://www.blueiceitalia.com
-node	4928710822	http://www.blueiceitalia.com
 node	4928729021	https://www.etro.com/
 node	4928733321	https://www.loriblu.com/
 node	4936115897	http://www.bibliotecamedicastatale.beniculturali.it/
@@ -3295,6 +3295,7 @@ node	6153837512	http://www.agrimarketilmulino.it/
 node	6153871304	https://cinematroisi.it/
 node	6158798403	https://www.centroraphael.it/
 node	6163168584	https://www.tiberadv.it
+node	6167163804	https://langolo-dei-dolci-cornetteria.metro.bar
 node	6172697954	http://www.eckosound.com
 node	6173351210	https://theromehello.com/
 node	6173924157	https://www.bbtreviroma.com
@@ -3758,7 +3759,6 @@ node	7152462690	https://www.facebook.com/sacredinkeur/
 node	7159105141	http://tesla.gg/
 node	7159105150	http://www.newdevilskiss.it/
 node	7160233828	https://www.sablab.it
-node	7165671598	https://www.e-coop.it
 node	7166064930	https://www.cucineconti.it/
 node	7166844288	http://www.sabap-rm-met.beniculturali.it/it/388/antiquarium-di-lucus-feroniae
 node	7172234527	http://www.polomusealelazio.beniculturali.it/index.php?it/247/museo-giacomo-manz
@@ -6078,6 +6078,18 @@ node	11987182654	albergodelleregioni.com
 node	11990726200	https://passionforpaper.it
 node	11991754514	https://www.alessandronatalizia.it/index.html
 node	11991869332	https://www.altroquando.com/
+node	12002795374	https://www.dalpatriota.it
+node	12003382430	legrondici.it
+node	12009787001	https://www.portoturisticodiroma.it/
+node	12012318069	https://www.casadelcronometro.it/
+node	12012911132	https://pulcedacqua-scuoladellinfanzia.blogspot.com/
+node	12013137058	https://www.hotelsistina.it/fr/
+node	12014379678	https://www.thecodehotelrome.com/
+node	12015532255	https://www latrrettabandb.com
+node	12015609719	https://www.maisonspagna.it/
+node	12015609721	https://www.sofiaristoranteroma.it/
+node	12019955995	info@hotelborgognoni.it
+node	12020471664	https://www.lerevedenaim.com/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7306,6 +7318,7 @@ way	398928379	https://palatorrino.it/
 way	398928462	santamariamaterecclesiae.it
 way	398933951	scuola.steineriana.janua.it
 way	399906180	https://www.regione.lazio.it/binary/rl_ambiente/tbl_contenuti/cartografia/Roma/IT6030009.PDF
+way	399986048	https://progettonaturalmente.wordpress.com/natural_mente/orto-botanico/
 way	400114801	https://www.metro.it/punti-vendita/roma-laurentina
 way	400662383	https://www.regione.lazio.it/binary/rl_ambiente/tbl_contenuti/cartografia/Roma/IT6030001.PDF
 way	400761190	https://download.mase.gov.it/Natura2000/Trasmissione%20CE_dicembre2022/schede_mappe/Lazio/ZSC_mappe/IT6010023_A3-vert.jpg
@@ -7322,6 +7335,8 @@ way	401964934	http://roma.mae.ro/node/258
 way	402116585	https://www.casaledimartignano.it/
 way	402234490	https://iduelaghi2018.wixsite.com/iduelaghi
 way	402655798	https://www.parchilazio.it/marturanum
+way	402673120	https://www.sutriturismo.it/villa-savorelli
+way	402673122	https://www.sutriturismo.it/santa-maria-del-monte
 way	402688966	http://www.istitutoliviabottardi.gov.it/
 way	402843078	http://www.parrocchiasutri.org
 way	402954775	https://www.parrocchiasanmichele.org/
@@ -7457,7 +7472,6 @@ way	441925375	http://cairieti.it
 way	442046263	https://www.alcasale2000.it/
 way	442066270	http://www.hotelalbaroma.com/
 way	442066329	https://www.elpatio.it/
-way	442190429	https://www.azgroma.com/
 way	442190451	http://www.holykartroma.it
 way	442455452	https://agricolapaolucci.it/
 way	442468785	https://www.vigorsportingcenter.it/
@@ -7726,7 +7740,6 @@ way	531087188	https://www.centralelattediroma.it/
 way	531107184	https://www.facebook.com/vintrobarandbites/
 way	531210534	https://www.casadiriposovillacquaforte.it/
 way	531392772	https://www.istat.it/
-way	534196339	https://pulcedacqua-scuoladellinfanzia.blogspot.com/
 way	537110373	vivaioeffezeta.it
 way	537120177	parrocchiasantipietroepaolo.org
 way	537184951	https://www.gdp.roma.giustizia.it/
@@ -9005,9 +9018,6 @@ relation	12584861	https://www.cristoreroma.it/
 relation	12585570	https://www.scuoleventesimo.it/scuola-materna-lisola-felice/
 relation	12597255	http://www.caiamatrice.it/sentieri-e-itinerari/
 relation	12597440	http://www.caiamatrice.it/sentieri-e-itinerari/
-relation	12611834	https://camminodeibriganti.it
-relation	12611835	https://camminodeibriganti.it
-relation	12611836	https://camminodeibriganti.it
 relation	12612860	https://camminodeibriganti.it
 relation	12612861	https://camminodeibriganti.it
 relation	12612862	https://camminodeibriganti.it
@@ -9244,6 +9254,7 @@ relation	16862803	https://www.sslazioarchery.it
 relation	16892973	https://www.camminodifrancesco.it/
 relation	16897033	https://www.camminodifrancesco.it/
 relation	16897034	https://www.camminodifrancesco.it/
+relation	16904488	https://camminodilarth.it/
 relation	17039338	www.caimonterotondo.it
 relation	17278735	http://www.simbruini.it/
 relation	17282511	https://www.aeronautica.difesa.it/organizzazione/csma/enti_dipendenti/COMAER/Pagine/ComandoAeroportoVignadivalle.aspx
