@@ -1,7 +1,7 @@
 @type	@id	website
 node	26859446	https://www.torrecastiglione.it/
 node	26859473	http://www.campingdeitrulli.com
-node	26859879	http://www.campingdegliulivi.it/
+node	26859879	https://www.campingdegliulivi.it/
 node	68528694	https://www.comune.ruvodipuglia.ba.it/
 node	68528748	http://www2.comune.gravina.ba.it/
 node	68528826	https://www.comune.ceglie-messapica.br.it/
@@ -9,7 +9,7 @@ node	68529991	https://castellaneta.gov.it/
 node	68530001	www.comunedicastro.it
 node	226914688	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/45542
 node	288227954	https://www.campingvalledoro.it/
-node	288229588	http://www.comuni-italiani.it/071/059/farmacie/
+node	288229588	https://www.comuni-italiani.it/071/059/farmacie/
 node	301320707	https://openlightcaffe.it/
 node	303063558	https://it-it.facebook.com/specialbikesbk
 node	311871873	https://musei.puglia.beniculturali.it/musei/museo-archeologico-nazionale-jatta/
@@ -28,10 +28,11 @@ node	503101623	https://www.decathlon.it/
 node	534592066	https://www.carabinieri.it/arma/ieri/storia/vista-da-2015/fascicolo-43/la-strage-di-nassiriya
 node	591597582	http://www.ba.cnr.it/
 node	592016534	https://www.teatroverdi.eu/
-node	611584735	http://www.puntalunga.it
+node	611584735	https://www.puntalunga.it/
 node	615632967	https://www.facebook.com/ibucanieri
 node	615632974	https://www.saint-patrick.it/
 node	620120661	https://www.anchecinema.com/
+node	624106051	https://www.empiregym.it/
 node	624399054	www.barimotors.it
 node	643883764	http://www.cinemaesedra.it/
 node	656532192	http://musei.beniculturali.it/musei?mid=5365&nome=museo-nazionale-archeologico-di-manfredonia
@@ -116,6 +117,7 @@ node	1770045659	https://www.fseonline.it/
 node	1774746082	https://www.latanamarina.eu/
 node	1780533354	https://crostapizzeria.it/
 node	1783080946	https://www.borgobianco.it/
+node	1784660231	https://www.energy-live.it/
 node	1801536706	https://www.hotelautostello.it/
 node	1845461806	http://www.hotelnicolaj.eu/
 node	1848351879	https://www.liceodonmilaniacquaviva.edu.it
@@ -261,14 +263,14 @@ node	2685247810	https://bari.impacthub.net/
 node	2687043081	https://www.apuliafilmcommission.it/
 node	2691062509	http://www.casasolento.com
 node	2691192953	http://www.liceopepe.it/
-node	2696945520	http://www.casinadeinonni.com
+node	2696945520	https://www.casinadeinonni.com/
 node	2704219895	https://www.manifattureknos.org/knos/progetti.php?project=23
 node	2704642901	www.oasisangiovannibattista.com
 node	2704682652	www.oasisangiovannibattista.com
-node	2716932697	www.lacreperia.it
+node	2716932697	https://www.lacreperia.it/
 node	2718609292	https://www.facebook.com/pages/LavaExpress-Lavanderia-Self-Service/111637868866528
 node	2718688861	https://www.euronics.it/
-node	2718956097	www.hotel-colibri.it
+node	2718956097	https://hotel-colibri.it
 node	2722125915	https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
 node	2728932439	https://www.trullodellaselva.com/
 node	2747155041	https://www.caiaffa.it/
@@ -324,7 +326,7 @@ node	3218825949	https://www.misvagoloungebar.com/
 node	3224530835	https://www.majorpigiami.it/
 node	3224530837	http://frigorent.it/
 node	3224557887	http://www.farmaciacurciirene.com/
-node	3224559610	http://www.farmaciacalia.com/
+node	3224559610	https://www.farmaciacalia.com/
 node	3225556364	http://www.chaplinpub.it
 node	3225691102	https://lallegrascottonapub.it/
 node	3225840072	https://www.copacabanasuite.com/
@@ -369,7 +371,7 @@ node	3414060698	http://www.labodeguitacalimera.it/
 node	3414415595	https://dellattistore.com/
 node	3419856630	https://www.dinosauridialtamura.it/cava-pontrelli/
 node	3424429057	http://www.desantisuffici.it
-node	3444755232	http://www.laterracotta.net/
+node	3444755232	https://www.laterracotta.net/
 node	3444755233	https://www.ottavionuccio.com/
 node	3445539203	http://www.residencefusaro.com/
 node	3451160193	https://www.anticomonastero.com/
@@ -666,7 +668,7 @@ node	5003855070	http://www.malecostadelsud.com
 node	5010190921	https://www.levelzero.it/
 node	5014526426	https://www.allacortedellasuocera.com/
 node	5032325489	http://castellaneta.gov.it
-node	5040324368	montegusto.it
+node	5040324368	https://montegusto.it/
 node	5047454327	http://www.avamposto.net
 node	5055654090	https://www.morato.it
 node	5064720769	http://antonellabellipario.altervista.org
@@ -760,6 +762,7 @@ node	5373565121	http://www.caroppo.com
 node	5376086321	http://www.masseriaaprile.it
 node	5380295107	https://aziende.virgilio.it/case-di-riposo/taranto-ta/centro-diurno-anziani-taranto
 node	5383243667	https://www.facebook.com/IlCaiccco.Bar.Birreria.Paninoteca/
+node	5383245703	https://puntivenditadeco.multicedi.it/it/italia/bari/bari-prolung-via-leonardo
 node	5383258378	https://www.facebook.com/Gocce-Di-Caff%C3%A8-1728496227425363/
 node	5383285158	https://www.facebook.com/EnotecaWineItaly/
 node	5383296125	https://www.facebook.com/PanificioLaCaravella/
@@ -775,6 +778,7 @@ node	5431053163	https://intrappolaundergroundshop.com
 node	5435647040	http://www.businessconsulence.com
 node	5438106838	http://www.portafuturobari.it/
 node	5445842589	https://www.lidl.it
+node	5446010252	https://www.wellnessngymbari.it/
 node	5451410324	https://www.pingry.it/
 node	5454346721	http://www.nardellisport.shop
 node	5465372821	http://www.acasamiapizzeria.it
@@ -870,6 +874,7 @@ node	5813133319	https://sicoloarredamenti.com/
 node	5813316623	https://www.boccondivinolecce.com/
 node	5818397007	https://www.sevencomputercenter.it/home_page.html
 node	5820695103	https://www.townhallbnb.com
+node	5824819461	https://www.carrefour.it/
 node	5826253254	https://www.conad.it/ricerca-negozi/negozio.006891.html
 node	5839951521	https://www.assembleedidio.org
 node	5851285246	http://www.lapergolapolignano.it
@@ -956,6 +961,7 @@ node	6241867843	https://www.conad.it/
 node	6242400059	https://www.traianabedebike.com/
 node	6242549759	https://www.lalocandatilispilusi.it/
 node	6255569381	https://www.osteriadeglispiriti.it
+node	6255594389	http://ristorantecinesepechino.it/
 node	6255727960	https://linktr.ee/lievita72
 node	6256090004	http://www.hotelmasseriamarziale.it
 node	6263485321	https://www.avvocatipacifico.it/
@@ -1032,7 +1038,7 @@ node	6533838098	https://www.hotelroyalportocesareo.it/
 node	6545776930	https://www.agriturismocalamate.it/
 node	6546000531	https://blancgallipoli.com/
 node	6552983787	https://www.lidobambu.it/
-node	6553822398	http://www.bagnomarinoarchi.it
+node	6553822398	https://www.bagnomarinoarchi.it/
 node	6561456268	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=177585&pagename=57
 node	6562994435	http://www.castellocarlov.it/museo-della-cartapesta/
 node	6564488785	https://www.lupodimarebarletta.it/
@@ -1042,7 +1048,7 @@ node	6581302985	http://www.tenutamontematino.com/
 node	6594382446	http://www.prolocobovino.it/
 node	6594466668	http://www.musa.unisalento.it
 node	6621102389	hotelcitybari.com
-node	6635893189	http://www.parcodeibriganti.it/
+node	6635893189	https://www.parcodeibriganti.it/
 node	6694632020	https://campinglascoglierasalento.com/
 node	6699962185	https://www.ecoviarent.com/
 node	6713073260	https://www.bed-and-breakfast.it/mobile/it/puglia/b-b-il-principe-palo-del-colle/17142
@@ -1213,7 +1219,7 @@ node	7676084438	https://videosmile.it/
 node	7676127408	https://www.tsnalezio.it/
 node	7676127409	https://www.arealabalezio.it/
 node	7676127410	https://www.facebook.com/UnitiAlezio/
-node	7692505613	www.margheritadisavoiahotelbelvedere.it
+node	7692505613	https://www.margheritadisavoiahotelbelvedere.it/
 node	7721412971	https://www.baiafalcone.it/
 node	7751997296	https://www.cdshotels.it/corte-di-nettuno/
 node	7798915359	https://www.poste.it
@@ -1592,6 +1598,7 @@ node	9552292232	https://www.facebook.com/FrancescoCervelleraDimensioneSalute/
 node	9554519498	https://www.facebook.com/nirocentroestetico
 node	9554551915	https://www.facebook.com/DALI.COFFEE.AND.DRINK/
 node	9554557447	https://pugliainpizza.it/
+node	9554704378	https://www.otticaranieri.com/
 node	9572470553	www.pianetaostuni.it/index.php/18-chiese-rurali/514-san-benedetto-piccolo-2
 node	9576167930	www.docartis.com/OSTUNI_CHIESE_RURALI/Chiesa_mass_CERTOSA.pdf
 node	9599376347	www.pianetaostuni.it/index.php/18-chiese-rurali/540-trinchera-2
@@ -1684,7 +1691,7 @@ node	9870498652	https://www.dse.unisalento.it
 node	9871879979	https://www.ladisfidadibarletta.it/
 node	9871909928	https://www.vinslounge.it/
 node	9872018783	https://www.hotelripa.com/
-node	9876330154	http://www.viestedamare.it/
+node	9876330154	https://www.viestedamare.it/
 node	9878520991	https://www.unicredit.it/
 node	9878663660	https://www.kemare.it
 node	9878724505	https://www.mareversus.com/
@@ -1763,7 +1770,7 @@ node	9964363661	https://www.zuiki.it/
 node	9964363662	https://www.estasiprofumerie.it/
 node	9964363663	https://www.rinascimento.com/
 node	9964363665	https://www.bata.it/
-node	9964363666	www.folliedoro.it
+node	9964363666	https://www.folliedoro.it/
 node	9964363667	https://www.ovs.it/
 node	9964394271	https://m.facebook.com/vogaimandorli/
 node	9964394272	https://www.lamaoptics.it/
@@ -2146,7 +2153,7 @@ node	11519511588	https://www.pilolli.com/
 node	11519511589	https://www.lamaoptical.it/
 node	11528505164	https://gopherweb.it
 node	11534560175	https://www.paginegialle.it/taranto-ta/azienda-sanitaria-locale-ta_6
-node	11570059543	http://www.tarallificiosanpadrepio.it/
+node	11570059543	https://www.tarallificiosanpadrepio.it/
 node	11570059544	https://www.mobilificiosc.it/
 node	11572441888	https://www.poste.it/
 node	11584102227	https://www.tenutacesano.bio/
@@ -2401,6 +2408,16 @@ node	12002753170	https://ideaelettrodomestici.it/it/
 node	12002782472	http://www.icbregantevolta.edu.it/
 node	12002794469	https://www.enelx.com/
 node	12003992669	https://www.poltronesofa.com/it-IT/Index
+node	12007202856	https://www.dabramo.it/
+node	12010350070	www.masseriavalentina.com
+node	12010350071	www.masseriavalentina.com
+node	12012156228	https://www.mondorisparmio.it/
+node	12012578769	https://www.cimeditapas.it/
+node	12015263587	https://www.rubinocase.com/
+node	12017330377	https://spanosrl.it/
+node	12017330386	https://www.ideasposa.it/
+node	12023712769	http://www.waytomove.it/
+node	12023718569	http://www.waytomove.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2436,7 +2453,7 @@ way	129120194	https://www.wspace.it/
 way	129693063	https://www.baiadigallipoli.com/
 way	131417294	https://www.albergolapineta.info/
 way	131417307	https://daelioisoletremiti.weebly.com/
-way	131417310	http://www.tramontanatremiti.com/
+way	131417310	https://www.tramontanatremiti.com/
 way	131417322	https://puntadeldiamante.it/
 way	131471685	http://www.ilchiostrobnb.it/
 way	132680870	http://www.liceodegiorgi.gov.it/
@@ -2466,7 +2483,7 @@ way	176077159	https://www.hoteldamato.it/
 way	181148484	http://www.bleusalento.it/
 way	181595328	http://www.diocesifoggiabovino.it/?pag=diocesi&sub_pag=parrocchie&action=view&newsid=20
 way	198901667	http://www.gommoland.it/
-way	200881623	http://www.ilcantico.nl/
+way	200881623	https://www.ilcantico.nl/
 way	202178196	https://www.iamb.it/
 way	203541403	https://www.hotellosmeraldo.com/
 way	203541426	https://www.hotelfalcodoro.com/
@@ -2509,7 +2526,7 @@ way	246786944	http://musei.beniculturali.it/musei?mid=879&nome=castello-di-coper
 way	250957479	https://www.vittoriaresort.it/
 way	263082200	https://www.apuliafilmcommission.it/cineporti/cineporto-di-bari
 way	264520183	https://www.comune.brindisi.it
-way	264868538	http://www.spaziomurat.it/
+way	264868538	https://www.spaziomurat.it/
 way	265437269	http://cartapulia.it/dettaglio?id=129434
 way	266711492	http://www.barialtogolfclub.com/
 way	268955570	https://www.lidl.it/
@@ -2524,7 +2541,7 @@ way	283873152	http://www.discotecadiomede.it/
 way	284497450	https://www.valmauto.it/
 way	285280972	http://www.ammirato-falcone.it/
 way	289219271	http://www.igiardinidiatena.com
-way	290006329	http://www.hotelcotedest.it
+way	290006329	https://www.hotelcotedest.it/
 way	295800471	https://www.barbarredi.it/
 way	296282157	https://www.tenutamascarini.it
 way	296746702	http://castellana.indianapark.it/
@@ -2631,7 +2648,7 @@ way	347654793	https://www.0831space.com/
 way	350801148	https://www.aerotre.it/
 way	351522166	https://www.8piuhotel.com/
 way	359522711	http://www.santicuti.it
-way	359667890	http://www.spiaggiazzurra.com/
+way	359667890	https://www.spiaggiazzurra.com/
 way	359667897	https://www.acquaspeed.com/
 way	359667904	http://www.girodiboabeach.com/
 way	359667906	https://www.ficodindialido.it/
@@ -2688,6 +2705,7 @@ way	385451383	https://www.elicaferramenta.com/
 way	385451940	https://ceramichemarmibitonti.com/
 way	385857908	https://www.ldvetroresina.it/
 way	385907492	https://www.emmepigas.eu/
+way	386705270	https://www.circolo27bari.edu.it/
 way	387932592	https://www.barpasticcerialincontro.it
 way	388901682	https://www.finedin.it/
 way	391979884	https://www.grandhoteldilecce.it/
@@ -2710,7 +2728,7 @@ way	402042926	https://www.masseriapisciani.it
 way	402047534	http://www.hotelcoccioli.com/it/coccioli
 way	402149893	https://www.diocesilecce.org/diocesi-di-lecce/vicaria-di-squinzano/trepuzzi/santa-famiglia-di-gesu-maria-e-giuseppe-trepuzzi/
 way	402613945	https://www.nuovarredo.it/
-way	402613952	http://www.antiquariatovisconti.com
+way	402613952	https://www.antiquariatovisconti.com/
 way	403083251	https://www.carolihotels.com/ecoresort-le-sirene
 way	403083636	http://www.trattoriacasalario.it/
 way	403138441	https://www.tecneco.com/
@@ -2761,7 +2779,7 @@ way	406683837	https://www.hoteltramonto.it/
 way	406683891	https://www.hotelalbano.it/en/index.php/
 way	406684043	https://www.hotelrivieragargano.it/
 way	406860239	http://www.villareginadelmonte.com
-way	407000273	http://www.masserialeville.it/
+way	407000273	https://www.masserialeville.it/
 way	407004384	https://hotelpineta.it/
 way	407143888	https://www.cinemars.it/
 way	407428797	https://www.automurgia.com/
@@ -2801,6 +2819,7 @@ way	412167074	https://palazzofizzarotti.com/
 way	412529117	https://www.ristorantelaragostabari.com/
 way	412715106	https://www.montecosrl.it/
 way	413944453	www.pianetaostuni.it/index.php/18-chiese-rurali/562-soluco-24
+way	414521407	https://www.circolo27bari.edu.it/
 way	415040524	https://www.cuoreimmacolatodimaria.net/
 way	415602957	http://www.maglioeventi.com/ita/tenuta_lucagiovanni.asp
 way	416414879	https://www.santamariadellavittoria.it/
@@ -2826,10 +2845,13 @@ way	417666784	https://www.terrammareteatro.it/
 way	417996612	http://www.silosgranari.it/it/sedi/bari.html
 way	417997251	http://www.bargrad.com
 way	417998213	https://www.liceoflaccoba.edu.it/
+way	417998760	http://www.autosilopoggiofranco.it/
 way	417998810	https://www.adspmam.it
 way	417998815	http://www.parrocchiascalzibari.it/
 way	417999127	https://www.nuovoteatroabeliano.com/
+way	417999276	https://www.come-te.net/comete/nido-e-scuola-dellinfanzia-beata-elia-di-san-clemente/
 way	417999516	https://campusx.it
+way	417999575	https://tribunale-bari.giustizia.it/
 way	418001525	https://www.consba.it/
 way	418005612	http://www.comune.bari.it/
 way	418005634	http://www.palamartino.it
@@ -3036,7 +3058,7 @@ way	465455862	https://www.eurospin.it/
 way	467643058	https://www.masseriacaselli.it/
 way	467648857	http://www.hotelsottolestelle.it
 way	467717208	http://www.ecpeluso.it/prossime_r.html
-way	469635519	http://cofra.it
+way	469635519	https://www.cofra.it
 way	470202046	http://www.salernocinema.com/
 way	470807067	https://www.masseriacaselli.it/
 way	472568505	http://www.giardinisausari.it
@@ -3068,7 +3090,7 @@ way	485333243	http://www.gruppopalaia.it
 way	486077065	https://mistersorriso.wixsite.com/mistersorriso
 way	486583325	https://cartapulia.it/dettaglio?id=132500
 way	487127231	https://www.comune.matino.le.it/
-way	487458346	http://www.hotelcotedest.it
+way	487458346	https://www.hotelcotedest.it/
 way	489033721	https://www.hotelvictoriagallipoli.it/
 way	490192798	https://www.conchigliasangiovanni.it/
 way	491768151	https://www.laspiaggettaclub.it/
@@ -3227,7 +3249,7 @@ way	635944214	www.hotelrivabella.it
 way	639827647	https://www.centrobethel.it
 way	643690242	http://www.masseriagiovanni.it
 way	646592340	https://www.wwf.it/oasi/puglia/il_rifugio_melitto/
-way	654761731	http://www.strammiellotrasporti.it
+way	654761731	https://www.strammiellotrasporti.it/
 way	655434938	https://www.m3centroceramiche.com/
 way	660563824	https://www.masserialuciagiovanni.it/
 way	662532087	http://www.altramurgia.it/
@@ -3260,11 +3282,11 @@ way	742453393	https://www.agrolio.com/
 way	747003691	https://www.agrimatsalento.com/
 way	753746558	https://www.teatrocrest.it/
 way	760239726	https://camperlife.it/zapponeta-beach.html
+way	766518016	https://www.rossotono.it/punti-vendita/1480/camillo-rosalba-bari/
 way	769416558	iccavallino.gov.it
 way	769424574	iccavallino.gov.it
 way	769768290	http://www.liceolilla.it
 way	777800980	https://www.tribunale.bari.giustizia.it/
-way	777803860	https://www.tribunale.bari.giustizia.it/
 way	779340548	http://www.itdeleddalecce.gov.it
 way	779865408	https://www.villaggioalbergocervo.it/
 way	783443023	https://www.bluserena.it/it/granvalentino-village/villaggio-turistico-puglia
@@ -3369,7 +3391,7 @@ way	1158532121	https://centrosportivosportland.weebly.com/
 way	1158547653	https://www.laperladelgargano.com/
 way	1158551421	https://la-gemma.it/
 way	1158551422	https://valleolivo.it/
-way	1158938477	http://www.baiapizzomunno.it/
+way	1158938477	https://www.baiapizzomunno.it/
 way	1160824524	https://tavsandonaci.wordpress.com/
 way	1165131604	https://www.masserialepianelle.it
 way	1167546997	https://www.masseriacelidonia.it/
@@ -3446,6 +3468,10 @@ way	1289707455	https://www.accademiadelcinemaragazzi.it/
 way	1289707456	https://www.comprensivogabellibari.edu.it/
 way	1289722963	https://defeo-group.it/
 way	1289735232	https://www.masseriapalombara.com/
+way	1293086947	https://www.istitutoperottibari.edu.it/
+way	1295706194	https://www.nicolazingarellibari.edu.it/
+way	1295709270	https://www.nicolazingarellibari.edu.it/
+way	1297674252	https://www.japigiaii-torreamare.edu.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -3529,7 +3555,7 @@ relation	11187896	https://www.acquaparkegnazia.it/
 relation	11278220	http://www.bluemarinevillage.it/
 relation	11609200	www.docartis.com/OSTUNI-LAME/00%20Lame%20di%20Ostuni.pdf
 relation	11768946	https://www.caibari.it/
-relation	11798572	http://www.marinobusurbano.it/linea_scalo_ferroviario_sx.pdf
+relation	11798572	https://www.marinobusurbano.it/linea_scalo_ferroviario_sx.pdf
 relation	11843712	https://acciaierieditalia.com
 relation	12576335	https://www.viefrancigenedelsud.it/
 relation	12585682	https://www.viefrancigenedelsud.it/
