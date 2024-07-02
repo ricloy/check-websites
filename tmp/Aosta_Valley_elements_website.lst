@@ -23,7 +23,6 @@ node	462097194	https://www.hotelmiage.it/
 node	473203577	https://www.hcdc.it/
 node	563311749	https://www.cavemontblanc.com/
 node	666335350	http://www.hoteldufoyer.it/
-node	797331763	https://www.camperonline.it/cogne.htm
 node	846715830	https://www.lovevda.it/en/database/4/uffici-turistici/la-thuile/tourist-office-la-thuile/1780
 node	847296482	http://www.museoscienze.it/
 node	910361198	https://www.croixblanche.it/
@@ -370,6 +369,7 @@ way	59047980	https://www.ravspa.it/index.php?option=com_content&view=article&id=
 way	59047982	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	60360487	http://www.valverdehotel.it/
 way	60798744	https://www.rifugioelisabetta.com/
+way	65177722	https://www.camperonline.it/cogne.htm
 way	71170701	https://www.lovevda.it/it/banca-dati/8/architettura-romana/aymavilles/il-ponte-acquedotto-romano-di-pont-d-ael/852
 way	73024728	http://www.azzurra-camper.com/
 way	77455428	http://www.rifugiogonella.com/
@@ -912,7 +912,7 @@ node	353049781	www.rifugioarp.it
 node	353049803	www.rifugioguidefrachey.it
 node	353049806	http://www.rifugioermitage.com/
 node	353049825	http://www.rifugio-prarayer.it/
-node	353049833	http://www.rifugioaosta.it/a/
+node	353049833	https://www.rifugioaosta.com/
 node	353049840	http://www.caitorino.it/
 node	353049844	http://www.rifugiocuney.it/
 node	353083724	http://www.rifugioelena.it
