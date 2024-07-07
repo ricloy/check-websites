@@ -653,7 +653,6 @@ node	4853534162	https://www.ristorantelatagliata.it/
 node	4960069295	https://www.roadhouse.it/it/ristorante-roadhouse-ancona
 node	4960069303	https://lowengrube.it/birrerie/ancona/
 node	4978428552	https://www.esa1.eu/
-node	4986432521	http://www.giorgiomarescia.it
 node	4989800289	https://antonionisport.it/
 node	5001872625	https://www.farmaciediturno.org/orariofarmacia.asp?idf=8900
 node	5010105920	http://www.caifabriano.it
@@ -676,7 +675,7 @@ node	5060936513	https://www.casalefabrizi.it/
 node	5062198713	https://www.agrituristsantanna.com/
 node	5068857229	http://fabriano-matelica.it/museo-diocesano/
 node	5068857230	https://fabriano-matelica.it/
-node	5073727272	https://studiocalzonetti.it/
+node	5073727272	https://www.studiocalzonetti.it/
 node	5122058024	https://www.bblavalle.com/
 node	5147898021	https://www.teknoteam.it/
 node	5182134568	https://fondoambiente.it/luoghi/santuario-di-santa-maria-delle-stelle-cagli-90542
@@ -1384,6 +1383,7 @@ node	11293761269	https://emporio-gamba.business.site/
 node	11297394597	https://www.ristorantelagatta.it
 node	11297658384	https://www.etsy.com/it/shop/OfficinaGraficaUrb?ref=seller-platform-mcnav
 node	11297749415	https://www.felicasacentrorisparmio.it/
+node	11303005683	https://www.gioielleriarossetti.it/
 node	11303956502	https://www.booking.com/hotel/it/arco-augusto-fano.it.html
 node	11307672847	https://anconabaraccola.bloomest.it/
 node	11335707828	https://www.airbnb.it/rooms/32639590
@@ -1507,6 +1507,13 @@ node	12014285993	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/m
 node	12014286003	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/museo-pinacoteca-darte-sacra-contemporanea/
 node	12014814726	https://gvmedicali.it/
 node	12015693790	https://www.facebook.com/lapostadiantonelladellapenna/
+node	12026531815	https://www.colorworks-srl.it/
+node	12031415868	https://www.poliambulatoriodellemuse.com/
+node	12033853829	https://www.facebook.com/pages/Cantina-Antisociale/135661380130635
+node	12033853833	https://www.instagram.com/kodama_lab_/
+node	12035489391	https://www.korcaffe.it/
+node	12035489395	https://www.pescheriailmoscardino.com/
+node	12035560561	http://www.artenelferro.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2389,7 +2396,6 @@ node	10688426439	https://www.caifermo.it/
 node	10893542846	https://camping44.com/
 node	11023063270	https://museostoricoaeronautico.it/
 node	11100186063	https://www.gramaglia.it/
-node	11303005683	https://www.gioielleriarossetti.it/
 node	11350883408	http://museopontificio.santuarioloreto.it/
 node	11374438486	https://digisvapo.it
 node	11891148388	https://www.santuarioloreto.va/it/accoglienza/strutture-ricettive/ristorante.html
