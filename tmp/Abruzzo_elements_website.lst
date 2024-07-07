@@ -11,6 +11,7 @@ node	70992246	https://www.comune.ateleta.aq.it/zf/index.php/storia-comune
 node	70992281	https://comunediaielli.it
 node	70992294	https://www.comune.acciano.aq.it/
 node	70992342	https://www.comune.casteldisangro.aq.it
+node	70992419	http://www.comune.lucodeimarsi.aq.it
 node	70992482	https://www.comune.opi.aq.it/
 node	70992775	http://www.comune.villettabarrea.aq.it
 node	70992860	https://comune.scurcolamarsicana.aq.it/
@@ -437,6 +438,7 @@ node	3461489158	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10597
 node	3512011464	http://locandatorredelparco.altervista.org
 node	3571200293	https://www.campinglakeplacid.it
 node	3578354630	http://disciascio.it
+node	3611415640	https://panificiopanetta.myadj.it/
 node	3639040190	https://www.errediweb.it/
 node	3664885844	https://villaalbaboutiquehotelpescara.my.canva.site/home
 node	3666186625	https://www.ferramentagentile.it/
@@ -2208,7 +2210,6 @@ node	9878760391	https://www.sciarrasrl.it/en-gb
 node	9879132053	https://www.calesita.it/
 node	9883275156	https://www.angelozziautofficina.com/
 node	9885364723	https://www.pomaq.it/index.php?op=collezione&id=6
-node	9898162658	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10760
 node	9898261695	https://www.farmaciediturno.org/orariofarmacia.asp?idf=20846
 node	9899807573	https://www.hapimag.com/it/resorts/countries/IT/36
 node	9902037225	https://abruzzoemolise.usb.it/
@@ -3036,6 +3037,10 @@ node	12015187989	https://www.poderialsole.it/
 node	12015188887	https://www.oasitigre.it/it/il-mio-negozio.3705.html
 node	12015203075	https://www.d-piu.com/punti-vendita-dpiu/d355-chieti/
 node	12017526946	https://linktr.ee/levelupwehavefun
+node	12023079100	https://www.mcdonalds.it/
+node	12031338169	https://parrucchiera-segno-donna-rita.webnode.it/
+node	12031359464	https://diemmesport.it/
+node	12035678924	https://www.armoniachieti.com/
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -3069,7 +3074,6 @@ way	57379134	https://www.orsolini.it/punti-vendita/chieti-sambuceto-professional
 way	58377650	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 way	58808135	http://www.lavalledellapescara.it
 way	59399534	https://centauroweb.it/
-way	59399543	https://www.vigilfuoco.it/sitivvf/chieti/
 way	59530435	https://www.federicisofa.com/punti-vendita/montesilvano/
 way	59563955	https://www.ictroianodelfico.edu.it/
 way	59616549	https://www.lidl.it/
@@ -4007,6 +4011,9 @@ way	1283634491	https://www.elenaclubresort.com/
 way	1290435411	https://www.villacesare.it/
 way	1290834277	https://www.parohia-pescara.it/
 way	1294646986	https://www.liceopenne.edu.it/
+way	1297707572	https://www.blubusinesspalace.com/
+way	1299038483	https://www.vigilfuoco.it/comando-vvf-chieti
+way	1299373353	https://www.onoranzefunebripetrucci.it/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4200,7 +4207,6 @@ relation	14767822	https://www.gssi.it
 relation	14910143	https://www.olivuccia.it
 relation	15397036	https://val-vibrata.klepierre.it/
 relation	15877168	https://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-8-tagliacozzo-massa-dalbe/
-relation	16034819	http://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-7-camporotondo-tagliacozzo/
 relation	16050312	http://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-7-camporotondo-tagliacozzo/
 relation	16183966	https://www.parcoabruzzo.it/sentiero.php?id_iti=4286
 relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
