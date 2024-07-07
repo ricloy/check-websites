@@ -79,7 +79,6 @@ node	708708753	https://www.poste.it
 node	722919037	https://www.albergoathenaeum.it/
 node	759146431	https://www.hotelsabbiedoro.it/
 node	759590145	https://ristorantealpescatorelipari.business.site
-node	759590465	http://www.alpirata.it
 node	759590591	https://www.tripadvisor.it/Restaurant_Review-g1575073-d2217883-Reviews-Tano_Bar-Canneto_di_Lipari_Province_of_Messina_Sicily.html
 node	759590664	http://www.gecobarvulcano.it
 node	759819307	https://www.poste.it
@@ -1392,7 +1391,6 @@ node	4895538059	https://www.poste.it
 node	4906784302	http://www.legiarebeb.it/
 node	4907701282	http://www.aitreparchibb.it/
 node	4920358903	https://www.entefaunasiciliana.it/centro%20visitatori.html
-node	4920485072	https://www.facebook.com/ristorantecampisimarzamemi
 node	4920485073	http://www.liccamuciula.it
 node	4920542797	https://www.poste.it
 node	4920565533	https://www.poste.it
@@ -1483,7 +1481,7 @@ node	5201555224	http://www.bedandbreakfast-ragusa.it
 node	5204654421	https://www.agrisit.com/
 node	5207774474	https://www.hotelmonrepostaormina.com/
 node	5211292383	https://www.altraforma.net/
-node	5220403404	info@biscottitumminello.it
+node	5220403404	www.biscottitumminello.it
 node	5225018422	http://www.thebitcoincenter.net
 node	5225046326	https://www.acasadiamici.com/
 node	5225858692	http://www.casavacanzescacciapensieri.com/
@@ -1850,6 +1848,7 @@ node	6718682586	https://mareetrapani.com/
 node	6724761620	https://www.poste.it
 node	6724761621	https://www.poste.it
 node	6724761622	https://www.poste.it
+node	6724846319	www.antichisaporitrapani.it
 node	6731599986	https://www.bagliocappello.it/index.php?route=product/category&path=59
 node	6732662529	https://www.poste.it
 node	6732662537	https://www.poste.it
@@ -1941,7 +1940,6 @@ node	6804384816	https://www.poste.it
 node	6804384918	https://www.poste.it
 node	6804384938	https://www.poste.it
 node	6804419289	https://www.ombrediluci.it/
-node	6805854296	https://www.airbnb.it/manage-your-space/33908042/details
 node	6807561189	https://www.poste.it
 node	6807561190	https://www.poste.it
 node	6809304571	https://www.kswcalisthenicspalermo.it/
@@ -2100,6 +2098,7 @@ node	6940433724	https://www.poste.it
 node	6940433725	https://www.poste.it
 node	6940433726	https://www.poste.it
 node	6940433734	https://www.poste.it
+node	6945608142	https://www.campisiconserve.it/
 node	6946546974	https://www.poste.it
 node	6946546979	https://www.poste.it
 node	6946558489	https://www.poste.it
@@ -3676,6 +3675,7 @@ node	11901078115	https://www.brontesecondocircolo.edu.it
 node	11903984150	https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-territorio-ambiente/comando-corpo-forestale-regione-siciliana
 node	11904372219	https://www.scuolacastiglione.edu.it/
 node	11906772265	https://www.suitemarzamemi.it/
+node	11906772266	https://www.campisiconserve.it/
 node	11907073774	http://www.iscapizzi.edu.it/
 node	11911699787	https://www.brontesecondocircolo.edu.it
 node	11917878742	https://www.ggbistrot.com/
@@ -3712,6 +3712,11 @@ node	11975557096	https://www.liferesidencedeibaroni.it
 node	11980423067	https://www.menudigitale.io/dsbfm
 node	12001243405	https://www.suttaraviamenu.it/
 node	12017197072	http://www.ritiquality.it/
+node	12023078687	www.ristorantepiccoloborgo.it
+node	12023230509	https://baronibirra.it/it/
+node	12025517623	https://www.apulitonalavanderia.it/
+node	12033852682	https://www.vicerespeciale.com/
+node	12036042544	https://www.merceria-agoefilo.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -5092,6 +5097,7 @@ way	856786514	https://www.leterrazzedimagaggiari.it/
 way	858398305	https://www.mdspa.it/punti-vendita/Sicilia/CT-Catania/949-Paterno
 way	860669901	https://www.elviralduomo.it/
 way	863262130	https://villagaiahotel.it/
+way	863271849	http://www.cefaludellerose.com/
 way	863771932	http://www.bedebreakfastcarruba.it/
 way	863771933	https://pizzeriaristorantelapineta.it/
 way	864238381	https://www.covinspa.it/
@@ -5825,6 +5831,8 @@ way	1284691562	http://www.marconiscuola.edu.it/
 way	1284691566	http://www.marconiscuola.edu.it/
 way	1288623803	www.rapspa.it
 way	1291725141	https://www.cityadventurepark.it/
+way	1299094743	https://www.campisiconserve.it
+way	1299490165	https://www.aziendacammarata.com
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6388,6 +6396,7 @@ relation	17686492	http://www.viefrancigenedisicilia.it/PaMe.php
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	548101816	http://www.medicalcentermazara.it
 node	582900801	https://www.villaaltair.com/
+node	759590465	https://www.ristorantealpiratalipari.com/
 node	951313964	http://web.tiscali.it/galleriadellafoto/
 node	951392378	http://www.footstation.it/
 node	951637391	http://www.hajtoceramiche.it/
@@ -6444,6 +6453,7 @@ node	4736605311	http://www.crocedorosanfrancesco.com
 node	4759415458	http://infocenter.me
 node	5076281574	https://www.bbportasoprana.it/
 node	5140311509	https://www.ageallianz.it/patti3948000/
+node	5142441727	https://www.comunicarepatti.it/
 node	5155209122	https://agriturismo-trinacria.business.site/?utm_source=gmb&utm_medium=referral
 node	5175735657	http://www.arddiscount.it
 node	5278559970	http://www.spaccioalimentare.it
@@ -6614,7 +6624,6 @@ node	7106569918	https://www.sanvitolocaposhuttle.com
 node	7162048723	http://www.scuolasubpalermo.it
 node	9510275015	https://www.thecrag.com/climbing/italy/central-and-southern-italy/sicily/area/1221011889
 node	9810551033	https://it.sicilyrealty.com/apt-cortile-carini-sciacca
-node	11906772266	https://www.campisiconserve.it/
 way	420556066	http://www.casaquasimodo.it/
 way	459158351	http://www.prodromo-vegetazione-italia.org/scheda/rumici-astragalion-siculi/636
 way	485717699	http://www.comune.noto.sr.it/la-cultura/palazzo-nicolaci/
@@ -6624,3 +6633,5 @@ relation	10339853	https://www.etnasci.it/localita/etna-nord
 relation	10339854	https://www.etnasci.it/localita/nicolosi-etna-sud
 relation	11900894	http://www.costierabarocca.it/noto_000015.htm
 relation	15740414	https://web.archive.org/web/20220927054441/https://www.vetrinatv.it/mistretta-tentano-di-rubare-legna-in-area-boschiva-per-rivenderla-arrestati-dai-carabinieri/
+relation	17808234	https://appenninobiketour.com/percorso/
+relation	17809145	https://appenninobiketour.com/percorso/
