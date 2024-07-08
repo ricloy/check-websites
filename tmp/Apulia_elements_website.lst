@@ -428,7 +428,6 @@ node	3788155049	http://www.catasto.fspuglia.it/df/pdf/export.php?cod_grotta=1167
 node	3789024247	http://www.botrus.it/it/home/
 node	3789056734	https://anagrafe.iccu.sbn.it/opencms/opencms/ricerche/dettaglio.html?codice_isil=IT-BR0045
 node	3791092825	http://www.corteidume.it/
-node	3791432457	http://www.bbartas.com/
 node	3791444957	http://www.maliabb.com
 node	3803577358	https://www.hotelcostabari.com/
 node	3828564662	https://www.eurobicishop.it
@@ -766,6 +765,7 @@ node	5383245703	https://puntivenditadeco.multicedi.it/it/italia/bari/bari-prolun
 node	5383258378	https://www.facebook.com/Gocce-Di-Caff%C3%A8-1728496227425363/
 node	5383285158	https://www.facebook.com/EnotecaWineItaly/
 node	5383296125	https://www.facebook.com/PanificioLaCaravella/
+node	5383363016	https://puntivenditadeco.multicedi.it/it/italia/bari/bari-via-abate-gimma
 node	5405356628	https://stammi-bene.it/
 node	5405356629	https://stammi-bene.it/
 node	5410417984	http://www.sabap-ba.beniculturali.it/index.php?it/86/la-soprintendenza
@@ -851,6 +851,7 @@ node	5717066201	https://www.unpostoalsoleotranto.com/
 node	5726351139	http://www.lisuluri.it
 node	5736784439	https://www.mediaworld.it/negozi/brindisi
 node	5742124031	https://www.dariofai.it/
+node	5743299603	https://www.oldclockbari.it/
 node	5743299610	https://www.ilsaleristorante.it/
 node	5751933652	https://www.solatio.it/
 node	5755701773	https://www.ristorantelacecchina.it/
@@ -2028,7 +2029,6 @@ node	11268849984	http://www.pennettilab.it/
 node	11268849991	www.radiologiamorella.it
 node	11274129855	https://www.rhubbit.it/#
 node	11277508339	https://www.facebook.com/sixpackbari
-node	11278909359	https://mobilirizzi.it/
 node	11284337169	https://www.pizzeria400gradi.it/
 node	11290669966	https://www.globomoda.com/
 node	11290771656	https://www.shivananda.org
@@ -2174,7 +2174,6 @@ node	11657909744	https://m.facebook.com/p/Medusa-caf%C3%A8-Zapponeta-10006270683
 node	11662554534	https://central-bar-gelateria-bar.business.site/?utm_source=gmb&utm_medium=referral
 node	11663716280	https://www.facebook.com/p/Pizzeria-del-vicolo-100063721441822/?locale=IT
 node	11671805962	https://www.comevuoigroup.com/
-node	11677603416	https://www.bonificacapitanata.it/
 node	11679053188	https://montevagoluxurybags.com/
 node	11679053189	https://amalobari.it/
 node	11679077327	https://www.escapecampus.it/
@@ -2418,6 +2417,11 @@ node	12017330377	https://spanosrl.it/
 node	12017330386	https://www.ideasposa.it/
 node	12023712769	http://www.waytomove.it/
 node	12023718569	http://www.waytomove.it/
+node	12026083170	https://www.otticadipalma.com/
+node	12035678269	http://www.gamingart.it/
+node	12037546470	http://www.nialsport.com/
+node	12037573370	http://www.sisal.it/scommesse-matchpoint/punti-vendita
+node	12037575669	https://www.gieffedolcesalato.it/menu/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2700,6 +2704,7 @@ way	384292563	http://www.bernardicioccolato.com/
 way	384330825	https://www.scuolasanfilipponeri.edu.it/
 way	384347172	https://www.torchetticasa.it
 way	384808139	https://all.accor.com/hotel/7504/index.it.shtml/
+way	384808151	https://www.liceoaristosseno.edu.it/
 way	385336909	https://www.costedelsud.com/case-vacanza/la-casetta-del-pescatore-fronte-mare-a-posto-rosso-codice-001.html
 way	385451383	https://www.elicaferramenta.com/
 way	385451940	https://ceramichemarmibitonti.com/
@@ -3418,6 +3423,7 @@ way	1192823985	https://www.residencetramonti.com/
 way	1192823986	https://www.portoselvaggioresort.it/
 way	1202035702	https://www.tenutadonmonaco.it/
 way	1203885017	https://www.famila.it/punti-vendita/puglia/famila-bari-giusso
+way	1213764350	https://www.bonificacapitanata.it/
 way	1213885905	https://www.sanita.puglia.it/web/asl-foggia/poliambulatori_det/-/journal_content/56/36044/poliambulatorio-zapponeta
 way	1214126990	https://www.indicepa.gov.it/ipa-portale/consultazione/domicilio-digitale/ricerca-unita-organizzativa/scheda-unita-organizzativa/GALDDN
 way	1218481873	https://cittadellasantamargherita.it/
@@ -3454,6 +3460,7 @@ way	1271131539	https://www.fsitaliane.it/content/fsitaliane/it/opere-strategiche
 way	1271242838	https://www.eurospin.it/punti-vendita/bari-via-bovio/
 way	1272800403	https://www.lugoterminal.com/terminal/giovinazzo/
 way	1274590787	https://www.epcpep.com/scuola-materna/
+way	1275515683	https://mobilirizzi.it/
 way	1276164577	https://www.intesasportclubbari.it/
 way	1276164578	https://www.poggiolevante.it/
 way	1276184351	https://www.icsmaugeri.it/
@@ -3472,6 +3479,8 @@ way	1293086947	https://www.istitutoperottibari.edu.it/
 way	1295706194	https://www.nicolazingarellibari.edu.it/
 way	1295709270	https://www.nicolazingarellibari.edu.it/
 way	1297674252	https://www.japigiaii-torreamare.edu.it/
+way	1298986954	https://www.agridanielesrl.it/
+way	1299072490	https://www.multicinemagalleria.it/arena-4-palme-2/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -3635,7 +3644,6 @@ relation	17008390	https://www.larottadeiduemari.it
 relation	17037198	https://masseriasantulasi.org
 relation	17046188	https://www.residencemoderno.com/
 relation	17349766	https://www.thenicolaushotel.com/
-relation	17373731	https://www.bonificacapitanata.it/
 relation	17467312	https://www.uniba.it/
 relation	17469561	https://www.uniba.it/it/ricerca/dipartimenti/dipmedveterinaria
 relation	17497412	https://www.icmazzinimodugno.edu.it/
@@ -3685,7 +3693,7 @@ node	7888362949	https://www.facebook.com/ilgiocodeisensi.terlizzi/
 node	7889613121	https://m.facebook.com/Bar-Castello-609947772372214/
 node	7968288026	bistrotcartoleria.it
 node	8005881934	https://www.fondazionedepaloungaro.it
-node	9631106470	https://www.avellinoelisarredamenti.it/
+node	9631106470	https://www.venetacucine.com/rivenditore/veneta-cucine-a-bari-di-avellino-elisa
 node	9718135977	https://www.todis.it/
 node	9800237154	http://www.acquariopiu.it
 node	9802625492	https://www.paternosteraltamura.com/
@@ -3805,6 +3813,7 @@ node	4686669582	www.docartis.com/OSTUNI%20beni%20culturali/architettura/va05.pdf
 node	4686695439	http://cartapulia.it/web/guest/dettaglio?id=114641
 node	4686718615	http://www.docartis.com/OSTUNI%20beni%20culturali/architettura/va01.pdf
 node	4686721515	http://cartapulia.it/web/guest/dettaglio?id=114680
+node	6122118585	https://spilusi.com/
 node	7343514918	www.guidedocartis.it/?page_id=35246
 node	7611237263	http://sirpac.regione.puglia.it/dettaglio?id=129452
 node	7756147917	http://cartapulia.it/web/guest/dettaglio?id=113349
