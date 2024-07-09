@@ -30,6 +30,7 @@ node	298376518	https://www.triestecoffeexhibit.com/it/mappa/caffe-torinese#galle
 node	298982988	https://www.maxisupermercati.it/
 node	301228389	https://www.bar-x.it/
 node	304621529	https://www.turismofvg.it/it/r83846
+node	305102049	https://www.gelateriazampolli.it/
 node	314394320	https://www.thespacecinema.it/portal/en/default/cinema/trieste
 node	314992735	https://www.albergoalponte.it/
 node	316495408	https://www.kinemax.it/
@@ -858,6 +859,7 @@ node	3633947982	http://www.maseshop.com/
 node	3633948004	https://www.biblio.units.it/DE
 node	3633948201	http://www.goethezentrumtriest.it/biblioteca/
 node	3633949291	https://www.bibliotecaquarantottigambini.it/
+node	3633949374	https://www.gelatiarnoldo.it/landing-app.html
 node	3633949962	https://www.sme.it/
 node	3633951467	www.vinokilo.it
 node	3633951900	http://www.biblio.univ.trieste.it/biblioteche/biblioteca.asp?BIB=38
@@ -2235,6 +2237,7 @@ node	10133864193	https://supermercatiscotta.it/
 node	10133937142	http://www.novecentoallisola.it/
 node	10135703685	https://portagrandebistrot.eatbu.com/
 node	10137633157	https://www.cocambo.com/
+node	10139998684	https://illy.com
 node	10142625752	https://www.repower.com/it/dina/
 node	10142702081	https://farmacia-di-strassoldo.business.site/?utm_source=gmb&utm_medium=referral
 node	10152219996	https://www.inbusclub.it/
@@ -2501,6 +2504,12 @@ node	12020437727	https://www.facebook.com/people/La-AleGra/100057639061554/
 node	12025521577	http://www.pizzeriadamariotarcento.com/
 node	12028873160	https://www.torresanlivio.it/
 node	12028877725	http://www.livio.at/
+node	12032030615	https://www.biasonmassetti.it/
+node	12040088369	http://osmize.com/zolla/bizjak
+node	12040101804	https://www.cafcislfvg.it/
+node	12043591128	https://www.nordestwash.com/
+node	12043591131	https://www.thecodemusicstore.it/
+node	12043591146	https://www.webformat.com/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2880,7 +2889,6 @@ way	36689146	https://www.camisi.it/
 way	36689222	https://www.ferrojulia.it/
 way	36689396	https://www.lamaggiore.it/
 way	36689712	https://www.pampanorama.it/punti-vendita/lignano-sabbiadoro
-way	36689736	https://www.eurobevande.com/
 way	36690084	https://www.fabrispozzi.it/
 way	36690192	https://www.clappis.it/
 way	36690426	https://www.best-menu.it/asporto-chichibio/
@@ -3471,6 +3479,8 @@ way	1298511323	https://dexive.it/
 way	1298515674	https://www.haloindustry.it/
 way	1298515678	https://www.haloindustry.it/
 way	1298515679	https://www.haloindustry.it/
+way	1298633605	https://simeonigreenfood.it/
+way	1298843845	https://www.zampamica.com/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -5256,6 +5266,7 @@ way	1289812698	https://grado.it/it/spiagge-e-terme-marine/spiaggia-principale-gi
 way	1296953458	http://www.ausoniabeachlignano.com/
 way	1296953463	https://www.lidodelsolelignano.it/start
 way	1296953467	http://www.lidocity.com/ita/lidocity/
+way	1298635127	https://www.eurobevande.com/
 relation	2574315	http://www.golfsenzaconfini.com
 relation	4602471	http://www.promotur.org/tarvisio/scialpinismo-in-notturna
 relation	4602473	http://www.promotur.org/tarvisio/infoneve
