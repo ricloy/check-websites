@@ -629,7 +629,6 @@ node	1323814590	https://www.langgenhof.com
 node	1324641329	https://www.apothekesterzing.com/
 node	1324643385	https://www.vipiteno.eu/
 node	1327872274	http://verticalsport.it/punti-vendita/
-node	1331468431	http://www.puntodincontro.trento.it/
 node	1333726325	https://www.schneeburghof.com/
 node	1335838585	http://www.autoscuolaferrodue.it
 node	1336725512	https://www.chaletfogajard.it/it/ristorante-fogajard
@@ -1587,6 +1586,7 @@ node	2749773047	https://www.cosmolife.it/
 node	2749773062	https://www.speckkeller.it/
 node	2749773164	https://www.castelsallegg.it/
 node	2749774032	https://www.oberpreyhof.it/
+node	2749774190	https://www.designhotel-panorama.com
 node	2749774458	https://www.kuba-kaltern.it/
 node	2749774622	https://www.niklaserhof.it/
 node	2749776899	https://biergarten.it/
@@ -3950,7 +3950,6 @@ node	5896790408	https://www.traumamedicalclinic.com/
 node	5897214324	http://lab66.it/
 node	5899215272	http://www.serigrafia-alpina.it
 node	5899602114	https://www.incar.bz.it/
-node	5900184806	https://officinapiedicastello.wordpress.com/
 node	5905697987	https://www.panificiosangiacomo.com/
 node	5905749417	https://www.consisto.it/
 node	5911426093	https://www.provincia.tn.it/bikesharing
@@ -5982,6 +5981,11 @@ node	12017126739	orodue.com
 node	12017159650	https://www.arpadipietra.it/
 node	12020549892	https://www.hairdreams.com/de/salon/hair-in-the-city/
 node	12020620574	https://www.rametz.com/de/restaurant/
+node	12025724906	https://kayi.it/arco/
+node	12030826432	https://www.bergsteigen.com/touren/klettersteig/larix-klettersteig-schnalstal/
+node	12030874661	https://www.apperlehof.com
+node	12033697750	https://www.glamvision.it/
+node	12041615545	https://www.sportservice.bz/de/verleih-shop/naturns-naturno/
 way	22890146	https://www.prags.bz/en
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
@@ -6443,6 +6447,7 @@ way	73257955	https://www.hotelpassostelvio.com/
 way	73293763	https://www.ostelloditrento.it/
 way	73295272	http://www.agrituranticofienile.it/
 way	73375220	https://www.agriturbresciani.com/
+way	73546551	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Ronzo-Chienis/FC-Ronzo-Chienis-Pannone
 way	74324575	http://www.dodiciapostoli.it/
 way	74495656	https://www.rifugioantermoia.com/
 way	74495667	https://www.rifugiovajolet.com/
@@ -8983,7 +8988,6 @@ way	454386977	https://www.masozandonai.it/
 way	454462578	info@hotel-urthaler.com
 way	454761933	https://www.areadisostavaldirabbi.it/it/
 way	454761994	http://www.erbamaga.it
-way	456631827	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Terme-di-Comano/FC-Terme-di-Comano-Quadra
 way	457549041	https://www.lavillatrento.it/
 way	459396894	https://www.canalsanbovo.net/
 way	460099478	https://www.ciasa-ploner.com/
@@ -9347,15 +9351,6 @@ way	954358908	https://www.camping-al-lago.it
 way	957133872	https://www.comune.ledro.tn.it/Territorio/Vivere-Ledro/Area-Camper-a-Bezzecca
 way	958396708	https://www.agriturladasa-ledro.it
 way	958601408	https://www.sternwarte.it/
-way	961400954	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Terme-di-Comano/FC-Terme-di-Comano-Quadra
-way	961400955	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Terme-di-Comano/FC-Terme-di-Comano-Quadra
-way	961400956	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Terme-di-Comano/FC-Terme-di-Comano-Quadra
-way	961400957	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Terme-di-Comano/FC-Terme-di-Comano-Quadra
-way	961400958	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Terme-di-Comano/FC-Terme-di-Comano-Quadra
-way	961400959	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Terme-di-Comano/FC-Terme-di-Comano-Quadra
-way	961400960	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Terme-di-Comano/FC-Terme-di-Comano-Quadra
-way	961400961	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Terme-di-Comano/FC-Terme-di-Comano-Quadra
-way	961400962	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Terme-di-Comano/FC-Terme-di-Comano-Quadra
 way	964320024	https://www.rodella2222.com/
 way	964696171	https://www.adler-resorts.com/de/adler-lodge-ritten/73-0.html
 way	964724437	https://www.riarco.eu/
@@ -11159,7 +11154,6 @@ node	1005689700	http://www.mooifashion.it
 node	1010809827	http://www.lavaloner.com/
 node	1014941656	http://www.bang-olufsen.com
 node	1016602915	http://www.casa-arredo.com/
-node	1037290948	https://www.caprizza.it/
 node	1045044740	http://www.pizzium.com/
 node	1073482386	http://www.patware.it
 node	1073656665	http://www.motcenter.it/
@@ -11228,6 +11222,7 @@ node	1313709044	http://www.lagastronomiamein.it/portal/
 node	1315231855	www.spaziooff.com
 node	1320834281	http://www.mangiobricks.it/
 node	1326513297	http://www.joycetrento.com/
+node	1331468431	http://www.puntodincontro.trento.it/
 node	1331577082	http://www.pizzeriarosalpina.com
 node	1336717409	http://orientalhairstudio.com/
 node	1350658037	http://www.irrigazionepilati.it
@@ -11436,7 +11431,6 @@ node	2563607118	https://www.autofficinaabmsrl.it/
 node	2563887555	http://www.projectd.it
 node	2563887560	http://www.projectd.it
 node	2578549614	https://www.hipoke.it/
-node	2578549622	https://www.hooome.it/
 node	2589666378	http://www.wokforyou.it/
 node	2615372887	https://www.cinformi.it/
 node	2621304850	http://www.agriturallegorghe.it
@@ -11932,6 +11926,7 @@ node	11949825659	https://www.soggiornodolomiti.it/
 node	11981478395	https://activa.bmw.it/
 node	11998617215	https://www.latorre-forst.it/
 node	12001435125	http://www.hotelmiramontimer.com
+node	12041562850	https://www.caprizza.it/
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24441737	https://www.trentinomobilita.it/parcheggi-coperti
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
@@ -12490,7 +12485,6 @@ relation	15527252	https://www.prolococacomuna.it/l-orto-in-villa
 relation	15737274	https://www.trentinotrasporti.it/viaggia-con-noi/ferrovia
 relation	15739192	https://www.asis.trento.it
 relation	15814733	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
-relation	15924719	https://www.iclavis.it
 relation	16226902	https://educaline-centro-cinofilo.business.site/
 relation	16469992	https://www.ortal.it/
 relation	16693997	https://www.gruppodolomitienergia.it/
@@ -12498,6 +12492,7 @@ relation	17087035	https://www.casteldrena.it/
 relation	17604111	https://www.museonazionalealpini.it/
 relation	17704577	https://bioenergiatrentino.it/
 relation	17735540	http://www.museocivico.rovereto.tn.it/sperimentarea
+relation	17796407	https://www.iclavis.it
 node	250103447	http://italia.indettaglio.it/ita/trentinoaltoadige/trento_pinzolo_campocarlomagno.html
 node	283551188	http://www.kronplatz-gastro.com/Treff.html
 node	331259364	http://italia.indettaglio.it/ita/trentinoaltoadige/trento_mezzana_marilleva1400.html
