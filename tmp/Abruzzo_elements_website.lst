@@ -234,12 +234,12 @@ node	1649575636	https://stores.tedi.com/tedi-acbe7f790862
 node	1652271120	https://www.poste.it/
 node	1656012730	https://www.acasadiluigi.it/
 node	1657398826	https://www.lalocandadellatradizione.it/
-node	1674641973	http://www.casadeangelis.it
+node	1674641973	https://www.casadeangelis.it/
 node	1679735416	http://misericordiapescara.it/
 node	1688879205	https://www.didonato1932.it/
 node	1762413336	http://www.meccpro.eu
 node	1763643170	http://www.concapeligna.it/Comuni/pratola/artcultu/musecivil/pratola_museo_civlt%C3%A0.htm
-node	1767923012	http://rete.comuni-italiani.it/wiki/Cortino
+node	1767923012	https://rete.comuni-italiani.it/wiki/Cortino
 node	1776613539	https://www.oldwildwest.it/ristoranti/old-wild-west-chieti-megalo
 node	1776613544	https://fratellilabufala.com/
 node	1778115456	https://www.comune.pescara.it/
@@ -1131,7 +1131,7 @@ node	7139633272	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10901
 node	7140793341	https://osteria-pane-e-vino-restaurant.business.site/
 node	7142339134	https://www.ciakcity.it/
 node	7142356395	https://www.ciakcity.it/
-node	7142385868	http://www.smeraldocinema.it/
+node	7142385868	https://www.smeraldocinema.it//
 node	7148213380	http://www.tcilaquila.it/
 node	7153222492	https://m.facebook.com/Ristorante-Pizzeria-Lupo-122788624506373/
 node	7154654308	https://www.serenitystore.it/
@@ -1369,7 +1369,7 @@ node	7594836512	http://www.mercerielivia.com/
 node	7594872345	https://www.assosistemi.it/
 node	7594931037	https://www.ludovicoarredamenti.it/
 node	7598235359	https://www.gigroup.it/
-node	7601057244	http://www.cmmontagnadilaquila.it
+node	7601057244	https://cmmontagnadilaquila.it/
 node	7601075875	https://www.mps.it/
 node	7602265575	https://www.istitutocomprensivopescara2.edu.it/
 node	7603148413	https://www.pc75.it/
@@ -1602,7 +1602,7 @@ node	7875969883	http://www.crossarea57palestra.it/
 node	7875998317	https://www.espander.it
 node	7876335250	https://www.caipescara.it
 node	7877490803	https://www.acquaesapone.it/
-node	7877838932	http://www.agriturismolamasseria.com/
+node	7877838932	https://www.agriturismolamasseria.com/
 node	7880636057	http://www.ondahotelclub.com/
 node	7880665846	https://www.tvsei.it/
 node	7883133851	https://www.snai.it
@@ -1688,7 +1688,6 @@ node	7992623718	https://mercati.comune.pescara.it/commercio-su-area-pubblica/
 node	7992623719	https://mercati.comune.pescara.it/commercio-su-area-pubblica/mercato-di-via-maestri-del-lavoro.html
 node	8000764535	https://www.esaenergie.eu/
 node	8001434549	https://valdesi-sgl.business.site
-node	8006453895	https://www.abruzzonews.eu/pescarainaugurata-la-fontana-della-madonnina-127571.html
 node	8013101589	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10831
 node	8016637320	https://insideevs.it/news/523560/piemonte-atlante-nhoa-free2move-esolutions/
 node	8025954339	https://www.ausl.pe.it/DettaglioSede.jsp?id=15
@@ -3041,6 +3040,9 @@ node	12023079100	https://www.mcdonalds.it/
 node	12031338169	https://parrucchiera-segno-donna-rita.webnode.it/
 node	12031359464	https://diemmesport.it/
 node	12035678924	https://www.armoniachieti.com/
+node	12043626278	https://www.expo2000mobili.it/
+node	12043806022	https://www.bikefacilities.com/prodotti/colonnine-manutenzione-bici/colonnina-stop-go/
+node	12043987805	https://www.sarnioro.it/index.php
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -3089,6 +3091,7 @@ way	68252893	www.pistafluida.it
 way	68915854	http://www.adriatico40.it
 way	72117101	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	72117126	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
+way	72407554	https://www.loscamorzaro.com/ristorante
 way	73030413	https://www.oa-roma.inaf.it/cimperatore
 way	73030414	https://ostellocampoimperatore.com/
 way	73030418	https://www.ilgransasso.it/
@@ -3170,6 +3173,7 @@ way	132135448	http://www.legadelcanepescara.org/
 way	134727476	hmiramonti.com
 way	137473583	https://www.musei.abruzzo.beniculturali.it/musei?mid=316&nome=museo-archeologico-nazionale-la-civitella
 way	137473630	http://visitabruzzo.altervista.org/it/2012/01/parco-archeologico-e-anfiteatro-della-civitella-chieti/
+way	137474062	https://www.esalife.it/
 way	137475563	https://www.unich.it/
 way	137535991	https://chieti.aci.it/
 way	137603572	https://www.parrocchiadodiciapostoli.com/
@@ -3203,7 +3207,7 @@ way	172292407	http://www.liceomarconipescara.gov.it/
 way	173613005	https://www.hapimag.com/it/resorts/countries/IT/36
 way	175849748	https://www.conad.it/ricerca-negozi/negozio.005595.html
 way	176320664	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-martino-in-valle/
-way	177799674	http://www.oacl.net
+way	177799674	https://www.oacl.net/
 way	182440287	https://www.fioreortona.com/en/
 way	183567197	https://abruzzoturismo.it/en/harbour-portorose-roseto-degli-abruzzi-te
 way	183653218	https://www.info.asl2abruzzo.it/ospedaleortona/
@@ -3619,7 +3623,7 @@ way	831736047	https://www.maioraniugolino.it/
 way	839569617	https://ic1chieti.edu.it/secondaria-chiarini/
 way	839651984	https://pescarafiere.it/
 way	842112527	https://www.rifugiodellarocca.it/
-way	842328614	http://www.comunesantostefanodisessanio.aq.it/
+way	842328614	https://www.comunesantostefanodisessanio.aq.it/
 way	843445764	https://www.matchfishing.it/2013/04/04/the-king-of-the-lake-catignano-pe-sa-gi-p-tour-la-selettiva-abruzzo-a-di-tonto-garofalo/
 way	844469365	https://www.hotelede.it
 way	844514288	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
@@ -3742,7 +3746,7 @@ way	957214564	https://www.eurospin.it/punti-vendita/chieti-541649/
 way	958116664	https://www.q8.it/
 way	958182606	https://www.centrouniverso.it/
 way	958581733	https://www.newdribbling.it/
-way	961103027	http://gelsumino.it/download/book/penneelesuefontane.pdf
+way	961103027	https://gelsumino.it/download/book/penneelesuefontane.pdf
 way	961526908	https://www.campingondaazzurra.it
 way	962198778	https://www.infomedianews.com/largo-e-monumento-della-tiburtina-dedicati-al-pilota-eugenio-sirolli/
 way	964210827	https://www.conventosantissimaannunziata.org
@@ -3753,7 +3757,7 @@ way	966374301	https://www.ctpoint.it/en/home/
 way	966384090	https://www.grautoservices.co.uk
 way	966765024	https://www.altaii.com
 way	967353832	https://www.icfarafpetri.edu.it
-way	970838279	http://www.valledegliaffetti.it
+way	970838279	https://www.valledegliaffetti.it/
 way	970896516	http://www.roxan.it
 way	971113688	https://www.sanguedicristo.eu
 way	971314866	https://betania-la-casa-dellamicizia.business.site
@@ -3889,6 +3893,7 @@ way	1106456268	https://www.facebook.com/rifugidelparco/
 way	1113137974	https://www.monteselva.it
 way	1114714224	https://www.vemapla.it/
 way	1114864103	https://mgcereali.business.site
+way	1114864147	https://www.cisiaprogetti.it
 way	1115022504	https://www.villasantamaria.eu/hh/index.php
 way	1115296743	https://www.ilcasinodiremartello.it
 way	1116057160	https://www.info.asl2abruzzo.it/assistenzaterritoriale/distretto-sanitario-di-san-giovanni-teatino.html
@@ -3929,7 +3934,7 @@ way	1162405110	https://www.icisolacolledara.edu.it
 way	1162497493	https://parrocchiamadonnadipompei.it/museo-della-arti-contadine-5723202508271424348/
 way	1162908971	https://shopmancini.com
 way	1163828399	https://www.agriturismovoccabella.com
-way	1163919759	http://www.isalumieri.it
+way	1163919759	https://www.isalumieri.it/
 way	1164547467	http://www.croce-verde.it
 way	1165130693	https://www.simplastic.it/it/
 way	1169534917	https://www.todis.it/
@@ -4061,7 +4066,7 @@ relation	9642197	https://www.consaq.it/
 relation	9694418	https://www.iisbafile.edu.it/
 relation	9708693	https://trasparenza.comune.laquila.it/archivio13_strutture_0_2747.html
 relation	9880142	https://www.castellodisemivicoli.com/
-relation	10287535	http://www.tecnopolodabruzzo.it
+relation	10287535	https://tecnopolodabruzzo.it/
 relation	10611947	https://www.canadianhotel.it
 relation	10631493	http://www.dompe.com/polodeLAquila/
 relation	11106304	https://www.navegnacervia.it/
