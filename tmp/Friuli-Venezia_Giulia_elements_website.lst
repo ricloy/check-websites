@@ -1,6 +1,7 @@
 @type	@id	website
 node	52089588	https://www.liceo-oberdan.edu.it
 node	66503054	http://www.monrupino-repentabor.it
+node	66503059	https://www.comune.spilimbergo.pn.it/
 node	66503155	http://www.gemonaweb.it
 node	66503259	https://www.preone.org/
 node	95113478	https://www.farmacia-altura.it/
@@ -622,6 +623,7 @@ node	2622348595	http://www.misterholidaypordenone.it/
 node	2623355074	https://www.vodopivecauto.it/
 node	2624921621	https://www.natisoneviaggi.it/
 node	2625722392	https://www.immaginarioscientifico.it/
+node	2625748800	https://dombistro.it/
 node	2642364742	https://www.excol.net/
 node	2657791540	https://www.tecnoutensili.eu/
 node	2665001080	https://www.cabolani.it/
@@ -714,7 +716,7 @@ node	3301570175	https://m.facebook.com/AllaLampara/
 node	3301578403	https://www.trattoriaalchianti.it/
 node	3302147942	http://www.montessori.trieste.it
 node	3314463380	https://www.openjobmetis.it/
-node	3314466873	http://www.filarmonicasacile.it/
+node	3314466873	https://www.filarmonicasacile.it/
 node	3314471341	https://www.salmoiraghievigano.it/
 node	3314476146	http://www.due-fiumi.com
 node	3314476332	https://www.facebook.com/eccellenzasicilianasacile/
@@ -2501,7 +2503,7 @@ node	12009463273	https://www.zoedancebertiolo.com/
 node	12009463274	http://www.shindojofriuli.it/
 node	12018261770	http://hotelmignon.trieste.it
 node	12020437727	https://www.facebook.com/people/La-AleGra/100057639061554/
-node	12025521577	http://www.pizzeriadamariotarcento.com/
+node	12025521577	https://www.pizzeriadamariotarcento.com/
 node	12028873160	https://www.torresanlivio.it/
 node	12028877725	http://www.livio.at/
 node	12032030615	https://www.biasonmassetti.it/
@@ -2510,6 +2512,18 @@ node	12040101804	https://www.cafcislfvg.it/
 node	12043591128	https://www.nordestwash.com/
 node	12043591131	https://www.thecodemusicstore.it/
 node	12043591146	https://www.webformat.com/
+node	12049608512	https://www.facebook.com/artigianafiume/
+node	12050110755	http://www.olintorosin.it/
+node	12053029071	https://www.udasatonicwater.com/
+node	12053029072	http://clubevolution.it/
+node	12055225342	https://www.citywash.it/
+node	12055518130	https://www.protezionecivile.fvg.it/it/comune/arta-terme
+node	12056664280	https://www.protezionecivile.fvg.it/it/comune-Sutrio
+node	12056664281	https://www.protezionecivile.fvg.it/it/comune/cercivento
+node	12056664282	https://www.protezionecivile.fvg.it/it/comune/treppo-ligosullo
+node	12056664291	https://www.protezionecivile.fvg.it/it/comune/ravascletto
+node	12056664292	https://www.protezionecivile.fvg.it/it/comune/comeglians
+node	12056664293	https://www.protezionecivile.fvg.it/it/comune/rigolato
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2541,9 +2555,12 @@ way	35991576	https://rifugiofornas.com/
 way	35992111	http://www.frascaverde.com
 way	36008212	http://www.friulitipico.org/prt/index.php?option=com_content&task=view&id=481&Itemid=157
 way	36008758	https://www.museograndeguerratimau.com/
+way	36009583	https://www.protezionecivile.fvg.it/it/comune/treppo-ligosullo
 way	36010481	https://www.booking.com/Share-4gwzAp
+way	36010861	https://www.protezionecivile.fvg.it/it/comune/paluzza
+way	36012539	https://www.protezionecivile.fvg.it/it/comune/paularo
 way	36013859	https://www.albergo-miramonti.it/
-way	36013866	http://www.hotelcella.it
+way	36013866	https://www.hotelcella.it/
 way	36014285	http://www.lapolse.org
 way	36014783	https://www.hotelallafonte.com/
 way	36014812	https://www.gardel.it/
@@ -2663,6 +2680,7 @@ way	36277628	https://www.vivaitrevisan.it/
 way	36277656	http://www.nuotosanvito.it
 way	36281702	https://www.allequerce.com/
 way	36281982	http://www.camalvani.it
+way	36289779	https://www.studiodentisticovolpattidelmestre.it/
 way	36289848	https://www.castellodicordovado.com/
 way	36306435	https://www.folador.it/
 way	36313486	https://www.farmaciamigottipiva.com/
@@ -2819,7 +2837,7 @@ way	36437344	https://www.teatroverdi-trieste.com/
 way	36438742	https://www.foibadibasovizza.it/
 way	36446922	http://www.polet.it/
 way	36447062	https://www.tennisgrignano.it/
-way	36447660	http://www.esercito.difesa.it/organizzazione/Sport/Pagine/CSOE.aspx
+way	36447660	https://www.esercito.difesa.it/organizzazione/Sport/Pagine/CSOE.aspx
 way	36447787	http://www.motoclubolimpia.it/
 way	36448271	https://www.carsosegreto.it/2008/12/cimitero-militare-austro-ungarico-di.html
 way	36658041	https://caipordenone.it/strutture/bivacco-marchi-granzotto/
@@ -2893,6 +2911,7 @@ way	36690084	https://www.fabrispozzi.it/
 way	36690192	https://www.clappis.it/
 way	36690426	https://www.best-menu.it/asporto-chichibio/
 way	36690563	https://www.easyrentvillesse.com/
+way	36690727	https://www.facebook.com/protezionecivile.foglianoredipuglia.fvg/?locale=it_IT
 way	36690732	https://www.studioposturale.net
 way	36691208	https://www.pittarello.com/
 way	36691574	https://www.flamor-grill.it/
@@ -2990,7 +3009,7 @@ way	36705581	https://www.hoteluna.com/
 way	36705791	https://ristoranteatmosphera.it/
 way	36705842	https://www.lidodelsolelignano.it/start
 way	36705843	http://www.ausoniabeachlignano.com/
-way	36705858	http://www.vallinhotels.com
+way	36705858	https://www.vallinhotels.com/
 way	36705949	https://www.cifnazionale.it/regioni/friuliveneziagiulia/servizi/colonia
 way	36706014	http://www.hotelgoletta.it
 way	36706015	http://www.hotelmare.lignano.it
