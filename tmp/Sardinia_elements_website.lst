@@ -38,7 +38,7 @@ node	72991035	https://www.comune.santandreafrius.ca.it/
 node	72991040	https://www.comune.senorbi.ca.it/
 node	72991047	https://www.comune.serramanna.ca.it/
 node	72991053	https://comune.sarroch.ca.it/
-node	72991065	http://www.comune.selargius.ca.it/
+node	72991065	https://www.comune.selargius.ca.it/
 node	72991074	https://www.comune.siurgusdonigala.ca.it/
 node	72991082	http://www.comune.soleminis.ca.it/
 node	72991085	https://www.comune.serrenti.ca.it/
@@ -46,7 +46,7 @@ node	72991094	http://www.comune.setzu.vs.it/
 node	72991107	http://www.comune.villamar.vs.it/
 node	72991113	http://www.comune.vallermosa.ca.it/
 node	72991122	https://www.comune.ussana.ca.it/
-node	72991137	http://www.comune.tratalias.ca.it/
+node	72991137	https://www.comune.tratalias.ca.it/
 node	72991149	https://www.comune.masainas.ci.it/
 node	72991164	https://www.comune.villaspeciosa.ca.it/
 node	72991174	https://www.comune.villasor.gov.it/
@@ -420,7 +420,6 @@ node	1436619598	https://www.museoarcheologicodorgali.com/siti-di-interesse/40-do
 node	1448227771	https://www.hoteldacesare.com/
 node	1452759826	https://www.notoriouscinemas.it/cagliari/index.php
 node	1452759837	https://www.ctmcagliari.it/
-node	1455342811	https://www.campingflumendosa.com/
 node	1458975671	www.casamanna.it
 node	1550261316	https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=5430
 node	1564391271	https://www.crai-supermercati.it/punto-vendita/17-crai-oristano-eurodrink/
@@ -1025,7 +1024,6 @@ node	4430692588	http://casaborrelli.it
 node	4435647166	https://www.catastospeleologicoregionale.sardegna.it/
 node	4435653716	https://www.catastospeleologicoregionale.sardegna.it/
 node	4435766086	https://www.catastospeleologicoregionale.sardegna.it/
-node	4438177590	https://www.tavernettaristorante.com/en/
 node	4442088389	http://angeloearcangela.com
 node	4442471989	https://www.lavru.it/
 node	4446736791	http://www.agriturismocasteddu.com
@@ -1113,7 +1111,7 @@ node	4497986583	https://www.fruttamarini.it/
 node	4497986723	http://www.qualitysardegna.com
 node	4497986746	https://www.villasimiusweb.com/
 node	4497987826	https://semplicebarristorantepizzeria.eatbu.com/?lang=en
-node	4497987857	http://www.hotelbelvir.it/
+node	4497987857	https://www.hotelbelvir.it/
 node	4497988124	http://www.edilrentsimius.com
 node	4498675438	https://www.tessutisardi.it/
 node	4498679055	https://www.tessutisardi.it/
@@ -1218,7 +1216,7 @@ node	5212514856	https://www.iknosdiving.com/
 node	5229421275	https://www.laginestraonoranze.it
 node	5231590023	https://www.artesardasollai.it/
 node	5237700082	https://www.nuraghemannu.com/
-node	5249381821	http://www.mozzarilandia.com
+node	5249381821	https://www.mozzarilandia.com/
 node	5250425121	https://www.paolosaba.it/
 node	5254860238	https://www.makeinnuoro.it/
 node	5268761466	http://utt.uniss.it/?q=it/node/79
@@ -1293,7 +1291,7 @@ node	5799950262	https://www.lacasadinichedda.it
 node	5802256891	https://www.bbcasalicheri.it
 node	5804131884	https://www.anticaposada.com/
 node	5810352079	https://m.facebook.com/Libarium-Nostrum-1593135687567911/?rf=316786478457232
-node	5810358510	http://www.ortobotanicoitalia.it/sardegna/cagliari/
+node	5810358510	https://www.ortobotanicoitalia.it/sardegna/cagliari/
 node	5827148999	https://www.shopcucina.it/
 node	5856239772	https://www.revisionisantagilla.it/
 node	5882499985	http://www.simplymarket.it
@@ -1672,13 +1670,14 @@ node	11886447599	https://www.hilton.com/en/hotels/olbccqq-mangias-santa-teresa-s
 node	11890903512	https://www.sasolias.com/
 node	11891845962	https://www.supermercatipan.it/punti-vendita/sardegna/superpan-olbia--piazza-francesco-crispi-2
 node	11925747476	https://shitcoins.club/localizzazione-atm/bancomat-bitcoin-Cagliari
-node	11939613369	http://ortoristorante.it
+node	11939613369	https://www.ortoristorante.it/
 node	11951479265	https://www.campovoloportopino.it
 node	11977520186	https://e-boat.it/
 node	11977533996	https://www.sadomoartesarda.com/
 node	12015016395	https://www.dettorimarket.it/
 node	12020367577	https://marcellapalicidisuni.it/
 node	12046701658	https://www.baiadellepalme.com/it/806/Beach.html
+node	12063533271	https://www.booking.com/hotel/it/villa-arianna-porto-pino-sant-anna-arresi.it.html
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1811,7 +1810,7 @@ way	185269018	https://www.capodorso.it/
 way	185466329	https://www.saxrjoba.it
 way	185495568	https://www.campingcugnana.it/
 way	186179802	https://www.supramonte.it
-way	186658798	http://www.campercagliaripark.it
+way	186658798	https://www.campercagliaripark.it/
 way	186854301	http://www.basilicasantagiusta.it/
 way	188564761	https://www.ristorantesaccargia.com/
 way	190955014	http://www.prolocomusei.it/
@@ -1920,7 +1919,7 @@ way	266489330	https://www.sardegnaturismo.it/en/point-of-interest/succoronis-nur
 way	266489331	https://www.tharros.info/ViewNuraghi.php?search=succoronis&lng=it
 way	266617155	https://www.tharros.info/ViewNuraghi.php?search=Birori&type=t&sort=2&lng=en
 way	267411552	https://www.eurospin.it/
-way	271124219	http://www.comune.tratalias.ca.it/
+way	271124219	https://www.comune.tratalias.ca.it/
 way	271124229	http://www.locandamonserrat.it
 way	273557605	https://www.isuledda.it/
 way	273557611	http://www.sardegnacultura.it/j/v/253?s=22223&v=2&c=2488&c1=2130&t=1
@@ -1991,7 +1990,7 @@ way	278066760	https://www.mdspa.it
 way	278281773	https://www.comune.orgosolo.nu.it
 way	278281915	https://www.istitutocomprensivoorgosolo.edu.it
 way	278300622	https://le-vele-millennium.klepierre.it/
-way	278321371	http://www.comune.selargius.ca.it
+way	278321371	https://www.comune.selargius.ca.it/
 way	278329602	http://www.vermentinomonti.it/it
 way	278406532	https://mabsantantioco.it/
 way	279179570	https://www.aurumhotels.it/it/villaggio_pini
@@ -2336,7 +2335,7 @@ way	460307345	http://www.lorenzobellu.com/sito/gallerie/storia/Bortigali%20-%20O
 way	460690915	https://www.eurospin.it/
 way	461376220	https://nuraghi.net/nuraghe-agnu
 way	461377823	http://www.sardegnacultura.it/j/v/253?s=20730&v=2&c=2651&c1=2616&t=1
-way	461535820	http://www.pfts.it/
+way	461535820	https://www.pfts.it/
 way	462934972	http://www.coopvillabbas.sardegna.it/anastasia.htm
 way	463424374	https://www.fradiles.it/
 way	463431492	https://idese.cultura.gov.it/place/ex-convento-dei-frati-cappuccini-chiesa-santa-maria-degli-angeli/
@@ -2485,6 +2484,8 @@ way	1242063880	https://www.sardegnabiblioteche.it/index.php?xsl=2813&s=2&v=9&c=5
 way	1256321047	https://arst.sardegna.it/orari_e_autolinee/servizimetross.html
 way	1257201020	https://sardafluid.it/
 way	1296653317	https://www.hoteldeipini.it
+way	1301752746	https://florgarden.it/
+way	1302252084	https://www.campingflumendosa.com/
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -2497,7 +2498,7 @@ relation	39784	https://www.comune.giba.ca.it/
 relation	39786	http://www.comune.santadi.ci.it
 relation	39793	https://www.comune.sangiovannisuergiu.ci.it/
 relation	39796	https://www.comune.villasanpietro.ca.it/
-relation	39798	http://www.comune.tratalias.ca.it/
+relation	39798	https://www.comune.tratalias.ca.it/
 relation	39803	http://www.comune.villaperuccio.ci.it
 relation	39808	https://www.comune.assemini.ca.it/area/amministrazione.html
 relation	39809	https://comune.calasetta.ci.it/
@@ -2522,7 +2523,7 @@ relation	39861	https://www.comune.monserrato.ca.it/
 relation	39863	https://www.comune.gonnesa.ca.it/
 relation	39868	https://comune.elmas.ca.it/
 relation	39869	https://www.comune.sestu.ca.it/
-relation	39870	http://www.comune.selargius.ca.it/
+relation	39870	https://www.comune.selargius.ca.it/
 relation	39876	https://www.comune.villaspeciosa.ca.it/
 relation	39877	https://www.comune.settimosanpietro.ca.it/
 relation	39888	https://www.comune.musei.ci.it/
