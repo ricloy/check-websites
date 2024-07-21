@@ -48,7 +48,7 @@ node	68507747	https://www.comune.gualdocattaneo.pg.it/
 node	68507761	http://www.comune.passignano-sul-trasimeno.pg.it/
 node	68507767	https://www.comunemontone.it/
 node	68507774	https://www.montesantamariatiberina.org/
-node	68507780	http://www.comune.monteleonedispoleto.pg.it/
+node	68507780	https://www.comune.monteleonedispoleto.pg.it/
 node	68507784	https://www.comune.sigillo.pg.it/
 node	68507788	https://www.comune.sellano.pg.it/
 node	68507792	http://www.comunesangiustino.it/
@@ -142,7 +142,7 @@ node	1403879603	https://www.parcosculturebrufa.it/
 node	1410136697	https://csb.unipg.it/organizzazione/strutture-bibliotecarie/struttura-lettere-e-scienze-della-formazione/biblioteca-umanistica
 node	1411682451	https://www.naturasi.it
 node	1419995900	http://www.comune.orvieto.tr.it/
-node	1433266361	https://goo.gl/maps/jShzH5eCKU5aagWQ9
+node	1433266361	"https://www.google.com/maps/place/Monumento+ai+Caduti/@42.7205357,12.1198119,145m/data=!3m1!1e3!4m6!3m5!1s0x132ecd29b505d625:0x4f021150296f0349!8m2!3d42.7206604!4d12.1203652!16s%2Fg%2F11rbyvcd0x"
 node	1517014150	https://www.lefrancesche.it/
 node	1517014187	http://www.villadellacupa.com/
 node	1541558807	https://www.albergomontecucco.it/
@@ -906,6 +906,7 @@ node	11971672582	https://www.comune.spoleto.pg.it/turismoecultura/la-citta/musei
 node	11971704285	http://www.comune.spoleto.pg.it/
 node	12014694347	https://www.turancafe.it/
 node	12026530319	https://www.ristorantemangiardivino.it/
+node	12061029117	https://www.borgodellemole.com/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1443,7 +1444,7 @@ way	798864037	http://vivalba.it/
 way	801972214	https://unicooptirreno.it/punto-vendita/amelia
 way	808124577	https://www.casaledeifrontini.it/
 way	824921525	https://www.regione.umbria.it/ambiente/siti-di-importanza-comunitaria-sic/-/document_library_display/lgzakFbmr4yA/view/1616400
-way	830265316	http://www.comunanzacammoro.it/
+way	830265316	https://www.comunanzacammoro.it/
 way	833610917	http://www.pantanelli.sifree.org/
 way	835590634	https://sassorosso.it/
 way	836916105	http://www.iluoghidelsilenzio.it/?p=7964
@@ -1568,6 +1569,8 @@ way	1279651638	https://www.iluoghidelsilenzio.it/chiesa-di-san-pietro-in-tutorio
 way	1286394352	https://turba.noblogs.org/
 way	1286987318	https://www.rifugideisibillini.it/
 way	1290858409	https://incantevolespello.wordpress.com/2016/08/21/madonna-della-stella/
+way	1301931424	https://www.campingcerquestra.it/
+way	1301932668	https://campinglunadelmonte.nl/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	1948091	https://chemindassise.org/
@@ -1686,10 +1689,10 @@ relation	8848984	https://www.flixbus.de/busverbindung/fernbus-muenchen-rom-roma
 relation	8886362	https://www.flixbus.de/busverbindung/fernbus-muenchen-rom-roma
 relation	9074536	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	9075394	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
-relation	9316026	http://www.sibillini.net/
-relation	9316027	http://www.sibillini.net/
-relation	9316449	http://www.sibillini.net/
-relation	9316450	http://www.sibillini.net/
+relation	9316026	https://www.sibillini.net/
+relation	9316027	https://www.sibillini.net/
+relation	9316449	https://www.sibillini.net/
+relation	9316450	https://www.sibillini.net/
 relation	9393246	https://www.autodromomagione.com/
 relation	9671163	http://www.villaparadisovillage.it
 relation	10143734	https://www.uslumbria1.it/pagine/direzione-medica-000
