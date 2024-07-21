@@ -710,6 +710,7 @@ node	5661616522	https://littlefreelibrary.org/
 node	5661904038	http://www.loscottadito.it
 node	5665557322	https://www.comune.pesaro.pu.it/
 node	5676386525	https://www.hotelgardengabicce.com
+node	5676417723	https://www.lidohotelgabicce.com/
 node	5678089830	https://www.ecomuseoficana.it/
 node	5685183250	https://www.lapastadicamerino.it/
 node	5718742084	https://www.brt.it/
@@ -1321,7 +1322,7 @@ node	11199366891	https://www.ristorantegastronomiarosticceriadapamela.it
 node	11200753454	https://www.book-service.it/en/
 node	11204236399	https://marcheggiani.it/
 node	11211753316	https://www.computelurbino.com/
-node	11211873215	http://www.urbinoservizi.it/servizi/farmacia-comunale/
+node	11211873215	https://www.urbinoservizi.it/servizi/farmacia-comunale/
 node	11211873219	https://www.sanitariaortopediacentrale.com/
 node	11212564446	https://www.reactivefitness.it/
 node	11212583410	https://www.servizifunebriurbino.com/
@@ -1400,12 +1401,11 @@ node	11343315958	https://www.cabalsomino.com/
 node	11346100672	https://www.amicimieiristorantepizzeria.it/
 node	11346100673	https://www.labaciocca.com/
 node	11346100675	https://urbino.scavolinistore.net/
-node	11346100676	http://www.arteplastica.it/
+node	11346100676	https://www.arteplastica.it/
 node	11346100763	https://www.agenziaentrate.gov.it/portale/web/guest/uffici2/-/uffici/uffici_INSTANCE_760I75Ju693C/dettagliouffT/TQS/cr/910/iur/TQS
 node	11346193768	https://www.romagnoliarredi.com/
 node	11350646997	https://www.superautoottaviani.it/
 node	11350815163	https://www.operelaiche.it/farmacia-santa-casa/
-node	11350965548	https://www.neneurbino.com/
 node	11355676530	https://negozi.arcaplanet.it/marche/ap/s.benedetto-del-tronto-via-pasubio-51
 node	11361857117	https://www.oasicannetacci.it/
 node	11365460568	https://duearchipizzeria.sitoup.com/
@@ -1506,16 +1506,15 @@ node	12012309881	https://davarano.it/torre-beregna/
 node	12014285993	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/museo-delluomo/
 node	12014286003	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/museo-pinacoteca-darte-sacra-contemporanea/
 node	12014814726	https://gvmedicali.it/
-node	12015693790	https://www.facebook.com/lapostadiantonelladellapenna/
 node	12026531815	https://www.colorworks-srl.it/
 node	12031415868	https://www.poliambulatoriodellemuse.com/
 node	12033853829	https://www.facebook.com/pages/Cantina-Antisociale/135661380130635
-node	12033853833	https://www.instagram.com/kodama_lab_/
 node	12035489391	https://www.korcaffe.it/
 node	12035489395	https://www.pescheriailmoscardino.com/
 node	12035560561	http://www.artenelferro.it/
 node	12041656375	https://www.conad.it/ricerca-negozi/conad-via-giovanni-verga-72-a-62100--macerata--009738
 node	12041656387	https://www.mponoranzefunebri.it/
+node	12059595125	https://pizzeriaonthebeach.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1657,7 +1656,7 @@ way	283415876	https://comune.mondolfo.pu.it/
 way	286689396	https://www.turismo.marche.it/Guida/Eccellenze/Title/Monte-Rinaldo-Localita-La-Cuma--Santuario-tardo-repubblicano/IdPOI/3702/C/109021
 way	286857801	http://www.rifugiocittadiamandola.com/
 way	288279644	https://www.castellobrancaleoni.it/
-way	288283846	http://www.valguerriera.it
+way	288283846	https://www.valguerriera.it/
 way	289656880	https://www.campingdelgabbiano.it/
 way	291528896	http://www.siconte.it/it/punti-vendita/si-supermercati/ancona-piazza-d-armi
 way	294002268	https://www.faonline.it/
@@ -1999,6 +1998,7 @@ way	1018570423	https://italserviziambiente.com
 way	1024974448	https://www.stradeanas.it/it/struttura-territoriale-marche
 way	1037855788	http://parrocchiamarina.it/
 way	1039132317	https://tenutasanmarcello.net/esperienze/
+way	1043080807	https://www.eurospin.it/punti-vendita/macerata-via-pagnanelli/
 way	1050395484	https://www.sportvillagepesaro.it/
 way	1052245266	https://www.effettoluce.it/
 way	1060371569	https://carpegnacampingcippo.it
@@ -2010,6 +2010,7 @@ way	1082015715	https://www.papie.it
 way	1084246420	http://www.agriturismosbrega.com/
 way	1087320574	https://www.fondazionevillasangiuliano.com/
 way	1094781880	https://www.iisraffaello.edu.it/
+way	1095639398	https://www.officine-volkswagen.it/santiniprimo.html
 way	1095746610	https://fondoambiente.it/luoghi/cripta-e-capitolo-dell-abbazia-di-sangelo-di-chiaserna?ldc
 way	1096312500	http://www.valdifiori.nl
 way	1097228554	https://www.albergodellorsobo.it/
@@ -2060,6 +2061,7 @@ way	1210601660	https://www.ristorantenordest.it
 way	1212197095	https://icpetritoli.edu.it/
 way	1214756685	https://www.sacrocuoredigesu.org/
 way	1220131004	https://comune.loreto.an.it/
+way	1223735363	https://www.neneurbino.com/
 way	1226716982	https://ambiente.regione.emilia-romagna.it/it/parchi-natura2000/aree-protette/riserve-naturali/onfe/carta-identita
 way	1227135666	https://www.oasitigre.it/content/ot/it/it/il-mio-negozio.546.html
 way	1242775991	https://www.vigilfuoco.it/sitivvf/fermo/
@@ -2157,7 +2159,7 @@ relation	12234549	https://www.comune.montelupone.mc.it/avvisi-cms/monitoraggio-i
 relation	12379392	https://www.amastrofili.it/osservatorio/
 relation	13145363	https://www.marinadorica.it/
 relation	13270946	https://nerogiardini.it/store-locator/nerogiardini-outlet-monte-san-pietrangeli-italia
-relation	13273430	https://www.liceostabilitrebbiani.it/default.asp
+relation	13273430	https://liceostabilitrebbiani.edu.it/
 relation	14223406	https://www.sibillini.net/
 relation	14248618	https://www.eurospin.it/punti-vendita/ascoli-piceno-via-genova-493502/
 relation	14381580	https://www.parcosanbartolo.it/
@@ -2201,7 +2203,6 @@ node	845275788	http://www.hotelnapoleonpesaro.it/
 node	845275811	http://www.cruiser.it/docks_Site/
 node	1332887447	https://www.lazzabaretto.it/
 node	1390061950	https://www.hoteltesoro.it/
-node	1412602974	http://www.biesse.com
 node	1597985102	https://www.politeamafano.it/
 node	1598001258	https://museocivico.comune.fano.pu.it/
 node	1614693591	https://www.hoteltesoro.it/
@@ -2406,6 +2407,8 @@ node	11950457583	https://midac.wordpress.com/
 node	11953271433	https://www.ristorantechiaroscuro.it/
 node	12012300543	https://www.hotelristorantepanorama.com/
 node	12012479008	http://www.vernacciadilanfrancoquacquarini.it/
+node	12062067501	https://www.lasaponaria.it/biostorie-civitanova
+node	12062085781	https://www.lasaponaria.it/biostorie-senigallia
 way	14805243	https://www.santuarioloreto.va
 way	44523218	http://www.arterisko.com
 way	61094272	http://www.athleticclubpesaro.it/
@@ -2499,6 +2502,8 @@ way	1245805544	https://www.vinirocchi.it/
 way	1286175568	http://www.sorellepoveredisantachiara.it/
 way	1289060611	http://turismo.comune.caldarola.mc.it/musei-cms/antiquarium/
 way	1296346692	https://www.hotelristorantepanorama.com/
+way	1301847221	https://www.lasaponaria.it/
+way	1301847241	http://www.biesse.com
 relation	1085619	https://www.cappuccinimarche.org/?page_id=21673
 relation	1434016	http://www.officinabonfigli.it
 relation	6517698	http://www.sorellepoveredisantachiara.it/
