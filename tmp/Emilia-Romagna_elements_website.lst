@@ -39,7 +39,7 @@ node	69300214	https://www.comune.san-giorgio-di-piano.bo.it/main/main.asp
 node	69300221	https://www.comune.pievedicento.bo.it/
 node	69300225	https://www.comune.argenta.fe.it/
 node	69300229	https://www.comune.copparo.fe.it/
-node	69300237	http://www.comune.jolandadisavoia.fe.it/
+node	69300237	https://www.comune.jolandadisavoia.fe.it/
 node	69300241	https://www.comune.san-pietro-in-casale.bo.it/
 node	69300242	http://www.comune.sassomarconi.bologna.it/
 node	69300250	https://www.comune.vergato.bo.it/
@@ -171,7 +171,7 @@ node	357891613	http://www.areablu.com/imola-in-bici/centro-in-bici-4/
 node	357891620	http://www.areablu.com/imola-in-bici/centro-in-bici-4/
 node	357920148	http://www.areablu.com/imola-in-bici/centro-in-bici-4/
 node	359545571	https://www.facebook.com/macelleriagastronomia.ceresiottavio
-node	359549616	http://www.osteriabardeljack.it/
+node	359549616	https://osteriabardeljack.it/
 node	359675656	http://www.areablu.com/imola-in-bici/centro-in-bici-4/
 node	360040920	http://www.areablu.com/imola-in-bici/mi-muovo-in-bici/
 node	361373041	http://www.areablu.com/imola-in-bici/centro-in-bici-4/
@@ -210,7 +210,7 @@ node	415330558	https://www.bonelliburger.it/
 node	415331134	https://www.unicredit.it/it/contatti-e-agenzie/lista-agenzie/bo/imola/imola-appia-ag03201.html
 node	415331150	http://www.farmappia.it/
 node	415331158	https://www.phoneleader.it/punti-vendita/wind-imola.html
-node	415331159	http://www.cremeriaemilia.com/
+node	415331159	https://www.cremeriaemilia.com/
 node	415538556	http://rifugiocacarne.altervista.org/ristorante.html
 node	415812409	https://www.poste.it
 node	415966821	https://www.comune.imola.bo.it/urp-ufficio-relazioni-con-il-pubblico
@@ -264,7 +264,7 @@ node	566396517	https://billytacos.it/
 node	566627412	https://www.e-coop.it/
 node	567240877	https://www.facebook.com/paolimper/
 node	573405084	https://ristorantebabaleus.com/
-node	573405414	www.ristorantelagardela.com
+node	573405414	https://www.ristorantelagardela.com/
 node	575732774	https://valledeicavalieri.it
 node	582652523	https://www.farmaciacarbini.it/
 node	586346974	https://www.livingplacehotelbologna.com/
@@ -283,7 +283,7 @@ node	623939865	http://www.trattoriameloncello.it
 node	626591647	https://www.birreriaamadeus.it
 node	629735185	https://www.victoriastation.it/
 node	633712637	https://www.circolodellacaccia.com/
-node	642493629	http://www.ilmoro.net/
+node	642493629	https://www.ilmoro.net/
 node	655135675	https://questure.poliziadistato.it/Bologna
 node	662841483	https://m.facebook.com/langolodellapizza.michele/
 node	666270589	https://www.trattoriacubana.it/
@@ -425,7 +425,7 @@ node	1340972278	https://www.hotelfabius.com
 node	1340977958	https://www.lastalla-marechiaro.it/
 node	1340989655	www.geminihotel.it
 node	1341743674	https://www.caibo.it/
-node	1341757643	http://www.ideapianoro.org/Giornale/2005/04/745.htm
+node	1341757643	https://www.ideapianoro.org/Giornale/2005/04/745.htm
 node	1346704726	https://www.ristorantepacini.com/
 node	1350259769	https://www.pampanorama.it/punti-vendita/bologna-irnerio
 node	1350670108	https://www.hoteltouringfe.it/
@@ -461,7 +461,7 @@ node	1538722754	https://www.enginesengineering.com
 node	1541211165	https://www.locandapincelli.it/
 node	1547765174	https://www.osteriafrancescana.it/
 node	1556696461	http://www.farmaciasgarbi.it
-node	1567948924	http://www.veggettiscooter.it/
+node	1567948924	https://www.veggettiscooter.it/
 node	1567948968	https://www.bike2000.it/
 node	1567948999	https://www.ih-hotels.com/it/i-nostri-aberghi/ih-hotels-bologna-amadeus.html?utm_source=google&utm_medium=organic&utm_campaign=gmb
 node	1568046455	http://www.trattorialeoni.it
@@ -531,7 +531,7 @@ node	1704221088	http://spiga.bo.it
 node	1704237849	https://www.118er.it/dae/dae.asp
 node	1704240470	http://www.caffeterzibologna.com
 node	1704242844	https://www.ispettorato.gov.it/dettaglio-sede/iam-bologna/
-node	1704247473	http://www.casalarga.it
+node	1704247473	https://www.casalarga.it/
 node	1704248353	http://www.enotecastoricafaccioli.it/
 node	1704248837	https://www.bimbostore.com/bologna.php
 node	1704251466	http://www.dalbiassanot.it/
@@ -844,6 +844,7 @@ node	2323177286	https://www.qbio.net/
 node	2323182113	https://www.facebook.com/pizzaria.jonny/?locale2=it_IT
 node	2323183798	https://www.118er.it/dae/dae.asp
 node	2323188897	https://collegesushi.it/
+node	2323189637	https://www.facebook.com/ilfornettopizzeria/
 node	2323191502	https://mabomotor.it/en/
 node	2323196538	https://studiodentisticopieriforlivesi.it/
 node	2323201729	http://www.agriturismomacin.it/
@@ -874,6 +875,7 @@ node	2388253640	https://www.thermaeoasis.com
 node	2389299119	https://www.ristorantebarafonda.it/
 node	2389301031	https://www.darsenasomarlungo.it/
 node	2390005697	https://www.obi-italia.it/negozi/imola/
+node	2397443788	http://farmaciadraghetti.docinforma.it/
 node	2406202305	https://www.laviolacentrobenessere.it
 node	2406223989	http://www.farmaciapiazza.it/
 node	2408860201	https://www.torreabate.it/
@@ -969,7 +971,7 @@ node	2585711480	https://www.ristoranteilkiwi.com/
 node	2587315303	https://www.pizzeriacado.it/
 node	2587611667	computerserviceravenna.it
 node	2588275436	https://lascuderiadozza.it/
-node	2597126483	http://www.ristorantecontrovento.it/
+node	2597126483	https://www.ristorantecontrovento.it/
 node	2600992613	https://www.caibo.it/
 node	2600992643	https://www.caibo.it/
 node	2600992774	https://www.caibo.it/
@@ -1103,7 +1105,7 @@ node	2718152299	https://pwa.pienissimo.com/home?hashform=3ltpj2q71GwUfCWY40SDKHL
 node	2718152442	http://www.progardenrimini.com/
 node	2718153473	https://www.mercatinodapagnoc.com/
 node	2718153909	https://www.manolocargobike.com/
-node	2718154301	http://www.riccisabbiatura.it/azienda.php
+node	2718154301	https://www.riccisabbiatura.it/azienda.php
 node	2718154357	https://www.hastaluegorimini.com/
 node	2718155110	https://www.alliancefarmacie.it/
 node	2718155459	https://www.conad.it/ricerca-negozi/conad-city-via-pareto-vilfredo-3-47922-rimini--001540
@@ -1381,10 +1383,10 @@ node	3412907893	http://www.osteriacolleameno.com/
 node	3413546568	https://www.palazzodivarignana.com/
 node	3413631497	https://www.tappezzeriazanotti.it/
 node	3423369893	https://www.ristoranteballarini.com/
-node	3423420288	http://www.capellettilocandaitalia.it/index.html
+node	3423420288	https://www.capellettilocandaitalia.it/index.html
 node	3425928561	https://www.pasticceriadino.it/
 node	3428958798	https://www.caibo.it/
-node	3440676925	http://www.kolibricafe.it/
+node	3440676925	https://www.kolibricafe.it/
 node	3448417478	https://aiprati.it/
 node	3454567205	https://www.tiltonline.org/teatrololli
 node	3459018377	https://osteriabalebusteferrara.it/
@@ -1440,7 +1442,7 @@ node	3646448100	http://www.alpappagallo.it
 node	3646448114	https://www.tigota.it/
 node	3646580969	http://www.panificioroversi.it/
 node	3650836914	https://flipsnack.com/pizzeriainvito/menu.html
-node	3651269882	http://www.aziendalacasetta.it
+node	3651269882	https://www.aziendalacasetta.it/
 node	3675572025	https://ristorantepizzerialamargherita.business.site/
 node	3676069910	https://www.tortellinisoverini.com/
 node	3676741950	https://www.ruggine.bo.it/
@@ -1501,7 +1503,7 @@ node	3808176115	https://www.albergoristorantemaddalena.it
 node	3808192508	http://www.residencevillamarina.it
 node	3809743963	https://www.laltrospazio.com/
 node	3809744097	https://www.cgilbo.it
-node	3813830907	http://www.ristorantedanello.com/
+node	3813830907	https://www.ristorantedanello.com/
 node	3813830918	https://ristorante-lacina.it
 node	3813847708	https://www.tezenis.com/it/negozi/emilia-romagna/bologna/bologna_via_dellindipendenza_12-16/TC42.html
 node	3813958410	https://www.caibo.it/
@@ -1665,7 +1667,7 @@ node	4303507531	http://www.maretennis.it/
 node	4305132383	https://www.romagnaest.it/
 node	4305695443	https://www.comune.pontedellolio.pc.it/
 node	4307986391	https://www.poliambulatoriocavour.it/
-node	4309834390	http://www.annaritavitali.it
+node	4309834390	https://www.annaritavitali.it/
 node	4314756386	https://www.anticacorteortalli.it/
 node	4314901353	https://www.mangiamore.bio/
 node	4319421618	http://accademiariccione.it
@@ -2088,7 +2090,7 @@ node	4680355910	https://pepco.it/
 node	4683852091	https://www.studiodanielapicchioni.it/contatti/cookie-policy/sitemap/sitemap/go/
 node	4684271428	https://www.cai-imola.it/
 node	4690626006	http://www.ombrerosseparma.it/
-node	4690627122	https://trattoriacorrieri.xmenu.it/
+node	4690627122	https://www.gallodororistorante.it/
 node	4690627152	https://www.ristorantidiparma.it/
 node	4690641292	www.atelier-fotografico.it
 node	4690641479	https://www.laforchettaparma.it/
@@ -2353,7 +2355,7 @@ node	4751651330	https://www.affittacamerecambiuzzifaenza.com/
 node	4751654138	https://www.iccarchidiostrocchi.edu.it/
 node	4751654190	https://www.bgarredamenti.com/
 node	4751654323	http://www.tempoallibro.it/
-node	4751654351	http://www.tramontiguerrino.it/
+node	4751654351	https://www.tramontiguerrino.it/
 node	4751654443	http://www.tanesini.it/
 node	4751654549	https://www.outdoorandtrekking.com/
 node	4751654620	https://www.fotobg.it/
@@ -2391,7 +2393,7 @@ node	4751659303	https://www.oreficeriadonati.it/
 node	4751659314	https://spazioquazar.it/
 node	4751659328	http://www.sottocasafaenza.it/
 node	4751659839	http://www.culturanuovafaenza.it/
-node	4751660079	http://www.casa-sos.it
+node	4751660079	https://www.casa-sos.it/
 node	4751660255	http://www.fochibilance.it/
 node	4751660261	https://www.becfaenza.it/
 node	4752383958	https://www.comune.camposanto.mo.it/il-comune/servizi-comunali/area-socio-culturale/biblioteca
@@ -2413,7 +2415,7 @@ node	4752825799	https://kokomosaico.com/en
 node	4752828959	https://www.facebook.com/Strapazzami-Di-Pizza-357904057652071/
 node	4752833737	https://www.alcairoli.com/
 node	4752842777	https://www.osteriadeltempoperso.it/
-node	4752848031	www.lecasedisanvitale.it
+node	4752848031	https://www.lecasedisanvitale.it/
 node	4752878276	https://www.aquolinaravenna.it/
 node	4752878392	https://olexica.com
 node	4752882595	http://www.comune.fiorenzuola.pc.it
@@ -2422,7 +2424,7 @@ node	4752889243	http://www.pizzeriaalfionew.it/
 node	4752889626	https://tecnogasravenna.it/
 node	4752894692	https://www.ferrari-ra.it/
 node	4752896624	https://ito-8.jimdosite.com/menu/
-node	4752939363	http://www.ag-romea.it/
+node	4752939363	https://www.ag-romea.it/
 node	4752943096	https://www.comune.sanpietroincerro.pc.it/
 node	4753017934	https://www.andycards.it
 node	4753017963	https://www.vanitycafepuntamarina.it
@@ -2448,7 +2450,7 @@ node	4756788516	https://www.drogherianegrotti.it/
 node	4756791942	https://www.farmaciasandonnino.com/
 node	4757456910	https://www.besolutions.it/
 node	4757766006	https://www.comune.sanpolodenza.re.it/
-node	4757905830	www.ristoranteidurandi.com
+node	4757905830	https://www.ristoranteidurandi.com/
 node	4757923739	https://www.comune.poggiorenatico.fe.it/
 node	4758106840	https://www.fcr.re.it/Farmacia.jsp?idFarmacia=41
 node	4758112378	https://www.pirru.it/
@@ -2457,8 +2459,8 @@ node	4759177095	https://hosteria-bottega-del-po.business.site/
 node	4759206814	https://www.tripadvisor.it/Restaurant_Review-g1972496-d3533780-Reviews-Ristorante_Tre_Pini-Copparo_Province_of_Ferrara_Emilia_Romagna.html
 node	4759217064	https://www.comune.copparo.fe.it/
 node	4759229067	http://www.comuneberra.gov.it/canali-tematici/centro-di-documentazione-culturale-biblioteca/scheda-illustrativa-del-centro-di-documentazione-culturale-biblioteca-comunale
-node	4759288948	http://www.comune.jolandadisavoia.fe.it
-node	4759289317	http://www.comune.jolandadisavoia.fe.it
+node	4759288948	https://www.comune.jolandadisavoia.fe.it/
+node	4759289317	https://www.comune.jolandadisavoia.fe.it/
 node	4759334088	https://www.comune.codigoro.fe.it/biblioteca-comunale-e-archivio-storico
 node	4759335264	https://www.comune.codigoro.fe.it
 node	4759339386	https://www.santoscaffesnc.it
@@ -2510,8 +2512,8 @@ node	4762159188	https://www.comune.imola.bo.it/imoladove/centro-sociale-orti-di-
 node	4762160250	https://www.cefla.com/
 node	4762162066	https://moriniwines.it/
 node	4762164166	http://www.bpassociati.it/
-node	4762166582	http://www.plasticsort.com/
-node	4762166583	http://www.plasticsort.com/
+node	4762166582	https://plasticsort.com/
+node	4762166583	https://plasticsort.com/
 node	4762166589	https://www.utensilmec.net/
 node	4762168676	https://www.gruppomorini.it/sedi/usato-selezionato/
 node	4762169045	https://www.soccorsostradaleproni.it/index.php
@@ -2543,7 +2545,7 @@ node	4762181982	https://www.aiaimola.it/
 node	4762181985	http://www.centrosocialezolino.it
 node	4762183380	https://www.allianzbank.it/
 node	4762186760	http://www.bancadiimola.it/
-node	4762186789	http://www.tgrandi.com/index.html
+node	4762186789	https://www.tgrandi.com/index.html
 node	4762187068	https://www.assimprese.bo.it/
 node	4762187076	https://www.labcc.it/
 node	4762187416	https://www.techneprogetti.srl
@@ -2629,7 +2631,7 @@ node	4766291772	http://www.allin-shop.eu/indexIt.html
 node	4766291940	https://www.treemmepitre.it/
 node	4766292040	http://www.psvet.it/
 node	4766292047	https://www.farmaciamainetti.com/
-node	4766301509	http://www.cortelivia.it/
+node	4766301509	https://www.cortelivia.it/
 node	4766301518	https://www.bosco67.com/
 node	4766301632	https://www.accademiaperduta.it/teatro_diego_fabbri_forli-856.html
 node	4766301641	https://www.otoplus5.com/
@@ -2673,7 +2675,7 @@ node	4766334885	http://www.burghettoforli.it/
 node	4766334889	https://www.lagranadilla.it/
 node	4766334892	https://otoplus5.it/sanitaria-forli-centrostorico.asp
 node	4766338200	https://pikok-cafe.business.site/
-node	4766338583	http://www.easyrepair.altervista.org
+node	4766338583	https://easyrepair.altervista.org/
 node	4766338600	http://gli-gnomi.com
 node	4766338617	https://www.gioielleriacelliefanti.it/
 node	4766338658	https://www.conad.it/ricerca-negozi/negozio.003515.html
@@ -2772,6 +2774,7 @@ node	4771297808	https://linktr.ee/fantasiafumetterialibreria
 node	4771351988	https://sainthonorecarpi.wixsite.com/pasticceria
 node	4771358152	https://gastronomia-dionisio.business.site/?utm_source=gmb&utm_medium=referral
 node	4771358603	https://www.carpidiem.it
+node	4771368350	www.caicarpi.it
 node	4771378906	http://www.nemesix.it/
 node	4771379262	https://www.lincontroristorante.it/
 node	4773360745	https://www.paninimotormuseum.it/
@@ -2779,7 +2782,7 @@ node	4774352171	https://www.ilraggiorondinaia.it
 node	4774359658	https://www.primularossadapiseppo.it/
 node	4774361378	https://www.ilgiardinopub.it/
 node	4774366721	http://www.comune.modigliana.fc.it
-node	4774367364	http://www.trattoriamontepaolo.it
+node	4774367364	https://www.trattoriamontepaolo.it/
 node	4774373670	http://www.osteriadiviazannetti.it/
 node	4774377587	https://www.118er.it/dae/dae.asp
 node	4774379101	https://www.comune.mercatosaraceno.fc.it
@@ -2800,7 +2803,7 @@ node	4774394496	http://www.comune.predappio.fc.it
 node	4774401371	http://www.comune.premilcuore.fc.it
 node	4774402642	https://www.fabbricagiovacchinomobili.it/
 node	4774407360	https://www.hotelpasqui.it/
-node	4774412489	http://www.comune.roncofreddo.fc.it
+node	4774412489	https://www.comune.roncofreddo.fc.it/
 node	4774418203	https://www.piandistantino.it/
 node	4774418227	http://www.hotelleonardo.net
 node	4774418273	http://www.albergodagigino.com
@@ -2846,7 +2849,7 @@ node	4782361545	http://www.mastrobikerace.it/
 node	4782368029	http://www.dueruotebologna.it/
 node	4782371095	www.cadiviola.it
 node	4782377971	https://sushiigini.it/
-node	4782378383	http://edenparkzone.it
+node	4782378383	https://www.edenparkzone.it/
 node	4782380198	https://40068pizzaemore.com/
 node	4782384669	https://www.alcenero.com/blogs/news/nasce-il-nostro-primo-punto-vendita-monomarca
 node	4782385613	http://www.dueruotebologna.it/
@@ -2864,7 +2867,7 @@ node	4782531032	https://www.comune.minerbio.bo.it
 node	4782561816	http://www.farmaciasgarbi.it
 node	4782584683	https://www.militaryworld.it/
 node	4782587754	https://www.comune.medicina.bo.it
-node	4782587800	http://www.comune.medicina.bo.it/moduli/ufficio.aspx?ID=1&
+node	4782587800	https://www.comune.medicina.bo.it/moduli/ufficio.aspx?ID=1&
 node	4789530721	https://questure.poliziadistato.it/servizio/orari/5730dc9d14574271527580
 node	4792156684	https://www.fioriedecoribologna.com/
 node	4793747375	https://www.teatridivita.it/
@@ -2906,7 +2909,7 @@ node	4868423622	http://facebook.com/zonaartigianale
 node	4868433922	https://www.patapollo.it/
 node	4868551322	http://lachersenta.it
 node	4872180621	https://www.settebellohotel.com/
-node	4874928932	http://www.museolamborghini.com/
+node	4874928932	https://www.museolamborghini.com/
 node	4881691395	https://www.anticafarmacialugaresi.it/
 node	4881728556	https://www.icalfonsine.gov.it/
 node	4881728560	https://www.comune.alfonsine.ra.it/
@@ -3075,7 +3078,7 @@ node	5238421919	https://www.ostellocasalinodisopra.it/
 node	5242975110	http://www.pasticceriachiari.it/
 node	5243023002	http://cinemateatroitalia.altervista.org/
 node	5243133026	http://albergoagostino.blogspot.com/
-node	5243383721	http://www.sacpetroli.it
+node	5243383721	https://sacpetroli.it/
 node	5244559877	https://www.bottegagastronomica.it/
 node	5244739933	http://www.agrifermodena.it/
 node	5245511707	https://turismo.comune.re.it/it/reggio-emilia/scopri-il-territorio/arte-e-cultura/ville-dimore-teatri-storici/palazzo-da-mosto
@@ -3191,7 +3194,7 @@ node	5598676696	https://orologeriacarlino.jimdofree.com
 node	5598764115	https://www.ristorantesingapore.com/
 node	5599313821	http://www.officine.puntopro.it/flli-negri-c-snc
 node	5600034423	https://www.ilpiaceredelcaffe.it
-node	5600606821	http://www.freakoutbologna.com/
+node	5600606821	https://www.freakoutbologna.com/
 node	5601865021	https://www.cucineclandestine.it/
 node	5606200221	https://www.ristorantepaddock.it/
 node	5606200321	https://www.drakemaranello.com/
@@ -3435,7 +3438,7 @@ node	6058102097	https://www.adm.gov.it/portale/-/emilia-romag-1
 node	6058124388	https://www.adm.gov.it/portale/-/emilia-romag-1
 node	6058125879	https://www.adm.gov.it/portale/-/emilia-romag-1
 node	6068048244	http://edengardenonline.com/
-node	6073295547	http://www.gruppohera.it/clienti/casa/casa_servizio_clienti/casa_sportelli/-hera_imola_faenza/pagina60-3263.html
+node	6073295547	https://www.gruppohera.it/clienti/casa/casa_servizio_clienti/casa_sportelli/-hera_imola_faenza/pagina60-3263.html
 node	6077606687	https://www.santagatafarmacia.it/
 node	6077778744	http://www.asp-seneca.it/Servizi-alla-persona/Anziani/Casa-residenza-di-Sant-Agata-Bolognese
 node	6080634893	http://www.trattoriabaraldi.it/
@@ -3467,7 +3470,7 @@ node	6169266843	https://www.hotelrivazza.it/
 node	6178018451	https://www.facebook.com/pages/Antica-Trattoria-Corradini/172234669535154
 node	6185954543	http://www.fornorondini.it/
 node	6189886364	https://www.cinepiucorreggio.it/
-node	6192551840	http://www.certenotti.eu
+node	6192551840	https://www.certenotti.eu/
 node	6196534859	https://www.facebook.com/sunfashionrestaurant/
 node	6201930315	https://www.comune.modena.it/museofigurina
 node	6201930316	https://www.comune.modena.it/galleria
@@ -3494,7 +3497,7 @@ node	6241762889	https://www.istat.it/it/istituto-nazionale-di-statistica/organiz
 node	6242868194	https://www.avvocatorobertaresta.com/
 node	6244244070	https://www.gruppomorini.it/sedi/imola-honda-nissan/
 node	6244559285	http://iltintobeb.wixsite.com
-node	6249104247	http://www.idroterapic.it
+node	6249104247	https://www.idroterapic.it/
 node	6249985590	http://www.folesano.it/agriturismo/
 node	6251339723	https://www.criravenna.it/
 node	6251402690	https://www.comune.faenza.ra.it/Guida-ai-servizi/Settore-Territorio/La-Promozione-dell-Arte-Contemporanea/Il-Settore-Territorio-Le-opere-d-arte-contemporanea
@@ -3542,7 +3545,7 @@ node	6475065665	www.pizzeriaristrorantelagioconda.it
 node	6475072552	https://www.modenacoworking.it/
 node	6478668395	https://www.gigroup.it/
 node	6480309507	https://www.elerent.com/it/
-node	6483528708	http://www.caicesena.com
+node	6483528708	https://www.caicesena.com/
 node	6499542785	https://www.ristorantecastiglione.it/
 node	6502513765	https://pacem.it
 node	6508435762	https://www.cadelsartu.it/
@@ -3615,12 +3618,11 @@ node	6734568640	https://dott-govoni-riccardo.business.site/
 node	6735315785	https://www.pappa-reale.it/pappare-emilia/
 node	6741793675	https://www.agenziademanio.it/opencms/it/agenzia/strutturaorganizzativa/direzioniterritoriali/emiliaromagna/
 node	6758811329	https://www.caibo.it/
-node	6758886855	https://goo.gl/maps/DP6qiRhriGdMvBK57
 node	6759139217	https://www.caibo.it/
 node	6766497943	https://www.parcheggioriccione.com/
 node	6766497972	https://www.parcheggioriccione.com/
 node	6768424075	https://it-it.facebook.com/Ke-Pizza-447644152036916/
-node	6768515659	http://www.hotelgigliola.net/
+node	6768515659	https://www.hotelgigliola.net/
 node	6775483578	https://www.cadonega.it/il-ristorante/
 node	6776239986	https://www.adriasonline.it
 node	6787917568	http://www.larotondadeigolosi.it/
@@ -3722,7 +3724,7 @@ node	7467935901	https://www.openstreetmap.org/edit?editor=id#map=17/44.15970/12.
 node	7473391185	https://www.panificiosavelli.eu
 node	7473575712	http://www.forchettaecuciglio.it/
 node	7473744767	https://www.estravagario.org/
-node	7476253346	http://www.funghivalentina.it
+node	7476253346	https://funghivalentina.it/
 node	7479080282	https://www.sungardencorreggio.it/
 node	7481704773	https://www.baranigomme.it/
 node	7494087753	https://www.uprubiera.org/
@@ -3853,7 +3855,7 @@ node	7955030141	https://www.iccorreggio2.edu.it/
 node	7958937089	https://www.romagnosi.it/
 node	7959737530	https://sullaviaemilia277.it/
 node	7966470713	https://www.blackoutbolo.it/
-node	7968170787	http://www.capellettilocandaitalia.it
+node	7968170787	https://www.capellettilocandaitalia.it/
 node	7970656885	https://www.pinalli.it/
 node	7982468013	https://www.118er.it/dae/dae.asp
 node	7992769224	https://www.118er.it/dae/dae.asp
@@ -4064,7 +4066,7 @@ node	8198568055	http://www.collezionemotopoggi.com/
 node	8202722678	https://www.abnetwork.it
 node	8202756352	https://www.serenellabb.it
 node	8227578012	https://www.croceverdecm.it/
-node	8235826593	http://www.videocomponenti.it/
+node	8235826593	https://www.videocomponenti.it/
 node	8244632759	https://www.armatura.it/
 node	8244633540	https://www.albiscione.it/
 node	8257671990	https://www.facebook.com/AnnaSenatoreBenessereZen/
@@ -4114,7 +4116,7 @@ node	8440541217	https://www.comune.cesena.fc.it/
 node	8441572618	http://www.istitutodonghinelli.weebly.com
 node	8442582917	https://www.casamoretti.it/
 node	8443447417	https://www.ibazzarricesenatico.it/
-node	8446541017	http://santagostinorimini.it/
+node	8446541017	https://santagostinorimini.it/
 node	8454768289	https://www.centroodontoiatricogrimaldi.it/
 node	8461371043	https://www.tabaccai.it/
 node	8461371045	https://www.facebook.com/ProfumeriadaSofia/
@@ -4145,7 +4147,7 @@ node	8585337279	https://www.comune.boretto.re.it
 node	8595946030	https://www.borgofregnano.com/
 node	8601709949	http://www.loiano.eu
 node	8601814325	http://www.comune.pontenure.pc.it
-node	8618616764	http://www.cairimini.it/
+node	8618616764	https://www.cairimini.it/
 node	8621092089	https://timobefood.it/
 node	8621189819	http://www.scritturapersuasiva.it/
 node	8621218952	http://www.scritturapersuasiva.it/
@@ -4166,7 +4168,7 @@ node	8628728282	https://biblioteche.provincia.re.it/correggio
 node	8628936569	http://www.comune.bastiglia.mo.it
 node	8629059179	https://www.comune.mesola.fe.it/mesola/common/AmvSezione.do?MVPD=0&MVSZ=6
 node	8629082358	https://www.comune.goro.fe.it/c038025/zf/index.php/uffici/index/detail/categoria/80/id/12
-node	8629107383	http://www.classense.ra.it/santalberto/
+node	8629107383	https://www.classense.ra.it/santalberto/
 node	8631527087	http://www.comune.ravarino.mo.it/uffici/area_servizi_alla_persona/servizio_biblioteca/index.htm
 node	8632103645	https://biblioteche.provincia.re.it/fabbrico
 node	8632126710	https://www.comune.concordia.mo.it/
@@ -4462,7 +4464,7 @@ node	9732828135	https://www.fscire.it/heritage/biblioteca-dossetti
 node	9732839833	https://hotelbellaromagna.it/
 node	9735016270	http://www.lalocandanelvento.it/
 node	9736358018	https://www.l3harris.com
-node	9737288148	http://www.circoloscacchisticobolognese.it/
+node	9737288148	https://www.circoloscacchisticobolognese.it/
 node	9737955007	https://www.csapsa.it/
 node	9738012402	https://scn.caiparma.it/schede/castellaro-palanzano-loc-valcieca-monte-palera/
 node	9738173533	https://scn.caiparma.it/schede/mulino-del-piano-langhirano-loc-cascinapiano/
@@ -4610,7 +4612,7 @@ node	9915026018	https://www.efesta.net/
 node	9917486070	https://www.villa-aretusi.it/trattoria-aretusi/
 node	9917510233	https://www.facebook.com/manifatturabirre.it/
 node	9918935140	http://www.mimuovoinbici.it/
-node	9919062975	http://www.bravoparking.net/
+node	9919062975	https://www.bravoparking.net/
 node	9919062976	https://www.travelparking.it/
 node	9919062977	https://www.parkingmycar.it/parcheggio-aeroporto-bologna?gclid=Cj0KCQjwio6XBhCMARIsAC0u9aEkP18pjnvpau6qY4bEuaPsgOPszcvnWCEWf39SS3DjF64QKfrhcMIaAk80EALw_wcB
 node	9919392795	https://www.repower.com/it/la-mobilita-elettrica/
@@ -4629,7 +4631,7 @@ node	9962743518	https://www.ic18bo.it/
 node	9963567061	https://angeletti.org
 node	9965897847	https://www.farmaciacivitella.it/
 node	9967755735	https://www.repower.com/it/dina/
-node	9968542403	http://www.gsl-gym.it/
+node	9968542403	https://www.gsl-gym.it/
 node	9970359911	https://www.livello9.it/prima-guerra-mondiale/piazza-cesare-battisti
 node	9970972606	https://www.repower.com/it/dina/
 node	9970986221	https://www.cisalfasport.it/it-it/search/index/
@@ -4665,7 +4667,7 @@ node	10024057217	https://www.tgw-group.com/it
 node	10025022191	https://www.ristoranteburiani.com/
 node	10028239955	https://www.officinebarbieri.it/
 node	10028384444	https://www.meridiano361.it/
-node	10031937265	http://www.latavernadelbiren.it/
+node	10031937265	https://www.latavernadelbiren.it/
 node	10034120604	https://www.ristorantimarchesini.com/
 node	10034148820	https://www.alicepizza.it/
 node	10039052118	https://giliolinoleggi.it/
@@ -4696,7 +4698,6 @@ node	10067453091	https://www.bancamediolanum.it/
 node	10067453092	https://www.ausl.imola.bo.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2924
 node	10067453101	https://www.studio-palmeri.it/it/contatti/sede-di-imola
 node	10067453102	http://www.tegamino.it/
-node	10069510105	https://services.brt.it/en/branch/imola
 node	10069539338	https://www.parrocchiadizolino.it/vita-parrocchiale/circolo-arca/
 node	10072740567	https://www.revisionimarecchia.it/
 node	10074730798	https://www.edenparkzone.it/
@@ -4983,7 +4984,7 @@ node	10916768188	https://tourdebosc.it/bivacco-san-paolo-in-alpe/
 node	10916792385	https://www.caibo.it/
 node	10918245688	https://betulle61.it/
 node	10924063638	https://www.setasushilab.com/
-node	10927047555	http://www.asia.it/
+node	10927047555	https://www.asia.it/
 node	10931590328	https://www.agriturismocamporosso.com/
 node	10933409541	https://www.poste.it/
 node	10933409543	http://www.marcoraimondi.it/
@@ -5017,7 +5018,7 @@ node	11001999306	https://m.facebook.com/mamaspizzeriaofficial/
 node	11003030688	https://www.repower.com/it/dina/
 node	11004093405	http://www.trattosteriacastellinaria.it/
 node	11007296499	https://www.ristorantepepperoni.pizza/
-node	11008686528	http://www.ic10bo.edu.it/
+node	11008686528	https://www.ic10bo.edu.it/
 node	11010228135	https://www.isit100.fe.it/
 node	11011560480	https://www.sexyshop-bologna.it/sexyshop-bolognina.php
 node	11013066002	https://accademiafilarmonica.it/
@@ -5032,7 +5033,7 @@ node	11028384049	https://royalbarbershop-unisexhairdresser.business.site/
 node	11028537980	https://ragubologna.it/
 node	11032215380	https://casadellemarionette.com/
 node	11036149949	http://afterskull.it/
-node	11039895313	http://www.artecopiabologna.it/
+node	11039895313	https://www.artecopiabologna.it/
 node	11041759114	http://www.flordetangoargentino.it/
 node	11044374279	https://www.renogalliera.it/
 node	11045382667	https://site.unibo.it/ospedale-veterinario/it
@@ -5105,7 +5106,7 @@ node	11169635429	https://www.poliambulatorioexacta.it/
 node	11173631271	https://www.mulinodeglielfi.it/
 node	11174726695	https://www.villalalla.com/
 node	11174928001	https://www.iess.it/
-node	11176134146	http://www.esteticaelite.it/
+node	11176134146	https://www.esteticaelite.it/
 node	11177502038	https://www.ilboscodeicervi.it/
 node	11178664524	https://www.studioassociatoprevidi.it
 node	11178693226	https://www.museogemma.unimore.it
@@ -5200,7 +5201,7 @@ node	11336424368	https://rime-online.it/
 node	11337708656	ferretticarrozzeria
 node	11341331181	https://www.qubicaamf.com/
 node	11343819095	https://granbarbellaria.it/
-node	11343819101	http://www.teatroastrabim.it/
+node	11343819101	https://www.teatroastrabim.it/
 node	11343819108	https://buffetti.it/negozi-buffetti/3543/
 node	11343819111	https://angy-cafe.metro.bar/
 node	11343819116	https://manasushi.it/
@@ -5243,7 +5244,7 @@ node	11403654215	https://www.fcr.re.it/Farmacia.jsp?idFarmacia=7
 node	11406377561	https://www.mawimoto.it/
 node	11406410070	https://www.bancadibologna.it/filiali/filiale-san-lazzaro-di-savena/
 node	11406410074	https://www.ortopedia-azzarita.com/
-node	11406413064	http://www.sisonweb.com/
+node	11406413064	https://www.sisonweb.com/
 node	11406426877	https://www.romagnacarri.it/
 node	11409153467	https://www.giardinolugo.it/
 node	11411851377	https://www.laquietedironcofreddo.it/
@@ -5388,6 +5389,7 @@ node	11632056724	https://www.intechinstallazioni.it/
 node	11632056756	https://www.fishfun.it/
 node	11632181890	https://pizzeria-millevoglie.business.site/
 node	11634083177	https://www.caibo.it/
+node	11634115736	http://bec.energy/en/
 node	11638305472	https://www.nvdowntown.com/
 node	11650587079	https://www.caibo.it/
 node	11652590075	https://sites.google.com/view/trattoria-emilia/home-page
@@ -5593,11 +5595,24 @@ node	12050166873	https://www.caibo.it/
 node	12050177471	https://www.caibo.it/
 node	12050177473	https://www.caibo.it/
 node	12050199183	https://www.caibo.it/
-node	12050911838	http://www.cromiasrl.it/
-node	12050926757	http://www.imedcmi.it/
+node	12050911838	https://www.cromiasrl.it/
+node	12050926757	https://www.imedcmi.it/
 node	12051068169	https://www.famila.it/punti-vendita/Emilia%20Romagna/famila-ravenna---argirocastro
 node	12051085369	https://czstore.it/
-node	12054594769	http://www.ravennarugby.it
+node	12054594769	https://www.ravennarugby.it/
+node	12059609464	https://www.montefuso.it/
+node	12060174369	https://www.gymnasium.ra.it/
+node	12060632727	http://hotelprincipesalsomaggiore.it/
+node	12062083129	https://www.imola.legacoop.it/
+node	12062083135	https://www.dtrucksrl.com/
+node	12062084869	https://services.brt.it/en/branch/imola
+node	12062084870	https://kaama.it/
+node	12062084871	https://www.picaitalia.it/
+node	12063247969	https://www.docclinic.it
+node	12063258569	https://www.mobility.enelx.com
+node	12063551332	https://www.oasiflowersolution.it/
+node	12063575593	http://www.poste.it/
+node	12063590918	http://studiodentisticokondo.it/
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	https://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -6271,7 +6286,7 @@ way	184750835	https://www.centrolafilanda.it/
 way	184889670	https://www.materassiebimbo.it/
 way	184895191	https://puntoristorogamberorosso.it
 way	184929775	https://www.parinigiuseppe.com/
-way	184930263	http://www.lafragoladebosch.com/
+way	184930263	https://www.lafragoladebosch.com/
 way	184946410	https://www.hotelornella.it/
 way	184946411	https://www.hotelornella.it/
 way	184946412	https://www.hoteltilly.it/
@@ -6292,7 +6307,7 @@ way	184953221	https://www.residenceveliero.it/
 way	184953458	http://www.residencealtamarea.com/
 way	184954085	http://www.osteriamarebianco.it
 way	184954193	https://www.royalhotel.it/
-way	184954377	http://www.hotelhidalgo.it/
+way	184954377	https://www.hotelhidalgo.it/
 way	184954547	https://www.capitolhotel.it/
 way	184954692	https://www.hotelgioiosa.it/
 way	185149652	https://www.decathlon.it/
@@ -6331,7 +6346,7 @@ way	185728099	https://www.fondoambiente.it/luoghi/ex-monastero-di-scardavilla?ld
 way	185826205	http://www.comune.forli.fc.it/servizi/menu/dinamica.aspx?idArea=19148&idCat=19038&ID=19038&TipoElemento=categoria
 way	185892994	https://www.conde.it/it/la-cittadella.html
 way	185921919	http://www.fumaioloparadisehotel.it/
-way	185969458	http://www.fattoriefaggioli.it
+way	185969458	https://www.fattoriefaggioli.it/
 way	185977293	www.plautusfestival.it
 way	185981601	https://www.starhotels.com/en/our-hotels/du-parc-parma/
 way	186096227	https://www.chaletburraia.it/
@@ -6356,6 +6371,7 @@ way	186644072	https://www.gmm.srl/
 way	186855167	https://www.magmoda.net/
 way	186856753	https://www.comune.codigoro.fe.it/chiavica-dell-agrifoglio
 way	186912615	https://www.hotelalbergoazzurra.it/
+way	186912746	https://www.guardiacostiera.gov.it/organizzazione/Pages/ufficio-circondariale-marittimo-di-porto-garibaldi.aspx
 way	187105876	https://www.libera-mente.org/
 way	187154218	https://www.mcdonalds.it/
 way	187154462	https://www.streethotelcomacchio.com/
@@ -6419,7 +6435,7 @@ way	223524321	https://www.osservatoriocopernico.org/
 way	223525439	http://www.swin-golf.it/
 way	223529541	https://www.montegridolfo.eu/
 way	223552743	https://www.mateureka.it/
-way	223553152	http://www.gualtierimuseum.it
+way	223553152	https://www.gualtierimuseum.it/
 way	223650631	https://www.hotelsanclemente.com/
 way	223650949	https://www.castellodimontebello.com/
 way	223651107	https://focchi.it/
@@ -6525,7 +6541,7 @@ way	223828182	https://www.unibo.it/it/campus-rimini/
 way	223828306	https://www.diocesi.rimini.it/wd-annuario-enti/s-fortunato-223/
 way	223828409	https://www.einsteinrimini.edu.it/
 way	223828657	http://labigiola.it/
-way	223829416	http://www.sunflowerhostel.com
+way	223829416	https://www.sunflowerhostel.com/
 way	223829543	https://www.residencehotelfellini.it/
 way	223831700	https://www.delconca.com/it/
 way	223831730	https://www.startromagna.it/
@@ -6559,7 +6575,7 @@ way	230162335	https://www.hotelsemprini.it/
 way	230273543	https://www.campingtahiti.com
 way	231860795	https://www.grandhotelmattei.com/
 way	233006227	https://www.belvederericcione.com
-way	233019453	http://www.gruppohera.it/clienti/casa/casa_lista_servizi/casa_servizio_ambiente/casa_racc_diff/casa_stazioni_ecologiche/pagina381-3259.html
+way	233019453	https://www.gruppohera.it/clienti/casa/casa_lista_servizi/casa_servizio_ambiente/casa_racc_diff/casa_stazioni_ecologiche/pagina381-3259.html
 way	233343183	https://www.visitmodena.it/luoghi_ascoltare/tutti_luoghi/oasi_colombarone_percorsi_naturalistici.aspx
 way	236434565	https://www.acquaparco.it/
 way	239933459	https://www.camping-international.it
@@ -6592,7 +6608,7 @@ way	260889233	http://www.campingrelax.it/
 way	261185556	https://ilgiardinodelleerbe.it/
 way	261204714	https://www.bagnoadriatico.it/
 way	261352316	http://www.hippogroupcesenate.it/site/ippocampus_ippocampus_index.asp
-way	261381302	http://www.aviozzano-guglielmozamboni.com/index.php
+way	261381302	https://www.aviozzano-guglielmozamboni.com/index.php
 way	261726861	https://www.eurospin.it/
 way	262051642	https://ambiente.regione.emilia-romagna.it/parchi-natura2000/rete-natura-2000/siti/it4050029
 way	262543035	https://ambiente.regione.emilia-romagna.it/parchi-natura2000/rete-natura-2000/siti/it4040006
@@ -6758,7 +6774,7 @@ way	391001802	http://davide2.bo.astro.it/loiano/60cm-telescope/
 way	392281246	https://www.comune.formigine.mo.it/aree-tematiche/cultura-sport-e-tempo-libero/auditorium-spira-mirabilis#null
 way	394410821	https://www.conad.it/ricerca-negozi/negozio.008893.html
 way	398707759	https://www.lamborghini.com/
-way	403445139	http://www.gruppohera.it/clienti/casa/casa_servizio_ambiente/casa_racc_diff/casa_stazioni_ecologiche/3251.html
+way	403445139	https://www.gruppohera.it/clienti/casa/casa_servizio_ambiente/casa_racc_diff/casa_stazioni_ecologiche/3251.html
 way	403608604	https://www.pianedimocogno.it/
 way	403841606	http://www.ecosistema.it/sangherardo/
 way	406906241	https://www.appenninoreggiano.it/schede.asp?lang=it&d=salsa-di-casola-querciola
@@ -6839,7 +6855,7 @@ way	503165192	http://www.bartolotti.it/un-insolita-dimora/
 way	507945369	https://www.conad.it/ricerca-negozi/negozio.009424.html
 way	510853774	https://www.oltremarine.it/
 way	511717163	https://www.fcr.re.it/Farmacia.jsp?idFarmacia=13
-way	512842920	http://ha.gruppohera.it/impianti/discariche/discarica_rifiuti_speciali_ravenna
+way	512842920	https://ha.gruppohera.it/impianti/discariche/discarica_rifiuti_speciali_ravenna
 way	513934092	https://www.eni.com/it-IT/media/comunicati-stampa/2024/02/plenitude-completa-la-realizzazione-dell-impianto-fotovoltaico-di-ravenna-ponticelle.html
 way	516434537	http://www.cadelvento.org/
 way	516959399	https://www.cirfood.com/it/locali/locale?locale=99
@@ -7012,7 +7028,7 @@ way	706659788	https://www.mussini.it/
 way	709882251	https://www.emak.it/
 way	711730217	https://www.azimut-spa.it/ita/Servizi/Servizi-igienici
 way	717542131	https://aseop.it/la-casa-di-fausta/
-way	717897540	http://www.gruppohera.it/clienti/casa/casa_servizio_ambiente/casa_racc_diff/casa_stazioni_ecologiche/3263.html
+way	717897540	https://www.gruppohera.it/clienti/casa/casa_servizio_ambiente/casa_racc_diff/casa_stazioni_ecologiche/3263.html
 way	718472104	https://www.fattoria.net/
 way	718472113	https://www.panoramichotel.it
 way	718506206	https://www.hotelcarltonriccione.it/
@@ -7059,7 +7075,7 @@ way	845432733	http://www.bibliotechebologna.it/luoghi/62013/id/51653
 way	845432742	http://www.castellodicanossa.com
 way	846689280	http://www.nazarenobasket.it/
 way	847226069	https://conad.it/
-way	848918940	http://www.vivaicalicchio.it/
+way	848918940	https://www.vivaicalicchio.it/
 way	848918943	https://www.colabeton.it/
 way	849281769	https://www.gyproc.it/
 way	850781006	https://www.residenzaillago.it/
@@ -7087,7 +7103,7 @@ way	885651433	https://www.icxxsettembrerimini.edu.it/la-scuola/strutture/scuola-
 way	893780751	https://www.vivicalafoma.it/
 way	907758957	https://il-chiosco.webnode.it/
 way	908807297	https://fiskebarlinea22.it/
-way	917436233	http://www.coopidapoli.it/CraDamiani.html
+way	917436233	https://www.coopidapoli.it/CraDamiani.html
 way	917591269	https://www.pancaldimo.it/
 way	917595102	https://www.lagspa.it
 way	924525826	https://www.controlmercatali.it/
@@ -7286,7 +7302,7 @@ way	1185564975	https://www.sabait.it/it/parcheggio-ospedale-sant-orsola-malpighi
 way	1186885497	http://www.classearcheologiaecultura.it/
 way	1187325632	https://www.ausl.bologna.it/cit/urc/le-carte-dei-servizi-delle-unita-operative/laboratorio-unico-metropolitano-lum
 way	1187608970	https://aldrovandirubbiani.edu.it
-way	1187799166	http://www.diocesiravennacervia.it/wd-annuario-enti/monastero-delle-monache-clarisse-cappuccine-10527/
+way	1187799166	https://www.diocesiravennacervia.it/wd-annuario-enti/monastero-delle-monache-clarisse-cappuccine-10527/
 way	1188671864	https://dibinem.unibo.it/
 way	1189499835	https://cusb.unibo.it/it/servizi-e-impianti/centro-universitario-sportivo-preziosi
 way	1190058094	https://www.gruppoaltair.it/rimini.php
@@ -7294,7 +7310,7 @@ way	1190782844	https://regione.emilia-romagna.it/
 way	1190851371	https://cicloapp.bomob.it/
 way	1190906414	http://www.centrocommercialegallia.com
 way	1191778147	https://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/RNEE806064/montessori-ic-marvelli/
-way	1192187073	http://www.ic10bo.edu.it/index.php/scuola/informazioni-generali/le-scuole-dell-infanzia/135-scuola-infanzia-Gioannetti
+way	1192187073	https://www.ic10bo.edu.it/index.php/scuola/informazioni-generali/le-scuole-dell-infanzia/135-scuola-infanzia-Gioannetti
 way	1192369139	https://www.liceominghetti.edu.it/
 way	1192369140	http://www.crescenzipacinotti.it
 way	1193042449	https://tecnopolo-bo-ozzano.it/
@@ -7329,7 +7345,7 @@ way	1206427046	https://www.isolcasa.it/
 way	1206849207	https://www.istitutocomprensivofermirimini.edu.it/index.php/istitutomain
 way	1208480218	www.senzaforchette.it
 way	1208758893	https://labucarimini.it/
-way	1208899177	http://www.coconuts.it/
+way	1208899177	https://www.coconuts.it/
 way	1211104996	https://www.seminariofaenza.it/
 way	1212132464	https://www.torrefazioneparadiso.it/
 way	1212139730	https://www.sigemsrl.com/
@@ -7351,7 +7367,7 @@ way	1226716982	https://ambiente.regione.emilia-romagna.it/it/parchi-natura2000/a
 way	1226782903	https://www.comune.rimini.it/vivere-il-comune/luoghi/parco/ex-cava-incalsystem-sito-natura-2000
 way	1226791931	http://www.sandonatosnc.it/
 way	1226791934	https://www.ivangarelli.com/
-way	1226806434	http://www.italfruttasrl.com/
+way	1226806434	https://www.italfruttasrl.com/
 way	1226808494	https://www.comune.casolavalsenio.ra.it/il-Comune-INFORMA/Ospitalita/Punti-sosta-camper
 way	1226982297	https://cicloapp.bomob.it/
 way	1229986431	https://www.izsler.it/
@@ -7406,6 +7422,8 @@ way	1294954078	https://www.topgunflyschool.it/
 way	1295693180	https://www.storiaememoriadibologna.it/archivio/eventi/eccidio-di-ronchidos
 way	1300285069	https://www.cadf.it/
 way	1300711200	https://www.silla.it/filiale-di-san-giuseppe
+way	1301947245	kokobay.it
+way	1302517699	https://www.gruppocasio.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42855	http://www.comunecamugnano.gov.it/
 relation	42901	https://www.comune.casteldicasio.bo.it/
@@ -7436,7 +7454,7 @@ relation	43549	http://www.comune.galliera.bo.it/
 relation	126402	https://www.caiparma.it/
 relation	136257	https://www.caiparma.it/
 relation	167343	https://www.caiparma.it/
-relation	222322	http://www.viadeglidei.it
+relation	222322	https://www.viadeglidei.it/
 relation	334891	https://www.viefrancigene.org
 relation	357941	http://www.caiporretta.it
 relation	357946	http://www.caiporretta.it
@@ -7498,8 +7516,8 @@ relation	1539658	https://www.ferraraterraeacqua.it/it/portomaggiore/scopri-il-te
 relation	1546796	https://www.romagnafaentina.it/Scopri-il-territorio/Itinerari/Percorsi-a-piedi-trekking/Corolla-delle-ginestre
 relation	1557019	https://www.ferraraterraeacqua.it/it/ferrara/scopri-il-territorio/ambiente-e-natura/parchi-urbani-orti-botanici/parco-urbano-g.-bassani
 relation	1602829	https://www.caicesena.com/
-relation	1602840	http://www.caicesena.com/
-relation	1602842	http://www.caicesena.com/
+relation	1602840	https://www.caicesena.com/
+relation	1602842	https://www.caicesena.com/
 relation	1604901	https://www.cai-imola.it/
 relation	1604935	http://www.forumguidomonzani.it/
 relation	1640895	http://www.palazzodeimuseimodena.it
@@ -7543,15 +7561,15 @@ relation	2317495	http://www.caiporretta.it/
 relation	2364471	http://www.caiporretta.it
 relation	2398117	http://icparmigianino.org/le-scuole/scuola-primaria-pietro-cocconi/
 relation	2399613	https://www.polomusealeemiliaromagna.beniculturali.it/musei/castello-di-torrechiara
-relation	2400431	http://www.caicesena.com/
-relation	2400432	http://www.caicesena.com/
-relation	2400433	http://www.caicesena.com/
-relation	2400479	http://www.caicesena.com/
-relation	2400480	http://www.caicesena.com/
-relation	2400481	http://www.caicesena.com/
-relation	2400483	http://www.caicesena.com/
+relation	2400431	https://www.caicesena.com/
+relation	2400432	https://www.caicesena.com/
+relation	2400433	https://www.caicesena.com/
+relation	2400479	https://www.caicesena.com/
+relation	2400480	https://www.caicesena.com/
+relation	2400481	https://www.caicesena.com/
+relation	2400483	https://www.caicesena.com/
 relation	2400484	https://www.caicesena.com/
-relation	2400485	http://www.caicesena.com/
+relation	2400485	https://www.caicesena.com/
 relation	2428645	https://www.grandhotelsalsomaggiore.com/it/home
 relation	2428656	https://www.termedisalsomaggiore.it/
 relation	2443236	http://www.villaverdi.org/
@@ -7777,7 +7795,7 @@ relation	3853653	http://www.caiporretta.it
 relation	3853654	http://www.caiporretta.it
 relation	3919333	https://www.cailaspezia.it/
 relation	3921439	https://www.cailaspezia.it/
-relation	3958144	http://www.caicesena.com/
+relation	3958144	https://www.caicesena.com/
 relation	3989896	https://www.caibo.it/
 relation	3997119	https://www.cai.mo.it/
 relation	3997179	https://www.cai.mo.it/
@@ -7818,14 +7836,14 @@ relation	4036923	https://www.caiforli.it/
 relation	4040649	https://www.caiforli.it/
 relation	4040650	https://www.caiforli.it/
 relation	4040775	https://www.cairavenna.it/
-relation	4041279	http://www.caicesena.com/
-relation	4041281	http://www.caicesena.com/
-relation	4041282	http://www.caicesena.com/
+relation	4041279	https://www.caicesena.com/
+relation	4041281	https://www.caicesena.com/
+relation	4041282	https://www.caicesena.com/
 relation	4041460	https://www.cairavenna.it/
 relation	4041461	https://www.cairavenna.it/
 relation	4225041	http://www.eurovelo8.com/countries/italy
 relation	4259555	http://www.caifaenza.it/
-relation	4760275	http://www.caicesena.com/
+relation	4760275	https://www.caicesena.com/
 relation	4760893	https://www.caibismantova.it/joomla/sentieristica/i-sentieri-gestiti-dalla-sezione.html
 relation	4760894	https://www.caibismantova.it/joomla/sentieristica/i-sentieri-gestiti-dalla-sezione.html
 relation	4845015	https://www.caicesena.com/
@@ -7988,11 +8006,11 @@ relation	7752916	https://www.caibo.it/
 relation	7756816	https://www.caicesena.com/
 relation	7756834	https://www.caicesena.com/
 relation	7756835	https://www.caicesena.com/
-relation	7756836	http://www.caicesena.com/
-relation	7756837	http://www.caicesena.com/
+relation	7756836	https://www.caicesena.com/
+relation	7756837	https://www.caicesena.com/
 relation	7756870	https://www.caicesena.com/
 relation	7756871	https://www.caicesena.com/
-relation	7756872	http://www.caicesena.com/
+relation	7756872	https://www.caicesena.com/
 relation	7756911	https://www.caibo.it/
 relation	7756912	https://www.caibo.it/
 relation	7756955	https://www.caibo.it/
@@ -8023,7 +8041,7 @@ relation	7766954	https://www.caibo.it/
 relation	7766959	http://www.caiporretta.it/
 relation	7768148	https://www.caibo.it/
 relation	7768149	https://www.caibo.it/
-relation	7768328	http://www.caicesena.com/
+relation	7768328	https://www.caicesena.com/
 relation	7768518	https://www.caiprato.it/
 relation	7768570	https://www.caibo.it/
 relation	7768579	https://www.caibo.it/
@@ -8142,7 +8160,7 @@ relation	9150823	https://www.caibo.it/
 relation	9211558	https://www.flixbus.de/busverbindung/fernbus-florenz-firenze-nuernberg
 relation	9227284	https://www.caiargenta.it
 relation	9236270	https://www.caipiacenza.it/
-relation	9351755	http://www.caicesena.com/
+relation	9351755	https://www.caicesena.com/
 relation	9426466	https://www.fudeks.rs/portfolio/Italy?timetable-id=italy&lang=en
 relation	9434201	https://www.cailugo.it/
 relation	9434312	http://www.caifaenza.it/
@@ -8170,7 +8188,7 @@ relation	9635120	https://www.adriabike.eu/
 relation	9719159	https://www.viaemisericordiae.org/
 relation	9719160	https://www.viaemisericordiae.org/
 relation	9719161	https://www.viaemisericordiae.org/
-relation	9741060	http://www.caicesena.com/
+relation	9741060	https://www.caicesena.com/
 relation	9741075	https://www.caicesena.com/
 relation	9770387	https://www.viaemisericordiae.org/
 relation	9770424	https://www.viaemisericordiae.org/
@@ -8326,6 +8344,7 @@ relation	10136129	https://www.caiparma.it/
 relation	10136130	https://www.caiparma.it/
 relation	10136131	https://www.caiparma.it/
 relation	10175675	https://www.caibo.it/
+relation	10191196	https://www.caibismantova.it/cai/sentieristica.html
 relation	10191197	https://www.caibismantova.it/cai/sentieristica.html
 relation	10233252	https://www.cai.mo.it/
 relation	10246120	https://www.rivalta-trebbia.it/percorso-picchio/
@@ -8420,18 +8439,18 @@ relation	10653918	https://www.caibo.it/
 relation	10653929	https://www.caibo.it/
 relation	10653985	https://www.caibo.it/
 relation	10654013	https://www.caibo.it/
-relation	10670322	http://www.caicesena.com/
+relation	10670322	https://www.caicesena.com/
 relation	10670323	https://www.caicesena.com/
-relation	10685937	http://www.caicesena.com/
-relation	10685946	http://www.caicesena.com/
+relation	10685937	https://www.caicesena.com/
+relation	10685946	https://www.caicesena.com/
 relation	10685955	https://www.caicesena.com/
 relation	10685958	https://www.caicesena.com/
-relation	10685975	http://www.caicesena.com/
-relation	10685976	http://www.caicesena.com/
-relation	10685996	http://www.caicesena.com/
-relation	10686020	http://www.caicesena.com/
-relation	10686021	http://www.caicesena.com/
-relation	10686029	http://www.caicesena.com/
+relation	10685975	https://www.caicesena.com/
+relation	10685976	https://www.caicesena.com/
+relation	10685996	https://www.caicesena.com/
+relation	10686020	https://www.caicesena.com/
+relation	10686021	https://www.caicesena.com/
+relation	10686029	https://www.caicesena.com/
 relation	10686058	https://www.caicesena.com/
 relation	10686059	https://www.caicesena.com/
 relation	10686082	Rete escursionistica Emilia-Romagna (REER)
@@ -8554,11 +8573,11 @@ relation	11511062	https://www.caiparma.it/
 relation	11588259	https://www.comune.faenza.ra.it/Guida-ai-servizi/Settore-Territorio/La-Promozione-dell-Arte-Contemporanea/Museo-all-aperto-di-opere-d-arte-contemporanea
 relation	11600050	https://www.caiparma.it/
 relation	11613081	http://www.laromagnadellospungone.it
-relation	11636269	http://www.cairimini.it/
-relation	11636743	http://www.cairimini.it/
+relation	11636269	https://www.cairimini.it/
+relation	11636743	https://www.cairimini.it/
 relation	11639080	https://www.caiparma.it/
 relation	11645013	https://ebikexperience.it/wp-content/uploads/2019/02/Mappa-Sentieri-ebikexperience-Repubblica-di-San-Marino.pdf
-relation	11656552	http://www.cairimini.it/
+relation	11656552	https://www.cairimini.it/
 relation	11804435	https://www.cai.mo.it/
 relation	11816150	https://www.caiparma.it/
 relation	11823143	https://www.cai.mo.it/
@@ -8845,11 +8864,16 @@ relation	17558837	https://www.tper.it/content/linea-150-imola-autostazione-san-p
 relation	17580972	http://www.caifaenza.it
 relation	17583513	https://www.sentieripartigiani.it
 relation	17701323	http:/www.caiporretta.it
-relation	17801350	http://www.caicesena.com/
-relation	17801351	http://www.caicesena.com/
+relation	17801350	https://www.caicesena.com/
+relation	17801351	https://www.caicesena.com/
 relation	17821312	https://ilcamminodisantagiulia.it/
 relation	17827006	https://www.caiparma.it/
 relation	17833287	https://ilcamminodisantagiulia.it/
+relation	17849622	https://www.caiparma.it/
+relation	17849886	https://www.caiparma.it/
+relation	17849895	https://www.caiparma.it/
+relation	17858820	https://www.sentieripartigiani.it
+relation	17859130	https://www.sentieripartigiani.it
 node	441918990	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/427-fidenza.html
 node	797204601	http://www.poliambulatoriolasalute.it/
 node	860582713	http://www.campeggiovivaio.it/
@@ -8869,6 +8893,7 @@ node	1881800658	http://www.emilbanca.it/
 node	1909741676	http://www.viaggipinarella.com/
 node	2088694815	www.ilritrovo.net
 node	2271776831	https://www.bolognawelcome.com/
+node	2323167511	https://www.lasaponaria.it/biostorie-cesena
 node	2323498771	http://www.locandaparadiso.it/
 node	2417847949	http://ristorantegentedimare.com/public/it/
 node	2497530748	http://www.kingbazar.net/
@@ -8983,6 +9008,7 @@ node	11799898472	https://www.fondazioneilcorreggio.it/
 node	11956054599	https://www.emc2onlus.it/
 node	11990937234	https://www.spaccaferro.com
 node	12005933246	http://www.fusorari.it
+node	12062055613	https://www.lasaponaria.it/biostorie-bologna
 way	29118673	https://www.vigilfuoco.it/sitiVVF/rimini/
 way	64980907	http://www.bibliotecanzola.it/
 way	64980910	http://www.comune.anzoladellemilia.bo.it
