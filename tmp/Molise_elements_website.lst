@@ -4,9 +4,9 @@ node	656476914	https://www.conad.it/ricerca-negozi/negozio.005911.html
 node	687322602	https://ristorantefedericoii.it/
 node	767097492	http://www.ribomolise.it/
 node	1154211715	https://www.residenzasveva.com/
-node	1240704060	http://www.alpescatore.org
+node	1240704060	https://www.alpescatore.org/
 node	1240704067	http://www.locanda-sangiorgio.it/
-node	1240704073	http://alpescatore.org/
+node	1240704073	https://alpescatore.org/
 node	1937030474	https://www.musei.molise.beniculturali.it/musei?mid=213&nome=museo-archeologico-di-venafro
 node	2071997301	https://it.benetton.com/
 node	2304263064	https://www.enel.it/punto-enel/
@@ -44,6 +44,7 @@ node	3721631445	http://lavanderialapentrica.blogspot.com
 node	4084683644	https://www.autoricambicolantuono.it/
 node	4084694733	http://www.emmegross.it/punti_vendita.php?fm_browse_regione=molise
 node	4198722603	https://www.supermercatideco.it/
+node	4202886201	https://www.facebook.com/riovivocamperpark
 node	4207302196	https://www.supermercatideco.it/
 node	4269484762	http://ristorantelaperladelmolise.net
 node	4624183814	https://www.lucepiumolise.com/
@@ -97,11 +98,11 @@ node	10315707973	http://www.carrodeigiovani.org/
 node	10539764026	http://www.cantindelisio.com
 node	10587204922	https://www.demarifishfood.com/
 node	10642691510	https://salsedine-cucina-di-mare.business.site/
-node	10977334304	http://www.comune.sanmassimo.cb.it/
+node	10977334304	https://www.comune.sanmassimo.cb.it/
 node	10992693056	https://bebmarilu.jimdo.com
 node	11005926629	https://comune.casalciprano.cb.it/
 node	11006001015	https://www.comune.molise.cb.it/hh/index.php
-node	11012573949	http://cpiaisernia.edu.it
+node	11012573949	https://www.cpiaisernia.edu.it/
 node	11099140076	https://www.airbnb.it/rooms/691863292754829367
 node	11152381574	https://www.ristorantepizzeriasoda.it
 node	11152663883	https://disv.it/letterario
@@ -146,7 +147,6 @@ way	200494011	https://www.cantineduva.it/
 way	223446567	http://www.campitelloextremeteam.com/web/index/
 way	229291702	https://santuarioaddolorata.it/
 way	243652408	https://www.musei.molise.beniculturali.it/musei?mid=6691&nome=santuario-italico
-way	261211563	http://www.medioevo.org/artemedievale/Pages/Molise/Matrice.html
 way	261652477	http://www2.unimol.it
 way	261652490	https://www.cimiweb.it/cat/b519/v/ana.html
 way	265500391	https://www.musei.molise.beniculturali.it/musei?mid=5212&nome=museo-palazzo-pistilli
@@ -214,10 +214,12 @@ way	421866339	https://www.comune.longano.is.it/pag_la_storia.html
 way	436694441	https://www.myc.it/marinadisanpietro/
 way	437301968	http://www.molisecereali.it/
 way	440523577	www.comune.cerroalvolturno.is.it
+way	444881069	https://www.campingmolise.it/
+way	444881070	https://www.sabbiadorocb.it/
 way	444881071	https://www.facebook.com/marondacamping/?locale=it_IT
 way	445801058	https://www.leterredelsacramento.com/
 way	463239112	https://www.lucepiumolise.com/
-way	463926215	www.costaverde.it/
+way	463926215	https://www.costaverde.it/
 way	472065126	http://www.lapinetacamping.it/home.html
 way	472065127	https://www.campingvillagecorrado.com/
 way	490050688	https://www.riservamabaltomolise.it/
@@ -264,10 +266,10 @@ way	801546767	https://www.sepino.net/turismo/c38-pacchetti-turistici-itinerari-a
 way	836728821	https://www.eurospin.it/punti-vendita/bojano-541391/
 way	868383181	https://www.aziendaterramadre.it/
 way	868703901	http://giagnacovo.it/
-way	877923546	agriturismoalberione.it
+way	877923546	https://www.agriturismoalberione.it/
 way	899099861	https://www.facebook.com/VillaCenter.Campobasso/
 way	915149518	http://www3.provincia.campobasso.it/home
-way	953053593	http://www.lerotaie.com/
+way	953053593	https://www.lerotaie.com/
 way	953053607	https://www.isismajoranafascitelli.edu.it/web/
 way	961329317	https://www.grandhotel-europa.it/
 way	969911043	https://www.omnicomprensivoguglionesi.edu.it/
@@ -285,7 +287,7 @@ way	1194476022	https://www.ledunetermoli.it/
 way	1194870232	https://www.alohabeachtermoli.com/
 way	1223078349	https://www.salvatoremincioneguarino.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
-relation	1085623	http://www.altovastese.it/ambient/il-sito-di-interesse-comunitario-sic-monte-mauro-selva-di-montefalcone-nel-sannio-cb/
+relation	1085623	https://www.altovastese.it/ambient/il-sito-di-interesse-comunitario-sic-monte-mauro-selva-di-montefalcone-nel-sannio-cb/
 relation	4034536	http://www.ilgiardinoparlante.com/mappa-interattiva/
 relation	4037638	https://www.musei.molise.beniculturali.it/musei?mid=214&nome=museo-nazionale-di-castello-pandone
 relation	4462553	http://musei.beniculturali.it/musei?mid=6027&nome=museo-archeologico-santa-maria-delle-monache
@@ -321,6 +323,7 @@ relation	17674481	https://www.trekkingitalia.org/
 relation	17675194	https://www.trekkingitalia.org/
 relation	17675320	https://www.trekkingitalia.org/
 relation	17678319	https://www.trekkingitalia.org/
+way	261211563	https://www.santamariadellastradacb.it/
 way	261652608	https://www.m2movement.it/
 way	1056651661	https://www.rivazzurrahomes.it
 way	1076684927	https://www.calasveva.it/
