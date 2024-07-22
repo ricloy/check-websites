@@ -303,7 +303,7 @@ node	1467593800	http://www.ristorantesakura.net/
 node	1467593806	https://www.temptationsexyshop.com/
 node	1467593820	http://www.duemondiristorante.com
 node	1468282915	http://www.astioraribus.it
-node	1469912825	http://www.ilveromulino.it/
+node	1469912825	https://www.ilveromulino.it/
 node	1470051678	http://www.crustasti.com
 node	1470086391	http://www.bicincitta.com/citta_v3.asp?id=41
 node	1470086409	http://www.astioraribus.it
@@ -705,7 +705,6 @@ node	2291986201	http://www.tobike.it/
 node	2291986203	http://www.tobike.it/
 node	2291986205	http://www.tobike.it/
 node	2291986206	http://www.tobike.it/
-node	2291986207	http://www.tobike.it/
 node	2291986208	http://www.tobike.it/
 node	2291986210	http://www.tobike.it/
 node	2291986211	http://www.tobike.it/
@@ -962,7 +961,6 @@ node	2553582900	http://www.clinicapastrone.com/
 node	2554152351	http://www.horsedreamclub.it
 node	2555538647	http://www.tobike.it/
 node	2555538648	http://www.tobike.it/
-node	2555578298	http://www.tobike.it/
 node	2555637567	http://www.tobike.it/
 node	2555686255	http://www.tobike.it/
 node	2555686256	http://www.tobike.it/
@@ -1140,7 +1138,6 @@ node	2921726099	https://www.comune.parella.to.it/
 node	2921726100	www.comune.quagliuzzo.to.it/
 node	2921731815	www.larosadeiventicanavese.it/
 node	2923497318	http://www.bersaglieritorino.it
-node	2923497319	http://www.paratorino.it/
 node	2923681030	http://www.farmaciadivespolate.it/
 node	2923900816	https://fabriziogalla.it
 node	2924404134	https://www.osteriadellamarchesa.it/
@@ -3665,7 +3662,7 @@ node	6468371390	https://www.itinerarionapoleonico.com/?page_id=82
 node	6468553088	http://www.diocesifossano.org/istituzioni/museo-diocesano/
 node	6468562560	https://www.mudialba.it/
 node	6468581048	https://museoceramicamondovi.it/
-node	6469869581	http://www.museodelcostumechianale.it/default.asp
+node	6469869581	https://www.museodelcostumechianale.it/default.asp
 node	6469904962	http://www.museomalle.org
 node	6469927915	http://www.casacavassa.it
 node	6469959648	https://www.comune.savigliano.cn.it/servizi/menu/dinamica.aspx?idArea=16540&idCat=16662&ID=16662
@@ -3764,7 +3761,7 @@ node	6605245644	http://www.ristoranteladiligenza.it/
 node	6605245645	https://www.latavernadegliorsi.com/
 node	6605245646	https://www.macmiche.com/
 node	6605271463	http://www.ristorantemaito.com
-node	6605819345	https://www.barcollolimone.it/
+node	6605819345	https://www.vinicola23.it/limone/
 node	6605819346	http://www.locandadelcolle.it
 node	6605863495	https://pizzeria-ristorante-chiquito.business.site/
 node	6610224907	https://www.chalet1400.it/
@@ -6129,6 +6126,7 @@ node	11951477403	https://www.ordinefarmacistivcbi.it/museo-della-farmacia/
 node	11953366303	https://www.rodaforge.com/
 node	11954509153	https://www.mirepua.it/
 node	11954720177	https://www.bestorino.com
+node	11955092460	https://lacasettadivy.it/
 node	11955642309	https://www.nonsolotabacchi.com/
 node	11959049853	https://tradizionececchi.it/gelateria/
 node	11966210367	https://valliadi.it/esplora-in-e-bike/
@@ -6171,21 +6169,26 @@ node	12041884337	https://www.bitmaniax.com/
 node	12042023938	https://orchidea-rosa-di-lastun-laura.eatbu.com/
 node	12042083071	http://salumificioastigiano.com/
 node	12042083072	https://www.cerratocarta.it/
-node	12042405042	http://www.sposostiloso.it/
+node	12042405042	https://www.sposostiloso.it/
 node	12043155593	http://www.saniterm.eu/
 node	12043155594	https://www.trallimarmiceramiche.com/
-node	12043202304	http://www.madamalapiemonteisa.it/
+node	12043202304	https://www.madamalapiemonteisa.it/
 node	12043948207	https://cattaneocolori.it
 node	12044691485	https://www.chefmehdi.com/
 node	12045408871	https://bikesquare.eu/langhe
 node	12046717083	https://esteticaananya.it/
-node	12047529704	http://www.varesioimmobiliare.it/
+node	12047529704	https://www.varesioimmobiliare.it/
 node	12047568170	https://www.comprorogold2000.it/
 node	12047815810	https://www.touchuntoccodibenessere.it/
-node	12047815812	http://www.synergie-italia.it/
+node	12047815812	https://www.synergie-italia.it/
 node	12049602472	https://www.cortedilanga.com
 node	12049602473	https://www.cortedilanga.com/prenotazione-spa/
 node	12049602474	https://www.cortedilanga.com/agridolceria/
+node	12056937454	www.gilac.it
+node	12057863211	https://www.unagarlanda.it
+node	12059555423	https://www.sanybei.com/
+node	12066421066	https://beautyinsideestetica.it/
+node	12067616498	https://bikesquare.eu/monferrato
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6373,6 +6376,7 @@ way	104387170	http://www.moncalierigolfclub.com/
 way	104387587	https://www.parcopopiemontese.it/pagina.php?id=261
 way	105485138	https://www.sogin.it/it/chiusuradelciclonucleare/sitinucleariitaliani/impiantoeurexsaluggia/progettididecommissioning/realizzazione-complesso-cemex.html
 way	105578193	https://www.acquajoy.com
+way	105592487	https://le-gru.klepierre.it/
 way	106227756	http://www.sporting.to.it/
 way	107160815	https://www.labinf.it/
 way	107251562	http://ciclitessiore.it/
@@ -6805,6 +6809,7 @@ way	203181740	https://www.ianfond.it/
 way	203236833	https://www.bislakko.com/il-ristorante/
 way	203240860	https://www.comune.bellinzago.no.it
 way	203240874	https://www.majorana-marro.eu/
+way	203361018	https://www.instagram.com/pirografia_monte_soglio/
 way	203648983	http://www.comune.omegna.vb.it/
 way	203758085	https://www.comune.sparone.to.it/
 way	203857815	www.forumomegna.org
@@ -7914,8 +7919,8 @@ way	395267637	https://borellosupermercati.it/
 way	395537490	https://www.ilrisottino.it/
 way	395580037	https://www.campingbellatorino.com/
 way	395787488	http://www.cascinalane.com/
-way	396375636	http://www.campobaseacceglio.it/
-way	396382868	http://www.campobaseacceglio.it
+way	396375636	https://www.campobaseacceglio.it/
+way	396382868	https://www.campobaseacceglio.it/
 way	396957597	https://www.comune.chieri.to.it/
 way	397713487	https://ecomuseo.wixsite.com/altavalsangone
 way	398196331	http://www.iisdoria.it
@@ -8405,6 +8410,7 @@ way	608123585	https://libroaperto.comune.ostana.cn.it/1014
 way	608558969	https://www.theoremaonline.com/
 way	608558976	https://www.theoremaonline.com/sedi/ds-store-torino/
 way	611144937	http://promandria.it/
+way	612374668	https://patrociniosangiuseppe.altervista.org
 way	612693144	http://www.virginiaagnelli.it/
 way	616970027	https://www.molinivalente.it/
 way	616984804	https://www.cx-place.com/cx-turin-regina-campus.html
@@ -9041,6 +9047,7 @@ way	1112579630	https://www.ilristorantecampana.it/
 way	1113257632	https://www.acquimusei.it/lacquedotto-romano/
 way	1113257633	https://www.acquimusei.it/lacquedotto-romano/
 way	1115796378	https://kingattitude.it/
+way	1118861947	https://briga.info/prenotazioni-monesi-limone-alta-via-del-sale/
 way	1119338298	https://moncalieri.mercatinousato.com/
 way	1119338300	https://www.hotelresidencesestriere.it/
 way	1123417944	https://www.icalberti-salgari.edu.it
@@ -9175,6 +9182,7 @@ way	1296280532	https://www.barac.it
 way	1298786576	https://www.provincia.savona.it/strade/sp28bis
 way	1300722827	https://www.icducadaostanovara.edu.it/
 way	1300722828	https://www.ipsravizza.edu.it/
+way	1302230020	https://briga.info/prenotazioni-monesi-limone-alta-via-del-sale/
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -9272,12 +9280,12 @@ relation	3977556	http://www.eurovelo8.com/countries/italy
 relation	3988223	http://spazioweb.esercito.difesa.it/siti_scuole/torino/ComandoSdAInternet/index.htm
 relation	3990563	http://www.actiontennisarona.it/
 relation	4070328	http://www.via-alpina.org/en/stage/122
-relation	4090794	http://www.via-alpina.org/en/stage/273
+relation	4090794	http://old.via-alpina.org/de/stage/273
 relation	4127528	https://www.museodelterritorio.biella.it/
 relation	4129505	https://www.amicidibene.it/
 relation	4260851	http://www.golfsantamaria.it
 relation	4267487	http://www.via-alpina.org/en/stage/314
-relation	4281056	http://www.via-alpina.org/en/stage/272
+relation	4281056	http://old.via-alpina.org/de/stage/273
 relation	4508677	https://www.ecomuseodellerocche.it/
 relation	4508687	https://www.ecomuseodellerocche.it/
 relation	4508696	https://www.ecomuseodellerocche.it/
@@ -10476,6 +10484,7 @@ node	1738088355	bgarchitettinovi.it
 node	1759574762	http://www.lacivettadibiella.it/
 node	1776036865	http://www.hotel-quadrifoglio.com/
 node	1799646431	http://www.farmaciasimondi.it/
+node	1826798836	https://www.ristorantedelsantuario.it/
 node	1835607768	http://www.poste.it
 node	1845792536	https://www.comune.crissolo.cn.it/archivio/pagine/Grotta_di_Rio_Martino.asp
 node	1859284648	http://www.venusorta.it/Ristorante/
