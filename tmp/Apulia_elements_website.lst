@@ -740,7 +740,7 @@ node	5300716173	https://www.zuiki.it/
 node	5300716174	https://www.piazzaitalia.it/
 node	5302944772	http://www.logiccomputer.it/
 node	5305257418	https://www.charliesway2012.it/
-node	5306386526	http://www.keysoftitalia.it
+node	5306386526	https://www.keysoftitalia.it/
 node	5306725346	https://angelolabriola.it/
 node	5308738862	http://firstgallipoli.it/
 node	5311160891	http://www.simplymarket.it
@@ -1445,6 +1445,7 @@ node	9234996811	http://www.mediaserviceshop.it/
 node	9234998281	https://buccominobistrot.it/cinema/
 node	9234999439	https://buccominobistrot.it/
 node	9261422277	https://www.lacaravelladivieste.it/
+node	9266805217	http://www.caffedelcorsomonopoli.it/
 node	9268179720	https://aiportici.vorreiordinare.it/
 node	9269448019	https://www.carloquinto.it/
 node	9272530267	https://www.melogranimartino.com/
@@ -1840,6 +1841,7 @@ node	10131019206	https://www.mydespar.it/pdv/maiora-s-r-l-via-napoli-ang-via-cri
 node	10131203926	https://www.lacaseddha.com/
 node	10135843392	https://www.swissgold.it
 node	10137207589	https://tutti-gli-orari.it/04203638/Associazione_di_volontariato_OHANA
+node	10139555021	https://www.habarihostel.com/
 node	10167122292	https://www.facebook.com/people/Mai-Pi%C3%B9-Peli-specialista-in-epilazione-permanente/100063900347217/
 node	10174486365	https://www.urbanoasishostel.com/
 node	10180295017	https://www.coop.it/
@@ -2101,6 +2103,7 @@ node	11436816623	https://burgerking.it/ristoranti/ristorante.php?storeId=31093
 node	11449751663	https://www.iblbanca.it/
 node	11449855566	https://www.mydaycoffee.it/
 node	11459550011	https://www.ovs.it/it/it/stores/italia/puglia/bari/ovs-bari-via-melo-kids
+node	11475756169	http://ilboss.it
 node	11483817036	https://www.stauferstelen.net/stele-fiorentino.htm
 node	11491575224	https://www.guess.eu/
 node	11491575225	https://www.piquadro.com/
@@ -2411,8 +2414,8 @@ node	12002782472	https://www.icbregantevolta.edu.it/
 node	12002794469	https://www.enelx.com/
 node	12003992669	https://www.poltronesofa.com/it-IT/Index
 node	12007202856	https://www.dabramo.it/
-node	12010350070	www.masseriavalentina.com
-node	12010350071	www.masseriavalentina.com
+node	12010350070	https://www.masseriavalentina.com/
+node	12010350071	https://www.masseriavalentina.com/
 node	12012156228	https://www.mondorisparmio.it/
 node	12012578769	https://www.cimeditapas.it/
 node	12015263587	https://www.rubinocase.com/
@@ -2448,6 +2451,9 @@ node	12053011071	http://www.blacksheeponweb.com/
 node	12053042269	https://spritzepolpette.it/
 node	12053044771	https://www.merakimonopoli.com/
 node	12053050869	https://www.ilgelatoperpassione.it/
+node	12056000129	https://www.ovs.it/it/it/stores/italia/puglia/bari/ovs-bari-via-gimma
+node	12057508900	https://www.inlaguna.it/
+node	12059848069	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Monopoli/32063/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2730,7 +2736,6 @@ way	384292563	http://www.bernardicioccolato.com/
 way	384330825	https://www.scuolasanfilipponeri.edu.it/
 way	384347172	https://www.torchetticasa.it
 way	384808139	https://all.accor.com/hotel/7504/index.it.shtml/
-way	384808151	https://www.liceoaristosseno.edu.it/
 way	385336909	https://www.costedelsud.com/case-vacanza/la-casetta-del-pescatore-fronte-mare-a-posto-rosso-codice-001.html
 way	385451383	https://www.elicaferramenta.com/
 way	385451940	https://ceramichemarmibitonti.com/
@@ -2778,9 +2783,10 @@ way	403698640	http://www.piccapane.com
 way	404508226	https://www.coopbiccari.it/discovering-biccari/chioschetto-lago-pescara/
 way	404759227	https://www.conad.it/ricerca-negozi/negozio.005310.html
 way	404759444	https://www.pestalozzi.edu.it/
-way	404759635	http://www.iczannotti.edu.it/sito1/index.php
+way	404759635	https://www.iczannotti.edu.it/sito1/index.php
 way	404759726	https://www.itesfraccacreta.edu.it/
-way	404765604	http://www.iczannotti.edu.it/sito1/index.php
+way	404765604	https://www.iczannotti.edu.it/sito1/index.php
+way	405019151	https://www.facebook.com/oasisostacamperlesina
 way	405218757	https://mongolfierafoggia.it/
 way	405228336	https://www.facebook.com/pages/Mario-Forcella/151803948191811
 way	405233465	https://www.amgasblu.it/
@@ -3564,7 +3570,7 @@ relation	6323267	www.castellomonaci.it
 relation	6330901	https://cdshotels.it/grand-hotel-riviera/
 relation	6449811	https://www.rivadiugento.it/
 relation	6502703	http://www.bel-ami.it
-relation	8055419	http://www.iczannotti.edu.it/sito1/index.php
+relation	8055419	https://www.iczannotti.edu.it/sito1/index.php
 relation	8055449	https://www.pestalozzi.edu.it/
 relation	8221789	http://parcodellegravine.provincia.ta.it/
 relation	8281520	https://www.tap-ag.com/
@@ -3675,6 +3681,7 @@ relation	17467312	https://www.uniba.it/
 relation	17469561	https://www.uniba.it/it/ricerca/dipartimenti/dipmedveterinaria
 relation	17497412	https://www.icmazzinimodugno.edu.it/
 relation	17630551	https://www.ciaky.it/
+relation	17857179	https://www.liceoaristosseno.edu.it/
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
@@ -3940,6 +3947,7 @@ node	11407398407	https://www.comune.grumoappula.ba.it
 node	11407398408	https://comune.bitritto.ba.it/
 node	11777789597	https://www.comune.mesagne.br.it/Servizi/Biblioteca-Comunale-Ugo-Granafei
 node	12053441610	https://www.daziogianniristorantepizzeria.it/
+node	12056090216	https://www.plazacarrisi.it/
 way	81082630	https://cartapulia.it/dettaglio?id=127906
 way	81101010	http://cartapulia.it/web/guest/dettaglio?id=128414
 way	81101023	https://siusa.archivi.beniculturali.it/cgi-bin/pagina.pl?TipoPag=prodente&Chiave=26492
