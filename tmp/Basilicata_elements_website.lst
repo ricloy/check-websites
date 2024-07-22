@@ -1,7 +1,7 @@
 @type	@id	website
 node	67280349	http://www.comune.montescaglioso.mt.it/
 node	67280505	http://www.comune.barile.pz.it
-node	67280603	www.comune.fardella.pz.it
+node	67280603	https://www.comune.fardella.pz.it/
 node	67280708	https://www.comune.marsiconuovo.pz.it/
 node	67280745	https://www.comune.rapolla.pz.it/
 node	67281259	http://www.comune.rioneroinvulture.pz.it/
@@ -103,7 +103,7 @@ node	2522521505	https://www.youtube.com/watch?v=X_duTZF-MGg
 node	2523697520	http://www.agriturismopantaleonematera.it
 node	2523697532	https://www.ceamatera.it/
 node	2523697538	www.autoparcodimatera.it
-node	2523838340	http://www.loperfido-olivetti.edu.it/
+node	2523838340	https://www.loperfido-olivetti.edu.it/
 node	2527784749	http://www.aripotenza.it
 node	2531908402	https://www.superemme.com/
 node	2531908405	https://www.methera.it/
@@ -243,7 +243,7 @@ node	5620477442	https://www.facebook.com/Taverna-del-Borgo-457570717785403/
 node	5647797394	https://www.marinaiditalia.com/?page_id=9307
 node	5720092742	https://www.bcccassanomurge.it/
 node	5720092743	https://www.csvbasilicata.it
-node	5815295235	http://www.slasrl.eu
+node	5815295235	https://www.slasrl.eu/
 node	5835051868	https://www.demaimmobiliare.it
 node	5851831529	https://www.conad.it/ricerca-negozi/negozio.050205.html
 node	5865325641	http://www.bioagrisalute.it/
@@ -387,7 +387,7 @@ node	9791677489	http://unimed.altervista.org/index.php/cpf-di-matera-di-via-dant
 node	9791837363	https://www.facebook.com/pescheriadaruru/
 node	9791963347	https://www.gallitellicaffe.it/
 node	9794727168	www.newcologistica.com
-node	9796178731	http://www.istitutocomprensivo6mt.edu.it/la-scuola/plessi/
+node	9796178731	https://www.istitutocomprensivo6mt.edu.it/la-scuola/plessi/
 node	9796535349	http://www.studioinnovazione.com/
 node	9802569781	https://www.aiterrazzini.it/
 node	9804041971	https://www.tecnolens.it/
@@ -403,7 +403,7 @@ node	9808972101	https://www.materanews.net/nel-materano-nuove-colonnine-di-ricar
 node	9808978570	https://www.materanews.net/nel-materano-nuove-colonnine-di-ricarica-per-auto-elettriche-ecco-dove-sono-state-installate/?feed_id=14407
 node	9809175513	https://www.termocentro.net/
 node	9812257035	https://www.osterialcasale.it/
-node	9813789754	www.ordingmatera.it
+node	9813789754	https://www.ordingmatera.it
 node	9817840466	https://icubed.it
 node	9820535888	https://www.dinaclub.cloud
 node	9840785142	https://www.pianetacasafacile.it/
@@ -416,7 +416,7 @@ node	9874415188	http://www.cislbasilicata.it/
 node	9883948667	http://www.vigilfuoco.it/sitiVVF/matera/
 node	9887520834	https://www.comune.matera.it/
 node	9893168576	https://www.volee.it/campi-da-tennis/a-s-d-circolo-tennis-parco-degli-ulivi
-node	9894767946	http://www.confindustria.basilicata.it/
+node	9894767946	https://www.confindustria.basilicata.it/
 node	9896144816	https://www.gelateriacaruso.com/
 node	9900180105	http://www.piazzamulino26.it/
 node	9900209846	https://www.residencenazionalematera.com/?gclid=Cj0KCQjwz96WBhC8ARIsAATR253BAO17Twd21LVuCmyEUfG9nrzRRLoeDA3J9NeOE6fRwrkKnNR-M70aAl9lEALw_wcB/
@@ -578,7 +578,7 @@ way	273803562	http://www.comune.pietrapertosa.pz.it
 way	277930762	https://www.parrocchiasanlavierotito.it/
 way	298698845	https://musei.basilicata.beniculturali.it/musei/?mid=1353&nome=palazzo-de-lieto-pinacoteca-angelo-brando
 way	300436360	http://www.comune.paterno.pz.it/
-way	302819983	http://www.comune.cirigliano.mt.it/?page_id=7475
+way	302819983	https://www.comune.cirigliano.mt.it/?page_id=7475
 way	313491795	http://www.centrotilt.it/
 way	325027104	https://www.autogmanolio.com/area-camper/
 way	344664885	http://www.matera-irsina.chiesacattolica.it/
@@ -591,7 +591,7 @@ way	349586013	https://www.icleopardipz.it/
 way	349586015	http://www.vigilfuoco.it/sitiVVF/potenza/
 way	349592332	https://www.icmilanipz.gov.it/
 way	349592861	https://www.icleopardipz.it/
-way	349593618	http://www.provincia.potenza.it/provincia/home.jsp
+way	349593618	https://www.provincia.potenza.it/provincia/home.jsp
 way	349802196	https://www.icbusciolano.edu.it/
 way	349803212	http://icbusciolano.gov.it
 way	349803875	http://www.comune.potenza.it/
@@ -631,7 +631,7 @@ way	563374140	https://www.icleopardipz.it/
 way	569368192	https://www.ictorracabonaventurapz.edu.it/
 way	569376923	https://www.icbusciolano.edu.it/
 way	569997081	https://www.ictorracabonaventurapz.gov.it/
-way	579544895	http://www.trisaia.enea.it/it/home
+way	579544895	https://www.trisaia.enea.it/it/home
 way	583175988	https://www.parcogallipolicognato.it/index.php/banca-dati-del-parco-online/15-urbane/1043-calciano-ruderi-della-chiesa-di-maria-santissima-della-rocca
 way	586067088	http://www.badiasanmichele.it/badiasanmichele/Homepage.html
 way	586355643	http://www.latronico.eu/la-delegazione-comunale
@@ -649,7 +649,7 @@ way	783696875	https://www.icfrancavillainsinni.edu.it/
 way	783696877	https://www.icfrancavillainsinni.edu.it/
 way	809613134	https://www.areacamper-matera.it/
 way	825144257	https://www.lucanianaturaverticale.it/falesie/64-matera.html
-way	831199232	http://columbiamultisala.it/index.html
+way	831199232	https://columbiamultisala.it/index.html
 way	832314558	http://vivailamalfatommaso.com/
 way	835110057	https://marinocarcenter.it/
 way	842180137	http://www.parrocchiamoliterno.it/santa-maria-assunta/
@@ -715,7 +715,7 @@ relation	5214171	https://portale.unibas.it/site/home.html
 relation	6274746	http://parcoappenninolucano.it/
 relation	8085866	http://www.santuariopicciano.it/
 relation	8221789	http://parcodellegravine.provincia.ta.it/
-relation	9085460	http://www.comune.pignola.pz.it
+relation	9085460	https://www.comune.pignola.pz.it/
 relation	10951071	https://fondoambiente.it/luoghi/castello-marchesale-di-palazzo-san-gervasio?ldc
 relation	10966342	http://www.rgspneumatici.it
 relation	12645985	https://www.comune.pietrapertosa.pz.it/it/item.asp?nav=percorso-7-pietre
