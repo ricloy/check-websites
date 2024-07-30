@@ -104,7 +104,7 @@ node	536780038	https://www.triestetrasporti.it/orari-e-percorsi/linee-e-orari/li
 node	552477035	http://www.museomonfalcone.it/paleontologia.php
 node	575336136	http://riservafoceisonzo.it/
 node	578015343	http://www.carmaauto.it/
-node	581962435	http://www.e-coop.it/web/guest/punti-vendita-dettaglio?id=5084
+node	581962435	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/5084
 node	582942377	http://www.geoscienze.units.it/geositi/vedigeo1.php?ID_GEO=534
 node	583274658	http://www.vesnabrezina.it/novo/sl/plessi/otroski-vrtec-v-nabrezini
 node	591728659	https://www.albergoalponte.it/
@@ -119,6 +119,7 @@ node	600397463	https://www.altainformatica.it
 node	601458033	https://www.attcaffe.com/
 node	601458034	https://www.adriagomme.it/
 node	601458041	https://www.termoservis.it/
+node	601458042	https://servis.it/
 node	601458044	http://www.videoest.it/
 node	601458046	http://www.rbskerkboris.com/
 node	601458047	https://www.cittavecchia.com/
@@ -162,6 +163,7 @@ node	813186213	https://jadranbasket.com/
 node	813186214	https://www.zkb.it/
 node	813186215	https://www.zkb.it/
 node	813186218	https://www.zkb.it/
+node	817585710	https://www.040socialfood.it/
 node	854386100	https://www.gruppobosco.it/bricocenter/bricocenter.htm
 node	863819662	http://www.dodorico.it
 node	903992917	https://www.hotelreginalignano.it/
@@ -587,6 +589,7 @@ node	2470828919	https://www.hotelcajeta.it/
 node	2471599116	https://www.architettipordenone.it/
 node	2473461545	http://www.caffevecchio.com
 node	2478230532	http://www.casatrauner.com
+node	2495055616	https://www.protezionecivile.fvg.it/it/comune/cordovado
 node	2509485687	https://www.ajcomputer.it/
 node	2523599933	https://www.civicimuseiudine.it/it
 node	2537912740	https://fotoleban.rikorda.it/
@@ -778,6 +781,7 @@ node	3596257047	http://www.almonastero.com
 node	3600450631	https://www.gastaldiadantro.it/
 node	3608487057	http://www.geoscienze.units.it/geositi/vedigeo1.php?ID_GEO=223
 node	3609700426	https://it-it.facebook.com/OsmicaBranoviRepen/
+node	3609744893	http://osmize.com/zolla/bizjak
 node	3609745226	https://www.eurospin.it/
 node	3611460673	https://www.telit.com/
 node	3615486936	http://www.blding.it/
@@ -1269,6 +1273,7 @@ node	4394005724	http://www.massimilianoschiavon.com;http://www.signorettolampada
 node	4394005726	https://www.giornalfoto.com/
 node	4394005742	https://www.zinellieperizzi.it/
 node	4395698896	https://www.ristoranteallastaffa.it/
+node	4402392297	http://assaje.it
 node	4407436035	http://www.iccividale.it/scuole-primarie/vittorio-alfieri-torreano
 node	4407436036	http://www.iccividale.it/scuole-dellinfanzia/via-principale-torreano
 node	4407484650	https://www.quattropi.eu/
@@ -2068,6 +2073,7 @@ node	9844085600	https://hotelsolun.it/
 node	9848789805	https://www.smartrooms.it/
 node	9853652591	https://www.bluwash.it/
 node	9861318696	https://m.facebook.com/isoladorogrado
+node	9872214874	https://www.repower.com/it/dina/
 node	9875873566	https://www.stabilimentoborabora.com/
 node	9877090972	https://www.verduromaterassi.it/
 node	9893800540	https://www.bottiglierialignano.it/
@@ -2178,6 +2184,7 @@ node	10010323081	https://www.insmercato.it/
 node	10012354056	https://bar-gelateria-kings.business.site/
 node	10012354057	https://giocasaimmobiliare.it/
 node	10012354067	https://www.agenziameridiana.it/
+node	10018069014	https://www.repower.com/it/dina/
 node	10026883138	https://ristoranteallebocce.business.site/?utm_source=gmb&utm_medium=referral
 node	10028260718	http://www.ferramentapapotto.it/
 node	10028298717	https://www.bartergesteogrado.it/
@@ -2504,7 +2511,6 @@ node	12025521577	https://www.pizzeriadamariotarcento.com/
 node	12028873160	https://www.torresanlivio.it/
 node	12028877725	http://www.livio.at/
 node	12032030615	https://www.biasonmassetti.it/
-node	12040088369	http://osmize.com/zolla/bizjak
 node	12040101804	https://www.cafcislfvg.it/
 node	12043591128	https://www.nordestwash.com/
 node	12043591131	https://www.thecodemusicstore.it/
@@ -2542,6 +2548,14 @@ node	12066966869	https://angolodelcuoio.com/
 node	12068139445	https://www.solariumnonsolosolets.com/
 node	12068139446	https://www.californiapalestre.it/
 node	12069593845	https://www.palazzodenordis.it/
+node	12070452354	https://carmagnolaristorante.it
+node	12078252661	https://www.loveboardshop.com/
+node	12082390400	https://www.protezionecivile.fvg.it/it/comune/pasiano-pordenone
+node	12082439789	https://www.protezionecivile.fvg.it/it/comune/san-giorgio-richinvelda
+node	12082439790	https://www.protezionecivile.fvg.it/it/comune/dignano
+node	12082474313	https://www.protezionecivile.fvg.it/it/comune/flaibano
+node	12082500875	https://www.protezionecivile.fvg.it/it/comune/varmo
+node	12082529877	https://www.protezionecivile.fvg.it/it/comune/morsano-tagliamento
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2649,6 +2663,7 @@ way	36079618	https://it.wikipedia.org/wiki/Ragogna#Monumenti_e_luoghi_d'interess
 way	36079713	https://www.casarossaaicolli.it
 way	36087211	https://www.terrediplovia.it/
 way	36087425	https://www.bulfon.it/
+way	36091092	https://www.protezionecivile.fvg.it/it/comune/spilimbergo
 way	36092528	www.bibliotecaspilimbergo.it
 way	36098448	https://www.coradazzi.it/punto-vendita/
 way	36099700	http://www.icpagnacco.gov.it/infanzia-moruzzo/
@@ -2680,6 +2695,7 @@ way	36164613	https://www.locandaaltrivio.com/
 way	36164847	https://imprezafashion.com/
 way	36165399	https://www.villacigolotti.it/
 way	36165437	https://www.protezionecivile.fvg.it/it/comune/vivaro
+way	36171841	https://www.protezionecivile.fvg.it/it/comune/san-martino-tagliamento
 way	36174576	https://www.susans.it/
 way	36182278	https://www.asdrojalese.it/index.php
 way	36182339	http://www.reanese.it
@@ -2693,15 +2709,19 @@ way	36195192	https://collidipoianis.it/
 way	36195938	http://www.trattoriaaicollidispessa.com
 way	36196585	https://www.protezionecivile.fvg.it/it/comune/caneva
 way	36216441	https://it.casashops.com
+way	36218251	https://www.protezionecivile.fvg.it/it/comune/porcia
 way	36228029	https://icsacile.edu.it/
 way	36237953	http://htpp//www.icpratadipordenone.gov.it
+way	36242880	https://www.protezionecivile.fvg.it/it/comune/cordenons
 way	36245020	https://www.centromeduna.it/
+way	36256591	https://www.protezionecivile.fvg.it/it/comune/zoppola
 way	36263281	https://www.comune.codroipo.ud.it/
 way	36264929	https://www.fossamala.it/
 way	36266041	https://www.ucicinemas.it/
 way	36273328	https://www.sofimspa.it/
 way	36277628	https://www.vivaitrevisan.it/
 way	36277656	http://www.nuotosanvito.it
+way	36279038	https://www.protezionecivile.fvg.it/it/comune/sesto-reghena
 way	36281702	https://www.allequerce.com/
 way	36281982	http://www.camalvani.it
 way	36289779	https://www.studiodentisticovolpattidelmestre.it/
@@ -2714,6 +2734,7 @@ way	36318974	http://damichele.com/
 way	36323360	http://www.alcervo.com/
 way	36324464	http://cid.comune.torviscosa.ud.it/
 way	36325539	https://www.magazzinimanzanesi.it/
+way	36329730	https://www.protezionecivile.fvg.it/it/comune/san-vito-tagliamento
 way	36340075	https://www.eurohotelfriuli.it/
 way	36341050	https://www.camuliner.com/
 way	36343838	https://www.ristorantecampiello.it/
@@ -2835,11 +2856,16 @@ way	36426382	https://lefucine.com/
 way	36426990	https://www.quellogiusto.it/
 way	36427080	https://www.conad.it/ricerca-negozi/negozio.008840.html
 way	36427284	http://www.underleaf.eu
+way	36427362	https://www.protezionecivile.fvg.it/it/comune/brugnera
+way	36427802	https://www.protezionecivile.fvg.it/it/comune/prata-pordenone
 way	36428883	https://www.farodellavittoria.it/
 way	36428941	http://alfaelettronica.com
 way	36429712	https://www.peressini.it/
+way	36429776	https://www.protezionecivile.fvg.it/it/comune/fiume-veneto
 way	36430040	http://www.officinaemmecar.com/
 way	36430043	https://www.vetreriatramontin.it/
+way	36430121	https://www.protezionecivile.fvg.it/it/comune/casarsa-delizia
+way	36430208	https://www.protezionecivile.fvg.it/it/comune/azzano-decimo
 way	36430366	https://www.ispadue.it/
 way	36430373	https://www.menardisnc.it/
 way	36430389	https://www.friulpack.it/
@@ -2886,6 +2912,7 @@ way	36664900	https://artaiafvg.wordpress.com/
 way	36668327	https://www.laviarte.it/
 way	36668376	https://alturis.it/
 way	36669447	https://www.cadeifaggi.it/
+way	36675305	https://www.protezionecivile.fvg.it/it/comune/san-quirino
 way	36676286	http://www.albergotrattoriaalcastello.com
 way	36677702	http://marzona.net/
 way	36677839	https://www.cai-fvg.it/sentieri-e-rifugi/rifugi-e-opere-alpine/opere-alpine/616-bivacco-d-mazzeni/
@@ -3258,6 +3285,7 @@ way	408946273	http://www.liceogrigoletti.gov.it/
 way	411086313	http://www.terminal-gorizia.eu/
 way	416323535	https://www.marepineta.com/
 way	420036042	https://www.tecnofervaleri.it/
+way	426542877	https://www.protezionecivile.fvg.it/it/comune/valvasone-arzene
 way	428172441	https://www.comune.corno-di-rosazzo.ud.it/media/files/030030/attachment/Regolamento_area_sosta_camper_01_1Vvtkn9.pdf
 way	430104847	https://triesteadventurepark.it/
 way	439745753	https://www.despar.it/
@@ -3366,6 +3394,7 @@ way	791745684	https://www.despar.it/
 way	792084496	https://www.despar.it/it/punto-vendita-eurospar/810/trieste/
 way	798160380	https://www.360mtb.org/
 way	799746128	https://www.ambienteservizi.net/comuni/pravisdomini
+way	799815531	https://www.protezionecivile.fvg.it/it/comune/pravisdomini
 way	803023379	http://sanatoriotriestino.it/
 way	805510298	https://lungomare.ilpanequotidiano.com/
 way	807993935	https://www.megaprezzibassi.it/stores/mega-udine/
@@ -3539,6 +3568,8 @@ way	1302864883	https://www.hotelcentrale-lignano.it/
 way	1302864891	https://www.doimohotels.it/
 way	1302864906	https://lignano.hotelmyriam.com/
 way	1302900045	https://www.hotelpashalignano.it/
+way	1304595302	https://www.protezionecivile.fvg.it/it/comune/roveredo-piano
+way	1304599359	https://www.protezionecivile.fvg.it/it/comune/sedegliano
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4139,7 +4170,6 @@ relation	6925685	https://sentieroitalia.cai.it/tappa/?id=SI+A03
 relation	6925686	https://sentieroitalia.cai.it/tappa/?id=SI+A02
 relation	6925687	https://sentieroitalia.cai.it/tappa/?id=SI+A01
 relation	6933708	https://sentieroitalia.cai.it/tappa/?id=SI+A07
-relation	6933709	https://sentieroitalia.cai.it/tappa/?id=SI+A06
 relation	6933710	https://sentieroitalia.cai.it/tappa/?id=SI+A04
 relation	6933795	https://sentieroitalia.cai.it/tappa/?id=SI+A11
 relation	6933796	https://sentieroitalia.cai.it/tappa/?id=SI+A10
