@@ -359,6 +359,7 @@ node	1133982857	http://www.trattoriadalucia.com
 node	1134598821	www.picassohotel.com
 node	1134598828	http://www.hotelcaravaggiorome.com/
 node	1135464609	https://www.ristorantestrega.eu/
+node	1135464611	https://caffewashington.com
 node	1147386908	www.cafecafebistrot.it
 node	1148038950	www.mondoarancina.it
 node	1148203560	http://www.carsharing.roma.it/
@@ -1413,7 +1414,7 @@ node	3280375061	https://www.conad.it/ricerca-negozi/negozio.008633.html
 node	3282043161	http://www.agriturismolameridiana.eu/
 node	3282043162	www.agriturismolameridiana.eu
 node	3287366516	http://www.hoteldelsole.eu/
-node	3289713764	http://www.mappawifi.provincia.roma.it/
+node	3289713764	https://www.cittametropolitanaroma.it/homepage/elenco-siti-tematici/wifimetropolitano/
 node	3294180561	http://www.pizzerialagenzanese.it/
 node	3296252784	https://www.marearestaurant.it/
 node	3302603038	https://www.meopinelli.it/
@@ -1489,7 +1490,6 @@ node	3473299473	https://www.iliospita.it/
 node	3476099141	http://www.greenlandtasty.com/
 node	3476402693	http://www.castrumtyscany.it/
 node	3478222893	http://www.alcardinale.it/
-node	3478581046	https://www.copisrl.it/
 node	3481777520	http://www.hotelgiollirome.it/it/
 node	3490876093	https://www.facebook.com/people/C%C3%A8-Chi-Dice-Bau/100009336378828
 node	3493197683	https://www.isoladeitesori.it/
@@ -3172,7 +3172,7 @@ node	5834021814	https://tonnarello.it/
 node	5834058057	https://bricobravo.com/
 node	5837145535	www.ristoranteshooters.com
 node	5837145536	https://www.waverestaurant.it/
-node	5837599685	http://www.lamatriciana.it/it/galleria/
+node	5837599685	http://www.lamatriciana.it/
 node	5842207880	http://www.anzio.it/www.anzio.it/Foto_Anzio/Pagine/Parco_Archeologico.html
 node	5842208133	http://www.anzio.it/museo%20archeologico.htm
 node	5842208134	http://www.sbarcodianzio.it
@@ -6150,6 +6150,17 @@ node	12069396994	https://ebike.bikesquare.eu/ita/roma
 node	12071151700	https://www.torreargentinarelais.com/
 node	12073460619	https://www.bbvillaclaudia.com/
 node	12074729220	https://www.britishinstitute.roma.it/
+node	12078079673	https://osteriailriposto.it
+node	12082828874	https://bcs-bus.com
+node	12087175107	http://www.cicciosfooditalia.it/
+node	12090217072	https://magicland.it/it/attrazioni/wildrodeo
+node	12090217232	https://magicland.it/it/attrazioni/haunted-hotel
+node	12090217233	https://magicland.it/it/attrazioni/dungeons
+node	12090217388	https://magicland.it/it/attrazioni/pilastro-magico
+node	12090217389	https://magicland.it/it/attrazioni/safari
+node	12090217425	https://magicland.it/it/Attrazioni/isola-volante
+node	12090297976	https://magicland.it/it/attrazioni/giranido
+node	12090297977	https://magicland.it/it/attrazioni/mongolfiere
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7187,8 +7198,10 @@ way	337871343	https://www.accorhotels.com/it/hotel-1312-sofitel-roma-riapre-rinn
 way	337871344	https://www.splendideroyal.com/
 way	337962936	https://www.comune.genzanodiroma.roma.it/home/esplorare/turismo/cosa-vedere/palazzo-e-parco-sforza-cesarini/
 way	338130637	www.dormire-a-viterbo.jimdo.com
+way	338192767	https://castelloruspoli.com/
 way	339621409	https://magicland.it/it/attrazioni/huntik
 way	339621410	https://magicland.it/it/attrazioni/granteatro
+way	339621411	https://magicland.it/it/attrazioni/gattobaleno_time_machine
 way	339884472	https://www.igiardinidimargius.com/
 way	340010145	http://www.resurrezione.net/contatti/
 way	340606185	http://www.eurocarote.it
@@ -7357,6 +7370,7 @@ way	388214538	http://www.almulinolicheri.it/
 way	388720281	ristorantelacollinabracciano.it
 way	388720294	ristorantedegliabruzzi.it
 way	388720295	flaminiauto.it
+way	389148858	http://www.oceansurf.it
 way	390607916	http://www.gdf.gov.it/reparti-del-corpo/territorio/lazio/frosinone/tenenza-sora
 way	391208721	http://www.agriturismolavita.it
 way	391264329	https://www.technip.com/
@@ -7694,14 +7708,12 @@ way	486589785	https://www.idromarket.eu
 way	486606266	https://www.conad.it/ricerca-negozi/negozio.004298.html
 way	487112495	http://chiesadiroma.it
 way	487398603	https://www.ludwigboutiquehotel.com/
-way	488686128	https://magicland.it/it/Attrazioni/shock
-way	488686132	https://magicland.it/it/bombo.html
-way	488686135	https://magicland.it/it/attrazioni/le-rapide
 way	488686163	https://magicland.it/it/attrazioni/cagliostro
-way	488686171	https://magicland.it/it/attrazioni/yucatan
-way	488686228	https://magicland.it/it/formula-cars.html
+way	488686237	https://magicland.it/it/ristoranti/belvedere
 way	488687251	https://magicland.it/it/attrazioni/cosmo_academy_planetarium_new
-way	488687258	https://magicland.it/it/isola-volante.html
+way	488690354	https://magicland.it/it/attrazioni/le-rapide
+way	488690356	https://magicland.it/it/attrazioni/yucatan
+way	488690372	https://magicland.it/it/attrazioni/stagno-magico
 way	489296556	https://www.bibliotechecastelliromani.it/biblioteche-scr/biblioteca-di-genzano-di-roma/
 way	489301320	https://comune.genzanodiroma.roma.it/
 way	489590481	http://archeoroma.beniculturali.it/siti-archeologici/arco-malborghetto
@@ -7829,6 +7841,7 @@ way	545850281	https://www.profumoroma.com/
 way	547291882	https://www.korapark.it/
 way	548695706	https://diocesicivitacastellana.com/
 way	549017551	https://www.parrocchiasantamaddalenadicanossa.it/
+way	549123936	https://comune.colleferro.rm.it
 way	549296066	ssdottavia.com
 way	549408879	https://www.pigliacelli.it/index.php/it/
 way	549433285	https://www.icvanniviterbo.edu.it/
@@ -8302,7 +8315,6 @@ way	995050667	http://www.pontinatrattori.it/showroom/
 way	995523306	https://www.ist7chiese.edu.it/
 way	995523307	https://www.icpincherle.edu.it/
 way	995820519	https://comunicacity.net/pontinia/turismo/map-padiglione-ex-torre-idrica/
-way	995944858	"https://www.google.com/maps/place/BCC+AGRO+PONTINO/@41.4073072,13.0467218,355m/data=!3m1!1e3!4m5!3m4!1s0x1325117b0ce260a7:0xac08f1111293c06f!8m2!3d41.4072978!4d13.0482508"
 way	996235749	http://www.lucianoiret.org/
 way	996340460	http://www.scuolafilipposmaldoneroma.it/
 way	996656102	https://www.liceobenedettodanorcia.edu.it/
@@ -8325,7 +8337,6 @@ way	1003615792	https://www.aslroma2.it/index.php/organizzazione/distretti/5-dist
 way	1004040785	https://www.icgiuseppeimpastato.edu.it/
 way	1005826071	https://www.usi.it/casa-cura-marco-polo/la-casa-di-cura-oncologica
 way	1006835581	https://www.gap-roma.com/
-way	1007277817	https://magicland.it/it/attrazioni/olandese-volante
 way	1009020321	https://www.beniculturali.it/luogo/villa-romana-di-podere-anna
 way	1009141869	https://comune.vejano.vt.it/
 way	1011936360	https://www.ostiaantica.beniculturali.it/it/aree-archeologiche-e-monumentali/porti-imperiali-di-claudio-e-traiano/area-di-monte-giulio/
@@ -8566,6 +8577,12 @@ way	1285328559	https://www.clinicaquisisana.it
 way	1286556718	https://www.conad.it/ricerca-negozi/negozio.003216.html
 way	1288335400	http://www.multisaladelmare.com
 way	1293671500	https://maucerisrl.com/
+way	1304481957	"https://www.google.com/maps/place/BCC+AGRO+PONTINO/@41.4073072,13.0467218,355m/data=!3m1!1e3!4m5!3m4!1s0x1325117b0ce260a7:0xac08f1111293c06f!8m2!3d41.4072978!4d13.0482508"
+way	1305377501	https://magicland.it/it/attrazioni/dune
+way	1305377504	https://magicland.it/it/attrazioni/nui-lua
+way	1305377507	https://magicland.it/it/attrazioni/esplorabruco
+way	1305377509	https://magicland.it/it/attrazioni/olandese-volante
+way	1305377513	https://magicland.it/it/Attrazioni/shock
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -9106,6 +9123,7 @@ relation	12714549	https://www.fastionline.org/excavation/micro_view.php?item_key
 relation	12721724	http://santamariamadredellachiesa.weebly.com/
 relation	12740657	https://www.icdonmilanicerveteri.it/
 relation	12764475	https://www.ipertriscount.it/punti-vendita/negozi-ipertriscount/item/506-bracciano-roma.html
+relation	12764483	https://ristoranteyubracciano.com/
 relation	12764544	https://www.eurospin.it/punti-vendita/bracciano-540567/
 relation	12767814	http://www.asl.vt.it/
 relation	12768241	https://www.campingsmeraldo.com/
@@ -9129,7 +9147,6 @@ relation	13071284	https://informatica.aci.it/
 relation	13123166	https://www.passsa.it/
 relation	13154564	https://www.liceovian.edu.it/
 relation	13216557	https://www.icenzobiagi.edu.it/
-relation	13239349	https://agricenterpaolucci.it/index.php
 relation	13251551	http://www.sacrocuoregiussano.it/Page.asp/id=243
 relation	13251564	https://www.mercatidautore.com/mercati/condottieri/
 relation	13264416	https://www.golfmarcosimone.com
@@ -9315,7 +9332,6 @@ relation	16862803	https://www.sslazioarchery.it
 relation	16892973	https://www.camminodifrancesco.it/
 relation	16897033	https://www.camminodifrancesco.it/
 relation	16897034	https://www.camminodifrancesco.it/
-relation	16904488	https://camminodilarth.it/
 relation	17039338	www.caimonterotondo.it
 relation	17278735	http://www.simbruini.it/
 relation	17282511	https://www.aeronautica.difesa.it/organizzazione/csma/enti_dipendenti/COMAER/Pagine/ComandoAeroportoVignadivalle.aspx
@@ -9360,6 +9376,9 @@ relation	17851920	https://www.camminodelsalto.it/
 relation	17852205	https://www.camminodelsalto.it/
 relation	17852206	https://www.camminodelsalto.it/
 relation	17854343	https://www.pfse-auxilium.org/it/
+relation	17882852	https://camminodilarth.it/
+relation	17882869	https://camminodilarth.it/
+relation	17882879	https://camminodilarth.it/
 node	251888861	https://www.multisalagreenwichroma.com/
 node	452570567	http://www.catacombe.org
 node	802459210	https://www.oasidigreccio.it/
@@ -9437,7 +9456,7 @@ node	5532018332	https://www.prolocomontefiascone.it/
 node	5535091930	http://www.e-choose.it/la-sfera-doro/
 node	5535092253	https://www.casanostrasignora.it
 node	5632396005	http://www.acquasi.com/
-node	5645969908	www.hotelcentro.com
+node	5645969908	https://centro-roma.worhot.com/
 node	5680300506	http://www.domusgiulia.com/
 node	5748713540	https://frosinone.ubiklibri.it
 node	5787159559	https://kinsalepub.com/
