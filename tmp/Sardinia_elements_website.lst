@@ -1610,7 +1610,6 @@ node	11081198051	https://www.europcar.it/it-it/stazioni/italia/olbia-citta
 node	11099164472	https://soulvalley.it/
 node	11101188334	https://www.sarenabeach.it/
 node	11117557058	http://www.sardegnabiblioteche.it/index.php?xsl=839&s=2&v=9&c=5670&codice=IT-SS0017
-node	11132269395	https://www.doppiomalto.com/it/ristoranti/alghero/
 node	11144316129	https://www.aspo.it/bike-sharing/
 node	11144316130	https://www.aspo.it/bike-sharing/
 node	11150561446	https://www.dettorimarket.it
@@ -1705,6 +1704,7 @@ way	81578382	http://www.sardegnacultura.it/j/v/253?s=20710&v=2&c=2488&c1=2127&t=
 way	82242404	https://campingcalaginepro.net
 way	83889115	http://www.sardegnacultura.it/j/v/253?s=27247&v=2&c=2489&c1=2126&visb=&t=1
 way	83939292	https://www.torredelporticciolo.it
+way	86329431	http://www.basenauticausai.it
 way	97845415	https://www.calagononecamping.com/de/
 way	101938618	https://comune.villacidro.vs.it/
 way	102703598	https://www.sardegnacultura.it/articolo/orosei-chiesa-di-san-giacomo-maggiore
@@ -2015,7 +2015,7 @@ way	279262426	https://villagrazia-bed-and-breakfast-alghero.com/
 way	279263478	https://www.hotelsoleado.it/en/
 way	279263582	https://www.istitutocomprensivo3alghero.edu.it/
 way	279263762	https://www.architettura.uniss.it/
-way	279263832	https://www.lidl.it/s/it-IT/ricerca-punto-vendita/alghero-ss/via-vittorio-emanuele-219/
+way	279263832	https://www.doppiomalto.com/it/ristoranti/alghero/
 way	279263930	http://capogalera.com
 way	279269947	http://www.parcodiportoconte.it/
 way	279270110	https://museialghero.it/museo-del-corallo/
@@ -2055,6 +2055,7 @@ way	284751015	http://www.duemarisardegna.com
 way	285327755	http://www.archeolbia.it/monumenti/cisterna-romana/
 way	285340152	http://www.sardegnacultura.it/j/v/253?s=21048&v=2&c=2510&c1=2628&visb=&t=1
 way	285358029	http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_1388971669.html
+way	285961846	https://sassari.aci.it/
 way	286753989	http://www.marinadiportomassimo.it/
 way	288235487	http://www.delfinoclub.com
 way	289634125	https://www.ianas.edu.it/
@@ -2106,6 +2107,7 @@ way	295509495	http://www.sardegnacultura.it/j/v/253?s=20735&v=2&c=2488&c1=2123&v
 way	295511947	https://www.hotelcardellinoisili.com/
 way	295518918	https://www.comune.narbolia.or.it/
 way	295531709	http://www.hotelviadelmare.com/
+way	295533523	https://www.crai-supermercati.it/punto-vendita/5938-cuor-di-crai-torre-delle-stelle/
 way	295594484	https://www.zona.eu/shop/home
 way	295643303	http://www.visitmuravera.it/museo-la-casa-dei-candelai/
 way	295705610	https://www.comune.serdiana.ca.it/citta-e-territorio/spazi-culturali/biblioteca.html
@@ -2462,6 +2464,7 @@ way	1015072850	https://www.marinadiportocervo.com/cantiere-porto-cervo/
 way	1025504521	https://www.bricoman.it/it/n/cagliari-assemini/
 way	1043755653	https://www.rinascente.it/it/store-cagliari
 way	1056704326	https://www.sardegnatermale.it/
+way	1061325600	https://fatzendafactory.eatbu.com/
 way	1064330219	http://www.campingcaladambra.com/
 way	1082295947	https://www.isarenasvillage.com
 way	1090857416	https://www.ristorantearagona.com
@@ -2486,6 +2489,8 @@ way	1257201020	https://sardafluid.it/
 way	1296653317	https://www.hoteldeipini.it
 way	1301752746	https://florgarden.it/
 way	1302252084	https://www.campingflumendosa.com/
+way	1304797864	https://www.hotelpuntanegra.it/
+way	1304913363	https://www.lidl.it/s/it-IT/ricerca-punto-vendita/alghero-ss/via-vittorio-emanuele-219/
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
