@@ -909,6 +909,9 @@ node	12014694347	https://www.turancafe.it/
 node	12026530319	https://www.ristorantemangiardivino.it/
 node	12061029117	https://www.borgodellemole.com/
 node	12070292921	https://www.3gperugiapadel.it/
+node	12082770884	https://www.clinicasmartphonepg.it/
+node	12084515051	https://www.torre-sangiovanni.it/
+node	12084515053	https://www.ladimoranelcastello.com/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1011,7 +1014,6 @@ way	229358867	https://www.fonteantica.it/
 way	229658666	https://shop.edilcalce.com/it/
 way	230358503	http://www.cantinezanchi.it/
 way	234839842	https://www.airport.umbria.it/
-way	234844919	https://www.assisiprogettogiovani.com/
 way	236384565	http://www.iluoghidelsilenzio.it/?p=3272
 way	236523861	http://www.betatex.com/
 way	236885583	http://www.rifugiosangaspare.it
@@ -1459,6 +1461,7 @@ way	884930203	https://ilcollicello.com/
 way	903911366	http://www.iluoghidelsilenzio.it/?p=228684
 way	903911370	http://www.iluoghidelsilenzio.it/?p=228779
 way	906374767	http://www.iluoghidelsilenzio.it/?p=72315
+way	906852016	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-delle-grazie-caso/
 way	906938808	https://m.iluoghidelsilenzio.it/articolo.html?id=chiesa-di-san-marco-casigliano-di-strettura-spoleto-pg
 way	908926207	http://www.iluoghidelsilenzio.it/?p=205319
 way	914302419	https://www.iluoghidelsilenzio.it/chiesa-di-san-fortunato-spello/
@@ -1769,7 +1772,6 @@ relation	16751540	https://camminoterremutate.org/
 relation	16757488	https://camminoterremutate.org/
 relation	16773556	https://www.camminodifrancesco.it/
 relation	16892973	https://www.camminodifrancesco.it/
-relation	16904488	https://camminodilarth.it/
 relation	17144267	https://relaisilfurioso.com/
 relation	17233939	https://www.iluoghidelsilenzio.it/abbazia-di-san-nicolo-di-acquapremula-sellano/
 relation	17375915	http://www.casecorboli.it/
@@ -1788,6 +1790,8 @@ relation	17675981	https://www.comune.corciano.pg.it/ecocorciano/sentiero-fantast
 relation	17704126	https://www.duomospoleto.it/luoghi/sant-eufemia.html
 relation	17705499	http://www.montideltezio.it/
 relation	17831895	https://www.camminoprotomartiri.it/il-cammino-dei-protomartiri-francescani/tappa-2-cammino-dei-protomartiri-da-stroncone-a-calvi-dell-umbria
+relation	17882852	https://camminodilarth.it/
+relation	17882879	https://camminodilarth.it/
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1887119542	https://www.fezemauro.com/
 node	2146579118	https://www.domuspacis.it/
