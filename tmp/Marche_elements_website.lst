@@ -170,6 +170,7 @@ node	1321082413	https://www.pamo.it/
 node	1321082517	https://www.egohotelancona.it/
 node	1321082564	https://www.bmw-motorrad.it/topmotors-ancona/it/home.html
 node	1321082570	https://www.mociga.it/
+node	1331732167	https://hoteleuropa-ancona.com/
 node	1331732180	https://www.marenostrum.cloud
 node	1331732454	https://www.mitobreakbar.com/
 node	1332887430	https://www.grandhotelpalaceancona.com/
@@ -588,7 +589,6 @@ node	4338999197	https://plazaportonovo.it/
 node	4339021635	https://www.hopbarpinseria.it/
 node	4340280649	http://www.pizzeriatorrette.ancona.it/
 node	4340538433	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Ancona-Mazzini/1117/
-node	4340538434	https://www.momentidite.it/
 node	4340538437	https://www.clickcafeshop.it/module/storelocator/storedetails?id=3
 node	4340538439	https://www.enel.it/punto-enel/
 node	4340538442	https://www.vinoalvinobistrot.it/
@@ -1555,6 +1555,7 @@ way	60710470	https://www.centroconero.it/
 way	60727249	https://www.casacultureancona.it/
 way	61985456	https://www.agroalimentare.it
 way	62790025	http://www.pesarocultura.it/
+way	65995237	https://www.pesaroparcheggi.it/index.php?option=com_content&view=article&id=140&Itemid=99&lang=it
 way	67240460	https://www.campingdondiego.it/
 way	68458699	http://www.santuariomacereto.it/
 way	69764943	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII158941#
@@ -1569,6 +1570,7 @@ way	93722799	https://www.campingstellamaris.it/
 way	96604905	https://www.scioviemontenerone.it/
 way	97176141	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	100298769	https://www.lagrancia.net/
+way	104901714	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII176424
 way	105812217	https://www.atlanticpesaro.it/
 way	106274924	https://www.ramuse.it
 way	108129237	http://www.roccavarano.info/
@@ -2140,6 +2142,7 @@ relation	9316453	https://www.sibillini.net/
 relation	9545582	https://www.flixbus.de/busverbindung/fernbus-ancona-muenchen
 relation	9545583	https://www.flixbus.de/busverbindung/fernbus-muenchen-ancona
 relation	9758071	https://www.villa-valente.com
+relation	9794935	https://www.casadicuravillaigea.it/
 relation	10579798	https://www.actml.it/
 relation	10631731	http://www.coloniacagnano.it/
 relation	11037908	https://www.villaligi.it/
