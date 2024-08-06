@@ -913,7 +913,6 @@ node	1956245254	http://www.saltenbichlhof.it
 node	1959050481	https://www.obermaratscher.it/
 node	1969210008	http://www.schaefer-innichen.it/
 node	1972698657	https://aurimmobil.com
-node	1984415519	https://www.muuvillage.it/
 node	1986569577	https://www.erika.it/
 node	1991003959	https://www.ploerr.com/
 node	1992954489	https://www.mart.tn.it/visita/visita-la-casa-d-arte-futurista-depero-123036
@@ -1160,6 +1159,7 @@ node	2439801246	http://www.vonaufschnaiter.com/
 node	2443075471	https://www.glinzhof.com/
 node	2443240464	https://www.dolomitislowbike.com/
 node	2443359624	www.albergoaurora.tn.it
+node	2444432225	https://www.camping-olympia.com/tierpark-toblach/
 node	2444658532	https://www.alpenhotel-ratsberg.com/
 node	2445346188	https://www.comune.meltina.bz.it/
 node	2446412398	https://www.restaurant-ladurner.com/
@@ -2597,6 +2597,7 @@ node	3544784722	https://www.garnieden.it/
 node	3544826793	https://www.dornerhof.schenna.com/
 node	3544908521	https://www.zunnelerhof.it/
 node	3545406939	http://castellatemar.de
+node	3546495211	https://www.meraner.it/
 node	3547367219	http://www.zumburggraefler.com/
 node	3547374510	http://www.fernblick-hoefler.com/
 node	3547387071	https://www.zirmhof.com/
@@ -3516,7 +3517,6 @@ node	4763782196	https://ferienhausimstadl.it/
 node	4764462415	https://www.bed-and-breakfast.it/it/trentino-alto-adige/bb-bluemind-besenello/10710
 node	4765396371	http://www.idolomitici.com/aziende/rosi/
 node	4778542622	zwickauer@13h.de
-node	4780216894	https://www.becherhaus.it/
 node	4788140399	https://www.kaeserei-pfelders.com/
 node	4790027622	http://www.hubertus.bz.it/
 node	4791189726	https://sites.google.com/site/ilgufobolzano/
@@ -3693,7 +3693,6 @@ node	5286409646	https://www.cri.it/bolzano
 node	5291165826	https://www.alpensushi.it/de/restaurant/momo-chan
 node	5292077699	https://www.muenchen-venezia.info/
 node	5302396208	https://www.vurzaristorantepizzeria.it/
-node	5304514785	http://appartements-haas.com
 node	5306395928	https://www.goldrainerhof.it/it/hotel
 node	5306476354	https://www.aemmotorssnc.com/
 node	5306531982	https://www.colorartarco.it/
@@ -5991,7 +5990,7 @@ node	12030874661	https://www.apperlehof.com
 node	12033697750	https://www.glamvision.it/
 node	12041615545	https://www.sportservice.bz/de/verleih-shop/naturns-naturno/
 node	12045166469	http://www.facebook.com/KostbamerGutMeran
-node	12047508569	http://bistrobybackificio.com
+node	12047508569	https://bistrobybackificio.com/
 node	12050606869	https://it.benetton.com
 node	12055305245	https://3zinnen.it/de/uber-uns/schaukaserei/
 node	12056651665	https://badhaus.it/
@@ -6010,6 +6009,9 @@ node	12079944014	https://www.tigota.it/negozi/014941
 node	12079944015	http://www.juventusclubmori.it
 node	12082266440	http://www.ferrariarredointerni.it/
 node	12082270217	https://www.gazzini.it/
+node	12087664917	https://www.ferienwohnung-haas.it/
+node	12087738031	https://www.moos-schulthaus.it/
+node	12092357010	https://www.maxmotor.it
 way	22890146	https://www.prags.bz/en
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
@@ -6162,6 +6164,7 @@ way	42973422	https://www.camping-voellan.com/
 way	43029974	https://muehlbacherklause.it/
 way	43083618	https://rifugiocremona.com/
 way	43127929	https://www.muellerhuette.eu/
+way	43127930	https://www.becherhaus.it/
 way	43133266	https://www.ladurnerhuette.com/
 way	43133718	http://www.vallmingalm.it
 way	43139975	https://www.prantneralm.com/
@@ -8774,6 +8777,7 @@ way	327293543	https://www.gasthof-zum-schlern.it/
 way	327722193	https://www.merano-suedtirol.it/de/passeiertal/info-service/informationen/kontakt-oeffnungszeiten/rid-E0C1FA80DB684640858A6DF221CAC820-p-infobuero-st-martin-in-passeier.html
 way	327820704	https://www.stanglerhof.bz.it/
 way	330381476	www.richiedentiterra.org
+way	330836856	https://schlossfreudenstein.com/de/ansitz-zinnenberg/ansitz-zinnenberg/
 way	331108898	https://www.waldschenke.info/
 way	331419598	https://www.haus-pircher.it/
 way	331641419	http://www.feriengruener.com/
@@ -9063,6 +9067,7 @@ way	510145986	http://arcodeisogni.it/
 way	511320843	https://www.bicigrillcastelnuovo.it/
 way	511517560	https://www.golf.bz.it
 way	512285377	https://www.gartscheid.it/
+way	512627724	https://www.mairhof.eu/
 way	514999294	https://www.fassa.com/IT/RifugioPassoSanNicolo/
 way	515001591	https://www.apss.tn.it/Azienda/Luoghi/Ospedale-Valli-del-noce-di-Cles
 way	515519747	https://www.utiadarit.it/
@@ -9574,6 +9579,7 @@ way	1297600052	https://www.city-camping.it
 way	1301739786	https://www.spitalerhof.it/de
 way	1301754091	https://www.bergsteigen.com/touren/klettersteig/goldweg-klettersteig/
 way	1302220103	https://www.apsp-cesarebenedetti.it
+way	1305695696	https://www.muuvillage.it/
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -11961,6 +11967,7 @@ node	11981478395	https://activa.bmw.it/
 node	11998617215	https://www.latorre-forst.it/
 node	12001435125	http://www.hotelmiramontimer.com
 node	12041562850	https://www.caprizza.it/
+node	12092372526	https://www.bbmarigold.com/
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24441737	https://www.trentinomobilita.it/parcheggi-coperti
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
