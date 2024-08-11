@@ -1,4 +1,5 @@
 @type	@id	website
+node	26859409	https://www.blucamping.it/
 node	26859501	http://www.parking-europa.it/
 node	32338215	http://torrerossaparkhotel.hotelinroma.com/
 node	72959652	https://www.comune.roma.it/
@@ -32,6 +33,7 @@ node	72960609	https://www.comune.giulianodiroma.fr.it/
 node	72960613	https://www.comune.guarcino.fr.it/
 node	72960629	https://www.comune.sgurgola.fr.it/
 node	72960644	https://comune.serrone.fr.it/
+node	72960660	https://comune.terelle.fr.it/
 node	72960672	https://www.comune.supino.fr.it/
 node	72960812	https://www.comune.torrecajetani.fr.it/
 node	72960855	https://www.comune.trivigliano.fr.it/
@@ -5904,7 +5906,6 @@ node	11593896214	https://www.caisora.it
 node	11593896215	https://www.caisora.it
 node	11593940085	www.caicassino.com
 node	11595428110	https://www.hostariaromanaenrico.it/
-node	11601686093	https://www.parkinstation.it/eccellenze/351755-roma-termini-piastra
 node	11608407753	https://cicacicaboom.it/
 node	11608407754	https://pipistrello-nightclub.it/
 node	11609768369	https://www.radissonhotels.com/en-us/hotels/radisson-collection-rome-palazzo-montemartini
@@ -5969,7 +5970,6 @@ node	11739271393	https://www.reply.com/en
 node	11741790961	https://www.zucchetti.it/website/cms/home.html
 node	11745573269	https://www.adessohotel.it/
 node	11748351569	http://biblopointcardarelli.it
-node	11748811530	https://www.fspark.it/content/metropark_nd/it/parcheggi/centro-italia/roma-termini-piastra.html
 node	11753192451	https://www.progesoftware.it/en/
 node	11753391274	https://www.zurla68.it/
 node	11755742316	https://www.cavalieriappiaantica.it
@@ -6017,6 +6017,7 @@ node	11845253611	https://www.fishenjoy.com/
 node	11847576432	https://www.passpartoutroma.it/
 node	11847787922	https://www.centrocartapizzino.it/
 node	11853695091	https://www.centroraphael.it/parafarmacia-e-sanitaria
+node	11861955760	https://www.burgerking.it/trova-un-ristorante?storeId=31880
 node	11865532070	https://www.orizzonteshop.it/
 node	11872430355	http://www.fenixwar.it/
 node	11877019402	https://www.shop.ipzs.it/spazio-verdi
@@ -6161,6 +6162,12 @@ node	12090217389	https://magicland.it/it/attrazioni/safari
 node	12090217425	https://magicland.it/it/Attrazioni/isola-volante
 node	12090297976	https://magicland.it/it/attrazioni/giranido
 node	12090297977	https://magicland.it/it/attrazioni/mongolfiere
+node	12093462401	https://www.omnesartes.it/
+node	12094207293	https://www.louiseranch.com
+node	12096622950	https://www.repower.com/it/la-mobilita-elettrica/
+node	12096642393	https://www.repower.com/it/la-mobilita-elettrica/
+node	12100910601	"http://farmaciajung
+ano.it"
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6758,6 +6765,7 @@ way	201626629	http://www.eital.mrecic.gov.ar
 way	201636939	https://museum.cref.it/
 way	201884699	https://www.dicea.uniroma1.it/
 way	201895933	https://www.psdp.it/
+way	201950493	https://teatrobrancaccio.it/
 way	202067930	https://www.biblhertz.it/
 way	202079171	www.ilpalazzettoroma.com
 way	202110420	www.keats-shelley-house.org
@@ -6964,6 +6972,7 @@ way	244564231	http://www.tibursuperbum.it/ita/monumenti/TombaPlauzi.htm
 way	244567181	http://www.villaadriana.beniculturali.it/index.php?it/206/santuario-di-ercole-vincitore
 way	244855970	http://www.generalmeccanicasrl.it
 way	245085948	http://www.arteinsieme.biz
+way	245300990	https://www.unicas.it/
 way	245316144	https://joyvillage.it/
 way	245373104	https://www.globalservices.bt.com/
 way	245811231	https://www.approdograndhotel.it/
@@ -7243,7 +7252,6 @@ way	347912877	https://www.hotelducadalba.com/
 way	349333994	https://www.mecenatepalace.com/
 way	349335385	http://www.amaroma.it/raccolta-differenziata/4210-centri-di-raccolta.html#cdr-8
 way	349577395	http://www.bbmontegelato.it
-way	350195568	https://www.comune.roma.it/web/it/dipartimento-politiche-sociali-e-salute.page
 way	350637268	http://www.santamariastellamaris.it/
 way	351652457	https://www.ristorantepalazzolo.it/
 way	352402902	http://www.md-discount.it
@@ -7795,6 +7803,7 @@ way	524079436	https://www.gruppowaco.it/
 way	524377383	https://www.unicamillus.org/
 way	524866885	http://www.parrocchiaallumiere.it/wp/le-chiese/eremo-della-trinita/
 way	524974919	http://www.domusvitellia.it/index.html
+way	525436012	https://www.palianello.it/
 way	525733340	https://www.comitatoverdeferratella.it/
 way	527060849	https://www.unicredit.it/
 way	527264551	https://www.bim.srl/
@@ -8355,6 +8364,7 @@ way	1030024285	https://www.provincia.viterbo.it
 way	1031388303	https://numeriopullio.altervista.org/StradeStoriche/
 way	1031394284	https://numeriopullio.altervista.org/StradeStoriche/
 way	1035815441	https://edicole.primaedicola.it/it/italia/roma/roma-piazza-dei-siculi
+way	1046157451	https://www.fspark.it/content/metropark_nd/it/parcheggi/centro-italia/roma-termini-piastra.html
 way	1047229272	https://www.enelgreenpower.com/
 way	1047386349	https://www.risparmiocasa.com/store/anzio/
 way	1049524369	https://teverepoint.teverexplora.it/
@@ -8583,6 +8593,7 @@ way	1305377504	https://magicland.it/it/attrazioni/nui-lua
 way	1305377507	https://magicland.it/it/attrazioni/esplorabruco
 way	1305377509	https://magicland.it/it/attrazioni/olandese-volante
 way	1305377513	https://magicland.it/it/Attrazioni/shock
+way	1305985506	https://www.comune.roma.it/web/it/dipartimento-politiche-sociali-e-salute.page
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -8654,7 +8665,7 @@ relation	2189753	https://www.benedettinesantacecilia.it/
 relation	2199010	http://www.vigilfuoco.it/sitiVVF/latina/
 relation	2234038	https://abbaziadicasamari.it/
 relation	2234039	https://www.polomusealelazio.beniculturali.it/index.php?it/251/abbazia-di-casamari
-relation	2254972	https://www.polomusealelazio.beniculturali.it/index.php?it/561/museo-archeologico-nazionale-g-carettoni-e-area-archeologica-di-casinum
+relation	2254971	https://www.polomusealelazio.beniculturali.it/index.php?it/561/museo-archeologico-nazionale-g-carettoni-e-area-archeologica-di-casinum
 relation	2271575	http://www.laziodisco.it/luoghi/residenza-assisi/
 relation	2271576	https://www.hotel-bb.com/it/hotel/roma-tuscolana
 relation	2275890	http://www.consorziomotus.it/
@@ -8750,6 +8761,7 @@ relation	4844840	https://www.viadeilupi.eu/
 relation	5163764	https://piloalbertelli.it/
 relation	5202155	http://www.virtusbasket.com
 relation	5206238	https://www.ilcaminettodoro.it/
+relation	5265667	https://www.agenziaentrate.gov.it/portale/web/guest/agenzia/chi-siamo/organigramma-centrale/servizi-catastali-cartografici-pubblicita-immobiliare
 relation	5267845	http://archeoroma.beniculturali.it/en/node/457
 relation	5289251	https://www.scuolamediacesarebaronio.org/
 relation	5306571	https://italospa.italotreno.it/
@@ -8794,6 +8806,11 @@ relation	6566169	www.montilucretili.it
 relation	6566170	www.parcolucretili.it
 relation	6566171	www.parcolucretili.it
 relation	6619597	http://www.asl.vt.it
+relation	6717265	https://www.viefrancigene.org
+relation	6717293	https://www.viefrancigene.org
+relation	6717966	https://www.viefrancigene.org
+relation	6718065	https://www.viefrancigene.org
+relation	6718093	https://www.viefrancigene.org
 relation	6718890	http://www.smbc.it/smbc/
 relation	6719726	https://www.salute.gov.it/
 relation	6743414	http://www.asl.vt.it/
@@ -8820,7 +8837,7 @@ relation	7357602	https://www.operabosco.eu/
 relation	7372318	https://www.centrocommercialemorbella.com/
 relation	7378396	http://www.sangiuseppemoscatiroma.it
 relation	7399959	http://www.camminodellaluce.it/
-relation	7435893	http://www.itcvittorioveneto.eu
+relation	7435893	https://www.vittoriovenetosalvemini.edu.it
 relation	7449235	https://www.manzonilatina.edu.it/it/
 relation	7601914	https://www.annamicheli.it/
 relation	7624013	https://www.latinafiori.com/
@@ -9631,11 +9648,6 @@ relation	1026680	https://www.oasidigreccio.it/
 relation	1578095	http://casamadrenazarena.it/
 relation	2562181	http://www.universitadeibambini.it/Libera_Universita_dei_Bambini/I._Home_Page.html
 relation	3777310	http://www.conventobolsena.org
-relation	6717265	http://www.viafrancigena.bike
-relation	6717293	http://www.viafrancigena.bike
-relation	6717966	http://www.viafrancigena.bike
-relation	6718065	http://www.viafrancigena.bike
-relation	6718093	http://www.viafrancigena.bike
 relation	6962407	https://www.churchofjesuschrist.org/temples/details/rome-italy-temple
 relation	7347350	https://www.casareginapacis.com
 relation	12300259	https://www.corteconti.it/Home/Contatti
@@ -9796,6 +9808,8 @@ way	1068735575	https://wiki.openstreetmap.org/wiki/Ramsar_site
 way	1221735753	http://www.lazioverticale.joomlafree.it/
 way	1246182264	https://www.provincia.viterbo.it/strade.html
 way	1246182267	https://www.provincia.viterbo.it/strade.html
+way	1305945224	https://www.provincia.viterbo.it/strade.html
+way	1305945225	https://www.provincia.viterbo.it/strade.html
 relation	539134	https://sansaba.gesuiti.it/basilica-storia-arte/
 relation	919376	http://www.archidiap.com/opera/albergo-rosso/
 relation	1026680	http://www.centroculturalearacoeli.it/CMS/Alle-Sprachen/Alle-Kategorien/Oasi-Ges%C3%B9-Bambino-Greccio.aspx?Sel=339&lg=4
