@@ -1,4 +1,6 @@
 @type	@id	website
+node	26859427	https://www.campingcalypso.it/
+node	26859596	https://www.campingledzeppelin.it/
 node	26859701	http://www.camping-pineta-urbino.it/
 node	70980633	https://www.comune.grottammare.ap.it/
 node	130009920	http://www.hotelpassetto.it/
@@ -6,8 +8,6 @@ node	229118515	https://carburanti.esso.it/it-it/find-station/esso-ancona-essoanc
 node	257061689	https://www.farmaciaferrettidrgianpaolo.com/
 node	266580073	http://www.donegal.it/
 node	276129824	https://www.lacantinadibacco.it/
-node	280991958	https://www.campinggemma.it
-node	280991959	https://www.campingjohnny.com/index.php/it/
 node	290402015	https://www.caffemeletti.it/
 node	290402277	https://www.barsestili.it/
 node	302657619	https://agriturismoilrustico.it/
@@ -41,7 +41,6 @@ node	585261271	https://ninocafe.it/
 node	595790313	https://ascoli.ospedaliere.it/
 node	602806636	https://www.farmaciatamburrini.com/
 node	610647853	https://www.conad.it/ricerca-negozi/negozio.010258.html
-node	610647855	https://www.d-piu.com/punti_vendita/g961-ascoli-piceno/
 node	610671412	https://www.conad.it/ricerca-negozi/conad-superstore-viale-costantino-rozzi-snc-63100-ascoli-piceno--010024
 node	610671413	https://caffedelduca.business.site/
 node	618134478	https://www.rosacremeriafood.it
@@ -390,6 +389,7 @@ node	3021188413	http://www.pizzeriacrix.com
 node	3021188415	http://www.0731pizzeriajesi.it
 node	3021414456	https://www.bardijesi.it
 node	3023559918	https://www.siamofritti.ap.it/
+node	3026279118	https://www.pasticceriazoppi.it/
 node	3034752153	https://www.comune.sanmarcello.an.it/c042041/zf/index.php/servizi-aggiuntivi/index/index/idtesto/31
 node	3036573448	https://www.ristorantepizzeriadabosio.it/
 node	3037397970	https://www.ilcasalesullago.it/
@@ -564,6 +564,7 @@ node	4175861097	https://csia.unimc.it/it
 node	4226559875	https://it.intimissimi.com/
 node	4232479290	https://www.poggioristorante.com/
 node	4237858536	https://romanticapizza.it/pizzerie/pesaro/
+node	4241047602	https://www.rambaldus.com/
 node	4251144841	https://www.oasitigre.it/it/punti-vendita.html?store=9505
 node	4253065696	https://www.ilcampionesport.com
 node	4253117691	https://www.ilcampionesport.com
@@ -571,6 +572,7 @@ node	4265183776	https://www.marinadeicesari.it/
 node	4265183778	https://www.taghotelfano.com/
 node	4268166925	https://www.pennenteoutdoor.it
 node	4275268691	https://turismosirolo.it/
+node	4292804889	https://www.campingregina.it/
 node	4298678903	https://www.ilvinattiere.it/
 node	4298678904	http://www.ostiumpub.it
 node	4301428747	http://www.lafumetteria.it
@@ -672,7 +674,6 @@ node	5044692122	https://www.villafornari.it/
 node	5052344577	https://numismaticantica.com/
 node	5052344590	https://www.trattoriacarotti.it/
 node	5059198599	https://www.nacm.it/
-node	5059198922	https://www.carabinieri.it/
 node	5060936513	https://www.casalefabrizi.it/
 node	5062198713	https://www.agrituristsantanna.com/
 node	5068857229	http://fabriano-matelica.it/museo-diocesano/
@@ -794,6 +795,7 @@ node	6742202924	https://www.agenziademanio.it/opencms/it/agenzia/strutturaorgani
 node	6780410058	https://www.gate-away.com
 node	6823873570	http://www.farmaciafortuna.it/
 node	6828345292	https://www.farmaciablasi.it/Home-Page
+node	6829830194	https://www.campingilfrutteto.it/
 node	6832789217	https://www.facebook.com/farmaciasalaria/
 node	6858926135	https://www.pastalamadia.it/
 node	6872910286	https://ilmandriano.it/
@@ -844,6 +846,7 @@ node	7350042967	http://www.casebottaro.it/
 node	7350042968	http://www.fenigli.de/index.php
 node	7350043077	https://www.nojaltri.it/
 node	7368593080	https://sfbct.unimc.it/it
+node	7375423075	https://www.bbcarpediem.it/it/
 node	7376038452	https://thebeershop.it/
 node	7376228924	https://bakkanoinviamanara.com/
 node	7376311156	https://www.conad.it/ricerca-negozi/negozio.009902.html
@@ -1225,7 +1228,7 @@ node	10858842912	https://www.ristoranteilpiaceredellacarne.it/
 node	10876598018	http://scuromilano.it
 node	10876598492	http://www.flatshop.it/
 node	10877142210	https://prink.it/
-node	10889910157	https://www.anticadimorasarnano.it/
+node	10881659837	https://www.pinetacamping.it/
 node	10890091192	https://www.saecula.eu/en_GB/agricamping
 node	10891922445	https://www.leconfezioni.it/
 node	10893542845	https://www.campinglefarfalle.com/
@@ -1291,7 +1294,6 @@ node	11157726482	https://www.morenocedroni.it/la-madonnina-del-pescatore/
 node	11163085910	https://www.intac.it
 node	11163086501	https://www.lautomobilesenigallia.it/
 node	11164743427	https://www.carrozzeriaadriatica.it/
-node	11166480355	https://www.vacanzespinnaker.it
 node	11168761721	https://ilgentilverde.it
 node	11169946381	https://www.trillini.com/
 node	11170009169	https://www.casa-co.it/punti-vendita/marche/macerata/civitanova-marche/
@@ -1472,6 +1474,7 @@ node	11676343433	https://www.rina.org
 node	11682818832	https://www.farmaciaangelinisimplicio.it/
 node	11694719733	https://www.rositaceccarelli.it/
 node	11700389485	https://cinfo.unicam.it/
+node	11708920271	https://tonellienicolini.it/
 node	11750546138	https://www.boscodoroshop.com
 node	11757892921	https://lidaste.it/?cat=1
 node	11768533315	https://www.giomettirealestatecinema.it/cinema/multiplex-jesi/programmazione
@@ -1514,10 +1517,17 @@ node	12033853829	https://www.facebook.com/pages/Cantina-Antisociale/135661380130
 node	12035489391	https://www.korcaffe.it/
 node	12035489395	https://www.pescheriailmoscardino.com/
 node	12035560561	http://www.artenelferro.it/
+node	12037438708	https://www.dasantin.it/
+node	12040164755	https://www.labiga.it/
 node	12041656375	https://www.conad.it/ricerca-negozi/conad-via-giovanni-verga-72-a-62100--macerata--009738
 node	12041656387	https://www.mponoranzefunebri.it/
 node	12059595125	https://pizzeriaonthebeach.it/
 node	12068392978	https://ebike.bikesquare.eu/ita/maceratese
+node	12092115454	http://www.locandaipiceni.it/
+node	12092232655	https://uqr.to/laboratorio_jesi
+node	12093851642	https://www.facebook.com/lartedellapinsa
+node	12094198027	https://www.aeroclubfano.it/
+node	12100291750	http://www.bebarmonia.com/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1663,6 +1673,7 @@ way	286857801	http://www.rifugiocittadiamandola.com/
 way	288279644	https://www.castellobrancaleoni.it/
 way	288283846	https://www.valguerriera.it/
 way	289656880	https://www.campingdelgabbiano.it/
+way	290746228	http://www.campingclubcesano.com
 way	291528896	http://www.siconte.it/it/punti-vendita/si-supermercati/ancona-piazza-d-armi
 way	294002268	https://www.faonline.it/
 way	295345036	https://www.agrituristlafonte.it/
@@ -1712,6 +1723,7 @@ way	309894080	http://www.brombolona.it/
 way	310213323	http://www.latartanasenigallia.it/
 way	310213495	https://www.barettorosso.it/
 way	310230312	https://www.iluoghidelsilenzio.it/eremo-della-madonna-della-valpovera-s-erasmo-di-camerino/
+way	310349896	https://www.greencamping.it/
 way	310376600	https://www.hotelazzurrasenigallia.it/
 way	310376941	https://www.hotelturistica.it/
 way	310442767	http://www.casa-molleone.com/en/
@@ -1738,6 +1750,7 @@ way	310934646	https://www.hotelcaggiari.it/
 way	310934654	https://www.hconchiglia.com/
 way	310941777	https://www.hotelroyalsenigallia.it/
 way	310941780	https://www.ghe.it/
+way	312038498	https://www.campingdomus.it/
 way	314391597	http://www.riservamontesanvicino.it/
 way	314426137	https://www.caraffasport.it/
 way	314638039	https://parcogolarossa.it/
@@ -1991,6 +2004,7 @@ way	979674434	https://www.bb-infinito.com/
 way	983017414	http://www.hotelathena-pesaro.com/
 way	983017415	https://www.hotelduepavoni.com/
 way	983586717	https://www.gardenriver.it/
+way	985177386	https://www.campingtrearchi.it/index.php/it/
 way	987168330	https://lumared.wixsite.com/tennisclubflaminia
 way	995585964	http://musei.beniculturali.it/musei?mid=414&nome=area-archeologica-di-helvia-recina
 way	997978029	https://www.itisurbino.edu.it/
@@ -2002,6 +2016,7 @@ way	1014796344	https://www.provincia.fermo.it/
 way	1015831695	http://www.campagnamica.it/
 way	1018570423	https://italserviziambiente.com
 way	1024974448	https://www.stradeanas.it/it/struttura-territoriale-marche
+way	1026848734	https://www.clubdelsole.com/it/destinazioni/marche-porto-sant-elpidio/la-risacca-family-camping-village
 way	1037855788	http://parrocchiamarina.it/
 way	1039132317	https://tenutasanmarcello.net/esperienze/
 way	1043080807	https://www.eurospin.it/punti-vendita/macerata-via-pagnanelli/
@@ -2024,6 +2039,7 @@ way	1097799401	http://www.abbaziadisanturbano.it/
 way	1099684516	http://www.renox.com
 way	1102172166	http://www.siconte.it/it/punti-vendita/si-superstore/marzocca-senigallia
 way	1102426843	https://gelogiallo.it/
+way	1102426845	https://www.campingliana.it/
 way	1102457386	https://caffesaccariashop.it/
 way	1104447186	https://www.cagnoni.it/
 way	1112283489	https://campeggiolatorreportonovo.com/
@@ -2051,6 +2067,8 @@ way	1175831449	https://www.cortecampioli.com
 way	1180066892	https://www.cuscamerino.it/
 way	1182249119	https://www.collinadellefate.com/
 way	1185080172	https://www.iluoghidelsilenzio.it/chiesa-di-s-maria-apparente-monte-urano-fm/
+way	1188230245	https://www.campingblufantasy.com/
+way	1189871540	https://www.campinggirasole.it/
 way	1190044277	http://www.chiesasanrocchetto.it/
 way	1190654222	https://www.pesaroavventura.it/
 way	1191256141	https://www.coal.it/archives/punti-vendita/villa-fastiggi-alimentari-srl
@@ -2097,6 +2115,13 @@ way	1295765705	https://www.iluoghidelsilenzio.it/chiesa-di-fonte-venere-pioraco-
 way	1296357582	http://www.tuttoserrapetrona.it/citta/arte/il-castello.asp
 way	1296558355	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/madonna-della-croce-loc-ta-colli/
 way	1300705849	https://frescina.com/
+way	1306228948	https://www.anticadimorasarnano.it/
+way	1306310249	https://www.campingjohnny.com/index.php/it/
+way	1306310250	https://www.vacanzespinnaker.it
+way	1306310251	https://www.campinggemma.it
+way	1306313432	https://www.areaperladelladriatico.it/
+way	1306318477	https://www.paradisocamping.it/
+way	1306320752	https://centrovacanzemirage.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -2106,7 +2131,7 @@ relation	3164710	https://www.gransassolagapark.it/
 relation	3415695	http://www.parcodelconero.com
 relation	4053386	https://www.civicatolentino.it/servizi-asp-civica-tolentino/servizi-residenziali-asp-tolentino-macerata.html
 relation	4163743	https://www.hotelpalace.net/
-relation	6029931	http://www.avioclubfano.com/
+relation	6029931	https://aeroportodifano.it/
 relation	6594890	https://www.comune.barbara.an.it/po/mostra_news.php?id=217
 relation	6677755	https://www.pinacotecafabriano.it/
 relation	7429583	https://rivaverde.it/
