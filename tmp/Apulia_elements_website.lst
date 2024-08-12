@@ -294,7 +294,6 @@ node	2917056214	https://www.eurospin.it/
 node	2933090739	http://www.bbleterrazzebisceglie.it/
 node	2939539701	http://www.camenae.it
 node	2963411144	http://www.ingenioweb.it
-node	2974097654	https://www.campingvillagesanmichele.it/
 node	2986033711	https://ambasadat.gov.al/bari-consulate/
 node	2987684565	http://www.siamotuttitufi.org
 node	3037447940	https://www.palazzorollo.it/
@@ -599,6 +598,7 @@ node	4747710927	https://www.riparata.it/
 node	4753013421	https://www.monreve.it/
 node	4753062747	https://www.paginebianche.it/talsano/vito-parrucchiere-uomo.11637181
 node	4756394335	www.wwftaranto.com
+node	4759965227	https://www.repower.com/it/lenergia-di-repower/produzione-di-energia-elettrica/
 node	4765281528	https://raccontidigrano.wordpress.com/
 node	4770806142	https://www.hotela14.it/
 node	4773190922	https://www.ristorante.cc/azienda-pizzeria-spikio-di-tari-anna-bianca-san-vito-dei-normanni-25446
@@ -1922,6 +1922,7 @@ node	10966084902	https://www.studiocotugno.it/
 node	10966668601	https://www.lartediluciano.it/
 node	10973434832	https://www.residencevillalemacine.com/
 node	10973434833	https://www.oleificiovieste.com/
+node	10973434849	https://www.repower.com/it/la-mobilita-elettrica/
 node	10979740855	https://bb-la-pigna.business.site/
 node	10981026236	https://www.solho.it/
 node	10981035596	https://oro2000.com/
@@ -2463,8 +2464,17 @@ node	12073991402	https://www.itrebacili.it/
 node	12078186354	https://www.centrounicusano.it/bari/
 node	12078932738	https://www.santarosarelais.it/
 node	12087649769	http://icbregantevolta.it
-node	12087649770	http://imagross.it
-node	12087671669	http://nrgbikestore.com
+node	12087649770	https://imagross.it/
+node	12087671669	https://nrgbikestore.com/
+node	12093522571	http://www.lapittula.it
+node	12093550555	http://www.tessa.zone
+node	12094800201	https://danyofficine.it/
+node	12099306042	https://scafud.it
+node	12101034601	https://linktr.ee/grapesenoteca
+node	12103982645	https://www.cinemapiccolo.it/
+node	12104066125	https://labaguette.kuokko.com
+node	12104342203	https://www.fratrespalese.it/
+node	12104624396	https://www.justtraining.it
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2560,6 +2570,7 @@ way	233113270	https://www.villaggioialillo.it/Camping_Jalillo.asp
 way	233113272	https://www.villaggiobellariva.it/
 way	236398211	www.campofreddo.it
 way	239853311	http://www.agricampeggioleradici.it
+way	240305038	https://frontemarepuglia.it/
 way	240518321	http://www.lidoalgamarina.it/
 way	240872402	https://www.victorvillage.it/it/
 way	241532003	http://www.pugliamegalitica.it/struttura_megalitica.php?id=169&lang=ita&idcom=145
@@ -2759,6 +2770,7 @@ way	391979884	https://www.grandhoteldilecce.it/
 way	393072835	https://www.ipzs.it/
 way	396587091	https://www.farmaciarao1832.com/
 way	397503650	https://musei.puglia.beniculturali.it/musei/palazzo-sinesi-canosa-di-puglia/
+way	397709057	http://www.liceoarchita.edu.it
 way	397709774	https://www.britishtaranto.it/
 way	397710106	https://cuoreimmacolatodim.wixsite.com/cimta/ministranti
 way	397710200	http://www.sabap-le.beniculturali.it/index.php?it/238/dove-siamo
@@ -2865,6 +2877,8 @@ way	411841308	https://www.fimbari.com/
 way	411866371	https://www.comune.noci.ba.it/it/page/chiese-conventi-e-monasteri
 way	411867703	https://catalogo.beniculturali.it/detail/PhotographicHeritage/1600368685
 way	412167074	https://palazzofizzarotti.com/
+way	412527254	https://malanghino.it/
+way	412528783	https://www.studiodentisticogiannuzzi.it/
 way	412529117	https://www.ristorantelaragostabari.com/
 way	412715106	https://www.montecosrl.it/
 way	413944453	www.pianetaostuni.it/index.php/18-chiese-rurali/562-soluco-24
@@ -3522,6 +3536,7 @@ way	1289707455	https://www.accademiadelcinemaragazzi.it/
 way	1289707456	https://www.comprensivogabellibari.edu.it/
 way	1289722963	https://defeo-group.it/
 way	1289735232	https://www.masseriapalombara.com/
+way	1292599613	https://crovaticoclubvacanze.it/
 way	1293086947	https://www.istitutoperottibari.edu.it/
 way	1295706194	https://www.nicolazingarellibari.edu.it/
 way	1295709270	https://www.nicolazingarellibari.edu.it/
@@ -3540,6 +3555,14 @@ way	1305045568	https://www.glassgroup.it/termovetro-sud/
 way	1305045569	https://www.cef-farma.it/
 way	1305529975	https://www.lavanderiastella.it/
 way	1305531192	https://www.siderurgicasignorile.it/
+way	1306120125	https://www.campingvillagesanmichele.it/
+way	1306121892	https://capovieste.it/
+way	1306133236	https://www.villaggiomerinovieste.it/it/
+way	1306141896	https://www.oasivieste.it/
+way	1306304547	https://www.littlecamping.it/
+way	1306511145	https://www.villagestelladelsud.it/
+way	1306514336	https://www.sostacampergargano.it/
+way	1306515623	https://www.siestacamping.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -3574,6 +3597,7 @@ relation	6062516	http://www.comune.santagatadipuglia.fg.it/cmpro-v-p-92.html
 relation	6097292	https://questure.poliziadistato.it/BarlettaAndriaTrani
 relation	6106077	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150134&pagename=157031
 relation	6121085	https://www.icdeamicisgiovanni23.edu.it/scuola-sec-i-grado.html
+relation	6124349	https://liceocarminesylos.edu.it
 relation	6134103	www.masseriadeimonelli.it
 relation	6141230	https://www.poliba.it/lic
 relation	6153602	https://www.sanita.puglia.it/web/asl-bari/ricerca_det/-/journal_content/56/25619/servizio-di-riabilitazione-ex-art-25-rutigliano
@@ -3709,6 +3733,14 @@ relation	17497412	https://www.icmazzinimodugno.edu.it/
 relation	17630551	https://www.ciaky.it/
 relation	17857179	https://www.liceoaristosseno.edu.it/
 relation	17895020	https://zoosafari.it/?art=news1
+relation	17905022	https://www.provincia.le.it/vieni-a-pedalare-in-puglia-presentata-oggi-la-ciclovia-del-salento-ionico/
+relation	17906249	https://www.provincia.le.it/vieni-a-pedalare-in-puglia-presentata-oggi-la-ciclovia-del-salento-ionico/
+relation	17906650	https://www.provincia.le.it/vieni-a-pedalare-in-puglia-presentata-oggi-la-ciclovia-del-salento-ionico/
+relation	17906987	https://www.provincia.le.it/vieni-a-pedalare-in-puglia-presentata-oggi-la-ciclovia-del-salento-ionico/
+relation	17910833	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itinerario-cicloturismo/
+relation	17910892	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itinerario-cicloturismo/
+relation	17910942	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itinerario-cicloturismo/
+relation	17911780	http://www.liceoarchita.edu.it/
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
@@ -3716,7 +3748,6 @@ node	373382776	https://www.epcpep.com/terlizzi
 node	429597454	https://www.itc.cnr.it/ba/sc/TRL/TRL0055.html
 node	534596017	https://www.sanita.puglia.it/web/asl-foggia/continuita-assistenziale
 node	538337616	http://www.abbaziadipulsano.org/
-node	778231629	http://www.capovieste.it/
 node	898255403	www.fixme.it
 node	898256873	www.scubadiving.it
 node	2361341097	https://scuolarcobaleno.business.site
