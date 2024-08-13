@@ -1501,6 +1501,7 @@ node	5681607758	https://www.medi-center.it/
 node	5690581041	http://www.ictricesimo.org
 node	5690581042	http://www.ictricesimo.org
 node	5696602121	https://www.caddys.it/negozi/trieste/trieste-ponchielli
+node	5699311387	https://www.repower.com/it/dina/
 node	5708500201	http://www.alpinafriulana.it/
 node	5711151255	https://www.faroutpordenone.it
 node	5748815320	www.parrocchiacodroipo.it/scuolamaterna/
@@ -1726,7 +1727,7 @@ node	7133644109	http://www.kmeckazveza.com/
 node	7139992833	https://www.mcdonalds.it/
 node	7162793032	https://www.teaterssg.com/
 node	7167353785	https://www.iniaviaggi.it/
-node	7183903568	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
+node	7183903568	https://api.weelo.it/urlguide/Trieste/homepage.ita.htmlcom/frmLeStazioniComune.aspx?ID=266
 node	7183903569	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
 node	7183903570	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
 node	7183903571	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
@@ -1734,7 +1735,7 @@ node	7183903572	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
 node	7183903573	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
 node	7183903574	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
 node	7183903575	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
-node	7183903576	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
+node	7183903576	https://api.weelo.it/urlguide/Trieste/homepage.ita.html
 node	7183903577	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
 node	7196041523	https://www.webandana.com/crags/pn/cuargnui01.html
 node	7196041620	https://www.webandana.com/crags/pn/cuargnui01.html
@@ -1857,7 +1858,7 @@ node	7926417685	https://www.caddys.it/
 node	7931399371	https://www.airbnb.it/rooms/21743445
 node	7933767555	https://www.Telecomunicazioni.business
 node	7933793014	https://www.Centralino.Cloud
-node	7938678267	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
+node	7938678267	https://api.weelo.it/urlguide/Trieste/homepage.ita.html
 node	7984676227	https://www.castelsanmauro.it
 node	7995135725	https://www.perlarealestate.it/
 node	7995135728	http://www.vianishop.it/
@@ -1927,7 +1928,7 @@ node	8798081418	https://www.alcollio.it/
 node	8855968715	https://www.bbtrecuori.com/
 node	8856298639	https://www.confartigianatoudine.com/
 node	8862921695	https://aibintars.com/
-node	8873512868	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=266
+node	8873512868	https://api.weelo.it/urlguide/Trieste/homepage.ita.html
 node	8917434211	https://www.atelier-eme.com/it/atelier_trieste
 node	8919680759	https://www.acquaesapone.it/
 node	8925884018	https://www.uniud.it/it/servizi/servizi-studiare/biblioteche/sedi_orari_biblioteche/biblioteca-umanistica-e-della-formazione
@@ -2076,6 +2077,7 @@ node	9848789805	https://www.smartrooms.it/
 node	9853652591	https://www.bluwash.it/
 node	9861318696	https://m.facebook.com/isoladorogrado
 node	9872214874	https://www.repower.com/it/dina/
+node	9872242020	https://www.repower.com/it/la-mobilita-elettrica/
 node	9875873566	https://www.stabilimentoborabora.com/
 node	9877090972	https://www.verduromaterassi.it/
 node	9893800540	https://www.bottiglierialignano.it/
@@ -2084,6 +2086,7 @@ node	9895215339	https://www.friulpesca.it/
 node	9895215340	https://fioreriasognoverde.it/
 node	9895442602	https://www.hotelmarinauno.com/
 node	9895913304	https://m.facebook.com/movillignanopineta/
+node	9900416528	https://www.repower.com/it/la-mobilita-elettrica/
 node	9900416543	https://m.facebook.com/al22bottegacapelli
 node	9909771244	https://www.doimohotels.it/
 node	9918225831	https://lignanosabbiadoro.it/it/strutture/156-18-pesce-palla/
@@ -2584,6 +2587,10 @@ node	12094969223	https://www.protezionecivile.fvg.it/it/comune/terzo-aquileia
 node	12094970288	https://www.protezionecivile.fvg.it/it/comune/muzzana-del-turgnano
 node	12094972840	https://www.protezionecivile.fvg.it/it/comune/bagnaria-arsa
 node	12094997701	https://www.protezionecivile.fvg.it/it/comune/pocenia
+node	12095626074	https://www.cartagiovaniattivi.it/index.php
+node	12096857312	https://sellaneveaparco.it/
+node	12097295743	https://www.termoconfort.it/balneum
+node	12108387226	https://www.skibarsappada.it
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2764,6 +2771,7 @@ way	36277656	http://www.nuotosanvito.it
 way	36279038	https://www.protezionecivile.fvg.it/it/comune/sesto-reghena
 way	36281702	https://www.allequerce.com/
 way	36281982	http://www.camalvani.it
+way	36289755	https://www.alpini-pordenone.it/?q=taxonomy/term/49
 way	36289779	https://www.studiodentisticovolpattidelmestre.it/
 way	36289848	https://www.castellodicordovado.com/
 way	36306435	https://www.folador.it/
@@ -2934,6 +2942,7 @@ way	36437344	https://www.teatroverdi-trieste.com/
 way	36438742	https://www.foibadibasovizza.it/
 way	36446922	http://www.polet.it/
 way	36447062	https://www.tennisgrignano.it/
+way	36447420	https://www.spalcordovado.it/
 way	36447660	https://www.esercito.difesa.it/organizzazione/Sport/Pagine/CSOE.aspx
 way	36447787	http://www.motoclubolimpia.it/
 way	36448271	https://www.carsosegreto.it/2008/12/cimitero-militare-austro-ungarico-di.html
@@ -3242,7 +3251,7 @@ way	198339911	https://ristorantealfiumestella.com
 way	198789618	https://artcart.it/it/
 way	199103313	https://www.turismofvg.it/en/turismofvg-where-to-go/san-vito-al-tagliamento
 way	199843563	http://www.castellodiprampero.org/
-way	200613383	www.wafna.it
+way	200613383	https://www.wafna.it/
 way	201562342	http://vidussi.it/
 way	201585989	https://www.sme.it/
 way	203186672	https://www.agriturismojuna.it/
@@ -3634,6 +3643,7 @@ way	1304599359	https://www.protezionecivile.fvg.it/it/comune/sedegliano
 way	1305008220	https://www.protezionecivile.fvg.it/it/comune/grimacco
 way	1305024277	https://www.protezionecivile.fvg.it/it/comune/fagagna
 way	1305914614	https://www.protezionecivile.fvg.it/it/comune/marano-lagunare
+way	1306355620	https://clubevolution.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4679,10 +4689,10 @@ relation	13643895	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13666775	https://federsanita.anci.fvg.it/progetti/progetto-friuli-venezia-giulia-in-movimento
 relation	13679910	https://federsanita.anci.fvg.it/progetti/progetto-friuli-venezia-giulia-in-movimento
 relation	13694309	https://www.federsanita.anci.fvg.it/progetti
-relation	13694420	https://www.outdooractive.com/de/route/wanderung/julische-alpen/julius-kugy-dreilaenderweg-in-30-tappe-collegamento-via-e-14b/61951294/
-relation	13703338	https://www.outdooractive.com/de/route/wanderung/julische-alpen/julius-kugy-dreilaenderweg-in-30-tappe-collegamento-via-e-14a/61977322/
-relation	13728730	https://www.outdooractive.com/de/route/wanderung/julische-alpen/julius-kugy-dreilaenderweg-in-30-tappe-collegamento-via-e-15b/61978584/
-relation	13731565	https://www.outdooractive.com/de/route/wanderung/friuli-venezia-giulia/julius-kugy-dreilaenderweg-in-30-giorni-collegamento-via-e-15a/61989013/
+relation	13694420	https://www.outdooractive.com/de/route/wanderung/julische-alpen/scrutto-topolo-rifugio-solarie/61951294
+relation	13703338	- https://www.outdooractive.com/de/route/wanderung/julische-alpen/scrutto-cepletischis-monte-mataiur-rifugio-pelizzo/61977322
+relation	13728730	https://www.outdooractive.com/de/route/wanderung/julische-alpen/san-pietro-makota-rifugio-pelizzo/61978584
+relation	13731565	https://www.outdooractive.com/de/route/wanderung/friaul-julisch-venetien/loch-montefosca-prossenicco-montemaggiore/61989013
 relation	13732691	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-380a
 relation	13735536	https://www.outdooractive.com/de/route/wanderung/tarvisio/julius-kugy-dreilaenderweg-in-30-tappe-collegamento-via-e-16b/62019177/
 relation	13737164	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-071a/
