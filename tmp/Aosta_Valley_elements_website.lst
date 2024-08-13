@@ -272,6 +272,9 @@ node	9970850964	https://www.repower.com/it/dina/
 node	9970895099	https://www.repower.com/it/dina/
 node	9970898910	https://www.repower.com/it/dina/
 node	10006149532	https://langolinodibonny.it/
+node	10009106269	https://histoiredebornes.ch
+node	10009106270	https://histoiredebornes.ch
+node	10009106271	https://histoiredebornes.ch
 node	10009128933	https://www.randonneurmb.com/ristorante
 node	10013781046	https://www.grandcombin.vda.it
 node	10076371041	https://www.cogne.com/
@@ -300,6 +303,7 @@ node	10992018505	https://www.innaosta.com/fr/appartements-de-vacances-au-centre-
 node	10994949531	https://www.repower.com/it/dina/
 node	10996620494	https://www.repower.com/it/dina/
 node	11006230735	http://www.comune.brusson.ao.it/
+node	11013741832	https://www.repower.com/it/la-mobilita-elettrica/
 node	11020154248	https://theplace.bike
 node	11076667605	https://www.labridesamis.it/
 node	11097141736	https://cofruits.it
@@ -330,6 +334,10 @@ node	12082835251	https://lastazionedellacqua.it/
 node	12084950055	https://cabernetvoltaire.wine/
 node	12084950058	https://alpaninoaosta.com/
 node	12084950066	https://www.zenzero.rest/
+node	12097484461	https://histoiredebornes.ch
+node	12098866558	https://histoiredebornes.ch
+node	12103096774	https://www.pellissiersport.it/
+node	12104714341	https://www.naturalys.it/
 way	4525912	http://www.tunnelmb.net/v3.0/
 way	27264184	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264185	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -611,6 +619,7 @@ way	166509032	https://www.etoiledunord.it/
 way	167067121	https://www.ghcervino.it/
 way	167067130	https://www.chaletvaldotain.it/
 way	167073447	https://salesianirebaudengo.it/casa-per-ferie/
+way	168533327	https://www.montazalpinehome.com/
 way	169148154	https://www.campingglair.it/
 way	169200567	https://www.campingcervino.com/
 way	170151448	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -1053,6 +1062,12 @@ node	670538805	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&
 node	670538806	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z
 node	670539182	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
 node	670539184	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
+node	10009106269	https://sketchfab.com/models/2c86a2c99925485f9416bb4cb2512495/embed?autospin=0.2&autostart=1
+node	10009106270	https://sketchfab.com/models/79c2547fa3964d72802c2815624fc5db/embed?autospin=0.2&autostart=1
+node	10009106271	https://sketchfab.com/models/942a965bc4a94f0281f4db1e5e423ebd/embed?autospin=0.2&autostart=1
+node	12097484461	https://sketchfab.com/models/7c59d140eed94ac6b55b527c8c7a431e/embed?autospin=0.2&autostart=1
+node	12098866558	https://sketchfab.com/models/305748fdaf834a3ea36c6e1a72378e96/embed?autospin=0.2&autostart=1
+node	12098897508	https://sketchfab.com/models/c839ced2aeca4767b36b1d6d4b208473/embed?autospin=0.2&autostart=1
 way	4525912	http://www.tunnelmb.net/
 way	205544546	http://www.tunnelmb.net/
 relation	517389	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C
