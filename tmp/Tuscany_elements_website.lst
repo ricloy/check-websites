@@ -412,7 +412,6 @@ node	1746299671	https://www.illaghetto.it/
 node	1747749863	http://www.maremmapromotion.com
 node	1750869856	https://www.gecamp.com/
 node	1752366740	https://www.lascafarda.com/home2.php
-node	1753752119	https://www.parcheggiobelmonte.it/
 node	1754593623	http://www.agenzia-lapineta.it
 node	1756569021	https://www.terzidisiena.it/
 node	1756979880	http://www.ristorantelogli.com/
@@ -1064,6 +1063,7 @@ node	2731463912	http://www.carobbipiante.it/
 node	2731706054	http://www.ildoccio.it/bar.html
 node	2733281731	https://www.baldaccivivai.it/
 node	2733281737	https://giacomellipiante.it/
+node	2734356259	https://www.pointvert.ch/
 node	2734409280	https://breschivivai.it/home.php?lingua=it&id_menu=272
 node	2736776245	https://bibliolandia.comperio.it/
 node	2741879134	http://www.casa-market.com/
@@ -1172,6 +1172,7 @@ node	2991991513	https://www.unicooptirreno.it/punto-vendita/vicarello
 node	2992666090	https://www.parcocollinemetallifere.it/
 node	2992666091	https://www.parcocollinemetallifere.it/
 node	2993722402	https://www.aicanipai.com/
+node	2993769923	https://ilsicomoro.it/
 node	2995000526	https://www.crocedimaltaflorence.com/
 node	2998598931	https://www.parcocollinemetallifere.it/
 node	2999392444	https://www.busatti.com/
@@ -1613,6 +1614,7 @@ node	4218906482	https://www.comune.piombino.li.it/pagina18170_biblioteche.html
 node	4219550040	https://www.hotelcavour.com/
 node	4222798622	http://www.vorgovino.com
 node	4222798624	https://www.laviadelte.it/la-via-del-t%C3%A8-2
+node	4222800152	https://www.conad.it/ricerca-negozi/sapori-dintorni-conad-borgo-san-lorenzo-15-17-50123-firenze--008920
 node	4223805550	https://www.mps.it/
 node	4223805557	https://www.bancacentro.it/
 node	4225538109	https://www.mps.it/
@@ -1632,7 +1634,6 @@ node	4236958722	https://www.eneldrive.it/
 node	4239129725	http://www.qartcapalbio.it/
 node	4240018014	https://www.wwf.it/oasi/toscana/lago_di_burano/
 node	4240041637	http://farmaciafrancabartolotti.it
-node	4241447203	https://www.lillypineta.com/
 node	4241447204	https://www.lillymare.com/
 node	4241590389	https://gelateriadellapassera.it/
 node	4242722989	http://agriturismolacastellana.com/
@@ -1715,6 +1716,7 @@ node	4338188199	http://www.carrozzeriaspina.it
 node	4338698853	https://giangusto.it/negozio_follonica/
 node	4338698863	https://www.seatowers.it/
 node	4338763809	http://www.colorificiogiorgiemekkaoui.com
+node	4341022489	https://sullamo.it
 node	4342362540	https://www.hotelfabricia.com/
 node	4344804351	https://pokebykoto.it/
 node	4344824540	https://pizzeriaballerini.it/
@@ -2170,6 +2172,7 @@ node	5398440028	https://www.farmaciecomunalipisa.it/?page_id=657
 node	5398469767	https://www.1950americandiner.it/it/
 node	5399344703	https://www.osteriailbargello.it/
 node	5399349416	https://labottegadeltartufo.it/
+node	5402842091	https://www.passeggere.it
 node	5402943822	https://www.hoteldinofirenze.com
 node	5410123751	http://www.lacasadegliaranci.altervista.org
 node	5410549422	https://www.sanantonio42.it
@@ -5966,11 +5969,15 @@ node	12088500069	https://gardenblue.it/
 node	12089401849	https://www.microworldrent.com/
 node	12091578269	https://paolettielettronica.it/
 node	12092543969	https://www.villacecilia.it/
-node	12097182823	www.noleggiobicialberese.com
+node	12097182823	https://www.noleggiobicialberese.com/
 node	12097558408	https://www.dvstyle.it/
 node	12097558409	https://proeco.it/
 node	12097584103	https://www.hotelviticcio.it/?utm_source=GoogleMaps&utm_medium=MyBusiness&utm_campaign=MyBusiness
 node	12099305252	http://www.cantinaelbana.it/
+node	12103997530	https://www.galleriagiovannibonelli.com/contatti/
+node	12112721516	https://www.tripadvisor.de/Restaurant_Review-g4106797-d1966493-Reviews-Trattoria_da_Rosanna-Casal_di_Pari_Civitella_Paganico_Province_of_Grosseto_Tusca.html
+node	12113071033	https://www.pokeflash.it
+node	12117542801	http://www.vecchialira.com/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -6067,6 +6074,7 @@ way	60438104	https://www.menssana1871.org/
 way	60438346	https://www.uisp.it/siena/nuoto
 way	60960621	https://www.comune.loro-ciuffenna.ar.it/c051020/hh/index.php
 way	61403346	https://mercatino-outlet-whirlpool-siena.business.site/
+way	61820093	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/6305
 way	61979882	https://www.htperseo.it/
 way	65202719	https://www.campinglasorgente.it/
 way	69548405	https://www.puccinifestival.it/il-gran-teatro-giacomo-puccini/
@@ -6380,7 +6388,7 @@ way	175937924	https://www.iltk.org/
 way	176151602	https://www.elettrogbluce.it/
 way	176193876	https://www.grottagiustispa.com/hotel/
 way	176200687	https://www.polomusealetoscana.beniculturali.it/index.php?it/224/monsummano-terme-pt-museo-nazionale-di-casa-giusti
-way	176331787	www.campingviareggio.it
+way	176331787	https://www.campingviareggio.it
 way	176441027	https://torremarina.it/
 way	177684444	https://www.istitutodonmilani.edu.it/
 way	177684447	https://www.istitutodonmilani.edu.it/
@@ -6425,7 +6433,6 @@ way	184962277	https://www.domusilpalio.it/
 way	184963788	https://www.hotelilgiardino.it/
 way	185017673	https://kartelba.it
 way	185081603	/url?q=http://medici2000.it/it/1008/Casa-della-Salute-Arca-di-Fontebecci---Siena.htm&opi=79508299&sa=U&ved=0ahUKEwien8Xtuo-HAxWcgP0HHc3-CiEQ61gIEigO&authuser=1&usg=AOvVaw1K9wPhbxmoJYtGIyAG5oJa
-way	185131135	https://www.polomusealetoscana.beniculturali.it/index.php?it/233/siena-villa-brandi
 way	185131151	https://www.polomusealetoscana.beniculturali.it/index.php?it/233/siena-villa-brandi
 way	185242289	https://www.arsmarmi.it/
 way	185242303	http://www.bmwblucar.it/
@@ -6475,7 +6482,7 @@ way	194615175	http://www.bagnobelmare.com/
 way	194615176	http://www.bagnobelmare.com/
 way	194899045	https://www.clubdelsole.com/villaggi-turistici-campeggi-toscana/italia-family-camping-village-viareggio/
 way	194899046	https://www.campinglapineta.com/
-way	194899047	www.campingparadisoviareggio.com
+way	194899047	https://www.campingparadisoviareggio.com
 way	194899048	https://www.campingdeitigli.com/
 way	195585509	www.bdeval.com
 way	195636099	https://ilbarrinoditatti.it/
@@ -6768,6 +6775,7 @@ way	303823934	https://www.termeaq.it/
 way	304360683	www.AffittaCamerePrimavera.it
 way	304391211	https://www.caipontedera.it/santantone.html
 way	304432625	https://www.fondazioneparsec.it/it/il-museo-di-scienze-planetarie
+way	304483149	https://www.cortebenedetto.it/
 way	304636309	https://www.coopfirenze.it/negozi-e-promo/centri-commerciali/coop-fi-figline
 way	304649938	https://www.procura.pisa.it/
 way	304775406	https://www.campingscaglieri.it/de/home
@@ -7807,7 +7815,6 @@ way	1098209057	https://www.fontedeitufi.it
 way	1098751776	https://www.villalameridianarsa.it/
 way	1100717823	https://www.birrificioagricolopoggiorosso.it/
 way	1101775858	https://www.fattoriaolmetto.com/la-sosta-camper/
-way	1110730766	https://www.tripadvisor.de/Restaurant_Review-g4106797-d1966493-Reviews-Trattoria_da_Rosanna-Casal_di_Pari_Civitella_Paganico_Province_of_Grosseto_Tusca.html
 way	1112492192	https://cliccaevai.esselunga.it/
 way	1116945684	https://www.dsu.toscana.it/-/nettuno
 way	1117216234	https://www.sassetaalta.it
@@ -7885,6 +7892,9 @@ way	1182538363	https://www.campingluna.it
 way	1182561237	https://www.albergolalanterna.com
 way	1182578978	https://poderelovolio.it
 way	1182579000	https://www.alpacadelfatonero.it/
+way	1182652350	https://www.campingnuovo.it/
+way	1182652351	https://www.partaccia.it/
+way	1182655160	https://www.campingsogno.com/
 way	1183348384	https://www.massavecchia.it/
 way	1183778436	https://www.soccercagefollonica.it/
 way	1186643345	https://sleepandride.it
@@ -8078,6 +8088,13 @@ way	1305765462	https://www.muradipisa.it
 way	1305766147	https://www.muradipisa.it
 way	1306353856	https://it.smookitalia.com/villa-san-bartolomeo
 way	1306637795	https://www.apartmentsiena.com/
+way	1307588363	https://www.bioebrado.it/
+way	1307698923	https://www.holidayhouseilgelso.com/
+way	1308101383	https://www.campinggiardino.com/
+way	1308115509	https://www.campeggiocucciolo.com/
+way	1308116731	https://www.massini.it/
+way	1308120942	https://www.lillypineta.com/
+way	1308336821	https://fattoriapaterno.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -8134,7 +8151,6 @@ relation	1288900	https://www.cai-imola.it/
 relation	1344268	https://www.at-bus.it/it/linee-e-orari/livorno-urbano-1
 relation	1394080	https://www.cai-imola.it/
 relation	1461750	http://www.bargellomusei.beniculturali.it
-relation	1602840	https://www.caicesena.com/
 relation	1604901	https://www.cai-imola.it/
 relation	1610443	https://www.hilton.com/en/hotels/flrnvgi-hilton-garden-inn-florence-novoli/?WT.mc_id=zELWAKN0EMEA1GI2DMH3LocalSearch4DGGenericx6FLRNVGI
 relation	1615532	https://excelsior.hotelinfirenze.com/hotel.html
@@ -8164,7 +8180,6 @@ relation	2236141	http://www.caifaenza.it
 relation	2304766	https://www.golftirrenia.it/
 relation	2379139	https://www.caiprato.it/
 relation	2386834	https://www.castigliondelbosco.com/golfclub
-relation	2400480	https://www.caicesena.com/
 relation	2403838	https://www.imtlucca.it/
 relation	2416947	https://www.caiprato.it/
 relation	2430054	https://www.dorin.com/it/
@@ -8355,6 +8370,7 @@ relation	6404958	https://www.acquerinocantagallo.it/
 relation	6407330	https://www.rocchette.com/
 relation	6411432	https://oasisantaluce.it/
 relation	6417730	https://www.caibismantova.it/joomla/sentieristica/i-sentieri-gestiti-dalla-sezione.html
+relation	6419668	https://www.comune.roccastrada.gr.it/it-it/vivere-il-comune/cosa-vedere/la-riserva-del-torrente-farma-48575-1-0a1f3cd53b02bfcbe42f054f52b11cfd
 relation	6456732	https://www.campinglepianacce.it
 relation	6521479	https://amiatafreeridebikeresort.com
 relation	6521480	https://amiatafreeridebikeresort.com
