@@ -211,6 +211,7 @@ node	1967284923	https://www.poste.it
 node	1968794430	https://www.ilgiardinodiballaro.it/
 node	1968828834	https://www.poste.it
 node	1968976256	https://www.icuccibistrorante.it/
+node	1975586548	https://www.ristorantesangiorgioeildrago.it/
 node	2001062336	https://www.poste.it
 node	2001677964	https://it-it.facebook.com/MuseoEtnoantropologicoSutera/
 node	2002695502	https://www.poste.it
@@ -692,7 +693,7 @@ node	2965933881	https://www.agenziaelios.it/
 node	2966312381	http://www.icoloridelletna.net/
 node	2972591364	http://www.oceanomarediving.it/
 node	2984570575	https://www.alcappero.it/
-node	2992689946	http://www.caseificioborderi.eu/
+node	2992689946	http://www.caseificioborderi.eu
 node	3006316173	https://www.hotelvillaromana.com/
 node	3012027066	https://www.poste.it
 node	3012040400	https://www.poste.it
@@ -1187,6 +1188,7 @@ node	4242232489	https://www.parcoavventuramadonie.it/
 node	4247831616	http://www.dongiovannihotel.it/
 node	4247996576	https://www.blockdesign.it/
 node	4250843183	http://www.esplora360.com
+node	4251166044	https://www.lascoglierahotel.eu/
 node	4253040401	https://www.casacuseni.it/
 node	4258142536	https://www.notosoledisicilia.com/
 node	4261007490	https://www.sainthonore.info/
@@ -1714,6 +1716,7 @@ node	6214032274	https://www.poste.it
 node	6215251971	https://ledivise.it
 node	6219040661	https://lacasaalduomo.wordpress.com
 node	6219920587	https://www.casamusicalesanfilippo.it/
+node	6219920643	https://www.poliambulatoriomaniace.it/
 node	6238471429	https://www.nomasvello.it/depilazione-laser-siracusa1-201-nomasvello
 node	6242005989	https://www.istat.it/it/istituto-nazionale-di-statistica/organizzazione/sedi-territoriali
 node	6247890109	https://www.verticalclimbingcenter.it
@@ -2672,7 +2675,7 @@ node	8957972973	https://www.officinainformaticaonline.it/
 node	8961148273	http://www.villapinact.it/
 node	8961148275	https://www.almareincitta.com/
 node	8961148278	https://www.ernestocatania.it/
-node	8961159339	https://www.atalapoint.com/
+node	8961159339	https://www.atalapoint.com
 node	8961159423	http://www.hobbyzoo.org/
 node	8961159596	https://www.viaglauco.it/
 node	8961159768	https://www.casademarata.it/
@@ -2687,6 +2690,7 @@ node	8972916704	https://www.le3botti.it/
 node	8972918825	https://farmaciapittari.it/
 node	8972919039	https://www.fermieredia.edu.it/
 node	8972919085	https://www.defeliceolivetti.edu.it/
+node	8973680606	https://www.panificiosantarita.it
 node	8975795890	https://www.imacatania.com/
 node	8975795938	https://www.mungibeddu.com/
 node	8975795977	http://www.istitutosanvincenzocatania.it
@@ -2807,7 +2811,6 @@ node	9196124047	https://www.glitzshoes.it/
 node	9198330716	https://barvitelli.it
 node	9201943017	https://www.sanlorenzomercato.it/
 node	9205200734	https://www.cuorefresco.com/home
-node	9205268584	https://aranciadistefano.business.site/
 node	9208171604	https://www.prezzemoloevitale.net/
 node	9215770617	https://www.fornosantarita.com/
 node	9218995940	https://www.penny.it/
@@ -3723,7 +3726,7 @@ node	11972542849	https://www.officineortopedichepellegrino.com/
 node	11975557096	https://www.liferesidencedeibaroni.it
 node	11980423067	https://www.menudigitale.io/dsbfm
 node	12001243405	https://www.suttaraviamenu.it/
-node	12017197072	http://www.ritiquality.it/
+node	12017197072	https://ritiquality.it/
 node	12023078687	https://www.ristorantepiccoloborgo.it/
 node	12023230509	https://baronibirra.it/it/
 node	12025517623	https://www.apulitonalavanderia.it/
@@ -3769,8 +3772,18 @@ node	12086238057	https://www.icsdonbosco.edu.it/
 node	12086239288	https://www.ipssatchinnicinicolosi.edu.it/
 node	12088501140	https://www.lazagaraeco.it/newsite/
 node	12096147330	https://abbaziadilicodia.it
-node	12097253901	http://bottegadellecassatelle.it
+node	12097253901	https://bottegadellecassatelle.it/
 node	12099044967	https://www.malafemminaristorante.it/
+node	12104664852	https://www.isfrancescoredi.edu.it/
+node	12105764378	https://letrefarine.info
+node	12106378236	https://www.istitutoquasimodo.net/
+node	12106427126	https://www.istitutoquasimodo.net/
+node	12109353122	https://www.agrumidistefano.it
+node	12109353202	http://www.sebbiodagata.com/
+node	12110750048	https://www.poderedelletnasegreta.it/
+node	12112384074	https://www.resortveneredierice.it/
+node	12114568901	https://www.studiodentisticorizzo.it/
+node	12115225402	https://www.terrazzedigiove.com/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3840,11 +3853,14 @@ way	36825245	http://www.zappala.it/
 way	38590776	https://www.parcodisegesta.com/home/vivere/storia/Tempio.html
 way	38590782	https://www.parcodisegesta.com/home/vivere/storia/Agora.html
 way	38590784	https://www.parcodisegesta.com/home/vivere/storia/Teatro.html
+way	38813167	http://www.liceovergadrano.edu.it
+way	38813168	http://www.liceovergadrano.edu.it
+way	38813169	http://www.branchina.edu.it
 way	39096127	https://www.parcovalledeitempli.it/
 way	39198595	https://www.iclamelaadrano.edu.it
 way	39198596	https://www.scuolaguzzardi.edu.it
 way	39198597	https://www.ic2adrano.it
-way	39198599	http://www.terzocircoloadrano.edu.it
+way	39198599	https://www.ic2adrano.it
 way	39353562	https://www.liceoscientificofermi.edu.it/
 way	39429606	https://www.trattoriadellecozze.it/
 way	40400273	https://www.icsauro-giovannixxiii.edu.it/
@@ -3896,7 +3912,7 @@ way	52017789	http://www.etnaedintorni.it/rifugio-piano-dei-grilli/
 way	52135634	https://www.ikea.com/it/it/store/catania
 way	53374369	http://www.visirresort.com/
 way	53454891	https://www.sitiarcheologiciditalia.it/area-archeologica-di-solunto/
-way	55366930	https://www.iclamelaadrano.edu.it
+way	55366930	https://www.scuolaguzzardi.edu.it
 way	56030979	https://www.primocircoloadrano.edu.it
 way	56132270	https://www.sgboscobiancavilla.edu.it
 way	56132310	https://www.aspct.it/azienda/presidi-ospedalieri/biancavilla/
@@ -3977,7 +3993,7 @@ way	118427376	https://cdspedalieribronte.edu.it
 way	119024826	https://www.decathlon.it/
 way	119895746	http://www.operaprimaartigianigelatieri.com/
 way	119895747	https://www.penny.it/
-way	121751538	https://www.eplanetcinemas.it/
+way	121751538	https://www.eplanetcinemas.it
 way	122388053	https://www.ateliernelbosco.it/
 way	122664308	http://www.santagataalborgo.it/
 way	122929132	http://www.alega.it/
@@ -4852,6 +4868,7 @@ way	521773934	https://parcovillafilippina.wordpress.com/
 way	521993389	https://www.greencarpalermo.it/
 way	524244947	http://www.familyparkpalermo.net/
 way	527432735	https://www.poste.it
+way	527453256	http://dabetta.it
 way	527591227	https://it-it.facebook.com/comunita.humanitas
 way	527850535	http://www.autolineelattuca.it/
 way	529261548	https://www.eurospin.it/
@@ -5885,7 +5902,7 @@ way	1271226231	https://www.aiasacireale.it/
 way	1271226261	https://castellodelleaci.com/
 way	1273538612	https://www.bowlingmanhattan.com/
 way	1274513744	https://www.icsdannunziomotta.it/
-way	1275518261	www.villazuccaro.com
+way	1275518261	https://www.villazuccaro.com/
 way	1276586044	https://www.cdbelpasso.edu.it
 way	1276586048	https://www.cdbelpasso.edu.it
 way	1276586059	https://www.cdbelpasso.edu.it
@@ -5920,6 +5937,14 @@ way	1304928237	https://www.ipssatchinnicinicolosi.edu.it/
 way	1306662884	https://www.celestemap.com/
 way	1306663056	https://ilcarsrl.it/
 way	1306815243	https://www.palazzosangiorgiocatania.it/
+way	1307078780	https://www.istitutorapisardi.edu.it/
+way	1307078784	https://www.istitutorapisardi.edu.it/
+way	1307078792	http://www.icbrunobiancavilla.edu.it
+way	1307078826	http://www.icbrunobiancavilla.edu.it
+way	1307078833	http://www.icbrunobiancavilla.edu.it
+way	1308518234	https://www.ic2adrano.it
+way	1308518260	http://www.scuolasantalucia.it/
+way	1308518307	https://www.isradice.edu.it
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
