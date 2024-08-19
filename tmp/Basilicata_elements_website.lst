@@ -100,9 +100,7 @@ node	2522521502	https://www.youtube.com/watch?v=8et2fCpm50E
 node	2522521503	https://www.youtube.com/watch?v=Bq2qW7MAtco
 node	2522521504	https://www.youtube.com/watch?v=V-TuTTIunGw
 node	2522521505	https://www.youtube.com/watch?v=X_duTZF-MGg
-node	2523697520	http://www.agriturismopantaleonematera.it
 node	2523697532	https://www.ceamatera.it/
-node	2523697538	www.autoparcodimatera.it
 node	2523838340	https://www.loperfido-olivetti.edu.it/
 node	2527784749	http://www.aripotenza.it
 node	2531908402	https://www.superemme.com/
@@ -511,6 +509,7 @@ way	108481316	http://kartodromopalazzo.it/
 way	121099359	http://www.montescaglioso.net/node/1797
 way	144272610	http://www.e-coop.it/StoreLocator/dettaglio.jsp?id=4803
 way	144275406	http://www.infinitamemoria.it/cimiteri/basilicata/matera/matera/cimitero-contrada-pantanello-matera
+way	144275443	www.autoparcodimatera.it
 way	145667236	http://www.matera-irsina.chiesacattolica.it/
 way	157331516	https://www.beniculturali.it/luogo/museo-dei-culti-arborei
 way	184405903	https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_2113907389.html
@@ -520,6 +519,8 @@ way	215095482	https://www.portacoeli.it/venosa/it/il-contesto/cattedrale-di-sant
 way	216895891	https://www.isassidimatera.com/cosa-vedere/nelle-vicinanze/castello-tramontano/
 way	236399980	https://www.campingmaratea.it/
 way	237534021	https://grupposimm.it/
+way	239294816	www.rivadeigreci.it
+way	239294866	https://campingjulia.it/
 way	240809752	https://www.parrocchiasanlavierotito.it/
 way	240811173	https://www.parrocchiasanlavierotito.it/
 way	240813369	https://www.parrocchiasanlavierotito.it/
@@ -627,6 +628,7 @@ way	480241910	https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenu
 way	490588091	https://www.akiris.it/
 way	498012218	www.donpaolo.net
 way	507949839	http://www.policorovillage.net/
+way	516252075	https://www.leduebarche.com/
 way	536472931	http://www.olivara.it/
 way	536472966	http://www.comune.montescaglioso.mt.it/turismo/cosa-vedere/3487-chiesa-sant-agostino.html
 way	549940078	https://www.telespazio.com/it/about-us-chi-siamo/our-company/space-centres/matera
@@ -706,6 +708,7 @@ way	1217078506	https://www.cosmetgroup.it/
 way	1230382101	https://www.acquazzurrapark.net/
 way	1238282499	https://www.despar.com/pdv/maiora-s-r-l-via-einaudi-ang-via-berlinguer-lavello-162
 way	1242487071	https://www.aspbasilicata.it/organizzazione/azienda/presidi-ospedalieri-distrettuali/ospedale-di-maratea/
+way	1307479185	http://www.agriturismopantaleonematera.it
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240    |    http://www.lestradeferrate.it/mono2.htm
 relation	3160701	https://www.montescaglioso.net/node/1513
