@@ -1,5 +1,4 @@
 @type	@id	website
-node	26859466	https://www.costaverde.org
 node	26859619	https://www.lamantinera.it/
 node	67273943	https://www.comunedicrosia.it
 node	67274418	http://www.comune.calopezzati.cs.it/
@@ -556,6 +555,7 @@ way	137411113	https://www.comune.cittanova.rc.it/
 way	137414080	https://www.cittanovaonline.it/Cittanova_Le_Chiese.html
 way	146019866	https://www.provincia.crotone.it/
 way	150519096	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151762&pagename=157031
+way	159654403	https://www.summerlandpalmi.it/
 way	160900775	https://www.sabap-rc.beniculturali.it/it/244/parco-archeologico-dei-tauriani
 way	165325333	https://www.parrocchiasacrocuorecatanzaro.it/
 way	166376102	http://calabriagreca.it/blog/hotel/casello-di-marupapa/
@@ -655,6 +655,7 @@ way	326385207	http://www.roccettemare.it
 way	326385211	https://www.leroccettesanleonardo.it/
 way	326385213	http://www.leroccetteclub.it
 way	326388190	http://www.maregrande.it
+way	326388199	https://www.campingmarinaisola.it/
 way	333558339	https://www.newkitezone.it/
 way	338120756	http://www.lameziateam.it/
 way	338456217	http://www.iislamezia.it
@@ -756,6 +757,8 @@ way	662332623	https://www.orafoluigimungo.it/
 way	669746185	https://www.santuariopaola.it/nuovo/index.php?option=com_content&view=article&id=61&Itemid=164
 way	669746193	https://www.fondazionesanfrancescodipaola.it/
 way	670239358	http://www.icsantamariadelcedro.gov.it/
+way	702233770	https://www.villaggiolaquiete.it/
+way	702243463	https://www.camping-anna.com/
 way	712243089	https://www.tripadvisor.it/Attraction_Review-g2052580-d13436559-Reviews-Chiesa_di_San_Rocco-Girifalco_Province_of_Catanzaro_Calabria.html
 way	729847616	https://www.comune.girifalco.cz.it/
 way	740128407	https://www.villaggiolemuse.it/
@@ -848,13 +851,20 @@ way	1192101826	http://www.udire.it/
 way	1192124840	https://www.AziendaAgricolaRende.it/
 way	1192124841	https://www.AziendaAgricolaRende.it/
 way	1192124842	https://www.AziendaAgricolaRende.it/
+way	1193766392	https://www.marinadelconvento.it/
+way	1195616742	https://villaggiomarcopolo.net/campeggio/
 way	1196164072	https://www.cittadelladellimmacolata.it/
+way	1199288378	https://www.borgosulporto.com
 way	1200617414	https://www.villaggiocampinglascogliera.com
+way	1200626120	https://www.villaggiofiorina.com/
+way	1200957712	https://www.campinguliveto.it/
+way	1202733348	https://www.villaggioformicoli.it/
 way	1205211398	https://www.iisvemanuele.edu.it/
 way	1205212596	https://www.iisvemanuele.edu.it/
 way	1205242265	https://www.youtube.com/watch?v=g2WtOHyQstI
 way	1215351805	https://www.lagalleriaonline.com/
 way	1217981059	http://www.krataiis.it/
+way	1232254445	http://www.campingcaravansud.it/
 way	1249157444	https://calabriagreca.it/blog/risorse/castello-ruffo-di-amendolea/
 way	1259465053	https://www.andandoporelmundo.com/italia/villa-san-giovanni/albergo-autostello-di-idone-domenica/
 way	1259777453	https://carburanti.esso.it/it-it/find-station/esso-rosarno-100107688
@@ -870,6 +880,13 @@ way	1295637890	https://jiri-recommends.eu/vanity-b-amp-b-italy
 way	1297407727	https://www.vecchiofrantoio.com/
 way	1297412112	https://www.vatikurca.com/
 way	1306696970	https://www.pizzerialemagnolie.it/
+way	1307209684	https://www.camping.it/calabria/magnagrecia
+way	1307217704	https://www.prajola.com/
+way	1307411380	https://www.villaggiomimosa.com/
+way	1307411382	https://www.laginestraclub.it/
+way	1307415336	https://www.costaverde.org
+way	1307423591	https://www.daciccioparking.com/
+way	1307429638	https://www.jonioblu.it/
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	5437445	http://www.certosini.info/
