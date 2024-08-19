@@ -392,6 +392,7 @@ node	3595035110	http://vicodeisotterranei.com/
 node	3595178301	http://caffeletterario.org/
 node	3617512356	www.farmaciaannunziatasanteramo.com
 node	3621758234	www.lamurgiadicialledda.it
+node	3635891401	https://www.campeggiofrassanito.com/
 node	3653275425	https://www.poste.it/
 node	3677073225	http://www.oasidellapace.org/
 node	3691224730	https://www.hosteriadelpardo.it/
@@ -1391,7 +1392,6 @@ node	8916303808	https://www.salinahotel.it/
 node	8927984680	https://36commercialisti.com/elenco/iaia-elisabetta
 node	8928958201	https://www.facebook.com/happyshoppingtaranto/
 node	8928958202	https://www.maxrisparmio.com/
-node	8937990277	https://www.naturamundi.it/en/home-2/
 node	8942417347	https://www.labellambriana.it/
 node	8946686208	https://www.sanita.puglia.it/web/asl-taranto/ospedali
 node	8951457728	https://www.santantonioalbergo.com/
@@ -1787,6 +1787,7 @@ node	9964394280	https://www.piazzaitalia.it/
 node	9964394281	www.legea.it
 node	9967765251	https://www.repower.com/it/dina/
 node	9981477233	https://m.facebook.com/profile.php?id=100063692342810
+node	9981560244	https://centrostoricoputignano.it/chiese/9-chiesa-di-san-lorenzo.html
 node	9983219515	https://www.terraebnb.it/
 node	9983219516	https://www.dadarioristorante.it/
 node	9983935725	https://www.aracoeli20.it/
@@ -1956,6 +1957,7 @@ node	11046874613	https://www.hotelpalazzodelcorso.it/
 node	11048356306	https://www.gabrielino.it/
 node	11048385087	https://www.ebikerebel.com/
 node	11048468220	https://www.buccinobici.it
+node	11050581156	https://www.agriturismosangiorgio.com/
 node	11056424415	https://surgelsud.it
 node	11056424852	http://www.sudcomputers.it/
 node	11056582240	www.lavanderiecleanart.it
@@ -2466,8 +2468,8 @@ node	12078932738	https://www.santarosarelais.it/
 node	12087649769	http://icbregantevolta.it
 node	12087649770	https://imagross.it/
 node	12087671669	https://nrgbikestore.com/
-node	12093522571	http://www.lapittula.it
-node	12093550555	http://www.tessa.zone
+node	12093522571	https://www.lapittula.it/
+node	12093550555	https://www.tessa.zone/
 node	12094800201	https://danyofficine.it/
 node	12099306042	https://scafud.it
 node	12101034601	https://linktr.ee/grapesenoteca
@@ -2475,6 +2477,16 @@ node	12103982645	https://www.cinemapiccolo.it/
 node	12104066125	https://labaguette.kuokko.com
 node	12104342203	https://www.fratrespalese.it/
 node	12104624396	https://www.justtraining.it
+node	12106926464	https://www.ristorantecarnivora.it/
+node	12110300703	https://www.lacompagniadelleindie.it/
+node	12110480808	https://covellapasticceri.it
+node	12110480809	https://covellapasticceri.it
+node	12110823688	https://bioslab.net/
+node	12110823690	https://www.hairchicnadiabrunetta.it/
+node	12112405910	https://www.alwayscoffee.it/
+node	12112910172	http://www.lalunghiera.it/
+node	12117961904	yamamay.com
+way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
@@ -2495,6 +2507,7 @@ way	94345987	https://www.ucastarillpolignanoamare.it/grotte/69_grave_di_polignan
 way	95457528	https://www.casanaturagargano.com/
 way	103383688	http://wikispesa.costodellostato.it/Invaso_Pappadai_%E2%80%93_Taranto
 way	108455948	http://www.sgangiulli.it/
+way	108684297	https://www.albatrosvillaggio.it/
 way	108684298	https://www.acquafantasy.it/
 way	117514397	https://www.leganavale.it/portale/sezioni/index.asp?ID_sezione=154
 way	121717471	https://www.pistakart.it/
@@ -2568,7 +2581,7 @@ way	232016775	https://www.blubaydiscoteca.it/home.asp
 way	232688234	https://baiadimanaccora.it/
 way	233113270	https://www.villaggioialillo.it/Camping_Jalillo.asp
 way	233113272	https://www.villaggiobellariva.it/
-way	236398211	www.campofreddo.it
+way	236398211	http://www.campofreddo.it
 way	239853311	http://www.agricampeggioleradici.it
 way	240305038	https://frontemarepuglia.it/
 way	240518321	http://www.lidoalgamarina.it/
@@ -2621,6 +2634,7 @@ way	298879513	http://www.icnovoli.gov.it/
 way	298880850	http://www.icnovoli.gov.it/
 way	298896132	http://www.malcandrino.it
 way	299077174	http://limoneilluminazione.it
+way	299718180	https://www.parcoarcheologicorudiae.it/2019/08/26/serbatoio-aqp/
 way	299718318	https://www.multisalamassimo.it/
 way	299718736	https://www.comune.lecce.it/
 way	299719445	http://www.labpignatelli.it
@@ -2699,6 +2713,7 @@ way	340087182	http://www.terramora.com/
 way	340301223	https://www.panettipitagora.edu.it/
 way	340306263	https://www.tretrulli.net/ristorante-cegliemessapica-brindisi.asp
 way	340306264	https://www.tretrulli.net/albergo-cegliemessapica-brindisi.asp
+way	341447279	https://www.brezzatragliulivi.it/
 way	344085595	https://www.mediterraneovillage.com/
 way	347103533	http://www.laselvadidiana.com
 way	347252933	http://www.palazzocamarda.com/
@@ -2721,6 +2736,7 @@ way	371735582	http://new.villaggiobahia.it/
 way	371735586	https://www.hotelclubsantasabina.it/new/
 way	373568568	https://ctlecce.wansport.com/
 way	373571441	https://hiltongardeninn3.hilton.com/en/hotels/italy/hilton-garden-inn-lecce-LCCGIGI/index.html?WT.mc_id=zELWAKN0EMEA1GI2DMH3LocalSearch4DGGenericx6LCCGIGI
+way	374020996	https://www.campingcalabatteria.it/
 way	375376292	https://www.petrolmengasrl.it//
 way	378620146	http://www.lidoazzurro.org
 way	379154391	https://www.scalademunte.it/
@@ -2770,7 +2786,7 @@ way	391979884	https://www.grandhoteldilecce.it/
 way	393072835	https://www.ipzs.it/
 way	396587091	https://www.farmaciarao1832.com/
 way	397503650	https://musei.puglia.beniculturali.it/musei/palazzo-sinesi-canosa-di-puglia/
-way	397709057	http://www.liceoarchita.edu.it
+way	397709057	https://www.liceoarchita.edu.it/
 way	397709774	https://www.britishtaranto.it/
 way	397710106	https://cuoreimmacolatodim.wixsite.com/cimta/ministranti
 way	397710200	http://www.sabap-le.beniculturali.it/index.php?it/238/dove-siamo
@@ -3020,6 +3036,7 @@ way	422356584	http://www.comprensivocentro1.edu.it/
 way	422357678	https://www.decathlon.it/
 way	422365507	http://www.automondosrl.it
 way	422368707	https://www.mareabrindisi.com/
+way	422754895	https://cinemamarinadiginosa.blogspot.com/
 way	422908834	https://www.primed.it/
 way	423042540	http://www.parrocchiasanpaolomartinafranca.blogspot.com/
 way	423153183	www.pianetaostuni.it/index.php/masserie/tutte/329-soluco
@@ -3081,6 +3098,7 @@ way	428714088	https://www.centrobiolab.it/
 way	428724638	https://hotelclubastor.it
 way	428960776	http://www.lidoladarsena.it
 way	429034092	https://www.puntofissobeach.com/
+way	429067051	https://www.parcheggiobelmonte.it/
 way	429067052	https://www.baiadeiturchi.it/
 way	429067053	https://www.greenparadisealimini.it/
 way	430344659	http://www.crsantarita.it
@@ -3429,6 +3447,7 @@ way	1076530735	https://www.villaggioarcobaleno.it/
 way	1078284231	https://mongolfierabarletta.it/
 way	1081745772	https://baiadeimicenei.it/
 way	1083748409	https://www.facebook.com/sostacampermarinapiccolapeschici/
+way	1083753301	http://www.lidomiragelesina.it
 way	1083754643	https://www.agricampeggio-la-pineta.it/
 way	1086231598	http://www.ioposso.eu/la-terrazza
 way	1087548537	https://www.centrogargano.it/
@@ -3490,6 +3509,7 @@ way	1214126990	https://www.indicepa.gov.it/ipa-portale/consultazione/domicilio-d
 way	1218481873	https://cittadellasantamargherita.it/
 way	1220214602	https://www.bibliotecacomunalegdipalmazapponeta.com/home-page
 way	1222531739	https://www.facebook.com/lidolacaravella.francesco/
+way	1223575550	https://www.comprensivogabellibari.edu.it/luoghi?id=453
 way	1223814198	https://www.pacinottitaranto.edu.it/
 way	1226460371	https://www.japigiaii-torreamare.edu.it/
 way	1227656766	https://www.foodbeveragesrl.it/
@@ -3563,6 +3583,13 @@ way	1306304547	https://www.littlecamping.it/
 way	1306511145	https://www.villagestelladelsud.it/
 way	1306514336	https://www.sostacampergargano.it/
 way	1306515623	https://www.siestacamping.it/
+way	1307197979	https://meccaclubgargano.it/
+way	1307199499	https://www.villaggioviola.it/
+way	1307477487	https://www.naturamundi.it/en/home-2/
+way	1307596083	https://www.parcheggiobelmonte.it/area-camper/
+way	1307967426	https://www.comprensivogabellibari.edu.it/
+way	1308277722	https://liceocarminesylos.edu.it
+way	1308309688	https://www.comprensivogabellibari.edu.it/luoghi?id=457
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -3597,7 +3624,6 @@ relation	6062516	http://www.comune.santagatadipuglia.fg.it/cmpro-v-p-92.html
 relation	6097292	https://questure.poliziadistato.it/BarlettaAndriaTrani
 relation	6106077	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150134&pagename=157031
 relation	6121085	https://www.icdeamicisgiovanni23.edu.it/scuola-sec-i-grado.html
-relation	6124349	https://liceocarminesylos.edu.it
 relation	6134103	www.masseriadeimonelli.it
 relation	6141230	https://www.poliba.it/lic
 relation	6153602	https://www.sanita.puglia.it/web/asl-bari/ricerca_det/-/journal_content/56/25619/servizio-di-riabilitazione-ex-art-25-rutigliano
@@ -3740,7 +3766,7 @@ relation	17906987	https://www.provincia.le.it/vieni-a-pedalare-in-puglia-present
 relation	17910833	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itinerario-cicloturismo/
 relation	17910892	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itinerario-cicloturismo/
 relation	17910942	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itinerario-cicloturismo/
-relation	17911780	http://www.liceoarchita.edu.it/
+relation	17911780	https://www.liceoarchita.edu.it/
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
