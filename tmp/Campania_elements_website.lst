@@ -462,6 +462,7 @@ node	4085294293	https://www.pompeihotelvittoria.com/
 node	4088337777	https://www.cilieginahotel.it/
 node	4088589965	http://www.autocarpentieri.it
 node	4088591109	http://www.zoomaniarettili.com
+node	4093683889	http://www.letresorellepositano.it/
 node	4095615743	http://elborr.com/
 node	4095615759	https://www.ilgiardinoditonia.it/
 node	4095883941	https://www.torresette.news/
@@ -1493,6 +1494,7 @@ node	9105876038	https://www.upim.com/
 node	9105999191	https://romanoautogas.eu/
 node	9108367012	https://www.agenziaentrate.gov.it/
 node	9113939720	https://www.sorrental.com/
+node	9114973656	https://www.supermercatipiccolo.it
 node	9117945786	https://negozi.naturasi.it/italia/caserta/caserta?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Caserta_27627
 node	9117959021	https://stores.ovs.it/it/italia/campania/caserta/ovs-caserta?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Caserta_0287
 node	9126486961	https://www.napolicentrale.it/
@@ -2397,9 +2399,11 @@ node	12085954312	https://www.fonderiagemito.it
 node	12087868275	https://www.micromeccanica.it/
 node	12087868276	https://puntivenditadeco.multicedi.it/it/italia/salerno-via-dei-greci
 node	12087887307	https://www.farmaciadurso.it/
-node	12087887309	http://www.dogecatmegastore.it/
+node	12087887309	https://www.dogecatmegastore.it/
 node	12093746942	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Napoli-Umberto-I/40602/
 node	12102748701	https://www.santaluciabakerylab.it/contatti/
+node	12106347166	https://cngeicava.it
+node	12110196525	https://www.brunopositano.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2516,7 +2520,6 @@ way	186050231	https://www.campingsaline.it/
 way	186496036	http://techmania.biz
 way	187409744	https://www.centrograndesud.it
 way	188073168	https://www.centrocommercialeisanniti.com/
-way	188278613	https://retemuseale.provincia.benevento.it/complesso-monumentale-di-santilario
 way	191573434	https://tomtominternational.sharepoint.com/teams/MapsGen/SoOps/RSO%20ECA/Management/Shared%20Documents/General/Local%20Intelligence_temporary/LI_Activities.pptx?web=1
 way	192699311	http://www.pompeiisites.org/Sezione.jsp?titolo=Memorial+Arches&idSezione=2306&lookfor=forum
 way	193043746	http://www.comprensivomilani.it/
@@ -2640,7 +2643,7 @@ way	262862997	https://www.asianapoli.it/centri-di-raccolta
 way	262864839	https://www.asianapoli.it/centri-di-raccolta
 way	262866056	https://www.asianapoli.it/centri-di-raccolta
 way	262992884	http://www.volturnofly.it/index.html
-way	263926921	http://www.circuitointernazionaledelvolturno.it/
+way	263926921	https://www.circuitointernazionaledelvolturno.it/
 way	263993747	https://rifugiolejanare.it/web/
 way	264346044	http://www.terzocircolocava.gov.it/
 way	264669474	https://dreamsoccer.it/
@@ -3169,6 +3172,7 @@ way	839646397	https://www.bluemarine.it/
 way	840471332	https://www.liceolaurabassi.edu.it/
 way	840997350	https://www.icmarconi-torricelli.edu.it/
 way	841174736	https://www.agriturismoi7venti.it/
+way	842132967	https://poliziapenitenziaria.gov.it/polizia-penitenziaria-site/it/det_sede.page?contentId=SDT13126
 way	842635769	http://www.ic61sauropascoli.gov.it/
 way	842635770	https://www.vittoriovenetonapoli.edu.it/
 way	844166825	https://toil.it
@@ -3179,6 +3183,7 @@ way	847565782	https://www.iisferraristabia.edu.it/
 way	848153555	https://www.ciroamodio.it/
 way	849004520	https://www.scuolarenatofucini.edu.it/site/
 way	854056580	https://emidiocivitillocusanomutri.blogspot.com/2018/11/il-montemutria-e-le-sue-rave-formatesi.html?fbclid=IwAR0agm60MoSMKZv1ZGJ53YC9rbPGaEjWL6C8sTNJUWRold9dliS4W3CXlvI
+way	864837809	https://www.ies1956.it
 way	864952469	https://www.comune.santangeloascala.av.it/
 way	866363384	https://www.ilcastellodisansergio.com/
 way	866465644	https://www.iispiscopo.edu.it/
@@ -3472,6 +3477,7 @@ way	1228398894	https://teammacchineindustriali.it/
 way	1230843106	https://pamretailpro.it/
 way	1230843118	https://www.gemarconamiama.it
 way	1230956516	www.pompeiisites.org/Sezione.jsp?titolo=I+misteri+e+la+Villa+dei+Misteri&idSezione=6958
+way	1234652329	https://www.despar.it/
 way	1235820858	https://www.hotelsica.it/
 way	1238339379	https://www.comune.maddaloni.ce.it/
 way	1243462595	https://www1.agenziaentrate.it/indirizzi/agenzia/uffici_locali/lista.htm?m=2&pr=BN
@@ -3508,6 +3514,10 @@ way	1302916604	https://www.fornacesorbo.com/
 way	1302916605	https://fornacesaputo.it/
 way	1304912736	https://www.itidavinci.edu.it/
 way	1306503989	http://www.amantidelmare.it
+way	1307190883	https://www.laterrazzadihermes.com/
+way	1307192615	http://www.campingpompei.it
+way	1307950987	http://enjoyvintage.it
+way	1308344805	https://www.campinglagiara.it/ita/index.php
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3713,6 +3723,8 @@ relation	17005066	https://lecotoniere.it/
 relation	17270859	https://www.caimontilattari.it/sentiero/330a/
 relation	17352410	https://www.camminodisanfilipponeri.com
 relation	17421666	http://www.cisnet.it/
+relation	17939016	http://bit.ly/3SykFuS
+relation	17939039	http://bit.ly/3SykFuS
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
@@ -3762,9 +3774,12 @@ node	11825802759	https://siciliabedda.webnode.it/
 node	12051173843	https://www.teamlucaparrucchieri.it/
 node	12061989737	https://www.lasaponaria.it/biostorie-battipaglia
 node	12085980817	https://www.cispi.it
+node	12111213124	https://lapampanini.it/
+node	12115185660	https://www.teresapaparella.it/menu/
 way	79268408	http://www.szn.it
 way	170920731	www.giardiniposeidon.it
 way	174047981	http://www.cittadellascienza.it/
+way	188278613	https://retemuseale.provincia.benevento.it/complesso-monumentale-di-santilario
 way	203584104	https://www.talentocash.com/punti-vendita/avellino/
 way	215320284	www.ravino.it
 way	231428756	http://www.torreorsini.it/
