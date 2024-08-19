@@ -39,7 +39,7 @@ node	3414706099	http://www.sanniti.info/sangioga.html
 node	3429179000	https://www.centroartemisiacampobasso.it/
 node	3437724542	http://archeologicamolise.beniculturali.it/index.php?it/219/opere/28/cercemaggiore-fortificazione-sannitica
 node	3517601694	https://www.comune.isernia.it/it/point-of-interest/735438
-node	3672942745	http://www.bottegasaporitermoli.it/
+node	3672942745	https://www.bottegasaporitermoli.it/
 node	3721631445	http://lavanderialapentrica.blogspot.com
 node	4084683644	https://www.autoricambicolantuono.it/
 node	4084694733	http://www.emmegross.it/punti_vendita.php?fm_browse_regione=molise
@@ -123,6 +123,7 @@ node	11690207939	https://www.fornairicci.it/
 node	11737802936	https://www.lulivobianco.com/
 node	11818107435	https://altaviahorses.com/
 node	11818124752	https://altaviahorses.com/
+node	12117190015	http://musei.beniculturali.it/musei?mid=209&nome=museo-della-citta-e-del-territorio-sepino
 way	62075956	https://www.musei.molise.beniculturali.it/musei?mid=934&nome=castello-di-civitacampomarano
 way	67731527	https://www.hotelmeridiano.com/it/ristorante-luna-restaurant.html/
 way	67731795	https://www.hotelmistral.net/it/
@@ -139,8 +140,6 @@ way	178282493	https://www.posteitaliane.it/
 way	179815087	https://www.lidl.it/
 way	179940187	http://www.pleiadishotel.it/
 way	183250805	https://www.isissgiordano.edu.it/
-way	193450242	https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-archeologica-di-altilia-saepinum
-way	193698209	http://musei.beniculturali.it/musei?mid=209&nome=museo-della-citta-e-del-territorio-sepino
 way	195110822	https://www.lucepiumolise.com/
 way	195543371	http://www.campodiciello.it
 way	200494011	https://www.cantineduva.it/
@@ -323,6 +322,9 @@ relation	17674481	https://www.trekkingitalia.org/
 relation	17675194	https://www.trekkingitalia.org/
 relation	17675320	https://www.trekkingitalia.org/
 relation	17678319	https://www.trekkingitalia.org/
+node	12115891441	https://gustusristorante.com/
+way	193450242	https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-archeologica-di-altilia-saepinum
+way	193651509	https://www.parcosepino.it/
 way	261211563	https://www.santamariadellastradacb.it/
 way	261652608	https://www.m2movement.it/
 way	1056651661	https://www.rivazzurrahomes.it
