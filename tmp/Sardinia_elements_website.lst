@@ -512,6 +512,7 @@ node	2091957717	https://www.eurospin.it/
 node	2093845283	https://www.supersigma.com/
 node	2094006325	https://grottedinettuno.it/
 node	2129442312	http://musei.beniculturali.it/musei?mid=6029&nome=museo-archeologico-nazionale-antiquarium-turritano-e-area-archeologica
+node	2134874772	https://www.baiaverdesardegna.it
 node	2136452060	https://www.hotelcostadorada.it/
 node	2162668210	https://www.esedraescursioni.it/it/notizie/orari-area-archeologica-di-tamuli/
 node	2185709592	https://www.silviaepaolo.it/
@@ -527,7 +528,7 @@ node	2267771052	https://www.supersigma.com/
 node	2267771209	https://www.eurospin.it/
 node	2268148486	https://musei.sardegna.beniculturali.it/musei/pinacoteca-nazionale-di-sassari/
 node	2273072843	http://www.ilportalesardo.it/archeo/nudorgali2.htm
-node	2273250354	https://www.carrefour.it/
+node	2273250354	https://www.carrefour.it
 node	2278971102	https://www.conad.it/ricerca-negozi/negozio.010113.html
 node	2293544082	https://www.lafavoritacalagonone.com/hotel
 node	2304263087	https://www.enel.it/punto-enel/
@@ -1044,7 +1045,7 @@ node	4469739513	http://www.marianarredamenti.it
 node	4469759706	https://www.officinecondivise.com
 node	4469760288	http://utt.uniss.it
 node	4469765001	https://www.outlawstore.it/
-node	4469775403	https://www.supersigma.com/
+node	4469775403	https://www.supersigma.com
 node	4469775404	https://www.supersigma.com/
 node	4469775405	https://www.supersigma.com/
 node	4469775408	https://www.supersigma.com/
@@ -1478,7 +1479,6 @@ node	8913627504	https://www.parkingo.com/it/tampone-rapido-molecolare-cagliari?g
 node	8919176491	https://www.only-sardinia.com/autonoleggio-porto-cervo/
 node	9022725221	https://www.enelx.com/it/it/mappa-stazioni-ricarica
 node	9022725222	https://www.enelx.com/it/it/mappa-stazioni-ricarica
-node	9035401104	https://www.janasimmobiliare.it/
 node	9035401113	https://www.mamacitacafe.it/
 node	9037287472	https://www.hotellido.org/
 node	9048317522	https://www.bricofer.it/storedetails/capoterra
@@ -1680,7 +1680,14 @@ node	12020367577	https://marcellapalicidisuni.it/
 node	12046701658	https://www.baiadellepalme.com/it/806/Beach.html
 node	12063533271	https://www.booking.com/hotel/it/villa-arianna-porto-pino-sant-anna-arresi.it.html
 node	12102282301	https://ivybeach.it/
-node	12103184425	http://archiviostorico.comune.sassari.it/
+node	12103184425	https://archiviostorico.comune.sassari.it/
+node	12121942663	https://comune.santadi.ci.it
+node	12121957565	https://sbis.it
+node	12121970809	https://farmaciasundas.com
+node	12121982353	https://poste.it
+node	12121987010	https://prolocosantadi.it
+node	12121987011	https://sardiniaairportshuttle.it
+node	12133461001	http://www.140grammi.com/
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2018,6 +2025,7 @@ way	279263582	https://www.istitutocomprensivo3alghero.edu.it/
 way	279263762	https://www.architettura.uniss.it/
 way	279263832	https://www.doppiomalto.com/it/ristoranti/alghero/
 way	279263930	http://capogalera.com
+way	279264180	https://www.architettura.uniss.it/
 way	279269947	http://www.parcodiportoconte.it/
 way	279270110	https://museialghero.it/museo-del-corallo/
 way	279270521	https://www.hotelvillalastronas.it/
@@ -2088,7 +2096,7 @@ way	294120890	https://www.facebook.com/centralbar.bauladu
 way	294225867	https://www.museossidiana.it/
 way	294230236	http://www.comune.usellus.or.it
 way	294231613	https://www.comune.albagiara.or.it/
-way	294421525	https://www.mdspa.it/
+way	294421525	https://www.arddiscount.it/
 way	294429714	http://www.centrosantignazio.com/
 way	294436460	https://www.comunearbus.it/it/index.html
 way	294461457	https://www.museocavallinodellagiara.it/
@@ -2493,6 +2501,7 @@ way	1302252084	https://www.campingflumendosa.com/
 way	1304797864	https://www.hotelpuntanegra.it/
 way	1304913363	https://www.lidl.it/s/it-IT/ricerca-punto-vendita/alghero-ss/via-vittorio-emanuele-219/
 way	1308402127	https://www.hoteldomominorealghero.it/
+way	1308915931	https://arst.sardegna.it/orari_e_autolinee/servizimetross.html
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -2873,7 +2882,6 @@ relation	3701446	https://www.mercuryboutiquehotel.it/
 relation	3711980	https://www.comune.stintino.ss.it/
 relation	3713046	https://www.consorziouno.it/
 relation	3713710	http://www.aslsassari.it/
-relation	3713722	https://www.architettura.uniss.it/
 relation	3725540	https://www.delphina.it/
 relation	3935522	https://www.museocabras.it/
 relation	3941720	https://comune.sarroch.ca.it/
@@ -3553,7 +3561,6 @@ way	295936569	http://www.comune.sanbasilio.ca.it
 way	295940225	http://www.comune.goni.ca.it
 way	295940951	http://www.comune.siurgusdonigala.ca.it
 way	296260299	http://www.comune.magomadas.or.it
-way	296349610	http://www.isolarossabosa.it
 way	296349638	http://www.comunebosa.gov.it
 way	296350927	http://www.bedandbreakfastilrosmarino.com
 way	296354042	http://www.comune.escolca.ca.it
@@ -3867,6 +3874,7 @@ way	1110236051	http://www.treninoverde.com/
 way	1115430376	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	1157785571	http://www.treninoverde.com/
 way	1157842325	http://www.treninoverde.com/
+way	1309604770	http://www.isolarossabosa.it
 relation	41025	https://www.comunearzachena.it
 relation	1808857	http://www.treninoverde.com/
 relation	3647706	http://www.comuneescalaplano.info/
