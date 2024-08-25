@@ -1726,6 +1726,7 @@ node	6261435389	https://www.sirmuma.it/
 node	6261900186	https://www.hotelvillaesperia.it/
 node	6265407985	https://www.labellamotors.it
 node	6265568774	https://www.pixweb.it
+node	6268534601	https://www.miccipotti.it/
 node	6274947118	https://www.lapantofolaia.com/
 node	6283162235	https://comproorosiracusa.it/
 node	6283499699	https://www.trenitalia.com/
@@ -2409,6 +2410,7 @@ node	8174143670	https://www.expertonline.it/
 node	8174167982	https://www.scuolasgbosco.edu.it/
 node	8176096317	https://conad.it/
 node	8201277318	http://iltortellinotrapani.it
+node	8232717765	https://www.casadiriposolamadonnina.it/
 node	8237340447	https://www.casevacanzaloria.it/
 node	8242609317	https://donpeppinu.it/
 node	8254392835	https://www.nicanuci.it/
@@ -3784,6 +3786,13 @@ node	12110750048	https://www.poderedelletnasegreta.it/
 node	12112384074	https://www.resortveneredierice.it/
 node	12114568901	https://www.studiodentisticorizzo.it/
 node	12115225402	https://www.terrazzedigiove.com/
+node	12118411401	https://musicartcafe.com/
+node	12122424837	https://arredicommerciali-perez.com/
+node	12123940970	https://www.coworkingcatania.eu/
+node	12126293202	https://skydivesicilia.it/
+node	12132163140	https://www.villapalamara1868.it/index-en.html
+node	12132445431	https://cannonesrl.it/
+node	12132445432	https://cannonesrl.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3853,9 +3862,9 @@ way	36825245	http://www.zappala.it/
 way	38590776	https://www.parcodisegesta.com/home/vivere/storia/Tempio.html
 way	38590782	https://www.parcodisegesta.com/home/vivere/storia/Agora.html
 way	38590784	https://www.parcodisegesta.com/home/vivere/storia/Teatro.html
-way	38813167	http://www.liceovergadrano.edu.it
-way	38813168	http://www.liceovergadrano.edu.it
-way	38813169	http://www.branchina.edu.it
+way	38813167	https://www.liceovergadrano.edu.it/
+way	38813168	https://www.liceovergadrano.edu.it/
+way	38813169	https://www.branchina.edu.it/
 way	39096127	https://www.parcovalledeitempli.it/
 way	39198595	https://www.iclamelaadrano.edu.it
 way	39198596	https://www.scuolaguzzardi.edu.it
@@ -3916,9 +3925,10 @@ way	55366930	https://www.scuolaguzzardi.edu.it
 way	56030979	https://www.primocircoloadrano.edu.it
 way	56132270	https://www.sgboscobiancavilla.edu.it
 way	56132310	https://www.aspct.it/azienda/presidi-ospedalieri/biancavilla/
-way	56132707	http://www.icbrunobiancavilla.edu.it
+way	56132707	https://www.icbrunobiancavilla.edu.it/
 way	56132714	https://www.sgboscobiancavilla.edu.it
-way	56133558	http://www.sturzobiancavilla.edu.it
+way	56133558	https://www.sturzobiancavilla.edu.it/
+way	56672835	https://www.comune.adrano.ct.it/project/castello-normanno/
 way	57687511	https://www.vigilfuoco.it
 way	57687527	https://www.adspmaresiciliaorientale.it/
 way	58741464	http://www.georgecalin.ro/sf-agata/
@@ -4077,6 +4087,7 @@ way	177768971	https://www.istitutocomprensivoarchimede.edu.it/
 way	177769010	https://www.decimogiaraca.edu.it/
 way	177769071	https://www.liceogargallo.edu.it/
 way	178249368	https://www.undicesimosiracusa.edu.it/
+way	178542029	https://www2.asp.sr.it/Azienda/Luoghi/Traversa-La-Pizzuta-c-o-EX-ONP
 way	178582250	https://www.icmartogliosr.edu.it/
 way	178631637	https://www.poste.it
 way	179011409	https://www.scuolecassibile.edu.it/
@@ -4850,6 +4861,7 @@ way	505268299	https://www.poste.it
 way	507481476	https://www.icnegliasavarese.edu.it/
 way	507793994	https://circuitovincenzaispica.it/
 way	509062760	https://www.vigilfuoco.it
+way	510351870	https://www.comune.siracusa.it/servizio/centri-comunali-di-raccolta
 way	510790725	https://www.parcodellemadonie.it/santa-foca-castelbuono.html
 way	510839283	https://www.icprincipedinapoli.edu.it/
 way	510839285	https://www.scuolatodaro.it/
@@ -4868,7 +4880,7 @@ way	521773934	https://parcovillafilippina.wordpress.com/
 way	521993389	https://www.greencarpalermo.it/
 way	524244947	http://www.familyparkpalermo.net/
 way	527432735	https://www.poste.it
-way	527453256	http://dabetta.it
+way	527453256	https://www.dabetta.it/
 way	527591227	https://it-it.facebook.com/comunita.humanitas
 way	527850535	http://www.autolineelattuca.it/
 way	529261548	https://www.eurospin.it/
@@ -4978,6 +4990,7 @@ way	685135302	https://www.boutiquehotelmolosantalucia.it/
 way	685332439	https://www.letelediaracne.it/
 way	685468670	https://turismo.comune.palermo.it/palermo-welcome-luogo-dettaglio.php?tp=68&det=21&id=185
 way	686408437	https://www.villadafne.it/
+way	686462183	https://www.riparautosiracusa.it/
 way	689331691	http://www.giannonelavorazionepietra.com/
 way	691312408	https://www.cocusclub.it/
 way	691542209	https://www.edilsider.com/
@@ -5585,7 +5598,6 @@ way	1160448691	https://www.bioparcodisicilia.it/
 way	1160580025	https://www.brontesecondocircolo.edu.it
 way	1160580058	http://www.iscapizzi.edu.it/
 way	1160580099	http://www.iscapizzi.edu.it/
-way	1160580107	http://www.hotelparcodelletna.it/
 way	1160634470	https://lezagaredivendicari.it/
 way	1160638110	http://www.agriturismopaparanza.it/
 way	1160643745	https://www.ilgelsominoritrovato.it/area-attrezzata-per-camper-a-milazzo/
@@ -5939,12 +5951,13 @@ way	1306663056	https://ilcarsrl.it/
 way	1306815243	https://www.palazzosangiorgiocatania.it/
 way	1307078780	https://www.istitutorapisardi.edu.it/
 way	1307078784	https://www.istitutorapisardi.edu.it/
-way	1307078792	http://www.icbrunobiancavilla.edu.it
-way	1307078826	http://www.icbrunobiancavilla.edu.it
-way	1307078833	http://www.icbrunobiancavilla.edu.it
+way	1307078792	https://www.icbrunobiancavilla.edu.it/
+way	1307078826	https://www.icbrunobiancavilla.edu.it/
+way	1307078833	https://www.icbrunobiancavilla.edu.it/
 way	1308518234	https://www.ic2adrano.it
 way	1308518260	http://www.scuolasantalucia.it/
 way	1308518307	https://www.isradice.edu.it
+way	1309840467	http://www.sunislandwakepark.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6633,6 +6646,8 @@ node	11950505164	https://bbagricolarosa.it/
 node	11955289120	https://www.linkspace.it/
 node	12047460450	https://sites.google.com/view/pizzeriadanatale/info
 node	12090291788	https://www.cannistrabeerservice.it/
+node	12121090918	https://visitsicilia.net
+node	12121132369	https://visitsicilia.net
 way	34227431	http://liceomazara.edu.it/
 way	34314619	https://www.zoculture.it/
 way	35264757	http://www.wwfpreola.it/
@@ -6642,7 +6657,6 @@ way	45499593	http://antoniodapadova.ilbello.com/
 way	45772563	http://stelladimare.gooditaly.net/
 way	46680417	http://www.ristorantedelpescatore.com
 way	54741222	http://www.fiorentino-fiat.com/
-way	56672835	https://www.comune.adrano.ct.it/project/castello-normanno/
 way	71917785	https://villapalagonia.it/
 way	76776024	http://www.costozerolife.it/
 way	76830363	http://www.danceworks.it/
