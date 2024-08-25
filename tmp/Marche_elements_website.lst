@@ -600,6 +600,7 @@ node	4341913071	https://www.wokaway.it/
 node	4341913073	https://www.zuccheroaveloancona.it/
 node	4346988355	https://www.farmaciamatteucci.it
 node	4346998420	https://www.facebook.com/Mistic-Pizza-877830408924053/
+node	4347589925	https://www.unieuro.it/online/negozi/Unieuro-Pesaro
 node	4353337470	https://www.anticoborgopiceno.it/
 node	4353337473	http://www.labirretta.it
 node	4353337474	https://www.negronicasa.it/
@@ -704,6 +705,7 @@ node	5495661968	https://www.mzv.cz/jnp/cz/o_ministerstvu/adresar_diplomatickych_
 node	5540874127	https://www.fraticelligirottipierella.com
 node	5544031046	https://la-loggia-luxury-brand.business.site/
 node	5582832314	https://aclimacerata.it/
+node	5588939026	https://www.osteriavialeopardi.it/
 node	5595937208	https://www.officinabistrot.it/
 node	5595996464	https://www.raphaelbeach.com
 node	5600657222	https://www.gabbiano-senigallia.com/
@@ -1401,6 +1403,7 @@ node	11342436930	https://www.lenavigroup.it/il-gruppo/ancona/
 node	11343180052	https://www.polomedicinaintegrata.it/
 node	11343315941	https://www.varealecoste.it/
 node	11343315958	https://www.cabalsomino.com/
+node	11346086700	https://www.prenatal.com/store/prenatal-pesaro/
 node	11346100672	https://www.amicimieiristorantepizzeria.it/
 node	11346100673	https://www.labaciocca.com/
 node	11346100675	https://urbino.scavolinistore.net/
@@ -1531,8 +1534,11 @@ node	12100291750	https://www.bebarmonia.com/
 node	12104638801	https://www.labaitapesaro.com
 node	12110490285	http://www.fattoriapaccusse.it
 node	12114298708	https://ilvecchioscornabecco.com/
-node	12114453241	bblequattrostagioni.com
+node	12114453241	https://bblequattrostagioni.com
 node	12115207601	https://fued.it
+node	12127900503	http://villadeipriori.it
+node	12132019371	https://www.novacarservice.it/
+node	12134090648	https://www.machebuoni.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1541,7 +1547,7 @@ way	23678233	https://www.conad.it/ricerca-negozi/conad-superstore-via-guglielmo-
 way	23680904	http://www.progettosuasa.it/
 way	24587199	https://www.cwgc.org/find-a-cemetery/cemetery/2005500/ANCONA%20WAR%20CEMETERY
 way	24887462	http://www.molino.castiglionidiarcevia.it
-way	25213597	http://www.adriaticarena.it
+way	25213597	http://www.vitrifrigoarena.it/
 way	27783882	https://www.vigilfuoco.it/comando-vvf-ancona
 way	39042118	https://www.parcozoofalconara.com/it/lo-zoo/chi-siamo.html
 way	39405476	https://www.jadrolinija.hr/en/travel/split-ancona
@@ -1558,7 +1564,6 @@ way	43392844	https://www.sanpietroapostolo.org/seminari/Macerata.htm
 way	44357138	https://istitutomesticamacerata.it/scuola-primaria-g-mameli/
 way	44582095	http://www.abbadiafiastra.net/index.php?option=com_content&view=article&id=9&Itemid=131&lang=it
 way	44582742	http://www.abbadiafiastra.net/index.php?option=com_content&view=article&id=9&Itemid=131&lang=it
-way	45374726	https://www.casadelsolepineta.it/
 way	54579458	https://www.rifugideisibillini.it/
 way	54579745	http://www.rifugiomontisibillini.it/
 way	55334188	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/70665/Collegiata+di+Maria+Santissima
@@ -1775,6 +1780,8 @@ way	347568381	http://www.jcube.org/
 way	348356911	https://www.crmspa.it/
 way	350617333	https://www.villadecastelletta.it/
 way	350617962	https://www.villacattani.it/
+way	350799563	https://www.acquaesapone.it/puntivendita/pesaro-piazza-stefanini-4/
+way	350800079	https://www.eurospin.it/punti-vendita/pesaro-piazza-stefanini-6/
 way	351331103	http://www.avioclubmadonnadiloreto.it/
 way	351847018	https://www.ilvolofabriano.it/
 way	352101120	https://www.comune.sanseverinomarche.mc.it
@@ -1857,6 +1864,7 @@ way	431578981	https://www.riservagoladelfurlo.it/index.php?id=26186
 way	433006148	http://www.museidiocesanimarche.it/
 way	433251824	https://www.carabinieri.it/
 way	433374150	https://www.comune.visso.mc.it/
+way	433380791	https://www.trony.it/online/store/TRO432_A
 way	433914902	http://www.rifugioditribbio.com/
 way	434353612	http://www.rifugiogarulla.com/
 way	434737330	https://www.bbcadelarossa.com/
@@ -1913,6 +1921,7 @@ way	484916652	https://www.rivadeipini.it/
 way	501032501	https://www.almandorlo.it/
 way	509432684	https://www.cwgc.org/find-a-cemetery/cemetery/2006400/gradara-war-cemetery/
 way	515456574	https://www.comune.petritoli.fm.it/
+way	516651867	https://www.villacollesereno.it
 way	528653981	https://www.cripesaro.org/
 way	530745000	https://www.usedengine-garage1.com/
 way	532942413	http://www.virtusbuonconvento.it/urbino.html
@@ -2128,6 +2137,7 @@ way	1306310251	https://www.campinggemma.it
 way	1306313432	https://www.areaperladelladriatico.it/
 way	1306318477	https://www.paradisocamping.it/
 way	1306320752	https://centrovacanzemirage.it/
+way	1310997502	https://www.blubebos.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -2232,6 +2242,7 @@ relation	17371893	https://www.caiascoli.it
 relation	17386687	https://www.caiascoli.it
 relation	17409935	https://www.camminodeicappuccini.it/
 relation	17685720	https://www.castellopallotta.com/
+relation	17958110	https://www.casadelsolepineta.it/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
@@ -2354,7 +2365,6 @@ node	6596868983	http://www.labellavitafano.it/
 node	6596894485	https://www.hotelamelia.it/
 node	6596894486	http://www.hotelastoriafano.it/
 node	6596945203	https://www.tiportolaspesa.it/
-node	6597521491	https://www.plazahotelfano.it/
 node	6606646149	http://www.daciarro.it/
 node	6621329596	http://www.tavernadeipescatori.it/
 node	6633261742	https://www.pizzeriebraccino.it/pizzerie/via-milano
