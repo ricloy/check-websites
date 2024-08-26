@@ -462,7 +462,7 @@ node	4085294293	https://www.pompeihotelvittoria.com/
 node	4088337777	https://www.cilieginahotel.it/
 node	4088589965	http://www.autocarpentieri.it
 node	4088591109	http://www.zoomaniarettili.com
-node	4093683889	http://www.letresorellepositano.it/
+node	4093683889	https://www.letresorellepositano.it/
 node	4095615743	http://elborr.com/
 node	4095615759	https://www.ilgiardinoditonia.it/
 node	4095883941	https://www.torresette.news/
@@ -1607,6 +1607,7 @@ node	9351285258	https://www.facebook.com/ilcasaledeilauri/
 node	9352480153	https://mutart.it/
 node	9359403778	http://www.rainarcigaycaserta.it
 node	9370322480	http://www.farmacieiuliano.it/
+node	9370349307	https://www.lafeltrinelli.it/punto-vendita/napoli/ms-napoli/550
 node	9373211849	https://www.creokitchens.it/
 node	9373380648	https://www.dibicenterveb.it/
 node	9384271414	https://big.stellafilm.stellafilm.it
@@ -2404,6 +2405,10 @@ node	12093746942	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bo
 node	12102748701	https://www.santaluciabakerylab.it/contatti/
 node	12106347166	https://cngeicava.it
 node	12110196525	https://www.brunopositano.it/
+node	12120629861	https://www.parcodeldragone.com/contatti/
+node	12120721112	https://ilnido.it/
+node	12120722017	https://www.oasimadredellapace.com/
+node	12135270251	www.sigitec.net
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -3516,7 +3521,7 @@ way	1304912736	https://www.itidavinci.edu.it/
 way	1306503989	http://www.amantidelmare.it
 way	1307190883	https://www.laterrazzadihermes.com/
 way	1307192615	http://www.campingpompei.it
-way	1307950987	http://enjoyvintage.it
+way	1307950987	https://www.enjoyvintage.it/
 way	1308344805	https://www.campinglagiara.it/ita/index.php
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
@@ -3725,6 +3730,10 @@ relation	17352410	https://www.camminodisanfilipponeri.com
 relation	17421666	http://www.cisnet.it/
 relation	17939016	http://bit.ly/3SykFuS
 relation	17939039	http://bit.ly/3SykFuS
+relation	17951453	http://bit.ly/3SykFuS
+relation	17951481	http://bit.ly/3SykFuS
+relation	17951649	http://bit.ly/3SykFuS
+relation	17951650	http://bit.ly/3SykFuS
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
