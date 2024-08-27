@@ -281,7 +281,6 @@ node	1835867903	http://www.osteriabellatrieste.com/
 node	1842644900	https://www.eurospin.it/
 node	1842644922	https://www.victorysport.it/
 node	1843864881	https://www.baiadisistiana.com/
-node	1843864928	http://www.cohibasistiana.it/
 node	1850675649	http://www.entouragegorizia.com/ristorante.htm
 node	1850675650	http://www.hendricks.gorizia.it/
 node	1875487128	http://www.museograndeguerratimau.it/index.html
@@ -877,6 +876,7 @@ node	3633949962	https://www.sme.it/
 node	3633951467	www.vinokilo.it
 node	3633951900	http://www.biblio.univ.trieste.it/biblioteche/biblioteca.asp?BIB=38
 node	3633952126	https://www.azcasa.net/
+node	3633953496	https://www.casediriposoatrieste.com/nova-primula.html
 node	3633955787	http://www.liviosaranz.it
 node	3633955959	https://www.sdgz.it/
 node	3633956236	https://www.biblio.units.it/pageview?pcode=J0
@@ -1072,6 +1072,7 @@ node	3800034281	http://www.motoshoppignolo.it/
 node	3800035386	Mormon.org
 node	3800037203	https://www.lipizer.it/biblioteca.php
 node	3804817315	www.agrisiamon.it
+node	3804818937	https://www.bandapassons.it
 node	3804819627	https://www.sbhu.it/pasian-di-prato/
 node	3804822492	https://www.sangiacomofarmacia.it/
 node	3804934633	http://www.lablavefood.it/
@@ -1973,6 +1974,7 @@ node	9091355059	https://casarosandra.it/
 node	9103908485	https://www.apicolturalombardo.it/
 node	9105938048	https://www.isoladeitesori.it/negozio/trieste-ts-via-battisti/
 node	9106017015	https://www.hostariamalcanton.it/
+node	9106021520	https://www.lapiadineriadelghetto.it/
 node	9115113130	https://www.automaurig.it/
 node	9115113131	https://www.automaurig.it/
 node	9131630361	https://www.localgymsandfitness.com/IT/San-Giovanni-al-Natisone/122873551768976/Villanova-calcio
@@ -2028,7 +2030,7 @@ node	9372007561	https://al-golosone.business.site/
 node	9372007562	http://www.afuocolentoristopub.it/
 node	9372085665	https://www.studio7srl.it/
 node	9372944531	https://www.tosushipn.it
-node	9378365333	www.studiogaleno.com
+node	9378365333	https://www.studiogaleno.com/
 node	9383798304	https://it-it.facebook.com/capricciodimanzano/
 node	9409910832	https://www.autoscuola4ruote.net
 node	9435090360	https://motocharlietrieste.it/
@@ -2601,6 +2603,13 @@ node	12097295743	https://www.termoconfort.it/balneum
 node	12108387226	https://www.skibarsappada.it
 node	12114475989	https://www.banca360fvg.it/
 node	12114476074	https://www.ginnasticamente2-0.it/
+node	12123864151	https://lets.trieste.it/attivo/
+node	12124863401	https://www.samatari.it/falesia-ponte-gote
+node	12126099716	https://www.consorzioagrariofvg.it/
+node	12127780801	https://www.cemut.net/
+node	12133483816	http://www.uisp.it/udine
+node	12136415963	https://www.arcigaytrieste.it/
+node	12140153279	https://www.chinesewushu.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2651,6 +2660,7 @@ way	36017067	http://www.piergiorgio.org/
 way	36017090	http://www.ictolmezzo.it
 way	36017096	http://www.ictolmezzo.it
 way	36017793	https://www.facebook.com/Pizzerialacortedeimiracoli
+way	36018512	https://www.museoguerrafredda.com/
 way	36018745	http://www.hotel-orso.it
 way	36019438	http://www.sporthotelbellavista.com
 way	36019750	https://www.comuneditarvisio.com/
@@ -2723,7 +2733,7 @@ way	36103612	http://prenatal.com
 way	36106582	https://my.sportler.com/it/filiali-sportler/sportler-udine/
 way	36112620	https://www.protezionecivile.fvg.it/it/comune/san-vito-fagagna
 way	36119385	https://6icudine.gov.it/
-way	36124367	http://www.stringher.it/
+way	36124367	https://www.stringher.it/
 way	36124372	http://www.1.icudine.it
 way	36125689	https://www.malignani.ud.it/
 way	36125967	https://archiviodistatoudine.beniculturali.it/
@@ -2772,7 +2782,10 @@ way	36237953	http://htpp//www.icpratadipordenone.gov.it
 way	36242880	https://www.protezionecivile.fvg.it/it/comune/cordenons
 way	36245020	https://www.centromeduna.it/
 way	36256591	https://www.protezionecivile.fvg.it/it/comune/zoppola
+way	36261647	http://www.ass3.sanita.fvg.it/it/
+way	36262080	https://www.bludrop.it/
 way	36263281	https://www.comune.codroipo.ud.it/
+way	36263505	https://www.iccodroipo.edu.it/
 way	36264929	https://www.fossamala.it/
 way	36266041	https://www.ucicinemas.it/
 way	36273328	https://www.sofimspa.it/
@@ -2931,6 +2944,8 @@ way	36430366	https://www.ispadue.it/
 way	36430373	https://www.menardisnc.it/
 way	36430389	https://www.friulpack.it/
 way	36430391	https://www.allus.it/
+way	36430494	http://www.officineforesto.com/
+way	36430498	http://www.marzinfuoco.it/
 way	36430574	http://www.costrusionlen.it/
 way	36430711	https://portonigaragepordenone.it/
 way	36430945	https://www.grappanonino.it/
@@ -3648,12 +3663,14 @@ way	1302864883	https://www.hotelcentrale-lignano.it/
 way	1302864891	https://www.doimohotels.it/
 way	1302864906	https://lignano.hotelmyriam.com/
 way	1302900045	https://www.hotelpashalignano.it/
+way	1304106680	https://www.ibc-solar.com/solarpark/
 way	1304595302	https://www.protezionecivile.fvg.it/it/comune/roveredo-piano
 way	1304599359	https://www.protezionecivile.fvg.it/it/comune/sedegliano
 way	1305008220	https://www.protezionecivile.fvg.it/it/comune/grimacco
 way	1305024277	https://www.protezionecivile.fvg.it/it/comune/fagagna
 way	1305914614	https://www.protezionecivile.fvg.it/it/comune/marano-lagunare
 way	1306355620	https://clubevolution.it/
+way	1311558111	https://www.lalunaimpresasociale.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4957,6 +4974,7 @@ relation	17657077	https://camminodellepievi.it/tappe/ottava-tappa/
 relation	17658172	https://camminodellepievi.it/tappe/ottava-tappa/
 relation	17664068	https://camminodellepievi.it/tappe/ventesima-tappa/
 relation	17933008	http://www.farfalledibordano.it
+relation	17973004	https://www.fvgstrade.it/it/25198/rete-delle-ciclovie-di-interesse-regionale-realizzata
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
@@ -5080,6 +5098,7 @@ node	3854178833	http://dealer.moto.it/dueruoteudine
 node	3894652854	https://www.sireneblu.it/
 node	3894653610	https://www.faccinielettrodomestici.it/
 node	3911470297	www.ristorantelaite.com
+node	3953205246	https://latarabane.wordpress.com
 node	3956267271	http://www.albergoneidersauris.it
 node	3956267272	http://www.pamairlan-sauris.it
 node	3956267273	http://www.hotelpluemesauris.it
@@ -5269,6 +5288,8 @@ node	11807614061	https://www.lodgeart.it/en-gb/veneta
 node	11851439338	https://fratellilabufala.com/
 node	11989104680	http://www.agriturismozaine.it/
 node	12017287866	https://www.testedipietra.it/
+node	12132375119	https://www.agriturismodagastone.it/
+node	12132517851	https://ristorante-pizzerianordest.it/
 way	35945116	http://www.casaperaria.it
 way	35946164	http://www.albergodiffusoilgrop.it/
 way	35946195	http://www.sotlanapa.it/
@@ -5615,6 +5636,7 @@ way	824812249	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idSch
 way	824813563	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=181&tsk=PG
 way	824814218	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=199&tsk=PG
 way	1188622268	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=22&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
+way	1303040648	https://moovitapp.com/index/it/mezzi_pubblici-line-440-Udine_e_Pordenone-2740-882741-25783718-1
 relation	2660295	https://www.comunesanmichele.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/2476
 relation	2697669	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=194&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 relation	2697670	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=195&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
