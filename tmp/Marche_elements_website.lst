@@ -727,6 +727,7 @@ node	5780536202	https://www.ckcarwash.it/
 node	5780536203	https://www.enel.it/spazio-enel/ancona/gruppo-innova-srl/11038/
 node	5780536216	https://www.piccoloatelier.com/
 node	5793755982	https://www.alphagemini.it
+node	5825631356	https://www.pizzeriadarobys.it/
 node	5851842486	https://www.oilone.eu/oilone/portfolio-articoli/stazione-di-servizio-montelabbatese-pu/
 node	5851844606	https://ip.gruppoapi.com/ricerca-stazioni-servizio/station/46775
 node	5881009063	https://www.nethesis.it/
@@ -789,11 +790,13 @@ node	6621456064	https://www.locandaannomille.it/pinseria-anno-mille
 node	6676199664	http://www.agriturismocalterrazzano.it/
 node	6690258549	https://www.ristorantescudiero.it/
 node	6720184193	https://www.asetservizi.it/farmacie-comunali/farmacia-fano-center/
+node	6721117504	https://comune.massignano.ap.it/
 node	6725254286	https://www.spumantebio-peruzzi.it/cdo/index.php
 node	6725276385	http://www.minieracabernardi.it/miniera_zolfo_cabernardi_miniera_storia.htm
 node	6725276386	http://www.minieracabernardi.it/parco-archeominerario-cabernardi.html
 node	6738423533	https://ristorantetrattoriaiolelone.it/
 node	6742202924	https://www.agenziademanio.it/opencms/it/agenzia/strutturaorganizzativa/direzioniterritoriali/marche/
+node	6745567315	https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/1100360185
 node	6780410058	https://www.gate-away.com
 node	6823873570	http://www.farmaciafortuna.it/
 node	6828345292	https://www.farmaciablasi.it/Home-Page
@@ -1539,6 +1542,8 @@ node	12115207601	https://fued.it
 node	12127900503	http://villadeipriori.it
 node	12132019371	https://www.novacarservice.it/
 node	12134090648	https://www.machebuoni.it/
+node	12144356084	https://villarinalducci.com/
+node	12146205245	https://www.piadinzuola.com/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1891,6 +1896,7 @@ way	438777427	https://www.carabinieri.it/
 way	439006128	https://www.carabinieri.it/
 way	439016112	http://www.rifugiosibilla1540.com/
 way	439208734	https://www.iluoghidelsilenzio.it/chiesa-della-romita-a-croce-visso-mc/
+way	439447876	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100370546
 way	439644620	https://sol.bibliomarchenord.it/opactest/library/FRONTONE%20-%20Biblioteca%20Comunale/URB$CNFRONTONE
 way	440671434	https://rifugiocollelecese.it/
 way	442655082	https://www.lavalledelmetauro.it/contenuti/beni-storici-artistici/scheda/4680.html
@@ -1898,6 +1904,7 @@ way	444189301	http://www.sidecar.it
 way	445824345	https://teatrodelleapi.it/
 way	447985152	https://www.corteconti.it/Home/Organizzazione/UfficiCentraliRegionali/UffMarche
 way	449663031	https://ambiente.unicam.it/
+way	449721005	https://imondiromagnoli.edu.it/struttura/fabriano-f-imondi-romagnoli/allegretto-di-nuzio/
 way	449760449	https://www.unicam.it/
 way	449987997	https://www.serrealte.com
 way	450049810	https://www.comune.matelica.mc.it/museopiersanti/index.asp
@@ -2138,6 +2145,21 @@ way	1306313432	https://www.areaperladelladriatico.it/
 way	1306318477	https://www.paradisocamping.it/
 way	1306320752	https://centrovacanzemirage.it/
 way	1310997502	https://www.blubebos.it/
+way	1311778271	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100239819-bene-individuo
+way	1311778272	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100239818-bene-individuo
+way	1311778273	https://www.villadevecchis.com/
+way	1311778276	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223148-bene-individuo
+way	1311778277	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223146-bene-individuo
+way	1311778278	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223144-bene-individuo
+way	1311778280	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223145-bene-individuo
+way	1311778281	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223131-bene-individuo
+way	1311778282	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223138-bene-individuo
+way	1311778283	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223132-bene-individuo
+way	1311778284	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223123-bene-individuo
+way	1311778285	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223120-bene-complesso
+way	1311778286	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100370545
+way	1311778310	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223122-bene-componente
+way	1311778312	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223125-bene-individuo
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -2215,6 +2237,7 @@ relation	14381580	https://www.parcosanbartolo.it/
 relation	14466885	https://www.prolococossinea.com/p/percorso-naturalistico-le-cese.html
 relation	14588022	https://camminilauretani.eu/
 relation	14597735	https://camminilauretani.eu/
+relation	14617083	https://www.moreavivarelli.edu.it/
 relation	14874398	https://www.lacapanninadiportonovo.it/
 relation	15657082	https://pedalareconlentezza.com/muro-ortezzano/
 relation	16051021	https://visitaltemarche.it/ciclo-appeninica/
@@ -2252,6 +2275,7 @@ node	845275784	http://www.ambassadorpesaro.it/
 node	845275788	http://www.hotelnapoleonpesaro.it/
 node	845275811	http://www.cruiser.it/docks_Site/
 node	1332887447	https://www.lazzabaretto.it/
+node	1342443842	http://www.comune.grottammare.ap.it/contents/Castello/380
 node	1390061950	https://www.hoteltesoro.it/
 node	1597985102	https://www.politeamafano.it/
 node	1598001258	https://museocivico.comune.fano.pu.it/
@@ -2562,7 +2586,6 @@ relation	15341759	https://diocesimacerata.it/
 relation	15982110	https://www.rivieradelconero.info/
 relation	17269004	http://www.liceogmarconi.gov.it/
 node	1342443841	http://lnx.montaltomarche.it/montalto2/Mercato/Ristora/Sistov/sistov.php
-node	1342443842	http://www.comune.grottammare.ap.it/contents/Castello/380
 node	1342443843	http://noteurbane.com/en/shop/hotel-pinella-montalto-delle-marche-peretti
 node	1342443844	http://www.museisistini.it/museo-montalto.html
 node	2724110539	https://www.facebook.com/pages/Bar-Diamond/421191581300138
@@ -2572,6 +2595,9 @@ node	5180660621	http://www.luoghidelsilenzio.it/marche/02_eremi/00049/index.htm
 node	10001454964	https://www.pietredellamemoria.it/pietre/monumento-ai-martiri-della-liberta-jesi-an/
 node	10048771656	https://www.iomangiobiologico.it
 way	31869757	https://pontesancarlo.comune.jesi.an.it/
+way	39405476	https://www.jadrolinija.hr/en/fleet-ship/marko-polo?
 way	437828400	http://pesaro.fiere.name
+way	620626312	https://www.jadrolinija.hr/en/fleet-ship/marko-polo?
 way	1109212826	https://www.mondavioturismo.it/area-camper-mondavio/
 way	1307473250	https://www.campingvalentinasostacamper.it/areasosta.html
+way	1311778271	https://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/28/
