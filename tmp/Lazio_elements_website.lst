@@ -301,6 +301,7 @@ node	829666854	https://www.ristoranteosteriadelparco.com/
 node	831429092	https://www.villalapaiola.it/
 node	832777688	https://exedra-roma.boscolohotels.com/restaurant-and-bar/tazio-restaurant-and-gallery-bar/
 node	834575758	http://www.lineaufficioweb.it/home.htm
+node	834803942	https://bedsbelvedere.com
 node	836239330	http://www.confraternitadisanjacopo.it/Hospital/Spedale_della_Provvidenza-Come%20arrivare.pdf
 node	852695512	http://www.ristorantelasorgente.com/
 node	859536944	https://www.facebook.com/Tri3Lab1/?locale=it_IT
@@ -4213,7 +4214,6 @@ node	8226909100	https://www.cucinedesign360.it/
 node	8226909101	https://www.la-ceramica.it/
 node	8226909102	https://www.eurolamproma.it/
 node	8227789897	https://www.waretech.it/
-node	8229277000	http://vatikan.be.mfa.gov.tr
 node	8233542240	https://www.imperivm.it/
 node	8233642464	https://www.lanuovavera.it/
 node	8233642466	https://www.expoluce.it/
@@ -4702,6 +4702,7 @@ node	9287083943	https://www.peperoncinoemiele.com/bistrot
 node	9299683112	http://www.ipupisiciliani.com/bistrot-monteverde/
 node	9306335727	https://www.hotelgiardinoeuropa.it/default.html
 node	9308982982	https://spandau74.wixsite.com/casasperelli
+node	9324394356	https://www.toyota.it/concessionari/auto_system_-_centroassistenzaautorizzato
 node	9325023670	https://motorcity-toyota.it/
 node	9325069724	https://www.toyota.it/concessionari/3f_-_centro_assistenzaautorizzato
 node	9325277751	https://www.acianguillara.it/
@@ -4879,7 +4880,6 @@ node	9724537995	https://www.annullieditori.it
 node	9725936909	https://www.myaudiostore.it/
 node	9725936912	https://sigaretteelettronicheromaest.it/
 node	9726075124	http://www.farmaciafarinato.it/
-node	9730351481	https://www.sportcarsrls.it/
 node	9731710134	https://www.ferchiavi.it/
 node	9732370048	https://it.nttdata.com/
 node	9734036288	http://www.hotelvareseroma.com/
@@ -6166,6 +6166,7 @@ node	12093462401	https://www.omnesartes.it/
 node	12094207293	https://www.louiseranch.com
 node	12096622950	https://www.repower.com/it/la-mobilita-elettrica/
 node	12096642393	https://www.repower.com/it/recharge-around/
+node	12097276335	https://www.memorialgeneraleanders.com/
 node	12100910601	"http://farmaciajung
 ano.it"
 node	12104683601	https://www.merisu.it/
@@ -6178,8 +6179,20 @@ node	12119209817	http://loasidelpesce.com/
 node	12120363801	https://frantoiobattaglini.com
 node	12120447828	https://comune.toffia.ri.it/visit-toffia/itinerario-storico-artistico/il-marmo-di-piazza-a-toffia/
 node	12124324951	https://pizzaderoma.eu/
-node	12124324960	http://www.ipercarni.com/
+node	12124324960	https://www.ipercarni.com/
 node	12132369277	https://www.hoteldomidea.com/
+node	12135549921	https://centrocinofiloioete.com/
+node	12139618975	https://avana.forteprenestino.net/
+node	12139760957	https://www.galactus.it/tuscolana/
+node	12139760963	https://otticaritz.it/
+node	12139760974	http://www.filetterialeon.com/
+node	12140251480	https://www.ilmelogranoonlus.it/
+node	12143763076	http://www.mediasangallo.it/
+node	12143778770	https://www.nokia.com/
+node	12144803153	https://www.centroislamicocassino.it/
+node	12145042341	https://www.gelateriacandycream.it/gregorio-xi
+node	12145858932	energymostia.it
+node	12148345961	http://www.qrzcb.io
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6214,6 +6227,7 @@ way	25958413	http://en.museicapitolini.org/
 way	26170318	http://www.icmartarusso.it/
 way	27036246	https://www.aslroma1.it/presidi-ospedalieri/presidio-ospedaliero-san-filippo-neri
 way	27038453	https://www.uniroma3.it/dipartimenti-e-scuole/dipartimenti/scienze-politiche-009448/
+way	27221401	https://www.termesabine.it
 way	27351933	https://www.catacombesancallisto.it/
 way	27519297	https://www.museodellemuraroma.it/
 way	27524179	https://www.cinecittadue.com/
@@ -6447,7 +6461,6 @@ way	108126598	https://villabruschifalgari.it/
 way	108210947	https://www.inps.it/Agendasedi/DatiSede.asp?d1=12701200
 way	108314344	https://www.hotelpinetapalace.com/
 way	109065757	http://www.barcelo.com/BarceloHotels/it_IT/alberghi/Italia/Roma-Ostia/hotel-barcelo-aran-blu/descrizione-generale.aspx
-way	109090584	http://www.mediasangallo.it/
 way	109117288	https://www.altstazionedelgusto.it/ostia/
 way	109236631	https://www.sannicolaostia.it/
 way	109248779	https://www.stellemarineostia.it/
@@ -7102,6 +7115,7 @@ way	296496866	https://accademiadellestelle.org/
 way	296781809	http://www.hotelgrazia.com
 way	296781810	http://www.marinadegliulivi.com
 way	296802772	https://hotelfontanaolente.it/
+way	296803227	http://www.termepompeo.it/
 way	297743155	http://www.comune.roccasinibalda.ri.it/
 way	297859425	https://www.fgeitalianagas.it/
 way	298122100	http://www.bbsanfernando.com/ita/
@@ -7469,6 +7483,7 @@ way	414754031	http://www.hotelartisroma.com/index.html
 way	415450737	https://facchinidisantarosa.it/
 way	416519941	https://www.itiscannizzarocolleferro.edu.it/
 way	416561421	http://www.neoplantarum.it
+way	416593943	https://www.iisviagramsci.edu.it/struttura/ipia-p-parodi-delfino-colleferro/
 way	417089361	https://www.piccoloborgo.it/
 way	417195444	https://cardinalragonesi.it/
 way	417807514	https://www.vigilfuoco.it/
@@ -7663,6 +7678,7 @@ way	463440673	http://www.interparking.com
 way	463467248	https://www.martinoquinto.it/
 way	464699136	https://www.parchilazio.it/montesoratte
 way	465645890	https://sanraffaele.it/assistenza/strutture-sanitarie/6/san-raffaele-montecompatri
+way	465927783	+39066601216
 way	466625400	http://www.museolubriano.com
 way	467169242	http://www.agriturismovalmontoneborgoimperiale.it/
 way	467482518	https://www.casalebussoletti.it/
@@ -7776,7 +7792,7 @@ way	500962461	http://www.santiantonioeannibalemaria.it/
 way	501076984	https://it.wikipedia.org/wiki/Diga_del_Salto
 way	501163454	http://www.CioccolatoNapoleone.it
 way	501165968	http://www.SupermercatiTigreRieti.com
-way	502164516	http://www.capodannomania.com/
+way	502164516	https://www.capodannomania.com/
 way	502439219	http://maggiorahotel.it
 way	503390735	https://ristoranteilpapillon.it/
 way	503390794	https://www.ristorantebaffone.it/
@@ -8092,6 +8108,7 @@ way	722016666	https://www.parchilazio.it/faggeto_di_allumiere
 way	723510493	https://www.virginactive.it/club/roma/roma-calasanzio
 way	725427549	https://www.icpadresemeria.it/index.php/la-nostra-scuola/scuola-primaria/plesso-principe-di-piemonte
 way	726116187	https://www.officinafiorinivalmontone.it
+way	727195273	https://www.ristorantedafiorello.com/
 way	732492848	https://tizianapieronifashion.it/
 way	732492857	https://tizianapieronifashion.it/
 way	732492872	https://clickservizi.com
@@ -8153,6 +8170,7 @@ way	796957793	https://www.icenzobiagi.edu.it/
 way	796973123	https://www.vivomarket.it/comune/58091/Roma.html
 way	800446522	https://www.santannacassino.it/
 way	800773317	http://www.amss.it/
+way	800788903	hotelsantelia.it
 way	801654763	https://www.nuovaclinicaannunziatella.com/
 way	801931223	https://www.conad.it/ricerca-negozi/negozio.006227.html
 way	801937656	https://www.conad.it/ricerca-negozi/negozio.008167.html
@@ -8265,7 +8283,6 @@ way	905181910	https://www.agrariamanziana.it/
 way	906123037	http://www.tortafragolosa.it/
 way	906123089	https://www.ilrifugiodeicacciatori.it
 way	908865037	https://lnx.ataonweb.it/wp/
-way	909123544	https://centrocinofiloioete.com/
 way	911163098	https://ambiente-spa.com/comune/casape/
 way	911168392	https://www.tuttitalia.it/lazio/62-casape/28-scuole/#RMEE89206A
 way	911237727	https://www.visitcasape.it/localita-parco-giovanni-falcone
@@ -8391,6 +8408,7 @@ way	1062711697	https://www.comune.cassino.fr.it/per-i-visitatori/teatro-comunale
 way	1066482690	https://www.liceokant.edu.it/
 way	1070263389	https://polisportivaderossi.it/
 way	1070758384	http://www.terredeiconsoli.it/
+way	1070792605	https://www.suitevallombrosa.com
 way	1071661232	https://www.dongnocchi.it/@strutture/centro-s-maria-della-pace
 way	1072006927	https://www.operasantedesanctis.it/
 way	1073276243	https://www.icartemisiagentileschi.edu.it/
@@ -8615,6 +8633,8 @@ way	1305985506	https://www.comune.roma.it/web/it/dipartimento-politiche-sociali-
 way	1308049177	https://www.bbleninfee.com/
 way	1308830971	http://www.cassinohotel.it/
 way	1308836841	https://comune.toffia.ri.it/visit-toffia/itinerario-storico-artistico/le-chiese/madonna-di-loreto/
+way	1311258184	https://www.pharmagest.it/
+way	1312121043	https://suorefmgb.org/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	32368	https://www.gov.uk/government/world/organisations/british-embassy-rome
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -9423,7 +9443,6 @@ node	452570567	http://www.catacombe.org
 node	802459210	https://www.oasidigreccio.it/
 node	926716805	https://ristoranteilcapriccio.it/
 node	1253223527	http://www.scholarsloungerome.com/
-node	1258879744	http://www.galloumbro.com
 node	1681445045	https://www.domussessoriana.com/
 node	1712867739	https://tavernacimoletto.business.site/
 node	1732844183	https://www.albergotoscana.net/
@@ -9438,6 +9457,7 @@ node	2151224588	http://www.gammarelli.com
 node	2175094020	http://www.biblico.it
 node	2244964954	http://the-yellow.com/
 node	2246354459	http://www.gelateriadeigracchi.it
+node	2290944893	https://visit.galmartellotta.it/catacomba-ad-decimum/
 node	2322986820	https://www.pastificiosanlorenzo.com/
 node	2488623438	http://12pietre.com/
 node	2507999309	http://www.hotelvillatorlonia.it/
@@ -9532,6 +9552,7 @@ node	8039126259	https://www.acli.it/
 node	8042013382	https://www.ilborgoristorantecamere.com/
 node	8096934093	https://g.page/Civico-Uno
 node	8167281435	http://www.dapie.it
+node	8229277000	https://vatikan-be.mfa.gov.tr
 node	8398705700	http://www.raicom.rai.it/contatti/
 node	8443736249	https://www.ishinristorante.com/
 node	8838180305	http://www.atlantisinn.it
@@ -9599,6 +9620,7 @@ node	11835513677	https://www.foresteriaroma.com/
 node	11915663318	https://www.vimiaventino.it/
 node	12051055918	https://www.team-tufi.it/
 node	12106285322	https://umilta36.com
+node	12144401063	https://croma.cancilleria.gob.ar/
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
 way	36385826	https://www.aeronautica.difesa.it/home/storia-e-tradizione/museo-storico/
 way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
