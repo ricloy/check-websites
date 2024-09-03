@@ -31,7 +31,6 @@ node	928209323	https://www.valdotain.it/
 node	928228356	www.pizzeriaristoranteavalon.it
 node	1019436474	https://www.albergodelponte.com
 node	1194448827	https://www.fortedibard.it/musei/museo-delle-alpi/
-node	1269097055	https://www.comune.saintdenis.ao.it/turismo/territorio/il-castello-di-cly
 node	1302104285	http://www.comune.brusson.ao.it/
 node	1302202773	http://www.etoiledeneige.com/
 node	1316237658	https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/issogne/castello-di-issogne/980
@@ -338,7 +337,7 @@ node	12097484461	https://histoiredebornes.ch
 node	12098866558	https://histoiredebornes.ch
 node	12103096774	https://www.pellissiersport.it/
 node	12104714341	https://www.naturalys.it/
-way	4525912	http://www.tunnelmb.net/v3.0/
+node	12144588288	https://www.regione.vda.it/cultura/patrimonio/siti_archeologici/news/eteley_2019_i.aspx
 way	27264184	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264185	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264187	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -610,6 +609,7 @@ way	163034014	www.hotelmochettaz.it
 way	163316242	https://www.ristopizzasottosopra.com/
 way	163316294	https://www.hoteldianaaosta.com/index.php/it/
 way	163316311	https://www.campinglesiles.com/campeggio/index.cfm/ristorante-pizzeria.html
+way	164765085	https://www.comune.saintdenis.ao.it/turismo/territorio/il-castello-di-cly
 way	165261857	https://www.castellogamba.vda.it/
 way	165276195	https://www.arrampicatainvalledaosta.it/4_alessio-garofalo-e-laurent-bosonetto-con-la-falesia-di-ivery/
 way	165354919	http://www.cva-ao.it
@@ -653,7 +653,7 @@ way	194286728	https://www.archistico.com/
 way	194489387	https://www.gulliver.it/itinerari/ponte-romano-falesia-del/
 way	204182351	https://www.camperonline.it/area_di_sosta_dettaglio.asp?ID=3530
 way	205544536	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
-way	205544546	http://www.tunnelmb.net/v3.0/
+way	205544546	https://www.tunnelmb.net/
 way	227410286	https://www.iaraosta.it
 way	229567128	https://www.rifugiomontfallere.it/
 way	235480778	https://www.caipiacenza.it/la-sezione/bivacchi/
@@ -843,7 +843,7 @@ relation	1471008	https://www.viefrancigene.org
 relation	1596159	http://www.trailvsb.com
 relation	2044885	https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/fenis/castello-di-fenis/979
 relation	2202531	https://www.comune.valtournenche.ao.it/
-relation	2227144	https://www.velodoire.it/
+relation	2227144	https://www.lovevda.it/it/banca-dati/7/ciclismo/gressan/ciclotour-pista-ciclo-pedonale-sarre-pontey/2849
 relation	2385342	http://www.via-alpina.org/en/stage/297
 relation	2458709	https://www.viefrancigene.org
 relation	3087290	http://www.tourdusaintbernard.com
@@ -1070,8 +1070,6 @@ node	10009106271	https://sketchfab.com/models/942a965bc4a94f0281f4db1e5e423ebd/e
 node	12097484461	https://sketchfab.com/models/7c59d140eed94ac6b55b527c8c7a431e/embed?autospin=0.2&autostart=1
 node	12098866558	https://sketchfab.com/models/305748fdaf834a3ea36c6e1a72378e96/embed?autospin=0.2&autostart=1
 node	12098897508	https://sketchfab.com/models/c839ced2aeca4767b36b1d6d4b208473/embed?autospin=0.2&autostart=1
-way	4525912	http://www.tunnelmb.net/
-way	205544546	http://www.tunnelmb.net/
 relation	517389	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C
 relation	517790	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202
 relation	517794	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206
