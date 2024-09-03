@@ -184,7 +184,6 @@ node	996210556	https://www.vsopcine.it/
 node	996210558	https://www.vsopcine.it/
 node	1003125844	http://www.alfalegname.it/
 node	1008433332	https://www.ducadaostagrado.it/
-node	1013298919	http://www.sacraosteria.it
 node	1059239582	https://www.naturaliacuorebio.it/
 node	1115508564	http://www.kukanja.it/
 node	1115508731	https://www.alabarda.it/
@@ -1422,6 +1421,7 @@ node	5046302021	https://www.turismofvg.it/Info-utili/Uffici-turistici/Sistiana-I
 node	5050023958	http://www.sangiorgiohotel.net/
 node	5050032079	https://www.despar.it/
 node	5058691041	www.dallepqualitypizza.com
+node	5077267380	https://www.albergovenezia.net/
 node	5077379737	https://www.solderchaletdolomiti.it/
 node	5089153674	https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=7217
 node	5100643023	https://craricambifontanafredda.com/
@@ -2607,9 +2607,11 @@ node	12123864151	https://lets.trieste.it/attivo/
 node	12124863401	https://www.samatari.it/falesia-ponte-gote
 node	12126099716	https://www.consorzioagrariofvg.it/
 node	12127780801	https://www.cemut.net/
-node	12133483816	http://www.uisp.it/udine
+node	12133483816	https://www.uisp.it/udine
 node	12136415963	https://www.arcigaytrieste.it/
 node	12140153279	https://www.chinesewushu.it/
+node	12147540201	http://agricolasalietbio.it
+node	12151497094	https://www.turismofvg.it/it/agriturismi/pantanali-luca
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2628,6 +2630,7 @@ way	35943657	http://www.rifugiochiampizzulon.it
 way	35944076	https://www.rifugiomarinelli.com/
 way	35945051	http://www.rifugiotolazzi.it
 way	35945271	https://www.rifdegasperi.it/
+way	35945674	http://www.nanos.it/
 way	35950767	www.hotelsaustri.com
 way	35984947	http://www.zoncolannoleggio.it/
 way	35984990	https://rifugiotamai.it/
@@ -2944,8 +2947,8 @@ way	36430366	https://www.ispadue.it/
 way	36430373	https://www.menardisnc.it/
 way	36430389	https://www.friulpack.it/
 way	36430391	https://www.allus.it/
-way	36430494	http://www.officineforesto.com/
-way	36430498	http://www.marzinfuoco.it/
+way	36430494	https://www.officineforesto.com/
+way	36430498	https://www.marzinfuoco.it/
 way	36430574	http://www.costrusionlen.it/
 way	36430711	https://portonigaragepordenone.it/
 way	36430945	https://www.grappanonino.it/
@@ -3925,6 +3928,7 @@ relation	141722	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carnic
 relation	141727	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-904
 relation	141741	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-905
 relation	141744	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-906
+relation	159208	https://www.asem.it
 relation	159226	http://www.mininabbigliamento.it/
 relation	159781	https://icpordenonesud.edu.it/scuola-secondaria-di-i-grado-t-drusin
 relation	159960	http://www.icpagnacco.gov.it/primaria-moruzzo/
@@ -4975,6 +4979,18 @@ relation	17658172	https://camminodellepievi.it/tappe/ottava-tappa/
 relation	17664068	https://camminodellepievi.it/tappe/ventesima-tappa/
 relation	17933008	http://www.farfalledibordano.it
 relation	17973004	https://www.fvgstrade.it/it/25198/rete-delle-ciclovie-di-interesse-regionale-realizzata
+relation	17986023	https://camminodellepievi.it/tappe/decima-tappa/
+relation	17986024	https://camminodellepievi.it/tappe/decima-tappa/
+relation	17986684	https://camminodellepievi.it/tappe/undicesima-tappa/
+relation	17987613	https://camminodellepievi.it/tappe/undicesima-tappa/
+relation	17987614	https://camminodellepievi.it/tappe/dodicesima-tappa/
+relation	17987615	https://camminodellepievi.it/tappe/dodicesima-tappa/
+relation	17987616	https://camminodellepievi.it/tappe/undicesima-tappa/
+relation	17988494	https://camminodellepievi.it/tappe/tredicesima-tappa/
+relation	17988495	https://camminodellepievi.it/tappe/tredicesima-tappa/
+relation	17988810	https://camminodellepievi.it/tappe/quattordicesima-tappa/
+relation	17989425	https://camminodellepievi.it/tappe/quindicesima-tappa/
+relation	17989470	https://camminodellepievi.it/tappe/sedicesima-tappa/
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
