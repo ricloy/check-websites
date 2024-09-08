@@ -664,7 +664,7 @@ node	2851086822	https://arst.sardegna.it/
 node	2851086851	http://www.viseras.it/
 node	2851102942	https://www.bebdatitina.it/
 node	2857308205	https://cyranolibri.wordpress.com/
-node	2857321900	https://www.hotelcatalunya.it/blau-alghero.html
+node	2857321900	https://www.hotelcatalunya.it/blau-skybar-vista-mare.html
 node	2868252936	https://www.crai-supermercati.it/punti-vendita/pdv.php?id=702
 node	2871493153	https://www.grandhotelcapotesta.it/
 node	2889942917	http://www.sardegnacultura.it/j/v/253?s=24173&v=2&c=2488&c1=2130&t=1
@@ -1064,7 +1064,6 @@ node	4473478463	http://www.anbarok.it/
 node	4473478466	https://www.aigua.it/
 node	4473478469	https://www.bancasassari.it/
 node	4473478472	http://www.facebook.com/pages/Caf%C3%A9-Del-Principe/231186086942272
-node	4473478474	https://www.hotelcatalunya.it/
 node	4473478475	https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=5428
 node	4473478476	https://www.facebook.com/barcosmopolitan.alghero
 node	4473478479	https://www.eurospin.it/dettpv.cfm?idpv=46995
@@ -1085,6 +1084,7 @@ node	4473522938	https://www.obracultural.cat/biblioteca-catalana/
 node	4473523208	https://www.residenceucalipti.it/en/residence-and-apartments-with-pool-alghero.html
 node	4473523228	https://www.plataforma-llengua.cat/territorials/alguer/
 node	4473526797	https://www.bata.it/
+node	4473532617	www.welcometoalghero.com/struttura/casa-dei-liuti/
 node	4473541964	www.osteriamacchiavello.it
 node	4473541967	http://www.lavecchiagrottadeldiavolo.com/
 node	4473541974	http://www.altuguri.it/
@@ -1268,6 +1268,7 @@ node	5591082171	https://www.portocorallocamping.it
 node	5594649954	https://www.shardanamultimedia.it/
 node	5594666975	https://www.lecasedinonna.it
 node	5599110928	https://www.ex-animo.it/
+node	5600392475	http://www.hotelispinigoli.it/
 node	5615152823	https://www.sardovagando.com/
 node	5632299281	https://www.gruppovege.it
 node	5635362206	https://www.gruppovege.it
@@ -1688,11 +1689,17 @@ node	12121970809	https://farmaciasundas.com
 node	12121982353	https://poste.it
 node	12121987010	https://prolocosantadi.it
 node	12121987011	https://sardiniaairportshuttle.it
-node	12133461001	http://www.140grammi.com/
+node	12133461001	https://www.140grammi.com/
+node	12150157467	https://www.funtanazza.it/
+node	12151064861	https://www.agriturismolosperonegonnesa.it/
+node	12151110303	http://www.agriturismolescuderie.eu/
+node	12153379334	https://www.architettura.uniss.it/
+node	12153781771	https://pruneddu.com/
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
 way	28890396	http://www.apmolentargius.it/stagno_platamona.php
+way	38765501	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Giardini-Giuseppe-Manno/
 way	38808261	https://www.tre.it/
 way	38811543	https://www.cagliariairport.it/
 way	41180949	https://www.nora.sardegna.it/
@@ -2023,7 +2030,6 @@ way	279211238	https://www.eurospin.it
 way	279262426	https://villagrazia-bed-and-breakfast-alghero.com/
 way	279263478	https://www.hotelsoleado.it/en/
 way	279263582	https://www.istitutocomprensivo3alghero.edu.it/
-way	279263762	https://www.architettura.uniss.it/
 way	279263832	https://www.doppiomalto.com/it/ristoranti/alghero/
 way	279263930	http://capogalera.com
 way	279264180	https://www.architettura.uniss.it/
@@ -2031,7 +2037,6 @@ way	279269947	http://www.parcodiportoconte.it/
 way	279270110	https://museialghero.it/museo-del-corallo/
 way	279270521	https://www.hotelvillalastronas.it/
 way	279271916	https://www.villamosca.it/
-way	279272665	https://www.architettura.uniss.it/
 way	279386425	https://www.campingsanteodoro.com
 way	279388114	https://www.ristorantemiriacheddu.it/
 way	279399229	https://www.galluraturismo.eu/chiese-campestri-ad-ala-dei-sardi/
@@ -2219,6 +2224,14 @@ way	305337654	https://catalogo.cultura.gov.it/detail/ArchitecturalOrLandscapeHer
 way	305351371	http://bbsustrangiu.altervista.org
 way	305644772	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/2000240940A
 way	306484654	https://www.hotelpausaniainn.com/
+way	308870527	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Parco-Le-Ginestre/
+way	308870528	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Parco-Baden-Powell/
+way	308870534	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Parco-Mons-Hemmerle/
+way	308870535	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Parco-Rafael-Caria/
+way	308870538	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Parco-Caporal-Maggiore-Scelto-Gianmarco-Manca/
+way	308870539	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Giardini-Cecchini-La-Lepanto/
+way	308870541	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Parco-Tarragona/
+way	309270599	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Giardini-via-Tiziano/
 way	311387174	https://abbadruche.it
 way	311411337	https://www.eurospin.it/
 way	313718514	http://www.sardegnacultura.it/j/v/253?s=19449&v=2&c=2489&c1=2128&t=1
@@ -2446,7 +2459,6 @@ way	757855019	https://www.mercuryboutiquehotel.it/
 way	802172146	https://www.conad.it/ricerca-negozi/negozio.050445.html
 way	814115957	https://www.mdspa.it/punti-vendita/Sardegna/Cagliari/797-Selargius
 way	816418825	https://www.istitutocomprensivo2alghero.edu.it/
-way	816421388	https://www.istitutocomprensivo2alghero.edu.it/
 way	822427940	https://parcheggio-economy.it/
 way	824860025	https://terrasardaceramiche.it/
 way	833731858	https://nooraghe.altervista.org/
@@ -2503,6 +2515,10 @@ way	1304797864	https://www.hotelpuntanegra.it/
 way	1304913363	https://www.lidl.it/s/it-IT/ricerca-punto-vendita/alghero-ss/via-vittorio-emanuele-219/
 way	1308402127	https://www.hoteldomominorealghero.it/
 way	1308915931	https://arst.sardegna.it/orari_e_autolinee/servizimetross.html
+way	1312847963	https://www.hotelcatalunya.it/
+way	1312992966	https://www.architettura.uniss.it/
+way	1312994568	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Piscina-Comunale/
+way	1313553766	https://www.asl1sassari.it/strutture/farmacia-territoriale-di-sassari/#!%23articolo-giorni-orari
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3080,6 +3096,7 @@ relation	17349923	https://sardegnasentieri.it
 relation	17360268	https://www.sardegnasentieri.it/sentiero/pinningassu-stazione-di-villagrande-t-121
 relation	17626081	https://www.sardegnasentieri.it/sentiero/monte-ferru-c-103
 relation	17645470	https://www.cicloviadellasardegna.it/
+relation	18001585	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Parco-Martin-Luther-King/
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -3574,7 +3591,6 @@ way	296374789	http://www.csmonteluna.it
 way	296378089	https://www.villa-alberta.com/
 way	296547517	http://www.treninoverde.com/
 way	296547518	http://www.treninoverde.com/
-way	296579569	http://www.pruneddu.com
 way	296592082	http://www.comune.osidda.nu.it
 way	296771775	https://www.sufassoi.it
 way	296791100	http://www.comune.oniferi.nu.it
