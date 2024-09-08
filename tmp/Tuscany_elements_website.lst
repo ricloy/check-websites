@@ -760,7 +760,7 @@ node	2361652928	https://www.bancaetica.it/filiale/filiale-di-firenze/
 node	2361653525	https://www.trattoriadagiorgio.it/
 node	2361655692	https://at-bus.it
 node	2361657322	https://www.pampanorama.it
-node	2361657805	http://fiorentinastore.com
+node	2361657805	https://fiorentinastore.com/
 node	2361657887	https://tamerofirenze.com/
 node	2361657982	http://www.lacasadellastampa.com
 node	2361658273	https://rawveganfirenze.com
@@ -1420,7 +1420,6 @@ node	3677359832	http://www.vivaighelli.it/
 node	3680148294	https://www.farmaciabartolozzi.it
 node	3685222279	https://www.lamenagere.it/
 node	3685440189	https://www.locandadicasalmustia.it/
-node	3690843433	https://www.campingsangiusto.com/
 node	3695848052	https://www.almaartis.it/
 node	3701634296	https://caffe-la-spina-dei-flli-bronte.business.site/
 node	3701939228	http://www.provincia.fi.it/palazzo-medici-riccardi/biblioteca-moreniana/
@@ -2757,7 +2756,7 @@ node	6448724914	trattoriadamaria.com
 node	6449323472	https://trattoriatoscana-downhomecookingrestaurant.business.site/
 node	6450080439	https://trattoriadacarla.it/
 node	6450148027	albergodellago.it
-node	6453097694	https://letrusco-restaurant.business.site/
+node	6453097694	https://letruscoristorante.it/
 node	6454803330	https://www.gruppocarige.it/
 node	6464801926	http://www.geo-solutions.it
 node	6467696370	https://pizzagnolo.it/
@@ -2950,6 +2949,7 @@ node	6819520666	http://www.lapievedisantandrea.it/
 node	6822800586	https://pisa.esn.it/
 node	6831896285	https://www.osteriadabusse1930.it/
 node	6831897586	https://www.caveaudelteatro.it/
+node	6832404678	https://www.monteriggioniturismo.it/it/ospitalita/ostello-contessa-ava-dei-lambardi
 node	6832757217	https://farmacia-di-contea.myshopify.com
 node	6833355997	https://www.at-bus.it/it
 node	6835396286	http://www.osteriadarosolo.com
@@ -3651,6 +3651,7 @@ node	8857741116	https://www.audionovaitalia.it/
 node	8857761831	https://www.at-bus.it/
 node	8863254424	https://www.booking.com/hotel/it/agriturismo-il-frantoio-di-colle-alberto.it.html
 node	8863630366	https://limonaia22.com/
+node	8868114585	https://www.federicofarm.com/camping
 node	8868920517	https://patriziabiagioni.wixsite.com/dapaolino
 node	8870773072	https://www.casteani.it
 node	8870773085	https://contidisanbonifacio.com
@@ -4612,6 +4613,7 @@ node	11195954830	https://www.drmax.it/le-nostre-farmacie/siena-viale-cavour-252?
 node	11195954833	https://www.livingsiena.com/
 node	11195954834	http://www.mfservicesolution.it/
 node	11195954835	https://macelleriacarnileduea.it/
+node	11196390778	https://www.primark.com/it-it/stores/livorno-li/via-edda-fagni-40
 node	11197380277	https://www.ulixaudio.it
 node	11199977275	https://tonicnet.it/i-nostri-club/livorno/
 node	11202288098	https://www.librarteposter.com/
@@ -5997,6 +5999,11 @@ node	12136287948	https://www.tripadvisor.it/Restaurant_Review-g1582946-d3461314-
 node	12136553714	https://www.sposando.it/
 node	12145715069	https://energyebike.it/
 node	12146348319	http://www.caiporretta.it/
+node	12149177687	https://www.tripadvisor.it/Restaurant_Review-g1582946-d3155538-Reviews-Panigacci_Wow_Podenzana-Podenzana_Province_of_Massa_Carrara_Tuscany.html
+node	12149950266	https://www.tripadvisor.fr/Hotel_Review-g1582946-d3541845-Reviews-B_B_La_Luna_di_Giulia-Podenzana_Province_of_Massa_Carrara_Tuscany.html
+node	12151455101	http://www.montauto.org
+node	12154380768	https://linktr.ee/sleeverecords
+node	12158052763	https://istitutocomprensivoempoliovest.edu.it/struttura/genitore/scuola-dellinfanzia-c-collodi-monterappoli/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -7503,6 +7510,7 @@ way	715012294	https://www.carabinieri.it/
 way	715032232	https://www.barberinotavarnelle.it/
 way	715066414	https://oletapasbar.it
 way	715084805	https://www.3fratellitraslochi.it/
+way	715198013	https://www.agricampeggioippocampo.it/
 way	715465030	https://www.etruriaretail.it/
 way	715466308	https://www.hotelbelmaretoscana.it/
 way	715601420	https://agriturismocollelungodimaremma.jimdofree.com/
@@ -8136,6 +8144,9 @@ way	1311083073	https://www.canestrellipetroli.it/
 way	1311197921	https://www.lunigianaworld.it/rifugi-e-bivacchi/bivacco-baton/
 way	1311211258	https://www.lunigianaworld.it/rifugi-e-bivacchi/bivacco-matale/
 way	1312473453	https://www.comune.vicopisano.pi.it/Servizi/Area-Camper-servizi-e-accesso#
+way	1312581971	https://www.campingsangiusto.com/
+way	1313696619	www.at-bus.it
+way	1313816081	https://www.ilpaesedelgarbo.org/borgo-beccanella
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -9233,6 +9244,7 @@ relation	17916742	https://www.viefrancigene.org
 relation	17916905	https://www.viefrancigene.org
 relation	17922538	https://www.unisi.it/
 relation	17977469	https://www.caiprato.it/
+relation	18011151	https://www.sentieripartigiani.it
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
 node	256819101	https://www.unicooptirreno.it/punto-vendita/viareggio
@@ -9684,7 +9696,7 @@ node	10911569636	https://floridagroup.it/
 node	10921713912	http://www.affittacameremartelli.it/
 node	10922024245	https://essenzainsanminiato.it/
 node	11026352371	https://ilovecasentino.it/gelateria-edi.php
-node	11085042899	https://www.monteriggioniturismo.it/it/museo-archeologico/
+node	11085042899	ttps://www.monteriggioniturismo.it/it/museo-archeologico/https://www.monteriggioniturismo.it/en/what-to-see/abbadia-a-isola/mam-monteriggioni-archaeological-museum
 node	11201912898	https://www.antica-toscana.it
 node	11236015387	https://www.elbamtb.it
 node	11236080058	http://www.sunbeachelba.it/
@@ -9730,6 +9742,7 @@ node	12086023123	https://www.agriturismofattoriacelle.com/
 node	12086029094	https://www.agriturismo-casavecchia.it/
 node	12096682711	https://www.lostroncapane.com/
 node	12096682712	https://hotelilmonte.it/
+node	12160712501	https://albergoetruria.it/volterra/
 way	28396159	https://www.basilicacateriniana.it/
 way	41735556	http://www.verrazzano.com/
 way	58670208	https://www.acquariodilivorno.it/
@@ -9895,6 +9908,7 @@ way	1238858747	https://www.saturniadayspa.com/
 way	1252092919	https://www.cinemaastrafollonica.it
 way	1291529899	http://www.unisi.it/altre-strutture/presidio-polo-umanistico
 way	1303296622	http://www.carabinieri.it/
+way	1312944539	https://www.golfodellalacona.it/
 relation	25564	https://www.at-bus.it/
 relation	1014432	http://www.abbaziasansalvatore.it/
 relation	1178262	https://www.campingtripesce.it
@@ -9974,7 +9988,6 @@ node	7765265785	https://www.antinori.it/it/tenuta/tenute-italia/le-mortelle/
 node	8586643511	https://iltirreno.gelocal.it/livorno/cronaca/2021/02/27/news/aereo-caduto-nel-bosco-di-parrana-san-martino-si-muovono-i-volontari-1.39961487
 node	8623047934	http://mapserver.provincia.prato.it/prv_po/Cartapatrimonio/_console/07_pdf/Edifici_Pses/017_I%20poderi_del_Mulinaccio.pdf
 node	8623047936	http://mapserver.provincia.prato.it/prv_po/Cartapatrimonio/_console/07_pdf/Edifici_Pses/017_I%20poderi_del_Mulinaccio.pdf
-node	8868114585	https://campingrondola.business.site/?um=referral
 node	8997232754	http://fondarte.peccioli.net/opere/opere.php?idOpera=43&idView=7
 node	9127352681	http://web.tiscali.it/agri_il_paradiso/
 node	9205358111	http://mapserver.provincia.prato.it/prv_po/Mappecittadini/pdfs/Mappecittadini_scheda_625.pdf
