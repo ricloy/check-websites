@@ -1896,7 +1896,6 @@ node	8571864913	https://www.goingelectric.de/stromtankstellen/Italien/Silvi/Torr
 node	8578334394	https://www.giammarinocarni.it/
 node	8582061121	https://www.cantinadiortona.it/
 node	8591273690	https://www.muulab.it/
-node	8599018140	https://www.pasticceriadolcetto.it/
 node	8599445913	https://www.lasiestapiadineria.it/
 node	8601663235	http://www.pomarferramenta.it/
 node	8602257745	https://www.foodyas.com/IT/Ortona-a-Mare/1513959388906143/Bar-Lilly
@@ -3126,6 +3125,10 @@ node	12153387717	https://bnl.it/
 node	12153410847	https://macelleriasilveri.mypos.site/
 node	12156013343	https://www.unicogo.it
 node	12162270237	https://www.danzapp.it/item/scuola-di-danza-arabesque/
+node	12164901503	https://www.bmautomobili.com/
+node	12168576636	https://genobile.it/contatti.html
+node	12177199641	https://kobaksmartoilet.com/
+node	12177948629	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -3436,6 +3439,8 @@ way	409227903	http://www.parrocchiacartecchio.it/
 way	419738715	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-germano-di-pacentro/
 way	422839507	https://www.hotelvillaluigi.it/
 way	423847095	https://www.caichieti.it/rifugi-e-bivacchi/
+way	425545818	https://www.freeb.it/
+way	425545825	https://www.ilpioppeto.it/
 way	425547692	https://www.plazavasto.it
 way	430123035	http://www.visit-gorianosicoli.it/poi/899/church-of-santa-maria-nuova/3
 way	430123036	http://www.visit-gorianosicoli.it/poi/898/church-of-santa-gemma/3
@@ -3713,6 +3718,7 @@ way	829964451	https://www.comune.tollo.ch.it/section/pubblicazioni/Antonio-Del-C
 way	830375523	http://www.portobelloareadiservizio.it/lanciano.html
 way	830772995	https://www.cucinelube.it/it/punti-vendita/abruzzo-chieti-lube-store-sambuceto-ch/
 way	831736047	https://www.maioraniugolino.it/
+way	836164624	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179830#
 way	839569617	https://ic1chieti.edu.it/secondaria-chiarini/
 way	839651984	https://pescarafiere.it/
 way	842112527	https://www.rifugiodellarocca.it/
@@ -4131,6 +4137,7 @@ way	1311999419	https://www.izs.it/
 way	1312463574	https://www.jw.org/it/
 way	1312641328	https://miton.it/
 way	1313711680	https://www.istitutobucchianico.edu.it/
+way	1314598663	https://virtusorsogna.org/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4318,7 +4325,6 @@ relation	14220398	https://www.tuttitalia.it/abruzzo/88-lettomanoppello/78-scuole
 relation	14288759	https://italia.indettaglio.it/ita/abruzzo/teramo_silvi_pianacce.html
 relation	14357453	https://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/PEEE82004P/cepagatti-villanova/
 relation	14483040	https://www.regione.abruzzo.it/content/lavori-urgenti-di-manutenzione-ordinaria-sul-medio-tratto-del-torrente-cigno-il-ripristino
-relation	14571124	https://camminodeibriganti.it
 relation	14618176	https://www.pasettivini.it/en/
 relation	14690743	https://camminodeibriganti.it
 relation	14767822	https://www.gssi.it
@@ -4374,6 +4380,7 @@ relation	17948192	https://www.ilcamminodabruzzo.it/
 relation	17948211	https://www.ilcamminodabruzzo.it/
 relation	17948488	https://www.ilcamminodabruzzo.it/
 relation	17948489	https://www.ilcamminodabruzzo.it/
+relation	18025665	https://camminodeibriganti.it
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
@@ -4431,8 +4438,10 @@ node	12000317392	https://www.regione.abruzzo.it/system/files/enti-locali/documen
 node	12007249885	https://italia.indettaglio.it/ita/abruzzo/teramo_castilenti_contradacasabiancasud.html
 node	12071668360	https://www.abruzzocitta.it/luogo/monte-zurrone/
 node	12124829139	https://restaurantguru.it/Bar-Cafe-de-Paris-SantEusanio-del-Sangro
+node	12177199641	https://kobak.it/noleggia/
 way	12653775	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	57035180	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
+way	301862068	https://it.m.wikipedia.org/wiki/File:Orsogna_-_Torre_di_Bene_03.jpg
 way	359782109	http://www.comune.pineto.te.it/pagina1798_informazioni-utili.html
 way	378791366	https://scelgofullservice.com/e-store
 way	558584552	https://bar-la-torretta.business.site
@@ -4442,6 +4451,7 @@ way	1294646986	https://www.liceopenne.edu.it/indirizzo-di-studio/liceo-artistico
 way	1294745501	https://www.ilcentro.it/pescara/parco-solare-anche-per-essilorluxottica-riconvertiti-40-ettari-di-terreni-industriali-1.3295267
 way	1301595650	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno/
 way	1307420954	https://www.cogesambiente.it/cogesa2021/contatti/
+way	1315272611	https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&code=9701&Chiesa_di_San_Nicola_di_Bari__Orsogna
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
 relation	13050879	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno/
