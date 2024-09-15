@@ -1,5 +1,5 @@
 @type	@id	website
-node	26859410	https://www.blucamp.it/campeggio_in_toscana_contatti_per_prenotazione_campeggio_tenda_piazzola_e_bungalow.html
+node	26859410	https://www.blucamp.it
 node	61753373	https://www.comune.siena.it/
 node	61753588	https://www.comune.castelnuovodigarfagnana.lu.it/
 node	82653245	https://www.caibo.it
@@ -265,7 +265,6 @@ node	1399996446	http://cinemateatroverdi.altervista.org
 node	1400007995	https://www.ristorantedabrunopuntaala.it/
 node	1409092156	http://www.saliscendipub.it/
 node	1412274652	https://www.comune.piombino.li.it/
-node	1413481341	https://www.giannellacamping.com/
 node	1414612749	http://www.barmartinipisa.it
 node	1414633550	www.lacantinadelredi.it/
 node	1416736802	https://www.poderelavilletta.it/
@@ -1225,7 +1224,7 @@ node	3104130346	https://www.stefanel.com/
 node	3105361801	https://www.lacapannadipaoletti.it/
 node	3107513293	http://www.freewaymoto.com
 node	3109248291	https://www.pasticceriareginalucca.it/
-node	3111042061	http://maru.firenze.sbn.it
+node	3111042061	https://marucelliana.cultura.gov.it
 node	3112861998	https://www.polomusealetoscana.beniculturali.it/index.php?it/156/cenacolo-del-fuligno-firenze
 node	3113685940	https://www.lafarmacia.it/trova-farmacia/sant-antonio-follonica-grosseto
 node	3114396084	http://www.farmaciaceccarelli.it/
@@ -2840,6 +2839,7 @@ node	6549753172	http://www.giovannidamonreale.com/blog/11-donazioni-alle-scuole-
 node	6551610252	https://ai-fusari-bistrot.business.site/
 node	6553443350	https://sites.google.com/view/valsavignone-bulciano-fratelle/civitella-il-castello-ritrovato
 node	6554520695	https://casaltahotel.com/
+node	6555155951	https://www.bestofsiena.com/
 node	6555550674	http://www.castellochioiola.it
 node	6555684779	https://www.oasifiorita.it
 node	6555689924	https://www.appartamentilavalle.it/
@@ -3211,7 +3211,7 @@ node	7576386894	https://www.farmaciabartolozzi.it
 node	7579241925	https://www.tizzana.net/index.php/dintorni/19-buriano
 node	7580079748	https://www.bbcamino.it/
 node	7580079749	https://www.ristoranteilcamino.net/
-node	7580219712	https://www.agricampeggioprincess.it/
+node	7580219712	https://www.agricampeggioprincess.com/
 node	7591014185	https://facebook.com/albadonaty
 node	7592132977	https://www.cantinementi.it/
 node	7592132982	https://www.briotravel.it
@@ -3981,7 +3981,6 @@ node	9775570620	https://laregola.com
 node	9778347576	https://andana.it
 node	9779176081	https://www.iginiomassari.it/pages/galleria-iginio-massari-firenze
 node	9780282119	https://tenutalemarze.it
-node	9783712517	https://oasi.toscana.it/
 node	9785362640	https://www.pizzeriapizzapazza.it
 node	9785956327	https://misericordiavicchio.it/
 node	9788177327	https://www.ristoranteterzotempo.it/
@@ -4058,7 +4057,6 @@ node	9950686554	https://www.alepizza.net/
 node	9952399620	https://www.aparthotelanghel.com/
 node	9952796808	https://hotelmelecchi.it
 node	9956984955	https://www.lacastagnaracconta.it/
-node	9960179704	https://www.offbar.it/
 node	9962204905	https://www.braceriadeitemplari.it/
 node	9962411989	https://sites.google.com/view/cal-livornosicura/tecnologia
 node	9962607132	http://www.martinacalamai.com/
@@ -6001,9 +5999,14 @@ node	12145715069	https://energyebike.it/
 node	12146348319	http://www.caiporretta.it/
 node	12149177687	https://www.tripadvisor.it/Restaurant_Review-g1582946-d3155538-Reviews-Panigacci_Wow_Podenzana-Podenzana_Province_of_Massa_Carrara_Tuscany.html
 node	12149950266	https://www.tripadvisor.fr/Hotel_Review-g1582946-d3541845-Reviews-B_B_La_Luna_di_Giulia-Podenzana_Province_of_Massa_Carrara_Tuscany.html
-node	12151455101	http://www.montauto.org
+node	12151455101	https://www.montauto.org/
 node	12154380768	https://linktr.ee/sleeverecords
 node	12158052763	https://istitutocomprensivoempoliovest.edu.it/struttura/genitore/scuola-dellinfanzia-c-collodi-monterappoli/
+node	12167715499	https://ristorantekomugi.it/
+node	12168060600	https://www.laventola.it/
+node	12173756833	https://www.villaladoganalucca.it/
+node	12175724657	https://www.campingpuntala.it/en/services/sailing-school/
+node	12176602025	http://ristorantecontedino.com
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -6275,6 +6278,7 @@ way	139293258	http://www.tavmontecatini.it/
 way	139389295	https://www.coopfirenze.it/centri-commerciali/centro-lucca
 way	139460761	https://www.termemontecatini.it/le-terme/terme-redi/
 way	139460783	https://www.termemontecatini.it/
+way	139880996	https://www.cabiancasiena.com/
 way	139980602	https://www.capannoli.it/
 way	139980607	https://www.novostudio.it/web/
 way	139980666	https://galvanica-morrocchi-s-r-l.webnode.it
@@ -6546,6 +6550,7 @@ way	204177161	https://www.polomusealetoscana.beniculturali.it/index.php?it/211/s
 way	204917542	http://www.fattoriadimorello.it/
 way	205960251	https://www.lebbianoresidence.com/
 way	206356548	https://www.comune.arezzo.it/il-comune/ufficio-sport-e-giovani/impianti-sportivi-comunali/campi-di-calcio-e-calcetto/campo-di-calcio-comunale-roberto-lorentini
+way	206394490	https://arcobalenocamping.it/
 way	206445096	http://www.itispisa.gov.it/
 way	206586711	http://www.donatilaterizi.it
 way	207085599	https://www.uc-valdarnoevaldisieve.fi.it/rifugi-bivacchi-e-aree-di-sosta
@@ -6997,6 +7002,7 @@ way	408727913	https://www.toskanatour.de/toskana-wellness/toskana-thermen-terme-
 way	409043909	http://www.michelucci.it
 way	411033524	https://camper.pisamo.net/
 way	411044544	https://www.anticoborgosanmartino.it
+way	411099727	https://www.freetimecamping.it/
 way	412571123	https://hotelparcodeipini.it/
 way	412619316	https://www.trailforks.com/trails/albereta-ps2/
 way	413188493	https://www.parrinihotel.com/
@@ -7214,6 +7220,7 @@ way	533256847	https://www.villaarmena.com/en
 way	534313567	http://www.ambientevaldicecina.it/
 way	534313568	http://www.ambientevaldicecina.it/
 way	534313569	http://www.ambientevaldicecina.it/
+way	534972732	https://www.facebook.com/cri.rignanosullarno/
 way	536157855	https://experience.ruffino.it/en/agriresort-poggio-casciano
 way	536321413	https://www.poggiobaronti.com/
 way	536945811	http://www.ecoricicli.it
@@ -7429,6 +7436,7 @@ way	701033120	https://www.cai-pontremoli.it/171957908
 way	701414685	http://www.foresteriasanniccolo.it/
 way	702694234	https://www.principinoeventi.com/
 way	702719033	http://www.bagnoamedea.it/
+way	703129976	https://www.agricampinggirodiboa.com/
 way	704361085	www.villapoggiosoave.com
 way	704362339	https://www.comune.collesalvetti.li.it/site/home/argomenti/biblioteca.html
 way	704363993	www.lafinestrasulcolle.it
@@ -7783,6 +7791,9 @@ way	978584820	https://adarte.18tickets.it/
 way	978813704	https://www.aureliaanticamultisala.it
 way	981537828	https://racestore.it/
 way	981882392	https://at-bus.it
+way	983863419	https://campeggioacapulco.com/
+way	983863420	https://campinghawaii.it/
+way	983863421	https://www.campingcamporegio.it/it
 way	984238335	https://www.fonteverdespa.com/
 way	984445285	https://www.ic2stagno.edu.it/
 way	984988555	https://www.albiati.it/
@@ -7901,6 +7912,7 @@ way	1166262331	https://cavallonatura.it
 way	1167931417	https://lnx.autotrasportimori.it/
 way	1168355022	https://www.ametalmonteronidarbia.it/
 way	1169432277	https://www.raggiodisole.in/
+way	1171740517	https://www.bnaturalglamping.it/
 way	1171759132	https://avogadro-vinci.edu.it/
 way	1172088432	https://www.concessionarie-volkswagen.it/euromotori.html
 way	1172786375	https://www.poderedimoiata.com/
@@ -8034,6 +8046,7 @@ way	1224503191	https://www.shell.it/
 way	1226606832	https://canesapiens.wixsite.com/canesapiens
 way	1228599356	https://www.uslcentro.toscana.it/index.php/sedi-territoriali/846-sedi-territoriali-prato/zona-pratese/10711-prato-centro-presidio-misericordia-e-dolce
 way	1228931511	https://www.fonteallalepre.com/it/home.html
+way	1228938881	http://www.lavalle-equitazione.it/area-naturale-protetta-del-torrente-terzolle/
 way	1228954788	https://www.conad.it/ricerca-negozi/conad-via-delle-province-2-53100-siena--010524
 way	1230386629	http://www.campinglesorgenti.it/it/home-page-campeggio-mugello-toscana.html
 way	1231649977	https://www.primaedicola.it/kioskpublic
@@ -8147,6 +8160,15 @@ way	1312473453	https://www.comune.vicopisano.pi.it/Servizi/Area-Camper-servizi-e
 way	1312581971	https://www.campingsangiusto.com/
 way	1313696619	www.at-bus.it
 way	1313816081	https://www.ilpaesedelgarbo.org/borgo-beccanella
+way	1314633631	https://www.giannellacamping.com/
+way	1314641229	https://argentariocampingvillage.com/
+way	1314641231	https://bocchedalbegna.com/
+way	1314643193	https://www.aidelfini.it/
+way	1314658419	https://alberesecamperpark.it/
+way	1315319242	https://www.capannino.it/
+way	1315342767	https://www.blucamp.it
+way	1315344938	https://oasi.toscana.it/
+way	1315421225	https://www.campingpuntala.it/en/news/massage-service/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -9088,6 +9110,7 @@ relation	15948310	https://www.protectedplanet.net/sites/Padule_Ortibottagone_Reg
 relation	15949937	https://www.parchivaldicornia.it/info-e-servizi/mobilita-e-parcheggi
 relation	15949939	https://www.parchivaldicornia.it/info-e-servizi/mobilita-e-parcheggi
 relation	15953794	https://www.cascinaalcolle.it/
+relation	15953799	https://www.podereetrusco.it/
 relation	15953813	https://rinsacca.it
 relation	15956652	https://ilvillinodibaratti.it
 relation	15956662	https://www.parchivaldicornia.it/info-e-servizi/mobilita-e-parcheggi/
@@ -9743,6 +9766,9 @@ node	12086029094	https://www.agriturismo-casavecchia.it/
 node	12096682711	https://www.lostroncapane.com/
 node	12096682712	https://hotelilmonte.it/
 node	12160712501	https://albergoetruria.it/volterra/
+node	12165233080	https://www.manifatturatabacchi.com/en/maker/eat-and-drink/shake-cafe/
+node	12165323246	https://www.ilbattibecco.it/
+node	12171431630	bruton.it
 way	28396159	https://www.basilicacateriniana.it/
 way	41735556	http://www.verrazzano.com/
 way	58670208	https://www.acquariodilivorno.it/
@@ -9764,6 +9790,7 @@ way	124623632	http://www.ing.unipi.it
 way	125592137	https://www.uslsudest.toscana.it/ospedali/arezzo-san-donato
 way	125768356	http://www.relaistorremozza.com
 way	126601194	http://www.gesicar.it
+way	132251040	https://www.agriturismosansano.it
 way	133638524	http://www.arpaderba.it/
 way	133894916	https://www.eurospin.it
 way	138307683	https://www.detercom.it/
@@ -9795,7 +9822,7 @@ way	202194652	http://www.gruppocrosaservice.com
 way	202194657	http://www.indianayachting.com
 way	202194659	http://www.cantierenavaletoscana.com
 way	202194663	https://www.ouverture.it
-way	214326224	ilcampeggiodicapalbio.it
+way	214326224	https://www.ilcampeggiodicapalbio.it
 way	216744152	https://www.dsu.toscana.it
 way	222175298	http://www.carpineto.com
 way	222403782	http://www.parcheggiomoderno.it/
@@ -9954,7 +9981,7 @@ relation	14663235	https://www.at-bus.it/
 relation	15086693	http://www.borgoetrusco.com
 relation	15086700	http://www.tenutacoldisasso.com
 relation	15088478	http://www.tenutacoldisasso.com
-relation	15835217	http://parcovacanzeilveliero.it
+relation	15835217	https://www.campingfollonica.it/
 relation	15988652	http://www.castellodipopulonia.it
 relation	16276249	https://www.cosona.it/
 relation	17234251	http://www.iclorena.gov.it
