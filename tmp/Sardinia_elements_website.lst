@@ -1,4 +1,5 @@
 @type	@id	website
+node	26860542	https://baiasaraceno.it/
 node	26860544	https://www.selemacamping.com/
 node	26860549	http://www.campeggiotorrechia.it/
 node	72990657	http://www.comune.cagliari.it/portale/
@@ -1268,7 +1269,7 @@ node	5591082171	https://www.portocorallocamping.it
 node	5594649954	https://www.shardanamultimedia.it/
 node	5594666975	https://www.lecasedinonna.it
 node	5599110928	https://www.ex-animo.it/
-node	5600392475	http://www.hotelispinigoli.it/
+node	5600392475	https://www.hotelispinigoli.it/
 node	5615152823	https://www.sardovagando.com/
 node	5632299281	https://www.gruppovege.it
 node	5635362206	https://www.gruppovege.it
@@ -1299,7 +1300,6 @@ node	5827148999	https://www.shopcucina.it/
 node	5856239772	https://www.revisionisantagilla.it/
 node	5882499985	http://www.simplymarket.it
 node	5890644285	http://www.susinnu.it
-node	5893072098	https://www.isoladeigabbiani.it/de/
 node	5894972656	www.samadavillasimius.com
 node	5896449645	https://www.arredamentidoc.com/
 node	5903274686	https://www.ambranight.it/
@@ -1695,6 +1695,15 @@ node	12151064861	https://www.agriturismolosperonegonnesa.it/
 node	12151110303	http://www.agriturismolescuderie.eu/
 node	12153379334	https://www.architettura.uniss.it/
 node	12153781771	https://pruneddu.com/
+node	12165042886	https://www.sapedra.it/
+node	12169760182	http://web.tiscali.it/ilruscelloagr/presentazione.htm
+node	12171865856	https://www.cruisingcharter.it/
+node	12171872966	https://www.boomerangcharter.com
+node	12176099437	https://www.dettorimarket.it/
+node	12176699701	https://www.hotellacontessa.it/
+node	12176958815	https://biofoodolbia.com/
+node	12177106596	https://pwa.pienissimo.com/home?hashform=K5pi2LVpMBH373xrm6Dtckrb5wmxbGjk
+node	12177239062	https://www.mintjulep.it/
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1723,6 +1732,7 @@ way	81578382	http://www.sardegnacultura.it/j/v/253?s=20710&v=2&c=2488&c1=2127&t=
 way	82242404	https://campingcalaginepro.net
 way	83889115	http://www.sardegnacultura.it/j/v/253?s=27247&v=2&c=2489&c1=2126&visb=&t=1
 way	83939292	https://www.torredelporticciolo.it
+way	85573566	https://www.isuledda.it/
 way	86329431	http://www.basenauticausai.it
 way	97845415	https://www.calagononecamping.com/de/
 way	101938618	https://comune.villacidro.vs.it/
@@ -1739,6 +1749,7 @@ way	117912510	https://www.lavitacamp.it/index.html
 way	118555645	http://www.anfiteatroromano.it/
 way	118559015	https://www.duomodicagliari.it/
 way	118615004	https://ersucagliari.it/
+way	119335537	https://www.isoladeigabbiani.it
 way	119456212	https://www.campingmarina.it/
 way	119749412	http://www.sardegnasentieri.it/da-vedere/caserma-ula-montarbu
 way	119752907	https://www.campingvalledoria.com/
@@ -1824,6 +1835,7 @@ way	181897620	http://www.hotelresidencelabaia.com
 way	182042438	http://www.hotelpedraladda.it
 way	183613350	http://www.charmingsardinia.com
 way	184345806	https://www.castelsardoresortvillage.it/
+way	185249204	https://campingacapulco.com/
 way	185269018	https://www.capodorso.it/
 way	185466329	https://www.saxrjoba.it
 way	185495568	https://www.campingcugnana.it/
@@ -1944,12 +1956,14 @@ way	273557617	http://www.chiesastellamarisportocervo.it/
 way	273558302	https://www.hotellepalmeportocervo.it/de/hotel-porto-cervo/1-0.html
 way	273558926	https://www.bbsmeralda.com/
 way	273559704	https://ristoranteilguscio.it/
+way	273565060	https://www.gesecoarzachena.it/?page_id=952#museo
 way	273567995	https://www.scuoladiarzachena.it/index.php/secondariaabbiadori.html
 way	273799034	https://www.galtellisardegna.it/
 way	273799036	https://www.sardegnaturismo.it/it/esplora/santissimo-crocifisso-galtelli
 way	274938784	https://www.cantinadorgali.it
 way	274938794	https://www.diocesidinuoro.it/wd-annuario-enti/santa-caterina-dalessandria-dorgali-224/
 way	275439788	https://www.sardegnainminiatura.it/
+way	276492004	https://www.campingvillagetorresalinas.it/
 way	276527436	https://www.areamarinasinis.it/
 way	276605890	http://www.iradas.it/
 way	276644771	https://www.borgodicampagna.it/
@@ -2050,6 +2064,7 @@ way	280157774	https://www.prolocosimaxis.it/
 way	280162825	https://www.procenter.it/
 way	280162840	https://www.hotelcapodorso.com/
 way	280164472	https://www.hotelcaladilepre.com/
+way	280164914	https://www.bblagattasultetto.it/
 way	281100917	http://www.essofuelfinder.com/en-gb/eeba651f51cd761550a186102a92c2a7
 way	281435057	https://www.tcelmas.com/home.aspx
 way	281459337	http://www.mirkoshop.com
@@ -2493,6 +2508,7 @@ way	1090857416	https://www.ristorantearagona.com
 way	1090905705	https://www.campingcaladostia.com/
 way	1113615224	http://www.campingtheleme.com/
 way	1122033337	https://www.annidoro.com/
+way	1128465851	https://nuraghelighe.it/
 way	1131924240	http://www.sardegnacultura.it/j/v/253?s=20782&v=2&c=2488&c1=2123&visb=&t=1
 way	1132208506	https://www.ibiscofarm.com/
 way	1135149010	https://www.smyhotels.com/smy-carlos-v-wellness--spa-alghero.html
@@ -2519,6 +2535,9 @@ way	1312847963	https://www.hotelcatalunya.it/
 way	1312992966	https://www.architettura.uniss.it/
 way	1312994568	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Piscina-Comunale/
 way	1313553766	https://www.asl1sassari.it/strutture/farmacia-territoriale-di-sassari/#!%23articolo-giorni-orari
+way	1315007087	https://www.tenutanaturale.it/
+way	1315269560	https://baiasaraceno.it/
+way	1315273600	https://www.supinnettu.it/
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3929,7 +3948,6 @@ way	62331902	http://www.progettodighe.it/main/le-dighe/article/bau-mandara
 way	81578382	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
 way	119452886	http://www.campingbungalowlapineta.it
 way	142884664	http://www.orroliproloco.com/
-way	276492004	http://www.villaggio-torre-salinas.com
 way	277017452	http://www.tripadvisor.it/Restaurant_Review-g3528959-d3524787-Reviews-Il_Gatto_Sardo-Gonnoscodina_Province_of_Oristano_Sardinia.html
 way	516635404	http://www.orroliproloco.com/
 way	516635406	http://www.orroliproloco.com/
