@@ -122,7 +122,6 @@ node	885680535	https://www.bottegaolivascolana.it/
 node	893969287	https://www.giomettirealestatecinema.it/cinema/multiplex-ancona/programmazione
 node	893969288	https://jysk.it/stores-locator?storeId=3184
 node	925512122	https://www.oasisanbenedetto.it/
-node	931256300	https://www.ristorantelaginestrasirolo.com/
 node	938924503	https://it.marella.com/store/0153005
 node	945519680	https://www.globomoda.com/
 node	945519753	https://www.papillonristorazione.com/
@@ -239,7 +238,6 @@ node	1872537272	https://www.conad.it/ricerca-negozi/negozio.009954.html
 node	1875607893	https://www.comune.pesaro.pu.it/cultura/biblioteche/biblioteche-di-quartiere/biblioteca-louis-braille/
 node	1875634048	https://ristorante-giapponese-hachiko.eatbu.com/
 node	1884913016	http://www.villagruccione.it/
-node	1903921716	https://www.europcar.it/
 node	1944932058	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18486/Chiesa+di+San+Giovanni+Battista
 node	1947715291	https://www.libreriadelmonte.it/
 node	1962525554	http://www.dalmarchigiano.it
@@ -582,6 +580,7 @@ node	4315198441	https://dicaduca.business.site/
 node	4317711639	https://www.amaofficinadellapizza.it/
 node	4318643190	http://www.lafontedelre.it/index.php/en/
 node	4321686228	https://www.prolocovisso.it/
+node	4337839840	https://www.originalgustopizza.com/
 node	4338524390	https://pasticceriapatrizia.wordpress.com/pasticceria-patrizia/
 node	4338524391	https://www.tribsorv.ancona.giustizia.it/
 node	4338973860	https://www.ciavattinigarden.it/floreale-del-passetto/
@@ -873,7 +872,6 @@ node	7578320584	http://www.lamarchigiana.altervista.org
 node	7578804490	https://www.costantinostore.it
 node	7616109095	https://www.skydivesunrise.com/zona-di-lancio/#aviosuperficie-del-fermano
 node	7638765328	https://www.conad.it/ricerca-negozi/conad-superstore-via-del-novecento-86-61122--pesaro--009355
-node	7645167385	http://www.sostacamperilrospo.it
 node	7653760391	https://www.snb.it
 node	7666590088	https://www.visualteamsas.com
 node	7684087374	http://www.petshopfanopassioneanimali.it/
@@ -1192,7 +1190,6 @@ node	10592287909	https://www.casafunerariadamiani.it/casa-funeraria/
 node	10617906023	https://www.matineebistrot.ml/
 node	10642737829	https://www.ollyfarm.it/
 node	10642796251	https://faranghe.eu/
-node	10646978431	https://campingsensazione.com/
 node	10647547442	https://ordinemarche.conaf.it/
 node	10657755000	https://www.birrificiodeicastelli.it/
 node	10657916362	https://www.tesla.com/findus/location/supercharger/PortoSantElpidioSupercharger
@@ -1284,7 +1281,6 @@ node	11104188742	https://www.vivaionicolini.it
 node	11104489001	https://coccoverde.it/
 node	11107871438	https://www.xhosaa.it
 node	11108264006	https://www.agrifilippetticlaudio.it/
-node	11114288713	http://www.lpre.it
 node	11114291525	https://www.colverde.it/
 node	11116557808	https://www.circolovelicotorrette.it/
 node	11116640179	https://www.trattoriailpodere.com/
@@ -1549,6 +1545,9 @@ node	12149965435	https://www.seros.it/
 node	12155968502	https://www.lacasacciagradara.it/
 node	12156214132	https://amazon.it/lockeragnieszkaewa
 node	12156336115	https://ispengineering.com
+node	12169670335	https://www.pievedigaifa.it
+node	12170757221	https://www.le-cave.it/
+node	12174551776	http://www.pomorilla.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1686,7 +1685,6 @@ way	264202970	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.ph
 way	264203273	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	276514644	https://www.carpegnapark.it/
 way	276706536	http://www.piscinasanseverino.it
-way	277610256	https://www.villacarloboccolini.it/
 way	281670755	https://www.diatheva.com/
 way	283415876	https://comune.mondolfo.pu.it/
 way	286689396	https://www.turismo.marche.it/Guida/Eccellenze/Title/Monte-Rinaldo-Localita-La-Cuma--Santuario-tardo-repubblicano/IdPOI/3702/C/109021
@@ -1867,6 +1865,7 @@ way	414772894	http://www.sancristoforo.info
 way	414785765	https://www.vellaneta.com/
 way	414810503	https://cabelvedere.it/
 way	415864784	https://www.castellodinaro.it/
+way	420358662	https://spiaggiacanisenigallia.it/web/camping-holiday/
 way	422215360	https://www.verdeazzurrovacanzemarche.it/
 way	428715427	https://www.conad.it/ricerca-negozi/negozio.009974.html
 way	430230965	https://www.rifugiozilioli.it/
@@ -1981,6 +1980,7 @@ way	696231715	https://www.campingparadiso.net/
 way	696908634	http://www.ristoranteostarialapergola.com/
 way	698364656	http://www.parcogiochipassetto.it/
 way	698608169	https://www.tavernadelluppolo.it/
+way	704657464	https://campingmareblu.net
 way	704657474	https://campingmareblu.net
 way	710332153	https://www.adriaticocamper.it
 way	712503156	https://vivamenu.it/menu/acquasalata
@@ -1988,6 +1988,9 @@ way	723812708	https://www.hort.it/
 way	733272758	https://mencaroni.eu/
 way	744854478	https://www.ristorantelenoci.it/
 way	746731676	http://auditoriumasetti.donorionefano.com/
+way	751756670	http://bagnimaurizio.it/
+way	751756671	https://bagnigabriele.it/
+way	751756672	https://www.bagnicarlo.com/
 way	753583679	https://www.residenceedelweiss.com/
 way	764685017	https://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/94/
 way	767664049	https://locandamontegiove.it/
@@ -2069,6 +2072,7 @@ way	1102426843	https://gelogiallo.it/
 way	1102426845	https://www.campingliana.it/
 way	1102457386	https://caffesaccariashop.it/
 way	1104447186	https://www.cagnoni.it/
+way	1109212826	https://turismo.comune.mondavio.pu.it/contenuti/2111633/area-camper-mondavio
 way	1112283489	https://campeggiolatorreportonovo.com/
 way	1112315184	https://www.ristorantedagiacchetti.it/
 way	1112538034	http://www.anticastamperiafabiani.it/
@@ -2136,6 +2140,7 @@ way	1282128846	https://www.navaltecnica.net/
 way	1283737285	https://bagnielsa.it/
 way	1288489020	https://www.iluoghidelsilenzio.it/eremo-della-madonna-del-sasso-valleremita/
 way	1288737769	https://www.iluoghidelsilenzio.it/chiesa-sconsacrata-di-san-sebastiano-belforte-del-chienti-mc/
+way	1288986166	https://www.agriturismoanticomuro.it/
 way	1290057374	https://www.chaletmarakaibo.it/
 way	1292295353	https://www.sonepar.it/it-it/store/jesi-an-M21M
 way	1295765705	https://www.iluoghidelsilenzio.it/chiesa-di-fonte-venere-pioraco-mc/
@@ -2165,6 +2170,11 @@ way	1311778285	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscape
 way	1311778286	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100370545
 way	1311778310	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223122-bene-componente
 way	1311778312	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223125-bene-individuo
+way	1314592269	https://www.villa-clelia.it
+way	1314641958	https://scuolamorrovalle.edu.it/
+way	1315561184	http://www.sostacamperilrospo.it
+way	1315569798	http://www.lpre.it
+way	1315594365	https://campingsensazione.com/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -2271,6 +2281,7 @@ relation	17386687	https://www.caiascoli.it
 relation	17409935	https://www.camminodeicappuccini.it/
 relation	17685720	https://www.castellopallotta.com/
 relation	17958110	https://www.casadelsolepineta.it/
+relation	18027235	https://www.borgoparvo.com/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
@@ -2602,7 +2613,7 @@ node	10048771656	https://www.iomangiobiologico.it
 way	31869757	https://pontesancarlo.comune.jesi.an.it/
 way	39405476	https://www.jadrolinija.hr/en/fleet-ship/marko-polo?
 way	437828400	http://pesaro.fiere.name
-way	620626312	https://www.jadrolinija.hr/en/fleet-ship/marko-polo?
+way	620626312	https://www.jadrolinija.hr/en/fleet-ship/marko-polo
 way	1109212826	https://www.mondavioturismo.it/area-camper-mondavio/
 way	1307473250	https://www.campingvalentinasostacamper.it/areasosta.html
 way	1311778271	https://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/28/
