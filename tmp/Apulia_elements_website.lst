@@ -625,6 +625,7 @@ node	4897862822	https://www.ristorantebiancofiore.it/
 node	4897900322	https://barinapoli.it/
 node	4897962621	https://ladolcevitaristorante.it/
 node	4901677121	https://www.lunali.it/
+node	4903636046	https://www.celesteancona.it/
 node	4903690972	https://www.riobodiscoteca.com/
 node	4903691031	https://www.vesuviogallipoli.it/
 node	4903691032	https://www.lamasseria.net/
@@ -1007,6 +1008,8 @@ node	6446098689	https://www.panificioapollo.it/
 node	6447514434	http://www.santateresaspa.it/
 node	6456488388	https://www.comune.gallipoli.le.it/
 node	6459303093	http://virtual.professionecasa.it/bari-carbonara-ceglie/salavisite
+node	6464383723	https://www.eseitalia.it
+node	6464383724	https://www.eseitalia.it
 node	6467635185	http://www.agrie.it
 node	6470305448	https://in-giro.net/locali-puglia/2842/selva-club-prive.html
 node	6473773015	https://miodottore.it/z/4godme
@@ -2477,6 +2480,7 @@ node	12147631960	https://www.romanocarni.it/
 node	12150370356	https://torrerinalda.it/
 node	12150478340	https://www.rampavilla.it/
 node	12150478341	https://www.centrosalutebellezza.com/
+node	12153162865	https://www.eseitalia.it
 node	12153196671	https://evway.net
 node	12153199340	https://powy.energy
 node	12153204602	https://evway.net
@@ -2488,6 +2492,12 @@ node	12159756600	https://www.giardinodeifrutti.it/home/
 node	12160796856	https://www.dosarredamenti.it/
 node	12162553756	https://debadarkkitchen.com/
 node	12164304134	https://cabtutela.it/
+node	12165439478	https://www.oculistadoronzo.it
+node	12167182401	https://fisioterapiachiffi.it/
+node	12168693050	https://bioslab.net/
+node	12168693061	https://egoitalianostore.com/bitonto/
+node	12175173696	https://www.wood-evolution.it/
+node	12175173697	https://piscinebluproject.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
@@ -2653,7 +2663,6 @@ way	299728962	https://www.hotelaloisilecce.it/
 way	299730365	https://www.autocaracciolo.hyundai.it/
 way	299730694	https://www.palazzobn.com
 way	299748941	https://www.politeamagreco.it/
-way	299999568	https://fondoambiente.it/luoghi/abbazia-di-santa-maria-di-cerrate
 way	300127519	http://km97.it/
 way	300127524	https://www.saicarspa.it/
 way	300139467	http://www.surgelatinewgel.com/
@@ -2927,6 +2936,7 @@ way	416945881	https://www.facebook.com/pg/autoscuoladitano
 way	416955893	http://www.biancopascoli.gov.it/
 way	416962978	http://lnx.oliosavoia.com/la-masseria/
 way	417124227	https://www.fseonline.it/
+way	417124792	https://www.mcdonalds.it/ristorante/puglia/bari/bari-mungivacca
 way	417124804	https://www.penny.it/
 way	417150281	https://www.famila.it/punti-vendita/puglia/famila-bari-livatino
 way	417207426	https://www.arpa.puglia.it/web/guest/qariainq
@@ -3080,6 +3090,7 @@ way	424595614	https://www.oraridiapertura24.it/filiale/Taranto-Pulpo%2520Barbara
 way	424640134	https://www.vetreriafratelliserafino.com/
 way	424640354	https://www.kubico.it/
 way	424649743	https://www.hotelbelvederesalento.com/
+way	424660870	http://www.tenutacalitre.com/
 way	424837656	https://masseria-quattromacine.webnode.it/
 way	425022297	http://www.hotelportobadisco.it
 way	425025921	https://baiaorte.it/
@@ -3327,6 +3338,7 @@ way	608883566	http://www.bleusalento.it
 way	608933789	https://www.ito-group.it/
 way	613005435	https://www.fornopronto.it/
 way	613090267	https://www.tessituracalabrese.it/
+way	619509005	https://www.eseitalia.it
 way	619518756	https://www.vacanzeotranto.it/
 way	620461994	https://www.officinecarra.it/
 way	620657381	https://www.alessandropoliti.com/
@@ -3603,11 +3615,14 @@ way	1308831570	https://www.soulmar.it/
 way	1311799570	https://www.parcolamabalice.it/
 way	1312625950	www.tamerigivillage.it
 way	1312800747	https://www.terranobile.it/hotel/
+way	1314422931	https://www.greenparksport.it/
+way	1315299209	https://www.footballitalia.it/
+way	1315760199	https://donazionecarmi.it/?fbclid=IwY2xjawFUCUNleHRuA2FlbQIxMAABHRMbixy9kTXUP5nwVpob_ShdgvMlv7wy1pQAoKN-o1wH05WeZGWL-lIBHA_aem_jJcl9-UE5GhzCVHaTRuOBw
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
 relation	2204418	https://www.fseonline.it/
-relation	2341136	https://www.viefrancigenedelsud.it/
+relation	2341136	https://www.viefrancigene.org
 relation	2405262	https://www.viefrancigenedelsud.it/
 relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240    |    http://www.lestradeferrate.it/mono2.htm
 relation	3178831	http://www.mulinodacqua.it
@@ -3772,6 +3787,7 @@ relation	17469561	https://www.uniba.it/it/ricerca/dipartimenti/dipmedveterinaria
 relation	17497412	https://www.icmazzinimodugno.edu.it/
 relation	17630551	https://www.ciaky.it/
 relation	17857179	https://www.liceoaristosseno.edu.it/
+relation	17864305	https://www.eseitalia.it
 relation	17895020	https://zoosafari.it/?art=news1
 relation	17905022	https://www.provincia.le.it/vieni-a-pedalare-in-puglia-presentata-oggi-la-ciclovia-del-salento-ionico/
 relation	17906249	https://www.provincia.le.it/vieni-a-pedalare-in-puglia-presentata-oggi-la-ciclovia-del-salento-ionico/
@@ -3826,7 +3842,6 @@ node	7836994387	infolecce.it
 node	7837345885	spinelcaffe.it
 node	7888362949	https://www.facebook.com/ilgiocodeisensi.terlizzi/
 node	7889613121	https://m.facebook.com/Bar-Castello-609947772372214/
-node	7968288026	bistrotcartoleria.it
 node	8005881934	https://www.fondazionedepaloungaro.it
 node	9348440529	https://www.lafayettehotelbari.com/
 node	9631106470	https://www.venetacucine.com/rivenditore/veneta-cucine-a-bari-di-avellino-elisa
@@ -3883,6 +3898,8 @@ node	12150438012	https://www.layogurteria.it/
 node	12150451998	https://www.edorestaurant.it/
 node	12150453317	https://www.elgazerpub.it/
 node	12151379498	https://regina-botter.jimdosite.com/
+node	12163863537	https://www.museocapuano.it/
+way	26346040	https://ecogargano.it/
 way	68334157	http://www.scuoladonpappagallo.it/
 way	72401407	https://www.secondocircoloboscoterlizzi.edu.it
 way	78626385	https://www.gesmundomorofiore.edu.it
@@ -3892,6 +3909,7 @@ way	186273199	https://www.liceisylosfiore.edu.it
 way	211340871	http://www.teatrotendaduelune.org
 way	246786944	http://musei.beniculturali.it/musei?mid=879&nome=castello-di-copertino
 way	298867779	https://linktr.ee/monkeyclub.lecce
+way	299999568	https://fondoambiente.it/luoghi/abbazia-di-santa-maria-di-cerrate
 way	322135529	https://www.viaggiareinpuglia.it/at/13/areaarcheologica/3687/it/Parco-archeologico-Li-Castelli-San-Pancrazio-Salentino-(Brindisi)
 way	355434366	www.quintocolore.it
 way	397710431	https://www.liside.edu.it/
@@ -3917,6 +3935,7 @@ way	421899763	https://anticotrulloulmo.wordpress.com/
 way	424155867	http://www.comune.torricella.ta.it/
 way	424451299	https://www.carabinieri.it/
 way	424560783	https://www.acquaesapone.it/?gclid=CjwKCAjwwdWVBhA4EiwAjcYJEL6pG2Y5BH8-Pg7z7HEMvVr-uDn-dDHcPOjl8w78Ige8y_a6eFQoRBoCL7AQAvD_BwE
+way	425578246	https://bahianegra.it/
 way	434376199	https://gattobiancocasalabate.it/
 way	483498297	http://www.rinascitaagricola.it
 way	487368660	http://www.carolihotels.com/bellavista-club/
