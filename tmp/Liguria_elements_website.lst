@@ -971,6 +971,7 @@ node	4359024955	http://www.ostellocalavandin.com/
 node	4359073131	http://www.ladolcevitarooms.hostel.com/
 node	4359080528	https://www.facebook.com/HostelAmeglia/
 node	4359103656	http://ostello-lungomare.la-spezia.hotels-italian-riviera.com/#map
+node	4361151762	https://ilcappero.com
 node	4364385240	https://www.hotelcantoregenova.it/
 node	4369962093	https://www.baciristorante.it/
 node	4383785691	http://www.lalocandadelgallese.it
@@ -2462,6 +2463,10 @@ node	12153012762	https://www.monumentaltrees.com/es/ita/liguria/imperia/23369_pa
 node	12153051797	https://www.monumentaltrees.com/es/ita/liguria/genova/13881_villagroppallo/34406/
 node	12155040789	http://www.yutakasushi.it/
 node	12165253991	www.paololavezzari.it
+node	12170760956	https://www.talkingstones.it/
+node	12170760959	https://villacollarea.it
+node	12170760962	https://liguriaestate.com
+node	12171296548	https://www.mercitaliarail.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2629,7 +2634,10 @@ way	200437784	https://paraggi.eighthotels.it/
 way	200438108	https://www.castellobrown.com/index.php
 way	200438223	https://www.yachtclubitaliano.it/en/club/portofino-office
 way	200515011	https://www.bebcasarosa.com/
+way	200520702	https://www.ristorante-il-borgo.it/
+way	200589331	https://agriturismoristoranteufundu.it/
 way	200589381	https://www.tripadvisor.it/Attraction_Review-g4580588-d23037241-Reviews-Chiesa_parrocchiale_di_Sant_Antonio_di_Padova-Olivetta_San_Michele_Province_of_.html
+way	200590541	https://www.igumbi.it/
 way	200591094	https://www.casakara.it
 way	200649513	www.sanbiagiodellacima.gov.it
 way	200713316	https://www.lariserva.it/
@@ -2920,6 +2928,7 @@ way	290388822	https://www.hotelfelucabonassola.com/
 way	292457854	https://www.poste.it/
 way	292874749	https://www.campingdegliulivi.it/
 way	292874750	https://www.campingfornacialmare.it/
+way	293014859	https://www.parcovacanzeloscoglio.it/
 way	294642295	http://www.ilnidodelgabbiano.com/
 way	296923446	http://www.medicalsystems.it/
 way	296976437	https://www.caravellevillage.it/
@@ -3032,6 +3041,7 @@ way	440329909	https://www.portodiarenzano.it
 way	440840404	http://www.campingframura.it/
 way	441456947	https://www.nbtcweb.com/
 way	443941328	http://www.officinaoliva.it/
+way	446693619	https://www.campingsantanna.com
 way	447018200	http://www.cartografiarl.regione.liguria.it/mapfiles/info/repertoriocartografico/pdf_protected_sites/schede_nat2000/SIC/Site_IT1331012.pdf
 way	447018593	http://www.cartografiarl.regione.liguria.it/mapfiles/info/repertoriocartografico/pdf_protected_sites/schede_nat2000/SIC/Site_IT1330223.pdf
 way	447018865	http://www.cartografiarl.regione.liguria.it/mapfiles/info/repertoriocartografico/pdf_protected_sites/schede_nat2000/SIC/Site_IT1330620.pdf
@@ -3242,7 +3252,7 @@ way	1298786602	https://www.provincia.savona.it/strade/sp28bis
 way	1299103309	https://www.garroccioandkukuabeach.com/kukua
 way	1302818475	http://www.cartografiarl.regione.liguria.it/mapfiles/info/repertoriocartografico/pdf_protected_sites/schede_nat2000/SIC/Site_IT1315602.pdf
 way	1312686094	https://www.campingdeifiorialbenga.it/
-way	1312808724	www.campingmiramare.im.it
+way	1312808724	https://www.campingmiramare.im.it/
 way	1313064103	https://www.campingsantavittoria.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
@@ -3250,6 +3260,7 @@ relation	283620	https://www.inps.it
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
 relation	334891	https://www.viefrancigene.org
 relation	414151	https://www.parcoportofino.it/
+relation	955907	http://www.viefrancigene.org
 relation	1114296	https://www.caiparma.it/
 relation	1114311	https://www.caiparma.it/
 relation	1114312	https://www.caiparma.it/
