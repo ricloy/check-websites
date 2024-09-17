@@ -369,7 +369,7 @@ node	1386727101	https://www.hotelrighetto.com/
 node	1389178836	https://www.lamerceriadal1936.it/
 node	1389186900	http://www.trattoriaallasorte.it/
 node	1389491433	http://www.ristorante-enzo.com/
-node	1390235040	http://www.chaletcimabanche.com/
+node	1390235040	https://www.chaletcimabanche.com/
 node	1390627861	https://www.farmaciacastelvecchio.it/
 node	1394817960	https://studioegc.it/
 node	1395300660	http://www.villafratta.it
@@ -477,6 +477,7 @@ node	1459180067	https://www.facebook.com/chioscotadi
 node	1459180082	https://www.carsharingpadova.it/
 node	1459180087	https://it.mephisto.com/
 node	1459245063	https://www.pd.camcom.it/
+node	1459280015	https://www.bacaropadovano.com
 node	1459284612	https://hoteleuropapd.it
 node	1459298300	http://www.passionepizzapadova.it/
 node	1459304970	https://www.albergoverdipadova.it
@@ -724,6 +725,7 @@ node	1875687432	http://www.agriturismoantichemura.it/
 node	1875852438	https://www.13comuni.it/
 node	1878105238	https://www.poste.it/
 node	1878129131	https://www.crai-supermercati.it/
+node	1879083165	https://www.crai-supermercati.it/ama/punti-vendita/pdv.php?id=3347
 node	1879269070	https://gunarestaurant.it/
 node	1880779143	https://www.bccpm.it/
 node	1881207786	https://dolomitimountainresort.com
@@ -2512,6 +2514,7 @@ node	4793158028	https://dapratittuta.it/
 node	4793158041	https://borcaocchiali.it/
 node	4795041353	http://www.scuderiainbloom.it
 node	4795646364	http://www.cortedellecicale.it
+node	4796425232	https://www.baitonealpino.com/
 node	4796661138	https://www.leseidirezioni.it/
 node	4797951780	https://www.osteriaaesconte.it/
 node	4797951781	https://www.cantinacanaletto.it/
@@ -4890,6 +4893,7 @@ node	9405934827	http://www.garnimariolina.com/appartamenti/
 node	9408651311	https://www.immobiliaredolomiti.com/
 node	9415663914	https://7testepizzaconcept.blogspot.com/
 node	9415696076	https://it-it.facebook.com/pages/category/Bar/Canesela-Caf%C3%A8-399610466850356/
+node	9423002906	www.cortescaligera.it
 node	9432827852	https://www.teatrosantateresa.org
 node	9436479370	https://www.lavaseccolamiglioreverona.com/
 node	9436479376	https://sanitariasanmarco.it/
@@ -5528,7 +5532,7 @@ node	10064329066	https://www.bluedreamcavallino.com/waterbikes.html
 node	10064537741	https://www.adfc.it/
 node	10068080834	https://www.gastronomiaverona.com/en/
 node	10068132408	https://veronaenjoy.it
-node	10069848338	https://www.alicezanivan.it/
+node	10069848338	https://www.alicezanivan.com/
 node	10074617198	https://www.mecmastergrigliati.com/
 node	10074619764	http://meccanicastm.com/it
 node	10074662804	https://www.foggiato.it/
@@ -5613,7 +5617,7 @@ node	10223727579	https://www.residenzeirpea.it/
 node	10240500109	https://www.ninnaho.org/
 node	10242681309	https://silla.industries
 node	10242919166	https://www.alprato.com
-node	10247598040	http://www.oklingue.it/
+node	10247598040	https://www.oklingue.it/
 node	10248681226	http://www.istituzionepenasa.it/
 node	10253394498	https://www.ricos-welscamp.de/
 node	10253394501	https://www.waller-resort.de/
@@ -5944,6 +5948,7 @@ node	11088290190	https://odontoiatriazamboni.it/
 node	11088322247	https://bimboce.it/
 node	11091454469	https://www.emporio-verde.com/
 node	11092982590	https://visitborgovalbelluna.it/
+node	11093333203	https://www.repower.com/it/dina/
 node	11093655646	http://www.diodatabertolo.it/
 node	11096572203	https://www.farmaciedolomiti.it/farmacia-mel/
 node	11097631037	https://www.supertosano.com/
@@ -6263,6 +6268,9 @@ node	11811529203	https://www.lanubelessinia.it/
 node	11811564268	https://www.hostariasanbenedetto.it/
 node	11811603079	https://casello104.com/
 node	11816159256	https://www.anticapusterla.com/en/
+node	11816458420	https://www.agrinordest.it/province/pd/villa_estense.php
+node	11816462032	https://it-it.facebook.com/Pizzeria-Da-Luca-817996018254674/
+node	11816489201	http://www.ferroscar.it/
 node	11816826950	https://www.starbien.it
 node	11818576387	https://risotto.linux.it/
 node	11822788620	https://tend-hair.net/
@@ -6515,14 +6523,24 @@ node	12161775590	https://www.zeleghe.it/
 node	12161787036	http://www.tenutaguida.com/
 node	12161811665	https://www.calgarolucio.it/
 node	12161826991	https://www.facebook.com/osteriaValMagnaboschi/?locale=it_IT
-node	12162089829	http://villatabor.it/
-node	12162359984	http://www.lavecchiagalleria.com/
+node	12162089829	https://villatabor.it/
+node	12162359984	https://www.lavecchiagalleria.com/
 node	12162371508	https://www.caseificiopennar.it/
 node	12162397122	https://osteria-barricatella.italiabella.top/
 node	12163126679	https://www.popso.it/
 node	12164460065	https://ristorantemontegrande.it/
 node	12165228715	https://janbo.it/
 node	12167462951	https://www.fattoriadelgraspo.com/
+node	12169338853	https://medusashoes.com/
+node	12171046467	https://www.hotelclarin14.com/en
+node	12172332703	https://www.riverpizzeria.it/
+node	12176102200	https://www.centromedicina.com/
+node	12176370179	http://vivaisticatoniolo.it/
+node	12176751271	https://www.lebetulleaffittacamere.it
+node	12176817667	https://www.lasorgentedacaon.com/
+node	12176856769	https://www.falegnameriatacconialberto.it/index.html
+node	12178382375	https://www.aquasalata.it/
+node	12178526593	https://www.museostoricobicicletta.it/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6579,6 +6597,7 @@ way	35065834	https://www.agec.it/IT/Agec-Servizi-Cimiteriali/Home.html
 way	35099860	https://www.gardenparadiso.it/
 way	35577195	https://www.hotelsangiorgiocaorle.com/
 way	35584309	https://www.pianidiclodia.it
+way	37740232	https://campingnavene.it/
 way	37766489	https://www.csaarcadia.org/
 way	38180676	https://www.agec.it/IT/Agec-Servizi-Cimiteriali/Home.html
 way	38421394	https://www.livecivetta.it/
@@ -7078,6 +7097,7 @@ way	141976258	https://www.comune.quintoditreviso.tv.it/
 way	141977889	http://www.astrovenezia.net/planetario.htm
 way	141996476	https://www.dhl.it/
 way	141998746	https://www.sda.it/SITO_SDA-INSIDEX-WEB/pages/Home_it/119
+way	142023249	http://sandonatomurano.it
 way	142023686	https://laquila-pizzeria.business.site
 way	142023721	https://yalosmurano.it/
 way	142032426	www.bebboschidelcastegno.it
@@ -7628,7 +7648,6 @@ way	185703767	https://www.palacehotelregina.it
 way	185703835	https://www.villadelmarhotel.it/
 way	185703914	https://www.hotelsavoybeach.eu
 way	185804134	https://www.campingalporto.com/
-way	185816364	https://www.aquasalata.it/
 way	185817301	https://www.campeggioparadisochioggia.it/
 way	185817338	https://www.campingtredue.it/
 way	185825627	https://www.arrivaveneto.it
@@ -8169,6 +8188,7 @@ way	269362535	https://www.comune.merlara.pd.it/hh/index.php?jvs=0&acc=1
 way	270598691	https://www.centrouniversitariopd.it/
 way	271116065	http://www.volpatogroup.it/
 way	271412418	https://www.pampanorama.it/punti-vendita/padova-santa-croce
+way	272617438	https://www.comune.castelmassa.ro.it/vivere-il-comune/area-sosta-camper/
 way	273949018	https://www.facebook.com/ACGandCo?fref=ts
 way	274177024	https://residenceedenpeschiera.it/
 way	274976514	http://www.sacrocuoredoncalabria.it
@@ -8288,6 +8308,7 @@ way	338172054	https://www.adriaticlng.it/
 way	338322315	https://www.villa-margherita.com/
 way	338438640	https://www.campingsanzeno.it/
 way	338522120	https://www.funiviedelbaldo.it/
+way	342274779	https://www.baitonealpino.com/
 way	343277299	https://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/VIEE81803C/lonigo-madonna/
 way	345743616	https://cantinabreganze.it/
 way	346203800	https://www.delonghi.com/it-it
@@ -8384,7 +8405,7 @@ way	369756086	https://idroelettricheriunite.it/
 way	369759244	www.agriturismocasabella.org
 way	369808432	https://agriturismolapenisola.it/
 way	369809421	https://www.gottardospa.it/
-way	369811555	http://www.centropunto.it
+way	369811555	https://www.centropunto.it/
 way	370137356	https://www.campingsannicolo.com/
 way	370440386	https://www.campingsilva.it/
 way	371327674	https://villamulinodeicigni.com/
@@ -8469,6 +8490,7 @@ way	384572048	https://www.rifugiofabbro.it/
 way	387009008	http://www.liceistefanini.it/web/index.asp
 way	387009034	https://www.bergamin.it/
 way	389107138	https://www.viviparchi.eu/strutture-dettaglio.asp?catalogueProdId=534&catalogueCatId=3&catalogueClassId=20
+way	391341337	https://www.jesolohistory.it/san-mauro/
 way	391356690	http://www.museomagliodeitonet.it
 way	392951569	https://www.agriturismovalverde.it/
 way	393658234	http://www.ideaverdebassano.com/
@@ -9161,7 +9183,7 @@ way	1246313927	https://www.trattoriasantantonio.com/index.php/parapendio
 way	1252143469	http://www.terraesogni.it/
 way	1260647923	https://www.comune.tregnago.vr.it
 way	1263692479	http://www.ic16verona.gov.it
-way	1264425616	https://www.eurospin.it/punti-vendita/bussolengo-via-gardesana/?_gl=1*6bu32k*_up*MQ..*_ga*MTk2MTE0NTMxNy4xNzI1NTIwODM1*_ga_DG0SSRFCQK*MTcyNTUyMDgzNC4xLjEuMTcyNTUyMDkxOC4wLjAuMA..
+way	1264425616	https://www.eurospin.it/punti-vendita/bussolengo-via-gardesana
 way	1267701385	https://www.agenziaimmobiliaredallarizza.com/
 way	1269081596	https://www.agricampeggiopadova.it/
 way	1269092561	https://casalsrl.eu/
@@ -9226,6 +9248,11 @@ way	1312077675	https://www.comune.bovolenta.pd.it/c028014/zf/index.php/servizi-a
 way	1313964589	https://www.hotelcadivalle.it/
 way	1314168018	https://www.mdm2000.it/
 way	1314220723	http://www.hotelalcason.it
+way	1314793863	http://www.ristorantelotus.com/
+way	1314794899	https://agingros.com/
+way	1314794900	http://www.sportcarsgroup.it/
+way	1314795144	https://www.velasystem.com/
+way	1315293486	https://www.hotelcamping-bommartini.it/
 relation	62852	https://www.visitvallidelpasubio.com/via-dellacqua/
 relation	125257	www.cicloculturando.it/itinerario/anello-fluviale-di/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
@@ -9384,7 +9411,6 @@ relation	2804911	https://www.caitregnago.it/
 relation	2804920	https://www.caitregnago.it/
 relation	2812873	https://www.sat.tn.it/
 relation	2817224	https://www.sat.tn.it/
-relation	2885678	https://radrouting.tirol/
 relation	2912099	http://www.ciclabileadigepo.it/
 relation	3073965	https://www.era-ewv-ferp.org/e-paths/e7/
 relation	3079055	https://www.lessiniapark.it/
@@ -10147,7 +10173,6 @@ node	1854583388	http://www.labottepizzeria.net/
 node	1859105423	http://www.villaluisafrancesca.it/
 node	1867155356	http://www.reysol.it/
 node	1879083157	http://www.bancaatestina.it/
-node	1879083175	http://www.ferrarettoassicurazioni.com/
 node	1882846806	https://www.navigazionelaghi.it
 node	1894257649	https://ristoranteatmosphera.it/
 node	1895908836	http://www.caseificiopennar.it/
@@ -10175,6 +10200,7 @@ node	2355912234	https://www.navigazionelaghi.it
 node	2360356774	https://www.maramen.com//
 node	2373299259	http://www.crero.it/
 node	2396070795	http://studionicolin.it/
+node	2403657171	https://www.mainentipasticceria.it/
 node	2428507360	www.albergokrissin.com
 node	2428507361	www.monacosporthotel.com
 node	2433812288	https://www.leonardo-hotels.com/verona/leonardo-hotel-verona
