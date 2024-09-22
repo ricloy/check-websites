@@ -313,7 +313,6 @@ node	2373561431	http://www.enotecaoril.it/
 node	2379776774	https://www.coal.it/archives/punti-vendita/centro-commerciale-sampaolesi-2
 node	2388859385	https://www.picciolodirame.com/
 node	2392118748	http://www.playamaraviglia.it/
-node	2398789245	https://www.facebook.com/parcolequerce/
 node	2410716794	http://www.barbaldini.com/trattoria/
 node	2422237114	http://www.primasecca.it/
 node	2429114684	http://www.portodifano.it/
@@ -438,6 +437,7 @@ node	3467389037	https://www.tavernadelpescatore.it/
 node	3474980814	https://www.unipolsaimacerata.it
 node	3488461319	https://www.ristorante-belsit.com/
 node	3488476164	https://www.ristoranteilfalcopesaro.it/
+node	3534874694	https://somefaservice.it/
 node	3544961800	http://www.hotel-paradise.it
 node	3547686798	https://www.medstore.it/
 node	3547697240	http://hotelmadison.it
@@ -936,6 +936,7 @@ node	8398872504	https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagi
 node	8447218735	https://www.panetteriagiansanti.it/
 node	8455522217	http://www.molaroni.com
 node	8459166218	https://www.comune.pesaro.pu.it/cultura/luoghi-della-cultura/musei/musei/osservatorio-valerio/
+node	8480087026	https://www.comune.pioraco.mc.it/
 node	8492525173	https://www.podereseipoorte.it/
 node	8495392936	https://www.enotecadorica.com/
 node	8497869731	https://www.comune.acqualagna.ps.it
@@ -1024,7 +1025,6 @@ node	9092583182	https://www.tezenis.com
 node	9092583184	https://flyingtiger.com/
 node	9092583185	http://www.grapesaro.it/
 node	9092593213	https://www.rattiboutique.com/
-node	9108242979	https://m.facebook.com/squizzicasadellacqua/
 node	9111235578	https://www.comune.fossombrone.ps.it/fileadmin/grpmnt/5659/Turismo/Casa-Museo_Quadreria_Cesarini_2020.pdf
 node	9120543597	https://www.mezzobaiocco.it/
 node	9122777279	https://www.albergoraffaello.com/
@@ -1107,6 +1107,7 @@ node	9750175785	https://www.hotelelveziapesaro.it/
 node	9805507927	https://casafilinara.it/
 node	9812728973	https://museomarec.it/
 node	9827717208	https://lepetitcafenumana.com/
+node	9830461025	https://www.facebook.com/parcolequerce/
 node	9853465817	https://urbino.lavapiu.it/
 node	9853466017	https://www.menudigitale.io/ristorantepizzerialocandadellastazioneurbino
 node	9853488018	https://the-bosom-pub.business.site/
@@ -1239,6 +1240,7 @@ node	10893597152	https://sanprocolo.com/
 node	10896048817	https://ascolipiceno.ubiklibri.it/home.html
 node	10898589461	https://comprensivobetti.edu.it/
 node	10908218211	https://radio.unicam.it
+node	10908438216	https://www.3cimmobiliare.it
 node	10908438237	https://www.roberto-conti.it
 node	10915561882	http://www.zerosetteaccordions.com/
 node	10915570863	https://www.bugariarmando.com
@@ -1313,7 +1315,6 @@ node	11182799672	http://www.verdinimoto.com
 node	11182872870	https://www.pagliariniviaggi.com/
 node	11185535621	https://www.zero733.it
 node	11189265663	https://la-croisette.it/
-node	11191510284	https://instagram.com/saragflowers
 node	11195414385	http://www.stamperiadartecavirginio.it/it/
 node	11195467509	https://www.famila.it/punti-vendita/marche/famila-market-urbino
 node	11195612438	http://coralebonagiunta.it
@@ -1412,13 +1413,13 @@ node	11346100763	https://www.agenziaentrate.gov.it/portale/web/guest/uffici2/-/u
 node	11346193768	https://www.romagnoliarredi.com/
 node	11350646997	https://www.superautoottaviani.it/
 node	11350815163	https://www.operelaiche.it/farmacia-santa-casa/
+node	11351377020	https://www.camomillaitalia.com/it-it/stores/store-cc-porto-s-elpidio/
 node	11355676530	https://negozi.arcaplanet.it/marche/ap/s.benedetto-del-tronto-via-pasubio-51
 node	11361857117	https://www.oasicannetacci.it/
 node	11365460568	https://duearchipizzeria.sitoup.com/
 node	11365718908	https://www.adcmobility.it/
 node	11366816949	https://www.canonici.it/
 node	11371855769	https://terredelpiano.it/
-node	11371892569	https://www.prontocampi.nl/
 node	11375095924	https://www.ristorantelevante.com/
 node	11379428915	https://www.gabriellispa.it/
 node	11392512168	https://www.carifermo.it/it/
@@ -1502,7 +1503,7 @@ node	11953874725	https://www.leggimenu.it/menu/75sk7fao75q1
 node	11962273977	https://eagles.aero/
 node	11964590568	http://mare-vento.blogspot.com/
 node	11965433118	https://www.modaiole.it
-node	11975336450	https://vittoriaprofumi.com/site/
+node	11975336450	https://www.vittoriaprofumi.com/
 node	11980292628	https://www.gruppopieralisi.it/manutenzione-auto-officine-ocra
 node	11980292629	https://www.gruppopieralisi.it/
 node	11987487379	https://www.agenziaentrate.gov.it/portale/uffici2/-/uffici/uffici_INSTANCE_760I75Ju693C/dettaglioufficio/TQX
@@ -1548,6 +1549,7 @@ node	12156336115	https://ispengineering.com
 node	12169670335	https://www.pievedigaifa.it
 node	12170757221	https://www.le-cave.it/
 node	12174551776	http://www.pomorilla.it/
+node	12189496734	https://www.prolocompc.it
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1578,6 +1580,7 @@ way	54579745	http://www.rifugiomontisibillini.it/
 way	55334188	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/70665/Collegiata+di+Maria+Santissima
 way	58319973	https://albattente.it/
 way	58627567	http://www.seminariovescovileascolipiceno.it/
+way	59456592	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179818#
 way	60611667	https://www.garofolivini.it/
 way	60611670	https://www.moroder.wine
 way	60611671	https://www.fattorialeterrazze.it/
@@ -1603,6 +1606,7 @@ way	100298769	https://www.lagrancia.net/
 way	104901714	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII176424
 way	105812217	https://www.atlanticpesaro.it/
 way	106274924	https://www.ramuse.it
+way	108069464	https://www.urbinoservizi.it/servizio/pargheggi-a-urbino/parcheggio-borgo-mercatale/
 way	108129237	http://www.roccavarano.info/
 way	108446488	https://www.bricocenter.it/falconara/
 way	110150086	https://www.schermajesi.it
@@ -1624,6 +1628,7 @@ way	144506070	https://www.crai-supermercati.it/punto-vendita/5194-crai-extra-osi
 way	144928923	https://brandoni.com/
 way	147549194	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII158944#
 way	149358438	http://www.siconte.it/it/punti-vendita/si-supermercati/trodica-via-xxv-aprile
+way	149359639	http://www.hotelsancrispino.it/
 way	151770924	http://www.rifugiopaci.it
 way	152904666	https://www.rifugideisibillini.it/
 way	156117805	http://www.parrocchiasmgoretti.it/
@@ -1869,6 +1874,7 @@ way	420358662	https://spiaggiacanisenigallia.it/web/camping-holiday/
 way	422215360	https://www.verdeazzurrovacanzemarche.it/
 way	428715427	https://www.conad.it/ricerca-negozi/negozio.009974.html
 way	430230965	https://www.rifugiozilioli.it/
+way	430232949	https://www.mountbnb.com/en/491/rifugio-mezzi-litri/scheda-rifugio
 way	431578981	https://www.riservagoladelfurlo.it/index.php?id=26186
 way	433006148	http://www.museidiocesanimarche.it/
 way	433251824	https://www.carabinieri.it/
@@ -2064,6 +2070,7 @@ way	1094781880	https://www.iisraffaello.edu.it/
 way	1095639398	https://www.officine-volkswagen.it/santiniprimo.html
 way	1095746610	https://fondoambiente.it/luoghi/cripta-e-capitolo-dell-abbazia-di-sangelo-di-chiaserna?ldc
 way	1096312500	http://www.valdifiori.nl
+way	1096346584	https://www.comune.castelfidardo.an.it/area-camper-sistema-automatizzato-di-accesso-con-qr/
 way	1097228554	https://www.albergodellorsobo.it/
 way	1097799401	http://www.abbaziadisanturbano.it/
 way	1099684516	http://www.renox.com
@@ -2123,6 +2130,7 @@ way	1227135666	https://www.oasitigre.it/content/ot/it/it/il-mio-negozio.546.html
 way	1242775991	https://www.vigilfuoco.it/sitivvf/fermo/
 way	1244772646	https://www.villaderuschi.it/
 way	1247118038	https://www.ipsiacorridoni.edu.it/
+way	1251324663	https://w2ww.osimoservizi.it/area_camper
 way	1254647656	https://crifano.it/
 way	1255052209	https://www.iluoghidelsilenzio.it/abbazia-di-santa-croce-casette-dete-fm/
 way	1256338825	https://www.iluoghidelsilenzio.it/badia-dei-santi-biagio-e-flaviano-monterubbiano-fm/
@@ -2141,6 +2149,7 @@ way	1283737285	https://bagnielsa.it/
 way	1288489020	https://www.iluoghidelsilenzio.it/eremo-della-madonna-del-sasso-valleremita/
 way	1288737769	https://www.iluoghidelsilenzio.it/chiesa-sconsacrata-di-san-sebastiano-belforte-del-chienti-mc/
 way	1288986166	https://www.agriturismoanticomuro.it/
+way	1289151443	http://www.hotellarosadeiventi.com/
 way	1290057374	https://www.chaletmarakaibo.it/
 way	1292295353	https://www.sonepar.it/it-it/store/jesi-an-M21M
 way	1295765705	https://www.iluoghidelsilenzio.it/chiesa-di-fonte-venere-pioraco-mc/
@@ -2175,6 +2184,9 @@ way	1314641958	https://scuolamorrovalle.edu.it/
 way	1315561184	http://www.sostacamperilrospo.it
 way	1315569798	http://www.lpre.it
 way	1315594365	https://campingsensazione.com/
+way	1316349408	https://www.lapoianaurbino.it/
+way	1316875085	https://www.facebook.com/parcolequerce/
+way	1316930676	https://www.prontocampi.nl/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
