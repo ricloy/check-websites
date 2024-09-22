@@ -318,7 +318,6 @@ node	2311459493	https://www.enel.it/punto-enel/
 node	2311459503	https://www.enel.it/punto-enel/
 node	2311459515	https://www.enel.it/punto-enel/
 node	2311459525	https://www.enel.it/punto-enel/
-node	2311459538	https://www.enel.it/punto-enel/
 node	2311719403	https://www.ferasrl.it/en/progetto/tocco-di-vento/
 node	2311719417	https://www.ferasrl.it/en/progetto/tocco-di-vento/
 node	2314805992	http://www.bancaditeramo.it/
@@ -346,6 +345,7 @@ node	2444404305	https://www.residencebelvedere.eu/
 node	2444404947	http://www.lecasedellaposta.it/
 node	2446746550	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10840
 node	2460717204	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10818
+node	2478805151	https://www.decathlon.it/store-view/negozio-sport-teramo-0070115001150
 node	2498326469	http://www.tradizionecarni.it/
 node	2513096388	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10927
 node	2514418442	https://www.farmaciadelcorsoteramo.it/
@@ -3129,6 +3129,14 @@ node	12164901503	https://www.bmautomobili.com/
 node	12168576636	https://genobile.it/contatti.html
 node	12177199641	https://kobaksmartoilet.com/
 node	12177948629	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
+node	12179876367	https://www.fuoco26.it
+node	12183702001	https://www.ambauto.it
+node	12187635518	https://bearbike.it
+node	12188864301	https://scalomerci.com/
+node	12189446951	https://esteticauno.it/art-estetica-di-elena-vieru/
+node	12192259622	http://www.donbasilico.it/
+node	12192299565	http://www.abruzzoposta.it/
+way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
 way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
@@ -3524,6 +3532,7 @@ way	545740657	https://auditoriumdelparco.it/
 way	548748769	https://globocenter.net
 way	549007426	https://www.facebook.com/mercatocontadinolaquila
 way	557693411	http://www.loscoiattolo.org/
+way	558600320	https://ambiente.comune.pescara.it/?page_id=4292
 way	560476431	https://criaq.it/
 way	561501899	http://www.paesiteramani.it/Paesi/MutignanoSAntonio.htm
 way	571950497	https://www.hotelsporting.com/
@@ -3695,6 +3704,7 @@ way	818692506	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_d
 way	818692509	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	819143804	https://www.lidl.it/
 way	820518711	https://www.istitutocomprensivo4pe.edu.it/
+way	820865648	https://ambiente.comune.pescara.it/?page_id=4362
 way	821363295	https://www.comune.silvi.te.it/home/vivere/telefoni.html
 way	821634238	https://www.icpescara8.edu.it/
 way	821750947	https://concessionarienissan.it
@@ -4110,6 +4120,7 @@ way	1254275562	https://www.camping.it/en/abruzzo/scheda-846.aspx
 way	1255397208	https://www.traboccopuntamare.com/
 way	1256598815	https://www.comune.alanno.pe.it/it/point-of-interest/742178?category_id=339102
 way	1259323818	https://www.coocori.it/
+way	1259452499	https://www.internationalcamping.it/
 way	1259743107	https://www.comune.montazzoli.ch.it/it
 way	1271393350	https://sanita.regione.abruzzo.it/canale-ospedali/ospedale-di-castel-di-sangro
 way	1277849300	https://campeggioaltosangro.webnode.it/chi-sono/
@@ -4138,6 +4149,9 @@ way	1312463574	https://www.jw.org/it/
 way	1312641328	https://miton.it/
 way	1313711680	https://www.istitutobucchianico.edu.it/
 way	1314598663	https://virtusorsogna.org/
+way	1315267540	https://www.pietredellamemoria.it/pietre/parco-delle-rimembranze-orsogna/
+way	1316658111	https://www.nicolasantoleri.com/contatti
+way	1316951549	https://lorenzacalzaturificio.gruppoflorence.it/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4218,6 +4232,7 @@ relation	12018445	https://www.viadeilupi.eu
 relation	12018649	https://www.viadeilupi.eu
 relation	12018650	https://www.viadeilupi.eu
 relation	12038485	http://www.museocorfinio.it/parcoarcheologico.html
+relation	12080882	https://pescaramultiservice.it/parcheggi/#parcheggi
 relation	12101959	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 relation	12120202	https://www.parcomontisimbruini.it/
 relation	12139200	https://www.caisora.it
@@ -4381,6 +4396,7 @@ relation	17948211	https://www.ilcamminodabruzzo.it/
 relation	17948488	https://www.ilcamminodabruzzo.it/
 relation	17948489	https://www.ilcamminodabruzzo.it/
 relation	18025665	https://camminodeibriganti.it
+relation	18051918	https://camminodeibriganti.it/mtb/
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
