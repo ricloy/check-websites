@@ -2520,8 +2520,8 @@ node	8807063298	https://www.acquaesaponeonline.it/
 node	8807075768	https://www.nuovohotelfaro.com/
 node	8807214787	https://stores.ovs.it/it/italia/sicilia/messina/ovs-capo-d-orlando
 node	8807544431	https://sanvitolocapoloungebar.it/
-node	8807920042	https://www.aurispa-noto.edu.it/
-node	8807920074	https://www.aurispa-noto.edu.it/
+node	8807920042	https://www.maiorenoto.edu.it/
+node	8807920074	https://www.maiorenoto.edu.it/
 node	8808725862	http://vosse.it/
 node	8808777329	https://ristorante-bar-paipdr.business.site/
 node	8809998036	https://www.icvergapachino.edu.it/
@@ -3721,6 +3721,12 @@ node	12168444755	https://www.euronics.it/
 node	12170100114	https://ediliziacrobatica.com/
 node	12170100115	https://ediliziacrobatica.com/
 node	12170100116	https://ediliziacrobatica.com/
+node	12170117335	https://moveforlife.it/
+node	12180393351	https://www.14comprensivosr.edu.it/
+node	12180470990	https://www.melodianoto.edu.it/
+node	12180470991	https://www.melodianoto.edu.it/
+node	12180470992	https://www.maiorenoto.edu.it/
+node	12185027439	https://lucacorsaro.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3750,6 +3756,7 @@ way	26803630	https://www.dsc.unict.it/
 way	27104062	https://citycataniasportsclub.com
 way	27125644	https://www.icpizzigonicarducci.edu.it/
 way	27370854	http://www.scuoladiazcatania.it/
+way	27959657	http://ortobotanico.unict.it/
 way	28399127	https://www.teatromassimobellini.it/
 way	28716662	https://www.centroetnapolis.it/
 way	28876174	https://www.icpizzigonicarducci.edu.it/
@@ -4069,7 +4076,7 @@ way	203273943	https://www.francescocrispi.edu.it/.paolovetri.edu.it
 way	203887199	https://www.triolozancla.com/
 way	204152948	https://www.istitutocomprensivovannanto.edu.it
 way	204272310	https://www.chiesavaldesepalermo.it/
-way	204822586	https://www.aurispa-noto.edu.it/
+way	204822586	https://www.melodianoto.edu.it/
 way	205461861	https://cifalino.com/
 way	205461865	https://derobertoct.edu.it/
 way	205643522	https://www.sdslingue.unict.it/
@@ -4243,6 +4250,7 @@ way	263927660	https://www.scuoledilampedusa.edu.it/
 way	264635900	https://www.poste.it
 way	264944473	https://www.quasimodoragusa.edu.it
 way	264964428	https://ildelfinomarinadiragusa.com/
+way	264985361	https://www.casepescatori.com/
 way	265990505	https://www.hotelguitgiatommasino.it/
 way	265990513	http://www.ilfarodellaguitgia.it/
 way	266024041	https://www.hotelguitgiatommasino.it/
@@ -4259,6 +4267,7 @@ way	275658325	https://www.gruppouna.it/unahotels/unahotels-naxos-beach-sicilia
 way	275660799	http://www.parkinglagani.it
 way	275725186	https://www.icfontanarossa.edu.it/
 way	275934783	http://www.pestalozzi.cc/
+way	275972656	https://hermesautonoleggio.com/
 way	276545061	https://www.poste.it
 way	276975450	http://www.liceimanzonijuvara.gov.it/
 way	277143463	https://www.comune.aragona.ag.it/
@@ -4498,7 +4507,6 @@ way	334786005	https://www.3iccapuana.edu.it/
 way	334786006	https://www.damicorosolini.edu.it/
 way	334786007	https://www.damicorosolini.edu.it/
 way	334786009	https://www.damicorosolini.edu.it/
-way	334786010	https://www.aurispa-noto.edu.it/
 way	335518961	https://www.istitutobartolo.edu.it/
 way	336702266	http://www.scuolasuperiorecatania.it/
 way	336976052	https://www.hotelmealipari.com/
@@ -4658,7 +4666,7 @@ way	418130432	http://www.iraci.it
 way	418133477	https://www.villacarlottahotel.com/it
 way	418245483	https://www.iisabramolincolnenna.edu.it/
 way	419534309	https://www.comune.favara.ag.it/
-way	419596260	https://www.aurispa-noto.edu.it/
+way	419596260	https://www.melodianoto.edu.it/
 way	420531744	http://acquaazzurra.it/
 way	421470700	https://www.icsgesualdobufalino.edu.it/
 way	421473264	https://www.icsgesualdobufalino.edu.it/
@@ -4783,6 +4791,7 @@ way	496197076	http://www.hotelipanema.it/
 way	496265890	http://dianabar.com/
 way	498987950	https://www.villasantateresa.it/
 way	500757818	https://karisma-gela.it/
+way	503589072	https://campeggioolimposantaflaviapalermo.it/
 way	503655806	https://www.cheap-holiday-home.com/
 way	504805574	https://www.mangiafico1972.it/
 way	505258057	https://www.icsantachiaraenna.edu.it/
@@ -4887,6 +4896,7 @@ way	638832858	www.holidayparksnc.it
 way	643645582	https://www.lafornacecentrocommerciale.com/
 way	648230319	https://www.nautisubclub.it
 way	648584373	https://ideavacanzepa.it/
+way	648584944	https://www.facebook.com/parkinggiotto/
 way	655328750	http://villagiocolano.it
 way	655433684	https://www.diveedivine.it/
 way	663909276	https://www.bowlingmanhattan.com/
@@ -5175,7 +5185,7 @@ way	944825870	https://www.poste.it
 way	950101247	https://www.itcbesta.edu.it
 way	951305958	https://www.quasimodofloridia.edu.it/
 way	951305962	http://www.istitutodeamicisfloridia.it/
-way	951581406	https://www.aurispa-noto.edu.it/
+way	951581406	https://www.maiorenoto.edu.it/
 way	951815558	https://www.icvergapachino.edu.it/
 way	952496908	https://www.icmessina.edu.it/
 way	953177261	https://www.sicimontaggi.com/it/
@@ -5856,6 +5866,7 @@ way	1275518261	https://www.villazuccaro.com/
 way	1276586044	http://www.scuolaninomartoglio.edu.it
 way	1276586048	https://www.cdbelpasso.edu.it/
 way	1276586059	https://www.cdbelpasso.edu.it/
+way	1278583518	http://www.park-jonio.it/
 way	1280911260	https://www.hoteltermeacquagrazia.com/
 way	1282533093	https://www.lidl.it/
 way	1282742153	http://www.marullospa.it/
@@ -5907,6 +5918,7 @@ way	1314050574	https://istitutocarlov.edu.it/
 way	1314050575	https://istitutocarlov.edu.it/
 way	1314209696	https://www.donmilanipaterno.edu.it/
 way	1315484643	https://camping-sicilia.jimdosite.com/
+way	1315935225	http://www.enjoycamping.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -5915,7 +5927,6 @@ relation	357473	http://www.kempinski-sicily.com/
 relation	395010	https://www.federicosecondo.org/palazzo-reale-2/
 relation	535720	http://www.visirresort.com/
 relation	875724	http://www.vecchiadogana.it
-relation	909190	http://ortobotanico.unict.it/
 relation	1157427	http://seminariovescovilediocesimazara.blogspot.com/
 relation	1291574	https://www.monasterosantacaterina.com
 relation	1291721	http://www.musei.unipa.it/carceri.html
