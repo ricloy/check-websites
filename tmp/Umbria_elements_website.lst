@@ -106,7 +106,6 @@ node	650721714	https://www.iluoghidelsilenzio.it/?p=250939
 node	650721758	http://www.iluoghidelsilenzio.it/?p=11336
 node	650722925	http://www.iluoghidelsilenzio.it/?p=195792
 node	650728958	http://guadamello.it/
-node	687314301	http://www.montimartaniseranosubasio.it/
 node	703630909	https://www.conad.it/ricerca-negozi/negozio.004294.html
 node	714866289	http://polomusealeumbria.beniculturali.it/?page_id=3682
 node	719963558	https://www.procasacastalda.it/
@@ -630,6 +629,7 @@ node	8324733002	https://ristorantelabadiaorvieto.it/
 node	8368058413	https://www.iluoghidelsilenzio.it/?p=251371
 node	8368091715	http://www.iluoghidelsilenzio.it/?p=122985
 node	8368114026	https://www.iluoghidelsilenzio.it/?p=239365
+node	8368524184	https://www.iluoghidelsilenzio.it/castello-di-lapparino-spoleto-pg/
 node	8591869964	https://www.lacasellaagriturismo.com
 node	8599088762	http://www.ilgaribaldino.com
 node	8639672623	https://www.instagram.com/jollyrogerperugia
@@ -922,6 +922,7 @@ node	12127385080	https://www.turismostroncone.it/ita/6/arte-e-cultura/5/sacrario
 node	12129750709	https://www.rionecassero.it/
 node	12134463210	https://www.palazzocesi.it/
 node	12168590101	https://www.bancacentro.it/annuario/sportelli.asp?abi=7075&i_menuID=60349
+node	12181850301	http://www.ambvetesopo.eu/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1170,6 +1171,7 @@ way	439332506	https://www.iluoghidelsilenzio.it/chiesa-di-san-severino-montalbo/
 way	439342705	http://www.iluoghidelsilenzio.it/?p=14822
 way	439402090	http://www.iluoghidelsilenzio.it/?p=137799
 way	439407086	https://www.iluoghidelsilenzio.it/chiesa-di-santapollinare-peneggi/
+way	439423707	https://www.anticofrantoiocarletti.it/
 way	439736321	http://www.iluoghidelsilenzio.it/?p=5689
 way	439757949	https://www.iluoghidelsilenzio.it/chiesa-di-santa-chiara-loc-vene/
 way	439863788	https://www.iluoghidelsilenzio.it/?p=252663
@@ -1217,7 +1219,6 @@ way	477886586	https://www.iluoghidelsilenzio.it/chiesa-di-san-tommaso-spoleto-pg
 way	478905271	https://www.2circolospoleto.edu.it/jm4/
 way	481351131	http://www.e-coop.it/StoreLocator/mobile/storeDetail.jsp?store=251&zoom=9
 way	481545302	https://italpoltrone.it/
-way	481548268	http://grupponovelli.it
 way	481555623	http://www.sabbatuccifalegnameria.it/
 way	481633964	https://www.iluoghidelsilenzio.it/?p=241615
 way	481633968	https://casaoamispoleto.org/
@@ -1237,6 +1238,7 @@ way	490732342	http://www.amormisericordioso.org/ws/mapa/eam/italia/eam-montecchi
 way	490865529	https://www.casanazareno.it/
 way	491632347	http://www.itspoleto.gov.it/
 way	494153174	https://www.icdellagengaalighieri.gov.it
+way	494481585	https://www.farmaciamarchese.it/
 way	494481595	http://www.ctspoleto.it/index.html
 way	494902627	https://www.iluoghidelsilenzio.it/chiesa-di-san-marco-in-pomeriis-spoleto-pg/
 way	495165604	http://www.relaislafattoria.com/
@@ -1527,6 +1529,7 @@ way	1100844473	https://www.booking.com/hotel/it/scenic-holiday-home-in-massa-mar
 way	1100844477	https://www.booking.com/hotel/it/locazione-turistica-la-danza.en-gb.html
 way	1105990282	http://www.lapinturella.it/
 way	1110313181	https://www.iluoghidelsilenzio.it/villa-di-rio-secco-trevi-pg/
+way	1111886908	https://www.fontebella.com/
 way	1112058575	https://www.iluoghidelsilenzio.it/chiesa-di-san-fortunato-assisi-pg/
 way	1116245107	https://www.uslumbria1.it/pagine/ospedale-castiglione-del-lago
 way	1135398305	https://www.iluoghidelsilenzio.it/chiesa-pieve-di-san-gregorio-magno-castel-ritaldi/
@@ -1593,6 +1596,7 @@ way	1301931424	https://www.campingcerquestra.it/
 way	1301932668	https://campinglunadelmonte.nl/
 way	1308852420	https://www.coldifiori-bnb.com
 way	1315294744	https://www.gabrielemontioni.it/
+way	1317181866	http://www.montimartaniseranosubasio.it/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	1948091	https://chemindassise.org/
@@ -1822,6 +1826,7 @@ node	4528371043	https://www.ristoranteilmoderno.store/menu/
 node	4529186809	https://www.alphaville-italia.com
 node	4581702789	https://todi.ubiklibri.it
 node	4614970272	https://www.lietasosta.it/
+node	5249382813	https://www.rampiniauto.it/
 node	6206621145	https://www.lagiostrinadeicanape.it/servizi/la-giostrina.html
 node	6823102355	https://hotellacorte.magrellihr.com
 node	7809059981	https://www.ristorantenumero1.it/
