@@ -1103,6 +1103,7 @@ node	2942678079	https://www.datutela.it/
 node	2947383543	https://www.comune.bairo.to.it
 node	2947383548	https://www.residencedelfrate.it/
 node	2948682258	https://www.ombelicorivoli.com/prenotazioni-e-contatti/
+node	2948685433	https://www.ristoroemilia.it
 node	2949565476	https://www.iperbimbo.it/punti-vendita/punti-vendita-in-piemonte/iperbimbo-torino/
 node	2949696747	https://www.caivarallo.com/rifugi-cai-piemonte-valsesia/capanna-gugliermina/
 node	2955113867	https://la-marmu.it/
@@ -1847,7 +1848,6 @@ node	4132295320	https://bifroit.wixsite.com/bifro
 node	4133529945	https://www.costapra.com/
 node	4138017461	http://www.tobike.it/
 node	4138048038	http://www.tobike.it/
-node	4138062593	http://www.tobike.it/
 node	4157986991	https://www.facebook.com/medialanghe/
 node	4159998135	http://www.aslto2.piemonte.it
 node	4160817565	https://www.circolobloom.org/
@@ -1978,7 +1978,7 @@ node	4387856790	http://www.vinigatto.it/
 node	4392949192	http://www.cascina1851.com
 node	4393514145	http://www.bioborghino.com/
 node	4394083305	http://www.osteriacastellovenaria.it/
-node	4396135538	http://gruppopilotivalsesia.it/pagina.php?pagina=./contenuti/aviosup_meggiana.php&nome=Aviosuperficie%20di%20Meggiana
+node	4396135538	https://www.marc-ingegno.it/campi-di-volo/aviosuperficie-di-meggiana
 node	4397097145	http://www.cascinailbricco.it/
 node	4397149581	https://www.vinchio.com/
 node	4397157196	https://camera.to/
@@ -4316,6 +4316,7 @@ node	7706567375	https://www.albergocuccini.com/en/home-3/
 node	7707487570	http://www.piazzacrovatre.it
 node	7707503202	https://www.bardonecchia.it
 node	7712065997	https://www.jmoffroadschool.it
+node	7716450394	https://fattoriacerini.it/contacts/
 node	7724053253	https://www.fondazionepeano.it/sculture/marco-scifo-volo-di-cigni/
 node	7724054595	https://www.fondazionepeano.it/sculture/christian-loretti-sapone/
 node	7724098404	https://www.fondazionepeano.it/sculture/noriaki-gondo-esiste-la-bellezza-di-vivere/
@@ -4369,7 +4370,6 @@ node	7832676577	http://www.lagodorta.net/default.asp
 node	7834019215	https://lidodigozzano.it/
 node	7838677756	https://latomaticaincommedia.business.site
 node	7839761699	http://chiesaevangelicafossano.weebly.com/
-node	7840942886	https://campingmiami.weebly.com/campingmiami.html
 node	7843759212	https://gelateria-caffetteria-lisola-di-giava.business.site/
 node	7843759453	https://www.pasticceriagallizioli.it/
 node	7843863727	https://maxfactory.eu/
@@ -5592,6 +5592,7 @@ node	10767225117	https://www.gilber.it/
 node	10769159379	https://rigeneralab.it/
 node	10770516395	https://www.betolameana.it/
 node	10779871490	www.caiivrea.it
+node	10784287024	https://artoflivingtorino.it/
 node	10784291696	https://www.meizoun.it
 node	10785216949	http://www.caipeveragno.it
 node	10788372361	https://www.repower.com/it/dina/
@@ -5768,6 +5769,7 @@ node	11151954967	https://cvp.clinic/
 node	11153287091	https://www.studioercole.it
 node	11155766305	https://www.nocciolesacco.it/
 node	11158999707	https://www.facebook.com/profile.php?id=100041334229461&locale=it_IT
+node	11161372206	https://www.d-piu.com/punti-vendita-dpiu/d100-vercelli/
 node	11161445860	https://trentech.it/
 node	11164807106	http://www.biud10.org/
 node	11164807108	https://interser.it/
@@ -6192,6 +6194,10 @@ node	12168829398	https://ristorantelacastiglia.it
 node	12168873712	https://goodbike.eu
 node	12177051438	https://widequadrilatero.it/
 node	12179754462	https://www.caiboffaloraticino.it/rifugio/
+node	12181444944	https://www.camperalpedevero.it/
+node	12181813015	https://agricampeggiomacape.com
+node	12184712512	https://lusincollina.com/
+node	12193220582	https://www.osteriadallabadessa.it/
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6336,7 +6342,7 @@ way	83051443	http://www.comune.torino.it/papum/user.php?context=opere&submitActi
 way	83058374	https://www.i3p.it/
 way	83489735	https://www.comune.ornavasso.vb.it
 way	83490821	https://rifugiosoria.com/
-way	83606693	https://www.turismotorino.org/it/esperienze/trekking-e-outdoor/area-attrezzata-dei-laghi-presso-piazzale-grande-torino
+way	83606693	http://www.tincar.it/temp/AviglianaLaghi/index.htm
 way	83630869	http://www.lagodellerose.com
 way	83825215	https://www.suism.unito.it
 way	83924867	www.comune.conzano.al.it/La_Citta/villa_vidua.htm
@@ -6747,7 +6753,7 @@ way	198611563	https://www.u-power.it
 way	198621157	http://www.camping-smeraldo.com/it_web/index.php
 way	198740144	http://www.aronagolf.it/
 way	198743860	https://camping2000.it/
-way	198756253	http://www.ilpicchio.org
+way	198756253	https://www.aviosuperficieilpicchio.it/
 way	198974998	https://www.chaletmoia.it/
 way	198979312	https://www.laperulina.it/
 way	199104482	http://www.beblagodicampagna.it/en/home-page/
@@ -7108,6 +7114,7 @@ way	233435339	https://www.comune.formazza.vb.it/
 way	233600078	https://www.albergopanice.it/
 way	233600646	https://www.bragardhotel.com/
 way	233600647	https://www.bragardhotel.com/
+way	233664850	https://www.centrogazzaladra.com/
 way	233753714	https://sani-plast.com/
 way	233889485	http://www.sanpaolo-to.com/
 way	233901470	http://www.agricolailgirasole.com/
@@ -7498,6 +7505,7 @@ way	303844391	https://www.museodellequarne.it/
 way	303846142	https://www.comune.quargnento.al.it/it/page/cimitero-comunale-f6a047f2-213c-4618-abb2-cb7e9965f7c9
 way	303848461	https://www.fratellidurando.it
 way	304009827	https://miraorti.com/
+way	304155358	https://comune.crevoladossola.vb.it/it-it/vivere-il-comune/dove-dormire/area-sosta-camper-lago-tana-54829-1-b3bf2952adca2b9fa5dc8f655fb0668e
 way	304161834	https://www.chiesa-baceno.it
 way	304193913	https://www.icarona.edu.it/
 way	304194738	https://www.icarona.edu.it/
@@ -7739,6 +7747,7 @@ way	368083379	https://www.museidibra.it/museocraveri
 way	368209065	http://www.rolfo.it/
 way	368224506	https://www.museidibra.it/museozizzola
 way	368437198	http://campingcasabianca.altervista.org/
+way	368482414	https://www.facebook.com/olympicentre/
 way	368589658	https://www.icmatteotti.gov.it/plessi/primaria-c-perone
 way	368626097	https://www.comune.casalino.no.it/
 way	368767040	http://www.mariaausiliatricegiaveno.it/
@@ -8249,6 +8258,7 @@ way	516844763	https://www.comune.sanmauriziodopaglio.no.it
 way	516946927	http://www.grupposantacroce.it/collegio-san-filippo-neri/
 way	517085663	https://www.campeggioallegro.it/
 way	517349389	www.latenutabene.com
+way	517853410	https://www.campingverdelago.it/
 way	518585774	http://www.e-pam.it/punti-vendita/to/torino/traiano/
 way	519663020	https://www.meinabeachclub.it/
 way	519715338	https://www.clinicasanluca.com/
@@ -8310,6 +8320,7 @@ way	538772723	https://www.cumianagomme.com/
 way	538999837	https://www.circolotennispinerolo.it/
 way	539443420	https://pointservice.net/officina-pointservice/ps_363/
 way	541183789	https://www.hysteron.it/
+way	542790433	https://viviverbania.it/luoghi/chiesa-di-san-fermo-18769
 way	542990419	https://www.palazzomazzetti.eu
 way	543128570	https://www.decathlon.it/
 way	543843034	http://www.comune.viola.cn.it/Home/DettaglioNews/tabid/16265/Default.aspx?IDNews=49547
@@ -8614,6 +8625,7 @@ way	725379830	https://www1.agenziaentrate.gov.it/indirizzi/agenzia/uffici_locali
 way	727234059	https://www.parrocchiasanfrancesco.it/
 way	728802828	https://www.parrocchiaceres.it/index.php/chiesa-e-cappelle/24-ladant-cappella-della-madonna-degli-angeli
 way	728802829	https://www.parrocchiaceres.it/index.php/chiesa-e-cappelle/17-ceres-cappella-della-peste
+way	730094265	https://www.acquaesapone.it/puntivendita/vercelli-via-veterani-dello-sport-11/
 way	730452057	https://www.comune.quincinetto.to.it/it-it/vivere-il-comune/cosa-vedere/chiesa-parrocchiale-di-gesu-risorto-o-s-s-salvatore-5017-1-5a0b5f78a1da482fe9d1f2b19369b22e
 way	730801012	https://piemont.sunstar.ch
 way	731935822	https://www.pizzeriaisolitiignoti.com/
@@ -8681,6 +8693,7 @@ way	754019692	https://www.comune.livornoferraris.vc.it/
 way	755115761	http://www.comune.crodo.vb.it/
 way	755135720	http://www.comune.torino.it/infrastrutture/opere/viabilita/ex_clotilde.htm
 way	755135721	http://www.comune.torino.it/infrastrutture/opere/viabilita/ex_clotilde.htm
+way	755439870	http://www.campeggiocistella.it/
 way	755439871	http://www.campeggiocistella.it/
 way	755674494	https://liceocuneo.it/
 way	756058463	https://www.nuovobaulino.it/
@@ -8795,6 +8808,7 @@ way	836137609	http://ilfiloderba.it/
 way	836357167	https://www.provincia.cuneo.gov.it/_allegati/viabilita/28979/altriallegati/stradario_2019-3676567081-13681919271-131228740.pdf
 way	837362246	https://scuolaimmacolata.it
 way	839362109	http://camping-aviglianalacs.it
+way	840127818	http://www.tincar.it/temp/AviglianaDoraRiparia/index.htm
 way	845848382	https://www.canottiericaprera.it/
 way	846129909	https://www.marcevaggi.com/star-spa/container-terminals/
 way	847069834	https://www.montagnabiellese.com/cossarello-via-penna-nera/
@@ -9212,6 +9226,7 @@ way	1311285628	https://www.paintballpark-cerrina.com
 way	1311520577	https://ids.q8.com/it/stations/villarboit-nord-vca4-q8-it3932
 way	1313693052	https://www.playadivalverde.com/
 way	1315560144	https://www.lacrescentina.com/
+way	1316071694	https://campingmiami.weebly.com/campingmiami.html
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -10841,7 +10856,6 @@ node	5640127222	http://lamerendasinoirameana.simplesite.com/
 node	5653992967	http://www.vinichiesa.it
 node	5664364227	http://www.radiodora.it/
 node	5664364228	http://www.radiofrejus.it/
-node	5664376223	http://www.susaondaradio.it
 node	5715720350	https://www.nicolas-maroda.eu/
 node	5721406909	https://www.immobiliare-brokerhouse.it/
 node	5827170978	https://www.ilbucanevecrissolo.com
@@ -11599,6 +11613,9 @@ node	10951969742	https://invalpellice.com/en/agriturismo-rifugio-barfe-farmhouse
 node	11364222877	https://catastogrotte-piemonte.net/caves-view-1550.html
 node	12041219566	https://www.piemonteitalia.eu/it/dormire/casa-ferie/casa-sacro-cuore
 node	12069805529	https://www.groupama.it/trova-agente/vercelli/agenzia-vercelli-000375
+node	12182729856	https://sketchfab.com/models/be0ce4b6158842af8b070b37019ba125/embed?autospin=0.2&autostart=1
+node	12182729858	https://sketchfab.com/models/87517206692740e38233b719e4a49a16/embed?autospin=0.2&autostart=1
+node	12182729860	https://sketchfab.com/models/fa0ba37475a84e24864fc52147917845/embed?autospin=0.2&autostart=1
 way	59167755	http://www.erg.it/homeEN/business/RefiningMarketing/refining/sarpomRefinery.html
 way	70044283	"https://openstreetcam.org/map/@45.692245515194244,8.471601605415346,18z"
 way	75614681	http://www.rifugiogenova.it/
@@ -12060,6 +12077,7 @@ relation	13852495	https://percorsi.estmonterosa.it/g/G00(1).kmz
 relation	13852506	https://percorsi.estmonterosa.it/g/G00(1).kmz
 relation	13852514	https://percorsi.estmonterosa.it/g/G00(3).kmz
 relation	13852520	https://percorsi.estmonterosa.it/g/G00(4)/G00(4).kml
+relation	13900418	https://percorsi.estmonterosa.it/g/G04/G04.kml
 relation	13903283	https://percorsi.estmonterosa.it/l/L98/L98.kml
 relation	13929214	https://percorsi.estmonterosa.it/g/G36/G36.kml
 relation	13929242	https://percorsi.estmonterosa.it/g/G38/G38.kml
