@@ -385,7 +385,6 @@ node	3635891401	https://www.campeggiofrassanito.com/
 node	3653275425	https://www.poste.it/
 node	3677073225	http://www.oasidellapace.org/
 node	3691224730	https://www.hosteriadelpardo.it/
-node	3693191925	www.birrificiomalatesta.it
 node	3704993486	http://paninidimare.it
 node	3710895960	https://www.divingservice.it/
 node	3731013374	http://www.villajamele.it/
@@ -989,6 +988,7 @@ node	6402491685	http://www.mobydicklibriegiochi.it/
 node	6404570942	http://www.acquapazzabeb.it/
 node	6410900559	https://www.relaxvacanza.it/
 node	6410924961	https://www.ogliarolagarganica.it/
+node	6412044240	https://www.aurigaspa.com
 node	6420852353	https://www.tripadvisor.com/Restaurant_Review-g194820-d3346735-Reviews-Dal_Saraceno-Mattinata_Province_of_Foggia_Puglia.html
 node	6421427809	https://www.sixt.it/
 node	6421427812	https://www.autovia.it
@@ -1206,7 +1206,6 @@ node	7525612054	www.dexter.com;www.expresswash.it
 node	7537161858	http://www.farmaciadellelamie.it
 node	7537161859	http://www.braceriadamimmo.it/
 node	7540248300	https://www.comune.taranto.it/index.php/elenco-aree-tematiche/ambiente-e-territorio/segnalazioni-verde-pubblico
-node	7552597054	www.quartosalento.it
 node	7614790172	https://www.stilgrafic.it
 node	7625035963	http://cartapulia.it/web/guest/dettaglio?id=113972
 node	7644587763	https://tbike-srl.webnode.it/
@@ -1772,6 +1771,7 @@ node	9964394273	https://videogamestime.com/
 node	9964394276	www.blukids.it
 node	9964394277	https://www.allscent.it/
 node	9964394280	https://www.piazzaitalia.it/
+node	9967223829	https://www.smichcafe.it/
 node	9967765251	https://www.repower.com/it/dina/
 node	9981477233	https://m.facebook.com/profile.php?id=100063692342810
 node	9981560244	https://centrostoricoputignano.it/chiese/9-chiesa-di-san-lorenzo.html
@@ -1868,7 +1868,6 @@ node	10611446113	https://www.asdcontemporanea.it/
 node	10649916637	https://giome.it/
 node	10654128528	http://www.arkgeo.it
 node	10665715497	https://www.lespecchie.com/
-node	10694687770	pizzerialatorregalatina.it
 node	10718622898	https://www.vrbo.com/it-it/affitto-vacanze/p8083860
 node	10722200880	https://palazzoarcocadura.it/
 node	10723541809	https://restaurantguru.it/Paninoteca-Gnam-Gnam-Francavilla-Fontana
@@ -2464,6 +2463,7 @@ node	12110480808	https://covellapasticceri.it
 node	12110480809	https://covellapasticceri.it
 node	12110823688	https://bioslab.net/
 node	12110823690	https://www.hairchicnadiabrunetta.it/
+node	12111046011	https://www.planetcomputerbari.it/
 node	12112405910	https://www.alwayscoffee.it/
 node	12112910172	http://www.lalunghiera.it/
 node	12117961904	yamamay.com
@@ -2498,6 +2498,10 @@ node	12168693050	https://bioslab.net/
 node	12168693061	https://egoitalianostore.com/bitonto/
 node	12175173696	https://www.wood-evolution.it/
 node	12175173697	https://piscinebluproject.it/
+node	12180699307	https://www.stradeanas.it/it/struttura-territoriale-puglia
+node	12183699750	https://www.studiodentisticogiannuzzi.it/
+node	12192252723	https://www.leonardobasile.it/index.htm
+node	12192747677	https://www.asteriaspace.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
@@ -2628,12 +2632,9 @@ way	290006329	https://www.hotelcotedest.it/
 way	295800471	https://www.barbarredi.it/
 way	296282157	https://www.tenutamascarini.it
 way	296746702	https://castellana.indianapark.it/
-way	297194064	comune.cavallino.le.it
-way	297194094	teatroilducale.it
 way	297194545	https://www.comboniani.org/?page_id=117
 way	297195481	https://www.globomoda.com/
 way	297196005	https://www.mondoconv.it/
-way	297196937	www.md-discount.it
 way	297197714	https://centrocommercialecavallino.it/
 way	297198082	https://www.hostariarete.it/
 way	297449664	https://www.centromongolfieralecce.it
@@ -2909,7 +2910,6 @@ way	412167074	https://palazzofizzarotti.com/
 way	412526220	https://portosantospirito.it/
 way	412527254	https://malanghino.it/
 way	412528763	https://bolasulmare.it/
-way	412528783	https://www.studiodentisticogiannuzzi.it/
 way	412529117	https://www.ristorantelaragostabari.com/
 way	412715106	https://www.montecosrl.it/
 way	413944453	https://www.pianetaostuni.it/index.php/18-chiese-rurali/562-soluco-24
@@ -3021,7 +3021,6 @@ way	421199151	https://www.pianetaostuni.it/index.php/18-chiese-rurali/568-soluco
 way	421199669	https://www.pianetaostuni.it/index.php/masserie/tutte/89-rosa-marina-grande
 way	421368446	https://www.istcompmazzini.edu.it/
 way	421379464	http://www.arcobalento.it
-way	421384489	torchiarolo.gov.it
 way	421520990	http://www.secondocomprensivofrancavillafontana.gov.it
 way	421555909	https://www.iissferdinando.edu.it/
 way	421556642	https://m.facebook.com/fgmsrl/
@@ -3300,7 +3299,7 @@ way	548730986	http://www.montirohotel.com
 way	548816584	https://www.lapinetadeicavalli.it/
 way	549020021	https://www.calapontehotel.com/
 way	549031871	https://www.echidipuglia.it/
-way	549615609	https://www.penny.it/?utm_source=google&utm_medium=organic&utm_campaign=gmb-30601
+way	549615609	https://www.penny.it/
 way	551310758	www.villabaronesrl.it
 way	552133082	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/48641
 way	552849954	https://www.pugliaoutlet.it/
@@ -3387,8 +3386,6 @@ way	747003691	https://www.agrimatsalento.com/
 way	753746558	https://www.teatrocrest.it/
 way	760239726	https://camperlife.it/zapponeta-beach.html
 way	766518016	https://www.rossotono.it/punti-vendita/1480/camillo-rosalba-bari/
-way	769416558	iccavallino.gov.it
-way	769424574	iccavallino.gov.it
 way	769768290	http://www.liceolilla.it
 way	777800980	https://www.tribunale.bari.giustizia.it/
 way	779340548	http://www.itdeleddalecce.gov.it
@@ -3518,6 +3515,7 @@ way	1185637206	https://santocielostuni.it/
 way	1188173319	https://www.casaisabella.it/
 way	1188724861	https://centro-sportivo-enzo-tagliente.business.site/
 way	1188871793	https://cartapulia.it/dettaglio?id=132500
+way	1190404907	https://lavaggioeparcheggiodaniele.it/
 way	1191879044	https://www.borgoducale.it/
 way	1191893479	https://www.residenceelena.it/
 way	1192823985	https://www.residencetramonti.com/
@@ -3618,6 +3616,7 @@ way	1312800747	https://www.terranobile.it/hotel/
 way	1314422931	https://www.greenparksport.it/
 way	1315299209	https://www.footballitalia.it/
 way	1315760199	https://donazionecarmi.it/?fbclid=IwY2xjawFUCUNleHRuA2FlbQIxMAABHRMbixy9kTXUP5nwVpob_ShdgvMlv7wy1pQAoKN-o1wH05WeZGWL-lIBHA_aem_jJcl9-UE5GhzCVHaTRuOBw
+way	1317023776	https://www.laperladelsur.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -3670,7 +3669,6 @@ relation	6279081	https://www.nuovoteatroverdi.com/
 relation	6299271	http://castellaneta.gov.it/
 relation	6301958	https://www.sanita.puglia.it/web/asl-taranto/ospedali_det/-/journal_content/56/36057/presidio-ospedaliero-orienta-1
 relation	6309364	http://www.webdiocesi.chiesacattolica.it
-relation	6323267	www.castellomonaci.it
 relation	6330901	https://cdshotels.it/grand-hotel-riviera/
 relation	6418568	https://www.sentierinelparco.it/sentieri/f01sentiero-del-nemico/
 relation	6449811	https://www.rivadiugento.it/
@@ -3799,6 +3797,7 @@ relation	17910942	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itin
 relation	17911780	https://www.liceoarchita.edu.it/
 relation	17950387	http://asset.regione.puglia.it/
 relation	17953761	asset.regione.puglia.it
+relation	18073736	https://www.levantesportcenter.it/
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
@@ -3838,8 +3837,8 @@ node	7417880485	http://www.portasanmicheleaffittacamere.it
 node	7442887731	https://www.facebook.com/Il-Salu-Mino-raffinatezze-enogastronomiche-116495698473555
 node	7644063485	https://www.comune.martinafranca.ta.it
 node	7790470041	https://www.museomele.it/
-node	7836994387	infolecce.it
-node	7837345885	spinelcaffe.it
+node	7836994387	https://infolecce.it
+node	7837345885	https://spinelcaffe.it
 node	7888362949	https://www.facebook.com/ilgiocodeisensi.terlizzi/
 node	7889613121	https://m.facebook.com/Bar-Castello-609947772372214/
 node	8005881934	https://www.fondazionedepaloungaro.it
@@ -3876,6 +3875,7 @@ node	10032371712	https://www.featsrl.it/
 node	10033463542	http://www.ilgiardinodeibimbiterlizzi.it/
 node	10281875910	https://www.vitruviosrl.com/
 node	10542776817	https://www.trmtv.it
+node	10694687770	https://pizzerialatorregalatina.it
 node	11076679870	https://www.cittadelsole.it/companies/view/alberobello
 node	11100118525	https://www.lecarasse.it/
 node	11108033584	https://www.dantedivinoconvivio.com/
@@ -3908,6 +3908,8 @@ way	148789446	http://www.aeroclubbrindisi.it/
 way	186273199	https://www.liceisylosfiore.edu.it
 way	211340871	http://www.teatrotendaduelune.org
 way	246786944	http://musei.beniculturali.it/musei?mid=879&nome=castello-di-copertino
+way	297194064	https://www.comune.cavallino.le.it/
+way	297196937	https://www.mdspa.it/
 way	298867779	https://linktr.ee/monkeyclub.lecce
 way	299999568	https://fondoambiente.it/luoghi/abbazia-di-santa-maria-di-cerrate
 way	322135529	https://www.viaggiareinpuglia.it/at/13/areaarcheologica/3687/it/Parco-archeologico-Li-Castelli-San-Pancrazio-Salentino-(Brindisi)
@@ -3931,6 +3933,7 @@ way	409204294	https://www.teatropubblicopugliese.it/teatro/teatro-traetta-2/
 way	410174105	https://www.truddhi.com/
 way	417998216	https://www.baritours.it
 way	420406610	https://linktr.ee/amenil
+way	421384489	https://www.comune.torchiarolo.br.it/
 way	421899763	https://anticotrulloulmo.wordpress.com/
 way	424155867	http://www.comune.torricella.ta.it/
 way	424451299	https://www.carabinieri.it/
@@ -3950,6 +3953,8 @@ way	635944214	http://www.hotelrivabella.it
 way	715690847	https://www.famila.it/punti-vendita/puglia/famila-giovinazzo
 way	729540430	https://www.santuariosanmichele.it/
 way	762293547	https://www.mcdonalds.it/
+way	769416558	https://iccavallino.edu.it/
+way	769424574	https://iccavallino.edu.it/
 way	999975302	https://www.agrisafrapuglia.com/
 way	1053303943	https://www.procivmarittima.it/
 way	1070593441	https://www.lidl.it/
@@ -3970,6 +3975,7 @@ way	1300404664	https://www.masseriafulcignano.com/
 relation	3536823	http://www.comune.bari.it
 relation	4041429	https://www.conventosantuariopadrepio.it/
 relation	5724434	http://www.comune.taranto.it/
+relation	6323267	http://www.castellomonaci.it
 relation	7163382	http://www.cinemateatririuniti.com/italia/
 relation	15341788	https://www.diocesimanfredonia.it/
 relation	17997487	https://www.diocesinardogallipoli.it/
