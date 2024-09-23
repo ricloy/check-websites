@@ -235,6 +235,7 @@ node	430542570	https://www.labucaristorante.com/
 node	433989648	http://www.icspallanzani.it
 node	433989649	https://www.comune.scandiano.re.it/istituzione-servizi-educativi-e-scolastici/nido-dinfanzia-a-leoni/
 node	440835655	https://www.ristorantealcavallinobianco.it/
+node	441919303	https://www.tramvai.eu/ristorante-fidenza-tramvai
 node	445496654	https://www.caibo.it/
 node	445496658	https://www.caibo.it/
 node	445846594	https://icboiardo.edu.it/
@@ -1025,12 +1026,12 @@ node	2657354177	http://www.trattoriailcucco.it/
 node	2660516709	https://www.guidottiofficinadelgusto.com/
 node	2661281094	http://www.isoladelsasso.it
 node	2661379862	https://almatek.eu/
+node	2663516152	https://www.caibo.it
 node	2665772955	https://ipiaceridilucrezia.vpsite.it/
 node	2665772959	www.ristoranteilgaleotto.com/
 node	2678590012	http://www.cdltre.it
 node	2682235034	http://www.birrazimella.com
 node	2688147195	https://www.facebook.com/lamoraapurocielo
-node	2689398963	https://www.radicidesign.com/
 node	2689606031	https://www.setaweb.it/
 node	2689618190	https://www.scuolaimpullitti.it/
 node	2696372130	http://www.makipub.it/
@@ -1658,6 +1659,7 @@ node	4212534902	https://www.romagnaest.it/
 node	4212610535	https://www.poste.it/
 node	4213157497	http://www.beachotels.it
 node	4215273044	https://www.mgstudiocondomini.it/
+node	4217073597	http://www.ristoranteillupo.it
 node	4217340725	https://www.elenamiro.com/it/negozio?storeid=42089
 node	4219235558	http://prolocomontegridolfo.altervista.org/index.html
 node	4223556332	http://www.piadinaedintorni.it/
@@ -2149,7 +2151,7 @@ node	4690641622	https://www.hm.com/
 node	4690645928	http://www.tonicpub.it/
 node	4690647292	https://www.loveitalianfish.it
 node	4690649259	https://zara.com/
-node	4690649338	http://www.trattoriarigoletto.it/
+node	4690649338	https://www.trattoriarigoletto.it/
 node	4690707594	https://yves-rocher.it/
 node	4690714401	https://www.tigota.it/
 node	4690726303	limoni.it
@@ -2170,6 +2172,7 @@ node	4712419279	https://www.locorestaurant.it/
 node	4712419660	https://www.sanfelice1893.it/sedi/modena-b
 node	4712420261	https://www.centroacusticoitaliano.com/modena/
 node	4712420533	https://www.negresco.it/negresco_modena/locale.html
+node	4712422267	http://www.villadorocalcio.it/
 node	4712423021	https://www.amplifon.com/it/cerca-centro-amplifon/apparecchi-acustici-modena/amplifon-via-emilia-est-s34
 node	4712423921	https://www.dispensaemilia.it/it/
 node	4712426058	https://www.coccoledisale.it/
@@ -2271,6 +2274,7 @@ node	4712537776	https://www.bbquartopiano.it/
 node	4712539601	https://www.idissonanti.it/
 node	4712540270	https://www.poliambulatoriocentroalfa.com/
 node	4712540280	https://www.dentistimartintoniserafin.com/
+node	4712541720	http://www.ohmodena.it/
 node	4712542571	https://makeitmodena.it
 node	4712543569	https://la-brusca.business.site/
 node	4712547021	https://www.ferrari-computers.com
@@ -5397,7 +5401,6 @@ node	11527676176	https://www.siae.it/it/
 node	11539730113	https://cic-computer.it/
 node	11540123856	https://www.zga.srl/
 node	11540666657	https://www.doctoramen.it/
-node	11547054329	https://www.manopoke.com/
 node	11547984211	https://www.caibo.it/
 node	11547984212	https://www.caibo.it/
 node	11549049063	https://www.palestrabuenavida.it/
@@ -5746,7 +5749,7 @@ node	12158365247	https://hotellitz.it
 node	12158365248	https://it-it.facebook.com/La-Buratella-630972797067317/
 node	12158365249	http://www.albergolucy.it/
 node	12158365250	http://www.hotelridens.it/
-node	12165203025	http://www.pidaza.it/
+node	12165203025	https://www.pidaza.it/
 node	12168280526	http://vinco.altervista.org/
 node	12168470254	https://www.oasilarizza.it/it-it/visite/rubriche/ristorante-oasi-la-rizza-3408-1-5e7690dc4bb242d54a822f725baf3fa4
 node	12169442098	https://www.ipanettieririmini.com/
@@ -5761,6 +5764,9 @@ node	12177921519	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/6
 node	12178648722	https://baiocc.com
 node	12179788852	https://www.elitebijoux.it/
 node	12180081066	https://geo.regione.emilia-romagna.it/schede/geositi/scheda.jsp?id=1202
+node	12182356721	https://www.caibo.it
+node	12182356722	https://www.caibo.it
+node	12185021522	https://www.layogurteria.it/
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	https://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -5990,6 +5996,7 @@ way	149036937	https://www.astor-hotel.it/
 way	149066751	https://www.daimoners.eu/
 way	149067271	https://www.crea.gov.it
 way	149135721	https://www.gruppouna.it/unahotels/unahotels-bologna-fiera
+way	149135806	https://teatroeuropa.it/
 way	149136107	https://itfarma.it/
 way	149169332	https://atlanticacesenatico.com/
 way	149175114	http://www.fiorano.it/Turismo/salse%20nirano/ri/ecomuseo.htm
@@ -7610,6 +7617,7 @@ way	1312458459	https://www.scuolemarconi.edu.it/
 way	1312511288	https://www.fondazionemarcosimoncelli.it/view/casa-marco-simoncelli-coriano
 way	1313678900	https://agriturismolastadera.it/
 way	1315001065	https://www.tatihotel.it
+way	1316589220	https://www.castellidelducato.it/castellidelducato/area-camper.asp?el=nuova-area-camper
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42855	http://www.comunecamugnano.gov.it/
 relation	42901	https://www.comune.casteldicasio.bo.it/
@@ -7887,7 +7895,7 @@ relation	3494744	https://ambiente.regione.emilia-romagna.it/parchi-natura2000/re
 relation	3497980	http://www.parcofrignano.it/
 relation	3500659	http://ambiente.regione.emilia-romagna.it/parchi-natura2000/aree-protette/parchi/lago
 relation	3502111	http://www.parcosassi.it/
-relation	3503470	https://ambiente.regione.emilia-romagna.it/parchi-natura2000/aree-protette/parchi/pnte
+relation	3503470	https://www.parcoappennino.it/
 relation	3510569	https://ambiente.regione.emilia-romagna.it/parchi-natura2000/rete-natura-2000
 relation	3510570	https://ambiente.regione.emilia-romagna.it/parchi-natura2000/rete-natura-2000
 relation	3510853	https://enteparchi.bo.it/parco.abbazia.monteveglio/
@@ -8823,7 +8831,6 @@ relation	14602339	http://www.viavandelli.com/
 relation	14610349	http://www.viavandelli.com/
 relation	14610748	http://www.viavandelli.com/
 relation	14618111	https://www.isoladeglispinaroni.it/
-relation	14630021	http://www.viavandelli.com/
 relation	14711760	https://www.bicipolitanabolognese.it/linee_per_tutti_i_giorni/T4_esterna_imola
 relation	14735141	https://www.caiparma.it/
 relation	14758068	https://sentierodeltidone.eu
