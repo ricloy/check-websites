@@ -1237,7 +1237,7 @@ node	4127952190	https://www.mormon.org/
 node	4128688358	https://museodelrisorgimentotrieste.it/
 node	4159072400	https://www.volpepasini.it/
 node	4161503248	https://www.fluidofiume.com/
-node	4161917815	http://www.laciacolada.it
+node	4161917815	https://www.laciacolada.com/
 node	4163761478	https://instralonga.wixsite.com/menu
 node	4170982504	https://www.piedimont.it/
 node	4177309586	https://charly.bedsandhotels.com/
@@ -2645,11 +2645,12 @@ node	12167813495	https://www.protezionecivile.fvg.it/it/comune/premariacco
 node	12167824462	https://www.protezionecivile.fvg.it/it/comune/precenicco
 node	12167834309	https://www.poliziamunicipale.it/comune/1562/chiusaforte
 node	12167834310	https://www.poliziamunicipale.it/comune/1927/sappada
-node	12168167435	http://www.anticaghiacceretta.com/
+node	12168167435	https://anticaghiacceretta.com/
 node	12169714276	https://www.ilvagabondoresort.it/
 node	12169714278	https://www.aziendaagricolasioni.com/
 node	12169714298	https://marinadanieli.estate/azienda-agricola/
 node	12174404989	https://emalab.it/
+node	12183545008	https://www.eye-tech.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2746,6 +2747,7 @@ way	36052390	https://www.cividale.com/it/il_rifugio_pelizzo
 way	36052562	https://locandalaserenissima.com/
 way	36054157	https://www.casavalcellina.it/it
 way	36057183	https://www.bottegone.eu
+way	36057975	https://www.lefacchine-aviano.it/
 way	36058081	https://www.villapolicreti.it/de/lhotel/
 way	36058210	https://allochalet.com/
 way	36059115	https://www.facebook.com/pages/Agriturismo-Le-Volte/124156847746730
@@ -2916,7 +2918,6 @@ way	36398259	https://bigbenpub.eu/
 way	36398333	https://www.conad.it/
 way	36398843	https://www.allavalledibanne.it/
 way	36399682	https://villabottacin.com/
-way	36400037	https://www.teatrosangiovannits.it/
 way	36400726	https://www.novaspa.to/SchedaImmobili.aspx?ID=6
 way	36401156	https://sestacircoscrizione.comune.trieste.it/
 way	36402251	http://www.biennaletrieste.it
@@ -3671,7 +3672,6 @@ way	1225180773	http://zucchettovini.it/
 way	1239902628	https://www.elettrosanvitese.it/
 way	1241226336	http://www.bottosso.eu/
 way	1242961557	https://refoscollection.it/
-way	1259214718	https://www.marinapuntafaro.it/de/index.aspx
 way	1259726230	https://www.curaticonstile.it/it/percorso/800/cimolais-pian_fontana-valle_dei_cantoni-forcella_compol-forcella_dei_cantoni-cima_dei_pret.html
 way	1271152279	https://www.marinatimavo.com/pesca-turismo-trieste-la-canociada/
 way	1274476400	https://www.newstarwood.com/
@@ -3680,7 +3680,6 @@ way	1277073365	https://nuovagema.it/
 way	1278258175	http://www.lacortedeivizi.it/it/
 way	1282017022	https://www.erediquerin.com/
 way	1285141836	https://lignanosabbiadoro.it/it/strutture/bike-point-lignano-sabbiadoro-gestioni/
-way	1285141837	https://lignanosabbiadoro.it/it/esperienze/concerti-sotto-le-stelle/
 way	1285141838	https://lignanosabbiadoro.it/it/strutture/wind-village/
 way	1285141839	https://lignanosabbiadoro.it/it/strutture/sabbiadoro-area-vip-7/
 way	1285142894	https://lignanosabbiadoro.it/it/strutture/palestra-technogym/
@@ -3713,6 +3712,10 @@ way	1305914614	https://www.protezionecivile.fvg.it/it/comune/marano-lagunare
 way	1306355620	https://clubevolution.it/
 way	1311558111	https://www.lalunaimpresasociale.it/
 way	1314300559	https://www.facebook.com/daarmen/?locale=it_IT
+way	1316400768	https://www.teatrosangiovannits.it/
+way	1317001814	http://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320011.pdf
+way	1317214996	http://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320002.pdf
+way	1317597009	https://www.marinapuntafaro.it/de/index.aspx
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4000,6 +4003,7 @@ relation	1526505	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settor
 relation	1554500	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-077
 relation	1554501	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-072
 relation	1587644	https://www.comune.duino-aurisina.ts.it/
+relation	1699148	https://www.stat.si/obcine/Region/Index/11
 relation	1730704	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-662
 relation	1777257	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-713
 relation	1777290	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/s5-516
@@ -5032,6 +5036,8 @@ relation	17989425	https://camminodellepievi.it/tappe/quindicesima-tappa/
 relation	17989470	https://camminodellepievi.it/tappe/sedicesima-tappa/
 relation	18024760	https://ropewiki.com/Poschiadea
 relation	18024761	https://ropewiki.com/Negro_(Pordenone)
+relation	18075030	http://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320001.pdf
+relation	18075221	http://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA142/allegati/formularioStandard_SIC_IT3310013torrenteArzino.pdf
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
@@ -5706,3 +5712,4 @@ relation	13921837	www.montanevie.it
 relation	16284554	https://www.archeocartafvg.it/portfolio-articoli/verzegnis-ud-colle-mazeit-un-insediamento-pluristratificato/
 relation	17051650	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=158&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 relation	17507786	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=16&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
+relation	18074070	www.montanevie.it
