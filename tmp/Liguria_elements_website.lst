@@ -432,6 +432,7 @@ node	2338474472	http://www.boulderfactory.it
 node	2340570166	http://www.ferasrl.it/progetto/naso-di-gatto/
 node	2340573902	http://www.ferasrl.it/progetto/naso-di-gatto/
 node	2340580970	http://www.ferasrl.it/progetto/cairo-montenotte/
+node	2341814881	https://www.repower.com/it/dina/
 node	2342490907	https://www.galleriadelcastelloimperia.com/
 node	2354247166	http://www.perladellevanteframura.it
 node	2356302749	https://www.pintori.net/
@@ -1140,6 +1141,7 @@ node	5133060236	https://www.ilcadraio.it/
 node	5137413079	https://www.accademiadelleartimagiche.com/
 node	5139914280	https://www.oboteco.it/
 node	5153718524	http://www.palestragymnasium.it/
+node	5153718586	https://www.pizzaasportochiavari.it/
 node	5154138075	https://www.ilponteimmobiliare.it/
 node	5154138083	www.ristorantefiloverde.it
 node	5159258804	https://www.airbnb.it/rooms/12938248?s=51
@@ -2049,6 +2051,7 @@ node	10117192326	https://ristorantesalvocacciatori.it/
 node	10117192337	https://www.elviocampi.it/
 node	10117192339	https://www.ristrutturapoint.it
 node	10117192345	https://www.essevuelettronica.it
+node	10117212277	https://www.touringclubimperia.it/
 node	10118757595	https://bianalisi.it
 node	10119247709	https://www.dallapadellallabrace.com
 node	10119281633	https://www.fenoggio.it/
@@ -2085,7 +2088,6 @@ node	10304140976	https://www.cittadeibambini.net/
 node	10309107947	https://www.dimegliosupermercati.com/
 node	10556531673	https://www.alleortiche.it/
 node	10557119878	https://www.mariapaolaconte.it/
-node	10566221417	https://www.oasidelbelvivere.it/
 node	10571178044	https://www.mcdonalds.it/ristorante/liguria/genova/genova-piazza-principe-stazione
 node	10576715034	https://ionity.eu/
 node	10576715035	https://ionity.eu/
@@ -2173,6 +2175,7 @@ node	11102104244	https://www.repower.com/it/dina/
 node	11106956915	https://www.repower.com/it/dina/
 node	11106976385	https://www.repower.com/it/dina/
 node	11108144601	http://www.larosacanina.net/
+node	11111150302	https://www.tigota.it/negozi/023116
 node	11121542197	https://www.marketjosedespar.it/
 node	11125583793	https://www.creostoregenova.it/
 node	11125583799	https://smart.comune.genova.it/uffici/distretto-iii-sezione-marassi-41%C2%B0
@@ -2309,6 +2312,7 @@ node	11521709193	https://www.sibillaviaxx.com
 node	11528593141	https://www.manpower.it
 node	11531678796	https://www.unoenergy.it
 node	11531678800	https://bottegaisnardi.it
+node	11531678801	https://imperia.ubiklibri.it
 node	11531678802	https://www.threemonkeys3m.com
 node	11534737171	http://www.spaziovuoto.com/
 node	11534894648	https://www.artificioimperia.it/
@@ -2392,6 +2396,7 @@ node	11640858559	https://vivaidevoto.com/
 node	11658016953	https://www.orologeriaoreficeriagiacomobruni.it
 node	11663512707	https://www.confael.net/imperia/
 node	11663512712	https://city-lab.it/app/lab-21-6/
+node	11663512714	www.happyprintimperia.it
 node	11682648625	https://parconaturalealpiliguri.it/
 node	11682648626	https://parconaturalealpiliguri.it/
 node	11682648628	http://nfelettronica.it/
@@ -2462,11 +2467,13 @@ node	12149701788	https://vecchiosito.comune.arenzano.ge.it/uploads/images/webcam
 node	12153012762	https://www.monumentaltrees.com/es/ita/liguria/imperia/23369_parcomarsaglia/
 node	12153051797	https://www.monumentaltrees.com/es/ita/liguria/genova/13881_villagroppallo/34406/
 node	12155040789	http://www.yutakasushi.it/
-node	12165253991	www.paololavezzari.it
+node	12165253991	https://www.paololavezzari.it/
 node	12170760956	https://www.talkingstones.it/
 node	12170760959	https://villacollarea.it
 node	12170760962	https://liguriaestate.com
 node	12171296548	https://www.mercitaliarail.it/
+node	12182608701	https://babeufsanremo.com/
+node	12184249432	https://nightgalleria.com/ng-liguria-cinque-terre
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2555,6 +2562,7 @@ way	107716422	http://www.irolli.it/genova_unesco/palazzo/via_cairoli_18.html=1
 way	108760246	https://www.sorrisofrancescano.org/
 way	109787202	https://www.portopetroli.com/
 way	110183243	http://www.fincantieri.it/
+way	110980430	http://www.liguriavincoli.it/SchedaVincoli.asp?VINCOLO=VINC_V_STO_ART_P&CODICE=07/00108377
 way	114406955	https://www.golfclubalbisola.it/index.html
 way	115986374	https://www.carraraonline.com/castello-di-coderone.html
 way	117976870	https://www.icsassello.edu.it/
@@ -2629,6 +2637,7 @@ way	184120326	https://www.villaggiodeifiori.it/
 way	185536865	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII176749
 way	188747026	http://www.ecg-genova.eu
 way	190067605	www.comprensivoquezzi.it/
+way	190611112	https://www.campingporlamar.com/
 way	195587323	https://giardinihanbury.com/
 way	200437784	https://paraggi.eighthotels.it/
 way	200438108	https://www.castellobrown.com/index.php
@@ -2999,10 +3008,12 @@ way	367779673	http://www.fortezzafirmafede.it
 way	373093549	http://www.lipu.it/oasi-di-arcola-spezia
 way	373179593	https://www.buoncanile.it/
 way	374882378	https://www.facebook.com/roseto.patrucco/
+way	375462717	https://www.facebook.com/senatoparklerici/?locale=it_IT
 way	376242708	http://www.comuneosiglia.it/Home/Guida-al-paese?IDDettaglio=33496
 way	376669045	https://www.provincia.savona.it/strade/sp28bis
 way	376669046	https://www.provincia.savona.it/strade/sp28bis
 way	377607985	https://www.comune.spotorno.sv.it/
+way	378942658	https://www.facebook.com/p/Camping-da-Gianni-100069210408929/
 way	379778076	http://www.akuadaoscar.it/
 way	381246790	http://www.scolmatorefereggiano.it/
 way	388138282	https://www.pons.it/
@@ -3026,6 +3037,7 @@ way	430073709	http://www.acquadellaroccia.it/
 way	430077629	https://www.parcovacanzelavedetta.it/
 way	430206446	http://www.ar-nav.it/
 way	430206447	https://www.marina3b.it/
+way	430206448	https://www.marina3b.it/it
 way	430206449	http://www.portoboccadimagra.it
 way	430779526	https://www.intermarine.it/
 way	430790711	https://www.campeggiolefontanelle.it/
@@ -3254,13 +3266,16 @@ way	1302818475	http://www.cartografiarl.regione.liguria.it/mapfiles/info/reperto
 way	1312686094	https://www.campingdeifiorialbenga.it/
 way	1312808724	https://www.campingmiramare.im.it/
 way	1313064103	https://www.campingsantavittoria.com/
+way	1316221651	https://www.agricampeggiocaromeo.it/
+way	1316226040	http://www.campingriver.com
+way	1316394586	https://www.oasidelbelvivere.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
 relation	334891	https://www.viefrancigene.org
 relation	414151	https://www.parcoportofino.it/
-relation	955907	http://www.viefrancigene.org
+relation	955907	https://www.viefrancigene.org/
 relation	1114296	https://www.caiparma.it/
 relation	1114311	https://www.caiparma.it/
 relation	1114312	https://www.caiparma.it/
@@ -3878,12 +3893,12 @@ node	11913296265	https://negozi.libraccio.it/
 node	11954263979	https://www.ilsognoimmobiliare.it
 node	11960108596	https://www.technipackgenova.com
 node	11978319726	https://garagesanroccofirriolo.trovaweb.net/
+node	12193025664	www.bbfiume.it
 way	134211659	http://www.celtorretta.it/
 way	202465238	www.cascinastra.it/
 way	202604851	http://www.palabeachvillage.it/
 way	225228057	www.claspesto.com
 way	225443643	http://www.rivieratrasporti.it/
-way	226589814	www.bbfiume.it
 way	230769914	https://www.cartieragrillo.net/
 way	342151132	http://www.promo-sport.it/
 way	379055920	http://www.parcomarguareis.it/
@@ -6662,6 +6677,7 @@ node	5928916678	http://www.catastogrotte.net/liguria/en/caves/view/2129/
 node	6007214804	http://www.bicincitta.com/
 node	7207039700	https://youtu.be/brY7dwJeeks
 node	7308420649	https://genova.repubblica.it/cronaca/2020/03/18/news/al_castello_d_albertis_ritorna_a_posto_il_mondo-251619155/
+node	7752731386	https://sketchfab.com/models/8e4014d52e70464ab7fd7cf6c632551f/embed?autospin=0.2&autostart=1
 node	8044075911	http://www.amt.genova.it/orari/orari.asp
 node	8059626946	https://www.atpesercizio.it/cartina2.php?sez=M
 node	8149320572	https://www.thecrag.com/climbing/italy/albenga
