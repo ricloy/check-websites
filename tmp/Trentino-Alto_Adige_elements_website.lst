@@ -118,6 +118,7 @@ node	356008379	http://cribolzano.it/
 node	356294277	https://www.gemeinde.stchristina.bz.it/
 node	356953025	https://www.valgardena.it/en/bus-schedule/
 node	358841673	http://www.pizzeria-weinstrasse.it/
+node	363791505	http://www.hotellorenz.com/
 node	363791508	www.gossensass.org
 node	365499674	https://pizzerianoformat.it/
 node	366201674	https://www.berghotel-zirm.com/
@@ -289,7 +290,6 @@ node	582643167	http://www.atv-terlan.it/
 node	597731156	https://www.valgardena.it/de/adressen-groeden/detail/base/company/wolkenstein-groeden/pra-valentini/E57831A1ADFAD84CD25A0B5FABBAB110/?RequestKey=170789741965cc724b50348
 node	597731160	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/garni-hotel-dolomieu-nevada-wellness-spa/C0DF981376D911D18F2900A02427D15E/
 node	599751168	https://www.casartisti.it/
-node	602491481	www.rg-me.it
 node	604974291	https://www.rifugiorefavaie.com/
 node	605016526	https://www.tirolerhof-hotel.it/
 node	610205153	https://www.alpenroyal.com/
@@ -444,6 +444,7 @@ node	851097583	https://www.panificiomoderno.net/
 node	853801236	https://www.bellezzastudio.eu/
 node	853801468	www.soluzionecasa.tn.it
 node	853824031	https://it-it.facebook.com/dologno/
+node	856344533	http://www.moarwirt.com/
 node	857491163	http://www.rotwandwiesenhuette.it/de/
 node	859560045	https://mavisloungeburger.it
 node	860926043	https://www.hotelhuber.com/
@@ -777,7 +778,6 @@ node	1626048446	https://www.klammerhof.com
 node	1631831499	https://www.miorellishop.it
 node	1633167987	https://www.ildolomiti.it/
 node	1636849149	https://www.valgardena.it/en/addresses/detail/base/company/ortisei-val-gardena/haiti/939D44E8A50147CDA500C65DC57ACD97/
-node	1640534539	https://www.tfo-bruneck.it/
 node	1644488527	https://verticalsport.it/
 node	1645418106	https://www.kleinermontigglersee.com/
 node	1653040440	http://www.anjoka.it/conad-st-lorenzen/
@@ -1441,6 +1441,7 @@ node	2637542263	http://www.confcooperativebolzano.it/
 node	2639922034	http://feilerhof.it
 node	2642535988	https://www.weltladen.bz.it/weltladen-bozen-suedtirolstrasse/
 node	2645775997	https://www.fmach.it/Servizi-Generali/Biblioteca
+node	2651663606	http://www.ecomuseodolomitipiave.eu/Pagine/DravaPiave_01/pagine_dobbiaco/7_fornifusori_deu.html
 node	2656691408	https://www.vetbz.it/
 node	2663609026	https://www.regglbergerhof.com/
 node	2673049595	https://www.hotel-muehlwald.it/de/hotel-tauferer-ahrntal/1-0.html
@@ -1949,6 +1950,7 @@ node	2756022567	https://www.casaperferieeuropa.it/
 node	2756025123	https://www.hotel-urthaler.com/
 node	2756025928	https://pizzeria-hans.com/
 node	2756025933	https://gasthof-albergo-alpenrose.business.site/
+node	2756026409	https://rynnhof.com
 node	2756027044	http://www.gwuerzerkeller.com/
 node	2756027198	https://www.carabinieri.it/
 node	2756027745	https://www.gemeinde.tramin.bz.it/de/Apotheke_Tramin
@@ -2017,6 +2019,7 @@ node	2756057812	https://www.stephanshof.com
 node	2756060359	https://www.zans.it/
 node	2756060727	https://www.hilber.biz/
 node	2756060863	https://www.halslhuette.it/de
+node	2756062231	https://www.pichlerhof-pfunders.com/
 node	2756067996	https://www.gasthof-kircher.it
 node	2756069959	https://www.hotel-alber.com/
 node	2756072014	https://landhof.it
@@ -3493,7 +3496,6 @@ node	4655181880	https://www.museograndeguerra.com/
 node	4655195320	https://www.museoguerrabianca.com/
 node	4656826189	http://www.fillerhof-villnoess.com
 node	4658031205	http://www.studiozanoni.com/
-node	4659600824	https://it.wikipedia.org/wiki/Caposaldo_Col_dei_Bovi
 node	4663505347	http://www.cmp-casagranda.it/
 node	4663505349	https://www.orocash.it/
 node	4663505574	https://www.notaiodonatonarciso.it/
@@ -3796,6 +3798,7 @@ node	5415850380	https://pinzolo.panomax.com/
 node	5419885326	https://www.huetter-hof.com/
 node	5420507116	http://www.elisabettaforadori.com
 node	5422671091	http://www.leitnerhof-terenten.com/
+node	5422684252	https://www.n8bunker.com/
 node	5422943772	https://www.nologo.bz.it/
 node	5427478112	https://www.paideias.it
 node	5438556262	https://www.montebel.it/
@@ -6090,7 +6093,14 @@ node	12174772473	https://www.gasthof-anich.com/
 node	12176460741	https://www.tyrol-dolomites.com
 node	12180142601	https://www.weingutabraham.it
 node	12180987175	https://www.3bmeteo.com/webcam-3bmeteo/sass-pordoi
-way	22890146	https://www.prags.bz/en
+node	12183221183	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Monte-Baldo/FC-Monte-Baldo-Corne
+node	12183437145	https://www.rg-me.it/drupal7/
+node	12183551194	https://www.intuitomarketing.it/
+node	12184514802	https://ebikerent-rivadelgarda.com
+node	12185371872	https://genussbunker.it/
+node	12189271278	https://www.machevitadacani.it/bed-breakfast/struttura-ed-esperienze
+node	12189597937	https://pasticceriasantantonio.it
+node	12193955907	https://camminosanrocco.it/accoglienza/casa-sociale-amici-delle-sorne/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -6262,7 +6272,6 @@ way	47807304	http://www.penegal.com
 way	48528567	https://www.termedirabbi.it/
 way	48528569	https://www.termedirabbi.it/it/hotel
 way	48856744	https://www.eco-center.it/it/attivita-servizi/acqua/impianti/depuratore-bronzolo-857.html
-way	50734861	https://www.prags.bz/en
 way	50734864	https://www.prags.bz/en
 way	51445846	http://www.pilsenhof.it/
 way	51676862	https://www.cantina-terlano.com/
@@ -6280,7 +6289,7 @@ way	58152162	https://www.familyhotelgranbaita.it/
 way	58272460	http://www.hotelmontana.tn.it/
 way	58280787	https://www.fortecharmehotel.it/
 way	58282590	https://hotelalberello.com
-way	58423607	http://www.catinacciorosengarten.com
+way	58423607	https://www.catinacciorosengarten.com/
 way	58507354	https://www.satbrentonico.com/sezione-1/rifugio-fos-ce/
 way	58533757	https://www.hotelmajare.com/
 way	58563678	https://www.vineus-tramin.it/
@@ -6537,7 +6546,6 @@ way	71114315	https://segherialeonardi.com/
 way	71114479	https://www.arcobedandcamping.it/it-it/home/index
 way	71114563	https://www.arcosole.com/
 way	71121774	https://www.agriturismotrentino.com/it/agritur-ai-storti/59-10/
-way	71151722	https://www.prags.bz/en
 way	71152400	https://www.malgacere.it/
 way	71165531	https://www.nauders.com/de/aktiv-erleben/sommer-aktiv-erleben/bike-rad/endurobike/bunker-trail_td-11728
 way	71338160	http://www.tremalzo.info/
@@ -6967,6 +6975,8 @@ way	103028242	http://davidtscholl.wix.com/koblategg#!page-6
 way	103235034	https://www.rosenhof.it/
 way	103317094	https://www.lagodibraies.com/
 way	103317133	https://www.gasthof-huber.it
+way	103323193	https://www.romys-bb.it
+way	103323202	https://www.turmchalet.com/
 way	103325526	https://www.sennes.com/
 way	103495389	https://www.speckstube-eggerhof.it/
 way	103506309	https://www.comune.albiano.tn.it/
@@ -6983,7 +6993,7 @@ way	105652072	https://www.melinda.it/il-consorzio/terza-sponda.html
 way	105755103	https://liceocarducci-bz.edu.it
 way	105755104	https://www.sspgries.it/
 way	105831606	https://www.asdaa.it/it/osp-merano.asp
-way	105917857	https://www.hotel-schuster.com
+way	105917857	https://www.hotelschuster.it/
 way	105949662	http://www.erlebnisschule.it/
 way	105949679	https://www.maseben.it/
 way	105949689	https://www.langtaufererhof.it/
@@ -8202,7 +8212,6 @@ way	228961945	http://www.hotel-vierjahreszeiten.it
 way	229003439	https://www.scotoni.it
 way	229056281	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/linder-cycling-hotel/C0DF957B76D911D18F2900A02427D15E/
 way	229186914	https://museum.hinterpasseier.it/stieber-museum/
-way	229253634	https://www.prags.bz/en
 way	229336029	http://www.teralab.it
 way	229340015	https://www.rabanser-tuning.it/
 way	229477757	https://www.circolovelatorbole.com/
@@ -8211,7 +8220,6 @@ way	229782877	http://www.weingartnerhof.com
 way	229817341	https://www.acquacentermale.com/
 way	229824963	https://www.merano-suedtirol.it/de/naturns/aktiv-entspannen/wandern-bergsteigen/huetten/rid-336EEFE49D9E088F327F8D4A5FA2899E-g-zetnalm.html
 way	229911477	https://www.allegno.it/
-way	230039359	http://www.johann.it/urlaub/bar/index.php
 way	230039379	http://hotel-neuepost.com/
 way	230240639	https://www.autothomas.it/
 way	230240664	https://www.felizitas.it/
@@ -8848,7 +8856,6 @@ way	318199609	http://parkhotelsacrocuore.it/
 way	318203751	http://www.maico.com/maico.asp?L=2
 way	318750806	https://www.carabinieri.it/
 way	318884289	https://www.prags.bz/en
-way	318884290	https://www.prags.bz/en
 way	319786518	https://rubein.com/de-de/
 way	320634692	http://www.areeprotette.provincia.tn.it/riserve_provinciali/biotopi_riserve/-riserve_provinciali/pagina28.html
 way	320707339	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/la-majon-dependance/6113C21D374D4C16839C8D6A1136F33F/
@@ -8977,6 +8984,7 @@ way	384284888	http://www.ferienregion_obervinschgau.it/
 way	385378728	http://www.alphoteldolomiti.com/
 way	385579453	https://schuischta.com/
 way	385686458	https://www.alpiana.com/
+way	385686537	http://www.wolfenhof.com/
 way	385693385	https://www.derwaldhof.com/
 way	385715354	https://www.holzer.bz.it/de/ferienhaus-holzer-appartements/
 way	386316259	https://www.gatrentino.it/
@@ -9004,7 +9012,6 @@ way	396945277	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-
 way	397789782	http://cantina.vallarom.com/
 way	398304424	https://sites.google.com/site/moenahome
 way	398759523	https://www.prags.bz/en
-way	398759525	https://www.prags.bz/en
 way	398802465	https://www.cooperativalagorai.it/
 way	402439627	https://www.plattenhof.it
 way	403574204	https://www.pension-gstrein.com/
@@ -9425,7 +9432,6 @@ way	785321152	https://waltherpark.com/
 way	786179327	https://www.rautal.com/
 way	786997449	https://www.kloster-neustift.it/
 way	789620432	https://www.floods.it/public/Charts.php?Argomento=0&Sensore1=11697&Sensore2=18701&TipologiaGrafico=idrometro
-way	794936860	https://www.prags.bz/en
 way	808439367	https://www.schneeburghof.com/
 way	809576930	https://www.millenniumshof.com/
 way	809577803	https://www.stompferhof.com/
@@ -9473,7 +9479,6 @@ way	880144117	https://www.visitrovereto.it/scopri/chiese-e-luoghi-sacri/chiesa-d
 way	885117021	https://www.campingresortdrena.it
 way	886716384	https://www.prags.bz/en
 way	886716385	https://www.prags.bz/en
-way	886815573	https://www.prags.bz/en
 way	888222387	https://www.eurospin.it/dettpv.cfm?idpv=56739
 way	903805700	https://lamafer.com/
 way	904486229	https://www.wipptalergaertnerei.it/
@@ -9537,8 +9542,6 @@ way	1044699311	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-g
 way	1044722549	https://www.fassaparkcanazei.it/
 way	1046895033	https://www.froihof.it
 way	1047221808	https://www.prags.bz/en
-way	1047221809	https://www.prags.bz/en
-way	1047221810	https://www.prags.bz/en
 way	1047221811	https://www.prags.bz/en
 way	1047221812	https://www.prags.bz/en
 way	1047221813	https://www.prags.bz/en
@@ -9691,6 +9694,12 @@ way	1302220103	https://www.apsp-cesarebenedetti.it
 way	1305695696	https://www.muuvillage.it/
 way	1311011229	https://www.sat.tn.it/cima-presanella-bivacco-orobica/
 way	1312507035	https://www.nancys.it/
+way	1316728511	https://www.prags.bz/en
+way	1316728512	https://www.prags.bz/en
+way	1316728513	https://www.prags.bz/en
+way	1316728514	https://www.prags.bz/en
+way	1316728515	https://www.prags.bz/en
+way	1316918241	https://www.wikiloc.com/hiking-trails/bivacco-ceco-baroni-passo-di-cavento-53861076
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -11133,6 +11142,7 @@ relation	17925697	https://www.comune.trento.it/Comune/Organi-politici/Circoscriz
 relation	17928473	https://www.comune.trento.it/Comune/Organi-politici/Circoscrizioni/Circoscrizione-n.-07-Povo
 relation	17928474	https://www.comune.trento.it/Comune/Organi-politici/Circoscrizioni/Circoscrizione-n.-06-Argentario
 relation	18010099	https://www.wikiloc.com/hiking-trails/orizzonti-liberi-127882676
+relation	18064259	https://www.tfo-bruneck.it/
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -12876,7 +12886,7 @@ way	958817249	https://www.comunitadellegiudicarie.it/Tematiche/Servizio-Igiene-A
 way	962751159	http://www.satcembra.it/?page_id=768
 way	962751160	http://www.satcembra.it/?page_id=766
 way	975586846	https://www.thecrag.com/de/klettern/italy/northern-italy/arco-trento-area/area/3220447521
-relation	123162	www.sternwarte.it
+relation	123162	https://www.sternwarte.it
 relation	158983	http://www.sat.tn.it/Home/
 relation	418904	https://www.bikemeran.it/de/radwege/passeiertal
 relation	1562303	http://www.trekking.suedtirol.info/
