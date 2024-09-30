@@ -1,10 +1,12 @@
 @type	@id	website
-node	26859446	https://www.torrecastiglione.it/
 node	26859473	http://www.campingdeitrulli.com
+node	26859709	https://portopirronecamping.it/
 node	26859879	https://www.campingdegliulivi.it/
 node	68528694	https://www.comune.ruvodipuglia.ba.it/
 node	68528748	http://www2.comune.gravina.ba.it/
 node	68528826	https://www.comune.ceglie-messapica.br.it/
+node	68529053	https://www.comunecagnanovarano.fg.it/Home.aspx
+node	68529081	https://www.comunelesina.it/
 node	68529991	https://castellaneta.gov.it/
 node	226914688	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/45542
 node	288227954	https://www.campingvalledoro.it/
@@ -268,6 +270,7 @@ node	2718609292	https://www.facebook.com/pages/LavaExpress-Lavanderia-Self-Servi
 node	2718688861	https://www.euronics.it/
 node	2718956097	https://hotel-colibri.it
 node	2722125915	https://www.politicheagricole.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11260
+node	2723575652	https://www.gyrosteriayannis.com/
 node	2728932439	https://www.trullodellaselva.com/
 node	2747155041	https://www.caiaffa.it/
 node	2775623799	https://www.alberobelloinminiatura.it/
@@ -740,7 +743,6 @@ node	5315081989	https://www.osterialevolte.it/
 node	5317006222	http://www.oasypark.com
 node	5318817441	https://www.wearenerd.it
 node	5318817443	http://www.videogamestime.cim
-node	5321674823	http://www.tendedarredoenauticadesign.com
 node	5321725623	http://www.caroppo.com
 node	5336348290	https://www.bpp.it/
 node	5336949122	http://www.sudestudio.com
@@ -1978,6 +1980,7 @@ node	11111327819	https://nonnavittoriaapartments.it
 node	11111496542	https://www.tecniko.it
 node	11114622661	https://www.pastificiodelborgo.it/
 node	11114765393	https://www.facebook.com/people/RifugiodeicanirandagidiPaolo-VI/100081652458301/
+node	11121744748	http://www.tendedarredoenauticadesign.com
 node	11127464511	http://www.casadellangelo.eu/
 node	11134029697	https://www.bbmaxxi.it
 node	11137856027	https://www.studiodentisticocarluccio.com/
@@ -2502,6 +2505,12 @@ node	12180699307	https://www.stradeanas.it/it/struttura-territoriale-puglia
 node	12183699750	https://www.studiodentisticogiannuzzi.it/
 node	12192252723	https://www.leonardobasile.it/index.htm
 node	12192747677	https://www.asteriaspace.it/
+node	12194361934	https://www.thebackspace.it/
+node	12195415998	https://luoghicomuni.regione.puglia.it/progetti/fuori-binaria/
+node	12201044451	bellavistatricaseporto.it
+node	12201902126	Massaroom.com
+node	12201909402	massaroom.com
+node	12208704335	https://macedoniashop.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	30546791	https://www.centrocasamassima.it/
@@ -2511,6 +2520,7 @@ way	30675576	https://www.sanita.puglia.it/web/irccs
 way	30791611	https://fierafoggia.it/
 way	34207503	https://www.birraperoni.it/chi-siamo/stabilimento-di-bari/
 way	35544569	http://www.itismolfetta.gov.it/
+way	36503980	https://campinglidosalpi.it/
 way	36921282	https://www.grandhotelvignanocelli.com/
 way	46248315	https://www.istitutomarconimartina.edu.it/
 way	48218129	https://itispanetti.it/
@@ -2524,6 +2534,7 @@ way	94345987	https://www.ucastarillpolignanoamare.it/grotte/69_grave_di_polignan
 way	95457528	https://www.casanaturagargano.com/
 way	103383688	http://wikispesa.costodellostato.it/Invaso_Pappadai_%E2%80%93_Taranto
 way	108455948	http://www.sgangiulli.it/
+way	108455962	https://hobbywash.it/
 way	108684297	https://www.albatrosvillaggio.it/
 way	108684298	https://www.acquafantasy.it/
 way	117514397	https://www.leganavale.it/portale/sezioni/index.asp?ID_sezione=154
@@ -2696,6 +2707,7 @@ way	322560653	https://www.masseriamalvindi.com/
 way	322831309	http://www.spaziolecce.it/
 way	322837558	http://www.istitutocezzidecastromaglie.gov.it/
 way	324098593	https://www.masseriapotenti.it/
+way	325863925	https://www.gianville.com/
 way	328014152	http://www.secondocomprensivofrancavillafontana.gov.it
 way	328014153	http://www.secondocomprensivofrancavillafontana.gov.it
 way	328643688	http://www.icspinazzola.gov.it/
@@ -2852,6 +2864,7 @@ way	405764853	https://solariahouse.business.site/
 way	406096605	https://www.villapallotta.it/
 way	406096724	https://www.agriturismomoschella.com/
 way	406111732	iposea.com
+way	406300053	https://www.facebook.com/sostacamperzapponeta/
 way	406300203	https://www.facebook.com/ParrocchiaSanMicheleZapponeta
 way	406345921	https://star-centro-sportivo-polifunzionale.business.site/?utm_source=gmb&utm_medium=referral
 way	406346224	https://www.hotelsfinalicchio.it
@@ -2924,6 +2937,7 @@ way	416496095	http://www.vogueallestimenti.it/
 way	416497419	https://www.kartodromobarimax.it/
 way	416563736	https://www.santafara.org/
 way	416563773	https://www.tribunale.bari.giustizia.it/
+way	416563933	https://local.churchofjesuschrist.org/it/it/bari/bari/via-giuseppe-sangiorgi-4
 way	416565006	https://www.comune.bari.it/web/egov/-/decesso-sala-per-il-commiato
 way	416565149	https://cgilpuglia.it/
 way	416911455	https://www.angeliniarredamenti.it/
@@ -3126,6 +3140,7 @@ way	430344659	http://www.crsantarita.it
 way	430812920	http://www.agriturismolidamiani.it
 way	430812921	https://www.lazudrea.it/
 way	431149376	http://www.castrignanovivai.com
+way	432571818	https://www.facebook.com/p/Area-Camper-Il-Saraceno-Punta-Prosciutto-100064391541681
 way	434708458	http://www.scuolasangiovannibosco.gov.it
 way	435038560	http://www.cortedelcasaro.it/
 way	436313833	http://www.hemingwaybeach.it
@@ -3255,6 +3270,7 @@ way	515850144	https://www.riservaditorreguaceto.it/
 way	516232798	https://www.vignanotica.it/
 way	520082644	http://www.residencetrepalmesalento.it
 way	520479131	https://apulianbeachclub.it/
+way	520574040	https://www.residenceatlantide.it/
 way	520821229	http://www.saracinobeach.it
 way	521711153	http://alimessapia.altervista.org/alimessapia/
 way	521934039	http://www.levoilier.it
@@ -3426,6 +3442,7 @@ way	909062793	https://www.icmorotaranto.edu.it
 way	909137212	http://www.primocircolotaranto.gov.it
 way	909439672	https://www.icmorotaranto.edu.it/
 way	911576935	https://www.lidl.it/
+way	921719033	https://www.campingsantostefano.it/
 way	942262491	https://cartapulia.it/dettaglio?id=127906
 way	942263639	http://sirpac.regione.puglia.it/dettaglio?id=127912
 way	943294730	https://www.caradonnalogistics.com/
@@ -3515,7 +3532,7 @@ way	1185637206	https://santocielostuni.it/
 way	1188173319	https://www.casaisabella.it/
 way	1188724861	https://centro-sportivo-enzo-tagliente.business.site/
 way	1188871793	https://cartapulia.it/dettaglio?id=132500
-way	1190404907	https://lavaggioeparcheggiodaniele.it/
+way	1190404907	https://www.pitchup.com/it/campsites/italy/puglia/bari/bari/daniele-parcheggio-sosta-camper/?pitchtype=68763
 way	1191879044	https://www.borgoducale.it/
 way	1191893479	https://www.residenceelena.it/
 way	1192823985	https://www.residencetramonti.com/
@@ -3535,6 +3552,7 @@ way	1227656766	https://www.foodbeveragesrl.it/
 way	1227659145	https://www.residencecostabianca.it/
 way	1228080367	https://www.suitebaia.it
 way	1228419155	https://www.sanita.puglia.it/web/asl-brindisi/ospedali_det/-/journal_content/56/36031/presidio-di-brindisi-di-summa-perrino-
+way	1228626410	https://www.brezzadimareareacamper.it/
 way	1229032693	https://www.carrefoursuditalia.com/puntivendita/122
 way	1230075017	http://ristorantedeamicis.eatbu.com/
 way	1235544605	https://sangirolamobari.com
@@ -3617,6 +3635,15 @@ way	1314422931	https://www.greenparksport.it/
 way	1315299209	https://www.footballitalia.it/
 way	1315760199	https://donazionecarmi.it/?fbclid=IwY2xjawFUCUNleHRuA2FlbQIxMAABHRMbixy9kTXUP5nwVpob_ShdgvMlv7wy1pQAoKN-o1wH05WeZGWL-lIBHA_aem_jJcl9-UE5GhzCVHaTRuOBw
 way	1317023776	https://www.laperladelsur.it/
+way	1317541468	https://www.facebook.com/parkingsantafara
+way	1317555766	https://www.portocesareocamping.it/
+way	1317557492	https://www.torrecastiglione.it/
+way	1317557494	https://shadak.it/
+way	1317562816	https://www.areacamperholiday.it/
+way	1317562817	https://www.areacamperholiday.it/
+way	1317578589	http://www.sostalaspecchia.it/
+way	1317587046	https://marygiusalento.jimdofree.com/
+way	1317590471	https://portopirronecamping.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -3656,6 +3683,7 @@ relation	6141230	https://www.poliba.it/lic
 relation	6153602	https://www.sanita.puglia.it/web/asl-bari/ricerca_det/-/journal_content/56/25619/servizio-di-riabilitazione-ex-art-25-rutigliano
 relation	6195091	https://www.sportclubpiazzaeuropa.it/
 relation	6197020	https://mongolfierasantacaterina.it/
+relation	6198221	https://mongolfierapasteur.it/
 relation	6201836	https://www.comune.fasano.br.it/pagina55_egnazia-il-parco-archeologico.html
 relation	6212679	https://www.ba.camcom.it/
 relation	6212703	https://www.parrocchiasacrocuorebari.it/
@@ -3797,6 +3825,7 @@ relation	17910942	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itin
 relation	17911780	https://www.liceoarchita.edu.it/
 relation	17950387	http://asset.regione.puglia.it/
 relation	17953761	asset.regione.puglia.it
+relation	17966737	https://itinerarigal.weebly.com/
 relation	18073736	https://www.levantesportcenter.it/
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
@@ -3957,7 +3986,7 @@ way	769416558	https://iccavallino.edu.it/
 way	769424574	https://iccavallino.edu.it/
 way	999975302	https://www.agrisafrapuglia.com/
 way	1053303943	https://www.procivmarittima.it/
-way	1070593441	https://www.lidl.it/
+way	1070593441	https://www.lidl.it/s/it-IT/ricerca-punto-vendita/bari-ba/strada-san-giorgio-martire-19-17/
 way	1080298824	https://www.clarcap.it/dove-siamo/monasteri/
 way	1095607002	http://www.bimbolandiaterlizzi.it
 way	1133163627	http://www.hotelfrancesco.it/
