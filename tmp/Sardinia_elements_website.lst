@@ -419,6 +419,7 @@ node	1388397483	http://www.greenwichdessai.org/
 node	1389607173	https://www.nonnaisa.com/node/567
 node	1395285599	http://janashotel.it
 node	1416158749	https://www.itticacabras.it/
+node	1416158812	https://trattoriailboscaiolo.it/
 node	1436619598	https://www.museoarcheologicodorgali.com/siti-di-interesse/40-dolmen-monte-longu
 node	1448227771	https://www.hoteldacesare.com/
 node	1452759826	https://www.notoriouscinemas.it/cagliari/index.php
@@ -1097,7 +1098,7 @@ node	4473541974	http://www.altuguri.it/
 node	4473541996	http://www.totperlamusicaalghero.it/
 node	4473542011	https://www.facebook.com/travaglini.motori
 node	4473542017	https://www.bebistentales.com/
-node	4474894871	https://www.farmaciaturacchi.it/
+node	4474894871	https://www.farmaciaturacchi.it
 node	4475574950	https://www.gruppovege.it/
 node	4475874073	https://www.airbnb.de/rooms/12749668
 node	4475954173	https://www.eurospin.it/
@@ -1723,6 +1724,11 @@ node	12193066220	https://www.airbnb.co.uk/rooms/35507290?source_impression_id=p3
 node	12197502966	https://www.bambusaportorotondo.com/
 node	12202296089	https://aquaesinis.it/
 node	12204917478	https://www.estro-ristorante.it/
+node	12215060301	https://www.booking.com/hotel/it/piero-39-s-apartment-carbonia.fr.html
+node	12222968844	https://impresafunebreincanisulcis
+node	12222985858	https://mtbttekking.blogspot.com
+node	12222990198	https://frantoiorubiu.it
+node	12222997705	https://tamoil.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1826,6 +1832,7 @@ way	161306760	https://www.hotelflamingo.it/
 way	161306761	https://www.hotelmarepineta.it/
 way	161575895	https://www.oroseibeach.it/
 way	163215603	http://www.wakeboardsardegna.com/
+way	165022619	https://www.nascarhotel.eu/
 way	165546216	https://www.hotelnibaru.it/
 way	166806077	http://touristicservice.it
 way	167222958	https://abbadruche.it
@@ -2093,6 +2100,7 @@ way	281474404	https://www.puntalizzu.com/
 way	281474679	http://www.sardegnabiblioteche.it/index.php?xsl=839&s=2&v=9&c=5941&codice=IT-NU0082
 way	281515480	http://www.coopvillabbas.sardegna.it/museo.htm
 way	283264936	https://www.santateresadigallura.com/la-chiesa-della-madonna-del-buoncammino/
+way	283494056	https://www.diocesidiiglesias.it/wd-annuario-enti/beata-vergine-addolorata-2366/
 way	283514823	http://www.provincia.carboniaiglesias.it/
 way	283518800	https://virtualarchaeology.sardegnacultura.it/index.php/it/siti-archeologici/eta-medievale/torri-costiere-di-arbatax/schede-di-dettaglio/1267-il-sistema-delle-torri-costiere
 way	283641944	https://www.agriturismolakustera.com/
@@ -3146,6 +3154,7 @@ node	956276106	http://www.hotelportoconte.it
 node	1367812354	http://www.coopsinis.it/default.asp?s=1&lang=
 node	1419301151	http://www.villaggioledune.net
 node	1428858864	https://www.caponieddu.it
+node	1459894779	https://www.angelagoeser.de
 node	1574502575	http://www.larosadeiventiristorante.com
 node	1645036294	http://www.pferdehof-morgenstern.de/
 node	1670392027	http://www.mutseu.org
@@ -3980,3 +3989,6 @@ way	581847817	http://www.arrampicatasardegna.com/falesie/arrampicantro/
 relation	39917	http://www.fluminimaggiore-bilingue.it/
 relation	39959	http://web.tiscali.it/Senorbi2000/
 relation	40002	http://www.orroliproloco.com/
+relation	12858020	http://danbag.altervista.org/Sardegna/F404/F404-FTP.kml
+relation	12858037	http://danbag.altervista.org/Sardegna/F405/F405-FTP.kml
+relation	12858057	http://danbag.altervista.org/Sardegna/F406/F406-FTP.kml
