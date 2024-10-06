@@ -618,7 +618,6 @@ node	1737996159	https://cvaspa.it
 node	1739475671	https://www.totospub.it
 node	1739703816	http://www.md-discount.it/
 node	1739703857	https://www.eurospin.it/
-node	1740121512	https://www.pasticceriatoto.com/
 node	1740134956	http://www.hosteriasanrocco.com/
 node	1740170873	http://www.dolceesalato.info/
 node	1743613641	https://www.hotelcolosseum.com/
@@ -638,6 +637,7 @@ node	1759856904	https://www.santalbertopizzeria.com
 node	1759856906	https://vitaminas24.com/
 node	1768566428	www.windsurfparadise.com
 node	1768569008	https://www.necci1924.com/
+node	1771222491	https://www.valleluce.it/
 node	1772586232	http://www.ciuri-ciuri.it
 node	1774750372	http://www.cacciani.it
 node	1776279657	https://italien.diplo.de
@@ -2134,7 +2134,7 @@ node	4534591291	https://www.amedeoristorante.com/
 node	4534729789	https://www.suppliroma.it/
 node	4538921591	https://www.la-ciambella.it/
 node	4538925190	https://www.supplizioroma.it
-node	4544509790	https://momartcafe.it/
+node	4544509790	http://www.momartcafe.it/
 node	4546146570	https://www.facebook.com/BirFudBeershop/
 node	4546605240	https://sciamlab.com/
 node	4547291385	https://www.sixt.it/
@@ -2396,7 +2396,7 @@ node	4801747121	gingersaporiesalute.com
 node	4802113122	http://www.fontedellasalute.bio
 node	4803421089	https://www.lionoptical.it/
 node	4803496463	https://www.ciaochecca.com/
-node	4803496624	http://www.06osteria.com
+node	4803496624	https://www.06osteria.com/
 node	4803876325	https://www.gelateriaromana.com/
 node	4804296383	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/44491
 node	4805767873	http://www.facebook.com/locanda.atlantide
@@ -2778,6 +2778,7 @@ node	5364001122	www.hotelsolis.it/
 node	5364831921	https://www.frantoiopresciuttini.it/
 node	5365793336	https://www.ristorantecolosseo.it/
 node	5365798589	pizzeriavillanovaviterbo.it
+node	5369824814	https://orati.it
 node	5370098322	https://pizzerialaboccaccia.it/
 node	5370098323	http://latavernetta29.it
 node	5372896622	https://www.nclroma.it/
@@ -5765,7 +5766,6 @@ node	11165092558	https://stores.deichmann.com/it-it/it/roma/bracciano-rm/via-del
 node	11165099269	https://store.terranovastyle.com/it/15323-bracciano
 node	11167076502	https://yogadharma.it/
 node	11176981239	https://acciugaroma.it/
-node	11177098938	https://ristorante-profumo-di-mirto.business.site
 node	11177117670	https://www.acquasantaroma.com/
 node	11190285199	http://www.musicasacra.va/
 node	11193036740	http://extralageroma.it
@@ -5966,6 +5966,7 @@ node	11730812626	https://www.poloculturalementana.it/museum/muca/
 node	11739271393	https://www.reply.com/en
 node	11741790961	https://www.zucchetti.it/website/cms/home.html
 node	11745573269	https://www.adessohotel.it/
+node	11747154206	http://www.bfr-italy.com/
 node	11748351569	http://biblopointcardarelli.it
 node	11752349239	https://www.agriturismoroma.it/Default.asp
 node	11753192451	https://www.progesoftware.it/en/
@@ -6220,6 +6221,13 @@ node	12199729401	https://www.vinotecatempere.it/
 node	12206519733	http://garofalorent.it/
 node	12206706223	https://www.semolapizza.it/
 node	12206971645	http://www.careddusrl.it/
+node	12208469663	Hotel Antica Locanda
+node	12208734201	http://www.beerstyle.it
+node	12215436728	https://roadmama.it
+node	12219189596	https://www.esercito.difesa.it/Corpo-Militare-ACISMOM
+node	12219202508	https://www.ordinedimaltaitalia.org/gran-priorato-di-roma/roma3
+node	12222071088	https://nogashoes.com
+node	12228196601	http://hotelpiemonte.com
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7212,6 +7220,7 @@ way	321712087	http://www.sunbayparkhotel.com/inizio.html
 way	321995524	https://www.plein.com
 way	321995553	https://www.lecreuset.it/it_IT/
 way	321995556	https://it.loccitane.com/?gclid=Cj0KCQjw3uboBRDCARIsAO2XcYBP83Ub1W6Ju09qBjIL297V_QjeaZogc8s5ubpBwQJoCryo2X4XaF0aAtqGEALw_wcB
+way	321995592	https://stores.petit-bateau.com/italy/castel-romano/via-ponte-di-piscina-cupa-64
 way	321995615	https://www.coccinelle.com/en/
 way	323707873	https://www.hoteleliseoroma.it/en/
 way	324776530	https://www.aslroma1.it/presidi-territoriali/poliambulatorio-enea-casaccia
@@ -7396,6 +7405,7 @@ way	368285939	https://www1.ordinemediciroma.it/
 way	368285940	https://www.toscano.it/
 way	368285945	https://www.villapirandello.it/
 way	368286720	http://www.hotel-silva.com/
+way	368291770	https://www.hotelsantacostanza.it
 way	369262033	https://www.kln.gov.my/web/ita_rome
 way	369364505	https://www.uniroma1.it/it/pagina/centro-infosapienza
 way	369388349	https://www.risparmiocasa.com/
@@ -7792,6 +7802,7 @@ way	489296556	https://www.bibliotechecastelliromani.it/biblioteche-scr/bibliotec
 way	489301320	https://comune.genzanodiroma.roma.it/
 way	489580263	http://icgfalcone.gov.it/
 way	489590481	http://archeoroma.beniculturali.it/siti-archeologici/arco-malborghetto
+way	489652589	https://xautosrls.it/
 way	489655069	https://magicsplash.magicland.it/
 way	490460740	https://www.associazionelacasadellarte.it/
 way	490884967	http://www.teverefarfa.it
@@ -8696,6 +8707,7 @@ way	1314593040	galan7.site
 way	1316341590	https://www.gothabeach.it/camping/
 way	1316344671	https://www.campingcapitol.com/
 way	1316884636	https://www.usi.it/casa-cura-marco-polo/la-casa-di-cura-oncologica
+way	1320724499	https://www.fordofficineacchione.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	77421	http://web.tiscali.it/aguzzano/
 relation	270239	http://www.villadestetivoli.info/index.htm
@@ -8945,6 +8957,7 @@ relation	7449235	https://www.manzonilatina.edu.it/it/
 relation	7601914	https://www.annamicheli.it/
 relation	7624013	https://www.latinafiori.com/
 relation	7669227	http://www.sangaspareroma.altervista.org/
+relation	7743335	https://www.gruppo.acea.it/
 relation	7769092	https://www.polomusealelazio.beniculturali.it/index.php?it/240/santuario-madonna-della-quercia
 relation	7771387	https://www.viadifrancesco.it/
 relation	7773585	https://www.viadifrancesco.it/
@@ -9504,6 +9517,7 @@ relation	17882869	https://camminodilarth.it/
 relation	17882879	https://camminodilarth.it/
 relation	18031930	https://www.facebook.com/gympalacemanziana
 relation	18051918	https://camminodeibriganti.it/mtb/
+relation	18106131	https://www.cassanotariato.it
 node	251888861	https://www.multisalagreenwichroma.com/
 node	452570567	https://www.catacombe.org/
 node	802459210	https://www.oasidigreccio.it/
