@@ -1170,6 +1170,8 @@ node	10175871701	https://www.risparmiocasa.com/store/castelfidardo/
 node	10177798532	https://www.locandadelwest.it/
 node	10182477342	https://stores.blukids.com/it/italia/marche/ancona/montemarciano
 node	10182481939	https://www.ripa.bcc.it
+node	10186350184	http://www.lp-auto.it/
+node	10186350185	http://www.pc-smart.it/
 node	10186456351	https://www.farmaciacomunalemorrovalle.it
 node	10210367601	https://www.caijesi.it/
 node	10215850252	https://www.fgb-engineering.com
@@ -1548,12 +1550,17 @@ node	12156214132	https://amazon.it/lockeragnieszkaewa
 node	12156336115	https://ispengineering.com
 node	12169670335	https://www.pievedigaifa.it
 node	12170757221	https://www.le-cave.it/
-node	12174551776	http://www.pomorilla.it/
+node	12174551776	https://www.pomorilla.it/
 node	12189496734	https://www.prolocompc.it
 node	12194160127	https://www.istitutostoriamarche.it/le-marche-dall8-settembre-diario-di-guerra-e-resistenza/maggio-1944-2/
 node	12194173121	https://www.toscoclimb.it/public/v2/modules/rockdocg/print.php?storyid=226
 node	12201220687	http://www.sannicolino.com/
-node	12204739530	www.marcheteatro.it
+node	12204739530	https://www.marcheteatro.it/
+node	12209210687	https://www.autocarrozzeriasangiustese.it/
+node	12213757382	https://www.hortustrade.it/
+node	12215600037	https://www.comune.jesi.an.it/w/bike-parking
+node	12218384887	https://iscfederico2.edu.it/struttura/jesi-garibaldi/
+node	12219054500	https://www.mancinieflaminiimpianti.com/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1632,7 +1639,7 @@ way	144506070	https://www.crai-supermercati.it/punto-vendita/5194-crai-extra-osi
 way	144928923	https://brandoni.com/
 way	147549194	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII158944#
 way	149358438	http://www.siconte.it/it/punti-vendita/si-supermercati/trodica-via-xxv-aprile
-way	149359639	http://www.hotelsancrispino.it/
+way	149359639	https://www.hotelsancrispino.it/
 way	151770924	http://www.rifugiopaci.it
 way	152904666	https://www.rifugideisibillini.it/
 way	156117805	http://www.parrocchiasmgoretti.it/
@@ -1919,7 +1926,6 @@ way	445824345	https://teatrodelleapi.it/
 way	447985152	https://www.corteconti.it/Home/Organizzazione/UfficiCentraliRegionali/UffMarche
 way	449663031	https://ambiente.unicam.it/
 way	449721005	https://imondiromagnoli.edu.it/struttura/fabriano-f-imondi-romagnoli/allegretto-di-nuzio/
-way	449760449	https://www.unicam.it/
 way	449987997	https://www.serrealte.com
 way	450049810	https://www.comune.matelica.mc.it/museopiersanti/index.asp
 way	450363060	http://www.villaggiolacapannina.it/
@@ -2191,6 +2197,8 @@ way	1315594365	https://campingsensazione.com/
 way	1316349408	https://www.lapoianaurbino.it/
 way	1316875085	https://www.facebook.com/parcolequerce/
 way	1316930676	https://www.prontocampi.nl/
+way	1319706298	https://www.dmgsrl.eu/
+way	1319834218	https://www.imetonline.it/it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
