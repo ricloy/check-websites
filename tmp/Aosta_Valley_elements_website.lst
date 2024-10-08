@@ -59,6 +59,7 @@ node	1745155647	https://www.bertolin.com/
 node	1745704319	https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/154-bivacco-alessandro-martinotti
 node	1746633413	https://www.fortedibard.it
 node	1746633415	www.comune.bard.ao.it
+node	1761440608	https://www.repower.com/it/dina/
 node	1780403912	https://www.camperonline.it/area-di-sosta/Area-sosta-Fenis_3542
 node	1842637090	https://www.hotelboutondor.it/
 node	1874172884	https://www.lavachey.com/
@@ -271,7 +272,6 @@ node	9970850964	https://www.repower.com/it/dina/
 node	9970895099	https://www.repower.com/it/dina/
 node	9970898910	https://www.repower.com/it/dina/
 node	10006149532	https://langolinodibonny.it/
-node	10009106269	https://histoiredebornes.ch
 node	10009106270	https://histoiredebornes.ch
 node	10009106271	https://histoiredebornes.ch
 node	10009128933	https://www.randonneurmb.com/ristorante
@@ -333,12 +333,13 @@ node	12082835251	https://lastazionedellacqua.it/
 node	12084950055	https://cabernetvoltaire.wine/
 node	12084950058	https://alpaninoaosta.com/
 node	12084950066	https://www.zenzero.rest/
-node	12097484461	https://histoiredebornes.ch
 node	12098866558	https://histoiredebornes.ch
 node	12103096774	https://www.pellissiersport.it/
 node	12104714341	https://www.naturalys.it/
 node	12144588288	https://www.regione.vda.it/cultura/patrimonio/siti_archeologici/news/eteley_2019_i.aspx
 node	12169889645	https://www.biobottega.com/
+node	12216256084	https://www.repower.com/it/la-mobilita-elettrica/
+node	12216274093	https://www.repower.com/it/dina/
 way	27264184	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264185	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264187	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -394,6 +395,7 @@ way	65177722	https://www.camperonline.it/cogne.htm
 way	71170701	https://www.lovevda.it/it/banca-dati/8/architettura-romana/aymavilles/il-ponte-acquedotto-romano-di-pont-d-ael/852
 way	73024728	http://www.azzurra-camper.com/
 way	77455428	http://www.rifugiogonella.com/
+way	77697399	https://www.campinghobo.com
 way	79808464	https://www.camperonline.it/area-di-sosta/Area-sosta-Saint-Denis_6449
 way	80035142	https://www.camperonline.it/area_di_sosta_dettaglio.asp?ID
 way	80039108	https://www.camperonline.it/area_di_sosta_dettaglio.asp?ID=6704
@@ -560,6 +562,7 @@ way	136405945	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	137043082	https://www.rifugioarbolle.it/
 way	137043135	https://www.regione.vda.it/notizieansa/details_i.asp?id=53930
 way	137085118	https://www.geatcaitorino.it/bivacco-franco-nebbia-2740-m/
+way	143213679	https://www.maisondubonmegnadzo.com
 way	145518348	https://www.lovevda.it/it/banca-dati/8/chiese-e-santuari/etroubles/chiesa-parrocchiale-di-santa-maria-assunta/771
 way	146851840	https://www.chezduclos.com/
 way	147172024	https://www.rifugiobenevolo.com/
@@ -640,7 +643,9 @@ way	171671167	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	171671168	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	180531934	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	180736202	https://www.comune.aymavilles.ao.it/turismo/territorio/castelli-e-dintorni/castello-di-aymavilles
+way	181558199	http://www.campeggiolapineta.it/
 way	185036928	https://www.hotelboutondor.com
+way	186255789	https://campingarcenciel.it
 way	187761348	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	187761357	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	187761362	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -662,6 +667,7 @@ way	239195398	https://www.predepascal.com/
 way	242863924	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	242863925	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	242863926	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
+way	246169127	https://campeggio-soleil-et-neige.webnode.it/
 way	246274769	https://www.lovevda.it/turismo/proposte/sport/sport_acqua/schede_pesca_i.asp?tipo=scheda&pk=3303&nomesch=sch_Sport&ts=sport
 way	246275093	https://www.campingtouring.com/
 way	246847034	https://biblio.regione.vda.it/biblioteche-sbv/Donnas/
@@ -839,7 +845,6 @@ way	1197121607	https://www.bivaccoedoardocamardella.it
 way	1204931540	https://www.lovevda.it/it/banca-dati/7/bivacchi/sarre/bivacco-alessandro-pansa/3252
 way	1317457820	https://www.rebelpark.it
 way	1319297812	https://www.tunnelmb.net/
-relation	51701	https://www.ch.ch/
 relation	162371	https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/cogne-rifugio-sogno-di-berdze/2974
 relation	372502	http://www.alptrekking.ch
 relation	1004348	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -1068,10 +1073,8 @@ node	670538805	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&
 node	670538806	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z
 node	670539182	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
 node	670539184	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
-node	10009106269	https://sketchfab.com/models/2c86a2c99925485f9416bb4cb2512495/embed?autospin=0.2&autostart=1
 node	10009106270	https://sketchfab.com/models/79c2547fa3964d72802c2815624fc5db/embed?autospin=0.2&autostart=1
 node	10009106271	https://sketchfab.com/models/942a965bc4a94f0281f4db1e5e423ebd/embed?autospin=0.2&autostart=1
-node	12097484461	https://sketchfab.com/models/7c59d140eed94ac6b55b527c8c7a431e/embed?autospin=0.2&autostart=1
 node	12098866558	https://sketchfab.com/models/305748fdaf834a3ea36c6e1a72378e96/embed?autospin=0.2&autostart=1
 node	12098897508	https://sketchfab.com/models/c839ced2aeca4767b36b1d6d4b208473/embed?autospin=0.2&autostart=1
 node	12194508770	https://matteo-giglio.blogspot.com/2012/05/pilier-rhodo-nuovo-spot-trad-in-valle.html
