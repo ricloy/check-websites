@@ -3106,7 +3106,7 @@ node	12093912483	https://www.mcdonalds.it/ristorante/abruzzo/chieti/lanciano-via
 node	12095039501	https://www.californiapoke.it/
 node	12095688501	https://ai3scalini.it/
 node	12097239800	http://comunesgt.gov.it/
-node	12098656667	https://www.comunedicastelfrentano.it/
+node	12098656667	https://comune.castelfrentano.ch.it
 node	12101901159	https://lapecoraalmare.com
 node	12102987393	http://www.lanaturaaportatadimano.it
 node	12106691098	https://lasiesta-hotel.it
@@ -3119,6 +3119,7 @@ node	12127526846	https://www.pgkpescara.it/
 node	12131540462	https://www.villasantamaria.eu/c069102/zf/index.php/numeri-indirizzi-utili/index/dettaglio/numero/4
 node	12131543535	https://www.villasantamaria.eu/hh/index.php
 node	12133298449	https://www.hotel-costaverde.com/
+node	12138239077	https://www.mcdonalds.it/ristorante/abruzzo/teramo/giulianova
 node	12139650555	https://www.pescasserolandia.it/
 node	12148316166	https://invizin.it
 node	12153387717	https://bnl.it/
@@ -3151,6 +3152,11 @@ node	12211790227	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bo
 node	12211807634	https://nuovoalbergo.it/
 node	12212356223	https://www.kemipolsrl.it
 node	12215557576	http://www.portobelloareadiservizio.it/lanciano.html
+node	12230101521	http://www.pandamarket.it/
+node	12231510428	https://www.trigonviaggi.com/
+node	12241501330	https://www.compagniadellabellezzamastrangelo.it/
+node	12246166995	https://www.dove.it/agenzie-immobiliari/pescara
+node	12246167441	https://www.aia-figc.it/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3774,7 +3780,6 @@ way	857281027	https://it-it.facebook.com/emissario.capistrello/
 way	857641091	http://www.sanmartinosm.it/zf/index.php/musei-monumenti/index/dettaglio-museo/museo/3
 way	859632540	https://www.santostefanocastelfrentano.it
 way	863277451	https://www.campingtamtam.it
-way	865168628	https://www.bio-polis.com
 way	866226353	http://www.palazzolaloggia.com
 way	866243437	https://www.facebook.com/La-Bottega-Del-Fabbro-di-Gianluca-Ancora-138606376702397/
 way	867479643	https://www.maurys.it/punti-vendita/abruzzo/item/2716-pescara.html
@@ -4136,6 +4141,7 @@ way	1259323818	https://www.coocori.it/
 way	1259452499	https://www.internationalcamping.it/
 way	1259743107	https://www.comune.montazzoli.ch.it/it
 way	1271393350	https://sanita.regione.abruzzo.it/canale-ospedali/ospedale-di-castel-di-sangro
+way	1277327470	https://www.mcdonalds.it/ristorante/abruzzo/teramo/giulianova
 way	1277849300	https://campeggioaltosangro.webnode.it/chi-sono/
 way	1282432449	https://roccaraso.net/
 way	1283634491	https://www.elenaclubresort.com/
@@ -4167,6 +4173,7 @@ way	1316658111	https://www.nicolasantoleri.com/contatti
 way	1316951549	https://lorenzacalzaturificio.gruppoflorence.it/
 way	1317810840	https://www.ausl.pe.it/DettaglioSede.jsp?id=15
 way	1317942136	https://www.campingsunbeach.it/
+way	1323214385	https://www.regione.abruzzo.it/content/impianto-fotovoltaico-ad-inseguimento-monoassiale-la-produzione-di-energia-elettrica-da
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4225,6 +4232,7 @@ relation	11138152	https://www.fondazionecsc.it/chi-siamo/le-nostre-sedi/sede-abr
 relation	11183874	https://www.camminonaturaledeiparchi.it/corvaro-accumoli/14-corvaro-castiglione/
 relation	11183875	https://www.camminonaturaledeiparchi.it/corvaro-accumoli/15-castiglione-rascino/
 relation	11186987	https://www.camminonaturaledeiparchi.it/livata-corvaro/8-camerata-nuova-cineto-romano/
+relation	11187897	https://www.europegarden.it/
 relation	11190173	https://www.camminonaturaledeiparchi.it/accumoli-laquila/21-amatrice-campotosto/
 relation	11193173	https://www.camminonaturaledeiparchi.it/borghi/borghi-settimana-4/campotosto/
 relation	11193174	https://www.camminonaturaledeiparchi.it/accumoli-laquila/23-lago-di-campotosto-rifugio-fioretti/
@@ -4473,6 +4481,7 @@ node	12007249885	https://italia.indettaglio.it/ita/abruzzo/teramo_castilenti_con
 node	12071668360	https://www.abruzzocitta.it/luogo/monte-zurrone/
 node	12124829139	https://restaurantguru.it/Bar-Cafe-de-Paris-SantEusanio-del-Sangro
 node	12177199641	https://kobak.it/noleggia/
+node	12247823374	https://www.mtbtrails.it/trail-areas/bike-park-bocca-di-valle
 way	12653775	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	57035180	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	301862068	https://it.m.wikipedia.org/wiki/File:Orsogna_-_Torre_di_Bene_03.jpg
