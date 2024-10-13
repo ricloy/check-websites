@@ -269,7 +269,7 @@ node	685957627	https://www.poste.it
 node	686605235	http://www.carsharing.roma.it/
 node	696078932	https://www.hotelnazionale.it/
 node	698874239	http://www.carsharing.roma.it/
-node	698889483	https://www.asl-rme.it/index.php?p=servizi&s=9&g=11
+node	698889483	https://www.aslroma1.it/presidi-territoriali/poliambulatorio-della-vittoria
 node	701969525	www.principebb.com
 node	703469765	https://www.giustizia.lazio.it/
 node	706793341	http://www.dopart.it
@@ -2134,7 +2134,7 @@ node	4534591291	https://www.amedeoristorante.com/
 node	4534729789	https://www.suppliroma.it/
 node	4538921591	https://www.la-ciambella.it/
 node	4538925190	https://www.supplizioroma.it
-node	4544509790	http://www.momartcafe.it/
+node	4544509790	https://www.momartcafe.it/
 node	4546146570	https://www.facebook.com/BirFudBeershop/
 node	4546605240	https://sciamlab.com/
 node	4547291385	https://www.sixt.it/
@@ -2918,6 +2918,7 @@ node	5506371673	letermedelcolosseo.it
 node	5509334221	http://www.pascuccifrullati.it
 node	5509587196	https://www.sovraintendenzaroma.it/i_luoghi/roma_antica/monumenti/colombari_di_via_taranto
 node	5513411016	http://www.ristorante-ilfocolare.it
+node	5514213056	https://www.etnochicroma.it/
 node	5515273806	http://www.ristoranteduowei.it/
 node	5516079197	https://istitutominerva.it/
 node	5516116278	sushinolimits.com
@@ -3487,7 +3488,7 @@ node	6476405885	https://www.facebook.com/muranomax
 node	6492481685	http://gelateriadiegracchi.it
 node	6497896682	https://www.museodellarepubblicaromana.it/it/il_museo/editoriale
 node	6497917970	https://www.galleriaartemodernaroma.it/it/il_museo/editoriale
-node	6498036950	https://www.casaalbertomoravia.it/it/il_museo/editoriale
+node	6498036950	https://www.casaalbertomoravia.it/
 node	6499298187	https://web.uniroma1.it/museostoriamedicina/
 node	6499338101	https://web.uniroma1.it/museodichimicaprimolevi/
 node	6499816579	http://castelsantangelo.beniculturali.it
@@ -3647,7 +3648,7 @@ node	6886439834	http://www.farmaciacolledelsole.it/index.asp
 node	6897079038	https://www.medasport.it/contatti.asp
 node	6897079040	https://www.autoricambiemmedue.it/
 node	6897079045	http://www.orionliveclub.com/info/
-node	6908586063	https://www.vicuscaprarius.com/
+node	6908586063	https://www.vicuscaprarius.com
 node	6911680778	https://www.doublestroke.it/
 node	6920380585	https://anticofornoroscioli.it/
 node	6923677416	https://www.evilmachinestattoo.com/
@@ -4267,7 +4268,6 @@ node	8387143267	https://www.libreriarotondi.it/
 node	8387143275	https://www.ristorantebaiachia.it/
 node	8387143282	http://www.merlino.org/attv-ro.htm
 node	8387143295	https://www.newartcornici.com/
-node	8389140137	https://www.rai.it/
 node	8390498342	https://www.asddarkzone.it/
 node	8390863231	http://yogahatha.it/
 node	8390863235	http://www.sforno.it/
@@ -4279,7 +4279,6 @@ node	8392403346	https://www.raiplay.it/
 node	8395520415	https://www.la7.it/
 node	8398705700	https://www.raicom.rai.it/
 node	8409337159	https://cinziavestitiusati.wordpress.com/
-node	8410809557	https://www.poste.it/gestore-attese/index.html#/ticket/55648/00195
 node	8410965743	https://molinariartcenter.it/
 node	8412065725	http://www.latazzinastregata.it/
 node	8412913329	https://www.comune.ventotene.lt.it/zf/index.php/musei-monumenti/index/dettaglio-museo/museo/7
@@ -4912,6 +4911,7 @@ node	9782270867	https://negozi.naturasi.it/italia/roma/albano-laziale
 node	9783292218	https://www.aureliagardenrooms.it/
 node	9787381218	https://grezzorawchocolate.com/
 node	9788689123	https://www.scuolaamoremisericordioso.com/
+node	9790122316	https://www.collemordani.it
 node	9796921985	https://hoteledenbolsena.it/
 node	9797955029	https://www.naba.it/
 node	9797956580	https://www.britishcouncil.it/
@@ -5083,6 +5083,7 @@ node	10081159666	http://www.italnorge.it/
 node	10081244983	https://www.ercolina.com/
 node	10081485794	https://romamarconi.mercatinousato.com/
 node	10082899007	https://www.spacesworks.com/it/rome-it/eur-arte/
+node	10083472329	https://www.ubkrestaurant.it/
 node	10088840361	https://baccioeigradini.it/
 node	10095952154	https://www.ciropurpetta.it/
 node	10101353108	https://www.cometcsc.com/
@@ -6218,16 +6219,21 @@ node	12184144984	https://www.ideav.it/
 node	12188071501	http://www.ristorantemiralago.com/
 node	12190161285	https://www.digitromawifi.it
 node	12199729401	https://www.vinotecatempere.it/
-node	12206519733	http://garofalorent.it/
+node	12206519733	https://garofalorent.it/
 node	12206706223	https://www.semolapizza.it/
 node	12206971645	http://www.careddusrl.it/
 node	12208469663	Hotel Antica Locanda
-node	12208734201	http://www.beerstyle.it
+node	12208734201	https://www.beerstyle.it/
 node	12215436728	https://roadmama.it
 node	12219189596	https://www.esercito.difesa.it/Corpo-Militare-ACISMOM
 node	12219202508	https://www.ordinedimaltaitalia.org/gran-priorato-di-roma/roma3
 node	12222071088	https://nogashoes.com
-node	12228196601	http://hotelpiemonte.com
+node	12228196601	https://www.hotelpiemonte.com/
+node	12232206515	https://modpro.it
+node	12235156736	https://www.corteconti.it/Home/Attivita/Procura
+node	12235766582	https://linktr.ee/chiarafornoefornelli
+node	12237750695	https://www.rione13ristorante.com/
+node	12238459020	https://www.annaiacobucci.it/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7380,7 +7386,7 @@ way	362618310	https://www.cisalfasport.it
 way	362618311	https://citydogparioli.net
 way	362696755	http://ghanaembassy.it/
 way	363223377	http://www.santagalla.it/
-way	363355393	kpmg.com
+way	363355393	https://www.kpmg.com
 way	363360667	http://overseas.mofa.go.kr/it-ko/index.do
 way	365118479	https://www.asl.fr.it/strutture/presidi-ospedalieri/sora-ospedale-ss-trinit%C3%A0
 way	365376477	http://www.foyer-ronciglione.it/
@@ -8733,6 +8739,7 @@ relation	1517413	castellodelsasso.it
 relation	1530887	https://www.eurspa.it/it/asset-property/patrimonio/edifici-storici/palazzo-arte-moderna
 relation	1536797	http://2.42.228.117/archeologia/index.php?it/142/scavi/scaviarcheologici_4e048966cfa3a/15
 relation	1537040	http://etruriameridionale.beniculturali.it/index.php?it/135/aree-archeologiche
+relation	1538880	https://www.rai.it/
 relation	1576101	https://www.cgu.it/it/santo-stefano-rotondo/
 relation	1669409	www.battellidiroma.it
 relation	1674668	https://moovitapp.com/index/it/mezzi_pubblici-line-5-Roma_e_Lazio-61-1788057-26527390-3
@@ -8774,6 +8781,7 @@ relation	2084183	http://www.villaadriana.beniculturali.it/index.php?it/141/teatr
 relation	2112290	https://www.sovraintendenzaroma.it/i_luoghi/roma_antica/monumenti/sepolcro_di_priscilla
 relation	2130163	https://hsangiovanni.roma.it/
 relation	2149563	https://www.francigena.vt.it/
+relation	2156508	https://www.poste.it/gestore-attese/index.html#/ticket/55648/00195
 relation	2189753	https://www.benedettinesantacecilia.it/
 relation	2199010	http://www.vigilfuoco.it/sitiVVF/latina/
 relation	2234038	https://abbaziadicasamari.it/
@@ -8793,6 +8801,7 @@ relation	2426559	https://www.piscinadellerose.it/
 relation	2433678	https://www.casaledellacquabianca.com/
 relation	2433717	http://www.lazioturismo.it/asp/scheda_archeo.asp?id=87
 relation	2436896	https://www.termedistigliano.it/
+relation	2441352	https://centrocongressi.confindustria.it/#/ms-1/1
 relation	2459896	https://www.comune.roma.it/PCR/resources/cms/documents/delibGC24219lug2011.pdf
 relation	2461289	https://romamobilita.it/it/servizi/ztl/fascia-verde-anello-ferroviario
 relation	2522844	https://www.francigena.vt.it/it/
@@ -9518,6 +9527,7 @@ relation	17882879	https://camminodilarth.it/
 relation	18031930	https://www.facebook.com/gympalacemanziana
 relation	18051918	https://camminodeibriganti.it/mtb/
 relation	18106131	https://www.cassanotariato.it
+relation	18140858	https://poliziapenitenziaria.gov.it/polizia-penitenziaria-site/en/centrosportivomt.page
 node	251888861	https://www.multisalagreenwichroma.com/
 node	452570567	https://www.catacombe.org/
 node	802459210	https://www.oasidigreccio.it/
@@ -9781,7 +9791,6 @@ relation	2562181	http://www.universitadeibambini.it/Libera_Universita_dei_Bambin
 relation	3777310	http://www.conventobolsena.org
 relation	6962407	https://www.churchofjesuschrist.org/temples/details/rome-italy-temple
 relation	7347350	https://www.casareginapacis.com
-relation	12300259	https://www.corteconti.it/Home/Contatti
 relation	13007814	https://www.romeowcatbistrot.com
 relation	14228417	https://www.santuarivallesanta.com/santuari/poggio-bustone/
 node	32631124	http://www.giolitti.it/
