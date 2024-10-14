@@ -9,7 +9,6 @@ node	470282967	https://www.parcopollino.it/grotta-del-romito/
 node	870392827	www.radasiri.com
 node	996897953	https://www.fattoriastocchi.it/
 node	996912498	https://www.sushirende.it/
-node	1059765456	https://campingcammellogrigio.it/
 node	1059765617	https://www.campingmareazzurro.it/
 node	1307004762	https://www.facebook.com/farmaciacantafora/
 node	1362134779	https://www.conad.it/ricerca-negozi/conad-superstore-contrada-crocicchia-snc-89029-taurianova--010240
@@ -314,7 +313,6 @@ node	9121947981	https://www.tenutadellegrazie.it/
 node	9122841547	https://turismo.responsabile.coop/it/struttura-turistica-calabria/eco-ostello-locride
 node	9126473693	https://www.autoservizipreite.com
 node	9142429976	https://www.tesla.com/findus/location/supercharger/palmisupercharger
-node	9152243264	www.confcommerciocalabria.it
 node	9152274665	https://confcommerciocosenza.it/
 node	9321016002	https://vadala-toyota.it/
 node	9324424490	https://www.iltartufopenna.com
@@ -561,6 +559,7 @@ node	12218439375	https://www.casamastroianni.com/
 node	12221467288	https://deminimi.com/
 node	12221830090	http://www.fossella.it/
 node	12229391317	https://www.viaggiforte.com/
+node	12246403935	https://www.biciecaravan.it
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	31321527	https://www.conad.it/ricerca-negozi/negozio.006286.html
 way	86940311	https://www.sacal.it/
@@ -599,6 +598,7 @@ way	180759669	https://www.pagineazzurre.com/porti-della-basilicata/corigliano-ca
 way	180818176	https://www.minervaclubresort.it/golf
 way	182192725	http://www.alfiercamping.it/
 way	182331370	https://www.piaggio.com/
+way	184762776	https://www.campingsanpaolo.com/
 way	190627017	https://hotelsouthparadise.it/
 way	191374538	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/5573?id=5573
 way	191374599	https://www.aspvv.it/index.php/servizi-sanitari/ospedali/serra-san-bruno
@@ -657,7 +657,9 @@ way	278036115	https://www.comune.curinga.cz.it/
 way	278699813	https://www.asp.rc.it/?q=node/1574
 way	278789151	http://www.prolocogioiosajonica.it/DA-VISITARE/palazzo-amaduri.html
 way	279225696	http://www.treeffecenter.it/
+way	281312100	https://www.mimosacamping.it/
 way	284634539	https://www.onda-azzurra.it/
+way	285017253	https://www.vascellero.it/
 way	294983284	https://www.museisantaseverina.it/
 way	297492666	https://www.hotelroscianum.it/
 way	302713278	http://www.vallecrocchio.it/itinerari/naturalistici/Itinerario%2012.pdf
@@ -698,12 +700,15 @@ way	395774631	https://scogliodellagalea.it/
 way	396000717	https://www.villaggiobaiadegliachei.it/
 way	396279897	https://www.essofuelfinder.it/598190-stazione-di-servizio-esso-maida
 way	403901207	http://www.liceosoverato.it
+way	407485735	https://www.puntalice.it/
+way	407485739	https://www.campingtorrenova.it/
 way	425740569	http://www.comune.castrovillari.cs.gov.it/
 way	425778169	https://www.bbdarita.it/
 way	425816730	http://www.ipssarcastrovillari.gov.it/
 way	426080067	http://www.iisgaribaldialfano.gov.it/
 way	435473519	http://www.comuneacri.gov.it/
 way	437151786	https://artigianofiumano.oneminutesite.it/
+way	440637288	https://www.baiadeigreci.it/
 way	442087318	http://www.libri-net.com/
 way	443533331	https://www.agraria.unirc.it/
 way	443568711	http://www.vitrioliprincipepiemonte.it/
@@ -721,6 +726,7 @@ way	444088362	http://www.parrocchiemap.it/parrocchiemap/consultazione/parrocchie
 way	445209625	https://www.calypsocamping.it/
 way	446088516	http://www.ferramonticampo.it
 way	450318646	https://nttdata.com
+way	454727165	http://www.cataldobeach.it
 way	454919323	https://calabriagreca.it/blog/car-rentals/cattedrale-di-santa-maria-dellisodia-bova/
 way	457417231	https://www.icamarellirossano.edu.it/
 way	457418023	https://www.museodellaliquirizia.it/
@@ -770,6 +776,7 @@ way	592029438	https://www.facebook.com/pages/Volo-Rosso/771259226302963
 way	596528518	http://www.itgrighi.gov.it/
 way	598971773	https://www.parcoecolandia.it/ecosite/
 way	614503841	https://www.areacamperulisse.it/
+way	618587431	https://villaggionirvana.it/
 way	625005221	https://www.lidoaurora.it/
 way	647038443	https://www.comune.soverato.cz.it/
 way	662332623	https://www.orafoluigimungo.it/
@@ -790,8 +797,10 @@ way	812508910	http://www.calme.it/
 way	824208995	https://www.palazzopolicastrisuites.it/
 way	834217990	https://www.popiliaresort.it/
 way	850413604	https://www.museocodexrossano.it/
+way	858244518	http://www.costasplendente.it/
 way	859313247	https://campingthurium.com/
 way	859615532	https://www.poliziadistato.it/
+way	863819998	https://www.dueelle.com/
 way	875838296	https://www.carabinieri.it/
 way	881756132	https://portalidicalabria.altervista.org/palazzo-cosentino-romiti-a-isca-sullo-ionio-cz/
 way	884468010	https://temesaresort.it/
@@ -843,6 +852,7 @@ way	1137103049	https://www.iisfermi.edu.it/
 way	1139340782	https://www.asp.cz.it/
 way	1174327176	https://www.orientalpark.it/
 way	1174753643	https://www.conad.it/ricerca-negozi/negozio.050247.html
+way	1175009342	https://www.marinadirossano.it/
 way	1176540946	www.caicatanzaro.it
 way	1176540948	www.caicatanzaro.it
 way	1176630653	https://www.facebook.com/parcogaslinicz/
@@ -884,6 +894,7 @@ way	1205212596	https://www.iisvemanuele.edu.it/
 way	1205242265	https://www.youtube.com/watch?v=g2WtOHyQstI
 way	1215351805	https://www.lagalleriaonline.com/
 way	1217981059	http://www.krataiis.it/
+way	1222359717	https://www.villaggiodamario.com/
 way	1232254445	http://www.campingcaravansud.it/
 way	1249157444	https://calabriagreca.it/blog/risorse/castello-ruffo-di-amendolea/
 way	1259465053	https://www.andandoporelmundo.com/italia/villa-san-giovanni/albergo-autostello-di-idone-domenica/
@@ -911,6 +922,18 @@ way	1309955206	https://www.icmonteleonepascoli.edu.it/
 way	1311016433	https://www.facebook.com/carrubaio/
 way	1311067133	https://www.jw.org/
 way	1314337811	https://www.lidotropical.it
+way	1322291423	https://www.villaggioposeidon.eu/
+way	1322295595	https://www.campingoasibadolato.it/
+way	1322295596	https://www.campinglarocca.it/
+way	1322708341	https://campingcammellogrigio.it/
+way	1322834026	https://www.anotherbeach.com/
+way	1322837048	https://www.ilfaro-camping.it/
+way	1322840267	https://www.campingpoker.com/
+way	1322867035	https://www.villaggiomarinella.com/
+way	1322974155	https://comune.terravecchia.cs.it/
+way	1323107085	https://area-attrezzata-gabella.webnode.it/
+way	1323115851	https://lnx.cogobay.it/
+way	1323166065	http://www.villaggioirene.it/
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	5437445	http://www.certosini.info/
