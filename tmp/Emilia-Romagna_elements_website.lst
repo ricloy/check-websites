@@ -663,7 +663,7 @@ node	1768515566	https://www.motomarketrivara.it/
 node	1770319349	https://www.piemmeauto.com/
 node	1771669629	http://www.ristorantestradivarius.com
 node	1771674280	https://www.museogeologico.it/
-node	1785112652	http://www.ristorantepizzeriajolly.it/
+node	1785112652	https://www.ristorantepizzeriajolly.it/
 node	1785223082	http://www.hotelestense.com/
 node	1794519230	http://www.bizzocchi1893.it
 node	1799566535	http://www.lacollinadeicavalli.com
@@ -999,6 +999,7 @@ node	2583605055	http://ilcampanaccioimola.it/
 node	2585157685	https://hotel-centrale-byron.h-rez.com/index.htm
 node	2585711480	https://www.ristoranteilkiwi.com/
 node	2587315303	https://www.pizzeriacado.it/
+node	2587340655	https://www.callegherie.it/
 node	2587611667	computerserviceravenna.it
 node	2588275436	https://lascuderiadozza.it/
 node	2597126483	https://www.ristorantecontrovento.it/
@@ -1097,7 +1098,6 @@ node	2718127851	https://waikikipoke.it/
 node	2718128736	https://www.europcar.it/
 node	2718128920	https://www.osteriailgallo.it/
 node	2718129184	https://www.hotelheaven.it/
-node	2718129223	https://gate1962.it/menu/
 node	2718131021	https://www.catpirozzi.it/
 node	2718131190	https://lapinsallegra.it/
 node	2718131593	https://www.trattorialamarianna.it/
@@ -2246,7 +2246,7 @@ node	4712488714	https://www.pastafrescarossi.it/
 node	4712489294	https://www.bonibilance.it/
 node	4712489299	https://www.biolaser.it/
 node	4712489302	https://tamburiniegardosimodena.listonegiordano.com/
-node	4712489593	http://www.layogurteria.it/
+node	4712489593	https://www.layogurteria.it/
 node	4712489604	https://www.ristoranteuvadoro.it/
 node	4712490291	https://www.maisonjeanluc.it/
 node	4712496074	https://www.118er.it/dae/dae.asp
@@ -2261,7 +2261,7 @@ node	4712506390	https://www.farmaciasanfaustino.com/
 node	4712507149	https://www.fornoraffaello.it/
 node	4712508087	https://www.118er.it/dae/dae.asp
 node	4712509484	https://www.lapomposa.com/
-node	4712511551	http://www.pokefactory.it/
+node	4712511551	https://www.pokefactory.it/
 node	4712511984	https://www.compagniadeltaglio.it/
 node	4712515286	https://www.118er.it/dae/dae.asp
 node	4712515364	https://www.biciclette.modena.it
@@ -2283,7 +2283,7 @@ node	4712525562	http://www.farmaciabuonpastore.it/
 node	4712528638	https://www.staroptics.it/
 node	4712529295	https://ristorantecivoleva.it/
 node	4712529313	https://mobmodena.it/
-node	4712529328	http://www.labeerinto.it/
+node	4712529328	https://www.labeerinto.it/
 node	4712530204	https://newtechgroup.it
 node	4712530622	https://www.118er.it/dae/dae.asp
 node	4712531748	https://www.riacef.it/
@@ -5802,13 +5802,17 @@ node	12203691558	https://www.dorelan.it/pages/dorelan-rimini
 node	12209840858	https://bologna.mae.ro/
 node	12210808057	https://www.fspark.it/it/parcheggi/nord-est-italia/bologna-centrale-p3.html
 node	12211732205	https://www.cralrer.it/
-node	12212371971	http://www.alljollisports.it/
+node	12212371971	https://www.alljollisports.it/
 node	12213744278	https://www.cristinalusvardirestauro.it/
 node	12215456435	https://www.facebook.com/barkappaduequara/?locale=it_IT
 node	12222377675	https://karmahairstylist.it/
 node	12222419612	https://giustospirito.com/
 node	12230425601	https://veterinariocurie.com/
 node	12231638024	https://www.unibo.it/en/
+node	12235761843	https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.alpesappenninae.it/sites/default/files/N050Zagnoni02.pdf&ved=2ahUKEwiN2NSvi_-IAxX__7sIHTd2DS4QFnoECB0QAQ&usg=AOvVaw1Ev4aX6ay0TopoK-5LSaYH
+node	12244627788	http://www.creationgym.it/
+node	12247106612	https://www.facebook.com/CorteSantoStefano
+node	12250181487	http://www.cmeuropastampi.it/
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	https://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -6426,7 +6430,6 @@ way	179724241	https://scn.caiparma.it/schede/mulino-le-latte-neviano-arduini-loc
 way	179724692	https://scn.caiparma.it/schede/mulino-di-bazzano-neviano-a/
 way	179724726	https://scn.caiparma.it/schede/mulino-della-toccana-di-sopra-neviano-arduini-loc-toccana/
 way	179730815	https://scn.caiparma.it/schede/mulino-di-pietta-tizzano-val-parma-loc-pietta/
-way	179730836	https://scn.caiparma.it/schede/bastia-fattori/
 way	179764834	https://scn.caiparma.it/schede/mulino-di-groppo-tizzano-val-parma/
 way	179769051	https://www.poderelabertazza.it/
 way	179866360	https://www.parks.it/rif/bivacchi.valparma/
@@ -6628,6 +6631,7 @@ way	213878344	https://www.anticoportoravenna.it/
 way	213879983	https://www.polomusealeemiliaromagna.beniculturali.it/musei/mausoleo-di-teodorico
 way	215080410	https://www.tcravenna.it/
 way	215552691	https://www.cineclubilraggioverde.it/
+way	215553423	https://www.farena.it/
 way	215944377	https://www.conad.it/ricerca-negozi/negozio.006892.html
 way	219504660	http://www.e-coop.it/StoreLocator/dettaglio.jsp?id=4
 way	219697870	https://ambiente.regione.emilia-romagna.it/parchi-natura2000/aree-protette/riserve-naturali/scar
@@ -6931,6 +6935,7 @@ way	321725450	https://www.domusrimini.com/
 way	321725452	https://www.comune.rimini.it/
 way	323433323	www.studiokyklos.com
 way	324852581	https://www.ic1riccione.it/index.php/i-plessi/scuola-secondaria/via-einaudi
+way	325449413	https://www.scuolemaestrepie.it
 way	325457397	https://www.aldrovandirubbiani.edu.it/
 way	325723619	https://ic8bo.edu.it/le_scuole/bombicci/
 way	325874880	http://residencebenvenuti.it/
@@ -7666,6 +7671,7 @@ way	1313678900	https://agriturismolastadera.it/
 way	1315001065	https://www.tatihotel.it
 way	1316589220	https://www.castellidelducato.it/castellidelducato/area-camper.asp?el=nuova-area-camper
 way	1317875321	https://mr-ock.eatbu.com
+way	1322109732	https://www.centrorevisionithesi.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42855	http://www.comunecamugnano.gov.it/
 relation	42901	https://www.comune.casteldicasio.bo.it/
@@ -9024,6 +9030,7 @@ relation	17919023	https://www.viefrancigene.org
 relation	17921631	https://www.viefrancigene.org
 relation	17927340	https://www.viadegliabati.com/
 relation	17927341	https://www.viadegliabati.com/
+relation	17952945	https://scn.caiparma.it/schede/bastia-fattori/
 relation	17955694	https://www.caiparma.it/
 relation	17955729	https://www.caiparma.it/
 relation	17998941	https://www.caiparma.it/
