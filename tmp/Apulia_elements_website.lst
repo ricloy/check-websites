@@ -760,7 +760,6 @@ node	5383258378	https://www.facebook.com/Gocce-Di-Caff%C3%A8-1728496227425363/
 node	5383285158	https://www.facebook.com/EnotecaWineItaly/
 node	5383296125	https://www.facebook.com/PanificioLaCaravella/
 node	5383363016	https://puntivenditadeco.multicedi.it/it/italia/bari/bari-via-abate-gimma
-node	5405356628	https://stammi-bene.it/
 node	5405356629	https://stammi-bene.it/
 node	5410417984	http://www.sabap-ba.beniculturali.it/index.php?it/86/la-soprintendenza
 node	5410420906	https://www.zialuciaskateshop.com
@@ -998,7 +997,6 @@ node	6421427809	https://www.sixt.it/
 node	6421427812	https://www.autovia.it
 node	6431349775	https://www.facebook.com/pages/category/Shopping---Retail/China-Store-282977355412928/
 node	6431419755	https://www.facebook.com/pg/Piazza-Cina-Massafra-493621564485227/about/?ref=page_internal
-node	6432166468	http://www.parkingservice24.it
 node	6432930306	https://santostefanoluxury.it/
 node	6432930324	https://www.numeriprimisrl.it/
 node	6432933306	http://www.bbbrundabrindisi.com/
@@ -1123,7 +1121,7 @@ node	7246898234	https://www.facebook.com/martucciluisa72/
 node	7261766218	https://www.bridecouturelecce.it/
 node	7263229973	http://www.alcapitanocortese.it
 node	7282064265	http://www.comune.zapponeta.fg.it/
-node	7299691968	www.bestwestern.com
+node	7299691968	https://www.arasolishotel.com
 node	7299865516	https://jerome-chocolat.restauflow.it/store/bari
 node	7301290211	https://castellaneta.gov.it/pubblicazioni/item/18581-servizio-di-guardia-medica-turistica-estate-2019
 node	7302446212	https://www.grupposanmarco.eu/
@@ -2521,6 +2519,16 @@ node	12228451534	https://www.porteblindatefragassi.it/
 node	12228451543	https://www.antonicellielettrodomestici.it/
 node	12229932982	https://radiologiaonline.it/
 node	12230064277	https://www.edoardotresoldi.com/works/basilica-di-siponto/
+node	12234310573	https://www.materdeihospital.it/villa-luce/
+node	12234723078	https://lapostaprivatanazionaleandria.it/contatti/
+node	12235811135	https://centroservizifamigliequintomunicipiobari.it/
+node	12241146519	https://www.marinoautomobili.it/hyundai
+node	12241146520	https://bari.scavolinistore.net/
+node	12241783857	https://www.ciaky.it/
+node	12246272986	https://www.nauticadream.com/
+node	12246272987	https://www.oldcarsclub.it/
+node	12246318037	https://www.autocarrozzeriadecarnevito.it/
+node	12246318038	https://www.de-la.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -2666,6 +2674,7 @@ way	297450304	https://www.quattrostellearredamenti.it/
 way	297454758	https://www.metro.it/punti-vendita/lecce-surbo
 way	297803778	https://www.milleeunanottericevimenti.it/
 way	298330262	https://www.tarantofc.it/stadio-erasmo-iacovone/
+way	298331547	https://www.stadiodelnuotobari.it/
 way	298879513	http://www.icnovoli.gov.it/
 way	298880850	http://www.icnovoli.gov.it/
 way	298896132	http://www.malcandrino.it
@@ -2923,6 +2932,7 @@ way	410422495	http://www.ievamichelesnc.it/slideshow/OG2/slide4/slide.html
 way	410425935	http://www.giovinazzomia.it/Recensioni/Carminiello/Pagina.htm
 way	410439502	https://www.decathlon.it/
 way	410442214	https://www.mcdonalds.it/
+way	410587126	http://www.parrocchiasanroccovalenzano.it/
 way	410629864	https://www.fratelliazzaro.it/
 way	410903062	http://www.iissdenora.gov.it/
 way	410903072	http://www.iissdenora.gov.it/
@@ -2952,8 +2962,10 @@ way	416563736	https://www.santafara.org/
 way	416563773	https://www.tribunale.bari.giustizia.it/
 way	416563933	https://local.churchofjesuschrist.org/it/it/bari/bari/via-giuseppe-sangiorgi-4
 way	416564370	https://www.babylandiabari.com/
+way	416564941	https://www.divaniedivani.it/
 way	416565006	https://www.comune.bari.it/web/egov/-/decesso-sala-per-il-commiato
 way	416565149	https://cgilpuglia.it/
+way	416569649	https://www.carofiglio.com/
 way	416911455	https://www.angeliniarredamenti.it/
 way	416923693	https://www.facebook.com/Vivaioantonellotroia
 way	416928896	www.leonardodavincifasano.gov.it
@@ -2973,6 +2985,8 @@ way	417996612	http://www.silosgranari.it/it/sedi/bari.html
 way	417997251	http://www.bargrad.com
 way	417998213	https://www.liceoflaccoba.edu.it/
 way	417998760	http://www.autosilopoggiofranco.it/
+way	417998797	https://moyaristorante.com/
+way	417998806	https://www.villabebe.it/
 way	417998810	https://www.adspmam.it
 way	417998815	http://www.parrocchiascalzibari.it/
 way	417999127	https://www.nuovoteatroabeliano.com/
@@ -3669,6 +3683,14 @@ way	1320409632	https://www.transitalia.it/
 way	1320729120	https://www.sogimi.com/
 way	1320822294	https://www.dagafish.com/
 way	1321216285	https://www.aqp.it/
+way	1322874204	https://www.penny.it/
+way	1322974963	https://www.carofiglio.com/
+way	1323378588	http://www.parkingservice24.it
+way	1323380300	https://www.sunbaytaranto.it/
+way	1323395689	https://www.decorcasagarden.it/
+way	1323407100	https://www.magistrocreativiassociati.it/
+way	1323425285	https://www.dagafish.com/
+way	1323582448	http://www.multif.eu/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -3836,7 +3858,6 @@ relation	17349766	https://www.thenicolaushotel.com/
 relation	17467312	https://www.uniba.it/
 relation	17469561	https://www.uniba.it/it/ricerca/dipartimenti/dipmedveterinaria
 relation	17497412	https://www.icmazzinimodugno.edu.it/
-relation	17630551	https://www.ciaky.it/
 relation	17857179	https://www.liceoaristosseno.edu.it/
 relation	17864305	https://www.eseitalia.it
 relation	17895020	https://zoosafari.it/?art=news1
@@ -3864,7 +3885,6 @@ node	2361341097	https://scuolarcobaleno.business.site
 node	3598336093	www.tenutamadia.it
 node	3682522074	https://www.conservatoriofoggia.it/
 node	3845885449	http://www.tipicoresort.it
-node	3867214158	https://www.comune.bitonto.ba.it/servizi/biblioteca/
 node	4101133934	https://salinamargheritadisavoia.it/
 node	4112905018	https://www.masseriapilapalucci.it/
 node	4355936774	https://www.terranima.com/
