@@ -886,7 +886,7 @@ node	2361955294	www.residenzamarotta.it
 node	2361955866	https://www.dimsumrestaurant.it/
 node	2361956423	https://biancorosso.business.site/
 node	2361956720	https://www.touristhouseliberty.it/
-node	2361961257	https://azlanguage.it
+node	2361961257	https://azlanguage.it;https://azlanguage.it/
 node	2361961348	https://www.ristorantesabatini.it/
 node	2361961515	https://duje.it/
 node	2361965724	https://www.hostelarchirossi.com
@@ -1266,7 +1266,6 @@ node	3225452868	http://www.pellegrinetti.it/
 node	3226406443	https://www.gardenhotelarezzo.it/
 node	3237614860	https://www.ok-computers.it/
 node	3247562384	https://www.icasalini.it/
-node	3255371093	http://www.cucinandoweb.it/
 node	3255847009	http://massadavivere.it/commerciante-osteria-i-3-compari-massa
 node	3255847010	http://massadavivere.it/commerciante-ristorante-l-arco-di-cybo-massa
 node	3255847011	http://massadavivere.it/commerciante-la-cantina-del-conte-massa
@@ -2030,6 +2029,7 @@ node	4964712256	https://www.tiemmespa.it/
 node	4964723869	https://www.tiemmespa.it/
 node	4964734809	https://www.poste.it/
 node	4965318721	https://www.villapiaggia.it/
+node	4973820721	https://larugealespighe.com/
 node	4976031921	https://m.facebook.com/pizzaenonsolo2022/
 node	4976319758	https://questure.poliziadistato.it/MassaCarrara
 node	4979669377	http://www.speleotoscana.it/programmi_php/catasto/grotta.php?num=1085
@@ -2184,7 +2184,7 @@ node	5402943822	https://www.hoteldinofirenze.com
 node	5410123751	http://www.lacasadegliaranci.altervista.org
 node	5410549422	https://www.sanantonio42.it
 node	5414570830	http://www.publidea99.it
-node	5415345275	https://labodeguitaacasatua.weebly.com/
+node	5415345275	https://www.rimodesteakhouse.com
 node	5432466958	https://www.kisorofollonica.it/
 node	5433160886	https://www.ayurveda-benessere.it/
 node	5435977822	https://www.fuocomatto.it/
@@ -2873,7 +2873,6 @@ node	6583565862	http://www.museocasadatini.it/
 node	6586928985	https://m.facebook.com/iquattroelementipizzeria/
 node	6586949185	https://m.facebook.com/LaCasina1989
 node	6586960786	https://www.alespizza.com/
-node	6587000486	https://www.facebook.com/gelateriatardelli/
 node	6589008857	https://www.ferramentabaroncini.it/
 node	6592999001	https://www.noleggiobicimaremma.com
 node	6593047204	https://www.sovana.eu/
@@ -5246,7 +5245,6 @@ node	11835262555	http://acasamastacchi.it/
 node	11839184167	https://peragnoliauto.landrover.it/
 node	11840733844	https://www.aidelfini.it/ristorante-e-bar
 node	11845603899	https://www.studikairos.it/
-node	11845680498	https://azlanguage.it/
 node	11847097444	https://www.riamoneytransfer.com/
 node	11847097445	https://locator.dhl.com/results?address=id:LEG150&language=en&lc=IT&resultUom=km&clientAppCode=GYD
 node	11847097448	https://www.brenciabbigliamentosiena.it/
@@ -6067,8 +6065,9 @@ node	12241419916	https://www.museofattori.livorno.it/
 node	12241504078	https://agraria-nonsololegna.it/
 node	12241585299	https://www.tinacciauto.com/
 node	12241620510	https://www.villalafornacina.it/
-node	12244964858	http://canyonpark.it/
-node	12246147102	http://eticoshop.it
+node	12244253654	https://www.repower.com/it/dina/
+node	12244964858	https://canyonpark.it/
+node	12246147102	https://eticoshop.it/
 node	12246873147	https://www.theyogicat.com/
 node	12246873148	https://www.notedelchianti.com/
 node	12246873155	https://katestravelexperience.eu/appartamento-ferro-di-cavallo-italy?correlationID=3d5b1eda-3671-42f5-8f96-17e5a44cdaaf
@@ -6080,6 +6079,18 @@ node	12246874405	https://www.blacksmithgarage.it/
 node	12246874409	https://www.atsenterprise.com/
 node	12246874422	https://diamantiincantati.it/
 node	12246874423	https://www.tuscanyarttrek.com/
+node	12248077001	https://buffetti.it/negozi-buffetti/gbc00899_4252/
+node	12248089801	https://copytafilo.it
+node	12248093501	https://libreriasangallo.it
+node	12249015171	https://www.falesiaonline.it/falesia/map/falesia-del-lupo.html
+node	12250237501	https://www.finneganpub.com/florence
+node	12258000229	https://www.candidabing.it/
+node	12264895360	https://www.tuarita.it/
+node	12264895362	https://gualdodelre.it
+node	12269309424	https://servizi-scandicci.055055.it/biblioteca-e-servizi-culturali
+node	12269469187	www.insmercato.it
+node	12269579680	https://www.tenutaterravita.it/
+node	12269908892	http://www.lepianedelmilia.it/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -6257,7 +6268,7 @@ way	113286752	http://www.palazzocapponiallannunziata.it/italiano/ilgiardino.asp
 way	113402660	https://classics.fsu.edu/Research/Cetamura-del-Chianti
 way	113680244	http://www.diocesiarezzo.it/index.php?option=com_content&view=article&id=298:eremo-di-montecasale&catid=130:luoghi-della-fede&Itemid=254
 way	113746636	http://www.tombolotalasso.it
-way	114019969	http://www.campingbaiadelsole.net
+way	114019969	https://campingbaiadelsole.it/
 way	114513700	https://www.campingtallinucci.it
 way	115607925	https://www.villacora.it/
 way	116084407	http://www.duomosangimignano.it
@@ -7666,6 +7677,7 @@ way	722825584	https://www.farmaciabartolozzi.it/
 way	722934110	https://www.alsambuco.com/
 way	722935495	https://villa-magnolia.it
 way	722935698	https://comune.piazzaalserchio.lu.it/
+way	723614346	http://www.casadelpadreceleste.it/l
 way	723895809	https://www.magu.it/it/magu-san-vincenzo/
 way	723909114	https://tecnodolciariasrl.it
 way	723909184	https://www.arcobalenocoop.it
@@ -8986,6 +8998,7 @@ relation	12707272	https://www.uslsudest.toscana.it/ospedali/valdelsa-campostaggi
 relation	12716210	https://www.villaggioorizzonte.it
 relation	12716529	https://www.mareverdevillaggio.it
 relation	12754832	https://www.capannori-terraditoscana.org/scopri/via-francigena/la-via-francigena-storica/
+relation	12759423	https://www.facebook.com/p/Parco-Vacanze-Foresta-Del-Teso-100064583319699
 relation	12770204	https://www.caiprato.it/
 relation	12770259	https://www.caiprato.it/
 relation	12770273	https://www.caiprato.it/
@@ -9375,6 +9388,7 @@ relation	18082442	https://www.laltrolatodelcaposaldo.com/
 relation	18095725	https://www.laltrolatodelcaposaldo.com/
 relation	18095736	https://www.laltrolatodelcaposaldo.com/
 relation	18095778	https://www.laltrolatodelcaposaldo.com/
+relation	18182062	https://www.tenutalabatistina.it
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
 node	256819101	https://www.unicooptirreno.it/punto-vendita/viareggio
@@ -9406,7 +9420,6 @@ node	1108697856	https://www.unicooptirreno.it/punto-vendita/marina-di-campo
 node	1277940911	http://www.grancaffesanmarco.it/
 node	1279640468	https://www.casamasaccio.it/
 node	1283618248	http://www.bibliotecadelleoblate.it/
-node	1319390255	https://www.hotelcapodistella.it/
 node	1365660449	www.lepapere.info
 node	1365660452	www.lepapere.info
 node	1377396263	http://ristorantepizzerialapiccarda.it/
@@ -9877,6 +9890,7 @@ node	12160712501	https://albergoetruria.it/volterra/
 node	12165233080	https://www.manifatturatabacchi.com/en/maker/eat-and-drink/shake-cafe/
 node	12165323246	https://www.ilbattibecco.it/
 node	12171431630	bruton.it
+node	12250618986	https://www.stelledilacona.it/
 way	28396159	https://www.basilicacateriniana.it/
 way	41735556	http://www.verrazzano.com/
 way	58670208	https://www.acquariodilivorno.it/
@@ -9890,6 +9904,7 @@ way	105912922	https://www.dsu.toscana.it
 way	116527316	http://www.toscovit.it/
 way	118351950	https://www.fortezzadiradicofani.it/
 way	118720311	https://www.mazzei.it
+way	120008638	https://www.hotelcapodistella.it/
 way	122514435	http://www.campeggiolafinoria.it
 way	124127654	https://www.carrefour.it
 way	124162782	http://ristorantelapprodo.net
@@ -9907,7 +9922,6 @@ way	141037797	https://www.mazzei.it
 way	144012077	http://www.hockeyfollonica.com
 way	147206194	http://www.cruma.org
 way	147764528	http://www.windsurflivorno.it
-way	149418118	https://www.stelledilacona.it/
 way	153093102	http://www.saluscompany.it
 way	154284514	http://www.cbtoscanacosta.it/
 way	156097273	https://www.conad.it/
@@ -10324,6 +10338,7 @@ way	572181101	https://cultura.ilfilo.net/la-villa-di-valdastra-e-lintervento-dei
 way	593047842	http://industrialheritagemap.sc17.it/?places=ex-fabbrica-24
 way	609021947	http://www.monteriggioniturismo.it/en/info-turistiche/area-camper-la-posta/
 way	628355925	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0900110102
+way	690547458	http://mapserver.provincia.prato.it/prv_po/Mappecittadini/pdfs/Mappecittadini_scheda_653.pdf
 way	691296300	http://mapserver.provincia.prato.it/prv_po/Mappecittadini/pdfs/Mappecittadini_scheda_563.pdf
 way	693818787	http://mapserver.provincia.prato.it/prv_po/Mappecittadini/pdfs/Mappecittadini_scheda_450.pdf
 way	695797042	http://mapserver.provincia.prato.it/prv_po/Mappecittadini/pdfs/Mappecittadini_scheda_742.pdf
