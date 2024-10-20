@@ -108,6 +108,7 @@ node	529252174	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10758
 node	532319910	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10766
 node	540505714	https://www.credit-agricole.it/
 node	554198621	https://dilanaedaltrestorie.it/
+node	558350225	https://www.ristorantedaclara.it/
 node	566829316	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10805
 node	597503047	https://www.farmaciafratellimarciani.it
 node	618657096	https://www.ipercasa.eu
@@ -681,6 +682,7 @@ node	5851844353	https://www.retitalia.eu/punti-vendita/
 node	5853343480	https://www.fabiodisconzi.com/open-carburanti/provincia-pe/46633/index.html
 node	5853345037	https://www.ranallishipping.com
 node	5859998085	https://scienzeumane.univaq.it/index.php?id=1684
+node	5882269385	https://www.campingsantostefano.com/
 node	5882434108	https://www.consiglio.regione.abruzzo.it
 node	5884289822	https://www.rondinellacamping.it/
 node	5884290022	https://www.parcomajella.it/visita-il-parco/multimedia/webcam/seufemia-a-maiella-pe-giardino-botanico-daniela-brescia/
@@ -1670,6 +1672,7 @@ node	7930518491	https://www.torredeibeati.it/en/torre-dei-beati-english/
 node	7930589806	https://modelstorming.business.site/
 node	7930605257	http://www.modelworld10.it/
 node	7930630105	https://www.vrmodellismo.it/
+node	7933366782	https://www.casa-co.it/
 node	7933944585	https://www.queenschips.eu/
 node	7935110371	https://www.bata.it/
 node	7935157568	https://www.calzedonia.com/it/pescara_c.so_v.emanuele_169
@@ -2528,7 +2531,6 @@ node	10725477235	https://www.agenziafunebredipeco.it/
 node	10725477270	https://www.fioraiogardendipeco.it/
 node	10726163713	https://www.studiodicrecchio.com/
 node	10727296087	https://www.puntocalor.com/
-node	10731454554	https://www.campingvillageadriatico.it
 node	10736634596	https://www.ceseda.it/
 node	10737994945	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10881
 node	10738197730	http://www.vaillantchieti.it/
@@ -3157,6 +3159,10 @@ node	12231510428	https://www.trigonviaggi.com/
 node	12241501330	https://www.compagniadellabellezzamastrangelo.it/
 node	12246166995	https://www.dove.it/agenzie-immobiliari/pescara
 node	12246167441	https://www.aia-figc.it/
+node	12250156764	http://www.arrosticinipescara.pe.it/
+node	12255362112	https://www.gasgas.fun/
+node	12258497187	https://www.freeshoes.it/
+node	12261132643	https://pescaraviadavalos.vivereeviaggiare.it/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3197,6 +3203,7 @@ way	60008561	https://www.eurospin.it
 way	60264625	https://www.pittarello.com/
 way	60264627	https://www.mondoconv.it
 way	60295526	https://www.musei.abruzzo.beniculturali.it/musei?mid=61&nome=museo-archeologico-nazionale-dabruzzo-villa-frigerj
+way	60784235	https://www.centrocommercialedelfino.it/
 way	60784239	https://www.eurospin.it/punti-vendita/pescara-523878/
 way	62263820	https://www.facebook.com/Time-Caf%C3%A8-1258231397610520/
 way	64719753	https://piscinah2on.it/
@@ -3229,6 +3236,7 @@ way	91903686	http://www.dimoravillaperenich.it/eng/index.html
 way	92256493	https://www.ducaamedeo.it/
 way	93929115	http://www.hotelmion.it
 way	93951552	https://www.villaggiolidodabruzzo.it/en/
+way	93955798	https://www.villaggioeuropa.it/
 way	93978921	https://www.hotellidoroseto.it/
 way	93978922	https://www.bellavistahotel.net/
 way	93978924	https://www.hotelromasulmare.com/
@@ -3248,11 +3256,13 @@ way	95158174	http://web.tiscali.it/pensione_garden
 way	95495677	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	96207220	https://rifugiofranchetti.it/
 way	97506313	http://www.itisteramo.it
+way	97537037	https://www.campingstellamaris.it/
 way	97974294	https://www.palacehotelvasto.it/
 way	98413109	https://www.majellettawe.it/majelletta-we-2/#wefood
 way	99581742	https://www.acquaparkondablu.it/
 way	100974625	https://www.unite.it/UniTE/
 way	101320591	https://www.dragonara.it/
+way	101386112	https://www.grottadelsaraceno.it/
 way	101928273	http://www.parrocchie.it/torrevecchiateatina/sanrocco/
 way	102321147	http://www.terracoste.com/leccetatorinodisangro/
 way	102321158	https://www.campinglemorge.it/
@@ -3326,8 +3336,6 @@ way	177799674	https://www.oacl.net/
 way	182440287	https://www.fioreortona.com/en/
 way	183567197	https://abruzzoturismo.it/en/harbour-portorose-roseto-degli-abruzzi-te
 way	183653218	https://www.info.asl2abruzzo.it/ospedaleortona/
-way	183794411	http://www.cantinacrecchio.it
-way	183794414	http://www.cantinacrecchio.it
 way	194337597	https://comune.scurcolamarsicana.aq.it/
 way	202569856	https://www.campingeucaliptus.it/
 way	204938702	http://www.lidohotel.net/
@@ -3447,6 +3455,8 @@ way	365716087	http://www.ilguadodellavalle.it
 way	366840642	https://www.zafferanoaltopianonavelli.it
 way	367633703	https://www.aslteramo.it/ospedale-di-giulianova/
 way	369729108	https://www.primula.it/
+way	371749424	https://www.campinglarcobaleno.it/
+way	371750050	https://www.campingriparidigiobbe.it/
 way	372540044	https://www.forddecar.it
 way	374845639	https://www.waltertosto.it/en/
 way	376266659	https://www.comune.spoltore.pe.it
@@ -3474,11 +3484,13 @@ way	425545825	https://www.ilpioppeto.it/
 way	425547692	https://www.plazavasto.it
 way	430123035	http://www.visit-gorianosicoli.it/poi/899/church-of-santa-maria-nuova/3
 way	430123036	http://www.visit-gorianosicoli.it/poi/898/church-of-santa-gemma/3
+way	435766580	https://www.gardenbeach.eu/
+way	435766878	https://www.agricampeggiomarenostrum.com/
 way	436883394	http://www.parcodaini.it/
 way	437012353	https://scuolaverde.com/
 way	438257086	http://www.alluparo.com
 way	438509590	https://www.comuniecitta.it/carabinieri/comandi-di-ortona-69058
-way	438509594	https://campingtorremucchia.it/about/
+way	438509594	https://campingtorremucchia.it/
 way	438509611	https://m.facebook.com/Ristocarne-on-the-ROAD-601555486556087/?ref=ts
 way	439627422	http://www.paesiteramani.it/Paesi/FlamignanoSAndrea.htm
 way	440200721	https://www.lapieja.it/
@@ -3580,6 +3592,7 @@ way	625671308	https://www.avezzanorugby.it/
 way	626699022	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	628151254	https://www.civitellamesserraimondo.net/
 way	631360552	https://en.nicelocal.it/abruzzo/entertainment/lago_della_marchesa_di_pianella/
+way	639106624	https://www.campeggiobelvedere.it/
 way	640136454	http://www.hotelcenzo.it/
 way	640155022	https://lapinetinaovindoli.it/
 way	640155037	https://www.comune.ovindoli.aq.it/hh/index.php
@@ -3753,11 +3766,13 @@ way	839651984	https://pescarafiere.it/
 way	842112527	https://www.rifugiodellarocca.it/
 way	842328614	https://www.comunesantostefanodisessanio.aq.it/
 way	843445764	https://www.matchfishing.it/2013/04/04/the-king-of-the-lake-catignano-pe-sa-gi-p-tour-la-selettiva-abruzzo-a-di-tonto-garofalo/
+way	844346017	https://www.heliopolis.it/
 way	844469365	https://www.hotelede.it
 way	844514288	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	844514289	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	844514292	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	844514293	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
+way	846104718	https://ambiente.comune.pescara.it/?page_id=4256
 way	846151364	https://ilsorpassomts.com/2018/11/23/la-fontana-di-piazza-le-naiadi/
 way	847792681	https://www.ilcentro.it/chieti/sottopasso-allagato-auto-sommersa-alla-stazione-di-tollo-1.1996312
 way	848036184	https://www.ilcentro.it/chieti/sottopasso-allagato-auto-sommersa-alla-stazione-di-tollo-1.1996312
@@ -3875,6 +3890,7 @@ way	958182606	https://www.centrouniverso.it/
 way	958581733	https://www.newdribbling.it/
 way	961103027	https://gelsumino.it/download/book/penneelesuefontane.pdf
 way	961526908	https://www.campingondaazzurra.it
+way	961526909	https://www.campingborghetti.it/
 way	962198778	https://www.infomedianews.com/largo-e-monumento-della-tiburtina-dedicati-al-pilota-eugenio-sirolli/
 way	964210827	https://www.conventosantissimaannunziata.org
 way	965317941	https://www.coal.it
@@ -3999,6 +4015,7 @@ way	1084394281	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_
 way	1084458134	https://castorani.it/it/
 way	1085397969	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	1087137771	https://iccorropoli.edu.it/
+way	1088759838	https://il-gatto-e-la-volpe.it/
 way	1090414994	https://giardinodegliulivi.com
 way	1090534363	https://vivaiolafelce.com
 way	1090801046	http://www.tavsantuberto.it
@@ -4113,6 +4130,9 @@ way	1215094044	https://www.facebook.com/groups/213017468747809/about/
 way	1215820359	https://parcogransassohotel.it/
 way	1216112264	https://www.riservasorgentidelpescara.it/tariffario-regolamento-area-pic-nic/
 way	1223142723	https://www.onpmi.org/case-di-accoglienza/ofena-aq/
+way	1224867456	https://www.noarabeach.it/
+way	1224867457	https://agricampingmarino.it/
+way	1224867458	https://www.facebook.com/AgricampeggiomareESoleRosi/
 way	1225415023	https://questure.poliziadistato.it/it/Teramo
 way	1225415024	https://questure.poliziadistato.it/servizio/uffici/5730dc9d62dab858942235
 way	1225535770	https://www.enelgreenpower.com/it/impianti/operativi/centrale-idroelettrica-triano
@@ -4144,6 +4164,7 @@ way	1271393350	https://sanita.regione.abruzzo.it/canale-ospedali/ospedale-di-cas
 way	1277327470	https://www.mcdonalds.it/ristorante/abruzzo/teramo/giulianova
 way	1277849300	https://campeggioaltosangro.webnode.it/chi-sono/
 way	1282432449	https://roccaraso.net/
+way	1283314295	https://www.agricampingvomanovecchio.it/
 way	1283634491	https://www.elenaclubresort.com/
 way	1290435411	https://www.villacesare.it/
 way	1290834277	https://www.parohia-pescara.it/
@@ -4173,7 +4194,11 @@ way	1316658111	https://www.nicolasantoleri.com/contatti
 way	1316951549	https://lorenzacalzaturificio.gruppoflorence.it/
 way	1317810840	https://www.ausl.pe.it/DettaglioSede.jsp?id=15
 way	1317942136	https://www.campingsunbeach.it/
+way	1318811648	https://www.pinetobeach.it/
 way	1323214385	https://www.regione.abruzzo.it/content/impianto-fotovoltaico-ad-inseguimento-monoassiale-la-produzione-di-energia-elettrica-da
+way	1324624548	https://www.facebook.com/profile.php?id=100095170185943
+way	1324624549	https://www.campingvillageadriatico.it
+way	1325266483	https://www.magalipe.it/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4421,6 +4446,7 @@ relation	17948489	https://www.ilcamminodabruzzo.it/
 relation	18025665	https://camminodeibriganti.it
 relation	18051918	https://camminodeibriganti.it/mtb/
 relation	18101424	https://www.catholic-hierarchy.org/bishop/bparla.html
+relation	18178088	http://www.cantinacrecchio.it
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
@@ -4434,7 +4460,6 @@ node	8821454281	https://www.vodafone.it/portal/Privati/Trovanegozio/vodafone-sto
 node	9123939727	https://www.prenotauncampo.it/centri-sportivi/pescara/pescara/padelmaniapescara/
 node	9203799774	https://www.facebook.com/pizzerialozio/
 node	9471038392	https://autoricambitritella.it
-node	10731454559	https://www.campingcarouan.it/
 node	10978467236	https://ilgiuggioloverde.it/contatti/
 node	11234246802	https://www.hotelrojan.it/
 node	11302870976	https://www.sbnoleggiobici.it/
@@ -4459,7 +4484,9 @@ way	1219832545	https://linktr.ee/fishbonesfishsushi
 way	1219832546	https://hotelilcasale.it/
 way	1225233711	https://www.pasquarelliautosrl.it
 way	1320957655	https://maielletta.it/
+way	1324624550	https://www.campingcarouan.it/
 relation	8646860	http://www.gssi.it/
+relation	18178088	http://www.cantinacrecchio.it/contattaci/
 node	768603431	https://farmaciasanmassimopenne.it/
 node	5235268513	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
 node	5235286740	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
@@ -4489,6 +4516,7 @@ way	359782109	http://www.comune.pineto.te.it/pagina1798_informazioni-utili.html
 way	378791366	https://scelgofullservice.com/e-store
 way	558584552	https://bar-la-torretta.business.site
 way	1228264791	https://www.patriaindipendente.it/memoria-attiva/ortona-1943-quella-battaglia-da-non-dimenticare/
+way	1242961312	https://www.todis.it/punti-vendita/scopri-i-negozi/#!/l/sambuceto/via-amendola-264/4399529
 way	1293938249	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/13031/Elice+%28PE%29+%7C+Chiesa+di+San+Martino+Vescovo
 way	1294646986	https://www.liceopenne.edu.it/indirizzo-di-studio/liceo-artistico/
 way	1294745501	https://www.ilcentro.it/pescara/parco-solare-anche-per-essilorluxottica-riconvertiti-40-ettari-di-terreni-industriali-1.3295267
