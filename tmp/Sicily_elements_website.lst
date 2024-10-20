@@ -1528,7 +1528,7 @@ node	5360959621	http://www.danzeassicurazioni.com
 node	5366984779	https://www.airbnb.it/rooms/19974676?location=Via%20Asmara%2C%2025%2C%20Tonnara%20di%20Bonagia%2C%20Valderice%2C%20TP&adults=1&children=0&infants=0&check_in=2018-04-13&check_out=2018-04-17
 node	5368378867	https://www.eternodentalshop.it/
 node	5370018358	https://www.comune.partinico.pa.it/
-node	5371522804	http://www.istitutopirandellopatti.gov.it
+node	5371522804	https://www.istitutopirandellopatti.edu.it
 node	5371940585	https://www.azetatoner.it/
 node	5373556043	https://www.poste.it
 node	5373556044	https://www.comune.borgetto.pa.it/
@@ -2500,7 +2500,7 @@ node	8766026978	https://www.casavostracatania.it/
 node	8766158725	http://www.gemdeluxe.it/
 node	8766158731	https://www.lacollegiata.com/
 node	8768435623	https://www.agriristocuntissa.it/
-node	8776860217	https://www.decathlon.it/
+node	8776860217	https://www.decathlon.it
 node	8781400305	https://www.icvergamartoglio.edu.it
 node	8781400306	https://www.undicesimosiracusa.it/
 node	8781400307	https://www.istitutocomprensivogiaraca.edu.it/
@@ -3728,6 +3728,7 @@ node	12170100114	https://ediliziacrobatica.com/
 node	12170100115	https://ediliziacrobatica.com/
 node	12170100116	https://ediliziacrobatica.com/
 node	12170117335	https://moveforlife.it/
+node	12179754724	https://www.istitutopascoliragusa.it/
 node	12180393351	https://www.14comprensivosr.edu.it/
 node	12180470990	https://www.melodianoto.edu.it/
 node	12180470991	https://www.melodianoto.edu.it/
@@ -3743,10 +3744,19 @@ node	12214105173	https://www.spaghettiandco.it/
 node	12216072602	https://pidatellaristorante.it
 node	12228454518	https://www.conad.it/
 node	12228454519	https://www.conad.it/
-node	12237309860	https://www.bagliopandolfinamarasa.it
 node	12237350361	https://www.booking.com/hotel/it/casa-azzurra-baglio-marasa.it.html
 node	12244675081	https://www.conad.it/
 node	12247174107	https://www.bapisupermercati.it/
+node	12249079644	www.bagliopandolfinamarasa.it
+node	12253386221	https://www.casavacanzekastalia.com/Casavacanzekastalia-2-La-Rossa
+node	12253386223	https://www.casavacanzekastalia.com/Casavacanzekastalia-3-La-Blu
+node	12253386225	https://www.casavacanzekastalia.com/Casavacanzekastalia-4-La-Relax
+node	12258916871	https://www.istitutopirandellopatti.edu.it
+node	12259400243	https://www.istitutopirandellopatti.edu.it
+node	12259405734	https://www.istitutopirandellopatti.edu.it
+node	12259426158	https://www.istitutopirandellopatti.edu.it
+node	12262857500	https://www.istitutopirandellopatti.edu.it
+node	12263109417	https://www.istitutopirandellopatti.edu.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4550,7 +4560,6 @@ way	363872436	http://www.casadicurasantabarbara.com
 way	364680904	https://www.marina.difesa.it/storiacultura/fari/Pagine/3104.aspx
 way	364707269	http://www.comuneletojanni.gov.it
 way	364953358	www.sportingresidenceclub.it
-way	365633525	www.hotelsanvincenzo.it
 way	367065501	https://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei/pagina_musei.asp?ID=165&IdSito=129
 way	369237717	https://www.campingsalica.it/
 way	369272777	http://www.isolavulcano.it/
@@ -4874,7 +4883,7 @@ way	553865657	http://www.comunetrabia.gov.it/
 way	554762857	https://www.retroroomscefalu.com
 way	555911694	https://www.misceladoro.com/
 way	557026811	https://www.poste.it
-way	557083473	https://www.istitutopirandellopatti.edu.it/
+way	557083473	https://www.istitutopirandellopatti.edu.it
 way	560927465	https://www.touristhotel.it
 way	561046338	http://www.hoteltartaruga.it/
 way	564425500	https://www.icradicebellini.edu.it/
@@ -5821,9 +5830,6 @@ way	1253808168	https://www.leonardoniscemi.edu.it/
 way	1254711343	https://casaferrigno.it
 way	1255331037	https://www.istitutomajoranaavola.it/
 way	1255331038	https://www.icbianca.edu.it/
-way	1256076004	https://www.casavacanzekastalia.com/
-way	1256076005	https://www.casavacanzekastalia.com/
-way	1256076006	https://www.casavacanzekastalia.com/
 way	1257243852	https://www.casavacanzelachesi.it/
 way	1257621147	https://www.scuoladusmetnicolosi.edu.it
 way	1257621169	http://www.istitutosantalucia.it/
@@ -5950,6 +5956,9 @@ way	1318893564	https://o2sportclub.com/
 way	1321793204	https://www.ghshotels.it/astoria/
 way	1322840977	http://agricolampidusa.com/
 way	1323156878	http://www.agenziaentrateriscossione.gov.it/
+way	1324304214	https://riservamontepellegrino.it/
+way	1324958463	https://cosipriziusi.it/
+way	1324979270	https://www.albachiararooms.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
