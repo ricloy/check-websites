@@ -261,7 +261,6 @@ node	1739098873	https://www.facebook.com/Errecicli
 node	1739198196	https://www.bibliotecacivicahortis.it/
 node	1747647036	https://www.hotelpittis.com/
 node	1750894677	https://www.bricocenter.it/it/punti-vendita/ep-minisito-punto-vendita/cervignano-del-friuli
-node	1750894680	https://www.sireneblu.it/
 node	1768167419	http://www.farmaciaasquini.it/
 node	1772685170	http://www.romaniaboutique.biz
 node	1803696370	https://www.alportonat.it/
@@ -645,7 +644,7 @@ node	2755619382	https://jysk.it/
 node	2758676364	https://www.pittarello.com/it/
 node	2763930826	https://trattoriaalmarinaio.business.site/
 node	2775737822	https://www.aditsolutions.it/
-node	2793054518	http://www.anconadue.com
+node	2793054518	https://www.anconadue.com/
 node	2798338199	http://tavernalongobarda.com/
 node	2811865368	https://www.agriturismocois.com/
 node	2820663118	http://www.geoscienze.units.it/geositi/vedigeo1.php?ID_GEO=111
@@ -1299,7 +1298,6 @@ node	4520488222	https://www.dondisalotti.com/
 node	4560300258	http://www.navigandotrieste.com/
 node	4579309349	https://www.brottomarcello.it/
 node	4580907852	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/457-cervignano.html
-node	4581099991	https://www.dardymusicandfood.it/
 node	4596684012	https://monviert.com/
 node	4597967294	https://www.ilgelatiereudine.it/
 node	4642118270	https://www.savors.eu/
@@ -1892,7 +1890,6 @@ node	8398001504	https://www.germanfiori.it/
 node	8400829366	https://www.isoladeitesori.it/negozio/trieste-via-di-cavana/
 node	8407519146	http://www.catastogrotte.fvg.it/306-Voragine_del_Monte_Cum
 node	8407600835	http://www.catastogrotte.fvg.it/7641-Foiba_del_Monte_San_Martino
-node	8413275083	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/5076-trieste---poggi-paese.html
 node	8416559086	https://tavagnacco.mercatopoli.it/
 node	8418220694	https://www.supermercativisotto.it/
 node	8423287376	https://www.latipografica.net/
@@ -2419,7 +2416,6 @@ node	11415269272	https://www.yesdesign.it/
 node	11415458654	https://www.sesonrose.bio/se-son-rose/
 node	11418063581	https://www.nerotrieste.com/
 node	11453868005	https://www.lignanopineta.com/
-node	11467342354	https://cottage-le-none.business.site/?utm_source=gmb&utm_medium=referral
 node	11468829073	https://www.hardfit.it/
 node	11486121122	https://mobilitasostenibile.comune.trieste.it/
 node	11502920729	https://linktr.ee/angelonero1988
@@ -3759,6 +3755,7 @@ way	1319914104	http://www.hotelriolignano.com
 way	1322682600	http://riservafoceisonzo.it/
 way	1322695625	http://www.riservavalrosandra-glinscica.it/
 way	1322695626	http://www.riservavalrosandra-glinscica.it/
+way	1326162053	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/5076-trieste---poggi-paese.html
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4046,6 +4043,7 @@ relation	1526505	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settor
 relation	1554500	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-077
 relation	1554501	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-072
 relation	1587644	https://www.comune.duino-aurisina.ts.it/
+relation	1699148	https://www.stat.si/obcine/Region/Index/11
 relation	1730704	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-662
 relation	1777257	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-713
 relation	1777290	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/s5-516
@@ -4652,7 +4650,7 @@ relation	12696036	https://www.alpe-adria-trail.com
 relation	12747866	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-049b
 relation	12927572	https://sentieroitalia.cai.it/tappa/?id=SI+A06V1
 relation	12927582	https://sentieroitalia.cai.it/tappa/?id=SI+A06V2
-relation	12934178	Mauthen-Heldenfriedhof-Valentintörl-Wolayersee Hütte • Bergtour » outdooractive.com
+relation	12934178	http://outdooractive.com
 relation	13088292	https://www.sabait.it/it/parcheggi/trieste/trieste-ospedale-maggiore
 relation	13158672	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13217964	https://www.comune.attimis.ud.it/index.php?id=13422
@@ -5088,6 +5086,7 @@ node	446273523	http://www.lagirandola.com/
 node	513701673	https://www.eurokey.it
 node	530758161	https://www.gdf.gov.it/
 node	537985342	https://www.ai-due-leoni.it/
+node	617878910	https://www.turismofvg.it/en/mountain365/sella-nevea
 node	668583878	https://www.mulinodelletolle.it/
 node	692767299	https://www.bricook.it/
 node	835196887	https://www.dvpanettone.com/
@@ -5302,6 +5301,7 @@ node	9271991214	www.camicissima.com
 node	9271991215	www.lapiadineria.com
 node	9271991216	www.desigual.com
 node	9272018717	www.zuiki.it
+node	9394844126	https://www.riservacornino.it/informazioni/
 node	9676381670	https://www.coopcasarsa.it/punti-vendita/ruda/
 node	9755091725	www.piquadro.com/it
 node	9755091727	www.push96.com
@@ -5367,7 +5367,6 @@ node	10089595534	http://www.casadimirea.com/it/grado/
 node	10090064930	https://www.arredamentiantima3.com/
 node	10101226455	https://www.turismofvg.it/
 node	10101324603	https://www.autofficinafratellibandiera.it/
-node	10101324614	https://www.intesasanpaolo.com/
 node	10111269999	https://newherashop.com/
 node	10111293120	https://www.civibank.it/
 node	10111293130	https://fioreria-fioridivini.business.site/?utm_source=gmb&utm_medium=referral
@@ -5396,6 +5395,7 @@ node	11989104680	http://www.agriturismozaine.it/
 node	12017287866	https://www.testedipietra.it/
 node	12132375119	https://www.agriturismodagastone.it/
 node	12132517851	https://ristorante-pizzerianordest.it/
+node	12278203605	www.falegnameriazeta.it
 way	35945116	http://www.casaperaria.it
 way	35946164	http://www.albergodiffusoilgrop.it/
 way	35946195	http://www.sotlanapa.it/
@@ -5487,6 +5487,7 @@ way	36721838	https://www.bricoio.it/Custom/PuntoVendita.aspx?codiceNegozio=1299
 way	36722241	http://www.vigilfuoco.it/
 way	36722243	https://www.carabinieri.it/
 way	45194107	https://www.fondazioneaquileia.it/it/cosa-vedere/porto-fluviale
+way	48660487	https://www.turismofvg.it/en/mountain365/sella-nevea
 way	70601088	https://www.palmanovavillage.it/
 way	89650583	http://www.federicomarsich.com
 way	136306693	https://www.lagunapalacehotel.it/?utm_source=gbp&utm_medium=organic
@@ -5520,6 +5521,7 @@ way	375049142	https://www.bellaitaliavillage.com/it/piscina-bella-italia.php
 way	399742376	http://www.kanaeteam.it
 way	461917015	https://www.decathlon.it/
 way	593078460	http://www.kanaeteam.it
+way	598796460	www.avwmj.it
 way	619568102	https://costadelsolgrado.it/
 way	620120268	https://www.spiaggiaairone.it/
 way	620120269	https://m.facebook.com/pages/category/Local-business/Stabilimento-Laguna-Gradese-da-Cinzia-747686161910309/
@@ -5564,6 +5566,7 @@ way	1107452935	https://www.zanuttaspa.it/punti-vendita/muzzana-del-turgnano/
 way	1108278563	https://www.lagunafarosuites.com/
 way	1110037198	https://www.parcotermalerivieraresort.it/
 way	1112677487	https://lamovidadeipescatori.eatbu.com/
+way	1133011585	https://www.620passi.com/
 way	1209087989	https://lignanosabbiadoro.it/it/strutture/pineta-for-dogs/
 way	1214969963	https://www.gradoit.it/it/scopri_le_terme_marine#
 way	1289812698	https://grado.it/it/spiagge-e-terme-marine/spiaggia-principale-git-1/
