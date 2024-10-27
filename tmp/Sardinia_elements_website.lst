@@ -685,6 +685,7 @@ node	2967725667	https://www.facebook.com/pages/Internet-caffè-orgosolo
 node	2980794295	https://www.hotelsustiarvu.com/
 node	2980823392	https://www.hotelsustiarvu.com/
 node	2989744740	https://www.itihotels.it/eng/colonna_hotel_du_golf/home.htm
+node	2992321578	https://www.farmaciavillasimius.it/
 node	2995436265	http://www.sacottilla.it
 node	2995485164	http://www.casamascia.it
 node	2995797658	https://www.ilvelierosolanas.it
@@ -1222,7 +1223,6 @@ node	5165040140	https://www.saguardia.com/
 node	5165208104	https://www.paolosaba.it/
 node	5184167305	https://www.sciabecco.it/
 node	5188595911	http://www.mammagrill.it
-node	5188624902	https://www.farmaciavillasimius.it/
 node	5194350631	https://cavallinoaccommodation.com/Casa/Dettagli/3
 node	5194350632	https://www.cavallinoaccommodation.com/Casa/Dettagli/4
 node	5212514855	http://www.marcoecaterina.it
@@ -1735,6 +1735,11 @@ node	12222985858	https://mtbttekking.blogspot.com
 node	12222990198	https://frantoiorubiu.it
 node	12222997705	https://tamoil.it
 node	12236259003	https://www.coopsardegna.it
+node	12255083929	https://palauturismo.com/luoghi/2280781/porto-turistico
+node	12255083937	https://www.marinapoltuquatu.com
+node	12255083938	https://www.marinapoltuquatu.com
+node	12255222086	https://www.marinadicalacapra.com/en/home-en/
+node	12271300155	https://www.bebpalmasera.com
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1877,6 +1882,7 @@ way	186854301	http://www.basilicasantagiusta.it/
 way	188564761	https://www.ristorantesaccargia.com/
 way	190955014	http://www.prolocomusei.it/
 way	191100182	http://musei.beniculturali.it/musei?mid=5371&nome=museo-nazionale-memoriale-giuseppe-garibaldi
+way	194362860	https://www.guardiacostiera.gov.it/cagliari
 way	195947877	http://www.comunebono.gov.it
 way	197107889	https://www.boiautomobili.it/
 way	198020758	www.waterparadise.it
@@ -2574,6 +2580,7 @@ way	1315007087	https://www.tenutanaturale.it/
 way	1315269560	https://baiasaraceno.it/
 way	1315273600	https://www.supinnettu.it/
 way	1321671492	https://www.thecrag.com/climbing/italy/sardinia/jerzu-area/area/1645832697
+way	1327093214	https://www.thecrag.com/climbing/italy/sardinia/cala-fuili/area/14151631
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3997,8 +4004,11 @@ way	581847817	http://www.arrampicatasardegna.com/falesie/arrampicantro/
 relation	39917	http://www.fluminimaggiore-bilingue.it/
 relation	39959	http://web.tiscali.it/Senorbi2000/
 relation	40002	http://www.orroliproloco.com/
+relation	12857717	https://danbag.altervista.org/Sardegna/F401/F401-FTP.kml
 relation	12857738	https://danbag.altervista.org/Sardegna/F402/F402-FTP.kml
 relation	12858020	https://danbag.altervista.org/Sardegna/F404/F404-FTP.kml
 relation	12858037	https://danbag.altervista.org/Sardegna/F405/F405-FTP.kml
 relation	12858057	https://danbag.altervista.org/Sardegna/F406/F406-FTP.kml
+relation	16503335	https://danbag.altervista.org/Sardegna/B505/B505-FTP.kml
 relation	18147528	https://danbag.altervista.org/Sardegna/G100/G100-FTP.kml
+relation	18159900	https://danbag.altervista.org/Sardegna/B410/B410-FTP.kml
