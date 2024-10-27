@@ -1006,7 +1006,6 @@ node	2311460750	https://www.enel.it/punto-enel/
 node	2311460769	https://www.enel.it/punto-enel/
 node	2311460792	https://www.enel.it/punto-enel/
 node	2311460820	https://www.enel.it/punto-enel/
-node	2311468487	https://www.enel.it/punto-enel/
 node	2320248056	http://www.bancadifrascati.it/
 node	2320248058	http://www.farmaciacarafafrascati.it/
 node	2320248060	http://www.basc.it/
@@ -2156,6 +2155,7 @@ node	4566872796	4punto5bistrot.com
 node	4566872797	https://www.ilgianfornaio.com/
 node	4566872808	https://otbred.it/
 node	4567393091	http://www.lazio.beniculturali.it/?p=219
+node	4567601289	https://www.theplace217.com/
 node	4569759398	http://www.risparmiolibri.it/
 node	4569759401	https://www.colonialidolci.it/index.htm
 node	4572721189	http://www.5lune.net
@@ -2238,7 +2238,7 @@ node	4658608920	http://www.comunedistrangolagalli.it/home/
 node	4659455169	https://www.facebook.com/burrocreamandcoffee/
 node	4659488035	http://www.albergogalli.com/
 node	4659488036	https://www.hotelfenicia.it/
-node	4659488037	http://ristorantemino.it
+node	4659488037	https://www.ristorantemino.it/
 node	4659895861	http://www.gastrociboecaffe.it/
 node	4659895867	https://www.facebook.com/BarBraccioDaMontone/
 node	4659895871	https://www.gelateriafattori.com/
@@ -3996,6 +3996,7 @@ node	7845626529	https://www.magiaauto.com/
 node	7845857431	https://www.otticacassia.it/
 node	7846654526	http://www.rigelpomezia.it/
 node	7853313136	https://www.otticaorlandi.it
+node	7856703011	https://www.sorsi-divini.it
 node	7856923884	http://www.reautoromanina.it/
 node	7856924064	https://www.autoricambifiorentini.com/
 node	7858254501	https://www.accademiaartimarzialiroma.it/
@@ -4132,6 +4133,7 @@ node	8185460685	https://vaticancity.diplomatie.belgium.be
 node	8185515795	https://www.ambacam.it/
 node	8186310461	https://www.carrefour.it/
 node	8186479617	https://www.docmarket.it/it/punto-vendita/parioli
+node	8186479918	https://www.carrefour.it/punti-vendita/carrefour-express-roma-via-civinini-54-56-3268.html
 node	8188405398	https://www.mondoidea.eu/
 node	8188405399	https://www.mcdonalds.it/ristorante/655
 node	8188410642	https://www.conad.it/ricerca-negozi/negozio.010160.html
@@ -4364,7 +4366,6 @@ node	8585626444	https://www.pasticceriafortunato.com/
 node	8589289753	https://www.fashionbar.it/
 node	8596150760	https://ansv.it
 node	8596150761	https://www.zetema.it
-node	8607420551	https://prenotavaccino-covid.regione.lazio.it/
 node	8611096688	http://www.homebaked.it
 node	8618241192	https://www.vdorestaurant.com/
 node	8618585032	http://www.alredeicuochi.it/
@@ -6237,7 +6238,7 @@ node	12235156736	https://www.corteconti.it/Home/Attivita/Procura
 node	12235766582	https://linktr.ee/chiarafornoefornelli
 node	12237750695	https://www.rione13ristorante.com/
 node	12238459020	https://www.annaiacobucci.it/
-node	12250485125	hotelparrasio.com
+node	12250485125	https://hotelparrasio.com/
 node	12250634836	https://studiofrancario.eu/
 node	12252412476	https://www.facebook.com/CopacabanaBeachGaeta/?locale=it_IT
 node	12252426387	http://salparoma.com/it/
@@ -6246,6 +6247,12 @@ node	12252562450	https://www.lhh.com/it/
 node	12255340256	https://www.crea.gov.it/
 node	12258378871	https://www.chinesis.org/
 node	12263035831	https://www.mattatoioroma.it/pagine/aula-studio-la-pelanda
+node	12270489723	https://www.lucatornatola.it/psicologo/
+node	12270489726	https://dishcovery.menu/app/restaurants/ee4fcce51843c49b970738d33e09cfb9/a-la-carte-menu
+node	12270523905	https://www.lucatornatola.it
+node	12276899352	https://ristoranteigio.com/
+node	12278627701	https://www.thefork.it/ristorante/contrario-bistrot-r751935
+node	12282072780	https://www.verderoma.it
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7750,7 +7757,6 @@ way	467169242	http://www.agriturismovalmontoneborgoimperiale.it/
 way	467482518	https://www.casalebussoletti.it/
 way	468494359	https://www.residencegoldenheart.it/
 way	469086294	https://www.castelloditorreinpietra.it/
-way	469595725	https://www.verderoma.it
 way	469762866	https://meridienne.it
 way	470931992	https://www.orsinimotors.com/
 way	470941239	https://www.ospedaleveterinariolandi.com/
@@ -8703,6 +8709,7 @@ way	1286556718	https://www.conad.it/ricerca-negozi/negozio.003216.html
 way	1288335400	http://www.multisaladelmare.com
 way	1293671500	https://maucerisrl.com/
 way	1304481957	"https://www.google.com/maps/place/BCC+AGRO+PONTINO/@41.4073072,13.0467218,355m/data=!3m1!1e3!4m5!3m4!1s0x1325117b0ce260a7:0xac08f1111293c06f!8m2!3d41.4072978!4d13.0482508"
+way	1305286460	https://www.icmattej.edu.it
 way	1305377501	https://magicland.it/it/attrazioni/dune
 way	1305377504	https://magicland.it/it/attrazioni/nui-lua
 way	1305377507	https://magicland.it/it/attrazioni/esplorabruco
@@ -8744,6 +8751,7 @@ way	1324143561	https://www.facebook.com/campingitalia/?locale=it_IT
 way	1324143562	https://www.campingblumen.com/
 way	1324143569	https://www.doracamping.it/
 way	1324162858	https://www.anxurvillage.it/
+way	1326371317	https://www.instagram.com/fabriziogalluzzo7sette/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	77421	http://web.tiscali.it/aguzzano/
 relation	270239	http://www.villadestetivoli.info/index.htm
@@ -9558,6 +9566,7 @@ relation	18051918	https://camminodeibriganti.it/mtb/
 relation	18106131	https://www.cassanotariato.it
 relation	18140858	https://poliziapenitenziaria.gov.it/polizia-penitenziaria-site/en/centrosportivomt.page
 relation	18180007	https://www.lepiniorientali.it/project/supino/escursioni/sentiero_valle/sentiero_d_valle.htm
+relation	18183773	www.caiamatrice.it/itinierari
 node	251888861	https://www.multisalagreenwichroma.com/
 node	452570567	https://www.catacombe.org/
 node	802459210	https://www.oasidigreccio.it/
@@ -9923,7 +9932,6 @@ way	233612987	https://www.provincia.viterbo.it/strade.html
 way	233612988	https://www.provincia.viterbo.it/strade.html
 way	233612989	https://www.provincia.viterbo.it/strade.html
 way	233612990	https://www.provincia.viterbo.it/strade.html
-way	239975674	http://www.parcoappiaantica.it/
 way	253792940	http://www.arvaliastoria.it/dblog/scheda.asp?idscheda=14
 way	253793806	http://www.arvaliastoria.it/dblog/scheda.asp?idscheda=5
 way	271938630	https://www.provincia.viterbo.it/strade.html
