@@ -298,6 +298,7 @@ node	3049533169	http://www.bebalcastello.it/
 node	3050666049	https://umamibeer.it/birraartigianale/index.html
 node	3060796065	https://www.lamattonata.it/
 node	3062671813	https://www.facebook.com/ganzoebulo.it
+node	3066628950	https://www.conad.it/ricerca-negozi/conad-superstore-via-flli-briziarelli-snc-06055-marsciano--007122
 node	3096559969	https://www.conad.it/ricerca-negozi/negozio.008990.html
 node	3098670187	http://www.unawayhotels.it/it/unaway_fabro/hotel_fabro.htm
 node	3103657739	http://antico-borgo-umbria.it/area-tre/home/0/all
@@ -381,6 +382,7 @@ node	4310811618	https://www.comune.spoleto.pg.it/turismoecultura/the-city/museum
 node	4337767206	https://www.borgodeicontiresort.com/
 node	4345580794	https://www.nailover.it/
 node	4367597762	https://www.poggiovalle.com/
+node	4391539464	https://www.instagram.com/barmangiaebevi/
 node	4433292283	https://www.brancaleonedanorcia.it/
 node	4436568187	https://sptecamelia.wixsite.com/website
 node	4452362941	http://www.arpa.umbria.it/au/monitor_a_sot_quant_cont/scheda/RASIGLIA%20ALZABOVE.pdf
@@ -389,6 +391,7 @@ node	4470268991	http://www.pclife.it/
 node	4482077723	https://agriturismospoleto.net/
 node	4482268134	https://www.poste.it/
 node	4517197957	https://www.hubhotel.net
+node	4518215609	https://www.leggimenu.it/menu/75p4df2k7tt1/69449
 node	4526987540	trattoriaborgosanfrancesco.it
 node	4527120356	http://musei.beniculturali.it/musei?mid=287&nome=galleria-nazionale-dellumbria
 node	4527220093	https://perugia7.tecnocasa.it
@@ -937,6 +940,11 @@ node	12215172156	https://ittaxi.it/
 node	12215172157	https://ittaxi.it/
 node	12227996859	https://www.alcantarineassisi.it/alcantarine/
 node	12269521001	https://www.centrofktumbria.it/
+node	12278362401	http://bottegadellapastaelce.it
+node	12279710712	https://www.salmoiraghievigano.it/
+node	12284882738	https://www.olioclerici.it
+node	12285642589	https://digipass.regione.umbria.it/orvieto/
+node	12291429102	https://www.immobiliarelg.it/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1005,7 +1013,7 @@ way	161260879	https://www.itetcapitini.edu.it/
 way	161260881	https://www.itetcapitini.edu.it/
 way	161260882	https://www.itetcapitini.edu.it/
 way	161260884	https://www.itetcapitini.edu.it/
-way	161260887	https://www.itetcapitini.edu.it/
+way	161260887	https://www.provincia.perugia.it/aree-tematiche/patrimonio/centro-congressi-capitini
 way	161564767	https://www.itetcapitini.edu.it/
 way	166104160	https://www.comune.spoleto.pg.it/turismoecultura/the-city/teatri/complesso-monumentale-di-san-nicolo/
 way	166106912	https://www.comune.spoleto.pg.it/turismoecultura/the-city/churches/chiesa-dei-ss-domenico-e-francesco/
@@ -1159,6 +1167,7 @@ way	425557269	https://www.fortesorgnano.com/
 way	427069814	http://www.iluoghidelsilenzio.it/chiesa-di-santo-stefano-buda-di-cascia-pg/
 way	429844766	http://www.ilrifugioperugia.it/
 way	430197915	https://www.stradeanas.it/
+way	430963784	https://www.iluoghidelsilenzio.it/chiesa-di-san-lorenzo-borgo-cerreto/
 way	430963804	https://www.itticatranquilli.com/
 way	430963881	http://www.iluoghidelsilenzio.it/?p=200479
 way	431847387	https://www.comune.spoleto.pg.it/turismoecultura/the-city/teatri/teatro-romano/
@@ -1175,8 +1184,10 @@ way	438850395	https://norciaospitalita.it/
 way	439007217	http://www.iluoghidelsilenzio.it/?p=70502
 way	439018574	http://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-annunziata-poggio-di-croce-preci-pg/
 way	439018586	http://www.iluoghidelsilenzio.it/chiesa-di-santegidio-poggio-di-croce-preci-pg/
+way	439065448	https://www.iluoghidelsilenzio.it/chiesa-di-san-giovanni-battista-buggianpiccolo-cerreto-di-spoleto/
 way	439068422	https://www.iluoghidelsilenzio.it/chiesa-di-san-lorenzo-postignano-di-sellano-pg-2/
 way	439125929	https://www.borgodelrio.com/
+way	439161191	https://www.iluoghidelsilenzio.it/castello-di-ceselli-scheggino/
 way	439163149	http://www.iluoghidelsilenzio.it/?p=13877
 way	439167293	http://www.iluoghidelsilenzio.it/?p=8359
 way	439167304	http://www.iluoghidelsilenzio.it/?p=118582
@@ -1485,6 +1496,7 @@ way	798864037	http://vivalba.it/
 way	801972214	https://unicooptirreno.it/punto-vendita/amelia
 way	808124577	https://www.casaledeifrontini.it/
 way	824921525	https://www.regione.umbria.it/ambiente/siti-di-importanza-comunitaria-sic/-/document_library_display/lgzakFbmr4yA/view/1616400
+way	825743300	https://www.icorvietobaschi.edu.it/
 way	830265316	https://www.comunanzacammoro.it/
 way	833610917	http://www.pantanelli.sifree.org/
 way	835590634	https://sassorosso.it/
@@ -1492,6 +1504,7 @@ way	836916105	http://www.iluoghidelsilenzio.it/?p=7964
 way	844879212	http://www.iluoghidelsilenzio.it/?p=69414
 way	846712098	https://www.casaledelvecchio.it/
 way	854491574	https://www.iluoghidelsilenzio.it/chiesa-di-san-giovanni-battista-vallo-di-nera/
+way	865719613	https://www.iluoghidelsilenzio.it/chiesa-ed-ex-convento-di-santa-maria-di-costantinopoli-cerreto-di-spoleto-pg/
 way	868363585	https://turismo.comune.terni.it/da-vedere/chiesa-del-carmine
 way	868370866	https://iisclassicoartisticotr.edu.it/liceo-artistico-2/
 way	871483712	https://www.iluoghidelsilenzio.it/chiesa-di-santa-caterina-vallo-di-nera-pg/
