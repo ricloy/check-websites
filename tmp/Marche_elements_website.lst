@@ -134,6 +134,8 @@ node	1092104709	http://www.farmaciafarmacomfabriano.it/
 node	1117996957	http://www.grassetti.it/
 node	1202390890	https://www.conad.it/ricerca-negozi/negozio.009839.html
 node	1202391084	http://www.farmaciafarmacomfabriano.it/
+node	1231015736	https://anconaservizi.it/parcheggi-coperti/parcheggio-cialdini/
+node	1231015780	https://anconaservizi.it/parcheggi-coperti/parcheggio-umberto-i/
 node	1231015825	https://www.oasitigre.it/content/genteunika/it/it/il-mio-negozio.510.html
 node	1231713520	https://www.cobaristorazione.it/cobar-ristorazione-self-service-buffet-82038203stazione-di-ancona.html
 node	1231713521	https://www.cobaristorazione.it/cobar-caffetteria-stazione-di-ancona.html
@@ -187,6 +189,7 @@ node	1382883509	https://www.accademiadiurbino.it/aabb/
 node	1382883510	https://www.accademiadiurbino.it/aabb/
 node	1397443501	https://www.simplymarket.it/pdv.php?id=7718
 node	1403760214	https://www.pasticceriangelo.it/
+node	1406097626	https://www.sanpaterniano.com/
 node	1406220918	https://archiviodistatoancona.cultura.gov.it
 node	1413209150	http://www.pizzeriadesiderio.it/Molo71.aspx
 node	1413614977	https://www.taverna41.com/
@@ -1585,7 +1588,6 @@ node	12236459522	https://www.augusteafano.it/
 node	12240959805	https://pedalareconlentezza.com/bnb/
 node	12245803215	https://www.m3progetti.com
 node	12247897173	https://www.facebook.com/Casa-vacanza-Il-Tiglio-1460672804246514/
-node	12247897174	http://www.countryhousefederico.it/
 node	12250150902	https://www.falconarainlinea.it/villatesoro.htm
 node	12263111901	http://wwww.agriturismoelisei.it
 way	22781491	https://www.roccasenigallia.it
@@ -1645,6 +1647,7 @@ way	100298769	https://www.lagrancia.net/
 way	104901714	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII176424
 way	105812217	https://www.atlanticpesaro.it/
 way	106274924	https://www.ramuse.it
+way	107066606	https://anconaservizi.it/parcheggi-coperti/parcheggio-scambiatore-degli-archi/
 way	108069464	https://www.urbinoservizi.it/servizio/pargheggi-a-urbino/parcheggio-borgo-mercatale/
 way	108129237	http://www.roccavarano.info/
 way	108446488	https://www.bricocenter.it/falconara/
@@ -1744,6 +1747,7 @@ way	297539974	https://www.riservagoladelfurlo.it/
 way	297803088	https://azzurravini.it/
 way	299519541	https://www.iluoghidelsilenzio.it/chiesa-pieve-di-santa-maria-annunziata-mevale/
 way	299758199	https://www.ilteatrodellaria.it/
+way	301035769	https://www.casadiriposoconti.it/
 way	301672526	http://www.casa-aurora.it/en/camping.html
 way	302222103	https://www.ismatteirecanati.it/
 way	302803603	https://www.corinaldoturismo.it/visita/area-sosta-camper-corinaldo/
@@ -2014,6 +2018,7 @@ way	648544500	https://www.cooperativailtalento.org
 way	655556416	http://www.athleticclubpesaro.it/
 way	661615772	https://www.mobiltesino.it/
 way	663185830	https://www.villaggiolemimose.it
+way	672675108	https://www.agenziamedica.it/strutture/ospedale-di-cingoli-cingoli/
 way	676045101	https://www.biancazzurro.org/
 way	679439267	https://www.facebook.com/NonnaQuerciaFurlo
 way	680794157	https://www.iismarconipieralisi.it/
@@ -2041,6 +2046,7 @@ way	764685017	https://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/94/
 way	767664049	https://locandamontegiove.it/
 way	770382388	https://www.iisdavinci.edu.it
 way	773119082	https://icviareginaelena.edu.it/struttura/via-regina-elena/san-giovanni-bosco/
+way	778480526	https://www.campinggabicce.it/
 way	782406450	https://www.hoteledelweissfano.it
 way	783905998	http://www.hospitaleterzoparadiso.it
 way	783907509	www.hospitaleterzoparadiso.it
@@ -2059,7 +2065,7 @@ way	830371841	https://www.hotelcontinental-fano.it
 way	871214932	https://www.comune.arquatadeltronto.ap.it/
 way	872361070	https://www.comune.ancona.gov.it/ankonline/impianto-rugby/
 way	873270441	http://www.smorlesi.com
-way	876159004	https://www.anconaparcheggi.it/servizi/parcheggi-coperti-abbonamenti/item/1-parcheggio-traiano
+way	876159004	https://anconaservizi.it/parcheggi-coperti/parcheggio-traiano/
 way	891270852	https://www.filodivino.it/en/winery/
 way	901364339	https://www.comuneancona.it/la-sala-del-commiato/
 way	908790690	https://www.civitanavi.com/
@@ -2108,6 +2114,7 @@ way	1087320574	https://www.fondazionevillasangiuliano.com/
 way	1094781880	https://www.iisraffaello.edu.it/
 way	1095639398	https://www.officine-volkswagen.it/santiniprimo.html
 way	1095746610	https://fondoambiente.it/luoghi/cripta-e-capitolo-dell-abbazia-di-sangelo-di-chiaserna?ldc
+way	1095920611	http://www.myadj.it/
 way	1096180190	https://davidstravelexperience.eu/degli-alessandri-tower-italy
 way	1096312500	http://www.valdifiori.nl
 way	1096346584	https://www.comune.castelfidardo.an.it/area-camper-sistema-automatizzato-di-accesso-con-qr/
@@ -2232,6 +2239,7 @@ way	1319834218	https://www.imetonline.it/it/
 way	1321794118	https://www.barangolo.it/
 way	1322360764	https://www.corinaldoturismo.it/scopri/storie-e-storielle/
 way	1323359887	https://avalonpizzeria.it/
+way	1328478904	http://www.countryhousefederico.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -2345,7 +2353,7 @@ node	619720919	http://www.collesi.com/
 node	737198353	http://www.vivaioilgiardino.com/
 node	737251890	http://www.aspes.it/3/servizi-e-attivita/farmacie-comunali/gestione-farmacie/farmacia-comunale-villa-fastiggi/
 node	845275784	http://www.ambassadorpesaro.it/
-node	845275788	http://www.hotelnapoleonpesaro.it/
+node	845275788	https://www.hotelnapoleonpesaro.it/
 node	845275811	http://www.cruiser.it/docks_Site/
 node	1332887447	https://www.lazzabaretto.it/
 node	1342443842	http://www.comune.grottammare.ap.it/contents/Castello/380
