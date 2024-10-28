@@ -907,11 +907,8 @@ node	5655814604	wwww.elettronica-matarazzo.com
 node	5686614429	https://www.sorrentorivoli.com/
 node	5687906754	http://www.LaTerrazzaSorrento.com
 node	5691518417	http://www.ApprodoCapri.com
-node	5692578898	http://www.iisdavincisapri.gov.it/
 node	5702003865	https://bcccilentoelucaniasud.it/Dove-Siamo/Filiali/Sapri/24
 node	5703225743	https://www.unieuro.it/online/negozi/Unieuro-Sapri
-node	5705324188	https://www.facebook.com/cineteatroferrari/
-node	5705324189	http://www.iisdavincisapri.gov.it/iis/
 node	5705433460	http://www.hoteltirrenosapri.it/
 node	5705433462	https://www.gruppocasale.it/sedi/opel-toyota-sapri/
 node	5705477961	https://www.facebook.com/Il-Veliero-1063919250293443/?ref=br_rs
@@ -2423,6 +2420,8 @@ node	12250042885	https://www.blue-soul.de
 node	12255045605	https://inpost.it/locker-napoli-itnap44783m-via-galileo-ferraris
 node	12262679871	http://www.hotelrisorgimento.it/
 node	12263500764	https://www.treatwell.it/salone/i-rosolino-salon-1
+node	12287504871	https://spinelliinvestigazioni.it
+node	12289896923	https://www.caseificiothegreenvalley.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2450,7 +2449,7 @@ way	79246694	http://www.polomusealecampania.beniculturali.it/index.php/il-museo-
 way	79263101	http://www.isistommasocampanella.it/
 way	81372910	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/42375
 way	93219444	http://www.teatroverdisalerno.it/
-way	93233205	https://www.bibliotecaprovincialedisalerno.com/
+way	93233205	https://www.bibliotecaprovincialedisalerno.com
 way	93668019	http://www.lalocandadiapicio.it
 way	95164034	https://www.villadeimisteri.it/
 way	95164035	http://www.campingzeus.it/
@@ -2512,6 +2511,7 @@ way	155968528	https://www.oacn.inaf.it/
 way	155968530	https://www.oacn.inaf.it/
 way	159256089	www.casina-rossa.it
 way	160933000	www.vallodellalucania.gov.it
+way	161018760	http://www.iisdavincisapri.gov.it/iis/
 way	161090383	https://it.wikipedia.org/wiki/Giardini_di_Augusto
 way	161769409	https://www.fotoeweb.it/sorrentina/Foto/Capri/CasaMackenzie.htm
 way	161979748	https://www.ccquartonuovo.it
@@ -2969,6 +2969,7 @@ way	504196170	https://www.iissgiancarlosiani.edu.it/
 way	505632812	https://www.vernelle.it/
 way	512029508	https://www.tenutareferdinando.it/
 way	512845880	https://www.songbirdamalficoast.it/
+way	517813615	https://www.campingmirage.it/
 way	521164591	https://hotelbelsitonola.it/
 way	522790898	https://www.ospedalecardarelli.it/
 way	523280434	http://www.villarosaeferdi.it
@@ -3551,6 +3552,8 @@ way	1314340039	https://www.campingathena.com/
 way	1321426922	https://www.grandhoteltelese.it/
 way	1323093489	https://marepinetacamping.it/
 way	1323627637	https://it.casashops.com/it/
+way	1327563281	http://www.iisdavincisapri.gov.it/
+way	1327840139	https://www.facebook.com/cineteatroferrari/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3822,6 +3825,7 @@ node	12265757175	https://mutecampania.it
 node	12271937767	https://www.white1903.it/
 node	12271997442	https://www.villaidaforio.it/
 node	12271997505	http://www.residencevillatina.it/
+node	12286132176	https://www.mazzamaurielle.com/vomero
 way	79268408	http://www.szn.it
 way	170920731	https://www.giardiniposeidonterme.com/
 way	174047981	http://www.cittadellascienza.it/
@@ -3846,6 +3850,7 @@ node	1892958672	http://www.lanticocortile.it/
 node	4033063953	http://www.vacanzeforiapalinuro.it
 node	9306631595	http://www.comune.giugliano.na.it/index.php/servizi/informazioni-sulla-raccolta-rifiuti/item/96-informazioni-sulla-raccolta-dei-rifiuti
 node	10973765686	https://it.wikipedia.org/wiki/Ipogeo_dei_Cristallini
+node	12273347981	www.vincenzoberretti.it
 way	160954511	hotelpixunte.com
 way	183993508	http://www.addolorataallapigna.it/
 way	227481094	http://caudinia.altervista.org/forchia1.htm
