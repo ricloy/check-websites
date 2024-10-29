@@ -197,7 +197,6 @@ node	470824622	https://www.apotheke-stmichael.it
 node	470828656	http://www.superpoli.it/
 node	471369781	https://www.raiffeisen.it/rta
 node	471632924	https://bar-thaler.business.site/
-node	472136765	https://www.rifugiorealberto.com
 node	472597025	https://www.meggima.eu/
 node	474731464	https://www.gasthofzurpost.it/
 node	475594742	https://www.comune.tires.bz.it/
@@ -441,6 +440,7 @@ node	832616635	https://www.ortswies37.it/
 node	843484008	https://www.helmhang-huette.com/de/
 node	845283617	https://www.hubertus-hof.it/
 node	851097583	https://www.panificiomoderno.net/
+node	851549266	www.montura.com
 node	853801236	https://www.bellezzastudio.eu/
 node	853801468	www.soluzionecasa.tn.it
 node	853824031	https://it-it.facebook.com/dologno/
@@ -486,6 +486,7 @@ node	926436903	https://www.ratschingserhof.com/
 node	926680178	https://www.mooserwirt.it/
 node	926927570	https://www.hotel-fischer.it/
 node	930616098	https://www.thun.com/
+node	930616120	www.montura.com
 node	931740698	https://www.goldeneskreuz.it
 node	931740724	https://www.goldeneskreuz.it/restaurant-bar
 node	931751928	https://cafefrick.wixsite.com/cafefrick
@@ -885,6 +886,7 @@ node	1836959868	https://www.rifugiociampedie.it/
 node	1839797802	https://www.chaletgiasenei.com/
 node	1841408727	https://www.bibliotechevaldisole.it/it/biblioteche/vermiglio/presentazione
 node	1851486811	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Ronzo-Chienis/Chi-siamo
+node	1852925920	https://www.kohlern.com/
 node	1852936790	http://www.gasthof-roessl.it
 node	1860804300	https://www.restaurant-gruener.com
 node	1863341904	https://www.salewa-cube.com/
@@ -1600,7 +1602,7 @@ node	2749760623	https://www.hotel-avelina.com/
 node	2749760644	https://www.larchwald.com/
 node	2749760645	https://www.larchwald.com/
 node	2749760653	https://www.aparthotel-christine.it/
-node	2749760746	http://www.hafling.com
+node	2749760741	http://www.hafling.com
 node	2749760775	https://www.appartments-edelweiss.com/
 node	2749760831	http://www.platterhof.eu
 node	2749760878	https://www.residence-moritz.it/
@@ -1970,6 +1972,7 @@ node	2756027745	https://www.gemeinde.tramin.bz.it/de/Apotheke_Tramin
 node	2756027819	http://www.zur-pergola.it
 node	2756028340	https://www.roner.com
 node	2756028359	https://www.sonnhof.it/
+node	2756036338	http://www.vitaform.eu/
 node	2756041524	https://www.classicapartments.it/
 node	2756041682	https://www.aviscon.it/
 node	2756041722	https://www.salcher.com/
@@ -2746,7 +2749,6 @@ node	3596322327	https://www.conviviafood.com/
 node	3597076554	http://verdins.it/
 node	3597455243	http://www.tschenett-kroess.com/
 node	3597572298	https://www.tschigat.com/
-node	3597602881	https://www.haller-pension.it/
 node	3597602882	https://www.haller-pension.it/
 node	3597805922	https://www.pneusboden.it/
 node	3597824377	https://www.grazia-dei.it/
@@ -4940,6 +4942,7 @@ node	9227716354	https://www.lapietramusicplanet.it
 node	9233533690	https://www.bicincitta.com
 node	9233858900	https://poco-ma-buono.business.site/
 node	9234581894	https://www.lorenzettipneumatici.it/
+node	9235196671	https://meta-bolzano.com/
 node	9235196672	https://www.cec.com/negozi-apple/bolzano
 node	9235196673	https://coopbz.it/it/coop-piazza-walther-bolzano
 node	9235666236	https://www.punto3c.com/
@@ -6142,6 +6145,16 @@ node	12261008460	https://www.villasteiner.com/
 node	12266048073	https://hurtig.eu/
 node	12269274738	https://www.seniorenwohnheim-lajen.eu
 node	12277252701	https://www.lamm-hotel.it/gourmet-restaurant
+node	12282296749	http://www.seiterhof.info/restaurant.html
+node	12285028604	http://www.cantinasalim.it/
+node	12290391057	https://opencity.comune.bolzano.it/Amministrazione/Luoghi/Sala-Anne-Frank
+node	12290391058	https://opencity.comune.bolzano.it/Amministrazione/Luoghi/Sala-Guido-Fronza
+node	12290391059	https://biblioteche.comune.bolzano.it/Chi-siamo/Biblioteche/Biblioteca-Europa-F.-Concer
+node	12290391060	https://opencity.comune.bolzano.it/Amministrazione/Luoghi/Sala-Europa
+node	12290391061	https://opencity.comune.bolzano.it/Amministrazione/Luoghi/Sala-Rosenbach
+node	12290391062	https://opencity.comune.bolzano.it/Amministrazione/Luoghi/Sala-Ortles
+node	12296012780	www.montura.com
+node	12296024031	www.montura.com
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -6428,6 +6441,7 @@ way	59297543	http://www.hotelfedaia.it/
 way	59298063	http://www.cesajori.com
 way	59298302	http://www.cesajori.com
 way	59302977	https://www.goldrainerhof.it/
+way	59311761	https://www.kohlern.com/
 way	59312912	https://schneiderwiesen.it/
 way	59326765	https://www.outdooractive.com/de/hut/nonsberg-gruppe/malga-di-romeno/2532820
 way	59387682	https://www.canazeiappartamenti.com/albert.html
@@ -7276,6 +7290,7 @@ way	123034441	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/25632
 way	123034462	https://www.diocesitn.it/site/wd-annuario-enti/valli-del-noce-84/bresimo-s-bernardo/
 way	123226915	https://www.camping-antholz.it
 way	123751238	https://www.campingsassdlacia.it/
+way	123811150	https://www.rifugiorealberto.com
 way	123838729	https://www.caibrunico.it/index.php/rifugio-plan-de-corones/
 way	124048209	https://www.hotelsolea.com
 way	124058798	https://www.camping-al-cor.it/
@@ -7549,6 +7564,7 @@ way	153013755	https://www.thoeni.it/
 way	153017030	www.punihof-mals.it
 way	153017035	https://www.aftmult.com/
 way	153027086	https://www.vigilio.com/de/gasthaeuser/naturnser-alm.html
+way	153194067	https://www.ansitzsteinbock.com/
 way	153344663	https://www.hmiravalle.com/
 way	153384411	http://unitecspa.com/
 way	153408571	https://lechtlhof.it/
@@ -8285,9 +8301,11 @@ way	232580438	https://hotelcristodoro.it/
 way	232789558	https://www.pizzerialiesy.com/
 way	232792953	https://www.avantec.it/
 way	232864120	https://www.sparkasse.it/
+way	232920648	https://www.comploj.it/
 way	232949930	https://www.meboflor.it/
 way	233040343	https://www.gasthof-stern.it/
 way	233047935	https://www.gemeinde.tscherms.bz.it/
+way	233047937	https://www.tscherms.mondihotels.com/de/kulinarik/#restaurant
 way	233047943	https://www.mondihotels.com/tscherms/hotel
 way	233077445	http://www.angergut.it
 way	233168239	http://www.rifugiotosapedrotti.it/
@@ -8539,7 +8557,7 @@ way	255574276	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-ga
 way	255574280	https://www.valgardena.it/en/addresses/detail/base/company/selva-val-gardena/alpino/C0DF944D76D911D18F2900A02427D15E/
 way	255574281	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-chalet-miriam/D68327C09F5527C9BA5C06F5BD9A71E5/?RequestKey=17115303046603e140e4b58
 way	255574283	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/b-b-apartments-cudlea/C0DF9B4476D911D18F2900A02427D15E/
-way	255574284	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-villa-demetz/C0DF9C7276D911D18F2900A02427D15E/?RequestKey=1711632868660571e432e08
+way	255574284	https://www.villademetz.com/
 way	255574285	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/hotel-silvana/C0DF97B576D911D18F2900A02427D15E/
 way	255574293	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/hotel-muliac/C0DF9C9F76D911D18F2900A02427D15E/
 way	255574294	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-janon/2A7457DCA4E3CC4A9125FF298DE04F4B/?RequestKey=171161228066052178c62ae
@@ -8754,6 +8772,7 @@ way	294649221	https://www.pixnerhof.it/
 way	294649373	https://www.rebhof-vinschgau.com/
 way	294726416	http://www.wiesenheim.eu/
 way	294742222	http://www.goegele.eu
+way	294847563	https://www.hanswirt.com/
 way	295132887	https://www.guldhof.com/
 way	295133138	https://www.klostergut.com/
 way	295133147	https://www.pardell.it/
@@ -9566,6 +9585,7 @@ way	995631960	https://www.repsol.com
 way	995724100	https://www.falkensteiner.com/hotel-kronplatz
 way	996828706	https://dolecir.it/
 way	1004273735	https://www.terna.it/en/projects/public-engagement/interconnector-italy-austria
+way	1005032627	www.montura.com
 way	1005681157	https://www.itea.tn.it/
 way	1006222165	https://www.ciclismotecnico.com/
 way	1012894488	https://www.vagabonta.it/
@@ -9751,7 +9771,9 @@ way	1320329189	http://www.apspbrentonico.it/
 way	1320438491	https://www.fonteklaus.it/
 way	1321878046	https://www.cooperativaeris.org/
 way	1323276492	https://www.badl.it/
-way	1324152792	www.visitrovereto.it
+way	1324152792	https://www.visitrovereto.it/
+way	1327481579	http://www.cantinasalim.it/
+way	1327860508	http://www.vitaform.eu/
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -11687,6 +11709,7 @@ node	2749636198	https://www.krone.bz
 node	2749639855	http://www.stellakino.com/
 node	2749656079	https://roctraam.com/
 node	2749685677	http://www.naturheilt.it
+node	2749699410	https://www.haus-ebner.it/
 node	2749726424	http://www.saxl.it/
 node	2749760612	https://www.pichler-hof.com/
 node	2749766332	http://www.helmhotel.com
@@ -12179,6 +12202,7 @@ node	12218213044	https://www.walcher.bz.it/de
 node	12218308667	https://www.yesalps.com/en/apartments/corones-kronplatz/amanita-11adc8573d1b.html
 node	12265635488	https://www.hotellagosmeraldo.it/
 node	12265702040	https://maxfactory.eu/
+node	12286088236	https://breakoutsport.it/en/contatti-en/
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24441737	https://www.trentinomobilita.it/parcheggi-coperti
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
