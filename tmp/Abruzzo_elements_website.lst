@@ -684,7 +684,6 @@ node	5851844353	https://www.retitalia.eu/punti-vendita/
 node	5853343480	https://www.fabiodisconzi.com/open-carburanti/provincia-pe/46633/index.html
 node	5853345037	https://www.ranallishipping.com
 node	5859998085	https://scienzeumane.univaq.it/index.php?id=1684
-node	5882269385	https://www.campingsantostefano.com/
 node	5882434108	https://www.consiglio.regione.abruzzo.it
 node	5884289822	https://www.rondinellacamping.it/
 node	5884290022	https://www.parcomajella.it/visita-il-parco/multimedia/webcam/seufemia-a-maiella-pe-giardino-botanico-daniela-brescia/
@@ -939,7 +938,6 @@ node	6582822378	https://www.siviaggiare.eu/
 node	6583060647	http://www.otticavincenti.it/
 node	6583473211	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10635
 node	6585361249	www.hotelgiampy.eu
-node	6585361250	www.hotelgiampy.eu
 node	6585361383	https://www.ilgrottinodiassergi.it/
 node	6585361498	https://www.gransassolagapark.it/pagina.php?id=15
 node	6587085432	https://www.conad.it/ricerca-negozi/negozio.009729.html
@@ -3034,6 +3032,7 @@ node	11950614390	https://www.tripadvisor.it/Restaurant_Review-g194775-d21012373-
 node	11951721477	http://www.portobelloareadiservizio.it/chieti.html
 node	11951741896	https://www.bedbusiness.it/
 node	11953879956	https://torricantine.it/with-love-collection/
+node	11954201749	https://www.pierantozzi.it/
 node	11961235327	https://onmobility.oncharge.it/
 node	11961381576	https://onmobility.oncharge.it/
 node	11962429936	https://ecovend.com/
@@ -3175,6 +3174,10 @@ node	12281060385	https://www.centrodabruzzo.com/negozi/baby-club/
 node	12285326129	https://www.enerhub.it
 node	12285326131	https://www.broadcastcenter.it/it/
 node	12285326132	https://www.heliosistemi.com/
+node	12292260294	http://www.rifondazione.it/primapagina/#gsc.tab=0
+node	12301781615	https://reservation.bebreale.it/it/
+node	12307482421	www.hotelpina.it
+node	12307884401	https://www.foresteriagiulianova.com/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3317,6 +3320,7 @@ way	137603572	https://www.parrocchiadodiciapostoli.com/
 way	138166809	https://www.albergoabruzzo.it/
 way	141134674	https://www.unite.it/UniTE/Bioscienze_e_tecnologie_agro-alimentari_e_ambientali
 way	142601531	https://www.maurys.it/
+way	142606081	https://cooperativaquadrifoglio.com/
 way	142716803	https://www.comprensivo3chieti.edu.it/
 way	142719390	http://www.ciapiabruzzo.it/
 way	144391302	https://www.info.asl2abruzzo.it/ospedalechieti/direzione-sanitaria.html
@@ -3604,6 +3608,7 @@ way	625671308	https://www.avezzanorugby.it/
 way	626699022	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	628151254	https://www.civitellamesserraimondo.net/
 way	631360552	https://en.nicelocal.it/abruzzo/entertainment/lago_della_marchesa_di_pianella/
+way	639106610	https://www.campingsantostefano.com/
 way	639106624	https://www.campeggiobelvedere.it/
 way	640136454	http://www.hotelcenzo.it/
 way	640155022	https://lapinetinaovindoli.it/
@@ -4216,6 +4221,8 @@ way	1326467917	https://www.liceomaior.it/
 way	1328155099	https://www.proxicad.it/en/
 way	1328176900	https://www.campingborghetti.it/
 way	1328331510	https://www.campeggioverdemare.it/
+way	1328665680	https://www.iiscrocetticerulli.edu.it/
+way	1330389449	www.hotelpina.it
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4460,6 +4467,7 @@ relation	17948192	https://www.ilcamminodabruzzo.it/
 relation	17948211	https://www.ilcamminodabruzzo.it/
 relation	17948488	https://www.ilcamminodabruzzo.it/
 relation	17948489	https://www.ilcamminodabruzzo.it/
+relation	17985397	https://www.ilcamminodabruzzo.it/
 relation	18025665	https://camminodeibriganti.it
 relation	18051918	https://camminodeibriganti.it/mtb/
 relation	18101424	https://www.catholic-hierarchy.org/bishop/bparla.html
@@ -4526,6 +4534,8 @@ node	12071668360	https://www.abruzzocitta.it/luogo/monte-zurrone/
 node	12124829139	https://restaurantguru.it/Bar-Cafe-de-Paris-SantEusanio-del-Sangro
 node	12177199641	https://kobak.it/noleggia/
 node	12247823374	https://www.mtbtrails.it/trail-areas/bike-park-bocca-di-valle
+node	12301781615	https://www.booking.com/hotel/it/b-amp-b-reale-ortona.it.html
+node	12304275558	https://www.chpe.camcom.it/pagina182687_padiglione-espositivo-d-becci.html
 way	12653775	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	57035180	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	301862068	https://it.m.wikipedia.org/wiki/File:Orsogna_-_Torre_di_Bene_03.jpg
@@ -4544,5 +4554,6 @@ way	1319818228	https://www.ilpescara.it/foto/cronaca/riqualificazione-di-via-and
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
 relation	13050879	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno/
+relation	13457133	https://www.deskaeronautico.it/s04-24-lavori-per-allungamento-pista-a-pescara/
 relation	17744834	https://appenninobiketour.com/percorso/
 relation	17760420	https://appenninobiketour.com/percorso/
