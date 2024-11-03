@@ -28,7 +28,6 @@ node	306254851	https://www.poste.it
 node	306254865	https://www.cicciosultano.it/
 node	313357047	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
 node	313480110	https://www.comunepantelleria.it/
-node	317492309	https://www.eplanetcinemas.it/
 node	329189498	https://www.poste.it
 node	335922697	https://www.poste.it
 node	338966369	https://www.museodiocesanocatania.com/
@@ -2413,16 +2412,6 @@ node	8379527020	http://www.albracieredellochef.com/
 node	8385004140	https://www.portoulisse.com/
 node	8385004397	https://www.residencemadonnadilourdes.com/
 node	8386787948	https://www.facebook.com/leiparrucchieri
-node	8388857178	https://www.circumetnea.it
-node	8388857179	https://www.circumetnea.it
-node	8388857180	https://www.circumetnea.it/
-node	8388857181	https://www.circumetnea.it/
-node	8388857182	https://www.circumetnea.it/
-node	8388857183	https://www.circumetnea.it/
-node	8388857184	https://www.circumetnea.it/
-node	8388857185	https://www.circumetnea.it/
-node	8388857186	https://www.circumetnea.it/
-node	8388857187	https://www.circumetnea.it/
 node	8388857195	https://www.poste.it
 node	8388857196	https://www.poste.it
 node	8389899007	https://www.nextcasa.it/
@@ -3661,8 +3650,6 @@ node	12054055304	https://cannonesrl.it/
 node	12059525661	https://www.maramasiracusa.it/
 node	12059526269	https://m.facebook.com/p/PunkFunk-record-shop-music-bar-100063318185568
 node	12065403869	https://www.fattoriaspezia.it/
-node	12068313106	https://www.circumetnea.it
-node	12068313107	https://www.circumetnea.it/
 node	12068372616	https://ebike.bikesquare.eu/ita/enna-caltanissetta
 node	12068372617	https://ebike.bikesquare.eu/ita/enna-caltanissetta
 node	12068906028	https://cannonesrl.it/
@@ -3765,8 +3752,9 @@ node	12277452575	https://hermesautonoleggio.com/
 node	12282008541	https://www.arddiscount.it/punti-vendita/416/marsala-via-salemi-241-contrada-san-silvestro
 node	12288563423	https://ilfarocapomulini.com/
 node	12288563472	http://iltocco.it
-node	12289866085	www.camio.it
+node	12289866085	https://www.camio.it/
 node	12290313378	https://www.palantica.com
+node	12299871598	http://www.hobbyzoo.org/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4260,7 +4248,6 @@ way	252266913	https://www.legambienteriserve.it/lago-sfondato/
 way	254045754	http://www.presepeviventedicustonaci.it/
 way	254945726	https://www.falesiaonline.it/falesia/never-sleeping-wall.html
 way	255378666	https://www.eplanetcinemas.it/
-way	255812462	https://www.e-coop.it/
 way	255949491	https://www.parks.it/rif/eremo.san.felice/
 way	255956574	https://www.comune.custonaci.trapani.it/it
 way	256154462	https://www.alberghierowojtyla.edu.it/
@@ -5341,6 +5328,7 @@ way	1018482517	https://www.scuolaguzzardi.edu.it
 way	1022609842	https://www.vigilfuoco.it
 way	1024095587	https://www.sudservicebike.it/
 way	1027662614	https://www.ictorregrotta.edu.it/primaria-r-guttuso-scala
+way	1031867637	https://www.comersud.it/sedi/siracusa/
 way	1035455464	https://www.etnella.com/
 way	1038991507	https://www.icsfalconeacicastello.edu.it/
 way	1038992671	https://www.icsfalconeacicastello.edu.it/
@@ -5560,7 +5548,6 @@ way	1154353411	https://www.3icrodari.edu.it
 way	1154587237	https://www.penny.it/
 way	1154587249	https://www.penny.it/
 way	1154587250	https://www.penny.it/
-way	1154587255	https://www.penny.it/
 way	1154587290	https://www.penny.it/
 way	1154587293	https://www.penny.it/
 way	1154624120	https://www.icgalileiacireale.edu.it
@@ -5968,6 +5955,8 @@ way	1324979270	https://www.albachiararooms.it/
 way	1326206660	https://www.golfclubpalermo.com/
 way	1327296061	https://www.presidentseapalace.it/
 way	1327870100	https://www.poste.it
+way	1330213052	http://www.parrocchiasantaluciaugusta.it/Centro_Utopia.php
+way	1330213057	https://www.canilerifugioasi.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6666,6 +6655,7 @@ node	12173811011	https://seamultiservizimessina.it/
 node	12270579712	https://www.ristorantepizzeriariviera.it
 node	12278210926	https://beerbang.wixsite.com/beerbang
 node	12281405343	https://www.lamattamadeinsicily.com
+node	12303902871	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/6513
 way	28233134	https://www.messinarte.it/duomo-di-messina/
 way	34227431	http://liceomazara.edu.it/
 way	34314619	https://www.zoculture.it/
