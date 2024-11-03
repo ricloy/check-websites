@@ -22,7 +22,6 @@ node	437172834	https://www.cityhotel.it/it/
 node	437190514	https://rotondabruscoli.business.site/
 node	453243895	https://valdicastro.it/
 node	462212888	http://www.tuttogelato.com/
-node	465611749	https://www.frescomarket.it/negozio.cfm?pdv=90541
 node	469094013	https://www.museoomero.it/main?pp=pagina_iniziale
 node	469111941	https://www.farmaciagalatello.it/
 node	489390861	http://www.farmaciapaloni.com/
@@ -244,6 +243,9 @@ node	1884913016	http://www.villagruccione.it/
 node	1944932058	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18486/Chiesa+di+San+Giovanni+Battista
 node	1947715291	https://www.libreriadelmonte.it/
 node	1962525554	http://www.dalmarchigiano.it
+node	1962972166	http://www.sassoferratoturismo.it/
+node	1962972167	https://www.sassoferratoturismo.it/museo-civico-archeologico/
+node	1962972298	https://www.facebook.com/larocca2015/
 node	1969807116	http://www.ilcerchiomagico.net/
 node	1979293108	https://www.giorgiottica.it
 node	1986102388	https://www.newcar-mc.it/
@@ -1505,6 +1507,7 @@ node	11910708805	https://www.bourmet.it/
 node	11911699148	https://gigliosanlorenzo.blogspot.com/
 node	11917978494	https://www.anticafarmaciadellospedale.it/
 node	11920480577	https://www.subito.it/vi/551785629.htm
+node	11929426820	http://www.comune.sassoferrato.an.it/
 node	11953874725	https://www.leggimenu.it/menu/75sk7fao75q1
 node	11962273977	https://eagles.aero/
 node	11964590568	http://mare-vento.blogspot.com/
@@ -1587,9 +1590,15 @@ node	12235948349	https://www.damianochiappini.com/
 node	12236459522	https://www.augusteafano.it/
 node	12240959805	https://pedalareconlentezza.com/bnb/
 node	12245803215	https://www.m3progetti.com
+node	12247897171	http://www.marco-calzature.it/
 node	12247897173	https://www.facebook.com/Casa-vacanza-Il-Tiglio-1460672804246514/
 node	12250150902	https://www.falconarainlinea.it/villatesoro.htm
+node	12252605166	https://www.farmaciaditavullia.it/
 node	12263111901	http://wwww.agriturismoelisei.it
+node	12295646060	http://www.vicolosantachiara.it/
+node	12295646061	http://www.ecoandeco.it/
+node	12299298451	https://www.bartolodasassoferrato.it/
+node	12299732838	https://www.crericambi.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -1608,6 +1617,7 @@ way	41997362	https://www.centrovaldichienti.it/
 way	42022756	http://www.mcmcarbonari.it/
 way	42022781	https://www.orim.it/
 way	42022782	https://www.orim.it/
+way	42299444	https://www.sferisterio.it/
 way	42347771	http://www.ippodromomartini.it/
 way	42355165	http://www.imasafadriatica.it
 way	42454163	https://www.polonirottami.it/
@@ -1827,6 +1837,7 @@ way	320383970	https://www.tezenis.com/
 way	320415304	https://www.sarniristorazione.it/item/centro-commerciale-val-di-chienti/
 way	320670930	http://www.comune.ancona.gov.it/ankonline/palasport-collemarino/
 way	320708280	https://www.ristorantelecase.it/
+way	321816524	https://www.tigota.it/negozi/029701
 way	324820269	https://www.agriturismofloriani.com/
 way	326372102	https://www.hotelflorencemarotta.it/
 way	334243254	https://www.ersumc.it/JErsuNew/index.php?option=com_content&view=article&id=205:residenza-maria-montessori&catid=91
@@ -1889,6 +1900,7 @@ way	372645010	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.ph
 way	373179950	http://www.rifugiocupi.it/
 way	373184465	https://www.sibillini.net/
 way	373194350	http://www.rifugioaltino.it/
+way	373757154	https://www.sassoferratoturismo.it/museo-delle-arti-e-tradizioni-popolari/
 way	375684358	https://www.aspes.it/3/servizi-e-attivita/servizi-cimiteriali/attivita.html
 way	375994743	http://www.casaaccoglienzadilvabaroni.org
 way	375998165	https://www.iluoghidelsilenzio.it/abbazia-di-san-vittore-alle-chiuse-genga-an/
@@ -1980,6 +1992,7 @@ way	483431279	https://campingterrazzosulmare.it/
 way	484916652	https://www.rivadeipini.it/
 way	501032501	https://www.almandorlo.it/
 way	509432684	https://www.cwgc.org/find-a-cemetery/cemetery/2006400/gradara-war-cemetery/
+way	512356875	https://www.terradeifioretti.it/blog/conventofratiminori/sassoferrato-s-maria-della-pace/
 way	515456574	https://www.comune.petritoli.fm.it/
 way	516651867	https://www.villacollesereno.it
 way	528653981	https://www.cripesaro.org/
@@ -2097,6 +2110,7 @@ way	1014796344	https://www.provincia.fermo.it/
 way	1015831695	http://www.campagnamica.it/
 way	1018570423	https://italserviziambiente.com
 way	1024974448	https://www.stradeanas.it/it/struttura-territoriale-marche
+way	1024983656	https://www.unitre-an.it/
 way	1026848734	https://www.clubdelsole.com/it/destinazioni/marche-porto-sant-elpidio/la-risacca-family-camping-village
 way	1037855788	http://parrocchiamarina.it/
 way	1039132317	https://tenutasanmarcello.net/esperienze/
@@ -2240,6 +2254,7 @@ way	1321794118	https://www.barangolo.it/
 way	1322360764	https://www.corinaldoturismo.it/scopri/storie-e-storielle/
 way	1323359887	https://avalonpizzeria.it/
 way	1328478904	http://www.countryhousefederico.it/
+way	1328747901	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
