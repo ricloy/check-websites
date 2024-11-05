@@ -266,7 +266,6 @@ node	1544439255	http://www.cincinbomboniere.it/
 node	1548957534	https://www.hotelboccadasse.com/
 node	1550489822	https://www.villagiada.it/
 node	1558627650	https://moromare.com/
-node	1559072249	https://www.thecrag.com/climbing/italy/muzzerone-parete-centrale
 node	1567280796	https://www.conad.it/ricerca-negozi/negozio.004014.html
 node	1568237414	https://www.carrefour.it/punti-vendita/carrefour-market-ventimiglia-via-roma-22a-3577.html
 node	1571722019	https://arduino1870.it/
@@ -2498,6 +2497,7 @@ node	12253561822	https://www.laportofinese.it
 node	12264540901	https://www.adelbar.it/
 node	12287662888	www.bungiurnu.it
 node	12293465302	https://book.octorate.com/octobook/site/reservation/index.xhtml?lang=en&codice=611962
+node	12312189808	https://www.grupporadioliguria.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3293,6 +3293,7 @@ way	1313064103	https://www.campingsantavittoria.com/
 way	1316221651	https://www.agricampeggiocaromeo.it/
 way	1316226040	https://campingriver.com/
 way	1316394586	https://www.oasidelbelvivere.it/
+relation	8654	http://www.regionpaca.fr/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -3308,10 +3309,12 @@ relation	1347626	https://www.campeggiogianna.com
 relation	1532374	http://palazzorealegenova.beniculturali.it
 relation	1539287	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1547991	http://www.provincia.alessandria.gov.it/sentieri/
+relation	1571067	https://www.labrigue.fr/
 relation	1718980	https://www.poliziamunicipale.it/
 relation	1947992	https://chemindassise.org/
 relation	1948090	https://chemindassise.org/
 relation	2005160	http://www.porto.genova.it
+relation	2128669	https://www.riviera-francaise.fr/
 relation	2198352	http://www.parktennisclub.com/
 relation	2547675	http://www.sfdapaola.it
 relation	2632354	http://www.via-alpina.org/en/stage/337
@@ -3679,6 +3682,7 @@ relation	5824090	http://www.trekkingplus.it/SB%20-%20Tappa%205
 relation	5824091	http://www.trekkingplus.it/SB%20-%20Tappa%206
 relation	5824092	http://www.trekkingplus.it/SB%20-%20Tappa%207
 relation	5824093	http://www.trekkingplus.it/SB%20-%20Tappa%208
+relation	5962791	https://www.ac-nice.fr/
 relation	6182034	https://www.cailaspezia.it/
 relation	6182047	https://www.cailaspezia.it/
 relation	6182061	https://www.cailaspezia.it/
