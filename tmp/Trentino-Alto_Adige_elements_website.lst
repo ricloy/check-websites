@@ -265,7 +265,6 @@ node	554849478	http://www.rifugioselvata.it/
 node	556367054	https://www.hotelcitta.info/
 node	556402482	https://www.marriott.com/hotels/travel/bzofp-four-points-bolzano/
 node	556402530	https://www.ristorantemendelhof.it/
-node	556577808	https://www.rafenstein.it/
 node	556606875	https://bicibolzano.ecospazio.it/
 node	556620323	https://www.walthers.it
 node	556629278	https://www.hotelfeichter.it/
@@ -431,6 +430,7 @@ node	824702351	https://www.hotellilie.it/kulinarik/restaurant-sterzing
 node	828706615	https://leservite.com/
 node	830141172	https://www.ars-florensis.com/
 node	830605059	https://www.farmaciadrusomerano.it/
+node	831311234	http://www.pizzeriaprincipe.com/
 node	831311235	http://www.oasi-gelateria.it/
 node	831340661	https://www.forsterbrau.it
 node	831340669	https://www.rossini-bar.it/
@@ -588,7 +588,6 @@ node	1211135256	https://www.alpiccolohotel.it/
 node	1212207472	https://lavecchiazambana.it/
 node	1222400916	https://www.sporthotel-rasen.com/
 node	1222908388	https://windegger.info/
-node	1223468126	https://www.baitachecco.com/
 node	1229122073	https://www.unicredit.it
 node	1230713862	http://www.noleggioscivaldifassa.it
 node	1230861638	https://www.malgavarena.it/
@@ -882,7 +881,6 @@ node	1829223235	http://www.matanerbrot.com/
 node	1833996316	https://www.pazeider.com/
 node	1834948420	https://www.hotelbellevue-valgardena.it/
 node	1836554924	https://www.giannibio.it/
-node	1836959868	https://www.rifugiociampedie.it/
 node	1839797802	https://www.chaletgiasenei.com/
 node	1841408727	https://www.bibliotechevaldisole.it/it/biblioteche/vermiglio/presentazione
 node	1851486811	https://www.laspesainfamiglia.coop/Famiglie-Cooperative/Famiglia-Cooperativa-Ronzo-Chienis/Chi-siamo
@@ -1132,6 +1130,7 @@ node	2394792820	http://www.hotelrelaisorsingher.it/
 node	2394806716	http://www.ttesercizio.it
 node	2394806717	http://www.ttesercizio.it
 node	2397050017	https://alpenverein.it/de/berg-wanderfreunde/avs-h%C3%BCtten/avs-schutzh%C3%BCtten-biwaks-282.html?hID=82649176-9667-4ba6-a39d-d9eed36539ca
+node	2397156968	https://pizzerialatalpa.it/
 node	2398058664	http://www.ff-untermais.it/
 node	2398434106	http://www.rableidalm.com/
 node	2398769979	https://www.soracasecicli-bressanone.it/
@@ -2253,7 +2252,6 @@ node	3296413420	https://www.auerhof-walten.it/
 node	3298011091	https://www.petergut.pfelders
 node	3298074747	https://www.hotel-sonnenhof.com/
 node	3298076648	https://www.hotel-zirmerhof.com/
-node	3298093661	http://www.gasthof-walde.com/
 node	3298107269	https://www.pension-weinberg.it/
 node	3298109390	https://www.pension-weinberg.it
 node	3299389551	http://www.pension-alpengruss.com/
@@ -3595,7 +3593,6 @@ node	4850176183	http://www.gasthaus-forsthof.com/
 node	4851051372	https://www.florandonole.it/
 node	4855230482	https://www.audika.it/
 node	4855265605	https://www.provincia.tn.it/bikesharing
-node	4859472961	https://www.calliarifiori.com
 node	4861170877	https://www.klausen2.it/index.php/kollmann
 node	4864969181	http://www.ssp-graun.it/gs-graun
 node	4864999167	http://www.ssp-graun.it/gs-reschen/
@@ -4114,7 +4111,6 @@ node	6203284000	http://lastalladelnonno.it
 node	6209994103	https://www.portobeseno.it/blog/?p=8753
 node	6212656523	https://www.facebook.com/ZUBYZCALLIANO
 node	6215904302	https://www.fassappartamenti.it/it/s/vigodifassa/ciasa-de-la-lum-luigi-zulian
-node	6217483333	https://www.negritella.net/
 node	6220736661	https://www.labormedservizi.it/
 node	6239479972	https://cinema.parrocchiamattarello.it/
 node	6239519785	http://www.farmaciagiupponi.com/
@@ -4548,6 +4544,7 @@ node	7809858401	https://www.taxialtabadia.org/en/taxi-san-cassiano
 node	7810372313	https://www.klopfhof.it/
 node	7815496770	https://www.schoenaussicht.eu/
 node	7819816363	http://niederhaushof.com/
+node	7819933485	https://www.bergsteigen.com/fileadmin/userdaten/tour/topo/7568/Topo-Ferrata-Rio-Sallagoni.png
 node	7822576006	http://www.stauderhof.com
 node	7822604136	http://www.spoerl-hof.de/
 node	7823545880	https://www.gretl.it/
@@ -5771,7 +5768,7 @@ node	11506123137	https://www.ledroimmobiliare.com
 node	11508363143	http://crosina.it/
 node	11508678173	https://www.biowood.it/
 node	11509486736	http://www.villaggiosantalucialedro.it
-node	11510480671	www.distrettoriva.it
+node	11510480671	www.fedvvfvol.it
 node	11510480672	https://www.soccorsoalpinotrentino.it/
 node	11512657767	https://www.cameadina.com/it
 node	11512720399	https://www.residencealessio.it/it
@@ -6155,10 +6152,16 @@ node	12290391061	https://opencity.comune.bolzano.it/Amministrazione/Luoghi/Sala-
 node	12290391062	https://opencity.comune.bolzano.it/Amministrazione/Luoghi/Sala-Ortles
 node	12296012780	www.montura.com
 node	12296024031	www.montura.com
+node	12300260007	https://www.faggio.it/
+node	12301457624	https://www.sanbaradio.it
+node	12301854152	https://www.apss.tn.it/Azienda/Unita-operative-e-strutture/Polo-universitario-delle-professioni-sanitarie
+node	12304652558	https://www.eich-hof.it
+node	12311596050	https://www.bergsteigen.com/fileadmin/userdaten/import/topos/ferrata_rino_pisetta_klettersteig_topo.pdf
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
 way	24909182	https://www.provincia.tn.it/
+way	24913898	https://www.lsgalilei.org
 way	24915558	https://www.asis.trento.it/it/impianti/centro-sportivo-f-lli-bocchi_9373_s/
 way	25389158	http://www.funiviamezzocorona.it/
 way	25483770	https://www.ictrento3.it/
@@ -6200,7 +6203,7 @@ way	35731759	https://www.kraeuterhof.it/
 way	35819100	https://www.hotel-minigolf.com/winter-sommer/minigolfplatz/
 way	35824419	www.ff-zenoberg.it
 way	35828706	https://kronaction.com/
-way	36114517	https://www.bergbahnen-latsch.com/de/sessellift-tarscher-alm/tarscher-alm
+way	36114517	https://bergbahnen-latsch.com/de/sessellift-tarscher-alm
 way	36302652	https://www.gemeinde.tirol.bz.it/
 way	36743997	https://rifugiolancia.it/
 way	36812833	https://www.regione.taa.it/
@@ -6500,6 +6503,7 @@ way	63195776	http://www.scuolaveronesi.it
 way	63222690	https://www.hotelrovereto.it/
 way	63657963	https://www.scuolamusicale.rovereto.tn.it/Scuola
 way	64062175	http://www.scuolaveronesi.it
+way	64194050	https://www.holidu.de/d/46087219
 way	64714382	https://www.trentonelverde.com/
 way	64714413	https://autoscuolaalba.it/
 way	65134453	https://www.visitchiese.it/
@@ -8493,6 +8497,7 @@ way	245216862	https://oberburghof.it/urlaub/
 way	245304436	33
 way	245330402	lettn.eu
 way	245890909	http://www.pfarretaufers.it
+way	245941343	www.unterwirt.com
 way	246075935	https://www.forbiker.it/
 way	246100525	https://ecohotelbonapace.com/
 way	246149768	https://www.fcobermais.it/
@@ -9365,6 +9370,8 @@ way	662363635	https://www.icaldenomattarello.edu.it/
 way	662363637	https://www.icaldenomattarello.edu.it/
 way	662440702	https://www.zanettiarreda.it/
 way	662757169	https://www.moena.it/it/chiese-delle-frazioni-di-moena
+way	664282658	https://www.baitachecco.com/
+way	664282659	https://www.negritella.net/
 way	665201245	https://www.rosskopf.com/
 way	667233399	https://www.campingmontiggl.com
 way	667737362	http://www.videoframemultimedia.it/
@@ -9660,6 +9667,7 @@ way	1088107668	https://www.residencehotelambiez.it
 way	1092050820	https://www.kaltern.com/de/info/parkplatz-bahnhofstrasse-p6.html
 way	1092050821	https://www.kaltern.com/de/info/parkplatz-bahnhofstrasse-p6.html
 way	1092050822	https://www.kaltern.com/de/info/parkplatz-bahnhofstrasse-p6.html
+way	1092213079	https://www.rifugiociampedie.it/
 way	1092297767	https://rivadelgardafierecongressi.it
 way	1092297768	https://rivadelgardafierecongressi.it
 way	1096401221	https://www.bergrettung.it/de/tiers.html
@@ -9774,6 +9782,7 @@ way	1323276492	https://www.badl.it/
 way	1324152792	https://www.visitrovereto.it/
 way	1327481579	http://www.cantinasalim.it/
 way	1327860508	http://www.vitaform.eu/
+way	1329492364	https://www.apss.tn.it/Azienda/Unita-operative-e-strutture/Polo-universitario-delle-professioni-sanitarie
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -10119,6 +10128,7 @@ relation	2729854	https://www.sat.tn.it/
 relation	2731536	https://www.sat.tn.it/
 relation	2737281	https://www.sat.tn.it/
 relation	2737312	https://www.sat.tn.it/
+relation	2752946	https://www.lsgalilei.org
 relation	2757210	http://www.caiasiago.it
 relation	2757256	http://www.caiasiago.it
 relation	2757444	https://www.centrofondo-gallio.com/
@@ -11797,6 +11807,7 @@ node	3289934384	https://zeppichl.com/
 node	3291921216	https://www.edelweiss-pfelders.it/
 node	3292585477	http://www.bibcom.trento.it/orari_sedi/sedi_periferiche/povo
 node	3295713393	https://pensionrestaurant-peterhof.business.site/
+node	3298093661	http://www.gasthof-walde.com/
 node	3298095580	https://www.gasthof-walde.com/
 node	3312642477	https://museodellaguerra.it/
 node	3366605669	https://www.innerfohrerhof.com
@@ -12203,6 +12214,7 @@ node	12218308667	https://www.yesalps.com/en/apartments/corones-kronplatz/amanita
 node	12265635488	https://www.hotellagosmeraldo.it/
 node	12265702040	https://maxfactory.eu/
 node	12286088236	https://breakoutsport.it/en/contatti-en/
+node	12310387784	https://arcogaia.blogspot.com
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24441737	https://www.trentinomobilita.it/parcheggi-coperti
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
