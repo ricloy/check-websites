@@ -1750,6 +1750,7 @@ node	6348434897	http://www.favignanamare.it/
 node	6355843102	https://www.telebitconsulting.it/
 node	6361223736	https://librerianunnari.it
 node	6361615959	https://motorsud.it
+node	6364695332	https://www.grandvision.it/it-it/trova-negozi/negozio?storeNumber=K147&cid=yext_GMB_website_K147
 node	6364695334	https://www.prezzemoloevitale.net/
 node	6367331685	https://www.albergomilazzoinn.eu/
 node	6367903289	https://www.diocesipatti.it/it/archivio-storico-diocesano/
@@ -1986,7 +1987,7 @@ node	6831736647	https://www.poste.it
 node	6831736768	https://www.poste.it
 node	6831737073	https://www.poste.it
 node	6831737112	https://www.poste.it
-node	6833114915	http://www.trattoriadelcavaliere.com/
+node	6833114915	http://www.trattoriadelcavaliere.com
 node	6833429421	https://www.poste.it
 node	6836005450	https://www.poste.it
 node	6838707654	https://www.prezzemoloevitale.net/
@@ -2649,6 +2650,7 @@ node	8999283617	https://www.mediaworld.it/negozi/palermo-forum
 node	8999808905	https://casadiriposobellini.it/
 node	8999812237	https://bed-ferragosto.business.site/
 node	9001200117	https://lasalerniana.it/
+node	9002501106	http://acidolatticopizzeria.it/
 node	9002501196	http://www.casadicuralucina.it/
 node	9005349836	http://www.bedgiuseppeverdi.it/
 node	9007275359	http://www.bbopera.it/
@@ -3755,6 +3757,11 @@ node	12288563472	http://iltocco.it
 node	12289866085	https://www.camio.it/
 node	12290313378	https://www.palantica.com
 node	12299871598	http://www.hobbyzoo.org/
+node	12314553169	https://www.doppelganger.it/
+node	12316377558	http://locandaceramicatania.it
+node	12322978305	https://www.famila.it/punti-vendita/sicilia/famila-market-via-leonardo-da-vinci
+node	12323634189	https://madensicilia.it
+node	12324253534	https://www.poste.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3924,6 +3931,7 @@ way	80361837	https://www.rifugiocitelli.it/
 way	80717818	https://www.poste.it
 way	80725639	https://www.castellosanmarco.it/
 way	81745791	https://www.ricevimentilafenicezafferanaetnea.it/
+way	81943240	www.geometralevantinosalvatore.it
 way	82665029	http://monrealeduomo.it
 way	83696299	http://www.ilgiardinodigraziella.it/
 way	83825693	https://www.roccofortehotels.com/hotels-and-resorts/villa-igiea/?utm_source=google&utm_medium=local&utm_campaign=villa-igiea
@@ -6107,7 +6115,6 @@ relation	11126851	https://www.garagedelleisole.it/
 relation	11180795	https://www.cutgana.unict.it/content/complesso-speleologico-villasmundo-s-alfio
 relation	11296030	https://www.cai.it/sezione/catania/
 relation	11299074	http://www.tribunaleragusa.it/
-relation	11578359	https://www.imonasterigolfresort.com/
 relation	11603897	https://mappasentieroitalia.cai.it
 relation	11931135	https://www.sicilytrekkingtour.it/
 relation	11931263	https://www.sicilytrekkingtour.it
@@ -6656,6 +6663,7 @@ node	12270579712	https://www.ristorantepizzeriariviera.it
 node	12278210926	https://beerbang.wixsite.com/beerbang
 node	12281405343	https://www.lamattamadeinsicily.com
 node	12303902871	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/6513
+node	12310342886	https://gugliuzza.it/
 way	28233134	https://www.messinarte.it/duomo-di-messina/
 way	34227431	http://liceomazara.edu.it/
 way	34314619	https://www.zoculture.it/
