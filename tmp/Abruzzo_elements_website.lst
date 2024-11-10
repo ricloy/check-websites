@@ -54,7 +54,6 @@ node	278495689	http://sanpaoloapostolopescara.it/
 node	300847185	https://www.villachiara.net
 node	302273312	https://cafeart.it
 node	304147157	https://www.clubesse.it/strutture/hotel-mediterraneo/
-node	304890437	https://www.farmaciediturno.org/farmacia.asp?idf=10807
 node	306578327	https://osteriadelmozzo.it
 node	312308356	https://www.trony.it/online/store/TRO037_A
 node	314755718	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
@@ -72,6 +71,7 @@ node	415121362	http://www.fontecoppa.it/
 node	415875897	https://www.quebrachoristorante.com/
 node	418373511	https://asilonidoilfilorosso.com
 node	418952321	https://www.sushikaiten.it/ristorante/montesilvano
+node	418952330	https://cucinelube-marianomonacogroup.it/
 node	420450236	https://www.ristorantetorreantica.com
 node	423152575	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10845
 node	427966207	https://www.divanicec.com/
@@ -1711,7 +1711,7 @@ node	8000764535	https://www.esaenergie.eu/
 node	8001434549	https://valdesi-sgl.business.site
 node	8016637320	https://insideevs.it/news/523560/piemonte-atlante-nhoa-free2move-esolutions/
 node	8039824954	https://www.barprofetarestaurant.it
-node	8057383919	https://www.trony.it/online
+node	8057383919	https://www.trony.it/citta-sant-angelo-tro214/
 node	8063937148	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
 node	8077955765	https://moovitapp.com/pescara_ed_abruzzo-3762/lines/4/402580/1364468/en?customerId=4908&ref=2&poiType=line
 node	8087586840	http://www.studiodalconzo.it/
@@ -3178,6 +3178,13 @@ node	12292260294	http://www.rifondazione.it/primapagina/#gsc.tab=0
 node	12301781615	https://reservation.bebreale.it/it/
 node	12307482421	www.hotelpina.it
 node	12307884401	https://www.foresteriagiulianova.com/
+node	12311685115	https://www.maw.it/
+node	12313860805	https://arapabruzzo.it/dove-siamo/
+node	12314159031	https://lucadivenanzio.it/
+node	12326907801	https://www.abruzzoarredi.it/
+node	12327458484	https://www.pittarello.com/
+node	12327458485	https://www.mondoconv.it
+node	12328381977	https://agriturismoagrifoglio.eu/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3216,8 +3223,6 @@ way	59399534	https://centauroweb.it/
 way	59530435	https://www.federicisofa.com/punti-vendita/montesilvano/
 way	59563955	https://www.ictroianodelfico.edu.it/
 way	60008561	https://www.eurospin.it
-way	60264625	https://www.pittarello.com/
-way	60264627	https://www.mondoconv.it
 way	60295526	https://www.musei.abruzzo.beniculturali.it/musei?mid=61&nome=museo-archeologico-nazionale-dabruzzo-villa-frigerj
 way	60784235	https://www.centrocommercialedelfino.it/
 way	60784239	https://www.eurospin.it/punti-vendita/pescara-523878/
@@ -4222,7 +4227,8 @@ way	1328155099	https://www.proxicad.it/en/
 way	1328176900	https://www.campingborghetti.it/
 way	1328331510	https://www.campeggioverdemare.it/
 way	1328665680	https://www.iiscrocetticerulli.edu.it/
-way	1330389449	www.hotelpina.it
+way	1330389449	https://www.hotelpina.it/
+way	1330613510	https://www.portoanticopescara.it/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4551,6 +4557,7 @@ way	1301595650	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno/
 way	1307420954	https://www.cogesambiente.it/cogesa2021/contatti/
 way	1315272611	https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&code=9701&Chiesa_di_San_Nicola_di_Bari__Orsogna
 way	1319818228	https://www.ilpescara.it/foto/cronaca/riqualificazione-di-via-andrea-doria-e-del-lungomare-cristoforo-colombo-render-del-progetto/
+way	1330879777	http://www.visit-sulmona.it/poi/288/chiesa-di-santa-lucia/3
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
 relation	13050879	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno/
