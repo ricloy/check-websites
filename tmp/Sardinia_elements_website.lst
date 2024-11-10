@@ -518,7 +518,6 @@ node	2063363742	https://www.conad.it/ricerca-negozi/negozio.007879.html
 node	2091957717	https://www.eurospin.it/
 node	2093845283	https://www.supersigma.com/
 node	2094006325	https://grottedinettuno.it/
-node	2129442312	http://musei.beniculturali.it/musei?mid=6029&nome=museo-archeologico-nazionale-antiquarium-turritano-e-area-archeologica
 node	2134874772	https://www.baiaverdesardegna.it
 node	2136452060	https://www.hotelcostadorada.it/
 node	2162668210	https://www.esedraescursioni.it/it/notizie/orari-area-archeologica-di-tamuli/
@@ -536,6 +535,7 @@ node	2267771209	https://www.eurospin.it/
 node	2268148486	https://musei.sardegna.beniculturali.it/musei/pinacoteca-nazionale-di-sassari/
 node	2273072843	http://www.ilportalesardo.it/archeo/nudorgali2.htm
 node	2273250354	https://www.carrefour.it
+node	2275294077	https://www.tribunale.sassari.it/Default.aspx
 node	2278971102	https://www.conad.it/ricerca-negozi/negozio.010113.html
 node	2293544082	https://www.lafavoritacalagonone.com/hotel
 node	2304263087	https://www.enel.it/punto-enel/
@@ -1740,6 +1740,9 @@ node	12255083937	https://www.marinapoltuquatu.com
 node	12255083938	https://www.marinapoltuquatu.com
 node	12255222086	https://www.marinadicalacapra.com/en/home-en/
 node	12271300155	https://www.bebpalmasera.com
+node	12321369225	https://www.sardiniadomus.it/
+node	12321371439	https://acaciaedilizia.it/
+node	12321395317	https://navitora.it/
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1995,6 +1998,7 @@ way	273557617	http://www.chiesastellamarisportocervo.it/
 way	273558302	https://www.hotellepalmeportocervo.it/de/hotel-porto-cervo/1-0.html
 way	273558926	https://www.bbsmeralda.com/
 way	273559704	https://ristoranteilguscio.it/
+way	273562178	https://www.hotelmicalosu.it/
 way	273565060	https://www.gesecoarzachena.it/?page_id=952#museo
 way	273567995	https://www.scuoladiarzachena.it/index.php/secondariaabbiadori.html
 way	273799034	https://www.galtellisardegna.it/
@@ -2081,6 +2085,7 @@ way	279205558	www.minacountryclub.it
 way	279205568	http://www.ic30.com/tonycar/
 way	279209543	http://musei.beniculturali.it/musei?mid=461&nome=citta-romana-e-parco-archeologico-di-turris-libisonis
 way	279209887	https://www.facebook.com/pages/category/Gym-Physical-Fitness-Center/Boxing-Club-Alberto-Mura--1379890675580821/
+way	279210020	http://musei.beniculturali.it/musei?mid=6029&nome=museo-archeologico-nazionale-antiquarium-turritano-e-area-archeologica
 way	279211238	https://www.eurospin.it
 way	279262426	https://villagrazia-bed-and-breakfast-alghero.com/
 way	279263478	https://www.hotelsoleado.it/en/
@@ -2952,7 +2957,6 @@ relation	49116	http://comune.castiadas.ca.it/
 relation	49117	http://www.comune.muravera.ca.it/
 relation	2235675	https://www.autodromosardegna.net/
 relation	2237704	http://www.compendiogaribaldino.it/
-relation	3118069	https://www.geasar.it
 relation	3163211	http://www.museoarcheologiconuoro.beniculturali.it
 relation	3343219	http://www.chiagolfclub.it/
 relation	3685133	https://www.thotel.it/
@@ -3160,6 +3164,7 @@ relation	17360268	https://www.sardegnasentieri.it/sentiero/pinningassu-stazione-
 relation	17626081	https://www.sardegnasentieri.it/sentiero/monte-ferru-c-103
 relation	17645470	https://www.cicloviadellasardegna.it/
 relation	18001585	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Parco-Martin-Luther-King/
+relation	18248575	https://www.geasar.it
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
