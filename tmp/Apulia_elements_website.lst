@@ -3,7 +3,11 @@ node	26859473	http://www.campingdeitrulli.com
 node	68528694	https://www.comune.ruvodipuglia.ba.it/
 node	68528748	http://www2.comune.gravina.ba.it/
 node	68528826	https://www.comune.ceglie-messapica.br.it/
+node	68528891	https://www.comune.biccari.fg.it/
 node	68528897	http://www.comune.carlantino.fg.it/carlantino/hh/index.php
+node	68528980	https://www.comune.mottamontecorvino.fg.it/
+node	68529006	https://www.comune.volturino.fg.it/volturino/hh/index.php
+node	68529019	https://www.comune.volturaraappula.fg.it/
 node	68529049	https://comune.casalvecchiodipuglia.fg.it/
 node	68529053	https://www.comunecagnanovarano.fg.it/Home.aspx
 node	68529081	https://www.comunelesina.it/
@@ -440,6 +444,7 @@ node	3976448398	https://lamasangiorgio.it
 node	4000782707	https://www.allegrinitaly.com/shop/
 node	4011650718	https://www.relaishisto.it/
 node	4011921428	https://www.bibliotecadeleo.it
+node	4026651935	https://www.amministrazionicomunali.it/puglia/celle-di-san-vito
 node	4043500830	https://p20bistrot.com/
 node	4058649089	http://ricciutilaw.com/
 node	4065572840	http://www.hotelristorantelacapannella.com
@@ -1306,6 +1311,7 @@ node	8405466376	https://www.instagram.com/innangi_artigianato_vieste/
 node	8410560220	https://www.farmaciaridola.it/
 node	8412461128	https://www.hotelmediterraneogiovinazzo.it/
 node	8414390367	https://www.agribb.it/dormire/bb-piazza-ebalia-5123/
+node	8414999727	https://cafelucarelli.it/
 node	8425169151	http://www.assistenzatvbari.it
 node	8433076325	https://www.comune.taranto.it/index.php/elenco-amministrazione-e-uffici/organigramma/5-direzione-tributi-gestione-entrate-proprie
 node	8434265377	http://www.ecogreentape.it/
@@ -2090,6 +2096,7 @@ node	11449751663	https://www.iblbanca.it/
 node	11449855566	https://www.mydaycoffee.it/
 node	11459550011	https://www.ovs.it/it/it/stores/italia/puglia/bari/ovs-bari-via-melo-kids
 node	11475756169	https://ilboss.it/
+node	11476204416	https://www.footballitalia.it/it/
 node	11483817036	https://www.stauferstelen.net/stele-fiorentino.htm
 node	11491575224	https://www.guess.eu/
 node	11491575225	https://www.piquadro.com/
@@ -2569,10 +2576,26 @@ node	12310184294	https://smiaspa.it/smia/
 node	12310288084	https://divaniliving.it/
 node	12310288087	https://www.geaplastsrl.it
 node	12310335715	https://marfis.it/
+node	12312130903	https://www.stefyscathedralcoffee.it/
+node	12315765331	https://www.riflessi.it
+node	12315765334	https://www.schiavoniparquetsrl.it/
+node	12315765338	https://bnl.it/
+node	12315765339	https://www.cdp.it/
+node	12315765340	https://www.clidviaggi.com/
+node	12315765342	https://www.lastminutetour.com/
+node	12325563995	https://nawawax.com/
+node	12325636247	https://www.appartamenti-a-palese.it
+node	12327051629	https://www.whitneycob.com/
+node	12327051633	https://www.studiodontoiatricodrbrescia.it/
+node	12328469262	https://www.tipografiadanisi.it/
+node	12328698611	https://otticadegiglio.it/
+node	12329257630	http://www.valentinibari.it/
+node	12329316446	https://www.camicissima.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
 way	29372084	https://www.irsa.cnr.it/wp/?page_id=371
+way	30505452	https://www.esercito.difesa.it/storia/Pagine/Il-Sacrario-Militare-dei-Caduti-dOltremare.aspx
 way	30546791	https://www.centrocasamassima.it/
 way	30634015	https://www.itsmeccatronicapuglia.it/
 way	30652740	https://www.liceofermi.edu.it/
@@ -2602,7 +2625,7 @@ way	117514397	https://www.leganavale.it/portale/sezioni/index.asp?ID_sezione=154
 way	121717471	https://www.pistakart.it/
 way	122049136	https://www.facebook.com/alfonsodidonnalidovalentino/?locale=it_IT
 way	123061548	http://www.canudo.gov.it
-way	123272851	https://www.museotaranto.beniculturali.it/web/index.php?area=1&page=home&id=0&lng=it
+way	123272851	https://museotaranto.cultura.gov.it/
 way	123338642	https://www.uniba.it/ateneo/sede-di-taranto/
 way	124063585	https://unhrd.org/
 way	125360269	https://www.piscinameridiana.com/
@@ -2870,6 +2893,7 @@ way	385907492	https://www.emmepigas.eu/
 way	386705270	https://www.circolo27bari.edu.it/
 way	387932592	https://www.barpasticcerialincontro.it
 way	388901682	https://www.finedin.it/
+way	390076902	https://www.armenisevehiclecare.com/
 way	391979884	https://www.grandhoteldilecce.it/
 way	393072835	https://www.ipzs.it/
 way	396587091	https://www.farmaciarao1832.com/
@@ -3248,7 +3272,6 @@ way	463672934	https://www.giorgianisrl.com/
 way	464955411	https://www.grandapulia.it/
 way	465455862	https://www.eurospin.it/
 way	467643058	https://www.masseriacaselli.it/
-way	467648857	http://www.hotelsottolestelle.it
 way	467717208	http://www.ecpeluso.it/prossime_r.html
 way	469635519	https://www.cofra.it
 way	470202046	http://www.salernocinema.com/
@@ -3758,6 +3781,7 @@ way	1327477953	https://masseriamonticchio.it/
 way	1327848163	https://www.metro.it/punti-vendita/bari
 way	1327849650	https://www.volkswagenzentrumbari.it/
 way	1328574093	https://www.parcodeiricordi.it/
+way	1332177868	https://www.iissmajoranabari.edu.it/luogo/i-i-s-s-ettore-majorana-plesso-palese/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -4203,6 +4227,7 @@ node	9040224982	https://cartapulia.it/dettaglio?id=112868
 node	9045320359	http://www.docartis.com/OSTUNI%20beni%20culturali/architettura/va13.pdf
 node	9174077277	http://cartapulia.it/dettaglio?id=124745
 node	9174509173	http://www.docartis.com/OSTUNI%20beni%20culturali/segnalazioni_archeologiche/Sac16.pdf
+node	9251197186	https://www.vignamarina.it/
 node	9499364200	https://www.docartis.com/OSTUNI-12%20masserie/Mass%20CAMERE.pdf
 node	9499364201	https://www.pianetaostuni.it/index.php/18-chiese-rurali/530-santa-lucia-2
 node	9499364208	"https://www.pianetaostuni.it/index.php/18-chiese-rurali/478-brancati-2,"
@@ -4238,6 +4263,8 @@ node	11777789597	https://www.comune.mesagne.br.it/Servizi/Biblioteca-Comunale-Ug
 node	12053441610	https://www.daziogianniristorantepizzeria.it/
 node	12056090216	https://www.plazacarrisi.it/
 node	12304079169	https://www.eshoremobility.com/
+node	12327032738	https://www.tenutapapola.it/
+node	12327046730	https://pugliaonbike.it/
 way	81082630	https://cartapulia.it/dettaglio?id=127906
 way	81101010	https://cartapulia.it/web/guest/dettaglio?id=128414
 way	81101023	https://siusa.archivi.beniculturali.it/cgi-bin/pagina.pl?TipoPag=prodente&Chiave=26492
@@ -4798,3 +4825,4 @@ way	1185637217	https://www.pianetaostuni.it/index.php/lame/fiume-morelli
 way	1185637218	https://www.pianetaostuni.it/index.php/lame/fiume-morelli
 way	1323935612	https://masseriaelysium.com/
 relation	11031333	http://www.docartis.com/OSTUNI_Sit/+++METODOLOGIA.pdf
+relation	18268666	www.lapietraprontoprato.it
