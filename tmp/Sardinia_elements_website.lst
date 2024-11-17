@@ -383,7 +383,6 @@ node	808434064	http://www.campnurral.it/
 node	817759589	http://www.myohotelroccesarde.com/
 node	830339857	https://www.coopenis.it/de/camping/
 node	860123495	http://www.faldor.it/
-node	860123751	https://www.beyfin.it/
 node	867589417	https://www.eurospin.it/
 node	867589445	https://www.thespacecinema.it/al-cinema/quartucciu
 node	947407861	https://www.itihotels.it/marinarosaria-HomePageit-5.html
@@ -724,6 +723,7 @@ node	3263178043	http://museo.comune.ozieri.ss.it/
 node	3265795148	http://www.lalchimistapizzeria.it/
 node	3265795150	http://www.ic30.com/pizzerialafenice/index-4.html
 node	3265795159	http://www.pomodorooristano.it
+node	3266612592	https://www.pizzerialapineta.it/
 node	3268779899	http://web.tiscali.it/ilpioppo/
 node	3268779900	http://www.hoteldelsoleisili.com/
 node	3268779903	http://www.marate.it/
@@ -754,9 +754,8 @@ node	3275218717	https://wavesurfshop.it/
 node	3275220356	https://www.hotelmistraloristano.it/
 node	3275220596	https://www.casadellamusica.net/
 node	3275223967	http://www.eleonoraviaggi.it/
-node	3275224175	http://www.frongiamarket.it/
+node	3275224175	https://www.vicinoatesupermercati.it/
 node	3275224370	https://www.onoranzefunebri-melis.com/
-node	3275224528	http://www.ic30.com/flohan/
 node	3275224611	http://www.specialmentepesce.altervista.org/
 node	3275224837	http://www.tipografiaoristanese.com/
 node	3275225503	http://www.guesthouseiride.com/
@@ -1675,6 +1674,7 @@ node	11677495294	https://petshouse.business.site/
 node	11688329161	https://sardafluid.it/
 node	11726513264	https://abinsula.com/it/
 node	11747218528	https://www.assicurazioni.it/meglioquesto-broker-srl-r3jp/
+node	11747816376	https://www.beyfin.it/
 node	11753240406	https://www.bosaqueenhouse.it/
 node	11756329201	https://www.adm.gov.it/portale/-/direzione-territoriale
 node	11761507386	https://www.aicof.it/#home
@@ -1985,8 +1985,7 @@ way	264447812	http://www.marinadiarbatax.it
 way	264447813	http://www.porticciolodibosamarina.com
 way	265802054	https://www.bancosardegna.it/
 way	265802597	https://www.rai.it/
-way	266489330	https://www.sardegnaturismo.it/en/point-of-interest/succoronis-nuraghe-area
-way	266489331	https://www.tharros.info/ViewNuraghi.php?search=succoronis&lng=it
+way	266489330	https://www.tharros.info/ViewNuraghi.php?search=succoronis&lng=it
 way	266617155	https://www.tharros.info/ViewNuraghi.php?search=Birori&type=t&sort=2&lng=en
 way	267411552	https://www.eurospin.it/
 way	271124219	https://www.comune.tratalias.ca.it/
@@ -3416,7 +3415,6 @@ way	27668458	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668483	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668486	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	28408977	http://arst.sardegna.it/orari_e_autolinee/TPL.html
-way	30003684	http://www.isolarossabosa.it
 way	46428907	http://www.aeroportotortoliarbatax.it/
 way	50845483	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	50845484	http://arst.sardegna.it/orari_e_autolinee/TPL.html
@@ -3851,7 +3849,6 @@ way	533946422	http://www.agriturismocostaverde.it
 way	534193055	http://www.agriturismocasacasti.it
 way	534908924	http://www.agriturismosacanudera.it
 way	534908936	https://www.sacrannaccia.com
-way	534908959	http://www.consorziopontis.it
 way	534908988	http://www.ittioturismooristano.com
 way	534929014	http://www.agriturismosaroiatraversa.it
 way	535684475	http://www.samarigosa.com
