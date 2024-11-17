@@ -1,5 +1,4 @@
 @type	@id	website
-node	26859377	http://www.campingassisi.it/
 node	26859459	https://www.ilcollaccio.com/
 node	68507505	https://www.comune.perugia.it/
 node	68507510	https://www.comune.terni.it/
@@ -244,6 +243,7 @@ node	2429716502	https://www.conad.it/ricerca-negozi/negozio.008484.html
 node	2435828590	https://www.ristoranteilvizio.it
 node	2438977366	http://www.ristorantecontessagubbio.it/menu/
 node	2443483100	https://www.pasticceriaetrusca.it/
+node	2447960677	https://www.coal.it/archives/punti-vendita/fise-snc-di-fiorani-fiorella-e-danilo
 node	2453189790	https://www.primaveraminihotel.it/
 node	2461282094	https://www.montereano.it/
 node	2461299967	http://www.ocablu.com/
@@ -1044,6 +1044,7 @@ way	222091267	https://www.hoteldellatorre.eu/
 way	222174104	https://www.comune.spoleto.pg.it/turismoecultura/the-city/churches/chiesa-di-san-filippo-neri/
 way	222264179	https://www.vigilfuoco.it/sitiVVF/perugia/
 way	222603424	http://www.alessandrelli.eu/
+way	222747709	https://www.sibillini.net/chiedi_sibilla/areeCamper/preci_borgo_garibaldi/
 way	224748296	https://www.mulinaccino.it/
 way	224748301	https://www.torrebisenzio.com/
 way	225080564	http://www.casasereni.it/
@@ -1144,6 +1145,7 @@ way	366008683	https://www.turismoguardea.it/ita/17/parco-aiola/
 way	366975900	http://www.albergoumbriaotricoli.it
 way	368665277	https://www.conad.it/ricerca-negozi/negozio.050303.html
 way	370612644	http://www.hotel-amerino.it/
+way	372364088	https://www.galasupermercati.it/
 way	372366646	https://www.iisorfini.edu.it/
 way	372367186	https://www.ittfoligno.it
 way	372988860	https://www.casavacanzenorcia.it/
@@ -1191,6 +1193,7 @@ way	439161191	https://www.iluoghidelsilenzio.it/castello-di-ceselli-scheggino/
 way	439163149	http://www.iluoghidelsilenzio.it/?p=13877
 way	439167293	http://www.iluoghidelsilenzio.it/?p=8359
 way	439167304	http://www.iluoghidelsilenzio.it/?p=118582
+way	439180000	https://www.iluoghidelsilenzio.it/abbazia-di-santa-maria-de-ugonis-vallo-di-nera/
 way	439181439	https://www.casevacanzeagrifoglio.com/
 way	439197781	https://www.iluoghidelsilenzio.it/chiesa-di-santanna-mocali-di-sellano/
 way	439200577	https://www.iluoghidelsilenzio.it/chiesa-di-san-silvestro-villamagina/
@@ -1439,6 +1442,7 @@ way	670726708	https://www.2circolospoleto.edu.it/jm4/
 way	672706385	https://www.iluoghidelsilenzio.it/chiesa-di-san-giovanni-ocenelli-di-spoleto-pg/
 way	677167009	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-della-selva-mattutina-selvetta-montefalco/
 way	679832252	https://www.fondoambiente.it/luoghi/bosco-di-san-francesco
+way	680154904	https://www.iluoghidelsilenzio.it/pieve-di-san-giusto-paterno-di-vallo-di-nera-pg/
 way	680544410	https://www.ilcasaledimonica.it/
 way	680546612	https://olmoagriturismo.it/
 way	681447419	http://www.iluoghidelsilenzio.it/chiesa-di-san-biagio-icciano/
@@ -1460,6 +1464,7 @@ way	700829494	http://www.primocircolospoleto.it/ita/
 way	703288572	https://www.hotelsanluca.com/
 way	709569345	https://www.uslumbria2.it/pagine/distretto-di-foligno
 way	717721267	https://www.cdsamianto.com/
+way	722627363	https://www.villadaeva.it/
 way	726443432	https://chiesatonda.it/
 way	729710756	https://www.monasterodibose.it/fraternita/assisi
 way	731205825	https://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-vallo-di-nera/
@@ -1552,6 +1557,7 @@ way	1040801916	http://www.castelrubello.it
 way	1047791775	http://www.ristorantepiediluco.tr.it/
 way	1059950131	https://gelateria-bellucci.business.site/
 way	1061056635	https://www.albergomontecucco.it/
+way	1073746882	https://www.iluoghidelsilenzio.it/chiesa-di-san-sebastiano-piedipaterno-di-vallo-di-nera-pg/
 way	1076683267	http://www.ilrocolo.it/
 way	1081418526	https://www.comprensivopassignano.edu.it/
 way	1091610653	https://www.birrasanfelice.it
@@ -1639,6 +1645,9 @@ way	1319990571	https://ittaxi.it/
 way	1319990572	https://ittaxi.it/
 way	1320184571	www.mctaxidriverdotit.wordpress.com/
 way	1332435889	https://www.alcantarineassisi.it/alcantarine/
+way	1332811685	http://www.campingassisi.it/
+way	1333268456	https://www.iluoghidelsilenzio.it/chiesa-di-san-bernardo-paterno-di-vallo-di-nera-pg/
+way	1333273755	https://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-de-pedemonte-meggiano-di-vallo-di-nera/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	1948091	https://chemindassise.org/
@@ -1742,7 +1751,6 @@ relation	7901324	https://www.viadifrancesco.it/
 relation	7901484	https://www.viadifrancesco.it/
 relation	7902148	https://www.viadifrancesco.it/
 relation	7905178	https://www.viadifrancesco.it/
-relation	7944413	https://www.unionecomuni.valdichiana.si.it/
 relation	8004421	http://www.roccaflea.com/
 relation	8054649	https://www.viadifrancesco.it/
 relation	8054650	https://www.viadifrancesco.it/
@@ -1871,7 +1879,6 @@ node	4528307077	https://www.carloni1989.it/
 node	4528371043	https://www.ristoranteilmoderno.store/menu/
 node	4529186809	https://www.alphaville-italia.com
 node	4581702789	https://todi.ubiklibri.it
-node	4614970272	https://www.lietasosta.it/
 node	5249382813	https://www.rampiniauto.it/
 node	6206621145	https://www.lagiostrinadeicanape.it/servizi/la-giostrina.html
 node	6823102355	https://hotellacorte.magrellihr.com
@@ -1903,10 +1910,12 @@ node	11954443862	https://www.assisimuseodiocesano.it/visitaci/
 node	12018545260	https://www.perugina.com/it/casa-del-cioccolato/Welcome-to-the-Casa-del-Cioccolato
 node	12320864828	https://benedettineciterna.wordpress.com
 way	43051908	https://santuariorivotortoassisi.org/
+way	54610355	https://www.comune.montefalco.pg.it/pagine/polizia-stradale
 way	106506111	https://www.santuarioeremodellecarceri.org/
 way	140678619	https://www.superconti.eu/punti-vendita/orvieto/
 way	149526977	https://www.santacolette.com/
 way	152539968	https://fontedegna.wixsite.com/umbria-tuscany
+way	168679030	https://sostareabevagna.com/
 way	179935735	http://www.ilboschetto.com/
 way	204687572	https://www.fontemaggio.it
 way	222602134	http://www.irpi.cnr.it/
@@ -1925,10 +1934,12 @@ way	528899396	https://www.ilRoseto.com
 way	560118130	https://www.lagiostrinadeicanape.it/servizi/il-trenino.html
 way	588200103	http://www.canoaclubperugia.it
 way	620147295	http://www.cittadella.org/
+way	686717426	https://www.allanticamattonata.com/
 way	728195596	https://sanbenedettoalsubasio.it/
 way	757260586	https://panoramadincanto.it/
 way	835401677	https://villagabbiano.it/
 way	849611228	http://www.olioragani.com/
+way	868763578	https://turismo.tadino.it/informazioni-aree-camper-biblioteca/
 way	896680861	http://www.ostellovictorcenter.com
 way	915987117	http://www.victorhostel.com/
 way	1058727515	https://www.villalavaniaspello.it/
@@ -1937,6 +1948,10 @@ way	1111886908	http://www.fontebella.com
 way	1193573273	https://nursia.org/
 way	1289711090	https://turismo.comune.perugia.it/pagine/biblioteca-comunale-degli-arconi-perugia
 way	1290599799	http://www.upsandomenico.church/
+way	1332877889	https://www.lietasosta.it/
+way	1333218154	https://www.fattoriagiorgetti.it/
+way	1334245871	https://turismo.tadino.it/informazioni-aree-camper-biblioteca/
+way	1334245872	https://turismo.tadino.it/informazioni-aree-camper-biblioteca/
 relation	2997264	https://casasangirolamo.azionecattolica.it/
 relation	3444241	https://www.casamonteripido.it/
 relation	8050899	http://www.viaggispirituali.it/strutture-turismo-religioso/umbria/monastero-s-croce_3353/
