@@ -1711,7 +1711,6 @@ node	8000764535	https://www.esaenergie.eu/
 node	8001434549	https://valdesi-sgl.business.site
 node	8016637320	https://insideevs.it/news/523560/piemonte-atlante-nhoa-free2move-esolutions/
 node	8039824954	https://www.barprofetarestaurant.it
-node	8057383919	https://www.trony.it/citta-sant-angelo-tro214/
 node	8063937148	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
 node	8077955765	https://moovitapp.com/pescara_ed_abruzzo-3762/lines/4/402580/1364468/en?customerId=4908&ref=2&poiType=line
 node	8087586840	http://www.studiodalconzo.it/
@@ -1996,6 +1995,7 @@ node	8835930837	https://www.infissigroup.com/
 node	8835990928	https://www.interaptiva.it/
 node	8836503072	https://delta-autocarrozzeria-srl.business.site/
 node	8836503073	http://www.emmetech94.it
+node	8838692071	https://www.repower.com/it/dina/
 node	8848295185	https://www.lineaautosrl.it/
 node	8848942060	https://www.musicaviva.it/
 node	8850077516	https://www.osteriafratetac.it/
@@ -2775,6 +2775,7 @@ node	11101059903	https://casadangelo.it
 node	11109723781	https://www.calavera.it
 node	11109723789	https://www.roadhouse.it/it/news/inaugurazione-del-171-ristorante-roadhouse-pescara-montesilvano
 node	11112187691	https://www.parcodelsangro.it/lacquapark
+node	11112187697	https://www.repower.com/it/dina/
 node	11112211790	https://www.hoteltrieste.it/
 node	11112211792	https://www.daremo.it/
 node	11112211814	https://www.hotelsuisse.com/
@@ -3133,6 +3134,7 @@ node	12164901503	https://www.bmautomobili.com/
 node	12168576636	https://genobile.it/contatti.html
 node	12177199641	https://kobaksmartoilet.com/
 node	12177948629	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
+node	12178345293	https://www.km431.it/silvi/
 node	12179876367	https://www.fuoco26.it
 node	12183702001	https://www.ambauto.it
 node	12187635518	https://bearbike.it
@@ -3176,7 +3178,7 @@ node	12285326131	https://www.broadcastcenter.it/it/
 node	12285326132	https://www.heliosistemi.com/
 node	12292260294	http://www.rifondazione.it/primapagina/#gsc.tab=0
 node	12301781615	https://reservation.bebreale.it/it/
-node	12307482421	www.hotelpina.it
+node	12307482421	https://www.hotelpina.it/
 node	12307884401	https://www.foresteriagiulianova.com/
 node	12311685115	https://www.maw.it/
 node	12313860805	https://arapabruzzo.it/dove-siamo/
@@ -3185,6 +3187,8 @@ node	12326907801	https://www.abruzzoarredi.it/
 node	12327458484	https://www.pittarello.com/
 node	12327458485	https://www.mondoconv.it
 node	12328381977	https://agriturismoagrifoglio.eu/
+node	12330436255	https://bbmasseriacerasella.it
+node	12334061856	https://www.cafuilabruzzo.it/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3469,6 +3473,7 @@ way	360933378	https://www.hotel-caravel.com/
 way	360933380	https://www.hotelroyalvasto.com/
 way	362467626	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/madonna-della-mazza/
 way	363227546	https://www.verdebios.it/
+way	364117956	http://www.usrc.it
 way	364117974	http://www.centrocommercialepolycenter.it/
 way	365007906	https://www.pistaminispeed.it/
 way	365707473	http://www.bedbreakfastilghiro-pizzeriadamauro.com
@@ -4229,6 +4234,9 @@ way	1328331510	https://www.campeggioverdemare.it/
 way	1328665680	https://www.iiscrocetticerulli.edu.it/
 way	1330389449	https://www.hotelpina.it/
 way	1330613510	https://www.portoanticopescara.it/
+way	1333159650	https://www.maisonsdumonde.com/IT/it/s/citta-santangelo-pe-281
+way	1333160254	https://www.trony.it/citta-sant-angelo-tro214/
+way	1333160255	https://www.globomoda.com/puntivendita/dettagli_puntovendita.php?id=65
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
