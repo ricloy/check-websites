@@ -104,6 +104,7 @@ node	1998297701	https://hotelscheck-in.com/casamorgano/en/
 node	2010190782	https://gracekitchenbar.it/
 node	2018203509	https://www.hotelilpino.it/
 node	2018203686	https://www.tramontodoro.it/
+node	2020449996	https://www.hotelfontanaamalfi.com/
 node	2022160796	https://www.alconvento.net/
 node	2022160858	https://www.sanpietroristorante.it/
 node	2029586594	https://pompeiisites.org/Sezione.jsp?idSezione=151
@@ -268,6 +269,7 @@ node	2626774758	http://www.salerno1943-1944.com/
 node	2662236954	http://www.cir.campania.beniculturali.it/luoghi-della-cultura/ercolano-teatro-romano
 node	2684584081	http://www.s-line.de/homepages/cv/rom/01IT/F/F01IT228.HTM
 node	2685816316	https://www.supero.it/
+node	2685865044	https://www.santachiarasuite.com/it/
 node	2685902376	http://www.toledostation.com
 node	2685932415	https://hostelnapoli.com/
 node	2685933833	http://www.latteletto.it
@@ -557,8 +559,8 @@ node	4318362857	www.pizzarialanotizia.com
 node	4318403640	http://www.passionedisofi.com
 node	4318435140	https://www.pasticceriapoppella.com/
 node	4318463651	https://www.pizzeriestarita.it/
-node	4318472946	https://www.tandem.napoli.it/tandem-ragu/
-node	4318478307	https://www.tandem.napoli.it/tandem-asporto
+node	4318472946	https://www.tandemnapoli.it/tandem-via-paladino/
+node	4318478307	https://www.tandemnapoli.it/tandem-asporto/
 node	4318635988	http://www.lezendraglie.it/
 node	4336191118	http://www.museovirtualescuolamedicasalernitana.it/
 node	4338815689	https://www.harpos.eu/
@@ -905,6 +907,7 @@ node	5637863921	https://www.carpinosrl.com/
 node	5655814604	wwww.elettronica-matarazzo.com
 node	5686614429	https://www.sorrentorivoli.com/
 node	5687906754	http://www.LaTerrazzaSorrento.com
+node	5690851421	https://www.pepeingrani.it/
 node	5691518417	http://www.ApprodoCapri.com
 node	5702003865	https://bcccilentoelucaniasud.it/Dove-Siamo/Filiali/Sapri/24
 node	5703225743	https://www.unieuro.it/online/negozi/Unieuro-Sapri
@@ -1119,6 +1122,7 @@ node	7108198985	https://www.bbsalernoincentro.com/
 node	7110628446	winebaravello.it
 node	7136901579	http://labruca.it/
 node	7139609461	https://www.aldentespaghetteria.it/
+node	7142669631	https://www.vittopitagorico.it/
 node	7147507120	http://www.pasticceriacapriccionapoli.com/index.html
 node	7147507122	https://www.puokburger.com/
 node	7150695841	https://www.giorgiolieto.com/
@@ -1531,7 +1535,7 @@ node	9193875517	https://it.intrend.it
 node	9195123775	http://www.latorredelporto.it/
 node	9198974810	https://www.windtre.it
 node	9199100372	https://www.zuiki.it
-node	9202702680	https://www.pizzeriaimasanielli.it/
+node	9202702680	https://www.pizzeriaimasanielli.it
 node	9202702685	http://www.hotelreginacaserta.it
 node	9205653629	https://www.supermercatidok.it/index.php?idpdv=249&last=no&p=promozioni&pdv=SAN+NICOLA+LA+STRADA+-+VIA+S.S.+COSMA+E+DAMIANO+C%2FO+CENTRO+LEONARDO
 node	9209477406	https://cleos-room.business.site/
@@ -1839,6 +1843,7 @@ node	10014265512	https://www.villagervasio.it/
 node	10016184026	https://www.cisbu.it/
 node	10037618979	https://www.supermercatipiccolo.it/
 node	10037977511	https://www.leaxidie.it/
+node	10041404904	https://www.deiuliis.com/
 node	10045775530	https://www.scoutmenu.it/dettagli-locale.php?id=385
 node	10047274455	https://www.ilcantucciomassalubrense.com/
 node	10052147905	https://www.borgodeisaraceni.it/camere/flower-home/
@@ -2339,6 +2344,7 @@ node	11898883101	https://www.action.com/it-it
 node	11907045248	https://www.facebook.com/novellinoantonio65/
 node	11915770867	http://www.lasergamecaserta.it
 node	11915797679	https://www.agenziaentrateriscossione.gov.it/it
+node	11919688563	https://www.miletti.it/
 node	11925199769	https://www.ilcapitanoshop.com/
 node	11925268915	https://www.cynaraholidayhouse.it/
 node	11925459447	https://fabiana.marinacamerota.it/
@@ -2428,6 +2434,9 @@ node	12303979582	https://www.skuba.it/
 node	12309192845	https://www.allanticovinaio.com/napoli/
 node	12310223282	https://www.deloitte.com/it/it/offices/italy-offices/napoli2.html
 node	12314233233	https://leformichelle.com/
+node	12340801455	https://www.instagram.com/laborio37?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+node	12344123297	https://museodinapoli.wordpress.com/
+node	12349570654	divinasuiteischia.com
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
@@ -2783,7 +2792,6 @@ way	356794447	http://www.ilparcodelbambinello.netsons.org/
 way	356839048	https://pompeiisites.org/Sezione.jsp?titolo=Casa+di+Apollo+(VI+7%2C23)&idSezione=288
 way	356867685	http://www.pompeiisites.org/Sezione.jsp?titolo=Terme+centrali+(IX%2C4%2C5-18)&idSezione=150
 way	359217518	www.hotelcaporal.com
-way	360078117	https://www.catacombedinapoli.it/
 way	360141058	https://www.liceogandhi.edu.it/
 way	360948532	https://www.locandadeitrecento.it/
 way	362126229	http://www.liceoettoremajorana.gov.it/
@@ -3562,6 +3570,7 @@ way	1323627637	https://it.casashops.com/it/
 way	1327563281	http://www.iisdavincisapri.gov.it/
 way	1327840139	https://www.facebook.com/cineteatroferrari/
 way	1330761455	https://www.sarniristorazione.it/
+way	1333311248	https://www.mcdonalds.it
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3835,6 +3844,7 @@ node	12271937767	https://www.white1903.it/
 node	12271997442	https://www.villaidaforio.it/
 node	12271997505	http://www.residencevillatina.it/
 node	12286132176	https://www.mazzamaurielle.com/vomero
+node	12346842152	https://www.gargiuloinlaid.it/it/
 way	79268408	http://www.szn.it
 way	170920731	https://www.giardiniposeidonterme.com/
 way	174047981	http://www.cittadellascienza.it/
