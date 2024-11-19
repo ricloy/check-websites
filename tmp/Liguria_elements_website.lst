@@ -143,6 +143,7 @@ node	733684465	http://www.trattoriadegliamici.eu/
 node	735126005	http://www.mulinodelgassetta.it/
 node	735132191	https://portofino.eighthotels.it/
 node	735139329	http://www.pitosforo-portofino.it/ita/delfino/ristorante.htm
+node	736945941	https://damama-toirano.it/
 node	748330625	www.eprierosse.it
 node	750472623	https://www.capalla.it/
 node	765282658	http://www.parkhotelcastello.com/
@@ -213,6 +214,7 @@ node	1286570771	https://www.icdianomarina.edu.it/
 node	1296976918	http://www.terrerossecamping.it/
 node	1313052761	https://www.glicini.it/
 node	1315968046	https://www.poste.it/
+node	1316071481	https://laplayasanlorenzoalmare.metro.rest
 node	1337152985	https://www.oddonebici.com/
 node	1337153003	https://www.dapiladebbq.com/
 node	1342482726	http://www.lechaudron.it/
@@ -694,6 +696,7 @@ node	3437933430	http://www.casadellarocca.it
 node	3438858835	http://www.ilbrillopercaso.it
 node	3438988646	https://www.popolarebaliano.org/
 node	3439308942	https://www.ostellingenova.it/
+node	3439712013	https://www.vassallotende.it
 node	3439712054	https://www.pompefunebrivitali.com/
 node	3443544436	https://www.parconaturalealpiliguri.it/
 node	3443701638	www.picassogomme.it
@@ -1282,6 +1285,7 @@ node	5775420653	https://m.facebook.com/cantinademananan
 node	5776757518	https://www.ponteggigenova.com
 node	5778955835	www.monterosatogenova.it
 node	5788946261	https://www.asdalbissole1909.it/
+node	5790377854	https://equilibrioristorante.com
 node	5800749078	https://immobiliarebadino.it/index.asp
 node	5801154005	https://www.credit-agricole.it/#
 node	5801154007	http://www.pescheriabiancheri.com/
@@ -1676,7 +1680,6 @@ node	8034298283	https://www.agriturismodaogatto.it/
 node	8044465583	https://www.treninimiletto.it/
 node	8084846717	https://www.edolce.it
 node	8094708981	https://www.prolocouscio.it/
-node	8097477394	https://www.labaiadeigabbiani.it/restaurant/
 node	8145862014	http://www.ristorantenico.com
 node	8171828228	https://www.lafarmochimica.it/
 node	8197827368	https://www.d-piu.com/punti_vendita/g546-genova-sampierdarena/
@@ -1973,6 +1976,7 @@ node	9402703144	https://www.pitstopbikeschiavari.it/
 node	9423084217	http://pizzerialaspiga.it
 node	9429619966	https://www.cadelmonica.com
 node	9431486026	https://www.casasalute.eu/
+node	9434227552	https://www.enel.it/punto-enel/
 node	9434227605	http://www.podologogabrieleridella.it/
 node	9447902710	https://www.facebook.com/CAI-Valbormida-Cairo-Montenotte-912480968839835/
 node	9453137192	https://areadiservizio456.it/
@@ -2071,6 +2075,7 @@ node	10128741149	https://quadteca.it/
 node	10128741156	https://ponenteligure.aci.it
 node	10128741160	https://www.autocarrozzeriapierino.it/
 node	10128741161	https://mondocaffeimperia.com
+node	10132908328	https://www.innetimperia.it/
 node	10135876390	https://www.pompefunebriarteco.com/
 node	10140289549	https://www.facebook.com/CasaMaMa.Genova/
 node	10143122437	http://www.micheleintheworld.com/genova/
@@ -2500,6 +2505,7 @@ node	12287662888	https://bungiurnu.it/
 node	12293465302	https://book.octorate.com/octobook/site/reservation/index.xhtml?lang=en&codice=611962
 node	12312189808	https://www.grupporadioliguria.it/
 node	12317643926	https://www.decathlon.it/
+node	12317847221	http://www.fratellibertoni.com
 node	12320528839	https://www.repower.com/it/dina/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
@@ -3296,7 +3302,6 @@ way	1313064103	https://www.campingsantavittoria.com/
 way	1316221651	https://www.agricampeggiocaromeo.it/
 way	1316226040	https://campingriver.com/
 way	1316394586	https://www.oasidelbelvivere.it/
-relation	8654	http://www.regionpaca.fr/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -3312,12 +3317,10 @@ relation	1347626	https://www.campeggiogianna.com
 relation	1532374	http://palazzorealegenova.beniculturali.it
 relation	1539287	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1547991	http://www.provincia.alessandria.gov.it/sentieri/
-relation	1571067	https://www.labrigue.fr/
 relation	1718980	https://www.poliziamunicipale.it/
 relation	1947992	https://chemindassise.org/
 relation	1948090	https://chemindassise.org/
 relation	2005160	http://www.porto.genova.it
-relation	2128669	https://www.riviera-francaise.fr/
 relation	2198352	http://www.parktennisclub.com/
 relation	2547675	http://www.sfdapaola.it
 relation	2632354	http://www.via-alpina.org/en/stage/337
@@ -3685,7 +3688,6 @@ relation	5824090	http://www.trekkingplus.it/SB%20-%20Tappa%205
 relation	5824091	http://www.trekkingplus.it/SB%20-%20Tappa%206
 relation	5824092	http://www.trekkingplus.it/SB%20-%20Tappa%207
 relation	5824093	http://www.trekkingplus.it/SB%20-%20Tappa%208
-relation	5962791	https://www.ac-nice.fr/
 relation	6182034	https://www.cailaspezia.it/
 relation	6182047	https://www.cailaspezia.it/
 relation	6182061	https://www.cailaspezia.it/
