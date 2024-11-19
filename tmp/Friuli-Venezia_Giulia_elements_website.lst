@@ -96,6 +96,7 @@ node	528578478	https://www.hotelsettenani.it/
 node	528839466	https://www.debona.it/
 node	528839476	https://www.debona.it/
 node	528853666	https://www.spesagodina.it/
+node	529574510	https://hotelromapalmanova.eu
 node	534554458	http://www.popvi.it
 node	534687547	https://www.museocarnico.it/
 node	534834914	https://www.alciliegino.it/
@@ -225,6 +226,7 @@ node	1478872844	https://www.trattoriadetoni.it/
 node	1482133308	http://www.salustrieste.com
 node	1489867196	https://patrimonioculturale.regione.fvg.it/architettura/?s_id=442750
 node	1490673375	http://www.ota.it/
+node	1533017994	https://www.facebook.com/people/Bar-Al-Canton/100090426858510/
 node	1540327350	http://www.amardeclevo.it
 node	1544021212	https://www.turismofvg.it/archaeological-sites/cave-of-mitreo?LangSetCMS=en
 node	1551867344	https://www.albergoromatolmezzo.it/
@@ -754,6 +756,8 @@ node	3424506661	https://www.despar.it/it/punto-vendita-despar/68/grado/
 node	3426984450	www.mistermaxjeans.it
 node	3426993382	http://www.leondoromaniago.com
 node	3427351307	http://www.palazzodattimismaniago.eu/
+node	3439236491	http://www.constantini.si
+node	3439241031	https://www.vina-blazic.si/
 node	3450644191	https://catastogrotte.regione.fvg.it/scheda/1456-Grotta_Pod_Lanisce
 node	3452550037	http://www.saldemar.it/
 node	3480663962	http://www.aicolonos.it
@@ -979,6 +983,7 @@ node	3703229892	http://www.cedarmas.com/
 node	3712311320	https://www.karatedotrieste.org/
 node	3712311321	https://www.karatedotrieste.org/
 node	3725861905	https://www.comune.fornidisopra.ud.it/
+node	3726029097	https://dolcimandi.it/
 node	3728922034	http://www.infoteca.it/buttrio/homepage.htm
 node	3729141899	http://www.infoteca.it/palmanova
 node	3729184019	https://www.salustrieste.it/
@@ -1394,6 +1399,7 @@ node	4926009215	http://frednet.crs.inogs.it/
 node	4926009216	http://www.crs.inogs.it/frednet/
 node	4926009218	http://www.crs.inogs.it/frednet/
 node	4932295524	http://catastogrotte.fvg.it/1365
+node	4936700056	http://www.ospedalemilitare.units.it/
 node	4940064353	https://www.turismofvg.it/rnode/41091
 node	4947550760	ongjarut.it
 node	4949124797	https://www.tamburinpasticceria.it/
@@ -2673,7 +2679,7 @@ node	12293591514	https://www.zorzettigvini.it/
 node	12293591515	http://zorzuttimoris.com/
 node	12293591516	http://www.castellosantanna.it/
 node	12293591531	https://www.lasclusa.it/
-node	12293751242	http://www.vinigrappolodoro.com/
+node	12293751242	https://www.vinigrappolodoro.com/
 node	12293751262	https://www.villaroncoalbina.it/
 node	12293751268	http://ilnappovini.it/
 node	12293942792	https://www.anticobroilo.com/
@@ -2717,6 +2723,11 @@ node	12320626931	https://www.digaspero.com/agriturismo-la-di-gaspar-degustazione
 node	12320626932	https://bucovaz.it/
 node	12320626933	https://www.cantaruttialfieri.it/
 node	12320638331	https://www.repower.com/it/dina/
+node	12339156652	https://www.thewalkofpeace.com/it/locations/brestovec/
+node	12339951867	http://www.sammashops.it/
+node	12339951870	https://www.pizzeriaistanbul.it/
+node	12340393242	https://www.conad.it/ricerca-negozi/conad-superstore-via-ilaria-alpi-5-33082-azzano-decimo--007605
+node	12355091762	https://www.urbancaffe.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -4429,7 +4440,7 @@ relation	6701722	http://www.openleader.it/area-di-sosta-via-monte-brancot/
 relation	6701822	http://fornacecopetti.altervista.org/index.html
 relation	6712909	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-850a
 relation	6714909	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/s1-157a
-relation	6798010	http://www.bike-alpeadria.com/
+relation	6798010	https://www.bike-alpeadria.com/
 relation	6902107	https://sentieroitalia.cai.it/tappa/?id=SI+B09
 relation	6925685	https://sentieroitalia.cai.it/tappa/?id=SI+A03
 relation	6925686	https://sentieroitalia.cai.it/tappa/?id=SI+A02
@@ -5475,6 +5486,8 @@ node	12017287866	https://www.testedipietra.it/
 node	12132375119	https://www.agriturismodagastone.it/
 node	12132517851	https://ristorante-pizzerianordest.it/
 node	12278203605	www.falegnameriazeta.it
+node	12345779588	http://www.zahrebeer.com
+node	12345779589	https://ziplinesauris.com
 way	35945116	http://www.casaperaria.it
 way	35946164	http://www.albergodiffusoilgrop.it/
 way	35946195	http://www.sotlanapa.it/
@@ -5532,7 +5545,6 @@ way	36393205	https://alpontildetripoli.eatbu.com/
 way	36393468	https://www.hoteltanit.it/
 way	36393803	https://www.spiaggiaairone.it/RISTORANTE.html
 way	36420219	http://www.wolfsauris.it
-way	36420221	http://www.zahrebeer.com
 way	36425741	https://www.centrocommerciale-pradamano.com/
 way	36430062	https://www.caisanvito.it/palestra-home
 way	36432434	https://www.consorzioagrariofvg.it/
