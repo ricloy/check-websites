@@ -43,7 +43,6 @@ node	288469485	https://www.baerenhotel.com
 node	288471881	https://www.trenker.it/
 node	288471882	https://www.pragserhof.com/
 node	288938675	https://orostube.it/
-node	289225782	http://www.pizzeriasalesa.it
 node	289741264	http://www.garnisonnegg.it
 node	289878227	https://www.gasthof-krone.it
 node	290467985	https://www.apotheke-mals.com/
@@ -1410,7 +1409,7 @@ node	2531407408	https://www.italiana.it
 node	2531409644	https://www.farcomtrento.com/stores/farmacia-san-giuseppe-riva-del-garda/
 node	2533548115	https://www.r3gis.com/
 node	2534708276	http://www.museodellacartolina.it/
-node	2534783919	https://sites.google.com/site/saloneboschetto/home
+node	2534783919	https://www.barbieriaboschetto.it/
 node	2536022005	https://sterbebilder.schwemberger.at/picture.php?/97404
 node	2537349080	https://www.psairerbeck.it/
 node	2549638040	https://www.hotel-mair.com/
@@ -2158,7 +2157,6 @@ node	3063503527	https://www.papinsport.com/
 node	3063539808	https://www.suedtirol-rad.com/
 node	3066287608	https://www.mitterplarser-hotel.it/
 node	3073872078	https://www.ced2001.com/
-node	3076630074	https://www.bike2punto0.it/
 node	3077045545	http://www.gomez.it
 node	3078351797	https://www.carservice-sigi.com/
 node	3079169352	https://csbruno.org
@@ -3343,7 +3341,7 @@ node	4353696317	https://www.gasthof-steg.it/
 node	4356470206	https://forchettaerastrello.it/
 node	4356523665	http://www.lattetrento.it/
 node	4357194384	https://www.merano-suedtirol.it/de/partschins-rabland-und-toell.html
-node	4361892428	http://www.rtanevesole.com/
+node	4361892428	https://www.nevesolefolgaridaresort.com/
 node	4362417183	https://www.farmaciabertazzoni.net/
 node	4362724391	http://www.werkstattholzknechtkurt.com
 node	4364879839	https://www.sanluis-hotel.com/
@@ -4812,7 +4810,6 @@ node	8894699144	https://www.fahrschulesteiner.it
 node	8894812882	https://www.priesterseminar.it/
 node	8897550464	http://seab.bz.it/parcheggi-blu
 node	8898483658	https://ideadanza.org/
-node	8904430991	https://www.hirben.it/
 node	8911059333	https://www.ribagaselfservice.it/
 node	8917356183	https://www.cartopack.it/
 node	8917356186	https://www.bertolinsrl.it/
@@ -6164,8 +6161,11 @@ node	12301854152	https://www.apss.tn.it/Azienda/Unita-operative-e-strutture/Polo
 node	12304652558	https://www.eich-hof.it
 node	12311596050	https://www.bergsteigen.com/fileadmin/userdaten/import/topos/ferrata_rino_pisetta_klettersteig_topo.pdf
 node	12318171923	https://agricampeggiodabery.it/
-node	12320080690	www.progress.cc
+node	12320080690	https://www.progress.cc/
 node	12325574193	http://alberinvest.com/
+node	12347857601	http://www.moosbachhof.it
+node	12348938843	eagletrt.it
+node	12348952481	eagletrt.it
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -7775,8 +7775,8 @@ way	165984219	https://www.ebnerm.com/
 way	165984224	https://www.pfattner.com/
 way	165984238	https://www.garden-residence.com/
 way	166071897	https://www.zukallhof.com/
-way	166533921	www.progress-m.com
-way	166533924	www.progress-m.com
+way	166533921	https://www.progress-m.com/
+way	166533924	https://www.progress-m.com/
 way	166705991	http://dobbiaco.jugendherberge.it
 way	166874595	https://www.hotel-dolomiten.com/
 way	166897487	https://www.brandiskeller.it/
@@ -9678,6 +9678,7 @@ way	1087176700	https://www.camperstopebnbnavis.com
 way	1087757608	https://www.prags.bz/en
 way	1087965250	https://www.savoiapalace.it/
 way	1088107668	https://www.residencehotelambiez.it
+way	1090775285	https://www.hirben.it/
 way	1092050820	https://www.kaltern.com/de/info/parkplatz-bahnhofstrasse-p6.html
 way	1092050821	https://www.kaltern.com/de/info/parkplatz-bahnhofstrasse-p6.html
 way	1092050822	https://www.kaltern.com/de/info/parkplatz-bahnhofstrasse-p6.html
@@ -9788,6 +9789,7 @@ way	1316728513	https://www.prags.bz/en
 way	1316728514	https://www.prags.bz/en
 way	1316728515	https://www.prags.bz/en
 way	1316918241	https://www.wikiloc.com/hiking-trails/bivacco-ceco-baroni-passo-di-cavento-53861076
+way	1317717093	https://suite.hoteladler.com
 way	1319010810	https://www.campingkomodo.it/
 way	1320329189	http://www.apspbrentonico.it/
 way	1320438491	https://www.fonteklaus.it/
@@ -11249,6 +11251,7 @@ relation	18137210	https://www.nordicarena-toblach.it/rollerbahn/
 relation	18172957	https://www.trentino.com/it/sport-e-tempo-libero/montagne-ed-escursioni/escursioni-primaverili/sentiero-delle-marocche-di-dro/
 relation	18187125	https://radrouting.tirol/
 relation	18257388	https://www.ilovevaldinon.it/ponte-sospeso-di-mezzolombardo
+relation	18302551	https://www.comunegrigno.it/c022095/po/mostra_news.php?id=2203&area=H
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
