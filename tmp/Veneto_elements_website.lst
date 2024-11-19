@@ -1,6 +1,7 @@
 @type	@id	website
 node	26859874	https://www.campingvicenza.it/
 node	32824612	https://www.dunarossa.com/
+node	47967292	https://www.villadeidogi.it/
 node	64778487	http://www.comune.canaro.ro.it/hh/index.php
 node	64778490	https://www.comune.castelmassa.ro.it/
 node	64778555	https://www.comune.gaiba.ro.it/
@@ -67,6 +68,7 @@ node	322655905	http://www.hotelluisa.it
 node	322655908	https://www.hoteltrerose-caorle.it
 node	322655912	https://www.hotellestar.it/
 node	322655920	https://www.hotelraffaellocaorle.com/
+node	331955961	https://ortogonale1.com/
 node	334511575	https://www.conad.it/ricerca-negozi/negozio.009946.html
 node	334512025	https://www.decathlon.it/store-view/negozio-sport-padova-0070026800268
 node	334512158	https://www.spaksupermercati.it/supermercato/supermercato-spak-padova/
@@ -703,7 +705,6 @@ node	1827312792	https://www.equimondo.net/
 node	1833875995	https://www.collesantalucia.eu/
 node	1834502673	https://www.lacortehotel.info/corte/en
 node	1836344754	https://anticapostumia.it/
-node	1837599147	https://www.alicepizza.it/
 node	1837599157	http://www.vesentinigioielli.it/
 node	1851413228	https://www.zamarsport.it/
 node	1851444055	https://www.milanottica.it
@@ -4123,7 +4124,7 @@ node	7411138781	http://www.flipdesign.it
 node	7413069695	https://www.isushi.it/it/ristorante/18
 node	7413773373	https://www.boudoir.venice.it/
 node	7413790803	https://www.enotecamillevini.it/
-node	7413913445	https://www.casacappellariristorante.it/
+node	7413913445	https://www.casacappellariristorante.it
 node	7415491051	https://prandina.com/
 node	7416615860	https://il-buongusto.business.site/
 node	7416704721	https://www.ladogaressa.it/
@@ -6396,6 +6397,7 @@ node	12007521972	https://ryokosushi.it
 node	12007522223	https://www.pizzalongaway.it
 node	12007522305	https://www.sushixuan.it
 node	12007522306	https://poliambulatoriosanmartino.com
+node	12015534532	https://www.poliziadistato.it/articolo/i-centri-di-formazione
 node	12015542718	https://acquadolcehotel.com/
 node	12015549251	http://albergofioravante.com
 node	12018669780	https://www.otticavisionstile.com/
@@ -6489,6 +6491,8 @@ node	12118817435	https://assinsieme.com/web
 node	12118817439	https://www.scarpetterossepd.it
 node	12121161609	https://www.facebook.com/profile.php?id=61555897365367
 node	12121254864	https://www.arteportaleone.com/
+node	12122245242	https://orari.actv.it/stop.html?stopid=2190&service=AUT
+node	12122245243	https://orari.actv.it/stop.html?stopid=2191&service=AUT
 node	12127557808	https://www.map360.it
 node	12128229775	https://www.facebook.com/profile.php?id=61555663330816
 node	12131062301	https://athesislodges.com/
@@ -6639,10 +6643,31 @@ node	12314804808	https://irisristorante.it/
 node	12315810048	www.saccoevanzetti.com
 node	12320326414	https://www.gruppoveritas.it/dove/ecomobile
 node	12320660867	https://www.repower.com/it/dina/
-node	12323649314	www.trattoriaaisalvi.it
+node	12323649314	https://www.trattoriaaisalvi.it/
 node	12324666854	https://linktr.ee/oltreconfin
 node	12325469493	https://www.dawsonfilms.it/
 node	12328586409	https://www.facebook.com/p/Pizzeria-da-Fiorenzo-100057120294229/?locale=it_IT
+node	12336861139	https://turbosol.com
+node	12336864559	https://www.laipe.it
+node	12337568539	https://drive.google.com/file/d/1S3udsWsAXlFxI6kHlLmDjLlV2rO9JqLF/view?usp=share_link
+node	12339165355	https://inpost.it/locker-verona-itver44475m-stradone-santa-lucia
+node	12339550465	https://amsterdampadova.it/
+node	12343507321	https://architizer.com/projects/slancio/
+node	12343742734	https://www.newgenerationhostel.com/hostel/venice-san-marco
+node	12346825675	https://www.bibionegreen.com/
+node	12346845409	https://www.bibionegreen.com/
+node	12346847656	https://www.bibionegreen.com/
+node	12348706133	https://www.inas.it
+node	12349056487	https://www.civico140.it/
+node	12350601701	https://skinnyhill.com
+node	12350723635	https://ortogonale1.com/
+node	12350887102	http://www.comprensivocolombo.edu.it/
+node	12350911311	http://www.parcomuraverona.it
+node	12350945730	https://www.meccanica-ocsa.com/
+node	12350977600	http://www.cmp-pilastro.it
+node	12351009242	http://www.siderforgerossi.com/
+node	12351009243	http://www.officinedalzotto.com
+node	12353512377	https://bettersushi.it/better-sushi-castelnuovo/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -7894,6 +7919,7 @@ way	197239307	https://www.comune.concordiasagittaria.ve.it/
 way	197241337	www.villafloraportogruaro.it
 way	198390894	https://www.cooplevalli.it
 way	198390912	https://www.locandalabaita.it/
+way	198390936	https://www.aeo.it/punti-vendita/veneto/supermercato-aeo-s--stefano-di-cadore
 way	198391840	https://www.falegnameriapomare.com
 way	198392609	http://campingcomelico.it/
 way	198394616	https://www.arredamentidambros.eu
@@ -8407,6 +8433,7 @@ way	317968331	http://www.hotelvillacondulmer.it/en/restaurant/
 way	319393299	https://www.unipd.it/piave#
 way	320028058	https://www.cerletti.edu.it
 way	320052274	https://www.airportpadova.it/
+way	320184529	https://www.ducabruzzi.edu.it/
 way	320654175	http://www.cortedegliangeli.com/
 way	321786599	http://www.rugbysandona.it/index.php?p=stadio-pippo-torresan
 way	322307237	http://www.parcodelsojo.it/
@@ -10724,6 +10751,7 @@ node	10852998320	https://www.airdolomiti.it/
 node	10855960811	https://www.studiolegalegarosi.it/
 node	10856650813	https://gio-gelato-lacchiappasogni.business.site/
 node	10931269193	https://ristoranteafazenda.it/
+node	10931995915	https://www.anytimefitness.it
 node	10940639481	https://www.jjstudio.it/
 node	10944774825	https://www.facebook.com/p/Garage-Patavium-100070034163062/
 node	10951896543	https://www.pizzerialacastellanaeste.it/
@@ -10792,6 +10820,8 @@ node	12304210922	https://daspillo.it
 node	12312755455	https://fondazionezavrel.it/scuola/scuola-internazionale-dillustrazione/
 node	12313959108	https://www.ristorantenin.it
 node	12316061706	"https://chakramenthiene.eatbu.com/,https://chakramen.it/thiene/"
+node	12338010421	https://www.visitschio.it/en/vivi/gusto/Bar-Cristallo
+node	12343573416	https://www.comune.venezia.it/it/content/anagrafe-semplice
 way	27198535	http://basilicadelsanto.org
 way	40460962	https://www.laquercia.it/
 way	42424990	http://www.traiglicinieilsambuco.it/
@@ -11240,6 +11270,7 @@ way	177302430	https://viadeiforti.it
 way	177901186	https://viadeiforti.it
 way	183317591	https://www.caiveneto.it/rifugio/bianchet
 way	199052598	http://www.campingedenfalcade.com/inverno/de/index.html
+way	224507835	https://it.wikipedia.org/wiki/Cologna_Veneta
 way	238227229	https://www.cacorniani.it/portfolio_page/le-opere-arte/
 way	244713097	http://www.rarefratte.it/
 way	258793826	https://www.almontedilivio.com/
@@ -11248,6 +11279,7 @@ way	306337988	https://consorzioleb.it/la-vasca-di-carico-e-sedimentazione/
 way	306984337	http://www.agriturismoalcol.com/
 way	328021251	http://www.8icspadova.edu.it/index.php/scuola-primaria-i-nievo
 way	328021252	http://www.8icspadova.edu.it/index.php/scuola-secondaria-stefanini-todesco
+way	342714570	https://www.aovr.veneto.it/azienda/dove-siamo/parcheggi
 way	350910782	https://www.progettofrigus.it/destinations/casone-di-via-beolo/
 way	350985962	https://mattipessetti.it
 way	351483306	https://www.casalserugoedintorni.it/villa-argenti
