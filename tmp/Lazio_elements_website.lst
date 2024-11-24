@@ -982,7 +982,7 @@ node	2311460176	https://www.enel.it/punto-enel/
 node	2311460189	https://www.enel.it/punto-enel/
 node	2311460240	https://www.enel.it/punto-enel/
 node	2311460262	https://www.enel.it/punto-enel/
-node	2311460287	https://www.enel.it/punto-enel/
+node	2311460287	https://www.enel.it/spazio-enel/latina/spazio-enel-negozio-partner/11213/
 node	2311460311	https://www.enel.it/punto-enel/
 node	2311460337	https://www.enel.it/punto-enel/
 node	2311460356	https://www.enel.it/punto-enel/
@@ -3702,6 +3702,7 @@ node	7063326934	https://www.lazioterm.it/
 node	7071800763	http://poliambulatoriopraecilia.it
 node	7073914342	http://www.terramiabio.com/
 node	7077433185	https://pickyourkind.com/
+node	7079544099	https://www.dimensione-clima.com/
 node	7079803984	https://lamadreparanza.com/
 node	7080403359	https://sites.google.com/site/orioloromanoobservatory
 node	7082306423	https://trattorialuzzi.it/il-nostro-menu/
@@ -5967,6 +5968,7 @@ node	11741790961	https://www.zucchetti.it/website/cms/home.html
 node	11745573269	https://www.adessohotel.it/
 node	11747154206	http://www.bfr-italy.com/
 node	11748351569	http://biblopointcardarelli.it
+node	11748892121	https://www.veterinarioportuense.it/
 node	11752349239	https://www.agriturismoroma.it/Default.asp
 node	11753192451	https://www.progesoftware.it/en/
 node	11753391274	https://www.zurla68.it/
@@ -6266,8 +6268,13 @@ node	12314473265	https://www.doppelganger.it/
 node	12321185816	https://www.studiodartecandeloro.it/
 node	12325622022	http://www.staibanogomme.it
 node	12339922790	https://securmetra.it/
-node	12345651196	http://www.buddhasmile.it/
+node	12345651196	https://www.buddhasmile.it/
 node	12345873001	https://en.wikipedia.org/wiki/Palatine_Museum
+node	12351571872	https://www.beautyartroma.com/
+node	12361196589	https://waikikipoke.it/waikiki-poke-romatermini-ordina-online/
+node	12361196590	https://www.sephora.it/informazioni-store/?storeID=IT11
+node	12362338901	https://www.eggsristorante.com/
+node	12368703105	https://www.infoviterbo.it/borgo-fantasma-celleno-vt.html
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7322,7 +7329,6 @@ way	337871343	https://www.accorhotels.com/it/hotel-1312-sofitel-roma-riapre-rinn
 way	337871344	https://www.splendideroyal.com/
 way	337962936	https://www.comune.genzanodiroma.roma.it/home/esplorare/turismo/cosa-vedere/palazzo-e-parco-sforza-cesarini/
 way	338130637	www.dormire-a-viterbo.jimdo.com
-way	338192767	https://castelloruspoli.com/
 way	339621409	https://magicland.it/it/attrazioni/huntik
 way	339621410	https://magicland.it/it/attrazioni/granteatro
 way	339621411	https://magicland.it/it/attrazioni/gattobaleno_time_machine
@@ -8250,7 +8256,7 @@ way	783055050	https://www.indicepa.gov.it/ipa-portale/consultazione/indirizzo-se
 way	784449450	https://www.papareschi.edu.it/
 way	785165538	https://www.gvmnet.it/strutture/icc-istituto-clinico-casalpalocco-roma
 way	785322695	https://hcir.it/rome-american-hospital
-way	787481198	https://ospedaleisraelitico.it/sede-in-via-fulda-14/
+way	787481198	https://ospedaleisraelitico.it
 way	787888443	https://casadicuravillasandraconvenzionataconserviziosanitario.roma.it/
 way	788530970	https://sanita.acismom.it/ospedale-san-giovanni-battista/
 way	789886740	https://www.cdflogistica.com/contatti/
@@ -9596,6 +9602,9 @@ relation	18106131	https://www.cassanotariato.it
 relation	18140858	https://poliziapenitenziaria.gov.it/polizia-penitenziaria-site/en/centrosportivomt.page
 relation	18180007	https://www.lepiniorientali.it/project/supino/escursioni/sentiero_valle/sentiero_d_valle.htm
 relation	18183773	www.caiamatrice.it/itinierari
+relation	18313009	http://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-1-roma-albano-laziale/
+relation	18316517	https://castelloruspoli.com/
+relation	18320944	http://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-1-roma-albano-laziale/
 node	251888861	https://www.multisalagreenwichroma.com/
 node	452570567	https://www.catacombe.org/
 node	802459210	https://www.oasidigreccio.it/
