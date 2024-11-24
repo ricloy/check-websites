@@ -3181,8 +3181,6 @@ node	10733054184	https://www.arcaplanet.it/
 node	10733499256	https://www.hotelmilomax.it/
 node	10733499276	http://www.mongibello.eu/
 node	10733805470	http://www.lafalconiera.it/index.php
-node	10734228721	https://bigbenchcommunityproject.org/
-node	10734238308	https://bigbenchcommunityproject.org/
 node	10735719558	https://www.cinemaspadaro.it/
 node	10735719620	https://www.residencetrinacria.it/
 node	10735719704	https://www.villalalimonaia.it/
@@ -3610,7 +3608,6 @@ node	11945260279	https://www.mammamiaitaly.com/
 node	11951579755	http://www.associazionethalassa.it/
 node	11954269833	https://shitcoins.club/localizzazione-atm/bitcoin-bancomat-catania-vivante
 node	11954512038	https://www.badima.it/
-node	11956467386	https://bigbenchcommunityproject.org/
 node	11956499536	https://osterianicuzza.wordpress.com/2022/07/27/menu/
 node	11957861219	https://www.matteigela.edu.it/
 node	11959825542	https://www.matteigela.edu.it/
@@ -3762,6 +3759,9 @@ node	12323634189	https://madensicilia.it
 node	12324253534	https://www.poste.it
 node	12337170536	https://www.poste.it
 node	12346487529	https://agriturismooasidicavaispica.it/
+node	12350893329	https://www.villarossa.eu/
+node	12358406194	http://www.home15residence.it/
+node	12364766809	http://www.caffebonanno.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3931,7 +3931,7 @@ way	80361837	https://www.rifugiocitelli.it/
 way	80717818	https://www.poste.it
 way	80725639	https://www.castellosanmarco.it/
 way	81745791	https://www.ricevimentilafenicezafferanaetnea.it/
-way	81943240	www.geometralevantinosalvatore.it
+way	81943240	https://www.geometralevantinosalvatore.it/
 way	82665029	http://monrealeduomo.it
 way	83696299	http://www.ilgiardinodigraziella.it/
 way	83825693	https://www.roccofortehotels.com/hotels-and-resorts/villa-igiea/?utm_source=google&utm_medium=local&utm_campaign=villa-igiea
@@ -5964,6 +5964,7 @@ way	1327296061	https://www.presidentseapalace.it/
 way	1327870100	https://www.poste.it
 way	1330213052	http://www.parrocchiasantaluciaugusta.it/Centro_Utopia.php
 way	1330213057	https://www.canilerifugioasi.it/
+way	1336589839	https://tekne.engineering/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
