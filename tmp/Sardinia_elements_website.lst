@@ -1048,7 +1048,6 @@ node	4466535552	https://www.facebook.com/pizzeriaaltagliogp/
 node	4466535553	https://www.trattoriasabellecrabasa.com/
 node	4469700479	https://www.sardegnaforeste.it/
 node	4469700481	http://www.kennedysassari.it/
-node	4469730167	www.notaiopianusassari.it
 node	4469737051	https://www.fablabsassari.org/
 node	4469737512	https://www.istituto-bellieni.it/
 node	4469739513	http://www.marianarredamenti.it
@@ -1670,7 +1669,6 @@ node	11508828606	https://cocosardinia.com
 node	11556229190	https://www.agriturismomontentosu.com
 node	11599029945	https://prokitesardegna.com/
 node	11599378002	https://www.instagram.com/taberna_santona/
-node	11677495294	https://petshouse.business.site/
 node	11688329161	https://sardafluid.it/
 node	11726513264	https://abinsula.com/it/
 node	11747218528	https://www.assicurazioni.it/meglioquesto-broker-srl-r3jp/
@@ -1743,6 +1741,7 @@ node	12271300155	https://www.bebpalmasera.com
 node	12321369225	https://www.sardiniadomus.it/
 node	12321371439	https://acaciaedilizia.it/
 node	12321395317	https://navitora.it/
+node	12357742068	www.notaiopianusassari.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2092,6 +2091,7 @@ way	279263582	https://www.istitutocomprensivo3alghero.edu.it/
 way	279263832	https://www.doppiomalto.com/it/ristoranti/alghero/
 way	279263930	http://capogalera.com
 way	279264180	https://www.architettura.uniss.it/
+way	279266894	https://www.sardegnaforeste.it/struttura-territoriale/monte-vaccargiu
 way	279269947	http://www.parcodiportoconte.it/
 way	279270110	https://museialghero.it/museo-del-corallo/
 way	279270521	https://www.hotelvillalastronas.it/
@@ -2132,6 +2132,7 @@ way	285327755	http://www.archeolbia.it/monumenti/cisterna-romana/
 way	285340152	http://www.sardegnacultura.it/j/v/253?s=21048&v=2&c=2510&c1=2628&visb=&t=1
 way	285358029	http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_1388971669.html
 way	285961846	https://sassari.aci.it/
+way	285976028	http://www.centrosportivocanopoli.it/default.asp
 way	286753989	http://www.marinadiportomassimo.it/
 way	288235487	http://www.delfinoclub.com
 way	289634125	https://www.ianas.edu.it/
@@ -2265,6 +2266,7 @@ way	304301246	https://www.latorreozierifood.it/
 way	304304543	http://www.iisantoniosegni.gov.it/
 way	304305348	https://comune.ozieri.ss.it/bisarcio/
 way	304314761	https://comune.pozzomaggiore.ss.it/
+way	304315767	https://www.sardegnaforeste.it/struttura-territoriale/vedetta-di-pagliaresu
 way	304541716	https://www.comune.sedini.ss.it/it/contenuti/articoli/dettagli/299/
 way	304542556	https://www.comune.semestene.ss.it/
 way	304581487	https://www.comune.padria.ss.it/en/Padria/IPontiRomani/Ulumos/
@@ -2393,6 +2395,7 @@ way	415090114	https://www.piscinarei.it/
 way	415684247	https://www.tharros.info/
 way	420856578	https://www.praidis.it/
 way	421484988	http://m.agriturismo.it/it/agriturismi/sardegna/carbonia-iglesias/MonteMajore-8700360/index.html
+way	422207444	https://www.sardegnaforeste.it/struttura-territoriale/
 way	422265937	https://www.mdspa.it/punti-vendita/Sardegna/NU-Nuoro/279-Siniscola
 way	422265952	https://www.forumtraiani.it/
 way	422429991	http://facebook.com/trattoriabar.labacarra
@@ -2585,6 +2588,8 @@ way	1315269560	https://baiasaraceno.it/
 way	1315273600	https://www.supinnettu.it/
 way	1321671492	https://www.thecrag.com/climbing/italy/sardinia/jerzu-area/area/1645832697
 way	1327093214	https://www.thecrag.com/climbing/italy/sardinia/cala-fuili/area/14151631
+way	1336301023	https://www.torrestennis.it/
+way	1336959319	https://www.sardegnaforeste.it/struttura-territoriale/vedetta-sena-tunda
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -2965,6 +2970,7 @@ relation	3711980	https://www.comune.stintino.ss.it/
 relation	3713046	https://www.consorziouno.it/
 relation	3713710	http://www.aslsassari.it/
 relation	3725540	https://www.delphina.it/
+relation	3792756	https://www.ss.camcom.it/
 relation	3935522	https://www.museocabras.it/
 relation	3941720	https://comune.sarroch.ca.it/
 relation	3941841	https://www.hilton.com/en/hotels/olbclci-conrad-chia-laguna-sardinia/
