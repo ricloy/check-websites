@@ -31,7 +31,7 @@ node	452926593	https://www.hotelcastellinaria.it/
 node	475187502	https://www.conforama.it/
 node	503101623	https://www.decathlon.it/
 node	534592066	https://www.carabinieri.it/arma/ieri/storia/vista-da-2015/fascicolo-43/la-strage-di-nassiriya
-node	567237137	http://www.grottapalazzese.it/
+node	567237137	https://www.grottapalazzese.it/
 node	591597582	http://www.ba.cnr.it/
 node	592016534	https://www.teatroverdi.eu/
 node	611584735	https://www.puntalunga.it/
@@ -547,6 +547,7 @@ node	4423252293	https://www.labanalisicasale.it/
 node	4423252294	http://www.pasticceriadolcicreazioni.it
 node	4431323917	http://www.fabiopignuni.com
 node	4434039568	http://www.protezionecivilecasarano.org
+node	4440663712	https://www.gyrosteriayannis.com/
 node	4440663714	https://latteebaci.it/
 node	4445504423	http://www.osteriadacosimino.it
 node	4453435555	https://www.alberghierasas.it/
@@ -1090,6 +1091,7 @@ node	6925602941	http://www.comitatoprocanne.com/newsDett.asp?news=10309
 node	6932250191	http://www.comune.volturaraappula.fg.it/cms/home.php
 node	6938181364	https://www.tiellapulia.it/
 node	6944615629	https://www.cortezeuli.it
+node	6944962302	https://www.sisagrottaglie.it
 node	6949754241	https://www.instaltermo.it/
 node	6973114280	https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-trinchese
 node	6974993149	https://www.bijou-brigitte.com/
@@ -1843,7 +1845,6 @@ node	10139555021	https://www.habarihostel.com/
 node	10167122292	https://www.facebook.com/people/Mai-Pi%C3%B9-Peli-specialista-in-epilazione-permanente/100063900347217/
 node	10174486365	https://www.urbanoasishostel.com/
 node	10180295017	https://www.coop.it/
-node	10207429338	https://www.pineappy.biz/
 node	10220359120	https://www.masserianarducci.it/
 node	10220359121	https://www.masserianarducci.it/
 node	10233251317	http://www.break24.it/
@@ -2118,7 +2119,6 @@ node	11498142595	https://www.dodo.it/
 node	11500870422	https://peroniabbigliamento.com/
 node	11500870423	https://bananabenz.it/
 node	11500932876	https://www.calzedonia.com/it/negozi/puglia/bari/bari_via_sparano_da_bari_96_98/CD87.html
-node	11500932879	https://www.stroilioro.com/it_IT/gioiellerie-stroili/dettagli-negozio/?storeID=0350
 node	11500932880	https://www.lordbyroncollege.com/
 node	11500932881	https://www.falconeri.com/it/negozi/puglia/bari/bari_bari_via_sparano_104/F431.html
 node	11500932882	https://www.calvinklein.it/
@@ -2615,6 +2615,12 @@ node	12348587069	https://costumidepoca.it/
 node	12348587085	https://aldobarletta.it/
 node	12348725750	https://www.mesushi.it/
 node	12348769113	https://www.boagialla.it/
+node	12352281168	https://www.acmei.it/ita/punti-vendita/bari-showroom-illuminazione
+node	12352296225	https://horma.com/
+node	12352296226	https://horma.com/
+node	12364301121	https://www.finacosimogroup.it/
+node	12368123054	https://sangiorgioarte.it/
+node	12368700989	https://www.federicianotravel.it
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -2844,6 +2850,7 @@ way	338533017	http://www.secondocomprensivoadelfia.it/
 way	339318290	https://www.oleificioligorio.it/home/i-home.html
 way	339568795	https://www.masseriacamarda.it/ita/index.php
 way	340087182	http://www.terramora.com/
+way	340297805	https://www.istitutogorjuxtridentevivante.edu.it/
 way	340301223	https://www.panettipitagora.edu.it/
 way	340306263	https://www.tretrulli.net/ristorante-cegliemessapica-brindisi.asp
 way	340306264	https://www.tretrulli.net/albergo-cegliemessapica-brindisi.asp
@@ -2889,6 +2896,7 @@ way	380076992	https://www.ristorantelacozza.it/
 way	380077602	https://www.lidovenere.com/
 way	381630465	http://www.comunedicollepasso.gov.it
 way	382429581	https://www.salentohotels.it/
+way	382642081	https://www.icdonmilanidassisi.edu.it/luogo/plesso-vito-faenza/
 way	382906479	https://www.bufolaria.it/
 way	382963048	http://www.tr-inox.it/
 way	382963238	https://www.ventosolare.it/
@@ -3000,6 +3008,7 @@ way	407143888	https://www.cinemars.it/
 way	407428797	https://www.automurgia.com/
 way	407429959	https://brigantino.it/
 way	407433705	https://www.hoteldeicavalieri.net/
+way	407824982	https://www.cattedraletrani.it/
 way	407825264	http://sinagogatrani.sistemab.it/il-museo/
 way	407827789	https://giodicart.it/
 way	408441456	http://www.tavscorrano.it
@@ -3810,6 +3819,8 @@ way	1328766197	https://www.mastromarco.it/
 way	1332177868	https://www.iissmajoranabari.edu.it/luogo/i-i-s-s-ettore-majorana-plesso-palese/
 way	1332937759	https://www.asifoggia.it/agglomerati-asi/
 way	1334678839	https://www.cegliebus.com/
+way	1337178055	https://www.liceosocratebari.edu.it/
+way	1337183422	https://www.q8.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -4720,6 +4731,7 @@ way	421200256	https://www.pianetaostuni.it/index.php/masserie/tutte/156-locopagl
 way	421200299	https://www.pianetaostuni.it/index.php/masserie/tutte/37-fuggiola
 way	423156179	https://www.pianetaostuni.it/index.php/masserie/tutte/321-monte-michele
 way	423174250	https://www.pianetaostuni.it/index.php/masserie/tutte/327-santoro
+way	425587795	https://terredellolmo.it/
 way	427331289	https://cartapulia.it/web/guest/dettaglio?id=132532
 way	471647792	https://www.brindisiweb.it/arcidiocesi/chiese/ostuni/sangiuseppe.htm
 way	471647807	https://www.ostuni.eu/portali-Ostuni.html
