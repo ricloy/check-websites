@@ -902,7 +902,7 @@ node	1900751257	https://www.meinbeck.com/
 node	1900776141	https://www.pizzeriaristorantegaston.it
 node	1904364836	https://www.omkafe.com/
 node	1907077917	https://www.hirzerhuette.com/
-node	1911541009	https://www.hotel-adler.it/
+node	1911541009	https://www.autentis.it/
 node	1913099048	https://www.reisenschuh.it
 node	1915825371	https://www.familyhotellagrotta.it
 node	1919714931	https://www.centralapotheke.eu/
@@ -6163,9 +6163,12 @@ node	12311596050	https://www.bergsteigen.com/fileadmin/userdaten/import/topos/fe
 node	12318171923	https://agricampeggiodabery.it/
 node	12320080690	https://www.progress.cc/
 node	12325574193	http://alberinvest.com/
-node	12347857601	http://www.moosbachhof.it
-node	12348938843	eagletrt.it
-node	12348952481	eagletrt.it
+node	12347857601	https://www.moosbachhof.it/
+node	12348938843	https://eagletrt.it/
+node	12348952481	https://eagletrt.it/
+node	12359976701	https://www.parvatclothing.com/
+node	12361827869	https://www.med-petrangeli.it/
+node	12374308414	https://www.sotciastel.it/it/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -11268,6 +11271,7 @@ node	270725943	https://www.centromusicatrento.it/
 node	274246235	https://www.bergbaumuseum.it/en/ridnaun/location-ridnaun-911.html
 node	276649409	http://www.meran2000.com/
 node	276656763	http://www.meran2000.com/
+node	279714557	https://www.raiffeisen.it/de/niederdorf.html
 node	282776887	http://www.agriturismo-leita.it/
 node	288910331	https://www.bancapts.it
 node	288917447	http://www.farcomtrento.it/
@@ -11906,6 +11910,7 @@ node	4664024243	http://www.egidiogalvan.it/sala-museo
 node	4709671406	http://www.valsuganacultura.it/news/biblioteche.html
 node	4715779120	http://fondazionesalvadorizanatta.it
 node	4769168150	http://www.officinaottanta.it/
+node	4772782542	www.ffwinnebach.it
 node	4836395915	https://sites.google.com/site/aziendaagricoladanilafrizzi/home
 node	4854932051	https://www.zeppichl-bauernguet.com/
 node	4865963415	https://www.villscheider.it/
@@ -12235,6 +12240,7 @@ node	12265702040	https://maxfactory.eu/
 node	12286088236	https://breakoutsport.it/en/contatti-en/
 node	12310387784	https://arcogaia.blogspot.com
 node	12327026510	https://www.twenty.it/it/food/mia-poke/16-1584.html
+node	12363360427	https://biblio.bz.it/niederdorf
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24441737	https://www.trentinomobilita.it/parcheggi-coperti
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
@@ -12414,6 +12420,7 @@ way	100463332	http://www.autoservice-glurns.lvh.it/
 way	101086269	http://www.artigiani.tn.it/
 way	101259520	https://www.stuzzicatilly.it/
 way	102724173	https://www.beimartin.it
+way	103700847	https://www.vallandro.it/
 way	105308550	https://forestefauna.provincia.tn.it/Fauna/Fauna-selvatica/Centro-recupero-animali-selvatici-CRAS
 way	105642284	http://www.binario79.it/
 way	105949757	http://natururlaub-reschenpass.com
@@ -12683,6 +12690,7 @@ way	429403125	http://www.sos-feriendorf.it
 way	431710028	https://mobility.pnab.it/it/location/valditovel.html
 way	431710089	https://mobility.pnab.it/it/location/valditovel.html
 way	431710104	https://mobility.pnab.it/it/location/valditovel.html
+way	433049570	https://www.chalet44.it/
 way	433522137	http://www.albergoponciach.it/
 way	437649497	https://www.bancapts.it
 way	438163683	http://www.malgafratte.com
@@ -12741,6 +12749,7 @@ way	1122943426	https://www.trentinomobilita.it/biciclette-cp-trento
 way	1126706534	https://www.haus-adlerhorst.com/stellplatz
 way	1126707054	https://www.camping-chalet-salten.com/
 way	1158485440	https://www.officinebrennero.it/
+way	1160668138	https://www.alpicchiorosso.com/
 way	1162543897	https://www.agriturpontealto.it/
 way	1163921667	https://www.topcenter.biz/
 way	1163921668	https://brencentertrento.it/
@@ -12764,6 +12773,7 @@ way	1230307365	https://www.viaggiareintrentino.it/
 way	1274058899	https://www.campingbelvedere.it
 way	1289160247	https://www.rfi.it/it/rete/opere-sottoposte-a-dibattito-pubblico/circonvallazione-di-trento.html
 way	1320343678	https://www.ratschings-jaufen.it
+way	1336295742	https://www.gustavmahlerkomponierhaeuschen.com/
 relation	58994	https://www.fbk.eu
 relation	946442	https://www.lecta.com/it/fabbrica-cartiere-del-garda
 relation	1110127	http://www.istitutosacrocuore.it/
