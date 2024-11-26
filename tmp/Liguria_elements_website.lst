@@ -227,6 +227,7 @@ node	1381564833	https://www.facebook.com/tuibistrot/
 node	1381568204	https://www.outblackout.it/
 node	1382276593	https://campingilpersiano.com
 node	1402300773	https://www.ostello-tramonti.it/
+node	1408228210	https://www.repower.com/it/dina/
 node	1420179404	http://bancobpm.it
 node	1420989788	https://www.facebook.com/media/set/?set=a.950746671667597&s=15&paipv=0&eav=AfZOc5Z7nh-3So4yjAd-q5n4LREkT9K4oFAqOsX_52Wt-kQIuNdMltzPKCkdDkYvCFg&_rdr
 node	1430384413	https://www.bdmretail.com/
@@ -1645,7 +1646,6 @@ node	7431647282	http://www.biomarsrl.it/
 node	7431910793	https://www.facebook.com/lafruttadiziogio/
 node	7433433487	http://www.ilrifugiodiartemide.it/contatti.php
 node	7446639357	https://www.facebook.com/Intimo-Oasi-186851802076630/?__tn__=%2Cd%2CP-R&eid=ARB7Em_uNfAhDOPcSt9P5IE2eCm8TCZZi7b3i3o7NGyosCqQWa3D-C_VdajOhUnLx0tRDiv5kTzRaBR4
-node	7489403938	https://victoriagenoa.com/
 node	7494396137	https://www.ristoranteilvicolo.eu
 node	7497393729	https://www.cascinaroberto.it/
 node	7502571415	https://www.conad.it/ricerca-negozi/negozio.006885.html
@@ -2505,8 +2505,10 @@ node	12287662888	https://bungiurnu.it/
 node	12293465302	https://book.octorate.com/octobook/site/reservation/index.xhtml?lang=en&codice=611962
 node	12312189808	https://www.grupporadioliguria.it/
 node	12317643926	https://www.decathlon.it/
-node	12317847221	http://www.fratellibertoni.com
+node	12317847221	https://www.fratellibertoni.com/
 node	12320528839	https://www.repower.com/it/dina/
+node	12353710245	https://www.bracerialacrocetta.com/
+node	12370126128	www.umyrestaurant.it
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2720,6 +2722,7 @@ way	201495992	http://www.museobicknell.com/
 way	201729375	https://rifugiolaterza.it/
 way	201754738	https://www.asl1.liguria.it/
 way	201754850	https://www.facebook.com/tabularasa.arma
+way	201755138	https://www.instagram.com/ristorantetuttuben/
 way	201755565	https://www.carrefour.it/punti-vendita/carrefour-market-sanremo-via-aurelia-n3-fraz-bussana-0590.html
 way	201755577	https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_203063228.html
 way	201755630	http://www.ritrovodegliamici.it/
@@ -3302,6 +3305,7 @@ way	1313064103	https://www.campingsantavittoria.com/
 way	1316221651	https://www.agricampeggiocaromeo.it/
 way	1316226040	https://campingriver.com/
 way	1316394586	https://www.oasidelbelvivere.it/
+way	1336757252	https://www.instagram.com/allasorgente_enginengek/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -3335,6 +3339,7 @@ relation	2689876	https://www.parcoportofino.it/
 relation	2689877	https://www.parcoportofino.it/
 relation	2701245	https://www.comune.chiavari.ge.it/
 relation	2703171	http://www.musei.liguria.beniculturali.it/musei?mid=5072&nome=forte-santa-tecla
+relation	2764534	https://eurovelo.com/ev5
 relation	2882626	https://www.24hfinale.com/
 relation	2952204	https://www.contshipitalia.com/it/marine_lsct.htm
 relation	2952205	https://www.terminaldelgolfo.com/
@@ -3905,6 +3910,7 @@ node	5347905496	http://www.ilcerchiodellerelazioni.it/centro-mascherona/
 node	5677693820	https://www.pizzeriamennella.it/
 node	5808940153	http://www.ilcantinoneduepuntozero.it/
 node	6796858752	https://leanforealbenga.business.site/
+node	7489403938	https://victoriagenoa.com/
 node	7772132384	https://shop.spesaespesa.com/shop/parafarmacia-santermete
 node	8063924289	https://www.spaziocucinearreda.com/
 node	8285075495	https://www.ambulatoriocavallini.com/
