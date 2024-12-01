@@ -193,6 +193,7 @@ node	319115034	https://www.abdr.it
 node	331199461	https://www.t-bone.it/
 node	332042746	https://www.casaclaudia.it/
 node	334497117	https://www.farmaciaponzi.com/
+node	335386370	https://www.masupermercati.it/
 node	342445043	http://www.hoteladriano.it
 node	366920929	andrewpub.it
 node	378202086	https://www.parcodellagallinara.com/
@@ -380,7 +381,6 @@ node	1172695774	http://www.theatrecaferoma.it
 node	1179816983	https://www.emmepiu-supermercati.it/
 node	1189775168	http://www.carsharing.roma.it/
 node	1201568109	https://www.teatrovascello.it
-node	1207370172	http://www.carsharing.roma.it/
 node	1212706398	www.ritmix.it
 node	1212710048	https://www.radiocittafutura.it/
 node	1213721131	https://www.osteriapalmira.it/
@@ -2207,6 +2207,7 @@ node	4610780593	https://www.petrucciimmobiliare.it/
 node	4610780600	http://www.trwautoservice.it/officina-trw/racimolo-valerio-r2-lautofficina-dal-1976/
 node	4612178508	https://airbnb.com/s?host_id=704676
 node	4612546316	http://www.royalgroup.it/ambasciatoripalace
+node	4616142689	https://museodelcorso.com/
 node	4616819789	https://www.hotelrobinsonrome.com/
 node	4617104189	https://www.danjohn.com/
 node	4620515190	http://gelateriacambiovitaroma
@@ -3937,6 +3938,7 @@ node	7760915021	https://www.sinosteria.it/
 node	7765253652	https://pizzeriapinoenando.it/
 node	7765253668	http://www.asilonidotenerecoccole.it/
 node	7769289558	https://www.ilpangocciolaio.it/
+node	7774956965	https://www.lafuniviadicastelgandolfo.it
 node	7775023439	https://www.melservice.it/
 node	7775023448	https://www.lucatellitende.com/
 node	7775360886	https://ristorante.enotecadelfrate.it/
@@ -5074,7 +5076,6 @@ node	10074639999	https://www.teatrodeisatiri.it/
 node	10074889575	https://www.obica.com/
 node	10074889578	http://www.fornocampodefiori.com
 node	10074889581	https://www.museobarracco.it/
-node	10077614005	https://www.parcocolosseo.it/
 node	10077616430	https://nobilecollegio.it/
 node	10081158731	https://www.fantinispa.it/
 node	10081159666	http://www.italnorge.it/
@@ -6275,6 +6276,10 @@ node	12361196589	https://waikikipoke.it/waikiki-poke-romatermini-ordina-online/
 node	12361196590	https://www.sephora.it/informazioni-store/?storeID=IT11
 node	12362338901	https://www.eggsristorante.com/
 node	12368703105	https://www.infoviterbo.it/borgo-fantasma-celleno-vt.html
+node	12373108251	https://www.oleodinamicaservice.com/
+node	12374451964	https://www.risorseperroma.it/
+node	12376449856	https://museodelcorso.com/
+node	12383575952	https://www.settantadueore.it/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6340,7 +6345,6 @@ way	36820945	https://www.europeanhospital.it/
 way	36859584	https://www.istitutocomprensivogramsci.edu.it/scuola-primaria-e-dell-infanzia-corviale/
 way	38666183	https://www.decathlon.it/
 way	39273157	https://villapamphili.it
-way	39498614	https://fondoambiente.it/luoghi/parco-villa-gregoriana
 way	39960859	https://www.campingcapitol.com/
 way	40309345	http://www.campingtraiano.it
 way	40745290	http://www.wellness-village.it/
@@ -7431,7 +7435,6 @@ way	362618310	https://www.cisalfasport.it
 way	362618311	https://citydogparioli.net
 way	362696755	http://ghanaembassy.it/
 way	363223377	http://www.santagalla.it/
-way	363355393	https://www.kpmg.com
 way	363360667	http://overseas.mofa.go.kr/it-ko/index.do
 way	365118479	https://www.asl.fr.it/strutture/presidi-ospedalieri/sora-ospedale-ss-trinit%C3%A0
 way	365376477	http://www.foyer-ronciglione.it/
@@ -7689,6 +7692,7 @@ way	442731711	http://www.asl.vt.it
 way	442741374	https://www.yofusion.it/anagnina/
 way	442741392	https://www.bibliotechediroma.it/opac/library/Biblioteca%20Raffaello/RMBL1
 way	442747967	http://www.fabbricadellamusica.com/fdm/
+way	442853569	https://www.corefit.it/tuscolano/
 way	442902587	https://www.bibliotechediroma.it/opac/library/Biblioteca%20Rugantino/RMBH1
 way	443055665	https://www.reainfissi.it/
 way	443097433	www.icdecurtis.gov.it
@@ -8111,6 +8115,7 @@ way	611988076	https://www.cinecittaworld.it/it/parco/attrazioni/aqua-rodeo
 way	616881022	https://www.comune.nettuno.roma.it/pagina682_palazzo-pamphilj.html
 way	617287230	http://www.agriturismolapietra.it/
 way	617609021	https://www.culturediscovery.com/
+way	618012247	https://www.sanmichelehospital.it/
 way	619366196	https://www.laghidellecolline.com/
 way	619366200	https://www.laghidellecolline.com
 way	619366204	https://www.laghidellecolline.com
@@ -8787,6 +8792,9 @@ way	1329227588	https://www.unicooptirreno.it/content/servizio-di-prestito-social
 way	1329911486	https://www.zaccaniauto.it
 way	1331676648	https://www.italsoccorso.com/
 way	1333668107	http://www.agricamperamatrice.it/
+way	1337473667	https://www.scuoladivinaprovvidenza.it/
+way	1338424956	https://civitavecchia.portmobility.it/it/le-antiche-rovine-di-monterano
+way	1338426062	http://www.villaadriana.beniculturali.it/index.php?it/206/santuario-di-ercole-vincitore
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	77421	http://web.tiscali.it/aguzzano/
 relation	270239	http://www.villadestetivoli.info/index.htm
@@ -9270,7 +9278,6 @@ relation	12328574	www.parcolucretili.it
 relation	12328633	www.parcolucretili.it
 relation	12330898	https://www.caiamatrice.it/
 relation	12330953	https://www.caiamatrice.it/
-relation	12332287	http://www.reginadegliapostoli.it/IT/ComunitaDetail/6/126/Roma_-_Via_Giuseppe_Ferrari
 relation	12343688	www.parcolucretili.it
 relation	12343875	https://www.caiamatrice.it/
 relation	12343948	https://www.caiamatrice.it/
@@ -9583,7 +9590,7 @@ relation	17703037	https://www.camminoreginacamilla.it/
 relation	17703193	https://www.camminoreginacamilla.it/
 relation	17703194	https://www.camminoreginacamilla.it/
 relation	17703259	https://www.camminoreginacamilla.it/
-relation	17785914	http://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-1-roma-albano-laziale/
+relation	17785914	http://www.camminodisantommaso.org/
 relation	17823437	https://www.camminodelsalto.it/
 relation	17824415	https://www.camminodelsalto.it/
 relation	17839224	https://www.viefrancigene.org
@@ -9602,9 +9609,15 @@ relation	18106131	https://www.cassanotariato.it
 relation	18140858	https://poliziapenitenziaria.gov.it/polizia-penitenziaria-site/en/centrosportivomt.page
 relation	18180007	https://www.lepiniorientali.it/project/supino/escursioni/sentiero_valle/sentiero_d_valle.htm
 relation	18183773	www.caiamatrice.it/itinierari
-relation	18313009	http://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-1-roma-albano-laziale/
+relation	18313009	http://www.camminodisantommaso.org/
 relation	18316517	https://castelloruspoli.com/
-relation	18320944	http://www.camminodisantommaso.org/il-progetto/percorso-a-piedi/tappa-1-roma-albano-laziale/
+relation	18320944	http://www.camminodisantommaso.org/
+relation	18323645	http://www.camminodisantommaso.org/
+relation	18325331	http://www.camminodisantommaso.org/
+relation	18325332	http://www.camminodisantommaso.org/
+relation	18341565	https://fondoambiente.it/luoghi/parco-villa-gregoriana
+relation	18343987	https://vitamonasticapassionista-org.webnode.it/
+relation	18352756	www.parcolucretili.it
 node	251888861	https://www.multisalagreenwichroma.com/
 node	452570567	https://www.catacombe.org/
 node	802459210	https://www.oasidigreccio.it/
@@ -9742,6 +9755,7 @@ node	9831988735	https://www.summithotel.it/
 node	9962533153	https://www.donnardea.it/
 node	10048915042	https://www.villaclementino.it/guardiania2/
 node	10075494228	https://it.loccitane.com/
+node	10077614005	https://www.colosseo.it/
 node	10092674476	https://www.quadriarteitaliana.it/
 node	10094542424	https://domusinvestment.it/
 node	10147934817	http://www.bcstanze.com
@@ -9871,8 +9885,10 @@ relation	2562181	http://www.universitadeibambini.it/Libera_Universita_dei_Bambin
 relation	3777310	http://www.conventobolsena.org
 relation	6962407	https://www.churchofjesuschrist.org/temples/details/rome-italy-temple
 relation	7347350	https://www.casareginapacis.com
+relation	12332287	http://www.reginadegliapostoli.it/IT/ComunitaDetail/6/126/Roma_-_Via_Giuseppe_Ferrari
 relation	13007814	https://www.romeowcatbistrot.com
 relation	14228417	https://www.santuarivallesanta.com/santuari/poggio-bustone/
+relation	17759647	https://colosseo.it
 node	32631124	http://www.giolitti.it/
 node	72962031	http://italia.indettaglio.it/ita/lazio/poggiomirteto.html
 node	260540041	http://www.mymovies.it/cinema/roma/4916/
@@ -10030,6 +10046,15 @@ way	1246182267	https://www.provincia.viterbo.it/strade.html
 way	1305945224	https://www.provincia.viterbo.it/strade.html
 way	1305945225	https://www.provincia.viterbo.it/strade.html
 way	1314222849	https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=6669
+way	1337994611	https://www.provincia.viterbo.it/strade.html
+way	1337994614	https://www.provincia.viterbo.it/strade.html
+way	1337994615	https://www.provincia.viterbo.it/strade.html
+way	1337994616	https://www.provincia.viterbo.it/strade.html
+way	1337994618	https://www.provincia.viterbo.it/strade.html
+way	1337994620	https://www.provincia.viterbo.it/strade.html
+way	1337994621	https://www.provincia.viterbo.it/strade.html
+way	1337994622	https://www.provincia.viterbo.it/strade.html
+way	1337994625	https://www.provincia.viterbo.it/strade.html
 relation	539134	https://sansaba.gesuiti.it/basilica-storia-arte/
 relation	919376	http://www.archidiap.com/opera/albergo-rosso/
 relation	1026680	http://www.centroculturalearacoeli.it/CMS/Alle-Sprachen/Alle-Kategorien/Oasi-Ges%C3%B9-Bambino-Greccio.aspx?Sel=339&lg=4
