@@ -140,7 +140,6 @@ node	650536080	https://www.fernandosport2.com/
 node	652134805	https://www.intesasanpaolo.com/
 node	652135452	https://mercati.comune.pescara.it/commercio-su-area-pubblica/mercato-di-via-maestri-del-lavoro.html
 node	654502531	https://www.conad.it/ricerca-negozi/negozio.005612.html
-node	655163831	https://www.ilcentro.it/pescara/abbattuto-l-istituto-staccioli-1.2100620
 node	657932415	http://garagardo45.it/
 node	662780536	https://www.pizzeriamaruzzella.it/
 node	663103989	https://www.spesaonlinepescara.it/
@@ -1361,7 +1360,6 @@ node	7578011858	https://www.saicosatispalmi.com/
 node	7579614168	http://www.sassoelegno.com/catalogue/
 node	7580910748	https://www.regenthotelpescara.it/
 node	7581308677	https://www.salute.gov.it/portale/home.html
-node	7581322890	https://www.casadellabatteria.com/
 node	7581327284	http://www.egolabtraining.com/
 node	7581339090	https://prospettivepescara.it/
 node	7581343708	https://www.chateau-dax.it/
@@ -1628,6 +1626,7 @@ node	7883133851	https://www.snai.it
 node	7884031835	https://tabaccheria-dragonara.business.site/
 node	7884031841	http://www.happycasastore.it/
 node	7884031842	https://www.cottonsilk.it/
+node	7884031843	https://www.gattinonitravel.it/
 node	7884031849	https://www.annavirgili.it/
 node	7884031852	https://www.aw-lab.com/
 node	7884031853	https://www.primadonnacollection.com/
@@ -2818,7 +2817,6 @@ node	11207621066	https://www.conad.it/ricerca-negozi/negozio.004747.html
 node	11207809905	https://primotazzestozze.it/
 node	11207895189	https://www.lorso.it/
 node	11208717856	https://www.cmaccumulatori.it/
-node	11215769219	https://www.casalab.net/
 node	11217801784	https://www.diprinziohome.com/
 node	11217922931	https://farinaarreda.it/
 node	11219307819	https://www.autofficinacetrullo.com/
@@ -3044,6 +3042,7 @@ node	11989584337	https://www.divanicec.com/
 node	11991744212	https://www.flowerburger.it/
 node	11992152847	https://babymall.it/ladybird-abbigliamento-0-16-viale-ringa-penne/
 node	11993730146	https://www.comune.elice.pe.it/
+node	11998301691	http://www.caseificiodelmastro.it/
 node	11998399078	https://www.polmancini.it/
 node	11998399079	https://www.rematarlazzi.it/index.php/punti-vendita-regionali/san-giovanni-teatino/
 node	11998738523	http://despan.it/new/azienda.html
@@ -3192,6 +3191,7 @@ node	12334061856	https://www.cafuilabruzzo.it/
 node	12355264408	https://www.remax.it/trova/agenti-agenzie/agenzia/venere
 node	12356676900	https://www.carpediem.pizza/
 node	12358595296	https://dvc.it/
+node	12373686630	https://haibinpescara.it/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3222,7 +3222,6 @@ way	43199133	https://www.ausl.pe.it/DettaglioUUUA.jsp?id=47
 way	46136617	https://www.megaloweb.it/
 way	50376870	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	55400363	https://www.bricocenter.it/it/punti-vendita/ep-minisito-punto-vendita/citta-santangelo
-way	57364548	https://www.centrodabruzzo.com/
 way	57379134	https://www.orsolini.it/punti-vendita/chieti-sambuceto-professional/
 way	58377650	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 way	58808135	http://www.lavalledellapescara.it
@@ -3534,7 +3533,6 @@ way	456015084	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&
 way	456680574	https://teramo.aci.it/
 way	457405083	https://www.liceodascanio.edu.it
 way	459618670	https://www.penelopeamare.it/
-way	459630956	https://haibinpescara.it/
 way	461179725	https://www.istitutocomprensivopescara2.edu.it/
 way	461526367	http://www.comunetossicia.gov.it/
 way	461529817	https://www.comune.tossicia.te.it/luoghi/edifici-di-culto/chiesa-di-santantonio-abate/
@@ -4490,6 +4488,9 @@ relation	18025665	https://camminodeibriganti.it
 relation	18051918	https://camminodeibriganti.it/mtb/
 relation	18101424	https://www.catholic-hierarchy.org/bishop/bparla.html
 relation	18178088	http://www.cantinacrecchio.it
+relation	18325331	http://www.camminodisantommaso.org/
+relation	18328486	http://www.camminodisantommaso.org/
+relation	18351729	https://www.centrodabruzzo.com/
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
@@ -4528,6 +4529,7 @@ way	1219832546	https://hotelilcasale.it/
 way	1225233711	https://www.pasquarelliautosrl.it
 way	1320957655	https://maielletta.it/
 way	1324624550	https://www.campingcarouan.it/
+way	1337938957	https://www.molinolattanzio.it/
 relation	8646860	http://www.gssi.it/
 relation	18178088	http://www.cantinacrecchio.it/contattaci/
 node	768603431	https://farmaciasanmassimopenne.it/
@@ -4538,6 +4540,7 @@ node	5235293528	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
 node	6311570721	http://www.svapofacile.it
 node	7669061031	http://www.comune.pineto.te.it/pagina1835_presidi-sanitari.html
 node	7669123998	http://prospineto.it/guardia-medica-turistica/
+node	7884031843	https://agenzie.gattinonitravel.it/19700-zona-industriale-val-pescara
 node	8854958906	https://www.ilpescara.it/cronaca/montesilvano/sito-web-centro-riuso-ritiro-gratuito.html
 node	9053829474	https://www.liritv.it/montesilvano-pe-defibrillatori-accessibili-installato-dae-al-campo-di-via-foscolo/
 node	9926972892	https://it.wikipedia.org/wiki/Gallo_(Tagliacozzo)
