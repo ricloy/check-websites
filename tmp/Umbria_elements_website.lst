@@ -243,6 +243,7 @@ node	2429716502	https://www.conad.it/ricerca-negozi/negozio.008484.html
 node	2435828590	https://www.ristoranteilvizio.it
 node	2438977366	http://www.ristorantecontessagubbio.it/menu/
 node	2443483100	https://www.pasticceriaetrusca.it/
+node	2443503410	https://www.officinaartigianadellauto.it/
 node	2447960677	https://www.coal.it/archives/punti-vendita/fise-snc-di-fiorani-fiorella-e-danilo
 node	2453189790	https://www.primaveraminihotel.it/
 node	2461282094	https://www.montereano.it/
@@ -646,7 +647,6 @@ node	8812857865	https://www.casalideltoppello.it
 node	8900820192	http://www.monasterosantanna.it
 node	8988143097	https://www.pescamaniatr.com/
 node	8996368830	https://www.profishingpg.it/
-node	9074739869	https://casalauretana.com/
 node	9076713229	http://www.brenzmoto.bmw-motorrad.it/
 node	9113126338	https://www.umbraacque.com
 node	9180696886	https://www.montecchiostorianatura.it/
@@ -946,6 +946,11 @@ node	12285642589	https://digipass.regione.umbria.it/orvieto/
 node	12291429102	https://www.immobiliarelg.it/
 node	12324362742	https://www.agriturismovalletezze.it/
 node	12348841949	https://www.iluoghidelsilenzio.it/eremo-di-santegidio-della-valle-norcia-pg/
+node	12376540432	https://www.itetcapitini.edu.it/biblioteca/index.php#mostra_pagina
+node	12377178157	http://www.santipiscine.it/
+node	12385355301	https://www.galasupermercati.it/punti-vendita/deruta
+node	12385451405	https://mofarelettrodomestici.com/
+node	12385451406	https://www.lidl.it/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1010,9 +1015,6 @@ way	153761485	https://campusdavinci.edu.it
 way	154180015	https://www.gubbioculturamultiservizi.it/servizi/parcheggiare-a-gubbio/
 way	158373094	https://www.emisupermercati.it/
 way	159706780	https://www.iodibetto.edu.it/
-way	161260879	https://www.itetcapitini.edu.it/
-way	161260881	https://www.itetcapitini.edu.it/
-way	161260882	https://www.itetcapitini.edu.it/
 way	161260884	https://www.itetcapitini.edu.it/
 way	161260887	https://www.provincia.perugia.it/aree-tematiche/patrimonio/centro-congressi-capitini
 way	161564767	https://www.itetcapitini.edu.it/
@@ -1891,6 +1893,7 @@ node	7809059981	https://www.ristorantenumero1.it/
 node	7830845120	https://www.ristorantedaangelo.com
 node	8121295640	https://www.associazionedare.it/
 node	8980022220	https://www.fattorieumbre.com
+node	9074739869	https://casalauretana.com/
 node	10542596389	https://www.hotelcastelloassisi.it/
 node	10570396458	https://graymoor.org/italy
 node	10570958563	http://www.suorefrancescanemissionariediassisi.org/suore/Immacolata.html
