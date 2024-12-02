@@ -1709,7 +1709,6 @@ node	9883755718	https://www.museionline.info/comuni/museo-del-mare
 node	9883785117	https://www.viaggiareinpuglia.it/at/144/localita/4239/en/Gallipoli
 node	9884919788	https://www.vinslounge.it/
 node	9884919789	https://www.sebeluxuryrooms.it/
-node	9885670998	https://www.tokunoshima.it/
 node	9885670999	https://www.folliedoro.it/
 node	9885671000	https://www.pascucci.it/
 node	9885671002	https://www.happycasastore.it/
@@ -2621,6 +2620,13 @@ node	12352296226	https://horma.com/
 node	12364301121	https://www.finacosimogroup.it/
 node	12368123054	https://sangiorgioarte.it/
 node	12368700989	https://www.federicianotravel.it
+node	12376415791	https://www.yumizakaya-bari.com/
+node	12376415792	http://www.editorialeunac.it/rivarma.php
+node	12386192462	https://www.corteinfiore.it
+node	12386219178	https://lubestoretrani.it/
+node	12386277001	https://hulabari.it/
+node	12386277013	https://www.couponlive.it/
+node	12386338202	https://www.petmarketzoopark.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -2861,6 +2867,7 @@ way	347252933	http://www.palazzocamarda.com/
 way	347654793	https://www.0831space.com/
 way	350801148	https://www.aerotre.it/
 way	351522166	https://www.8piuhotel.com/
+way	359220851	https://puntalunga.it
 way	359522711	http://www.santicuti.it
 way	359667890	https://www.spiaggiazzurra.com/
 way	359667897	https://www.acquaspeed.com/
@@ -3100,6 +3107,7 @@ way	418005612	http://www.comune.bari.it/
 way	418005634	http://www.palamartino.it
 way	418005660	https://www.fondazionepetruzzelli.it/
 way	418007538	https://metepolibabs.education/
+way	418008107	https://www.urbancenterbari.it/
 way	418024840	http://dimoradellegrotte.com
 way	418208053	http://www.mizarblu.com
 way	418208054	http://www.icmodugnogalilei.gov.it
@@ -3821,6 +3829,7 @@ way	1332937759	https://www.asifoggia.it/agglomerati-asi/
 way	1334678839	https://www.cegliebus.com/
 way	1337178055	https://www.liceosocratebari.edu.it/
 way	1337183422	https://www.q8.it/
+way	1338825347	https://www.comune.bari.it/organizzazione-uffici-e-recapiti?uoId=522&isUfficio=false
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -4003,6 +4012,7 @@ relation	17950387	http://asset.regione.puglia.it/
 relation	17953761	asset.regione.puglia.it
 relation	17966737	https://itinerarigal.weebly.com/
 relation	18073736	https://www.dipalmasportcenter.it
+relation	18356460	https://inertisud.it/
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
@@ -4732,6 +4742,7 @@ way	421200299	https://www.pianetaostuni.it/index.php/masserie/tutte/37-fuggiola
 way	423156179	https://www.pianetaostuni.it/index.php/masserie/tutte/321-monte-michele
 way	423174250	https://www.pianetaostuni.it/index.php/masserie/tutte/327-santoro
 way	425587795	https://terredellolmo.it/
+way	425590686	https://www.galileicostascarambone.edu.it/
 way	427331289	https://cartapulia.it/web/guest/dettaglio?id=132532
 way	471647792	https://www.brindisiweb.it/arcidiocesi/chiese/ostuni/sangiuseppe.htm
 way	471647807	https://www.ostuni.eu/portali-Ostuni.html
