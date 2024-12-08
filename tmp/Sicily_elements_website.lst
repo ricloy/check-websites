@@ -12,7 +12,6 @@ node	269456078	http://www.afsf.it
 node	270901725	https://www.poste.it
 node	271012066	https://www.poste.it
 node	271670964	https://www.nh-hotels.com/hotel/nh-palermo
-node	273088729	https://www.bancasantangelo.com/
 node	274379216	https://www.poste.it
 node	276916503	https://www.poste.it
 node	277642730	http://www.arlecchinoariston.it/
@@ -785,10 +784,10 @@ node	3090407293	https://www.palazzorossoresort.it/
 node	3093855961	http://latorrettanicosia.weebly.com/
 node	3097480242	http://facebook.com/caravellalidovalderice
 node	3105967511	http://www.sicilia-aziende.com/web-link.html?sobi2Task=sobi2Details&catid=2380&sobi2Id=460
-node	3105967515	http://www.sicilia-aziende.com/web-link.html?sobi2Task=sobi2Details&catid=2380&sobi2Id=464
+node	3105967515	http://www.sicilia-aziende.com/
 node	3105967517	https://www.ghiblihotel.it/
 node	3105967523	https://www.lostagnoneristorante.com/
-node	3105967527	http://www.sicilia-aziende.com/web-link.html?sobi2Task=sobi2Details&catid=2428&sobi2Id=654
+node	3105967527	http://www.sicilia-aziende.com/
 node	3114825939	https://www.milazzobeb.it/
 node	3114847013	www.ilcocus.it
 node	3115306084	https://www.bbcasamia.net/
@@ -1036,7 +1035,6 @@ node	3971287752	http://www.comunemottacamastra.gov.it
 node	3971316738	http://www.comuneroccafiorita.gov.it
 node	3973181007	http://www.comune.mottadaffermo.me.it
 node	3973293839	https://www.comune.santaluciadelmela.me.it/
-node	3973386498	http://www.ictorregrotta.gov.it/
 node	3974043664	http://www.comunereitano.com
 node	3974063298	https://www.comune.roccellavaldemone.me.it/
 node	3975607186	http://www.comunetusa.gov.it
@@ -1199,7 +1197,6 @@ node	4285009161	https://www.pittarosso.com/negozi/messina/messina/sicilia
 node	4285022571	https://www.euronics.it/
 node	4285087179	https://bruno.euronics.it/negozio/messina-s-s-114-km-6-2-centro-comm-tremestieri/1942
 node	4285087181	https://www.ucicinemas.it/
-node	4285087185	https://www.bapr.it/
 node	4285812668	https://www.fabrianoboutique.com/
 node	4290853694	https://www.al59.com/
 node	4306821748	https://gigliotto.com/
@@ -2527,7 +2524,6 @@ node	8815445271	https://libreriamosca.com/
 node	8815865562	https://www.icmanzonidolci.edu.it/
 node	8816447149	https://www.edisonweb.com
 node	8816486981	https://pizzaesfizi.sicilybay.it/
-node	8816515772	https://www.bapr.it/
 node	8816525108	https://it.benetton.com/
 node	8819005834	https://www.trattoriadapeppino.it/
 node	8819005865	www.sartaexpress.it
@@ -3765,6 +3761,8 @@ node	12350893329	https://www.villarossa.eu/
 node	12358406194	http://www.home15residence.it/
 node	12364766809	http://www.caffebonanno.it/
 node	12385332192	https://www.arddiscount.it/punti-vendita/2882/niscemi-via-aldisio-12
+node	12400961586	https://www.ictorregrotta.edu.it/infanzia-g-deledda
+node	12400961588	https://ww2.gazzettaamministrativa.it/opencms/export/sites/default/_gazzetta_amministrativa/amministrazione_trasparente/_sicilia/_torregrotta/010_dis_gen/020_att_gen/2013/0003_Documenti_1386841170741/1473240212663_reg._micro_nido_emendato.pdf
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4267,6 +4265,7 @@ way	257040384	https://www.poste.it
 way	257079971	https://www.aspct.it/azienda/presidi-ospedalieri/caltagirone/
 way	257370738	https://www.poste.it
 way	258248781	https://www.hotelvillaperetti.com/
+way	258956534	https://www.ictorregrotta.edu.it/primaria-s-quasimodo-crocieri
 way	259724516	https://www.masseria-rossella.com
 way	259799812	https://www.poste.it
 way	260756063	http://www.grandhotelsanpietro.net/
@@ -4635,6 +4634,8 @@ way	393513320	https://www.comunedimandanici.it/
 way	393521558	http://mistretta.info/it/pin.php?idP=3
 way	393614425	http://www.vacanze-a-scopello.it/
 way	394108596	http://www.parrocchianovaradisicilia.it/
+way	394320780	https://www.ictorregrotta.edu.it/primaria-l-sciascia-centro
+way	394320781	https://www.ictorregrotta.edu.it/infanzia-v-brancati-crocieri
 way	394635093	http://www.comune.santateresadiriva.me.it
 way	395075861	https://www.comune.santagatadimilitello.me.it/
 way	395077591	https://www.comunescalettazanclea.it/
@@ -4689,6 +4690,7 @@ way	412288426	https://www.parkhotelsilemi.com/
 way	416718524	http://teatroluigipirandello.it
 way	417416354	https://www.istitutocomprensivovannanto.edu.it
 way	417425065	http://agahotel.com/
+way	417838264	https://www.ictorregrotta.edu.it/secondaria-dante-alighieri
 way	418121377	https://www.ergomeccanica.com/
 way	418126491	http://cosmisud.com/
 way	418126495	https://www.ergomeccanica.com/
@@ -5338,7 +5340,7 @@ way	1016682944	www.icmgiannone.com
 way	1018482517	https://www.scuolaguzzardi.edu.it
 way	1022609842	https://www.vigilfuoco.it
 way	1024095587	https://www.sudservicebike.it/
-way	1027662614	https://www.ictorregrotta.edu.it/primaria-r-guttuso-scala
+way	1027662613	ictorregrotta.edu.it/primaria-r-guttuso-scala
 way	1031867637	https://www.comersud.it/sedi/siracusa/
 way	1035455464	https://www.etnella.com/
 way	1038991507	https://www.icsfalconeacicastello.edu.it/
@@ -5969,6 +5971,8 @@ way	1327870100	https://www.poste.it
 way	1330213052	http://www.parrocchiasantaluciaugusta.it/Centro_Utopia.php
 way	1330213057	https://www.canilerifugioasi.it/
 way	1336589839	https://tekne.engineering/
+way	1338941018	https://www.ictorregrotta.edu.it/infanzia-madre-teresa
+way	1340072818	https://etnapalacebanqueting.com/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
