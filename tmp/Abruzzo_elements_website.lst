@@ -230,7 +230,8 @@ node	1562369198	https://www.intesasanpaolo.com/
 node	1563051984	https://www.albergodegliamici.it/ristorante.html
 node	1563051993	https://www.albergodegliamici.it/
 node	1563065724	https://farmaciabrunori.it/
-node	1564076399	https://www.hanzonikkei.com/
+node	1564076399	https://daconcetta.it/
+node	1564076438	https://www.bper.it/scheda-filiale/-/filiale/abruzzo/chieti/agenzia-6011
 node	1594837749	https://italia.indettaglio.it/ita/abruzzo/teramo_pineto_borgosantamariaimmacolata.html
 node	1617644379	https://www.semgroup.it/contatti/
 node	1649575636	https://stores.tedi.com/tedi-acbe7f790862
@@ -538,9 +539,7 @@ node	4886364310	https://www.sfarraviolins.it/
 node	4887735124	http://WWW.immobiliaredevirgiliis.it
 node	4887750526	https://www.enataunastella.it/contatti.php
 node	4887772821	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10569
-node	4903905507	https://www.facebook.com/pages/Sam/504414866400190
 node	4904073243	https://www.facebook.com/Nova-Vida-345366445653974/
-node	4904073245	https://www.facebook.com/pg/Mafaldabakerydolce.salato/
 node	4904073246	https://www.ilvicolettolaquila.it/
 node	4915104865	https://www.facebook.com/jutattoo/
 node	4915141674	https://www.facebook.com/publicenemygastropub/
@@ -2078,6 +2077,7 @@ node	9124178729	https://barberiadabruzzo.com/
 node	9124683594	http://www.ristorantesettefonti.it/
 node	9126084468	https://italia.indettaglio.it/eng/abruzzo/chieti_roccamontepiano_pilati.html
 node	9128875803	https://www.dynaminholding.com
+node	9135480626	https://www.estersaferpineto.com/
 node	9135890520	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10826
 node	9137481455	https://www.facebook.com/ristorantelacabina/
 node	9138337638	https://www.bper.it/
@@ -3192,6 +3192,11 @@ node	12355264408	https://www.remax.it/trova/agenti-agenzie/agenzia/venere
 node	12356676900	https://www.carpediem.pizza/
 node	12358595296	https://dvc.it/
 node	12373686630	https://haibinpescara.it/
+node	12390641640	https://www.carinciviaggievacanze.it/
+node	12390969228	https://www.booking.com/hotel/it/esclusivo-monolocale-nel-borgo-medievale.html
+node	12393744067	"https://www.poste.it/cerca/index.html#/risultati-cerca-up/67100%20L'Aquila,%20AQ,%20Italia"
+node	12395970024	https://baraonda.netlify.app/menuclient/pescara
+node	12399735985	https://www.cucinelube.it/it/punti-vendita/abruzzo-chieti-lube-store-sambuceto-ch/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3415,7 +3420,6 @@ way	297000195	https://albaadriaticahotelresidence.it/
 way	301861360	https://www.centrovacanzepoker.it/
 way	304589677	http://www.caiisola.it/index.php?option=com_content&view=article&id=62&Itemid=194
 way	305874832	https://www.campingcolleciglio.it/index
-way	306089395	"https://www.poste.it/cerca/index.html#/risultati-cerca-up/67100%20L'Aquila,%20AQ,%20Italia"
 way	306107832	https://www.acquaesapone.it/schedaPuntovendita.php?puntovendita=25&provincia=AQ&comuneA=LAQUILA
 way	306484992	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/13102/Chiesa+di+San+Rocco
 way	310782202	https://www.prolocobucchianico.it/chiese-e-conventi.html
@@ -3550,7 +3554,6 @@ way	471522148	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-cu
 way	472275200	http://www.musicateatromarsi.it/
 way	472275544	http://www.itisavezzano.it/
 way	472529443	https://vettadabruzzo.it/
-way	473062968	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-croce-al-morrone/
 way	473535931	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-spirito-a-majella/
 way	474904366	http://caiavezzano.it/
 way	475443541	https://www.webmarsica.it/castello-di-pereto/
@@ -3786,7 +3789,6 @@ way	829197140	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_d
 way	829444156	https://www.pavoneauto.com
 way	829610047	https://shop.pittarello.com
 way	829964451	https://www.comune.tollo.ch.it/section/pubblicazioni/Antonio-Del-Colle--Tollo-Incontro-pubblico-e-intitolazione-di-una-via/
-way	830772995	https://www.cucinelube.it/it/punti-vendita/abruzzo-chieti-lube-store-sambuceto-ch/
 way	831736047	https://www.maioraniugolino.it/
 way	836164624	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179830#
 way	839569617	https://ic1chieti.edu.it/secondaria-chiarini/
@@ -3986,6 +3988,7 @@ way	1031685525	https://www.compisrl.it
 way	1031686089	https://www.fiorellaindustrie.it
 way	1037626509	https://www.ferasrl.it/en/progetto/tocco-di-vento/
 way	1040795868	https://www.total.com/en
+way	1041698414	https://www.parcodegliulivi.net/
 way	1044159645	https://www.majagreen.it
 way	1044295175	https://www.hgnews.it/2021/06/01/pescara-via-del-circuito-partono-i-lavori-per-il-raddoppio-la-soddisfazione-del-pd-in-regione-e-comune/
 way	1044795464	https://www.comune.salle.pe.it/
@@ -4238,6 +4241,8 @@ way	1330613510	https://www.portoanticopescara.it/
 way	1333159650	https://www.maisonsdumonde.com/IT/it/s/citta-santangelo-pe-281
 way	1333160254	https://www.trony.it/citta-sant-angelo-tro214/
 way	1333160255	https://www.globomoda.com/puntivendita/dettagli_puntovendita.php?id=65
+way	1339896812	http://www.araabruzzo.it/
+way	1340056015	https://atoka.io/public/it/azienda/soccorso-stradale-auto-snc-di-fabio-speranza-e-rossano-pedulla/0461e0fd80f7
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
