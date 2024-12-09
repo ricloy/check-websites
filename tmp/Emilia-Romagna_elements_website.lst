@@ -1288,7 +1288,6 @@ node	3160737091	https://www.ilvelieropizzeriaristorante.com/
 node	3165094227	http://www.ristoranteraccano.it/
 node	3177230672	https://www.comune.borgotossignano.bo.it/uffici/biblioteca-comunale
 node	3180532214	https://www.poderelarosa.it/
-node	3180581912	http://fuoriporta-bo.it/
 node	3181441641	https://jolly.popupcinema.18tickets.it/
 node	3181507492	https://www.capitolmultisala.com/le-sale/chaplin/
 node	3182766145	http://www.cinemaperlabologna.org/
@@ -1814,6 +1813,7 @@ node	4495195414	https://www.credit-agricole.it/
 node	4495195448	https://www.pastrocchio.com
 node	4495195469	https://bandega.it
 node	4495198567	https://www.corecaservice.it/
+node	4495199266	https://www.instagram.com/bambooparrucchieri/profilecard/?igsh=MTZkenduZzJmenFweg==
 node	4495200111	https://www.ellecasa.eu/
 node	4495200113	https://www.cjrmotoreco.com/
 node	4495200123	http://www.molinoronciriccione.it/
@@ -2390,7 +2390,6 @@ node	4752501714	https://www.comune.lugo.ra.it/
 node	4752718697	https://m.facebook.com/ilgirasoleravenna
 node	4752723964	https://centrogiovanivaltorto.com/
 node	4752753927	http://www.comune.zerba.pc.it
-node	4752770209	https://www.birrerianinkasis.it/
 node	4752771696	https://www.apamravenna.it
 node	4752784963	https://www.psicologi-italia.it/psicologo/ilaria-mucci.html
 node	4752816517	https://www.sabbioni.it/
@@ -3844,7 +3843,6 @@ node	7930546743	https://www.er-go.it/index.php?id=6857&no_cache=1&sword_list%5B%
 node	7937171971	https://alleriaristorante.it
 node	7939270031	https://fisiobikebo.business.site/
 node	7941335304	https://www.pizzeriacasahirta.it/
-node	7955024826	https://www.liceocorso.edu.it/
 node	7955030141	https://www.iccorreggio2.edu.it/
 node	7958937089	https://www.romagnosi.it/
 node	7959737530	https://sullaviaemilia277.it/
@@ -5694,8 +5692,22 @@ node	12386253858	https://www.confettiebomboniere.com/
 node	12386393427	https://www.esselunga.it/it-it/negozi/negozio.esselunga-della-via-emilia-parma.pae.html
 node	12386691132	https://santambrogiobobbio.it/
 node	12389564671	http://www.aresfresature.it/
-node	12389584459	http://www.argentiarturo.it/
-node	12389945509	http://www.walvoil.com
+node	12389584459	https://www.argentiarturo.it/
+node	12389945509	https://www.walvoil.com/
+node	12393157766	https://www.tecnomaticsrlvignola.com
+node	12393201282	https://www.tecnostamp.it/
+node	12396586579	https://www.coprob.com/
+node	12397322281	http://www.gruppocms.com
+node	12397322283	https://www.meccanicatome.it
+node	12397532928	http://www.cnc-carpi.com
+node	12397965075	https://astrofili-centesi.github.io/Helios/
+node	12397993884	https://www.expressdiagnostic.it/parma/
+node	12399635560	https://www.polyedra.com
+node	12399635562	https://www.sicmi.com/
+node	12399653801	http://www.marchesigru.com/
+node	12401933194	https://www.gruppoaltair.it/parma.php
+node	12401933195	https://hotelddparma.com/
+node	12405562871	https://www.mechworks.com
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	https://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -5788,6 +5800,7 @@ way	67575621	http://www.gisport.eu/
 way	68692157	https://icboiardo.edu.it/
 way	69164158	https://www.latiperia.it/
 way	71377776	http://www.venturisocietaagricola.it
+way	73541077	https://www.astrofilicentesi.it/
 way	74272790	http://www.scuolasangiuseppe.eu/
 way	74399986	https://negozi.tigota.it/83-tigota-imola
 way	74516776	https://www.ballanti.com/
@@ -5955,6 +5968,7 @@ way	150046232	http://www.centroautodellindustria.it
 way	150055059	https://www.gamsristorazione.it/
 way	150055749	https://www.acquaefitness.it/
 way	150078963	http://www.hotelsanvitale.com
+way	150115183	https://www.lilt.it/
 way	150120383	https://www.lidl.it/
 way	150130603	http://sandonato.pdbologna.org/
 way	150252120	https://www.nosadella.it/
@@ -6304,6 +6318,7 @@ way	175938235	https://www.academyraggisolaris.it/
 way	178109147	http://www.guareschi.com
 way	179286491	http://www.sidel-group.it/
 way	179291504	http://www.noceto.pubbliche.parma.it/
+way	179468114	https://www.pampanorama.it/centri-commerciali/panorama-parma
 way	179469138	http://www.parrocchiaspiritosanto.pr.it/
 way	179471214	https://www.adesrl.org/sale-del-commiato-ade-onoranze-funebri-parma.php
 way	179585320	https://bibliotecamedicina.unipr.it/
@@ -8784,6 +8799,7 @@ relation	18274415	https://www.caiparma.it/
 relation	18302360	https://www.ilsentierodeglignomi.it/
 relation	18313578	https://www.castelnovocentro.it/pietra-di-bismantova-i-sentieri/
 relation	18330532	https://bicipolitanaforli.it/
+relation	18386992	https://www.liceocorso.edu.it/
 node	441918990	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/427-fidenza.html
 node	797204601	http://www.poliambulatoriolasalute.it/
 node	860582713	http://www.campeggiovivaio.it/
@@ -8923,6 +8939,7 @@ node	12218376234	https://www.kitarestaurant.it
 node	12291761357	https://sangiovannipersiceto.mercatopoli.it/
 node	12291761371	https://www.gimfive.com/palestra/sangiovanniinpersiceto
 node	12310422403	https://www.booking.com/hotel/it/casa-san-pietro-bilocale-centro-storico.it.html
+node	12405562871	https://www.mechworks.com
 way	29118673	https://www.vigilfuoco.it/sitiVVF/rimini/
 way	64980907	http://www.bibliotecanzola.it/
 way	64980910	http://www.comune.anzoladellemilia.bo.it
