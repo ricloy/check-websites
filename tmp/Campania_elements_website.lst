@@ -240,9 +240,7 @@ node	2482979571	https://pompeiisites.org/en/archaeological-site/comitium-and-mun
 node	2493466958	https://www.oasialento.it/
 node	2496583337	http://www.hotelclarean.it/
 node	2496583343	https://www.unieuro.it/
-node	2496864405	http://www.cimarosa.rossopomodoro.com/
 node	2498854344	https://www.barbaro.eu/
-node	2498854355	http://www.otticadecesare.it/
 node	2498854358	https://www.ingdirect.it/dove-ci-trovi/campania/napoli-via-san-carlo.html
 node	2498854360	http://www.imperatricenapoli.it/
 node	2508798030	http://www.ristorantealba.it/
@@ -287,6 +285,8 @@ node	2764891978	g.ottica@pec.it
 node	2772479610	http://www.pasticceria-pepe.it/
 node	2778519432	https://lamontalbino.com/
 node	2784591564	https://www.caffepetruccelli.it/
+node	2785675445	https://www.musa.unicampania.it/index.php/le-sezioni/anatomia
+node	2785688521	https://www.musa.unicampania.it/index.php/le-sezioni/farmacologia
 node	2789830047	http://agriturismolagrotta.it/
 node	2789830459	http://www.agriturismolatavernadeire.it/
 node	2796871163	http://www.cinemaaugusteo.it/
@@ -1502,7 +1502,6 @@ node	9130492195	https://nautilusristorante.it/
 node	9131455159	https://www.tufanoauto.it/
 node	9131625201	https://chiaracaffe.it
 node	9131906464	https://chiaracaffe.it
-node	9132808690	http://www.massaggishabda.it/
 node	9134652998	https://www.logopediacasalnuovo.com/logopedia
 node	9135258936	https://www.mondesignlab.it/
 node	9141340371	https://lacrostadoro.it
@@ -1816,7 +1815,6 @@ node	9967976175	https://www.mazzamaurielle.com/
 node	9972765110	https://crudore.it/
 node	9979303896	https://ingegnereschiavo.com/
 node	9981169586	https://www.ilmercatonedellabiancheria.it
-node	9986908053	https://www.facebook.com/DeLuxePizzeria.SantaMaria
 node	9986916323	https://www.ocapuzziello.it/
 node	9988570962	https://sbsgroup.it
 node	9988856846	https://www.domusromulea.it/
@@ -2314,6 +2312,7 @@ node	11801880533	https://www.antichisaporisantalucia.com/
 node	11804941177	https://sintechsolution.it/
 node	11805388798	http://tenutaverdoliva.com/
 node	11805392213	http://relaisbuonastella.it/
+node	11813405712	https://www.museiscienzenaturaliefisiche.it/it/musei/museo-di-fisica.html
 node	11813902078	https://hintanapizza.com/
 node	11815185969	https://www.hotelschuhmann.com/
 node	11816197261	https://cryptolocalatm.com
@@ -2441,9 +2440,13 @@ node	12349570654	divinasuiteischia.com
 node	12351329808	http://ilcavalieredeiconti.it/
 node	12378487803	https://www.villascarlato.it/
 node	12387127902	https://www.cla.unina.it/home
+node	12389944826	https://www.donnaluisella.com/
+node	12389944827	https://www.officinadelmarenapoli.it/
+node	12393497846	https://www.fotododici.com/
+node	12397638201	https://www.airbnb.it/rooms/1228131104828878895?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=regular_search&check_in=2024-12-05&check_out=2024-12-10&source_impression_id=p3_1733398448_P378tQ4XiIXXPSzM&previous_page_section_
+node	12403381630	https://www.musa.unicampania.it/index.php/le-sezioni/bibliografica
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
-way	28875476	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
 way	29403569	https://www.teatrosancarlo.it/
 way	29403971	http://www.polomusealecampania.beniculturali.it/index.php/il-castello
@@ -2587,6 +2590,7 @@ way	216502131	https://www.h2c.it/ita/h2c_napoli/home.htm
 way	216616004	http://www.smsdiano.it
 way	217149390	www.casina-rossa.it
 way	217694481	http://www.napolitime.it/103082-nuovo-complesso-monumentale-venuto-alla-luce-nel-parco-archeologico-di-velia.html
+way	219077446	https://www.locandamanouche.it
 way	220118963	http://www.sangerardo.eu/
 way	220709412	http://www.comune.santaluciadiserino.av.it/
 way	220976289	https://www.iisassteas.edu.it/
@@ -2688,6 +2692,8 @@ way	263993747	https://rifugiolejanare.it/web/
 way	264346044	http://www.terzocircolocava.gov.it/
 way	264669474	https://dreamsoccer.it/
 way	266533633	https://comune.roccarainola.na.it/
+way	267077343	https://www.museiscienzenaturaliefisiche.it/it/musei/museo-di-paleontologia.html
+way	267095451	https://www.museiscienzenaturaliefisiche.it/
 way	268374147	http://www.ilmulinoagriturismo.com
 way	271791399	https://www.hotelreferdinandoischia.it/
 way	272016768	https://parrocchiasanlorenzomartire.wordpress.com/
@@ -3128,6 +3134,7 @@ way	735369557	http://www.casapendola.it/index.php#!Home.html
 way	736428476	https://www.clinicavesuvio.it/
 way	736686470	www.sohal.it
 way	736688432	https://www.puntaromana.it/
+way	736688977	https://www.lavinum.it/
 way	736689105	https://www.bacoli.it/dormire/bed-breakfast/domus-fortunae.html
 way	736690814	https://www.caracolgourmet.it/
 way	736913505	https://www.ic3pozzuoli.it/plessi/rodari/
@@ -3429,6 +3436,7 @@ way	1087953140	https://www.poste.it/
 way	1088017326	https://www.matteotti-cirillo.edu.it/
 way	1088491472	https://www.toil.it/stazioni_carburante/
 way	1089533006	https://www.aramarishotel.com/
+way	1090324022	https://www.facebook.com/DeLuxePizzeria.SantaMaria
 way	1092594375	https://www.1circolodidatticoischia.edu.it/
 way	1092862651	https://www.ismennellaischia.edu.it/
 way	1093591888	https://icnusco.edu.it/
@@ -3590,6 +3598,7 @@ relation	1889542	http://www.silkbeyond.it
 relation	1889621	https://www.comune.caserta.it/belvedere/
 relation	1947310	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	2405262	https://www.viefrancigenedelsud.it/
+relation	2440708	http://www.abana.it/
 relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240    |    http://www.lestradeferrate.it/mono2.htm
 relation	3087495	https://www.museodeicastelli.it/castelli/san-martino-valle-caudina-castello-pignatelli-della-leonessa/
 relation	3095511	https://www.comune.montesarchio.bn.it/
@@ -3788,6 +3797,9 @@ relation	17951453	http://bit.ly/3SykFuS
 relation	17951481	http://bit.ly/3SykFuS
 relation	17951649	http://bit.ly/3SykFuS
 relation	17951650	http://bit.ly/3SykFuS
+relation	18383415	https://www.museiscienzenaturaliefisiche.it/
+relation	18383894	https://www.musa.unicampania.it/
+relation	18389981	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
@@ -3866,6 +3878,7 @@ way	297582955	http://www.ischia-fewo.com/
 way	302370309	http://www.santafortunata.com
 way	380467603	http://www.hotelcapodichino.it/
 way	414221329	https://www.giardinoliberato.org/
+way	417834740	https://www.paradisesportingvillage.com/
 way	420554014	https://www.casamonetacapri.com/
 way	749285010	https://villaflore.it
 way	997977627	http://www.agriturismoziocristoforo.com/
@@ -3873,6 +3886,7 @@ way	1025270923	https://www.fondazionefs.it/content/fondazionefs/it/esplora-il-mu
 way	1069157099	https://www.olattariello.com
 way	1323904669	https://www.nitrodi.com/
 way	1324177310	https://www.mezzatorre.com/
+way	1340342349	https://parrocchiadisanbenedetto.it/
 node	68581547	www.ravello.com
 node	1892958672	http://www.lanticocortile.it/
 node	4033063953	http://www.vacanzeforiapalinuro.it
