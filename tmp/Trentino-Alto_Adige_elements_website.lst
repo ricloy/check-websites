@@ -70,7 +70,6 @@ node	300391103	https://www.carpentari.com/
 node	301455699	https://www.archeosanmartino.it/
 node	301860749	http://www.speck-schnapsalm.com/
 node	301876885	https://www.ausserhof.it/de/goege-alm.php
-node	302099274	https://www.comune.arco.tn.it/Territorio/Luoghi-e-punti-di-interesse/Cosa-puoi-visitare/Beni-artistici-e-monumentali/Il-Castello
 node	302102627	https://www.agririva.it/
 node	302392417	https://www.mineralienmuseum-teis.it/
 node	302393064	https://www.vn-drinks.com/
@@ -6173,9 +6172,9 @@ node	12374308414	https://www.sotciastel.it/it/
 node	12378227225	https://www.iveco.com
 node	12384039265	https://www.beps.it/it/negozi/trento
 node	12385090265	https://www.casagrotti.eu/
-node	12385216397	https://www.aziendaforestale.tn.it/Strutture-gestite/Altre-strutture/Malga-Nova
 node	12393181846	https://peterdipoli.com/
 node	12393182229	https://www.glassier.it/
+node	12393864533	https://www.albergorolly.it/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -6368,6 +6367,7 @@ way	58272460	http://www.hotelmontana.tn.it/
 way	58280787	https://www.fortecharmehotel.it/
 way	58282590	https://hotelalberello.com
 way	58423607	https://www.catinacciorosengarten.com/
+way	58425582	https://www.legiare.net/
 way	58507354	https://www.satbrentonico.com/sezione-1/rifugio-fos-ce/
 way	58533757	https://www.hotelmajare.com/
 way	58563678	https://www.vineus-tramin.it/
@@ -8170,8 +8170,6 @@ way	217477121	https://www.ewo.com/
 way	217488588	https://www.camping-olympia.com/
 way	217497022	https://www.rienznerhof.it/
 way	217497036	https://www.simedia.com/
-way	217502288	https://www.hofer-hof.com/
-way	217502370	https://www.montanaris.com/
 way	218010425	https://www.agriturmasosanbartolomeo.it/
 way	218093662	https://interbrennero.it
 way	218135422	http://www.herilu.it/
@@ -9690,7 +9688,6 @@ way	1087176700	https://www.camperstopebnbnavis.com
 way	1087757608	https://www.prags.bz/en
 way	1087965250	https://www.savoiapalace.it/
 way	1088107668	https://www.residencehotelambiez.it
-way	1090775285	https://www.hirben.it/
 way	1092050820	https://www.kaltern.com/de/info/parkplatz-bahnhofstrasse-p6.html
 way	1092050821	https://www.kaltern.com/de/info/parkplatz-bahnhofstrasse-p6.html
 way	1092050822	https://www.kaltern.com/de/info/parkplatz-bahnhofstrasse-p6.html
@@ -9813,6 +9810,7 @@ way	1327860508	http://www.vitaform.eu/
 way	1329492364	https://www.apss.tn.it/Azienda/Unita-operative-e-strutture/Polo-universitario-delle-professioni-sanitarie
 way	1332409156	https://dolomitsrl.it/
 way	1333201511	https://corpovolontari.it/
+way	1340810730	https://www.aziendaforestale.tn.it/Strutture-gestite/Altre-strutture/Malga-Nova
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -11264,6 +11262,7 @@ relation	18172957	https://www.trentino.com/it/sport-e-tempo-libero/montagne-ed-e
 relation	18187125	https://radrouting.tirol/
 relation	18257388	https://www.ilovevaldinon.it/ponte-sospeso-di-mezzolombardo
 relation	18302551	https://www.comunegrigno.it/c022095/po/mostra_news.php?id=2203&area=H
+relation	18367358	https://www.comune.arco.tn.it/Territorio/Luoghi-e-punti-di-interesse/Cosa-puoi-visitare/Beni-artistici-e-monumentali/Il-Castello
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -12618,6 +12617,9 @@ way	216694015	https://www.sabes.it/de/krankenhaus-innichen
 way	217011764	https://www.bauer.it
 way	217011767	https://www.roechling.com/
 way	217214785	https://www.agriturismofaidellapaganella.it/
+way	217497026	https://www.hirben.it/
+way	217502288	https://www.hofer-hof.com/
+way	217502370	https://www.montanaris.com/
 way	220186058	https://camping-riviera.net
 way	220186097	http://www.campingspiaggia.net
 way	223355081	https://www.curiepergine.it
@@ -12712,6 +12714,7 @@ way	454334048	https://www.alpenhotelrabbi.it
 way	454334049	https://www.valdirabbi.com/it
 way	454762085	https://www.abeterosso.com/
 way	460782720	https://www.bestinparking.com/it/it/garage/parcheggio-piazza-di-fiera
+way	471529527	https://www.ssp-toblach.info/lernorte/grundschule-niederdorf/
 way	471919272	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
 way	516827453	https://www.visitfiemme.it/it/val-di-cembra/Arte%20e%20paesaggi%20da%20cartolina/Le%20Piramidi%20di%20Segonzano
 way	545094991	https://www.trentinomobilita.it/sosta-camper
@@ -12784,6 +12787,7 @@ way	1274058899	https://www.campingbelvedere.it
 way	1289160247	https://www.rfi.it/it/rete/opere-sottoposte-a-dibattito-pubblico/circonvallazione-di-trento.html
 way	1320343678	https://www.ratschings-jaufen.it
 way	1336295742	https://www.gustavmahlerkomponierhaeuschen.com/
+way	1340807921	https://www.bolbeno.info/it/centro-sci
 relation	58994	https://www.fbk.eu
 relation	946442	https://www.lecta.com/it/fabbrica-cartiere-del-garda
 relation	1110127	http://www.istitutosacrocuore.it/
