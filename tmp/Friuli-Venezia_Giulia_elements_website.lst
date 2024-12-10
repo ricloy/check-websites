@@ -644,7 +644,6 @@ node	2730832382	https://disg.uniud.it/
 node	2740932518	https://www.fabrisauto.com/
 node	2744292457	http://www.poiana.it
 node	2744292458	http://www.fvgwifi.it
-node	2755619382	https://jysk.it/
 node	2758676364	https://www.pittarello.com/it/
 node	2763930826	https://trattoriaalmarinaio.business.site/
 node	2775737822	https://www.aditsolutions.it/
@@ -1048,6 +1047,8 @@ node	3785938808	https://www.bottegadelpesce-pn.it
 node	3786017001	https://www.comune.cassacco.ud.it/uffici/biblioteca.htm
 node	3787392331	https://www.cpsolutionsrl.it/
 node	3788852578	https://www.valbershop.it/
+node	3788857480	https://www.poniz.it
+node	3788858821	https://www.lenna.it
 node	3788867461	https://www.friulovestbanca.it/
 node	3788867980	https://www.studiodentisticomittica.com/
 node	3792392191	https://www.farmaciaigea.it/
@@ -1599,7 +1600,6 @@ node	6229875349	http://www.catastogrotte.fvg.it/5947-Abisso_dei_Led_Zeppelin
 node	6241494031	http://icmontereale.gov.it
 node	6241742985	https://www.istat.it/it/istituto-nazionale-di-statistica/organizzazione/sedi-territoriali
 node	6242036678	http://www.cbvenzonese.altervista.org/
-node	6242122927	http://www.vesnabrezina.it/novo/sl/plessi/otroski-vrtec-v-gabrovcu
 node	6242134017	http://www.vesnabrezina.it/novo/sl/plessi/otroski-vrtec-v-devinu
 node	6248944520	http://istitutocomprensivotravesio.it
 node	6249286276	https://www.vsdoberdob.it/otroski-vrtec-ziv-zav-rupa/
@@ -1762,6 +1762,8 @@ node	7362724121	https://www.teleducale.it/
 node	7362775248	https://www.ilroncal.it/
 node	7394614361	http://www.staranzano1.org
 node	7395522781	https://register.prohereditate.com/sl/object/A86/
+node	7398571718	https://register.prohereditate.com/it/object/A0075/
+node	7398764370	https://register.prohereditate.com/it/object/A124/
 node	7419700216	https://www.bongustaio.it
 node	7419700217	https://www.erediquerin.com
 node	7419700219	https://farmaciafiore.it
@@ -2406,7 +2408,6 @@ node	11255288394	https://www.bluespirit.com/
 node	11255288396	https://www.maisonetcadeaux.it/
 node	11255288402	https://www.bottegaverde.com/
 node	11255288403	https://www.bata.com/it/
-node	11255288406	https://franchising.layogurteria.it/
 node	11256817215	https://www.gradoit.it/it/wellness_center
 node	11259989411	https://tuttoestetica.wixsite.com/tuttoestetica-srl
 node	11261269362	https://www.turismofvg.it/en/grandeguerra-trieste-e-the-karst/open-air-museum-of-mt-ermada
@@ -2588,7 +2589,6 @@ node	12094874835	https://www.protezionecivile.fvg.it/it/comune/mossa
 node	12094898521	https://www.protezionecivile.fvg.it/it/comune/trieste
 node	12094903064	https://www.protezionecivile.fvg.it/it/comune/san-floriano-del-collio
 node	12094913422	https://www.protezionecivile.fvg.it/it/comune/savogna-isonzo
-node	12094913458	https://www.protezionecivile.fvg.it/it/comune/san-pier-isonzo
 node	12094914347	https://www.protezionecivile.fvg.it/it/comune/gorizia
 node	12094917332	https://www.protezionecivile.fvg.it/it/comune/medea
 node	12094931009	https://www.protezionecivile.fvg.it/it/comune/san-lorenzo-isontino
@@ -2740,6 +2740,9 @@ node	12384039387	https://www.facebook.com/lagunapalaceresort/
 node	12386139252	https://register.prohereditate.com/sl/object/A68
 node	12387983818	https://www.comune.campoformido.ud.it/it/informazioni-utili-54745/acrobazia-aerea-31587
 node	12388074766	https://register.prohereditate.com/sl/object/A83/
+node	12398649612	https://www.megaprezzibassi.it/stores/mega-pordenone/
+node	12401835254	https://www.graffitidiguerra.it/graffiti/targa-del-113-reggimento-fanteria-iii-reparto-zappatori-quota-208-sud-varda/
+node	12401835287	https://register.prohereditate.com/it/object/A219/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -3318,6 +3321,7 @@ way	36721663	https://www.conad.it/ricerca-negozi/negozio.009842.html
 way	36721851	https://www.bed-and-breakfast.it/pagina.cfm?id=7793&IDRegione=6
 way	36721861	https://hotelpahor.com/
 way	36722450	https://www.protezionecivile.fvg.it/it/comune/doberdo-lago
+way	36722797	https://www.protezionecivile.fvg.it/it/comune/san-pier-isonzo
 way	36993426	http://www3.comune.gorizia.it/turismo/it/parco-urbano-del-castello
 way	39576289	https://www.parcojunior.com/it/home.htm
 way	40009184	http://www.cooperativagemina.com/
@@ -3657,6 +3661,7 @@ way	983883012	https://villabonomo.it/
 way	997968305	https://verdepubblico.comune.trieste.it/giardini-storici/parco-di-villa-bazzoni/
 way	1003506085	https://www.protezionecivile.fvg.it/it/comune/moraro
 way	1011000555	https://gokbora.com/
+way	1013601006	http://www.vesnabrezina.it/novo/sl/plessi/otroski-vrtec-v-gabrovcu
 way	1020495877	http://www.sacrocuoretrieste.it
 way	1038867840	https://www.enpaudine.it/
 way	1039118940	www.libereta-fvg.it
@@ -5696,6 +5701,7 @@ node	2275825136	http://www.catastogrotte.fvg.it/3917
 node	2739044697	https://coinatmradar.com/bitcoin_atm/111/bitcoin-atm-lamassu-udine-gavrilobtc-headquarters/
 node	2975045849	https://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/UDEE819039/luigi-bevilacqua-flaibano/
 node	3876052146	http://italia.indettaglio.it/ita/friuliveneziagiulia/udine_latisana_bevazzana.html
+node	6126324029	https://www.gianttrees.org/it/alberi-giganti/il-castagno-di-canalaz
 node	7426750911	https://catastogrotte.regione.fvg.it/scheda/?var=cavita&cave=1671
 node	7426947129	https://catastogrotte.regione.fvg.it/scheda/3982-Grotta_degli_Stavoli_Pra_di_Steppa
 node	7427500705	https://catastogrotte.regione.fvg.it/scheda/1777-Risorgiva_del_Col_del_Sole
@@ -5742,6 +5748,7 @@ way	25796421	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idSche
 way	26572774	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=9&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	26578892	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=120&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	28383639	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=93&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
+way	36159706	https://organizzazione.cai.it/sez-val-natisone/baita-cai-val-natisone/
 way	36435519	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=133&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	36684755	http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=68496
 way	36684756	http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=84778
