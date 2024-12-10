@@ -21,7 +21,7 @@ node	206233001	https://albergocaffaro.it/
 node	207686609	www.hotelacquaverdegenova.it
 node	218494856	https://www.ostellogenova.it/
 node	229932579	https://www.hotelboccascena.it
-node	229945142	https://www.farmaciaalvigini.com/
+node	229945142	https://www.farmaciaalvigini.it/
 node	229954217	www.hotelricci.com
 node	243210379	https://www.osservatoriorighi.it/
 node	243454536	https://www.hotelcolombo.it/
@@ -356,6 +356,8 @@ node	2059811913	http://www.ferasrl.it/progetto/la-rocca/
 node	2059811914	http://www.ferasrl.it/progetto/la-rocca/
 node	2081895036	https://www.manenahostel.it/
 node	2117874479	http://www.ristorante5maggio.it
+node	2122914700	https://www.repower.com/it/dina/
+node	2122916086	https://www.repower.com/it/dina/
 node	2123632664	http://www.ristoranteenotecamigone.it
 node	2124942693	farmaciaghigliazza.com
 node	2125618082	https://www.repower.com/it/dina/
@@ -377,7 +379,6 @@ node	2190185256	https://www.conad.it/ricerca-negozi/negozio.008482.html
 node	2190195579	https://www.bluerestaurantsavona.it/
 node	2210509802	https://www.genova.city-sightseeing.it/
 node	2210986845	https://www.villaadriana.info/
-node	2218473162	http://www.ilpievano.altervista.org/
 node	2236191766	http://www.vincolimap.it/img/rete_IGM95_GPS/102901.pdf
 node	2256065428	http://www.dorahotel.it/
 node	2260060327	https://www.bellabubistrot.com/
@@ -442,6 +443,7 @@ node	2342490907	https://www.galleriadelcastelloimperia.com/
 node	2354247166	http://www.perladellevanteframura.it
 node	2356302749	https://www.pintori.net/
 node	2358463466	www.ecn.org/ferrer
+node	2358464197	http://www.isrecim.it
 node	2358464401	http://www.soprintendenza.liguria.beniculturali.it/
 node	2359199789	https://www.inps.it/agendasedi/DatiSede.asp?d1=04340200
 node	2365882334	https://www.casafenoglio.com/
@@ -771,7 +773,6 @@ node	3751196731	https://www.monumentaltrees.com/es/ita/liguria/genova/15141_vill
 node	3751196732	https://www.monumentaltrees.com/es/ita/liguria/genova/2772_nervi/25910/
 node	3754072166	https://it-it.facebook.com/libreriasabina.arenzano/
 node	3758787090	www.ilbraciere.net
-node	3760131161	http://anemonedimare2010.it/
 node	3760176445	https://laruotaimperia.com/
 node	3760268778	https://www.ristorantethermopolium.it/
 node	3761682867	https://www.oliocalvi.it/
@@ -1277,11 +1278,7 @@ node	5731970983	https://www.crocebiancavalsecca.it/
 node	5761327128	https://dati.toscana.it/
 node	5761327129	https://dati.toscana.it/
 node	5761327131	https://dati.toscana.it/
-node	5761327133	https://dati.toscana.it/
 node	5761327134	https://dati.toscana.it/
-node	5761327135	https://dati.toscana.it/
-node	5761327136	https://dati.toscana.it/
-node	5761327137	https://dati.toscana.it/
 node	5774186254	https://m.facebook.com/Keprisriomaggiore/
 node	5775420653	https://m.facebook.com/cantinademananan
 node	5776757518	https://www.ponteggigenova.com
@@ -2635,7 +2632,6 @@ way	133908798	http://www.icteglia.gov.it
 way	134693921	https://youtu.be/xlXlMIKUJe8
 way	135435683	https://www.conad.it/ricerca-negozi/negozio.007127.html
 way	136217304	https://www.archivolto.it/interna2.asp?IDPAGE=SALAMERCATO
-way	139742757	http://www.progettonova.it/
 way	139769887	http://www.liceomazzini.it/
 way	140260892	http://www.compagniaunica.it/it/
 way	143862449	https://genova.cerkov.ru/
@@ -2863,6 +2859,7 @@ way	205840606	http://www.attivasportutility.it/it/?page_id=9866
 way	205846725	https://www.asl5.liguria.it/PerilCittadino/Ospedale.aspx
 way	205854865	http://www.rifugiomuzzerone.it/
 way	205855128	http://www.tramontidicampiglia.it/attivita/mulino.htm
+way	205904902	https://www.residenzavillabelvedere.it/
 way	205906201	http://www.focacceriadafrancesco.com/index.htm
 way	205907618	https://www.poliartigiana.it/
 way	205909169	https://fondoambiente.it/luoghi/villa-rezzola/
@@ -2908,6 +2905,7 @@ way	225464024	https://www.oliobenza.it/
 way	225484774	https://wwwt.agenziaentrate.gov.it/servizi/UfficiProvinciali/ufficio.htm?iduff=IM1&r=Liguria&pr=Imperia
 way	225501579	http://www.agriturismocollarina.it/
 way	225503354	https://www.agriturismoilgeco.it/
+way	225512110	https://www.marcovallarino.it/palazzina-liberty-imperia-porto-maurizio/
 way	225513518	https://www.provincia.imperia.it/
 way	225514506	http://www.hotelmiramareimperia.it
 way	225516303	https://hotelcrocedimalta.com/
@@ -3327,7 +3325,6 @@ relation	283620	https://www.inps.it
 relation	294914	http://www.museidigenova.it/it/content/museo-di-storia-naturale
 relation	334891	https://www.viefrancigene.org
 relation	414151	https://www.parcoportofino.it/
-relation	955907	https://www.viefrancigene.org/
 relation	1114296	https://www.caiparma.it/
 relation	1114311	https://www.caiparma.it/
 relation	1114312	https://www.caiparma.it/
@@ -3880,6 +3877,7 @@ relation	17962756	https://www.treninimiletto.it/trenino-di-alassio/
 relation	17976761	http://www.quotazero.com/forum/viewtopic.php?f=15&t=21840
 relation	18023206	http://www.valtanarolife.com/itinerari/bicicletta
 relation	18199747	https://caisarzana.com/
+relation	18386228	http://www.progettonova.it/
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1315100281	www.libreriaragazzi.com
