@@ -209,6 +209,7 @@ node	1471824422	https://www.gabrielliunika.it/content/genteunika/it/it/il-mio-ne
 node	1508598277	https://www.ristorantelecriniere.com/
 node	1518616995	http://www.museomarineriapesaro.it/
 node	1539800458	https://osteriadelmoro.it/
+node	1578984289	https://www.ovs.it/it/it/stores/italia/marche/ascoli-piceno/ovs-ascoli-kids
 node	1579771561	https://www.conad.it/ricerca-negozi/conad-via-michelangelo-48-62010-montecassiano--009864
 node	1581081450	https://www.osteriadellavedova.it/
 node	1583425939	http://www.caffedamiani.it/
@@ -821,7 +822,6 @@ node	6690258549	https://www.ristorantescudiero.it/
 node	6720184193	https://www.asetservizi.it/farmacie-comunali/farmacia-fano-center/
 node	6721117504	https://comune.massignano.ap.it/
 node	6725254286	https://www.spumantebio-peruzzi.it/cdo/index.php
-node	6725276385	http://www.minieracabernardi.it/miniera_zolfo_cabernardi_miniera_storia.htm
 node	6725276386	http://www.minieracabernardi.it/parco-archeominerario-cabernardi.html
 node	6738423533	https://ristorantetrattoriaiolelone.it/
 node	6742202924	https://www.agenziademanio.it/opencms/it/agenzia/strutturaorganizzativa/direzioniterritoriali/marche/
@@ -1688,12 +1688,21 @@ node	12365182938	https://stores.motivi.com/it/italia/ancona/ancona-cc-il-conero
 node	12365182940	https://www.calzedonia.com/it/negozi/marche/ancona/ancona_via_scataglini_6/BQZ.html
 node	12367747325	https://www.salumificiostipa.it/
 node	12373642498	http://www.gennaretti.com
-node	12378718722	http://www.borgopaglianetto.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6536627774083750553
+node	12378718722	https://www.borgopaglianetto.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6536627774083750553
 node	12378718752	https://www.tenutacolpaola.it/
 node	12388406803	https://cormoranohotel.it/
 node	12397584061	https://hurraspesa.it/stores/hurra-coste-di-staffolo/
 node	12401692627	http://www.edizioniae.it/
 node	12403303542	https://www.lauracontri.com
+node	12405557389	https://www.birragodog.it/
+node	12405557390	https://www.beerik.it/
+node	12407120067	http://ilsognoditino.com/
+node	12407120073	https://amelio.bedsandhotels.com/
+node	12407120113	https://casatartufo.nl/
+node	12415277055	https://www.ferramentamoroni.com/
+node	12415867147	https://www.lmvsrl.com/
+node	12417942662	http://www.onoranzerossi.it/
+node	12422286433	https://www.pieroguidi.it/it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2203,6 +2212,7 @@ way	908790690	https://www.civitanavi.com/
 way	919591053	https://www.leroymerlin.it/negozi/ancona
 way	932777531	https://pasticceriadorina.com/
 way	936876569	https://www.cantiererossini.com/
+way	939536420	https://amarche.it/prov/ancona/trekking-sentiero-montelago-monte-strega/
 way	941541625	https://www.univpm.it/Entra/Sedi_dei_Corsi_di_Studio/Sede_di_Pesaro
 way	945724485	https://www.skydivesunrise.com/
 way	946067522	https://www.caandreana.it/
@@ -2251,6 +2261,7 @@ way	1094781880	https://www.iisraffaello.edu.it/
 way	1095639398	https://www.officine-volkswagen.it/santiniprimo.html
 way	1095746610	https://fondoambiente.it/luoghi/cripta-e-capitolo-dell-abbazia-di-sangelo-di-chiaserna?ldc
 way	1095870941	https://www.faberspa.com/
+way	1095911352	https://emisweb.it/
 way	1095920556	http://onoranzefunebribelardinelli.it
 way	1096065312	https://www.allmyhome.com/it/
 way	1096180190	https://davidstravelexperience.eu/degli-alessandri-tower-italy
@@ -2286,6 +2297,7 @@ way	1147077909	https://trattoriasardella.it/
 way	1149355910	https://il-casa-mia-country-house.business.site/
 way	1157633574	https://www.hotelemilia.com/it/
 way	1158118515	https://bar-pertini-ancona-demo.netlify.app/
+way	1168196343	http://www.minieracabernardi.it/miniera_zolfo_cabernardi_miniera_storia.htm
 way	1170345238	https://campinglemarche.com/
 way	1175831449	https://www.cortecampioli.com
 way	1180066892	https://www.cuscamerino.it/
@@ -2395,6 +2407,7 @@ way	1337151038	https://molinoagostini.it/
 way	1337151039	https://www.cactusmeraviglietina.it/
 way	1337158887	https://www.villaamaranto.it/ristorante/
 way	1340110277	https://www.iluoghidelsilenzio.it/torre-matteucci-fermo/
+way	1342092434	http://www.villamonterosso.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
@@ -2811,6 +2824,7 @@ way	1245805544	https://www.vinirocchi.it/
 way	1286175568	http://www.sorellepoveredisantachiara.it/
 way	1289060611	http://turismo.comune.caldarola.mc.it/musei-cms/antiquarium/
 way	1296346692	https://www.hotelristorantepanorama.com/
+way	1296358628	http://www.areacamper.it/
 way	1301847221	https://www.lasaponaria.it/
 way	1301847241	http://www.biesse.com
 way	1334249750	http://www.fabrianoturismo.it/docs/comearrivare/unanuovaareadiservizioesostacamper.asp
