@@ -194,7 +194,6 @@ node	331199461	https://www.t-bone.it/
 node	332042746	https://www.casaclaudia.it/
 node	334497117	https://www.farmaciaponzi.com/
 node	335386370	https://www.masupermercati.it/
-node	342445043	http://www.hoteladriano.it
 node	366920929	andrewpub.it
 node	378202086	https://www.parcodellagallinara.com/
 node	378978299	https://www.hilton.com/en/hotels/romaptw-hilton-rome-airport/
@@ -2376,7 +2375,6 @@ node	4783618324	https://www.larcangelo.com/
 node	4784546925	https://ristorantevillaalta.com/
 node	4785072929	http://www.colosseumrooms.com/it/
 node	4785906224	https://www.edilizia-cd.it/
-node	4786487122	http://www.tornatoratuscolana.it/
 node	4786758622	https://www.laprosciutteria.com/
 node	4788645244	https://belsole.it/
 node	4790083565	http://multicedi.mydeco.it/
@@ -3872,7 +3870,7 @@ node	7629765568	https://www.radiologicaromana.it/
 node	7630548167	http://www.mompeoturismo.it/scopri-mompeo/monumento-naturale-gole-del-farfa
 node	7630548168	http://blog.aioe.org/index.php/roccabaldesca/
 node	7631635182	https://www.segugiocasa.com/
-node	7632564434	https://g.page/scout_roma89?sharevvvvvvvvvv
+node	7632564434	http://www.roma89.it/
 node	7637780759	http://www.hosteriacacioepepe.it/
 node	7637780760	https://forconiprofessional.com/
 node	7638450837	https://www.huobimercatoorientale.com/
@@ -4082,7 +4080,6 @@ node	8022281843	https://www.necchi.it/
 node	8022281862	https://www.fuochiartificialiroma.it/
 node	8027720369	https://www.simgames.it/
 node	8043979642	https://www.ctv2000arl.it
-node	8047318260	https://www.sangabrielearcangelo.it/
 node	8058589685	https://www.ism.cnr.it/
 node	8058595484	https://www.ism.cnr.it/
 node	8062002100	https://www.unicooptirreno.it/punto-vendita/frosinone-casilina
@@ -6282,9 +6279,18 @@ node	12374451964	https://www.risorseperroma.it/
 node	12376449856	https://museodelcorso.com/
 node	12383575952	https://www.settantadueore.it/
 node	12388778503	https://www.villacavalletti.it/museo-dellolio/
-node	12390138271	www.3flsaildesign.com
+node	12390138271	https://www.3flsaildesign.com/
 node	12398765482	https://www.booking.com/hotel/it/elfa-home.it.html?
 node	12400484423	https://gruppoigea.com/le-nostre-realta/parafarmacia-igea-campus/
+node	12404661883	https://www.clinicadentaleroma.com/
+node	12409325348	https://www.ferramentafer2000snc.it
+node	12409325351	http://www.centromobilizavaglia.it/
+node	12409567481	https://www.visitlazio.com/sulle-tracce-della-citta-fantasma-di-monterano/
+node	12409808724	bper.it
+node	12411444668	http://www.coltellerialanzetta.com/
+node	12411935701	http://leportediatlantide.it
+node	12422169357	http://www.ortopedianewlife.it/
+node	12422169360	http://www.pcmiomicros.it/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7227,6 +7233,7 @@ way	299531409	https://www.comune.sora.fr.it/contenuti/669545/museo-media-valle-l
 way	299747726	https://www.chateau-dax.it/
 way	299747730	https://www.sietel.it/
 way	299747738	https://www.icraffaello.edu.it/wp/scuola-primaria-matisse/
+way	299747740	https://www.parrocchiasanmario.it/
 way	299748543	http://www.prenatal.it
 way	299913361	https://www.casadicurakwh.it/
 way	300386871	Idroponica.it
@@ -7690,6 +7697,7 @@ way	441925375	http://cairieti.it
 way	442046263	https://www.alcasale2000.it/
 way	442066270	http://www.hotelalbaroma.com/
 way	442066329	https://www.elpatio.it/
+way	442101143	https://www.sangiovannileonardi.com/
 way	442190451	http://www.holykartroma.it
 way	442455452	https://agricolapaolucci.it/
 way	442468785	https://www.vigorsportingcenter.it/
@@ -7846,6 +7854,7 @@ way	481992990	http://archeologialazio.beniculturali.it/it/328/parco-naturalistic
 way	485347060	http://www.asrieti.it/
 way	485402641	http://www.produttorilattecasilina.it
 way	485411521	https://www.laperladellago.com/
+way	485462782	https://comunitamaria.it/parrocchia-s-maria-delle-grazie/
 way	486396845	https://www.superelite.it/
 way	486518058	https://www.superelite.it/
 way	486524443	https://www.cedigros.com/
@@ -7986,6 +7995,7 @@ way	545444455	https://www.carrefour.it/punti-vendita/carrefour-market-nepi-via-r
 way	545488009	icnepistradella.gov.it
 way	545488010	https://parrocchianepi.it/
 way	545488032	https://www.young-style.it/
+way	545488632	https://www.sangabrielearcangelo.it/
 way	545577388	Postatiamo.blogspot.com
 way	545661930	https://diocesicivitacastellana.com/
 way	545661931	midossi.gov.it
@@ -8053,6 +8063,7 @@ way	564140555	https://www.icgiuseppeimpastato.edu.it/
 way	564156587	https://www.parrocchiasanraffaele.it/
 way	564829503	https://iisviaasmara28.it/
 way	564831581	https://luigisettembrini.gov.it/
+way	566117058	https://www.santarcisio.eu/
 way	566500556	https://www.villastuart.it/
 way	568225442	http://www.palacavicchieventi.com/
 way	568531978	https://maximoshopping.it/
@@ -8382,6 +8393,7 @@ way	878658237	https://www.icviacassia1694roma.edu.it/area-utenti/primaria/
 way	879280327	https://institutsaintdominique.fr/it/
 way	879786724	https://www.apattrezzatureprofessionali.com
 way	879806314	https://www.gruppoeurocar.com/it/homepage
+way	880663878	https://www.stelladellevangelizzazione.org
 way	881434721	https://www.theaugustinians.com
 way	881434722	https://www.patristicum.org/
 way	884740324	https://www.acropoli.org/pagina.php
@@ -9624,6 +9636,7 @@ relation	18325332	http://www.camminodisantommaso.org/
 relation	18341565	https://fondoambiente.it/luoghi/parco-villa-gregoriana
 relation	18343987	https://vitamonasticapassionista-org.webnode.it/
 relation	18352756	www.parcolucretili.it
+relation	18401397	https://www.datacenter.it/data-center-aruba/italia-roma-dc-it4.aspx
 node	251888861	https://www.multisalagreenwichroma.com/
 node	452570567	https://www.catacombe.org/
 node	802459210	https://www.oasidigreccio.it/
@@ -9810,6 +9823,7 @@ node	12106285322	https://umilta36.com
 node	12144401063	https://croma.cancilleria.gob.ar/
 node	12170201833	https://www.gov.uk/world/organisations/british-embassy-holy-see
 node	12312342763	https://roma37.tecnocasa.it/roma/appio-tuscolano-villa-lais/
+way	29181216	https://www.vallicella.org/
 way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-romano/
 way	36385826	https://www.aeronautica.difesa.it/home/storia-e-tradizione/museo-storico/
 way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
@@ -9899,7 +9913,6 @@ node	32631124	http://www.giolitti.it/
 node	72962031	http://italia.indettaglio.it/ita/lazio/poggiomirteto.html
 node	260540041	http://www.mymovies.it/cinema/roma/4916/
 node	264673865	http://colosseoorg.wix.com/aitrescalini
-node	342445043	http://www.hoteladriano.it
 node	351606161	www.ostiainbicixiii.it
 node	434692525	http://www.aureliahospital.com/
 node	475380685	http://www.grottepastena.it/
