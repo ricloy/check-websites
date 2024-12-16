@@ -29,7 +29,6 @@ node	2008942530	https://www.repower.com/it/lenergia-di-repower/produzione-di-ene
 node	2204680617	http://www.pinetapaducci.com
 node	2229592221	https://www.musma.it/
 node	2229847819	https://www.hotelpierfaone.it/
-node	2246690765	http://www.artrestaurant.eu/
 node	2264440274	https://www.fratellilabufala.eu/
 node	2265264378	http://musei.beniculturali.it/musei?mid=74&nome=museo-archeologico-nazionale-di-muro-lucano
 node	2281927235	http://musei.beniculturali.it/musei?mid=73&nome=museo-archeologico-nazionale-del-melfese-massimo-pallottino
@@ -147,6 +146,7 @@ node	3486306001	https://www.muranoricevimenti.com/
 node	3526773861	https://www.ristoranteallefornaci.it/
 node	3571571009	https://farmacie.paesit.it/
 node	3571571014	http://farmaciamallamo.com
+node	3583236693	https://www.accademiaemodiva.it/
 node	3583367905	https://www.ictorracabonaventurapz.gov.it/
 node	3583367906	http://www.icluigilavista.gov.it/
 node	3583557994	http://www.issr-potenza.it/
@@ -207,13 +207,13 @@ node	5312238924	https://www.e-geos.it/
 node	5448777321	https://www.fireflyaudio.it
 node	5451380537	http://www.cantucciodelvulture.it/
 node	5468947887	https://farmacia-materana.business.site/
-node	5475822517	http://www.icluigilavista.gov.it/
+node	5475822517	https://ictorracalavista.edu.it/struttura/i-c-torraca-bonaventura-pz/scuola-primaria-san-giovanni-bosco/
 node	5475904666	https://www.icleopardipz.it/
 node	5475904667	https://www.ictorracabonaventurapz.gov.it/
 node	5475963795	https://www.icleopardipz.it/
 node	5475963797	https://www.icleopardipz.it/
-node	5475967779	http://icbusciolano.gov.it
-node	5475967780	http://icbusciolano.gov.it
+node	5475967779	https://www.icbusciolano.edu.it/luogo/sede-di-san-nicola/
+node	5475967780	https://www.icbusciolano.edu.it/luogo/sede-di-san-nicola/
 node	5475990519	https://www.icmilanipz.gov.it/
 node	5475994077	https://www.icsinisgallipz.gov.it/
 node	5476039068	http://www.icluigilavista.gov.it/
@@ -303,7 +303,6 @@ node	8491614905	https://duinogomme.com
 node	8491677276	https://pitstopbaby.com/
 node	8491719077	https://www.vittyshoes.it/
 node	8529824588	https://www.chieserupestri.it/chieserupestri/san-rocco-via-casalnuovo.html
-node	8563861559	http://www.campingmakumba.it/
 node	8573986417	https://www.biodauria.it/
 node	8588100836	https://www.angolodellamemoria.eu/
 node	8639059717	https://airbnb.it/users/show/26988208
@@ -500,7 +499,7 @@ node	12093061835	https://enel.it
 node	12296961566	https://www.repower.com/it/dina/
 node	12324459701	https://www.radinowinebistrot.com/contact-us/
 node	12358282884	https://www.oltrelartecraco.it/
-node	12393181455	http://www.tecnospazio.net/
+node	12393181455	https://www.tecnospazio.net/
 node	12393182052	http://www.tecnomeccanicasrl.eu/
 way	33887443	http://musei.beniculturali.it/musei?mid=68&nome=museo-archeologico-nazionale-di-metaponto
 way	33887449	http://musei.beniculturali.it/musei?mid=326&nome=tempio-delle-tavole-palatine
@@ -609,14 +608,14 @@ way	349803875	http://www.comune.potenza.it/
 way	349803902	https://www.icbusciolano.edu.it/
 way	349803930	http://www.santamariadelsepolcro.it/#
 way	349803951	https://www.icdomenicosaviopz.gov.it/
-way	349804057	http://www.seminariomaggioredibasilicata.it/
+way	349804057	https://www.itbaspotenza.it/
 way	349811331	https://www.panificiociarly.it
 way	349821260	http://www.cuspotenza.it/
-way	349821337	http://icbusciolano.gov.it
+way	349821337	https://www.icbusciolano.edu.it/luogo/sede-di-santa-maria/
 way	349844609	https://www.icdomenicosaviopz.edu.it/
 way	350415335	https://www.ospedalesancarlo.it/
 way	350428794	https://icmilanipz.edu.it/index.php/infanzia-2/
-way	352875131	http://www.parcobadenpowell.it/
+way	352875131	https://cooperativavenerepotenza.org/parco-baden-powell/
 way	368740664	https://catalogo.cultura.gov.it/approfondimento/elenco-degli-edifizi-monumentali-italia-del-1902/basilicata-provincia-potenza/chiesa-cattedrale-rapolla
 way	375962077	https://www.crob.it/
 way	386527855	https://www.isassidimatera.com/cosa-vedere/ponte-sul-canyon/
