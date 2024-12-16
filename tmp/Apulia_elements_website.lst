@@ -323,7 +323,7 @@ node	3217056261	http://www.tricksabbigliamento.it/
 node	3218825949	https://www.misvagoloungebar.com/
 node	3224530835	https://www.majorpigiami.it/
 node	3224530837	http://frigorent.it/
-node	3224557887	http://www.farmaciacurciirene.com/
+node	3224557887	https://www.farmaciacurci.it/
 node	3224559610	https://www.farmaciacalia.com/
 node	3225556364	http://www.chaplinpub.it
 node	3225691102	https://lallegrascottonapub.it/
@@ -766,6 +766,7 @@ node	5383258378	https://www.facebook.com/Gocce-Di-Caff%C3%A8-1728496227425363/
 node	5383285158	https://www.facebook.com/EnotecaWineItaly/
 node	5383296125	https://www.facebook.com/PanificioLaCaravella/
 node	5383363016	https://puntivenditadeco.multicedi.it/it/italia/bari/bari-via-abate-gimma
+node	5383383308	https://www.hm.com
 node	5410417984	http://www.sabap-ba.beniculturali.it/index.php?it/86/la-soprintendenza
 node	5410420906	https://www.zialuciaskateshop.com
 node	5412214847	https://joezampetti.it/punti-vendita-joe-zampetti-petstore/bari-via-fani/
@@ -779,7 +780,7 @@ node	5445842589	https://www.lidl.it
 node	5446010252	https://www.wellnessngymbari.it/
 node	5451410324	https://www.pingry.it/
 node	5454346721	http://www.nardellisport.shop
-node	5465372821	http://www.acasamiapizzeria.it
+node	5465372821	https://pizzeriaacasamia.it/
 node	5468794236	https://pescheriaantica.wixsite.com/pescheria
 node	5468796395	www.tenutebruno.it
 node	5487222638	https://www.fatalone.it/
@@ -1705,6 +1706,7 @@ node	9880942517	https://ristorantemarechiaro.net/
 node	9880957817	https://www.bijondo.com/en/pages/negozi
 node	9881955617	http://castellogallipoli.it
 node	9883486195	https://www.pasticceriagenny.it/
+node	9883527405	https://www.hotelspretorian.com/bb-conte-cavour/
 node	9883755718	https://www.museionline.info/comuni/museo-del-mare
 node	9883785117	https://www.viaggiareinpuglia.it/at/144/localita/4239/en/Gallipoli
 node	9884919788	https://www.vinslounge.it/
@@ -1732,6 +1734,7 @@ node	9885729077	https://www.upim.com/
 node	9885824803	https://www.lidl.it/
 node	9899526015	https://www.bbilpurgatorio.it/
 node	9900238706	https://www.mondadoristore.it/
+node	9900238707	https://www.hotelsitalic.com/kofler-guesthouse/
 node	9900251420	https://www.confettiandria.it/
 node	9900251422	https://www.svapobat.it/
 node	9902045235	https://viglioneresort.com/
@@ -2632,6 +2635,9 @@ node	12390284701	https://www.pollipoli.it/
 node	12393849251	olisticum.com
 node	12393849252	galleria1957.it
 node	12396078089	http://www.apcesmit.it/
+node	12411810406	https://aimindustry.it/
+node	12422579576	http://www.agricolabitontina.com/
+node	12422579578	https://www.eurodi.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -2643,7 +2649,7 @@ way	30652740	https://www.liceofermi.edu.it/
 way	30675576	https://www.sanita.puglia.it/web/irccs
 way	30791611	https://fierafoggia.it/
 way	34207503	https://www.birraperoni.it/chi-siamo/stabilimento-di-bari/
-way	35544569	http://www.itismolfetta.gov.it/
+way	35544569	https://www.ferrarismolfetta.edu.it/
 way	36503980	https://campinglidosalpi.it/
 way	36921282	https://www.grandhotelvignanocelli.com/
 way	44530945	https://www.parcheggiobarletta.it/
@@ -2738,9 +2744,8 @@ way	233113272	https://www.villaggiobellariva.it/
 way	236398211	http://www.campofreddo.it
 way	239853311	http://www.agricampeggioleradici.it
 way	240305038	https://frontemarepuglia.it/
-way	240518321	http://www.lidoalgamarina.it/
 way	240872402	https://www.victorvillage.it/it/
-way	241532003	http://www.pugliamegalitica.it/struttura_megalitica.php?id=169&lang=ita&idcom=145
+way	241532003	https://dolmensansilvestro.beniculturali.it/
 way	241755450	http://www.vetreriadeserto.it
 way	243033457	www.parcoincoronata.it
 way	243192550	https://www.cantinasalicesalentino.it/
