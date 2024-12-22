@@ -34,6 +34,7 @@ node	70993908	https://www.comune.roseto.te.it/
 node	75251540	https://www.thespacecinema.it/al-cinema/montesilvano
 node	108081388	https://italia.indettaglio.it/ita/abruzzo/teramo_castiglionemesserraimondo_piani.html
 node	135133652	https://multicinema.it/Programmazione?cinema=arca
+node	203398457	https://portedipescara.it/negozi/interspar/
 node	228262895	http://www.xfuel.it/stations.html
 node	228263519	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/API41510
 node	249428915	https://www.facebook.com/UTOPIA.RISTOPUB.MONTESILVANO/
@@ -130,6 +131,7 @@ node	639924360	https://www.teatrotosti.it/
 node	641452030	https://www.conad.it/ricerca-negozi/negozio.008551.html
 node	641460053	https://www.zara.com/
 node	641460276	https://www.negozipellizzari.it/
+node	650461813	https://www.mcdonalds.it/ristorante/abruzzo/chieti/sgiovanni-teatino
 node	650501345	https://www.todis.it/
 node	650515981	https://www.gabriellispa.it/it/insegne/tigre.html
 node	650516903	https://www.bricofer.it/storedetails/pescara
@@ -165,6 +167,7 @@ node	776013607	https://farmaciapalombaro1801.business.site
 node	797621240	https://www.russofarmacia.it/
 node	799270190	https://pizzeriadafasano.eatbu.com/?lang=it
 node	800123136	https://www.centrodabruzzo.com/negozi/ristofficina/
+node	800123143	https://www.centrodabruzzo.com/negozi/anet/
 node	836160946	https://www.parcopagliahotel.it/
 node	858200293	https://m.facebook.com/Ristorante-Pizzeria-Il-Ghiottone-593642074025274/?locale2=it_IT
 node	858200294	https://www.hotelsanmarcofrancavilla.it/
@@ -396,7 +399,13 @@ node	3166604342	https://www.avscoop.it/
 node	3175887066	www.facebook.com/la.chioscheria
 node	3204839620	https://www.milupizza.it/
 node	3204839621	https://www.osteriafocone.it/
-node	3206092796	https://cooltypeitalia.com
+node	3206092779	https://portedipescara.it/negozi/cover-center/
+node	3206092782	https://portedipescara.it/negozi/parafarmacia-salus-natura/
+node	3206092784	https://portedipescara.it/negozi/sinsay/
+node	3206092796	https://portedipescara.it/negozi/sarni-oro/
+node	3206092798	https://portedipescara.it/negozi/stroili-oro/
+node	3206092799	https://portedipescara.it/negozi/goldenpoint/
+node	3206092801	https://portedipescara.it/negozi/tabaccheria/
 node	3244458104	www.cheapstore.it
 node	3256656630	https://olioextraverginediandria.jimdo.com/
 node	3265240575	http://www.dibartolomeo.it/habit-casa/complementi-darredo/
@@ -1473,7 +1482,6 @@ node	7643890916	http://www.cooperativailgabbiano.com/
 node	7645196184	https://fericalzature.altervista.org/
 node	7645221032	https://hairbeautyandbarbershop.it/
 node	7645255246	https://www.naturhouse.it/
-node	7645285426	https://naturalmente-frutta.business.site/
 node	7645410304	https://www.lacantinadilara.com/
 node	7645426896	https://www.sawasdee.it/
 node	7648640867	https://mangame.it/
@@ -1502,7 +1510,6 @@ node	7660190141	https://ilmastino.com/
 node	7660684253	https://www.prenatal.com/
 node	7660721283	https://www.geox.com/it-IT/
 node	7661624659	https://www.thun.com/it_it/
-node	7661638016	https://en.glamvicolostore.com/
 node	7661651657	https://www.dolcisport.it/
 node	7661655132	https://www.cinziaparrucchieri.com/
 node	7661759297	http://maisond.it
@@ -1510,13 +1517,10 @@ node	7661759397	https://pescara.ubiklibri.it/
 node	7661767315	https://www.monamour-lingerie.com/
 node	7661770901	https://egomilanobrand.com/
 node	7663218169	http://www.linoscoffee.com/
-node	7663259060	https://www.eurekakids.it/
 node	7663375019	https://www.wplavori.com/
 node	7663385255	https://www.topfloradesign.it/
 node	7667633125	https://www.cronotimepescara.it
 node	7667661946	https://caffefirenze116.business.site/
-node	7667679802	http://www.blukids.it/
-node	7667686311	https://qbr-pescara.business.site
 node	7667712325	https://www.losfiziodigennaro.it/
 node	7668650157	https://www.jeunesseboutique.it/
 node	7668659799	https://www.antonellapescara.it/
@@ -1581,7 +1585,7 @@ node	7783617162	https://www.studiorabottini.com/
 node	7784196592	https://www.deflorentiis.com/
 node	7784228409	http://www.pasticceriadelibertis.it/
 node	7794757088	https://www.gruppofas.com/
-node	7795077392	https://www.villabebe.it/
+node	7795077392	https://portedipescara.it/negozi/villabebe/
 node	7798140939	https://serallfer.com/
 node	7810607134	https://www.onoranzefunebrimambellaottavio.com/
 node	7817119423	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10806
@@ -1749,6 +1753,8 @@ node	8251189540	https://www.acquaesapone.it/puntivendita/pescara-s-p-san-silvest
 node	8251189542	https://www.carrefour.it/punti-vendita/carrefour-market-pescara-strada-provinciale-san-silvestro-snc-4044.html
 node	8251189543	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10839
 node	8252274315	https://www.facebook.com/Barber-Shop-Renzetti-1512367125454944/
+node	8266444548	https://portedipescara.it/negozi/estasi-profumerie/
+node	8266444550	https://portedipescara.it/negozi/sarni-bistro/
 node	8266830056	https://www.mixmarkt.eu/it/home/
 node	8269864336	https://www.oraridiapertura24.it/filiale/Pescara-Botan%25ECc%2520Parafarmacia%2520Dott.ssa%2520Carla%2520Costantini-3856127N.html
 node	8269924695	https://www.farmaperbellini.it/#Contatti
@@ -2738,6 +2744,7 @@ node	11001719716	https://nonsolofitnesspescara.it/
 node	11002185886	https://glksrl.it/
 node	11002185887	https://www.gruppoesea.it/
 node	11002989632	https://www.repower.com/it/dina/
+node	11005525531	https://petitrose.it/
 node	11010801189	https://www.casedellacqua.net
 node	11011587809	https://www.ilviziettosexyshop.it/i-negozi/pescara/
 node	11016106962	https://italia.indettaglio.it/ita/abruzzo/chieti_chieti_primavilla.html
@@ -3201,8 +3208,11 @@ node	12416449592	https://www.izs.it/IZS/Engine/RAServePG.php
 node	12416496206	https://adriaticavetri.it/
 node	12416496207	https://www.ropet.eu/
 node	12416496208	https://centroricami.it/
-node	12423118954	www.spaziorealestate.com
+node	12423118954	https://www.spaziorealestate.com/spaziore/index.aspx
 node	12423333242	https://www.frumentopanepizza.it/
+node	12425040807	http://www.ristorantebebcasabologna.it/
+node	12433003720	https://www.decaserramentisnc.it/
+node	12436962789	https://www.centrodabruzzo.com/negozi/kasanova/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3417,7 +3427,6 @@ way	262764547	http://www.chiedi-a-christel.it/pianella/contrada-quercia-dell-omp
 way	262801003	http://www.sanniti.info/smschiav.html
 way	264204679	https://www.info.asl2abruzzo.it/ospedaleguardiagrele/
 way	267637426	https://tilm.it/
-way	268110453	http://www.hotellavecchiaminiera.com/
 way	276212659	https://www.fatergroup.com/en
 way	285509352	https://www.rolli.it/italiano/stabilimenti.aspx
 way	290024030	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1300300808
@@ -3465,6 +3474,7 @@ way	343946907	http://www.seripubbli.it/Paesi/SanPietroCampov.htm
 way	344674004	https://www.comune.farasanmartino.ch.it/
 way	345511944	https://www.caipescara.it/rifugio-marcello-di-marco
 way	350423875	http://www.avioalanno.it/
+way	350506651	https://forums.x-plane.org/index.php?/files/file/92700-aviosuperficie-laquila/
 way	351711110	http://mtb.controguerra.info
 way	352061339	http://disciascio.it
 way	352623663	https://www.info.asl2abruzzo.it/ospedalevasto/
@@ -4191,6 +4201,7 @@ way	1229908140	https://www.artfireworks.eu/
 way	1230675004	https://www.abruzzoparks.it/item/la-val-maone.html
 way	1232479304	https://www.freecomsas.it
 way	1239666352	https://www.vivaiowonderland.com
+way	1241139635	https://www.oasidikilian.it/
 way	1242961312	https://www.todis.it/
 way	1242975124	https://www.peanorosaonline.edu.it/
 way	1244766524	https://www.prolocopacentro.it/
@@ -4532,6 +4543,7 @@ node	11302973066	https://www.lafarmacia.it/trova-farmacia/del-principe-martinsic
 node	11542658048	https://www.telespazio.com/it/business/space-centres-teleports/fucino-space-centre
 node	11932491331	http://www.siconte.it/it/punti-vendita/si-supermercati/loreto-aprutino-via-della-fornace
 node	12144001881	https://castrumtruentinum-antiquarium.blogspot.com/
+node	12205420653	https://www.campingvillaelena.it/
 node	12222600657	https://leonellomacchine.it/
 way	93958554	https://www.storkcampingvillage.com/
 way	148593095	https://www.hotellenazioni.com
