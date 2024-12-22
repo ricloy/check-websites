@@ -240,7 +240,7 @@ node	610303277	https://www.ambulatorioveterinarioricciotti.it/
 node	611064835	https://mrzhao.it
 node	611670269	http://www.filas.it
 node	612602245	https://www.poliziadistato.it/
-node	612605225	www.multisalabarberini.it
+node	612605225	https://www.cinemabarberini.it/
 node	612983879	https://www.farmaciacipro.it/
 node	614409043	https://pariolitheatreclub.it/
 node	618946435	https://all.accor.com/hotel/B5E1/index.it.shtml
@@ -698,7 +698,7 @@ node	1891443733	http://www.lalocandadelriccio.it/
 node	1904726725	https://www.magicsound.it/
 node	1912686773	https://tekneko.it/comune/guidonia-montecelio/
 node	1915625794	https://www.ristorantelincantomarino.com/
-node	1917232843	https://www.ilocale.it/
+node	1917232843	https://www.ilocale.it
 node	1919386629	https://www.mpcr-noleggio.it
 node	1920404978	https://www.hotelabruzzi.it/
 node	1924360563	https://www.apcoa.it/parcheggi-in/roma/lago-eur/
@@ -2586,7 +2586,6 @@ node	5098681298	https://ristorantepercorsi.it/
 node	5100815918	https://www.jonathan.it/
 node	5105065721	https://www.facebook.com/Rosso-Vino-winebar-Terracina-208226355892923/
 node	5106226821	http://www.ristorantelamarinaponza.it
-node	5108839922	http://birraesale.com
 node	5109855124	http://radiobottega.cool
 node	5110696322	https://www.ugoristorante.it/
 node	5124510150	https://www.villalagodeicigni.it/
@@ -5498,6 +5497,7 @@ node	10845851937	http://www.scuolastemma.it/
 node	10846863337	https://www.aslroma2.it/index.php/strutture-7d/poliambulatori
 node	10853534244	https://www.facebook.com/CAFFETTINO
 node	10857746505	https://www.uninettunouniversity.net/it/default.aspx
+node	10857746510	https://www.carrefour.it/punti-vendita/carrefour-express-roma-via-del-gesu-57-58-59-4366.html
 node	10861627625	https://www.cityfitnessroma.it/
 node	10861953697	https://jysk.it/negozi/fiumicino/da-vinci-village-de-andre
 node	10862084461	https://www.prenestinamotors.it/
@@ -6284,13 +6284,20 @@ node	12398765482	https://www.booking.com/hotel/it/elfa-home.it.html?
 node	12400484423	https://gruppoigea.com/le-nostre-realta/parafarmacia-igea-campus/
 node	12404661883	https://www.clinicadentaleroma.com/
 node	12409325348	https://www.ferramentafer2000snc.it
-node	12409325351	http://www.centromobilizavaglia.it/
+node	12409325351	https://www.centromobilizavaglia.it/
 node	12409567481	https://www.visitlazio.com/sulle-tracce-della-citta-fantasma-di-monterano/
-node	12409808724	bper.it
-node	12411444668	http://www.coltellerialanzetta.com/
-node	12411935701	http://leportediatlantide.it
-node	12422169357	http://www.ortopedianewlife.it/
+node	12409808724	https://www.bper.it/
+node	12411444668	https://www.coltellerialanzetta.com/
+node	12411935701	https://leportediatlantide.it/
+node	12422169357	https://www.ortopedianewlife.it/
 node	12422169360	http://www.pcmiomicros.it/
+node	12430268821	https://osteriadeltempopersoroma.it/oca/
+node	12430268822	https://www.riverpalacehotel.it
+node	12431704105	https://www.barriotango.it
+node	12437714388	https://www.scogliodifrisio.com/
+node	12437854705	https://www.codysushi.it/
+node	12438374686	http://www.farmaciabissolati.it/
+node	12438456606	http://www.otticalabarbera.eu/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -8523,6 +8530,7 @@ way	1020496886	http://www.carsharing.roma.it/
 way	1021169354	https://www.casasansilvestro.com/
 way	1023901294	https://ricondizionatitp.it
 way	1024254198	https://agriturismocastellaraldo.it/
+way	1026437883	https://www.icmontaltodicastro.edu.it/
 way	1027421427	https://www.provincia.viterbo.it
 way	1027421428	https://www.provincia.viterbo.it
 way	1029516481	https://honeysportcity.it/
