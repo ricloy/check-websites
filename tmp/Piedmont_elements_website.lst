@@ -310,6 +310,7 @@ node	1514848350	https://bct.comune.torino.it/sedi-orari/cesare-pavese
 node	1515827367	http://algirasol.com/
 node	1528857258	https://www.dafabionetrattoriapizzeria.it/
 node	1529537773	http://www.cascina-gorgia.it/
+node	1531964021	https://fungoreale.it/
 node	1537464439	http://www.ilportichetto.altervista.org/
 node	1537464582	https://www.calzaturegiraudo.it/
 node	1537464619	http://www.comune.caraglio.cn.it/Default.aspx
@@ -804,7 +805,7 @@ node	2400280495	https://www.centrovercelli.it/negozio/medical/#
 node	2400680415	https://www.altanadelmottorosso.it/
 node	2404079505	https://www.bmgelas.com/
 node	2404144298	https://ilposticinotorino.it
-node	2405959613	http://www.brebanca.it
+node	2405959613	https://www.intesasanpaolo.com/
 node	2406157085	https://hotelbolognasrl.it
 node	2406157090	https://www.hotel-diplomatic.it/
 node	2406157480	https://www.casaromar.it/
@@ -1908,7 +1909,6 @@ node	4343768010	https://hotelcavalieribra.com/
 node	4343768035	https://panetteriafagnola.myadj.it/v/panetteriafagnola
 node	4343768037	https://www.flowersheart.it/
 node	4343768040	https://saporedimare.it/
-node	4343768041	https://ristoranteharuhana.it/
 node	4343768044	https://www.calliope.style/it/
 node	4343768050	https://www.turismoinbra.it/musei-bra/museo-civico-di-archeologia-storia-arte%E2%80%A8-palazzo-traversa/
 node	4343768053	http://www.museodelgiocattolobra.it
@@ -2021,6 +2021,7 @@ node	4509391768	https://www.centrocongressilingotto.it/
 node	4509483438	http://www.giardinoarona.it/
 node	4509483439	https://www.aldopizzeria.it/
 node	4509536327	https://www.termediacqui.it/cure-termali/
+node	4511819908	https://www.museoborgogna.it/opere/francesco-porzio-busto-di-antonio-borgogna/
 node	4511819912	https://www.museoborgogna.it/
 node	4516116796	https://www.pastafrescaemiliana.it/pastafresca/
 node	4517784294	https://localhost127.link/
@@ -4582,7 +4583,6 @@ node	8491438925	https://www.acquapazzavercelli.it/
 node	8491438939	https://negozi.tigota.it/5648-vercelli
 node	8491708003	https://www.aspnetsrl.eu/
 node	8491888743	https://www.nord-ovest.it/
-node	8491893998	https://www.auroranaturale.it/
 node	8491915580	https://www.pimkie.it/store-pimkie-00902
 node	8491939047	https://www.mondofood.it/
 node	8495082572	https://www.intesasanpaolo.com/
@@ -5644,6 +5644,7 @@ node	10968131683	https://tempocasa.it/it/agenzie-immobiliari/vercelli/vercelli/9
 node	10968853347	http://www.leroi.torino.it/
 node	10973459069	https://www.smatorino.it/punti-acqua/
 node	10974500381	https://www.sephora.it/informazioni-store/?storeID=IT113
+node	10974500384	https://www.pinalli.it/store-locator/italia/piemonte/novara/novara
 node	10976170536	https://www.carrozzeriadonnadio.it
 node	10978536105	http://lamussia.it
 node	10980262424	https://www.satvolo.org
@@ -6281,7 +6282,7 @@ node	12397581501	http://www.cams-it.com
 node	12398011645	https://www.farmaciaravera.it/
 node	12400364380	http://www.cecomp.it
 node	12400972162	https://gruppovendocasa.it/
-node	12415652320	www.woodystorino.it
+node	12415652320	https://www.woodystorino.it/
 node	12417392836	https://www.coltelleriaiori.it/
 node	12419502419	https://fablabtorino.org/
 node	12421304901	https://quadrifogliolistenozze.com
@@ -6289,6 +6290,17 @@ node	12421608027	https://castellodirivara.it/
 node	12423185218	https://latorinese1932.it/
 node	12423185220	https://latorinese1932.it/
 node	12423395323	https://ristorantelapiazza.com/home/
+node	12431238612	https://fungoreale.it/
+node	12432927316	booking.com/hotel/it/gufetto-2-albiano-d-ivrea.it.html
+node	12435184319	https://www.tripadvisor.it/VacationRentalReview-g1785340-d21058733-B_B_Le_Viole_Bianche-Albiano_d_Ivrea_Province_of_Turin_Piedmont.html
+node	12435211311	"https://www.booking.com/hotel/it/quarta-generazione-apartment.html?checkin=&checkout=&group_adults=2&group_children=0&room1=A,A&label=67652f6cd127ac8e835b5050&aid=1188619&selected_currency=EUR;hotelids=7965387"
+node	12435215500	https://www.bbnovecentoivrea.it/
+node	12435263810	https://www.bbantichepietre.it/
+node	12435856783	http://www.up.aci.it/torino/spip.php?page=sta
+node	12435856784	http://www.up.aci.it/torino/spip.php?page=orari
+node	12438719526	mashweb.it
+node	12441678821	https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0100372588
+node	12443534168	https://www.booking.com/hotel/it/vigna-rossa-san-pietro.it.html
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -7227,7 +7239,6 @@ way	235224618	https://www.centrocalzaturiero.it/ita/punto-vendita/trecate-calzat
 way	235224791	https://www.burgerking.it/ristoranti/piemonte/novara/burger-king-trecate/
 way	235225775	https://www.ilgigante.net/
 way	235314919	https://www.jammunlimitedpizza.it/
-way	235822711	http://cascinalafamo.com/
 way	235892134	http://www.pianbenot.it/usseglio/impianti.html
 way	235998295	https://www.uni-astiss.eu/
 way	236520429	https://www.defilippihotel.it/
@@ -7853,6 +7864,7 @@ way	368060560	http://www.ascombra.it
 way	368062770	http://www.ascomform.it/
 way	368083379	https://www.museidibra.it/museocraveri
 way	368209065	http://www.rolfo.it/
+way	368222779	http://www.gruppoverrua.it/
 way	368224506	https://www.museidibra.it/museozizzola
 way	368437198	http://campingcasabianca.altervista.org/
 way	368482414	https://www.facebook.com/olympicentre/
@@ -7927,6 +7939,7 @@ way	376846789	https://www.donboscocumiana.it/
 way	376853248	https://www.castelloniellatanaro.com
 way	376855465	http://www.comunesanmichelemondovi.it/Home/Guida-al-paese?IDDettaglio=27014
 way	377116312	https://www.itisgiulionatta.it/
+way	377185588	https://www.villatrisano.com/
 way	377445103	https://icborgaro.gov.it/sedi/scuola-primaria.html
 way	377445105	https://icborgaro.gov.it/sedi/scuola-dell-infanzia.html
 way	377616468	https://www.comune.sanpietromosezzo.no.it/it-it/home
@@ -10312,6 +10325,7 @@ relation	13137912	http://www.actiontennisarona.it/
 relation	13211673	https://www.estmonterosa.it/catasto-percorsi-vco-val-bognanco-settore-d.html
 relation	13221039	https://www.estmonterosa.it/catasto-percorsi-vco-valle-anzasca-settore-b.html
 relation	13221929	https://www.estmonterosa.it/catasto-percorsi-vco-valle-isorno-settore-l.html
+relation	13269363	https://www.estmonterosa.it/catasto-percorsi-vco-val-bognanco-settore-d.html
 relation	13360963	https://www.atapspa.it/wp-content/themes/atapspa/orari/orario_3.pdf
 relation	13386834	https://www.atapspa.it/wp-content/themes/atapspa/orari/orario_1.pdf
 relation	13397940	https://www.estmonterosa.it/catasto-percorsi-vco-valli-antigorio-formazza-settore-g.html
@@ -10325,6 +10339,7 @@ relation	13485599	https://www.estmonterosa.it/catasto-percorsi-vco-val-bognanco-
 relation	13546156	https://www.estmonterosa.it/catasto-percorsi-vco-valle-antrona-settore-c.html
 relation	13557642	http://www.comune.casalbeltrame.no.it
 relation	13602902	https://www.uniupo.it/
+relation	13802833	https://www.estmonterosa.it/catasto-percorsi-vco-val-bognanco-settore-d.html
 relation	13826977	https://www.estmonterosa.it/catasto-percorsi-vco-valle-vigezzo-settore-m.html
 relation	13828758	https://www.estmonterosa.it/catasto-percorsi-vco-valle-vigezzo-settore-m.html
 relation	13833085	https://www.estmonterosa.it/catasto-percorsi-vco-valle-vigezzo-settore-m.html
@@ -11562,6 +11577,9 @@ node	669981290	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&
 node	669981291	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615306
 node	669981292	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615306
 node	669981293	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615306
+node	669981372	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162B
+node	669981375	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162D
+node	669981376	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162E
 node	669981379	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162H
 node	669981406	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0616309
 node	669981407	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0616309
@@ -11740,6 +11758,7 @@ way	192215812	https://vicolungo.thestyleoutlets.it/it/intrend-diffusione-tessile
 way	196003266	https://www.gulliver.it/itinerario/9839/
 way	198653661	http://www.camping.it/germany/piemonte/bosco/
 way	201625351	http://web.tiscali.it/rifugio.pontese/
+way	232606692	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0100028372
 way	236718585	http://www.campingvallegesso.com/
 way	241959799	http://www.cuneoclimbing.it/relazioni/falesie/bagnasco.pdf
 way	244666242	http://www.altox.it/ValsusaFalesie/caprie_campambiardo.htm
@@ -11911,6 +11930,9 @@ relation	462018	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf
 relation	462118	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615305
 relation	462119	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615306
 relation	462150	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162A
+relation	462151	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162B
+relation	462153	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162D
+relation	462154	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162E
 relation	462156	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162G
 relation	462157	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162H
 relation	462172	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0616309
@@ -12154,6 +12176,8 @@ relation	11102718	https://percorsi.estmonterosa.it/m/M37/M37.kml
 relation	11105595	https://percorsi.estmonterosa.it/m/M39/M39.kml
 relation	11129720	https://danbag.altervista.org/Valgrande/X14/X14-FTP.kml
 relation	11174909	https://percorsi.estmonterosa.it/g/G06/G06.kml
+relation	11174970	https://percorsi.estmonterosa.it/g/G06a/G06a.kml
+relation	11175071	https://percorsi.estmonterosa.it/g/G32a/G32a.kml
 relation	11204873	http://danbag.altervista.org/Valgrande/X99/X99-FTP.kml
 relation	11267970	https://percorsi.estmonterosa.it/g/G27/G27.kml
 relation	11283137	https://percorsi.estmonterosa.it/g/G19/G19.kml
@@ -12178,17 +12202,21 @@ relation	12221789	https://percorsi.estmonterosa.it/t/T26/T26.kml
 relation	12420496	http://percorsi.estmonterosa.it/c/C06/C06.kml
 relation	12474194	http://danbag.altervista.org/PercorsiVCO/XP1c/XP1c-FTP.kml
 relation	12588061	https://percorsi.estmonterosa.it/m/M37a/M37a.kml
+relation	12645830	https://percorsi.estmonterosa.it/d/D18c/D18c.kml
+relation	12847548	https://percorsi.estmonterosa.it/d/D98/D98.kml
 relation	12894606	https://percorsi.estmonterosa.it/d/D12a/D12a.kml
 relation	12905202	https://percorsi.estmonterosa.it/t/T14/T14.kml
 relation	12905203	https://percorsi.estmonterosa.it/t/T28/T28.kml
 relation	12943965	https://percorsi.estmonterosa.it/d/D10/D10.kml
 relation	13136055	https://percorsi.estmonterosa.it/g/G31/G31.kml
 relation	13211673	https://percorsi.estmonterosa.it/d/D14a/D14a.kml
+relation	13269363	https://percorsi.estmonterosa.it/d/D17/D17.kml
 relation	13336676	https://www.valdisusaturismo.it/alp45/
 relation	13372751	http://www.turismomassello.net/base7.html
 relation	13482186	https://percorsi.estmonterosa.it/d/D15/D15.kml
 relation	13482226	https://percorsi.estmonterosa.it/d/D19/D19.kml
 relation	13485556	https://percorsi.estmonterosa.it/d/D20/D20.kml
+relation	13802833	https://percorsi.estmonterosa.it/d/D08/D08.kml
 relation	13852495	https://percorsi.estmonterosa.it/g/G00(1).kmz
 relation	13852506	https://percorsi.estmonterosa.it/g/G00(1).kmz
 relation	13852514	https://percorsi.estmonterosa.it/g/G00(3).kmz
@@ -12205,6 +12233,7 @@ relation	13938893	https://percorsi.estmonterosa.it/g/G24a/G24a.kml
 relation	13938907	https://percorsi.estmonterosa.it/g/G26/G26.kml
 relation	13939055	https://percorsi.estmonterosa.it/g/G28a/G28a.kml
 relation	13939237	https://percorsi.estmonterosa.it/g/G18/G18.kml
+relation	13944018	https://percorsi.estmonterosa.it/g/G34a/G34a.kml
 relation	13944084	https://percorsi.estmonterosa.it/g/G34b/G34b.kml
 relation	13981897	https://percorsi.estmonterosa.it/g/G97.pdf
 relation	13983921	https://percorsi.estmonterosa.it/s/S03a/S03a.kml
