@@ -23,7 +23,7 @@ node	356061053	https://www.bibliotecaricchetti.it/
 node	371162750	https://www.fseonline.it/
 node	371162757	https://www.fseonline.it/
 node	371162758	https://www.fseonline.it/
-node	390851249	https://www.gallerianazionalepuglia.beniculturali.it/it/1/home
+node	390851249	https://museipuglia.cultura.gov.it/musei-puglia/galleria-nazionale-girolamo-e-rosaria-devanna-di-bitonto/
 node	399901135	https://bidonvillestore.it/
 node	401356637	https://www.panificiomagda.com/
 node	411907212	https://www.comune.foggia.it/
@@ -866,7 +866,6 @@ node	5777270552	https://bebvillaginegra.it
 node	5778935919	https://lavinaigrette.it
 node	5779426691	https://www.cucinadamare.it/
 node	5779796609	https://www.thesecretgarden.it/
-node	5781623753	http://www.giromarbari.it
 node	5783878594	http://www.centrodiagnosticocardiovascolare.it
 node	5800578019	https://www.soprannomiosteriacontemporanea.it
 node	5800699257	https://www.pizzeriadreher.com
@@ -1459,7 +1458,6 @@ node	9310857537	https://www.apuliaimmobiliare.it/
 node	9312619867	https://www.mailexpress.it/
 node	9329301538	http://bari.mozzarellaebasilico.com/
 node	9329458580	https://www.cartolerialafenice.it/
-node	9329479271	http://www.umisushi.it/
 node	9329508478	https://restaurantguru.it/BAR-Stallone-di-Stallone-Ignazio-Bari
 node	9329519700	https://www.oiza.it/
 node	9340200265	https://www.bricomontemurro.it/
@@ -1784,6 +1782,7 @@ node	9964394273	https://videogamestime.com/
 node	9964394276	www.blukids.it
 node	9964394277	https://www.allscent.it/
 node	9964394280	https://www.piazzaitalia.it/
+node	9966380102	https://www.poketowalk.it/
 node	9967223829	https://www.smichcafe.it/
 node	9967765251	https://www.repower.com/it/dina/
 node	9981477233	https://m.facebook.com/profile.php?id=100063692342810
@@ -2638,6 +2637,13 @@ node	12396078089	http://www.apcesmit.it/
 node	12411810406	https://aimindustry.it/
 node	12422579576	http://www.agricolabitontina.com/
 node	12422579578	https://www.eurodi.it/
+node	12427220970	https://ehhzy.it
+node	12430493688	https://www.bicyclestorepinto.com/
+node	12430509067	https://www.booking.com/hotel/it/cd-romanello-mura-s-cataldo.html
+node	12431219079	https://www.fedinfissi.it/
+node	12438734789	https://pinocchio.pro06.it/
+node	12438734791	https://www.floatyourmind.it/
+node	12441193545	www.studiodentisticovallone.it
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -3033,6 +3039,7 @@ way	408967558	https://www.icdeamicisgiovanni23.edu.it/
 way	408996568	http://www.scuolagiovanni23adelfia.it/
 way	409139662	https://www.itc.cnr.it/ba/sc/TRL/TRL0019.html
 way	409169019	http://www.teatrocomunaleruvo.it/
+way	409204976	https://www.sanleonebitonto.it/
 way	409641638	https://www.comune.santeramo.ba.it/
 way	409658626	https://www.abbondanzagriturismo.com/
 way	409665388	https://www.lunali.it/
@@ -3876,6 +3883,7 @@ relation	6062516	http://www.comune.santagatadipuglia.fg.it/cmpro-v-p-92.html
 relation	6097292	https://questure.poliziadistato.it/BarlettaAndriaTrani
 relation	6106077	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150134&pagename=157031
 relation	6121085	https://www.icdeamicisgiovanni23.edu.it/scuola-sec-i-grado.html
+relation	6124316	https://www.sanleonebitonto.it/
 relation	6134103	www.masseriadeimonelli.it
 relation	6141230	https://www.poliba.it/lic
 relation	6153602	https://www.sanita.puglia.it/web/asl-bari/ricerca_det/-/journal_content/56/25619/servizio-di-riabilitazione-ex-art-25-rutigliano
@@ -3932,7 +3940,6 @@ relation	12576335	https://www.viefrancigenedelsud.it/
 relation	12585682	https://www.viefrancigenedelsud.it/
 relation	12857931	https://brindisi.airports.aeroportidipuglia.it/
 relation	13543541	https://www.viefrancigene.org/
-relation	13664625	https://www.viefrancigene.org/
 relation	14178831	https://camminomaterano.it/via/9/via-ellenica-terra-delle-gravine
 relation	14182386	https://camminomaterano.it/via/9/via-ellenica-terra-delle-gravine
 relation	14195181	https://camminomaterano.it/via/9/via-ellenica-terra-delle-gravine
