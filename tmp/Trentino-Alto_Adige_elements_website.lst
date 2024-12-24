@@ -178,7 +178,7 @@ node	443431043	https://www.gasteiger.it/sessellift-korblift/
 node	443448102	https://www.botango.it/
 node	445080717	https://www.furcia.info/
 node	446285924	https://www.grossberghuette.com/
-node	448098224	http://www.hotelpordoi.eu/
+node	448098224	http://www.hotelpordoi.eu
 node	449096185	https://www.seegarten.it/
 node	453662368	https://www.valgardena.it/en/bus-schedule/
 node	453662390	https://www.valgardena.it/en/bus-schedule/
@@ -499,6 +499,7 @@ node	939108271	https://hotel-zur-bruecke.com/
 node	942873560	https://www.angeloracing-cles.it/
 node	943372584	http://www.hotelcles.com/
 node	943772827	https://www.lanternamagicacles.com/
+node	943890865	https://prink.it/
 node	945021956	http://ristorantecaciopepe.it
 node	945133369	http://ecclesiaanaune.it
 node	945470857	http://piadineriapicasso.it
@@ -1012,6 +1013,7 @@ node	2162288923	https://www.ritterkeller.it/
 node	2162288924	https://www.skisporting.com/
 node	2166575473	https://www.happmpappm.com/
 node	2170989194	https://www.bellezzastudio.eu/
+node	2171925112	http://www.hotel-gschwendt.it/
 node	2173364098	https://furlhuette.com/
 node	2178895823	https://www.locandadelletrechiavi.it/
 node	2184359835	https://www.fassa.com/EN/Skibus-service/
@@ -3168,7 +3170,6 @@ node	4128988189	https://www.eurospin.it/
 node	4130612088	http://www.lattetrento.it/
 node	4131587314	https://jump-eppan.it/
 node	4132334191	https://unterthurnerhof.com/
-node	4135182630	http://www.ristorantepizzerialarustica.it/
 node	4138355622	http://www.electronicstudio.it/
 node	4143910789	https://www.elch.it/
 node	4144186541	https://www.hotelhirzer.com/
@@ -6179,6 +6180,9 @@ node	12393182229	https://www.glassier.it/
 node	12393864533	https://www.albergorolly.it/
 node	12413752131	https://www.fraunhofer.it/
 node	12419203640	"https://webgis.provincia.tn.it/wgt/?lang=it&topic=14&bgLayer=orto2015&layers=ammcom,grotte&layers_visibility=false,true&X=5111233.20&Y=646530.58&zoom=7&catalogNodes=46&showTooltip=true&layer=grotte&feature=GRT003_1827"
+node	12431036302	https://www.pordoi.com/ristorante-aidin/menu/
+node	12441945904	https://www.trecime.com/it/prezzi-info/in-inverno/service-center-punka.html
+node	12446955093	https://www.hotelseggioviafolgaria.it/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -8445,6 +8449,7 @@ way	237152870	https://www.fcobermais.it/
 way	237153549	https://www.prinzrudolf.com/camping-meran
 way	237301645	https://www.trattes.it/it/benvenuti.html
 way	237463805	https://www.ciufdlton.it/en/
+way	237463821	www majarai.it
 way	237589880	https://www.greiterhof.org
 way	237593476	https://www.nigglerhof.it/
 way	237595424	www.sunara.it
@@ -8805,7 +8810,6 @@ way	294649221	https://www.pixnerhof.it/
 way	294649373	https://www.rebhof-vinschgau.com/
 way	294726416	http://www.wiesenheim.eu/
 way	294742222	http://www.goegele.eu
-way	294847563	https://www.hanswirt.com/
 way	295132887	https://www.guldhof.com/
 way	295133138	https://www.klostergut.com/
 way	295133147	https://www.pardell.it/
@@ -11268,6 +11272,7 @@ relation	18187125	https://radrouting.tirol/
 relation	18257388	https://www.ilovevaldinon.it/ponte-sospeso-di-mezzolombardo
 relation	18302551	https://www.comunegrigno.it/c022095/po/mostra_news.php?id=2203&area=H
 relation	18367358	https://www.comune.arco.tn.it/Territorio/Luoghi-e-punti-di-interesse/Cosa-puoi-visitare/Beni-artistici-e-monumentali/Il-Castello
+relation	18392975	https://www.camminoretico.it/
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -12141,7 +12146,6 @@ node	10287161516	https://www.2teheimat.eu/anfragen/#kontaktformular
 node	10302229207	https://www.asis.trento.it/it/impianti/centro-sportivo-melta_9426_s/
 node	10559351170	https://www.torggler-rodelbau.com/
 node	10559351172	https://www.alurodel.com/
-node	10564143537	+390473967148
 node	10564698766	https://www.autoattrezzature.it/
 node	10570183305	https://www.pizzerialapianarotaliana.it/
 node	10587142134	https://www.risto3.it/it/ristoranti/ristoranti-e-menu/rochling-trento/
