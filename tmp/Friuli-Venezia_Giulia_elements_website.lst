@@ -171,6 +171,7 @@ node	863819662	http://www.dodorico.it
 node	903992917	https://www.hotelreginalignano.it/
 node	907822389	http://www.hotelbellini.eu
 node	911835673	https://www.portomaran.com/
+node	915658784	https://aipriori.it/
 node	921808090	http://www.antonveneta.it/
 node	930502737	https://www.marinadiaquileia.it/
 node	932070510	https://www.protezionecivile.fvg.it/it/comune/san-leonardo
@@ -937,6 +938,7 @@ node	3655954366	https://www.scuolamusicacodroipo.it/
 node	3658802166	www.progettare-abitare.com
 node	3658802960	https://eliteviorica.it/
 node	3658803040	https://www.latteriacividale.it/
+node	3658816106	https://ufficina.com/
 node	3658824041	https://www.cervignanodelfriuli.net/aziende_comunali/ausa_servizi_salute.html
 node	3661290716	https://www.lignanopineta.com/
 node	3661313876	https://www.paulandshark.com/
@@ -1162,7 +1164,6 @@ node	3896263143	https://beb.it/lascala/it/
 node	3896506675	http://www.sebico.it/easyne2/LYT.aspx?Code=BSS2&IDLYT=657&ST=SQL&SQL=ID_Documento=615
 node	3896516259	https://www.emotionarzino.it
 node	3899062557	https://www.eurospesa.it/
-node	3899062562	https://www.vitalfrutta.it/
 node	3900072658	https://www.poste.it/
 node	3908467451	http://www.villatrovatore.it
 node	3917392361	http://catastogrotte.fvg.it/1671-Risorgiva_di_Eolo
@@ -2743,6 +2744,12 @@ node	12388074766	https://register.prohereditate.com/sl/object/A83/
 node	12398649612	https://www.megaprezzibassi.it/stores/mega-pordenone/
 node	12401835254	https://www.graffitidiguerra.it/graffiti/targa-del-113-reggimento-fanteria-iii-reparto-zappatori-quota-208-sud-varda/
 node	12401835287	https://register.prohereditate.com/it/object/A219/
+node	12426278663	https://bon.it/bakery/
+node	12433259981	https://www.befedpub.com/
+node	12443500670	https://www.vetreriaventurini.it/
+node	12444053091	https://www.hotelspretorian.com/casanova-inn/
+node	12446925322	https://aipriori.it/
+node	12448757157	http://www.palestraworld.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2877,6 +2884,7 @@ way	36128455	http//4.icudine.gov.it/
 way	36129973	https://www.icudine.it/
 way	36132432	https://www.comune.udine.it/
 way	36132499	https://www.comune.udine.it/it/sicurezza-22643/protezione-civile-50370
+way	36132934	https://www.anapassons.it/
 way	36144922	https://www.dsegno.biz/
 way	36147588	http://www.afamweb.com/
 way	36151771	https://6icudine.gov.it/
@@ -2901,6 +2909,7 @@ way	36174576	https://www.susans.it/
 way	36182278	https://www.asdrojalese.it/index.php
 way	36182339	http://www.reanese.it
 way	36183397	https://www.belvederemorandini.it/
+way	36183422	https://fabbrospub.it/
 way	36186707	http://www.declaricini.it/
 way	36189094	http://www.ilgiardino1886.it
 way	36194294	http://www.villadragoni.it
@@ -3028,7 +3037,6 @@ way	36414030	https://www.oats.inaf.it/
 way	36414867	https://salonedeglincanti.comune.trieste.it/
 way	36414868	https://museorevoltella.it/
 way	36414869	https://museosartoriotrieste.it/
-way	36414871	https://ycadriaco.it/
 way	36414879	https://www.stazionerogers.org/
 way	36414907	http://www.deams.units.it/
 way	36415148	http://www.lecorderiehotel.it
@@ -3863,6 +3871,8 @@ way	1327821937	https://www.prontoauto.it/
 way	1329740235	https://www.hotelinsylvis.com/
 way	1339284880	https://win.zenobionline.com/ITINERARI/itinerario%20nad%20logem/nad%20logem.html
 way	1339284881	https://win.zenobionline.com/ITINERARI/itinerario%20nad%20logem/nad%20logem.html
+way	1343300110	https://ycadriaco.it/
+way	1344528105	https://www.progettogaiaterra.com/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
