@@ -1168,7 +1168,7 @@ node	2605454955	https://www.madverona.it/
 node	2606708196	https://www.spaziogershwin.org/
 node	2609697290	https://skalettebistro.eatbu.com
 node	2609697292	https://www.rigonifranceschetti.it/
-node	2612019093	https://www.museicivicivicenza.it/
+node	2612019093	https://www.museicivicivicenza.it/it/mcp/visita.php
 node	2615558791	http://www.castiglieri.com/
 node	2617242332	https://www.arpa.veneto.it/
 node	2620766689	http://www.agriturismocortevecia.it/
@@ -2595,7 +2595,6 @@ node	4867904621	https://www.modoluce.com/
 node	4873003367	https://www.caddys.it/negozi/annone-veneto-4047
 node	4873033859	https://www.buosionoranzefunebri.it/
 node	4873578100	https://www.agriturismoscriciol.it/
-node	4874405921	https://www.icrash.it/
 node	4876270924	https://www.isoladicaprera.com/
 node	4876311150	https://www.alcovadeldoge.com/de/
 node	4876339516	https://pizzeriaallelanternine.it/
@@ -2865,6 +2864,7 @@ node	5398312794	http://ekologikaplast.it
 node	5398468405	https://motociclitessari.it/
 node	5398505186	https://www.facebook.com/Pasticceria-La-Specola-236003793176797/
 node	5398505187	http://www.emporiodelmaterasso.com/negozio-ponte-san-nicolo-pd.html
+node	5398737574	http://www.millevogliepadova.com/
 node	5405839128	https://www.osteriadacaronte.it/
 node	5409939108	https://www.arzarello.it/
 node	5411965821	http://www.macvision.it
@@ -4337,7 +4337,6 @@ node	7856682389	https://www.gelatodinatura.com/
 node	7858826625	https://www.lamandorlashop.com/
 node	7863871072	https://charlestonpizzeria.it
 node	7865418075	https://startdigit.com/
-node	7865923785	http://www.alexanderpalace.it
 node	7866515597	https://www.facebook.com/Barlume4.0/
 node	7867999790	https://autodemolizione-luca.it/
 node	7868202334	https://worhot.com/hotels/il-salotto-del-conte
@@ -5491,6 +5490,7 @@ node	10021341701	https://www.buratoabbigliamento.it/
 node	10024003510	https://www.trattoriadallalibera.it/
 node	10024309297	https://www.alsoleauronzo.net/
 node	10029081647	https://www.lavignaosteria.it/
+node	10030041334	https://www.mt1909.com
 node	10030041369	https://woodenstore.it/
 node	10030041378	http://www.basevijeans.it/
 node	10031638995	https://demosverona.it
@@ -6716,7 +6716,16 @@ node	12415671062	http://www.poligrappa.com/
 node	12416640401	http://www.hotellesorgenti.com
 node	12420226501	https://pizzeriagrigoris.it/wp-content/uploads/Grigoris-Menu.pdf
 node	12422885431	https://www.uil.it/
-node	12422939448	www.pneusmarca.com
+node	12422939448	https://pneusmarca.com/
+node	12425224189	https://www.snackdojo.com
+node	12427142255	https://www.caivalpolicella.it/
+node	12429984075	https://www.aldi.it/it/trova-il-punto-vendita/aldi-verona/aldi-bussolengo.html
+node	12430209314	https://www.institutobernabeu.com/es/centro/venecia/
+node	12431128091	https://ristoranteginza.it/dolo/
+node	12434423396	https://www.corsipandora.com/
+node	12435319522	https://www.cdp.it/sitointernet/it/le_sedi.page#venezia
+node	12437981516	https://www.astrofilimestre.it/
+node	12438291372	https://www.hotel-venezia.com/it/
 way	4998071	https://iisviolamarchesini.edu.it/luogo/91-2/
 way	4998072	https://www.liceopaleocapa.edu.it/
 way	19906045	https://www.comune.venezia.it/it/content/teatro-parco
@@ -6878,6 +6887,7 @@ way	84230665	https://ristorantelacosta.it/
 way	84232050	http://www.chezvivi.it/
 way	84232089	https://www.osteriaguerriero.com/
 way	84232839	https://www.trattoriaalcantinon.com/
+way	84736711	https://www.famila.it/punti-vendita/Veneto/famila-superstore-rovigo
 way	84854512	www.golfpadova.it/
 way	85419263	http://www.regione.fvg.it/rafvg/cms/RAFVG/economia-imprese/agricoltura-foreste/foreste/FOGLIA9/#n4
 way	85570158	https://cucinasannazario.it/
@@ -7497,7 +7507,6 @@ way	160419238	https://www.bricoio.it/
 way	161233967	https://www.castellodizumelle.it
 way	161327983	https://mosconibertani.it/
 way	161328644	https://www.recchiavini.it/
-way	161330928	https://www.caivalpolicella.it/
 way	161856292	https://www.edison.it/it/la-centrale-termoelettrica-di-porto-viro
 way	162040537	https://www.istitutosanmassimo.edu.it/
 way	162062226	https://centrodimedicina.com/
@@ -8573,6 +8582,7 @@ way	362601506	https://www.comune.santurbano.pd.it/pagine.php?idp=15
 way	362601508	https://villarezzonico.it/
 way	362603319	https://www.comune.santurbano.pd.it/
 way	362604030	https://www.destrocarrelli.it/
+way	363380088	http://www.lacalendula.it/
 way	363380228	https://www.villacaconti.com/
 way	363520113	https://www.portobaseleghe.com/index.aspx
 way	363637780	https://www.erbecedario.it/
@@ -9454,6 +9464,8 @@ way	1307918718	https://www.jtaca.com
 way	1307918719	https://www.jtaca.com
 way	1307918724	https://www.jtaca.com
 way	1307918727	https://www.jtaca.com
+way	1308126419	http://www.iismariecurievr.gov.it
+way	1308130558	http://www.icbussolengo.com
 way	1309120201	https://www.obi-italia.it/
 way	1310342823	https://www.el-bacan.it/
 way	1310880667	https://www.benigniarredamenti.it/
@@ -9478,12 +9490,14 @@ way	1317120012	www.tankfashion.com/it/
 way	1317120014	www.piazzaitaliastore.it
 way	1317120791	www.pellicano.eu
 way	1317293439	https://www.comunesanmichele.it/villa-ivancich
+way	1317922446	https://www.atvo.it/it-home.html
 way	1317968617	https://liferedune.it/
 way	1318102668	https://www.visitfeltre.info/servizi/area-camper/
 way	1318106588	https://visitsegusino.com/area-camper/
 way	1318317041	https://www.aladincamp.it/
 way	1318839137	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3310006.pdf
 way	1318840464	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320007.pdf
+way	1320128987	https://www.atvo.it/it-home.html
 way	1322136812	https://www.parcheggiogiove.it/
 way	1322648612	https://www.hotel-nevada.it/
 way	1324085925	http://www.clubfantair.com
@@ -9797,7 +9811,7 @@ relation	5821904	http://www.caisezionethiene.it/
 relation	5822136	http://www.caisezionethiene.it/
 relation	5822175	http://www.caisezionethiene.it/
 relation	5822199	http://www.caisezionethiene.it/
-relation	5856075	http://www.caibassanograppa.com
+relation	5856075	http://www.caibassanograppa.com/sentieri/sinistra-brenta/item/itinerario-n-920
 relation	5856076	http://www.caibassanograppa.com
 relation	5862318	http://www.caibassanograppa.com
 relation	5863722	https://www.cailonigo.it/
@@ -10044,6 +10058,7 @@ relation	9833101	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friu
 relation	9904752	https://www.caiagordo.it/
 relation	10003392	https://www.campinglagunavillage.com/
 relation	10179779	https://www.caiseregno.it/
+relation	10275750	https://www.ilcamminodisantantonio.org/category/cammino-gemona-padova
 relation	10452653	http://www.via-alpina.org/de/stage/208
 relation	10485582	https://bike.infovalpolicella.it/
 relation	10485583	https://bike.infovalpolicella.it/
@@ -10137,7 +10152,7 @@ relation	13747738	https://www.alpenvereinaktiv.com/de/tour/03-suedalpenweg-e23-h
 relation	13798380	https://cortinadelicious.it/
 relation	13798381	https://www.visitmarmolada.com/
 relation	13798382	https://www.dolomitisuperski.com
-relation	13798742	https://www.infodolomiti.it/vacanza-attiva/alte-vie-delle-dolomiti/alta-via-delle-dolomiti-n-8/7158-l1.html
+relation	13798742	https://www.veneto.eu/IT/Trekking_altavia_8/
 relation	13830109	https://www.valdifassalift.it/
 relation	13830460	https://www.feetgrezzana.it/
 relation	13911659	https://www.bolca.it/site/index.php?option=com_content&view=article&id=12&Itemid=120
