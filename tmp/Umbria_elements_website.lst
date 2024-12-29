@@ -463,7 +463,6 @@ node	5321719712	https://www.pcsnetumbria.it/
 node	5329673651	http://www.armerialabeccaccia.com/index.php
 node	5330926337	https://spoletopneumatici.bestdrive.it/
 node	5333367171	https://www.aull.it/
-node	5333384647	https://www.lapostservice.com/
 node	5333395189	https://becchetti.it/
 node	5333600987	https://www.preventsrl.it/
 node	5335443938	https://www.agriferamelia.it/
@@ -615,6 +614,7 @@ node	7784724427	https://www.fontidelclitunno.it/#camere
 node	7784724428	https://www.borgocampello.com
 node	7920048115	https://www.sinapsisrl.com/
 node	7959443795	https://www.fontepino.com/
+node	7959823878	https://www.lapostservice.com/
 node	7985476743	https://ilnarcisorelaxsoulbody.com/
 node	7985501671	https://www.corpoeanima.it/
 node	8091610898	https://www.papatartufi.it/
@@ -956,6 +956,8 @@ node	12405466902	https://molinodeltorrone.it/
 node	12421364460	https://flli-ferretti.com
 node	12421392474	https://www.iluoghidelsilenzio.it/fonte-monumentale-di-verchiano-foligno/
 node	12437393952	https://www.cams.unipg.it/orti-musei/gipsoteca
+node	12442537014	http://www.progettazioneverde.com
+node	12456828022	https://www.gruppoitalianovini.it/it/brand/bigi
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1325,7 +1327,7 @@ way	529644759	https://www.agriturismolustrinu.it/
 way	529665933	https://www.ulivoinfiore.com/
 way	529899707	http://www.icspoleto2.it/
 way	530012702	http://www.icspoleto2.it/
-way	530475921	https://www.gls-italy.com
+way	530475921	https://gls-group.com/IT/it/home/
 way	530520600	https://www.2circolospoleto.edu.it/jm4/
 way	531306167	https://www.unique-center.it/
 way	531306170	https://durantispoleto.com/
@@ -1341,7 +1343,6 @@ way	540191463	https://www.santuariodimontemelino.it/
 way	540195378	https://www.cantinaberioli.it/
 way	540199485	https://montesperello.it/
 way	540219714	https://www.2circolospoleto.edu.it/jm4/
-way	540656127	https://www.sda.it
 way	540668136	https://www.comune.spoleto.pg.it/turismoecultura/the-city/monumenti/arco-di-druso-e-germanico/
 way	541871478	http://www.primocircolospoleto.it/ita/
 way	543390093	https://www.alvecchioforno.com/
@@ -1689,7 +1690,6 @@ relation	6426252	https://www.iluoghidelsilenzio.it/rocca-albornoziana-spoleto-pg
 relation	6455357	https://www.vetrya.com/
 relation	6554441	https://www.carabinieri.it/
 relation	6599043	http://www.lascarzuola.com/
-relation	6689530	https://www.viadifrancesco.it/
 relation	6706723	https://www.relaistodini.com/
 relation	6713762	http://www.lavalnerina.it/dett_luogo.php?id_item=104
 relation	6862481	https://www.monterufeno.it/
@@ -1932,6 +1932,7 @@ node	11954443862	https://www.assisimuseodiocesano.it/visitaci/
 node	12018545260	https://www.perugina.com/it/casa-del-cioccolato/Welcome-to-the-Casa-del-Cioccolato
 node	12320864828	https://benedettineciterna.wordpress.com
 node	12397475171	https://www.bernyhouse.it/
+node	12456888993	https://www.museidiallerona.it
 way	43051908	https://santuariorivotortoassisi.org/
 way	54610355	https://www.comune.montefalco.pg.it/pagine/polizia-stradale
 way	106506111	https://www.santuarioeremodellecarceri.org/
