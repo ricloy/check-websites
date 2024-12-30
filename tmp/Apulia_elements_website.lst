@@ -99,6 +99,7 @@ node	1609254683	https://ilporticciolobrindisi.it/
 node	1631572569	https://www.ciclospazio.it/
 node	1634080143	https://www.thespacecinema.it/al-cinema/casamassima
 node	1664113262	https://www.masseriasantalucia.it/
+node	1664285488	https://www.bamapneumatici.it/
 node	1664404816	https://www.ovs.it/
 node	1674612468	https://www.enotecaperbacco.it/
 node	1708117789	http://photolandiacrispiano.it/chi-siamo.html
@@ -1224,6 +1225,7 @@ node	7676127409	https://www.arealabalezio.it/
 node	7676127410	https://www.facebook.com/UnitiAlezio/
 node	7692505613	https://www.margheritadisavoiahotelbelvedere.it/
 node	7721412971	https://www.baiafalcone.it/
+node	7731533364	https://prink.it/
 node	7751997296	https://www.cdshotels.it/corte-di-nettuno/
 node	7798915359	https://www.poste.it
 node	7798934315	https://www.comune.giuggianello.le.it/
@@ -1255,6 +1257,7 @@ node	7915550012	https://www.ilristorodeitemplari.it/
 node	7919680136	https://www.assicurazionigesa.it/
 node	7942032350	https://www.labiciclettastore.it/
 node	7943217555	https://www.poliziadistato.it/
+node	7947393101	https://www.centromedicosms.it/
 node	7968630391	https://www.gruppomarino.it/sedi/renault-dacia-opel-gioia-del-colle/
 node	7968829575	https://www.facebook.com/pages/category/Beauty-Salon/Le-ali-del-benessere-161344934311296/
 node	7975536678	https://mypushop.com/goopal-centro-estetico-benessere-bellezza-e-benessere-martina-franca-taranto-e-provincia-c3bf6e-s/vetrina/
@@ -2643,7 +2646,20 @@ node	12430509067	https://www.booking.com/hotel/it/cd-romanello-mura-s-cataldo.ht
 node	12431219079	https://www.fedinfissi.it/
 node	12438734789	https://pinocchio.pro06.it/
 node	12438734791	https://www.floatyourmind.it/
-node	12441193545	www.studiodentisticovallone.it
+node	12441193545	https://www.studiodentisticovallone.it
+node	12443810695	https://www.cocozzacarent.it/
+node	12443864606	https://www.casajohotellerie.it/
+node	12443864607	https://www.maxijump.it/
+node	12443864609	https://www.tedi.com/it/
+node	12444878735	https://graph-lab.it/
+node	12445459802	https://biblioteche.comune.bari.it/SebinaOpac/library/Biblioteca%20Catino/PUG80
+node	12445526562	https://www.uniba.it/it/bibliotechecentri/biblioteca-ateneo
+node	12450827377	https://prink.it/
+node	12452918212	https://onoranzefunebriimmacolata.it/
+node	12452918213	https://caseificiogarofalo.it/
+node	12459255203	https://www.ediltecno.com/
+node	12459255207	https://www.clickcafe.it/click-cafe-altamura/
+node	12459255208	https://rbcollection.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -3035,6 +3051,8 @@ way	407824982	https://www.cattedraletrani.it/
 way	407825264	http://sinagogatrani.sistemab.it/il-museo/
 way	407827789	https://giodicart.it/
 way	408441456	http://www.tavscorrano.it
+way	408457588	https://www.itc.cnr.it/ba/sc/TRT/TRT0287.html
+way	408462450	http://www.tenutasanfrancesco.it/
 way	408967558	https://www.icdeamicisgiovanni23.edu.it/
 way	408996568	http://www.scuolagiovanni23adelfia.it/
 way	409139662	https://www.itc.cnr.it/ba/sc/TRL/TRL0019.html
@@ -3633,6 +3651,7 @@ way	1050994783	https://www.casalesannicola.it/
 way	1054983866	https://www.lifoggi.com/
 way	1056862484	https://www.exprivia.it/
 way	1063978051	https://www.villapalmirottatrullirelais.com/
+way	1069959940	https://iissvoltadegemmis.edu.it/
 way	1073654592	https://www.agriturismofaresalento.it/
 way	1076530731	https://www.villagedelsoledelturco.it/
 way	1076530735	https://www.villaggioarcobaleno.it/
@@ -3849,13 +3868,15 @@ way	1337178055	https://www.liceosocratebari.edu.it/
 way	1337183422	https://www.q8.it/
 way	1338825347	https://www.comune.bari.it/organizzazione-uffici-e-recapiti?uoId=522&isUfficio=false
 way	1340502195	https://www.comune.martinafranca.ta.it/archivio10_notizie-e-comunicati_0_4073.html
+way	1345419658	https://www.itesbitonto.edu.it/
+way	1345419660	https://www.lsgalilei.edu.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
 relation	2204418	https://www.fseonline.it/
 relation	2341136	https://www.viefrancigene.org
 relation	2405262	https://www.viefrancigenedelsud.it/
-relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240    |    http://www.lestradeferrate.it/mono2.htm
+relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240 | http://www.lestradeferrate.it/mono2.htm
 relation	3178831	http://www.mulinodacqua.it
 relation	3349251	https://www.parcogargano.it/
 relation	3985572	https://www.apuliafilmcommission.it/cineporti/cineporto-di-lecce
@@ -4132,6 +4153,7 @@ node	12150451998	https://www.edorestaurant.it/
 node	12150453317	https://www.elgazerpub.it/
 node	12151379498	https://regina-botter.jimdosite.com/
 node	12163863537	https://www.museocapuano.it/
+node	12459748663	https://www.ledueaquile.it
 way	26346040	https://ecogargano.it/
 way	68334157	http://www.scuoladonpappagallo.it/
 way	72401407	https://www.secondocircoloboscoterlizzi.edu.it
@@ -4335,6 +4357,7 @@ node	12056090216	https://www.plazacarrisi.it/
 node	12304079169	https://www.eshoremobility.com/
 node	12327032738	https://www.tenutapapola.it/
 node	12327046730	https://pugliaonbike.it/
+node	12451130113	https://www.autonoleggiopagano.it/
 way	81082630	https://cartapulia.it/dettaglio?id=127906
 way	81101010	https://cartapulia.it/web/guest/dettaglio?id=128414
 way	81101023	https://siusa.archivi.beniculturali.it/cgi-bin/pagina.pl?TipoPag=prodente&Chiave=26492
