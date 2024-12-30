@@ -784,6 +784,7 @@ node	5262106824	http://www.datri.it
 node	5262106829	https://brinkmann.it/
 node	5262106833	https://capatoast.it/napoli-municipio.html
 node	5263850431	https://www.iblbanca.it/
+node	5263850434	https://www.dambobeef.it
 node	5263850435	https://www.dimartinodolcegabbana.online
 node	5263850438	https://www.escapenapoli.com/
 node	5265384863	https://www.califanoservice.it/
@@ -982,6 +983,7 @@ node	5970382261	https://www.albergolecanne.it/
 node	5999193486	http://BusCenter.it
 node	6017705542	https://www.bbnapolicasazzurra.com/
 node	6022470990	https://www.catacombedinapoli.it/
+node	6034004087	https://prink.it/
 node	6048548171	https://www.casarubini.it/
 node	6051580086	https://www.acarbio.org/
 node	6067087235	https://www.adm.gov.it/portale/-/campan-1
@@ -1560,7 +1562,7 @@ node	9319292203	https://www.snipes.com
 node	9326798917	https://www.guerinopaolantoni.it
 node	9327599306	http://www.teatrocivico14.it
 node	9327599307	https://www.electronicsspare.it/
-node	9329042162	https://www.aslnapoli2nord.it/strutture/distretti/distretto-37/
+node	9329042162	https://www.aslnapoli2nord.it/strutture/luoghi/distretto-sanitario-37/
 node	9332434587	https://vittoriaolive.it/
 node	9332529441	https://squisitofood.it/
 node	9332529465	https://www.sebetotrasporti.it/it/
@@ -2075,6 +2077,7 @@ node	11019796430	http://www.letrepigne.com/
 node	11020782626	http://www.thermohouse.it
 node	11020782798	https://www.conad.it/ricerca-negozi/negozio.006209.html
 node	11020782832	https://www.acquaself24arienzo.it/
+node	11020782833	http://www.mmarredamenti.com/
 node	11021578514	https://sdn.synlab.it/
 node	11021578554	https://www.ilcapricciostore.com
 node	11022735076	https://www.ilpalmentorelais.it/
@@ -2445,9 +2448,17 @@ node	12389944827	https://www.officinadelmarenapoli.it/
 node	12393497846	https://www.fotododici.com/
 node	12397638201	https://www.airbnb.it/rooms/1228131104828878895?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=regular_search&check_in=2024-12-05&check_out=2024-12-10&source_impression_id=p3_1733398448_P378tQ4XiIXXPSzM&previous_page_section_
 node	12403381630	https://www.musa.unicampania.it/index.php/le-sezioni/bibliografica
-node	12406908119	www.officinagraficaimprimo.it
+node	12406908119	https://www.officinagraficaimprimo.it/
 node	12431827901	https://www.pizzeriamadison.it
 node	12441350009	https://www.mariotalarico.it/
+node	12444164160	https://www.laguardiense.it/
+node	12449728283	https://www.santomercurio.com/
+node	12449728290	http://www.perbacco.it/
+node	12449813905	https://www.aironegalleriacommerciale.it/
+node	12455445942	https://www.matildehotel.com/
+node	12455635626	https://www.aslnapoli2nord.it/strutture/luoghi/distretto-sanitario-39/
+node	12456950548	https://www.syartgallery.com/
+node	12459433190	https://www.instagram.com/pizzeriadonnaeva
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -3589,6 +3600,7 @@ way	1327563281	http://www.iisdavincisapri.gov.it/
 way	1327840139	https://www.facebook.com/cineteatroferrari/
 way	1330761455	https://www.sarniristorazione.it/
 way	1333311248	https://www.mcdonalds.it
+way	1346662211	https://www.scuolarienzo.edu.it/scuolarienzo/plessi/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3602,8 +3614,8 @@ relation	1889542	http://www.silkbeyond.it
 relation	1889621	https://www.comune.caserta.it/belvedere/
 relation	1947310	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	2405262	https://www.viefrancigenedelsud.it/
-relation	2440708	http://www.abana.it/
-relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240    |    http://www.lestradeferrate.it/mono2.htm
+relation	2440708	https://www.abana.it/
+relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240 | http://www.lestradeferrate.it/mono2.htm
 relation	3087495	https://www.museodeicastelli.it/castelli/san-martino-valle-caudina-castello-pignatelli-della-leonessa/
 relation	3095511	https://www.comune.montesarchio.bn.it/
 relation	3106073	https://www.comunedibonito.it/portale/unione-dei-comuni-terre-dellufita/
