@@ -816,6 +816,7 @@ node	3633892901	https://www.biblio.units.it/pageview?pcode=BG
 node	3633893672	https://www.skdtabor.it/si/knjiznica
 node	3633894269	http://www.sanitariatriestina.it/
 node	3633895107	http://www.retecivica.trieste.it/triestecultura/new/bibliotecamattioni/default.asp
+node	3633897783	https://montuzza.it
 node	3633898073	http://www.conservatorio.trieste.it/biblio.html
 node	3633900398	https://disu.units.it/it/dipartimento/patrimonio-dipartimento/Archivio-degli-scrittori-e-della-cultura-regionale
 node	3633901489	https://museopetrarchesco.it/
@@ -938,6 +939,7 @@ node	3658802166	www.progettare-abitare.com
 node	3658802960	https://eliteviorica.it/
 node	3658803040	https://www.latteriacividale.it/
 node	3658816106	https://ufficina.com/
+node	3658820116	https://www.eurospin.it/punti-vendita/cervignano-del-friuli-via-aquileia/
 node	3658824041	https://www.cervignanodelfriuli.net/aziende_comunali/ausa_servizi_salute.html
 node	3661290716	https://www.lignanopineta.com/
 node	3661313876	https://www.paulandshark.com/
@@ -1721,7 +1723,6 @@ node	7019548050	https://www.fiori.trieste.it/
 node	7019548051	http://www.attualfoto.com/
 node	7022440836	http://enologicafriulana.it
 node	7041926318	https://www.knez.it/
-node	7041926319	http://lavanderiaklara.it/
 node	7048915322	https://lagrandefuga.it/
 node	7055400920	https://www.bancastaranzano.it/
 node	7055439948	https://www.oceanmarine.it/
@@ -2078,6 +2079,7 @@ node	9774839468	https://www.eurospin.it/punti-vendita/san-giorgio-di-nogaro-4125
 node	9784789432	http://www.idrasub.com/
 node	9785102695	https://www.principatodiariis.it/
 node	9787377654	https://www.sanroccomedical.it/
+node	9789019519	https://www.lefornacidelzarnic.it/agricampeggio/
 node	9793722556	https://www.d-piu.com/
 node	9793722557	https://www.gruppovega.it/le-insegne/il-tulipano
 node	9799287131	https://www.fuocostyle.it/
@@ -2752,6 +2754,13 @@ node	12444053091	https://www.hotelspretorian.com/casanova-inn/
 node	12446925322	https://aipriori.it/
 node	12448757157	http://www.palestraworld.it/
 node	12461365014	https://salaluttazzi.online.trieste.it/sala-luttazzi/
+node	12467042580	https://www.arciericurtisvadi.it/
+node	12468723212	http://www.lefornacidelzarnic.it/
+node	12473749028	https://catastogrotte.regione.fvg.it/scheda/939-Grotta_Nuova_di_Villanova
+node	12473754662	https://catastogrotte.regione.fvg.it/scheda/1735-Grotta_dei_Ragni
+node	12475384684	http://www.borgofornasir.it/
+node	12475419082	http://www.agriturismozoratadriano.com
+node	12480613588	https://www.indovinasas.com/wp/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -3200,6 +3209,7 @@ way	36690727	https://www.facebook.com/protezionecivile.foglianoredipuglia.fvg/?l
 way	36690732	https://www.studioposturale.net
 way	36691208	https://www.pittarello.com/
 way	36691574	https://www.flamor-grill.it/
+way	36691731	https://www.genius-racing.com/
 way	36692001	https://malinasrl.it/
 way	36693063	https://www.comunegrado.it/casa-di-riposo-serena
 way	36693117	https://www.mirabelspahotel.it/
@@ -3876,6 +3886,7 @@ way	1339284880	https://win.zenobionline.com/ITINERARI/itinerario%20nad%20logem/n
 way	1339284881	https://win.zenobionline.com/ITINERARI/itinerario%20nad%20logem/nad%20logem.html
 way	1343300110	https://ycadriaco.it/
 way	1344528105	https://www.progettogaiaterra.com/
+way	1347836710	https://montuzza.it/oratorio
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
