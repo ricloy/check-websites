@@ -316,7 +316,6 @@ node	2311459408	https://www.enel.it/punto-enel/
 node	2311459431	https://www.enel.it/punto-enel/
 node	2311459449	https://www.enel.it/punto-enel/
 node	2311459468	https://www.enel.it/punto-enel/
-node	2311459478	https://www.enel.it/punto-enel/
 node	2311459479	https://www.enel.it/punto-enel/
 node	2311459493	https://www.enel.it/punto-enel/
 node	2311459503	https://www.enel.it/punto-enel/
@@ -517,6 +516,7 @@ node	4623060920	https://www.abruzzoturismo.it/index.php?Canale=Dove&IDCanaleSub=
 node	4624816759	https://www.farmaciediturno.org/farmacia.asp?idf=10683
 node	4646827789	https://www.comprensivo2chieti.it/
 node	4647099792	https://chieti4comprensivo.edu.it/primariavillaggioceldit/
+node	4651122790	https://www.dannunziolanciano.edu.it/le-nostre-scuole/scuola-primaria-giardino-dei-bimbi/
 node	4658680389	https://chieti4comprensivo.edu.it/primariaviabosio/
 node	4670998590	http://www.chieti4comprensivo.edu.it/chieti4/
 node	4684853599	https://www.iccastelfrentano.it
@@ -1083,7 +1083,6 @@ node	7035188113	https://www.mondadoristore.it/
 node	7041928170	https://panificioilgemello.it/
 node	7042002488	https://www.masicalzature.it/
 node	7042012151	https://bnl.it/
-node	7045903324	https://www.gabrielliunika.it/it/il-mio-negozio.7702.html
 node	7045917619	https://www.premiflaiano.com/
 node	7046836786	https://www.webhelp.com/it-it/enterprise-sales-solutions-chi-siamo/
 node	7047041485	https://www.lafigliadiattilio.it/
@@ -1586,7 +1585,6 @@ node	7784196592	https://www.deflorentiis.com/
 node	7784228409	http://www.pasticceriadelibertis.it/
 node	7794757088	https://www.gruppofas.com/
 node	7795077392	https://portedipescara.it/negozi/villabebe/
-node	7798140939	https://serallfer.com/
 node	7810607134	https://www.onoranzefunebrimambellaottavio.com/
 node	7817119423	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10806
 node	7819606578	https://www.ilcentro.it/pescara/ad-abbateggio-la-nuova-farmacia-nei-locali-del-comune-1.2384203
@@ -2729,6 +2727,7 @@ node	10937258051	https://stores.upim.com/it/italia/abruzzo/pescara/pescara-via-n
 node	10937788795	http://www.comune.scanno.aq.it/hh/index.php
 node	10944161280	https://www.panfilofarmhouse.com
 node	10949219253	https://www.royalflex.it
+node	10951180550	https://fabaarredamenti.it/
 node	10951200835	https://www.ivpc.com/gruppo/blitz-power/
 node	10959254160	https://www.enel.it/spazio-enel/chieti/centro-servizi-di-fausto-bellante/9051/
 node	10959273566	https://agenzie.realemutua.it/agenzie/agenziachieti
@@ -3229,6 +3228,22 @@ node	12464816747	https://speedqueeninvestor.com/our-laundry-stores/locations/ita
 node	12469187363	https://www.hotelaltevie.it
 node	12470921542	https://www.facebook.com/p/Organic-Beauty-District-by-Deny-100063786601058/
 node	12471100650	https://www.falcigliafitnessewellness.it/
+node	12480628489	https://serallfer.com/
+node	12480628490	https://www.rasmotorsport.it/
+node	12480628495	https://www.carrelcarrellielevatori.com/
+node	12484002306	https://www.gelatotech.it/
+node	12484002308	https://www.lanuovavetreria.it/
+node	12484193047	https://lisaoutdoor.com/
+node	12484193066	https://www.smeg.com/it/stores/domestika-sambuceto.html
+node	12484733944	https://www.arteecioccolato.it/
+node	12486070694	https://www.sistemielettricisnc.it/
+node	12486070695	https://colorificioarco.it/
+node	12486070696	https://industriemarine.com/
+node	12487976352	https://www.itelettronica.it/
+node	12487976354	https://iride.neocities.org/
+node	12489793171	https://akiresnc.wixsite.com/ristoranteakire
+node	12489793172	https://www.dentalmedicavillanova.it/
+node	12492117229	https://www.flowersforyoushop.it/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3616,9 +3631,9 @@ way	516925239	https://www.costadargento.net/
 way	520294443	https://www.camplus.it/info/wp-content/uploads/2022/11/Allegato-nuove-residenze-citta-Camplus-Aquila-22-23.pdf
 way	521746359	https://www.velomat.com
 way	521841660	https://www.irapsrl.it/contatti.htm
-way	521873462	https://www.carrelcarrellielevatori.com/
 way	524391605	https://www.dentifix.it/
 way	524670482	https://www.puntaderci.it
+way	527786958	https://www.icpescarasette.edu.it/
 way	528166660	https://www.edossrl.it/residenze-edos/residenza-per-anziani-e-residenza-protetta-villa-san-giovanni/
 way	528333729	https://www.montevelinogev.it/
 way	528342047	http://caiavezzano.it/
