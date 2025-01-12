@@ -1,6 +1,7 @@
 @type	@id	website
 node	26860775	https://www.cirucco.it/
 node	26860782	https://www.ilcicero.it/
+node	253926996	https://www.funiviaetna.com/
 node	256277241	https://www.villahirschen.com/
 node	256288197	https://www.parkphiliphotel.it/
 node	267672822	https://coopgrupporadenza.it/
@@ -154,6 +155,7 @@ node	1584508657	https://toysplanet.it/
 node	1603343423	http://www.donminico.com/
 node	1632946901	https://www.comune.francavilladisicilia.me.it/
 node	1638905901	http://www.bluhotels.it/hotel/sicilia/agrigento/blu-hotel-kaos
+node	1657262150	https://www.booking.com/hotel/it/b-amp-b-antica-dimora-messina-gazzi.html
 node	1657463962	https://www.poste.it
 node	1661279407	https://www.autogrill.it
 node	1676942512	http://www.bbcampidoglio.it/
@@ -591,11 +593,13 @@ node	2747352685	http://www.giardinodisicilia.net
 node	2747352686	http://www.giardinodisicilia.net
 node	2756439053	https://www.bagliobellavista.it/
 node	2758286492	https://www.maredomusmilazzo.it/
+node	2759419748	https://www.lumaromilazzo.com/
 node	2760150959	https://www.poste.it
 node	2770166843	http://www.villahera.it/
 node	2774713239	https://www.poste.it
 node	2778819431	https://edicola-libreria-litaliano-di-lo-presti-eva-csnc.business.site/
 node	2778829472	https://panificiozingales.business.site
+node	2785640519	https://www.booking.com/hotel/it/la-contrada-milazzo.html
 node	2788737713	http://www.pescheriacaravello.com/
 node	2790766298	www.libertyinn-bb.com/
 node	2792564692	www.leformichemilazzo.it
@@ -1290,7 +1294,7 @@ node	4578766489	https://www.multisalairis.it/
 node	4580936835	http://www.docvadis.it/www.centrooftalmicoregis/index.html
 node	4582260079	https://larabico.it/
 node	4589270874	https://www.lamael.it/
-node	4591227398	http://www.cucitibedandbreakfast.com/
+node	4591227398	https://www.booking.com/hotel/it/cuciti-b-amp-b.html
 node	4591649911	www.animalplanetbagheria.com
 node	4591698207	https://www.padovanomobili.com/
 node	4595493891	https://www.torrepensabene.com/
@@ -2010,6 +2014,7 @@ node	6856254134	https://www.conad.it/ricerca-negozi/conad-via-ponte-parco-14-900
 node	6858156186	http://www.learningconnections.it
 node	6859172614	https://www.poste.it
 node	6859173756	https://www.poste.it
+node	6859596085	https://www.booking.com/hotel/it/b-amp-b-caravello.html
 node	6860429485	https://www.palazzoasmundo.com/it/il_palazzo/piano_terra_teatro_dei_pupi_siciliani
 node	6861086695	https://www.poste.it
 node	6867632637	https://it-it.facebook.com/farmaciasantabarbaracefalu/
@@ -3769,6 +3774,9 @@ node	12439619402	https://www.lakkiossiracusasuiteebeb.com/
 node	12451407701	https://www.ristorantefratellimazzurco.it/
 node	12453150795	https://caffegalante.wordpress.com/
 node	12471416340	https://www.cookinsiracusa.com/
+node	12480939685	https://lecasealquadrato.wbzak.net/it/
+node	12486233912	https://www.booking.com/hotel/it/il-marinaio-messina.html
+node	12488593555	https://www.facebook.com/100057509475239/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3945,7 +3953,6 @@ way	83696299	http://www.ilgiardinodigraziella.it/
 way	83825693	https://www.roccofortehotels.com/hotels-and-resorts/villa-igiea/?utm_source=google&utm_medium=local&utm_campaign=villa-igiea
 way	88669721	https://www.eplanetcinemas.it/
 way	88723920	https://www.istitutocarducci.edu.it
-way	90062699	https://www.lidl.it/
 way	90184664	https://www.scuolapirandellocomiso.edu.it/
 way	90340843	https://www.scuolapirandellocomiso.edu.it/
 way	91258624	https://www.battistix.it
@@ -4024,6 +4031,7 @@ way	152673616	http://www.turrisicolonna.it/
 way	152697982	https://www.dfa.unict.it/
 way	153358879	https://www.santuaritaliani.it/santuario/madonna-di-dinnammare/
 way	153424773	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/45848/Erice+%28TP%29+%7C+Chiesa+di+Maria+Santissima+Assunta
+way	154915243	https://www.chaletclandeiragazzi.it/lo-chalet/
 way	155851736	https://www.medicina.unict.it/it
 way	157869317	https://www.icsdecruyllasramacca.edu.it/
 way	157869747	https://www.icsdecruyllasramacca.edu.it/
@@ -4042,6 +4050,7 @@ way	164760414	https://www.medicina.unict.it/it
 way	165584454	www.zeniabar.com
 way	166602025	https://www.montessorimascagnict.edu.it/
 way	167902089	http://www.marconiscuola.edu.it/
+way	169950433	https://www.hoteleuropamessina.it/
 way	170781200	https://www.parcouditore.org/
 way	171621460	www.parrocchiadellaguardia.it
 way	172589718	http://93.94.88.173/castelbuono/hh/index.php
@@ -4308,7 +4317,6 @@ way	272406780	http://www.houseofangelsinsicily.com/
 way	274817728	https://amatoricatania.com/
 way	275658325	https://www.gruppouna.it/unahotels/unahotels-naxos-beach-sicilia
 way	275660799	http://www.parkinglagani.it
-way	275725184	https://www.mdspa.it/
 way	275725186	https://www.icfontanarossa.edu.it/
 way	275934783	http://www.pestalozzi.cc/
 way	276545061	https://www.poste.it
@@ -4581,6 +4589,7 @@ way	369272781	https://www.auravulcano.com/
 way	369272791	http://vulcanohotel.it
 way	369274155	https://www.hotelgardenvulcano.com/
 way	369274769	http://www.hotelmaridelsud.com/
+way	370126757	https://www.ilfruttetodiefesto.com/
 way	370460099	http://www.holidaysinsicily.it
 way	370696969	http://www.icsanfilippodelmela.gov.it
 way	374062238	https://www.poste.it
@@ -4777,7 +4786,6 @@ way	470127724	https://www.itaerferrarin.edu.it
 way	470267283	https://www.giovanni23colonna.edu.it/
 way	470431629	http://www.museoepicentro.com/
 way	471153718	http://www.lolhostel.com/de/index.aspx
-way	471499749	https://www.penny.it/
 way	472184684	https://www.icpuglisiacate.edu.it/
 way	473905371	https://www.istitutocarducci.edu.it/
 way	474294009	https://www.residenceterrarossa.com/
@@ -5164,6 +5172,7 @@ way	804762986	https://www.santamartaciacerimodica.edu.it/
 way	810897897	https://www.penny.it/
 way	813872499	https://www.dsps.unict.it/it
 way	813950947	https://www.convittocutellict.it
+way	824946115	https://www.mdspa.it/
 way	825439546	https://www.etnella.com/
 way	827397128	https://www.sostacamperclaudcar.it/
 way	829670578	https://www.openland.it
@@ -5189,6 +5198,7 @@ way	871510469	https://www.habitat-arredamenti.it/
 way	874819909	https://www.eurospin.it/
 way	876237413	https://www.siciliahotelspa.it/
 way	881761570	https://www.vigilfuoco.it
+way	887604217	https://www.lidl.it/
 way	888307015	https://www.penny.it/
 way	888307019	https://www.arddiscount.it/punti-vendita/410/noto-viale-principe-di-piemonte-135
 way	888517210	https://www.penny.it/
@@ -5776,6 +5786,7 @@ way	1217153179	https://www.poste.it
 way	1221996651	https://www.eurospin.it/
 way	1225273515	https://www.poste.it
 way	1233319253	https://www.poste.it
+way	1235316947	https://www.penny.it/
 way	1235567453	https://www.poste.it
 way	1236095889	https://www.puntabiancaexperience.com/
 way	1237294781	https://www.di-blasi.com/
@@ -5982,6 +5993,7 @@ way	1330213057	https://www.canilerifugioasi.it/
 way	1336589839	https://tekne.engineering/
 way	1338941018	https://www.ictorregrotta.edu.it/infanzia-madre-teresa
 way	1340072818	https://etnapalacebanqueting.com/
+way	1349642861	https://www.bionap.com
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
