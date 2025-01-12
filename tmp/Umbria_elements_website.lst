@@ -370,6 +370,7 @@ node	4077103665	https://www.cetmusic.it/
 node	4077103666	http://www.iciclamini.it/
 node	4095850918	http://www.CamereSantucci.com/
 node	4109196590	http://www.hotelpadulegubbio.it/
+node	4217641389	https://www.comune.spoleto.pg.it/turismoecultura/la-citta/musei/museo-delle-miniere-di-morgnano/
 node	4219719435	http://www.iluoghidelsilenzio.it/santangelo-di-panzo/
 node	4228752135	http://locandadelcontenitto.it/
 node	4228752140	http://www.palazzoventurelli.com
@@ -580,7 +581,6 @@ node	7321491670	https://www.terrabiogubbio.it/
 node	7321491671	https://www.facebook.com/lagelateriagubbio/
 node	7321491678	https://www.conad.it/ricerca-negozi/negozio.009574.html
 node	7321712414	https://www.fulviomacelleria.com/
-node	7321712415	https://www.facebook.com/AZ-AGR-La-LUNA-di-Casagrande-Samuel-1541078919535086/
 node	7323043703	http://www.lalocandadavelle.it
 node	7381728320	https://parafarmaciatommasone.blogspot.com/
 node	7383470488	http://www.ddsg.it/
@@ -744,6 +744,7 @@ node	10059385233	https://www.domuslaetitiaeassisi.it
 node	10079765082	https://www.magnatestone.it/
 node	10079765083	https://www.officine-bartolini.it/
 node	10081860298	https://faluomi.it/
+node	10082136984	https://www.nipponexpressitalia.com
 node	10082139478	https://www.tiemmestampi.it/
 node	10101133990	https://www.tiberinagroup.com/
 node	10101241792	https://www.mecococcia.com/
@@ -891,11 +892,10 @@ node	11837363738	https://www.repower.com/it/la-mobilita-elettrica/
 node	11841970755	https://www.museomontefalco.it/schNewsMusaTplMod.asp?id_news=35
 node	11844935692	https://tenutailglicine.it/
 node	11873994979	http://www.labottegadelvino.net/
-node	11880711269	https://www.uslumbria2.it/notizie/centro-di-salute-n-1-tacito
-node	11880711270	https://www.uslumbria2.it/notizie/centro-di-salute-n-1-tacito
 node	11880711271	https://www.uslumbria2.it/notizie/centro-di-salute-n-1-tacito
+node	11881672185	https://cup.regione.umbria.it/cup/
 node	11881672210	https://farmaciabianchiterni.com/
-node	11882075300	www.cupumbria.it
+node	11882075300	https://cup.regione.umbria.it/cup/
 node	11904522109	https://www.repower.com/it/la-mobilita-elettrica/
 node	11915132771	https://www.cattolica.it/
 node	11915629463	https://www.menudigitale.io/factory-todi
@@ -962,6 +962,11 @@ node	12442537014	http://www.progettazioneverde.com
 node	12456828022	https://www.gruppoitalianovini.it/it/brand/bigi
 node	12461875309	https://www.crcbiotek.it/
 node	12465333894	https://www.mulinodelvescovo.com/
+node	12476292594	https://www.tendonifabbri.it
+node	12476292595	https://lorenaantoniazzi.com
+node	12476499256	http://ilcasaledegliamici.it/
+node	12480976478	https://www.instagram.com/bgiuestetica/
+node	12492296176	https://www.uslumbria2.it/notizie/centro-di-salute-n-1-tacito
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1199,6 +1204,7 @@ way	438796638	https://casavacanzenorcia.it/
 way	438798422	https://www.uslumbria2.it/pagine/ospedale-di-norcia-000
 way	438846448	https://www.residenzamontedoro.it/
 way	438850395	https://norciaospitalita.it/
+way	438968889	https://www.iluoghidelsilenzio.it/abbazia-di-san-claudio-de-gripta-serravalle-di-norcia/
 way	439007217	http://www.iluoghidelsilenzio.it/?p=70502
 way	439018574	http://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-annunziata-poggio-di-croce-preci-pg/
 way	439018586	http://www.iluoghidelsilenzio.it/chiesa-di-santegidio-poggio-di-croce-preci-pg/
@@ -1216,6 +1222,8 @@ way	439200577	https://www.iluoghidelsilenzio.it/chiesa-di-san-silvestro-villamag
 way	439207844	https://www.casevacanzeagrifoglio.com/
 way	439229974	https://www.iluoghidelsilenzio.it/chiesa-di-san-pietro-forfi-cimitero-sellano/
 way	439229976	https://www.iluoghidelsilenzio.it/chiesa-di-san-cristoforo-vio-di-sellano/
+way	439270579	https://www.iluoghidelsilenzio.it/chiesa-di-san-martino-ceseggi/
+way	439270586	https://www.iluoghidelsilenzio.it/santuario-della-madonna-del-monte-ceseggi/
 way	439275764	https://www.grandhotelelite.it/
 way	439332506	https://www.iluoghidelsilenzio.it/chiesa-di-san-severino-montalbo/
 way	439342705	http://www.iluoghidelsilenzio.it/?p=14822
@@ -1383,7 +1391,10 @@ way	565561519	http://www.iluoghidelsilenzio.it/chiesa-di-san-bartolomeo-roselli-
 way	565814574	https://www.iluoghidelsilenzio.it/?p=252113
 way	565949375	https://m.iluoghidelsilenzio.it/articolo.html?id=villa-di-sustrico-spoleto-pg
 way	567471026	http://www.iluoghidelsilenzio.it/?p=78300
+way	567994857	https://www.iluoghidelsilenzio.it/santuario-della-madonna-della-croce-petrognano/
+way	567994873	https://www.iluoghidelsilenzio.it/chiesa-di-san-silvestro-petrognano/
 way	567994932	https://www.iluoghidelsilenzio.it/chiesa-di-san-cristoforo-setri-di-sellano-pg/
+way	567994971	https://www.iluoghidelsilenzio.it/chiesa-di-san-bartolomeo-civitella-di-sellano/
 way	568086740	http://www.iluoghidelsilenzio.it/?p=236029
 way	568144530	http://www.iluoghidelsilenzio.it/?p=81658
 way	568943271	http://www.primocircolospoleto.it/ita/
@@ -1416,7 +1427,6 @@ way	623771525	https://mabsolution.it/
 way	623783588	https://www.illux.it/
 way	626389813	https://istitutocomprensivoperugia1.gov.it/le_scuole/ponte-doddi-alfa-beta-gamma/
 way	626610957	https://liceodonatelli.edu.it/
-way	626617132	https://www.uslumbria2.it/notizie/centro-di-salute-n-1-tacito
 way	626635048	https://www.tanaitalia.com/
 way	626873287	https://www.caos.museum/
 way	627766354	https://www.italproget.it/
@@ -1891,6 +1901,9 @@ relation	17882852	https://camminodilarth.it/
 relation	17882879	https://camminodilarth.it/
 relation	18221362	https://www.francescoapiandarca.it/
 relation	18264824	http://www.adisupg.gov.it/
+relation	18511218	https://www.italiacoast2coast.it/
+relation	18523565	https://www.italiacoast2coast.it/
+relation	18536485	https://www.italiacoast2coast.it/
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1635117842	https://www.agriturismoleburgne.it/
 node	1887119542	https://www.fezemauro.com/
