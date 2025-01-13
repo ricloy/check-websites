@@ -49,6 +49,7 @@ node	246516587	https://museoegizio.it/
 node	246516619	http://www.galleriasabauda.beniculturali.it/
 node	246643344	https://www.museorisorgimentotorino.it/
 node	248407403	https://www.bancobpm.it/trova-filiali/tutte-le-filiali/piemonte/TO/TORINO-01073/
+node	248408431	https://ufficipostali.poste.it/torino/via-vittorio-alfieri-10
 node	248511621	http://www.comune.torino.it/papum/user.php?context=opere&submitAction=dettaglio&ID_opera=M008
 node	248771289	https://www.museireali.beniculturali.it
 node	262100274	https://www.ucicinemas.it/
@@ -161,6 +162,7 @@ node	952236348	http://www.comune.torino.it/papum/user.php?context=opere&submitAc
 node	955973504	http://www.comune.torino.it/papum/user.php?context=opere&submitAction=dettaglio&ID_opera=M114
 node	956840728	https://www.farmaciagiachino.com/
 node	956840768	http://www.farmauniti.it/le-farmacie-dettaglio.aspx?id=29
+node	956840814	https://www.farmaciamodernavercelli.it/
 node	958016022	https://bancadiasti.it/filiali/filiale-di-vercelli-1/
 node	958714263	http://www.roncoalpinismo.it/
 node	963575571	https://www.castellodinovello.com/
@@ -610,6 +612,7 @@ node	2246723336	https://www.birreriamenabrea.it
 node	2246723352	https://www.pizzeriaristoranteapicella.it/
 node	2246723369	https://www.pizzerialalucciola.it/
 node	2248445924	https://www.paginegialle.it/borgosesia-vc/ristoranti/mangia-bevi-cominelli
+node	2258160048	https://invalsesia.it/listing/piccola-e-accogliente-san-giuseppe/
 node	2261791774	https://www.nauticazola.it/
 node	2265912536	https://www.lapaella.it/
 node	2267308407	https://ristorantesciauru.it/
@@ -1021,7 +1024,6 @@ node	2902207242	https://www.saced.net/
 node	2903449402	http://www.lafioreriadianna.it/
 node	2903469874	https://www.panassilibrerie.it/
 node	2908768644	https://www.triciclo.com/
-node	2909468474	http://www.agriturismoladesiderata.it/agri.php
 node	2909468488	https://www.cieck.it/
 node	2909468490	http://www.silvavini.com
 node	2909468493	http://www.lamiastruttura.it/lacascina/
@@ -1115,6 +1117,7 @@ node	2985969503	http://www.farmacieasm.it/alpignano/
 node	2986679861	https://www.circologolftorino.it/
 node	2986844170	https://www.cioccolatoporetti.it/
 node	2986845208	http://www.comune.mezzenile.to.it/
+node	2987900134	https://startforkids.it/scuola-infanzia-regina-pacis-vercelli/
 node	2989231865	https://speedqueeninvestor.com/it/lavanderia-self-service/lavanderia-self-service-viale-rimembranza-a-vercelli/
 node	2990485584	http://www.lapiazzettadelborgo.com
 node	2992837031	https://www.pizzorante.biz/
@@ -1372,7 +1375,6 @@ node	3362111893	https://www.consorziouniver.it/
 node	3362111943	www.fondazioneperti.it
 node	3363404147	https://www.istitutorosine.org/
 node	3363437031	http://www.fioriocaffegelateria.com/
-node	3364496292	https://www.comune.borgonesusa.to.it/ComSchedaTem.asp?Id=25318
 node	3364505824	https://www.arredamentilineaeffe.it/
 node	3364609003	http://www.baserunning.it/store/
 node	3364638869	https://www.facebook.com/farmaciamonari
@@ -2486,7 +2488,6 @@ node	4736052792	https://delcambio.it/it/bar-cavour/home
 node	4736053604	https://www.lafarcia.it/locations.aspx?citta=Torino
 node	4736054254	http://www.facebook.com/ilvicoloristorante/
 node	4736054361	https://www.lego.com/it-it/stores/store/torino-carlo-felice
-node	4736054486	info@ballatoiobistrot.it
 node	4736054553	https://www.pasticceriaghigo.it/
 node	4736054585	https://gianduiotto-torino.it/
 node	4736054589	https://www.mysteryhouse.it/
@@ -4946,6 +4947,7 @@ node	9272088821	https://www.tenutalaviolina.it/
 node	9273213290	http://www.parolacasalinghi.com/
 node	9274705187	https://www.ottikapiu.net/
 node	9274705188	https://www.sailiviaggi.com/
+node	9275287806	https://spaziogranparadiso.cosigeniale.it/
 node	9276370949	https://onoranzefunebrisanbartolomeo.com/
 node	9278680869	http://www.tecnostilsrl.it/
 node	9278709635	https://www.molinoavalle.it/
@@ -5891,6 +5893,7 @@ node	11463467869	https://www.artigianinotorino.com/
 node	11470158369	https://gustomadre.it/
 node	11476048894	https://www.sonounbrigante.it
 node	11479555972	https://monumenti.comune.novara.it/it/35_palazzo_natta
+node	11502659927	https://www.instagram.com/st.concept.store/
 node	11503701091	http://www.eziomarro.it
 node	11511807801	https://www.burgerking.it/trova-un-ristorante?storeId=31621
 node	11512025109	http://finotello.com/
@@ -6313,6 +6316,13 @@ node	12467575233	https://negozi.arcaplanet.it/piemonte/to/avigliana-via-francesc
 node	12467575234	https://it.casashops.com/it/negozi/avigliana/2006/
 node	12474179977	www.prolocorosazza.it
 node	12475459337	https://www.igmi.org/it/geoprodotti/punti-geodetici/vertici-trigonometrici/incerta_definizione/trigo-1609496566.54
+node	12484105761	https://bessanese.panomax.com/
+node	12486185272	https://www.campeggioconcavalli.com
+node	12486327518	https://ultraspazio.com/ultraspazio-brains/
+node	12486866619	https://www.repower.com/it/la-mobilita-elettrica/
+node	12487378032	www.castapiu.it
+node	12496620412	https://www.adsn-vialfre.it/
+node	12497762723	https://www.abbaino.com/
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -7653,6 +7663,7 @@ way	305030470	https://www.piscinaentracque.it
 way	305154217	http://www.pascalgiaveno.it/
 way	305174848	https://www.ristorantepinin.it/
 way	305536506	http://www.stresabike.it
+way	305853108	https://www.comune.casale-monferrato.al.it/torre-civica
 way	306039915	https://sites.google.com/site/scuolacatti/
 way	306364035	https://www.conad.it/ricerca-negozi/negozio.006550.html
 way	306375738	http://www.archeo.piemonte.beniculturali.it/index.php/it/musei/aree-archeologiche/70-aree-arch-prov-di-torino/347-villa-romana-di-caselette
@@ -9384,6 +9395,7 @@ way	1332650614	https://www.lamudafarmhouse.it/
 way	1336799253	https://garu.it/
 way	1338313512	https://sites.google.com/view/auto2p/auto-2-p
 way	1346912730	https://www.elettrauto-rivoli.it
+way	1349166097	https://www.3thotel.it
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -9593,6 +9605,7 @@ relation	7140989	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce
 relation	7141013	https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html
 relation	7148089	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
 relation	7184033	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
+relation	7190403	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
 relation	7192840	http://www.caiivrea.it/
 relation	7200657	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
 relation	7202355	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
@@ -12005,8 +12018,8 @@ relation	7140989	https://percorsi.estmonterosa.it/a/A00g/A00g.kml
 relation	7141013	https://percorsi.estmonterosa.it/a/A00f/A00f.kml
 relation	7148089	https://percorsi.estmonterosa.it/p/P07a/P07a.kml
 relation	7184033	https://percorsi.estmonterosa.it/p/P07/P07.kml
-relation	7190402	https://danbag.altervista.org/Valgrande/X03/X03-FTP.kml
-relation	7190403	https://danbag.altervista.org/Valgrande/X02/X02-FTP.kml
+relation	7190402	https://danbag.altervista.org/Valgrande/XP1A/XP1A-FTP.kml
+relation	7190403	https://percorsi.estmonterosa.it/p/P50b/P50b.kml
 relation	7200657	https://percorsi.estmonterosa.it/p/P05/P05.kml
 relation	7202355	https://percorsi.estmonterosa.it/p/P07b/P07b.kml
 relation	7229782	https://percorsi.estmonterosa.it/a/A48/A48.kml
@@ -12291,4 +12304,4 @@ relation	16552674	https://percorsi.estmonterosa.it/a/A17b/A17b.kml
 relation	17075184	https://percorsi.estmonterosa.it/a/A01a.kmz
 relation	18481436	https://danbag.altervista.org/PercorsiVCO/XR1A/XR1A-FTP.kml
 relation	18492080	https://danbag.altervista.org/PercorsiVCO/XR1B/XR1B-FTP.kml
-relation	18509619	https://danbag.altervista.org/Valgrande/X03/X03-FTP.kml
+relation	18509619	https://percorsi.estmonterosa.it/p/P50/P50.kml
