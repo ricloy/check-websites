@@ -120,7 +120,6 @@ node	2033057374	http://www.pompeiisites.org/Sezione.jsp?titolo=Thermopolium+of+V
 node	2033057382	http://www.pompeiisites.org/Sezione.jsp?titolo=Pompeii%2C+Fullonica+of+Stephanus&idSezione=4996
 node	2070657892	http://www.hotelbruman.it
 node	2089781042	https://www.pizzeriagradillo.it/
-node	2112224380	https://www.facebook.com/Gran-Caff%C3%A8-Margherita-152225474970818/
 node	2145476924	http://www.hotelcasanova.com
 node	2149813695	http://www.osterialamedioevale.it
 node	2186456530	https://www.contespencer.it/
@@ -900,6 +899,7 @@ node	5515035223	http://giardinodegliaranci.it
 node	5521657471	https://www.attoriespettatori.it/
 node	5536415427	https://www.bbvesuvio.it/
 node	5555063797	https://www.carraturo.it/
+node	5557683822	https://sipthelife.com/
 node	5585860222	http://openclub.it
 node	5585884821	http://centralfitness.it
 node	5611990575	https://hotelalbosco.it/
@@ -1141,6 +1141,7 @@ node	7209573795	https://www.cinemateatrolendi.it/Cinema/
 node	7216271345	https://www.conad.it/ricerca-negozi/negozio.009695.html
 node	7228081371	https://peblibreria.it/
 node	7229613209	http://www.agriturismogorrieri.it/
+node	7230611130	https://www.decumani.com/
 node	7256378271	https://perfumoebalocchistore.it/
 node	7256378273	http://www.autoscuolaserapide.it/
 node	7272229577	https://www.chiku.it/
@@ -1553,6 +1554,7 @@ node	9268058755	https://www.samniumresort.it
 node	9288259799	https://www.cleanconsult.com/
 node	9288259800	https://www.arter.it/
 node	9288475827	https://www.agenziapino.it/
+node	9288804611	https://www.facebook.com/Gran-Caff%C3%A8-Margherita-152225474970818/
 node	9310699720	https://www.zona13.it
 node	9310742772	https://www.casertanafc.it
 node	9312815527	https://www.galleria88.it/
@@ -2458,6 +2460,9 @@ node	12455445942	https://www.matildehotel.com/
 node	12455635626	https://www.aslnapoli2nord.it/strutture/luoghi/distretto-sanitario-39/
 node	12456950548	https://www.syartgallery.com/
 node	12459433190	https://www.instagram.com/pizzeriadonnaeva
+node	12481172761	https://www.50kalo.it/ciro_salvo_repubblica.php
+node	12481587534	https://www.emergency.it/progetti/italia-napoli-ambulatorio/
+node	12481591256	http://stiglianoferramenta.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -3611,7 +3616,6 @@ relation	1687745	http://www.comune.airola.bn.it/
 relation	1889541	http://www.masseriaquaranta.it
 relation	1889542	http://www.silkbeyond.it
 relation	1889621	https://www.comune.caserta.it/belvedere/
-relation	1947310	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	2405262	https://www.viefrancigenedelsud.it/
 relation	2440708	https://www.abana.it/
 relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240 | http://www.lestradeferrate.it/mono2.htm
