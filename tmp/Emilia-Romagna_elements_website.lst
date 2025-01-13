@@ -270,7 +270,6 @@ node	679951434	https://pwa.pienissimo.com/home?hashform=ZMDdHc9drgPRtUYwYFiuvtCR
 node	683337996	http://www.laraquette.it/cms/index.php
 node	687871324	www.hotelparadisebologna.it
 node	690530698	https://www.ilcavicchio.it/
-node	693373134	http://www.amerigo1934.it/
 node	693801120	https://www.caibo.it/
 node	694455499	https://www.ginofabbri.com/
 node	701321346	https://www.felixristorante.com/
@@ -1140,6 +1139,7 @@ node	2718195221	https://www.rainbowsushibar.com/
 node	2718196061	https://fermataest.it/
 node	2718197122	https://www.hotelardearimini.it/
 node	2718197241	https://www.residenceriminirelax.it/
+node	2718197303	https://www.strampalato.it
 node	2718197375	https://www.facebook.com/macelleriamuccini.it
 node	2718197489	http://laverandarimini.it/
 node	2718197494	https://www.napule.delivery/
@@ -1672,7 +1672,6 @@ node	4351627184	https://www.sbionta.com/
 node	4352417731	https://fratellisalini.it/
 node	4352417732	https://fratellisalini.it/
 node	4353732368	https://www.parkhotelcerreto.it/lapiella.html
-node	4358906002	https://www.strampalato.it
 node	4358935494	https://www.gelateriaromana.com/
 node	4358953895	https://www.credit-agricole.it/
 node	4359435591	http://facebook.com/salettaadorno
@@ -2004,6 +2003,7 @@ node	4534007728	https://bestcopy.it/
 node	4534887989	http://www.locandagradisca.it
 node	4535271290	http://www.ristorantedabertino.it/
 node	4535631745	https://prink.it/
+node	4535637147	https://www.primopiattofe.it/
 node	4535724300	https://www.oysho.com/
 node	4536684194	https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=2420
 node	4540129508	http://panizzi.comune.re.it/Sezione.jsp?titolo=Berneri-Chessa&idSezione=238
@@ -2439,6 +2439,7 @@ node	4753375746	http://www.crudorubiera.it/
 node	4754954462	https://www.alternativeshopparma.it
 node	4754957057	https://www.trattoria-antichisapori.com/
 node	4755101621	https://www.tennispro.it/
+node	4755107054	https://www.agenzialavoro.emr.it/i-centri-per-limpiego/sedi-parma/parma
 node	4755255978	http://www.poliambulatoriomaba.it/
 node	4755300430	https://it.webuy.com/
 node	4755303205	https://www.albattisterodoro.it/
@@ -3121,6 +3122,7 @@ node	5272148560	http://www.ilposto.bo.it/
 node	5273466949	https://www.agriturismoboschetto.com/
 node	5273944097	https://www.ristoranteilgiardinobudrio.com/
 node	5275264122	https://www.ikea.it/
+node	5275590153	https://davighifratelli.it/
 node	5278931422	https://www.osteriainscandiano.com/
 node	5288320516	https://www.dopahostel.com/
 node	5292348338	https://www.sicurtar.it/index.html
@@ -5774,6 +5776,10 @@ node	12472091587	https://www.cucinepopolari.org/
 node	12472091592	https://www.cucinepopolari.org
 node	12475382099	http://www.tenutasantini.com/
 node	12475441360	https://www.coopidapoli.it/CraDamiani.html
+node	12480680363	https://www.arpae.it/it/sedi-e-contatti/distretto-nord-scandiano-castelnovo-monti-scandiano
+node	12480799883	https://www.pizzeriatrattorialavilla.it/
+node	12486594922	https://www.famijapramzana.it/
+node	12486594923	https://centromedicogandidimola.it/
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	https://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -6371,7 +6377,6 @@ way	168527766	https://www.cinemabelvedere.it/
 way	168527943	https://www.veterinariacastellarano.it/
 way	168553480	https://www.caseificiodimarola.com/
 way	168553519	http://www.interclays.com/
-way	168691366	http://www.studiomedicoscandiano.it/
 way	168691443	https://www.1495restaurant.com/yoh
 way	168693617	https://beb.it/delparcoscandiano/it/
 way	168696568	http://reggioemiliaturismo.provincia.re.it/page.asp?IDCategoria=2949&IDSezione=21374&ID=371710
@@ -6391,6 +6396,7 @@ way	179291504	http://www.noceto.pubbliche.parma.it/
 way	179468114	https://www.pampanorama.it/centri-commerciali/panorama-parma
 way	179469138	http://www.parrocchiaspiritosanto.pr.it/
 way	179471214	https://www.adesrl.org/sale-del-commiato-ade-onoranze-funebri-parma.php
+way	179585072	https://www.liceoattiliobertolucci.edu.it/luogo/sede-del-liceo-musicale/
 way	179585320	https://bibliotecamedicina.unipr.it/
 way	179585404	https://www.ao.pr.it/curarsi/reparti-e-servizi-sanitari/clinica-ortopedica-2/
 way	179623587	https://scn.caiparma.it/schede/mulino-boschi-felino/
@@ -6723,7 +6729,6 @@ way	223827444	https://www.e-distribuzione.it/
 way	223827514	https://www.strampalato.it
 way	223827633	https://www.unibo.it/it/campus-rimini/
 way	223827877	ittsrimini.gov.it
-way	223827993	https://www.cofidis.it/it/index.html
 way	223828182	https://www.unibo.it/it/campus-rimini/
 way	223828306	https://www.diocesi.rimini.it/wd-annuario-enti/s-fortunato-223/
 way	223828409	https://www.einsteinrimini.edu.it/
@@ -6871,6 +6876,7 @@ way	273004766	https://www.appenninoreggiano.it/schede.asp?lang=it&d=campo-da-cal
 way	273493026	https://www.asdsportingfc.it/
 way	276522409	http://polomusealeemiliaromagna.beniculturali.it/musei/museo-nazionale-etrusco-pompeo-aria-e-area-archeologica-di-kainua
 way	278673818	http://www.starwakepark.com
+way	280765649	https://www.nidoceccariniriccione.it/
 way	283069009	https://bussetolive.com/it/ambiente-natura/camper/
 way	285950395	www.liceoscientificoravenna.it
 way	289374803	https://www.hstrand.com/
@@ -7655,6 +7661,7 @@ way	1330218259	https://www.sfbm.it/stabilimenti
 way	1330413547	https://cicloapp.bomob.it/
 way	1334899624	https://www.happycolor.it/
 way	1342531200	https://resistenzamappe.it/extraurbani/comacchio_citta_della_resistenza/vincenzino_folegatti
+way	1349082187	http://www.centroprotezionecane.it
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42855	http://www.comunecamugnano.gov.it/
 relation	42901	https://www.comune.casteldicasio.bo.it/
@@ -8109,7 +8116,6 @@ relation	6665852	https://www.caiparma.it/
 relation	6665932	https://www.caiparma.it/
 relation	6665947	https://www.caiparma.it/
 relation	6666365	https://www.caiparma.it/
-relation	6715628	https://www.caibo.it/
 relation	6800379	http://faenza.uoei.it/
 relation	6813126	https://www.ausl.mo.it/
 relation	6818399	https://www.caiprato.it/
@@ -8193,6 +8199,7 @@ relation	7773558	http://www.caiporretta.it
 relation	7773631	http://www.caiporretta.it
 relation	7775520	https://www.cai.mo.it/
 relation	7775545	https://www.cai.mo.it/
+relation	7793118	https://cai-bologna.sentieriecartografia.it/map
 relation	7799783	https://www.cai-imola.it/
 relation	7799872	https://www.caibo.it
 relation	7820031	https://ilcamminodisantagiulia.it/
@@ -8871,7 +8878,9 @@ relation	18313578	https://www.castelnovocentro.it/pietra-di-bismantova-i-sentier
 relation	18330532	https://bicipolitanaforli.it/
 relation	18386992	https://www.liceocorso.edu.it/
 relation	18429509	https://www.lugoterminal.com/
+relation	18531107	https://www.comune.re.it/argomenti/citta-collaborativa/i-progetti/reggio-emilia-citta-dei-sentieri/i-sentieri/sentiero-del-canale-di-san-maurizio-con-anelli-del-mauriziano-di-marmirolo-e-diramazioni-per-gavasseto-e-castellazzo
 node	441918990	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/427-fidenza.html
+node	693373134	https://amerigo1934.it
 node	797204601	http://www.poliambulatoriolasalute.it/
 node	860582713	http://www.campeggiovivaio.it/
 node	882558065	http://acnp.cib.unibo.it/cgi-ser/start/it/bib/df-b.tcl?libr=BO352
@@ -9011,6 +9020,7 @@ node	12291761357	https://sangiovannipersiceto.mercatopoli.it/
 node	12291761371	https://www.gimfive.com/palestra/sangiovanniinpersiceto
 node	12310422403	https://www.booking.com/hotel/it/casa-san-pietro-bilocale-centro-storico.it.html
 node	12405562871	https://www.mechworks.com
+node	12480707876	https://www.doctolib.it/studio-medico/scandiano
 way	29118673	https://www.vigilfuoco.it/sitiVVF/rimini/
 way	64980907	http://www.bibliotecanzola.it/
 way	64980910	http://www.comune.anzoladellemilia.bo.it
