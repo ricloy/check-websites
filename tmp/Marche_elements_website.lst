@@ -180,7 +180,7 @@ node	1331732167	https://hoteleuropa-ancona.com/
 node	1331732180	https://www.marenostrum.cloud
 node	1331732454	https://www.mitobreakbar.com/
 node	1332887430	https://www.grandhotelpalaceancona.com/
-node	1332887464	http://www.nh-hotels.it/nh/it/hotels/italia/ancona/nh-ancona.html
+node	1332887464	https://www.nh-hotels.com/it/hotel/nh-ancona
 node	1339932766	http://www.pizzeriavallemiano.it
 node	1348507378	http://www.agriturismoaccipicchia.it/
 node	1364270407	http://www.barluana.it/
@@ -316,6 +316,8 @@ node	2313056558	https://negozi.ovs.it/it/negozi/italia/ancona/ovs-senigallia_001
 node	2315938842	https://agriturismomoretti.it/
 node	2316408066	http://www.luchettisport.it
 node	2316551050	https://www.acquaesapone.it/puntivendita/chiaravalle-via-che-guevara-60/
+node	2316551051	https://www.eurospin.it/punti-vendita/chiaravalle-via-che-guevara/
+node	2316551054	https://www.lidl.it/s/it-IT/ricerca-punto-vendita/chiaravalle-an/via-che-guevara-40/
 node	2321245149	https://www.conad.it/ricerca-negozi/negozio.009863.html
 node	2323146096	http://www.melania.it
 node	2323146100	https://www.poltronesofa.com/
@@ -453,6 +455,7 @@ node	3467389037	https://www.tavernadelpescatore.it/
 node	3474980814	https://www.unipolsaimacerata.it
 node	3488461319	https://www.ristorante-belsit.com/
 node	3488476164	https://www.ristoranteilfalcopesaro.it/
+node	3492638371	https://www.seeporthotel.com/
 node	3534874694	https://somefaservice.it/
 node	3544961800	http://www.hotel-paradise.it
 node	3547686798	https://www.medstore.it/
@@ -532,7 +535,7 @@ node	3839782665	https://www.osteriapasqualon.it/
 node	3839784057	http://feliciecontenti.com/
 node	3841565272	https://www.anticouliveto.com/
 node	3848861909	https://www.anticouliveto.com
-node	3854463513	http://www.mastini.eu/
+node	3854463513	https://www.mastini.eu/
 node	3856274608	https://gipsy-acqualagna.business.site/
 node	3856498457	https://www.shineacqualagna.it/
 node	3862612457	https://www.sandwichtime.it
@@ -1159,7 +1162,7 @@ node	9750175785	https://www.hotelelveziapesaro.it/
 node	9753129883	https://www.civico14piu5.it/
 node	9753129884	https://m.facebook.com/FerramentaFodaroni/?locale2=it_IT
 node	9805507927	https://casafilinara.it/
-node	9808519866	http://www.latavernadifrasassi.com/
+node	9808519866	https://www.latavernadifrasassi.com/
 node	9812728973	https://museomarec.it/
 node	9827717208	https://lepetitcafenumana.com/
 node	9830461025	https://www.facebook.com/parcolequerce/
@@ -1574,7 +1577,6 @@ node	11917978502	https://www.smollpiume.it/punti-vendita/
 node	11917978504	https://www.stonetattoo.it/
 node	11917978506	https://sassosalute.com/
 node	11917979088	https://www.an.cna.it/
-node	11917979102	https://albergoappennino.com/
 node	11920480577	https://www.subito.it/vi/551785629.htm
 node	11929426820	https://www.comune.sassoferrato.an.it/
 node	11952541293	https://www.agriturismoanticomuro.it/
@@ -1595,6 +1597,7 @@ node	12012549515	https://www.repower.com/it/dina/
 node	12014285993	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/museo-delluomo/
 node	12014286003	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/museo-pinacoteca-darte-sacra-contemporanea/
 node	12014814726	https://gvmedicali.it/
+node	12022288542	https://www.isabigioielli.it/
 node	12026531815	https://www.colorworks-srl.it/
 node	12031415868	https://www.poliambulatoriodellemuse.com/
 node	12033853829	https://www.facebook.com/pages/Cantina-Antisociale/135661380130635
@@ -1611,6 +1614,8 @@ node	12092115454	http://www.locandaipiceni.it/
 node	12092232655	https://uqr.to/laboratorio_jesi
 node	12093851642	https://www.facebook.com/lartedellapinsa
 node	12094198027	https://www.aeroclubfano.it/
+node	12094984570	https://negozi.arcaplanet.it/marche/an/chiaravalle-via-ernesto-che-guevara-52
+node	12094984571	https://shop.unigross.it/negozi/chiaravalle/
 node	12100291750	https://www.bebarmonia.com/
 node	12104638801	https://www.labaitapesaro.com
 node	12110490285	http://www.fattoriapaccusse.it
@@ -1838,6 +1843,7 @@ node	12461981275	https://www.infissistopponi.it/
 node	12462771666	https://www.bios-center.it/
 node	12466634385	https://www.carifermo.it/
 node	12468437056	https://www.tregi.net/
+node	12468465754	https://www.parrucchieriprimadonna.it/
 node	12469435396	https://www.cgilascolipiceno.it/
 node	12473053059	https://www.michelettiforniture.it/
 node	12473053060	https://michelettisposi.com/
@@ -1853,12 +1859,23 @@ node	12481113840	https://www.merceriaintimoilcorso.it/
 node	12481113841	http://www.btpoint.it/
 node	12481113844	http://www.mobiliprocacci.com/it/offerte.asp
 node	12481113848	http://tfsport.it/
-node	12481113849	http://serrallegri.com/
-node	12481113850	http://www.motobaleani.com/
+node	12481113849	https://serrallegri.com/
+node	12481113850	https://www.motobaleani.com/
 node	12481113855	https://www.bruttoanatroccoloabbigliamento.it/
-node	12481113857	http://www.acusticaumbra.it/
+node	12481113857	https://www.acusticaumbra.it/
 node	12481113858	https://www.facebook.com/kmzerocagli/
 node	12481113861	http://www.visitcagli.it/arte-e-cultura/monumenti/torrionemartiniano/
+node	12496386105	https://osteriapaniepesci.it/
+node	12505599194	https://www.casanewsfano.it/web/
+node	12505599195	https://immobiliare-artecasa.it/
+node	12505599196	https://www.immobiliarecasamarche.it/
+node	12505599198	https://www.dovecasa.it/
+node	12507537121	https://www.casasicurafano.it/
+node	12507537122	https://immobiliarespazio2001.agenzie.casa.it/
+node	12507537123	https://sferaimmobiliarefano.it/
+node	12512352402	https://www.menopancia.com/
+node	12512473081	http://www.bobbato.it/
+node	12513364358	https://www.gelimmobiliare.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2407,6 +2424,7 @@ way	1026848734	https://www.clubdelsole.com/it/destinazioni/marche-porto-sant-elp
 way	1037855788	http://parrocchiamarina.it/
 way	1039132317	https://tenutasanmarcello.net/esperienze/
 way	1043080807	https://www.eurospin.it/punti-vendita/macerata-via-pagnanelli/
+way	1043596469	https://www.comune.pesaro.pu.it/servizieducativi/nido-dinfanzia/elenco-nidi-comunali/pagine-nidi/nido-macondo/
 way	1050395484	https://www.sportvillagepesaro.it/
 way	1052245266	https://www.effettoluce.it/
 way	1060371569	https://carpegnacampingcippo.it
@@ -2570,6 +2588,8 @@ way	1337151039	https://www.cactusmeraviglietina.it/
 way	1337158887	https://www.villaamaranto.it/ristorante/
 way	1340110277	https://www.iluoghidelsilenzio.it/torre-matteucci-fermo/
 way	1342092434	https://www.villamonterosso.it/
+way	1352382424	https://www.iscleopardipesaro.edu.it
+way	1352382425	https://www.iscleopardipesaro.edu.it
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1652522	https://www.riservasentina.it/
