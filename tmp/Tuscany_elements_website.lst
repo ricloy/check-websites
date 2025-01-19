@@ -1826,7 +1826,7 @@ node	4477485895	https://www.berberepizza.it/berbere-firenze-san-frediano/
 node	4477486902	https://www.gestofailtuo.it/
 node	4477609189	http://www.polpa.it/
 node	4477871589	http://fuordacqua.it
-node	4477898189	https://www.volume.fi.it/
+node	4477898189	https://www.volume.fi.it
 node	4478243290	http://lemurate.it
 node	4482782004	http://www.gruppodonatello.it/
 node	4482841989	https://www.galleriagagliardi.com/
@@ -6274,6 +6274,9 @@ node	12483895210	https://www.fitexpress.it/club/firenze/
 node	12483906862	https://blackmoonfirenze.it/
 node	12484220212	https://www.nudeguitars.com/
 node	12485110001	https://www.hotelcamillafirenze.com/en/
+node	12496670602	http://ccvf.it
+node	12499327201	http://sofidel.com
+node	12507051492	https://soprintendenzafirenze.cultura.gov.it/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -7301,7 +7304,6 @@ way	412619316	https://www.trailforks.com/trails/albereta-ps2/
 way	413188493	https://www.parrinihotel.com/
 way	417668411	http://www.aeroclubdipisa.it/
 way	417683034	https://www.islepark.it/visitare-il-parco/elba/l-orto-dei-semplici
-way	418912842	https://operaduomo.siena.it/en/
 way	420024668	http://www.e-coop.it/punti-vendita-dettaglio?id=2903
 way	420489350	http://www.hotelmiramonti-ar.com/
 way	421654919	https://www.sast.it/
@@ -7399,7 +7401,7 @@ way	465666361	http://www.smscareggi.it/
 way	465666406	https://www.orangeriedichase.it/
 way	465703014	http://www.florencedecamerone.it/
 way	465854960	https://www.bernistore.it/
-way	465854961	https://www.metrosrl.it/
+way	465854961	https://www.luccaplus.it/
 way	465899399	https://www.at-bus.it/
 way	465950980	https://www.coopfirenze.it/punti-vendita/firenze-via-reginaldo-giuliani-111
 way	466173686	https://www.aldodelcarlolamiere.it/
@@ -7929,6 +7931,7 @@ way	728256058	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/4143
 way	728257262	http://www.hotelfabbrini.com/
 way	728257709	https://www.carabinieri.it/
 way	728258096	https://www.hotelgambrinusamiata.com/
+way	729215853	https://www.roccone.it/
 way	729397286	https://beccastelle.com/
 way	730029632	https://www.residenceilparadiso.it/
 way	730029634	https://www.ilborgocv.it/
@@ -8543,6 +8546,7 @@ way	1344845965	https://www.lortodelmiziardino.com/
 way	1345258383	https://www.facebook.com/VilladelBandino/
 way	1345258385	https://www.ittmarcopolo.edu.it/
 way	1348970235	https://www.falesiaonline.it/falesia/canne_d_organo.html
+way	1351015470	https://cclanticamicizia.wixsite.com/ccam
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -8576,7 +8580,6 @@ relation	384642	https://eroica.cc/it
 relation	406568	https://www.nh-hotels.com/en/hotel/nh-siena?utm_campaign=local-gmb&utm_medium=organic_search
 relation	454824	https://www.albergominerva.it/
 relation	545102	http://www.caifaenza.it
-relation	546017	https://operaduomo.siena.it/en/
 relation	553322	https://www.cai-imola.it/
 relation	553598	http://www.caifaenza.it/
 relation	909435	https://www.caiprato.it/
@@ -8596,6 +8599,7 @@ relation	1188228	https://www.radaetrusca.com
 relation	1288894	https://www.cai-imola.it/
 relation	1288895	https://www.cai-imola.it/
 relation	1288900	https://www.cai-imola.it/
+relation	1293824	https://www.wownature.eu/areewow/bosco-cinque-querce/
 relation	1344268	https://www.at-bus.it/it/linee-e-orari/livorno-urbano-1
 relation	1394080	https://www.cai-imola.it/
 relation	1461750	http://www.bargellomusei.beniculturali.it
@@ -8965,7 +8969,6 @@ relation	7850470	https://www.caielba.it/percorsi/
 relation	7850514	https://www.caielba.it/percorsi/
 relation	7850526	https://www.caielba.it/percorsi/
 relation	7850588	https://www.caielba.it/percorsi/
-relation	7850985	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII177498
 relation	7853011	https://www.islepark.it/rete-sentieristica/sentieri-escursionistici/elba-occidentale/176
 relation	7853242	https://www.caielba.it/percorsi/
 relation	7853280	https://www.caielba.it/percorsi/
@@ -9660,6 +9663,12 @@ relation	18430609	http://www.podereranieri.com/
 relation	18430633	https://www.agriturismo-valentini.it/
 relation	18442930	https://www.beautycarauto.it
 relation	18488432	https://www.bluebestyachting.it/
+relation	18556278	https://www.italiacoast2coast.it/
+relation	18558376	https://www.italiacoast2coast.it/
+relation	18560683	https://www.italiacoast2coast.it/
+relation	18560691	https://www.italiacoast2coast.it/
+relation	18560789	https://www.italiacoast2coast.it/
+relation	18560875	https://www.italiacoast2coast.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
 node	256819101	https://www.unicooptirreno.it/punto-vendita/viareggio
@@ -9773,7 +9782,6 @@ node	2836612384	http://www.badelfpub.it/
 node	2892650436	http://www.comune.follonica.gr.it/gli_uffici/polizia_municipale/
 node	2898115836	www.vab.it
 node	2898131853	www.radiofollonica.it
-node	2980869492	http://www.labarrocciaia.it
 node	2980869497	http://www.laponceria.it
 node	3031040419	http://www.clinicaveterinariafontetonda.com
 node	3031040420	http://www.clinicaveterinariailfalco.it
@@ -10099,6 +10107,7 @@ node	10695089085	https://bikevillage.eu/biker-bistrot/
 node	10695089086	https://bikevillage.eu/biker-cafe/
 node	10719903904	https://www.motezza.com/
 node	10734876559	https://www.gate52pisarooms.it/
+node	10804030675	https://vinainofiorenza.it
 node	10819826513	http://itersangiulianoterme.it/
 node	10820278463	https://lepiccolemacie.com/
 node	10827427723	https://www.cannondoro.com/
@@ -10282,6 +10291,7 @@ way	414506167	https://hotelorchideafollonica.com/
 way	415368228	http://www.lampadadialadino.it
 way	415869964	http://www.ledunedifollonica.it
 way	418118686	http://www.ilpiratalacona.it/
+way	418912842	https://operaduomo.siena.it/
 way	420920039	http://www.domussocolatae.it/
 way	440053305	https://icpisano.edu.it
 way	444906281	http://camping-lacona.it
