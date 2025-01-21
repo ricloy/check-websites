@@ -1,13 +1,16 @@
 @type	@id	website
 node	353049715	https://www.miserinespritlibre.it/
 node	353049771	http://www.rifugioalpenzu.it/
-node	353049786	https://www.rifugio-lambronecca.com/
+node	353049786	http://guidechampoluc.com/il-rifugio/
 node	353049798	http://www.refugevieuxcrest.com/
 node	353049800	https://www.rifugioferraro.com/
 node	353049808	https://www.rifugiograndtournalin.com/en/
 node	353049817	https://www.rifugiocuney.it/it/il-rifugio-barmasse/
 node	353049828	https://www.caitorino.it/rifugi/nacamuli/
-node	353081755	https://rifugio-champillon.it/
+node	353049833	http://www.rifugioaosta.it/
+node	353049840	http://www.refuges.info/point/2339/refuge-garde/Alpes-Pennines-Haut-Valais/
+node	353049847	http://www.rifugiocreteseche.eu
+node	353081755	http://www.rifugio-champillon.it/
 node	353082192	https://www.chaligne.com/
 node	355336801	https://www.clubalpinoaccademico.it/index.php/bivacchi/item/138-bivacco-umberto-balestrieri
 node	355336802	https://www.caitorino.it/rifugi/balzola/
@@ -39,7 +42,7 @@ node	1326399991	http://www.fortedimachaby.it/index.php
 node	1333701141	http://www.miravidi.com
 node	1347556526	http://www.labaraka.it/
 node	1374069421	https://bivacco-valpelline.nl/en/index.php
-node	1407251340	https://www.rifugiofrassati.it/
+node	1407251340	http://www.rifugiofrassati.it/de/
 node	1458864995	https://www.hotel-florian.it/
 node	1494476032	www.lavecchiaposta.altervista.org
 node	1496293138	https://www.relaisdufoyer.it/
@@ -343,6 +346,7 @@ node	12216256084	https://www.repower.com/it/la-mobilita-elettrica/
 node	12216274093	https://www.repower.com/it/dina/
 node	12311899101	https://ristorantemorgenrot.it/
 node	12468673727	https://bigbenchcommunityproject.org
+node	12512502360	https://www.gumtree.com/p/holiday-rentals/mountain-cabin-apartment-sleeps-46-self-catered-italian-alps/1492315843
 way	27264184	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264185	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264187	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -573,6 +577,7 @@ way	146851840	https://www.chezduclos.com/
 way	147172024	https://www.rifugiobenevolo.com/
 way	147187152	http://bivaccolucareboulaz.weebly.com/
 way	147428209	https://www.caimondovi.it/bivacco-comino/
+way	147536904	https://www.rifugiobonatti.it/
 way	147548048	http://www.hibouprojet.it
 way	147709782	http://www.tronchey.com/
 way	147709783	https://www.grandesjorasses.com/
@@ -584,7 +589,7 @@ way	148214318	https://www.lovevda.it/it/banca-dati/8/chiese-e-santuari/courmayeu
 way	148457255	https://www.caitorino.it/rifugi/quintino-sella/
 way	148457258	https://www.giovanemontagna.org/rifugio.asp?n=Bivacco%20Gino%20Rainetto&id=10
 way	148853663	https://www.comune.lasalle.ao.it/
-way	149862628	http://www.rifugimonterosa.it/
+way	149862628	http://www.rifugimonterosa.it/de/web/gnifetti-h%C3%BCtte-95
 way	151275029	https://www.lartisana.vda.it/
 way	153360856	https://www.scuolascilathuile.it/
 way	156139764	https://www.caitorino.it/rifugi/leonessa/
@@ -597,6 +602,7 @@ way	160843214	http://www.hotelcentralecourmayeur.com/en/
 way	160843228	http://www.hotelcroux.it/
 way	160891040	https://www.lemassifcourmayeur.com
 way	160891082	pizzeriadutunnel.it
+way	160977651	https://www.alpissima.it/gran-baita-courmayeur/
 way	160977653	https://ih-hotels.com/it/i-nostri-aberghi/ih-hotels-courmayeur-mont-blanc-resort.html
 way	160998408	https://www.hotelsvizzero.com/
 way	161265126	https://www.edildueci.com/
@@ -699,11 +705,12 @@ way	286994657	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	287802514	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	287802515	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	292943206	https://www.ristorantesociete.it/
+way	295875967	http://www.cervinia.it
 way	302523703	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	302523704	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	302523705	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	302523706	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
-way	303518020	https://www.rifugioquintinosella.com/
+way	303518020	http://www.rifugioquintinosella.com/index_d.asp
 way	303711819	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	303711820	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	303711821	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -819,6 +826,7 @@ way	674113590	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	676271581	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	676271582	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	690431998	https://www.chaletdelapoya.com/
+way	708274428	http://www.rifugiomantova.it/
 way	738719190	https://www.comune.verrayes.ao.it/
 way	781163853	https://www.oavda.it/
 way	781503671	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
