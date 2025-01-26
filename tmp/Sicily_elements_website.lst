@@ -839,6 +839,7 @@ node	3222012263	https://artemisiaresort.com/
 node	3223921504	http://comune.modica.gov.it/site/ufficio-turistico/
 node	3225780740	https://www.poste.it
 node	3241177644	https://www.institutfrancais.it/palerme/
+node	3256623204	https://www.menudigitale.io/casbahdelmoro
 node	3260375698	http://www.tecnikacostruzioni.com
 node	3270375275	https://www.enel.it/punto-enel/
 node	3280906040	https://www.palladiumhotelgroup.com/en/hotels/italia/siciliacampofelice/grand-palladium-sicilia-resort-spa
@@ -3591,6 +3592,7 @@ node	11818518448	https://www.ddsteresadiriva.edu.it/
 node	11819454885	https://www.acqualavica.it/
 node	11828535440	https://www.route115.com/
 node	11830121116	https://www.poderedelletnasegreta.it/
+node	11830998192	https://www.theyardhostel.it/
 node	11833898776	https://www.icsdannunziomotta.it/
 node	11838336669	https://centro-storico.bedsandhotels.com/
 node	11846520448	http://www.algiardino.net
@@ -3731,6 +3733,7 @@ node	12213963097	https://www.bbperladelsud.it/
 node	12214105173	https://www.spaghettiandco.it/
 node	12216072602	https://pidatellaristorante.it
 node	12228168142	https://www.arddiscount.it/punti-vendita/492/gravina-via-giacomo-puccini-7
+node	12228168144	https://www.arddiscount.it/punti-vendita/389/mascalucia-via-alcide-de-gasperi-88-90
 node	12228454518	https://www.conad.it/
 node	12228454519	https://www.conad.it/
 node	12237350361	https://www.booking.com/hotel/it/casa-azzurra-baglio-marasa.it.html
@@ -3781,10 +3784,15 @@ node	12471416340	https://www.cookinsiracusa.com/
 node	12480939685	https://lecasealquadrato.wbzak.net/it/
 node	12486233912	https://www.booking.com/hotel/it/il-marinaio-messina.html
 node	12488593555	https://www.facebook.com/100057509475239/
+node	12498697421	http://famila.it
 node	12507422837	https://weunit.it/
 node	12507422838	https://www.servizifunebrimessina.it/
 node	12507422839	https://www.euroansa.it/agenzie/agenzia-di-siracusa-02/
 node	12507422840	https://www.euroansa.it/agenzie/agenzia-di-siracusa-03/
+node	12518650845	https://www.pantafitavola.it/
+node	12522608738	https://www.palazzobiscari.it/
+node	12523640809	https://www.sushi-park.it/
+node	12529950934	https://www.booking.com/hotel/it/infinity-of-stars-provincia-di-siracusa1.html
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -6569,8 +6577,8 @@ relation	17656928	https://www.viefrancigenedisicilia.it/
 relation	17685775	https://www.viefrancigenedisicilia.it/PaMe.php
 relation	17686492	https://www.viefrancigenedisicilia.it/PaMe.php
 relation	17992176	https://www.interbus.it/
-relation	18107439	https://www.amts.ct.it/mappa-delle-linee?percorso=A-MS
 relation	18463998	https://www.ilgelsominoritrovato.it/area-attrezzata-per-camper-a-milazzo/
+relation	18585882	https://nettunopark.it/
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	506117889	https://guardiacostiera.it/mazaradelvallo
 node	548101816	http://www.medicalcentermazara.it
