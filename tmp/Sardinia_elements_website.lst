@@ -516,14 +516,12 @@ node	2063026450	https://www.ctmcagliari.it/
 node	2063363742	https://www.conad.it/ricerca-negozi/negozio.007879.html
 node	2091957717	https://www.eurospin.it/
 node	2093845283	https://www.supersigma.com/
-node	2094006325	https://www.grottadinettuno.it/
 node	2134874772	https://www.baiaverdesardegna.it
 node	2136452060	https://www.hotelcostadorada.it/
 node	2162668210	https://www.esedraescursioni.it/it/notizie/orari-area-archeologica-di-tamuli/
 node	2185709592	https://www.silviaepaolo.it/
 node	2205077783	https://www.conad.it/ricerca-negozi/negozio.050069.html
 node	2246343232	https://comune.santantioco.su.it/
-node	2247912230	www.hotelvillacedrino.it
 node	2253205440	https://www.eurospin.it/
 node	2255631324	https://www.clubesse.it/strutture/resort-cala-gonone-beach-village/
 node	2257989689	http://www.hotelsantelene.net/ristorante-e-pizzeria/
@@ -1154,6 +1152,7 @@ node	4563758912	https://fondoambiente.it/luoghi/complesso-nuragico-di-monti-di-d
 node	4567141367	https://www.coopsilt.it/
 node	4568890823	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=154084&pagename=57
 node	4588843309	http://www.sardegnacultura.it/j/v/253?s=21284&v=2&c=2488&c1=1983&t=1
+node	4588843310	https://www.grottadinettuno.it/
 node	4592425127	http://musei.sardegna.beniculturali.it/musei/pinacoteca-nazionale-di-cagliari/
 node	4592425128	https://sistemamuseale.museicivicicagliari.it/museo-darte-siamese/
 node	4597019653	https://sunuraxi.com/
@@ -1169,6 +1168,7 @@ node	4773684037	https://caladeisardi.it/
 node	4788708522	https://www.unionepastorinurri.it/
 node	4793391526	https://www.sardiniacycling.com/
 node	4802936559	http://www.albergosardegna.it
+node	4848180825	https://www.sardegnasentieri.it/node/1127
 node	4849308622	https://www.brendolan.net/
 node	4869636813	https://www.mdspa.it/punti-vendita/Sardegna/Olbia-Tempio/287-Olbia
 node	4886002621	https://www.ristorantegioberti.com/
@@ -1561,7 +1561,7 @@ node	9930269414	https://www.pizzeriadaroby.com
 node	9930331235	http://www.lucignolosangavino.it
 node	9951263713	https://hotelvillarosaweb.it/
 node	9970731478	https://www.repower.com/it/dina/
-node	9970826103	https://www.repower.com/it/dina/
+node	9970826103	https://www.repower.com/it
 node	9983148227	http://www.casatitti.it/
 node	9999549442	https://ortidinora.it/ristorante-orti-di-nora/
 node	10016352477	https://www.safeheavensardinia.com/
@@ -1587,6 +1587,7 @@ node	10269368708	https://www.sistemicostruttivi.it/
 node	10294817544	https://www.casanataleantoniogramsci.org/
 node	10316613859	www.s-ena.it
 node	10357875563	https://www.calapineta.it
+node	10537466338	https://www.grottadinettuno.it/
 node	10539814003	https://www.bullisurfclub.it/
 node	10539816994	https://www.safiorida.com/
 node	10540274858	https://lulurentalservicecannigione.it/
@@ -1744,10 +1745,11 @@ node	12321395317	https://navitora.it/
 node	12357742068	www.notaiopianusassari.it
 node	12380667841	https://www.provincia.sassari.it/
 node	12384044467	https://www.officinameccanica-apostosulposto.it/
-node	12396262441	https://www.repower.com/it/dina/
+node	12396262441	https://www.repower.com/it
 node	12406674356	https://www.metalbox.it
 node	12410053155	https://davinci81.com/
 node	12443798815	https://bardys.eatbu.com/
+node	12529078577	https://www.dgtstudio.it/
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1849,6 +1851,7 @@ way	159248905	https://www.eurospin.it/
 way	159746581	http://www.miniereingurtosu.it/index.php/area-espositiva-pozzo-gal/57
 way	159919394	http://www.daannabarbara.it/
 way	159989835	https://www.gennaecorte.it/
+way	160523141	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale/laghi-artificiali/pedra-e-othoni.html
 way	161306760	https://www.hotelflamingo.it/
 way	161306761	https://www.hotelmarepineta.it/
 way	161575895	https://www.oroseibeach.it/
@@ -2167,6 +2170,7 @@ way	293638649	https://www.murats.it/
 way	293641678	http://www.comuneallai.gov.it/cultura/cultura.asp?id=17&ln=IT
 way	293643147	https://www.comune.suni.or.it/
 way	293645576	https://www.museodelgiocattolosardegna.it/
+way	294093589	https://loddorestaurant.it
 way	294093878	https://www.unionecomuniguilcer.it/
 way	294099367	https://www.casagramscighilarza.org/
 way	294101959	https://www.benarredo.com/
@@ -2453,7 +2457,6 @@ way	515004310	https://www.eurospin.it
 way	515026052	http://www.liceoferminuoro.gov.it
 way	515026053	https://www.liceosebastianosattanuoro.edu.it/
 way	515152124	http://www.liceoginnasioasproni.it/
-way	515210059	https://www.grottadinettuno.it/
 way	515585485	https://www.tharros.info/
 way	516635404	https://www.comune.orroli.ca.it/
 way	516635406	https://www.comune.orroli.ca.it/
@@ -2539,6 +2542,7 @@ way	814115957	https://www.mdspa.it/punti-vendita/Sardegna/Cagliari/797-Selargius
 way	816418825	https://www.istitutocomprensivo2alghero.edu.it/
 way	822427940	https://parcheggio-economy.it/
 way	824860025	https://terrasardaceramiche.it/
+way	826488092	https://www.hotelvillacedrino.it
 way	833731858	https://nooraghe.altervista.org/
 way	838221519	https://www.parcomolentargius.it/index.php
 way	840919379	https://www.jannaesoleresort.it/
@@ -2611,6 +2615,7 @@ way	1340048233	https://www.hotelpaolacarloforte.it/
 way	1343080317	https://crioristano.it/
 way	1348680861	https://www.icbrigatasassari.edu.it/
 way	1351624093	https://piscinelufangazzu.it
+way	1353952295	https://www.sardegnaforeste.it/struttura-territoriale/vedetta-la-torre
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3105,9 +3110,10 @@ relation	12752811	https://www.elbarriodelmar.com/
 relation	12838030	https://www.sardegnasentieri.it/sentieri/da-maidopis-al-pianoro-di-acqueddas-anello-c-811
 relation	12838033	https://www.sardegnasentieri.it/sentiero/perdas-biancas-su-cabrioleddu-c-811a
 relation	13446279	https://cagliari04.mercatinousato.com/
-relation	13487570	https://www.sardegnasentieri.it/sentieri/arcu-e-tidu-baccu-malu-castiadas-sentiero-italia-28-tappa-c-800
 relation	13487583	https://www.sardegnasentieri.it/sentieri/bivio-812-%E2%80%93-strada-forestale-c-812a
 relation	13487584	https://www.sardegnasentieri.it/sentieri/ex-vivaio-maidopis-bivio-si-c-812
+relation	13487585	https://www.sardegnasentieri.it/sentieri/vecchia-casina-maidopis-%E2%80%93-arcu-e-tidu-c-814
+relation	13487589	https://www.sardegnasentieri.it/sentieri/museo-del-cervo-%E2%80%93-arcu-sa-spina-c-815
 relation	14101413	https://www.cicloviadellasardegna.it/
 relation	14404161	http://www.windsurfingclubcagliari.org/
 relation	14480780	https://www.grendi.it/
@@ -3210,6 +3216,7 @@ relation	18349591	https://www.sardegnasentieri.it/sentiero/sincantu-san-gregorio
 relation	18349762	https://www.sardegnasentieri.it/sentiero/arcu-sa-spina-arcu-su-crabiolu-c-806
 relation	18375428	https://www.cicloviadellasardegna.it/
 relation	18504922	https://portosantateresa.com/
+relation	18528198	https://www.sardegnasentieri.it/sentiero/bau-sacua-callenti-baccu-sa-figu-c-807
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -3265,6 +3272,8 @@ node	3026224484	http://www.anticocaffe1855.it/
 node	3233957424	http://www.pasticceriadolceisola.it
 node	3253518534	http://www.idolcidiborore.it/
 node	3268824387	http://www.comune.isili.ca.it
+node	3275103169	https://www.ristoranteilcaminettocabras.com
+node	3275103170	https://www.ristoranteziabelledda.it
 node	3275213670	https://www.autoscuolalafenicia.it/
 node	3275217195	www.comproroargentoristano.it
 node	3275217765	http://www.meccanico.oristano.it/
@@ -3751,7 +3760,6 @@ way	304308430	http://www.comune.pattada.ss.it
 way	304535966	http://www.comune.romana.ss.it
 way	304548393	http://www.comunesiligo.it/
 way	304555051	http://www.comunethiesi.it
-way	304555206	http://www.hotelcavallinorosso.com
 way	304557329	http://www.comune.tissi.ss.it/
 way	304559933	https://www.comune.torralba.ss.it
 way	304562216	http://www.comune.tula.ss.it/
@@ -3811,6 +3819,7 @@ way	438982002	www.agriturvillagaia.it
 way	443077998	http://www.agriturismodidone.com
 way	447873782	www.aquafantasy.it
 way	451583849	http://www.treninoverde.com/
+way	456169673	http://www.hotelcavallinorosso.com
 way	460319848	http://www.comune.terralba.or.it
 way	461888361	http://www.treninoverde.com/
 way	461888362	http://www.treninoverde.com/
