@@ -16,7 +16,6 @@ node	318028165	http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+baker
 node	318031901	http://www.pompeiisites.org/Sezione.jsp?idSezione=134
 node	318613075	http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+del+Chirurgo+(VI+1%2C9.10)&idSezione=85
 node	318616353	http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+Dioscuri+(VI%2C9%2C6)&idSezione=786
-node	318620148	http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+degli+Amorini+Dorati+%28VI+16%2C7%29&idSezione=87&lookfor=Casa%20degli%20amorini%20dorati
 node	318622961	http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+di+Cecilio+Giocondo+(V+1%2C26)&idSezione=88
 node	319120209	http://www.pompeiisites.org/Sezione.jsp?titolo=Villa+di+Diomede&idSezione=175
 node	319406677	http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+wild+boar+%28VII%2C4%2C48%29&idSezione=593&lookfor=hunt
@@ -1207,7 +1206,7 @@ node	7710766613	https://www.alborgodegliangeli.it/
 node	7713165927	https://arredamentitrombetta.it/
 node	7714247005	https://www.ilmondodiprogress.it/
 node	7731597460	http://www.osterialacantina.it/
-node	7735959246	https://www.repower.com/it/dina/
+node	7735959246	https://www.repower.com/it
 node	7738039049	https://www.ristorantearchimagirus.it/
 node	7741081390	https://www.comune.valledimaddaloni.ce.it
 node	7744573688	https://www.crai-supermercati.it/punto-vendita/5101-cuor-di-crai-bacoli-fusaro/
@@ -2469,7 +2468,12 @@ node	12500933245	https://www.sole365.it
 node	12500985805	https://iperstorebarletta.com
 node	12504773142	https://www.ristorantehydra.com/
 node	12509148510	https://www.vignedimalies.it
-node	12512446102	http://www.contedoroliving.it
+node	12512446102	https://www.contedoroliving.it/
+node	12518347301	https://www.maru-aversa.it/
+node	12525043656	https://www.tripstockmarket.it
+node	12526553666	https://www.codiceazienda.it/
+node	12531833174	https://www.facebook.com/centrorevisioneflegreo
+node	12532317291	www.hopestel.it
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -2779,7 +2783,7 @@ way	308110032	http://www.gruppoparziale.com/
 way	308283051	https://donnarummahotel.it/
 way	309043889	http://www.cottonvillage.it
 way	309092753	http://www.moscardiniangri.it
-way	309268120	http://www.museomav.it/
+way	309268120	https://www.museomav.it/
 way	310364908	http://www.pompeiisites.org/Sezione.jsp?titolo=La+terrazza+di+M.Nonio+Balbo+(Terrazza+Meridionale%2C+2)&idSezione=222
 way	311133525	https://www.sanmichelealfaito.it/
 way	311163463	https://www.villabinaischia.com/
@@ -3619,6 +3623,7 @@ way	1330761455	https://www.sarniristorazione.it/
 way	1333311248	https://www.mcdonalds.it
 way	1346662211	https://www.scuolarienzo.edu.it/scuolarienzo/plessi/
 way	1351802374	https://www.salernomobilita.it/index.php/2021/09/29/parcheggio-liberta/
+way	1353651229	https://www.comune.carinaro.ce.it/it-it/home
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3646,6 +3651,7 @@ relation	3609123	https://www.archiviodistatonapoli.it/
 relation	3820923	https://www.icsboviocolletta.edu.it/
 relation	3821123	https://www.madrenapoli.it/
 relation	3824019	http://www.museoarcheologiconapoli.it/it/
+relation	4069494	http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+degli+Amorini+Dorati+%28VI+16%2C7%29&idSezione=87&lookfor=Casa%20degli%20amorini%20dorati
 relation	4464209	http://www.polomusealecampania.beniculturali.it/index.php/il-museo-e-mitreo
 relation	4537460	https://www.hotel-bb.com/it/hotel/napoli.htm
 relation	4540981	http://www.volcei.net/index.html
@@ -3923,6 +3929,7 @@ way	1069157099	https://www.olattariello.com
 way	1323904669	https://www.nitrodi.com/
 way	1324177310	https://www.mezzatorre.com/
 way	1340342349	https://parrocchiadisanbenedetto.it/
+way	1353651229	https://www.comune.carinaro.ce.it/it-it/linea-diretta/scrivici
 node	68581547	www.ravello.com
 node	1892958672	http://www.lanticocortile.it/
 node	4033063953	http://www.vacanzeforiapalinuro.it
