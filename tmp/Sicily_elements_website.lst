@@ -28,6 +28,7 @@ node	306254851	https://www.poste.it
 node	306254865	https://www.cicciosultano.it/
 node	313357047	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
 node	313480110	https://www.comunepantelleria.it/
+node	316514588	https://www.cinestarweb.it/
 node	329189498	https://www.poste.it
 node	335922697	https://www.poste.it
 node	338966369	https://www.museodiocesanocatania.com/
@@ -941,7 +942,7 @@ node	3736325425	https://www.grancafetorino.it
 node	3736327325	https://hotelportafelice.it/
 node	3736328325	https://hotelportafelice.it/wellness/
 node	3736473025	http://www.ilpipinorosso.it
-node	3737957625	https://www.buattapalermo.it/
+node	3737957625	https://www.buattapalermo.it
 node	3739066127	http://www.residenceloisa.com
 node	3739167126	https://www.poste.it
 node	3741788216	https://www.talia-scopello.com/
@@ -1816,7 +1817,7 @@ node	6551075385	http://www.pasticeriadegaetano.it
 node	6551368085	https://www.stefaniamode.com/
 node	6555698876	https://www.globetrottercatania.com/
 node	6558498885	https://www.figlidartecuticchio.com/
-node	6561456902	https://www.leangeliche.it/
+node	6561456902	https://www.leangeliche.it
 node	6561546867	http://www.sunseasicily.com/arcaholidayapartments.html
 node	6564107268	https://www.fratelliburgio.com/salumeria/
 node	6565783719	https://www.ristorantemalvasiavulcano.it/
@@ -3593,6 +3594,7 @@ node	11819454885	https://www.acqualavica.it/
 node	11828535440	https://www.route115.com/
 node	11830121116	https://www.poderedelletnasegreta.it/
 node	11830998192	https://www.theyardhostel.it/
+node	11831647262	https://www.isola.catania.it/
 node	11833898776	https://www.icsdannunziomotta.it/
 node	11838336669	https://centro-storico.bedsandhotels.com/
 node	11846520448	http://www.algiardino.net
@@ -3784,7 +3786,7 @@ node	12471416340	https://www.cookinsiracusa.com/
 node	12480939685	https://lecasealquadrato.wbzak.net/it/
 node	12486233912	https://www.booking.com/hotel/it/il-marinaio-messina.html
 node	12488593555	https://www.facebook.com/100057509475239/
-node	12498697421	http://famila.it
+node	12498697421	https://famila.it/
 node	12507422837	https://weunit.it/
 node	12507422838	https://www.servizifunebrimessina.it/
 node	12507422839	https://www.euroansa.it/agenzie/agenzia-di-siracusa-02/
@@ -3793,6 +3795,16 @@ node	12518650845	https://www.pantafitavola.it/
 node	12522608738	https://www.palazzobiscari.it/
 node	12523640809	https://www.sushi-park.it/
 node	12529950934	https://www.booking.com/hotel/it/infinity-of-stars-provincia-di-siracusa1.html
+node	12542270160	https://italyunlocked.film
+node	12542407239	http://www.loredamalab.it/
+node	12542407240	https://ragusaibla.ubiklibri.it/
+node	12542407263	http://www.loredamalab.it/
+node	12542739836	https://www.cavagrande.it/
+node	12544901831	https://cifalino.com/
+node	12544901861	https://www.dais.it/
+node	12549465324	https://ajamolapalermo.it
+node	12549515553	https://www.coronatrattoria.com
+node	12549689248	https://bbruggeroprimodisicilia.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4146,7 +4158,6 @@ way	203887199	https://www.triolozancla.com/
 way	204152948	https://www.istitutocomprensivovannanto.edu.it
 way	204272310	https://www.chiesavaldesepalermo.it/
 way	204822586	https://www.melodianoto.edu.it/
-way	205461861	https://cifalino.com/
 way	205461865	https://derobertoct.edu.it/
 way	205643522	https://www.sdslingue.unict.it/
 way	206096611	http://www.istitutotecnicoregionalecatania.it
@@ -4159,7 +4170,6 @@ way	207984277	http://www.santuariopapardura.it/
 way	208099153	palazzocastro.it
 way	209764596	http://www.guardiacostiera.it/capitanerieonline/index.cfm?id=63
 way	210076077	https://www.unirg.it/
-way	210137046	https://www.dais.it/
 way	210244046	https://www.centrocommercialelafortezza.it/
 way	210244091	https://www.istitutorogasi.edu.it/
 way	210449027	https://www.comune.ragusa.gov.it/turismo/unesco/13rocca.html
@@ -4871,7 +4881,6 @@ way	505258057	https://www.icsantachiaraenna.edu.it/
 way	505268299	https://www.poste.it
 way	507481476	https://www.icnegliasavarese.edu.it/
 way	507793994	https://circuitovincenzaispica.it/
-way	507979657	https://ilfarocapomulini.com/
 way	509062760	https://www.vigilfuoco.it
 way	510351870	https://www.comune.siracusa.it/servizio/centri-comunali-di-raccolta
 way	510790725	https://www.parcodellemadonie.it/santa-foca-castelbuono.html
@@ -6017,6 +6026,7 @@ way	1351845497	https://www.trilogycatania.it/
 way	1352106639	http://www.preconsrl.it/
 way	1352106640	https://www.dsteamnetwork.it/
 way	1352307802	https://www.oact.inaf.it/osservatorio/
+way	1355233259	https://www.hotelmida.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6590,7 +6600,6 @@ node	951637391	http://www.hajtoceramiche.it/
 node	951637457	http://www.ristorantelabettola.it/
 node	1313494746	http://www.ilcortiledellinferno.it/
 node	1317733847	http://www.scaccoclubmazara.it/
-node	1323315400	http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=105
 node	1323459031	http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=410
 node	1359500981	http://www.televallo.it/
 node	1359500982	http://www.tele8tv.com/
@@ -6810,6 +6819,7 @@ way	1253728713	https://www.eurospin.it/
 way	1257130521	https://www.hpa-automotive.it/
 way	1277821167	https://www.lidl.it/
 way	1327180634	https://www.messinarte.it/campanile-del-duomo-di-messina/
+way	1354960112	http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=105
 relation	1175567	http://www.liceoscientificomazara.it/
 relation	1242170	http://giardinoemiro.altervista.org/
 relation	1383540	http://www.itcmazara.it/
