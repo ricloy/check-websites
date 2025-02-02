@@ -671,7 +671,6 @@ node	4584264589	https://www.campodelmare.it/
 node	4625460242	http://www.orobiancopizzeria.it/
 node	4633446460	https://www.hoteltoninorecanati.it/
 node	4635242367	https://www.mdspa.it/punti-vendita/Marche/AP-Ascoli-Piceno/846-San-Benedetto-del-Tronto
-node	4639708292	https://www.santonishoes.com/
 node	4639800789	https://www.orciani.com/
 node	4653015095	http://www.divini.gov.it
 node	4718305555	https://romanticapizza.it/pizzerie/ancona/
@@ -783,6 +782,7 @@ node	5923960613	http://www.beniculturali.marche.it/Ricerca/tabid/41/ids/69903/Fo
 node	5930272457	https://www.emporiofogola.it/
 node	5930812880	https://www.nordinproperties.com/
 node	5933722016	https://www.raffaellodegusteria.it/
+node	5961529290	https://tessitu.com
 node	6033910251	https://ristorantepizzeriavisso.it/
 node	6041313672	https://www.decathlon.it/
 node	6048498825	https://www.vivaservizi.it
@@ -1894,6 +1894,9 @@ node	12526984857	https://www.tigota.it/negozi/022421
 node	12531063459	http://www.falegnameriaaghetoni.it/
 node	12531440905	https://zetabidenim.it/
 node	12532173100	https://www.spadoniarredamenti.com/
+node	12535041829	https://www.instagram.com/alambiccogineriaancona
+node	12535117254	https://www.happy-camper.it/
+node	12546207448	https://local.churchofjesuschrist.org/it/it/ancona/ancona/via-fermo-1-b
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2204,7 +2207,6 @@ way	363168636	https://www.impuls.it/
 way	363169238	http://www.vivaigambaccini.it/
 way	363249651	https://www.tenutasanmarcello.net
 way	363633987	http://www.bb1912.it
-way	365073171	https://www.interportomarche.it/
 way	365840922	https://www.hotelambassadormarotta.it/
 way	365840935	https://clubhotel-marotta.com/
 way	365842631	https://www.windsurfmarotta.it/it/
@@ -2416,6 +2418,7 @@ way	941541625	https://www.univpm.it/Entra/Sedi_dei_Corsi_di_Studio/Sede_di_Pesar
 way	943247112	https://www.comune.pesaro.pu.it/sport/impianti-sportivi/impianti-per-categoria/palestre/palestra-carducci-vecchia-via-xi-febbraio-68-quartiere-1/
 way	945724485	https://www.skydivesunrise.com/
 way	946067522	https://www.caandreana.it/
+way	947279491	https://ilnostrogiardino1.wordpress.com/
 way	947291045	http://www.severinifelice.it/
 way	951812543	https://www.comune.pesaro.pu.it/ambiente/verde/area-floristica/
 way	956031916	https://www.crai-supermercati.it/punto-vendita/1448-crai-numana-villag-taunus/
@@ -2509,7 +2512,7 @@ way	1151963494	https://www.icdantealighieripesaro.edu.it/luogo/plesso-elio-tonel
 way	1154022193	https://www.icsluigipirandellopesaro.it/struttura/primaria-arca-delle-colline/
 way	1157633574	https://www.hotelemilia.com/it/
 way	1158118515	https://bar-pertini-ancona-demo.netlify.app/
-way	1168196343	http://www.minieracabernardi.it/
+way	1168196343	https://www.minieracabernardi.it/
 way	1170345238	https://campinglemarche.com/
 way	1175831449	https://www.cortecampioli.com
 way	1180066892	https://www.cuscamerino.it/
@@ -2630,9 +2633,11 @@ way	1352779050	https://www.comune.pesaro.pu.it/sport/impianti-sportivi/impianti-
 way	1352779051	https://www.villasanmartino.edu.it/plessi-ic-villa-san-martino/scuola-primaria-cantarini/
 way	1352779052	https://www.comune.pesaro.pu.it/sport/impianti-sportivi/impianti-per-categoria/palestre/palestra-scuola-cattabrighe-via-po-15-quartiere-5-cattabrighe/
 way	1352779053	https://www.icdantealighieripesaro.edu.it/luogo/plesso-elio-tonelli/
-way	1354281499	http://www.agriturismoilcasale.net/
+way	1354281499	https://www.agriturismoilcasale.net/
+way	1355259728	https://www.provincia.pu.it/funzioni/ambiente/centro-ricerche-floristiche-marche/il-centro-ricerche-floristiche-marche
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
+relation	1512917	https://www.iismerlonimiliani.it/
 relation	1652522	https://www.riservasentina.it/
 relation	1749100	https://musei.beniculturali.it/musei?mid=4093&nome=anfiteatro-romano-di-ancona
 relation	2126671	https://www.mirahotels.com/it/nuovonaturalvillage
@@ -2729,9 +2734,6 @@ relation	17356915	https://www.grandeanellodeiborghiascolani.it
 relation	17356941	https://www.grandeanellodeiborghiascolani.it
 relation	17357079	https://www.grandeanellodeiborghiascolani.it
 relation	17357155	https://www.grandeanellodeiborghiascolani.it
-relation	17358463	https://www.grandeanellodeiborghiascolani.it
-relation	17358669	https://www.grandeanellodeiborghiascolani.it
-relation	17358806	https://www.grandeanellodeiborghiascolani.it
 relation	17371893	https://www.caiascoli.it
 relation	17386687	https://www.caiascoli.it
 relation	17409935	https://www.camminodeicappuccini.it/
@@ -2745,6 +2747,14 @@ relation	18474750	https://www.italiacoast2coast.it/
 relation	18511108	https://www.italiacoast2coast.it/
 relation	18511218	https://www.italiacoast2coast.it/
 relation	18523273	https://www.italiacoast2coast.it/
+relation	18621922	https://camminilauretani.eu/
+relation	18621923	https://camminilauretani.eu/
+relation	18621924	https://camminilauretani.eu/
+relation	18621925	https://camminilauretani.eu/
+relation	18621926	https://camminilauretani.eu/
+relation	18621927	https://camminilauretani.eu/
+relation	18621928	https://camminilauretani.eu/
+relation	18623025	https://www.interportomarche.it/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
@@ -3073,6 +3083,8 @@ node	3184281715	http://www.facebook.com/frontemarepesaro
 node	5180660621	http://www.luoghidelsilenzio.it/marche/02_eremi/00049/index.htm
 node	10001454964	https://www.pietredellamemoria.it/pietre/monumento-ai-martiri-della-liberta-jesi-an/
 node	10048771656	https://www.iomangiobiologico.it
+node	12533991038	https://ilregistrodeglialberi.it/7331-cedro-di-corinaldo-cedro-dellhimalaya-corinaldo-ancona-marche
+node	12534717843	https://ilregistrodeglialberi.it/15483-roverella-jesi-ancona-marche
 way	31869757	https://pontesancarlo.comune.jesi.an.it/
 way	39405476	https://www.jadrolinija.hr/en/fleet-ship/marko-polo?
 way	437828400	http://pesaro.fiere.name
