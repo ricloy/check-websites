@@ -793,6 +793,7 @@ node	2361720534	http://www.otticafabbroni.it/
 node	2361720639	https://www.gelateriafiorentina.com/
 node	2361722041	http://www.albrici.com
 node	2361723965	https://jandjhotel.net/
+node	2361724219	https://www.aji-tei.it/
 node	2361727478	https://www.museoleonardodavincifirenze.com/
 node	2361729005	https://www.stilografica.it/
 node	2361729156	http://recollection.albrici.com
@@ -889,6 +890,7 @@ node	2361955294	www.residenzamarotta.it
 node	2361955866	https://www.dimsumrestaurant.it/
 node	2361956423	https://biancorosso.business.site/
 node	2361956720	https://www.touristhouseliberty.it/
+node	2361960932	https://www.conad.it/ricerca-negozi/conad-city-viale-dei-mille-9-c-50131-firenze--005377
 node	2361961257	https://azlanguage.it;https://azlanguage.it/
 node	2361961348	https://www.ristorantesabatini.it/
 node	2361961515	https://duje.it/
@@ -2628,7 +2630,6 @@ node	6100273665	https://www.corilla.it/
 node	6109979877	http://pacinigomme.com
 node	6110709685	https://www.mamasbakery.it/
 node	6123219934	https://www.dormisano.it/
-node	6123283234	https://www.aji-tei.it/
 node	6123422614	https://www.madeinbit.it/
 node	6123434317	https://www.madeinapp.net/
 node	6147482315	http://ristorantecinesecittadoro.it/
@@ -3711,7 +3712,7 @@ node	8936068992	https://wixsite36479.wixsite.com/dischiniccoli
 node	8936383289	http://www.villabelvedere.com/
 node	8938577933	https://autoscuolamarradi.com/
 node	8939195841	http://www.plebecicli.it
-node	8939556917	http://ristorantececconi.altervista.org
+node	8939556917	https://ristorantececconi.it/
 node	8939933074	https://macellerialuca.com/braceria-luca-anghiari/
 node	8939944698	http://nuke.casagraziella.it/
 node	8941294060	https://www.continentalresort.it/
@@ -4195,7 +4196,6 @@ node	10081441263	http://www.comas-machines.com/
 node	10081672027	https://www.fluidservicesrl.it/
 node	10082685462	https://www.facebook.com/osterialostellario
 node	10082910317	https://bottegasicula.taak.xyz/
-node	10088658394	https://anticaporchetteriagranieri.it/
 node	10091401838	https://www.ipresidi.com/
 node	10097803361	https://thepodestaapartments.com/
 node	10098752911	https://www.mondial1908.it/gentlemens-barber.html
@@ -4663,7 +4663,6 @@ node	11208682967	https://www.palestradentrolemura.it/
 node	11215874307	https://ilpruno.net/sosta-camper/
 node	11215874308	https://ilpruno.net/il-glamping/
 node	11218831406	https://www.lestreghedelcolore.com/
-node	11219707289	https://at-bus.it
 node	11220196055	https://www.at-bus.it/
 node	11221290201	https://www.koffeestore.it/
 node	11221290202	https://www.vitabyte.it/
@@ -5066,7 +5065,6 @@ node	11598116397	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali
 node	11598116398	https://www.bancatema.it/
 node	11599427494	http://www.mokapizzeria.it/
 node	11600715738	https://www.mandragora.it/
-node	11602921978	https://www.vigilfuoco.it/sitiVVF/siena/dislocazione.aspx?s=505&p=1500&codprov=64
 node	11611866747	https://www.accademiablu.net/
 node	11614946226	https://mudpotteryclub.blogspot.com
 node	11616884066	https://www.prink.it/siena/0171
@@ -6282,6 +6280,8 @@ node	12517188037	https://flyscabris.it/
 node	12517190002	https://maremmafly.it
 node	12518760263	https://www.scoutbsl1.it/
 node	12526800805	https://www.prontopegno.it/pisa
+node	12533714501	https://www.raaro.it/
+node	12550106324	https://locations.coinflip.tech/it/ar/arezzo/via-eritrea-7/7a
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -6810,6 +6810,7 @@ way	195585509	www.bdeval.com
 way	195636099	https://ilbarrinoditatti.it/
 way	195636317	http://www.tattifattoria.it
 way	195978793	https://www.ilpalazzone.com/
+way	196106818	https://www.at-bus.it/
 way	197389906	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/6303
 way	197778365	https://www.pinocchio.it/parco-di-pinocchio/
 way	199059406	http://www.villasanmichele.com
@@ -7405,7 +7406,6 @@ way	465666406	https://www.orangeriedichase.it/
 way	465703014	http://www.florencedecamerone.it/
 way	465854960	https://www.bernistore.it/
 way	465854961	https://www.luccaplus.it/
-way	465899399	https://www.at-bus.it/
 way	465950980	https://www.coopfirenze.it/punti-vendita/firenze-via-reginaldo-giuliani-111
 way	466173686	https://www.aldodelcarlolamiere.it/
 way	466649271	https://csaexemerson.org/
@@ -7496,7 +7496,6 @@ way	522699836	https://www.chessaonline.com/
 way	522847768	http://www.villalacostaglia.it/
 way	522848968	https://www.lasovana.com/
 way	522849038	www.lebucheresort.com
-way	522855020	https://www.marinadiportoferraio.it/
 way	522864762	https://www.agriturismoustori.it/
 way	522870949	http://www.cvmm.it
 way	522881743	http://www.rtv38.com/wordpress/
@@ -7670,6 +7669,7 @@ way	637112950	https://lavillapistoia.com
 way	637192270	https://pucini.it/
 way	641707118	https://www.poggiocovili.com/
 way	643527516	https://www.istitutodeandre.edu.it/scuola-dellinfanzia-s-casciano/
+way	648234710	https://www.geal-lucca.it/
 way	648807480	https://www.cussienascherma.it/
 way	649529768	https://www.hotelsanmarcolucca.it
 way	654332302	http://www.orlandiauto.com/chisiamo.htm
@@ -8551,6 +8551,7 @@ way	1345258383	https://www.facebook.com/VilladelBandino/
 way	1345258385	https://www.ittmarcopolo.edu.it/
 way	1348970235	https://www.falesiaonline.it/falesia/canne_d_organo.html
 way	1351015470	https://cclanticamicizia.wixsite.com/ccam
+way	1354462722	https://conventosanbartolomeo.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -8973,7 +8974,6 @@ relation	7850470	https://www.caielba.it/percorsi/
 relation	7850514	https://www.caielba.it/percorsi/
 relation	7850526	https://www.caielba.it/percorsi/
 relation	7850588	https://www.caielba.it/percorsi/
-relation	7850985	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII177498
 relation	7853011	https://www.islepark.it/rete-sentieristica/sentieri-escursionistici/elba-occidentale/176
 relation	7853242	https://www.caielba.it/percorsi/
 relation	7853280	https://www.caielba.it/percorsi/
@@ -9676,6 +9676,7 @@ relation	18560789	https://www.italiacoast2coast.it/
 relation	18560875	https://www.italiacoast2coast.it/
 relation	18585036	https://www.caiscandicci.it/
 relation	18585203	https://www.caiscandicci.it/
+relation	18633314	https://www.caiscandicci.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
 node	256819101	https://www.unicooptirreno.it/punto-vendita/viareggio
@@ -10060,6 +10061,7 @@ node	8903724752	https://pizzeriadatoni.com
 node	8938700580	https://www.aziendapoggiogrande.it
 node	8944224831	http://www.cecinacuore.it
 node	8958011366	https://www.postocafe.it/it/home
+node	8979795174	http://www.fiorellapelle.it/
 node	8983927018	https://essenzainsanminiato.it/
 node	9021179762	https://menu.pienissimo.com/menu
 node	9038885352	https://branzo.it/
@@ -10185,6 +10187,10 @@ node	12307006138	https://www.santamariadeiservi.it/
 node	12309506134	https://www.casadonella.it/
 node	12320864826	http://www.agriturismodraghi.it/
 node	12484025624	https://www.bluaziende.com/azienda/toscana/po/comeana/galeno_srl_medicinali_e_prodotti_farmaceutici/
+node	12536552989	https://www.croceverdeportoferraio.it/
+node	12537598853	https://www.giangastone.com/
+node	12537598854	https://it.sisley.com/
+node	12537598957	http://www.fiorellapelle.it/
 way	28396159	https://www.basilicacateriniana.it/
 way	37737483	https://www.montepulcianoliving.it/parcheggi/
 way	41735556	http://www.verrazzano.com/
@@ -10335,6 +10341,7 @@ way	694479895	http://www.poderelesodole.com/
 way	694479896	http://www.aquatempra.it/
 way	694479908	https://monasterocellole.it/
 way	699028779	http://www.aeroclubmarinadimassa.it/
+way	699299918	https://sezionecaifilattiera.blogspot.com/p/bivacco-porcili.html
 way	702637874	https://www.lastagionedellarte.it
 way	704367010	http://www.oasilabadia.com
 way	714980311	https://www.termedigambassi.com/
@@ -10365,6 +10372,7 @@ way	1329922672	https://www.eremodicerbaiolo.org/
 way	1330131003	https://calafonte.it/
 way	1333218980	https://frantoiolamacina.it/
 way	1333220589	https://www.lamontaninaaziendaagricola.it/it/area-camper.php
+way	1354981353	https://www.isisforesi.edu.it/
 relation	25564	https://www.at-bus.it/
 relation	1014432	http://www.abbaziasansalvatore.it/
 relation	1178262	https://www.campingtripesce.it
