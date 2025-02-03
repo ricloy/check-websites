@@ -27,6 +27,7 @@ node	390851249	https://museipuglia.cultura.gov.it/musei-puglia/galleria-nazional
 node	399901135	https://bidonvillestore.it/
 node	401356637	https://www.panificiomagda.com/
 node	411907212	https://www.comune.foggia.it/
+node	448683033	https://www.ucicinemas.it/cinema/puglia/bari/uci-cinemas-molfetta-bari/
 node	452926593	https://www.hotelcastellinaria.it/
 node	475187502	https://www.conforama.it/
 node	503101623	https://www.decathlon.it/
@@ -142,6 +143,7 @@ node	1962621992	http://www.sanita.puglia.it/portal/page/portal/SAUSSC/Aziende%20
 node	1997062614	https://www.pietrablu.it
 node	2016947196	https://www.proghettolab.it/
 node	2026462298	www.laleggendadeltesoro.it
+node	2069339084	https://qualitysport.com/
 node	2108393993	https://www.naturistgargano.it/
 node	2120126149	https://apogeo.biz/
 node	2183600220	https://www.oasivacanze.it/
@@ -708,6 +710,7 @@ node	5211288721	https://www.museoarcheologicosantascolastica.it/index.php/it/
 node	5211806241	www.domusapuliae.com
 node	5214027380	https://www.metanofoggia.it/
 node	5216221125	http://www.clamagioielli.com
+node	5218732653	https://www.sanita.puglia.it/web/asl-brindisi/ospedali_det/-/journal_content/56/36031/presidio-di-francavilla-fontana-ceglie-messapica
 node	5220458174	http://www.farmaciabrescia.com/
 node	5224308303	https://magnetowellness.it/
 node	5227106172	https://www.eurospin.it/
@@ -1430,6 +1433,7 @@ node	9168421512	https://www.arainn.it/
 node	9170237597	https://www.tarantoisolablu.it/
 node	9176875694	https://guagnanosoccorso.jimdofree.com/
 node	9178482229	https://www.ctptaranto.com/
+node	9181243747	https://www.flowersshopsrl.it/
 node	9181243791	https://www.ctptaranto.com/
 node	9183625892	https://www.famila.it/punti-vendita/puglia/famila-francavilla-fontana
 node	9189984664	http://www.porcellisnc.it/
@@ -1807,6 +1811,7 @@ node	9997986674	https://www.iosalento.com/
 node	9999379394	https://www.itabus.it/
 node	10007227617	https://www.casaleferrovia.it/
 node	10012795171	https://masseriacapece.com/
+node	10015232417	https://www.unicredit.it/it/privati.html
 node	10019116490	http://www.miccolis-spa.it/
 node	10022756277	https://www.villadonnalisa.it
 node	10026833795	https://www.facebook.com/people/Massimo-Cina/100069975849999/?ref=py_c
@@ -2689,7 +2694,6 @@ node	12498289592	https://www.tripadvisor.it/Restaurant_Review-g2552205-d12946492
 node	12507298135	https://www.conad.it/ricerca-negozi/margherita-conad-corso-vittorio-emanuele-172-74020-san-marzano-di-san-giuseppe--009256
 node	12507298136	https://www.bccsanmarzano.it/filiali/centro-direzionale/
 node	12507298140	https://www.conad.it/ricerca-negozi/conad-city-via-archita-18-74020-san-marzano-di-san-giuseppe--007814
-node	12509489483	"Mo 09:00-15:00,16:30-22:00;Tu off;We-Su 09:00-15:00,16:30-22:00"
 node	12512227404	https://www.generali.it/
 node	12512248079	https://www.otticagaleone.it/store/
 node	12512712620	https://www.instagram.com/daniele.martino.parrucchieri/
@@ -2708,9 +2712,24 @@ node	12531943234	https://www.cincinbar.it/
 node	12531943237	https://www.mondadoristore.it/
 node	12531943238	https://www.terranovastyle.com/
 node	12531943239	http://artiglishop.com/
-node	12531943241	http://www.otticapadula.com/
+node	12531943241	https://otticapadula.com/
 node	12531943242	http://lapasticceriadelcorso.com/
 node	12531943246	https://vinilecafe.it/
+node	12536147095	https://farmacieperrino.it/
+node	12536147096	https://www.robertogaleone.it/
+node	12536147103	https://www.ristorantearcolimpio.com/
+node	12536147104	https://www.intesasanpaolo.com/it/persone-e-famiglie.html
+node	12536267110	https://www.stoagoodvibes.it/
+node	12536288035	https://www.altosalentoveterinari.it/
+node	12536325110	https://www.instagram.com/scoobydootoelettaturasava/
+node	12536889785	https://www.poliziamunicipale.it/
+node	12536889786	https://vezristorante.it/
+node	12536889787	https://www.facebook.com/people/Il-Santo-Bevitore/61562686277293/
+node	12536956059	https://auroraletiziz.wixsite.com/bardegliimperiali
+node	12536956061	https://www.poste.it/
+node	12541254142	https://www.centridentisticiprimo.it/
+node	12542331987	http://www.isoladeibirichini.com/
+node	12549038068	https://www.arcidiocesitrani.it/caritas/servizi-caritas/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -2729,6 +2748,7 @@ way	44530945	https://www.parcheggiobarletta.it/
 way	46248315	https://www.istitutomarconimartina.edu.it/
 way	48218129	https://itispanetti.it/
 way	48503614	https://www.istitutocomprensivopietromennea.edu.it/
+way	55995908	https://www.scuolamichelangelo.edu.it/luogo/scuola-primaria/
 way	60175848	https://www.acayagolfresort.com/
 way	61559432	https://www.teatrocurci.it/
 way	68706890	https://itacahotel.it
@@ -2819,6 +2839,7 @@ way	233113272	https://www.villaggiobellariva.it/
 way	236398211	http://www.campofreddo.it
 way	239853311	http://www.agricampeggioleradici.it
 way	240305038	https://frontemarepuglia.it/
+way	240502996	https://www.alberghieromolfetta.edu.it
 way	240872402	https://www.victorvillage.it/it/
 way	241532003	https://dolmensansilvestro.beniculturali.it/
 way	241755450	http://www.vetreriadeserto.it
@@ -3547,9 +3568,9 @@ way	549031871	https://www.echidipuglia.it/
 way	549615609	https://www.penny.it/
 way	551310758	www.villabaronesrl.it
 way	552133082	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/48641
-way	552849954	https://www.pugliaoutlet.it/
+way	552849954	https://www.pugliavillage.it
 way	553977079	https://www.studiolegaledelleside.it/
-way	554627721	liceocasardi.edu.it
+way	554627721	https://www.liceocasardi.edu.it/
 way	558827364	https://www.globomoda.com/
 way	559420055	https://www.mondoconv.it/
 way	559789136	http://www.polotecnologico-sansevero.gov.it/
@@ -3687,6 +3708,7 @@ way	979698646	https://www.fattoriadellamandorla.it/
 way	979698647	https://www.agriturismofariello.it/main/
 way	984218213	https://www.pianetaostuni.it/index.php/18-chiese-rurali/564-soluco-26
 way	987608831	https://petrusella.it/en/
+way	991319831	https://www.villaromanazzi.com/
 way	991325823	https://www.ilparcodeidinosauri.it/
 way	993337613	https://www.ggsvigilanza.it
 way	993469066	https://euro92.it/en/accommodations/camping/
@@ -3946,6 +3968,13 @@ way	1353727870	https://www.colonnasaverio.com/
 way	1353955972	https://www.apmotorsbari.it/
 way	1353955973	https://mobile.evcharging.it/
 way	1354418422	https://www.comprensivoperonelevi.edu.it/luogo/plesso-secondaria-c-levi/
+way	1354997218	https://palazzorubino.it/
+way	1355731889	http://www.vogliadibene.it/
+way	1355733119	https://www.donguanellabari.it/
+way	1356007024	https://www.icmassarigalilei.edu.it/scuola/i-luoghi/sede-galilei/
+way	1356008556	https://www.icmassarigalilei.edu.it/scuola/i-luoghi/sede-montello/
+way	1356138870	https://www.iclaterzabari.edu.it/
+way	1356140681	https://www.uilpuglia.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
