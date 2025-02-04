@@ -191,7 +191,6 @@ node	1011091287	https://www.pizzeriapiropiro.it/
 node	1029814456	https://www.hoteljolanda.it/
 node	1029814460	https://www.santamargheritapalace.com/
 node	1030188084	https://www.bancobpm.it/trova-filiali/tutte-le-filiali/liguria/ge/00501/
-node	1076683390	https://www.farmaciadelrighi.it/
 node	1095221666	https://sites.google.com/site/salateatrosamuelbeckett/home
 node	1116059871	http://www.hortussolaro.it
 node	1119964952	https://cicliraso.com/
@@ -831,6 +830,7 @@ node	3865328700	https://www.bottiglieriaberta.com/
 node	3865625225	http://www.liberacollinadicastello.org
 node	3867211140	https://otsushi.it/
 node	3870833271	https://www.allaboutapple.com/
+node	3873176273	https://www.bstudiophotography.it/
 node	3873923249	http://www.questionedifeeling.it/
 node	3875307257	https://www.hamboo.it/
 node	3880621991	https://www.recomindustriale.com/it/
@@ -2392,7 +2392,7 @@ node	11640858559	https://vivaidevoto.com/
 node	11658016953	https://www.orologeriaoreficeriagiacomobruni.it
 node	11663512707	https://www.confael.net/imperia/
 node	11663512712	https://city-lab.it/app/lab-21-6/
-node	11663512714	www.happyprintimperia.it
+node	11663512714	http://www.happyprintimperia.it
 node	11682648625	https://parconaturalealpiliguri.it/
 node	11682648626	https://parconaturalealpiliguri.it/
 node	11682648627	http://www.studiomec.com/
@@ -2534,6 +2534,10 @@ node	12507113916	https://www.agenziarivieradeisogni.com/agenzia/
 node	12512999091	https://clinicaveterinariahaziel.it
 node	12522835536	https://pompefunebrisanremo.it
 node	12529535228	https://www.comune.bordighera.im.it/Amministrazione/Uffici/Ufficio-Anagrafe
+node	12543556712	https://www.genovabluedistrict.com/
+node	12548687692	https://ponenteligure.aci.it
+node	12549361572	https://insidevideo.it/
+node	12550913152	https://www.circolovelicoventimigliese.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2990,7 +2994,6 @@ way	268116331	https://www.operasancamillo.net/rsa-san-camillo
 way	279159709	https://www.tamoaclub.it/
 way	280237387	www.reefer.it
 way	280613087	http://www.itecci.it/
-way	282497489	https://www.musei.liguria.beniculturali.it/musei?mid=5054&nome=castello-di-san-terenzo
 way	283525191	https://www.provincia.savona.it/strade/sp45
 way	284194757	https://www.ferroviagenovacasella.it/geca/
 way	284378062	https://www.conad.it/ricerca-negozi/negozio.050053.html
@@ -3204,6 +3207,7 @@ way	625029375	https://www.sabait.it/it/parcheggi/genova/genova-canevari
 way	625126589	https://www.mymercato.it/punti-vendita/liguria/mercato-camporosso
 way	628412335	https://www.hotelrivieradeifiori.it/
 way	636976142	https://www.genovabusparking.it/
+way	656492047	https://www.parcourbanocafe.it
 way	677915594	https://www.provincia.savona.it/strade/sp45
 way	679767866	https://www.duegemelli.it/
 way	691088084	https://www.hotelmorandi.com/
@@ -3271,6 +3275,7 @@ way	1087039728	http://www.comune.cipressa.im.it/
 way	1090234561	https://www.duesse.eu
 way	1092457495	https://racingforce.com/it/
 way	1122438114	https://www.tesla.com/findus/location/supercharger/Sarzanaq222
+way	1151637308	https://www.icems-srl.it/autogru-e-trasporti
 way	1151637314	https://www.officine-volkswagen.it/autosport.html
 way	1153226951	https://apigenova.com/
 way	1157162522	https://www.arpal.gov.it/index.php?option=com_flexicontent&view=items&cid=56&id=179&Itemid=217
@@ -3331,6 +3336,7 @@ way	1336757252	https://www.instagram.com/allasorgente_enginengek/
 way	1342118945	https://donquiquepadelimperia.it/
 way	1342118948	https://donquiquepadelimperia.it/
 way	1343810683	https://www.manenahostel.it/
+way	1355972592	https://liguriadamare.com/caladisole/appartamenti.html
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -3421,7 +3427,6 @@ relation	4012634	https://www.cailaspezia.it/
 relation	4012659	https://www.cailaspezia.it/
 relation	4088684	https://www.cailaspezia.it/
 relation	4088726	https://www.cailaspezia.it/
-relation	4088736	https://www.cailaspezia.it/
 relation	4088757	https://www.cailaspezia.it/
 relation	4088777	https://www.cailaspezia.it/
 relation	4088807	https://www.cailaspezia.it/
@@ -3916,7 +3921,7 @@ node	2453829134	http://www.sonnodautore.it/
 node	2506405757	http://www.gter.it/
 node	2734489377	http://www.vivisol.it/
 node	2947470708	http://www.officineiadr.com
-node	3060571109	www.aikikai-imperia.it
+node	3060571109	https://www.aikikai-imperia.it/
 node	3060630914	www.veladoc.it
 node	3067083562	http://rifugiolacucciaimperia.blogspot.it/
 node	3423362280	https://savona.ubiklibri.it/
@@ -3945,7 +3950,7 @@ node	8285075495	https://www.ambulatoriocavallini.com/
 node	8760584910	https://www.zenamare.com
 node	9828595376	https://www.alliancemedical.it/
 node	9845098881	https://pizzeriasenese.it/
-node	9855217478	www.imperiascacchi.it
+node	9855217478	https://www.imperiascacchi.it/
 node	11087523992	https://www.golfodellaluna.it
 node	11299657682	https://www.autoscuolegruppozena.com/
 node	11380379580	http://www.bbgiutte.it
@@ -3966,6 +3971,9 @@ node	12222833048	https://fablabimperia.org/
 node	12410170928	https://www.icboine-imperia.edu.it/luogo/scuola-primaria-a-magliano/
 node	12456213408	https://www.easydepot.it
 node	12463418378	https://www.nidoscuolaumbertoemargherita.it/
+node	12543571522	https://www.rtimmobiliare.it
+node	12543571523	http://suoreminime.it/
+node	12547565703	https://www.ilnostrocaffeonline.it/
 way	134211659	http://www.celtorretta.it/
 way	158281161	https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html
 way	202331656	https://www.museodellorologio.it
