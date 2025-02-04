@@ -9,8 +9,8 @@ node	353049817	https://www.rifugiocuney.it/it/il-rifugio-barmasse/
 node	353049828	https://www.caitorino.it/rifugi/nacamuli/
 node	353049833	http://www.rifugioaosta.it/
 node	353049840	http://www.refuges.info/point/2339/refuge-garde/Alpes-Pennines-Haut-Valais/
-node	353049847	http://www.rifugiocreteseche.eu
-node	353081755	http://www.rifugio-champillon.it/
+node	353049847	https://www.rifugiocreteseche.eu/
+node	353081755	https://www.rifugio-champillon.it/
 node	353082192	https://www.chaligne.com/
 node	355336801	https://www.clubalpinoaccademico.it/index.php/bivacchi/item/138-bivacco-umberto-balestrieri
 node	355336802	https://www.caitorino.it/rifugi/balzola/
@@ -705,12 +705,12 @@ way	286994657	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	287802514	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	287802515	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	292943206	https://www.ristorantesociete.it/
-way	295875967	http://www.cervinia.it
+way	295875967	https://www.cervinia.it/
 way	302523703	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	302523704	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	302523705	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	302523706	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
-way	303518020	http://www.rifugioquintinosella.com/index_d.asp
+way	303518020	https://www.rifugioquintinosella.com/index_d.asp
 way	303711819	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	303711820	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	303711821	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -826,7 +826,7 @@ way	674113590	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	676271581	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	676271582	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	690431998	https://www.chaletdelapoya.com/
-way	708274428	http://www.rifugiomantova.it/
+way	708274428	https://www.rifugiomantova.it/
 way	738719190	https://www.comune.verrayes.ao.it/
 way	781163853	https://www.oavda.it/
 way	781503671	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -857,6 +857,7 @@ way	1154606514	https://www.ravspa.it/index.php?option=com_content&view=article&i
 way	1197121607	https://www.bivaccoedoardocamardella.it
 way	1204931540	https://www.lovevda.it/it/banca-dati/7/bivacchi/sarre/bivacco-alessandro-pansa/3252
 way	1317457820	https://www.rebelpark.it
+way	1355978520	https://www.valgrisencheski.it/
 relation	162371	https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/cogne-rifugio-sogno-di-berdze/2974
 relation	372502	http://www.alptrekking.ch
 relation	1004348	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
