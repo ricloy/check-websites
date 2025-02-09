@@ -419,6 +419,7 @@ node	1389607173	https://www.nonnaisa.com/node/567
 node	1395285599	http://janashotel.it
 node	1416158749	https://www.itticacabras.it/
 node	1416158812	https://trattoriailboscaiolo.it/
+node	1429128344	https://www.dolcesalatoriola.it
 node	1436619598	https://www.museoarcheologicodorgali.com/siti-di-interesse/40-dolmen-monte-longu
 node	1448227771	https://www.hoteldacesare.com/
 node	1452759826	https://www.notoriouscinemas.it/cagliari/index.php
@@ -732,7 +733,6 @@ node	3275212951	http://www.salarisdonnamaxmara.com/
 node	3275213552	http://www.gaiasilverpoint.com/
 node	3275215239	http://www.immobiliaretharros.it/
 node	3275215252	http://www.blao.it/
-node	3275215268	http://www.supersportracing.it/
 node	3275215296	http://www.lamicofuoco.it/
 node	3275215885	http://www.bizikizi.it
 node	3275216227	http://www.copycreativity.it
@@ -750,6 +750,7 @@ node	3275218705	http://www.ic30.com/sanitre/
 node	3275218717	https://wavesurfshop.it/
 node	3275220356	https://www.hotelmistraloristano.it/
 node	3275220596	https://www.casadellamusica.net/
+node	3275221484	https://www.komos.it
 node	3275223967	http://www.eleonoraviaggi.it/
 node	3275224175	https://www.vicinoatesupermercati.it/
 node	3275224370	https://www.onoranzefunebri-melis.com/
@@ -1751,6 +1752,12 @@ node	12410053155	https://davinci81.com/
 node	12443798815	https://bardys.eatbu.com/
 node	12529078577	https://www.dgtstudio.it/
 node	12538731016	https://www.agriturismodorgali.com
+node	12550966246	https://www.farmaciasirca.it
+node	12556844101	https://agriturismonuraghemurtarba.wordpress.com/
+node	12561788437	https://www.ilfornaioatzori.com
+node	12561788440	https://www.ilfornaioatzori.com
+node	12561788441	https://www.ilfornaioatzori.com
+node	12567441694	https://i4archidelgusto.com
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1844,7 +1851,6 @@ way	151614484	https://gostolai.net/
 way	151739035	http://www.sutempiesu.it/
 way	154101977	http://il-moletto.it/
 way	154635497	https://www.arredamentifarris.eu/
-way	155265046	https://it.wikipedia.org/wiki/Parco_di_Monte_Urpinu
 way	157827478	http://musei.beniculturali.it/musei?mid=445&nome=complesso-nuragico-sa-sedda-e-sos-carros
 way	157920212	https://www.rifugiogorropu.it/
 way	157926704	https://www.conad.it/ricerca-negozi/negozio.008618.html
@@ -1898,7 +1904,7 @@ way	188564761	https://www.ristorantesaccargia.com/
 way	190955014	http://www.prolocomusei.it/
 way	191100182	http://musei.beniculturali.it/musei?mid=5371&nome=museo-nazionale-memoriale-giuseppe-garibaldi
 way	194362860	https://www.guardiacostiera.gov.it/cagliari
-way	195947877	http://www.comunebono.gov.it
+way	195947877	https://www.comune.bono.ss.it
 way	197107889	https://www.boiautomobili.it/
 way	198020758	www.waterparadise.it
 way	198074375	http://www.sardegnacultura.it/j/v/253?s=20731&v=2&c=2461&c1=2617&t=1
@@ -2539,6 +2545,7 @@ way	750493551	https://www.mdspa.it/punti-vendita/Sardegna/OR-Oristano/920-Simaxi
 way	757855019	https://www.mercuryboutiquehotel.it/
 way	797877178	http://www.platamona.altervista.org/
 way	802172146	https://www.conad.it/ricerca-negozi/negozio.050445.html
+way	807807746	https://cittametropolitanacagliari.it/portale/page/it/parco_di_monte_claro?contentId=LGO3977
 way	814115957	https://www.mdspa.it/punti-vendita/Sardegna/Cagliari/797-Selargius
 way	816418825	https://www.istitutocomprensivo2alghero.edu.it/
 way	822427940	https://parcheggio-economy.it/
@@ -2594,7 +2601,6 @@ way	1242063880	https://www.sardegnabiblioteche.it/index.php?xsl=2813&s=2&v=9&c=5
 way	1249730342	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale/laghi-artificiali/nuraghe-pranu-antoni.html
 way	1256321047	https://arst.sardegna.it/orari_e_autolinee/servizimetross.html
 way	1257201020	https://sardafluid.it/
-way	1296653317	https://www.hoteldeipini.it
 way	1301752746	https://florgarden.it/
 way	1302252084	https://www.campingflumendosa.com/
 way	1304797864	https://www.hotelpuntanegra.it/
@@ -3047,6 +3053,7 @@ relation	8815990	http://www.sardegnasentieri.it/sentieri/mitza-su-suergiu-burdon
 relation	9102765	http://www.grandetraversatadelsupramonte.it/
 relation	9102766	http://www.grandetraversatadelsupramonte.it/
 relation	9102767	http://www.grandetraversatadelsupramonte.it/
+relation	11516882	https://www.algheroparks.it/
 relation	11583449	https://ropewiki.com/Gorroppu
 relation	11583450	https://ropewiki.com/Flumineddu
 relation	11583451	https://ropewiki.com/Orbisi
@@ -3220,7 +3227,8 @@ relation	18349762	https://www.sardegnasentieri.it/sentiero/arcu-sa-spina-arcu-su
 relation	18375428	https://www.cicloviadellasardegna.it/
 relation	18504922	https://portosantateresa.com/
 relation	18528198	https://www.sardegnasentieri.it/sentiero/bau-sacua-callenti-baccu-sa-figu-c-807
-relation	18573181	https://www.sardegnasentieri.it/sentiero/incrocio-801-sa-grutta-fra-conti-sentiero-italia-c-800b
+relation	18573181	https://www.sardegnasentieri.it/sentiero/incrocio-801-sa-gruta-fra-conti-sentiero-italia-c-800b
+relation	18666669	https://www.hoteldeipini.it
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -3985,7 +3993,6 @@ way	567547177	http://www.satancaebore.it
 way	567859955	http://www.agriturismosuvrau.com
 way	572130152	http://www.agriturismobaccucardu.it
 way	572779652	http://www.teknolegno.it
-way	573660953	http://www.trattoriasumandigu.com
 way	575245715	http://www.orangemoonagriturismo.com
 way	575457452	www.ippodromovillacidro.it
 way	577454033	http://www.agriturismo-perdaniedda.com/
