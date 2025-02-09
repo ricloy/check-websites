@@ -2871,7 +2871,6 @@ node	11309385750	http://www.kingasale.it/kinga.html
 node	11309385751	https://www.dannunzioecascella.it/
 node	11309385753	https://www.adr-group.it/
 node	11309994063	https://www.dinicolacostruzioni.it/
-node	11323124685	https://www.ilcascinale.com/?gclid=EAIaIQobChMI_PXa_LCsggMV3FJBAh12PA3aEAAYASAAEgIHPfD_BwE
 node	11323349311	https://www.cittasantangelovillage.com/negozi/rebel-queen-by-liu%E2%80%A2jo/
 node	11323349312	https://www.cittasantangelovillage.com/negozi/primadonna-collection/
 node	11323349313	https://www.cittasantangelovillage.com/negozi/arena/
@@ -2933,6 +2932,7 @@ node	11351207643	https://www.bricoio.it/it/it/brit/storelocator/store/1250
 node	11351207644	https://stores.upim.com/it/italia/abruzzo/teramo/teramo-contrada-fiumicino
 node	11351978157	https://www.primissrl.it
 node	11355703014	https://www.bec.energy/?lang=en
+node	11358137158	https://www.onoranzefunebrilagiuliese.it/
 node	11359792417	https://www.bicigrillabruzzo.com/
 node	11360203044	https://www.repower.com/it/dina/
 node	11360340207	https://www.urmet.com/it-it/
@@ -3259,6 +3259,12 @@ node	12541228998	http://www.disilvestro.it/
 node	12542219046	https://www.pinetovacanze.com
 node	12544150633	https://www.laboratorioitaliaanalisi.it/
 node	12548746464	https://www.ristorantelancoragiulianova.it/
+node	12553496971	https://www.planetcasa.it/
+node	12558324082	https://wakuizakaya.com/
+node	12558395805	https://www.immobiliaremgchieti.it/
+node	12558457560	https://www.dldesignarredamenti.com/
+node	12558487041	https://negozi.naturasi.it/italia/chieti/chieti
+node	12564896553	https://www.lanuovachitarra.it/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3328,6 +3334,7 @@ way	86585507	http://www.aeroportodeiparchi.it/
 way	88359368	https://www.monacelliarredi.it/
 way	88529788	https://www.lagrottadeiraselli.it/
 way	91903686	http://www.dimoravillaperenich.it/eng/index.html
+way	92252850	https://www.rivanuova.com/
 way	92256493	https://www.ducaamedeo.it/
 way	93929115	http://www.hotelmion.it
 way	93951552	https://www.villaggiolidodabruzzo.it/en/
@@ -4288,6 +4295,7 @@ way	1310460831	https://centrofraternitas.it/
 way	1310999155	https://www.plastitime.com/
 way	1311085807	https://www.info.asl2abruzzo.it/assistenzaterritoriale/dsbvilla.html
 way	1311684192	https://www.vivaigardencenter.it/
+way	1311955083	https://www.youtube.com/watch?v=-Vv3jKHBdIs
 way	1311999419	https://www.izs.it/
 way	1312463574	https://www.jw.org/it/
 way	1312641328	https://miton.it/
@@ -4327,6 +4335,7 @@ way	1350660463	https://www.residencehelene.com/
 way	1350660468	https://www.hotellasirenetta.it/
 way	1350675919	https://www.residenceilborgo.it/
 way	1355210001	https://www.pinetovacanze.com
+way	1356410521	https://www.ilcascinale.com/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4420,7 +4429,6 @@ relation	12402883	https://www.caisora.it
 relation	12494230	https://www.top-rated.online/cities/San+Giovanni+Teatino/place/p/9728428/Lago+dell%27Ippodromo
 relation	12548343	https://www.piantando.it
 relation	12569594	https://it.wikiloc.com/percorsi-mountain-bike/chieti-calanchi-casalincontrada-serramonacesca-23820167
-relation	12574793	https://aurum.comune.pescara.it
 relation	12585938	https://www.villese.it/index.php/en
 relation	12593198	https://ic9pescara.edu.it
 relation	12598894	https://il-pozzo-dei-desideri-castelnuovo-perugia.hotelmix.it
