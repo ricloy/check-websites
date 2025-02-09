@@ -1,7 +1,6 @@
 @type	@id	website
 node	26860775	https://www.cirucco.it/
 node	26860782	https://www.ilcicero.it/
-node	253926996	https://www.funiviaetna.com/
 node	256277241	https://www.villahirschen.com/
 node	256288197	https://www.parkphiliphotel.it/
 node	267672822	https://coopgrupporadenza.it/
@@ -902,7 +901,6 @@ node	3597700618	http://lagoverdeagriturismo.it
 node	3598593223	https://palermo.aci.it/
 node	3622177435	http://www.stecconatura.it
 node	3622211288	https://caffe-pino.business.site
-node	3622954655	www.katiaatelier.it
 node	3650680537	https://www.odontoiatriadeluca.it/
 node	3665953834	https://www.archbioedil.it/
 node	3668542549	https://www.poste.it
@@ -1754,6 +1752,7 @@ node	6343512297	https://web.facebook.com/venusristorantepizzeria/
 node	6348434897	http://www.favignanamare.it/
 node	6355843102	https://www.telebitconsulting.it/
 node	6361223736	https://librerianunnari.it
+node	6361615810	https://www.tinefiori.it/
 node	6361615959	https://motorsud.it
 node	6364695332	https://www.grandvision.it/it-it/trova-negozi/negozio?storeNumber=K147&cid=yext_GMB_website_K147
 node	6364695334	https://www.prezzemoloevitale.net/
@@ -2436,6 +2435,7 @@ node	8388857196	https://www.poste.it
 node	8389899007	https://www.nextcasa.it/
 node	8398485315	https://www.arcaplanet.it/
 node	8400964227	https://www.mcdonalds.it/ristorante/sicilia/catania/catania-alcala
+node	8400964297	https://duomoofcatania.it/
 node	8402577678	https://www.centrodiaccoglienzasantalucia.it/
 node	8405895174	http://www.siciliafotografica.it/gallery/index.php?/category/1353
 node	8406634758	http://www.albracieredellochef.com/
@@ -3059,6 +3059,7 @@ node	10084510914	https://www.caveox.it/
 node	10090429517	https://www.cisalfasport.it/
 node	10090457833	https://www.mondodivani.net/
 node	10091555286	https://bardellangolo.it/
+node	10093126378	https://www.trenomuseovillarosa.com/
 node	10095842036	https://www.ilcubosrl.com/
 node	10099148580	https://www.mangiafico1972.it/
 node	10102155007	https://www.caitaormina.it/
@@ -3805,6 +3806,8 @@ node	12544901861	https://www.dais.it/
 node	12549465324	https://ajamolapalermo.it
 node	12549515553	https://www.coronatrattoria.com
 node	12549689248	https://bbruggeroprimodisicilia.it/
+node	12556919816	https://www.booking.com/hotel/it/casa-e-putia-gangi.html
+node	12568915010	https://www.palazzobutera.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3899,6 +3902,7 @@ way	41424754	https://www.scuoladeledda.it/
 way	41424762	https://www.montessorimascagnict.edu.it/
 way	41689601	http://www.marketmoda.it/
 way	43168158	https://www.icspadrepio-misterbianco.edu.it/
+way	44177572	https://www.funiviaetna.com/
 way	44177573	https://www.rifugiosapienza.com/
 way	44177576	https://terrazzaetnasud.it/
 way	44335431	https://www.unipa.it/amministrazione/areasistemiinformativieportalediateneo/
