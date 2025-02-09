@@ -86,6 +86,7 @@ node	68507919	http://www.comune.polino.tr.it/
 node	68507924	http://www.comune.pennainteverina.tr.it/
 node	68507926	http://www.comune.aviglianoumbro.tr.it/
 node	68507931	https://www.comune.porano.tr.it/
+node	249249394	https://almangiarbene.it
 node	269742013	https://www.castelrigone.com/
 node	331801034	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 node	331801036	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -116,7 +117,7 @@ node	895749442	https://www.facebook.com/parrocchiasanzenone.terni/
 node	905712384	https://www.jw.org/it
 node	926478218	http://www.lemura.net
 node	926478302	https://www.hotelitaliafoligno.com/
-node	926597793	http://www.stellaristorantevineria.it/
+node	926597793	https://www.stellaperugia.it
 node	928270674	https://www.racingbikes-perugia.net/
 node	937891527	https://www.conad.it/ricerca-negozi/negozio.005912.html
 node	937891621	https://www.farmaciaterni.it/old/comunale-6/
@@ -396,6 +397,7 @@ node	4482077723	https://agriturismospoleto.net/
 node	4482268134	https://www.poste.it/
 node	4517197957	https://www.hubhotel.net
 node	4518215609	https://www.leggimenu.it/menu/75p4df2k7tt1/69449
+node	4526609095	https://civico25.com
 node	4526987540	trattoriaborgosanfrancesco.it
 node	4527120356	http://musei.beniculturali.it/musei?mid=287&nome=galleria-nazionale-dellumbria
 node	4527220093	https://perugia7.tecnocasa.it
@@ -677,8 +679,10 @@ node	9487978180	https://podereparadiso.it
 node	9487978181	https://www.casaleilpicchio.it
 node	9487978204	https://www.cmcasamia.com
 node	9506361991	https://it-it.facebook.com/villalamaesta/
+node	9609576317	https://osteriaibirbi.com
 node	9629702413	https://tecnographsnc.business.site
 node	9651281696	https://antoniofalconechef.it/
+node	9656281669	https://www.locandadelbracconiere.com/
 node	9659064700	https://www.bwebinformatica.com
 node	9659064701	https://www.immobiliarequadracciaamelia.it/
 node	9707396470	https://pro-animale.de/pro-animale-international/italien/sorriso-di-san-francesco/?lang=en
@@ -970,7 +974,15 @@ node	12480976478	https://www.instagram.com/bgiuestetica/
 node	12492296176	https://www.uslumbria2.it/notizie/centro-di-salute-n-1-tacito
 node	12504290932	https://www.polycar.eu/it/contatti/
 node	12531349501	https://mofarelettrodomestici.com
+node	12532165875	https://www.studiodentisticomunzi-rocchi.it/
 node	12540087389	https://trattoriadalcastiglionese.it
+node	12551629801	https://www.uslumbria1.it/struttura/poliambulatori-perugia-p-le-europa-e-p-s-giovanni-2/poliambulatorio-ponte-s-giovanni-perugia/
+node	12551662301	https://www.siaambiente.it/servizi/centri-di-raccolta/deruta/
+node	12552871634	https://locations.familysearch.org/it/it/terni-tr/via-del-rivo-252
+node	12557377274	https://www.lasostadiannibale.it/
+node	12567203095	https://www.areagiannoni.it/
+node	12567210896	https://www.fratelliciotti.it
+node	12567210897	https://ewiva.com/colonnine-ricarica/Italia/Umbria/Perugia/Deruta/EW_PG_00549+Via+Tiberina+44b/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -2006,6 +2018,7 @@ way	1332877889	https://www.lietasosta.it/
 way	1333218154	https://www.fattoriagiorgetti.it/
 way	1334245871	https://turismo.tadino.it/informazioni-aree-camper-biblioteca/
 way	1334245872	https://turismo.tadino.it/informazioni-aree-camper-biblioteca/
+way	1357196484	https://www.assisicasafrancesca.it/
 relation	2997264	https://casasangirolamo.azionecattolica.it/
 relation	3444241	https://www.casamonteripido.it/
 relation	8050899	http://www.viaggispirituali.it/strutture-turismo-religioso/umbria/monastero-s-croce_3353/
