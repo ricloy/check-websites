@@ -23,6 +23,7 @@ node	267234391	https://www.museodiocesanotridentino.it/
 node	268636415	https://www.reiterhof-bacher.com
 node	269145543	http://allagrotta.com
 node	269184847	https://www.cultura.trentino.it/Luoghi/Tutti-i-luoghi-della-cultura/Musei-e-collezioni/Spazio-Archeologico-Sotterraneo-del-Sas
+node	269193687	https://ristorantepizzeria-alvesuvio.eatbu.com/?lang=en
 node	272315852	https://www.valgardena.it
 node	275366007	https://www.gasteiger.it/sessellift-korblift/
 node	276044964	https://www.trafoi.net/
@@ -833,6 +834,7 @@ node	1723094360	https://www.weihrerhof.com
 node	1727066061	https://www.hotellagodigarda.it/
 node	1737540231	https://www.millenniumcaffedaciro.it/
 node	1739076436	https://www.archeoparc.it/
+node	1740376142	https://instagram.com/sartoria_vicolodelvo
 node	1740376152	https://www.studio3a.tn.it
 node	1741126715	https://www.roemerkeller.it/
 node	1741127624	http://www.autoflarer.it
@@ -1028,7 +1030,7 @@ node	2162288924	https://www.skisporting.com/
 node	2166575473	https://www.happmpappm.com/
 node	2170989194	https://www.bellezzastudio.eu/
 node	2171925112	https://www.hotel-gschwendt.it/
-node	2171925116	http://www.binta.it/
+node	2171925116	https://www.binta.it/
 node	2173364098	https://furlhuette.com/
 node	2178895823	https://www.locandadelletrechiavi.it/
 node	2184359835	https://www.fassa.com/EN/Skibus-service/
@@ -2208,7 +2210,7 @@ node	3157004013	http://www.gemeinde-rasenantholz.bz.it
 node	3157042223	https://www.gemeinde.innichen.bz.it/de/dienste/dienste-a-z.asp?&diensteaz_action=4&diensteaz_article_id=4765
 node	3157761699	https://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/landesnotrufzentrale.asp
 node	3168234598	https://www.biathlon-martell.com/
-node	3168672662	http://www.anjoka.it/conad-latsch-2/
+node	3168672662	https://www.anjoka.it/geschaeftsfelder/conad/
 node	3168672664	http://www.energiehaus.it/
 node	3168672666	http://www.goldschmied-gamper.com/
 node	3168672673	https://de-de.facebook.com/pages/Marions-Fashion-Latsch/1430088840570792
@@ -4362,7 +4364,7 @@ node	6875172178	https://www.caseificiocercen.it/
 node	6875316777	https://www.cosmo-bruneck.com
 node	6878348965	https://www.ortlerblick.it/
 node	6879147768	https://www.goldschmiede-zwick.com/
-node	6879664385	http://furscher-muehle.it/
+node	6879664385	http://furscher-muehle.it
 node	6885530886	https://www.1477reichhalter.com/
 node	6892678584	http://www.costantin-merano.it
 node	6895631721	https://www.pinetacaldonazzo.com/
@@ -5822,6 +5824,7 @@ node	11535643414	https://www.parcoforteampola.it/
 node	11539530671	https://www.fruemess.it/
 node	11542449892	https://it.vallediledro.net
 node	11542449893	http://www.chalet-palo.it
+node	11545319066	https://www.alpstay.kross.travel
 node	11545669856	http://www.imballaggiconcei.eu/
 node	11545669857	https://www.bmgimballaggi.it/
 node	11545677269	https://www.casollalegno.com
@@ -6252,6 +6255,8 @@ node	12534798842	https://www.coronadolomiteshotel.com
 node	12544296776	https://www.kioostudio.it/
 node	12552276202	https://www.luisalm.it
 node	12553574601	https://www.stafflerbz.com
+node	12574053205	https://www.apartmentpauli.com/
+node	12578429304	https://www.instagram.com/atipico.sushi/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -7290,6 +7295,7 @@ way	120201443	https://www.rifugiofazzon.com/
 way	120582203	www.villaflorahotel.it
 way	120588424	http://www.granancei.com/
 way	120713425	https://www.ombitaly.it/
+way	120735723	http://www.puntatrieste.it/
 way	120866133	https://www.ciasasandra.com/
 way	121099356	https://www.bella-vista.it/
 way	121180817	https://www.buonconsiglio.it/index.php/it/Castello-di-Stenico
@@ -7524,7 +7530,6 @@ way	131861854	https://www.villataxis.it/
 way	131861926	https://www.masomartis.it/
 way	132236060	https://www.bortolotticaminetti.com/
 way	132280889	http://www.golfandcountry.it/freudenstein/
-way	132385754	https://www.bikeshuttle.it/
 way	132540946	https://www.comune.sluderno.bz.it/system/web/zusatzseite.aspx?menuonr=218886155&detailonr=209478748&sprache=3
 way	132700433	https://www.familyresort-rainer.com/
 way	132758449	http://www.toerggelen-jenesien.com/
@@ -8140,6 +8145,7 @@ way	209266124	https://www.seiseralm.it/it/esperienze-e-piaceri-culinari/buoni-sa
 way	209266172	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-gardena/gardena-groednerhof-gourmet-hotel-spa/824D84E229E711D599D20050DA7125DB/
 way	209266201	https://www.casa-alsole.it/
 way	209266345	https://www.villa-laurin.de/
+way	209266356	https://www.furschermuehle.com
 way	209266431	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-gardena/apartments-oswald/824D861729E711D599D20050DA7125DB/
 way	209266564	https://www.dolomitenhof.it/
 way	209266635	https://www.valgardena.it/en/accommodation/base/hotel/ortisei-val-gardena/hotel-cosmea/824D84DF29E711D599D20050DA7125DB/
@@ -8509,7 +8515,6 @@ way	236784725	https://www.bergblick-naturns.com/
 way	236784744	http://www.oberreindlhof.it/
 way	236784748	https://www.nocturnes.it/
 way	236960761	https://www.fachschule-kortsch.it/
-way	236960773	http://www.hoteldreikreuz.it/
 way	236960774	https://www.gasthof-sonne.info/
 way	236960775	https://kortscherhof.com/
 way	236960787	http://www.feldgaertenhof.com/
@@ -9461,6 +9466,7 @@ way	641975739	https://www.otticapassuello.it/
 way	643328227	https://larentispavimenti.com/
 way	643435573	https://www.kellereibozen.com/
 way	647880450	https://www.gardenparadise.it/
+way	650674382	https://www.battocchi.it/it/
 way	651671764	http://hotel-panorama.passo-del-tonale.hotels-in-it.com
 way	653358026	https://www.appartments-heidenberger.com
 way	653944640	https://www.schoeneben.it
@@ -10315,6 +10321,7 @@ relation	3200505	https://www.sat.tn.it/
 relation	3200610	https://www.sat.tn.it/
 relation	3202310	https://www.sat.tn.it/
 relation	3203687	https://www.sat.tn.it/
+relation	3205415	https://www.schweizmobil.ch/de/veloland/routen/regionale-routen/route-027.html
 relation	3215949	https://www.alpinfitness-waldcamping.it/
 relation	3223145	https://www.camping-seiseralm.com/
 relation	3223153	https://www.golfstvigilseis.it/
@@ -11385,6 +11392,7 @@ relation	18622998	https://www.drei-zinnen.info/de/aktiv-sport/winter/langlaufen/
 relation	18622999	https://www.drei-zinnen.info/de/aktiv-sport/winter/langlaufen/loipen/rid-E0BCACBF05F46F1627AD03004E163F73-31-niederdorf-niederdorf-bahnhof-bis-welsberg.html
 relation	18623002	https://www.drei-zinnen.info/de/aktiv-sport/winter/langlaufen/loipen/rid-743046225CAC40FE02EAE184237DB84F-11-toblach-val-fonda-runde.html
 relation	18623003	https://www.drei-zinnen.info/de/aktiv-sport/winter/langlaufen/loipen/rid-A414943CD7C03E107E6D73D6668A985B-11-toblach-gemaerk-langlaufstadion-variante.html
+relation	18675308	https://www.halslhuette.it/
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -13202,7 +13210,6 @@ relation	2962979	https://portal.tirol.gv.at/TirolGvAt/bikeAbfrageDetail.do?cmd=b
 relation	3200015	https://fstatic2.mtb-news.de/f3/20/2008/2008450-9fykdaxxc53f-dscf1581-large.jpg
 relation	3200833	https://fstatic2.mtb-news.de/f3/20/2008/2008450-9fykdaxxc53f-dscf1581-large.jpg
 relation	3201798	https://fstatic2.mtb-news.de/f3/20/2008/2008450-9fykdaxxc53f-dscf1581-large.jpg
-relation	3205415	https://www.schweizmobil.ch/de/veloland/routen/regionale-routen/route-027.html
 relation	5720428	http://www.filovignola.it/vignolavventura
 relation	6990942	https://www.skipasscortina.com/
 relation	7633119	http://www.trekking.suedtirol.info/
