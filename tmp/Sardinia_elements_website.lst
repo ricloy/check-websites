@@ -378,6 +378,7 @@ node	796702427	https://www.arbatasar.it/
 node	796794620	https://www.arbataxpark.com/
 node	800475566	https://www.campingsaprama.com/
 node	800475720	https://www.amfibietreks.de
+node	804233626	https://www.escursionisadali.it/
 node	804265919	www.hotelarbus.it
 node	808434064	http://www.campnurral.it/
 node	817759589	http://www.myohotelroccesarde.com/
@@ -399,7 +400,7 @@ node	1171745439	http://www.miticoselvaggio.com/pages/default.aspx
 node	1177218897	https://www.grotteiszuddas.com/
 node	1187280905	https://www.subarchile.it/
 node	1189619246	https://m.facebook.com/pages/Ristorante-Pizzeria-Il-Girasole-Da-Peppe/142036619217106
-node	1219561371	http://www.hotelsilana.com/
+node	1219561371	https://www.hotelgorropu.com/
 node	1241240466	http://www.sardegnacultura.it/j/v/300?s=25772&v=2&c=2822&t=1
 node	1270255773	http://www.ilportalesardo.it/archeo/ssvillanovam3.htm
 node	1286882517	https://www.ariadimari.it/
@@ -836,7 +837,6 @@ node	3609649715	http://www.superconcas.it/contatti/superconcas-castelsardo/
 node	3613145683	https://wipeout.it/
 node	3626089660	https://www.comune.decimoputzu.ca.it/index.php/conoscere-il-paese/risorse-archeologiche/2-non-categorizzato/67-su-casteddu-de-fanaris
 node	3626521462	https://www.clubesse.it/strutture/hotel-roccaruja-stintino/
-node	3628331164	https://www.forumtraiani.it/
 node	3628331165	https://www.grazianoebarbara.it/
 node	3660398970	http://www.hotelsasuergia.it
 node	3700549357	https://www.hoteligraniti.it/
@@ -1758,6 +1758,7 @@ node	12561788437	https://www.ilfornaioatzori.com
 node	12561788440	https://www.ilfornaioatzori.com
 node	12561788441	https://www.ilfornaioatzori.com
 node	12567441694	https://i4archidelgusto.com
+node	12581415934	https://www.stone-art.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1999,7 +2000,6 @@ way	261198693	https://www.piscinarei.it/
 way	261206010	https://www.facebook.com/prolocoserrenti
 way	261359195	https://www.facebook.com/pages/Casa-dei-Nonni-di-Serrenti/476673932345119
 way	262206958	https://aquaticasardegna.it/
-way	262206959	http://www.marinadifertilia.it/
 way	262206961	http://www.marinadiportomarana.com/
 way	262430473	http://www.lascoglierasolanas.it/
 way	264447812	http://www.marinadiarbatax.it
@@ -2092,6 +2092,7 @@ way	279186306	https://www.campingasinara.it/
 way	279199005	https://www.provincia.or.it
 way	279199040	https://www.comune.oristano.it/it/vivioristano/citta/luoghi-del-passato/torre-di-mariano-ii-o-di-san-cristoforo/index.html
 way	279200643	http://isislorenzomossa.gov.it/
+way	279200764	https://www.sfg-stellamaris.com
 way	279202259	https://www.arredovinci.it/
 way	279202770	https://www.unieuro.it/punti-vendita/oristano?Name=ORISTANO
 way	279203005	http://oristano.iamc.cnr.it
@@ -2179,6 +2180,7 @@ way	293643147	https://www.comune.suni.or.it/
 way	293645576	https://www.museodelgiocattolosardegna.it/
 way	294093589	https://loddorestaurant.it
 way	294093878	https://www.unionecomuniguilcer.it/
+way	294095326	https://www.forumtraiani.it/
 way	294099367	https://www.casagramscighilarza.org/
 way	294101959	https://www.benarredo.com/
 way	294102549	https://www.tipografiaghilarzese.it/
@@ -2267,7 +2269,7 @@ way	298056139	http://www.agriturismocirratertenia.com
 way	298072840	https://www.stazionedellarte.com/
 way	298115326	https://www.funtanaena.it/
 way	298115662	https://www.icilbono.edu.it/
-way	298132955	http://www.ilnidodellaquila.it/
+way	298132955	https://www.ilnidodellaquila.com/
 way	298874515	https://www.albergomalica.it/
 way	298875337	http://www.ristorantelesorgenti.it/
 way	298887885	http://www.comune.sanveromilis.or.it/
@@ -2551,6 +2553,7 @@ way	816418825	https://www.istitutocomprensivo2alghero.edu.it/
 way	822427940	https://parcheggio-economy.it/
 way	824860025	https://terrasardaceramiche.it/
 way	826488092	https://www.hotelvillacedrino.it
+way	833466488	https://www.escursionisadali.it/
 way	833731858	https://nooraghe.altervista.org/
 way	838221519	https://www.parcomolentargius.it/index.php
 way	840919379	https://www.jannaesoleresort.it/
@@ -2609,7 +2612,6 @@ way	1308402127	https://www.hoteldomominorealghero.it/
 way	1308915931	https://arst.sardegna.it/orari_e_autolinee/servizimetross.html
 way	1312847963	https://www.hotelcatalunya.it/
 way	1312992966	https://www.architettura.uniss.it/
-way	1312994568	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Piscina-Comunale/
 way	1313553766	https://www.asl1sassari.it/strutture/farmacia-territoriale-di-sassari/#!%23articolo-giorni-orari
 way	1315007087	https://www.tenutanaturale.it/
 way	1315269560	https://baiasaraceno.it/
@@ -3228,7 +3230,12 @@ relation	18375428	https://www.cicloviadellasardegna.it/
 relation	18504922	https://portosantateresa.com/
 relation	18528198	https://www.sardegnasentieri.it/sentiero/bau-sacua-callenti-baccu-sa-figu-c-807
 relation	18573181	https://www.sardegnasentieri.it/sentiero/incrocio-801-sa-gruta-fra-conti-sentiero-italia-c-800b
+relation	18646267	https://areamarinaprotettacapotestapuntafalcone.it/home
 relation	18666669	https://www.hoteldeipini.it
+relation	18675246	https://ilparcodeipini.com/
+relation	18690739	http://www.marinadifertilia.it/
+relation	18693085	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Piscina-Comunale/
+relation	18694880	https://www.elcami.cat/el-cami-illenc-de-lalguer-formentera
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -4062,7 +4069,6 @@ node	2329913542	https://www.sardegnaturismo.it/it/esplora/san-valentino
 node	6376047028	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
 way	27771208	http://www.saras.it/saras/pages/inthefield/assets/refining
 way	62331902	http://www.progettodighe.it/main/le-dighe/article/bau-mandara
-way	81578382	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
 way	119452886	http://www.campingbungalowlapineta.it
 way	142884664	http://www.orroliproloco.com/
 way	277017452	http://www.tripadvisor.it/Restaurant_Review-g3528959-d3524787-Reviews-Il_Gatto_Sardo-Gonnoscodina_Province_of_Oristano_Sardinia.html
