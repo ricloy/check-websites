@@ -1890,7 +1890,7 @@ node	8549532832	http://www.ferraragiardinaggio.it/
 node	8549902267	https://merceria-trisi.business.site/
 node	8556422862	https://www.centroperludito.eu/
 node	8557631738	https://mobilita.comune.pescara.it/wp-content/uploads/2021/01/PUMSPescara_agg_25giugno20201-1.pdf
-node	8560415318	https://www.chebanca.it/
+node	8560415318	https://www.kfc.it/ristoranti
 node	8560746869	https://www.gastronomiabrigantino.it/
 node	8561168617	https://www.smape.it/profile_and_mission.aspx
 node	8566565029	https://www.cannabisstoreamsterdam.com/
@@ -3265,6 +3265,10 @@ node	12558395805	https://www.immobiliaremgchieti.it/
 node	12558457560	https://www.dldesignarredamenti.com/
 node	12558487041	https://negozi.naturasi.it/italia/chieti/chieti
 node	12564896553	https://www.lanuovachitarra.it/
+node	12571340335	https://www.majellettawe.it/majelletta-we-2/#wefood
+node	12576570293	https://www.avispescara.it/
+node	12581603107	https://www.deniecoserramenti.it/
+node	12592807251	https://www.petrolgamma.com/stazione/teramo-strada-statale-80/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3360,7 +3364,6 @@ way	96207220	https://rifugiofranchetti.it/
 way	97506313	http://www.itisteramo.it
 way	97537037	https://www.campingstellamaris.it/
 way	97974294	https://www.palacehotelvasto.it/
-way	98413109	https://www.majellettawe.it/majelletta-we-2/#wefood
 way	99581742	https://www.acquaparkondablu.it/
 way	100974625	https://www.unite.it/UniTE/
 way	101320591	https://www.dragonara.it/
@@ -3530,6 +3533,7 @@ way	344674004	https://www.comune.farasanmartino.ch.it/
 way	345511944	https://www.caipescara.it/rifugio-marcello-di-marco
 way	350423875	http://www.avioalanno.it/
 way	350506651	https://forums.x-plane.org/index.php?/files/file/92700-aviosuperficie-laquila/
+way	350513029	https://metar-taf.com/IT-0370
 way	351711110	http://mtb.controguerra.info
 way	352061339	http://disciascio.it
 way	352623663	https://www.info.asl2abruzzo.it/ospedalevasto/
@@ -4227,7 +4231,6 @@ way	1200880009	https://impresapiu.subito.it/shops/23195-autopiu-srls
 way	1200880016	https://prolocolanciano.jimdofree.com/convenzioni/bar-martelli-centro-sportivo/
 way	1201438692	https://ofcontini.it/
 way	1201554048	https://ip.gruppoapi.com/ricerca-stazioni-servizio/station/41844
-way	1201554077	https://www.petrolgamma.com/stazione/teramo-strada-statale-80/
 way	1202037327	https://www.pasquarelliautosrl.it
 way	1204443676	https://www.tenutasantilario.com/
 way	1205328394	https://www.grupposynergo.com/
@@ -4336,6 +4339,7 @@ way	1350660468	https://www.hotellasirenetta.it/
 way	1350675919	https://www.residenceilborgo.it/
 way	1355210001	https://www.pinetovacanze.com
 way	1356410521	https://www.ilcascinale.com/
+way	1359817734	https://www.decogroup.it/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4645,6 +4649,7 @@ node	6311570721	http://www.svapofacile.it
 node	7669061031	http://www.comune.pineto.te.it/pagina1835_presidi-sanitari.html
 node	7669123998	http://prospineto.it/guardia-medica-turistica/
 node	7884031843	https://agenzie.gattinonitravel.it/19700-zona-industriale-val-pescara
+node	8560415318	https://www.ilpescara.it/ristoranti/apre-pescara-kfc-ristorante-pollo-fritto-kentucky.html
 node	8854958906	https://www.ilpescara.it/cronaca/montesilvano/sito-web-centro-riuso-ritiro-gratuito.html
 node	9053829474	https://www.liritv.it/montesilvano-pe-defibrillatori-accessibili-installato-dae-al-campo-di-via-foscolo/
 node	9926972892	https://it.wikipedia.org/wiki/Gallo_(Tagliacozzo)
@@ -4664,6 +4669,7 @@ node	12304275558	https://www.chpe.camcom.it/pagina182687_padiglione-espositivo-d
 way	12653775	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	57035180	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	301862068	https://it.m.wikipedia.org/wiki/File:Orsogna_-_Torre_di_Bene_03.jpg
+way	350513029	https://metar-taf.com/IT-0370
 way	359782109	http://www.comune.pineto.te.it/pagina1798_informazioni-utili.html
 way	378791366	https://scelgofullservice.com/e-store
 way	558584552	https://bar-la-torretta.business.site
@@ -4676,6 +4682,7 @@ way	1301595650	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno/
 way	1307420954	https://www.cogesambiente.it/cogesa2021/contatti/
 way	1315272611	https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&code=9701&Chiesa_di_San_Nicola_di_Bari__Orsogna
 way	1330879777	http://www.visit-sulmona.it/poi/288/chiesa-di-santa-lucia/3
+way	1359817723	https://www.ufficiocamerale.it/7042/truck-wash-23-societa-a-responsabilita-limitata
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
 relation	13050879	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno/
