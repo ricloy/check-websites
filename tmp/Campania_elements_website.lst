@@ -107,7 +107,6 @@ node	2020449996	https://www.hotelfontanaamalfi.com/
 node	2022160796	https://www.alconvento.net/
 node	2022160858	https://www.sanpietroristorante.it/
 node	2029586594	https://pompeiisites.org/Sezione.jsp?idSezione=151
-node	2032026657	http://www.pompeiisites.org/Sezione.jsp?titolo=Doric+temple+%28VIII%2C7%2C30-34%29&idSezione=2330
 node	2032299679	http://www.pompeiisites.org/Sezione.jsp?titolo=Tempio+di+Asclepio+(Giove+Meilichio%3A+VIII%2C7%2C25)&idSezione=130
 node	2032760188	http://www.pompeiisites.org/Sezione.jsp?titolo=Necropolis+of+Porta+Ercolano&idSezione=686
 node	2032812263	http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+del+Principe+di+Napoli+(VI+15%2C+7-8)&idSezione=6894
@@ -236,6 +235,7 @@ node	2482979566	http://www.pompeiisites.org/Sezione.jsp?titolo=Foro+triangolare+
 node	2482979568	http://www.pompeiisites.org/Sezione.jsp?titolo=The+Domus+of+Triptolemus&idSezione=3148&lookfor=basilica
 node	2482979571	https://pompeiisites.org/en/archaeological-site/comitium-and-municipal-buildings/
 node	2493466958	https://www.oasialento.it/
+node	2496166034	http://www.agriturismopittari.it/
 node	2496583337	http://www.hotelclarean.it/
 node	2496583343	https://www.unieuro.it/
 node	2498854344	https://www.barbaro.eu/
@@ -673,6 +673,7 @@ node	5024988524	https://www.hosteriatoledo.it/
 node	5024988525	https://www.gelateriadelgallo.it/
 node	5024993421	http://muumuuzzarellalounge.it/
 node	5024993422	https://www.ristorantebambu.it/
+node	5031078322	https://www.davincenzo.it/
 node	5044823534	www.welovepuro.it
 node	5052359007	https://www.noleggiostartandgo.it/
 node	5060485423	https://www.zuiki.it/
@@ -2482,6 +2483,7 @@ node	12548752001	https://www.manitese.it/
 node	12558624183	https://natolavoratorio.it
 node	12564808731	https://www.fuorimuraparkingsorrento.com/
 node	12569253379	https://vesuviopark.vivaticket.it/
+node	12584905301	https://www.appuntiofficinastudenti.com
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -3429,6 +3431,7 @@ way	1025442491	https://pamretailpro.it
 way	1025936170	laghiandaia.it
 way	1025936171	http://clinicavilladegliulivi.it
 way	1025936180	https://www.hotelbelvederesanleucio.it/
+way	1026234548	http://www.pompeiisites.org/Sezione.jsp?titolo=Doric+temple+%28VIII%2C7%2C30-34%29&idSezione=2330
 way	1028713012	https://www.secondocircolopomigliano.eu/scuola/la-scuola/plessi/plesso-capoluogo/
 way	1028726512	https://www.isiseuropa.edu.it/
 way	1029279959	https://www.iisassteas.edu.it/itis-oc/
@@ -3644,6 +3647,7 @@ relation	1687745	http://www.comune.airola.bn.it/
 relation	1889541	http://www.masseriaquaranta.it
 relation	1889542	http://www.silkbeyond.it
 relation	1889621	https://www.comune.caserta.it/belvedere/
+relation	1947310	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	2405262	https://www.viefrancigenedelsud.it/
 relation	2440708	https://www.abana.it/
 relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240 | http://www.lestradeferrate.it/mono2.htm
@@ -3850,7 +3854,6 @@ relation	17951650	http://bit.ly/3SykFuS
 relation	18383415	https://www.museiscienzenaturaliefisiche.it/
 relation	18383894	https://www.musa.unicampania.it/
 relation	18389981	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
-relation	18567065	https://www.camminodisanfilipponeri.com
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
