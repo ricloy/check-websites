@@ -820,7 +820,6 @@ node	3618441707	http://www.costadeibarbari.com/
 node	3618441775	https://www.non-so.it/
 node	3618444391	https://www.villaborgoduino.it/
 node	3618453309	http://www.kmetijaantonic.it
-node	3618454634	https://rilketto.eatbu.com/
 node	3618457298	https://www.auroraduino.com/
 node	3618457333	https://www.marinatimavo.com/negozio/
 node	3618458209	https://skuta.it/
@@ -2862,7 +2861,10 @@ node	12568359650	http://www.incortile.it/
 node	12572242635	https://gtspeleo.it/
 node	12574088474	https://ilbilaterale.it
 node	12574176673	https://www.realemutua.it/
-node	12574176674	http://www.adrianagioielli.it/
+node	12574176674	https://www.adrianagioielli.it/
+node	12581569486	http://www.icoloridicarla.it
+node	12593080585	https://www.anicura.it/cliniche/clinica-veterinaria-gaspardis/
+node	12598513391	https://www.multiagricri.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -3323,6 +3325,7 @@ way	36693560	http://www.girardi-boscat.it
 way	36694080	https://www.alpescaturismo.it/
 way	36694103	https://www.ristorantedapiero.com/
 way	36694304	https://www.ilmangiaweb.it/agricola-farma-jakne#chi_siamo
+way	36694434	https://rilketto.eatbu.com/
 way	36694669	https://alladamabianca.com/
 way	36694683	http://www.fruske.com/
 way	36694794	http://villagruber.com/
@@ -4290,6 +4293,8 @@ relation	1526505	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settor
 relation	1554500	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-077
 relation	1554501	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-072
 relation	1587644	https://www.comune.duino-aurisina.ts.it/
+relation	1699148	https://www.stat.si/obcine/Region/Index/11
+relation	1699230	https://www.stat.si/obcine/Region/Index/9
 relation	1730704	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-662
 relation	1777257	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-713
 relation	1777290	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/s5-516
@@ -4550,6 +4555,7 @@ relation	3241013	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friu
 relation	3249225	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-648
 relation	3249383	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-623a
 relation	3293166	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-660/
+relation	3361749	https://www.turismofvg.it/it/bike/fvg3d-variante-dei-vigneti-c3v1#dmdtab=oax-tab3
 relation	3388964	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-378a
 relation	3433310	https://www.geoparcoalpicarniche.org/it/geotrails/sentiero-paleontologico-stavoli-lunas/
 relation	3462291	miramamare.ceniculturali.it
@@ -4579,6 +4585,7 @@ relation	5365855	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche
 relation	5372926	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-320a
 relation	5406134	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-659
 relation	5414626	http://www.cat.ts.it/index.php?option=com_content&view=article&id=193&Itemid=151
+relation	5504660	https://obcina-ankaran.si
 relation	5567161	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-822
 relation	5581352	https://www.polo.pn.it/
 relation	5876882	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-991/
@@ -5381,7 +5388,6 @@ node	2211443898	http://www.lanificiomarchesin.it
 node	2211443911	http://www.reporterstarvisio.it
 node	2465694154	http://www.lanificiomarchesin.it
 node	2479127662	http://www.comuneditarvisio.com/
-node	2510766758	https://www.autofficinadino.it/
 node	2547437356	https://freesolarimpianti.it/
 node	2599764374	http://www.quiwolf.it
 node	2599764377	http://www.ristoranteallapace.it
