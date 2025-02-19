@@ -243,6 +243,7 @@ node	365078940	https://www.bormioski.eu/
 node	365264695	https://www.bormioski.eu/
 node	365272648	https://www.bormioski.eu/
 node	365272668	https://www.bormioski.eu/
+node	365276388	https://www.bormioski.eu/
 node	367716901	https://www.liberidalglutine.com/
 node	369339442	https://museodellestorie.bergamo.it/museo-ottocento/
 node	369805445	https://www.comune.casciago.va.it/
@@ -347,8 +348,8 @@ node	541064040	https://cucinainmilano.wordpress.com/
 node	554601719	https://www.farmaciaamericana.it/
 node	560666699	https://www.carrefour.it/punti-vendita/carrefour-market-cocquio-trevisago-contrada-tagliabo-n4-0581.html
 node	569626713	https://malamida.eatbu.com/?lang=it
-node	571123804	www.colere.it
-node	571123875	www.colere.it
+node	571123804	https://www.colere.it/
+node	571123875	https://www.colere.it/
 node	571450170	https://www.hotelbrunelleschi.net/
 node	571496057	https://www.gastronomiadelizie.it/
 node	579822638	https://www.lentatese.it/
@@ -403,6 +404,7 @@ node	661329722	https://lapergola2.com
 node	661556413	http://www.farmaciacarloalberto.it/
 node	662607032	www.studiogiemme.it
 node	662686502	https://autoguidovie.it/
+node	663596353	https://www.circolodicapolagovarese.it/
 node	666939462	https://www.montepiatto.it/
 node	666983794	https://www.lombardiabeniculturali.it/architetture/schede/CO180-00186/
 node	667070531	https://www.pianidibobbio.com/
@@ -487,6 +489,7 @@ node	731323722	https://cultura.gov.it/luogo/civico-museo-archeologico-di-villa-m
 node	738651400	https://www.asilosegramora.it/
 node	742491427	http://www.prolococorbetta.altervista.org/
 node	747056888	https://www.larocchettacaffe.it/
+node	752096798	https://www.barcolombo.it/
 node	754259600	https://m.facebook.com/IlFornoDellaGrigna/
 node	756590652	https://www.polihotel.it/
 node	756603087	http://www.entemoralesvo.it/it/school/scuola-primaria-madre-comensoli/
@@ -1942,10 +1945,6 @@ node	2460803195	http://lapavoni.it
 node	2460846392	https://www.caru.com/
 node	2460875283	http://geoportale.caibergamo.it/it/rifugio/bivacco-corti
 node	2460933176	https://www.sissiracing.com/
-node	2461277373	https://www.spiazzidigromo.it/
-node	2461282166	https://www.spiazzidigromo.it/
-node	2461282167	https://www.spiazzidigromo.it/
-node	2461298573	https://www.spiazzidigromo.it/
 node	2461314556	https://www.lafeltrinelli.it/punto-vendita/milano/red-milano-porta-nuova/3502
 node	2464385813	http://www.osteriabaccoetabacco.it/
 node	2464446626	https://www.calloniserramenti.it/
@@ -2171,10 +2170,10 @@ node	2573561563	https://www.carrefour.it/punti-vendita/carrefour-express-milano-
 node	2574198220	https://www.vaccanimilano.it/
 node	2575850327	http://www.icscantu.com
 node	2575939944	https://sondrio.mercatinousato.com/
-node	2576290276	www.colere.it
-node	2576290277	www.colere.it
-node	2576290278	www.colere.it
-node	2576292974	www.colere.it
+node	2576290276	https://www.colere.it/
+node	2576290277	https://www.colere.it/
+node	2576290278	https://www.colere.it/
+node	2576292974	https://www.colere.it/
 node	2576891434	http://www.modamotosondrio.it/
 node	2576905832	https://www.oscarbonetti.it/default.aspx
 node	2577906092	https://www.valtellinasoccorso.it/
@@ -2193,8 +2192,6 @@ node	2591414834	http://www.fabbricadipedavenabustoarsizio.it/
 node	2591414835	http://www.catbagpub.com
 node	2591564884	https://www.barpizzerianello.it/
 node	2591565083	http://www.studio54bustoarsizio.com/
-node	2592871243	https://www.spiazzidigromo.it/
-node	2592871285	https://www.spiazzidigromo.it/
 node	2594439743	https://www.hoteldulacmenaggio.it/
 node	2595013761	https://www.acquaesapone.it/puntivendita/milano-via-emilio-de-marchi-59/
 node	2596539833	https://www.filottica.com/
@@ -2824,9 +2821,9 @@ node	3051005312	https://www.farmaciasociale.it/
 node	3051022475	https://alpeteglio.com/
 node	3051023063	https://alpeteglio.com/
 node	3051023084	https://alpeteglio.com/
-node	3051116291	www.colere.it
-node	3051116298	www.colere.it
-node	3051116307	www.colere.it
+node	3051116291	https://www.colere.it/
+node	3051116298	https://www.colere.it/
+node	3051116307	https://www.colere.it/
 node	3051407061	https://monzabrianza.autoguidovie.it/files/monzaBrianza/Orari/Invernale_scolastico/z250_FER_INV.pdf
 node	3051787090	https://www.asfautolinee.it/Portals/5/Documents/Orari/E11/c80.pdf
 node	3051787096	https://www.asfautolinee.it/Portals/5/Documents/Orari/E11/c80.pdf
@@ -3834,8 +3831,7 @@ node	3799690523	http://www.videobrera.it/
 node	3799690703	https://www.panarello.com/
 node	3803149771	https://www.stopego.com/
 node	3803432365	https://ferramentacibien.it/
-node	3803634906	https://www.spiazzidigromo.it/
-node	3803634907	https://www.spiazzidigromo.it/
+node	3806083761	https://orecchiettevino.com/
 node	3807157518	https://www.ilbagnogroup.com/
 node	3807157539	https://acsnovamilanese.it/pubblicazioni/uffici_sedi/uffici_Dettaglio.asp?Id=144&ID_M=14
 node	3809586146	https://www.studiodontoiatricagc.it/
@@ -5770,6 +5766,7 @@ node	5017652792	http://www.nyandateashop.it/index.php
 node	5017653033	https://www.agenzievittoria.com/lecco/
 node	5020259644	https://mariobesthouse.com/
 node	5026485074	https://www.carwashmagenta.it/
+node	5026623134	https://www.comune.montegrino-valtravaglia.va.it/it-it/vivere-il-comune/shopping-aziende/casetta-dell-acqua-57251-1-958ea9cd980e7780428e8c4251d44752
 node	5028457457	https://ilfornodicassina.it/
 node	5028495403	https://www.gruppovos.org/
 node	5028583109	https://crocebiancacarugate.org/
@@ -5777,7 +5774,6 @@ node	5028583110	http://www.crocebiancamelzo.org
 node	5029644577	www.mihosushitavernerio.com/
 node	5031929014	https://www.archeologica.it/
 node	5033141845	evbility.com
-node	5033141846	www.aqvagold.it
 node	5033958992	https://www.viativoli.it/corso-magenta/
 node	5033958996	https://guidogobino.com/
 node	5033959084	https://iemmallo.server-pdr.it/
@@ -6271,6 +6267,7 @@ node	5364189183	https://www.e-coop.it/web/coop-lombardia/r/home
 node	5364485921	https://www.facebook.com/lartigiano.dellabicicletta
 node	5364865833	https://www.sinteg.org/
 node	5365452845	https://www.cmsantagostino.it/
+node	5366221043	https://www.cccaminetti.it
 node	5367920837	https://oriecolori.it/
 node	5367920867	http://www.lostricaro.info/
 node	5367922636	https://www.ocularia.it/
@@ -9057,6 +9054,7 @@ node	8571181182	https://krophref.com/ph/voghera-finestre
 node	8576953565	https://www.facebook.com/DISCHIVOLANTIMILANO/
 node	8576960975	http://www.panpepato.com/
 node	8576968294	http://www.maurobolognesi.com/
+node	8579230196	https://www.aqvagold.it/index.php?option=com_content&view=article&Itemid=103&id=66%3Abesozzo
 node	8579855639	https://www.pampanorama.it/punti-vendita/milano-gorizia
 node	8586551107	https://www.ferramentarota.it/
 node	8588095632	https://www.onoranzefunebricaglio.com/
@@ -10058,7 +10056,6 @@ node	9423997708	https://www.stopego.com/
 node	9423997969	https://www.stopego.com/
 node	9423997970	https://www.stopego.com/
 node	9424001258	https://www.stopego.com/
-node	9424001852	www.aqvagold.it
 node	9424001853	https://www.stopego.com/
 node	9424002354	www.aqvagold.it
 node	9424003255	www.aqvagold.it
@@ -11181,7 +11178,7 @@ node	10247809015	https://laborsettacomo.it/
 node	10247809017	https://www.funplanet.it/
 node	10249945492	https://www.lartenelferro.it/
 node	10249945505	https://www.facebook.com/barscoiattolo.solaro/
-node	10250359015	www.colere.it
+node	10250359015	https://www.colere.it/
 node	10250750356	https://www.niceshotart.it/
 node	10250780208	https://farmilygroup.com/locali/mag-la-pusterla/
 node	10253211041	https://ciclisnoopy.it/
@@ -12336,7 +12333,6 @@ node	11273235842	https://www.sironiauto.eu/
 node	11273235843	https://www.spacejump.it/
 node	11274931625	https://abcomputer.business.site/
 node	11275693996	https://poul.org/
-node	11275714388	https://local.churchofjesuschrist.org/it/it/varese/busto-arsizio/via-del-passero-7?utm_source=gmb&utm_medium=yext
 node	11279250969	https://www.studiobrianteo.it/
 node	11279250972	https://www.studiodentisticoseregno.eu/
 node	11279250973	https://studistars.it/cesano/
@@ -13260,6 +13256,7 @@ node	11931431800	https://www.errestil.com/
 node	11933341126	https://starshopdistribuzione.com/store/star-shop-milano/
 node	11933418218	https://nude-project.com/it-eu/pages/stores?country=IT
 node	11933468669	https://www.ntng.eu/
+node	11933928501	https://www.larga8.com/
 node	11935365508	https://www.ristoranteeolo.com/
 node	11937296236	https://shitcoins.club/localizzazione-atm/bancomat-bitcoin-Cesate-MI
 node	11941724923	https://beefbar.com/milano/
@@ -13423,6 +13420,7 @@ node	12174424183	https://www.tramvai.eu/ristorante-crema-tramvai
 node	12174424184	https://www.magazzinodellapizza.com/
 node	12174443562	https://www.hotelmariet.it/
 node	12175116684	https://www.poste.it
+node	12177182186	https://www.laponticellacartolibreria.it/
 node	12182021377	https://rusticapartmenttirano.com/
 node	12182378445	https://www.70volte7.it/
 node	12182606001	https://www.agriturismomariella.com/
@@ -13852,7 +13850,7 @@ node	12551080991	https://www.cisalfasport.it/it-it/storelocator/italia/lombardia
 node	12551615530	http://www.tuttaltrosuono.it/
 node	12554278111	https://www.alimentarimediterranea.com/
 node	12554752844	https://alpostogiusto.it
-node	12555938417	http://sport-hub.shop
+node	12555938417	https://www.sport-hub.shop/
 node	12561025805	https://ghostpub.it/
 node	12565346221	https://anazanica.altervista.org/web/
 node	12565580941	https://www.manhairstyle.it
@@ -13861,6 +13859,17 @@ node	12570727032	https://www.reverbia.it/it/reverbia-milano/reverbia-personal-tr
 node	12570727033	https://toysuper.it/
 node	12574433765	http://www.bizzozero.net/persone/316-carletto-ferrari
 node	12578469311	https://www.falzitraslochi.it/
+node	12587201905	www.angiolettiautocarri.com
+node	12587227595	https://www.intestsrl.com
+node	12587675278	https://www.farmacianobili.it/
+node	12588332908	https://moodydesio.com/
+node	12591632039	https://mecapantincendio.it/
+node	12592937852	https://www.rbbg.it/library/AMBIVERE/
+node	12593351257	http://www.matherson.com
+node	12593874801	http://www.giohairlab.it
+node	12598746430	https://lazootecnica.com
+node	12598746861	https://www.comune.verruapo.pv.it/it-it/vivere-il-comune/scuole
+node	12600212433	https://www.bitbikes.eu
 way	4522481	https://www.marriott.it/hotels/travel/milit-milan-marriott-hotel/
 way	4915384	https://www.monumentale.net/
 way	4998830	https://www.piccoloteatro.org/
@@ -14005,7 +14014,7 @@ way	44898780	http://www.rallyauto.it/index.html
 way	44898781	http://www.vercesiforniture.it/
 way	44898783	http://www.salumificiomanclossi.it/
 way	45019971	https://www.williammoto.com/
-way	45033986	www.colere.it
+way	45033986	https://www.colere.it/
 way	45187536	https://www.iper.it/grandate
 way	45253955	https://comune.besnate.va.it/
 way	45420079	http://www.basilicasanvittore.it/
@@ -14395,6 +14404,7 @@ way	102400673	http://www.turismoitalianews.it/turismo/index.php/le-piu-insolite/
 way	102810371	https://www.tenutacollepiajo.it/
 way	103227830	https://gruppoacinque.it/gruppo/impianti/ciclo-rifiuti/termovalorizzatore-como
 way	103230985	https://www.spaziogloria.com/
+way	103648612	https://www.lombardiabeniculturali.it/architetture/schede/LMD80-00849/
 way	103823896	https://www.crocebianca.org/
 way	103824290	https://themoon2022.blogspot.com/
 way	103843249	https://www.lombardiabeniculturali.it/architetture/schede/CO260-00440/
@@ -15028,6 +15038,7 @@ way	201744829	http://www.villachiarabeb.it/
 way	201825679	https://www.cremonadue.com/
 way	201832116	https://www.lombardiabeniculturali.it/architetture/schede/CO260-00444/
 way	201837010	https://www.lombardiabeniculturali.it/architetture/schede/CO260-00442/
+way	202015283	https://www.bricocenter.it/cremona
 way	202252376	https://airvergiate.it/
 way	202332819	https://www.arcadiacinema.com/melzo/prog.php
 way	202370564	https://comune.ispra.va.it/
@@ -15351,8 +15362,6 @@ way	237713585	https://www.cinemamignon.com/
 way	238063635	https://www.italmark.it/puntivendita/italmark-cisano-bergamasco-via-milano-7/
 way	238237259	https://www.cineview.it/
 way	238241249	http://www.ilariovinciguerra.it/
-way	238282334	https://www.spiazzidigromo.it/
-way	238282950	https://www.spiazzidigromo.it/
 way	238307014	https://www.iperal.it/IL-MONDO-IPERAL/Territorio/Provincia-di-COMO/Gravedona
 way	238632425	http://icraiberti.it/
 way	238694134	https://www.ristorantebarbagianni.com/
@@ -15495,9 +15504,9 @@ way	251355128	http://www.zampettepulite.it/
 way	251358849	http://www.frigoriferimilanesi.it/
 way	251358851	http://www.frigoriferimilanesi.it/
 way	251358852	http://www.frigoriferimilanesi.it/
-way	251403955	www.colere.it
+way	251403955	https://www.colere.it/
 way	251404295	https://www.colere.it/
-way	251404298	www.colere.it
+way	251404298	https://www.colere.it/
 way	251456433	https://www.golfparcodellaquassa.it/
 way	251489029	https://www.comune.caronnopertusella.va.it/
 way	251619594	https://www.comune.caronnopertusella.va.it/it/point-of-interest/702758
@@ -15514,7 +15523,6 @@ way	253151029	https://www.multigestioni.com/
 way	253198759	http://www.grandeitaliahotelgallarate.it/
 way	253258680	http://www.santantoniovaltaleggio.com/
 way	253260189	https://www.ostelloilsentiero.it/en/
-way	253350778	https://www.spiazzidigromo.it/
 way	253725158	http://www.rifugioschiazzera.it/
 way	253782722	https://www.cam-monza.com/
 way	253782723	https://www.effepiauto.com/
@@ -15892,7 +15900,7 @@ way	300333266	www.ostellodeiconcari.com
 way	300711203	https://www.pescegallovalgerola.it/
 way	300992151	https://alpeteglio.com/
 way	300992153	https://alpeteglio.com/
-way	301002639	www.colere.it
+way	301002639	https://www.colere.it/
 way	301063897	https://www.carrozzeriamontuori.it/
 way	301587177	https://www.skiareavalchiavenna.it/
 way	301589236	https://www.montepora.com/
@@ -16417,7 +16425,6 @@ way	376391082	https://www.dottipitture.com/en/
 way	376558448	https://www.casadellamemoria.it/
 way	376667301	https://www.teatroofficina.it
 way	376674424	https://hotellaruota.com
-way	376992597	https://www.spiazzidigromo.it/
 way	377338990	https://www.zanotta.com/
 way	378947737	https://www.casadelviandante.com/
 way	379359090	https://www.motelk.com/
@@ -16929,7 +16936,6 @@ way	496314603	https://www.castellodilardirago.it/
 way	496428176	http://www.icgoito.gov.it/
 way	496446773	https://www.carcoprp.com/
 way	496611170	https://www.birrificiolaribalta.com/
-way	496643004	http://www.planetparking.com/
 way	496658928	https://www.portedimilano.it/
 way	496915937	https://www.sacrafamiglia.org/
 way	496915949	https://www.ambrosianacdc.it
@@ -16990,8 +16996,6 @@ way	513095815	https://www.ats-insubria.it/rete-dei-servizi/servizi-di-medicina-d
 way	515196912	https://www.ecfop.it/
 way	515200759	https://www.fimer.com/
 way	515273042	https://www.multimedica.it/it/hospital/ospedale-san-giuseppe/030367
-way	515354402	http://www.matherson.com
-way	515355865	3park.it
 way	516618001	https://www.albergoedelweiss-lanzada.it
 way	517261340	https://www.sogedim.it/
 way	518288636	https://dellortotessuti.com/
@@ -18225,6 +18229,7 @@ way	1086162815	http://www.scheibler.it/
 way	1086776029	https://bb-villa-ambra.business.site/
 way	1087043278	http://www.consorziocafe.it/
 way	1087399155	https://www.niraresort.it/
+way	1087591961	https://comune.besozzo.va.it/documenti/2783298/regolamento-area-sgambamento-cani
 way	1087666484	https://cattaneoarchitects.com
 way	1087754911	https://www.agriturismosostapincee.it/
 way	1088284749	http://www.hrsapp.byethost22.com/OldPlace/oldplace_description/italy_moscazzano_milestone/
@@ -18341,7 +18346,7 @@ way	1203557693	https://www.esselunga.it/
 way	1203894679	https://www.cittametropolitana.mi.it/Parchi/aree_protette/sic/fontanile_nuovo.html
 way	1204362905	https://rollon.com
 way	1205726247	https://www.comune.nicorvo.pv.it/
-way	1206081698	www.colere.it
+way	1206081698	https://www.colere.it/
 way	1206081700	https://www.colere.it/
 way	1206365931	https://www.palmieriflor.it/home.htm
 way	1206412328	https://infanziabondo.it/
@@ -18356,6 +18361,7 @@ way	1215578883	https://www.mcdonalds.it/
 way	1215849004	https://www.lombardiabeniculturali.it/architetture/schede/LC120-00886/
 way	1216938842	https://www.comune.meda.mb.it/citta/chiese/Sportvillage-via-Icmesa
 way	1217975515	https://www.albed.it/
+way	1218554237	www.angiolettiautocarri.com
 way	1221077885	https://www.facebook.com/people/Scuderia-La-Marna-ASD/100068349801109/
 way	1222782934	http://forum.valbrembanaweb.com/viewtopic.php?t=5655
 way	1223060400	https://www.agrati.com/it/
@@ -18403,6 +18409,7 @@ way	1266286509	https://fustameriaecologica.com
 way	1267437920	https://www.wonder.auto/it/
 way	1267483335	https://questure.poliziadistato.it/servizio/commissariati/5730dc9d162dc223602968
 way	1270818149	https://retebibliotecaria.provincia.va.it/le-biblioteche-della-rete-provinciale-di-varese/Luino/
+way	1272737262	https://local.churchofjesuschrist.org/it/it/varese/busto-arsizio/via-del-passero-7?utm_source=gmb&utm_medium=yext
 way	1272834629	https://www.rsaspirano.it/
 way	1272984253	https://www.cineteatropioxii.it/
 way	1273404301	https://www.diocesicoptamilano.com/
@@ -18496,9 +18503,11 @@ way	1354997919	https://www.fondazioneluvi.org/hospice-cascina-brandezzata/
 way	1355220454	https://www.chiesapadernodugnano.it/
 way	1355767874	https://www.elly.it
 way	1356381663	https://www.comune.milano.it/aree-tematiche/scuola/scuoleinfanzia/nido-d-infanzia-nenni-6
-way	1358867540	www.nuovalizzola.it
+way	1358867540	https://www.nuovalizzola.it/
 way	1359277886	https://www.derbymonza.it/
 way	1359277986	https://www.derbymonza.it/
+way	1359316356	https://www.spiazzidigromo.it/
+way	1360310702	www.montepora.com
 relation	1918	https://www.milanocastello.it/
 relation	14195	https://www.tribunale.milano.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
@@ -19348,7 +19357,6 @@ relation	9365346	https://bike.pontedilegnotonale.com/it/percorso/n-59-corf
 relation	9385212	https://www.caiseregno.it/
 relation	9391215	http://www.cailumezzane.it/sentieri/Via%20del%20Sacro/Via%20del%20Sacro%20a%20lumezzane.html
 relation	9392208	http://www.cailumezzane.it/sentieri/370/sentieri%20lumezzane%20370.html
-relation	9425789	https://www.spiazzidigromo.it/
 relation	9435292	https://www.asst-brianza.it/web/uploads/pagine_statiche/files/beaf75fc-a723-49cc-b95f-5780f4b42031.pdf
 relation	9438382	https://www.caibergamo.it/geoportale/sentieri/214
 relation	9440094	https://www.caibergamo.it/geoportale/sentieri/229
@@ -20417,6 +20425,34 @@ relation	18694855	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggior
 relation	18694857	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
 relation	18694858	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
 relation	18694859	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18696017	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18696018	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18696019	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18696021	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18696022	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18696023	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18696024	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18696043	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18699786	https://www.grubria.it/cgrubria/zf/index.php/servizi-aggiuntivi/index/index/idtesto/37
+relation	18699885	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18699886	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18699887	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18699893	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18699894	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18700243	https://www.grubria.it/cgrubria/zf/index.php/servizi-aggiuntivi/index/index/idtesto/47
+relation	18702350	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18702351	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18702352	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18702353	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18702358	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18702359	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18702366	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18702367	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18702368	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18702369	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18709220	https://www.caiverbano.it/il-grand-tour-del-lago-maggiore.html
+relation	18714062	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
+relation	18714064	https://www.navigazionelaghi.it/biglietti-e-orari-lago-maggiore/
 node	62507553	https://www.tuttitalia.it/lombardia/26-cologne/statistiche/indici-demografici-struttura-popolazione/
 node	62508196	https://www.comune.pozzolengo.bs.it/
 node	62508333	www.comune.braone.bs.it
@@ -20863,6 +20899,7 @@ node	2397797198	https://www.lecampagnole.it/
 node	2402384355	https://www.lavalsabbina.it/
 node	2404135180	https://www.centrodentisticofutura.it/
 node	2409688073	https://billytacos.it
+node	2411123346	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Duomo/38302/
 node	2411481228	https://www.davidelongonipane.com/
 node	2411555088	http://www.corpoforestale.it
 node	2411940673	https://www.caiborno.it/
@@ -23407,6 +23444,9 @@ node	12549220799	http://agoranibionno.com
 node	12556600895	https://www.zeuschargingstation.com/
 node	12568339452	https://terresolive.it/
 node	12571309401	http://www.toscanicasa.it
+node	12584607569	https://www.legami.com/it_it/boutique/?storeid=00014
+node	12585206500	https://www.mcdonalds.it/ristorante/lombardia/brescia/edolo
+node	12598744124	https://www.bormiotraumacenter.com/en/
 way	4497863	http://www.teatronazionale.it
 way	24161454	https://www.navigazionelaghi.it/
 way	25531410	http://www.portodidusano.com/
@@ -24342,7 +24382,6 @@ way	1089673414	https://www.elimast.it/it/
 way	1090790116	https://www.ssab.com/it-it
 way	1109014790	https://www.tecnomat.it/it/n/rezzato/
 way	1112871735	https://rimbalzelloadventure.com/
-way	1119134111	https://www.montepora.com/
 way	1120617030	https://www.comune.angolo-terme.bs.it/luogo/la-via-mala
 way	1130996167	https://www.cormach.com/
 way	1132145645	https://www.casa-ananda.it/
@@ -24403,6 +24442,7 @@ way	1273269050	https://www.vittorialata.com/chi-siamo/laviosuperficie/
 way	1274049280	https://www.campinglasbianca.com
 way	1280104395	https://www.famila.it/
 way	1293299457	https://lafioritafranciacorta.com/
+way	1297711001	https://naturooms.com/natur-air-suite
 way	1299854676	https://www.agriturismolacivetta.com/
 way	1302428820	https://minicarmanelli.it/
 way	1302664103	https://www.ivars.it
@@ -25290,7 +25330,6 @@ relation	7375271	http://www.mountainbikeland.ch/
 relation	7379219	http://www.mountainbikeland.ch/
 relation	8373388	http://www.asmilano.it/AriannaWeb/main.htm?eads=*#643415_archivio
 relation	9415296	https://www.manivaski.it
-relation	9421732	https://www.presolanamontepora.it
 relation	9421735	https://www.presolanamontepora.it
 relation	9425791	http://www.piazzatorreskiarea.com/
 relation	10156995	https://www.caiseregno.it/
