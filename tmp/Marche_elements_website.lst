@@ -55,6 +55,7 @@ node	638357811	https://corner-caffe-ancona.eatbu.com/
 node	639264164	https://www.senbhotel.it/
 node	639358820	https://www.alpiccoloteatro.it/
 node	639359448	https://www.vittoriaristorante.it/
+node	639617646	https://www.pizzeriabellanapoliascoli.it/
 node	644135437	https://www.villasanmarco.it/
 node	647384024	https://www.gabrielliunika.it/it/il-mio-negozio.425.html
 node	653001426	https://www.pizzaexpress.ancona.it
@@ -62,7 +63,6 @@ node	653001436	https://www.conad.it/ricerca-negozi/negozio.009949.html
 node	658940303	https://stores.oltre.com/it/italia/ascoli-piceno/ascoli-piceno-zona-industriale-campolungo
 node	659630555	https://www.acquaesapone.it/puntivendita/ancona-via-giordano-bruno-85/
 node	659630594	http://www.e-coop.it/punti-vendita-dettaglio?id=4119
-node	660051170	https://muda-bar.eatbu.com/
 node	660916128	https://www.coal.it/archives/punti-vendita/absnc-di-amagliani-me-bargellini-d
 node	660916135	http://www.lineapane.com/
 node	660916142	https://www.otticamanna.it/
@@ -86,6 +86,7 @@ node	675435329	https://www.hotelfortuna.it
 node	675435331	https://www.hoteldellarosa.com/
 node	675435333	https://pakkebap.it/
 node	675435334	https://www.albergoitaliaancona.it/
+node	682383787	https://www.pizzeriapulcinellaap.it/
 node	682383788	https://www.oasitigre.it/it/punti-vendita.html?store=7706
 node	682387262	https://www.tavernadicecco.it
 node	683633972	https://enotecakursaal.it/
@@ -97,6 +98,7 @@ node	690726278	https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagin
 node	691119727	https://www.bper.it/scheda-filiale/-/filiale/marche/ascoli-piceno/agenzia-10140
 node	691565189	https://www.iismazzocchiumbertoprimo.gov.it/
 node	691794053	https://www.ascolipetmania.it/
+node	691822075	http://www.rosaspina.ap.it/
 node	692007500	https://www.coal.it/archives/punti-vendita/emanga-srls
 node	712778951	https://www.hotelmonteconero.it/
 node	712778956	https://www.caffegiuliani.it/
@@ -136,6 +138,7 @@ node	945519753	https://www.papillonristorazione.com/
 node	977644182	https://www.ristoranteilritrovo.net/
 node	1000475955	https://ancona.movieland.18tickets.it/
 node	1081161653	https://farmacialuchetti.it/
+node	1081383825	https://www.ristorantepecoranera.eu/
 node	1081383826	https://locandadelmedioevo.it/
 node	1081387782	https://www.oasitigre.it/it/punti-vendita.html?store=7405
 node	1089971709	https://www.caffetteriastazione.it/
@@ -243,6 +246,7 @@ node	1755231738	https://www.ristorantemagnagrecia.it/
 node	1773479013	https://www.ristorantelamezzaluna.com/
 node	1782153837	https://hoshikopokesushiancona.eatbu.com
 node	1782153850	https://www.amoreborghese.it/
+node	1782153861	https://trattoriadanordio.it/
 node	1785616016	https://www.tigota.it/negozi/025560
 node	1785616041	https://www.silviocoiffeur.it/
 node	1801527134	https://www.locandarocco.it/
@@ -738,6 +742,7 @@ node	5270931604	https://www.mcdonalds.it/ristorante/marche/ancona/ancona-torrett
 node	5294680845	https://www.pizzabiancamore.it/
 node	5297665412	http://www.agriturismoloscoiattolo.it
 node	5303813135	https://www.lanicchiafood.com/
+node	5310973661	https://lascalettapizzeria.it/
 node	5312777922	https://www.unieuro.it/online/negozi/Unieuro-Ascoli-Piceno---viale-Indipendenza
 node	5321860021	https://www.peverelliandco.com
 node	5327658531	https://www.facebook.com/La-Torre-Nera-Fantasy-Bar-241392750120899/
@@ -1360,6 +1365,7 @@ node	11104489001	https://coccoverde.it/
 node	11107871438	https://www.xhosaa.it
 node	11108264006	https://www.agrifilippetticlaudio.it/
 node	11114291525	https://www.colverde.it/
+node	11115235654	https://www.attosecondoalteatro.it/
 node	11116557808	https://www.circolovelicotorrette.it/
 node	11116640179	https://www.trattoriailpodere.com/
 node	11116640180	https://www.trattoriailpodere.com/camere
@@ -1921,6 +1927,8 @@ node	12575719242	https://www.otticacottilli.it
 node	12575719250	https://www.medicina.univpm.it/?q=cdl-infermieristica-sede-di-ascoli-piceno
 node	12583054240	https://www.iluoghidelsilenzio.it/chiesa-madonna-delle-rose-torre-san-patrizio-fm/
 node	12589744402	https://www.sabaerospace.com/
+node	12590394418	https://autolavaggiocleopatra.it/
+node	12598482790	https://www.ambientesicuro.com/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2377,6 +2385,7 @@ way	632174675	http://www.museodiocesanofermo.it/
 way	632209592	https://www.liceoannibalcaro.edu.it/site/it/
 way	632839639	https://hotelgabbiano.net/
 way	633617545	https://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/391-chiesa-dei-santi-quirico-e-giulitta-in-montelabbate.html
+way	633936667	https://zeneat.it/
 way	634114070	https://www.tastitalia.com/
 way	634114074	https://www.estego.eu/
 way	642846602	https://www.gruppomarchemultiservizi.it/
@@ -2788,6 +2797,10 @@ relation	18621926	https://camminilauretani.eu/
 relation	18621927	https://camminilauretani.eu/
 relation	18621928	https://camminilauretani.eu/
 relation	18623025	https://www.interportomarche.it/
+relation	18715214	https://www.adbascoli.it/anelli-ascolani/blu/
+relation	18715215	https://www.adbascoli.it/anelli-ascolani/rosso/
+relation	18715216	https://www.adbascoli.it/anelli-ascolani/verde/
+relation	18715217	https://www.adbascoli.it/anelli-ascolani/giallo/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
