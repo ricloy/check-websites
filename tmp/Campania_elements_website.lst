@@ -1294,6 +1294,7 @@ node	8219409127	http://www.labelladormiente.it/
 node	8228161979	https://www.supersigma.com/punti-vendita/CAMPANIA/NAPOLI/sigma-superstore-di-grumo-nevano-fratta
 node	8234562802	gruppi.agesci.it/capua2/
 node	8235712437	https://www.caipiedimontematese.it
+node	8257799612	https://it.yamaha-motor.eu/concessionari/trincar-moto
 node	8264022535	https://www.hugoboss.com/it/boss-outlet-strada-provonciale-336-marcianise/
 node	8264022537	https://www.harmontblaine.com/EU/it/
 node	8264916243	https://lafestadeifollinola.wordpress.com/
@@ -1871,7 +1872,7 @@ node	10069848497	https://www.medetica.it/
 node	10069880605	https://www.prismaforniture.com/
 node	10069935778	https://ischiadiving.net/
 node	10072934087	https://www.eugenioruberto.it/
-node	10073617913	https://www.gruppofarina.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_marcianise
+node	10073617913	https://www.gruppofarina.com/
 node	10076747039	https://sensiamalfi.it/
 node	10083382241	https://cmcischia.it/
 node	10083382256	https://www.teleischia.com/
@@ -2418,7 +2419,6 @@ node	12120721112	https://ilnido.it/
 node	12120722017	https://www.oasimadredellapace.com/
 node	12135270251	www.sigitec.net
 node	12147574683	https://www.txilibri.com
-node	12158166982	https://peugeot.gruppoautouno.it
 node	12186589813	https://www.instagram.com/aurora_casa_della_cultura/
 node	12186650358	https://www.hotelgardenriviera.it/
 node	12206971413	https://museodeipellegrini.it/
@@ -2484,6 +2484,19 @@ node	12558624183	https://natolavoratorio.it
 node	12564808731	https://www.fuorimuraparkingsorrento.com/
 node	12569253379	https://vesuviopark.vivaticket.it/
 node	12584905301	https://www.appuntiofficinastudenti.com
+node	12596244601	https://www.domustraiani.it/
+node	12600554064	https://www.escapeboom.eu/
+node	12600854307	https://www.supermercatipiccolo.it
+node	12600854308	https://www.supermercatipiccolo.it/index.php/il-bistro
+node	12600854309	https://www.supermercatipiccolo.it/index.php/il-bistro
+node	12600858042	https://www.supermercatipiccolo.it/index.php/il-bistro
+node	12601532625	https://www.sisal.it/
+node	12601532644	https://misterisparmioshop.it/
+node	12601532665	https://www.re-fit.it/
+node	12601532672	https://www.soccorsostradaleavolio.it/
+node	12601532674	https://www.pgelettronica.it/
+node	12604212581	http://www.francescaniterrasanta.org/
+node	12607645579	https://www.casamuseomurolo.it/#
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -3131,10 +3144,6 @@ way	716680398	https://cilentissimo.de/
 way	726079332	https://www.lafenosa.it
 way	726825411	https://www.tenutalafortezza.com/
 way	727360630	https://www.on1951.it/
-way	728011294	https://volkswagen.gruppoautouno.it
-way	728011295	https://peugeot.gruppoautouno.it
-way	728011296	https://www.gruppoautouno.it
-way	728011297	https://www.gruppoautouno.it
 way	728024565	https://www.nicheclub.it
 way	728024566	https://www.centromorra.it
 way	729402495	https://www.icmarconi-torricelli.edu.it/
@@ -3605,6 +3614,7 @@ way	1270801641	https://www.lelettrodomestiko.it/
 way	1270970557	https://euroindoorpadel.it
 way	1271700655	https://www.italcost.com/
 way	1272190024	https://www.umbertorosiellosrl.it/
+way	1273095143	http://www.birbeemarmocchi.it/
 way	1274052719	https://www.datafelix.it
 way	1276159718	https://www.autoparcocasertasud.it
 way	1283289228	https://www.comune.santa-maria-capua-vetere.ce.it/it/point-of-interest/734162
@@ -3636,6 +3646,8 @@ way	1333311248	https://www.mcdonalds.it
 way	1346662211	https://www.scuolarienzo.edu.it/scuolarienzo/plessi/
 way	1351802374	https://www.salernomobilita.it/index.php/2021/09/29/parcheggio-liberta/
 way	1353651229	https://www.comune.carinaro.ce.it/it-it/home
+way	1360887397	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1500219691
+way	1361520728	https://incampaniaretailpark.blogspot.com/p/parco-commerciale-galatina.html
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
@@ -3854,6 +3866,10 @@ relation	17951650	http://bit.ly/3SykFuS
 relation	18383415	https://www.museiscienzenaturaliefisiche.it/
 relation	18383894	https://www.musa.unicampania.it/
 relation	18389981	http://www.polomusealecampania.beniculturali.it/index.php/l-anfiteatro
+relation	18717244	https://volkswagen.gruppoautouno.it
+relation	18717245	https://peugeot.gruppoautouno.it
+relation	18717246	https://www.gruppoautouno.it
+relation	18717247	https://www.gruppoautouno.it
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
@@ -3906,7 +3922,7 @@ node	11825802759	https://siciliabedda.webnode.it/
 node	12051173843	https://www.teamlucaparrucchieri.it/
 node	12061989737	https://www.lasaponaria.it/biostorie-battipaglia
 node	12085980817	https://www.cispi.it
-node	12111213124	https://lapampanini.it/
+node	12111213124	https://lapampanini.it
 node	12115185660	https://www.teresapaparella.it/menu/
 node	12192809158	https://spaziotra.xyz
 node	12221773632	https://www.galluccicisternadellolio.it
