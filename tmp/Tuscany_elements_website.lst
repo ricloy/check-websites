@@ -872,6 +872,7 @@ node	2361893185	https://www.dituttodipiu.net/mercatini/mercatino-firenze/
 node	2361894454	https://www.fashionsportfirenze.it/
 node	2361896132	http://liberafirenze.it/privati/
 node	2361901059	https://www.hotelpanorama.fi.it/
+node	2361902148	https://www.articolo17birreria.it/
 node	2361908804	https://www.acasadiuma.it/
 node	2361908969	https://www.pampanorama.it
 node	2361910045	https://www.leonardofirenze.it/
@@ -1751,6 +1752,7 @@ node	4338698863	https://www.seatowers.it/
 node	4338763809	http://www.colorificiogiorgiemekkaoui.com
 node	4341022489	https://sullamo.it
 node	4342362540	https://www.hotelfabricia.com/
+node	4343625361	https://caffollonica.it/
 node	4344804351	https://pokebykoto.it/
 node	4344824540	https://pizzeriaballerini.it/
 node	4346507443	https://www.juice.it/
@@ -3792,7 +3794,6 @@ node	9029608357	https://www.poderecasarotta.com
 node	9029614035	https://dimoredipoggianto.com
 node	9029726374	https://www.lanapoletana.net/
 node	9034037767	https://ilsambuco.si.it/
-node	9036251229	https://www.valdisuga.it/
 node	9040353630	https://lavecchiahosteria.it
 node	9041673693	https://www.facebook.com/DuendePisa/
 node	9041806198	http://www.villachiaratuscany.com/
@@ -3900,6 +3901,7 @@ node	9277649925	http://www.lafiaschetteriadellecure.it/
 node	9278833071	https://www.caisesto.it/
 node	9280243915	https://cert.garr.it
 node	9283435865	https://www.farmaciecomunalifarmapiana.it/orly
+node	9285544705	http://www.grosmarket.it
 node	9291462099	https://www.terretruria.it/
 node	9296419316	https://pacarrara.it
 node	9296719945	https://www.autofansrl.it/
@@ -6348,6 +6350,12 @@ node	12602041880	https://www.lidl.it/
 node	12602041881	https://www.tedi.com/stores/2070/de/Toscana/Calenzano/Via-Vittorio-Emanuele-14
 node	12602041882	https://www.lapiadineria.com/
 node	12602041883	https://www.wienerhaus.it/
+node	12613175162	poderependolino.com
+node	12625408451	https://teatrodifiesole.it
+node	12628624737	www.eui.eu
+node	12628647201	http://www.bouteaque.it
+node	12628663798	www.eui.eu
+node	12628676127	www.eui.eu
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -6659,6 +6667,7 @@ way	142283952	https://www.gsalberino.it/
 way	142371355	https://www.diocesipistoia.it/parrocchia-maresca/
 way	142715975	https://www.diocesipistoia.it/parrocchia-abetone/
 way	142883253	https://www.facebook.com/CampingLagoApuane/?locale=it_IT
+way	143462434	https://petmarket.it
 way	143562423	https://www.coopfirenze.it/
 way	143975731	http://www.materiamuseum.it/
 way	143975735	https://www.fattoriadicolle.it/it
@@ -6816,7 +6825,7 @@ way	183704612	https://www.bevedetta.com/
 way	183897542	http://www.marzoccosangiovannese.it/magazine/campi/i-campi.html
 way	183975382	https://fondoambiente.it/luoghi/torre-e-casa-campatelli
 way	184152323	https://www.bindozzino.com/en/farm-stay-valdorcia.html
-way	184234317	https://www.fspark.it/content/metropark_nd/it/parcheggi/centro-italia/pisa.html
+way	184234317	https://www.fspark.it/it/parcheggi/centro-italia/pisa-centrale-p2.html
 way	184353097	http://www.oasilipumassaciuccoli.org
 way	184506137	https://www.parcosanrossore.org/centri-visita-dettaglio.php?id=778
 way	184621030	http://www.ristorantecolonnino.it/
@@ -6913,6 +6922,7 @@ way	201971488	http://www.rifugiogigicasentini.it
 way	202188958	https://cassigoli.com
 way	202194669	http://vetreriachiti.com/
 way	202194675	https://www.etruriacork.it/
+way	202924460	https://baracchinaazzurra.com
 way	203810963	https://legerlette.it
 way	204177161	https://www.polomusealetoscana.beniculturali.it/index.php?it/211/siena-pinacoteca-nazionale
 way	204917542	http://www.fattoriadimorello.it/
@@ -7057,11 +7067,13 @@ way	256770419	https://www.carrarafiere.it/
 way	257351374	https://www.agriturismosummer.it/
 way	258144834	http://www.lerose.it/
 way	258394444	https://www.diocesipistoia.it/parrocchia-san-biagio-in-cascheri/
+way	258904449	http://www.ikea.com
 way	258983144	http://www.spacpt.it/SPAC.html
 way	259264549	https://www.cornoallescale.org/
 way	259597684	http://www.diggingvada.com/
 way	259943755	https://www.dsu.toscana.it/web/ardsu/-/mariscoglio
 way	261314164	https://www.ristorantedanando.it/
+way	261745604	http://www.grandimolini.it
 way	262190557	http://www.laterrazzaagriturismo.com/
 way	262190565	http://www.villarucellai.it/Seconda/index.htm
 way	262194968	https://www.lorenziniterminal.it/
@@ -7118,7 +7130,9 @@ way	283043865	http://www.icfollonica1.gov.it
 way	283130701	https://www.polomusealetoscana.beniculturali.it/index.php?it/192/museo-di-casa-vasari-arezzo
 way	283221222	https://www.rifugimugello.it/rifugio-la-serra/
 way	283536557	http://www.ausergrosseto.org/
+way	283767275	http://www.misericordiadiagliana.it
 way	283777893	http://biblio.comune.pistoia.it/library/Agliana/
+way	284216121	http://www.paultex.it
 way	284328993	https://www.gedacvending.it/
 way	284329061	https://www.tonsoni.it/
 way	284350367	https://www.comune.agliana.pt.it/it-it/vivere-il-comune/cosa-vedere/villa-baldi-48685-1-04e940e87b49800e9e89baf78190171b
@@ -7346,7 +7360,7 @@ way	368783137	https://www.cameraconvistalucca.it/
 way	369086128	http://www.icssecondoscandicci.it/
 way	369090804	http://www.comune.calenzano.fi.it
 way	369091016	http://www.comune.calenzano.fi.it
-way	369104840	http://www.arthotel-miro.it/
+way	369104840	https://www.jr-hotels.com
 way	369115883	https://www.cavourpacinotti.net/
 way	370398180	https://www.campingetruria.it/
 way	370435380	http://www.fattorialacollina.com
@@ -7447,6 +7461,7 @@ way	443751934	https://www.facebook.com/zamparco/
 way	444866591	https://ilcasello.it/
 way	444866607	https://www.fattoriavalle.it/
 way	446554185	https://www.caciallivernici.it/
+way	448041049	https://www.minuccisoccorsostradale.it/
 way	448669389	http://www.cartografiarl.regione.liguria.it/mapfiles/info/repertoriocartografico/pdf_protected_sites/schede_nat2000/SIC/Site_IT1342907.pdf
 way	448669392	http://www.cartografiarl.regione.liguria.it/mapfiles/info/repertoriocartografico/pdf_protected_sites/schede_nat2000/SIC/Site_IT1343502.pdf
 way	448771920	https://www.vigilfuoco.it/
@@ -7661,6 +7676,7 @@ way	558253460	https://www.acquapanna.com/it/blog/villa-panna
 way	559034439	http://www.santamariacalenzano.it/
 way	559034454	http://www.deltaflorence.com/
 way	559111192	https://www.burgerking.it/ristoranti/toscana/firenze/burger-king-calenzano/
+way	559114095	http://www.macentroinossidabili.it
 way	559114104	http://www.gruber-logistics.com/
 way	559114129	https://www.probios.it/
 way	559577806	https://www.lagoletamerici.it/campeggio/
@@ -8160,6 +8176,7 @@ way	895742339	https://gaspodini.com
 way	902996414	https://www.delloscompiglio.org/
 way	907068818	https://www.pozzodisanvito.it/
 way	908180564	https://www.roadhouse.it
+way	908180565	http://www.tecnomat.it
 way	915186367	https://www.fattoriadiselvoli.it/
 way	915202966	https://www.borgomocale.it/
 way	915568055	http://www.enpapiombino.it/
@@ -8341,6 +8358,7 @@ way	1137285150	https://iltirreno.gelocal.it/pistoia/cronaca/2021/02/13/news/dopp
 way	1137554983	https://iltirreno.gelocal.it/pistoia/cronaca/2021/02/13/news/doppia-rotatoria-per-decongestionare-e-rendere-piu-sicura-la-zona-industriale-1.39898077
 way	1146101045	https://www.bagnolarondine.com
 way	1149745887	https://www.reginamundicif.it/
+way	1150016401	https://www.nerigroup.net
 way	1153231363	https://www.allanticovinaio.com/firenze-stazione/
 way	1159389415	https://www.facebook.com/people/Parrocchia-di-Saline/100064516967155
 way	1160657708	https://www.gruppocolle.it/
@@ -8666,6 +8684,8 @@ way	1361156272	https://www.cromsteel.it/
 way	1361156273	http://www.staywellagliana.it/
 way	1361162262	https://www.eurospin.it/punti-vendita/montemurlo-via-livorno/
 way	1361223657	http://www.emmegel.com/
+way	1363839816	http://www.falornipharma.com/
+way	1363879758	https://www.valdisuga.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -8835,11 +8855,8 @@ relation	3619329	http://www.iclorena.gov.it
 relation	3619571	https://www.comune.follonica.gr.it/biblioteca/
 relation	3625400	http://www.icfollonica1.gov.it/
 relation	3662262	https://www.parcopuccini.it/
-relation	3676567	https://www.protectedplanet.net/sites/Poggio_Tre_Cancelli_State_Nature_Reserve
-relation	3681342	https://www.protectedplanet.net/178998
 relation	3686719	https://www.inps.it/
 relation	3717621	http://www.paduledifucecchio.it/itinerari/valledelpesciamappa.pdf
-relation	3726929	https://www.protectedplanet.net/sites/Tomboli_Di_Follonica_State_Nature_Reserve
 relation	3757785	https://www.polomusealetoscana.beniculturali.it/index.php?it/195/arezzo-museo-nazionale-darte-medievale-e-moderna
 relation	3824376	https://www.villaisa.it
 relation	3842577	http://www.costadeglietruschi.it/uplTrakking/IT_13_CASTAGNETO_ITA.pdf
@@ -9537,6 +9554,8 @@ relation	15313456	http://www.villaggioturisticoairon.com
 relation	15427269	https://www.facebook.com/groups/laovest
 relation	15607462	https://aureliaantica.it/
 relation	15610950	https://aureliaantica.it
+relation	15613934	https://www.latortelleriamaremmana.it/
+relation	15613972	https://sushiko.it
 relation	15648327	http://www.ilmortelliccio.com
 relation	15657346	http://www.parcofrignano.it/
 relation	15671596	https://caipontedera.it/ferrata/
@@ -9598,7 +9617,6 @@ relation	15921910	https://valdicecinaoutdoor.it/cammino-etrusco/
 relation	15921946	https://valdicecinaoutdoor.it/cammino-etrusco/
 relation	15921965	https://valdicecinaoutdoor.it/cammino-etrusco/
 relation	15923217	https://www.lavorazionemarmiegraniti.it
-relation	15948310	https://www.protectedplanet.net/sites/Padule_Ortibottagone_Regionalprovincial_Nature_Reserve
 relation	15949937	https://www.parchivaldicornia.it/info-e-servizi/mobilita-e-parcheggi
 relation	15949939	https://www.parchivaldicornia.it/info-e-servizi/mobilita-e-parcheggi
 relation	15953794	https://www.cascinaalcolle.it/
@@ -10311,6 +10329,7 @@ node	12537598853	https://www.giangastone.com/
 node	12537598854	https://it.sisley.com/
 node	12537598957	http://www.fiorellapelle.it/
 node	12557225080	https://www.lapobaraldi.com/
+node	12623235348	https://www.settesantifirenze.it/
 way	28396159	https://www.basilicacateriniana.it/
 way	37737483	https://www.montepulcianoliving.it/parcheggi/
 way	41735556	http://www.verrazzano.com/
@@ -10400,6 +10419,7 @@ way	309640813	http://www.conticapponi.it/calcinaia/
 way	310539318	https://comprensivofucinipisa.edu.it/
 way	311790455	http://www.teatrodellaglio.org
 way	317179015	http://www.bagnilidolivorno.com/
+way	325947925	https://www.settesantifirenze.it/
 way	327114510	http://www.albergogolfo.it
 way	327173301	http://www.immobiliare-laconchiglia.com
 way	328492882	http://www.residenceilsole.com
@@ -10443,6 +10463,7 @@ way	539685234	https://www.carabinieri.it/
 way	547279295	https://www.ilfilo.net/arte/Oratorio_Castagno.htm
 way	560208791	https://www.lenzibike.it/
 way	578138195	http://www.suoresacrafamiglia.it/la-verna/
+way	595159495	https://www.caparzo.com/
 way	617876649	http://www.lepiscinesanminiato.it
 way	618099353	http://www.pizzartesanminiato.it
 way	618099361	http://brotini.com
@@ -10526,7 +10547,6 @@ relation	6227598	http://www.villaggiolamadonnina.it
 relation	6411447	https://www.cavallinomatto.it/
 relation	6783829	http://bagnoleforbici.it/
 relation	7834598	https://www.at-bus.it/
-relation	8364090	https://www.caparzo.com/
 relation	11327198	http://www.circolonauticocalaviolina.it
 relation	12300146	http://www.follonica-apartments.com
 relation	12384413	http://www.acquavillage.it
