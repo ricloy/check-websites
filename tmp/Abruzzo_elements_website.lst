@@ -1474,6 +1474,7 @@ node	7640475933	https://en.cec.com/negozi-apple/pescara
 node	7640535419	https://www.carlag.it/
 node	7640538319	https://www.windtre.it/
 node	7642518979	https://www.botanicopescara.it
+node	7642917144	https://ilsitodeisani.it/
 node	7643890916	http://www.cooperativailgabbiano.com/
 node	7645196184	https://fericalzature.altervista.org/
 node	7645221032	https://hairbeautyandbarbershop.it/
@@ -2217,6 +2218,7 @@ node	9811234618	http://Www.cavalcandolabruzzo.com
 node	9811390104	https://www.bec.energy/?lang=en
 node	9813847113	https://www.wheelup.it/it/stores/wheelup-via-pietro-nenni
 node	9813929316	https://jysk.it
+node	9814533476	https://www.avisautonoleggio.it/guida-con-avis/localit%C3%A0-noleggio-auto/europa/italia/pescara/aeroporto-abruzzo
 node	9814966189	http://www.barsupermarket.it
 node	9816849515	https://www.eventiesagre.it/Mercatini_Filiera+Corta/21185846_Mercato+Settimanale+Di+Atri.html
 node	9829030113	https://www.castellodisalle.com
@@ -2269,6 +2271,7 @@ node	10021959104	https://www.ventur.it/
 node	10026200988	https://www.misura.it/a-misura-di-ambiente/a-misura-di-due-ruote-2022/
 node	10027705957	http://www.assicurazionipalma.it/
 node	10043009153	https://www.emidiodeflorentiis.it/
+node	10043188056	https://www.iulianettigomme.com/
 node	10043225934	https://canapartis.it/impresa-canapa-cannabis-light/coltivazione-canapa-e-cannabis-light/aziende-agricole/bucchianico/societa-agricola-brune/
 node	10045991872	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10782
 node	10045991874	https://www.toccovini.com/
@@ -3274,6 +3277,14 @@ node	12606799673	https://www.labottegadellosvapo.it/
 node	12607116807	https://www.gabetti.it/agenzia/chieti-scalo
 node	12607122720	https://www.marcoromano.it/
 node	12607127383	https://www.demarcogioielleria.it/
+node	12615392169	https://www.dolcezze-nascoste.it/
+node	12615392170	https://parrucchierifigaro.it/
+node	12616652398	https://www.centrosportivofairplayssd.com/
+node	12617924933	https://casacibo.it/
+node	12617971508	https://www.fox-shop.it/
+node	12624185501	https://fattoriadellanonna.com/
+node	12625180369	https://www.bedandbreakfastgiulianova.it/
+node	12628180874	https://www.adaltiora.eu/
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
 way	14401818	https://www.pattinaggiopescara.it
@@ -3310,7 +3321,6 @@ way	58377650	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p
 way	58808135	http://www.lavalledellapescara.it
 way	59399534	https://centauroweb.it/
 way	59530435	https://www.federicisofa.com/punti-vendita/montesilvano/
-way	59563955	https://www.ictroianodelfico.edu.it/
 way	60008561	https://www.eurospin.it
 way	60295526	https://www.musei.abruzzo.beniculturali.it/musei?mid=61&nome=museo-archeologico-nazionale-dabruzzo-villa-frigerj
 way	60784235	https://www.centrocommercialedelfino.it/
@@ -4548,7 +4558,7 @@ relation	16183966	https://www.parcoabruzzo.it/sentiero.php?id_iti=4286
 relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
 relation	16494983	https://www.ingenio-web.it/articoli/il-ponte-filomena-delli-castelli-sul-fiume-saline-pe/
 relation	16751540	https://camminoterremutate.org/
-relation	16752739	https://www.agenziaentrate.gov.it/portale/web/guest/uffici/-/uffici/uffici_INSTANCE_6TA6OwuprQd0/dettagliouffTTerritorio/KBA/cr/915/iur/KBA
+relation	16752739	https://www.agenziaentrate.gov.it/portale/uffici/-/uffici/uffici_INSTANCE_6TA6OwuprQd0/dettaglioufficio/TA5
 relation	16941683	https://www.ilcamminodellapace.it
 relation	16944256	https://www.ilcamminodellapace.it
 relation	16944367	https://www.ilcamminodellapace.it
@@ -4692,6 +4702,7 @@ way	1307420954	https://www.cogesambiente.it/cogesa2021/contatti/
 way	1315272611	https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&code=9701&Chiesa_di_San_Nicola_di_Bari__Orsogna
 way	1330879777	http://www.visit-sulmona.it/poi/288/chiesa-di-santa-lucia/3
 way	1359817723	https://www.ufficiocamerale.it/7042/truck-wash-23-societa-a-responsabilita-limitata
+way	1363111294	https://www.facebook.com/groups/123006997723018/posts/larea-verde-di-via-silvio-pellico-simbolo-di-degrado-carlo-masci-carlo-costantin/9064105783613050/
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
 relation	13050879	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno/
