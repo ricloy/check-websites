@@ -58,7 +58,7 @@ node	68507808	https://www.comune.torgiano.pg.it/
 node	68507812	http://www.comunespoleto.gov.it/
 node	68507816	https://www.comune.arrone.terni.it/
 node	68507820	http://www.comune.amelia.tr.it/
-node	68507824	http://www.comunedialviano.it/
+node	68507824	https://www.comune.alviano.tr.it/
 node	68507825	https://www.comune.acquasparta.tr.it/
 node	68507829	http://www.comune.ficulle.tr.it/
 node	68507833	https://www.comune.giove.tr.it/
@@ -92,7 +92,7 @@ node	331801034	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 node	331801036	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 node	331813067	https://hotelumbria-orvieto.it/
 node	331959806	https://panevinotodi.com/
-node	332159522	https://www.hotel-umbria.com/
+node	332159522	https://www.hotel-umbria.com
 node	332159685	https://www.hotelirispg.com/
 node	332160385	http://www.tavernapappagloria.it/
 node	413411470	https://www.hotelcorso.net/
@@ -123,6 +123,7 @@ node	937891527	https://www.conad.it/ricerca-negozi/negozio.005912.html
 node	937891621	https://www.farmaciaterni.it/old/comunale-6/
 node	955404719	https://www.caos.museum/luogo/museo-d-arte-moderna-e-contemporanea-aurelio-de-felice/
 node	980297632	https://dishcovery.menu/app/restaurants/295f58231c02ec2693e37781f0af3d39/a-la-carte-menu
+node	980297641	https://turismo.comune.perugia.it/poi/teatro-del-pavone
 node	983923931	https://www.ilpanaro.com/
 node	1106856923	http://labtopo.ing.unipg.it/labtopo/index.php?id=84
 node	1171417598	https://www.iluoghidelsilenzio.it/villa-di-rio-secco-trevi-pg/
@@ -150,7 +151,7 @@ node	1576336916	https://www.abbaziasettefrati-fratres.it/
 node	1576498769	https://www.promuseoboldrini.it/
 node	1583772617	https://www.museodelvetropiegaro.it/
 node	1612289206	https://badiailvingone.it
-node	1628199153	http://www.hotelmorlacchi.it/
+node	1628199153	http://www.hotelmorlacchi.it
 node	1628199154	https://www.hotelsansebastianoperugia.com/
 node	1628199159	https://www.morlacchilibri.com/libreria/
 node	1628232946	www.ostello.perugia.it
@@ -183,6 +184,7 @@ node	1945036764	https://www.straginazifasciste.it/?page_id=38&id_strage=2150
 node	1951293015	http://www.iluoghidelsilenzio.it/?p=16749
 node	1962342447	https://www.metemagno.it/
 node	1972368666	http://www.ristoranteilconvento.it
+node	2044591398	http://www.albergoanna.it
 node	2111237743	https://www.agriturismoilper.it
 node	2133499004	https://www.trilogyclub.it/
 node	2147499234	https://www.sanfelicissimo.com
@@ -252,6 +254,7 @@ node	2461282094	https://www.montereano.it/
 node	2461299967	http://www.ocablu.com/
 node	2463764068	https://www.alcasellino.it/
 node	2466455876	https://edicola518.com/
+node	2466579859	https://www.pampanorama.it/punti-vendita/perugia-marconi
 node	2473201674	https://www.ilvecchiogranaio.com/
 node	2475049339	http://www.orari-banca.it/06/perugia/unicredit-banca-perugia-mugnano-49055.html
 node	2475282514	http://www.iluoghidelsilenzio.it/?p=216860
@@ -266,6 +269,7 @@ node	2610886567	http://www.mummiediferentillo.it/
 node	2616069741	https://www.conad.it/ricerca-negozi/conad-via-umberto-i-68-06034-foligno--000034
 node	2636581303	https://www.umbriaterremusei.it/it/musei_5/post/museo-civico-archeologico-e-pinacoteca-amelia_13/
 node	2640911797	http://michelelepri.blogspot.it/
+node	2669109518	https://www.comune.alviano.tr.it/
 node	2671573448	https://www.comune.acquasparta.tr.it/Mediacenter/FE/CategoriaMedia.aspx?idc=268&explicit=SI
 node	2680331616	https://www.ilgirasoleassisi.com/
 node	2681816807	https://www.ilborgo-agriturismo.it/
@@ -987,6 +991,7 @@ node	12567210897	https://ewiva.com/colonnine-ricarica/Italia/Umbria/Perugia/Deru
 node	12578902981	https://www.caddys.it/negozi/perugia/deruta-via-tiberina
 node	12578941434	https://www.nkd.it/filialen/4156/deruta/06053/nkd-via-tiberina-44-b
 node	12578993234	https://www.satur.it/
+node	12625784023	https://turismo.comune.perugia.it/poi/teatro-della-sapienza
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1016,6 +1021,7 @@ way	80539729	https://www.falesiaonline.it/falesia/gavelli.html
 way	80539731	https://www.falesiaonline.it/falesia/gavelli.html
 way	80874133	http://www.iluoghidelsilenzio.it/?p=5502
 way	84084817	www.lachiusa.com
+way	84301937	https://turismo.comune.perugia.it/poi/palazzo-dei-priori
 way	85832270	https://www.italian.hostelworld.com/hosteldetails.php/Ostello-Mario-Spagnoli/Perugia/11489
 way	86811405	https://www.eurospin.it/
 way	88522223	http://polomusealeumbria.beniculturali.it/?page_id=153
@@ -1120,6 +1126,7 @@ way	254200485	https://www.turismotorgiano.it/ita/15/monumenti-e-luoghi-di-intere
 way	254826551	https://www.comune.torgiano.pg.it/
 way	255060449	https://www.castellomonterone.com/it/
 way	255221327	https://www.collegiodelcambio.it/
+way	255221330	https://turismo.comune.perugia.it/poi/sala-dei-notari-001
 way	255227005	https://www.casamenotti.it/
 way	256190289	http://musei.beniculturali.it/musei?mid=5416&nome=villa-del-colle-del-cardinale
 way	256344611	https://www.cinemaclarici.it
@@ -1128,12 +1135,14 @@ way	260483555	https://www.uslumbria2.it/pagine/ospedale-di-spoleto-000
 way	262266471	https://siusa.archivi.beniculturali.it/cgi-bin/siusa/pagina.pl?TipoPag=prodente&Chiave=45978
 way	268240339	http://www.golfclubilcastello.altervista.org/
 way	277216074	https://www.marmorefalls.it/qrcode.php?id=23
+way	280226221	https://www.fondazioneperugia.it/edifici-storici/palazzo-graziani/
 way	282899338	https://www.acquariogemi.it/
 way	284983850	https://www.comune.gualdocattaneo.pg.it/
 way	286816879	http://www.cricorciano.it
 way	286817729	http://www.hotelelpatio.com
 way	288491068	http://www.iluoghidelsilenzio.it/?p=88179
 way	288756705	http://www.abaperugia.com/#
+way	288756708	https://auditoriumsanfrancesco.it
 way	293428041	https://www.parks.it/parco.trasimeno/index.php
 way	296882777	http://www.gardenspazioverdeterni.it/
 way	297000294	https://www.cateringhotelanita.com/hotel/
@@ -1193,6 +1202,7 @@ way	372367186	https://www.ittfoligno.it
 way	372988860	https://www.casavacanzenorcia.it/
 way	376388036	www.siami.it/
 way	391912309	www.SanPonziano.it
+way	391912311	https://www.iluoghidelsilenzio.it/chiesa-di-san-salvatore-spoleto/
 way	391912313	https://www.comune.spoleto.pg.it/turismoecultura/la-citta/chiese/chiesa-di-san-paolo-inter-vineas/
 way	391912316	http://www.iluoghidelsilenzio.it/?p=1462
 way	396750600	https://www.locandapoggioleone.it/
@@ -1291,7 +1301,7 @@ way	473004362	https://istitutocomprensivoperugia1.edu.it
 way	473004364	https://istitutocomprensivoperugia1.edu.it
 way	473004365	https://istitutocomprensivoperugia1.edu.it
 way	475672322	https://www.regione.umbria.it/protezione-civile
-way	476048505	https://perugia.hoteleuropapg.com/
+way	476048505	https://perugia.hoteleuropapg.com
 way	476251513	https://clinicalami.it/
 way	477332058	https://www.2circolospoleto.edu.it/jm4/
 way	477456377	https://www.comune.spoleto.pg.it/turismoecultura/la-citta/monumenti/complesso-dellanfiteatro-romano/
@@ -1711,6 +1721,7 @@ relation	1948091	https://chemindassise.org/
 relation	2048968	http://www.camminodiassisi.it
 relation	2154336	http://musei.beniculturali.it/musei?mid=5351&nome=museo-archeologico-nazionale-dellumbria
 relation	2163461	https://www.conservatorioperugia.it/
+relation	2365968	https://turismo.comune.perugia.it/poi/palazzo-cesaroni
 relation	2365972	https://www.sinahotels.com/it/h/sina-brufani-perugia/
 relation	2417972	https://www.caiperugia.it/
 relation	2670906	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1784,7 +1795,6 @@ relation	7793174	https://www.viadifrancesco.it/
 relation	7793205	https://www.viadifrancesco.it/
 relation	7793228	https://www.viadifrancesco.it/
 relation	7793237	https://www.viadifrancesco.it/
-relation	7793277	https://www.viadifrancesco.it/
 relation	7793285	https://www.viadifrancesco.it/
 relation	7794323	https://www.viadifrancesco.it/
 relation	7794325	https://www.viadifrancesco.it/
