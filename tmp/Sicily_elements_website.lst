@@ -24,6 +24,7 @@ node	305791285	http://www.tuttiacasa.com/
 node	305896808	https://www.trattoriacaico.it/
 node	306251853	http://www.bedandbreakfastmaria.com/
 node	306254851	https://www.poste.it
+node	306254856	https://www.caffesicilia.it/
 node	306254865	https://www.cicciosultano.it/
 node	313357047	https://www.intesasanpaolo.com/it/common/footer/ricerca-filiali.html
 node	313480110	https://www.comunepantelleria.it/
@@ -1217,7 +1218,6 @@ node	4329847191	https://www.poste.it
 node	4330794719	https://www.ferrodicavallopalermo.it/
 node	4330794834	https://www.pasticceriacappello.it/
 node	4335526212	https://www.comune.montemaggiorebelsito.pa.it/
-node	4335548492	https://www.comune.sciara.pa.it/
 node	4335548494	https://www.poste.it
 node	4335552778	http://www.icmontemaggiorebelsito.gov.it/
 node	4341812123	https://www.grandvision.it/
@@ -2636,7 +2636,6 @@ node	8961148275	https://www.almareincitta.com/
 node	8961148278	https://www.ernestocatania.it/
 node	8961159339	https://www.atalapoint.com
 node	8961159423	http://www.hobbyzoo.org/
-node	8961159596	https://www.viaglauco.it/
 node	8961159768	https://www.casademarata.it/
 node	8961159773	https://www.villaveract.com/
 node	8964395258	https://www.bbcrociferi.it/
@@ -3487,6 +3486,7 @@ node	11535092477	https://www.comune.mirabellaimbaccari.ct.it/
 node	11535092480	https://www.comune.acate.rg.it/home/
 node	11535092481	https://www.comune.santa-croce-camerina.rg.it/
 node	11537311210	https://www.airbnb.it/rooms/11705866
+node	11542838926	www.favignanavacanza.it
 node	11543707703	https://www.sushisusiracusa.it/
 node	11549020294	https://www.museionline.info/musei/museo-della-tonnara-di-bonagia
 node	11564885008	http://www.hobbyzoo.org/
@@ -3818,6 +3818,11 @@ node	12582283766	https://www.aglasteimmobiliari.it/
 node	12596148517	https://www.slimandtone.it/
 node	12600348127	https://neunoi.it/
 node	12601882342	www.grenne.com
+node	12616390846	http://www.circolomagnisi.it/
+node	12620640368	https://dantonagroup.it/dantona-group-biancavilla/
+node	12620640372	https://dantonagroup.it/misterbianco/
+node	12620640389	https://dantonagroup.it/gravina-catania/
+node	12620642806	https://dantonagroup.it/dantona-group-catania/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3959,6 +3964,7 @@ way	56133558	https://www.sgboscobiancavilla.edu.it/
 way	56672835	https://www.comune.adrano.ct.it/project/castello-normanno/
 way	57687511	https://www.vigilfuoco.it
 way	57687527	https://www.adspmaresiciliaorientale.it/
+way	57708216	https://www.cittametropolitana.ct.it/it/page/collezione-la-gumina
 way	58741464	http://www.georgecalin.ro/sf-agata/
 way	58782077	https://www.dsps.unict.it/it
 way	58782105	https://www.dsps.unict.it/it
@@ -4788,6 +4794,7 @@ way	429994822	http://cogeimpianti.com
 way	429996791	http://romacostruzionisrl.it
 way	430153049	http://www.saithotel.com/
 way	431183124	http://masseriasusafa.com
+way	435653197	https://www.comune.sciara.pa.it/
 way	436625033	https://www.icmontessoricaltagirone.edu.it/
 way	438308015	https://www.guthotel.it/
 way	439040205	https://www.icpuglisiacate.edu.it/
@@ -6051,6 +6058,8 @@ way	1355233259	https://www.hotelmida.it/
 way	1359434218	https://ilsancorradodinoto.com/
 way	1359711059	https://calcestruzzi2000.com/
 way	1359711071	https://www.giallongo.it/
+way	1363085804	https://dantonagroup.it/mascalucia/
+way	1363085813	https://dantonagroup.it/san-giovanni-galermo/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
