@@ -103,6 +103,7 @@ node	69300890	http://www.comune.busseto.pr.it/
 node	69300912	http://www.comune.castellarquato.pc.it
 node	69301298	https://www.comune.casolavalsenio.ra.it/
 node	227581286	https://www.bertellicarburanti.it/
+node	227802080	https://www.q8.it/geolocalizzatore/storelocator?lang=it
 node	228013509	https://www.carburantinatali.it/
 node	228021145	https://www.federmetano.it/scheda-officine/t-r-di-torreggiani-s-e-rossi-g-snc/
 node	228039746	https://www.italmetcng.it
@@ -754,7 +755,6 @@ node	2291777286	https://www.airporthotelbologna.it/
 node	2297473471	http://emilianomancino.blogspot.com
 node	2297593065	https://www.facebook.com/Pizzeria1000Miglia/
 node	2302255888	http://ofpcina.net
-node	2304263421	https://www.enel.it/punto-enel/
 node	2304263422	https://www.enel.it/punto-enel/
 node	2304263424	https://www.enel.it/punto-enel/
 node	2304263425	https://www.enel.it/punto-enel/
@@ -2806,7 +2806,6 @@ node	4769656820	https://www.instagram.com/l.artigianodeisapori/?hl=it
 node	4770188333	https://www.ristorantevecchialama.it/
 node	4771024863	https://www.traslochipisanu.it/
 node	4771025438	https://www.comune.castelfranco-emilia.mo.it/servizi/Menu/dinamica.aspx?idSezione=616&idArea=17026&idCat=17041&ID=17041&TipoElemento=categoria
-node	4771026823	https://www.comune.castelfranco-emilia.mo.it/
 node	4771033832	http://www.comune.nonantola.mo.it/uffici/area_servizi_alla_persona_servizi_socialiscuola__cultura/biblioteca/index.htm
 node	4771091040	https://www.comune.nonantola.mo.it
 node	4771160571	https://www.comune.sanprospero.mo.it/
@@ -3217,7 +3216,6 @@ node	5557733808	https://www.shibuya.it/
 node	5558656759	https://felsinea.bcc.it
 node	5563812030	https://www.facebook.com/BellaIstanbul3/
 node	5563961816	https://www.acetaiamalpighi.it/
-node	5564790607	https://europaest.webs.com/
 node	5564790608	https://europaest.webs.com/
 node	5564856423	http://www.ambulatoriozama.it
 node	5569041621	https://www.hotelmichelangelo.rn.it/
@@ -4739,6 +4737,7 @@ node	10069539338	https://www.parrocchiadizolino.it/vita-parrocchiale/circolo-arc
 node	10072740567	https://www.revisionimarecchia.it/
 node	10074730798	https://www.edenparkzone.it/
 node	10081472675	https://www.cislromagna.it/
+node	10082093064	https://www.lafarmacia.it
 node	10086713770	http://saporidimola.it/
 node	10089762438	https://www.greciparma.it/
 node	10094457700	https://www.beckyitalia.it/
@@ -5283,6 +5282,7 @@ node	11406413064	https://www.sisonweb.com/
 node	11406426877	https://www.romagnacarri.it/
 node	11409153467	https://www.giardinolugo.it/
 node	11411851377	https://www.laquietedironcofreddo.it/
+node	11420042023	https://www.ausl.re.it/Luogo.jsp?id=770
 node	11420307540	https://www.caibo.it/
 node	11422408332	https://poggiopollino.it/
 node	11423324439	https://www.famila.it/punti-vendita/emilia-romagna/famila-market-forli---via-bentivoglio
@@ -5885,6 +5885,12 @@ node	12590374880	https://www.termoimpianti1950.it/
 node	12593070003	https://www.colorholiday.com/miamibeach-milano-marittima/
 node	12598507589	http://www.pubbliprintgrafica.it/
 node	12604497849	https://www.facebook.com/PizzaPazzasrl/
+node	12618725403	https://www.cofparma.it/
+node	12619456178	https://reggioemilia.avisemiliaromagna.it/avis-comunali/avis-comunale-fabbrico/
+node	12620479301	https://bk-site.imagonist.com/ristoranti/ristorante.php?storeId=32907
+node	12620507802	https://www.tigota.it/negozi/023218
+node	12622908108	https://nuovoimpero.it/
+node	12628985101	https://castelliditalia.tumblr.com/tagged/roccalanzona
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	https://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -6044,6 +6050,7 @@ way	108255300	https://www.modenaresort.it/
 way	109226018	https://www.arcisanlazzaro.it/
 way	109252381	https://www.campingsafari.it/
 way	109252382	https://www.campingadriatico.net/
+way	109493613	https://www.polskicmentarzbolonia.pl/pl/
 way	109794165	http://cinemasenio.blogspot.it/
 way	112961297	http://www.rifugiobargetana.it
 way	112961845	https://www.rifugio-battisti.it/
@@ -6091,7 +6098,7 @@ way	137518991	https://www.villasangiuseppe.org/
 way	137953656	https://www.comune.sanlazzaro.bo.it/amministrazione/luoghi/cimitero
 way	138334864	https://gls-group.com/IT/it/home
 way	138334887	https://www.moreno.it/it/sedi/imola/
-way	138440861	https://www.supersigma.com/punti-vendita/EMILIA-ROMAGNA/BO/sigma-di-imola-punta
+way	138440861	https://www.pampanorama.it/punti-vendita/imola-punta
 way	138452233	http://www.imolalago.it/
 way	138645362	http://www.biorigenera.com/residence.asp
 way	139659492	http://www.museodellapreistoria.it/
@@ -6357,6 +6364,7 @@ way	166489591	https://www.silla.it/filiali/cento.html
 way	166495106	http://www.pizzerialapacesancarlo.it/
 way	166501811	http://www.piscinadicento.com/
 way	166589621	https://hotelristorantevillapetra.it
+way	166740593	https://www.comune.castelfranco-emilia.mo.it/
 way	166759022	http://www.it.manitou.com/
 way	166771358	https://www.hoteltouringcarpi.it/
 way	166774130	https://www.liceofanti.edu.it/
@@ -7797,6 +7805,7 @@ way	1361637794	https://www.provincia.re.it/page.asp?IDCategoria=701&IDSezione=53
 way	1361637795	https://www.provincia.re.it/page.asp?IDCategoria=701&IDSezione=5327&ID=226539
 way	1361637796	https://www.provincia.re.it/page.asp?IDCategoria=701&IDSezione=5327&ID=226539
 way	1361637797	https://www.provincia.re.it/page.asp?IDCategoria=701&IDSezione=5327&ID=226539
+way	1362709419	https://www.polisportiva2000tennis.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42855	http://www.comunecamugnano.gov.it/
 relation	42901	https://www.comune.casteldicasio.bo.it/
@@ -8602,6 +8611,7 @@ relation	10623383	https://www.caibo.it/
 relation	10623469	https://www.caibo.it/
 relation	10623572	https://www.caibo.it/
 relation	10623582	https://www.caibo.it/
+relation	10632339	httrps://www.caibo.it
 relation	10633699	https://www.caibo.it/
 relation	10633719	https://www.caibo.it/
 relation	10633743	https://www.caibo.it/
@@ -9040,6 +9050,10 @@ relation	18631257	https://cuorecollibolognesi.it/it/cosa-fare/sentieri/
 relation	18709059	https://www.viafrancescadellasambuca.it
 relation	18714524	https://www.caiparma.it/
 relation	18728785	https://cuorecollibolognesi.it/it/cosa-fare/sentieri/
+relation	18765327	https://www.caiparma.it/
+relation	18765431	https://viamaterdei.it/
+relation	18765603	https://viamaterdei.it/tappe-del-percorso/via-mater-dei-1-tappa-bologna-rastignano/
+relation	18770010	https://viamaterdei.it/tappe-del-percorso/via-mater-dei-2-tappa-rastignano-zena-pianoro/
 node	441918990	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/427-fidenza.html
 node	693373134	https://amerigo1934.it
 node	797204601	http://www.poliambulatoriolasalute.it/
@@ -9189,6 +9203,7 @@ node	12505307404	https://www.pietredeldrago.com/
 node	12541295230	rockandrivers.com
 node	12565970389	www.atelier-interni.com
 node	12581874492	https://www.facebook.com/Birreinbottega/
+node	12623437380	https://www.orthoshops.it/negozi-orthoshops-dove-siamo/orthoshops-boiardo-reggio-emilia/
 way	29118673	https://www.vigilfuoco.it/sitiVVF/rimini/
 way	64980907	http://www.bibliotecanzola.it/
 way	64980910	http://www.comune.anzoladellemilia.bo.it
