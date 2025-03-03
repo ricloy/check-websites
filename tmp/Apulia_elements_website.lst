@@ -12,6 +12,7 @@ node	68529049	https://comune.casalvecchiodipuglia.fg.it/
 node	68529053	https://www.comunecagnanovarano.fg.it/Home.aspx
 node	68529081	https://www.comunelesina.it/
 node	68529991	https://castellaneta.gov.it/
+node	68530165	https://comune.sanmarzano.ta.it/
 node	226914688	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/45542
 node	288227954	https://www.campingvalledoro.it/
 node	288229588	https://www.comuni-italiani.it/071/059/farmacie/
@@ -668,7 +669,7 @@ node	5002274609	https://www.pasticceriacl.it/
 node	5002275964	https://www.peppezullo.it/
 node	5002354022	https://www.fontanagreca.it/
 node	5002360221	https://www.salentoinmovimento.it/
-node	5003855070	http://www.malecostadelsud.com
+node	5003855070	https://malediscoteca.it/
 node	5010190921	https://www.levelzero.it/
 node	5014526426	https://www.allacortedellasuocera.com/
 node	5032325489	http://castellaneta.gov.it
@@ -1056,6 +1057,7 @@ node	6594466668	http://www.musa.unisalento.it
 node	6621102389	hotelcitybari.com
 node	6635893189	https://www.parcodeibriganti.it/
 node	6694632020	https://campinglascoglierasalento.com/
+node	6696732874	https://www.guendalinaclub.com/
 node	6699962185	https://www.ecoviarent.com/
 node	6713073260	https://www.bed-and-breakfast.it/mobile/it/puglia/b-b-il-principe-palo-del-colle/17142
 node	6728411048	https://www.fondazionemontanaro.it
@@ -2602,6 +2604,7 @@ node	12310169214	https://slimline.beautycheck.it
 node	12310184294	https://smiaspa.it/smia/
 node	12310288084	https://divaniliving.it/
 node	12310288087	https://www.geaplastsrl.it
+node	12310288088	https://www.booking.com/hotel/it/casa-la-viola.html
 node	12310335715	https://marfis.it/
 node	12312130903	https://www.stefyscathedralcoffee.it/
 node	12315765331	https://www.riflessi.it
@@ -2708,6 +2711,7 @@ node	12512248079	https://www.otticagaleone.it/store/
 node	12512712620	https://www.instagram.com/daniele.martino.parrucchieri/
 node	12512760517	https://shop.planetwin365.it/planetwin365-1bf68d293a4c
 node	12513954800	https://www.macelleriadaclaudio.com/
+node	12514052218	https://goldery.it/gioielli-margherita-dal-1946-srl-via-dante-alighieri-san-marzano-di-san-giuseppe/
 node	12514052220	https://www.ottaviogomme.it/
 node	12518377984	https://www.mddcosmetici.it/
 node	12518377985	https://www.kinesiacamassafisio.com/
@@ -2788,6 +2792,24 @@ node	12609711357	https://newlupetto.com/
 node	12609711360	https://www.popolarebari.it/content/bpb/it/home.html
 node	12609711361	https://daffy.sumupstore.com/
 node	12609711363	http://www.dormirecomodi.it/
+node	12616030292	https://www.centrosanitariopolivalente.it/
+node	12618379965	https://www.ffsporteventi.it/
+node	12618379966	https://bottegamusicale.wordpress.com/
+node	12618379970	https://www.tripadvisor.com/Restaurant_Review-g1747526-d12322188-Reviews-Dicoste_Macelleria_braceria-Francavilla_Fontana_Province_of_Brindisi_Puglia.html
+node	12618379971	https://www.instagram.com/bar_milan_/
+node	12618379977	http://www.laboratorioleo.it/
+node	12620743723	https://www.nuovobardelcorso.it/
+node	12620743726	https://www.instagram.com/parrucchieri_uomo_donatiello/
+node	12620743727	https://www.automobilidambrosio.it/
+node	12620743729	https://www.instagram.com/patres_pizzaandfood/
+node	12620743730	https://www.facebook.com/people/Nuova-PanSud-Srl/100059757863704/
+node	12620743731	https://book.heygoldie.com/MAGLI-PARRUCCHIERI
+node	12620743732	https://www.booking.com/hotel/it/la-stella-francavilla-fontana.it.html
+node	12620743736	https://it.iqos.com/store/it/store-locator?q=40.530777%2C17.582308
+node	12620743737	https://www.oraridiapertura24.it/filiale/Francavilla%2520Fontana-Domenico%2520Pentassuglia%2520Parrucchieri-1205943C.html
+node	12620743743	https://www.coppepuglia.it/
+node	12620743744	https://www.lifegymcenter.it/
+node	12628410477	https://www.sanita.puglia.it/web/asl-bari/patenti-speciali-commissione-medica-locale
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -2884,6 +2906,7 @@ way	219227826	https://www.lidocalaparadiso.it/
 way	219281423	https://www.lidopantano.it/
 way	221233838	https://www.comunesangiorgioionico.it/sangiorgioionico/zf/index.php/uffici/index/detail/categoria/181/id/23
 way	226055690	https://mongolfierataranto.it/
+way	227761519	https://iisslilla.edu.it/
 way	228789106	https://www.sanita.puglia.it/web/asl-taranto
 way	230057890	https://www.brindisiweb.it/provincia/muro_tenente.asp
 way	230438475	https://www.facebook.com/pages/Oasi-San-Martino/147692925291235
@@ -3003,6 +3026,7 @@ way	328643688	http://www.icspinazzola.gov.it/
 way	329481053	http://musei.beniculturali.it/musei?mid=738&nome=parco-archeologico-di-siponto
 way	329642515	http://www.archiviodistatobrindisi.beniculturali.it
 way	329848642	https://www.comune.cursi.le.it/
+way	331106680	https://www.vigilfuoco.it/
 way	331642327	https://www.trulliilcastagno.com/
 way	331655250	https://www.salaricevimentidonnasandra.it/
 way	332210585	http://www.sanmassimilianokolbe.taranto.it/
@@ -3010,7 +3034,8 @@ way	332286098	https://www.willaria.it/
 way	332288915	https://www.donnagiulia.it/
 way	332310193	http://www.alogne.it
 way	332471626	http://www.mizarblu.com
-way	332659502	http://www.liceoribezzo.gov.it
+way	332659502	https://www.liceoribezzo.edu.it/
+way	333210111	https://www.itesgiovannicalo.edu.it/
 way	334146669	http://www.secondocomprensivoadelfia.it/
 way	334709550	http://sanroccoceglie.altervista.org/
 way	334711114	https://www.carrisiland.it/
@@ -3179,6 +3204,7 @@ way	406860239	http://www.villareginadelmonte.com
 way	407000273	https://www.masserialeville.it/
 way	407004384	https://hotelpineta.it/
 way	407004407	https://rifugiosfilzi.com/
+way	407092715	https://scuolamusicalecomunale.it/
 way	407143888	https://www.cinemars.it/
 way	407428797	https://www.automurgia.com/
 way	407429959	https://brigantino.it/
@@ -3354,6 +3380,7 @@ way	421368446	https://www.istcompmazzini.edu.it/
 way	421379464	http://www.arcobalento.it
 way	421520990	http://www.secondocomprensivofrancavillafontana.gov.it
 way	421523643	https://www.famila.it/punti-vendita/puglia/famila-francavilla-fontana
+way	421539146	https://www.trenitalia.com/it.html
 way	421555909	https://www.iissferdinando.edu.it/
 way	421556642	https://m.facebook.com/fgmsrl/
 way	421893646	http://masseriamontedoro.weebly.com/
@@ -4105,6 +4132,7 @@ relation	6213076	https://www.bancaditalia.it/chi-siamo/organizzazione/filiali/ba
 relation	6223648	https://www.comune.putignano.ba.it/polizialocale
 relation	6225175	http://www.city-manager.info/-un-habitat-residenziale--a-terrazzo-.html
 relation	6251742	https://www.sanita.puglia.it/web/asl-brindisi/distretti-socio-sanitari_det/-/journal_content/56/36031/poliambulatorio-di-mesagne
+relation	6264779	https://www.primocomprensivofrancavilla.edu.it/
 relation	6264780	http://www.secondocomprensivofrancavillafontana.gov.it
 relation	6279081	https://www.nuovoteatroverdi.com/
 relation	6299271	http://castellaneta.gov.it/
