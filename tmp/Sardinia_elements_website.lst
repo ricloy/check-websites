@@ -368,7 +368,7 @@ node	727840224	www.hotelsugologone.com
 node	737546479	https://www.conad.it/ricerca-negozi/negozio.005733.html
 node	749400959	https://www.campingsilana.com/
 node	789417145	http://www.bbogliastra.com/IT/bb_podda_gianfranco.htm
-node	793607390	https://www.conad.it/
+node	793607390	https://www.conad.it
 node	794165436	https://www.hotelorri.it
 node	794586419	https://www.sacontonera.it/
 node	796476603	https://www.hotel-laperla.com/
@@ -1760,6 +1760,9 @@ node	12615795086	https://www.ctmcagliari.it
 node	12618852915	https://museiseui.altervista.org/
 node	12618933445	radiogfp.webnode.it
 node	12625693501	http://www.visitbaudei.com
+node	12635812413	https://villachiara.webnode.it
+node	12640702159	https://www.porta1918.it/
+node	12643282991	serenamuso.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1956,6 +1959,7 @@ way	237435241	https://www.valkarana.com/
 way	237843811	http://www.sardegnacultura.it/j/v/253?s=24720&v=2&c=2461&c1=2616&visb=&t=1
 way	237845525	http://www.sardegnacultura.it/j/v/253?s=20776&v=2&c=2488&c1=2124&t=1
 way	237889029	http://www.archeotaccu.it/Serbissi.htm
+way	242788797	https://climbingitaly.com/sardegna/aguaplano/
 way	244847128	https://www.comune.sennariolo.or.it/
 way	245096479	https://cantinagiampietropuggioni.it/
 way	245620411	https://www.santeodoroturismo.it/
@@ -2141,6 +2145,8 @@ way	281459337	http://www.mirkoshop.com
 way	281474404	https://www.puntalizzu.com/
 way	281474679	http://www.sardegnabiblioteche.it/index.php?xsl=839&s=2&v=9&c=5941&codice=IT-NU0082
 way	281515480	http://www.coopvillabbas.sardegna.it/museo.htm
+way	282603985	https://idese.cultura.gov.it/place/museo-e-centro-documentazione-delle-due-fonderie/
+way	282605605	https://www.aspalsardegna.it/amministrazione/unita_organizzativa/centro-per-limpiego-di-san-gavino-monreale/
 way	283264936	https://www.santateresadigallura.com/la-chiesa-della-madonna-del-buoncammino/
 way	283494056	https://www.diocesidiiglesias.it/wd-annuario-enti/beata-vergine-addolorata-2366/
 way	283514823	http://www.provincia.carboniaiglesias.it/
@@ -3189,7 +3195,6 @@ relation	15682932	http://www.camminando.eu/wordpress/?page_id=59
 relation	15683082	http://www.camminando.eu/wordpress/?page_id=59
 relation	15683439	http://www.camminando.eu/wordpress/?page_id=59
 relation	15683534	http://www.camminando.eu/wordpress/?page_id=59
-relation	15684926	http://www.camminando.eu/wordpress/?page_id=59
 relation	15684957	http://www.camminando.eu/wordpress/?page_id=59
 relation	15685213	http://www.camminando.eu/wordpress/?page_id=59
 relation	15698646	https://ropewiki.com/Linas
@@ -3232,12 +3237,16 @@ relation	18375428	https://www.cicloviadellasardegna.it/
 relation	18504922	https://portosantateresa.com/
 relation	18528198	https://www.sardegnasentieri.it/sentiero/bau-sacua-callenti-baccu-sa-figu-c-807
 relation	18573181	https://www.sardegnasentieri.it/sentiero/incrocio-801-sa-gruta-fra-conti-sentiero-italia-c-800b
+relation	18646267	https://areamarinaprotettacapotestapuntafalcone.it/home
 relation	18666669	https://www.hoteldeipini.it
 relation	18675246	https://ilparcodeipini.com/
 relation	18690739	http://www.marinadifertilia.it/
 relation	18693085	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Piscina-Comunale/
 relation	18694880	https://www.elcami.cat/el-cami-illenc-de-lalguer-formentera
 relation	18733054	https://www.enelgreenpower.com/it/impianti/operativi/centrale-idroelettrica-flumendosa-salto-2
+relation	18784677	https://www.sardegnasentieri.it/node/1127
+relation	18784908	https://www.sardegnasentieri.it/node/1164
+relation	18785831	https://www.sardegnasentieri.it/node/1165
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -4053,8 +4062,9 @@ relation	3947951	http://www.museodelpanerituale.it/
 relation	3948039	http://www.comune.noragugume.nu.it
 relation	3964318	http://www.hotelorlandoresort.com
 relation	3970750	http://www.comune.zeddiani.or.it
-relation	4264134	http://www.comunesedilo.gov.it
+relation	4264134	http://www.comune.sedilo.or.it
 relation	4294454	http://www.afsardegna.it
+relation	6581360	http://www.ferratacabirol.it
 relation	7651240	http://www.sardegnatermale.it
 relation	7688852	http://www.golfhotelisarenas.com/
 relation	7706249	http://www.comune.ussaramanna.vs.it
