@@ -777,6 +777,7 @@ node	3751196731	https://www.monumentaltrees.com/es/ita/liguria/genova/15141_vill
 node	3751196732	https://www.monumentaltrees.com/es/ita/liguria/genova/2772_nervi/25910/
 node	3754072166	https://it-it.facebook.com/libreriasabina.arenzano/
 node	3758787090	www.ilbraciere.net
+node	3760095532	https://www.nolobici.it
 node	3760176445	https://laruotaimperia.com/
 node	3760268778	https://www.ristorantethermopolium.it/
 node	3761682867	https://www.oliocalvi.it/
@@ -2560,6 +2561,17 @@ node	12620686004	https://www.facebook.com/profile.php?id=61571378611492
 node	12629114032	https://www.ortobioimperia.it/
 node	12629114035	https://diverdedazzurro.com
 node	12633497361	https://www.nucleocinofilosansone.it/it
+node	12635554871	https://www.provincia.imperia.it/organizzazione/servizio/centro-impiego-imperia
+node	12638746414	https://www.conad.it/ricerca-negozi/negozio.050053.html
+node	12641556734	https://www.ballobascheri.com/
+node	12641739333	http://www.agriturismocaigi.com
+node	12641739343	http://castellarobeb.blogspot.com/
+node	12645391059	https://www.imperiaexperience.it/it/cultura/poi.html?id=24285:villa-faravelli-m-a-c-i
+node	12648261514	https://www.hotelsettearchi.com
+node	12648369804	https://agripinocchio.it/
+node	12650804299	https://www.estetycbeautystudio.it/
+node	12650804300	https://isaglietto.it/
+node	12650817206	https://www.oliotomatisimperia.it
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3018,7 +3030,6 @@ way	280237387	www.reefer.it
 way	280613087	http://www.itecci.it/
 way	283525191	https://www.provincia.savona.it/strade/sp45
 way	284194757	https://www.ferroviagenovacasella.it/geca/
-way	284378062	https://www.conad.it/ricerca-negozi/negozio.050053.html
 way	285105863	http://www.diocesi.genova.it/documenti.php?idd=203&parrocchia=162
 way	285106263	http://www.aggiohouse.it/
 way	286259543	www.monte-reale.it
@@ -3362,6 +3373,9 @@ way	1343810683	https://www.manenahostel.it/
 way	1355972592	https://liguriadamare.com/caladisole/appartamenti.html
 way	1361527752	https://www.sanlorenzoalmarecantieri.it
 way	1363938538	https://www.remolidays.it/en/remolipark-3/
+way	1365506069	https://www.cantieridiimperia.com
+way	1365529693	https://www.hotelariston-imperia.it/residence-villa-marina/
+way	1365784624	https://www.autostrade.it/it/home
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -3395,7 +3409,6 @@ relation	2689876	https://www.parcoportofino.it/
 relation	2689877	https://www.parcoportofino.it/
 relation	2701245	https://www.comune.chiavari.ge.it/
 relation	2703171	http://www.musei.liguria.beniculturali.it/musei?mid=5072&nome=forte-santa-tecla
-relation	2764534	https://eurovelo.com/ev5
 relation	2882626	https://www.24hfinale.com/
 relation	2952204	https://www.contshipitalia.com/it/marine_lsct.htm
 relation	2952205	https://www.terminaldelgolfo.com/
@@ -3864,7 +3877,6 @@ relation	11159333	https://smart.comune.genova.it/comunicati-stampa-articoli/tre-
 relation	11258219	https://smart.comune.genova.it/comunicati-stampa-articoli/corsie-ciclabili-de-ferrari-fiumara-pronta-fine-luglio
 relation	11685878	https://viadellacosta.it/
 relation	11734820	http://parconaturalealpiliguri.it
-relation	11976541	https://sentierodeiducati.it/
 relation	12246328	https://caisarzana.com/
 relation	12324236	http://www.provincia.alessandria.gov.it/sentieri/index.php?whattodo=sentieri&file=singola&id=107
 relation	12498830	https://www.altaviadelsale.com/ita/limone-monesi
@@ -4000,6 +4012,8 @@ node	12463418378	https://www.nidoscuolaumbertoemargherita.it/
 node	12543571522	https://www.rtimmobiliare.it
 node	12543571523	http://suoreminime.it/
 node	12547565703	https://www.ilnostrocaffeonline.it/
+node	12649562775	https://www.gabetti.it/agenzia/imperia
+node	12650817209	https://www.adm.gov.it/portale/dt-liguria-piemonte-valledaosta/-/adm/deleteCookies?p_auth=tReLpgtB
 way	134211659	http://www.celtorretta.it/
 way	158281161	https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html
 way	202331656	https://www.museodellorologio.it
