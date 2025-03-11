@@ -906,6 +906,7 @@ node	1860804300	https://www.restaurant-gruener.com
 node	1863341904	https://www.salewa-cube.com/
 node	1870349655	http://www.apotheke-schlanders.it/
 node	1871763544	http://www.bunker-mooseum.it/
+node	1882034425	https://www.chalets-lagaun.com
 node	1883469450	https://www.alphotel-panorama.com/
 node	1885120329	https://www.eppan.eu/de/Lanserhaus
 node	1889561976	https://www.ristorantesushoku.it/
@@ -1553,7 +1554,7 @@ node	2749599799	https://www.studiolegalepapa.bz.it/
 node	2749600311	https://www.adabz.it/
 node	2749601658	https://www.kuenwalter.it/
 node	2749603031	https://www.raikaritten.it/
-node	2749603178	http://www.sparkasse.it/
+node	2749603178	https://www.sparkasse.it/
 node	2749603389	http://www.autoscuolagries.it/
 node	2749603481	https://www.fahrschulehaslach.com/
 node	2749603933	https://www.cls-bz.it/
@@ -4000,7 +4001,6 @@ node	5811870173	www.gruppo-am.com
 node	5813149540	http://www.sii.bz.it
 node	5814686158	https://www.enterprisesrl.it/
 node	5815747525	https://www.bunkermuseum.net/
-node	5817248052	https://birreria-arciduca-arco.business.site/
 node	5820568300	http://seab.bz.it/parcheggi-blu
 node	5822853346	https://www.kreuzbergpass.com/gourmet-suedtirol/
 node	5822854001	https://www.dolomitenhof.com
@@ -6270,6 +6270,7 @@ node	12552276202	https://www.luisalm.it
 node	12553574601	https://www.stafflerbz.com
 node	12574053205	https://www.apartmentpauli.com/
 node	12578429304	https://www.instagram.com/atipico.sushi/
+node	12578648104	https://lacorterovereto.it/
 node	12581832776	https://www.rabensteinhof.com/
 node	12584762180	https://www.onrocks.it/
 node	12592471812	https://www.supernordicskipass.it/#/snsCenter/265/Centro%20Fondo%20Passo%20Coe
@@ -6282,9 +6283,11 @@ node	12605016701	https://www.suedtirolmobil.info/fileadmin/pdf/net/net_bz_busbhf
 node	12605016702	https://www.suedtirolmobil.info/fileadmin/pdf/net/net_bz_busbhf.pdf
 node	12605016703	https://www.suedtirolmobil.info/fileadmin/pdf/net/net_bz_busbhf.pdf
 node	12607911601	https://www.santostefano.org
-node	12608576401	http://www.langstrein.com
+node	12608576401	https://www.langstrein.com/
 node	12615794414	https://www.facebook.com/rauthuette/
 node	12633165601	https://ateliernorbertniederkofler.com/de/
+node	12638364707	https://la-ruina.webnode.it/
+node	12649459614	https://www.comune.laives.bz.it/it/Vivere_a_Laives/Associazioni/Gruppo_Archeologico_di_Bolzano
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -9178,6 +9181,7 @@ way	376340615	http://www.areeprotette.provincia.tn.it/rete_ecologica_europea_Nat
 way	376340617	http://www.areeprotette.provincia.tn.it/rete_ecologica_europea_Natura_2000/natura_2000/pagina337.html
 way	376506218	http://www.meran.eu/it/natura/sentieri-dacqua/waalweg-di-marlengo/
 way	376794156	https://www.museum-kastelruth.com/schulmuseum/
+way	377278976	https://alchimiawellresort.it/
 way	377962143	http://www.garnivillacecilia.it/
 way	378168649	https://www.unterlanzin.it
 way	379182614	https://www.campingcevedale.it/
@@ -9997,7 +10001,6 @@ relation	444229	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-dei-La
 relation	534773	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-Valle-del-Chiese
 relation	593775	https://www.sat.tn.it/
 relation	909561	https://www.sat.tn.it/
-relation	934999	https://www.fieitalia.com/fie/cosa-facciamo/i-sentieri/sentieri-europei/sentiero-europeo-e5/
 relation	939915	https://www.cultura.trentino.it/Luoghi/Tutti-i-luoghi-della-cultura/Castelli/Rocca-di-Riva
 relation	941586	https://www.sat.tn.it/
 relation	948944	https://www.sat.tn.it/
@@ -11450,6 +11453,25 @@ relation	18776699	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como
 relation	18776700	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
 relation	18777433	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-garda/
 relation	18777434	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-garda/
+relation	18798843	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18799077	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18799078	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18799080	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18799081	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18799082	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18799083	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18799084	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18799085	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18799088	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18804130	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18804131	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18804132	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18804133	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18804134	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18804135	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18806905	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18806907	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
+relation	18806908	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-como/
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -11896,6 +11918,7 @@ node	2432920779	https://www.hofkeller.it
 node	2434423553	http://www.kiwisports.eu/
 node	2439801243	http://www.feinkostegger.it
 node	2455560217	http://www.bibliolaives.it/
+node	2460643344	http://www.rh-racing.it/
 node	2463316762	http://www.roadhousegrill.it/
 node	2468231577	http://www.cr-giovo.net/
 node	2469855871	https://www.sport-jocher.com/
@@ -12149,6 +12172,7 @@ node	5814906655	http://www.garni-rosi.com
 node	5814963857	http://www.verenas-sportbar.com
 node	5814982324	http://pizzaexpressahrntal.com
 node	5814993879	http://www.sportmayrl.com/
+node	5817248052	https://arciducahouse.com/ristorante
 node	5824700243	http://www.app-living.it
 node	5828023000	https://www.apsplevicocurae.it/
 node	5828398414	http://www.ahrntaler-alpenhof.com/
@@ -12489,6 +12513,7 @@ node	12534798835	http://www.adlerhotel.it/
 node	12534798837	http://www.hotelserena.it/
 node	12534798839	https://www.pizgalin.it/
 node	12534798842	https://www.coronadolomiteshotel.com/
+node	12636281121	https://www.velicatrentina.it/
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24441737	https://www.trentinomobilita.it/parcheggi-coperti
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
@@ -12634,6 +12659,7 @@ way	88039283	https://www.albergoaispiazzi.it/
 way	91501551	https://it.hotels.com/ho571467/hi-hotel-trento-italia/
 way	91785712	http://www.isoladiarturo.com/
 way	92892812	http://www.cesconi.it/
+way	93282651	https://www.satsporminore.it/le-nostre-malghe/malga-vecchia/
 way	93670052	http://www.hotelnorge.it
 way	93703612	http://www.hotelvason.it/
 way	93733080	http://www.augustushotel.net/
@@ -12783,6 +12809,7 @@ way	167170835	https://www.ferraritrento.com/it/villa-margon/
 way	169334623	http://www.rechtenthal.com
 way	170809754	www.cascatedisaent.it
 way	171785446	https://www.rotalnord.com/
+way	172438654	https://www.vigilfuoco.it/ona-opera-nazionale-di-assistenza/attivita/centri-di-soggiorno/centro-montano-le-ninfee
 way	172944759	http://www.distilleriasebastiani.com/
 way	172981304	http://www.haus-tirol.it
 way	174309659	http://www.hotel-waldheim.com
@@ -13188,6 +13215,7 @@ node	9917727450	http://www.meransen-ferien.com/en/alpine-lodge-wieserhuette.html
 node	9991289506	https://www.erlebnispark.it/
 node	9995426040	https://wetter.provinz.bz.it/hoehenwindstationen.asp?stat_stid=962
 node	10548763589	https://www.merano-suedtirol.it/de/partschins-rabland-und-toell/essen-trinken/produkte-aus-partschins/ab-hof-verkauf/rid-F7FC7E37048C14D4DB3299E1092731A8-p-moar-1271.html
+node	12640104960	https://youtu.be/JTD5-qSx26I
 way	41873663	http://www.pontives.com
 way	41967288	http://www.montepana.it
 way	42045164	http://www.chalet-gerard.com
@@ -13256,12 +13284,14 @@ way	958817249	https://www.comunitadellegiudicarie.it/Tematiche/Servizio-Igiene-A
 way	962751159	http://www.satcembra.it/?page_id=768
 way	962751160	http://www.satcembra.it/?page_id=766
 way	975586846	https://www.thecrag.com/de/klettern/italy/northern-italy/arco-trento-area/area/3220447521
+way	1054631063	https://youtu.be/40C-uKMduMw?si=zf14LDwW47RyD2TB
 way	1075169203	https://www.facebook.com/lidoparadisecavedine/
 way	1324690083	https://openresa.com/club/Fortezza
 relation	123162	https://www.sternwarte.it
 relation	158983	http://www.sat.tn.it/Home/
 relation	418904	https://www.bikemeran.it/de/radwege/passeiertal
 relation	1562303	http://www.trekking.suedtirol.info/
+relation	2269292	https://youtu.be/wnUA29iI2rc?si=33Z_h1QBPV2MYS9_
 relation	2320650	http://www.stoneman.it/
 relation	2962979	https://portal.tirol.gv.at/TirolGvAt/bikeAbfrageDetail.do?cmd=bikeAbfrageDetail&cid=1&id=482
 relation	3200015	https://fstatic2.mtb-news.de/f3/20/2008/2008450-9fykdaxxc53f-dscf1581-large.jpg
