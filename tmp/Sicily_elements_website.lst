@@ -451,12 +451,10 @@ node	2311469566	https://www.enel.it/punto-enel/
 node	2311469589	https://www.enel.it/punto-enel/
 node	2311469622	https://www.enel.it/punto-enel/
 node	2311469627	https://www.enel.it/punto-enel/
-node	2311469646	https://www.enel.it/punto-enel/
 node	2311469656	https://www.enel.it/punto-enel/
 node	2311469666	https://www.enel.it/punto-enel/
 node	2311469677	https://www.enel.it/punto-enel/
 node	2311469717	https://www.enel.it/punto-enel/
-node	2311469721	https://www.enel.it/punto-enel/
 node	2311469731	https://www.enel.it/punto-enel/
 node	2311469770	https://www.enel.it/punto-enel/
 node	2311469780	https://www.enel.it/punto-enel/
@@ -754,7 +752,6 @@ node	3022921389	https://www.poste.it
 node	3022921403	https://www.poste.it
 node	3022921404	https://www.poste.it
 node	3025081024	https://www.poste.it
-node	3027119797	https://www.comune.cinisi.pa.it/docs/homepage.php
 node	3027681259	http://www.istitutocomprensivocinisi.gov.it/obj.aspx?lang=IT&id=5160b23c-c614-4aff-b127-3286c9e498b6
 node	3037695896	https://www.bridgewebs.com/abp
 node	3048324952	https://www.cinisivacanze.it/
@@ -3481,13 +3478,12 @@ node	11534734553	https://www.comune.biancavilla.ct.it/
 node	11534756846	https://www.comune.paterno.ct.it/
 node	11534756903	http://comune.ragalna.ct-egov.it/
 node	11535092470	http://www.comune.chiaramonte-gulfi.gov.it/
-node	11535092472	https://www.comune.tremestieri.ct.it/
 node	11535092476	https://www.comune.sanmichelediganzaria.ct.it/
 node	11535092477	https://www.comune.mirabellaimbaccari.ct.it/
 node	11535092480	https://www.comune.acate.rg.it/home/
 node	11535092481	https://www.comune.santa-croce-camerina.rg.it/
 node	11537311210	https://www.airbnb.it/rooms/11705866
-node	11542838926	www.favignanavacanza.it
+node	11542838926	https://www.favignanavacanza.it/
 node	11543707703	https://www.sushisusiracusa.it/
 node	11549020294	https://www.museionline.info/musei/museo-della-tonnara-di-bonagia
 node	11564885008	http://www.hobbyzoo.org/
@@ -3818,7 +3814,7 @@ node	12579545804	https://panoramacasasr.com/
 node	12582283766	https://www.aglasteimmobiliari.it/
 node	12596148517	https://www.slimandtone.it/
 node	12600348127	https://neunoi.it/
-node	12601882342	www.grenne.com
+node	12601882342	https://www.grenne.com/
 node	12616390846	http://www.circolomagnisi.it/
 node	12620640368	https://dantonagroup.it/dantona-group-biancavilla/
 node	12620640372	https://dantonagroup.it/misterbianco/
@@ -3826,6 +3822,8 @@ node	12620640389	https://dantonagroup.it/gravina-catania/
 node	12620642806	https://dantonagroup.it/dantona-group-catania/
 node	12641941352	https://altovolume.net
 node	12643497450	https://www.zangaloro.it/home
+node	12652922621	https://www.wildshop.it/
+node	12659922951	https://www.comune.marsala.tp.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -3981,7 +3979,6 @@ way	61294944	https://www.icverganiscemi.edu.it/
 way	64366761	https://www.parcoetna.it/
 way	66346071	https://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei/pagina_musei.asp?ID=53&IdSito=83
 way	70064157	https://www.policlinicorodolicosanmarco.it/g-rodolico/
-way	70978507	https://www.comune.marsala.tp.it/
 way	71167304	https://www.parcolilibeo.it/
 way	71512381	https://comune.belmonte.pa.it/
 way	71896935	https://www.agrumariacorleone.com/
@@ -4122,7 +4119,6 @@ way	175981491	https://www.poste.it
 way	176119114	https://www.poste.it
 way	176936999	https://www.nuovohotelsangiuliano.it/
 way	177509201	https://www.comuneterminiimerese.pa.it/
-way	177768896	https://www.penny.it/
 way	177768971	https://www.istitutocomprensivoarchimede.edu.it/
 way	177769010	https://www.istitutocomprensivogiaraca.edu.it/
 way	177769071	https://www.liceogargallo.edu.it/
@@ -5821,7 +5817,6 @@ way	1208373366	https://www.scuolavalverde.edu.it/
 way	1208373376	https://www.scuolavalverde.edu.it/
 way	1208373380	https://www.scuolavalverde.edu.it/
 way	1208490847	https://bibliotp.regione.sicilia.it
-way	1208599804	http://www.comune.santaninfa.tp.it/santaninfa/hh/index.php
 way	1208627115	https://www.purrello.edu.it/
 way	1208627117	https://www.purrello.edu.it/
 way	1208627123	https://www.purrello.edu.it/
@@ -6065,6 +6060,9 @@ way	1359711071	https://www.giallongo.it/
 way	1363085804	https://dantonagroup.it/mascalucia/
 way	1363085813	https://dantonagroup.it/san-giovanni-galermo/
 way	1365550941	https://www.researchgate.net/figure/eduta-aerea-zenitale-dellArea-Sacra-del-Kothon-a-Mozia-con-i-principali-monumenti_fig1_360114362
+way	1366263075	https://www.penny.it/
+way	1367197625	https://www.comprensivopuglisi.it/
+way	1367197628	https://www.comprensivopuglisi.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6501,7 +6499,6 @@ relation	14895494	https://www.cefalumadoniehimera.it/trails/504-alminusa-favara-
 relation	14899603	https://www.cefalumadoniehimera.it/trails/558-sentiero-stagno-gorgonero-piano-catarineci/
 relation	14930435	https://sites.google.com/view/caltavuturo-turismocultura/itinerario-naturalistico/rocca-di-sciara
 relation	14936718	http://www.caidelgolfo.it/
-relation	14939000	https://comune.castelvetrano.tp.it/
 relation	15395454	https://www.sicilytrekkingtour.it/
 relation	15395462	https://www.sicilytrekkingtour.it/
 relation	15395467	https://www.sicilytrekkingtour.it/
