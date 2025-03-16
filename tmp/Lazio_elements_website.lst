@@ -326,7 +326,7 @@ node	922384469	https://www.liguorigioielli.it/
 node	931731706	https://www.ciclodiffusione.com/
 node	932316319	http://www.osteriamargutta.it/
 node	932316331	http://www.frigidarium-gelateria.com/
-node	932316345	https://ilmargutta.bio/
+node	932316345	https://ilmargutta.bio
 node	932338038	https://www.ilgelatodisancrispino.it/
 node	943488045	https://www.cinquestelleitalia.it/
 node	944072226	http://www.marzolionline.it/
@@ -407,7 +407,6 @@ node	1243874355	https://www.raicultura.it/arte/articoli/2019/05/Storia-e-restaur
 node	1248116068	https://www.hoteltrevirome.com/
 node	1250344705	https://italia.embajada.gob.ec/
 node	1253979817	http://www.ketumbar.it/
-node	1257346321	https://www.liceoeqvisconti.it/
 node	1262595770	www.osteriaallalberone.it
 node	1264084369	https://parcodiveio.it/
 node	1269806565	https://www.il-casaledigiulia.it/
@@ -1007,7 +1006,6 @@ node	2311460820	https://www.enel.it/punto-enel/
 node	2320248056	http://www.bancadifrascati.it/
 node	2320248058	http://www.farmaciacarafafrascati.it/
 node	2320248060	http://www.basc.it/
-node	2321159262	http://www.pizzaideaweb.it/
 node	2321159270	http://www.pizzaideaweb.it/
 node	2322859093	https://www.sciamlab.com/
 node	2323357579	https://www.bolsena.com/hotelcolumbus/
@@ -3485,7 +3483,7 @@ node	6501541230	https://www.beniculturali.inaf.it/musei/roma
 node	6504409971	http://www.bicityroma.it/
 node	6513407620	https://www.solydel.it
 node	6514870033	https://www.anytimefitness.it/
-node	6514870042	https://www.farmacap.info/
+node	6514870042	https://www.farmacap.info/farmacap-farmacia-comunale-ariccia-colli-albani/
 node	6514904628	https://www.anytimefitness.it/
 node	6514918899	https://www.anytimefitness.it/
 node	6514919030	https://www.acibalduina.com/
@@ -3712,6 +3710,7 @@ node	7112114378	https://www.akreodesign.it/
 node	7112229685	http://www.eliteimmobiliareroma.com/
 node	7117529803	https://www.marcoaurelio.comune.roma.it/
 node	7117752909	https://www.farmaciatomaselli.com/
+node	7119027586	https://ziarilla.it/
 node	7119266876	www.trattorialilli.it
 node	7121834786	https://www.bricofer.it/storesearch/frosinone/
 node	7122402240	http://www.mvmservice.com
@@ -4886,7 +4885,6 @@ node	9764515313	https://www.tshirt-shop.online/
 node	9766084253	https://www.therepublichotel.it/
 node	9766084278	https://www.hotelcharter.com/
 node	9768740319	https://www.hotelariston.it/
-node	9768740325	https://stowluggage.com/location/rome/luggage-lockers-stazione-termini-exit-via-giolitti
 node	9768740341	https://www.hotelkennedy.net/
 node	9773285917	https://www.stroilioro.com/
 node	9775033604	https://cteroma.it/
@@ -5178,6 +5176,7 @@ node	10217113117	https://www.enelx.com/it/it/mappa-stazioni-ricarica
 node	10217135317	https://eurosurgelati-italia-prima-porta.business.site/
 node	10221052470	https://www.facebook.com/latteriaitri/
 node	10221534813	https://www.dequintili.com/
+node	10228778482	https://www.bibliotechediroma.it/opac/library/Biblioteca%20Gianni%20Rodari/RMBG1
 node	10229019105	https://www.bibliotechediroma.it/opac/library/teatro-biblioteca-quarticciolo/RMBG2
 node	10229019106	https://www.teatriincomune.roma.it/teatro-biblioteca-quarticciolo/
 node	10229190419	https://jw.org
@@ -6391,8 +6390,18 @@ node	12623542581	https://ludovicopalma.it/
 node	12628157694	http://www.rigenerazionecasashop.com/
 node	12630322796	https://www.laurafagiolo.it/page-ristorante.php
 node	12635551130	https://www.centroserena.shop/
+node	12637968991	https://www.facebook.com/MRCoffee2015/
 node	12641308482	https://www.stowyourbags.com/en/shop/rome/colosseum-roman-forum/
+node	12644001092	https://www.facebook.com/people/Le-Onde-Trattoria-del-Mare/100083125278983/
 node	12644220701	http://juniorpizzachefroma.it
+node	12647850500	http://www.pizzaideaweb.it/
+node	12650208207	https://www.ishinciampino.it/
+node	12650208381	https://music.it/music-it-studio/
+node	12652341015	https://stowluggage.com/location/rome/luggage-lockers-stazione-termini-exit-via-giolitti
+node	12655881685	https://roma178.tecnocasa.it/
+node	12662233454	https://autoautoroma.it/
+node	12666341084	http://www.alfalabanalisi.com/
+node	12666378201	https://www.dagiada-bistrotcafe.com
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7709,7 +7718,6 @@ way	420500805	https://ristorantelacaravella.net/
 way	421287866	https://www.risparmiocasa.com/
 way	421370109	www.pratikobricoearredo.com
 way	421372758	https://www.aslroma2.it/index.php/home-6-distretto/uoc-casa-della-salute-6d
-way	421562888	https://www.carabinieri.it/
 way	421588259	https://www.bibliotechecastelliromani.it/biblioteche-scr/biblioteca-di-grottaferrata/
 way	421593965	http://www.agricolturacapodarco.it/
 way	421768973	https://www.castellotorrealfina.com/
@@ -8187,6 +8195,7 @@ way	583912082	https://www.lavecchiapineta.com/
 way	584345641	http://www.siropa.it/
 way	584384648	http://www.barpasticceriailgiglio.it
 way	584427885	https://www.roadhouse.it/it/ristorante-roadhouse-pomezia
+way	585332696	https://www.chiesasantamariadellolivo.it/
 way	585437370	https://www.santamariasetteville.com/
 way	586167054	https://www.circeroma.it/
 way	586167060	http://www.ciccottiff.it/
@@ -8806,7 +8815,7 @@ way	1190977599	https://www.gdf.gov.it/reparti-del-corpo/territorio/lazio/roma/nu
 way	1190977619	https://www.liceocavour.gov.it
 way	1191370125	https://questure.poliziadistato.it/
 way	1192490160	https://www.rivadeitarquini.it/
-way	1194699600	https://berardi29.brickers.it/
+way	1194699600	https://www.pandaprogetti.it/portfolio-item/brardi29/
 way	1194701690	https://merchandising.uniroma1.it/it
 way	1196007912	https://www.ic-poggialispizzichino.edu.it/
 way	1196386352	https://www.santalessio.org/
@@ -9170,7 +9179,6 @@ relation	7435893	https://www.vittoriovenetosalvemini.edu.it
 relation	7449235	https://www.manzonilatina.edu.it/it/
 relation	7601914	https://www.annamicheli.it/
 relation	7624013	https://www.latinafiori.com/
-relation	7669227	http://www.sangaspareroma.altervista.org/
 relation	7743335	https://www.gruppo.acea.it/
 relation	7769092	https://www.polomusealelazio.beniculturali.it/index.php?it/240/santuario-madonna-della-quercia
 relation	7771387	https://www.viadifrancesco.it/
@@ -9661,6 +9669,7 @@ relation	16178476	https://www.parcoabruzzo.it/sentiero.php?id_iti=4251
 relation	16178841	https://www.parcoabruzzo.it/sentiero.php?id_iti=4253
 relation	16183966	https://www.parcoabruzzo.it/sentiero.php?id_iti=4286
 relation	16184029	https://www.parcoabruzzo.it/sentiero.php?id_iti=4254
+relation	16206938	https://parrocchiamariaverginedelrosario.com/
 relation	16262677	https://www.icbelfortedelchienti.edu.it
 relation	16266387	https://www.halleyweb.com/c056007/zf/index.php/musei-monumenti/index/dettaglio-museo/museo/1
 relation	16386355	https://www.parcobracciano.it/
@@ -9713,6 +9722,7 @@ relation	17703193	https://www.camminoreginacamilla.it/
 relation	17703194	https://www.camminoreginacamilla.it/
 relation	17703259	https://www.camminoreginacamilla.it/
 relation	17785914	http://www.camminodisantommaso.org/
+relation	17815428	https://www.facebook.com/ALleanza.Prenestina/posts/pfbid0JSZgaxrcsegmLjYSWZ5jjprv8wUa5qFEGEXDA47PhouH85VkiZvLaUKhwBujCG6il
 relation	17823437	https://www.camminodelsalto.it/
 relation	17824415	https://www.camminodelsalto.it/
 relation	17839224	https://www.viefrancigene.org
@@ -9748,12 +9758,18 @@ relation	18556278	https://www.italiacoast2coast.it/
 relation	18616045	http://www.etruriameridionale.beniculturali.it/index.php?it/252/luni-sul-mignone
 relation	18660026	https://www.enel.com/
 relation	18776210	http://www.pontesfondatomxcircuit.it/
+relation	18828359	https://camminodeibriganti.it
+relation	18828360	https://camminodeibriganti.it
+relation	18828361	https://camminodeibriganti.it
+relation	18828362	https://camminodeibriganti.it
+relation	18828363	https://camminodeibriganti.it
 node	251888861	https://www.multisalagreenwichroma.com/
 node	279379894	https://sangaspare.it/le-nostre-comunita/roma-chiesa-rettoria-santa-maria-in-trivio/
 node	452570567	https://www.catacombe.org/
 node	802459210	https://www.oasidigreccio.it/
 node	926716805	https://ristoranteilcapriccio.it/
 node	1253223527	http://www.scholarsloungerome.com/
+node	1257346321	https://www.liceoeqvisconti.it/description=Liceo classico
 node	1681445045	https://www.domussessoriana.com/
 node	1701670107	https://www.angoloromano.com/
 node	1712867739	https://tavernacimoletto.business.site/
@@ -9965,6 +9981,7 @@ node	12508912685	https://www.vecrome.org/
 node	12598119015	https://www.galleriavittoria.com/
 node	12598119016	https://www.monogramma.it/
 node	12640704967	https://monacheagostinianesantiquattrocoronati.it/
+node	12652255699	https://euroclero.it/
 way	23840659	https://santignazio.gesuiti.it/
 way	25400176	https://www.santamariasopraminerva.it
 way	25610962	https://www.chiesadelgesu.org/
@@ -10009,6 +10026,7 @@ way	116193401	http://www.santosepolcroacquapendente.it/
 way	117744827	https://sancarloaicatinari.wordpress.com/
 way	122056497	https://roma.fssp.it/
 way	123530536	https://www.santamariainportico.it/
+way	125241565	http://www.tordespecchi.it/
 way	125241584	https://duszpasterstwopolakowwrzymie.com/
 way	125374927	http://www.missionarisacricuori.it/
 way	125566927	https://www.sacrestimmate.org/
@@ -10038,6 +10056,7 @@ way	131564482	https://www.basilicasantamariamaggiore.va
 way	135618144	https://www.santamariaindomnica.it/
 way	136294208	http://www.parrocchiasanfilipponeri.com/
 way	140031952	https://www.sanmarcoevangelista.it/
+way	140031975	http://www.fornairoma.it/
 way	149541607	https://www.brigidine.org/
 way	163619875	https://cittadeipapi.it/
 way	171232188	https://www.hotelnazionale.net/
@@ -10053,6 +10072,7 @@ way	204141712	https://www.casasangiuseppe.it/
 way	204145400	https://www.parrocchiasantadorotea.com/
 way	204163182	https://www.parrocchiasantadorotea.com/
 way	204729212	http://www.villalituania.com/
+way	206099287	https://www.escursionismo.it/rifugi-bivacchi/campo-ceraso-16909
 way	220589071	https://www.lesamisdesaintnicolasdeslorrainsarome.fr/
 way	221354898	http://www.centropellegrini.it/
 way	233019079	http://www.happycamping.net/
@@ -10125,6 +10145,7 @@ relation	941918	https://nostrasignoradelsacrocuore.mozellosite.com/
 relation	1026680	https://www.oasidigreccio.it/
 relation	1576101	https://www.cgu.it/it/santo-stefano-rotondo/
 relation	1578095	http://casamadrenazarena.it/
+relation	1705010	http://www.tordespecchi.it/
 relation	1807295	https://www.monasterosangregorio.it/
 relation	1836976	https://sansebastiano.fraternita-gerusalemme.it/
 relation	1840091	https://romaebraica.it/
