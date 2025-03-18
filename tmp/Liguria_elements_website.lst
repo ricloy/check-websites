@@ -2489,6 +2489,7 @@ node	12250650238	https://www.tempocasa.it
 node	12250650239	https://wonderfulitaly.eu
 node	12250650247	https://www.interiorme.it
 node	12253561822	https://www.laportofinese.it
+node	12253561864	www.kiwi.fr
 node	12264540901	https://www.adelbar.it/
 node	12287662888	https://bungiurnu.it/
 node	12293465302	https://book.octorate.com/octobook/site/reservation/index.xhtml?lang=en&codice=611962
@@ -2572,6 +2573,14 @@ node	12648369804	https://agripinocchio.it/
 node	12650804299	https://www.estetycbeautystudio.it/
 node	12650804300	https://isaglietto.it/
 node	12650817206	https://www.oliotomatisimperia.it
+node	12657578838	http://www.affittacamerealtamarea.it/
+node	12657578839	https://www.bixiosuites.com/
+node	12660084927	https://esperiahotelspotorno.it/
+node	12660774001	http://www.affittacamerealtamarea.it/
+node	12660774002	https://www.bixiosuites.com/
+node	12666389396	https://www.hotelzunino.com/
+node	12674019720	https://sergioelettronica.it/
+node	12674368816	https://www.agriturismoilvecchiomulino.com
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2890,7 +2899,7 @@ way	204693133	https://www.reginaelena.it/
 way	204693946	https://www.iscc.it/
 way	204694063	https://www.hotel-lagiara.com/
 way	204697473	https://sites.google.com/site/bibliotecadiruta/
-way	204702009	https://www.casabalin.it/
+way	204702009	https://www.villabalin.it/
 way	204739468	https://www.altaviadeimontiliguri.it/portale/it/ospview.wp?contentId=OSP2203
 way	204741616	http://www.agriturismoilsogno.it
 way	204742078	https://www.comune.rapallo.ge.it/pagina600_la-funivia-rapallo-montallegro.html
@@ -2960,6 +2969,8 @@ way	225464024	https://www.oliobenza.it/
 way	225484774	https://wwwt.agenziaentrate.gov.it/servizi/UfficiProvinciali/ufficio.htm?iduff=IM1&r=Liguria&pr=Imperia
 way	225501579	http://www.agriturismocollarina.it/
 way	225503354	https://www.agriturismoilgeco.it/
+way	225508273	https://www.hotelariston-imperia.it/residence-villa-marina/
+way	225509160	https://www.villaggioborgoverde.it/
 way	225512110	https://www.marcovallarino.it/palazzina-liberty-imperia-porto-maurizio/
 way	225513518	https://www.provincia.imperia.it/
 way	225514506	http://www.hotelmiramareimperia.it
@@ -3374,7 +3385,6 @@ way	1355972592	https://liguriadamare.com/caladisole/appartamenti.html
 way	1361527752	https://www.sanlorenzoalmarecantieri.it
 way	1363938538	https://www.remolidays.it/en/remolipark-3/
 way	1365506069	https://www.cantieridiimperia.com
-way	1365529693	https://www.hotelariston-imperia.it/residence-villa-marina/
 way	1365784624	https://www.autostrade.it/it/home
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
@@ -3812,6 +3822,7 @@ relation	6942046	https://www.cailaspezia.it/
 relation	6942064	https://www.cailaspezia.it/
 relation	6942115	https://www.cailaspezia.it/
 relation	6942128	https://www.cailaspezia.it/
+relation	7199709	http://www.fieliguria.com/zona-6-descrizioni-e-note-dei-sentieri.html
 relation	7324840	http://www.legrigue.it
 relation	7466528	https://www.cailaspezia.it/
 relation	7466606	https://www.cailaspezia.it/
@@ -3937,6 +3948,7 @@ relation	18442400	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/il-cimit
 relation	18442403	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/parsifal/
 relation	18442404	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/lorizzone/
 relation	18447694	https://www.finaleoutdoor.com/
+relation	18827498	https://lamialiguria.it/2023/03/ciclovia-ardesia/
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1360305797	http://www.autogrill.it/portal/public/default
@@ -4008,12 +4020,14 @@ node	12193025664	www.bbfiume.it
 node	12222833048	https://fablabimperia.org/
 node	12410170928	https://www.icboine-imperia.edu.it/luogo/scuola-primaria-a-magliano/
 node	12456213408	https://www.easydepot.it
+node	12458597998	https://aromiconcentrati.it
 node	12463418378	https://www.nidoscuolaumbertoemargherita.it/
 node	12543571522	https://www.rtimmobiliare.it
 node	12543571523	http://suoreminime.it/
 node	12547565703	https://www.ilnostrocaffeonline.it/
 node	12649562775	https://www.gabetti.it/agenzia/imperia
 node	12650817209	https://www.adm.gov.it/portale/dt-liguria-piemonte-valledaosta/-/adm/deleteCookies?p_auth=tReLpgtB
+node	12652317392	https://www.uildm.org/liguria
 way	134211659	http://www.celtorretta.it/
 way	158281161	https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html
 way	202331656	https://www.museodellorologio.it
@@ -4021,6 +4035,7 @@ way	202465238	www.cascinastra.it/
 way	202604851	http://www.palabeachvillage.it/
 way	225228057	https://claspesto.com
 way	225443643	http://www.rivieratrasporti.it/
+way	225501972	https://www.comune.sanlorenzoalmare.im.it/Luoghi?ID=604
 way	230769914	https://www.cartieragrillo.net/
 way	342151132	http://www.promo-sport.it/
 way	351297030	https://www.campingbracchettovetta.com/
