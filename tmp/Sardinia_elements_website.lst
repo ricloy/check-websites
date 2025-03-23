@@ -941,7 +941,7 @@ node	4213814889	https://www.e-coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/
 node	4213816621	https://www.supersigma.com/
 node	4218267239	www.bbdomusdejanas.com
 node	4226482200	marinadiesel.it
-node	4228895421	fioricagliari.com
+node	4228895421	https://fioricagliari.com/
 node	4228900175	https://www.esteticamaxia.com/
 node	4228916757	https://ceowelcomingitaly.it/
 node	4228932148	https://runnercagliari.company.site/
@@ -957,7 +957,7 @@ node	4229057325	https://www.lanuovasardegna.it/
 node	4229071019	http://ziotompasta.com
 node	4229074583	http://www.zupposofia.it/
 node	4229074925	https://www.cagliarinovecento.it/
-node	4229085846	celiabbiamo.it
+node	4229085846	https://www.celiabbiamo.it/
 node	4229095790	https://makito.io/
 node	4229097798	https://www.satrasardigna.it
 node	4229115763	https://alionusca.com/
@@ -1759,7 +1759,7 @@ node	12567441694	https://i4archidelgusto.com
 node	12581415934	https://www.stone-art.it
 node	12615795086	https://www.ctmcagliari.it
 node	12618852915	https://museiseui.altervista.org/
-node	12618933445	radiogfp.webnode.it
+node	12618933445	https://radiogfp.webnode.it/
 node	12625693501	http://www.visitbaudei.com
 node	12635812413	https://villachiara.webnode.it
 node	12640702159	https://www.porta1918.it/
@@ -1796,6 +1796,7 @@ way	83939292	https://www.torredelporticciolo.it
 way	85573566	https://www.isuledda.it/
 way	86329431	http://www.basenauticausai.it
 way	97845415	https://www.calagononecamping.com/de/
+way	101796922	https://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	101938618	https://comune.villacidro.vs.it/
 way	102703598	https://www.sardegnacultura.it/articolo/orosei-chiesa-di-san-giacomo-maggiore
 way	102703889	https://www.tirrenoresort.it
@@ -2510,7 +2511,6 @@ way	538491926	https://www.nuraghesantuantine.it/
 way	539099278	https://castellodiacquafredda.com
 way	550419412	http://nswool.it/
 way	550604385	https://www.icsiniscola2.edu.it/
-way	551495614	https://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	555382625	http://www.comune.santantioco.ca.it/cms/biblioteca.html
 way	558239568	https://www.eurospin.it
 way	561234374	https://www.eurospin.it/
@@ -3246,6 +3246,7 @@ relation	18690739	http://www.marinadifertilia.it/
 relation	18693085	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Piscina-Comunale/
 relation	18694880	https://www.elcami.cat/el-cami-illenc-de-lalguer-formentera
 relation	18733054	https://www.enelgreenpower.com/it/impianti/operativi/centrale-idroelettrica-flumendosa-salto-2
+relation	18850792	https://www.sardegnasentieri.it/sentiero/sentiero-italia-cuile-giuanni-coccu-c-200a
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -3310,16 +3311,13 @@ node	3275219009	http://www.kebabpaneevino.com
 node	3275219249	http://www.babai.bar
 node	3275220559	https://www.tharroscaffe.it
 node	3275224376	http://www.ristorantepizzeria.oristano.it/
-node	3275224972	http://www.protesiacusticheoristano.it
 node	3275225045	https://www.ristorantecologo.com
 node	3275226830	http://www.santona.it
 node	3275227815	http://www.exclusivecar.net/
 node	3275228969	http://www.ic30.com/osolemio/
-node	3275229920	http://www.sistemabenessere.com
 node	3275230394	http://www.autoscuola.oristano.it
 node	3275230781	https://hotelreginadarborea.com
 node	3275231505	http://www.ristorante.oristano.it
-node	3275231661	http://www.materassieretioristano.it/
 node	3275234826	https://www.ichnosviaggi.it/
 node	3275238357	http://www.ninovaccapasticceria.com/
 node	3275239615	http://www.trattoria.oristano.it/
@@ -3492,6 +3490,8 @@ node	11177446652	https://makito.io/
 node	11182866855	https://www.estay.it/
 node	11187792421	http://www.hotelcorterosada.it
 node	12618911905	http://www.comune.seui.og.it
+node	12679884915	http://www.fiorerosa.com
+node	12681487643	https://flcomunicazione.it
 way	27668357	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668458	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668483	http://arst.sardegna.it/orari_e_autolinee/TPL.html
