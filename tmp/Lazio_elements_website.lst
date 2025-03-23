@@ -834,7 +834,7 @@ node	2169651235	http://www.ristoranteosteriadel400.com
 node	2179743432	https://www.facebook.com/Antichi-Sapori-by-Macelleria-Fratelli-Squarcia-1441728122797578/
 node	2184077390	https://www.caseromane.it/
 node	2187746078	http://www.ovelletrano.it
-node	2190181786	http://unieuro.it
+node	2190181786	https://unieuro.it/
 node	2192567046	http://www.heben.it/contatti.html
 node	2192659009	www.livatawebcam.it
 node	2194837614	http://www.carsharing.roma.it/
@@ -3129,7 +3129,7 @@ node	5809313735	discepolegesueucaristico.it
 node	5809326491	https://paracadutismonettuno.it/
 node	5809390460	flyzoneroma.com
 node	5812896017	https://stores.upim.com/it/italia/lazio/roma/roma-via-enea-10
-node	5812984554	http://www.vineriabonelli.it/
+node	5812984554	https://www.vineriabonelli.it/
 node	5813116363	https://www.marisqueria.it/
 node	5814241021	https://www.farmaciapiazzareginamargherita.it/
 node	5815609758	http://www.metododeroseitalia.com/
@@ -6377,23 +6377,23 @@ node	12583248565	https://it.wikipedia.org/wiki/Roccaranieri#Ponte_di_San_Giovann
 node	12583248566	https://it.wikipedia.org/wiki/Roccaranieri#Ponte_della_Mola
 node	12589846212	https://www.liceokennedy.edu.it
 node	12589901201	https://artemisialab.it/artemisia-chea/
-node	12595860372	http://noleggiomoto-roma.it/
-node	12599535101	http://burgerking.it
+node	12595860372	https://noleggiomoto-roma.it/
+node	12599535101	https://www.burgerking.it/
 node	12600335802	https://www.ritual-lab.it/
 node	12603912865	https://chefc.it/
 node	12605107766	https://www.casadelgustoroma.it/
 node	12617025282	https://www.nuvoledaromiduepuntozero.it
 node	12617782101	http://sestosuites.com
-node	12618068801	http://www.nuvoledaromiduepuntozero.it
+node	12618068801	https://www.nuvoledaromiduepuntozero.it/
 node	12622843603	http://www.agriferramosca.com
 node	12623542581	https://ludovicopalma.it/
-node	12628157694	http://www.rigenerazionecasashop.com/
+node	12628157694	https://rigenerazionecasashop.com/
 node	12630322796	https://www.laurafagiolo.it/page-ristorante.php
 node	12635551130	https://www.centroserena.shop/
 node	12637968991	https://www.facebook.com/MRCoffee2015/
 node	12641308482	https://www.stowyourbags.com/en/shop/rome/colosseum-roman-forum/
 node	12644001092	https://www.facebook.com/people/Le-Onde-Trattoria-del-Mare/100083125278983/
-node	12644220701	http://juniorpizzachefroma.it
+node	12644220701	https://juniorpizzachefroma.it/
 node	12647850500	http://www.pizzaideaweb.it/
 node	12650208207	https://www.ishinciampino.it/
 node	12650208381	https://music.it/music-it-studio/
@@ -6402,6 +6402,13 @@ node	12655881685	https://roma178.tecnocasa.it/
 node	12662233454	https://autoautoroma.it/
 node	12666341084	http://www.alfalabanalisi.com/
 node	12666378201	https://www.dagiada-bistrotcafe.com
+node	12670917152	https://www.agriturismodapostolo.com/
+node	12672730844	https://www.flystay.it/
+node	12679791872	https://www.bed-and-breakfast.it/it/lazio/mattire-roma/25377
+node	12679816622	https://www.bed-and-breakfast.it/it/lazio/mattire-roma/25377
+node	12683882125	http://www.ilgiardino1931.com/
+node	12688120839	https://www.obi-italia.it/
+node	12690296323	https://www.comune.maglianosabina.ri.it/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -6453,6 +6460,7 @@ way	32514483	https://www.casettamattei.com/
 way	32659685	https://www.thespacecinema.it/i-nostri-cinema/roma-parco-de-medici/info-cinema
 way	32666818	https://www.sovraintendenzaroma.it/i_luoghi/roma_antica/monumenti/casale_di_giovio
 way	32735011	https://www.unieuro.it/online/negozi/Unieuro-Roma---Muratella
+way	32944333	https://www.lacittadellutopia.org/
 way	33386229	https://vonneumann.edu.it/
 way	33531458	https://www.commercity.it/
 way	33531480	https://www.fieraroma.it/
@@ -6859,7 +6867,6 @@ way	169342839	https://www.conad.it/ricerca-negozi/negozio.008925.html
 way	169401169	https://arrampicareaguadagnolo.wordpress.com/
 way	169846799	https://www.nh-hotels.it/hotel/nh-roma-villa-carpegna
 way	171501951	http://www.lettere.uniroma2.it
-way	171508298	https://www.obi-italia.it/
 way	171525998	https://www.hotelmartino.it/
 way	171556806	https://www.academia.edu/1652144/La_basilica_paleocristiana_anonima_di_Castelfusano_Ostia_
 way	172136255	http://www.mercure.com/gb/hotel-8516-mercure-roma-west/index.shtml
@@ -7057,7 +7064,6 @@ way	218815234	http://www.ostia-antica.org/regio4/17/17-1.htm
 way	218815246	http://www.ostia-antica.org/regio4/9/9-2.htm
 way	219120063	https://sunnypalace.it/
 way	219512281	http://www.tuodi.it/
-way	219840963	https://www.comune.maglianosabina.ri.it/
 way	220101516	http://www.gardenvalerio.com
 way	220244121	https://www.treccani.it/vocabolario/procoio/
 way	220246297	https://www.cooplaflacca.it/
@@ -7231,7 +7237,6 @@ way	255462014	http://www.icmlking.it/chi_siamo.htm
 way	255463295	http://www.icmlking.it/chi_siamo.htm
 way	255464557	https://miamisportingclub.it/
 way	255467575	https://www.comune.roma.it/wps/portal/pcr?contentId=NEW252179&jp_pagecode=newsview.wp&ahew=contentId:jp_pagecode
-way	255470257	http://www.capitalinn.it/
 way	255529667	https://www.comune.roma.it/wps/portal/pcr?jppagecode=mun_viii_territorio_is_sc_inf.wp
 way	255579194	https://www.rehastore.it
 way	255584731	http://www.liceo-amaldi.it/
@@ -7797,6 +7802,7 @@ way	441895126	https://ristorantesushijo.com/
 way	441895233	https://www.barcelo.com/it-it/occidental-aran-park/
 way	441925375	http://cairieti.it
 way	442046263	https://www.alcasale2000.it/
+way	442066255	https://icrugantino91.edu.it/
 way	442066270	http://www.hotelalbaroma.com/
 way	442066329	https://www.elpatio.it/
 way	442101143	https://www.sangiovannileonardi.com/
@@ -7811,6 +7817,7 @@ way	442741392	https://www.bibliotechediroma.it/opac/library/Biblioteca%20Raffael
 way	442747967	http://www.fabbricadellamusica.com/fdm/
 way	442853569	https://www.corefit.it/tuscolano/
 way	442902587	https://www.bibliotechediroma.it/opac/library/Biblioteca%20Rugantino/RMBH1
+way	442902590	https://icrugantino91.edu.it
 way	443055665	https://www.reainfissi.it/
 way	443097433	www.icdecurtis.gov.it
 way	443332967	https://www.verticalpark.it/
@@ -8540,8 +8547,6 @@ way	929576126	https://www.spmvillagordiani.it/
 way	933561316	https://www.provincia.viterbo.it
 way	933561317	https://www.provincia.viterbo.it
 way	935438368	https://www.mondoconv.it/
-way	935529286	https://www.agriturismodapostolo.com/
-way	935532400	https://www.agriturismodapostolo.com/
 way	935772309	https://www.gruppoini.it/sedi/ini-divisione-medicus/
 way	935803964	https://www.facebook.com/pages/papillon-club/111829628844930
 way	936391552	https://www.soprintendenzaspecialeroma.it/schede/parco-archeologico-di-crustumerium_3004/
@@ -8931,6 +8936,10 @@ way	1362687284	https://www.scuolanobel.it/
 way	1363825698	https://www.collemordani.it/
 way	1363825700	https://www.collemordani.it/
 way	1363991551	https://officinamarinangeli.com
+way	1367862242	https://web.uniroma1.it/cersites
+way	1367862243	https://web.uniroma1.it/cersites
+way	1368371994	https://www.ilmelogranomontopoli.it/
+way	1369877711	https://santacristina.it/
 relation	22289	https://www.farnese-rome.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -9328,6 +9337,7 @@ relation	11797034	www.caiviterbo.it
 relation	11800665	http://www.caiviterbo.it
 relation	11805405	http://www.caiviterbo.it
 relation	11902714	http://www.caiviterbo.it
+relation	11902715	http://www.caiviterbo.it
 relation	11911512	https://www.whitepadel.com/
 relation	11998071	https://www.viadeilupi.eu
 relation	11998197	https://www.viadeilupi.eu
@@ -9763,6 +9773,7 @@ relation	18828360	https://camminodeibriganti.it
 relation	18828361	https://camminodeibriganti.it
 relation	18828362	https://camminodeibriganti.it
 relation	18828363	https://camminodeibriganti.it
+relation	18854788	https://www.vivaivignolini.it/index.asp
 node	251888861	https://www.multisalagreenwichroma.com/
 node	279379894	https://sangaspare.it/le-nostre-comunita/roma-chiesa-rettoria-santa-maria-in-trivio/
 node	452570567	https://www.catacombe.org/
@@ -9991,6 +10002,7 @@ way	32736336	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-castel-r
 way	36385826	https://www.aeronautica.difesa.it/home/storia-e-tradizione/museo-storico/
 way	44132631	https://www.vatican.va/various/basiliche/san_giovanni/it/battistero/battistero.htm
 way	50773061	https://www.sansebastianofuorilemura.org/
+way	52251976	http://www.santasusanna.org/
 way	52333460	https://www.santagneseinagone.org/
 way	52334111	https://www.pisma.it/
 way	52335646	https://saintlouis-rome.net/
@@ -10063,10 +10075,12 @@ way	171232188	https://www.hotelnazionale.net/
 way	176888762	http://www.battellidiroma.it
 way	182796129	http://www.parcoscuola.it/
 way	200347639	https://www.scala-santa.com/
+way	201374573	https://sancarlino.org/
 way	201882369	http://www.lateranensi.org/sanpietroinvincoli/
 way	202304431	https://www.odigitria.org/
 way	202339987	https://www.madonnadelmiracolo.it/
 way	202880841	https://monacheagostinianesantiquattrocoronati.it/
+way	203944603	http://www.comunitaarmena.it/
 way	203946249	https://museoecriptacappuccini.it/
 way	204141712	https://www.casasangiuseppe.it/
 way	204145400	https://www.parrocchiasantadorotea.com/
@@ -10161,6 +10175,7 @@ relation	2057842	https://www.eeas.europa.eu/delegations/un-rome_en
 relation	2289084	https://www.amorefamiliare.it/chiesa-san-tommaso-ai-cenci/
 relation	2408679	https://www.liceoaugustoroma.it/
 relation	2562181	http://www.universitadeibambini.it/Libera_Universita_dei_Bambini/I._Home_Page.html
+relation	2705732	https://sancarlino.org/
 relation	2958705	http://sangiuseppeartigiano.altervista.org/
 relation	3078796	https://www.arciconfraternitasantiambrogioecarlo.it/
 relation	3374342	https://pantheonroma.org/
@@ -10358,6 +10373,7 @@ relation	2000666	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_ne
 relation	2234038	http://www.abbaziacasamari.com/
 relation	2265789	http://www.aironeinforma.it/duomo_di_santandrea.html
 relation	2280176	http://www.angolohermes.com/Luoghi/Lazio/Ausonia/S_Maria_del_Piano.html
+relation	11795110	https://www.youtube.com/watch?v=ZqHC9QQ-7CQ
 relation	12564083	https://m.youtube.com/watch?v=2R3skmCAPT4/
 relation	13210133	https://web.uniroma1.it/cencelle/tipo
 relation	13402532	http://www.tesoridiroma.net/foro_romano/maria_antiqua.html
