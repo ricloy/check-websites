@@ -59,7 +59,6 @@ node	898357689	http://www.trattoriaziarosa.it
 node	898411635	http://www.agriturismoquaranta.com/Home.html
 node	898453340	http://www.trattorialaperla.com
 node	903548997	http://www.ostellolalocanda.it
-node	927306471	https://www.rivadelsole.org/
 node	929206774	https://www.guidedocartis.it/?page_id=35215
 node	941965009	https://www.grottedicastellana.it/
 node	945018664	http://www.riccardocaffe.com/
@@ -310,7 +309,6 @@ node	3071949603	https://www.facebook.com/pages/Bar-pasticceria-dolci-emozioni/22
 node	3071955523	http://piucanipiubelli.blogspot.it/
 node	3103513300	https://canottieribarion.it/
 node	3103767900	https://www.lameridiana.it/
-node	3105981703	https://www.salumaiomatto.it/
 node	3105989510	http://www.hotelvictorbari.it/
 node	3116372548	http://www.bcr.puglia.it/tdm/home.htm
 node	3116380715	https://excelsiorbari.it
@@ -538,6 +536,7 @@ node	4362752363	http://www.pescheria3punto0.com
 node	4377981289	http://www.pasticceriabianco.it
 node	4385101303	https://www.barbetty.it
 node	4389473994	https://www.pizzerialosfiziobrindisi.it/
+node	4389829986	https://www.loscoglioristorante.it/
 node	4391820691	https://bnl.it
 node	4392474302	www.bedandbreakoz.it
 node	4392833125	https://www.casadellachiavesnc.com/
@@ -2854,6 +2853,12 @@ node	12659955014	https://www.tripadvisor.it/Restaurant_Review-g12941672-d2415037
 node	12666423231	www.ecologicasudtaranto.it
 node	12667936904	www.zerodistanze.it
 node	12669645751	https://tranquillolecce.it/
+node	12676265362	https://www.grottadisantangelo.it
+node	12682194753	https://www.seatourgallipoli.it/
+node	12684218201	http://tazebike.com
+node	12688242394	https://comune.sanmarzano.ta.it/argomento/gestione-rifiuti/
+node	12694054155	https://www.arteperartebari.com/
+node	12694054160	https://www.my-vets.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -3507,6 +3512,8 @@ way	425681123	https://agriturismolesite.it/
 way	425768112	https://www.igiardinidimarzocasavacanze.it/
 way	425785784	https://anevaitalia.it/
 way	425810247	https://www.agriturismopanzanari.it/
+way	425835941	https://www.rivadelsole.org/
+way	425837385	https://www.isolaloscogliohotel.it/
 way	425843620	https://www.masseriacasinabellanova.com
 way	425858308	http://www.poggiardo.com/
 way	425862746	http://www.ilfollaroristorante.com/
@@ -4132,6 +4139,7 @@ way	1360138966	https://www.scuoladusebari.edu.it/index.php/cerca-nel-sito/8-news
 way	1360620364	https://occusol.org/
 way	1364593658	https://www.vetrocar.it/centri/vetrocar-bari/
 way	1366044810	https://www.avolta.it/
+way	1369687163	https://www.donmilanibari.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -4150,7 +4158,6 @@ relation	4823201	https://www.cegliesistemagustodarte.it/ilcastello
 relation	4823202	https://www.medcookingschool.it/scuola-cucina-puglia.asp
 relation	4869593	https://www.viaggiareinpuglia.it/at/17/giardinovilla/5257/it/Parco-di-Belloluogo-Lecce-(Lecce)
 relation	5246114	https://abauto.concessionarienissan.it/
-relation	5246115	https://abauto.concessionarienissan.it/
 relation	5246116	http://www.ilgiardinodeisaperi.it/
 relation	5429094	https://www.lidosottovento.com/
 relation	5429097	https://www.samsarabeach.it/
@@ -4238,6 +4245,7 @@ relation	14244512	https://camminomaterano.it/via/1/via-peuceta
 relation	14245397	https://camminomaterano.it/via/1/via-peuceta
 relation	14247099	https://camminomaterano.it/via/1/via-peuceta
 relation	14251793	https://camminomaterano.it/via/1/via-peuceta
+relation	14251864	https://camminomaterano.it/via/1/via-peuceta
 relation	14254546	https://camminomaterano.it/via/9/via-ellenica-terra-delle-gravine
 relation	14680795	https://camminomaterano.it/via/8/via-ellenica-terra-degli-ulivi
 relation	14680866	https://camminomaterano.it/via/8/via-ellenica-terra-degli-ulivi
@@ -4400,6 +4408,7 @@ node	10694687770	https://pizzerialatorregalatina.it
 node	11076679870	https://www.cittadelsole.it/companies/view/alberobello
 node	11100118525	https://www.lecarasse.it/
 node	11108033584	https://www.dantedivinoconvivio.com/
+node	11114525868	http://www.casadeldisco.it/
 node	11176657016	https://www.crigrottaglie.it
 node	11200928752	http://www.3cpowersrl.com
 node	11200942458	https://www.caseinvenditapeschici.it
@@ -4465,6 +4474,7 @@ way	424155867	http://www.comune.torricella.ta.it/
 way	424451299	https://www.carabinieri.it/
 way	424560783	https://www.acquaesapone.it/?gclid=CjwKCAjwwdWVBhA4EiwAjcYJEL6pG2Y5BH8-Pg7z7HEMvVr-uDn-dDHcPOjl8w78Ige8y_a6eFQoRBoCL7AQAvD_BwE
 way	425578246	https://bahianegra.it/
+way	425834846	https://museobiologiamarina.unisalento.it
 way	434376199	https://gattobiancocasalabate.it/
 way	483498297	http://www.rinascitaagricola.it
 way	487368660	http://www.carolihotels.com/bellavista-club/
@@ -4605,6 +4615,7 @@ node	9499384355	https://www.pianetaostuni.it/index.php/18-chiese-rurali/534-capp
 node	9499384357	https://www.pianetaostuni.it/index.php/18-chiese-rurali/533-cantone-2
 node	9664518384	https://www.emporis.com/buildings/1242876/ginosa-water-tower-ginosa-italy
 node	9776539925	https://www.pianetaostuni.it/index.php/19-ville-e-casine/633-soluco-94
+node	11005491223	https://it.wikipedia.org/wiki/Manuela_Arcuri#La_statua
 node	11374979530	https://www.comune.secli.le.it
 node	11374979647	https://www.comune.sanpietroinlama.le.it/
 node	11374983484	https://www.comune.diso.le.it/
