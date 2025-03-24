@@ -22,6 +22,7 @@ node	319406677	http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+wild+
 node	412209373	https://www.massalubrenseturismo.it/
 node	415476691	http://hotelpotenza.blogspot.co.uk/
 node	417856731	https://www.hilton.com/en/hotels/napbnqq-de-bonart-naples/
+node	499479012	https://www.cinemafilangieri.it/
 node	643019169	http://www.lecampole.it/
 node	679074648	http://www.armida.eu/
 node	679074657	http://www.teatrotasso.com
@@ -92,7 +93,6 @@ node	1792253704	http://www.brandi.it/
 node	1809257235	https://www.agricastagneto.it/dovesiamo.html
 node	1845461229	https://cavalierebici.it/
 node	1883632864	http://www.oxygen.it/index.html
-node	1883632865	https://www.todis.it/punti-vendita/scopri-i-negozi/#!/l/pagani/via-trento-25/4399627
 node	1891483746	http://cir.campania.beniculturali.it/archeopozzuoli/itinerari-tematici/schede/pozzuoli-c.d.-tempio-di-augusto
 node	1977811731	www.abraxasosteria.it
 node	1980983052	https://www.leroymerlin.it/negozi/napoli-giugliano/info-e-contatti
@@ -2466,6 +2466,7 @@ node	12481591256	http://stiglianoferramenta.it/
 node	12500933245	https://www.sole365.it
 node	12500985805	https://iperstorebarletta.com
 node	12504773142	https://www.ristorantehydra.com/
+node	12506570441	arcisbig.wordpress.com
 node	12509148510	https://www.vignedimalies.it
 node	12512446102	https://www.contedoroliving.it/
 node	12518347301	https://www.maru-aversa.it/
@@ -2505,6 +2506,10 @@ node	12660487432	https://iresilientipizzaefrittidautore.com/
 node	12660645944	https://www.unisa.it/
 node	12669646301	https://www.farmaciaviolante.it/
 node	12670380206	https://www.ofishbarmenu.it/
+node	12680356051	https://www.osterianonnamaria.it/
+node	12685366882	https://www.villasancosma.com
+node	12690996752	https://www.ristorantemassa.it/
+node	12691016692	http://drive.google.com/file/d/1wiiY667mKvsh_yAQZa1_J3tnvCMf1Z5F/view?fbclid=PAAaZ6p7Hj_Fo_8OGX3mleRf2sm3Jk908s58se90irFCNOfWoA5yWTY0uUy28
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -2611,6 +2616,7 @@ way	173999191	https://www.cmmna.it/
 way	175762580	https://www.ecupt.it/landingpage/landing/AOCaserta.html
 way	175762581	https://www.ospedale.caserta.it
 way	177953164	http://www.vannulo.it/
+way	177965566	https://www.todis.it/punti-vendita/scopri-i-negozi/#!/l/pagani/via-trento-25/4399627
 way	178815194	http://www.gruppoladoria.com/it/prodotti/default.asp
 way	179062136	https://www1.agenziaentrate.it/indirizzi/agenzia/uffici_locali/lista.htm?m=2&pr=SA
 way	182553083	http://www.pompeiisites.org/Sezione.jsp?titolo=Forum+Baths+%28VII%2C5%2C24%29&idSezione=664&lookfor=forum%20baths
@@ -2812,7 +2818,7 @@ way	307327226	https://www.hotelischiawellnessflora.it/
 way	307327299	https://www.hotelfloridianaischia.com/
 way	307327756	https://www.hotelsolemar.it/
 way	307328119	https://www.rivamareischia.it/
-way	307858554	http://www.napolialvolo.it/
+way	307858554	https://www.napolialvolo.it/
 way	308110032	http://www.gruppoparziale.com/
 way	308283051	https://donnarummahotel.it/
 way	309043889	http://www.cottonvillage.it
