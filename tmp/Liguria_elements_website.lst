@@ -4,6 +4,7 @@ node	26859642	https://www.campingmiraflores.it/
 node	26859860	https://www.valdeiva.it/
 node	26859885	http://www.campingceraunavolta.it/
 node	26859891	https://www.campingdewijnstok.com/
+node	66586326	https://www.comune.imperia.it
 node	66586759	https://www.comunedisanremo.it/
 node	66586820	http://www.cervo.com/
 node	185383549	https://www.farmaciapopolare.genova.it/
@@ -762,6 +763,7 @@ node	3717582647	https://www.inps.it/AgendaSedi/DatiSede.asp?d1=04340001
 node	3717590832	https://www.inps.it/AgendaSedi/DatiSede.asp?d1=04340004
 node	3717591317	https://www.inps.it/agendasedi/DatiSede.asp?d1=04340200
 node	3717594938	https://www.inps.it/AgendaSedi/DatiSede.asp?d1=04340005
+node	3719886070	https://omirl.regione.liguria.it/
 node	3724177894	https://www.nuovogarden.com/
 node	3725430216	http://www.cineinfo.it/smer.html
 node	3728827387	https://www.ctovet.com/
@@ -785,7 +787,6 @@ node	3762320783	https://www.ferrante.ge.it/home.html
 node	3762654217	http://www.dibelladagnino.it/
 node	3766220299	https://www.spaziosushi.it/
 node	3769739974	https://www.paradisodeibimbigenova.it/
-node	3771161623	http://parafarmaciamichelis.it/
 node	3781239926	http://www.studiotecnico-dm.it/
 node	3781320397	https://www.pragaviaggi.it/
 node	3781525861	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/47206
@@ -1402,7 +1403,6 @@ node	5879462111	https://omirl.regione.liguria.it/
 node	5879462112	https://omirl.regione.liguria.it/
 node	5879462113	https://omirl.regione.liguria.it/
 node	5879462114	https://omirl.regione.liguria.it/
-node	5879462115	https://omirl.regione.liguria.it/
 node	5879462116	https://omirl.regione.liguria.it/
 node	5879462117	https://omirl.regione.liguria.it/
 node	5879462118	https://omirl.regione.liguria.it/
@@ -2054,7 +2054,6 @@ node	10117212277	https://www.touringclubimperia.it/
 node	10118757595	https://bianalisi.it
 node	10119247709	https://www.dallapadellallabrace.com
 node	10119281633	https://www.fenoggio.it/
-node	10120632671	https://fototticabruno.it/
 node	10121550164	https://www.eventiesagre.it/Mercatini_Filiera+Corta/21183436_Mercato+Settimanale+Di+Lerici.html
 node	10123055227	https://giannifranzi.it/deck.html
 node	10123067255	http://www.osteriamattana.com/
@@ -2163,6 +2162,7 @@ node	11028077535	https://www.ilserramentista.com/
 node	11036280594	http://www.hotelmiriam.it/
 node	11037816659	https://www.abirk.com/
 node	11047302705	https://www.luppolio.it/
+node	11051229327	https://www.gymnasiumpalestra.it
 node	11065039452	https://rochadomar.it/
 node	11083537872	https://www.booking.com/Share-cP49RP
 node	11090484740	https://www.bfscollezionidigitali.org/oggetti/18007-rinaldo-spadaccini
@@ -2489,7 +2489,7 @@ node	12250650238	https://www.tempocasa.it
 node	12250650239	https://wonderfulitaly.eu
 node	12250650247	https://www.interiorme.it
 node	12253561822	https://www.laportofinese.it
-node	12253561864	www.kiwi.fr
+node	12253561864	https://kiwi.fr/
 node	12264540901	https://www.adelbar.it/
 node	12287662888	https://bungiurnu.it/
 node	12293465302	https://book.octorate.com/octobook/site/reservation/index.xhtml?lang=en&codice=611962
@@ -2573,14 +2573,23 @@ node	12648369804	https://agripinocchio.it/
 node	12650804299	https://www.estetycbeautystudio.it/
 node	12650804300	https://isaglietto.it/
 node	12650817206	https://www.oliotomatisimperia.it
-node	12657578838	http://www.affittacamerealtamarea.it/
+node	12657578838	https://www.affittacamerealtamarea.it/
 node	12657578839	https://www.bixiosuites.com/
 node	12660084927	https://esperiahotelspotorno.it/
-node	12660774001	http://www.affittacamerealtamarea.it/
+node	12660774001	https://www.affittacamerealtamarea.it/
 node	12660774002	https://www.bixiosuites.com/
 node	12666389396	https://www.hotelzunino.com/
 node	12674019720	https://sergioelettronica.it/
 node	12674368816	https://www.agriturismoilvecchiomulino.com
+node	12685323334	https://www.washdog.store/genova525/
+node	12686932749	https://www.maccanoeterronepompefunebri.com
+node	12686932755	https://www.pompefunebrivitali.com/
+node	12686932756	https://www.pompefunebriarteco.com
+node	12686932759	https://www.pompefunebrilepalme.com
+node	12686932761	https://ortopedia-sanremese.com
+node	12686932763	https://www.studiotutela.com
+node	12695453858	https://www.stazionediserviziolaspezia.com/enjoy-point
+node	12695476559	https://www.radiotaxilaspezia.com/it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3822,7 +3831,7 @@ relation	6942046	https://www.cailaspezia.it/
 relation	6942064	https://www.cailaspezia.it/
 relation	6942115	https://www.cailaspezia.it/
 relation	6942128	https://www.cailaspezia.it/
-relation	7199709	http://www.fieliguria.com/zona-6-descrizioni-e-note-dei-sentieri.html
+relation	7199709	https://www.fieliguria.com/zona-6-descrizioni-e-note-dei-sentieri.html
 relation	7324840	http://www.legrigue.it
 relation	7466528	https://www.cailaspezia.it/
 relation	7466606	https://www.cailaspezia.it/
