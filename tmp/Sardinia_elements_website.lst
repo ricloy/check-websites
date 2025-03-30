@@ -975,6 +975,7 @@ node	4229608105	https://www.ilportagioie.it
 node	4229622716	https://www.terradepunt.it
 node	4229623377	https://www.otorinocagliari.it/
 node	4229634239	https://ceowelcomingitaly.it/
+node	4229638703	ottiere.it
 node	4229640922	https://gusto-piadineria-cagliari.business.site/
 node	4229641767	https://www.martinirooms.it/
 node	4229647495	https://www.insulaere.it/
@@ -3133,6 +3134,7 @@ relation	13446279	https://cagliari04.mercatinousato.com/
 relation	13487583	https://www.sardegnasentieri.it/sentieri/bivio-812-%E2%80%93-strada-forestale-c-812a
 relation	13487584	https://www.sardegnasentieri.it/sentieri/ex-vivaio-maidopis-bivio-si-c-812
 relation	13487585	https://www.sardegnasentieri.it/sentieri/vecchia-casina-maidopis-%E2%80%93-arcu-e-tidu-c-814
+relation	13487588	https://www.sardegnasentieri.it/sentieri/ingresso-strada-forestale-maidopis-innesto-sentiero-814-c-814a
 relation	13487589	https://www.sardegnasentieri.it/sentieri/museo-del-cervo-%E2%80%93-arcu-sa-spina-c-815
 relation	13487592	https://www.sardegnasentieri.it/sentiero/sentiero-italia-sent-811b-c-800a
 relation	14101413	https://www.cicloviadellasardegna.it/
@@ -3140,8 +3142,8 @@ relation	14404161	http://www.windsurfingclubcagliari.org/
 relation	14480780	https://www.grendi.it/
 relation	14480781	http://www.cict.it/
 relation	14748074	https://www.sardegnasentieri.it/sentiero/vecchia-caserma-forestale-sa-ruxi-de-acueddas-c-811b
-relation	14751643	https://www.sardegnasentieri.it/sentiero/le-cime-di-settefratelli-da-guventu-seddas-de-trebini-c-801
-relation	14753221	https://www.sardegnasentieri.it/sentiero/ruderi-su-guventu-bruncu-poni-fogu-c-802
+relation	14751643	https://www.sardegnasentieri.it/sentiero/sa-pala-de-cunventu-seddas-de-trebini-c-801
+relation	14753221	https://www.sardegnasentieri.it/sentiero/ruderi-su-cunventu-bruncu-poni-fogu-c-802
 relation	14755218	https://www.sardegnasentieri.it/sentiero/sa-ruxi-de-morettu-su-casteddu-de-su-dinai-c-802a
 relation	14756260	https://www.sardegnasentieri.it/sentiero/bau-arrexini-bruncu-monti-eccas-c-803
 relation	14758379	https://www.sardegnasentieri.it/sentiero/incrocio-801-terrazza-panoramica-c-801a
@@ -3231,6 +3233,7 @@ relation	17360765	https://www.sardegnasentieri.it/sentiero/arcu-pedras-biancas-a
 relation	17361408	https://www.sardegnasentieri.it/sentiero/san-gregorio-sentiero-italia-c-403
 relation	17626081	https://www.sardegnasentieri.it/sentiero/monte-ferru-c-103
 relation	17645470	https://www.cicloviadellasardegna.it/
+relation	17716421	https://www.sardegnasentieri.it/sentiero/marina-di-tertenia-foresta-bingionniga-c-102
 relation	18001585	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Parco-Martin-Luther-King/
 relation	18248575	https://www.geasar.it
 relation	18349591	https://www.sardegnasentieri.it/sentiero/sincantu-san-gregorio-campu-omu-c-804
@@ -3239,14 +3242,17 @@ relation	18375428	https://www.cicloviadellasardegna.it/
 relation	18504922	https://portosantateresa.com/
 relation	18528198	https://www.sardegnasentieri.it/sentiero/bau-sacua-callenti-baccu-sa-figu-c-807
 relation	18573181	https://www.sardegnasentieri.it/sentiero/incrocio-801-sa-gruta-fra-conti-sentiero-italia-c-800b
-relation	18646267	https://areamarinaprotettacapotestapuntafalcone.it/home
 relation	18666669	https://www.hoteldeipini.it
 relation	18675246	https://ilparcodeipini.com/
 relation	18690739	http://www.marinadifertilia.it/
 relation	18693085	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Piscina-Comunale/
 relation	18694880	https://www.elcami.cat/el-cami-illenc-de-lalguer-formentera
 relation	18733054	https://www.enelgreenpower.com/it/impianti/operativi/centrale-idroelettrica-flumendosa-salto-2
+relation	18737046	https://www.sardegnasentieri.it/node/1165
 relation	18850792	https://www.sardegnasentieri.it/sentiero/sentiero-italia-cuile-giuanni-coccu-c-200a
+relation	18869624	https://www.sardegnasentieri.it/sentiero/cale-quaddu-chiesa-santa-barbara-perdasdefogu-c-500
+relation	18872429	https://www.sardegnasentieri.it/sentiero/santantonio-monte-codi-c-204
+relation	18887016	https://www.sardegnasentieri.it/sentiero/scala-alistu-foresta-bingionniga-c-202
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
