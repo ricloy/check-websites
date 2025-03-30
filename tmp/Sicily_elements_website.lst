@@ -1284,7 +1284,6 @@ node	4532501089	http://www.agrobike.it/agrobike/noleggio.html
 node	4540449563	https://www.poste.it
 node	4543510589	https://www.gallodoroaspra.it
 node	4551747881	https://www.poste.it
-node	4557264368	http://www.mvmusica.com/
 node	4560464251	https://www.clarissaviaggi.com/
 node	4561594690	https://www.studiodentisticoplatania.it/
 node	4561594695	http://www.fl-immobiliare.it/
@@ -2134,6 +2133,7 @@ node	6946558503	https://www.poste.it
 node	6946558508	https://www.poste.it
 node	6948544485	http://taorminastritfud.it
 node	6948766763	https://www.campoelettronica.it
+node	6949957848	https://www.levelstore.it/
 node	6953828646	https://bibliotp.regione.sicilia.it/
 node	6956952281	https://bibliotp.regione.sicilia.it
 node	6956987609	https://bibliotp.regione.sicilia.it
@@ -3848,6 +3848,14 @@ node	12643497450	https://www.zangaloro.it/home
 node	12652922621	https://www.wildshop.it/
 node	12659922951	https://www.comune.marsala.tp.it/
 node	12681168150	https://www.sfrigola.it
+node	12694951229	https://catania.gohan-sushi.it/it/
+node	12702291417	www.agriturismocasebrizza.com
+node	12703144001	https://cataniagomme.eu
+node	12703428501	http://labpasticceriaroberto.com
+node	12705131651	https://www.icradicebellini.edu.it/
+node	12705131652	https://www.icradicebellini.edu.it/
+node	12708464724	https://www.mediahomesiracusa.it/
+node	12708464726	https://www.saitta1960vintage.com/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4802,10 +4810,12 @@ way	422023698	http://www.labriosa.it/
 way	422164206	http://cabigel.it/
 way	422214688	https://itetgaribaldi.it/
 way	422388170	http://www.hotelcaposkino.it/
+way	422770756	https://www.liceostatalepatti.edu.it/
 way	423314835	http://www.marrobbio.com/
 way	423328223	https://www.bagliosantacroce.it/
 way	424246372	http://pastificiotriolo.it/
-way	425314718	http://www.itborghesepatti.gov.it
+way	425314718	https://iisborghesefaranda.edu.it/
+way	425334566	https://iisborghesefaranda.edu.it/
 way	426095912	http://www.istitutocopernico.gov.it/
 way	426525785	https://cannolidisicilia.it/
 way	427989802	http://hotelborgoverde.it
@@ -5047,8 +5057,9 @@ way	677682451	https://www.poste.it
 way	678671560	https://www.icmirabella.edu.it/
 way	679270999	https://www.poste.it
 way	679573238	https://hotelmercuresiracusa.it/
-way	679623519	http://www.itborghesepatti.gov.it/
-way	679625624	http://www.itborghesepatti.gov.it
+way	679623519	https://iisborghesefaranda.edu.it/
+way	679625624	https://iisborghesefaranda.edu.it/
+way	679923230	https://www.liceostatalepatti.edu.it/
 way	679932353	https://www.tribunale.patti.giustizia.it/
 way	679997030	http://www.scuolamediaantoniogramsci.gov.it/
 way	680098012	https://www.diocesipatti.it/it/
@@ -6068,6 +6079,8 @@ way	1321793204	https://www.ghshotels.it/astoria/
 way	1322840977	http://agricolampidusa.com/
 way	1323156878	https://www.agenziaentrateriscossione.gov.it/
 way	1324304214	https://riservamontepellegrino.it/
+way	1324361272	https://www.liceostatalepatti.edu.it/
+way	1324361273	https://www.liceostatalepatti.edu.it/
 way	1324958463	https://cosipriziusi.it/
 way	1324979270	https://www.albachiararooms.it/
 way	1326206660	https://www.golfclubpalermo.com/
