@@ -420,7 +420,6 @@ node	3778810057	https://www.casalisanti.it/
 node	3778865871	https://www.masseriasantangeloleccebb.com/
 node	3779484698	http://www.ventodellest.it/
 node	3779617235	http://www.suitedelconte.it
-node	3779617236	http://www.palazzogorgoni.it
 node	3780179457	http://www.bbrosellina.com
 node	3787118971	http://www.fjoredilecce.it
 node	3787118972	https://www.labellalecce.it/
@@ -879,6 +878,7 @@ node	5800699258	https://www.farmaciaquaranta.it/
 node	5810384064	http://sangregorio.prv.pl
 node	5813133319	https://sicoloarredamenti.com/
 node	5813316623	https://www.boccondivinolecce.com/
+node	5817625819	https://www.mcfit.com/it/palestra/bari-san-pasquale
 node	5818397007	https://www.sevencomputercenter.it/home_page.html
 node	5820695103	https://www.townhallbnb.com
 node	5824819461	https://www.carrefour.it/
@@ -1115,7 +1115,7 @@ node	7082748844	https://www.amiutaranto.it/index.php?option=com_content&view=art
 node	7083775971	http://www.anticarimessa.it/
 node	7105598485	https://www.mecmoto.it
 node	7111905559	https://www.translationsuniverse.com
-node	7117870344	www.mcdonalds.it
+node	7117870344	https://www.mcdonalds.it/
 node	7133734090	https://www.facebook.com
 node	7140825192	https://www.affittacamerearchita.it/
 node	7141321923	https://www.noleggiare.it
@@ -2851,14 +2851,19 @@ node	12659732948	https://www.tripadvisor.it/Restaurant_Review-g19425633-d2109615
 node	12659732961	https://www.tripadvisor.it/Restaurant_Review-g19425633-d24889615-Reviews-Macelleria_Braceria_Da_Alessandro-Torre_Ovo_Maruggio_Province_of_Taranto_Pugli.html
 node	12659955014	https://www.tripadvisor.it/Restaurant_Review-g12941672-d24150372-Reviews-Picciu_Ti_Fame-Monacizzo_Librari_Truglione_Torricella_Province_of_Taranto_Puglia.html
 node	12666423231	www.ecologicasudtaranto.it
-node	12667936904	www.zerodistanze.it
+node	12667936904	https://www.zerodistanze.it/
 node	12669645751	https://tranquillolecce.it/
 node	12676265362	https://www.grottadisantangelo.it
 node	12682194753	https://www.seatourgallipoli.it/
-node	12684218201	http://tazebike.com
+node	12684218201	https://www.tazebike.com/
 node	12688242394	https://comune.sanmarzano.ta.it/argomento/gestione-rifiuti/
 node	12694054155	https://www.arteperartebari.com/
 node	12694054160	https://www.my-vets.it/
+node	12696351242	https://www.escursioniinbarca.it/
+node	12696769516	https://www.s.martinhotel.it/
+node	12707492083	https://mastrodonato.eu/
+node	12707492084	https://www.gioielliricciardi.it/
+node	12707492086	https://www.gabetti.it/agenzia/andria
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -2869,7 +2874,9 @@ way	30634015	https://www.itsmeccatronicapuglia.it/
 way	30652740	https://www.liceofermi.edu.it/
 way	30675576	https://www.sanita.puglia.it/web/irccs
 way	30791611	https://fierafoggia.it/
+way	31454138	https://www.sanita.puglia.it/web/ospedaliriunitifoggia/
 way	34207503	https://www.birraperoni.it/chi-siamo/stabilimento-di-bari/
+way	34856243	https://www.sanita.puglia.it/web/ospedaliriunitifoggia/
 way	35544569	https://www.ferrarismolfetta.edu.it/
 way	36503980	https://campinglidosalpi.it/
 way	36921282	https://www.grandhotelvignanocelli.com/
@@ -2928,6 +2935,7 @@ way	170063746	https://www.comune.sanpancraziosalentino.br.it/it/aeroporto-milita
 way	170990391	https://www.torresabea.it/
 way	170990825	https://www.splashparco.it/
 way	171286209	http://lavecchiatorregallipoli.com
+way	172136761	https://www.itc.cnr.it/ba/sc/CNV/CNV0006.html
 way	172186525	http://www.ristoranteilsagittario.com/
 way	172263371	https://www.istitutocomprensivobitritto.it/
 way	173343282	https://www.residenceledunegallipoli.it/
@@ -3024,6 +3032,7 @@ way	298896132	http://www.malcandrino.it
 way	299077174	http://limoneilluminazione.it
 way	299718180	https://www.parcoarcheologicorudiae.it/2019/08/26/serbatoio-aqp/
 way	299718318	https://www.multisalamassimo.it/
+way	299718638	http://www.grandhoteltiziano.it/
 way	299718736	https://www.comune.lecce.it/
 way	299719445	http://www.labpignatelli.it
 way	299720591	http://www.liceodegiorgi.gov.it/
@@ -4109,6 +4118,7 @@ way	1349723361	http://www.camperuvo.it/aree-camper.html
 way	1350384937	https://novagora.it/
 way	1350396904	https://www.palacarrassi.it/
 way	1350940989	https://www.iccasalini.edu.it/
+way	1350956337	http://www.ippodromodeisauri.it/ipds_v1/index.php?cod=ris18092020122009e7f84
 way	1352193221	https://www.prestigecantieri.it/cantiere/la-cartiera/
 way	1352911808	https://cidaautocomponents.com/
 way	1353200632	https://www.aurigaspa.com/
@@ -4140,6 +4150,9 @@ way	1360620364	https://occusol.org/
 way	1364593658	https://www.vetrocar.it/centri/vetrocar-bari/
 way	1366044810	https://www.avolta.it/
 way	1369687163	https://www.donmilanibari.it/
+way	1371762435	https://www.gruppoeducom.eu/
+way	1371877115	https://www.devalautomotive.it/
+way	1372054234	http://www.hidrochemical.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -4338,6 +4351,7 @@ node	2361341097	https://scuolarcobaleno.business.site
 node	3598336093	www.tenutamadia.it
 node	3682522074	https://www.conservatoriofoggia.it/
 node	3774238147	https://www.grottadeltrullo.com/
+node	3779617236	http://www.palazzogorgoni.it/
 node	3845885449	http://www.tipicoresort.it
 node	4101133934	https://salinamargheritadisavoia.it/
 node	4112905018	https://www.masseriapilapalucci.it/
@@ -4433,6 +4447,7 @@ node	12151379498	https://regina-botter.jimdosite.com/
 node	12163863537	https://www.museocapuano.it/
 node	12459748663	https://www.ledueaquile.it
 node	12558518963	https://www.operaprima-ristorantepizzeria.it/
+node	12706282665	https://fratelligourmet.it/
 way	26346040	https://ecogargano.it/
 way	68334157	http://www.scuoladonpappagallo.it/
 way	72401407	https://www.secondocircoloboscoterlizzi.edu.it
@@ -4644,7 +4659,6 @@ node	12451130113	https://www.autonoleggiopagano.it/
 way	81082630	https://cartapulia.it/dettaglio?id=127906
 way	81101010	https://cartapulia.it/web/guest/dettaglio?id=128414
 way	81101023	https://siusa.archivi.beniculturali.it/cgi-bin/pagina.pl?TipoPag=prodente&Chiave=26492
-way	173780731	http://www.eni.com/en_IT/company/operations-strategies/refining-marketing/refining-rf/refinery-taranto.shtml
 way	179658447	http://www.cementirholding.it
 way	183820460	http://www.diocesifoggiabovino.it/?pag=diocesi&sub_pag=parrocchie&action=view&newsid=34
 way	264293164	https://www.pianetaostuni.it/index.php/lame/rosa-marina
@@ -5203,3 +5217,4 @@ way	1323935612	https://masseriaelysium.com/
 way	1334513555	http://www.lindosan.it
 relation	11031333	http://www.docartis.com/OSTUNI_Sit/+++METODOLOGIA.pdf
 relation	18268666	www.lapietraprontoprato.it
+relation	18902180	http://www.eni.com/en_IT/company/operations-strategies/refining-marketing/refining-rf/refinery-taranto.shtml
