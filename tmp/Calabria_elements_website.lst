@@ -96,6 +96,7 @@ node	2642112829	https://www.protezionecivile.gov.it/jcms/it/ricostruzione_cerzet
 node	2642192623	https://www.profumeriamarino.it
 node	2653443588	https://www.ilbak.it/
 node	2658850817	https://www.comune.paludi.cs.it/index.php?action=index&p=439
+node	2661451129	https://www.beniculturali.it/luogo/museo-e-parco-archeologico-archeoderi?page=2
 node	2661936025	https://turismo.reggiocal.it/cultura/archeologia-e-storia/odeon
 node	2695349417	https://musei.calabria.beniculturali.it/musei?mid=1362&nome=museo-archeologico-lametino
 node	2696172709	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/46190
@@ -534,7 +535,6 @@ node	11755534749	https://www.facebook.com/profile.php?id=61553218541216
 node	11865914728	https://ormenelparco.it/
 node	11921758851	https://sushionelamezia.it/
 node	11928275421	https://shitcoins.club/localizzazione-atm/atm-bitcoin-reggio-calabria-via-crisafi
-node	11929263657	https://www.museoalessandrinodellemaschere.it/
 node	11951360970	https://www.facebook.com/share/Z8aYVELA7WDHAxB9/?mibextid=LQQJ4d
 node	11972463070	https://www.facebook.com/profile.php?id=100063651634154
 node	12005929361	http://www.lidoalabama.it/
@@ -588,9 +588,14 @@ node	12617798449	https://www.unihera.it/
 node	12676676307	https://www.torrecamigliati.com/
 node	12684081173	https://www.ambsilagreca.it/index.php?option=com_phocagallery&view=category&id=18&Itemid=191
 node	12684202810	http://www.beatoangeloacri.it/Museo.asp
+node	12702145086	https://cultura.gov.it/luogo/museo-civico-di-crotone
+node	12702183326	http://www.comune.crotone.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/315
+node	12702212924	http://www.comune.crotone.it/
+node	12704376185	http://www.museoarcheologicocastrovillari.it/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	86940311	https://www.sacal.it/
 way	110044884	https://www.comune.crotone.it/
+way	110044973	https://linktr.ee/MuseoArcheologicoCrotone
 way	115953988	https://www.ardsicilia.it/punti-vendita/624/crotone-ss-106-km-245-localit-s-giorgio
 way	124275592	https://www.parcolacometa.it/
 way	129026587	https://www.isoppido.edu.it/
@@ -599,6 +604,7 @@ way	137411113	https://www.comune.cittanova.rc.it/
 way	137414080	https://www.cittanovaonline.it/Cittanova_Le_Chiese.html
 way	146019866	https://www.provincia.crotone.it/
 way	150519096	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151762&pagename=157031
+way	154078616	https://l.facebook.com/l.php?u=http%3A%2F%2Fmusei.calabria.beniculturali.it%2Fmusei%3Fmid%3D4256%26nome%3Dmuseo-e-parco-archeologico-dellantica-kaulon
 way	159654403	https://www.summerlandpalmi.it/
 way	160900775	https://www.sabap-rc.beniculturali.it/it/244/parco-archeologico-dei-tauriani
 way	165325333	https://www.parrocchiasacrocuorecatanzaro.it/
@@ -774,7 +780,6 @@ way	490694856	https://www.casellomargherita.it/
 way	490695275	http://www.rifugioilbiancospino.it
 way	493760479	https://www.comune.drapia.vv.it/
 way	496409485	http://www.appartamentipousada.it
-way	513171949	acadieclub.com
 way	520119532	https://www.clubesse.it/strutture/hotel-sunbeach/
 way	536150271	https://www.termesibarite.it/
 way	539871252	https://www.comune.pietrafitta.cs.it/
@@ -819,6 +824,7 @@ way	702243463	https://www.camping-anna.com/
 way	712243089	https://www.tripadvisor.it/Attraction_Review-g2052580-d13436559-Reviews-Chiesa_di_San_Rocco-Girifalco_Province_of_Catanzaro_Calabria.html
 way	729847616	https://www.comune.girifalco.cz.it/
 way	740128407	https://www.villaggiolemuse.it/
+way	754561598	http://www.comune.alessandriadelcarretto.cs.it/Default.aspx
 way	761408503	http://www.hotelsanfrancescoterme.com
 way	783381691	https://www.santannahospital.com/
 way	783396628	http://www.clinicatricarico.it/
@@ -922,6 +928,7 @@ way	1200617414	https://www.villaggiocampinglascogliera.com
 way	1200626120	https://www.villaggiofiorina.com/
 way	1200957712	https://www.campinguliveto.it/
 way	1202733348	https://www.villaggioformicoli.it/
+way	1204160242	https://musei.calabria.beniculturali.it/
 way	1205211398	https://www.iisvemanuele.edu.it/
 way	1205212596	https://www.iisvemanuele.edu.it/
 way	1205242265	https://www.youtube.com/watch?v=g2WtOHyQstI
@@ -983,6 +990,11 @@ way	1368759096	ilmuseodelpeperoncino.it
 way	1368764637	sala-museale-osvaldo-iorio.business.site
 way	1368773432	https://www.pmkolbe.it/
 way	1369562571	www.fondoambiente.it
+way	1370803401	http://www.comune.alessandriadelcarretto.cs.it/Home/Guida-al-paese?IDPagina=39692
+way	1370806388	https://www.museoalessandrinodellemaschere.it/il-carnevale-di-alessandria-del-carretto/
+way	1370837430	http://parcosibari.it/
+way	1371625533	http://www.museoarcalabriacastelsilano.it/
+way	1372025711	http://www.paola360.com/
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	5437445	http://www.certosini.info/
