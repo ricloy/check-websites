@@ -852,6 +852,7 @@ node	3270375275	https://www.enel.it/punto-enel/
 node	3280906040	https://www.palladiumhotelgroup.com/en/hotels/italia/siciliacampofelice/grand-palladium-sicilia-resort-spa
 node	3280906167	https://www.acaciaresort.eu/
 node	3282593721	https://www.toscanopianoforti.com/
+node	3292494843	https://finestra.bedsandhotels.com
 node	3307195883	www.la-tana.it
 node	3307197494	https://www.poste.it
 node	3323262967	https://www.arcodeicappuccini.com/
@@ -1792,7 +1793,6 @@ node	6419763989	https://www.boatstore.it/
 node	6437150585	http://www.lanoce.org/foresteria/
 node	6437159285	https://www.zeroglutinelife.it/
 node	6445131476	http://www.hotelbellevuepalermo.com
-node	6452688510	https://www.parcheggiotaormina.it/#
 node	6454640404	https://www.casadelbrodo.it/
 node	6457645029	https://www.poste.it
 node	6457645031	https://www.poste.it
@@ -3849,13 +3849,17 @@ node	12652922621	https://www.wildshop.it/
 node	12659922951	https://www.comune.marsala.tp.it/
 node	12681168150	https://www.sfrigola.it
 node	12694951229	https://catania.gohan-sushi.it/it/
-node	12702291417	www.agriturismocasebrizza.com
+node	12702291417	https://www.agriturismocasebrizza.com/
 node	12703144001	https://cataniagomme.eu
-node	12703428501	http://labpasticceriaroberto.com
+node	12703428501	https://www.labpasticceriaroberto.com/
 node	12705131651	https://www.icradicebellini.edu.it/
 node	12705131652	https://www.icradicebellini.edu.it/
 node	12708464724	https://www.mediahomesiracusa.it/
 node	12708464726	https://www.saitta1960vintage.com/
+node	12709619693	https://www.alsettimoportamarina.it/
+node	12712426784	https://casamattanoto.it/
+node	12716268716	https://elettromega.it/
+node	12716369113	https://elettromega.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -5079,6 +5083,7 @@ way	685332439	https://www.letelediaracne.it/
 way	685468670	https://turismo.comune.palermo.it/palermo-welcome-luogo-dettaglio.php?tp=68&det=21&id=185
 way	686408437	https://www.villadafne.it/
 way	686462183	https://www.riparautosiracusa.it/
+way	686462438	https://www.tedi.com/it/
 way	686991192	https://www.servizifunebrimessina.it/
 way	689331691	http://www.giannonelavorazionepietra.com/
 way	691158466	https://www.campinglilybeovillage.it/
@@ -5760,7 +5765,7 @@ way	1182088424	https://www.scuolacosmoguastella.edu.it/
 way	1184504411	https://www.penny.it/
 way	1185587299	https://www.casadelleterreforti.com/
 way	1187595287	https://www.poste.it
-way	1189708101	http://www.sessasuperstore.com/sessa/
+way	1189708101	https://www.sessasuperstore.it/
 way	1191598999	http://www.laruotamessina.it/
 way	1192515504	https://www.icmacherionecalatabiano.edu.it/
 way	1193158446	https://www.lafornacecentrocommerciale.com/
@@ -6107,6 +6112,8 @@ way	1366263075	https://www.penny.it/
 way	1367197625	https://www.comprensivopuglisi.it/
 way	1367197628	https://www.comprensivopuglisi.it/
 way	1368498457	https://paghipoco.com/
+way	1373112351	https://www.mausoleofosseardeatine.it/vittime/dettaglio/?id=273
+way	1373509433	https://www.parcheggiotaormina.it/#
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6858,6 +6865,7 @@ way	153855158	http://www.mazaradelvallo.mercatinousato.com/
 way	154237068	http://www.cantinesanfrancesco.it
 way	158261673	http://www.poderefossarunza.it/
 way	160056154	http://ristorantesaro.it/
+way	163863664	https://www.gruppoformula3.it
 way	170024536	http://www.chiesamadrediisola.it/
 way	185266495	http://www.cantinecolombabianca.it/
 way	186884997	http://www.anticoborgomarinaro.it/
