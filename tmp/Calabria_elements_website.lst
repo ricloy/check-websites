@@ -286,6 +286,7 @@ node	7647081123	http://www.casalevecchiafattoria.com/
 node	7721024704	https://www.gelateriaenrico.com
 node	7757111115	https://www.comune.girifalco.cz.it/
 node	7772908185	https://wwww.alristo.it/menu.php?host=&page=132382776414817
+node	7925115987	http://www.comunemoranocalabro.it/Turismo/museo_agricoltura.aspx
 node	7932307685	http://www.lacantinadelmacellaio.com
 node	7977816269	http://www.comune.sanmarcoargentano.cs.it/
 node	8093452118	https://www.comune.rizziconi.rc.it/
@@ -370,7 +371,6 @@ node	10125727538	https://www.sacrimonti.org/sacro-monte-laino-borgo
 node	10125727539	https://www.sacrimonti.org/sacro-monte-laino-borgo
 node	10125727540	https://www.sacrimonti.org/sacro-monte-laino-borgo
 node	10125727541	https://www.sacrimonti.org/sacro-monte-laino-borgo
-node	10125727542	https://www.sacrimonti.org/sacro-monte-laino-borgo
 node	10125727543	https://www.sacrimonti.org/sacro-monte-laino-borgo
 node	10125727544	https://www.sacrimonti.org/sacro-monte-laino-borgo
 node	10125727545	https://www.sacrimonti.org/sacro-monte-laino-borgo
@@ -588,10 +588,15 @@ node	12617798449	https://www.unihera.it/
 node	12676676307	https://www.torrecamigliati.com/
 node	12684081173	https://www.ambsilagreca.it/index.php?option=com_phocagallery&view=category&id=18&Itemid=191
 node	12684202810	http://www.beatoangeloacri.it/Museo.asp
-node	12702145086	https://cultura.gov.it/luogo/museo-civico-di-crotone
-node	12702183326	http://www.comune.crotone.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/315
-node	12702212924	http://www.comune.crotone.it/
+node	12702183326	https://www.comune.crotone.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/315
 node	12704376185	http://www.museoarcheologicocastrovillari.it/
+node	12717838689	https://www.museoarcheologicoreggiocalabria.it/
+node	12717920323	https://musei.calabria.beniculturali.it/musei?mid=332&nome=museo-e-parco-archeologico-nazionale-di-scolacium
+node	12717922502	http://www.aristippo.it/
+node	12717958580	http://www.parcoarcheologicodibroglio.it/
+node	12717973707	http://www.museodiblanda.it/
+node	12722236183	https://www.casadellaculturapalmi.it/museo-etnografico/
+node	12722701340	http://www.complessoconventualecappuccinichiaravallecentrale.com/index.htm
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	86940311	https://www.sacal.it/
 way	110044884	https://www.comune.crotone.it/
@@ -599,6 +604,7 @@ way	110044973	https://linktr.ee/MuseoArcheologicoCrotone
 way	115953988	https://www.ardsicilia.it/punti-vendita/624/crotone-ss-106-km-245-localit-s-giorgio
 way	124275592	https://www.parcolacometa.it/
 way	129026587	https://www.isoppido.edu.it/
+way	135228830	https://cultura.gov.it/luogo/centrale-idroelettrica-guida
 way	137409999	https://www.cittanovaonline.it/Cittanova_Le_Chiese.html
 way	137411113	https://www.comune.cittanova.rc.it/
 way	137414080	https://www.cittanovaonline.it/Cittanova_Le_Chiese.html
@@ -642,6 +648,7 @@ way	207760353	https://www.capovaticanoresort.it/
 way	210256973	https://antonante-toyota.it/
 way	210256999	https://antonante-toyota.it/
 way	220920999	http://www.pinetadisibari.it/
+way	221060111	http://www.rivieradeibronzi.com/
 way	222809305	https://musei.calabria.beniculturali.it/musei?mid=332&nome=museo-e-parco-archeologico-nazionale-di-scolacium
 way	223256778	http://www.castellodicoriglianocalabro.it/Default.aspx
 way	224234469	https://ormenelparco.it/
@@ -776,6 +783,7 @@ way	474233395	https://www.despar.it
 way	475276197	https://stationfinder.eni.com/iveportal/stations/stationfinder.do?locale=it_IT&m=3&id=IT18559
 way	475276213	https://www.q8easy.it/
 way	486770321	https://www.parcodeiprincipiscalea.it/
+way	487234081	https://www.madonnadelpettoruto.it/
 way	490694856	https://www.casellomargherita.it/
 way	490695275	http://www.rifugioilbiancospino.it
 way	493760479	https://www.comune.drapia.vv.it/
@@ -816,6 +824,7 @@ way	625005221	https://www.lidoaurora.it/
 way	642001521	https://raduradelgrano.com/
 way	647038443	https://www.comune.soverato.cz.it/
 way	662332623	https://www.orafoluigimungo.it/
+way	667664282	http://www.santuario-papasidero.it/
 way	669746185	https://www.santuariopaola.it/nuovo/index.php?option=com_content&view=article&id=61&Itemid=164
 way	669746193	https://www.fondazionesanfrancescodipaola.it/
 way	670239358	http://www.icsantamariadelcedro.gov.it/
@@ -875,6 +884,7 @@ way	1082048550	https://www.isoppido.edu.it
 way	1082053706	https://www.isoppido.edu.it
 way	1084204590	https://www.comune.polia.vv.it/it/point-of-interest/chalet-gigliara
 way	1085192966	https://www.sacrimonti.org/sacro-monte-laino-borgo
+way	1086710908	https://santuariomadonnadellacatena.weebly.com/index.html
 way	1097048269	https://www.cittanovaonline.it/Cittanova_Le_Chiese.html
 way	1106018042	https://www.miramarescilla.it/
 way	1110592616	https://www.eurospin.it/
@@ -948,6 +958,7 @@ way	1259777453	https://carburanti.esso.it/it-it/find-station/esso-rosarno-100107
 way	1263052061	https://www.thegardenparkcaterina.it/
 way	1263184472	https://www.abacatanzaro.it
 way	1267996777	https://tenutabocchineri.it/
+way	1268838346	https://digilander.libero.it/gelricca/la_chiesa_della_riforma.htm
 way	1287486430	https://arcomagno.it/
 way	1292792925	https://cinemateatrosanmarco.it
 way	1295636130	http://www.lidotropical.it/
@@ -994,7 +1005,13 @@ way	1370803401	http://www.comune.alessandriadelcarretto.cs.it/Home/Guida-al-paes
 way	1370806388	https://www.museoalessandrinodellemaschere.it/il-carnevale-di-alessandria-del-carretto/
 way	1370837430	http://parcosibari.it/
 way	1371625533	http://www.museoarcalabriacastelsilano.it/
-way	1372025711	http://www.paola360.com/
+way	1372013146	https://www.facebook.com/MadreeSignoradiPraia/?_rdr
+way	1372020146	https://www.parrocchiasanpietroapostolo.org/SchedaContenuto.aspx?ID=20200827114138&IDS=20200827113500
+way	1372025711	https://www.paola360.com/
+way	1373283615	https://www.facebook.com/p/Santuario-San-Francesco-di-Paola-Corigliano-Calabro-100069526303709/?locale=it_IT
+way	1373288197	https://www.facebook.com/p/Parrocchia-Santa-Maria-ad-Nives-100090988510018/?locale=it_IT
+way	1373289828	http://www.santuari.it/spezzano/
+way	1373640493	https://www.comune.rende.cs.it/vivere-la-citta/musei/museo-civico/
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	5437445	http://www.certosini.info/
