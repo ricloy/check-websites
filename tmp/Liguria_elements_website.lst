@@ -301,6 +301,7 @@ node	1710273989	www.petrellivini.it
 node	1712348876	http://www.pwr.it
 node	1716752252	http://castellomiramare.it
 node	1716758583	http://www.molinodipegli.it/
+node	1719645697	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dinaclub
 node	1721751406	http://www.victorymorganabay.it
 node	1722591841	https://www.icsanremocentrolevante.edu.it
 node	1722889640	https://www.londrahotelsanremo.it/
@@ -356,11 +357,15 @@ node	2059811912	http://www.ferasrl.it/progetto/la-rocca/
 node	2059811913	http://www.ferasrl.it/progetto/la-rocca/
 node	2059811914	http://www.ferasrl.it/progetto/la-rocca/
 node	2117874479	http://www.ristorante5maggio.it
+node	2122913335	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dinaclub
 node	2122914700	https://www.repower.com/it/dina/
 node	2122916086	https://www.repower.com/it/dina/
 node	2123632664	http://www.ristoranteenotecamigone.it
 node	2124942693	farmaciaghigliazza.com
 node	2125618082	https://www.repower.com/it
+node	2125618755	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dinaclub
+node	2125640756	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dinaclub
+node	2125645855	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dinaclub
 node	2128279053	https://www.agenziaentrate.gov.it/portale/web/guest/uffici10/-/uffici/uffici_INSTANCE_A13BRkd000MY/dettagliouffTPI/KUH/cr/903/iur/KUH
 node	2133591952	www.poldosbar.it
 node	2135863444	https://www.riverparkhotel.it/
@@ -767,6 +772,7 @@ node	3719886070	https://omirl.regione.liguria.it/
 node	3724177894	https://www.nuovogarden.com/
 node	3725430216	http://www.cineinfo.it/smer.html
 node	3728827387	https://www.ctovet.com/
+node	3731389910	https://www.aquariumpark.it/
 node	3734739237	http://www.effebicicli.it/index.html
 node	3734739264	http://www.croceverdearmataggia.it/index.asp
 node	3741493558	http://www.gmazzotti1903.it/
@@ -1609,6 +1615,7 @@ node	7056212581	http://www.mangiaedormi.altervista.org
 node	7072486541	https://www.casadelgelatoalbenga.it/
 node	7072647556	https://www.savonanews.it/2013/07/16/amp/argomenti/attualit/articolo/albenga-oggi-inaugura-il-nuovo-caffe-letterarioufficio-informazione-e-accoglienza-turistica.html
 node	7072651378	https://www.clinicasanmichelealbenga.it/
+node	7074577822	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dinaclub
 node	7077467612	https://www.equiparafarmacie.it/
 node	7080610929	https://www.hotelvillaave.it/
 node	7082855725	https://ilabgenova.com/
@@ -1809,9 +1816,7 @@ node	8934097974	https://www.rissocoloriechimica.com/
 node	8934097980	https://www.cosedacani.eu/
 node	8935948777	https://tintoriaanna.it/
 node	8935948785	http://www.luccisanoimpresaedile.it/
-node	8936079284	https://www.aziende-italia.com/centro-estetico-miss-grace-di-lonero-gretha
 node	8936079287	https://www.stosacucine.com/it/stores/arredo-interni-di-arnone-gaetano-10002
-node	8936079288	https://www.arredointerni-ventimiglia.it/
 node	8936207672	https://www.arnonearredamenti.com
 node	8936207675	https://www.hempatia.network/
 node	8936207680	https://www.ipersoap.com/
@@ -1932,7 +1937,6 @@ node	9182023055	https://casaluzzati.it/
 node	9188195502	https://www.paginebianche.it/ventimiglia/rosso-studio-legale.13839722
 node	9188195504	https://www.garrodeimobili.com/contatti/
 node	9188195510	https://ristorante-re-mida.eatbu.com/?lang=it
-node	9189883473	https://leggimenu.it/menu/street
 node	9190031292	https://www.leduelanterne.com/
 node	9190082067	https://www.cia.it/dove-siamo/sedi/20721/
 node	9190438803	http://www.isoardimarafioti.it/attivita-dello-studio/
@@ -2315,7 +2319,6 @@ node	11531678800	https://bottegaisnardi.it
 node	11531678801	https://imperia.ubiklibri.it
 node	11531678802	https://www.threemonkeys3m.com
 node	11534737171	http://www.spaziovuoto.com/
-node	11534894648	https://www.artificioimperia.it/
 node	11534894649	https://www.lukhairsalon.it
 node	11534894651	https://www.immobiliareareaquattro.it
 node	11534894655	https://www.kipoint.it/it/pv/KI142/
@@ -2592,6 +2595,12 @@ node	12686932763	https://www.studiotutela.com
 node	12695453858	https://www.stazionediserviziolaspezia.com/enjoy-point
 node	12695476559	https://www.radiotaxilaspezia.com/it/
 node	12702980496	https://www.lisolachecegenova.it/
+node	12722635895	https://www.quotalavoro.it/
+node	12722635901	https://www.schiavetti-center.it
+node	12731960885	https://cor-nus.com
+node	12736738627	https://www.tenutacolombera.it
+node	12736738641	https://www.tenutacolombera.it
+node	12737053521	https://phoemstudio.com
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2974,10 +2983,13 @@ way	225256135	http://www.vistamare-tovo.ch
 way	225256835	https://www.palazzotagliaferro.it/
 way	225403813	https://www.villailpoggiolo.it/
 way	225404167	http://www.parrocchiasanbartolomeo.net/
+way	225406352	https://www.appartamentiarcoantico.it
 way	225407939	http://www.croceorocervo.it/joomla/index.php
 way	225445400	https://www.comune.dianoarentino.im.it/
 way	225464024	https://www.oliobenza.it/
 way	225484774	https://wwwt.agenziaentrate.gov.it/servizi/UfficiProvinciali/ufficio.htm?iduff=IM1&r=Liguria&pr=Imperia
+way	225499698	https://www.ilsoledipoggi.it
+way	225499714	https://www.saglietto.it
 way	225501579	http://www.agriturismocollarina.it/
 way	225503354	https://www.agriturismoilgeco.it/
 way	225508273	https://www.hotelariston-imperia.it/residence-villa-marina/
@@ -3103,6 +3115,7 @@ way	344901334	https://www.veloretro.it/
 way	344925845	https://miramonticalizzano.it/
 way	345295375	www.campingarenella.it
 way	345661231	https://www.anpi.it/luoghi-di-memoria/26/museo-della-resistenza-di-carpasio
+way	345712562	https://www.appartamentiarcoantico.it
 way	345764215	https://www.porteghetto.com/
 way	345764918	https://www.porteghetto.com/
 way	346375876	https://www.autocarrozzeriatecnocar.com/
@@ -4013,12 +4026,14 @@ node	8760584910	https://www.zenamare.com
 node	9828595376	https://www.alliancemedical.it/
 node	9845098881	https://pizzeriasenese.it/
 node	9855217478	https://www.imperiascacchi.it/
+node	10116440480	https://www.cmpsport.com/it/
 node	11087523992	https://www.golfodellaluna.it
 node	11299657682	https://www.autoscuolegruppozena.com/
 node	11380379580	http://www.bbgiutte.it
 node	11392242462	https://minervasoluzioni.it/
 node	11397077627	www.cozzani.com
 node	11518698596	https://www.greenhouseanimali.it/
+node	11541016602	https://gruppodomusre.it
 node	11640839202	https://www.vitaecalicieforchette.it
 node	11670347899	http://www.collinatorre.it/it/home
 node	11824958712	https://www.miodottore.it/francesca-casazza/logopedista/genova
@@ -4040,6 +4055,7 @@ node	12547565703	https://www.ilnostrocaffeonline.it/
 node	12649562775	https://www.gabetti.it/agenzia/imperia
 node	12650817209	https://www.adm.gov.it/portale/dt-liguria-piemonte-valledaosta/-/adm/deleteCookies?p_auth=tReLpgtB
 node	12652317392	https://www.uildm.org/liguria
+node	12722635896	https://www.menoventi.it
 way	134211659	http://www.celtorretta.it/
 way	158281161	https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html
 way	202331656	https://www.museodellorologio.it
@@ -4050,7 +4066,6 @@ way	225443643	http://www.rivieratrasporti.it/
 way	225501972	https://www.comune.sanlorenzoalmare.im.it/Luoghi?ID=604
 way	225515627	https://www.agenziacasavacanza.it
 way	230769914	https://www.cartieragrillo.net/
-way	342151132	http://www.promo-sport.it/
 way	351297030	https://www.campingbracchettovetta.com/
 way	379055920	http://www.parcomarguareis.it/
 way	440329909	https://portodiarenzano.it
@@ -4059,6 +4074,7 @@ way	481979115	https://it.wikipedia.org/wiki/Batteria_di_Punta_Chiappa
 way	708233827	www.soccorsocinofiloliguria.org
 way	720218185	https://it.wikipedia.org/wiki/Batteria_di_Punta_Chiappa
 way	720222996	https://it.wikipedia.org/wiki/Batteria_di_Punta_Chiappa
+way	884126422	https://www.asl3.liguria.it/ospedali/micone-sestri-ponente.html
 way	1162787487	https://www.piandipicche.it/index.html
 way	1303072433	http://www.musicforpeace.it
 way	1341620816	https://www.icboine-imperia.edu.it/luogo/scuola-materna-borgo-prino
