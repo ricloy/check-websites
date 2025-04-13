@@ -1302,7 +1302,7 @@ node	3020208661	http://zope.gd-a-14.vps.redomino.com/Projects/iltesoro
 node	3027271711	http://www.cicliliberati.it/
 node	3039065548	https://www.ilsistina.it/
 node	3043693343	https://www.bleracultura.it/biblioteca.php
-node	3046380485	https://www.polomusealelazio.beniculturali.it/index.php?it/608/comprensorio-archeologico-e-antiquarium-di-minturnae
+node	3046380485	https://direzioneregionalemuseilazio.cultura.gov.it/luoghi/comprensorio-archeologico-e-antiquarium-di-minturnae-e-ponte-real-ferdinando/
 node	3047139662	https://www.radiologiacavalcanti.com/
 node	3048213781	https://www.roma.embaixadaportugal.mne.pt
 node	3048914841	https://www.consob.it
@@ -3243,6 +3243,7 @@ node	6011145894	http://www.osteriav8.it/index.html
 node	6011204798	https://www.fgfimmobiliare.com/
 node	6011204802	http://www.beautyspaceclara.it/
 node	6014942585	https://www.darumasushi.com/
+node	6015551081	https://www.campodellamemoria.it/
 node	6017661139	https://www.giornoenotte.net/
 node	6017661140	lacasadellocchiale.it
 node	6017661141	newbabyland.com
@@ -3343,7 +3344,6 @@ node	6251333336	https://web.uniroma1.it/sbs/biblioteche/RMS-IE-01
 node	6251346678	https://web.uniroma1.it/sbs/biblioteche/RMS-MA-01
 node	6251369570	https://web.uniroma1.it/sbs/biblioteche/RMS-IN-01
 node	6251528712	http://pasticceriapolveredistelle.it
-node	6251542335	t-burger.it
 node	6251580362	anticofornocotugno.it
 node	6252648254	https://www.lemastro.com/
 node	6253603993	gusroma.it
@@ -3908,7 +3908,6 @@ node	7728785835	https://www.birvalmontone.it
 node	7733662529	http://www.shabbylabfrascati.it
 node	7733662541	https://lelefantino-store.com/
 node	7737198286	https://setaccio-frascati.it/
-node	7737410093	https://www.pasticceriabonuglia.com/
 node	7737410100	http://www.immobiliarecave.it/
 node	7737410113	https://gioielleriatraversi.com/
 node	7737946996	https://adventur-camp-resort-monti-ernici-collepardo.hotelmix.it/
@@ -4851,7 +4850,6 @@ node	9717224407	https://www.odettedanza.it/p/punto-vendita-roma.htm
 node	9717224409	http://www.hoteldeimillerome.com/
 node	9718289023	https://www.birrificiopontino.com/contatti-3/
 node	9718838104	https://www.droneproservice.it
-node	9718964117	https://marigoldroma.com/
 node	9719742031	https://www.tagliatixilsuccessotivoli.it/
 node	9720628243	https://www.pizzeriasancho.it/
 node	9720628252	https://monolocale-speedy.business.site/?utm_source=gmb&utm_medium=referral
@@ -4987,7 +4985,6 @@ node	9961065837	http://rifugioromano.com/
 node	9961065896	https://mitierraroma.com/
 node	9961462177	https://www.capofarfa.it/
 node	9961488790	https://www.capofarfa.it/
-node	9963992881	https://www.repower.com/it
 node	9964752720	https://www.repower.com/it
 node	9967495574	https://www.repower.com/it/dina/
 node	9970532652	https://www.giuliarestaurant.it/
@@ -5190,7 +5187,7 @@ node	10233117749	https://www.ortopediaflaminio.com/
 node	10240547804	https://www.comune.sangregoriodasassola.rm.it
 node	10241959610	https://www.sciambreto.com/
 node	10242305473	https://www.paganicosabino.org/da-visitare/la-pietrascritta.html
-node	10248418330	https://www.operaparrucchieriroma.com
+node	10248418330	https://www.operaparrucchieriroma.com/
 node	10249157190	http://blounge.it/
 node	10259405992	https://multisalaoxer.18tickets.it/
 node	10259425457	https://ginza-ristorante-giapponese-latina.business.site/
@@ -6387,7 +6384,7 @@ node	12603912865	https://chefc.it/
 node	12605107766	https://www.casadelgustoroma.it/
 node	12617025282	https://www.nuvoledaromiduepuntozero.it
 node	12617782101	http://sestosuites.com
-node	12618068801	https://www.nuvoledaromiduepuntozero.it/
+node	12618068801	http://www.nuvoledaromiduepuntozero.it
 node	12622843603	http://www.agriferramosca.com
 node	12623542581	https://ludovicopalma.it/
 node	12628157694	https://rigenerazionecasashop.com/
@@ -6429,8 +6426,15 @@ node	12725805507	http://rismabookshop.com
 node	12725805801	https://liviomaitan.wordpress.com/la-biblioteca-livio-maitan/
 node	12728271180	https://casamanco.it/
 node	12728869701	https://www.ferramentarosati.it
-node	12729729901	http://capraliberatutti.org
+node	12729729901	https://capraliberatutti.org/
 node	12729873501	https://gardeniasuite.com
+node	12734244532	https://www.kombinini.it
+node	12734487401	https://www.discogs.com/user/IWantToBelieve
+node	12735314501	http://maatamericancafe.it
+node	12736226593	https://www.centrodimedicinadellosport.it/
+node	12740911908	https://www.angolocortese.it/it-IT
+node	12748251553	https://casaledellasco.it/
+node	12749700574	https://margotrestaurant.it/sito-ufficiale-margot-fregene
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7609,6 +7613,7 @@ way	369262033	https://www.kln.gov.my/web/ita_rome
 way	369364505	https://www.uniroma1.it/it/pagina/centro-infosapienza
 way	369388349	https://www.risparmiocasa.com/
 way	369905308	https://www.latrota.com/
+way	370203739	https://terrazzatevere.it/
 way	370714256	https://www.rvnmonterotondo.it/
 way	370814647	http://www1.agenziaentrate.gov.it/indirizzi/agenzia/uffici_locali/lista.htm?m=2&pr=VT#uff3
 way	373770578	https://www.romansportcity.it/
@@ -8289,6 +8294,7 @@ way	636234321	https://www.puntotraslochi.it/
 way	636913508	https://www.bibliotecasamuseoangelodimario.com
 way	637936880	http://www.villaadriana.beniculturali.it/index.php?it/139/ninfeo-stadio
 way	637963574	http://www.oasidialviano.org/
+way	638247832	https://www.campodellamemoria.it/
 way	638580113	http://www.falchifondi.it
 way	641305181	https://www.icemmacastelnuovo.edu.it/
 way	641573110	https://bioversityinternational.com
@@ -8966,6 +8972,7 @@ way	1367862243	https://web.uniroma1.it/cersites
 way	1368371994	https://www.ilmelogranomontopoli.it/
 way	1369877711	https://santacristina.it/
 way	1374097188	https://www.fiducia-sanbernardino.it/
+way	1376951959	https://sportingclublarosadeiventi.wordpress.com
 relation	22289	https://www.farnese-rome.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -9893,7 +9900,7 @@ node	6255495646	https://domasristopub.business.site/
 node	6255562971	https://www.luppoloefarina.it
 node	6255580638	https://aroma-di-pechino.business.site/
 node	6256178895	https://www.elettricamorlacco.com/
-node	6310137427	https://mercatoarabo.business.site/
+node	6310137427	https://www.mercatoarabo.it/
 node	6406337870	http://laquiete.com.es
 node	6427604266	http://www.caffecristallo.com/
 node	6456487724	https://www.ladogana.eu/
