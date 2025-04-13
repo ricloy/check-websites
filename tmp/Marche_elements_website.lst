@@ -132,6 +132,7 @@ node	879656557	http://www.osterianonnanina.com
 node	885680535	https://www.bottegaolivascolana.it/
 node	893969287	https://www.giomettirealestatecinema.it/cinema/multiplex-ancona/programmazione
 node	893969288	https://jysk.it/stores-locator?storeId=3184
+node	893975128	https://www.globomoda.com/puntivendita/dettagli_puntovendita.php?id=8
 node	925512122	https://www.oasisanbenedetto.it/
 node	938924503	https://it.marella.com/store/0153005
 node	945519680	https://www.globomoda.com/
@@ -795,7 +796,6 @@ node	5764715193	https://www.sefstamura.it/
 node	5772695953	https://www.ristorantecasarapisarda.it/
 node	5780536198	https://www.duemmetour.it/
 node	5780536202	https://www.ckcarwash.it/
-node	5780536216	https://www.piccoloatelier.com/
 node	5793755982	https://www.alphagemini.it
 node	5825631356	https://www.pizzeriadarobys.it/
 node	5851842486	https://www.oilone.eu/oilone/portfolio-articoli/stazione-di-servizio-montelabbatese-pu/
@@ -1542,6 +1542,7 @@ node	11417096286	https://coworkingfermo.com/
 node	11438824570	http://www.dlfancona.it/servizi.asp?page=60
 node	11461761777	https://www.wallstreet.it/scuola-inglese/senigallia
 node	11468998050	https://www.libriusatisonnino.it/
+node	11472812806	https://otticapatrizia.com/
 node	11472812809	https://www.verisure.it/sedi/marche/ancona
 node	11477322084	https://www.giocondi.it/
 node	11482516410	http://www.ristorantedelleloggette.it
@@ -1583,6 +1584,7 @@ node	11632234036	http://www.farmaciabucci.it/
 node	11632443424	https://www.mcdonalds.it/ristorante/marche/macerata/montecassiano
 node	11634344069	https://www.lanocicchia.it/ristorante.php
 node	11645576334	http://www.unsognonellemani.com/
+node	11645805407	https://www.podologocomiratoclaudio.it/
 node	11646914774	https://www.lasaponaria.it/biostorie-fano
 node	11663889123	https://www.gentlemanleathercare.com/
 node	11663940504	https://www.sscgarage.com/
@@ -1594,6 +1596,7 @@ node	11694719733	https://www.rositaceccarelli.it/
 node	11700389485	https://cinfo.unicam.it/
 node	11708920271	https://tonellienicolini.it/
 node	11750546138	https://www.boscodoroshop.com
+node	11750764725	https://www.gplanet.it/gplanet-marina-di-montemarciano/
 node	11757892921	https://lidaste.it/?cat=1
 node	11768533315	https://www.giomettirealestatecinema.it/cinema/multiplex-jesi/programmazione
 node	11781910848	https://www.hotelclodi.it/
@@ -1768,6 +1771,7 @@ node	12367747325	https://www.salumificiostipa.it/
 node	12373642498	http://www.gennaretti.com
 node	12378718722	https://www.borgopaglianetto.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6536627774083750553
 node	12378718752	https://www.tenutacolpaola.it/
+node	12386749240	https://www.piccoloatelier.com/
 node	12388406803	https://cormoranohotel.it/
 node	12397584061	https://hurraspesa.it/stores/hurra-coste-di-staffolo/
 node	12401692627	http://www.edizioniae.it/
@@ -1971,13 +1975,16 @@ node	12690572695	https://www.caisenigallia.it/
 node	12690679115	https://www.immobiliareadhoc.com/
 node	12691450602	https://www.hotelilcavaliere.com/
 node	12692893576	https://www.mainoldi.it/fabbrinips
-node	12702961251	http://www.estra.it/
+node	12702961251	https://www.estra.it/
 node	12715793860	https://www.iperceramica.it/
 node	12715793930	https://civitanovamarche.mercatopoli.it/
 node	12715793932	https://www.exefit.it/
-node	12716444334	http://www.gazzani.net/
-node	12716449552	http://www.torresipiante.it/
+node	12716444334	https://www.gazzani.net/
+node	12716449552	https://www.torresipiante.it/
 node	12726014682	https://www.morica.it/
+node	12734273152	https://www.agriturismomondavio.it/
+node	12747544586	https://www.facebook.com/gsnngruppospeleo
+node	12748251552	https://www.cabetania.nl/home-en
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2048,6 +2055,7 @@ way	110150086	https://www.schermajesi.it
 way	111120099	http://www.recinahotel.com
 way	111196286	http://istitutomesticamacerata.gov.it/
 way	115627451	https://www.podereseipoorte.it/
+way	116045106	https://www.novecamere.it
 way	116235399	https://www.conerogolfclub.it/
 way	118790871	https://www.agriturismodamezzanotte.com/
 way	122068424	https://www.coneroazzurro.it/
@@ -2189,6 +2197,7 @@ way	310213323	http://www.latartanasenigallia.it/
 way	310213495	https://www.barettorosso.it/
 way	310230312	https://www.iluoghidelsilenzio.it/eremo-della-madonna-della-valpovera-s-erasmo-di-camerino/
 way	310349896	https://www.greencamping.it/
+way	310375916	https://www.michelesenigallia.com/
 way	310376600	https://www.hotelazzurrasenigallia.it/
 way	310376941	https://www.hotelturistica.it/
 way	310442767	http://www.casa-molleone.com/en/
@@ -2762,6 +2771,7 @@ relation	7574902	https://www.camminofrancescanodellamarca.it/
 relation	7575064	https://www.camminofrancescanodellamarca.it/
 relation	7575437	https://www.camminofrancescanodellamarca.it/
 relation	8438504	https://www.casacultureancona.it/il-sentiero/
+relation	8440256	https://camminoportadoriente.com/
 relation	9068487	https://www.gruppozaffiro.it/residenze/marche/residenza-cappuccini/
 relation	9074536	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	9075394	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
@@ -2861,6 +2871,7 @@ relation	18715215	https://www.adbascoli.it/anelli-ascolani/rosso/
 relation	18715216	https://www.adbascoli.it/anelli-ascolani/verde/
 relation	18715217	https://www.adbascoli.it/anelli-ascolani/giallo/
 relation	18803666	https://www.centromirum.it/
+relation	18952790	https://camminoportadoriente.com/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
