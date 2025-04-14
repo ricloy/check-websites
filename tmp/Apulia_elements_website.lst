@@ -2796,7 +2796,7 @@ node	12593231290	https://www.floraedenittocars.it/
 node	12593231291	https://www.paginegialle.it/francavilla-fontana-br/autofficina/officina-meccanica-tecnauto-rizzo-antonio-taurisan
 node	12596703270	casaproshop.it
 node	12598471847	https://www.silenofishing.it/
-node	12604430715	https://www.canva.com/design/DAFntJiy9qM/w2wyFF3Z-nkUaUXN_ViHzg/view?utm_content=DAFntJiy9qM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd4632703bd
+node	12604430715	https://www.canva.com/design/DAFntJiy9qM/w2wyFF3Z-nkUaUXN_ViHzg/view?utlId=hd4632703bd
 node	12609711357	https://newlupetto.com/
 node	12609711360	https://www.popolarebari.it/content/bpb/it/home.html
 node	12609711361	https://daffy.sumupstore.com/
@@ -2870,11 +2870,21 @@ node	12707492086	https://www.gabetti.it/agenzia/andria
 node	12716701984	https://www.diagnosticasanmarco.it/
 node	12722814919	https://www.ideamarine.eu/
 node	12723072546	https://www.leroymerlin.it/
+node	12725020154	https://www.rattomatto.it/
 node	12730758462	https://www.portasalina.com/
 node	12731341947	https://kokoisushi.it/
 node	12731421765	thecambridgeschool.it
-node	12731421766	cinnamor.it
-node	12731421774	imasupermercati.it
+node	12731421766	https://www.cinnamor.it/
+node	12731421774	https://www.imasupermercati.it/
+node	12737106207	https://www.supersisa.com/store/sisa-di-francavilla-fontana-settembrini/
+node	12737106223	https://www.instagram.com/auto_brill_francavilla_fontana/
+node	12737106234	https://www.bccsanmarzano.it/privati/
+node	12738945502	https://incontrabari.it/
+node	12738945503	https://casadelleculturebari.it/
+node	12741142888	http://www.bbsognidoro.it/index.html
+node	12747815026	masseriacesarina.com
+node	12747856748	https://caf.coldiretti.it/
+node	12748213305	https://alterdiscount.it/stores/alter-discount-3/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -2933,6 +2943,7 @@ way	134710304	https://www.campingsmleuca.com/
 way	137547111	http://www.immacolatafoggia.it/
 way	137547153	https://www.campingippocampo.it/
 way	137547156	http://santissimosalvatorefg.altervista.org
+way	138150452	https://www.unisalento.it/
 way	147036176	https://www.officinemeccanichelongo.com/
 way	147961516	https://www.liceosocratebari.edu.it/
 way	158732617	https://www.villamariacrispiano.it/
@@ -3149,6 +3160,10 @@ way	371735586	https://www.hotelclubsantasabina.it/new/
 way	373568568	https://ctlecce.wansport.com/
 way	373571441	https://hiltongardeninn3.hilton.com/en/hotels/italy/hilton-garden-inn-lecce-LCCGIGI/index.html?WT.mc_id=zELWAKN0EMEA1GI2DMH3LocalSearch4DGGenericx6LCCGIGI
 way	374020996	https://www.campingcalabatteria.it/
+way	374176280	https://www.indicepa.gov.it/ipa-portale/consultazione/indirizzo-sede/ricerca-ente/elenco-unita-organizzative/L911JI/uo/scheda-unita-organizzativa/NKVLYK
+way	374179042	https://icgrimaldilombardi.edu.it/luogo/plesso-biagio-grimaldi/
+way	374179045	https://www.iissmajoranabari.edu.it/luogo/i-i-s-s-ettore-majorana-plesso-san-paolo/
+way	374187216	https://www.donboscobari.it/
 way	375376292	https://www.petrolmengasrl.it//
 way	378620146	http://www.lidoazzurro.org
 way	379154391	https://www.scalademunte.it/
@@ -3610,7 +3625,6 @@ way	480366021	http://www.silosgranari.it/it/sedi/altamura.html
 way	480703219	https://www.consiglio.puglia.it/
 way	480921962	https://www.masseriasanteleuterio.it/
 way	481672194	http://www.ittgiorgi.gov.it
-way	481674663	https://www.sanita.puglia.it/web/asl-brindisi/ospedali_det/-/journal_content/56/36031/presidio-di-brindisi-di-summa-perrino-
 way	481678999	https://www.donboscoalsud.it/casesalesiane/28/brindisi.aspx
 way	482274687	https://www.masseriapizzo.it/
 way	483800593	https://www.accademialecce.it/
@@ -4164,6 +4178,11 @@ way	1369687163	https://www.donmilanibari.it/
 way	1371762435	https://www.gruppoeducom.eu/
 way	1371877115	https://www.devalautomotive.it/
 way	1372054234	http://www.hidrochemical.it/
+way	1375603997	https://donmilanibari.edu.it/
+way	1375606473	https://www.sanita.puglia.it/ricerca_det/-/journal_content/56/25619/centro-diurno-cunegonda
+way	1376199721	https://www.mcdonalds.it/ristorante/puglia/bari/bari-tangenziale
+way	1376714131	http://www.yaamlecce.it/
+way	1376946406	https://sanpietromodugno.wordpress.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -4239,7 +4258,7 @@ relation	9289279	https://mappasentieroitalia.cai.it/#/main/details/1750
 relation	9289292	https://mappasentieroitalia.cai.it/#/main/details/1751
 relation	9647014	https://italy-cycling-guide.info/cycle-routes/coastal-rides/puglia-tour/
 relation	9651733	https://italy-cycling-guide.info/cycle-routes/coastal-rides/puglia-tour/
-relation	9763706	https://www.parcoaltamurgia.gov.it
+relation	9763706	https://www.parcoaltamurgia.it/
 relation	10048058	https://www.aeroportidipuglia.it/
 relation	11081386	https://www.scuoladusebari.edu.it/index.php/cerca-nel-sito/8-news-in-primo-piano/49-scuola-duse-sede-centrale
 relation	11103068	https://www.lamaforca.it/
@@ -4271,7 +4290,6 @@ relation	14245397	https://camminomaterano.it/via/1/via-peuceta
 relation	14247099	https://camminomaterano.it/via/1/via-peuceta
 relation	14251793	https://camminomaterano.it/via/1/via-peuceta
 relation	14251864	https://camminomaterano.it/via/1/via-peuceta
-relation	14254546	https://camminomaterano.it/via/9/via-ellenica-terra-delle-gravine
 relation	14680795	https://camminomaterano.it/via/8/via-ellenica-terra-degli-ulivi
 relation	14680866	https://camminomaterano.it/via/8/via-ellenica-terra-degli-ulivi
 relation	14681091	https://camminomaterano.it/via/8/via-ellenica-terra-degli-ulivi
@@ -4351,6 +4369,7 @@ relation	17966737	https://itinerarigal.weebly.com/
 relation	18073736	https://www.dipalmasportcenter.it
 relation	18356460	https://inertisud.it/
 relation	18800590	https://www.armenisevehiclecare.com/
+relation	18972913	https://www.bicitalia.org/it/routing-gpx?bi_id=13
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
