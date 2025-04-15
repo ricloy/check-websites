@@ -204,6 +204,7 @@ node	1184570128	https://www.hotelflorenz.it/
 node	1197395187	http://www.ferasrl.it/progetto/stella/
 node	1197397502	http://www.ferasrl.it/progetto/stella/
 node	1197397926	http://www.ferasrl.it/progetto/stella/
+node	1233070569	www.themeter.it
 node	1246380291	http://www.osteriailponte.it/
 node	1260208038	https://www.hotelmonterosa.it/
 node	1262930514	https://www.olmedagenova.com/
@@ -1038,7 +1039,6 @@ node	4579703568	https://www.azionecattolica.ge.it/cd/
 node	4579757398	https://www.ilcittadino.ge.it/
 node	4583558607	https://www.thecrag.com/climbing/italy/area/451380309
 node	4589224909	http://www.discoclub65.it/
-node	4590573496	http://www.rossogaribaldi.it/punti-vendita/cc-le-terrazze
 node	4592751690	http://boggihouse.com
 node	4598034954	http://www.a2passidalmare.com/
 node	4606192548	https://genova-pegli.parcoavventura.it/
@@ -1326,7 +1326,6 @@ node	5837932516	https://www.okaymusica.com/
 node	5860396822	https://www.nelsongioielli.it/
 node	5860396826	http://www.giringioro.it/
 node	5860447863	http://www.piola.it
-node	5860469202	https://it.calzedonia.com
 node	5860469203	https://www.farmaciacastagnini.com/
 node	5876574600	https://www.royalgarage.genova.it/
 node	5876741156	https://www.lovingenoa.it/
@@ -2204,7 +2203,6 @@ node	11166651971	https://www.casarosalie.de/
 node	11167659750	https://www.nettunorapallo.it/
 node	11167721687	https://negozi.naturasi.it/italia/genova/chiavari
 node	11167733393	https://labitta.it
-node	11167890537	https://www.flowerburger.it/negozi/flower-burger-le-terrazze/
 node	11167893793	https://negozi.naturasi.it/italia/genova/sestri-levante
 node	11173867982	https://www.residenza-anziani.net/
 node	11196479270	http://www.farmaciarossilavagna.it/
@@ -2601,6 +2599,17 @@ node	12731960885	https://cor-nus.com
 node	12736738627	https://www.tenutacolombera.it
 node	12736738641	https://www.tenutacolombera.it
 node	12737053521	https://phoemstudio.com
+node	12742705299	https://www.jdsports.it/
+node	12742712403	https://www.scarpamondo.it/
+node	12742712406	https://www.claytonitalia.com/
+node	12742712408	https://www.naima.it/
+node	12742712415	https://www.le-terrazze.it/store/mr-coffees/
+node	12742712416	https://capatoast.it/
+node	12742712417	https://mister-bowl.it/
+node	12742712421	https://www.lasvegasbyplaypark.com/sala/la-spezia/
+node	12742712423	https://www.chouseitalia.com/
+node	12744564800	https://www.lacasadellefatevfaraldi.altervista.org
+node	12750203910	https://www.uisp.it
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2804,6 +2813,7 @@ way	201191911	https://www.hotelprincipe-sanremo.it/it/home-2/
 way	201206263	https://www.sanremonews.it/2019/04/12/leggi-notizia/argomenti/altre-notizie/articolo/sanremo-ufficiale-lassegnazione-del-floriseum-alla-societa-il-museo-in-questi-giorni-il.html
 way	201208018	http://www.canottierisanremoasd.com/
 way	201488969	https://www.fraticappuccinisanremo.org/
+way	201489116	http://www.museobicknell.com/
 way	201489156	https://clubtenco.it
 way	201489598	http://www.lidolafontana.it
 way	201490075	http://www.hotelaurora.net/
@@ -2811,7 +2821,6 @@ way	201494908	https://www.villagarnier.it/
 way	201495002	http://www.palomaristorante.it/
 way	201495953	https://www.hotelpiccololido.it/
 way	201495985	https://www.museotriora.it/
-way	201495992	http://www.museobicknell.com/
 way	201729375	https://rifugiolaterza.it/
 way	201754738	https://www.asl1.liguria.it/
 way	201754850	https://www.facebook.com/tabularasa.arma
@@ -2981,6 +2990,7 @@ way	225241139	https://www.esselunga.it/cms/negozi/ricerca-negozi.ALB.html
 way	225247066	https://www.villamiralbenga.com/
 way	225256135	http://www.vistamare-tovo.ch
 way	225256835	https://www.palazzotagliaferro.it/
+way	225275324	https://agriturismovillafaraldi.it
 way	225403813	https://www.villailpoggiolo.it/
 way	225404167	http://www.parrocchiasanbartolomeo.net/
 way	225406352	https://www.appartamentiarcoantico.it
@@ -3069,6 +3079,7 @@ way	285105863	http://www.diocesi.genova.it/documenti.php?idd=203&parrocchia=162
 way	285106263	http://www.aggiohouse.it/
 way	286259543	www.monte-reale.it
 way	290388822	https://www.hotelfelucabonassola.com/
+way	292328635	https://arcierisanbartolomeo.weebly.com
 way	292457854	https://www.poste.it/
 way	292874749	https://www.campingdegliulivi.it/
 way	292874750	https://www.campingfornacialmare.it/
@@ -6876,7 +6887,7 @@ way	129405232	http://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_di_Castello
 way	130282936	http://www.albergoligure.it/
 way	132728680	http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=27969
 way	149170286	http://www.altaviacmargentea.net/ospitalita/ripari.shtml
-way	154545927	http://www.castellodalbertisgenova.it/frameset.asp?http://www.castellodalbertisgenova.it/castello.htm
+way	154545927	https://www.museidigenova.it/it/castello-dalbertis-museo-delle-culture-del-mondo
 way	157856308	http://www.amt.genova.it/orari/orari.asp
 way	184735649	http://www.altaviacmargentea.net/ospitalita/ripari.shtml
 way	184742272	http://www.altaviacmargentea.net/ospitalita/ripari.shtml
