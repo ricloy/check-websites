@@ -81,6 +81,7 @@ node	672990072	https://www.farmacialoffreda.it/
 node	672992968	https://albergosantemidio.it/
 node	672992972	https://www.hotelcantinadellarte.it
 node	673024078	http://musei.beniculturali.it/musei?mid=204&nome=museo-archeologico-statale-di-ascoli-piceno
+node	673024712	https://www.museodiocesanoascoli.it/
 node	675435323	https://linktr.ee/pappapopolare
 node	675435326	https://www.albergodorico.com
 node	675435329	https://www.hotelfortuna.it
@@ -292,8 +293,7 @@ node	2176175480	http://www.gallerianazionalemarche.it
 node	2193008891	http://www.vet-daisy.it
 node	2209163501	https://www.pizzerialospuntino.it/
 node	2219528752	http://www.giantaccordion.com/
-node	2242709034	http://www.casolareresole.com
-node	2242711806	http://www.casolareresole.com
+node	2242711806	https://unicosenso.com/
 node	2271767370	https://www.globomoda.com/puntivendita/dettagli_puntovendita.php?id
 node	2285817991	https://www.traslochiercoletti.it/
 node	2290613680	https://www.centromedicomarche.it
@@ -629,6 +629,7 @@ node	4337839840	https://www.originalgustopizza.com/
 node	4338524390	https://pasticceriapatrizia.wordpress.com/pasticceria-patrizia/
 node	4338524391	https://www.tribsorv.ancona.giustizia.it/
 node	4338973860	https://www.ciavattinigarden.it/floreale-del-passetto/
+node	4338973867	https://vanillacafe.eatbu.com
 node	4338987960	http://www.bocasalina.com/
 node	4338999196	https://ristoranteselfgino.it
 node	4338999197	https://plazaportonovo.it
@@ -690,6 +691,7 @@ node	4625460242	http://www.orobiancopizzeria.it/
 node	4633446460	https://www.hoteltoninorecanati.it/
 node	4635242367	https://www.mdspa.it/punti-vendita/Marche/AP-Ascoli-Piceno/846-San-Benedetto-del-Tronto
 node	4639800789	https://www.orciani.com/
+node	4641943310	https://www.corinaldoturismo.it/visita/ufficio-iat/
 node	4653015095	http://www.divini.gov.it
 node	4718305555	https://romanticapizza.it/pizzerie/ancona/
 node	4718305557	https://www.dadiemattoncini.it
@@ -963,6 +965,7 @@ node	7832895415	https://store.calliope.style/en/italy/marche/civitanova-marche/c
 node	7835273352	https://www.danialtri.it/
 node	7835876676	https://www.vintagecafecivitanova.com/menu/phone/index.html
 node	7853783899	https://scarpettadivenere.it/
+node	7863241034	https://www.basilicoancona.it/
 node	7882167292	https://www.oasitigre.it/it/punti-vendita.html?store=9102
 node	7885182354	http://www.bellanapolifano.it/
 node	7924846919	http://it.tezenis.com/
@@ -1177,13 +1180,11 @@ node	9600864426	https://www.ristorantepizzeriavesuviodal1976.it/
 node	9605062554	https://bikestationfano.wixsite.com/
 node	9621164395	https://www.loscrignoancona.it/
 node	9621164396	https://www.brokey.it/
-node	9661731792	https://www.repower.com/it/dina/
 node	9681966305	https://www.paolobrunelli.me/
 node	9682461566	https://www.duetorri.it/
 node	9689717045	https://www.continentalhotel.info/
 node	9713787783	https://www.colfood.it/
 node	9713947802	https://www.gastronomiamia.it/
-node	9719437803	https://www.hairzoneancona.com
 node	9724742546	https://linktr.ee/photoingarage
 node	9729558132	http://www.siconte.it/it/punti-vendita/si-superstore/falconara-m-ma-via-rosselli
 node	9731887086	https://www.frimpiantielettrici.it/
@@ -1275,12 +1276,14 @@ node	10238052828	https://www.picenworldmuseum.it/
 node	10240316890	http://www.ancona.lago.it
 node	10240333092	https://www.assiadriatica.it/sede-assicurazione-unipolsai/assiadriatica-ancona.html
 node	10252828979	https://www.multiradio.it/
+node	10263378490	https://www.linsalatiere.it/
 node	10263483204	https://ristorantedaluisa.it/
 node	10286599019	https://baldocchiimmobiliare.it/
 node	10286601562	https://www.centromedicoarcadia.it/
 node	10288602503	http://www.hotelaugustus.it/
 node	10297463543	https://www.repower.com/it/la-mobilita-elettrica/
 node	10554651585	https://www.protocollicreativi.it/
+node	10555507703	http://www.progettocasafano.it/
 node	10566976132	https://natalicalzature.business.site
 node	10570233060	https://lasagneria.filoteapasta.com/
 node	10584530505	https://www.spongeartecontemporanea.net/
@@ -1985,6 +1988,11 @@ node	12726014682	https://www.morica.it/
 node	12734273152	https://www.agriturismomondavio.it/
 node	12747544586	https://www.facebook.com/gsnngruppospeleo
 node	12748251552	https://www.cabetania.nl/home-en
+node	12759431635	https://www.casailglicine.it/
+node	12762886118	https://vettamarina.trianongroup.com/
+node	12766142141	https://www.masetticinema.it/
+node	12768265478	https://www.ristorantevecchiafano.it/
+node	12768265480	http://lascarpavolante.altervista.org/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2474,7 +2482,6 @@ way	723812708	https://www.hort.it/
 way	733272758	https://mencaroni.eu/
 way	736850519	https://www.siconte.it/it/punti-vendita/si-supermercati/polverigi-via-del-conero
 way	744854478	https://www.ristorantelenoci.it/
-way	746731676	http://auditoriumasetti.donorionefano.com/
 way	751756670	http://bagnimaurizio.it/
 way	751756671	https://bagnigabriele.it/
 way	751756672	https://www.bagnicarlo.com/
@@ -2603,7 +2610,6 @@ way	1146953399	https://www.iscleopardipesaro.edu.it/luoghi?id=15
 way	1146954108	https://www.comune.pesaro.pu.it/sport/impianti-sportivi/impianti-per-categoria/palestre/palestra-scuola-via-fermi-via-fermi-7via-kennedy-quartiere-7/
 way	1146974792	https://www.comune.pesaro.pu.it/sport/impianti-sportivi/impianti-per-categoria/palestre/palestra-scuola-dante-alighieri-via-gattoni-13-quartiere-9-soria/
 way	1147077909	https://trattoriasardella.it/
-way	1149355910	https://il-casa-mia-country-house.business.site/
 way	1151538375	https://www.cripesaro.org
 way	1151540801	https://www.villasanmartino.edu.it/plessi-ic-villa-san-martino/scuola-primaria-cantarini/
 way	1151540803	https://www.comune.pesaro.pu.it/sport/impianti-sportivi/impianti-per-categoria/palestre/palestra-scuola-cantarini-via-del-carso-11-quartiere-9-tombaccia/
@@ -2715,7 +2721,6 @@ way	1330475644	https://www.sassoferratoturismo.it/stagione-di-prosa/
 way	1330585467	https://www.cipolladoro.it/
 way	1332746399	https://crisassoferrato.it/
 way	1333185200	https://www.elmocamp.it/
-way	1333427164	https://www.basilicoancona.it/
 way	1334215513	https://maps.app.goo.gl/aCKQhF1yCXHmtwY26
 way	1337110216	https://www.bio-blu.it/
 way	1337111307	https://www.biomalavoltamassignano.it/dove-siamo/
