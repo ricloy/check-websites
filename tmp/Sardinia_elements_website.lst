@@ -1739,6 +1739,7 @@ node	12255083937	https://www.marinapoltuquatu.com
 node	12255083938	https://www.marinapoltuquatu.com
 node	12255222086	https://www.marinadicalacapra.com/en/home-en/
 node	12271300155	https://www.bebpalmasera.com
+node	12281703379	https://it.wikipedia.org/wiki/Giovanni_Maria_Angioy
 node	12321369225	https://www.sardiniadomus.it/
 node	12321371439	https://acaciaedilizia.it/
 node	12321395317	https://navitora.it/
@@ -1920,7 +1921,6 @@ way	191100182	http://musei.beniculturali.it/musei?mid=5371&nome=museo-nazionale-
 way	194362860	https://www.guardiacostiera.gov.it/cagliari
 way	195947877	https://www.comune.bono.ss.it
 way	197107889	https://www.boiautomobili.it/
-way	198020758	www.waterparadise.it
 way	198074375	http://www.sardegnacultura.it/j/v/253?s=20731&v=2&c=2461&c1=2617&t=1
 way	198074385	https://www.tharros.info/
 way	199093273	https://www.eurospin.it/
@@ -3246,6 +3246,7 @@ relation	18375428	https://www.cicloviadellasardegna.it/
 relation	18504922	https://portosantateresa.com/
 relation	18528198	https://www.sardegnasentieri.it/sentiero/bau-sacua-callenti-baccu-sa-figu-c-807
 relation	18573181	https://www.sardegnasentieri.it/sentiero/incrocio-801-sa-gruta-fra-conti-sentiero-italia-c-800b
+relation	18646267	https://areamarinaprotettacapotestapuntafalcone.it/home
 relation	18666669	https://www.hoteldeipini.it
 relation	18675246	https://ilparcodeipini.com/
 relation	18690739	http://www.marinadifertilia.it/
