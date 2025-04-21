@@ -1137,6 +1137,7 @@ node	7159068592	https://www.napoliparking.it
 node	7160803033	https://www.artstreethotel.it/
 node	7166543889	https://www.natullotoys.it/
 node	7175504337	http://www.farmacieiuliano.it/
+node	7175603411	https://negozi.vodafone.it/napoli/vodafone-store-piazza-bovio
 node	7188768320	https://www.lalocandagesuvecchionapoli.it
 node	7204219203	https://www.salumeriaupnea.it/
 node	7209572064	https://www.pizzeriatarumbo.it/
@@ -1454,6 +1455,7 @@ node	8956450278	https://www.thepesca.com/
 node	8963706617	https://54store.com/
 node	8963717307	https://www.playaelflamingo.com
 node	8968928979	https://www.yogorino.it/
+node	8974832979	https://negozi.vodafone.it/gricignano-daversa/vodafone-store-gricignano-daversa
 node	8976804768	https://scripturapelletteria.it/
 node	8977672645	https://www.villarena.it
 node	8984185106	https://www.nodetective.com/
@@ -1616,6 +1618,7 @@ node	9370322480	http://www.farmacieiuliano.it/
 node	9370349307	https://www.lafeltrinelli.it/punto-vendita/napoli/ms-napoli/550
 node	9373211849	https://www.creokitchens.it/
 node	9373380648	https://www.dibicenterveb.it/
+node	9374753562	https://negozi.vodafone.it/santa-maria-capua-vetere/vodafone-store-santa-maria-capua-vetere
 node	9384271414	https://big.stellafilm.stellafilm.it
 node	9388906316	https://www.ilfregioluxuryhome.it
 node	9392301219	https://www.alfafashion.com/
@@ -2006,7 +2009,7 @@ node	10784490031	https://www.overplace.com/campania/ce/casapulla/pizzerie/metro-
 node	10784490032	https://miacosmetics.it
 node	10788272185	http://www.seabreezeresidence.it/
 node	10788801536	https://www.mollycoffeebar.it/
-node	10788834650	https://www.flamenetworks.com/
+node	10788834650	https://www.degiorgioint.it/
 node	10799899184	http://www.studiolegaledesia.com/
 node	10809227423	https://mareasalerno.wordpress.com/
 node	10812169530	https://www.mcarthurglen.com/it/outlets/it/designer-outlet-la-reggia/ristoranti/starbucks/
@@ -2212,6 +2215,7 @@ node	11399264198	http://www.cosmeticenter.it/
 node	11399264204	https://www.macelleriabraceriailmacellaio.com/
 node	11400223469	https://www.blanco1891.it
 node	11403271221	https://www.sole365.it/
+node	11403277307	https://negozi.vodafone.it/avellino/vodafone-store-avellino
 node	11403284543	http://www.caseificiomichelangelo.com
 node	11406225025	http://www.vesuviana.it
 node	11410136798	https://www.studioaversadaniele.it/
@@ -2523,10 +2527,15 @@ node	12709697425	https://agape.ngo
 node	12712905443	https://www.caseificiopoderesanvincenzo.eu/
 node	12716560466	https://www.pizzeria94.it/
 node	12718793572	https://www.palazzogoyze.com
-node	12723533130	www.annabelleagriresort.it
+node	12723533130	https://www.annabelleagriresort.it/
 node	12730767116	https://www.resortpietrabianca.it/
-node	12747458275	www.casaledelpiano.eu
+node	12747458275	https://casaledelpiano.eu/
 node	12749368449	https://www.edelweisspub.it/
+node	12752660059	https://www.residenzevesuviane.com/
+node	12759597501	http://pasticceriapoppella.com
+node	12766600892	www.citycenterstudiosalerno.it
+node	12766628662	harmoniahome.it
+node	12766676168	avvocatoluciacatapano.it
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -3175,6 +3184,7 @@ way	700717543	https://clinicahera.it/
 way	701341049	https://www.hotelaragona.it/
 way	701691346	https://jysk.it
 way	702805213	https://www.morsierimorsi.it/
+way	705790224	https://www.viaromasuitesischia.it/en
 way	716680398	https://cilentissimo.de/
 way	726079332	https://www.lafenosa.it
 way	726825411	https://www.tenutalafortezza.com/
@@ -3191,7 +3201,7 @@ way	729775585	villajovis.com
 way	729778791	https://www.villagostina.it
 way	729779089	https://www.comune.boscotrecase.na.it/
 way	729782021	http://www.tuodi.it/negozi-dettaglio.cfm?negozio=90755
-way	729827311	http://www.hotelimperiale.it/
+way	729827311	https://www.hotelimperiale.it/
 way	732045465	http://www.comune.cimitile.na.it/
 way	732197613	okorei.it
 way	732200826	http://www.liceocolombo.gov.it
@@ -3936,6 +3946,7 @@ node	5851835229	https://salernobunker.facomgas.it/
 node	6943713452	https://www.bbskyhouse.com/bevel
 node	6943713455	https://maschioangioinosuite-it.3dcartstores.com
 node	7175603435	https://www.bellillo.it
+node	7944774684	https://www.quidstore.it
 node	8346948239	www.scuolagramscimpastato.edu.it
 node	8757448479	https://www.infoserv.biz
 node	9799025842	http://www.treesmusicstudio.it/
