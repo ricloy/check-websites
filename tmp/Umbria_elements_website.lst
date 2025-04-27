@@ -135,7 +135,7 @@ node	1315190222	https://www.credem.it
 node	1315190283	https://www.acliperugia.it/
 node	1315190312	https://www.superconti.eu/
 node	1318685445	https://www.barmontanucci.com/
-node	1369876545	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dinaclub
+node	1369876545	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dina
 node	1402523910	http://www.hotelbontadosi.com
 node	1402572249	http://www.roccadifabbri.com
 node	1403230933	https://www.afas.it/farmacie/farmacia-6-monteluce/
@@ -468,6 +468,7 @@ node	5249382778	https://www.sicomarredamenti.com/
 node	5263328419	https://www.afas.it/
 node	5263356322	https://www.afas.it/farmacie/farmacia-1-pallotta/
 node	5263821340	https://www.corteconti.it/
+node	5264953037	https://hotelvegaperugia.com/
 node	5267940885	https://www.idealucedesign.it/
 node	5267940898	https://www.labottegadellorafo.it/
 node	5302958618	https://www.primotu.it/
@@ -587,7 +588,7 @@ node	7084861785	https://www.ristoranteallaviadimezzo.it/il-ristorante
 node	7109147687	https://www.ilgiardinodeglielfi.it/
 node	7231329265	https://www.benedettispizza.eu
 node	7247162921	http://www.tigresupermercati.it/
-node	7305975497	http://www.annibalealtrasimeno.com/
+node	7305975497	https://livingtuoro.it/luoghi-di-interesse/museo-di-annibale/
 node	7321491663	https://www.bottegadelbuongustaio.it/
 node	7321491670	https://www.terrabiogubbio.it/
 node	7321491671	https://www.facebook.com/lagelateriagubbio/
@@ -1004,9 +1005,14 @@ node	12741953190	https://pizzeriailgrottino.it/
 node	12741962430	https://www.agriturismobaldeschi.com/
 node	12757571547	https://lolivetodipaola.wixsite.com/home
 node	12757850308	www.bandbbellugello.it
-node	12757860382	www.agriturismotenutadibiscina.com/
+node	12757860382	https://www.agriturismotenutadibiscina.com/
 node	12765912551	https://www.uslumbria2.it/notizie/centro-di-salute-n-2-ferriera-cervino-collescipoli
 node	12765912564	https://www.casadellachiaveterni.it
+node	12771027092	https://www.osteriacardinali.it
+node	12772662030	https://www.ilcampodinonnogio.it/
+node	12772787860	https://www.casabiron.com/
+node	12773101470	https://www.alisubasio.it/newsite_slt/sito-di-volo/
+node	12784156801	https://www.calzature4p.it/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1245,6 +1251,7 @@ way	431880169	https://www.iluoghidelsilenzio.it/?p=248791
 way	432064160	https://www.comune.spoleto.pg.it/turismoecultura/the-city/monumenti/ponte-delle-torri-e-fortilizio-dei-mulini/
 way	432085632	https://www.carabinieri.it/
 way	432537973	https://www.abbazia.net/
+way	432970256	https://www.porziuncola.org/
 way	438784089	https://www.palazzoseneca.com
 way	438796638	https://casavacanzenorcia.it/
 way	438798422	https://www.uslumbria2.it/pagine/ospedale-di-norcia-000
@@ -1984,6 +1991,7 @@ node	7830845120	https://www.ristorantedaangelo.com
 node	8121295640	https://www.associazionedare.it/
 node	8980022220	https://www.fattorieumbre.com
 node	9074739869	https://casalauretana.com/
+node	9781449904	https://www.porziuncola.org/
 node	10542596389	https://www.hotelcastelloassisi.it/
 node	10570396458	https://graymoor.org/italy
 node	10570958563	http://www.suorefrancescanemissionariediassisi.org/suore/Immacolata.html
@@ -2010,8 +2018,12 @@ node	12018545260	https://www.perugina.com/it/casa-del-cioccolato/Welcome-to-the-
 node	12320864828	https://benedettineciterna.wordpress.com
 node	12397475171	https://www.bernyhouse.it/
 node	12456888993	https://www.museidiallerona.it
+node	12776754574	https://www.madonnadellerose.com/
+node	12779386054	https://www.istitutocasoriaassisi.it/
+node	12779726597	https://www.sanfrancescoassisi.org/
 way	43051908	https://santuariorivotortoassisi.org/
 way	54610355	https://www.comune.montefalco.pg.it/pagine/polizia-stradale
+way	105440966	https://www.porziuncola.org/
 way	106506111	https://www.santuarioeremodellecarceri.org/
 way	140678619	https://www.superconti.eu/punti-vendita/orvieto/
 way	149526977	https://www.santacolette.com/
@@ -2036,6 +2048,7 @@ way	560118130	https://www.lagiostrinadeicanape.it/servizi/il-trenino.html
 way	588200103	http://www.canoaclubperugia.it
 way	620147295	http://www.cittadella.org/
 way	686717426	https://www.allanticamattonata.com/
+way	712474839	https://www.porziuncola.org/
 way	728195596	https://sanbenedettoalsubasio.it/
 way	757260586	https://panoramadincanto.it/
 way	835401677	https://villagabbiano.it/
