@@ -8,7 +8,7 @@ node	268654262	https://www.liceogaribaldi.edu.it/
 node	268695044	https://alpoliteama.it/
 node	268951947	https://www.bowlinglafavorita.it
 node	268983537	https://teatroditirammu.it/
-node	269456078	http://www.afsf.it
+node	269456078	https://anticafocacceria.it
 node	270901725	https://www.poste.it
 node	271012066	https://www.poste.it
 node	271670964	https://www.nh-hotels.com/hotel/nh-palermo
@@ -545,6 +545,7 @@ node	2523100025	https://lafinestrasulmercato.it/
 node	2523704637	https://www.cataniacrossing.com/
 node	2524329996	https://www.cislmessina.net/
 node	2525022020	https://www.molitec.it/
+node	2532098287	https://www.intimissimi.com/it/negozi/sicilia/messina/messina_piazza_cairoli_ang.via_fabrizi_is.221/8167.html?utm_medium=organic&utm_source=google&utm_campaign=local&utm_term=IT-8167&y_source=1_MTQ4NjkxOTQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
 node	2535496823	https://www.poste.it
 node	2536837868	https://www.hotelrivieralido.it/
 node	2556522498	https://www.hiresicily.com/
@@ -1745,7 +1746,6 @@ node	6268534601	https://www.miccipotti.it/
 node	6274947118	https://www.lapantofolaia.com/
 node	6283162214	https://www.servizifunebrimessina.it/
 node	6283162235	https://comproorosiracusa.it/
-node	6283499699	https://www.trenitalia.com/
 node	6287522485	https://dimorahostel.business.site/
 node	6291738548	www.barmagri.it
 node	6291853307	https://www.onoranzefunebridinicola.it/
@@ -3873,8 +3873,8 @@ node	12748023558	https://shop.aputiadellecosebuone.it/shop/
 node	12748023559	https://www.gioiellipiccione.it/
 node	12748865327	https://alsport.it/
 node	12752618794	https://www.st.com/
-node	12752723956	http://pescecanelipari.it
-node	12753813703	http://www.residenceeolie.it
+node	12752723956	https://pescecanelipari.it/
+node	12753813703	https://www.residenceeolie.it/
 node	12754578181	https://www.terapiamultisistemica.it/
 node	12757356587	https://tenuteleano.com/
 node	12757693493	https://www.parcoibleo.com/
@@ -3882,6 +3882,9 @@ node	12757714313	https://www.lagemmazzadimonasteri.it/
 node	12757787486	https://www.facebook.com/geppy.ribaudo
 node	12760108335	https://sicilpiuma.it/
 node	12764584801	https://ristorantelascalataormina.it/se
+node	12770881848	http://www.ristorantepirandello20.com/
+node	12770923241	https://www.alpontealcantara.it/
+node	12771792978	https://sites.google.com/view/viridihome/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -6139,6 +6142,8 @@ way	1368498457	https://paghipoco.com/
 way	1373112351	https://www.mausoleofosseardeatine.it/vittime/dettaglio/?id=273
 way	1373509433	https://www.parcheggiotaormina.it/#
 way	1376521676	https://www.hotelportareale.com/
+way	1378396555	https://www.umbertoprimo.edu.it/
+relation	39184	https://www.comune.floridia.sr.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
@@ -6891,6 +6896,7 @@ way	154237068	http://www.cantinesanfrancesco.it
 way	158261673	http://www.poderefossarunza.it/
 way	160056154	http://ristorantesaro.it/
 way	163863664	https://www.gruppoformula3.it
+way	165959021	https://www.irccsme.it/
 way	170024536	http://www.chiesamadrediisola.it/
 way	185266495	http://www.cantinecolombabianca.it/
 way	186884997	http://www.anticoborgomarinaro.it/
