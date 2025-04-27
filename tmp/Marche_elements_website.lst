@@ -63,7 +63,7 @@ node	653001426	https://www.pizzaexpress.ancona.it
 node	653001436	https://www.conad.it/ricerca-negozi/negozio.009949.html
 node	658940303	https://stores.oltre.com/it/italia/ascoli-piceno/ascoli-piceno-zona-industriale-campolungo
 node	659630555	https://www.acquaesapone.it/puntivendita/ancona-via-giordano-bruno-85/
-node	659630594	http://www.e-coop.it/punti-vendita-dettaglio?id=4119
+node	659630594	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/4119-ancona-cinci.html
 node	660916128	https://www.coal.it/archives/punti-vendita/absnc-di-amagliani-me-bargellini-d
 node	660916135	http://www.lineapane.com/
 node	660916142	https://www.otticamanna.it/
@@ -128,6 +128,7 @@ node	823686591	http://www.motelcarnevali.com
 node	845275839	https://www.hotel-caravelle.net/
 node	847030599	https://www.locandacircoloippico.it/
 node	869946291	https://www.ceraunavolta-ps.com/
+node	871077749	https://www.trattoriaconerello.com/
 node	877038855	https://www.labottegadibruno.com/
 node	879656557	http://www.osterianonnanina.com
 node	885680535	https://www.bottegaolivascolana.it/
@@ -161,6 +162,7 @@ node	1231713544	http://www.taxi-ancona.it/
 node	1232292203	http://www.baiaimperiale.net/
 node	1234855121	https://www.villaserraalta.it/
 node	1237351323	https://www.immobiliareserini.it/
+node	1238990992	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/56-ancona---via-maratta.html
 node	1238991009	https://www.ristorantepizzeriaricominciodadue.com/
 node	1238991017	http://www.trattorialacantineta.it/
 node	1238991022	https://www.trattoriaulderico.com/
@@ -259,6 +261,7 @@ node	1785616041	https://www.silviocoiffeur.it/
 node	1801527134	https://www.locandarocco.it/
 node	1820978259	https://www.bardellostadio.it/
 node	1865888795	https://www.miglioriolive.it/
+node	1866626877	https://www.villafortezza.it/
 node	1869222865	https://www.coal.it/archives/punti-vendita/coal-gestioni-srl-castelfidardo
 node	1869425558	https://www.halleyweb.com/c042049/
 node	1871040415	https://www.eurospin.it/punti-vendita/castelfidardo-492793/
@@ -572,7 +575,6 @@ node	3992677512	http://www.lavecchiaosteria.com
 node	3995449152	https://pizzeriadaberto.it/
 node	4003722594	https://www.reverde.it/
 node	4003744551	http://www.mengustas.it
-node	4004942791	https://ristorantemacrobioticoancona.myadj.it/
 node	4006112902	https://linktr.ee/fumodimoka
 node	4009453619	http://www.dagustinell.it/
 node	4012970438	https://nikosabbigliamento.it/
@@ -1266,6 +1268,7 @@ node	10186350185	https://www.pc-smart.it/
 node	10186456351	https://www.farmaciacomunalemorrovalle.it
 node	10210367601	https://www.caijesi.it/
 node	10212437746	https://linktr.ee/millenniumclub01
+node	10215203611	https://www.linea-uomo.it/
 node	10215850252	https://www.fgb-engineering.com
 node	10216001017	https://openforce.it/
 node	10237989313	https://www.osteriefrancescane.it/
@@ -1320,6 +1323,7 @@ node	10789233956	https://www.asscoop.it/s/d/44/casa_protetta_di_montemarciano
 node	10792718991	https://www.contemporaneohouse.it/it/Contemporaneo-Arredamento-Ancona
 node	10794162107	http://www.scuolavenerini.an.it/
 node	10814584898	https://fano1.tecnorete.it/fano/fano/
+node	10821566497	https://www.tim.it/trova-negozio/dettaglio-negozio#7100150559
 node	10828164452	https://www.tetsu.it
 node	10832898543	https://hummusplantcafe.it
 node	10846747594	http://www.latorrettasulborgo.it
@@ -1993,6 +1997,12 @@ node	12762886118	https://vettamarina.trianongroup.com/
 node	12766142141	https://www.masetticinema.it/
 node	12768265478	https://www.ristorantevecchiafano.it/
 node	12768265480	http://lascarpavolante.altervista.org/
+node	12773113520	https://www.cngei-pesaro.it/
+node	12778819738	https://www.villarinapesaro.com
+node	12779804778	https://kiko-stores.kikocosmetics.com/it-it/italia/marche/pesaro-e-urbino/fano
+node	12779804779	https://www.goldenpoint.com/it_it/storelocator/GOLDENPOINT_SPA_GPPU01/
+node	12784286597	www.hosterialamarca.it
+node	12788202903	https://www.rebelhouse.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
