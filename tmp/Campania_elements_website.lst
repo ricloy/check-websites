@@ -103,6 +103,7 @@ node	1993099740	http://www.ristorante-saleepepe.com/
 node	1995534481	https://scrajoterme.it
 node	1998297701	https://hotelscheck-in.com/casamorgano/en/
 node	2010190782	https://gracekitchenbar.it/
+node	2012895507	https://www.grandhotelduegolfi.com
 node	2018203509	https://www.hotelilpino.it/
 node	2018203686	https://www.tramontodoro.it/
 node	2020449996	https://www.hotelfontanaamalfi.com/
@@ -2533,9 +2534,15 @@ node	12747458275	https://casaledelpiano.eu/
 node	12749368449	https://www.edelweisspub.it/
 node	12752660059	https://www.residenzevesuviane.com/
 node	12759597501	http://pasticceriapoppella.com
-node	12766600892	www.citycenterstudiosalerno.it
-node	12766628662	harmoniahome.it
-node	12766676168	avvocatoluciacatapano.it
+node	12766600892	https://www.citycenterstudiosalerno.it/
+node	12766628662	https://www.harmoniahome.it/
+node	12766676168	https://avvocatoluciacatapano.it/
+node	12774604326	https://www.hotelparcodelleagavi.com
+node	12777863101	https://www.hotelsantalucia.it/
+node	12783375703	https://www.grandhotelduegolfi.com
+node	12788627531	https://www.piemme.info
+node	12788627532	https://www.icissorrento.it
+node	12791236751	https://www.alilauro.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -3987,6 +3994,7 @@ node	12286132176	https://www.mazzamaurielle.com/vomero
 node	12296849341	https://www.ajrentnapoli.it/en
 node	12346842152	https://www.gargiuloinlaid.it/it/
 node	12358651048	http://www.casadelloscugnizzo.it
+node	12791848349	https://depros.it/
 way	79268408	http://www.szn.it
 way	170920731	https://www.giardiniposeidonterme.com/
 way	174047981	http://www.cittadellascienza.it/
@@ -4010,6 +4018,7 @@ way	1323904669	https://www.nitrodi.com/
 way	1324177310	https://www.mezzatorre.com/
 way	1340342349	https://parrocchiadisanbenedetto.it/
 way	1353651229	https://www.comune.carinaro.ce.it/it-it/linea-diretta/scrivici
+way	1381719045	http://www.parchicommercialialice.it/i-parchi-commerciali-alice
 node	68581547	www.ravello.com
 node	1892958672	http://www.lanticocortile.it/
 node	4033063953	http://www.vacanzeforiapalinuro.it
