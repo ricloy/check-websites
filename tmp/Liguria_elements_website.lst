@@ -787,7 +787,6 @@ node	3751196731	https://www.monumentaltrees.com/es/ita/liguria/genova/15141_vill
 node	3751196732	https://www.monumentaltrees.com/es/ita/liguria/genova/2772_nervi/25910/
 node	3754072166	https://it-it.facebook.com/libreriasabina.arenzano/
 node	3758787090	www.ilbraciere.net
-node	3760095532	https://www.nolobici.it
 node	3760176445	https://laruotaimperia.com/
 node	3760268778	https://www.ristorantethermopolium.it/
 node	3761682867	https://www.oliocalvi.it/
@@ -2618,6 +2617,9 @@ node	12750203910	https://www.uisp.it
 node	12760112563	http://www.fondazionesangiuseppebordighera.it/
 node	12766205168	https://www.landlordpub.it/
 node	12766866336	https://www.csenimperia.it
+node	12776693178	https://www.sda.it/
+node	12783606285	https://almulinodifondo.it/
+node	12795967266	https://www.nolobici.it
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2843,6 +2845,7 @@ way	201961228	http://www.cadisappi.it
 way	202197499	https://www.carrefour.it/
 way	202197668	http://www.hoteldellapunta.it/
 way	202197676	http://www.immacolata-concezione.it/
+way	202198586	https://www.fontanadellolmo.it/
 way	202199294	http://www.hotelparigi.com
 way	202199295	https://www.acquadimare.com/
 way	202297236	http://www.parrocchiacarcare.it/cappella-s-rocco
@@ -3876,6 +3879,7 @@ relation	7466528	https://www.cailaspezia.it/
 relation	7466606	https://www.cailaspezia.it/
 relation	7466621	https://www.cailaspezia.it/
 relation	7466635	https://www.cailaspezia.it/
+relation	7466643	https://unionedicomunimontanalunigiana.it/
 relation	7506837	https://www.cailaspezia.it/
 relation	7506951	https://www.cailaspezia.it/
 relation	7506952	https://www.cailaspezia.it/
@@ -4041,6 +4045,8 @@ node	5347905495	http://www.ilcerchiodellerelazioni.it
 node	5347905496	http://www.ilcerchiodellerelazioni.it/centro-mascherona/
 node	5677693820	https://www.pizzeriamennella.it/
 node	5808940153	http://www.ilcantinoneduepuntozero.it/
+node	7440216536	https://www.centrolunasarzana.it/negozi/percento/
+node	7440216537	https://www.cibiamo.it/
 node	7489403938	https://victoriagenoa.com/
 node	7772132384	https://shop.spesaespesa.com/shop/parafarmacia-santermete
 node	8063924289	https://www.spaziocucinearreda.com/
@@ -4080,6 +4086,17 @@ node	12650817209	https://www.adm.gov.it/portale/dt-liguria-piemonte-valledaosta/
 node	12652317392	https://www.uildm.org/liguria
 node	12722635896	https://www.menoventi.it
 node	12759776305	https://www.adecco.it/trova-agenzie/imperia-imperia-adit_0160/
+node	12785575447	https://www.dentalpro.it
+node	12785575448	https://www.centrolunasarzana.it/negozi/lavanderia-1h-clean/
+node	12785575450	https://www.grandvision.it/it-it/trova-negozi/negozio?storeNumber=K041
+node	12785575451	https://www.equiparafarmacie.it/storelocator/store/index/source_code/parafarmacia_sarzana/
+node	12785575455	https://www.centrolunasarzana.it/negozi/mumble-mumble/
+node	12785575462	https://www.bluvacanze.it
+node	12785575463	https://www.tim.it/
+node	12785575468	https://pokesunrice.com/
+node	12785575475	https://www.fabianigioiellerie.com/
+node	12785575476	https://www.abruzzese.it/
+node	12785575477	https://www.erbolario.com/
 way	134211659	http://www.celtorretta.it/
 way	158281161	https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html
 way	202331656	https://www.museodellorologio.it
