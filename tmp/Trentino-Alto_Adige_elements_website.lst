@@ -370,7 +370,7 @@ node	731942548	https://meinbeck.com
 node	734923916	https://www.repower.com/it/dina/
 node	736861020	http://www.waalrast.com
 node	736899603	https://www.schlosstirol.it/
-node	736899610	www.gufyland.com
+node	736899610	https://www.gufyland.com/
 node	737129649	https://www.fassa.com
 node	737145771	http://www.carpanoshop.com/pozza-di-fassa/
 node	738029849	http://www.linthof.com/
@@ -659,7 +659,7 @@ node	1327872274	http://verticalsport.it/punti-vendita/
 node	1333726325	https://www.schneeburghof.com/
 node	1335838585	http://www.autoscuolaferrodue.it
 node	1336725512	https://www.chaletfogajard.it/it/ristorante-fogajard
-node	1337549629	https://www.rainerum.it/index.php/scuole/liceo-scientifico-delle-scienze-applicate/
+node	1337549629	https://rainerum.it/
 node	1337552650	https://www.rainerum.it/index.php/teatro-cinema/
 node	1338486503	https://www.windschar.com/
 node	1339467007	https://stadlalm.it
@@ -920,6 +920,7 @@ node	1896207186	https://www.hotelmarkushof.it/
 node	1900751257	https://www.meinbeck.com/
 node	1900776141	https://www.pizzeriaristorantegaston.it
 node	1904364836	https://www.omkafe.com/
+node	1904436954	https://ristorantepizzeriamaffei.it/
 node	1907077917	https://www.hirzerhuette.com/
 node	1911541009	https://www.autentis.it/
 node	1913099048	https://www.reisenschuh.it
@@ -2665,7 +2666,7 @@ node	3523104193	https://www.hotel-ifinger.it/
 node	3523146994	https://www.appartement-schenna.com/
 node	3523151303	https://www.walchhof.schenna.com/
 node	3523568006	https://www.hotel-kroell-schenna.com/
-node	3523899397	http://www.sonne.schenna.com/
+node	3523899397	https://www.sonne.schenna.com/
 node	3523982376	https://www.sennamegg.it
 node	3532735686	http://www.centronauticoekon.it
 node	3540728125	http://www.sonnwend.schenna.com/
@@ -3386,8 +3387,6 @@ node	4394004321	https://www.gemeinde.gsies.bz.it/
 node	4395217102	https://www.juvenes.it/
 node	4395447589	https://www.elch.it/
 node	4397123470	https://www.comune.pievetesino.tn.it/Comune/Organizzazione-comunale/Servizi/Biblioteca-comunale
-node	4399060593	https://www.rainerum.it/index.php/scuole/scuola-media/
-node	4399166590	https://www.rainerum.it/index.php/scuole/istituto-tecnologico-articolazione-energetica/
 node	4402765085	http://www.agrituralcanyon.it
 node	4403383322	https://www.ledro-food.com/
 node	4404355472	https://www.merano-suedtirol.it/de/meran/info-service/kurverwaltung-meran.html
@@ -3398,7 +3397,6 @@ node	4411118718	https://www.vereinshausmarling.info/
 node	4414925521	http://www.satledrense.it/
 node	4415047275	https://www.gelateriaflora.com/
 node	4416370601	http://www.stepro-it.com
-node	4423238308	http://www.bicigrillruotalibera.com/
 node	4424228636	https://www.carsharing.tn.it/
 node	4427674867	https://www.raiffeisen.it/villnoess.html
 node	4427724343	http://www.taxushostel.it
@@ -6291,10 +6289,14 @@ node	12740022819	https://www.tolderhof.info/
 node	12741878683	https://www.sportthoeni.com
 node	12752639942	https://www.autoploner.it/
 node	12762036618	https://www.sabes.it/de/kontakte/60188
-node	12766017251	www.haidenhof.it
+node	12766017251	https://www.haidenhof.it/
 node	12768378775	https://www.bergrestaurant-tomanegger.com/en/tomanegger-restaurant
 node	12770899894	https://www.comune.santorsolaterme.tn.it/
 node	12770923240	https://www.cr-altavalsugana.net/filiali/filiale-di-sant-orsola-terme/
+node	12777076635	https://archiviomemoria.ecomuseovalledeilaghi.it/s/archivio/item/13497
+node	12786498655	www.onside.it
+node	12786525379	https://www.pianetasportmale.it/
+node	12786586875	https://www.lorenzetti.com/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -6686,7 +6688,6 @@ way	67029103	https://hotelcorallotorbole.com/
 way	67029108	http://hotelauroratorbole.it/
 way	67029118	http://www.casaalcor.com
 way	67029119	https://www.hotel-caminetto.it/
-way	67029120	https://www.hotelelisabetta.com/
 way	67029127	https://www.hotelvillamagnolia.it/
 way	67244435	https://www.apspvannetti.it/
 way	67375703	https://www.letrari.it/
@@ -8129,7 +8130,6 @@ way	204432854	https://www.app-montana.it
 way	204432880	https://www.neuhuben.com/
 way	204699554	https://www.hotel-quelle.com/en/hotel-val-casies/1-0.html
 way	204705858	https://www.aschtalm.com/
-way	205074298	https://www.apss.tn.it/Azienda/Luoghi/Cassa-poliambulatorio-Trento-Gocciadoro
 way	205074300	https://www.apss.tn.it/Azienda/Luoghi/Ospedale-Santa-Chiara-di-Trento
 way	205074301	https://www.ictrento3.it/
 way	205232842	https://www.ausserharmerhof.com/
@@ -8171,6 +8171,7 @@ way	208263090	https://www.rosmini.eu
 way	208619684	https://www.romantikhotelpost.com/
 way	208619731	https://www.braunhof.com/
 way	208619782	https://appartements-panorama.it
+way	208619833	https://www.my-gruberhof.com
 way	208619883	https://hoferalpl.it/
 way	208619979	https://www.funtnatscherhof.it
 way	208620091	https://www.weisslahnbad.com/
@@ -8437,6 +8438,7 @@ way	229782877	http://www.weingartnerhof.com
 way	229817341	https://www.acquacentermale.com/
 way	229824963	https://www.merano-suedtirol.it/de/naturns/aktiv-entspannen/wandern-bergsteigen/huetten/rid-336EEFE49D9E088F327F8D4A5FA2899E-g-zetnalm.html
 way	229911477	https://www.allegno.it/
+way	230039359	https://www.kuntrawant.com/pages/caffeebar-prad
 way	230039379	http://hotel-neuepost.com/
 way	230240639	https://www.autothomas.it/
 way	230240664	https://www.felizitas.it/
@@ -8636,6 +8638,7 @@ way	244312967	https://www.tischlerei-moser.com/
 way	244344482	https://barbianerhof.com/
 way	244385204	http://www.webalice.it/gamperhof/
 way	244404066	https://www.altoadige.it/
+way	244423381	http://www.bicigrillruotalibera.com/
 way	244445345	https://www.hausanderluck.it/
 way	244447096	http://www.tischlerei-gantioler.com/
 way	244514092	https://www.residenceverdeblu.it/
@@ -8867,7 +8870,7 @@ way	282472059	http://www.zwickmairhof.it/
 way	283122417	https://www.hotelidealpark.it/
 way	283467431	https://www.ortlerhof.it/
 way	283467467	https://www.mpreis.at/
-way	283467471	http://www.johann.it/index.php
+way	283467471	http://www.johann.it
 way	283575402	https://www.naturbad-gargazon.it/
 way	285268060	https://www.bbt-se.com
 way	285268061	https://www.bbt-se.com
@@ -8899,7 +8902,7 @@ way	291476646	https://www.hotel-gallia.it/
 way	291654227	https://www.bzgcc.bz.it/it/Centro_di_degenza_Domus_Meridiana_Laives
 way	291725569	https://baitaciclamino.it/
 way	291725843	https://www.rifugiopertini.com/en/
-way	291844865	http://www.forestpark.it/
+way	291844865	https://www.funiviemolveno.it/pradel/forest-park/
 way	291844882	https://www.campingmolveno.it/
 way	291972948	http://www.waldruhe.it/
 way	292213020	https://www.chalet-emma.com/
@@ -9402,6 +9405,7 @@ way	510145986	http://arcodeisogni.it/
 way	511320843	https://www.bicigrillcastelnuovo.it/
 way	511517560	https://www.golf.bz.it
 way	512285377	https://www.gartscheid.it/
+way	512295733	https://archiviomemoria.ecomuseovalledeilaghi.it/s/archivio/item/13504
 way	512627724	https://www.mairhof.eu/
 way	514999294	https://www.fassa.com/IT/RifugioPassoSanNicolo/
 way	515001591	https://www.apss.tn.it/Azienda/Luoghi/Ospedale-Valli-del-noce-di-Cles
@@ -9955,10 +9959,11 @@ way	1360123880	https://www.pinalli.it/?utm_source=google&utm_medium=cpc&utm_camp
 way	1363117592	https://whc.unesco.org/en/list/1363/maps/
 way	1370668569	https://pfarreiburgeis.it/geschichte.html
 way	1379638478	https://www.failecoccole.it/
+way	1381187159	www.moasi.it
+way	1381205456	https://www.flyingpark.it/
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
-relation	52343	https://www.tirol.gv.at/
 relation	129319	https://www.sat.tn.it/
 relation	129320	https://www.sat.tn.it/
 relation	129324	https://www.sat.tn.it/
@@ -11495,6 +11500,7 @@ relation	18809465	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-gard
 relation	18828055	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-garda/
 relation	18841368	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-garda/
 relation	18841370	https://www.navigazionelaghi.it/biglietti-e-orari-lago-di-garda/
+relation	19046768	https://www.apss.tn.it/Azienda/Luoghi/Cassa-poliambulatorio-Trento-Gocciadoro
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -12539,6 +12545,7 @@ node	12534798839	https://www.pizgalin.it/
 node	12534798842	https://www.coronadolomiteshotel.com/
 node	12636281121	https://www.velicatrentina.it/
 node	12771675766	https://www.conad.it/ricerca-negozi/margherita-conad-via-gramsci-70-38100-trento--008379
+node	12776870226	https://www.hotelrifugiosores.it/trentino-parco-avventura-albering
 way	24154770	https://www.alpecermis.it/area-sosta-camper.php
 way	24441737	https://www.trentinomobilita.it/parcheggi-coperti
 way	24772985	https://www.edison.it/it/la-centrale-idroelettrica-pozzolago-tn
