@@ -508,6 +508,7 @@ node	5584457491	https://www.galleriaperotti.it/
 node	5584810032	http://www.imelt.it/
 node	5584810064	https://www.ediliziainrima.it/
 node	5588785106	https://www.agriturismobellarosa.it/
+node	5617574563	https://www.termoidraulicamarini.it
 node	5628874648	https://www.leonigrafiche.it/
 node	5642238227	http://www.contistore.eu/
 node	5647928967	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/42406
@@ -542,6 +543,7 @@ node	6036433282	http://www.ristoranteorientale.eu/
 node	6076248900	http://www.iluoghidelsilenzio.it/?p=82134
 node	6099252091	https://www.cisam.org/
 node	6110023784	https://www.agriturismospoletolarippja.it/
+node	6111701924	https://www.liquoreartigianale.com/
 node	6123203063	https://www.decathlon.it/store-view/negozio-sport-perugia-0070202802028
 node	6173256429	https://www.cinemacaporali.it/
 node	6186308385	https://www.straginazifasciste.it/?page_id=38&id_strage=1554
@@ -549,6 +551,7 @@ node	6264517617	http://www.agriturismosanvito.com
 node	6286275623	https://poggio-cafe-perugia.metro.bar/?lang=it
 node	6289084712	http://www.cartufficiospoleto.com/
 node	6321012231	https://festivaldispoleto.com/
+node	6327278046	https://www.montagneaperte.it/patriarchiverdi/ginkgo-biloba-spoleto-viale-g-matteotti/
 node	6385212851	https://shop.edilcalce.com/it/
 node	6428619512	http://phoenixperugia.wixsite.com
 node	6428619559	http://www.bibliotecadellenuvole.it
@@ -1013,6 +1016,10 @@ node	12772662030	https://www.ilcampodinonnogio.it/
 node	12772787860	https://www.casabiron.com/
 node	12773101470	https://www.alisubasio.it/newsite_slt/sito-di-volo/
 node	12784156801	https://www.calzature4p.it/
+node	12797777749	https://www.cesvolumbria.org/
+node	12800838873	https://www.agriturismoroccadelnera.it/
+node	12800894021	https://www.locandarosati.it/
+node	12804609101	https://campingorvieto.com/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -2021,9 +2028,12 @@ node	12456888993	https://www.museidiallerona.it
 node	12776754574	https://www.madonnadellerose.com/
 node	12779386054	https://www.istitutocasoriaassisi.it/
 node	12779726597	https://www.sanfrancescoassisi.org/
+node	12797943186	https://www.tenutasanlorenzo.it/
+way	37028360	https://www.santuariosandamiano.org/
 way	43051908	https://santuariorivotortoassisi.org/
 way	54610355	https://www.comune.montefalco.pg.it/pagine/polizia-stradale
 way	105440966	https://www.porziuncola.org/
+way	106506109	https://www.santuariosandamiano.org/
 way	106506111	https://www.santuarioeremodellecarceri.org/
 way	140678619	https://www.superconti.eu/punti-vendita/orvieto/
 way	149526977	https://www.santacolette.com/
@@ -2081,3 +2091,4 @@ way	207812059	https://fondoambiente.it/luoghi/abbazia-di-santa-maria-di-valdipon
 way	238107829	https://pleiades.stoa.org/places/416806
 way	261548140	https://www.academia.edu/84533366/COME_NASCE_UNA_BASE_GIS_PER_L_ARCHEOLOGIA_OPENSOURCE_SVILUPPATA_DA_ARCHEOLOGI_PER_GLI_ARCHEOLOGI_LO_SCAVO_DI_POGGIO_GRAMIGNANO_LUGNANO_IN_TEVERINA_TR_
 way	833610917	https://www.iluoghidelsilenzio.it/eremo-di-santangelo-in-pantanelli-baschi/
+way	1382315972	https://www.iluoghidelsilenzio.it/chiesa-di-san-lorenzo-vecchio-rapecchiano-di-foligno-pg/
