@@ -975,6 +975,7 @@ node	4229608022	https://www.mdspa.it/punti-vendita/Sardegna/CA-Cagliari/241-CAGL
 node	4229608105	https://www.ilportagioie.it
 node	4229622716	https://www.terradepunt.it
 node	4229623377	https://www.otorinocagliari.it/
+node	4229625377	http://pizzamaniapirri.altervista.org
 node	4229634239	https://ceowelcomingitaly.it/
 node	4229638703	ottiere.it
 node	4229640922	https://gusto-piadineria-cagliari.business.site/
@@ -1037,7 +1038,7 @@ node	4435653716	https://www.catastospeleologicoregionale.sardegna.it/
 node	4435766086	https://www.catastospeleologicoregionale.sardegna.it/
 node	4442088389	http://angeloearcangela.com
 node	4442471989	https://www.lavru.it/
-node	4446736791	http://www.agriturismocasteddu.com
+node	4446736791	https://www.facebook.com/turismoruralecasaroberta
 node	4449240591	http://www.libreriabonilli.it/
 node	4449256151	http://www.bbterrapieno.com/
 node	4449671889	https://www.bbqristorante.com/
@@ -1488,7 +1489,6 @@ node	8880376608	https://www.consulmedia.it/
 node	8880551001	https://www.mdspa.it/punti-vendita/Sardegna/SS-Sassari/931-Ozieri
 node	8894835496	http://www.armentizia.com/
 node	8900338551	https://www.pasigarestaurant.com/
-node	8913627504	https://www.parkingo.com/it/tampone-rapido-molecolare-cagliari
 node	8919176491	https://www.only-sardinia.com/autonoleggio-porto-cervo/
 node	9022725221	https://www.enelx.com/it/it/mappa-stazioni-ricarica
 node	9022725222	https://www.enelx.com/it/it/mappa-stazioni-ricarica
@@ -1867,6 +1867,10 @@ node	12787937171	https://puscedduviaggi.it/en/city-buses/
 node	12787937172	https://puscedduviaggi.it/en/city-buses/
 node	12787937173	https://puscedduviaggi.it/en/city-buses/
 node	12787937174	https://puscedduviaggi.it/en/city-buses/
+node	12791729637	hibiscushotel.it
+node	12794262401	rentscooteralghero.it
+node	12800856692	abitareinvacanza.it
+node	12802955766	gallodoro.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1938,7 +1942,6 @@ way	135765523	https://www.archeotur.it/santantioco/it/forte-sabaudo.html
 way	135765527	https://www.chiaravigo.it/
 way	136279965	https://www.calasettaresidence.com/
 way	136490058	https://www.hotelcaladiseta.it/
-way	137819350	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale/laghi-artificiali/bau-pressiu.html
 way	139230617	https://www.eurospin.it/
 way	141950767	https://www.accorhotels.com/gb/hotel-3040-pullman-timi-ama-sardegna/index.shtml
 way	141975110	http://www.golftanka.it/
@@ -2080,6 +2083,7 @@ way	248684742	https://www.comune.masullas.or.it/
 way	248785726	http://www.sardegnacultura.it/j/v/253?s=20773&v=2&c=2488&c1=2123&visb=&t=1
 way	248785840	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/38069/Chiesa+di+Nostra+Signora+di+Bonaria
 way	248786030	https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&type=auto&code=38068
+way	248919456	http://www.masullas.gov.it/
 way	249087856	https://www.distrettoculturaledelnuorese.it/it/vivi-nuorese/cosa-vedere/luogo/Chiesa-della-Madonna-della-Solitudine/
 way	249484355	http://www.sardegnacultura.it/j/v/253?s=17880&v=2&c=2471&c1=2629&visb=&t=1
 way	249860768	https://www.zio-ciro.com/
@@ -2230,6 +2234,7 @@ way	279269947	http://www.parcodiportoconte.it/
 way	279270110	https://museialghero.it/museo-del-corallo/
 way	279270521	https://www.hotelvillalastronas.it/
 way	279271916	https://www.villamosca.it/
+way	279365533	https://agriturismocasteddu.com/
 way	279386425	https://www.campingsanteodoro.com
 way	279388114	https://www.ristorantemiriacheddu.it/
 way	279399229	https://www.galluraturismo.eu/chiese-campestri-ad-ala-dei-sardi/
@@ -2695,6 +2700,7 @@ way	1015072850	https://www.marinadiportocervo.com/cantiere-porto-cervo/
 way	1025504521	https://www.bricoman.it/it/n/cagliari-assemini/
 way	1043755653	https://www.rinascente.it/it/store-cagliari
 way	1056704326	https://www.sardegnatermale.it/
+way	1057808744	http://www.masullas.gov.it/
 way	1061325600	https://fatzendafactory.eatbu.com/
 way	1064330219	http://www.campingcaladambra.com/
 way	1082295947	https://www.isarenasvillage.com
@@ -2741,6 +2747,7 @@ way	1343080317	https://crioristano.it/
 way	1348680861	https://www.icbrigatasassari.edu.it/
 way	1351624093	https://piscinelufangazzu.it
 way	1353952295	https://www.sardegnaforeste.it/struttura-territoriale/vedetta-la-torre
+way	1382144566	https://www.visitmasullas.it/itinerari/geo-minerario/parco-ossidiana/
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3347,7 +3354,6 @@ relation	18375428	https://www.cicloviadellasardegna.it/
 relation	18504922	https://portosantateresa.com/
 relation	18528198	https://www.sardegnasentieri.it/sentiero/bau-sacua-callenti-baccu-sa-figu-c-807
 relation	18573181	https://www.sardegnasentieri.it/sentiero/incrocio-801-sa-gruta-fra-conti-sentiero-italia-c-800b
-relation	18646267	https://areamarinaprotettacapotestapuntafalcone.it/home
 relation	18666669	https://www.hoteldeipini.it
 relation	18675246	https://ilparcodeipini.com/
 relation	18690739	http://www.marinadifertilia.it/
@@ -3359,6 +3365,7 @@ relation	18850792	https://www.sardegnasentieri.it/sentiero/sentiero-italia-cuile
 relation	18869624	https://www.sardegnasentieri.it/sentiero/cale-quaddu-chiesa-santa-barbara-perdasdefogu-c-500
 relation	18872429	https://www.sardegnasentieri.it/sentiero/santantonio-monte-codi-c-204
 relation	18887016	https://www.sardegnasentieri.it/sentiero/scala-alistu-foresta-bingionniga-c-202
+relation	19062049	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale/laghi-artificiali/bau-pressiu.html
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -4157,6 +4164,7 @@ way	1157785571	http://www.treninoverde.com/
 way	1157842325	http://www.treninoverde.com/
 way	1309604770	http://www.isolarossabosa.it
 way	1360863485	https://www.ictertenia.edu.it/
+way	1382100134	https://www.parkingo.com/it/parcheggio-aeroporto-cagliari-elmas
 relation	41025	https://www.comunearzachena.it
 relation	1808857	http://www.treninoverde.com/
 relation	3647706	http://www.comuneescalaplano.info/
