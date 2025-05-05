@@ -38,6 +38,7 @@ node	1903930707	http://www.libreriaincontro.com/
 node	1944806670	http://www.museorealiferrieremongiana.it/
 node	1945124996	https://www.museocertosa.org/
 node	2043167490	http://www.ciclijiriti.it/
+node	2048418170	https://www.museocivicotaverna.it/
 node	2304263856	https://www.enel.it/punto-enel/
 node	2304263874	https://www.enel.it/punto-enel/
 node	2304263902	https://www.enel.it/punto-enel/
@@ -611,6 +612,9 @@ node	12772182462	https://www.vittimemafia.it/24-maggio-2005-siderno-rc-assassini
 node	12778224977	https://sanseverinodimarcellinara.com/
 node	12782371868	https://www.villarendano.it/
 node	12788145301	https://hotelmedinblu.com/
+node	12794182797	https://www.tenutabocchineri.it/
+node	12794242620	https://www.squillace.org/
+node	12794263717	https://polomusealedisorianocalabro.it/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	86940311	https://www.sacal.it/
 way	110044884	https://www.comune.crotone.it/
@@ -675,6 +679,7 @@ way	198371631	http://www.museomarca.info
 way	199588232	https://www.pizzogreco.com/
 way	199886417	https://www.centralemercure.it/
 way	207760353	https://www.capovaticanoresort.it/
+way	209432361	https://www.archiviostoricocrotone.it/cutro/la-villa-margherita-dei-barracco-in-territorio-di-cutro/
 way	210256973	https://antonante-toyota.it/
 way	210256999	https://antonante-toyota.it/
 way	220454500	https://www.comune.crotone.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/760
@@ -687,6 +692,7 @@ way	224234469	https://ormenelparco.it/
 way	224237582	https://www.adrenalinaverde.it/
 way	224390215	https://www.madonnadagrazia.it/
 way	224510113	www.portorhoca.it
+way	224989251	https://www.urpinrete.it/comune-di-bivongi/
 way	226719241	https://santuariomadonnadellagrotta.it/
 way	227188511	https://www.comune.cerchiara.cs.it/Santuario-Santa-Maria-delle-armi
 way	229385408	http://scilla.asmenet.it/index.php?action=index&p=244
@@ -726,8 +732,10 @@ way	264889966	https://odissea2000.it/
 way	266590586	http://cilea.altervista.org/
 way	266892094	https://www.aziendaagricolamascaro.it/
 way	266895853	https://www.oleificioregolizia.it/
+way	267646791	http://www.comune.santaseverina.kr.it/index.php?action=index&p=238
 way	268942350	https://www.thotelamezia.it/
 way	273130001	https://www.iisvemanuele.edu.it/
+way	274761071	https://www.facebook.com/p/Santuario-San-Domenico-Soriano-Calabro-PP-Domenicani-61554969345456/?_rdr
 way	276296812	http://www.bibliotecacalabresesoriano.it/
 way	276776019	https://www.istitutocomprensivomaida.edu.it/
 way	277933457	http://www.girasolebed.it/home/circolo-calcetto/
@@ -846,6 +854,7 @@ way	496409485	http://www.appartamentipousada.it
 way	499975172	https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.museodelmareischia.it%2F&h=AT3-AX0rcw-Nz8mWMb32Iwaizkvm5c-h4X8o_tbSXN3yLe8LtpfB97APnPxG1dnePakpW0QFYLLsW-8smXvcApIm7mao8VtC08ruCVcoOkDlizdAn9tvntXxXQlqcA92lGSVaQQiq2nFiidj4q5NsQ
 way	512724607	https://basilicaminoremariassdellaquercia.myadj.it/
 way	520119532	https://www.clubesse.it/strutture/hotel-sunbeach/
+way	531770777	https://fondoambiente.it/luoghi/convento-di-san-francesco-di-paola-roccabernarda?ldc
 way	536150271	https://www.termesibarite.it/
 way	539871252	https://www.comune.pietrafitta.cs.it/
 way	540622329	https://www.bebmula.it/
@@ -899,6 +908,7 @@ way	729847616	https://www.comune.girifalco.cz.it/
 way	740128407	https://www.villaggiolemuse.it/
 way	754561598	http://www.comune.alessandriadelcarretto.cs.it/Default.aspx
 way	761408503	http://www.hotelsanfrancescoterme.com
+way	781038745	http://www.suoreausiliatrici.it/
 way	783381691	https://www.santannahospital.com/
 way	783396628	http://www.clinicatricarico.it/
 way	787280248	https://www.poltero.it
@@ -944,6 +954,8 @@ way	1054090057	https://scuolemonasteraceriace.edu.it
 way	1054234060	http://www.comune.feroletodellachiesa.rc.it/
 way	1057609162	https://www.cappuccinidicalabria.com/belvedere-marittimo
 way	1059059864	http://www.icbelmontecalabro.gov.it/
+way	1060073624	https://fondoambiente.it/luoghi/chiesa-e-cappella-di-sant-antonio-da-padova-terranova-da-s?ldc
+way	1062536734	https://www.comune.rogliano.cs.it/
 way	1063481826	https://www.facebook.com/SantuarioPaternoCalabro/?locale=it_IT
 way	1063485355	https://www.comune.parenti.cs.it/
 way	1064098171	https://www.facebook.com/groups/1426738390929752/?locale=it_IT
@@ -1110,6 +1122,13 @@ way	1380216318	https://oliodianto.com/
 way	1380227254	http://www.comune.fossatoserralta.cz.it/
 way	1380232833	https://www.facebook.com/almulinogalati/
 way	1380236990	https://oleificiosancarlo.com/
+way	1381916439	https://www.focusrogliano.it/destinazione-savuto/il-programma/il-tour-delle-tredici-chiese/1-madonna-del-carmine-annessa-al-convento-dei-cappuccini/
+way	1381920044	http://www.suorepiccoleoperaiedeisacricuori.it/index.php/dove-siamo/in-italia/calabria
+way	1381953732	http://www.fratiminoricalabria.altervista.org/index.php/2015-11-24-17-20-42/conventi/convento-sant-antonio-commenda-di-rende
+way	1381998916	https://www.archiviostoricocrotone.it/urbanistica-e-societa/storia-di-un-casale-scomparso-san-pietro-di-tripani-in-territorio-di-isola/
+way	1382020616	https://www.africo.net/8-notizie/260-il-mulino-di-contrada-luca-nei-ricordi-della-signora-maria-nocera
+way	1382593073	https://www.facebook.com/frantoiodelleidee/?locale=it_IT
+way	1382927431	https://mediterraneinews.it/2021/02/17/villa-cordopatri-un-gioiello-tra-gioia-tauro-e-rizziconi/
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	4277258	https://www.santaspina.it/
@@ -1313,6 +1332,7 @@ relation	16029818	https://sentierodellinglese.wordpress.com/
 relation	16029827	https://sentierodellinglese.wordpress.com/
 relation	16029878	https://sentierodellinglese.wordpress.com/
 relation	16029942	https://sentierodellinglese.wordpress.com/
+relation	16172234	https://fondoambiente.it/luoghi/convento-dei-cappuccini-vibo-valentia?ldc
 relation	16343907	https://www.cicloviaparchicalabria.it
 relation	16345004	https://www.cicloviaparchicalabria.it
 relation	16345005	https://www.cicloviaparchicalabria.it
@@ -1343,7 +1363,7 @@ relation	16892124	http://www.ilcamminodisanfrancesco.it
 relation	16894327	http://www.ilcamminodisanfrancesco.it
 relation	17162395	http://www.ilcamminodisanfrancesco.it
 relation	17915928	https://cailagonegro.com/
-relation	18002886	http://www.comune.nicotera.vv.it/
+relation	18002886	https://www.comune.nicotera.vv.it/
 relation	18964546	https://diocesikr.it/
 node	1794725248	https://catanzarolido.ubiklibri.it
 node	1811214931	http://www.computerdiscount.it
