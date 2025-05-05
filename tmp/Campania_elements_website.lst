@@ -424,7 +424,7 @@ node	3757948817	http://www.vineriabuio.it/#
 node	3782259178	http://www.polomusealecampania.beniculturali.it/index.php/il-museo-succivo
 node	3782296771	https://www.diocesiaversa.it/diocesi/uffici/museo-diocesano-di-aversa/
 node	3803566239	https://www.anm.it/index.php?option=com_content&task=view&id=1339&Itemid=314
-node	3898590475	http://www.ordinearchitetticaserta.it/index.php
+node	3898590475	https://www.ordinearchitetticaserta.it/index.php
 node	3928003935	http://www.blubarferrigno.com/
 node	3933549312	https://www.fotoangiolelli.it/
 node	3940158141	https://www.gigliohotels.it/en/parcodelsole
@@ -711,7 +711,6 @@ node	5206460461	https://www.tripadvisor.it/Attraction_Review-g1450722-d3388425-R
 node	5210531341	http://www.belsitohotelduetorri.it
 node	5211861430	https://vesitribunali.it/
 node	5215646084	http://villa-la-madonnina.com/
-node	5220396114	https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1415
 node	5220401365	https://www.latavernadelrecapodimonte.it/
 node	5222885221	https://maiellosbarber.it/
 node	5223459922	https://liarumma.it/
@@ -2425,6 +2424,8 @@ node	12120629861	https://www.parcodeldragone.com/contatti/
 node	12120721112	https://ilnido.it/
 node	12120722017	https://www.oasimadredellapace.com/
 node	12135270251	www.sigitec.net
+node	12144016748	https://farmaciacasa.it/
+node	12144016749	https://farmacieinternazionali.it/
 node	12147574683	https://www.txilibri.com
 node	12186589813	https://www.instagram.com/aurora_casa_della_cultura/
 node	12186650358	https://www.hotelgardenriviera.it/
@@ -2543,6 +2544,10 @@ node	12783375703	https://www.grandhotelduegolfi.com
 node	12788627531	https://www.piemme.info
 node	12788627532	https://www.icissorrento.it
 node	12791236751	https://www.alilauro.it/
+node	12797255254	https://www.rivierahotels.it/
+node	12803872237	https://www.areamarinaprotettagaiola.it/cerd
+node	12803883979	https://www.fondazionedefelice.it/
+node	12809159906	https://www.iccastelvolturno.edu.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -2600,6 +2605,7 @@ way	124048441	http://santamariaadmartyres.blogspot.fr/
 way	124049466	https://www.teatrodellearti.com/
 way	124062560	http://www.santamariapozzuoli.it
 way	124063597	http://www.cattedralepozzuoli.it/
+way	124085716	https://www.gaiola.org/pausilypon
 way	124645936	https://www.tripadvisor.it/Attraction_Review-g2533584-d10122657-Reviews-Castello_e_Torre_di_Montesarchio-Montesarchio_Province_of_Benevento_Campania.html
 way	131663597	https://www.liceoscafati.it/wp/
 way	132120446	https://www.baiadomizia.it/
@@ -2875,6 +2881,7 @@ way	315019639	http://www.ic-angioletti.gov.it/
 way	315021663	https://www.smbruna.org/
 way	315021668	https://www.parrocchiapreziosissimosangue.it/
 way	315026121	https://www.sacrocuoretorredelgreco.it/
+way	315809992	https://istitutodam.it/
 way	317978666	https://www.duelbeat.it/
 way	319563496	https://www.tribmin.salerno.giustizia.it/
 way	319568633	http://www.caseificioaurora.it/
@@ -3523,7 +3530,6 @@ way	1060228918	https://www.newscotch.com/
 way	1060256649	https://centrolabirreria.it/
 way	1065351489	https://www.poste.it/
 way	1065359612	https://www.comunevillamaina.it/
-way	1068052697	https://www.caimontilattari.it/sentiero/327/
 way	1073077629	https://www.ilnocegalleriacommerciale.it/
 way	1074228862	"https://www.google.it/maps/place/Ristorante+Martone/@41.0584125,14.445503,17.75z/data=!3m1!5s0x133a524383d3af75:0x450af36cdcee1495!4m5!3m4!1s0x133a524172b00049:0x8d109748d32d36f3!8m2!3d41.0585691!4d14.4436506"
 way	1075274789	https://iccastelvolturno.edu.it/
@@ -3995,6 +4001,7 @@ node	12296849341	https://www.ajrentnapoli.it/en
 node	12346842152	https://www.gargiuloinlaid.it/it/
 node	12358651048	http://www.casadelloscugnizzo.it
 node	12791848349	https://depros.it/
+node	12806771422	https://www.iocistolibreria.it/
 way	79268408	http://www.szn.it
 way	170920731	https://www.giardiniposeidonterme.com/
 way	174047981	http://www.cittadellascienza.it/
@@ -4006,6 +4013,7 @@ way	245594801	https://www.negombo.it/
 way	287539256	https://supermercatideco.multicedi.it/
 way	297582955	http://www.ischia-fewo.com/
 way	302370309	http://www.santafortunata.com
+way	312823675	https://www.lautotamigi.it/
 way	380467603	http://www.hotelcapodichino.it/
 way	414221329	https://www.giardinoliberato.org/
 way	417834740	https://www.paradisesportingvillage.com/
