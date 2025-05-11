@@ -345,6 +345,7 @@ node	72994821	http://www.comune.oschiri.ot.it/
 node	72994836	https://www.comune.ozieri.ss.it/
 node	72994844	https://www.comune.pattada.ss.it/
 node	72994859	https://comune.pozzomaggiore.ss.it/
+node	226923518	http://www.eni.com
 node	227777261	https://www.tamoil.it/
 node	259445128	http://www.comune.loiriportosanpaolo.ot.it/
 node	290372245	https://www.instagram.com/trattoria_bar_manu/
@@ -927,6 +928,7 @@ node	4207397500	https://www.bancosardegna.it/
 node	4207400140	https://www.abbanoa.it/Azienda/Distretti/Distretto-5-Nuoro
 node	4209178711	http://www.sasabbilas.it/
 node	4209773489	https://www.supersigma.com/
+node	4209773490	https://pizzeria-aurora.it/
 node	4209773493	https://www.supersigma.com/
 node	4209773494	https://www.supersigma.com/
 node	4209792091	https://www.sardegnasummer.it/residence-case-affitto-a-san-teodoro-sardegna-de.html
@@ -948,6 +950,7 @@ node	4228932148	https://runnercagliari.company.site/
 node	4228932492	https://ceowelcomingitaly.it/
 node	4228932505	https://www.facebook.com/La-Balena-165034936843731/
 node	4228935802	https://shoutamericandiner.business.site/?m=true
+node	4228937640	070 73 31 917
 node	4228955162	https://it.iqos.com/it
 node	4228979833	https://ceowelcomingitaly.it/
 node	4229005235	https://www.conad.it/ricerca-negozi/negozio.050023.html
@@ -1562,7 +1565,7 @@ node	9879325707	https://www.luhotel-maladroxia.it/
 node	9930269414	https://www.pizzeriadaroby.com
 node	9930331235	http://www.lucignolosangavino.it
 node	9951263713	https://hotelvillarosaweb.it/
-node	9970731478	https://www.repower.com/it/dina/
+node	9970731478	https://www.repower.com/dina/
 node	9970826103	https://www.repower.com/it
 node	9983148227	http://www.casatitti.it/
 node	9999549442	https://ortidinora.it/ristorante-orti-di-nora/
@@ -1595,7 +1598,6 @@ node	10539816994	https://www.safiorida.com/
 node	10540274858	https://lulurentalservicecannigione.it/
 node	10586382805	https://www.istitutodifotografia.it/portfolio/fracamboni
 node	10683687772	https://www.serrenti.info
-node	10699583173	https://www.igymarinas.com/it/marinas/igy-portisco-marina/
 node	10722252406	https://www.sardegna-e.com/buildings/stazzo-di-lincantu
 node	10726554529	https://m.facebook.com/people/Nejma/100075936561111/
 node	10743920082	https://www.laragostahotel.it/
@@ -1868,9 +1870,15 @@ node	12787937172	https://puscedduviaggi.it/en/city-buses/
 node	12787937173	https://puscedduviaggi.it/en/city-buses/
 node	12787937174	https://puscedduviaggi.it/en/city-buses/
 node	12791729637	hibiscushotel.it
-node	12794262401	rentscooteralghero.it
+node	12794262401	https://www.rentscooteralghero.it/
 node	12800856692	abitareinvacanza.it
-node	12802955766	gallodoro.it
+node	12802955766	https://gallodoro.it/
+node	12810464901	http://www.samadrighe.it
+node	12810500901	http://www.theroomsassari.it
+node	12810661601	http://www.futurainformatica.online
+node	12810673101	http://www.cartoleriascriptamanent.it
+node	12811101256	http://www.giocattoliecostumi.it/
+node	12820800651	kindnessroots.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2740,7 +2748,6 @@ way	1315269560	https://baiasaraceno.it/
 way	1315273600	https://www.supinnettu.it/
 way	1321671492	https://www.thecrag.com/climbing/italy/sardinia/jerzu-area/area/1645832697
 way	1327093214	https://www.thecrag.com/climbing/italy/sardinia/cala-fuili/area/14151631
-way	1336301023	https://www.torrestennis.it/
 way	1336959319	https://www.sardegnaforeste.it/struttura-territoriale/vedetta-sena-tunda
 way	1340048233	https://www.hotelpaolacarloforte.it/
 way	1343080317	https://crioristano.it/
@@ -3338,6 +3345,7 @@ relation	15737206	http://www.camminando.eu/wordpress/?page_id=59
 relation	15737339	http://www.camminando.eu/wordpress/?page_id=59
 relation	15737408	http://www.camminando.eu/wordpress/?page_id=59
 relation	15737447	http://www.camminando.eu/wordpress/?page_id=59
+relation	15887263	https://villaggionormann.it/
 relation	17164214	http://www.camminando.eu/wordpress/?page_id=59
 relation	17349923	https://sardegnasentieri.it
 relation	17360268	https://www.sardegnasentieri.it/sentiero/pinningassu-stazione-di-villagrande-t-121
@@ -3366,6 +3374,7 @@ relation	18869624	https://www.sardegnasentieri.it/sentiero/cale-quaddu-chiesa-sa
 relation	18872429	https://www.sardegnasentieri.it/sentiero/santantonio-monte-codi-c-204
 relation	18887016	https://www.sardegnasentieri.it/sentiero/scala-alistu-foresta-bingionniga-c-202
 relation	19062049	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale/laghi-artificiali/bau-pressiu.html
+relation	19109151	https://www.torrestennis.it/
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -4165,6 +4174,8 @@ way	1157842325	http://www.treninoverde.com/
 way	1309604770	http://www.isolarossabosa.it
 way	1360863485	https://www.ictertenia.edu.it/
 way	1382100134	https://www.parkingo.com/it/parcheggio-aeroporto-cagliari-elmas
+way	1384151676	https://www.sateriavillage.it/
+way	1384335370	https://www.hoteljanas.it/
 relation	41025	https://www.comunearzachena.it
 relation	1808857	http://www.treninoverde.com/
 relation	3647706	http://www.comuneescalaplano.info/
@@ -4214,6 +4225,7 @@ way	581847817	http://www.arrampicatasardegna.com/falesie/arrampicantro/
 relation	39917	http://www.fluminimaggiore-bilingue.it/
 relation	39959	http://web.tiscali.it/Senorbi2000/
 relation	40002	http://www.orroliproloco.com/
+relation	12321189	https://danbag.altervista.org/Sardegna/B481/B481-FTP.kml
 relation	12857717	https://danbag.altervista.org/Sardegna/F401/F401-FTP.kml
 relation	12857738	https://danbag.altervista.org/Sardegna/F402/F402-FTP.kml
 relation	12858020	https://danbag.altervista.org/Sardegna/F404/F404-FTP.kml
