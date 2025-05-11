@@ -527,7 +527,6 @@ node	3725830042	https://www.coal.it/archives/punti-vendita/ascani-primo
 node	3728915652	https://www.puroebio.it/
 node	3728930943	https://www.paolobrunelli.me/
 node	3728955110	http://www.osteriadescuretto.it
-node	3736065772	https://www.essenzaltro.it/
 node	3736224098	https://www.sgalla.it/
 node	3736255285	http://www.musicshoppriore.it/
 node	3741148586	http://www.ristorantelospuntino.it
@@ -644,7 +643,6 @@ node	4341913052	http://www.clinicaveterinariadorica.it
 node	4341913064	https://uqr.to/1dmjl
 node	4341913071	https://www.wokaway.it/
 node	4341913073	https://www.zuccheroaveloancona.it/
-node	4346988355	https://www.farmaciamatteucci.it
 node	4346998420	https://www.facebook.com/Mistic-Pizza-877830408924053/
 node	4347589925	https://www.unieuro.it/online/negozi/Unieuro-Pesaro
 node	4353337470	https://www.anticoborgopiceno.it/
@@ -1219,9 +1217,9 @@ node	9933161400	https://agoraascolipiceno.com/clorofilla/
 node	9942679869	https://www.jeansecostore.com/
 node	9945533994	https://www.iconpalestre.it
 node	9966529987	https://benelli.it/
-node	9967419868	https://www.repower.com/it/dina/
+node	9967419868	https://www.repower.com/dina/
 node	9969837932	https://www.hotelolimpo.com/
-node	9970831165	https://www.repower.com/it/dina/
+node	9970831165	https://www.repower.com/dina/
 node	9974739318	http://legambientefermano.it
 node	9981691643	http://ilbiroccio.com
 node	9981749117	https://www.sirpatrickpizzeria.it/
@@ -1349,7 +1347,6 @@ node	10915561882	http://www.zerosetteaccordions.com/
 node	10915570863	https://www.bugariarmando.com
 node	10916934207	https://avisfabriano.com
 node	10929814310	http://www.siconte.it/it/punti-vendita/si-supermercati/camerino-via-bandini
-node	10930117518	https://enjoycamerino.it
 node	10930117520	https://www.laodontoiatra.it/
 node	10931483345	https://www.marianiassicurazioni.it
 node	10933872284	https://www.tedi.com/stores/2110/it/Marche/Ascoli-Piceno/Ascoli-Piceno/Viale-dei-Mutilati-e-Invalidi-del-Lavoro
@@ -1368,8 +1365,8 @@ node	10978020325	https://www.minianetstore.it
 node	10990082924	https://www.noisushi.it
 node	10997123392	https://www.plusservices.it
 node	11002972783	https://suroviristorante.it/
-node	11002974793	https://www.repower.com/it/dina/
-node	11002981754	https://www.repower.com/it/dina/
+node	11002974793	https://www.repower.com/dina/
+node	11002981754	https://www.repower.com/dina/
 node	11011483375	https://sexyshopancona.altervista.org/
 node	11012973844	https://laperladifano.it/
 node	11012973845	https://www.centrobellezzabaccara.com/
@@ -2000,9 +1997,11 @@ node	12773113520	https://www.cngei-pesaro.it/
 node	12778819738	https://www.villarinapesaro.com
 node	12779804778	https://kiko-stores.kikocosmetics.com/it-it/italia/marche/pesaro-e-urbino/fano
 node	12779804779	https://www.goldenpoint.com/it_it/storelocator/GOLDENPOINT_SPA_GPPU01/
-node	12784286597	www.hosterialamarca.it
+node	12784286597	https://www.hosterialamarca.it/
 node	12788202903	https://www.rebelhouse.it/
-node	12804358901	http://www.solarispesaro.it/
+node	12804358901	https://solarispesaro.it/
+node	12812334631	https://www.amap.marche.it/progetti/olivicoltura/pubblicazioni/le-icone-della-biodiversita-gli-olivi-monumentali-delle-marche
+node	12822612524	https://www.booking.com/hotel/it/officina-di-leo.it.html
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2125,6 +2124,7 @@ way	223396288	https://www.campingbelvedere.net/
 way	224449069	https://www.fioredicampo.com
 way	224852030	https://www.villadellavalle.com/
 way	224904585	http://www.oasibiologica.com/
+way	224996792	https://www.agriturismofiorenire.com/
 way	224996793	https://www.fiorenire.it/
 way	225106915	http://www.agriturismodolium.it/
 way	225109883	http://www.agriturismodolium.it/appartamenti.html
@@ -2763,6 +2763,7 @@ way	1364859481	https://maglianobellezzainfinita.it/chiesa-san-filippo-neri/
 way	1371150508	https://www.lazazie.com/laboratori/ancona-corso-giuseppe-mazzini/
 way	1371355927	https://www.naima.it/it/naima-ancona-via-menicucci
 way	1373711728	https://tenutacontelucangeli.it/
+way	1383765064	https://www.cantinedicastignano.com/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1512917	https://www.iismerlonimiliani.it/
@@ -2874,13 +2875,6 @@ relation	18474750	https://www.italiacoast2coast.it/
 relation	18511108	https://www.italiacoast2coast.it/
 relation	18511218	https://www.italiacoast2coast.it/
 relation	18523273	https://www.italiacoast2coast.it/
-relation	18621922	https://camminilauretani.eu/
-relation	18621923	https://camminilauretani.eu/
-relation	18621924	https://camminilauretani.eu/
-relation	18621925	https://camminilauretani.eu/
-relation	18621926	https://camminilauretani.eu/
-relation	18621927	https://camminilauretani.eu/
-relation	18621928	https://camminilauretani.eu/
 relation	18623025	https://www.interportomarche.it/
 relation	18715214	https://www.adbascoli.it/anelli-ascolani/blu/
 relation	18715215	https://www.adbascoli.it/anelli-ascolani/rosso/
@@ -3089,6 +3083,7 @@ node	10584848592	https://maps.app.goo.gl/2Z4SDoi838tSmuP86
 node	10634263022	https://etoilebistrot.com/
 node	10688426439	https://www.caifermo.it/
 node	10893542846	https://camping44.com/
+node	10930117518	https://enjoycamerino.it
 node	11023063270	https://museostoricoaeronautico.it/
 node	11100186063	https://www.gramaglia.it/
 node	11350883408	http://museopontificio.santuarioloreto.it/
@@ -3164,7 +3159,7 @@ way	617712836	http://www.guidoland.it/
 way	631883828	http://www.liceotco.gov.it/
 way	633620283	https://gianluigigiardi.wixsite.com/gigilandia
 way	651502091	https://www.icgiovannipaolo.edu.it/
-way	669423660	https://www.iscbramantefermignano.edu.it/
+way	669423660	https://www.iscbramantefermignano.edu.it/plessi/scuola-elementare/
 way	676123757	https://www.camperclubtruentum.it/area-di-sosta-camper-comunale-riviera-delle-palme/
 way	685167882	http://www.lidodue.it/
 way	685167883	http://www.lidotre.it/
@@ -3203,7 +3198,6 @@ way	1334249750	http://www.fabrianoturismo.it/docs/comearrivare/unanuovaareadiser
 relation	1085619	https://www.cappuccinimarche.org/?page_id=21673
 relation	1434016	http://www.officinabonfigli.it
 relation	6517698	http://www.sorellepoveredisantachiara.it/
-relation	9311686	https://www.iscbramantefermignano.edu.it/plessi/scuola-elementare/
 relation	10967104	https://www.schnell.it/
 relation	15341759	https://diocesimacerata.it/
 relation	15982110	https://www.rivieradelconero.info/
