@@ -242,7 +242,6 @@ node	2371528665	https://www.hazienda.it/
 node	2383180105	http://www.ristorantelarocchettamarmore.it/
 node	2383682935	http://www.anticopontedeltoro.it
 node	2384858104	http://www.rossihotelristorante.it
-node	2386138865	https://www.grom.it/
 node	2386466793	https://turismo.comune.perugia.it/poi/palazzo-della-penna-centro-per-le-arti-contemporanee
 node	2386566314	https://www.sanfrancescoassisi.org/
 node	2429716502	https://www.conad.it/ricerca-negozi/negozio.008484.html
@@ -843,11 +842,11 @@ node	10944757688	https://www.astrosubasio.it/
 node	10996629828	https://www.repower.com/it
 node	10998255261	https://zafferanoedintorni.it/en/portfolio-articoli/guest-farm/
 node	11002033826	https://www.studiolegalealunnorossetti.it/
-node	11003036946	https://www.repower.com/it/dina/
+node	11003036946	https://www.repower.com/dina/
 node	11005336655	https://lagrottadellospuntino.eatbu.com/?lang=it
 node	11017821199	https://orari.fsbusitalia.com/epdf/GB0308.pdf
 node	11023682173	https://www.laterrazzahotel.it/centro-benessere-spa/
-node	11066977599	https://www.repower.com/it/dina/
+node	11066977599	https://www.repower.com/dina/
 node	11067051464	https://www.repower.com/it
 node	11067080223	https://www.dinaclub.cloud
 node	11091891284	http://www.ternignulug.org
@@ -863,12 +862,12 @@ node	11169421154	https://www.ristorantepizzeriadecarolis.it/
 node	11169432132	https://www.assisinonnapapera.it/
 node	11169436099	http://www.vogliadipizza1999.it
 node	11273622004	http://www.hotelorvieto.it/
-node	11301865541	https://www.repower.com/it/dina/
+node	11301865541	https://www.repower.com/dina/
 node	11310638069	https://www.incantodellanatura.com/
 node	11323177654	https://gymclubperugia.it/
 node	11344985917	https://www.circolodidatticomagione.edu.it
 node	11346033127	https://villaredenta.com/
-node	11393757230	https://www.repower.com/it/dina/
+node	11393757230	https://www.repower.com/dina/
 node	11407432266	https://www.relaislanticoconvento.com
 node	11409388745	https://www.casacavallobianco.nl
 node	11413563489	https://www.lanfora.it
@@ -1020,6 +1019,8 @@ node	12797777749	https://www.cesvolumbria.org/
 node	12800838873	https://www.agriturismoroccadelnera.it/
 node	12800894021	https://www.locandarosati.it/
 node	12804609101	https://campingorvieto.com/
+node	12813573259	https://www.farmaciamarchese.it/
+node	12816265103	https://www.antichitalacappuccina.com/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1357,7 +1358,6 @@ way	490732342	http://www.amormisericordioso.org/ws/mapa/eam/italia/eam-montecchi
 way	490865529	https://www.casanazareno.it/
 way	491632347	http://www.itspoleto.gov.it/
 way	494153174	https://www.icdellagengaalighieri.gov.it
-way	494481585	https://www.farmaciamarchese.it/
 way	494481595	http://www.ctspoleto.it/index.html
 way	494902627	https://www.iluoghidelsilenzio.it/chiesa-di-san-marco-in-pomeriis-spoleto-pg/
 way	495165604	http://www.relaislafattoria.com/
@@ -1895,6 +1895,7 @@ relation	12018654	https://www.camminoprotomartiri.it/il-cammino-dei-protomartiri
 relation	12023668	https://www.camminoprotomartiri.it/il-cammino-dei-protomartiri-francescani/tappa-5-cammino-dei-protomartiri-da-san-gemini-a-cesi
 relation	12025896	https://www.camminoprotomartiri.it/il-cammino-dei-protomartiri-francescani/tappa-6-cammino-dei-protomartiri-da-cesi-a-terni
 relation	12170054	http://www.comune.spoleto.pg.it/turismoecultura/itinerari/itinerari-trekking/ex-ferrovia-spoleto-norcia/
+relation	12245910	https://vielauretane.it/
 relation	12360586	https://www.sentieriamerini.it/
 relation	12370509	https://www.lacampagnadiassignano.it/
 relation	12495122	https://www.hortustodi.it/
@@ -1973,10 +1974,6 @@ relation	18543045	https://www.italiacoast2coast.it/
 relation	18545712	https://www.italiacoast2coast.it/
 relation	18546458	https://www.italiacoast2coast.it//
 relation	18546762	https://www.italiacoast2coast.it/
-relation	18621923	https://camminilauretani.eu/
-relation	18621928	https://camminilauretani.eu/
-relation	18621929	https://camminilauretani.eu/
-relation	18621930	https://camminilauretani.eu/
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1635117842	https://www.agriturismoleburgne.it/
 node	1887119542	https://www.fezemauro.com/
@@ -2029,6 +2026,7 @@ node	12776754574	https://www.madonnadellerose.com/
 node	12779386054	https://www.istitutocasoriaassisi.it/
 node	12779726597	https://www.sanfrancescoassisi.org/
 node	12797943186	https://www.tenutasanlorenzo.it/
+node	12811371344	https://www.accoglienzasanfrancesco.it/
 way	37028360	https://www.santuariosandamiano.org/
 way	43051908	https://santuariorivotortoassisi.org/
 way	54610355	https://www.comune.montefalco.pg.it/pagine/polizia-stradale
