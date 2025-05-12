@@ -25,7 +25,7 @@ node	417856731	https://www.hilton.com/en/hotels/napbnqq-de-bonart-naples/
 node	499479012	https://www.cinemafilangieri.it/
 node	643019169	http://www.lecampole.it/
 node	679074648	http://www.armida.eu/
-node	679074657	http://www.teatrotasso.com
+node	679074657	https://www.teatrotassosorrento.it
 node	679074689	https://excelsiorvittoria.com/
 node	708539324	https://www.villasirio.it/
 node	725897371	https://www.divina-costiera.it/
@@ -2146,6 +2146,7 @@ node	11144377406	https://www.gargiuloresort.com/en/
 node	11146636109	https://www.fattoriaalvaneta.it/it/dove-siamo.html
 node	11148346183	https://www.vivaioderosa.it/
 node	11150529348	https://www.petzon.it/
+node	11152950159	https://hoteldeiboschi.net
 node	11154484555	https://www.facebook.com/people/AUTO-Fratelli-MANNA/100064366951359
 node	11158507014	https://www.vitolo.it/rv/
 node	11161402305	https://www.tripadvisor.de/Restaurant_Review-g187785-d26231002-Reviews-Pizzeria_Augusteo-Naples_Province_of_Naples_Campania.html
@@ -2482,6 +2483,7 @@ node	12509148510	https://www.vignedimalies.it
 node	12512446102	https://www.contedoroliving.it/
 node	12518347301	https://www.maru-aversa.it/
 node	12525043656	https://www.tripstockmarket.it
+node	12526303810	www.morone.it
 node	12526553666	https://www.codiceazienda.it/
 node	12531833174	https://www.facebook.com/centrorevisioneflegreo
 node	12532317291	https://www.hopestel.it/
@@ -2548,6 +2550,22 @@ node	12797255254	https://www.rivierahotels.it/
 node	12803872237	https://www.areamarinaprotettagaiola.it/cerd
 node	12803883979	https://www.fondazionedefelice.it/
 node	12809159906	https://www.iccastelvolturno.edu.it/
+node	12813879372	https://www.oroconvert.it/
+node	12814670641	https://www.oroconvert.it/
+node	12814822087	https://www.oroconvert.it/
+node	12815282359	https://www.museodelletorture.it/
+node	12819766006	https://www.lafinezza.it
+node	12820759563	https://www.jw.org
+node	12828908265	https://www.saggesespa.it/
+node	12829005783	https://ateliervitoaramo.com/
+node	12829005784	https://www.ilpuntoarredo.it/ceramiche
+node	12829005785	http://www.bottegadellecosebuone.it/
+node	12829005786	https://www.smparquet.it/
+node	12829005787	https://www.ellegiferrara.it/
+node	12829349517	https://www.maxcolorstore.it/
+node	12829349518	https://autonazionale.it/
+node	12829349523	https://www.saltingola.it/
+node	12829349524	https://www.ristoranteilgiardinetto.com/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -3568,7 +3586,6 @@ way	1099619617	https://icsbarano.edu.it/
 way	1099619621	https://www.hotelinternazionaleischia.it/
 way	1099877724	https://www.eurospin.it/punti-vendita/vitulazio-539866/
 way	1099981520	https://www.ipsteleseischia.edu.it
-way	1101310099	https://hoteldeiboschi.net
 way	1101688170	https://www.supermercatipiccolo.it
 way	1101753181	http://cir.campania.beniculturali.it/museoarcheologiconazionale/percorso/nel-museo/P_RA24
 way	1101902609	https://www.1circolodidatticoischia.edu.it/
@@ -4002,6 +4019,10 @@ node	12346842152	https://www.gargiuloinlaid.it/it/
 node	12358651048	http://www.casadelloscugnizzo.it
 node	12791848349	https://depros.it/
 node	12806771422	https://www.iocistolibreria.it/
+node	12814049964	https://www.truecontact.it/
+node	12824573325	https://www.coseidea.it/
+node	12827754403	https://www.arrediamoci.com/
+node	12827764759	https://www.lovestop.it/
 way	79268408	http://www.szn.it
 way	170920731	https://www.giardiniposeidonterme.com/
 way	174047981	http://www.cittadellascienza.it/
@@ -4027,6 +4048,7 @@ way	1324177310	https://www.mezzatorre.com/
 way	1340342349	https://parrocchiadisanbenedetto.it/
 way	1353651229	https://www.comune.carinaro.ce.it/it-it/linea-diretta/scrivici
 way	1381719045	http://www.parchicommercialialice.it/i-parchi-commerciali-alice
+way	1384056894	https://www.rinaldo.it/
 node	68581547	www.ravello.com
 node	1892958672	http://www.lanticocortile.it/
 node	4033063953	http://www.vacanzeforiapalinuro.it
@@ -4034,6 +4056,7 @@ node	9306631595	http://www.comune.giugliano.na.it/index.php/servizi/informazioni
 node	10973765686	https://it.wikipedia.org/wiki/Ipogeo_dei_Cristallini
 node	12273347981	www.vincenzoberretti.it
 node	12498361618	https://nxsgrowshop.com
+node	12811290036	https://www.supermercatipiccolo.it/index.php/punti-vendita
 way	160954511	hotelpixunte.com
 way	227481094	http://caudinia.altervista.org/forchia1.htm
 way	360022936	http://www.comune.giugliano.na.it/index.php/servizi/informazioni-sulla-raccolta-rifiuti/item/96-informazioni-sulla-raccolta-dei-rifiuti
