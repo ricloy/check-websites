@@ -615,7 +615,12 @@ node	12788145301	https://hotelmedinblu.com/
 node	12794182797	https://www.tenutabocchineri.it/
 node	12794242620	https://www.squillace.org/
 node	12794263717	https://polomusealedisorianocalabro.it/
+node	12811186715	https://www.castellodicoriglianocalabro.com/
+node	12811257688	http://www.museotropea.it/
+node	12823730300	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1800157548
+node	12823782417	https://www.urpinrete.it/comune-di-pazzano/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
+way	47051512	https://www.sanrobertoebiagio.it/indexmobile.php
 way	86940311	https://www.sacal.it/
 way	110044884	https://www.comune.crotone.it/
 way	110044973	https://linktr.ee/MuseoArcheologicoCrotone
@@ -652,6 +657,7 @@ way	170188085	www.liceoscorza.gov.it
 way	170272236	http://www.cattedralereggiocalabria.it/
 way	170272691	https://turismo.reggiocal.it/HomePage.aspx
 way	170364748	https://www.reggiocal.it/
+way	170570684	https://www.casasanfrancescodassisi.it/laccoglienza-nel-convento-ss-crocifisso/
 way	171248538	https://www.facebook.com/SantuarioConsolazioneBrognaturo/
 way	174685994	https://www.locriantica.it/sito/teatro.htm
 way	174813690	https://www.locriantica.it/
@@ -750,10 +756,12 @@ way	279225696	http://www.treeffecenter.it/
 way	281312100	https://www.mimosacamping.it/
 way	284634539	https://www.onda-azzurra.it/
 way	285017253	https://www.vascellero.it/
+way	293179919	http://www.santumiledabisignano.it/
 way	294983284	https://www.museisantaseverina.it/
 way	297478893	https://www.diocesicassanoalloionio.it/cattedrale/
 way	297492666	https://www.hotelroscianum.it/
 way	297526685	https://www.facebook.com/p/Cattedrale-Maria-Ss-Achiropita-Rossano-100064769434338/?locale=it_IT
+way	299589407	http://www.complessoconventualecappuccinichiaravallecentrale.com/index.htm
 way	299592317	https://www.parrocchiachiaravallecentrale.it/
 way	302713278	http://www.vallecrocchio.it/itinerari/naturalistici/Itinerario%2012.pdf
 way	303056586	http://www.beatoangelo.it/
@@ -908,12 +916,13 @@ way	729847616	https://www.comune.girifalco.cz.it/
 way	740128407	https://www.villaggiolemuse.it/
 way	754561598	http://www.comune.alessandriadelcarretto.cs.it/Default.aspx
 way	761408503	http://www.hotelsanfrancescoterme.com
-way	781038745	http://www.suoreausiliatrici.it/
+way	781038745	https://www.suoreausiliatrici.it/
 way	783381691	https://www.santannahospital.com/
-way	783396628	http://www.clinicatricarico.it/
+way	783396628	https://www.tirreniahospital.it/
 way	787280248	https://www.poltero.it
 way	802253440	https://www.conad.it/ricerca-negozi/negozio.009643.html
 way	812508910	http://www.calme.it/
+way	822826785	https://www.facebook.com/p/Convento-dei-Padri-Cappuccini-Taurianova-100064591933824/?locale=it_IT
 way	824208995	https://www.palazzopolicastrisuites.it/
 way	834217990	https://www.popiliaresort.it/
 way	844655934	https://www.lanavedellasila.org/
@@ -943,6 +952,7 @@ way	975038803	https://www.laconchigliaresort.com/
 way	975824698	https://www.donboscosoverato.com/scuola/
 way	987220136	http://www.bncs.librari.beniculturali.it//icms/opencms/polocosenza
 way	992458302	https://icrizziconi.edu.it/w19/
+way	1027033051	https://www.minimepaola.it/
 way	1037701369	https://www.eurospin.it/
 way	1042395993	https://www.mariasantissimadellarocca.it/
 way	1046663083	https://vslancora.it/
@@ -1045,6 +1055,7 @@ way	1259465053	https://www.andandoporelmundo.com/italia/villa-san-giovanni/alber
 way	1259777453	https://carburanti.esso.it/it-it/find-station/esso-rosarno-100107688
 way	1263052061	https://www.thegardenparkcaterina.it/
 way	1263184472	https://www.abacatanzaro.it
+way	1263520246	https://www.facebook.com/p/Chiesa-del-Monte-dei-Morti-e-della-Misericordia-Catanzaro-100064746608939/
 way	1267996777	https://tenutabocchineri.it/
 way	1268838346	https://digilander.libero.it/gelricca/la_chiesa_della_riforma.htm
 way	1281793742	https://www.madonnadeipoveri.com/
@@ -1107,6 +1118,7 @@ way	1373311377	https://www.facebook.com/MariaSsDiManipuglia2013/
 way	1373317602	https://www.facebook.com/p/Santuario-Madonna-del-Ponte-100076375857352/
 way	1373324589	https://www.facebook.com/parrocchiadipentone.it/?locale=it_IT
 way	1373611167	https://www.facebook.com/santantoniolamezia/?locale=it_IT
+way	1373611168	http://www.ofmcap.org/
 way	1373616280	https://www.facebook.com/people/Parrocchia-Santuario-BV-del-Soccorso-Lamezia-Terme/61552223847808/
 way	1373635116	https://www.madonnadellaconsolazione.com/
 way	1373639365	https://www.sanpaoloallarotonda.it/
@@ -1129,6 +1141,10 @@ way	1381998916	https://www.archiviostoricocrotone.it/urbanistica-e-societa/stori
 way	1382020616	https://www.africo.net/8-notizie/260-il-mulino-di-contrada-luca-nei-ricordi-della-signora-maria-nocera
 way	1382593073	https://www.facebook.com/frantoiodelleidee/?locale=it_IT
 way	1382927431	https://mediterraneinews.it/2021/02/17/villa-cordopatri-un-gioiello-tra-gioia-tauro-e-rizziconi/
+way	1383936414	https://turismo.reggiocal.it/cultura/le-chiese-e-i-monasteri/il-monastero-della-visitazione
+way	1384371874	https://www.oleariamamerto.com/
+way	1384380285	https://locri.comune.digital/visit-1/i/62748005/borgo-di-moschetta
+way	1384545885	https://shop.bergamottobova.it/
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	4277258	https://www.santaspina.it/
