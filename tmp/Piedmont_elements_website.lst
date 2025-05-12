@@ -96,6 +96,7 @@ node	448942040	https://www.sacrimonti.org/sacro-monte-di-domodossola/punto-di-in
 node	448942041	https://www.sacrimonti.org/sacro-monte-di-domodossola/punto-di-interesse/-/d/cappella-14-il-sepolcro
 node	448942362	https://www.visitossola.it/de/poi/casa-forte/
 node	449589901	https://facinocane.beepworld.it/
+node	450332472	https://www.unicredit.it/
 node	456786902	http://www.gtt.to.it
 node	459456012	https://www.visitomegna.it/it/luoghi/iat/
 node	463179631	https://www.comune.quarnasotto.vb.it/it-it/vivere-il-comune/cosa-vedere/capela-del-pont-adla-piana
@@ -338,6 +339,7 @@ node	1628071063	https://www.maotorino.it/it
 node	1628170550	https://www.red-wine.it
 node	1628591703	https://www.comune.cressa.no.it/
 node	1634289245	http://www.museopaleontologicomaini.it
+node	1634400526	https://www.caremadoc.it/
 node	1637468286	http://www.ristoranteilbergamotto.it
 node	1637496498	http://www.farmacieasm.it/f2/
 node	1639017566	https://www.valenzateatro.it/
@@ -617,7 +619,7 @@ node	2261791774	https://www.nauticazola.it/
 node	2265912536	https://www.lapaella.it/
 node	2267308407	https://ristorantesciauru.it/
 node	2267950524	https://www.agricascinetta.it/
-node	2268163814	https://www.repower.com/it/dina/
+node	2268163814	https://www.repower.com/dina/
 node	2268328136	https://www.leacacievercelli.com/
 node	2269292778	https://www.hoteldockmilano.it/
 node	2273469824	https://www.trattoriasanmartin.it/
@@ -827,7 +829,6 @@ node	2422115902	http://www.tenutacalendario.it
 node	2422184136	https://www.aziendaagricolascaglia.it/
 node	2424062651	http://www.ilcavenago.it/
 node	2424306653	https://www.centrovercelli.it/negozio/naturalmente-qui/
-node	2424306662	https://www.reverchon.it/it/store-4-negozio-vercelli.html
 node	2427018633	https://www.museocavalleria.it/
 node	2427991850	https://www.caivarese.it/sezione/bivacco.html
 node	2429036316	http://www.bbvigezzo.it/
@@ -981,7 +982,6 @@ node	2778432407	http://www.fontecuore.it
 node	2786211441	https://www.zeroquarantanove.it/
 node	2789876275	https://www.ferramentabastino.it/
 node	2792290724	http://www.sportification.it/
-node	2794102885	http://www.miagolacaffe.it
 node	2804471744	https://facebook.com/edososteriaconpizza/
 node	2804698785	https://www.hotelmotelflower.it/novi-ita/home.html
 node	2804698786	http://www.novibowling.it/
@@ -1126,7 +1126,7 @@ node	3010509301	https://toolboxcoworking.com/
 node	3013074477	https://www.sun.novara.it/
 node	3018568580	https://www.caimacugnaga.org/sezione/rifugi/25-rifugio-sella
 node	3019106140	www.hotelcascata.com
-node	3023024125	https://www.repower.com/it/dina/
+node	3023024125	https://www.repower.com/dina/
 node	3029561916	https://www.bancafideuram.it
 node	3035735954	https://www.centrovenetodelmobile.it
 node	3038304689	https://www.alagna.it/
@@ -1529,7 +1529,7 @@ node	3753291027	https://www.sagnarotonda.com/
 node	3755589726	https://royal1986.it/
 node	3759888564	http://www.lagodellesorgenti.it/
 node	3761407557	https://www.comune.valchiusa.to.it
-node	3765912506	https://www.repower.com/it/dina/
+node	3765912506	https://www.repower.com/dina/
 node	3766235167	http://www.lacasadeldemone.com
 node	3767238404	https://www.shabufusion.it/
 node	3768562972	https://studiomirafiori.it/strada-basse-del-lingotto/
@@ -1578,7 +1578,7 @@ node	3867332875	http://www.nuovozuavo.it/
 node	3867702332	https://www.ferreroferramenta.it/
 node	3867702335	https://www.grandiscuneo.it/
 node	3868649627	https://www.comune.verbania.it/
-node	3870217120	https://www.repower.com/it/dina/
+node	3870217120	https://www.repower.com/dina/
 node	3870822666	https://www.albocom.it/
 node	3884552030	https://cuneo.aci.it/
 node	3884859746	https://www.carrefour.it/punti-vendita/carrefour-market-carmagnola-via-san-francesco-di-sales-n54-0564.html
@@ -2587,7 +2587,7 @@ node	4908362221	http://www.sindone.it
 node	4908962622	https://chainblock.it
 node	4913526322	https://www.tigota.it/
 node	4913567822	https://www.tigota.it/
-node	4920907629	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dinaclub
+node	4920907629	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dina
 node	4930943976	http://www.studiochiriotti.it/
 node	4932511661	https://www.farmaciasandigliano.it/
 node	4932924121	https://www.il-sogno.at/
@@ -2847,7 +2847,7 @@ node	5365893630	https://icborgosangiuseppe.edu.it/
 node	5366241999	http://www.tecnowearshop.com
 node	5369200579	https://www.cascinadegliulivi.it/
 node	5375768501	https://www.termoidraulicamirafiori.it/
-node	5378302669	https://bramarchitetti.com
+node	5378302669	https://bramarchitetti.com/matteo-amela/
 node	5378322394	https://bramarchitetti.com/
 node	5381312140	http://www.castellanolegnamisrl.com/
 node	5384006697	https://it-it.facebook.com/CerulloAngelinaeSaimuraYumiko/
@@ -2899,6 +2899,7 @@ node	5484015906	https://www.bicierin.it/
 node	5485421468	http://www.palco19.com
 node	5487212744	https://www.poste.it
 node	5489085627	https://marcellorissoarchitetto.com/
+node	5492325767	https://corbanibike.com/
 node	5493352636	"https://www.oysho.com/it/store-locator/torino/via-roma,-354-s11949.html"
 node	5493923015	https://www.aceapinerolese.it/
 node	5493923016	https://www.aceapinerolese.it/
@@ -3192,7 +3193,7 @@ node	5941325189	https://www.cucineecucine.com/
 node	5941325194	https://ilbazardisanfrancesco.it/
 node	5941325195	http://www.isaporinostri.it/
 node	5942594790	https://www.evaplus.eu/
-node	5945319132	https://www.repower.com/it/dina/
+node	5945319132	https://www.repower.com/dina/
 node	5948100224	https://www.castelliaperti.it/it/strutture/lista/item/palazzo-gotti-di-salerano-museo-civico-g-b-adriani-di-cherasco.html
 node	5948716133	http://www.thesoundcomputer.it
 node	5949309839	http://www.agriturismolabenvenuta.it/
@@ -5250,7 +5251,7 @@ node	9812883206	http://www.volarealto.net/index.php
 node	9815088386	https://www.ristoranteverum.it/
 node	9818495578	https://centrobenesseresicura.it/
 node	9819461418	https://oscalito.it/
-node	9820531849	https://www.repower.com/it/dina/
+node	9820531849	https://www.repower.com/dina/
 node	9820776088	http://www.lacascinalanga.it/en/la-cascina-langa/
 node	9828398121	http://www.momocapriccidilatte.it/
 node	9828398132	https://www.bartarredamenti.it/bart-arredamenti-torino/
@@ -5334,10 +5335,10 @@ node	9957698787	https://www.distributoriautomaticigsservice.it/
 node	9959933490	https://www.dapecchia.com/
 node	9963983400	https://negozi.vodafone.it/torino/vodafone-store-corso-montecucco
 node	9963983406	https://prink.it/
-node	9964752722	https://www.repower.com/it/dina/
+node	9964752722	https://www.repower.com/dina/
 node	9964752727	https://www.repower.com/it
-node	9967731799	https://www.repower.com/it/dina/
-node	9968516404	https://www.repower.com/it/dina/
+node	9967731799	https://www.repower.com/dina/
+node	9968516404	https://www.repower.com/dina/
 node	9975492047	https://www.bec.energy
 node	9976445237	http://www.zocca-hair-studio.it/
 node	9981622667	https://www.eurofunerali.it/
@@ -5536,8 +5537,8 @@ node	10593622928	https://www.comune.castelnuovoscrivia.al.it/it-it/biblioteca
 node	10593779634	https://www.comune.pontecurone.al.it/it-it/servizi/studiare-c/biblioteca-132-145-1-4bada39ff8e7d4068eff9e905ea82b09
 node	10595988195	https://www.castellosangiorgio.it/
 node	10596448197	https://www.casaevela.com/noleggi-nautici/
-node	10600766322	https://www.repower.com/it/dina/
-node	10601067423	https://www.repower.com/it/dina/
+node	10600766322	https://www.repower.com/dina/
+node	10601067423	https://www.repower.com/dina/
 node	10603366305	https://www.sorbillo.it/
 node	10603966005	https://www.lagomaggioreguide.com/mercato-settimanale-sul-lago-maggiore/
 node	10608755813	https://www.lucadelpiano.it/
@@ -5551,6 +5552,7 @@ node	10617411549	https://www.ovs.it/
 node	10628601321	https://www.particolari.com/it/
 node	10628601327	https://www.primigi.it/
 node	10628601335	https://www.officinatessile.net/
+node	10632591665	https://atcpiemontenord.it/
 node	10646844805	https://ondalarsen.org/
 node	10652173006	https://www.autoservicebonani.it/
 node	10654017372	https://barmesnews.wordpress.com/2021/05/28/la-madonnina-del-pian-della-mussa/
@@ -5606,7 +5608,7 @@ node	10781966975	https://almason.it/
 node	10784287024	https://artoflivingtorino.it/
 node	10784291696	https://www.meizoun.it
 node	10785216949	http://www.caipeveragno.it
-node	10788372361	https://www.repower.com/it/dina/
+node	10788372361	https://www.repower.com/dina/
 node	10793792459	https://www.instagram.com/gochos_it/
 node	10798894733	https://www.facebook.com/caffe.desalpes/
 node	10802670657	https://www.facebook.com/thebetterbeer/
@@ -5629,6 +5631,7 @@ node	10860295283	https://patriziamarseglia.it/
 node	10860421818	https://www.cap10100.com/
 node	10862548053	https://area.events/item/palazzotto-juva/
 node	10862548054	https://area.events/item/la-maison-de-charlotte/
+node	10862634709	https://vicolungo.thestyleoutlets.it/it/negozi/invicta
 node	10862634710	https://vicolungo.thestyleoutlets.it/it/negozi/loreal
 node	10862634711	https://www.swarovski.com/it-IT/store/0001826150/swarovski-factory-outlet-vicolungo-vicolungo/
 node	10862634714	https://vicolungo.thestyleoutlets.it/it/negozi/freddy
@@ -5668,6 +5671,7 @@ node	10936630769	http://www.pirrovarone.eu/it/la-cantinetta/
 node	10937095370	https://www.centrovercelli.it/negozio/orofino/
 node	10940121703	https://agriturismoalmotto.it/
 node	10943750507	https://www.valleantrona.com/it/punti-di-interesse/mappa-antronapiana/
+node	10944295979	https://www.brunpasta.it/
 node	10948448281	https://www.fob-bike.it/
 node	10951969742	https://invalpellice.com/en/agriturismo-rifugio-barfe-farmhouse/
 node	10959199017	https://omceo-to.it/
@@ -5675,7 +5679,6 @@ node	10968071728	https://it.viver1.com/
 node	10968131680	https://stores.elenamiro.com/it/italia/vercelli/vercelli-via-v-veneto-2
 node	10968131683	https://tempocasa.it/it/agenzie-immobiliari/vercelli/vercelli/964-vercelli
 node	10968853347	http://www.leroi.torino.it/
-node	10969260240	https://www.cascinamerlanetta.it/
 node	10973459069	https://www.smatorino.it/punti-acqua/
 node	10974500381	https://www.sephora.it/informazioni-store/?storeID=IT113
 node	10974500384	https://www.pinalli.it/store-locator/italia/piemonte/novara/novara
@@ -5685,10 +5688,10 @@ node	10980262424	https://www.satvolo.org
 node	10984696578	https://www.prefettura.it/asti/
 node	10994442656	https://www.bussipierovini.it/
 node	10998267284	https://www.ionity.eu/
-node	11003021476	https://www.repower.com/it/dina/
-node	11003036947	https://www.repower.com/it/dina/
-node	11003038461	https://www.repower.com/it/dina/
-node	11003052566	https://www.repower.com/it/dina/
+node	11003021476	https://www.repower.com/dina/
+node	11003036947	https://www.repower.com/dina/
+node	11003038461	https://www.repower.com/dina/
+node	11003052566	https://www.repower.com/dina/
 node	11007114000	https://www.centrocopie.it
 node	11009072625	https://healthnaturalprod.wixsite.com/palestravigor
 node	11009123545	https://gorrerigiardini.it/
@@ -5822,7 +5825,7 @@ node	11197808949	https://linktr.ee/santinastorni
 node	11199692929	http://www.asl13.novara.it/intranet/Territorio/Guardia-Me/Sedi-Guardia-medica-01-12-15.pdf
 node	11200043842	https://autominici-giuseppe.business.site
 node	11200063505	https://www.gommistatorino.com
-node	11204165938	https://www.repower.com/it/dina/
+node	11204165938	https://www.repower.com/dina/
 node	11204970910	https://www.facebook.com/mombercellitrattoria/
 node	11206132634	https://danieladessipsicologa.com/
 node	11206453644	http://www.graficheambert.com
@@ -6073,7 +6076,7 @@ node	11909903905	https://www.gpchannel.com/
 node	11915612971	https://www.novaratoday.it/attualita/novara-ristorante-langhe-specialita.html
 node	11917449835	http://www.universohotel.it/
 node	11917492799	https://www.ristorantelacapricciosa.it/
-node	11921616074	https://www.repower.com/it/dina/
+node	11921616074	https://www.repower.com/dina/
 node	11926381625	https://bct.comune.torino.it/sedi-orari/centrale/centro-rete
 node	11928356727	https://shitcoins.club/localizzazione-atm/atm-bitcoin-torino-corso-unione-sovietica
 node	11931158469	https://www.elvo.it/
@@ -6586,6 +6589,23 @@ node	12801280609	https://www.albertomarchetti.it/
 node	12802745079	https://sites.google.com/view/auto2p/auto-2-p
 node	12803693801	https://www.paloma-ristopubgourmet.it/
 node	12806722401	https://monvisosteakhouse.it/
+node	12813483901	http://studio-chiarotto.it
+node	12813486501	http://abbigliamentokelinda.com
+node	12813499501	http://giannicruciatabarberia.com
+node	12813661537	"https://www.mauriziano.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/837#:~:text=Contenuto%20della%20pagina-,SERVIZIO%20DI%20ECOGRAFIA,-Descrizione(Consultare questo sito per varie informazioni)"
+node	12813661543	https://www.mauriziano.it/i-nostri-servizi/prenotazione-visite-ed-esami#:~:text=COME%20E%20DOVE%20PRENOTARE%20VISITE%20ED%20ESAMI (Consultare questo sito per le varie informazioni)
+node	12814048956	https://www.nom-nom.it/
+node	12814474931	"https://www.mauriziano.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/580#:~:text=Contenuto%20della%20pagina-,S.C.%20NEFROLOGIA%20E%20DIALISI,-Attivit%C3%A0 (CONSULTARE QUESTO LINK)"
+node	12814478305	http://www.siriobar.it/
+node	12815570708	https://www.lagattacasale.it/
+node	12820003001	http://www.agriturismofanosfarm.it
+node	12820294119	www.salusproject.it
+node	12823165082	https://it.chargemap.com/enelx-1.html
+node	12824257285	http://www.cittametropolitana.torino.it/cms/urp
+node	12826042253	https://ortofruttascursatone.com/
+node	12826093230	https://ristorantedefilippitorino.it/
+node	12827909343	https://www.hotelartuasolferino.it
+node	12829054626	https://www.comune.vercelli.it/sociale/violenza-sulle-donne/centro-antiviolenza-eos-della-citta-vercelli
 way	22880457	https://www.liceogioberti.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
@@ -6701,6 +6721,7 @@ way	81514543	https://www.sobrero.edu.it
 way	82052762	https://www.disit.uniupo.it/
 way	82079876	http://www.comune.torino.it/papum/user.php?context=opere&submitAction=dettaglio&ID_opera=M039
 way	82080309	http://www.comune.torino.it/papum/user.php?context=opere&submitAction=dettaglio&ID_opera=M050
+way	82142313	https://www.sanpaolovercelli.it/
 way	82166004	https://www.santovolto.com/
 way	82173458	https://www.caddys.it/negozi/vercelli-9838
 way	82256497	https://www.istitutoaltierospinelli.com
@@ -7506,6 +7527,7 @@ way	229467825	https://www.lorenzattosnc.it/
 way	229570877	https://usignolo.biz/elios_de.html
 way	229570883	https://usignolo.biz/index_de.html
 way	229642051	https://www.scuolebrofferio.edu.it
+way	230076955	https://www.casafamigliavercelli.it/
 way	230447234	https://www.farm1861.com/
 way	230495466	https://www.comune.osasco.to.it/
 way	230684613	https://www.laraviolagalante.it/
@@ -7611,6 +7633,7 @@ way	241868596	http://www.archeo.piemonte.beniculturali.it/index.php/it/musei/are
 way	241925606	https://www.facebook.com/FantinoAutoriparazioni
 way	241959799	http://www.comune.bagnasco.cn.it/lacitta/palestra.asp
 way	242067036	https://www.casaena.it/
+way	242235424	https://www.utility.it/piedimulera-articoli-stagionali/
 way	242315804	https://www.comune.piedimulera.vb.it
 way	242706693	http://www.eliossola.it
 way	242713849	https://www.motelmonterosa.it/
@@ -7808,6 +7831,7 @@ way	286461912	https://zali-precision.it/
 way	286506398	https://www.atapspa.it/news/trasferimento-sede-aziendale-di-biella/
 way	287240098	https://www.aviosuperficieilfalco.it/
 way	287537061	https://www.piscinaoasiblu.it/
+way	287707677	http://www.comune.torino.it/verdepubblico/parco-michelotti/
 way	287886542	https://www.zoomtorino.it/
 way	288787483	https://www.salottofiorito.it/
 way	288835646	www.lemilane.it
@@ -7910,7 +7934,7 @@ way	300722853	https://www.facebook.com/media/set/?set=a.629319753848781.10737418
 way	301134778	http://archeocarta.org/bollengo-to-campanile-di-s-martino-di-paerno-e-chiesa-dei-ss-pietro-e-paolo-in-pessano/
 way	301177521	https://www.comune.pontcanavese.to.it/it-it/vivere-il-comune/dove-dormire/area-sosta-camper-29161-1-f29c70c5df41372a632ea374b81c944a
 way	301992918	https://www.selfitalia.it/negozi/alessandria/
-way	302008430	https://www.maxgomme.it/
+way	302008430	https://www.maxgommesrl.it/
 way	302309345	https://www.torredibarbaresco.it
 way	302338517	https://acquaeva.it/
 way	302354746	https://www.reynaldi.it/
@@ -8174,7 +8198,7 @@ way	366669074	https://www.comune.garbagna.no.it/it-it/home
 way	367058115	https://www.giacoletti.it/category/punta-udine-2/
 way	367720257	https://www.barologolfresort.com/
 way	367731196	https://www.casabarbabella.com/English.html
-way	367731644	https://www.repower.com/it/dina/
+way	367731644	https://www.repower.com/dina/
 way	367970286	https://www.isiss-magarotto.edu.it/torino
 way	368060560	http://www.ascombra.it
 way	368062770	http://www.ascomform.it/
@@ -8468,6 +8492,7 @@ way	437585848	http://www.comune.pombia.no.it/
 way	437923932	https://www.agriturismovillabricchetto.it/index.htm
 way	438032040	https://farmacia-sangiorgio.it/
 way	438181770	http://www.parconaturalevaltroncea.it
+way	438368302	https://www.ospedale.al.it/it/presidi/presidio-riabilitativo-teresio-borsalino
 way	438368303	https://www.ospedale.al.it/
 way	438455649	https://www.sun.novara.it/
 way	438754753	https://www.ccmfinotello.com
@@ -8628,7 +8653,7 @@ way	466427815	https://www.parks.it/riserva.confluenza.sesia.grana/index.php
 way	467158082	https://www.icontidellaserva.it/
 way	467167756	http://www.comune.pisano.novara.it
 way	467170134	https://www.parks.it/riserva.confluenza.sesia.grana/index.php
-way	467170250	seniorresidence.it
+way	467170250	https://seniorresidence.it/
 way	467611214	https://www.mondobrico.com/
 way	468005646	https://www.parks.it/riserva.confluenza.sesia.grana/index.php
 way	468005655	https://www.parks.it/riserva.confluenza.sesia.grana/index.php
@@ -8979,7 +9004,6 @@ way	665102240	https://brikomoncrivello.it/
 way	666648824	https://www.findernet.com/
 way	667028711	https://www.dm-drogeriemarkt.it/store/i00a/vercelli-vc/corso-adige-2
 way	667028712	https://www.aldi.it/it/trova-il-punto-vendita/aldi-vercelli/aldi-vercelli.html
-way	667703805	https://www.supersigma.com/pdv/sigma-di-piedimulera-martiri-della-liberta/
 way	668139700	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	668139702	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	668139721	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -9411,6 +9435,7 @@ way	996639224	https://www.navigazioneviverone.it/gite-in-battello
 way	996684689	http://www.turismomassello.net/base7.html
 way	998803548	https://www.comune.sillavengo.no.it/
 way	999077551	http://www.coronahotel.net
+way	1000108789	https://parrocchiarisurrezioneto.it/
 way	1000526397	https://agriturismobispeder.it/
 way	1002968842	https://www.parchialpicozie.it/it/p/ecomuseo-colombano-romean/
 way	1004878392	http://www.casadiriposodivercelli.it/
@@ -9739,12 +9764,14 @@ way	1373287176	https://www.zoomtorino.it/habitats/cimitero-delle-specie-estinte/
 way	1374096688	https://scuolacittadialba.it/
 way	1375579425	https://commercio.comune.torino.it/mercati/mercati-allaperto/mercato-grosseto/
 way	1375917270	https://cds.it/struttura/vercelli/
-way	1376131974	http://www.elbornfamilyfriends.com/
+way	1376131974	https://www.elbornfamilyfriends.com/
 way	1376684630	https://www.californiadreamsport.it/
 way	1377078595	https://www.camperdautore.it
 way	1379875270	https://www.diocesi.torino.it/centro-congressi-santo-volto/#:~:text=Via%20Borgaro%2C%20angolo%20via%20Val%20della%20Torre%20%2D%20Torino
 way	1380250879	https://www.sanluigi.piemonte.it/
 way	1383055470	https://commercio.comune.torino.it/mercati/mercati-allaperto/mercato-vittoria/
+way	1385355385	https://www.comune.settimo-torinese.to.it/it
+relation	8654	http://www.regionpaca.fr/
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -9754,6 +9781,7 @@ relation	317940	http://parchipocollina.to.it/
 relation	333038	http://www.caimoncalieri.it/Grande-traversata-della-collina-GTC/
 relation	557246	http://isoweb-filenet.rfi.it/cons_discom/
 relation	1004348	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
+relation	1024511	http://www.mercantour.eu
 relation	1471008	https://www.viefrancigene.org
 relation	1539286	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1539287	http://www.provincia.alessandria.gov.it/sentieri/
@@ -9763,6 +9791,7 @@ relation	1547327	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1547328	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1547991	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1571202	https://www.gtt.to.it/cms/percorari/urbano?view=percorso&bacino=U&linea=18&percorso=18R2&verso=Di&Regol=GE
+relation	1663716	https://www.nicecotedazur.org/
 relation	1681502	http://www.parcoartevivente.it
 relation	1765980	https://www.facebook.com/damariaristorante/
 relation	1777413	https://www.circoloeridano.it/
@@ -9900,6 +9929,7 @@ relation	5707699	http://polomusealepiemonte.beniculturali.it/index.php/musei-e-l
 relation	5848038	http://www.amicideigatti.org/
 relation	5926746	https://www.roerodimonticello.it/
 relation	5946430	https://www.oui.sncf/
+relation	5962791	https://www.ac-nice.fr/
 relation	6083372	https://www.flixbus.de/busverbindung/fernbus-turin-torino-muenchen
 relation	6253977	http://www.prolocoloazzolo.it/fotografe-andanda.html
 relation	6267005	https://tajare.it/track-ortiga-e-alpe-percorso-arancione/
@@ -11171,6 +11201,7 @@ relation	18919419	https://www.estmonterosa.it/catasto-percorsi-vco-valle-anzasca
 relation	18921623	https://www.estmonterosa.it/catasto-percorsi-vco-valle-anzasca-settore-b.html
 relation	18921670	https://www.estmonterosa.it/catasto-percorsi-vco-valle-anzasca-settore-b.html
 relation	18977192	https://www.lalocandasulpo.it/
+relation	19105404	https://www.cascinamerlanetta.it/
 node	63629039	http://www.comune.chiusadisanmichele.to.it
 node	63631321	http://www.cittadisusa.it/
 node	306555609	https://www.rinascente.it/it/store-torino-via-lagrange
@@ -11388,7 +11419,6 @@ node	3725772669	http://www.teaecompany.it/
 node	3725807499	http://www.erbamedica.com/
 node	3725842492	http://www.dever.it/
 node	3733568683	http://www.grancentralcafe.it/
-node	3738902352	http://www.eurostore-ferramenta-torino.it/
 node	3770207929	http://www.cosedicasadiblandino.com
 node	3770227836	http://www.rprceramiche.com/
 node	3770581108	http://www.pneuspio.it/
@@ -11759,6 +11789,10 @@ node	12598777217	http://www.spacefishing.it/
 node	12630669687	https://www.ristorantesanmartino.it
 node	12641521728	https://autolavaggiodoctorino.com/contatti/
 node	12722024754	https://forms.gle/L7FCiFEEmprTSHWs8
+node	12827847148	https://spspa.it/
+node	12827863423	https://www.birrificiotroll.it/
+node	12828794040	https://www.ivrea.casadicarita.org
+node	12829257373	https://casaè.it/agenzia/villanovadasti-at001o/
 way	24600050	https://booking.isoleborromee.it/it/product/7/detail
 way	39670307	https://www.bardonecchia.it/strutture/posto-tappa-valfredda/
 way	58323423	http://www.aeroclubvercelli.it/
@@ -11824,8 +11858,8 @@ way	225076906	http://www.castellodiburonzo.it/
 way	228975323	https://www.grottocarza.it/
 way	232922601	http://www.rifugioalpette.it
 way	233536607	http://hotelsusa.it
-way	235049032	https://www.birrificiotroll.it/
 way	241488496	http://www.leondoro.cn.it/
+way	242241607	https://www.fralumasrl.com/
 way	242926782	https://www.insmercato.it
 way	248099716	http://www.golfboves.com/
 way	250563914	https://www.allamodina.it/
@@ -11934,6 +11968,7 @@ way	635545160	http://www.ismercurinogattinara.it/
 way	646794862	http://www.parcosassihotel.com
 way	655420251	https://commercio.comune.torino.it/mercati/mercati-allaperto/mercato-crocetta/
 way	665611405	https://www.castellodelguado.com/
+way	667703805	https://www.supersigma.com/pdv/sigma-di-piedimulera-martiri-della-liberta/
 way	669369906	http://www.comune.borgosesia.vc.it/
 way	698885146	http://blue-group.it/turin/
 way	717597464	http://www.universocapelli.net/
@@ -12286,6 +12321,7 @@ node	12069805529	https://www.groupama.it/trova-agente/vercelli/agenzia-vercelli-
 node	12182729856	https://sketchfab.com/models/be0ce4b6158842af8b070b37019ba125/embed?autospin=0.2&autostart=1
 node	12182729858	https://sketchfab.com/models/87517206692740e38233b719e4a49a16/embed?autospin=0.2&autostart=1
 node	12182729860	https://sketchfab.com/models/fa0ba37475a84e24864fc52147917845/embed?autospin=0.2&autostart=1
+node	12825510286	https://zupeggo.wordpress.com/2021/09/30/race-simulation-vercelli/
 way	59167755	https://ip.gruppoapi.com/
 way	70044283	"https://openstreetcam.org/map/@45.692245515194244,8.471601605415346,18z"
 way	75614681	http://www.rifugiogenova.it/
