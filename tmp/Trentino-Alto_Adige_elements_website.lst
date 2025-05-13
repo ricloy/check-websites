@@ -369,7 +369,7 @@ node	728707913	http://derby.bz.it/
 node	730647029	http://www.schenna-bike.com/index.php
 node	730699488	https://www.sennereialgund.it/
 node	731942548	https://meinbeck.com
-node	734923916	https://www.repower.com/it/dina/
+node	734923916	https://www.repower.com/dina/
 node	736861020	http://www.waalrast.com
 node	736899603	https://www.schlosstirol.it/
 node	736899610	https://www.gufyland.com/
@@ -558,7 +558,7 @@ node	1100566731	https://www.ilmanierovaldisole.it/
 node	1100568256	http://www.anticaosteriaossana.net
 node	1102264763	https://www.museopietraviva.it/home.php
 node	1102976079	https://lemayr.it/
-node	1105304701	https://www.repower.com/it/dina/
+node	1105304701	https://www.repower.com/dina/
 node	1105624889	http://www.noahpub.it
 node	1105938526	https://www.gippimoto.it/
 node	1108437069	https://www.sportler.com
@@ -2545,6 +2545,7 @@ node	3475952549	http://www.cafe-unterweger.it/
 node	3476078595	https://bucherkeller.it/
 node	3476274029	https://www.pfeiftal.it/
 node	3477843544	https://www.gompmalm.it/
+node	3477863225	mahdalm.it
 node	3478506293	https://tonigbauernhof.it/
 node	3478532034	https://www.thalerhof.eu/
 node	3478620126	https://www.resseggerhof.com/
@@ -2585,7 +2586,7 @@ node	3488750202	https://controbreak.it/
 node	3488768750	https://www.gattererhof.schenna.com/
 node	3490402545	https://www.farmer-schenna.com/
 node	3490607149	https://www.beim-dorner.com/
-node	3490641373	http://www.boarbichl.schenna.com/
+node	3490641373	https://www.boarbichl.schenna.com/
 node	3490902732	https://www.baumgartnerhof.info/
 node	3490938096	https://www.aussersalfnerhof.com/
 node	3492550125	https://www.ausserleiterhof.com/
@@ -2621,7 +2622,7 @@ node	3502179872	https://www.hotelgutenberg.eu/
 node	3502506347	https://www.katnau.com/
 node	3502553412	https://www.prunner-luxury-suites.com/
 node	3502772879	https://www.schmiedhans.com/
-node	3502798379	http://www.astorhotel.info/
+node	3502798379	https://www.astorhotel.info/
 node	3502814116	https://www.weinmesser.com/
 node	3502815378	https://www.ritterhof.schenna.com/de/
 node	3502829696	https://www.hotel-walter.it/
@@ -2758,7 +2759,7 @@ node	3580311632	https://www.das-sonnenparadies.it/
 node	3582351596	https://www.hotelarvina.com/
 node	3582545293	https://www.schennaresort.com/4-sterne-wellnesshotel
 node	3582652738	https://www.fuerstenhof.net/
-node	3582827605	https://www.ch-hotel.it/
+node	3582827605	https://www.christophshotel-schenna.com/
 node	3582967093	https://www.hotel-erzherzogjohann.it/
 node	3585597201	https://www.elektrohowa.it/
 node	3586751294	https://www.walderhof.bz.it/hofschank-walderschaenke.html
@@ -6286,6 +6287,7 @@ node	12615794414	https://www.facebook.com/rauthuette/
 node	12633165601	https://ateliernorbertniederkofler.com/de/
 node	12638364707	https://la-ruina.webnode.it/
 node	12649459614	https://www.comune.laives.bz.it/it/Vivere_a_Laives/Associazioni/Gruppo_Archeologico_di_Bolzano
+node	12655703957	https://bnbsegonzano.it/
 node	12694844704	https://www.zeuschargingstation.com/
 node	12715788510	https://1dest.com/it/properties/segantini-loft-arco
 node	12740022819	https://www.tolderhof.info/
@@ -6308,6 +6310,10 @@ node	12806799769	https://clabtrento.it
 node	12809881254	http://www.vivaise.it
 node	12811870344	http://ferramentabricopack.com
 node	12811951971	https://www.xpouf.com/
+node	12822868956	https://www.apartments-arduus.com
+node	12827982430	https://perbeneoquasi.it/perbene-burger-o-quasi/
+node	12828982207	https://www.coster.com
+node	12831868977	https://www.ciresafiemme.it/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -6607,6 +6613,7 @@ way	59405963	https://www.conad.it/
 way	59415776	https://www.hotelrosalpina.it/
 way	59415779	https://www.panoramapregasina.it/
 way	59423053	https://rivadelgardafierecongressi.it
+way	59428765	https://rifugiozugna.it/
 way	59503285	https://www.waldcamping.com/
 way	59583230	http://www.ttesercizio.it/
 way	59623038	https://www.gartenbaupozzi.com/
@@ -6687,7 +6694,7 @@ way	66764505	https://www.palafitteledro.it/
 way	66764507	https://francoeadriana.it/
 way	66984416	https://avio-superfici.enac.gov.it/it/public/surface/show/1857
 way	66984834	https://www.singhrestaurant.it
-way	67025238	http://www.scuolamaternapedrotti.it/
+way	67025238	https://www.scuolamaternapedrotti.it/
 way	67027697	https://www.ictrento3.it/
 way	67028404	http://www.hotelmiorelli.com/
 way	67029092	http://www.villaclaudiatorbole.it/
@@ -7184,7 +7191,7 @@ way	102318214	https://www.hotel-senoner.it
 way	102329273	http://gostnerschwaige.com
 way	102352996	https://www.ambet.it/
 way	102549117	https://www.marinzen.com/joomla/
-way	102555005	http://www.gavs-trentino.it/
+way	102555005	http://www.gavstrentino.it/
 way	102720636	http://www.venosta.net/it/movimento-natura/attivi-in-estate/altavia-val-venosta.html
 way	102724098	https://www.provinz.bz.it/kunst-kultur/denkmalpflege/monumentbrowser-suche.asp?status=detail&id=15649
 way	102724227	https://www.hotelkrone.net/
@@ -9493,7 +9500,6 @@ way	580763936	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-g
 way	580769683	https://www.iprona.com/
 way	580769684	https://www.bermartec.com/
 way	580769922	https://www.valgardena.it/en/addresses/detail/base/poi/selva-val-gardena/parking-continental/C92B96778A644E4BB8F9BD04CE907A1C/?RequestKey=170913864965df62d923ad5
-way	585106367	https://www.comune.luserna.tn.it/Territorio/Luoghi-e-punti-di-interesse/Cosa-puoi-visitare2/Cimitero-di-Costalta
 way	585726016	https://www.merano-suedtirol.it/de/partschins/betrieb/panorama-klettergarten-huafwond-2630/
 way	588336145	https://www.nauders.com/de/aktiv-erleben/sommer-aktiv-erleben/bike-rad/endurobike/etsch-trail_td-11729
 way	590324562	https://www.martinspeck.it/
@@ -9859,6 +9865,7 @@ way	1106528391	https://www.provinz.bz.it/tourismus-mobilitaet/strassen/tiefbau/1
 way	1106528392	https://www.provinz.bz.it/tourismus-mobilitaet/strassen/tiefbau/1189.asp
 way	1106528393	https://www.provinz.bz.it/tourismus-mobilitaet/strassen/tiefbau/1189.asp
 way	1108775984	https://www.prags.bz/en
+way	1121193616	https://hotel-astoria.net
 way	1121198389	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-aurela-mountain-chalets/5A46BBC21127DFEAAD0D8476CFBD8A0A/?RequestKey=17115236466603c73ec3255
 way	1121198390	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-aurela-mountain-chalets/5A46BBC21127DFEAAD0D8476CFBD8A0A/?RequestKey=17115236466603c73ec3255
 way	1124420737	https://bollettino.appa.tn.it/aria/stazione/2
@@ -9978,6 +9985,7 @@ way	1381205456	https://www.flyingpark.it/
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
+relation	52343	https://www.tirol.gv.at/
 relation	129319	https://www.sat.tn.it/
 relation	129320	https://www.sat.tn.it/
 relation	129324	https://www.sat.tn.it/
@@ -11530,6 +11538,28 @@ relation	19085911	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/Or
 relation	19085912	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-305R.PDF
 relation	19085913	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-305A.PDF
 relation	19087066	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-332A.PDF
+relation	19098383	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-332R.PDF
+relation	19098384	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-332A.PDF
+relation	19098385	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-332R.PDF
+relation	19102150	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-205A.PDF
+relation	19103979	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-205R.PDF
+relation	19104119	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-205R.PDF
+relation	19104120	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-205A.PDF
+relation	19107063	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-205R.PDF
+relation	19109495	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-202R.PDF
+relation	19109496	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-202A.PDF
+relation	19117026	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-336R.PDF
+relation	19117027	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-336A.PDF
+relation	19119147	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-336R.PDF
+relation	19119513	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-319A.PDF
+relation	19120238	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-305R.PDF
+relation	19120239	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-319R.PDF
+relation	19120240	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-319R.PDF
+relation	19120241	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-319A.PDF
+relation	19120242	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-319A.PDF
+relation	19120403	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-332R.PDF
+relation	19120404	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-332R.PDF
+relation	19121167	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-335A.PDF
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -12657,6 +12687,7 @@ way	66183811	http://www.gildahotel.com
 way	66887421	https://www.bancapts.it
 way	66950615	https://www.progestrento.it/it/centro-per-linfanzia
 way	66984837	https://www.apss.tn.it/Servizi-e-Prestazioni/Servizio-per-le-dipendenze-assistenza-alle-persone-con-dipendenza
+way	67025212	https://catalogo.comune.trento.it/Amministrazione/Luoghi/Uffici-comunali-di-via-Bronzetti-1/(sede_di)/8
 way	67197001	https://www.diocesitn.it/seminario/
 way	67214996	http://www.unitn.it/economia
 way	67215020	http://www.unitn.it/economia
@@ -12944,6 +12975,7 @@ way	247126858	https://www.vogelweide.it/
 way	253471391	https://www.scaiarol.it/
 way	253472990	https://www.lostellodigrumes.it/
 way	254499390	http://www.grandhoteltrento.com/
+way	254622766	https://www.gisse12.com
 way	255394817	https://www.coloniaalpinagardolo.it/
 way	255574366	https://www.giardin.it/
 way	257027645	http://www.ahrntaler-alpenhof.com/
