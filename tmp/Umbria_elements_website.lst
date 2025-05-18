@@ -548,7 +548,6 @@ node	6173256429	https://www.cinemacaporali.it/
 node	6186308385	https://www.straginazifasciste.it/?page_id=38&id_strage=1554
 node	6264517617	http://www.agriturismosanvito.com
 node	6286275623	https://poggio-cafe-perugia.metro.bar/?lang=it
-node	6289084712	http://www.cartufficiospoleto.com/
 node	6321012231	https://festivaldispoleto.com/
 node	6327278046	https://www.montagneaperte.it/patriarchiverdi/ginkgo-biloba-spoleto-viale-g-matteotti/
 node	6385212851	https://shop.edilcalce.com/it/
@@ -782,7 +781,6 @@ node	10235997046	https://levelx55.com/
 node	10239732391	https://www.agriturismoilmelograno.com/
 node	10239926610	https://www.montagneaperte.it/edicolesacre/campello-sul-clitunno-la-bianca-via-santa-maria-villa-soda-cam025/
 node	10249820181	https://www.borgospante.com
-node	10281828035	https://www.umbriacamp.it
 node	10294867628	https://csb.unipg.it/organizzazione/strutture-bibliotecarie/struttura-economia-scienze-politiche-e-giurisprudenza/biblioteca-giuridica-unificata#Dovesiamo
 node	10295175165	https://csb.unipg.it/organizzazione/strutture-bibliotecarie/struttura-medicina/biblioteca-biomedica
 node	10295252701	https://csb.unipg.it/organizzazione/strutture-bibliotecarie/struttura-economia-scienze-politiche-e-giurisprudenza/biblioteca-di-scienze-economiche-statistiche-e-aziendali
@@ -1021,6 +1019,7 @@ node	12800894021	https://www.locandarosati.it/
 node	12804609101	https://campingorvieto.com/
 node	12813573259	https://www.farmaciamarchese.it/
 node	12816265103	https://www.antichitalacappuccina.com/
+node	12840668694	http://www.usigni.it/usigni/arte
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1263,6 +1262,7 @@ way	432970256	https://www.porziuncola.org/
 way	438784089	https://www.palazzoseneca.com
 way	438796638	https://casavacanzenorcia.it/
 way	438798422	https://www.uslumbria2.it/pagine/ospedale-di-norcia-000
+way	438834257	https://www.iluoghidelsilenzio.it/chiesa-di-san-salvatore-usigni-di-poggiodomo-pg/
 way	438846448	https://www.residenzamontedoro.it/
 way	438850395	https://norciaospitalita.it/
 way	438968889	https://www.iluoghidelsilenzio.it/abbazia-di-san-claudio-de-gripta-serravalle-di-norcia/
@@ -1749,6 +1749,7 @@ way	1374031510	https://www.mdspa.it/punti-vendita/Umbria/PG-Perugia/1131-DERUTA/
 way	1374687247	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	1374687248	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	1374687249	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
+way	1385763963	https://www.umbriacamp.it
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	1948091	https://chemindassise.org/
