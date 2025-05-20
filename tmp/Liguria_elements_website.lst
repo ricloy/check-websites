@@ -803,7 +803,6 @@ node	3787241380	http://pizzeriasavo.it/
 node	3787566333	http://www.heliobrittohairfusion.com/
 node	3787566334	http://www.alexperience.it
 node	3787604816	https://www.facebook.com/macelleriapippo/
-node	3788111668	www.pcgeponente.it
 node	3790631980	https://www.lacucinadigiuditta.it/
 node	3790679345	https://www.ristorantegolfodeipoeti.com
 node	3791782899	https://www.arcobaleno.arenzano.it
@@ -1005,6 +1004,7 @@ node	4383785691	http://www.lalocandadelgallese.it
 node	4383785692	http://www.scooterpointlaspezia.com
 node	4384552270	https://www.b612-ristorante.it/
 node	4399595276	http://aga.mysupersite.it/
+node	4415562290	https://www.atcesercizio.it/
 node	4422322574	http://www.hotelmondialrapallo.it/
 node	4426179546	http://www.eventigenova.it/bibiservice/
 node	4437041318	https://www.repower.com/it
@@ -1653,6 +1653,7 @@ node	7353020014	https://www.coopselios.com/struttura/residenza-sanitaria-anziani
 node	7353026362	https://www.lavoratorioartistico.it/
 node	7353026363	http://www.radiorogna.it/
 node	7405154127	www.sanbiagiodellacima.gov.it
+node	7410018523	https://www.flyorbita.com/
 node	7431647282	http://www.biomarsrl.it/
 node	7431910793	https://www.facebook.com/lafruttadiziogio/
 node	7433433487	http://www.ilrifugiodiartemide.it/contatti.php
@@ -2630,6 +2631,10 @@ node	12810105081	https://www.carin-grudda.de
 node	12823767159	https://www.giorgiagiambertone.it/
 node	12823824165	https://www.treponti.it/
 node	12830266486	https://www.gastaldiarredamenti.com/
+node	12840936267	https://www.urbanqueens.it/
+node	12841666543	https://olio-asplanato.com
+node	12842491124	https://www.circolomanuelbelgrano.it/
+node	12848675532	https://www.agenzialiguria.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3889,7 +3894,6 @@ relation	7466528	https://www.cailaspezia.it/
 relation	7466606	https://www.cailaspezia.it/
 relation	7466621	https://www.cailaspezia.it/
 relation	7466635	https://www.cailaspezia.it/
-relation	7466643	https://unionedicomunimontanalunigiana.it/
 relation	7506837	https://www.cailaspezia.it/
 relation	7506951	https://www.cailaspezia.it/
 relation	7506952	https://www.cailaspezia.it/
@@ -4011,6 +4015,9 @@ relation	18442403	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/parsifal
 relation	18442404	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/lorizzone/
 relation	18447694	https://www.finaleoutdoor.com/
 relation	18827498	https://lamialiguria.it/2023/03/ciclovia-ardesia/
+relation	19141661	https://ropewiki.com/Prialunga
+relation	19141662	https://ropewiki.com/Lerca
+relation	19141791	https://ropewiki.com/Barbaira_(Lower)
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1360305797	http://www.autogrill.it/portal/public/default
