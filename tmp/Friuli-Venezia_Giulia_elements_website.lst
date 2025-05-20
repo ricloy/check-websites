@@ -200,7 +200,6 @@ node	1120210862	https://www.hotel-bb.com/it/hotel/udine.htm
 node	1134553694	https://www.ambassadorpalacehotel.it/
 node	1144571430	https://www.alpomodoro.com/
 node	1178193935	http://www.caneo.it/
-node	1182648500	https://www.gruppobosco.it/
 node	1243756859	https://www.flondar.it/2022/06/museo/
 node	1248791864	https://www.ristorantelaprimula.it/hotel
 node	1248791871	https://www.ristorantelaprimula.it/ristorante
@@ -781,8 +780,6 @@ node	3424506661	https://www.despar.it/it/punto-vendita-despar/68/grado/
 node	3426984450	www.mistermaxjeans.it
 node	3426993382	http://www.leondoromaniago.com
 node	3427351307	http://www.palazzodattimismaniago.eu/
-node	3439236491	http://www.constantini.si
-node	3439241031	https://www.vina-blazic.si/
 node	3450644191	https://catastogrotte.regione.fvg.it/scheda/1456-Grotta_Pod_Lanisce
 node	3452550037	http://www.saldemar.it/
 node	3480663962	http://www.aicolonos.it
@@ -839,7 +836,6 @@ node	3633892901	https://www.biblio.units.it/pageview?pcode=BG
 node	3633893672	https://www.skdtabor.it/si/knjiznica
 node	3633894269	http://www.sanitariatriestina.it/
 node	3633895107	http://www.retecivica.trieste.it/triestecultura/new/bibliotecamattioni/default.asp
-node	3633897783	https://montuzza.it
 node	3633898073	http://www.conservatorio.trieste.it/biblio.html
 node	3633900398	https://disu.units.it/it/dipartimento/patrimonio-dipartimento/Archivio-degli-scrittori-e-della-cultura-regionale
 node	3633901489	https://museopetrarchesco.it/
@@ -2877,6 +2873,11 @@ node	12803753000	https://www.carrarochabarik.it/
 node	12803767802	https://ri-shopping.it/
 node	12806019316	https://www.contedattimismaniago.it/
 node	12812076043	https://autoscuolaranieri.it/
+node	12814434030	https://nl.airbnb.com/rooms/1125299440455924909?_set_bev_on_new_domain=1747474468_EANWM1OGVjMzhjMD
+node	12836898684	https://www.bed-and-breakfast.it/de/friaul-julisch-venetien/bb-velocipede-cervignano-del-friuli/55535
+node	12848508367	https://trattoriadinapoli.it/
+node	12850338662	http://studioeleganceessentials.com/
+node	12850530488	https://leserre.co/it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -4031,6 +4032,7 @@ way	1369015997	https://www.mhit.it/
 way	1369016051	https://lef-digital.com/
 way	1369016052	https://www.mckinsey.com/business-functions/operations/how-we-help-clients/capability-center-network/our-centers/venice
 way	1384576556	https://www.eurospin.it/punti-vendita/cervignano-del-friuli-via-aquileia/
+way	1386361507	https://www.gruppobosco.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4301,8 +4303,6 @@ relation	207349	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carnic
 relation	216254	https://www.tal-oil.com/en/transalpine-pipeline/route
 relation	387762	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-079
 relation	532599	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-084
-relation	541722	https://www.stat.si/obcine/Region/Index/12
-relation	541958	https://obcina-ankaran.si
 relation	561447	http://www.ferroviacasarsaportogruaro.it/
 relation	898313	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-003
 relation	943900	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-005/
@@ -4320,8 +4320,6 @@ relation	1526505	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settor
 relation	1554500	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-077
 relation	1554501	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-072
 relation	1587644	https://www.comune.duino-aurisina.ts.it/
-relation	1699148	https://www.stat.si/obcine/Region/Index/11
-relation	1699230	https://www.stat.si/obcine/Region/Index/9
 relation	1730704	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-662
 relation	1777257	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-713
 relation	1777290	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/s5-516
@@ -4597,7 +4595,6 @@ relation	4002028	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giuli
 relation	4048721	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-318/
 relation	4048722	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-319
 relation	4048724	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/ferrata-simone-piller-hoffer/
-relation	4185355	https://www.gov.si/drzavni-organi/upravne-enote/koper/
 relation	4586513	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/ferrata-via-italiana-al-monte-mangart/
 relation	4664547	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-814
 relation	4664548	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-816
@@ -4612,7 +4609,6 @@ relation	5365855	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche
 relation	5372926	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-320a
 relation	5406134	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-659
 relation	5414626	http://www.cat.ts.it/index.php?option=com_content&view=article&id=193&Itemid=151
-relation	5504660	https://obcina-ankaran.si
 relation	5567161	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-822
 relation	5581352	https://www.polo.pn.it/
 relation	5876882	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-991/
@@ -5710,6 +5706,7 @@ way	36020754	http://valbrunainn.com
 way	36021303	https://www.turismofvg.it/en/mountain365/rifugio-giacomo-di-brazza
 way	36021507	http://www.albergo-edelweiss.com/
 way	36039227	http://www.alciclista.it
+way	36041076	https://www.aldi.it/it/trova-il-punto-vendita/aldi-udine/aldi-gemona.html
 way	36051520	http://www.hotelcanin.it
 way	36051533	http://www.hotelnevea.it
 way	36051550	http://www.sporthotelforte.com
