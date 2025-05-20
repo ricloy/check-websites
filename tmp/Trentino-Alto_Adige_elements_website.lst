@@ -641,6 +641,7 @@ node	1300532811	http://www.euroriparazioni.com
 node	1301681384	https://www.museoaltogarda.it/it/
 node	1303364701	https://www.farmaciasonnenberg.com/
 node	1308041322	http://www.facebook.com/pages/Ristorante-Birreria-AL-GIARDINO/313491748838?sk=info
+node	1311009164	https://www.isomart.net
 node	1311886878	https://www.giardino-marling.com/
 node	1311886887	https://www.oberwirt.com/
 node	1312440722	https://www.provincia.tn.it/Servizi/Accesso-al-servizio-di-Bike-sharing
@@ -1061,7 +1062,7 @@ node	2206644937	https://www.kronplatz.com/de/infrastruktur/kron+arc+adventure+-+
 node	2206661200	www.ffoberolang.it
 node	2208867539	http://www.cafetivoli.it/
 node	2211988356	https://www.castellatemar.it/
-node	2219010319	http://www.hotel-tyrol-schenna.com/residence//
+node	2219010319	https://www.hotel-tyrol-schenna.com/residence//
 node	2229385443	https://www.gasserlandmaschinen.com/
 node	2229390755	https://www.lewisch.it/
 node	2235776328	https://www.eurospin.it/punti-vendita/trento-120345/
@@ -2181,7 +2182,6 @@ node	3050976118	http://www.guenther-rechenmacher.biz/
 node	3050976119	http://www.metzgerei-christanell.com/
 node	3050976120	https://www.michels.bz/
 node	3050976121	http://www.mode-sabrina.it/
-node	3050976123	http://www.prokulusreisen.it/
 node	3050976124	https://www.baeckerei-psenner.com/
 node	3051925226	https://www.holzmannshop.it/
 node	3051999095	https://www.sarnerbike.it/
@@ -2545,7 +2545,7 @@ node	3475952549	http://www.cafe-unterweger.it/
 node	3476078595	https://bucherkeller.it/
 node	3476274029	https://www.pfeiftal.it/
 node	3477843544	https://www.gompmalm.it/
-node	3477863225	mahdalm.it
+node	3477863225	https://mahdalm.it/
 node	3478506293	https://tonigbauernhof.it/
 node	3478532034	https://www.thalerhof.eu/
 node	3478620126	https://www.resseggerhof.com/
@@ -2716,7 +2716,7 @@ node	3561524470	https://www.vvf-borgovalsugana.it/
 node	3562463337	https://www.duerrenstein.com/
 node	3562570993	https://www.nachtigall.it/
 node	3562578664	https://www.chalet-andy.com/
-node	3562591793	http://www.schoenbrunn.schenna.com/
+node	3562591793	https://www.schoenbrunn.schenna.com/
 node	3563079194	https://www.lichtenau.com/
 node	3563380861	https://www.ehrenfels.info/
 node	3563468193	https://www.alpenhof-schenna.com/
@@ -2737,7 +2737,7 @@ node	3568748093	https://www.hotelwalder.com/
 node	3568777293	https://www.hotel-tenne.com/
 node	3570705566	https://www.schoen-aussicht.com//
 node	3570722694	https://www.schennerhof.com/
-node	3570805994	http://www.tannerhof.net/
+node	3570805994	https://www.tannerhof.net/
 node	3571122993	https://www.moserhof.it/
 node	3571156893	https://www.mitlechnerhof.com/
 node	3571221626	https://www.klarnerhof.com/
@@ -3025,18 +3025,12 @@ node	3790707359	http://www.filovignola.it/vignolavventura/famiglie-di-vignola/
 node	3797997849	https://www.agenziaentrate.gov.it/
 node	3799017287	https://amadeustracht.com/
 node	3799017290	https://www.pierre-bz.com
-node	3802220162	http://www.artesella.it/percorsi_malga.html
 node	3802220163	http://www.artesella.it/percorsi_malga.html
 node	3802220164	http://www.artesella.it/percorsi_malga.html
 node	3802220165	http://www.artesella.it/percorsi_malga.html
-node	3802231152	http://www.artesella.it/percorsi_malga.html
 node	3802231153	http://www.artesella.it/percorsi_malga.html
-node	3802231154	http://www.artesella.it/percorsi_malga.html
 node	3802231155	http://www.artesella.it/percorsi_malga.html
 node	3802254717	http://www.artesella.it/percorsi_malga.html
-node	3802254718	http://www.artesella.it/percorsi_malga.html
-node	3802263607	http://www.artesella.it/percorsi_malga.html
-node	3802263609	http://www.artesella.it/percorsi_malga.html
 node	3802263610	http://www.artesella.it/percorsi_malga.html
 node	3802263611	http://www.artesella.it/percorsi_malga.html
 node	3805887814	http://www.agriturvalsugana.it/
@@ -3280,6 +3274,7 @@ node	4215202564	https://www.comunitavalsuganaetesino.it/
 node	4215202566	https://www.trintinaglia.com/
 node	4215202571	http://www.otticavalsugana.it/
 node	4215202573	https://www.poste.it
+node	4215202574	https://www.centroveterinariolagorai.it/
 node	4215203887	https://borgokebab.eatbu.com/
 node	4215205789	https://ilpontelibreria.wixsite.com/website
 node	4215205796	https://www.coppadoro.it/veloce-club/
@@ -3431,19 +3426,12 @@ node	4436621279	http://www.artesella.it/percorsi_artenatura.html
 node	4436647876	http://www.artesella.it/percorsi_artenatura.html
 node	4436647878	http://www.artesella.it/percorsi_artenatura.html
 node	4436647879	http://www.artesella.it/percorsi_artenatura.html
-node	4436819856	http://www.artesella.it/percorsi_malga.html
 node	4436819857	http://www.artesella.it/percorsi_malga.html
 node	4436819858	http://www.artesella.it/percorsi_malga.html
 node	4436819859	http://www.artesella.it/percorsi_malga.html
 node	4436819860	http://www.artesella.it/percorsi_malga.html
-node	4436819861	http://www.artesella.it/percorsi_malga.html
-node	4436819862	http://www.artesella.it/percorsi_malga.html
-node	4436830243	http://www.artesella.it/percorsi_malga.html
-node	4436830244	http://www.artesella.it/percorsi_malga.html
 node	4437552440	http://www.artesella.it/percorsi_malga.html
 node	4437552441	http://www.artesella.it/percorsi_malga.html
-node	4437552442	http://www.artesella.it/percorsi_malga.html
-node	4437566746	http://www.artesella.it/percorsi_malga.html
 node	4440850790	http://www.percorsimusicali.net
 node	4444700037	https://edera.coop/
 node	4446606825	http://www.helach.it
@@ -3532,7 +3520,6 @@ node	4628107698	http://www.manu.bz.it/
 node	4628941239	https://www.tecnoassistenzatrentina.com/
 node	4628941241	https://www.mondocamerette.it/negozi/trento/
 node	4636018512	https://www.gutentropfen.com/
-node	4640265509	https://www.centrophoenix.net/
 node	4645070862	http://www.bressaninilegno.com/
 node	4646776085	https://www.lusern.it/
 node	4649100191	http://www.ferienregion-obervinschgau.it
@@ -4442,7 +4429,6 @@ node	7192075626	http://www.videoframemultimedia.it/
 node	7192075633	https://www.braocaffe.it/it/
 node	7192075635	https://waldner.co/
 node	7192608085	https://m.facebook.com/derMariaViglmitTeam/
-node	7193114771	http://agriturismorore.it/
 node	7197559454	https://www.suedtirolmobil.info/fileadmin/pdf/net/net_bz_bhf.pdf
 node	7201877931	https://www.nipedesign.it/
 node	7212455542	https://www.plusminus.it/
@@ -4575,7 +4561,7 @@ node	7787867508	https://www.hotel-hirzer.com/zimmer-suiten/appartements-schenna/
 node	7791900221	https://www.unterweg.it
 node	7792004558	http://www.appartement-karnutsch.com/
 node	7792051408	https://www.penthouse-skygarden.com/
-node	7798193094	https://www.savscorteagrarie.it/borgo-valsugana/
+node	7798193094	https://www.ca.bz.it/
 node	7798194418	https://www.moaramort.it/
 node	7798564094	https://www.malgagschnoferstall.it/
 node	7798814416	https://www.suedtirol.info/de/erleben/franzosendenkmal_activity_10577877
@@ -5988,6 +5974,7 @@ node	11741795587	https://www.oacherhof.it/
 node	11742243609	https://www.agenziaentrate.gov.it/portale/alto-adige-itde
 node	11742716254	https://lemayr.it
 node	11742716255	https://dentallasercentertrento.it
+node	11742716256	https://epilaserstudio.com/
 node	11749029469	https://www.preindlerhof.com/
 node	11753289916	https://polytec.bmgroup.com/
 node	11757423176	https://www.herrischner.it/
@@ -5999,6 +5986,7 @@ node	11765887946	https://www.moosmair.com/
 node	11769176040	https://www.huettenland.com/huette.php?objekt|=1322
 node	11769491968	https://www.mucher.it/
 node	11773583250	https://www.sportthoeni.com
+node	11781133125	http://www.immobiliaregroff.it/
 node	11782223550	https://www.elzenbaum.it
 node	11782223551	https://www.psenner.com
 node	11792879276	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-gardena/apartments-lulu/588D9625D45E570286E22DF4B3945889/?RequestKey=1712322193660ff691cf3e2
@@ -6240,7 +6228,6 @@ node	12465410435	https://www.stpauls.wine/
 node	12467238543	https://www.sexten.eu/de/Kletterhalle_Sexten
 node	12473411037	https://www.autoscuolatoninariva.com/
 node	12473411038	https://www.bancamediolanum.it/?utm_source=googlebusinessprofile&utm_campaign=localmarketing&utm_medium=localrecord
-node	12473445304	https://www.autoscuolasetom.it/
 node	12473459620	http://www.autoscuolacristina.it/
 node	12473512812	https://www.autoscuolarendena.it/
 node	12473546479	https://autoscuola-quercia.webnode.it/
@@ -6262,7 +6249,6 @@ node	12534103684	http://www.hoteldalbon.com/
 node	12534103695	https://www.andalo.life/acquain
 node	12534103696	http://www.andalolifepark.it/Parco/Attivita-e-strutture/STADIO-DEL-GHIACCIO
 node	12534385763	https://www.allozodiaco.com
-node	12534798832	https://andelhaus.com/en/home-en/
 node	12534798842	https://www.coronadolomiteshotel.com
 node	12544296776	https://www.kioostudio.it/
 node	12552276202	https://www.luisalm.it
@@ -6308,12 +6294,14 @@ node	12806687307	https://ginificio.it
 node	12806764267	https://spaziopiera.com
 node	12806799769	https://clabtrento.it
 node	12809881254	http://www.vivaise.it
-node	12811870344	http://ferramentabricopack.com
+node	12811870344	https://ferramentabricopack.com/
 node	12811951971	https://www.xpouf.com/
 node	12822868956	https://www.apartments-arduus.com
 node	12827982430	https://perbeneoquasi.it/perbene-burger-o-quasi/
 node	12828982207	https://www.coster.com
 node	12831868977	https://www.ciresafiemme.it/
+node	12842566801	https://www.blocal.it
+node	12849600505	https://www.sartoriaromina.it/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -7125,6 +7113,7 @@ way	99254435	https://www.nuoviorizzonti.org/
 way	99368332	https://www.hotel-innerhofer.com/
 way	99479082	https://www.baustoff-metall.it/
 way	99479091	https://www.abbasciano.it/
+way	99479106	https://activa.bmw.it
 way	99479122	https://www.idrotech.it/
 way	99496030	https://www.siemens.it
 way	99504980	http://www.unterortl.it/
@@ -7191,7 +7180,7 @@ way	102318214	https://www.hotel-senoner.it
 way	102329273	http://gostnerschwaige.com
 way	102352996	https://www.ambet.it/
 way	102549117	https://www.marinzen.com/joomla/
-way	102555005	http://www.gavstrentino.it/
+way	102555005	https://www.gavstrentino.it/
 way	102720636	http://www.venosta.net/it/movimento-natura/attivi-in-estate/altavia-val-venosta.html
 way	102724098	https://www.provinz.bz.it/kunst-kultur/denkmalpflege/monumentbrowser-suche.asp?status=detail&id=15649
 way	102724227	https://www.hotelkrone.net/
@@ -7358,6 +7347,7 @@ way	120588424	http://www.granancei.com/
 way	120713425	https://www.ombitaly.it/
 way	120735723	https://www.puntatrieste.it/
 way	120866133	https://www.ciasasandra.com/
+way	120987259	https://www.chaletserena.com
 way	121099356	https://www.bella-vista.it/
 way	121180817	https://www.buonconsiglio.it/index.php/it/Castello-di-Stenico
 way	121232528	https://www.apparthotel-germania.com/
@@ -9637,7 +9627,6 @@ way	701066970	https://www.valgardena.it/en/accommodation/base/hotel/selva-val-ga
 way	702212759	https://www.comune.sluderno.bz.it/system/web/zusatzseite.aspx?menuonr=218886155&detailonr=209478748&sprache=3
 way	707619798	http://www.zanellahotels.com
 way	707987163	https://www.paulnhof.com/
-way	708427296	https://www.sartoriaromina.it/
 way	708971233	https://www.hotel-st-valentin.com/de
 way	708994058	http://www.gruppocreval.com/Pagine/credito-valtellinese/sede-legale.aspx
 way	709880989	https://phone-techno.business.site/
@@ -9985,7 +9974,6 @@ way	1381205456	https://www.flyingpark.it/
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
-relation	52343	https://www.tirol.gv.at/
 relation	129319	https://www.sat.tn.it/
 relation	129320	https://www.sat.tn.it/
 relation	129324	https://www.sat.tn.it/
@@ -11209,6 +11197,7 @@ relation	9620354	https://www.dolomitinordicski.com
 relation	9620377	https://www.dolomitinordicski.com
 relation	9620999	https://www.dolomitinordicski.com
 relation	9621013	https://www.dolomitinordicski.com
+relation	9631373	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-214INA.PDF
 relation	9681044	https://www.caitregnago.it/
 relation	9741603	https://www.herz-ass-villgratental.at
 relation	9741898	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-332R.PDF
@@ -11364,6 +11353,7 @@ relation	16148671	https://dolomitesgeotrail.com/
 relation	16149279	https://www.sat.tn.it/
 relation	16150721	https://dolomitesgeotrail.com/
 relation	16151667	https://dolomitesgeotrail.com/
+relation	16165886	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-306A.PDF
 relation	16206458	https://dolomitesgeotrail.com/
 relation	16206551	https://dolomitesgeotrail.com/
 relation	16206573	https://dolomitesgeotrail.com/
@@ -11560,6 +11550,29 @@ relation	19120242	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/Or
 relation	19120403	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-332R.PDF
 relation	19120404	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-332R.PDF
 relation	19121167	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-335A.PDF
+relation	19135048	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-334A.PDF
+relation	19137840	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-204A.PDF
+relation	19138529	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-204R.PDF
+relation	19141048	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-204R.PDF
+relation	19141049	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-204A.PDF
+relation	19141710	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-218A.PDF
+relation	19141711	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-218A.PDF
+relation	19141798	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-203A.PDF
+relation	19141799	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-203A.PDF
+relation	19142634	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-211A.PDF
+relation	19142635	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-211R.PDF
+relation	19142636	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-211R.PDF
+relation	19142637	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-211A.PDF
+relation	19145869	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-306R.PDF
+relation	19149030	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-306R.PDF
+relation	19149031	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-306A.PDF
+relation	19149032	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-306A.PDF
+relation	19149033	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-306A.PDF
+relation	19149034	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-306R.PDF
+relation	19149035	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-306A.PDF
+relation	19151494	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-306A.PDF
+relation	19151495	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-306R.PDF
+relation	19151869	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-214INR.PDF
 node	258015066	http://www.poste.it/
 node	261710690	http://www.poste.it/
 node	265581228	https://www.centrosantachiara.it/spazi/teatri/teatro-sanbapolis-trento
@@ -11811,7 +11824,6 @@ node	1309442271	https://www.libenflex.com/
 node	1309442282	http://www.tanitendaggi.com/
 node	1309442319	http://www.latecnica.trentino.it/
 node	1309442323	http://www.angelsparrucchieri.com/
-node	1311009164	http://www.salonesciandra.com/
 node	1313709044	http://www.lagastronomiamein.it/portal/
 node	1315231855	www.spaziooff.com
 node	1320834281	http://www.mangiobricks.it/
@@ -12198,7 +12210,7 @@ node	4446398905	https://evway.net/
 node	4471893653	https://www.visitfiemme.it/it/val-di-cembra/Arte%20e%20paesaggi%20da%20cartolina/Le%20Piramidi%20di%20Segonzano
 node	4477117790	http://www.bibliogais.ch/index.html
 node	4494876074	https://www.conter.store/
-node	4555224995	http://ecoargentario.it/
+node	4555224995	https://ecoargentario.it
 node	4557760209	http://www.pittarosso.com/
 node	4557760210	https://www.unieuro.it/
 node	4557760211	https://www.eurospin.it/
@@ -12525,7 +12537,6 @@ node	11685100044	https://rechtebner.it
 node	11805686718	https://www.innerhofer.it/it/showrooms/trento/34-49.html
 node	11933961265	https://www.roeck.bz/
 node	11949825659	https://www.soggiornodolomiti.it/
-node	11981478395	https://activa.bmw.it/
 node	11998617215	https://www.latorre-forst.it/
 node	12001435125	http://www.hotelmiramontimer.com
 node	12041562850	https://www.caprizza.it/
@@ -13071,6 +13082,7 @@ way	783051434	https://www.hoodyhotel.com/
 way	860653801	https://www.riva1.it/
 way	914196533	https://www.trentinomobilita.it/biciclette-cp-trento
 way	916837339	https://www.dinosauroabbigliamento.com/mezzolombardo/
+way	932650316	https://www.comune.trento.it/Aree-tematiche/Servizi-funerari-e-cimiteriali/Schede-informative/Cremazione
 way	934860157	https://www.areaderma.it/
 way	966535350	https://www.appm.it/
 way	971107438	https://www.olgacasanova.it/
@@ -13116,6 +13128,7 @@ way	1359798389	https://www.bolbeno.info/it/centro-sci
 way	1375567505	https://www.meran2000.com
 way	1383019925	https://www.trento.info/dettaglio-attrazione/-/c/n/skate-park---trient_875a0a31-25ae-51ce-acee-936d8904397a
 way	1383258197	https://rocciatoripiaz.it/strutture/
+way	1387445061	https://hypeclub.it/
 relation	58994	https://www.fbk.eu
 relation	300032	http://www.stelviopark.bz.it/
 relation	946442	https://www.lecta.com/it/fabbrica-cartiere-del-garda
