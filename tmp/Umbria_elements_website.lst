@@ -1020,6 +1020,7 @@ node	12804609101	https://campingorvieto.com/
 node	12813573259	https://www.farmaciamarchese.it/
 node	12816265103	https://www.antichitalacappuccina.com/
 node	12840668694	http://www.usigni.it/usigni/arte
+node	12862063053	https://www.casaminotti.it
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1262,6 +1263,7 @@ way	432970256	https://www.porziuncola.org/
 way	438784089	https://www.palazzoseneca.com
 way	438796638	https://casavacanzenorcia.it/
 way	438798422	https://www.uslumbria2.it/pagine/ospedale-di-norcia-000
+way	438829757	https://www.iluoghidelsilenzio.it/chiesa-campestre-di-san-salvatore-usigni-di-poggiodomo-pg/
 way	438834257	https://www.iluoghidelsilenzio.it/chiesa-di-san-salvatore-usigni-di-poggiodomo-pg/
 way	438846448	https://www.residenzamontedoro.it/
 way	438850395	https://norciaospitalita.it/
@@ -1925,7 +1927,6 @@ relation	14455401	https://www.laviadeltrasimeno.org
 relation	14455402	https://www.laviadeltrasimeno.org
 relation	14455403	https://www.laviadeltrasimeno.org
 relation	14455404	https://www.laviadeltrasimeno.org
-relation	14588022	https://camminilauretani.eu/
 relation	14737329	http://www.iluoghidelsilenzio.it/?p=3463
 relation	14784898	https://www.camminodigermanico.it/
 relation	14784899	https://www.camminodigermanico.it/
@@ -1975,6 +1976,10 @@ relation	18543045	https://www.italiacoast2coast.it/
 relation	18545712	https://www.italiacoast2coast.it/
 relation	18546458	https://www.italiacoast2coast.it//
 relation	18546762	https://www.italiacoast2coast.it/
+relation	18621923	https://camminilauretani.eu/
+relation	18621928	https://camminilauretani.eu/
+relation	18621929	https://camminilauretani.eu/
+relation	18621930	https://camminilauretani.eu/
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1635117842	https://www.agriturismoleburgne.it/
 node	1887119542	https://www.fezemauro.com/
