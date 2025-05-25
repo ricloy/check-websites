@@ -724,7 +724,6 @@ node	2311463056	https://www.enel.it/punto-enel/
 node	2311463080	https://www.enel.it/punto-enel/
 node	2311463102	https://www.enel.it/punto-enel/
 node	2311463115	https://www.enel.it/punto-enel/
-node	2311463134	https://www.enel.it/punto-enel/
 node	2311463152	https://www.enel.it/punto-enel/
 node	2311463170	https://www.enel.it/punto-enel/
 node	2311463190	https://www.enel.it/punto-enel/
@@ -763,7 +762,6 @@ node	2311464146	https://www.enel.it/punto-enel/
 node	2311464160	https://www.enel.it/punto-enel/
 node	2311464174	https://www.enel.it/punto-enel/
 node	2311464187	https://www.enel.it/punto-enel/
-node	2311464197	https://www.enel.it/punto-enel/
 node	2311464209	https://www.enel.it/punto-enel/
 node	2311464222	https://www.enel.it/punto-enel/
 node	2311464236	https://www.enel.it/punto-enel/
@@ -1323,6 +1321,7 @@ node	3161476119	http://www.lorenzopari.it/
 node	3161885580	http://www.facebook.com/buenosairescecina
 node	3165131578	http://www.cri-bagnoaripoli.it
 node	3168348026	https://www.luccacinema.it/cinema-astra/
+node	3172209218	https://www.repower.com/dina/
 node	3177062141	http://www.sundaymorning.it
 node	3177343525	http://www.osteriasanmichele.it
 node	3186367475	http://www.campingromita.it
@@ -1406,8 +1405,6 @@ node	3393791468	https://www.1950americandiner.it/it/
 node	3394054560	http://www.ciclopi.eu
 node	3400117273	https://www.oceanomare.net/
 node	3407089987	https://www.agriturismocastiglioncello.com/
-node	3412568105	https://www.ecovillaggiocorricelli.com/
-node	3412568106	https://borgotuttovita.it/
 node	3412680895	http://www.masterfitness.it/
 node	3414236853	https://care.pistoia.it/
 node	3414241590	https://care.pistoia.it/
@@ -2001,7 +1998,7 @@ node	4698139145	https://www.scarpellisnc.it
 node	4698943405	https://www.develer.com/
 node	4700181989	https://www.lunadisaturno.net/
 node	4703880768	https://www.casadelgiramondo.it/
-node	4704014498	http://www.cailivorno.it/
+node	4704014498	https://www.cailivorno.it/
 node	4709560990	https://www.spacemetaldetector.it/
 node	4716090890	http://www.oscugnizzo.net
 node	4717132489	https://www.vecchiemura.it/
@@ -3068,6 +3065,7 @@ node	6788362770	http://copisteriailtorchiopisa.com/
 node	6788942555	http://www.ciclopi.eu
 node	6789156852	https://www.poggioapoppi.it/
 node	6789398886	https://clubborgodivagli.com/
+node	6789664562	https://www.repower.com/dina/
 node	6790159514	https://www.bagnolalanterna.it
 node	6791310886	https://m.facebook.com/Bar-Paninoteca-Monilli-piccola-ristorazione-397763503579006/
 node	6796043726	https://www.centauro.net/alquiler-de-coches-baratos/italia/pisa-aeropuerto/
@@ -3821,7 +3819,6 @@ node	8881561541	http://www.ilmerloverde.it
 node	8889091722	https://www.rentprocchio.it/
 node	8895070299	http://www.progettoubaldini.it/eventi/castelli-ubaldini/51/cavrenno.html
 node	8906112030	https://www.lpi.org/
-node	8910392592	https://argentario-divers.business.site
 node	8910923135	https://www.scout.it/
 node	8911724801	https://morisfarms.it/it/2348801/terrazza-moris
 node	8912039109	http://www.bagnomania.com/
@@ -5522,6 +5519,7 @@ node	11884679679	https://www.immagine-studio.it/dove-siamo/
 node	11884679680	https://www.acquaesapone.it/
 node	11884679690	https://www.miodottore.it/francesca-letizia-vellucci/ginecologo/monteroni-d-arbia?utm_medium=gmb&utm_campaign=541938&utm_content=website
 node	11884679771	https://www.d-piu.com/
+node	11887085291	https://www.gmsafety.it/
 node	11892186036	https://www.prolocofollonica.it
 node	11892976151	https://www.at-bus.it/it
 node	11893107665	https://www.at-bus.it/it
@@ -6662,6 +6660,13 @@ node	12842181121	https://mynutritional.it/ambulatori-e-sedi/toscana/nutrizionist
 node	12842491020	https://www.diocesilivorno.it/home/cultura-e-arte/archivio-2/
 node	12842692829	https://www.polomusealetoscana.beniculturali.it/index.php?it/211/siena-pinacoteca-nazionale
 node	12844897115	https://www.la-melea.com/
+node	12847622509	https://www.iqhotelfirenze.it
+node	12849544148	www.agriturismofanny.it
+node	12851236049	http://www.agriturismosangiusto.com/
+node	12852966234	https://www.grandvision.it/it-it/trova-negozi/negozio?storeNumber=K098
+node	12856280104	https://www.dojobianco.com
+node	12857401651	https://ebicionline.wordpress.com/
+node	12860868301	https://www.facebook.com/share/16cztXcVus/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -7020,6 +7025,7 @@ way	147993294	https://centromedicinasportsiena.it/
 way	148370989	http://www.pizzeriafontebecci.it/
 way	148548066	https://www.villatoscana.it/
 way	148548123	https://www.hotelsabrinaonline.it
+way	148688348	https://avio-superfici.enac.gov.it/it/public/surface/show/1499
 way	149546312	https://www.lamacinaia.com/en/
 way	149812735	https://www.gowett.it/
 way	149934056	https://www.ondazzurranautica.it
@@ -7257,6 +7263,7 @@ way	200455880	https://www.terrecablate.it/
 way	200455897	https://www.fiora.it/
 way	200477955	https://www.gruppocvg.it/
 way	200480753	https://www.royal-garage.it/
+way	200654110	https://www.facebook.com/p/LAlveare-Del-Pinzi-100057489068265/?locale=it_IT
 way	200743898	https://www.festival7sois.eu/
 way	200878876	http://www.terranera.it/
 way	200978609	https://www.magmafollonica.it/
@@ -7730,7 +7737,7 @@ way	370435394	https://www.canottierilimite.org/
 way	371134308	http://scuoladimusicacalenzano.it/index.php
 way	371413722	http://www.podereilastri.it
 way	371473397	https://www.nelli1956.com/
-way	372478853	http://www.soleemare.it/
+way	372478853	https://www.soleemare.it/
 way	373222118	http://q5.comune.fi.it/
 way	373844241	https://www.parchivaldicornia.it/info-e-servizi/ziva-beach-bar/
 way	374114864	https://www.parcominerario.it/
@@ -7924,7 +7931,7 @@ way	485194590	https://www.castellodivillanova.it/
 way	485507607	https://www.fattorialaprincipina.it/
 way	485507618	https://www.fattorialaprincipina.it/
 way	485517817	https://www.facebook.com/DaNelloFornoaLegna
-way	486977706	https://miramare.me
+way	486977706	https://www.miramare.me/
 way	487873165	https://www.aquariummondomarino.com/
 way	489427205	http://www.campinglaverna.it
 way	489664195	http://vacanzepuntonevecchio.it
@@ -7976,7 +7983,6 @@ way	522699836	https://www.chessaonline.com/
 way	522847768	http://www.villalacostaglia.it/
 way	522848968	https://www.lasovana.com/
 way	522849038	www.lebucheresort.com
-way	522855020	https://www.marinadiportoferraio.it/
 way	522864762	https://www.agriturismoustori.it/
 way	522870949	http://www.cvmm.it
 way	522881743	http://www.rtv38.com/wordpress/
@@ -9167,10 +9173,10 @@ way	1386932010	https://www.ssannunziata.it/camper/
 way	1387073656	https://www.apicorno.com/
 way	1387344959	https://www.palazzodevecchi.it/
 way	1387635953	http://www.rosileopoldo.it/
+way	1389338910	https://www.casabini.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
-relation	42855	http://www.comunecamugnano.gov.it/
 relation	136257	https://www.caiparma.it/
 relation	194476	https://www.caiprato.it/
 relation	196948	https://www.caiprato.it/
@@ -9590,7 +9596,6 @@ relation	7850470	https://www.caielba.it/percorsi/
 relation	7850514	https://www.caielba.it/percorsi/
 relation	7850526	https://www.caielba.it/percorsi/
 relation	7850588	https://www.caielba.it/percorsi/
-relation	7850985	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII177498
 relation	7853011	https://www.islepark.it/rete-sentieristica/sentieri-escursionistici/elba-occidentale/176
 relation	7853242	https://www.caielba.it/percorsi/
 relation	7853280	https://www.caielba.it/percorsi/
@@ -9749,7 +9754,6 @@ relation	10410518	https://www.caielba.it/percorsi/
 relation	10410536	https://www.islepark.it/rete-sentieristica/sentieri-escursionistici/elba-centrale/221
 relation	10411985	https://www.islepark.it/rete-sentieristica/percorsi-consigliati/percorsi-elba-occidentale/percorso-delle-vie-del-granito
 relation	10442801	https://www.caielba.it/percorsi/
-relation	10523769	https://www.caiprato.it/
 relation	10523824	https://www.facebook.com/AssociazioneCulturaleAvaglio
 relation	10523825	https://www.facebook.com/AssociazioneCulturaleAvaglio
 relation	10527769	https://www.camminodisanbartolomeo.com/
@@ -9921,7 +9925,6 @@ relation	13292612	https://amiatafreeridebikeresort.com
 relation	13292613	https://amiatafreeridebikeresort.com
 relation	13292687	https://amiatafreeridebikeresort.com
 relation	13298692	https://ildelfinetto.it
-relation	13300652	https://www.caiprato.it/
 relation	13300750	https://www.caiprato.it/
 relation	13302689	https://www.decathlon.it/store-view/-grosseto-0070152401524
 relation	13302690	https://centromarema.it
@@ -10000,6 +10003,7 @@ relation	14455399	https://www.laviadeltrasimeno.org
 relation	14456575	https://borgomaglianogardenresort.com
 relation	14474047	https://www.wwf.it/oasi/toscana/laguna_di_orbetello/
 relation	14478353	http://canottieriorbetello.it
+relation	14480074	https://www.manifatturatabacchi.com/
 relation	14480552	https://www.lorenziniterminal.it/
 relation	14480556	https://www.tdt.it/
 relation	14482061	http://www.giorgiotesigroup.it
@@ -10309,6 +10313,10 @@ relation	19058842	https://quartiereborghetto.org/
 relation	19058843	https://www.quartiereruga.it/
 relation	19091017	https://bicocchiwine.it
 relation	19143075	http://www.endiasfalti.it/
+relation	19160409	https://www.comune.montecatini-terme.pt.it/it/topics/ztl
+relation	19160453	https://www.comune.prato.it/it/muoversi/ztl-ztc/ztl-a/pagina358.html
+relation	19160454	https://www.comune.prato.it/it/muoversi/ztl-ztc/ztl-b/pagina361.html
+relation	19170384	https://www.caiprato.it/
 node	243629739	http://bardellorso.it
 node	256436785	http://www.vecchialivornoristorante.it/
 node	256819101	https://www.unicooptirreno.it/punto-vendita/viareggio
@@ -10446,6 +10454,8 @@ node	3250930763	http://www.ostellosigerico.it/
 node	3281212760	http://www.librerie.coop.it
 node	3312029177	http://www.fisar.org/
 node	3340713396	http://www.hotelfollonica.it
+node	3412568105	https://www.ecovillaggiocorricelli.com/
+node	3412568106	https://borgotuttovita.it/
 node	3457918263	http://www.agriturismopiandeilupi.it/
 node	3501640387	https://www.castellocertaldo.com/
 node	3526879338	http://www.chickennchicken.it/
@@ -10854,6 +10864,8 @@ node	12739872346	https://linktr.ee/libriinvigna
 node	12742710614	https://corbucciwineboutique.com/
 node	12805798253	https://www.setteangelirooms.com
 node	12809567735	https://www.serviziedilicucinelli.com
+node	12851352804	https://www.lucchinigrosseto.com
+node	12860814235	https://borgotuttovita.it/
 way	22945162	https://www.opapisa.it
 way	22945163	https://www.opapisa.it
 way	28396159	https://www.basilicacateriniana.it/
@@ -11103,7 +11115,6 @@ relation	7834598	https://www.at-bus.it/
 relation	11327198	http://www.circolonauticocalaviolina.it
 relation	12300146	http://www.follonica-apartments.com
 relation	12384413	http://www.acquavillage.it
-relation	13803376	https://www.at-bus.it/
 relation	13845114	https://www.at-bus.it/
 relation	14139507	http://www.laventola.it/
 relation	14564700	http://www.villaggioilgirasole.it
