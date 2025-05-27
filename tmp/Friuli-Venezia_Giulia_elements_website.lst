@@ -142,7 +142,6 @@ node	675776679	https://www.kralj.it/
 node	675776691	http://www.vesnabrezina.it/novo/sl/plessi/cos-stanko-gruden
 node	678605614	https://ristorantepizzeriavesuviopalmanova.eatbu.com/
 node	690338481	https://www.trattoriagelmo.com/
-node	692717254	https://insmercato.it/
 node	692730862	https://www.ristorantecarso.it/
 node	693014518	https://www.auroraviaggi.com/
 node	693014520	https://ferramentatercon.it/
@@ -1037,6 +1036,7 @@ node	3748998936	https://ferramentagba.jimdofree.com/
 node	3748999391	https://www.poste.it
 node	3749000545	https://www.ateliersarte.it
 node	3749006338	http://www.sbhu.it/easyne2/LYT.aspx?Code=SBHU&IDLYT=657&ST=SQL&SQL=ID_Documento=59
+node	3749033841	https://www.theconsciouslab.it
 node	3749033852	https://www.mmmotors.info/
 node	3749056721	http://www.sbhu.it/easyne2/LYT.aspx?Code=SBHU&IDLYT=657&ST=SQL&SQL=ID_Documento=60
 node	3749061448	https://www.studioelisabettasabbadini.it/
@@ -1068,6 +1068,7 @@ node	3784380133	https://asuiud.sanita.fvg.it/servizi/per-le-persone/medici-e-ped
 node	3784380643	https://www.saloneuomo.it/
 node	3784381012	https://ilmelograno.online/
 node	3784381325	https://www.deganoprimo.it/
+node	3784383662	https://www.oasiristorantepizzeria.it/
 node	3784383871	https://www.carglass.it
 node	3784384108	https://www.poste.it/
 node	3785938808	https://www.bottegadelpesce-pn.it
@@ -2671,6 +2672,7 @@ node	12224143024	https://agenziaunidea.it
 node	12236054052	https://uaar.it/pordenone
 node	12236096566	https://www.mattocalcolato.it/
 node	12236101313	https://www.giancargo.bike/
+node	12246405625	https://fzestintorisrl.it/
 node	12278524717	https://ricaricaveicolo.it/chargestation/CNTS20120043
 node	12278525941	https://www.algranaiobio.net/
 node	12278525942	https://www.repower.com/dina/
@@ -2876,8 +2878,11 @@ node	12812076043	https://autoscuolaranieri.it/
 node	12814434030	https://nl.airbnb.com/rooms/1125299440455924909?_set_bev_on_new_domain=1747474468_EANWM1OGVjMzhjMD
 node	12836898684	https://www.bed-and-breakfast.it/de/friaul-julisch-venetien/bb-velocipede-cervignano-del-friuli/55535
 node	12848508367	https://trattoriadinapoli.it/
-node	12850338662	http://studioeleganceessentials.com/
+node	12850338662	https://www.studioeleganceessentials.com/
 node	12850530488	https://leserre.co/it/
+node	12860966601	http://www.mansuttitricesimo.it
+node	12860991401	http://www.mansuttitricesimo.it
+node	12861008301	http://www.infotech.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -3095,6 +3100,7 @@ way	36352493	https://www.marcofelluga.it/
 way	36353206	https://www.airbnb.it/rooms/28420974?s=51
 way	36353448	http://www.alpontedelcalvario.com/
 way	36354404	http://www.centerbratuz.org/
+way	36356014	http://www.villagorgo.com/
 way	36357668	https://www.doganavecchia.it/chi-siamo/
 way	36363952	https://www.protezionecivile.fvg.it/it/comune/capriva-del-friuli
 way	36366516	http://www.iclucinico.it
@@ -5357,6 +5363,10 @@ relation	18161254	https://www.camminodelledolomiti.it/
 relation	18212937	https://www.veneziadellenevi.it
 relation	18552376	http://www.interportocervignano.it/
 relation	18582402	https://www.ecomuseolisaganis.it/it/f/1j7qysp/parcrous.html
+relation	19170581	https://www.cai-fvg.it/sentieri-cai-fvg/settore-2-dolomiti-pesarine-monti-di-sauris/s2-238a/
+relation	19170630	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/s5-502a/
+relation	19176964	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-823/
+relation	19177293	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-823a/
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
