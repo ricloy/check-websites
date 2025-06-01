@@ -681,7 +681,7 @@ node	2889942917	http://www.sardegnacultura.it/j/v/253?s=24173&v=2&c=2488&c1=2130
 node	2890247916	http://www.sardegnacultura.it/j/v/253?s=20926&v=2&c=2488&c1=2123&t=1
 node	2913771901	https://www.facebook.com/marketsanna/
 node	2928126564	https://www.hotelagugliastra.it/
-node	2928162804	http://www.ristorantelungomare.com/
+node	2928162804	https://www.ristorantelungomare.com/
 node	2932970162	https://www.mdspa.it/punti-vendita/Sardegna/Olbia-Tempio/283-Badesi
 node	2967725667	https://www.facebook.com/pages/Internet-caffè-orgosolo
 node	2980794295	https://www.hotelsustiarvu.com/
@@ -1248,7 +1248,6 @@ node	5381512081	http://bibliotecasanmichele.it/;http://www.bibliotecasanmichele.
 node	5409742481	https://www.eurospin.it/
 node	5409776267	https://www.eurospin.it/
 node	5409830075	https://www.eurospin.it/
-node	5412101521	https://www.eurospin.it/
 node	5413800461	https://www.eurospin.it/
 node	5413899531	https://www.eurospin.it/
 node	5413923005	https://www.eurospin.it/
@@ -1350,7 +1349,6 @@ node	6290798787	https://www.medseafoundation.org/
 node	6295687143	https://cryptolocalatm.com
 node	6342118408	http://www.laboratoriocda.com/joo/it/laboratori/labquartumenu2/109-cda-orari.html
 node	6358125002	https://www.flagpescando.it/
-node	6376047028	http://www.fondazionebarumini.it/it
 node	6401077115	https://www.mdspa.it/
 node	6434344062	https://www.cnsas.it/
 node	6441408938	https://mabsantantioco.it/
@@ -1911,7 +1909,7 @@ way	72444233	http://www.vinovernaccia.com
 way	72444791	https://www.campingisaruttas.it
 way	72446018	https://www.consorziopontis.net/
 way	72725391	www.portososalinos.it/
-way	81578382	http://www.sardegnacultura.it/j/v/253?s=20710&v=2&c=2488&c1=2127&t=1
+way	81578382	http://www.fondazionebarumini.it/it;http://www.sardegnacultura.it/j/v/253?s=20710&v=2&c=2488&c1=2127&t=1
 way	82242404	https://campingcalaginepro.net
 way	83889115	http://www.sardegnacultura.it/j/v/253?s=27247&v=2&c=2489&c1=2126&visb=&t=1
 way	83939292	https://www.torredelporticciolo.it
@@ -2166,6 +2164,7 @@ way	276644771	https://www.borgodicampagna.it/
 way	276644811	https://www.hoteldondiego.com/
 way	276767119	http://www.bellavistacamperservice.com/
 way	276944938	http://www.parrocchiasanluca.org
+way	276945954	https://www.eurospin.it/
 way	276947077	https://www.farosardo.it/
 way	276948697	https://www.itclevi.it
 way	276948726	https://www.giua.edu.it
@@ -3384,6 +3383,7 @@ relation	18887016	https://www.sardegnasentieri.it/sentiero/scala-alistu-foresta-
 relation	19062049	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale/laghi-artificiali/bau-pressiu.html
 relation	19109151	https://www.torrestennis.it/
 relation	19132100	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale/laghi-artificiali/pedra-e-othoni.html
+relation	19196433	https://www.sardegnasentieri.it/index.php/sentiero/fassoni-su-presoni-c-421
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -4218,9 +4218,9 @@ node	1601566871	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREA
 node	1601567218	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
 node	1601567221	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
 node	2329913542	https://www.sardegnaturismo.it/it/esplora/san-valentino
-node	6376047028	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
 way	27771208	http://www.saras.it/saras/pages/inthefield/assets/refining
 way	62331902	http://www.progettodighe.it/main/le-dighe/article/bau-mandara
+way	81578382	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
 way	119452886	http://www.campingbungalowlapineta.it
 way	142884664	http://www.orroliproloco.com/
 way	277017452	http://www.tripadvisor.it/Restaurant_Review-g3528959-d3524787-Reviews-Il_Gatto_Sardo-Gonnoscodina_Province_of_Oristano_Sardinia.html
