@@ -358,6 +358,7 @@ node	1046022651	https://www.teatromanzoni.info/
 node	1049628615	https://www.arcaplanet.it/
 node	1056673680	https://www.centroferiesalvatore.com/
 node	1059611666	https://www.arthotelnoba.com/en/
+node	1068777034	https://www.casabonuspastor.com/
 node	1071286772	https://www.fendi.com/
 node	1092254644	momorepublic.it
 node	1092262591	https://www.liceomanara.it/
@@ -2023,7 +2024,6 @@ node	4417971964	https://www.flyinginthesky.it/
 node	4418775773	http://www.quirinetta.com/
 node	4418927289	http://Facebook.com/colosseopanevino
 node	4419390178	https://www.larosabiancacerveteri.com/
-node	4419393051	https://www.facebook.com/Caff%C3%A8-Sospeso-430526853806720/
 node	4422093090	https://www.anticaosteriarugantino.com/
 node	4423520782	https://www.istantanea.com/
 node	4423928191	http://www.museostrumentimusicali.beniculturali.it
@@ -3088,6 +3088,7 @@ node	5761820505	amicidellago.it
 node	5762248358	https://ivegan.it/
 node	5762508654	http://www.tempiodibaccoroma.com
 node	5763673455	https://www.institutfrancais.it/roma
+node	5763679053	https://www.rentscooterroma.it/
 node	5764230799	https://www.chiesacattolica.it/
 node	5764332923	ristorantetavernadelmoro.com
 node	5767457636	http://birreriaspanky.it
@@ -5511,7 +5512,7 @@ node	10877863692	https://www.ristorante-sahara.com
 node	10880269484	https://www.arciviterbo.it/2019/07/01/lo-spazio-del-cielo-2/
 node	10880677873	https://santinifuneraria.it/
 node	10886236810	https://www.caffevelluti.com/
-node	10889468171	https://www.figliedisancamillo.it/roma/ospedale-vannini/centro-unico-di-prenotazione/
+node	10889468171	https://roma.figliedisancamillo.it/centro-unico-di-prenotazione/
 node	10892764135	https://www.altrimondiviaggi.it/
 node	10893343399	https://www.dolcidelsole.it/
 node	10895895505	https://www.viviroma.tv
@@ -5992,6 +5993,7 @@ node	11810607823	https://coinbar.io/
 node	11813273882	Mixmarkt.it
 node	11813593969	https://www.harmonia-mundi.it/
 node	11813929023	https://alfonsipianoforti.it/
+node	11815082770	https://www.musclestreetgym.com/
 node	11816240075	https://www.erbavolant.eu/
 node	11816240076	https://cryptolocalatm.com
 node	11818788869	https://www.thebulldog.com/the-bulldog-rome/
@@ -6000,6 +6002,7 @@ node	11819959469	https://www.proj3ct.it/
 node	11819969169	https://www.proj3ct.it/
 node	11819971480	https://www.proj3ct.it/
 node	11827319575	https://bibliotecacomunaledianzio.it/
+node	11829228969	https://baglocker.com
 node	11833264371	https://www.myscooterentinrome.it
 node	11835051729	https://www.jw.org/
 node	11837151569	https://saporidalmondoroma.it
@@ -6486,12 +6489,15 @@ node	12836147293	https://www.synlab.it/
 node	12836668053	https://store.modamerceria.it/14-merceria
 node	12837098309	https://www.pasticceriacimoroni.it
 node	12841521138	https://www.comune.genzanodiroma.roma.it/luogo/il-cimitero#modalita-di-accesso
-node	12842594301	http://todis.it
+node	12842594301	https://todis.it/
 node	12842608501	http://carabinieri.it
 node	12843889004	https://www.iltuodentista.eu/
 node	12849299801	https://ilquintoquarto.it
 node	12849586811	https://www.eeas.europa.eu/delegations/un-rome_en
 node	12855757054	https://www.centrodontoiatricovincenziano.com/
+node	12870238901	https://www.102distribution.com/
+node	12875317502	https://www.servizialtavolo.it/controllo.php?page=menu_e&id=260&anteprima=1&tav=1
+node	12877956650	https://www.seminarioromanominore.com/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7499,7 +7505,7 @@ way	331209381	https://www.specchiodidiana.it/
 way	331457645	https://www.parcheggioaltaquota1.eu/
 way	331457646	https://hotelpalacavicchi.com/
 way	331457647	https://www.lowcostparking.eu/parcheggio_ciampino-html/
-way	332109729	https://www.figliedisancamillo.it/roma/ospedale-vannini/
+way	332109729	https://roma.figliedisancamillo.it/
 way	332484274	https://www.pampanorama.it/punti-vendita/panorama-cassino
 way	332765465	www.cineteatrobuonarroti.it
 way	332857939	https://questure.poliziadistato.it/Frosinone
@@ -9648,7 +9654,7 @@ relation	13421559	https://scienzeformazione.uniroma3.it/
 relation	13427117	https://parcocolosseo.it/
 relation	13428308	https://www.cx-place.com/cx-rome.html
 relation	13428552	https://www.parcocastelliromani.it/
-relation	13475193	https://www.facebook.com/comitatopolomuseale/
+relation	13475193	www.astralspa.it
 relation	13476232	https://www.coopculture.it/heritage.cfm?id=6
 relation	13499165	https://www.scienze.uniroma2.it/
 relation	13500133	https://www.giomi.com/
