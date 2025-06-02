@@ -28,7 +28,6 @@ node	679074648	http://www.armida.eu/
 node	679074657	https://www.teatrotassosorrento.it
 node	679074689	https://excelsiorvittoria.com/
 node	708539324	https://www.villasirio.it/
-node	725897371	https://www.divina-costiera.it/
 node	786891249	https://agripaestum.business.site/?utm_source=gmb&utm_medium=referral
 node	857178583	http://www.cartaedintornionline.it
 node	857266616	https://www.macelleriabarone.it/
@@ -531,6 +530,7 @@ node	4214329689	http://www.adelbergabebsalerno.it/
 node	4214329690	https://it.falconeri.com
 node	4225788154	http://www.larrygroup.it
 node	4225788155	http://www.imascalzonilatini.com
+node	4225788160	https://www.raffaelebonetta.it/
 node	4230717350	https://www.hotelvillacimbrone.com
 node	4241992108	http://www.keynes.eu
 node	4246602096	http://www.villaggioverde.it/
@@ -1262,6 +1262,8 @@ node	7927213768	https://www.facebook.com/pg/demetra.azienda.agricola
 node	7931893848	https://www.pinewood-hotels.com/inn-naples-airport-english
 node	7938411590	https://www.monachelle.org
 node	7941398564	https://www.optionalauto.com/
+node	7944812986	http://www.calipet.it/
+node	7944813007	https://www.kocoriko.it/
 node	7944813010	https://latteemielestore.it/
 node	7952234828	https://www.forrest.it/
 node	7952234835	https://www.castellodicasapozzano.it/
@@ -1278,7 +1280,7 @@ node	8062363591	https://www.artisticcharminghouse.com/
 node	8062363593	https://www.alcentroluxuryhome.it/
 node	8062491328	https://pietrastornina.asmenet.it/
 node	8062494996	https://comune.summonte.av.it/
-node	8071831118	https://www.gambardellasrl.it/it/
+node	8071831118	https://www.gambardellaspa.it/
 node	8091763544	https://www.silaruspaestum.it/
 node	8095986428	http://www.comune.ospedalettodalpinolo.av.it/
 node	8098445868	https://www.parcoavventuramontevergine.it/
@@ -2522,6 +2524,8 @@ node	12660645944	https://www.unisa.it/
 node	12660968500	https://www.ferrajoliauto.it/it/concessionaria-fiat-ferrajoli-auto-sede-pagani/
 node	12662873380	http://www.bar-santanna.it/
 node	12662882338	https://www.pizzerialaruota1950.it/
+node	12662907804	https://www.gigliomobili.it/
+node	12662918161	https://www.centrocedip.it/
 node	12669646301	https://www.farmaciaviolante.it/
 node	12670380206	https://www.ofishbarmenu.it/
 node	12680356051	https://www.osterianonnamaria.it/
@@ -2554,6 +2558,7 @@ node	12783375703	https://www.grandhotelduegolfi.com
 node	12788627531	https://www.piemme.info
 node	12788627532	https://www.icissorrento.it
 node	12791236751	https://www.alilauro.it/
+node	12796049184	https://goodware.it/
 node	12797255254	https://www.rivierahotels.it/
 node	12802815031	https://www.clinichedentalimarchitiello.com/
 node	12803872237	https://www.areamarinaprotettagaiola.it/cerd
@@ -2611,6 +2616,7 @@ node	12853989026	https://relaxdelite.it/
 node	12854148572	https://www.blukids.com/it/it/stores/italia/salerno/angri
 node	12854204581	https://www.straordinariementi.it/
 node	12854298667	https://www.sintoniaassicurazioni.it/
+node	12854773438	https://www.despar.com/pdv/supermercato-san-vito-3-srl-via-iii-traversa-via-a-de-gasperi-n-22-pagani-2444
 node	12854847611	https://www.topsuperjet.it/
 node	12858131388	https://centrodz.com/
 node	12860464772	https://www.centrobenessereartemisia.com/
@@ -2625,6 +2631,23 @@ node	12862861216	https://metal4alluminio.it/
 node	12862861220	https://www.solenzoenergia.it/
 node	12863271716	https://www.hbrmenu.it/osterianonnacherubina
 node	12863502757	https://newkimica.it/
+node	12864474503	http://www.evolvo.it/
+node	12866301197	https://a-mbasciata.it/
+node	12866318149	https://www.artismare.com/
+node	12866331782	https://www.exasilofilangieri.it/
+node	12866489936	https://www.agro-energia.it/
+node	12866570599	https://www.testacreativa.it/
+node	12869355968	http://www.ortodynamic.it/
+node	12871031696	https://www.offlinestorepagani.it/
+node	12871339815	https://www.illianooptical.com/indirizzi-sedi
+node	12871590568	https://www.glamouratelier1978.it/
+node	12871875064	https://www.sanciocars.it/
+node	12871964898	https://www.divina-costiera.it/
+node	12876175526	https://www.aromidivino.com/
+node	12876183700	https://www.gabetti.it/agenzia/pagani
+node	12876538444	https://buonocoreborse.it/
+node	12876547812	https://www.glamouratelier1978.it/
+node	12876548608	https://www.glamouratelier1978.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -3221,7 +3244,9 @@ way	568344797	https://www.centromorrone.it/
 way	568652321	www.liceoscientificocortese.gov.it
 way	571254441	https://www.happydayspark.it/
 way	572131095	https://www.ciclitribisonna.it/
+way	576794627	https://www.pasticceriafatu.it/
 way	577821208	http://www.villalaterrazza.com/
+way	578876094	https://www.gruppodavidrevolution.it/contatti-negozi/store-pagani/
 way	579548595	https://www.esercito.difesa.it/organizzazione/capo-di-sme/comando-logistico-esercito/Polo-di-Mantenimento-Pesante-Sud/Pagine/default.aspx
 way	583900745	http://www.illidoazzurro.it
 way	583953585	http://www.scuolapsb.unina.it/
@@ -4100,6 +4125,7 @@ way	287539256	https://supermercatideco.multicedi.it/
 way	297582955	http://www.ischia-fewo.com/
 way	302370309	http://www.santafortunata.com
 way	312823675	https://www.lautotamigi.it/
+way	320200930	https://www.centrocommercialepegaso.it/
 way	380467603	http://www.hotelcapodichino.it/
 way	414221329	https://www.giardinoliberato.org/
 way	417834740	https://www.paradisesportingvillage.com/
