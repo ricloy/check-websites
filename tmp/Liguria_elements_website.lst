@@ -382,6 +382,7 @@ node	2168878958	https://www.daovittorio.it/home_m.html
 node	2168878967	https://www.daovittorio.it/home_v.html
 node	2168878971	http://www.vitturin1860.it/
 node	2173966311	www.edizionidelmagistero.it/
+node	2175887995	https://www.corderianazionale.it
 node	2175888056	https://locandadatoto.it/
 node	2181615482	https://lacriccaristorante.it
 node	2190185256	https://www.conad.it/ricerca-negozi/negozio.008482.html
@@ -2642,6 +2643,9 @@ node	12857182960	http://www.ristorantelavitaebella.eu/
 node	12857182962	https://www.giuliettacalzini.com/index1.htm
 node	12857892359	https://www.benzasrl.it
 node	12861455213	https://kungfuramen.it/
+node	12866109693	https://www.lastregaditriora.it
+node	12866145424	https://www.paginegialle.it/panificioasplanatoangiolino
+node	12869434959	https://www.mazzinidavinci.edu.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2684,7 +2688,6 @@ way	45277772	https://www.risparmiocasa.com/
 way	46800060	https://ristorantepizzeriarebechecco.jimdo.com/
 way	59025753	https://rapallonuoto.it/
 way	60051144	http://www.hotelsanbernardo.it
-way	60917574	https://www.paginegialle.it/panificioasplanatoangiolino
 way	61719791	https://www.olioroi.com/
 way	61719799	https://www.olioroi.com/
 way	62593794	http://www.smargheritage.it/
@@ -3341,6 +3344,7 @@ way	782375624	http://www.azagrpiagentini.it
 way	785585021	https://www.asl2.liguria.it/ospedali/ospedale-pietra-ligure.html
 way	792293094	https://www.campingrapallo.it/
 way	799423845	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII176788
+way	799426273	https://luni.cultura.gov.it/
 way	802271822	http://www.bagnicastelluccio.it/
 way	804334227	https://www.centrosubideablu.com/
 way	806190033	https://www.terminalbruzzone.it/
@@ -3459,6 +3463,7 @@ way	1365784624	https://www.autostrade.it/it/home
 way	1378582321	https://www.provincia.savona.it/strade/sp28bis
 way	1378582324	https://www.provincia.savona.it/strade/sp28bis
 way	1379273229	https://www.kaukau.it
+way	1391318864	https://giardinicaneva.org/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -4025,6 +4030,9 @@ relation	18827498	https://lamialiguria.it/2023/03/ciclovia-ardesia/
 relation	19141661	https://ropewiki.com/Prialunga
 relation	19141662	https://ropewiki.com/Lerca
 relation	19141791	https://ropewiki.com/Barbaira_(Lower)
+relation	19180348	https://ropewiki.com/Grognardo
+relation	19180349	https://ropewiki.com/Argentina_(Liguria)
+relation	19180350	https://ropewiki.com/Infernetto
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1360305797	http://www.autogrill.it/portal/public/default
@@ -7040,6 +7048,7 @@ relation	1229467	http://www.ferroviagenovacasella.it/
 relation	1782624	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/193-bi19-ciclovia-tirrenica
 relation	1999533	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	1999534	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
+relation	1999539	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	2908593	http://www.irolli.it/genova_unesco/palazzo/piazza_de_marini_1.html
 relation	4610285	www.cartografia.regione.liguria.it
 relation	7797964	http://caipallanzapercorsi.altervista.org/PercorsiVCO/SVA/SVA-FTP.kml
