@@ -845,7 +845,7 @@ node	11005336655	https://lagrottadellospuntino.eatbu.com/?lang=it
 node	11017821199	https://orari.fsbusitalia.com/epdf/GB0308.pdf
 node	11023682173	https://www.laterrazzahotel.it/centro-benessere-spa/
 node	11066977599	https://www.repower.com/dina/
-node	11067051464	https://www.repower.com/it
+node	11067051464	https://www.repower.com/dina
 node	11067080223	https://www.dinaclub.cloud
 node	11091891284	http://www.ternignulug.org
 node	11105577644	https://www.bambingesuspoleto.com/
@@ -940,6 +940,7 @@ node	12129750709	https://www.rionecassero.it/
 node	12134463210	https://www.palazzocesi.it/
 node	12168590101	https://www.bancacentro.it/annuario/sportelli.asp?abi=7075&i_menuID=60349
 node	12181850301	http://www.ambvetesopo.eu/
+node	12202629481	https://www.poste.it/cerca-mappe-app/?search=Deruta
 node	12202629486	https://www.maiolichepeccetti.com
 node	12202629487	https://www.farmaciaperellideruta.it/
 node	12202629488	https://www.uslumbria1.it/
@@ -1021,6 +1022,8 @@ node	12813573259	https://www.farmaciamarchese.it/
 node	12816265103	https://www.antichitalacappuccina.com/
 node	12840668694	http://www.usigni.it/usigni/arte
 node	12862063053	https://www.casaminotti.it
+node	12882918601	https://www.uslumbria1.it/servizio/centri-di-salute/
+node	12891384401	https://regnumnaturae.com
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1752,6 +1755,7 @@ way	1374687247	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	1374687248	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	1374687249	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	1385763963	https://www.umbriacamp.it
+way	1392300181	https://www.cerquelle.com
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	1948091	https://chemindassise.org/
