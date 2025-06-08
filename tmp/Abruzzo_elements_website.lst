@@ -335,6 +335,7 @@ node	2335418345	https://www.findglocal.com/IT/Atri/823073151090796/Gm-Carburanti
 node	2335418349	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/API41826
 node	2335432863	https://www.facebook.com/pages/Fermo-Posta-caf/359382437465666?fref=ts
 node	2335530697	https://www.farmaciediturno.org/farmacia.asp?idf=17848
+node	2335563949	https://www.ilparcodeipoeti.it/
 node	2336802729	http://www.casaleborga.it/
 node	2338073383	https://www.alpoggiodelsole.it
 node	2351961259	https://www.aziendaspeciale.it
@@ -991,7 +992,7 @@ node	6708424665	https://lappe.it/
 node	6716346430	http://www.odceclaquila.it
 node	6718311603	https://ristorantemassari.com
 node	6721186016	https://laundry-one-laundromat.business.site/
-node	6721186020	https://www.acquaesapone.it/
+node	6721186020	https://www.acquaesapone.it/puntivendita/acqua-sapone-san-giovanni-teatino-via-piave/
 node	6721186031	https://www.trattoriadelvolante.it
 node	6721186032	https://www.cittadellamusica.org
 node	6721186054	https://speedqueeninvestor.com/lt/store-locations/
@@ -2325,7 +2326,6 @@ node	10188257133	https://www.valentinicerretani.com
 node	10214466860	https://www.piccolomuseofotografia.it
 node	10215107323	http://www.icinquepini.it/
 node	10218112287	https://www.ivpc.com/gruppo/blitz-power/
-node	10219445679	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10820
 node	10231196903	https://inpost.it/locker-pescara-itpes44007m-piazza-ovidio
 node	10233328717	https://www.berloni.it/it/store-locator/
 node	10235338133	https://www.caiteramo.it/
@@ -2497,6 +2497,7 @@ node	10676612929	https://www.arcaplanet.it/negozi-per-animali/montesilvano-c-umb
 node	10676638305	https://negozi.tigota.it/5784-montesilvano
 node	10678353646	https://www.nonnapitta.com/
 node	10678353647	https://mbforo.com/
+node	10680300272	https://www.sbaragliacompressori.it/en/
 node	10680864122	https://www.theurbanbox.it/homepage
 node	10682971788	https://www.regione.abruzzo.it/struttura-regionale/ufficio-cpi-chieti-0
 node	10682971789	http://www.confesercentich.it/
@@ -3332,6 +3333,7 @@ node	12756800032	https://www.gruppoapi.com/privati
 node	12759821617	http://www.ziogio.it/
 node	12774535774	https://www.bottega94.com
 node	12800578685	https://www.ilbosso.com/tirino-hostel/
+node	12804499249	https://www.supermercatidem.com/supermercati/dem-pescara/
 node	12813670110	https://www.tagmarketshop.it
 node	12813670111	https://www.studioimpressions.it/
 node	12840155620	https://www.gasgas.fun/
@@ -3350,6 +3352,12 @@ node	12864323776	https://www.gasgas.fun/
 node	12864883863	https://vaderb.com/
 node	12873226303	https://www.farmaciasanfrancescolanciano.it/
 node	12875559528	https://www.nipponexpress.com/location/italy/#page11372
+node	12880480126	https://unica.istruzione.gov.it/cercalatuascuola/istituti/CHAA810028/ripa-teatina-smvittorie/
+node	12883512299	https://idueleoni.com/
+node	12883649127	https://www.vroomauto.it/
+node	12883649130	https://ltransport.it/
+node	12885990205	https://www.focus.abruzzo.it/
+node	12885990206	https://bm35moto.com/
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -4444,6 +4452,8 @@ way	1387065754	https://www.centrosportivolapelota.it/
 way	1388564428	https://visitcittasantangelo.it/luoghi/chiesa-san-bernardo/
 way	1388721615	https://visitcittasantangelo.it/luoghi/palazzo-coppa/
 way	1390506932	https://torremannella.com/nl/
+way	1391422334	https://www.agriturismolemacine.it/
+way	1391589931	https://www.tesla.com/en_eu/findus?location=303024
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4745,6 +4755,10 @@ node	12818751619	https://www.blockhausclimbing.it
 node	12825644476	https://ristoranterever.it
 node	12846533482	https://www.ilbosso.com/centro-visita-del-lupo/
 node	12873377885	https://cultura.gov.it/luogo/polo-museale-santo-spirito-museo-archeologico
+node	12879334141	https://www.ristoranteclemente.it
+node	12883355748	https://www.bnbcasapetrarca.com
+node	12887327116	https://www.basilikum.it/menu
+node	12894321758	https://centrorossetti.it
 way	93958554	https://www.storkcampingvillage.com/
 way	148593095	https://www.hotellenazioni.com
 way	246620756	https://www.polomusealeteramo.it/sedi/sito-archeologico-di-largo-sant-anna/14-10.html
@@ -4769,6 +4783,7 @@ relation	8646860	http://www.gssi.it/
 relation	18178088	http://www.cantinacrecchio.it/contattaci/
 relation	19190580	https://borghidelgransasso.it/
 node	768603431	https://farmaciasanmassimopenne.it/
+node	2335563949	https://www.bbilparcodeipoeti.it/
 node	5235268513	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
 node	5235286740	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
 node	5235292044	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
