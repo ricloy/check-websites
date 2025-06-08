@@ -255,7 +255,6 @@ node	1755183916	https://www.libracciourbino.it/
 node	1755231738	https://magnagreciaurbino.it/product-tag/vegano/
 node	1773479013	https://www.ristorantelamezzaluna.com/
 node	1782153837	https://hoshikopokesushiancona.eatbu.com
-node	1782153850	https://www.amoreborghese.it/
 node	1782153861	https://trattoriadanordio.it/
 node	1785616016	https://www.tigota.it/negozi/025560
 node	1785616041	https://www.silviocoiffeur.it/
@@ -1426,7 +1425,7 @@ node	11182456128	https://www.autoscuolasciamanna.it
 node	11182799663	https://www.pasticceriaessenza.it/
 node	11182799665	https://www.mancinipneumatici.it/main.php
 node	11182799672	http://www.verdinimoto.com
-node	11182799688	https://www.repower.com/it
+node	11182799688	https://www.repower.com/dina
 node	11182872870	https://www.pagliariniviaggi.com/
 node	11184426966	https://biblioteche.unicam.it/architettura-e-design/biblioteca-di-architettura-e-design-fm-quinterio
 node	11185535608	https://negozi.vodafone.it/civitanova-marche/vodafone-store-corso-umberto-civitanova
@@ -1496,6 +1495,7 @@ node	11243554415	https://www.facebook.com/emozioniinlegnourbino
 node	11245138918	https://erdis.it/3-servizio-ristorazione-punti-di-ristoro-urbino/
 node	11245227955	https://www.urbinosecretgarden.it/default.aspx
 node	11247690836	https://sites.google.com/view/casa-vacanza-urbino/home-page
+node	11250676503	https://sba.uniurb.it/biblioteche-di-ateneo/biblioteca-universitaria-san-girolamo
 node	11252926729	https://www.viphotels.it/hotel/hotel-residence-dei-duchi-urbino/
 node	11256846285	http://www.hotel-tortorina.it/
 node	11263977974	https://www.bbsassofiorito.it/it/
@@ -1569,7 +1569,6 @@ node	11538065382	https://www.spectraengineering.it/
 node	11539648984	https://www.farmaciapagnoni.it
 node	11539648985	https://www.conad.it/ricerca-negozi/conad-via-salaria-26-63079-spinetoli--002304
 node	11539648987	https://www.parafarmaciavittori.it/
-node	11540594879	https://sba.uniurb.it/biblioteche-di-ateneo/biblioteca-universitaria-san-girolamo
 node	11545611010	https://www.farmaciacianca.it/
 node	11559717662	https://www.birrificiojester.it/
 node	11568871099	https://www.lafarmacia.it/trova-farmacia/porto-d-ascoli-san-benedetto-del-tronto
@@ -1654,7 +1653,7 @@ node	11990331950	https://www.ilgirasoleristorante.it/
 node	11997866469	https://www.ccode.net
 node	12003242084	http://www.studiotecnicodinicolo.it/
 node	12012309881	https://davarano.it/torre-beregna/
-node	12012549515	https://www.repower.com/it
+node	12012549515	https://www.repower.com/dina/
 node	12014285993	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/museo-delluomo/
 node	12014286003	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/museo-pinacoteca-darte-sacra-contemporanea/
 node	12014814726	https://gvmedicali.it/
@@ -2061,6 +2060,15 @@ node	12866354451	https://meteo.regione.marche.it/Monitoraggi/MeteorologiaStazion
 node	12871769009	https://www.osteria5colli.it
 node	12871973642	https://www.ferronigroup.it
 node	12872795590	https://www.solarissport.com/
+node	12880959950	https://www.tesla.com/en_eu/findus?location=29623
+node	12888120148	https://www.sushiarts.it/
+node	12888120151	https://www.takko.com/it-it/
+node	12888120156	https://studiodentistico-carloni.it/
+node	12888120159	https://www.optootticaurbino.it/
+node	12893440286	https://lameriggia.it
+node	12894214878	https://www.bocconiarredamenti.it
+node	12895121910	https://www.tecnoalsrl.com/
+node	12896223196	https://tennisfermignano.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2245,6 +2253,7 @@ way	304065388	http://www.hotelmassi.it/
 way	304102918	https://www.h-cristallo.it/
 way	304114299	https://www.termesantalucia.it/
 way	304143116	http://www.autoscuolamarche.com/
+way	304155991	https://pelletteriaflora.it/
 way	304156148	https://www.tbcom.it/
 way	304160349	https://www.villanena.it/
 way	304168167	https://www.iluoghidelsilenzio.it/chiesa-del-sacro-cuore-di-gesu-tolentino-mc/
@@ -2287,7 +2296,6 @@ way	310487226	https://www.vienna-hotel.it/
 way	310487229	http://www.hotelgiulietta.it/
 way	310488565	https://www.ristorantedacarlosenigallia.it/
 way	310491169	https://www.qubettidisabbia.it/
-way	310493627	http://verdementasenigallia.it/
 way	310493628	http://www.mascalzonesenigallia.it/
 way	310562664	https://www.tavernadeiguelfi.com/
 way	310925386	http://www.hotelbalticsenigallia.it/
@@ -2427,6 +2435,7 @@ way	428715427	https://www.conad.it/ricerca-negozi/negozio.009974.html
 way	430230965	https://www.rifugiozilioli.it/
 way	430232949	https://www.mountbnb.com/en/491/rifugio-mezzi-litri/scheda-rifugio
 way	431578981	https://www.riservagoladelfurlo.it/index.php?id=26186
+way	432392676	https://ristoranteyankeefano.it/
 way	433006148	http://www.museidiocesanimarche.it/
 way	433251824	https://www.carabinieri.it/
 way	433374150	https://www.comune.visso.mc.it/
