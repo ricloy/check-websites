@@ -75,7 +75,7 @@ node	2511964263	https://www.larturo.com/
 node	2512908190	https://negozi.vodafone.it/matera/vodafone-store-matera
 node	2513641088	https://www.panegusto.it/
 node	2514853508	https://www.sassilive.it/cultura-e-spettacoli/arte-cultura-e-spettacoli/le-edicole-votive-di-vico-case-nuove-a-matera-restituite-al-loro-splendore/
-node	2516298654	www.ivizidegliangeli.it
+node	2516298654	http://www.ivizidegliangeli.it
 node	2516308151	Www.icaponi.it
 node	2518271411	https://www.basilicatanet.com/ita/web/item.asp?nav=luce_natale_neolitico
 node	2519386298	https://www.infosassidimatera.com/
@@ -172,6 +172,7 @@ node	3585992795	https://biblioteca.unibas.it/site/home/biblioteca/sedi/polo-dell
 node	3604924538	http://www.liceoscientificomt.it/
 node	3733707428	https://www.itigeopz.edu.it/
 node	3734060325	http://www.paesit.eu
+node	3743170225	https://www.goblinspub.com/
 node	3989955325	https://www.criptadelpeccatooriginale.it/
 node	4064750387	https://www.syskrack.org/
 node	4097765362	http://giordanomargherita.wix.com/psi
@@ -208,6 +209,7 @@ node	5249129425	https://lacolacola.it/
 node	5272670342	https://www.fiordicucuzza.it
 node	5299118521	https://m.facebook.com/LaGazzaardaL/?locale2=it_IT
 node	5312238924	https://www.e-geos.it/
+node	5407068128	https://lagrottadipinocchio.it
 node	5448777321	https://www.fireflyaudio.it
 node	5451380537	http://www.cantucciodelvulture.it/
 node	5468947887	https://farmacia-materana.business.site/
@@ -425,7 +427,7 @@ node	9893168576	https://www.volee.it/campi-da-tennis/a-s-d-circolo-tennis-parco-
 node	9894767946	https://www.confindustria.basilicata.it/
 node	9896144816	https://www.gelateriacaruso.com/
 node	9900180105	http://www.piazzamulino26.it/
-node	9900209846	https://www.residencenazionalematera.com/?gclid=Cj0KCQjwz96WBhC8ARIsAATR253BAO17Twd21LVuCmyEUfG9nrzRRLoeDA3J9NeOE6fRwrkKnNR-M70aAl9lEALw_wcB/
+node	9900209846	https://www.residencenazionalematera.com/
 node	9900220231	https://www.langolodifrima.it/
 node	9900262364	https://www.studiocardinale.com/
 node	9901923588	https://www.csi.matera.it/jesce-matera/
@@ -463,7 +465,7 @@ node	9964645173	https://www.palazzodellafontana.it/
 node	9968545516	https://www.portodegliargonauti.it/
 node	9969851495	https://www.biblioteca.pz.cnr.it/
 node	9970955476	https://www.repower.com/it/dina/
-node	9970957748	https://www.repower.com/it
+node	9970957748	https://www.repower.com/dina
 node	9971624611	https://www.crob.it/crob/home.jsp
 node	9972320735	https://www.onoranzefunebrigiasi.com/
 node	9982057181	https://hotelridolamatera.it/
@@ -472,6 +474,7 @@ node	9986377083	https://dimora-al-mulino.business.site/
 node	9986825820	https://www.hotelbelvedere.matera.it
 node	10011449617	https://hoteldante.business.site/?gclid=Cj0KCQjwyOuYBhCGARIsAIdGQRMFgGuYzm00fpbp2HEz8QXiZkw3CwXTWuru-Od5_BugsYfrfGOuj0saAkU5EALw_wcB
 node	10029954356	https://giuasudmatera.business.site/
+node	10087193321	https://labottegadeltartufo.it/pages/matera
 node	10110728566	https://www.avvocatisalomone.it/
 node	10167509109	https://ics1lavello.edu.it
 node	10225956592	http://www.lestanzedellimperatore.it/
@@ -517,12 +520,15 @@ node	12498630125	https://www.busmiccolis.it/wp-content/uploads/2023/12/LINEA-SAS
 node	12526572921	https://www.codiceazienda.it/
 node	12635962809	https://beb.it/cortedeiventi/it/
 node	12741309895	https://www.verdebrillante.it/
+node	12778172420	https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza-via-pretoria
 node	12795978766	https://bigbenchcommunityproject.org/
 node	12809627883	www.palatiumsg.ir
 node	12848238280	https://www.eatera.net
-node	12871814035	ladimoradelcontadino.it
+node	12871814035	https://ladimoradelcontadino.it/
 node	12872868577	https://www.casadellamericano.it/
 node	12877037301	http://lucaniaoutdoorpark.it
+node	12881332196	www.ifioridelpollino.com
+node	12896616401	http://queenschips.com/
 way	33887443	http://musei.beniculturali.it/musei?mid=68&nome=museo-archeologico-nazionale-di-metaponto
 way	33887449	http://musei.beniculturali.it/musei?mid=326&nome=tempio-delle-tavole-palatine
 way	66767193	http://www.castelgrande.net/
@@ -675,6 +681,7 @@ way	586355643	http://www.latronico.eu/la-delegazione-comunale
 way	586355647	"https://www.poste.it/cerca/index.html#/risultati-cerca-up/Magnano,%20PZ,%20Italia"
 way	586355865	https://www.comprensivolatronico.it
 way	591609376	https://www.parrocchiasanlavierotito.it/
+way	613035080	https://www.liceovenosa.edu.it/
 way	654261466	https://www.pontetibetanosassodicastalda.com
 way	663818776	https://www.aquariuspolicoro.com/
 way	684956082	https://www.siraresort.com/
@@ -755,6 +762,7 @@ relation	5214171	https://portale.unibas.it/site/home.html
 relation	6274746	http://parcoappenninolucano.it/
 relation	8085866	http://www.santuariopicciano.it/
 relation	8221789	http://parcodellegravine.provincia.ta.it/
+relation	8497154	https://www.icvenosa.edu.it/
 relation	9085460	https://www.comune.pignola.pz.it/
 relation	10951071	https://fondoambiente.it/luoghi/castello-marchesale-di-palazzo-san-gervasio?ldc
 relation	10966342	http://www.rgspneumatici.it
