@@ -70,7 +70,7 @@ node	1108905771	https://www.coopmasterpuglia.it
 node	1123551214	http://www.labaraccaostaria.com
 node	1187317109	https://www.bostonbari.it/
 node	1199086752	https://www.villadegliaranci.it/it/home/
-node	1217731127	http://www.poste.it
+node	1217731127	https://www.poste.it/
 node	1221942942	https://www.masseriadelcrocifisso.it/
 node	1225113469	cribari.org
 node	1241563275	http://www.hotellesina.it
@@ -298,7 +298,6 @@ node	2883188640	https://www.mastroleo.com/
 node	2883188641	https://www.mastroleo.com/
 node	2917056214	https://www.eurospin.it/
 node	2933090739	http://www.bbleterrazzebisceglie.it/
-node	2939539701	http://www.camenae.it
 node	2963411144	http://www.ingenioweb.it
 node	2986033711	https://ambasadat.gov.al/bari-consulate/
 node	2987684565	http://www.siamotuttitufi.org
@@ -685,6 +684,7 @@ node	5064720769	http://antonellabellipario.altervista.org
 node	5087152942	http://yellow.guide/en/w-la-patata-taranto-italy-1564252617229932
 node	5091227621	http://www.peccatodivino.com
 node	5092200630	http://www.relaisvillamalia.com/
+node	5098858646	http://riodemarbeach.com/
 node	5110451158	https://www.ctptaranto.com/
 node	5110528939	http://www.petrolmengasrl.it/la-sede.asp?ID=3
 node	5110559071	https://www.poste.it
@@ -1968,10 +1968,10 @@ node	10992311972	https://www.nadirstarbene.it/
 node	10992706369	https://www.facebook.com/profile.php?id=100088761625947
 node	10993171123	https://www.prodigioimmobiliare.it/
 node	10993171126	https://alibisuites.it/
-node	10994955093	https://www.repower.com/it
+node	10994955093	https://www.repower.com/dina
 node	11001343015	https://despar.com/pdv/maiora-s-r-l-via-roma-n-70-modugno-158
 node	11001343017	https://scugnizzonapoletano.eatbu.com/
-node	11003043850	https://www.repower.com/it
+node	11003043850	https://www.repower.com/dina/
 node	11007819495	https://www.poste.it/
 node	11018502966	https://www.coopalleanza3-0.it/
 node	11018502967	https://www.sartorieplanet.it/
@@ -2873,6 +2873,7 @@ node	12676265362	https://www.grottadisantangelo.it
 node	12682194753	https://www.seatourgallipoli.it/
 node	12684218201	https://www.tazebike.com/
 node	12688242394	https://comune.sanmarzano.ta.it/argomento/gestione-rifiuti/
+node	12693792182	http://www.dropbari.it/
 node	12694054155	https://www.arteperartebari.com/
 node	12694054160	https://www.my-vets.it/
 node	12696351242	https://www.escursioniinbarca.it/
@@ -2969,13 +2970,25 @@ node	12846612235	https://vintageapt.it
 node	12846612236	https://www.barlettacivitasmariae.it/Chiesa-di-San-Michele.html
 node	12849518812	https://www.houseatravel.com/
 node	12853655895	https://www.blomour.com/home
-node	12858745542	lemarangigetaway.it
+node	12858745542	https://lemarangigetaway.it/
 node	12860462011	https://www.cisterninorevisioni.it/
 node	12860737099	https://horusgioielli.it/
 node	12860737100	https://raphaelstore.com/
 node	12860938694	http://www.ilchiostrobnb.it/
 node	12865134695	https://www.ilgalantecasavacanza.com/
 node	12871692515	https://www.eitowers.it/
+node	12883564543	https://www.britishbrindisi.it/
+node	12883564544	https://www.sanita.puglia.it/web/asl-brindisi/poliambulatori_det/-/journal_content/56/36031/poliambulatorio-brindisi
+node	12884016001	https://it.wikipedia.org/wiki/Calimera#Chiesa_dell'Immacolata
+node	12888071392	https://unsolomondo.org
+node	12889673108	website-63-osteria-contemporanea.eatbu.com
+node	12892560129	https://www.instagram.com/_stock_shock
+node	12894387882	https://laperladelsur.casa/
+node	12896182627	https://www.sanmarcopizzeria.it/
+node	12896182628	https://gmnailsacademy.webnode.it/
+node	12896182632	https://caffeviro.company.site/
+node	12896182634	https://www.facebook.com/MacelleriaGioia/
+node	12896182635	https://www.carabinieri.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -3093,6 +3106,7 @@ way	232688234	https://baiadimanaccora.it/
 way	233113270	https://www.villaggioialillo.it/Camping_Jalillo.asp
 way	233113272	https://www.villaggiobellariva.it/
 way	236398211	http://www.campofreddo.it
+way	238463648	https://www.borgodelcavaliere.com/
 way	239853311	http://www.agricampeggioleradici.it
 way	240305038	https://frontemarepuglia.it/
 way	240502996	https://www.alberghieromolfetta.edu.it
@@ -3580,6 +3594,7 @@ way	422354207	https://www.palazzovirgilio.it/
 way	422354214	http://www.webdiocesi.chiesacattolica.it/pls/cci_dioc_new/bd_dioc_annuario_css.singolo_ente?p_pagina=13255&id_dioc=108&id_en=14&colore1=&colore2=&layout=0&rifi=&rifp=&vis=1
 way	422354216	http://www.comprensivocentrobr.gov.it/
 way	422355268	https://www.rcfsrl.com/
+way	422355544	https://www.sanita.puglia.it/web/asl-brindisi/distretti-socio-sanitari_det/-/journal_content/56/36031/dss-n-1-brindisi
 way	422356438	http://www.comprensivocentro1.edu.it/
 way	422356545	https://www.majoranabrindisi.edu.it
 way	422356584	http://www.comprensivocentro1.edu.it/
@@ -3593,7 +3608,6 @@ way	423042540	http://www.parrocchiasanpaolomartinafranca.blogspot.com/
 way	423153183	https://www.pianetaostuni.it/index.php/masserie/tutte/329-soluco
 way	423154807	https://www.tenutaodegitria.it/it/
 way	423157307	https://www.decomobili.com/
-way	423162418	http://www.comunemartinafranca.gov.it/index.php?option=com_content&view=article&id=1160:1-porta-di-santo-stefano-oggi-detta-arco-di-sant-antonio&catid=139&Itemid=175&lang=it&skin=white&size=80
 way	423173201	https://www.newsunflower.it
 way	423180653	https://bb-chiancaro.business.site/
 way	423545087	https://www.fseonline.it/
@@ -3606,6 +3620,7 @@ way	423994826	https://ledunedelmarchese.com/
 way	424002824	https://www.borgoluna.com/
 way	424004675	https://www.masseriacuturi.it/
 way	424121000	http://www.palmisanokarting.it/kart/
+way	424155681	https://www.carabinieri.it/
 way	424270909	https://www.lapinetadeicavalli.it/
 way	424291002	https://www.basilicaorsiniana.it/
 way	424291373	https://www.clinicasanfrancesco.com/
@@ -3891,6 +3906,7 @@ way	628537665	http://www.tenutalasiesta.it
 way	639827647	https://www.centrobethel.it
 way	643690242	http://www.masseriagiovanni.it
 way	646592340	https://www.wwf.it/oasi/puglia/il_rifugio_melitto/
+way	648830366	https://www.conad.it/ricerca-negozi/conad-via-dalmazia-angolo-via-moro-46-72100-brindisi--009599
 way	654761731	https://www.strammiellotrasporti.it/
 way	655434938	https://www.m3centroceramiche.com/
 way	660563824	https://www.masserialuciagiovanni.it/
