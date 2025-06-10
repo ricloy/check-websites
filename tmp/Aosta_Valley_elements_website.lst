@@ -118,6 +118,7 @@ node	3264562216	http://www.comune.brusson.ao.it/
 node	3264573191	https://www.lamaisondedolphe.com/
 node	3264580264	http://www.labreny.it/
 node	3290454779	https://www.rifugiochabod.com/
+node	3301034656	https://caffedellaposta.it/
 node	3342860813	https://www.ovs.it/
 node	3342860814	https://www.ovs.it/
 node	3350279489	https://www.alchimiemediali.it/
@@ -130,6 +131,7 @@ node	3644015515	www.residenceplanpincieux.it
 node	3671946584	https://www.laviadelleterme.it/
 node	3676280519	www.ilfieniledellanonna.it
 node	3676281156	www.appartamenti-valledaosta.it
+node	3696626158	https://hotelcristallocourmayeur.com/
 node	3696653187	www.guidecourmayeur.com
 node	3696655630	https://www.lapadella.info/
 node	3696664892	http://www.lagrottalathuile.com/
@@ -258,6 +260,7 @@ node	9241324442	https://www.chezannie.it/
 node	9261538511	https://www.hotelaigle.it/
 node	9343584916	https://www.cafferuitor2aosta.it/
 node	9371240100	http://www.partitodemocraticodellavalledaosta.it/
+node	9388904099	https://locandalabrenva.it/
 node	9391437343	https://www.quendozaosta.it/
 node	9392953101	https://www.castellogamba.vda.it/
 node	9399286093	https://www.lapalud.it/
@@ -281,9 +284,12 @@ node	9729678304	https://www.lovevda.it/it/banca-dati/7/bivacchi/la-salle/bivacco
 node	9897665465	https://www.univda.it/servizi/biblioteca/
 node	9920764453	http://rafting.it/
 node	9931726128	https://www.lasapiniere.it/
+node	9931730394	https://biblio.regione.vda.it/biblioteche-sbv/courmayeur/
+node	9931738179	https://villanovecento.it/
+node	9931744604	https://hoteldelviale.com/
 node	9968472200	https://www.repower.com/dina/
 node	9970850964	https://www.repower.com/dina/
-node	9970898910	https://www.repower.com/it
+node	9970898910	https://www.repower.com/dina
 node	10006149532	https://langolinodibonny.it/
 node	10009106269	https://histoiredebornes.ch
 node	10009106270	https://histoiredebornes.ch
@@ -338,6 +344,7 @@ node	11466369682	https://www.calzedonia.com/
 node	11542461094	https://www.weejay.com
 node	11577647730	https://www.lesplaisirsdantan.com
 node	12041288969	https://heroebike.com/
+node	12066741531	https://www.msj.it/
 node	12068341636	https://ebike.bikesquare.eu/ita/valle-aosta
 node	12082310091	https://www.sushifanaosta.it/
 node	12082835251	https://lastazionedellacqua.it/
@@ -358,6 +365,10 @@ node	12628888531	https://www.comune.fenis.ao.it/it/magic-hicking-il-sentiero-mag
 node	12830487601	https://jouretnuit.it/
 node	12844576017	https://www.lovevda.it/it/banca-dati/16/ristoranti/courmayeur/chalet-joli/2035
 node	12844877210	https://www.hirondelle.host/
+node	12896991942	https://www.montfretypub.com/
+node	12896999648	https://www.hotelberthod.com/
+node	12897017851	https://www.hotelcourmayeur.com/
+node	12897021744	https://dufercoenergia.com/
 way	27264184	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264185	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264187	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -614,8 +625,11 @@ way	160843182	https://www.walserhotel.com/
 way	160843200	https://www.lovevda.it/it/banca-dati/8/chiese-e-santuari/courmayeur/chiesa-parrocchiale-dei-santi-pantaleone-e-valentino/930
 way	160843214	http://www.hotelcentralecourmayeur.com/en/
 way	160843228	http://www.hotelcroux.it/
+way	160843260	https://www.crampon.it/
+way	160843312	https://www.levieuxpommier.com/
 way	160891040	https://www.lemassifcourmayeur.com
-way	160891082	pizzeriadutunnel.it
+way	160891073	https://www.pavillon.it/it/hotel-pavillon/
+way	160891082	https://www.pizzeriadutunnel.it/
 way	160977651	https://www.alpissima.it/gran-baita-courmayeur/
 way	160977653	https://ih-hotels.com/it/i-nostri-aberghi/ih-hotels-courmayeur-mont-blanc-resort.html
 way	160998408	https://www.hotelsvizzero.com/
@@ -624,6 +638,7 @@ way	161265133	https://www.comune.villeneuve.ao.it/
 way	161265167	https://cofruits.it/
 way	161438620	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	161482858	https://www.pilierdangle.it/
+way	161488378	https://www.hoteldeicamosci.com/
 way	161490602	https://www.golfcourmayeur.it/
 way	161659703	https://www.poste.it
 way	161681506	https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/sarre/castello-reale-di-sarre/1131
@@ -670,6 +685,7 @@ way	180531934	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	180736202	https://www.comune.aymavilles.ao.it/turismo/territorio/castelli-e-dintorni/castello-di-aymavilles
 way	181558199	http://www.campeggiolapineta.it/
 way	184968550	https://shatushmontblanc.com
+way	185036901	https://www.hotelroyalegolf.com/en/5-star-hotel-courmayeur
 way	185036928	https://www.hotelboutondor.com
 way	186255789	https://campingarcenciel.it
 way	187761348	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -866,6 +882,7 @@ way	1118748353	https://www.qcterme.com/it/pre-saint-didier/qc-terme-pre-saint-di
 way	1148974860	https://ostellodiarpy.com/
 way	1154606513	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	1154606514	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
+way	1167321034	https://www.rcollectionhotels.it/en/grand-hotel-courmayeur/hotel-courmayeur
 way	1197121607	https://www.bivaccoedoardocamardella.it
 way	1204931540	https://www.lovevda.it/it/banca-dati/7/bivacchi/sarre/bivacco-alessandro-pansa/3252
 way	1317457820	https://www.rebelpark.it
