@@ -2082,6 +2082,7 @@ node	9455400694	http://despar.it
 node	9463674775	http://www.optica.ud.it/
 node	9467951911	https://www.diemmelegno.it/
 node	9502861271	https://www.open-door.it/associazione/gruppo-scout-f-s-e-trieste-2/
+node	9528276776	https://www.dietnatural.it/
 node	9529318337	https://www.dttrieste.com/
 node	9545672751	https://www.ferdi.it/
 node	9554266750	https://www.interlandsped.com/it/
@@ -2166,6 +2167,7 @@ node	9949560489	https://m.facebook.com/profile.php?id=330036847609880&ref=br_rs
 node	9949639397	https://m.facebook.com/lelevery7275/
 node	9951445585	https://www.hotelsonia.com/
 node	9957844492	https://www.calzedonia.com/it/negozi/friuli-venezia_giulia/udine/cividale_del_friuli_via_carlo_alberto_1/CW51.html
+node	9960848437	https://www.repower.com/it
 node	9963780271	https://www.stabilimentotivoli.com/ristorante/
 node	9964476940	https://www.repower.com/it/la-mobilita-elettrica/
 node	9967464435	https://www.repower.com/dina/
@@ -2348,7 +2350,7 @@ node	10742204153	https://www.mdf-trieste.it/
 node	10764417980	http://caitolmezzo.it/
 node	10764494449	http://www.caitarvisio.it/
 node	10777651185	https://www.gvt.it
-node	10788363662	https://www.repower.com/it
+node	10788363662	https://www.repower.com/dina
 node	10788408396	https://www.repower.com/it
 node	10788414242	https://www.repower.com/dina/
 node	10788748105	https://www.marchiol.com
@@ -2422,7 +2424,7 @@ node	11259989411	https://tuttoestetica.wixsite.com/tuttoestetica-srl
 node	11261269362	https://www.turismofvg.it/en/grandeguerra-trieste-e-the-karst/open-air-museum-of-mt-ermada
 node	11282362428	https://www.ssorg.eu/
 node	11284308375	https://www.repower.com/it
-node	11284308376	https://www.repower.com/it
+node	11284308376	https://www.repower.com/dina
 node	11284308384	https://bikeandgo.it/it/prenotazione-lignano-passo-barca.html
 node	11284604250	https://www.facebook.com/people/La-bottega-di-Gina/100088211875785/
 node	11284623653	https://www.attcaffe.com/
@@ -2879,10 +2881,15 @@ node	12836898684	https://www.bed-and-breakfast.it/de/friaul-julisch-venetien/bb-
 node	12848508367	https://trattoriadinapoli.it/
 node	12850338662	https://www.studioeleganceessentials.com/
 node	12850530488	https://leserre.co/it/
-node	12860966601	http://www.mansuttitricesimo.it
-node	12860991401	http://www.mansuttitricesimo.it
+node	12860966601	https://www.mansuttitricesimo.it/
+node	12860991401	https://www.mansuttitricesimo.it/
 node	12861008301	http://www.infotech.it/
 node	12872951957	https://www.scoutfeletto.org/
+node	12886676195	https://www.allasperanza.com/
+node	12886713491	http://www.trasportictf.com/
+node	12886720895	https://www.impresaportualeportonogaro.it/
+node	12895145827	https://www.zibonimobilities.com
+node	12901554155	https://sircelli.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -3743,6 +3750,7 @@ way	667918954	https://www.vigilfuoco.it/
 way	668157652	https://www.lupinc.it/
 way	669592091	http://www.interportotrieste.it/
 way	670044680	https://www.comune.sandanieledelfriuli.ud.it/
+way	670549014	https://nord-composites.it/
 way	672985008	http://www.florianinc.com/it/il-gruppo/le-aziende/
 way	680689382	http://www.protezionecivilemonfalcone.org/
 way	683077717	https://www.anicura.it/cliniche/animal-care/
@@ -4040,7 +4048,6 @@ way	1369016052	https://www.mckinsey.com/business-functions/operations/how-we-hel
 way	1384576556	https://www.eurospin.it/punti-vendita/cervignano-del-friuli-via-aquileia/
 way	1386361507	https://www.gruppobosco.it/
 way	1391575133	https://www.tesla.com/en_eu/findus?location=303406
-relation	52345	https://www.ktn.gv.at
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4444,7 +4451,6 @@ relation	2388419	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carni
 relation	2388790	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-705a
 relation	2390034	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-643/
 relation	2396655	https://www.cai-fvg.it/sentieri-cai-fvg/settore-2-dolomiti-pesarine-monti-di-sauris/s2-202
-relation	2396656	http://caitolmezzo.it/sentieri/
 relation	2402204	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-340
 relation	2402205	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-348
 relation	2402206	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-354
@@ -5141,8 +5147,6 @@ relation	13905579	https://www.outdooractive.com/de/route/wanderung/carnia/forni-
 relation	13911731	https://www.outdooractive.com/de/route/bergtour/carnia/rigolato-givigliana-rifugio-tolazzi-wolayersee-huette/62090687
 relation	13912001	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13912002	https://www.triestetrasporti.it;https://tplfvg.it/it/
-relation	13915280	https://www.triestetrasporti.it;https://tplfvg.it/it/
-relation	13915281	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13936612	https://www.comune.faedis.ud.it/index.php?id=5459&L=6
 relation	13937639	https://www.comune.faedis.ud.it/index.php?id=5459&L=6
 relation	13937678	https://www.comune.faedis.ud.it/index.php?id=5459&L=6
@@ -5210,8 +5214,6 @@ relation	14888781	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14888782	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14888866	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14889083	https://www.triestetrasporti.it;https://tplfvg.it/it/
-relation	14889337	https://www.triestetrasporti.it;https://tplfvg.it/it/
-relation	14889338	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14889428	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14889429	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14907659	http://via-alpina.org/de/stage/72
@@ -5321,6 +5323,7 @@ relation	16529801	https://www.hoptour.it/
 relation	16530768	https://tplfvg.it/it/il-viaggio/servizi-a-chiamata/trieste/
 relation	16811911	https://www.jakobova-kolesarska-pot.si/
 relation	16825905	https://www.jakobova-kolesarska-pot.si/
+relation	17051092	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/ferrata-creton-di-culzei/
 relation	17091601	https://www.romeastrata.org/
 relation	17092035	https://www.romeastrata.org/
 relation	17092036	https://www.romeastrata.org/
@@ -5384,7 +5387,6 @@ node	939159246	https://www.filoxenia.it/
 node	1260510118	https://www.ristorantedatoni.it/
 node	1357503815	https://www.alparcoristorante.it/
 node	1586852138	www.abacoviaggi.com
-node	1586852183	www.camomillaitalia.com
 node	1586852193	www.claroitalia.it
 node	1586852211	https://www.carpisa.it/
 node	1586852220	www.unieuro.it
@@ -5434,6 +5436,7 @@ node	3011946278	http://www.labottelignano.it/
 node	3067667571	https://m.facebook.com/ilgamberorossolignano
 node	3152597409	www.hm.com
 node	3154519572	https://www.burgerking.it/
+node	3314478591	https://www.facebook.com/Gdsclarascuoladiballo/
 node	3358341694	http://www.reporterstarvisio.it
 node	3424506659	https://www.eurospesa.it/
 node	3424506660	https://www.aeo.it/
@@ -5525,7 +5528,6 @@ node	6496439185	https://www.altiglioveg.it
 node	6606571085	https://www.gelateriamu.it/
 node	6755953166	https://www.robertolandello.com/
 node	7419700227	www.hdental.it
-node	7419700228	www.arcaplanet.it
 node	7419700231	www.doppiomalto.com
 node	7579703094	https://www.mcps.it
 node	8063664712	https://ww.maracaiba.it
@@ -5791,7 +5793,7 @@ way	183435022	https://www.diamantcar.it
 way	183435023	https://www.precisionmechanics.eu
 way	185431525	http://www.alpstation.it
 way	185431533	http://www.baldansport.com
-way	185442930	http://www.hotel2000.org
+way	185442930	https://www.hoteltarvisio.com/
 way	185442935	http://www.labaitadeisapori.com
 way	185442938	http://www.lussari.com/
 way	185444989	http://www.hotelraibl.com/
