@@ -59,7 +59,6 @@ node	639359448	https://www.vittoriaristorante.it/
 node	639617646	https://www.pizzeriabellanapoliascoli.it/
 node	644135437	https://www.villasanmarco.it/
 node	647384024	https://www.gabrielliunika.it/it/il-mio-negozio.425.html
-node	653001426	https://www.pizzaexpress.ancona.it
 node	653001436	https://www.conad.it/ricerca-negozi/negozio.009949.html
 node	658940303	https://stores.oltre.com/it/italia/ascoli-piceno/ascoli-piceno-zona-industriale-campolungo
 node	659630555	https://www.acquaesapone.it/puntivendita/ancona-via-giordano-bruno-85/
@@ -243,6 +242,7 @@ node	1640143475	https://www.thecityancona.it/
 node	1643882770	https://www.lafeltrinelli.it/fcom/it/home/pages/puntivendita/negozi/trova/marche/la-Feltrinelli-Librerie-Ancona.html
 node	1654067604	https://www.conad.it/ricerca-negozi/negozio.009914.html
 node	1668147440	http://www.siconte.it/it/punti-vendita/si-superstore/falconara-m-ma-le-ville
+node	1699887895	https://www.oldwildwest.it/code/20001/ancona-multisala-giometti
 node	1699887911	https://otello-cafe.business.site/
 node	1707812186	https://www.gabrielliunika.it/it/punti-vendita.html?store=7102
 node	1717069517	https://www.cinemamargherita.com/
@@ -1955,7 +1955,6 @@ node	12526984857	https://www.tigota.it/negozi/022421
 node	12531063459	http://www.falegnameriaaghetoni.it/
 node	12531440905	https://zetabidenim.it/
 node	12532173100	https://www.spadoniarredamenti.com/
-node	12535041829	https://www.instagram.com/alambiccogineriaancona
 node	12535117254	https://www.happy-camper.it/
 node	12546207448	https://local.churchofjesuschrist.org/it/it/ancona/ancona/via-fermo-1-b
 node	12554538294	https://serviziweb.asur.marche.it/GASASUR/gas.php?mod=ORG&padre=523
@@ -2011,6 +2010,7 @@ node	12804358901	https://solarispesaro.it/
 node	12812334631	https://www.amap.marche.it/progetti/olivicoltura/pubblicazioni/le-icone-della-biodiversita-gli-olivi-monumentali-delle-marche
 node	12816771789	https://www.delta-motors.it/
 node	12822612524	https://www.booking.com/hotel/it/officina-di-leo.it.html
+node	12829066384	https://store.rinascimento.com/it/italia/marche/fano/rinascimento-141
 node	12829066387	https://www.cooperativacontatto.it/attivita/senza-tempo/abiti-senza-tempo-2/
 node	12830537289	https://www.concadoro.com/
 node	12830537292	http://cantinasesi.it/
@@ -2069,6 +2069,10 @@ node	12893440286	https://lameriggia.it
 node	12894214878	https://www.bocconiarredamenti.it
 node	12895121910	https://www.tecnoalsrl.com/
 node	12896223196	https://tennisfermignano.it/
+node	12896789666	https://fienile.bedsandhotels.com/
+node	12898677755	https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede/dettaglio-sedi.it.sezione-sedi.sedi-inps.030001.030001-elencoStruttureInps.html
+node	12901585895	https://www.pizzaexpress.ancona.it
+node	12901585896	https://www.orocash.it/an02-compro-oro-ancona
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2409,6 +2413,7 @@ way	375994743	http://www.casaaccoglienzadilvabaroni.org
 way	375998165	https://www.iluoghidelsilenzio.it/abbazia-di-san-vittore-alle-chiuse-genga-an/
 way	376352931	https://www.operapadreguido.it/
 way	376940809	https://www.kinesissport.it/
+way	376965124	https://ancona.lexus.it/
 way	377192013	https://www.mdspa.it/punti-vendita/Marche/Ancona/827-Ancona
 way	377192030	https://www.cgilancona.it/orari-e-servizi/
 way	379334582	http://www.serboni.it
@@ -2541,13 +2546,14 @@ way	648544500	https://www.cooperativailtalento.org
 way	655556416	http://www.athleticclubpesaro.it/
 way	661615772	https://www.mobiltesino.it/
 way	663185830	https://www.villaggiolemimose.it
+way	671379626	https://www.dgtne.it/uffici-motorizzazione-civile/marche/ufficio-motorizzazione-civile-ancona/
 way	672675108	https://www.agenziamedica.it/strutture/ospedale-di-cingoli-cingoli/
 way	676045101	https://www.biancazzurro.org/
 way	679439267	https://www.facebook.com/NonnaQuerciaFurlo
 way	680794157	https://www.iismarconipieralisi.it/
 way	689617822	http://www.basilicamisericordia.it/
 way	690136858	http://www.beniculturali.marche.it/Ricerca/tabid/41/ids/65507/Palazzo-delle-Terme/Default.aspx
-way	691106264	https://www.elioscamerano.it
+way	691106264	https://place44.com/
 way	691110509	https://pasticceriapicchio.com/
 way	693909536	http://www.antonietti-fcagroup.it/?locationCode=00002102
 way	696231715	https://www.campingparadiso.net/
@@ -2847,6 +2853,7 @@ way	1388266037	https://www.casalfarano.it/
 way	1388266040	https://www.difioreforni.com/
 way	1388813958	https://villalapassione.it
 way	1388876860	https://www.colleindaco.it
+way	1393266841	https://ilcolledelsolematelica.it/index.html
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1512917	https://www.iismerlonimiliani.it/
@@ -2873,7 +2880,6 @@ relation	7575064	https://www.camminofrancescanodellamarca.it/
 relation	7575437	https://www.camminofrancescanodellamarca.it/
 relation	8438504	https://www.casacultureancona.it/il-sentiero/
 relation	8440256	https://camminoportadoriente.com/
-relation	9068487	https://www.gruppozaffiro.it/residenze/marche/residenza-cappuccini/
 relation	9074536	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	9075394	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	9292581	http://www.ospedaliriuniti.marche.it
@@ -2971,6 +2977,7 @@ relation	18715216	https://www.adbascoli.it/anelli-ascolani/verde/
 relation	18715217	https://www.adbascoli.it/anelli-ascolani/giallo/
 relation	18803666	https://www.centromirum.it/
 relation	18952790	https://camminoportadoriente.com/
+relation	19244536	https://www.gruppozaffiro.it/residenze/marche/residenza-cappuccini/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
