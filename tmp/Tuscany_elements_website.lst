@@ -824,7 +824,6 @@ node	2361665696	http://copyform.it
 node	2361668204	http://www.bioveggy.it
 node	2361678563	https://www.ferramentabellini.com/
 node	2361678741	https://www.pokelabfirenze.it
-node	2361680205	https://www.pampanorama.it/
 node	2361683976	https://www.signumfirenze.it/
 node	2361684494	https://malloni.com/
 node	2361696347	http://www.osteriarematto.com
@@ -1240,7 +1239,7 @@ node	2983098835	https://www.drmax.it/le-nostre-farmacie/capannori-viale-europa-3
 node	2986593464	http://www.poderelafonte.com
 node	2986984382	https://www.afmfollonica.com/
 node	2987006549	https://www.afmfollonica.com/
-node	2989948334	https://www.comune.follonica.gr.it/area_informativa/farmacie_turno
+node	2989948334	https://www.comune.follonica.gr.it/Servizi/Farmacie-di-turno
 node	2991991513	https://www.unicooptirreno.it/punto-vendita/vicarello
 node	2992666090	https://www.parcocollinemetallifere.it/
 node	2992666091	https://www.parcocollinemetallifere.it/
@@ -1650,7 +1649,7 @@ node	4111300020	https://www.farmavaldarno.it/contents/farmacia-comunale-leccio/
 node	4111981330	http://www.ilfunaro.org
 node	4115768989	https://ilpizzaiuolo.it/
 node	4131128475	https://www.conservatoriosanpiermartire.it
-node	4139666927	http://www.damaurizio.it
+node	4139666927	https://www.damaurizio.it/
 node	4139721265	https://www.ilpirataristorantepizzeria.com/
 node	4144981593	http://www.museopievesangiuliano.it
 node	4149881089	http://www.storicomercatocentrale.it/nerbone
@@ -1710,6 +1709,7 @@ node	4210072407	https://www.andreagnelli.com/
 node	4210072409	https://masterdentsmile.it/
 node	4210490791	https://www.conad.it/ricerca-negozi/conad-city-via-delle-gardenie-23-50047-prato--003394
 node	4210536692	https://www.coopfirenze.it/negozi-e-promo/negozi/firenze-le-piagge?id=001048
+node	4212610501	https://itatti.harvard.edu
 node	4213820289	https://www.touristcenterlucca.com/
 node	4213823389	https://www.booking.com/hotel/it/residenza-le-perle-di-venere.ru.html
 node	4215462785	https://www.pievedepitti.it/
@@ -1766,7 +1766,6 @@ node	4264382891	http://www.laterrazzadimontepulciano.it/
 node	4268826695	https://www.hotelrosadeltirreno.it/
 node	4269910892	http://www.RoomInFlorence.com
 node	4272122889	https://kiko-stores.kikocosmetics.com/it/italia/toscana/siena/siena?utm_medium=GMBSitelink&utm_campaign=GMBSitelink_SIENA_897
-node	4274469455	https://www.msn.unifi.it/luogo/orto-botanico/
 node	4274476657	www.trattoriairaddi.it
 node	4274486896	https://www.ferragamo.com/museo
 node	4274532130	https://www.lanuovapasticceria-siena.com/
@@ -2210,9 +2209,7 @@ node	5122784128	http://www.intergommaservice4.it/sede-ghezzano/
 node	5124611098	https://www.easybikemaremma.it
 node	5128363319	https://pisa.cttnord.it/
 node	5131166919	https://www.ideacolore.it/
-node	5136214749	"https://www.otticafontani.it/
-https://otticafontani.com
-https://fotootticafontani.com"
+node	5136214749	https://www.otticafontani.it/ https://otticafontani.com https://fotootticafontani.com
 node	5137018222	https://www.pantanello.it/
 node	5138588223	http://www.osteriabernardo.it
 node	5141413697	http://www.lesalaiole.it/
@@ -2702,7 +2699,6 @@ node	5982044686	https://www.hhflorence.com
 node	5984118923	https://agriturismopalagetto.com/ristorante/
 node	5990490985	http://mywell.it
 node	5991477700	https://ristoranteoltreilgiardino.com/
-node	5993633155	https://frittoego.it
 node	5993633161	http://www.lasuiteimmobiliare.com/
 node	5993744031	https://www.macelleriaristori.it/
 node	5993744040	https://www.lacapanninadelpescatore.it/
@@ -3093,7 +3089,6 @@ node	6832757217	https://farmacia-di-contea.myshopify.com
 node	6833355997	https://www.at-bus.it/it
 node	6835396286	http://www.osteriadarosolo.com
 node	6835462125	https://www.immobiliarefrancesca.it/
-node	6835750785	https://www.mastrojanni.com/en/585/restaurant
 node	6845081778	https://www.nuovacarrozzeriamarchetti.it/
 node	6845081779	https://www.moonlightdance.net/
 node	6845294295	https://www.farmaciaceriani.it
@@ -3187,6 +3182,7 @@ node	7148743497	http://www.sigfridobartolini.it/la-casa-museo
 node	7148913338	http://www.agricolagelli.it/museo.html
 node	7154843183	https://www.museoardengosoffici.it/index.php
 node	7162432420	https://www.fortezza59.it/
+node	7164780425	https://www.extremaratio.com/
 node	7172233252	https://www.openpi.it/
 node	7177762385	http://www.associazionesofignano.com/ostello-le-fornaci.html
 node	7179710678	https://livorno.ubiklibri.it/
@@ -3281,8 +3277,10 @@ node	7319468527	https://ortobotanicodilucca.it/collection/museo-cesare-bicchi/
 node	7319468533	https://www.fondazioneragghianti.it/
 node	7319468537	http://www.ugoguidi.it/
 node	7319709133	https://www.fondazionesantamarianuova.it/
+node	7319709139	https://itatti.harvard.edu/visiting
 node	7319709151	https://www.museofigurinostorico.it
 node	7325281941	https://www.sba.unifi.it/p59.html#bib5
+node	7325281957	https://itatti.harvard.edu/library
 node	7326446035	https://www.bibliotecapetrarca.com/
 node	7326506020	https://www.comune.fiesole.fi.it/opencms/opencms/cultura/biblioteche/biblioteca_comunale/
 node	7326555649	https://www.comune.sesto-fiorentino.fi.it/it/biblioteca
@@ -4175,7 +4173,7 @@ node	9853440565	https://www.elabor.biz/
 node	9855789473	https://www.loacker.bio/de/tenuta-corte-pavone/
 node	9867746406	https://www.paginegialle.it/faella-ar/gastronomie/fiasco
 node	9868642039	https://www.birrificioagricolopoggiorosso.it/
-node	9871763717	https://yellowsquare.it
+node	9871763717	https://yellowsquare.com/florence/
 node	9872064197	https://www.borgolargo51.it
 node	9872734909	https://cultura.comune.fi.it/mundi
 node	9874873827	http://www.latassaia.it/
@@ -5810,6 +5808,7 @@ node	12016576204	http://www.sienaeasytourism.com/
 node	12016576208	https://www.parrucchieresystem.it/
 node	12016655485	https://www.visitcretesenesi.it/it/musei/museo-palazzo-corboli
 node	12016655533	http://museodarte.org/
+node	12020007847	https://www.salvettisnc.it/
 node	12020095172	https://legatoriacopisteriatopcopy.com/
 node	12020095177	https://siena.mgpg.it/
 node	12020095178	http://giampierocito.it/
@@ -6143,6 +6142,7 @@ node	12077421433	https://www.miodottore.it/jurgen-sota/reumatologo/grosseto?utm_
 node	12078539196	https://www.hairlabcascina.it/
 node	12078965888	https://prink.it/monteriggioni-1517
 node	12078965890	https://ivydiagnostics.com/
+node	12078965894	https://www.motoracerevisioni.it/
 node	12078965905	https://www.drivingthedream.it/en/
 node	12080948348	https://www.clinicaveterinariasanmartino.com/
 node	12080948349	https://peragnoliauto.jaguar.it/
@@ -6486,7 +6486,6 @@ node	12649450395	https://www.artbeatstudio.it/
 node	12649632040	https://www.immobiliarefirenze.it
 node	12650463064	https://www.argentarioturismo.it/rilassati-argentario-maremma-toscana/cala-grande-maremma-toscana/
 node	12652702936	https://www.tattistampa.com
-node	12657198832	https://b.massimotoscano.org/
 node	12657387564	https://www.facebook.com/RistoranteEnotecaBonfantiLarciano
 node	12657405792	https://www.facebook.com/agriturismoilghianda/
 node	12658131762	https://www.aurumhotels.it/
@@ -6687,7 +6686,7 @@ node	12877601758	https://www.carmania.it
 node	12878921171	https://www.comunitadellepiagge.it/
 node	12880584796	https://www.acquarioelba.com/
 node	12881871132	https://clinica-iphone.com/cliniche/clinica-iphone-siena
-node	12881871133	http://www.acquaesapone.it/
+node	12881871133	https://www.acquaesapone.it/
 node	12881871134	http://www.moneygram.it/
 node	12881871136	https://www.alleanza.it/atportal/
 node	12881871156	https://www.bike-tour-tuscany.com/
@@ -6722,6 +6721,14 @@ node	12888287101	https://www.argentarioturismo.it/rilassati-argentario-maremma-t
 node	12888509192	https://www.ostemoderna.com/
 node	12895073475	https://www.franzasas.it/
 node	12895080742	https://www.italiaricambigas.it/
+node	12896207757	https://www.toscanazoo.it
+node	12899622618	https://www.signornico.com/
+node	12901649001	https://ognissantihotel.it/
+node	12902239370	https://www.barilgiardinodelmare.com
+node	12909560891	https://cecchini-firenze.com/
+node	12912520942	www.ilgaribaldisanquirico.it
+node	12913162051	https://www.pampanorama.it/
+node	12913387324	http://www.metallo-nobile.com
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -6851,6 +6858,7 @@ way	70561747	https://www.campingarrighi.it/
 way	71226462	http://www.golfomola.it/
 way	71407753	https://www.vianova.it
 way	71439287	https://www.comune.camaiore.lu.it/it/arte-cultura/teatro-dell-olivo
+way	71500192	https://www.libertassport.com/
 way	71500750	https://www.leroymerlin.it/negozi/livorno
 way	71653398	https://rifugiofortedeimarmi.blog/
 way	71884413	https://www.fmalivorno.it/
@@ -7042,7 +7050,6 @@ way	139980607	https://www.novostudio.it/web/
 way	139980666	https://galvanica-morrocchi-s-r-l.webnode.it
 way	140059422	https://www.uslcentro.toscana.it/index.php/ospedali/ospedale-san-jacopo-di-pistoia
 way	140234643	https://www.eui.eu/
-way	140368484	http://www.alival.it
 way	140368491	https://www.paver.it/
 way	140368538	https://www.cartograficatoscana.com/
 way	140508686	https://www.conad.it/
@@ -7677,6 +7684,7 @@ way	321775845	http://www.parrocchiasantamariadellapieta.it/
 way	321795713	http://terredelfrigido.comune.massa.ms.it/node/105
 way	321927615	https://www.agricoccinella.it
 way	322978547	https://www.gavrc.com/
+way	323875798	https://www.torrentepescia.it/
 way	324049759	https://www.vacanzelaminiera.it/
 way	324049761	http://www.museodelleminiere.it/
 way	324325553	https://www.ciocco.it/it/strutture-ricettive/hotels
@@ -7822,6 +7830,7 @@ way	393319577	https://www.phalesia.it
 way	393876243	https://www.osteriadamipa.it/
 way	395108304	http://www.goricoll.it
 way	395188724	https://www.gipiduepisa.it/
+way	395318776	https://www.icmarconifrosini.edu.it/
 way	395886113	https://www.innocentirolando.com/
 way	396267401	https://www.viperclub.eu/
 way	397606141	https://www.coopfirenze.it/negozi-e-promo/negozi/lucca-est?id=001060
@@ -9225,7 +9234,6 @@ way	1379173610	https://www.ineditavelluti.it/
 way	1379401948	https://www.francyandco.com/
 way	1379401957	https://www.panzanicarta.com/
 way	1380057569	https://www.comune.volterra.pi.it/vivere-il-comune/luoghi/asilo-nido-comunale-la-mongolfiera/
-way	1380364439	www.ilgaribaldisanquirico.it
 way	1380958587	https://www.cis-spa.pt.it/
 way	1384531951	https://campingacquaviva.it/
 way	1385762498	https://campingpiandamora.nl/
@@ -9234,6 +9242,8 @@ way	1387073656	https://www.apicorno.com/
 way	1387344959	https://www.palazzodevecchi.it/
 way	1387635953	http://www.rosileopoldo.it/
 way	1389338910	https://www.casabini.com/
+way	1393272390	https://www.sma.unifi.it/vp-244-orto-botanico.html
+way	1395052949	https://aubergeresorts.com/collegioallaquerce/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -9527,7 +9537,6 @@ relation	6717265	https://www.viefrancigene.org
 relation	6719584	https://www.viefrancigene.org
 relation	6719811	https://www.viefrancigene.org
 relation	6723739	https://www.viefrancigene.org
-relation	6756071	https://aubergeresorts.com/collegioallaquerce/
 relation	6800379	http://faenza.uoei.it/
 relation	6800790	http://www.caifaenza.it
 relation	6818399	https://www.caiprato.it/
@@ -9906,7 +9915,6 @@ relation	12422661	https://www.caiprato.it/
 relation	12431380	https://www.castellobarberino.com/
 relation	12432197	https://lasorgentepiombino.it
 relation	12456888	https://sentierospallanzani.it/
-relation	12533062	http://casavacanze.poderesantapia.com/walk/monteamiata/roccalbegnasemproniano.htm
 relation	12546477	https://www.parchidelducato.it/
 relation	12554522	https://www.viefrancigene.org
 relation	12554842	https://www.viefrancigene.org
@@ -10534,7 +10542,6 @@ node	3825609958	http://www.1circolopiombino.it/portale/56-scuola-dellinfanzia-ri
 node	3883978751	http://www.isiadesign.fi.it/
 node	3888363369	http://livornowifi.open-net.it/
 node	3907846206	https://www.pampanorama.it/
-node	3926027430	https://www.maggiore.it/
 node	3933031656	http://www.riflejeans.com
 node	3959247770	https://www.poltronesofa.com
 node	3966748936	http://www.zitabroolz.it
@@ -11186,7 +11193,6 @@ relation	19022980	http://www.tartana.com
 node	730850225	http://www.hotelsanniccolo.com/
 node	730862028	http://www.chiantisculpturepark.it/
 node	829082780	https://visitcastiglionedellapescaia.it/castiglione-della-pescaia/il-porto/
-node	906764577	http://www.comune.follonica.gr.it/area_informativa/farmacie_turno
 node	980050557	http://www.fcrgrosseto.com/farmacia/farmacia-comunale-n3-via-dei-mille-grosseto/
 node	1874464330	http://pescia.iltuopaese.com/city/pescia/listing/foto-notizia-25-lundicesima-castella-semi-distrutta-lignana-montagna-pesciatina/
 node	2402209554	https://resistenzatoscana.org/monumenti/tavarnelle_val_di_pesa/monumento_ai_caduti
@@ -11195,10 +11201,6 @@ node	2431750190	https://www.conad.it/ricerca-negozi/conad-city-via-litoranea-81-
 node	2561989272	http://www.fcrgrosseto.com/farmacia/farmacia-comunale-n2-viale-de-nicola-grosseto/
 node	2647773786	http://www.fcrgrosseto.com/farmacia/farmacia-comunale-1-via-emilia-48-grosseto/
 node	2932839621	https://coinatmradar.com/bitcoin_atm/141/bitcoin-atm-lamassu-pisa-computer-shop-snc/
-node	2986984382	http://www.comune.follonica.gr.it/area_informativa/farmacie_turno
-node	2987006549	http://www.comune.follonica.gr.it/area_informativa/farmacie_turno
-node	3065468954	http://www.comune.follonica.gr.it/area_informativa/farmacie_turno
-node	3113685940	http://www.comune.follonica.gr.it/area_informativa/farmacie_turno
 node	3305901241	http://www502.regione.toscana.it/searcherlite/cartografia_storica_regionale_scheda_dettaglio.jsp?imgid=5811
 node	3348167974	http://www.igmi.org/rdn/
 node	3353306017	http://www.sanpaolodellacroce.it/Servizi/caritas_interparrocchiale.htm
@@ -11249,6 +11251,10 @@ node	11918698110	https://cromservizi.it/farmacia-solvay-2/
 node	12029612575	https://www.pintamedicea.com/birra/2021/brewpub-atlantic-oil/
 node	12216041387	https://questure.poliziadistato.it/statics/32/area-della-memoria.pdf
 node	12217048320	https://www.claroitalia.it/negozio/claro-follonica/
+node	12899180031	https://routeculturaleapuana.it/adelaide_johnson.html
+node	12899287065	https://routeculturaleapuana.it/john_flaxman_william_blake.html
+node	12899287066	https://routeculturaleapuana.it/frances_elizabeth_willard.html
+node	12899287067	https://routeculturaleapuana.it/fratelli_piccirilli.html
 way	23485067	http://www.comune.prato.it/storiastrade/?stato=scheda&id=82283
 way	23757921	http://www.comune.prato.it/storiastrade/?stato=scheda&id=42068
 way	25146571	http://www.comune.prato.it/storiastrade/?stato=scheda&id=11695
