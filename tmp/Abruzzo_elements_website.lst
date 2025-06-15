@@ -334,7 +334,6 @@ node	2335416008	https://www.liceoilluminati.edu.it
 node	2335418345	https://www.findglocal.com/IT/Atri/823073151090796/Gm-Carburanti
 node	2335418349	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/API41826
 node	2335432863	https://www.facebook.com/pages/Fermo-Posta-caf/359382437465666?fref=ts
-node	2335530697	https://www.farmaciediturno.org/farmacia.asp?idf=17848
 node	2335563949	https://www.ilparcodeipoeti.it/
 node	2336802729	http://www.casaleborga.it/
 node	2338073383	https://www.alpoggiodelsole.it
@@ -382,6 +381,7 @@ node	2863210915	http://www.pizzeriavogliacapricciosa.it
 node	2902381409	https://www.melluso.it
 node	2902510963	https://www.bcccastiglione.it/
 node	2956879696	https://www.ristorantedapaolino.com/
+node	2956910136	www.larua.it
 node	2984199727	https://www.chiccaprofumerie.com/profumeria/femminella/
 node	2985750960	https://www.immobiliarelattanzio.it/
 node	2985750965	https://rafiboutique.com/
@@ -451,7 +451,6 @@ node	3414358799	https://www.uza.it/
 node	3414358810	https://www.ubibanca.com/it/
 node	3418580806	https://www.mondadoristore.it/app/storeLocator/detail?pickUpPoint=1325
 node	3429304559	https://www.manufattincuoio.it/
-node	3461489158	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10597
 node	3512011464	http://locandatorredelparco.altervista.org
 node	3571200293	https://www.campinglakeplacid.it
 node	3578354630	http://disciascio.it
@@ -630,6 +629,7 @@ node	5635320525	https://caffeatene.it
 node	5637142130	https://restaurantguru.it/Da-Gino-Vallevo
 node	5638024764	https://www.crai-supermercati.it/punti-vendita/index.php
 node	5638080401	https://www.anxasalus.com
+node	5639998889	https://grandhotelberti.it/
 node	5641395345	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10876
 node	5641406561	https://www.pampanorama.it/
 node	5643855686	http://www.fuoricomune.it
@@ -3358,6 +3358,10 @@ node	12883649127	https://www.vroomauto.it/
 node	12883649130	https://ltransport.it/
 node	12885990205	https://www.focus.abruzzo.it/
 node	12885990206	https://bm35moto.com/
+node	12897028644	https://www.arancucine.it/en/
+node	12899220054	https://www.rifugiovaldarano.it/
+node	12902178992	https://www.pizzeriadamichelepescara.it/
+node	12915426902	https://comune.montebellodibertona.pe.it/
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3548,6 +3552,7 @@ way	217190325	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_d
 way	217190667	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	224748947	http://www.hotelduparc.it
 way	224748948	https://www.aslteramo.it/ospedale-di-atri/
+way	224752859	http://www.tavacquaviva.it/
 way	227216198	http://www.hotelcocoon.it/
 way	228134692	https://www.hoteldei7.it/
 way	230333390	https://www.fishsurfing.com/es/map/il-laghetto-del-pescatore-1031907220/
@@ -3715,7 +3720,6 @@ way	464732201	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/1903/
 way	467534229	https://parrocchiasanmassimilianokolbe.it
 way	467663979	http://www.comune.casteldelmonte.aq.it/
 way	468262213	https://www.iuvanum.it
-way	469203946	https://rifugiobrunopomilio.com/
 way	469487122	https://www.avezzanorugby.it/
 way	469488564	https://www.avezzanorugby.it/
 way	470700476	https://www.hotelboccadivalle.com/home.htm
@@ -4163,6 +4167,7 @@ way	1031686089	https://www.fiorellaindustrie.it
 way	1037626509	https://www.ferasrl.it/en/progetto/tocco-di-vento/
 way	1040795868	https://www.total.com/en
 way	1041698414	https://www.parcodegliulivi.net/
+way	1041950171	http://www.paesiteramani.it/Paesi/Roseto%20SLuciaNuova.htm
 way	1044159645	https://www.majagreen.it
 way	1044295175	https://www.hgnews.it/2021/06/01/pescara-via-del-circuito-partono-i-lavori-per-il-raddoppio-la-soddisfazione-del-pd-in-regione-e-comune/
 way	1044795464	https://www.comune.salle.pe.it/
@@ -4291,6 +4296,7 @@ way	1163828399	https://www.agriturismovoccabella.com
 way	1163919759	https://www.isalumieri.it/
 way	1164547467	http://www.croce-verde.it
 way	1165130693	https://www.simplastic.it/it/
+way	1168456040	https://www.centromagora.it/323/conad.html
 way	1169534917	https://www.todis.it/
 way	1169827324	https://www.laltracarne.com
 way	1175364316	https://www.istitutotecnicoacerbope.edu.it
@@ -4361,7 +4367,7 @@ way	1232479304	https://www.freecomsas.it
 way	1239666352	https://www.vivaiowonderland.com
 way	1241139635	https://www.oasidikilian.it/
 way	1241327623	https://www.fise.it/abruzzo/it/home/circoli/dettagliosocieta.html?societa=2583
-way	1242961312	https://www.todis.it/
+way	1242961312	https://www.todis.it/punti-vendita/scopri-i-negozi/#!/l/sambuceto/via-amendola-264/4399529
 way	1242972929	https://www.peanorosaonline.edu.it/luoghi?id=807
 way	1242975124	https://www.peanorosaonline.edu.it/
 way	1244766524	https://www.prolocopacentro.it/
@@ -4749,17 +4755,19 @@ node	11302973066	https://www.lafarmacia.it/trova-farmacia/del-principe-martinsic
 node	11542658048	https://www.telespazio.com/it/business/space-centres-teleports/fucino-space-centre
 node	11932491331	http://www.siconte.it/it/punti-vendita/si-supermercati/loreto-aprutino-via-della-fornace
 node	12144001881	https://castrumtruentinum-antiquarium.blogspot.com/
-node	12205420653	https://www.campingvillaelena.it/
 node	12222600657	https://leonellomacchine.it/
 node	12818751619	https://www.blockhausclimbing.it
 node	12825644476	https://ristoranterever.it
 node	12846533482	https://www.ilbosso.com/centro-visita-del-lupo/
+node	12872788046	https://www.lanciano.eu/c069046/po/mostra_news.php?id=1648&area=H
 node	12873377885	https://cultura.gov.it/luogo/polo-museale-santo-spirito-museo-archeologico
 node	12879334141	https://www.ristoranteclemente.it
 node	12883355748	https://www.bnbcasapetrarca.com
 node	12887327116	https://www.basilikum.it/menu
 node	12894321758	https://centrorossetti.it
 way	93958554	https://www.storkcampingvillage.com/
+way	93967257	https://www.clubdelsole.com/it/destinazioni/abruzzo-costa-teramana/roseto-degli-abruzzi-easy-camping-village
+way	93967259	https://www.campingarcobalenoroseto.it/
 way	148593095	https://www.hotellenazioni.com
 way	246620756	https://www.polomusealeteramo.it/sedi/sito-archeologico-di-largo-sant-anna/14-10.html
 way	288614834	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-onofrio-al-morrone/
@@ -4779,6 +4787,7 @@ way	1320957655	https://maielletta.it/
 way	1324624550	https://www.campingcarouan.it/
 way	1337938957	https://www.molinolattanzio.it/
 way	1389922648	https://www.comune.scontrone.aq.it/i-borghi/musei/centro-di-documentazione-paleontologico/
+way	1394109109	https://www.campingvillaelena.it/
 relation	8646860	http://www.gssi.it/
 relation	18178088	http://www.cantinacrecchio.it/contattaci/
 relation	19190580	https://borghidelgransasso.it/
@@ -4819,6 +4828,7 @@ way	301862068	https://it.m.wikipedia.org/wiki/File:Orsogna_-_Torre_di_Bene_03.jp
 way	350513029	https://metar-taf.com/IT-0370
 way	359782109	http://www.comune.pineto.te.it/pagina1798_informazioni-utili.html
 way	378791366	https://scelgofullservice.com/e-store
+way	524461839	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/13056/Chiesa+di+San+Rocco
 way	558584552	https://bar-la-torretta.business.site
 way	1185570786	https://artbonus.gov.it/1483-fontana-dellartista-ettore-spalletti.html
 way	1228264791	https://www.patriaindipendente.it/memoria-attiva/ortona-1943-quella-battaglia-da-non-dimenticare/
@@ -4835,6 +4845,7 @@ way	1363111294	https://www.facebook.com/groups/123006997723018/posts/larea-verde
 way	1384038723	https://www.ilpescara.it/attualita/apertura-cantiere-restauro-fontana-maestro-spalletti-tribunale.html
 way	1390123060	https://www.ilcentro.it/pescara/citt%C3%A0-sant-angelo-addio-ad-antonio-de-carolis-apprezzato-medico-umanista-1.156935
 way	1391312202	https://www.provinciateramo.com/utenti/il-berrettino-Teramo/il-berrettino-Teramo_PC.asp
+way	1393942195	https://www.jw.org/it/
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12862117	https://www.ilpescara.it/cronaca/ponti-sul-saline-inaugurato-ponte-sant-angelo.html
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
