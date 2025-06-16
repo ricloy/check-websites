@@ -43,6 +43,7 @@ node	620120661	https://www.anchecinema.com/
 node	624106051	https://www.empiregym.it/
 node	624399054	www.barimotors.it
 node	643883764	http://www.cinemaesedra.it/
+node	656133461	https://www.tamoil.it/
 node	656532192	http://musei.beniculturali.it/musei?mid=5365&nome=museo-nazionale-archeologico-di-manfredonia
 node	711446136	https://www.lanottebike.it/
 node	844669913	https://www.burgerking.it/
@@ -242,6 +243,7 @@ node	2442972878	http://www.ristoranteforcatella.it/
 node	2447735197	http://www.petrolmengasrl.it/le-nostre-sedi.asp
 node	2451353238	http://coopiestampe.it
 node	2454403444	https://firmania.it/grottaglie/pasticceria-cr%C3%A8me-caramel-2696139
+node	2454410732	http://www.sunriseveryfood.com/
 node	2456838345	http://www.comune.peschici.fg.it/
 node	2457598598	https://www.liberrima.it/
 node	2484889825	http://www.barmolokai.it
@@ -1101,16 +1103,19 @@ node	6919708344	https://www.comune.monteroni.le.it/
 node	6920713105	http://www.hopilab.com
 node	6925283954	https://www.sushixuanbari.it
 node	6925602941	http://www.comitatoprocanne.com/newsDett.asp?news=10309
+node	6932111946	https://www.cantinepolvanera.it/
 node	6932250191	http://www.comune.volturaraappula.fg.it/cms/home.php
 node	6938181364	https://www.tiellapulia.it/
 node	6944615629	https://www.cortezeuli.it
 node	6944962302	https://www.sisagrottaglie.it
 node	6949754241	https://www.instaltermo.it/
+node	6957302519	http://www.farmacialamaddalenaburdi.it/
 node	6973114280	https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-trinchese
 node	6974993149	https://www.bijou-brigitte.com/
 node	6982739517	https://www.facebook.com/MorolaCaffeItaliano/
 node	6983737749	https://m.facebook.com/M.TeresaCampana/
 node	6989731640	https://fb.com/boutiquedellacarneac
+node	6991022907	https://www.conad.it/ricerca-negozi/conad-via-provle-erchie-torre-ss-92-snc-72020-erchie--007831
 node	6997066985	https://www.birrificiobari.it/
 node	7046585014	http://www.ciaccohotel.it/
 node	7049183180	https://www.novaurea.com/
@@ -2287,6 +2292,7 @@ node	11833907099	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Po
 node	11834685102	https://www.sigmasupermercatipuglia.it/
 node	11835366008	https://www.lafilandasalento.it
 node	11850980209	https://www.stocotto.it/
+node	11851220177	https://centropirozzi.it/dentista-erchie-brindisi/
 node	11860482389	https://www.ristorantebraceriapizzeriafilocore.com/
 node	11861746243	http://www.ekata.it/
 node	11876966719	https://quadrashop.it/
@@ -2873,7 +2879,7 @@ node	12676265362	https://www.grottadisantangelo.it
 node	12682194753	https://www.seatourgallipoli.it/
 node	12684218201	https://www.tazebike.com/
 node	12688242394	https://comune.sanmarzano.ta.it/argomento/gestione-rifiuti/
-node	12693792182	http://www.dropbari.it/
+node	12693792182	https://www.dropbari.it/
 node	12694054155	https://www.arteperartebari.com/
 node	12694054160	https://www.my-vets.it/
 node	12696351242	https://www.escursioniinbarca.it/
@@ -2989,6 +2995,13 @@ node	12896182628	https://gmnailsacademy.webnode.it/
 node	12896182632	https://caffeviro.company.site/
 node	12896182634	https://www.facebook.com/MacelleriaGioia/
 node	12896182635	https://www.carabinieri.it/
+node	12898746955	https://www.poliambulatoriodicampo.it
+node	12901604701	https://www.caffeorlando.com/
+node	12901754143	https://www.penny.it/
+node	12901754144	https://centropirozzi.it/ambulatorio-medico/
+node	12901754145	https://sites.google.com/view/ristoranteredewhite/home-page
+node	12913990323	https://www.italiamappata.it/puglia/fg/1031-santa-maria-d-olivola/
+node	12915183285	https://www.villapetrina.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -3589,6 +3602,7 @@ way	422022481	https://www.melograno.com/
 way	422289534	https://incantalupi.it/
 way	422289541	https://masseriabadessa.it/
 way	422354101	https://www.casadicurasalus.it
+way	422354188	https://www.cattedralebrindisi.it/
 way	422354203	https://www.leganavalebrindisi.it/
 way	422354207	https://www.palazzovirgilio.it/
 way	422354214	http://www.webdiocesi.chiesacattolica.it/pls/cci_dioc_new/bd_dioc_annuario_css.singolo_ente?p_pagina=13255&id_dioc=108&id_en=14&colore1=&colore2=&layout=0&rifi=&rifp=&vis=1
@@ -4130,6 +4144,7 @@ way	1276164577	https://www.intesasportclubbari.it/
 way	1276164578	https://www.poggiolevante.it/
 way	1276184351	https://www.icsmaugeri.it/
 way	1276547222	https://officinefanuli.com/
+way	1276547232	https://centropirozzi.it/ambulatorio-medico/
 way	1279886587	https://www.hotelresidenceilporto.it
 way	1286198781	https://www.comprensivoperonelevi.edu.it/
 way	1286222792	https://www.pcl-cdmo.com/
