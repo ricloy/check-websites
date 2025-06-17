@@ -28,6 +28,7 @@ node	473203577	https://www.hcdc.it/
 node	563311749	https://www.cavemontblanc.com/
 node	666335350	http://www.hoteldufoyer.it/
 node	846715830	https://www.lovevda.it/en/database/4/uffici-turistici/la-thuile/tourist-office-la-thuile/1780
+node	847131948	https://www.hotelvalleeblanche.com/
 node	847296482	http://www.museoscienze.it/
 node	850806762	https://www.randonneurmb.com/
 node	910361198	https://www.croixblanche.it/
@@ -35,6 +36,7 @@ node	925960688	http://www.hotelarmanac.it/
 node	928209323	https://www.valdotain.it/
 node	928228356	www.pizzeriaristoranteavalon.it
 node	1019436474	https://www.albergodelponte.com
+node	1109709986	https://www.hotelaiguillenoire.com
 node	1194448827	https://www.fortedibard.it/musei/museo-delle-alpi/
 node	1302104285	http://www.comune.brusson.ao.it/
 node	1302202773	http://www.etoiledeneige.com/
@@ -214,6 +216,7 @@ node	6435894786	https://aosta.arriva.it/
 node	6511268366	www.ilnoceelastrega.it
 node	6551074134	https://www.lovevda.it/it/banca-dati/8/archeologia/aosta/area-funeraria-fuori-porta-decumana/1349
 node	6565047377	https://www.dandelionlapalud.com/
+node	6565047378	https://hotelastoriacourmayeur.com/
 node	6682978740	https://www.poste.it/
 node	6699595829	https://aosta.arriva.it/
 node	6699628417	https://www.unicredit.it/it/contatti-e-agenzie/lista-agenzie/ao/breuil-cervinia-valtournenche/valtournenche-breuil-cervinia-ag00821.html
@@ -232,7 +235,6 @@ node	7409720604	http://www.antichisaporihone.it/
 node	7416548654	https://www.fenat.net/
 node	7742091647	https://www.cogneturismo.it/ospitalita.asp?id=17&cat=15&l=1&n=68&p=2
 node	7784835490	https://www.bblaluna.it/
-node	7840706450	https://www.rifugiograuson.it/
 node	7900639885	https://www.cogneturismo.it/ospitalita.asp?id=18&cat=11&l=1&n=66&p=1
 node	8108975517	https://www.lazybee.it/
 node	8118527814	https://gerolina.it
@@ -318,6 +320,7 @@ node	10726017734	https://www.onlyski.eu/winter/onlyski-express/
 node	10726017735	https://www.onlyski.eu/winter/onlyski-planibel/
 node	10726017736	https://berthodsport.it
 node	10875502005	https://www.helimontblanc.it/
+node	10981800233	https://www.laboitecourmayeur.com/
 node	10992018505	https://www.innaosta.com/fr/appartements-de-vacances-au-centre-daoste/appartement-dune-piece-dans-le-centre-daoste/
 node	10994949531	https://www.repower.com/dina/
 node	10996620494	https://www.repower.com/dina/
@@ -369,6 +372,14 @@ node	12896991942	https://www.montfretypub.com/
 node	12896999648	https://www.hotelberthod.com/
 node	12897017851	https://www.hotelcourmayeur.com/
 node	12897021744	https://dufercoenergia.com/
+node	12915213488	https://www.carabinieri.it/in-vostro-aiuto/informazioni/dove-siamo
+node	12915490897	https://www.fondazionemontagnasicura.org/
+node	12915515295	https://www.courmayeur-apartments.com/
+node	12915532878	https://www.hotelfunivia.com/
+node	12915535461	https://www.dentedelgigante.com/
+node	12917769714	https://www.lofoo.it/
+node	12920060594	https://www.aubergemaison.it
+node	12920075002	https://www.maisonaltea.it
 way	27264184	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264185	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264187	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -887,6 +898,7 @@ way	1197121607	https://www.bivaccoedoardocamardella.it
 way	1204931540	https://www.lovevda.it/it/banca-dati/7/bivacchi/sarre/bivacco-alessandro-pansa/3252
 way	1317457820	https://www.rebelpark.it
 way	1355978520	https://www.valgrisencheski.it/
+way	1395571424	https://www.rifugiograuson.it/starsbox/
 relation	124582	https://www.viefrancigene.org/
 relation	162371	https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/cogne-rifugio-sogno-di-berdze/2974
 relation	372502	http://www.alptrekking.ch
@@ -1048,6 +1060,7 @@ node	8912126919	https://www.alcaminettosemon.it/
 node	11253391257	http://maisondunoyer.com/
 node	11305460568	https://www.thefork.it/ristorante/osteria-mansio-1695-r579361
 node	12396204338	https://latteriadelmonterosa.com/shop.php
+node	12920060600	https://www.gdf.gov.it/it/reparti-del-corpo/valle-daosta/valle-daosta/stazione-sagf-entreves
 way	58526794	www.rifugiovittorioemanuele.com
 way	60356684	https://www.rifugioguidedelcervino.com/
 way	60813251	https://www.abitarelestremo.it/la-casermetta-eng/
