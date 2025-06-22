@@ -164,7 +164,6 @@ node	1232292203	http://www.baiaimperiale.net/
 node	1234855121	https://www.villaserraalta.it/
 node	1237351323	https://www.immobiliareserini.it/
 node	1238990992	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/56-ancona---via-maratta.html
-node	1238991009	https://www.ristorantepizzeriaricominciodadue.com/
 node	1238991017	http://www.trattorialacantineta.it/
 node	1238991022	https://www.trattoriaulderico.com/
 node	1238991031	http://www.siconte.it/it/punti-vendita/si-supermercati/supermercati-ancona-via-matteotti
@@ -1002,6 +1001,7 @@ node	8125023957	https://www.dolphins.it/
 node	8155120734	https://tenutasantigiacomoefilippo.it/ristorante-urbino-dei-laghi/
 node	8167553484	https://rinascitanellanatura.wordpress.com/
 node	8176349901	https://www.kingsportstyle.it/ancona.html
+node	8177392854	https://chapatupollo.it/
 node	8178847204	https://liceoartisticomannucci.edu.it
 node	8223132455	https://www.arturomancini.net/sede-fano
 node	8259985008	https://www.arturomancini.net/sede-di-pesaro
@@ -2073,6 +2073,10 @@ node	12896789666	https://fienile.bedsandhotels.com/
 node	12898677755	https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede/dettaglio-sedi.it.sezione-sedi.sedi-inps.030001.030001-elencoStruttureInps.html
 node	12901585895	https://www.pizzaexpress.ancona.it
 node	12901585896	https://www.orocash.it/an02-compro-oro-ancona
+node	12917280268	https://www.uicap.it
+node	12923635532	https://www.tally-weijl.com/it_IT/stores/MACERATA/6D84
+node	12926625578	https://www.comune.gabicce-mare.pu.it/
+node	12942193094	https://www.intimissimi.com/it/negozi/marche/ancona/ancona_corso_garibaldi_nn._56_58/IP64.html
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2536,6 +2540,7 @@ way	628769228	https://juris.unicam.it/
 way	631785741	http://fatar.com/
 way	632174675	http://www.museodiocesanofermo.it/
 way	632209592	https://www.liceoannibalcaro.edu.it/site/it/
+way	632498058	https://www.cipolladoro.it/
 way	632839639	https://hotelgabbiano.net/
 way	633617545	https://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/391-chiesa-dei-santi-quirico-e-giulitta-in-montelabbate.html
 way	633936667	https://zeneat.it/
@@ -2678,7 +2683,6 @@ way	1102457386	https://caffesaccariashop.it/
 way	1104447186	https://www.cagnoni.it/
 way	1109212826	https://turismo.comune.mondavio.pu.it/contenuti/2111633/area-camper-mondavio
 way	1112283489	https://www.campeggiolatorrediportonovo.it/
-way	1112315184	https://www.ristorantedagiacchetti.it/
 way	1112538034	http://www.anticastamperiafabiani.it/
 way	1112903072	https://www.musicavivafermo.it
 way	1112903073	https://www.solgasonline.it/
@@ -2807,7 +2811,6 @@ way	1323359887	https://avalonpizzeria.it/home/
 way	1328478904	http://www.countryhousefederico.it/
 way	1328747901	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	1330475644	https://www.sassoferratoturismo.it/stagione-di-prosa/
-way	1330585467	https://www.cipolladoro.it/
 way	1332746399	https://crisassoferrato.it/
 way	1333185200	https://www.elmocamp.it/
 way	1334215513	https://maps.app.goo.gl/aCKQhF1yCXHmtwY26
@@ -2931,7 +2934,6 @@ relation	14248618	https://www.eurospin.it/punti-vendita/ascoli-piceno-via-genova
 relation	14381580	https://www.parcosanbartolo.it/
 relation	14466885	https://www.prolococossinea.com/p/percorso-naturalistico-le-cese.html
 relation	14617083	https://www.moreavivarelli.edu.it/
-relation	14874398	https://www.lacapanninadiportonovo.it/
 relation	15657082	https://pedalareconlentezza.com/muro-ortezzano/
 relation	16051021	https://visitaltemarche.it/ciclo-appeninica/
 relation	16408219	https://www.ascolitrailarea.it/tracks/fall-and-flow/
@@ -3157,6 +3159,7 @@ node	7439804881	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Boo
 node	7439804882	https://www.librerianuovafimlibro.it/
 node	7832895416	https://civitanovamarche.ubiklibri.it/
 node	7869909173	https://www.hotelhauscharlotte.it
+node	8007144830	http://www.officinabonfigli.it
 node	8094784734	https://fisioterapia-cipelli.it
 node	8608462864	https://www.gmonamour.it/
 node	8648846196	http://www.le-fontane.com
@@ -3196,7 +3199,6 @@ way	44523218	http://www.arterisko.com
 way	61094272	http://www.athleticclubpesaro.it/
 way	77068331	http://www.rossinicenter.it
 way	97308330	https://www.museodelbali.it
-way	100298833	http://www.officinabonfigli.it
 way	104628956	https://domusmacerata.it/
 way	105064358	http://www.teatrodellafortuna.it/
 way	105811627	http://hotelgala.it
@@ -3295,7 +3297,6 @@ way	1355997692	www.loasidilulu.it
 way	1386573245	https://casatartufo.nl/it/campeggio/
 way	1387952422	https://www.campingcostaverde.it/
 relation	1085619	https://www.cappuccinimarche.org/?page_id=21673
-relation	1434016	http://www.officinabonfigli.it
 relation	6517698	http://www.sorellepoveredisantachiara.it/
 relation	10967104	https://www.schnell.it/
 relation	15341759	https://diocesimacerata.it/
