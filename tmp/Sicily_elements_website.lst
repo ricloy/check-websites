@@ -2439,7 +2439,7 @@ node	8322426766	https://cryptolocalatm.com
 node	8330236849	https://www.casalemargherita.eu/
 node	8330531001	https://www.expertonline.it/
 node	8356245006	https://www.saitta1960vintage.com/
-node	8361282784	http://countryhouse.villadorata.com
+node	8361282784	https://countryhouse.villadorata.com/
 node	8366048793	https://www.comune.grammichele.ct.it/
 node	8373985899	https://www.amantiline.it/
 node	8374650124	https://www.iridehotel.com/
@@ -3947,9 +3947,19 @@ node	12889577043	https://www.ststrasportiambulanza.it/
 node	12895416927	https://www.art-infissi.com/
 node	12895597000	https://www.ristorantedegustibus.it/
 node	12895657102	https://cammilleri.webflow.io/
-node	12896433801	http://q92notohotel.com
-node	12896437401	http://sevenrooms.villadorata.com
+node	12896433801	https://q92notohotel.com/
+node	12896437401	https://sevenrooms.villadorata.com/
 node	12899605658	https://www.gavicaffe.it/
+node	12918241326	https://blue-sky-lemon.vercel.app
+node	12921794452	https://www.gmjob.it/
+node	12922901315	https://www.saldarclima.it/
+node	12925868436	https://rizzostudiodentistico.com/
+node	12925868437	https://www.flyetouring.it/
+node	12936636835	https://hollywoodstore.it/
+node	12936636928	https://www.scorzamara.com/
+node	12942524801	http://villaducale.com
+node	12942536701	http://siciliadipinta.it
+node	12943437762	http://bikerentalipari.com/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4979,7 +4989,7 @@ way	474302627	https://www.theashbeehotel.it/
 way	474451963	https://orodetna.it/
 way	474705298	https://www.psaumidedicamarina.edu.it/
 way	474705299	https://www.psaumidedicamarina.edu.it/
-way	475459730	http://hotelvillacarlottataormina.com
+way	475459730	https://hotelvillacarlottataormina.com/
 way	475645593	https://www.iccapuana.edu.it/
 way	475645764	https://www.iccapuana.edu.it/
 way	475777048	https://www.santalphiohotel.com/
@@ -6378,6 +6388,7 @@ relation	11126851	https://www.garagedelleisole.it/
 relation	11180795	https://www.cutgana.unict.it/content/complesso-speleologico-villasmundo-s-alfio
 relation	11296030	https://www.cai.it/sezione/catania/
 relation	11299074	http://www.tribunaleragusa.it/
+relation	11578359	https://www.wyndhamhotels.com/dolce/siracusa-italy/dolce-siracusa-i-monasteri-golf-and-spa/overview
 relation	11603897	https://mappasentieroitalia.cai.it
 relation	11931135	https://www.sicilytrekkingtour.it/
 relation	11931263	https://www.sicilytrekkingtour.it
