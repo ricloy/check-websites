@@ -381,7 +381,7 @@ node	2863210915	http://www.pizzeriavogliacapricciosa.it
 node	2902381409	https://www.melluso.it
 node	2902510963	https://www.bcccastiglione.it/
 node	2956879696	https://www.ristorantedapaolino.com/
-node	2956910136	www.larua.it
+node	2956910136	https://www.larua.it/
 node	2984199727	https://www.chiccaprofumerie.com/profumeria/femminella/
 node	2985750960	https://www.immobiliarelattanzio.it/
 node	2985750965	https://rafiboutique.com/
@@ -1156,7 +1156,6 @@ node	7132166047	https://www.multicinema.it/programmazione/astra
 node	7138509317	https://360trainingclub.it/
 node	7139633272	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10901
 node	7140793341	https://osteria-pane-e-vino-restaurant.business.site/
-node	7142339134	https://www.ciakcity.it/
 node	7142356395	https://www.ciakcity.it/
 node	7142385868	https://www.smeraldocinema.it//
 node	7148213380	http://www.tcilaquila.it/
@@ -2323,7 +2322,6 @@ node	10163838977	https://ewiva.com
 node	10168388370	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10675
 node	10176368764	https://www.tesaitaly.com
 node	10188257133	https://www.valentinicerretani.com
-node	10214466860	https://www.piccolomuseofotografia.it
 node	10215107323	http://www.icinquepini.it/
 node	10218112287	https://www.ivpc.com/gruppo/blitz-power/
 node	10231196903	https://inpost.it/locker-pescara-itpes44007m-piazza-ovidio
@@ -2432,7 +2430,7 @@ node	10312851428	https://www.gamestop.it/
 node	10314515278	https://www.piccolipassibio.it/
 node	10536564893	https://www.oasitigre.it/it/il-mio-negozio.6206.html
 node	10536705835	https://www.icripatorrevecchia.edu.it/
-node	10538972402	https://it.iqos.com/
+node	10538972402	https://www.camaioniprimiterra.it/contatti/
 node	10539036535	https://www.compass.it
 node	10539047406	http://www.laciabatteria.com/
 node	10539114367	https://planetgym.business.site/
@@ -3032,6 +3030,7 @@ node	11849533886	https://goodyswingschool.altervista.org/
 node	11866318695	https://www.adrizoo.com/
 node	11877196329	https://pizzeriaaltagliolospuntino.eatbu.com/?lang=it
 node	11879257015	https://www.mareazzurro.eu/
+node	11886979360	https://www.studiopilates61.it/gli-studi-di-pilates/reform-pilates-lab/
 node	11892341743	https://agriristoroleorigini.it/
 node	11906602039	https://www.brokerconsult.it/
 node	11906673388	https://pescara3.tecnocasa.it/pescara/pescara-porta-nuova/
@@ -3362,6 +3361,13 @@ node	12897028644	https://www.arancucine.it/en/
 node	12899220054	https://www.rifugiovaldarano.it/
 node	12902178992	https://www.pizzeriadamichelepescara.it/
 node	12915426902	https://comune.montebellodibertona.pe.it/
+node	12918793014	https://www.studiopilates61.it/gli-studi-di-pilates/reform-studio-pilates/
+node	12921245944	https://www.metamer.it/sportelli/spoltore/
+node	12922098758	www.inarcisi.it
+node	12927084647	https://www.fdlserramenti.it/
+node	12927375951	https://www.agenziaentrate.gov.it/portale/uffici/-/uffici/uffici_INSTANCE_6TA6OwuprQd0/dettagliouffT/TAK/cr/915/iur/TAK
+node	12927377358	https://www.rdmricambi.it/
+node	12942156758	https://www.gabriellispa.it/it/insegne/tigre.html
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3384,6 +3390,7 @@ way	26419619	https://www.pinpalace.it/
 way	27351142	https://www.telespazio.com/it/azienda/centri-spaziali-teleporti/centro-spaziale-fucino
 way	27896384	https://ctpescara.it/
 way	28138873	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII177107
+way	28379456	https://www.ciakcity.it/
 way	28524470	https://www.teatrofenaroli.it/
 way	28738491	http://hadriapescara.it/?doing_wp_cron=1578299741.8722538948059082031250
 way	37194887	https://www.gabrielliunika.it/it/il-mio-negozio.423.html
@@ -3585,6 +3592,7 @@ way	264204679	https://www.info.asl2abruzzo.it/ospedaleguardiagrele/
 way	267637426	https://tilm.it/
 way	268407770	https://www.residenzauniversitariasancarloborromeo.com
 way	276212659	https://www.fatergroup.com/en
+way	276465517	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII182440#
 way	285509352	https://www.rolli.it/italiano/stabilimenti.aspx
 way	290024030	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1300300808
 way	294085366	https://www.cantinatollo.it/en/
@@ -3804,6 +3812,7 @@ way	640155022	https://lapinetinaovindoli.it/
 way	640155037	https://www.comune.ovindoli.aq.it/hh/index.php
 way	640155040	http://www.alberghi-ovindoli.it/alberghi-ovindoli/hotel_piccola_selva_ovindoli.php
 way	640155042	https://www.hotelmillepini.it/
+way	644164994	https://www.tobepharma.com/
 way	650598474	https://www.esecptlaquila.it
 way	650694482	https://www.residencebeachlife.com/
 way	651084538	https://www.santamariamaggiore.net
@@ -4460,6 +4469,10 @@ way	1388721615	https://visitcittasantangelo.it/luoghi/palazzo-coppa/
 way	1390506932	https://torremannella.com/nl/
 way	1391422334	https://www.agriturismolemacine.it/
 way	1391589931	https://www.tesla.com/en_eu/findus?location=303024
+way	1395653690	https://www.coppodellorso.it/prenota-il-rifugio/
+way	1396776879	https://sanita.regione.abruzzo.it/canale-assistenza-territoriale/hospice/hospice-alba-chiara
+way	1396893815	https://sites.google.com/view/il-cambusiere-nature-relais/home-page
+way	1396893816	https://sites.google.com/view/il-cambusiere-nature-relais/stabilimento-balneare
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4572,7 +4585,7 @@ relation	12721481	https://www.pistadelladriatico.it/
 relation	12726210	https://abruzzo.cityrumors.it/notizie-pescara/cronaca-pescara/canile-intercomunale-pescara-montesilvano-il-dog-village-non-ci-sta.html
 relation	12728358	https://interportoabruzzo.it/
 relation	12796151	https://www.oasidellospirito.org
-relation	12797928	https://ic9pescara.edu.it/scuola-dellinfanzia-colle-innamorati/
+relation	12797928	https://www.ic9pescara.edu.it/pagine/scuola-dellinfanzia-colle-innamorati
 relation	12806567	https://italia.indettaglio.it/eng/abruzzo/chieti_tollo_medoro.html
 relation	12811136	https://www.sporteimpianti.it/principale/tsport/pattinaggio-e-skate/nuovo-pattinodromo-a-montesilvano-pe/
 relation	12834712	https://www.wwf.it/oasi/abruzzo/lago_di_serranella/
