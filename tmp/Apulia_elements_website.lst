@@ -68,6 +68,8 @@ node	1073313802	https://www.pointservice.net/cerca_officina/scheda.asp?id=4329
 node	1096180428	https://www.tuohotel-polignano.it/
 node	1104718045	http://www.paginegialle.it/chiarulli
 node	1108905771	https://www.coopmasterpuglia.it
+node	1112463815	https://www.carabinieri.it/
+node	1112463816	https://www.conad.it/ricerca-negozi/conad-city-via-emilia-ang-via-magenta-75-79-74020-avetrana--007825
 node	1123551214	http://www.labaraccaostaria.com
 node	1187317109	https://www.bostonbari.it/
 node	1199086752	https://www.villadegliaranci.it/it/home/
@@ -1117,6 +1119,7 @@ node	6983737749	https://m.facebook.com/M.TeresaCampana/
 node	6989731640	https://fb.com/boutiquedellacarneac
 node	6991022907	https://www.conad.it/ricerca-negozi/conad-via-provle-erchie-torre-ss-92-snc-72020-erchie--007831
 node	6997066985	https://www.birrificiobari.it/
+node	7042332709	https://supermercatisisaavetrana.it/
 node	7046585014	http://www.ciaccohotel.it/
 node	7049183180	https://www.novaurea.com/
 node	7056681834	https://terreno-ro-bi-li.de/
@@ -1336,7 +1339,6 @@ node	8405466376	https://www.instagram.com/innangi_artigianato_vieste/
 node	8410560220	https://www.farmaciaridola.it/
 node	8412461128	https://www.hotelmediterraneogiovinazzo.it/
 node	8414390367	https://www.agribb.it/dormire/bb-piazza-ebalia-5123/
-node	8414999727	https://cafelucarelli.it/
 node	8425169151	http://www.assistenzatvbari.it
 node	8433076325	https://www.comune.taranto.it/index.php/elenco-amministrazione-e-uffici/organigramma/5-direzione-tributi-gestione-entrate-proprie
 node	8434265377	http://www.ecogreentape.it/
@@ -2343,7 +2345,6 @@ node	11918027294	https://negozi.eniplenitude.com/italia/puglia/barletta-andria-t
 node	11918118976	https://gastronomialabottegadelgusto.it/
 node	11918219833	https://www.liberrimabari.it/
 node	11918231911	https://www.numeriprimisrl.it/
-node	11918471973	https://maps.app.goo.gl/1mhBFaWesS3E1Usm7
 node	11920062804	https://www.bbapollo.it/
 node	11920201598	https://www.petit-bateau.it/
 node	11920201599	https://www.plimmobiliare.it/
@@ -3002,6 +3003,18 @@ node	12901754144	https://centropirozzi.it/ambulatorio-medico/
 node	12901754145	https://sites.google.com/view/ristoranteredewhite/home-page
 node	12913990323	https://www.italiamappata.it/puglia/fg/1031-santa-maria-d-olivola/
 node	12915183285	https://www.villapetrina.it/
+node	12919067001	https://www.ilnidomonopoli.com/
+node	12919641571	http://www.germinarioadv.it/
+node	12919652826	http://www.caffefadi.it/
+node	12920902136	https://supermercatisisaavetrana.it/
+node	12920902137	https://www.depadovaexperience.com/vini-bosco/it/
+node	12920959441	https://deliveroo.it/en/menu/francavilla-fontana/francavilla-fontana/trecentogradi-fast-food-smash-burgers
+node	12923664258	https://www.ocsasrl.it/
+node	12926289543	https://civicolegno.it/
+node	12943320727	https://www.liceoarchita.edu.it/
+node	12944669611	https://www.goldbet.it/
+node	12944669616	https://www.ablestetica.it/
+node	12945403103	https://www.comune.carpino.fg.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -4307,6 +4320,13 @@ way	1384348113	https://www.mcdonalds.it/
 way	1385435852	https://www.simcar.it/
 way	1385448007	https://www.comprensivoperonelevi.edu.it/luogo/sede-centrale/
 way	1385590486	http://www.parrocchiascalzibari.it/
+way	1396041815	https://www.ilsentierodellanima.org/
+way	1396210130	https://www.pascolisangiorgio.edu.it/
+way	1396855434	https://www.casablancaristorante.com/
+way	1406069215	https://www.circolo27bari.edu.it/luogo/sede-centrale/
+way	1408522641	https://lacasa-particular.bedsandhotels.com/
+way	1408542648	https://katestravelexperience.eu/la-rosa-blu-italy
+way	1408581944	https://www.masseriasanmichele.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -4486,7 +4506,6 @@ relation	17906987	https://www.provincia.le.it/vieni-a-pedalare-in-puglia-present
 relation	17910833	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itinerario-cicloturismo/
 relation	17910892	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itinerario-cicloturismo/
 relation	17910942	https://www.visitmelendugno.com/dettaglio/itinerari/sport/itinerario-cicloturismo/
-relation	17911780	https://www.liceoarchita.edu.it/
 relation	17950387	http://asset.regione.puglia.it/
 relation	17953761	asset.regione.puglia.it
 relation	17966737	https://itinerarigal.weebly.com/
