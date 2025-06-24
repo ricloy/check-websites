@@ -1714,6 +1714,7 @@ node	6576957450	https://www.d-piu.com/punti_vendita/g534-lignano-sabbiadoro/
 node	6586697887	https://www.agricolastefanutti.com/
 node	6591184493	https://www.lacappellaunderground.org/
 node	6591698987	http://www.italuil.it/index.jsp?id=234&regioni=6
+node	6627649777	https://bon.it/
 node	6628455763	https://www.lacebi.it/
 node	6638799878	https://www.mamm-udine.it/
 node	6646116038	https://www.inasset.it
@@ -2893,6 +2894,8 @@ node	12886720895	https://www.impresaportualeportonogaro.it/
 node	12895145827	https://www.zibonimobilities.com
 node	12901554155	https://sircelli.it/
 node	12907907221	https://labussola-stefanoskitchen.eatbu.com/
+node	12926755701	http://www.infinisurge.eu/
+node	12927540674	http://www.labeccaccia.com/home.html
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -3458,7 +3461,6 @@ way	36706070	https://www.guardiacostiera.gov.it/organizzazione/Pages/ufficio-loc
 way	36706119	https://www.aurora.lignano.it/
 way	36706126	https://www.hotelpensioneornella.it/
 way	36706133	http://www.lignano.org/index.php?id=398&no_cache=1
-way	36706149	https://www.despar.it/
 way	36706151	http://www.lignano.it/hotel/villaromana
 way	36706177	https://hotelmarin.com/
 way	36706178	https://www.hotelpelikan.it/
@@ -4051,6 +4053,7 @@ way	1369016052	https://www.mckinsey.com/business-functions/operations/how-we-hel
 way	1384576556	https://www.eurospin.it/punti-vendita/cervignano-del-friuli-via-aquileia/
 way	1386361507	https://www.gruppobosco.it/
 way	1391575133	https://www.tesla.com/en_eu/findus?location=303406
+way	1396232335	https://www.despar.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4521,7 +4524,7 @@ relation	2709154	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settor
 relation	2709260	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-016/
 relation	2714849	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-028/
 relation	2715168	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-034
-relation	2716464	http://www.via-alpina.org/en/stage/195
+relation	2716464	http://old.via-alpina.org/en/stage/195
 relation	2717759	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-036
 relation	2717839	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-045
 relation	2717900	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-settore-0-carso/s0-040
@@ -4567,12 +4570,12 @@ relation	2919361	https://www.cai-fvg.it/sentieri-cai-fvg/settore-4-alpi-carniche
 relation	2919383	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/s6-632a/
 relation	2920834	https://www.spdt.org/
 relation	2920835	https://www.spdt.org/
-relation	2925532	http://www.via-alpina.org/it/stage/181
+relation	2925532	http://old.via-alpina.org/en/stage/181
 relation	2925533	http://www.via-alpina.org/it/stage/67
 relation	2925549	http://www.via-alpina.org/en/stage/68
 relation	2925578	http://www.via-alpina.org/en/stage/69
 relation	2925581	http://www.via-alpina.org/en/stage/70
-relation	2929190	http://www.via-alpina.org/en/stage/182
+relation	2929190	http://old.via-alpina.org/en/stage/182
 relation	2969836	http://www.via-alpina.org/en/stage/71
 relation	2981310	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-753
 relation	2982053	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-752
@@ -4616,10 +4619,10 @@ relation	4586513	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/f
 relation	4664547	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-814
 relation	4664548	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-816
 relation	4718696	https://www.fondazionecarigo.it/
-relation	4782753	http://www.via-alpina.org/en/stage/196
-relation	4782787	http://www.via-alpina.org/en/stage/197
-relation	4782810	http://www.via-alpina.org/en/stage/198
-relation	4782828	http://www.via-alpina.org/en/stage/199
+relation	4782753	http://old.via-alpina.org/en/stage/196
+relation	4782787	http://old.via-alpina.org/en/stage/197
+relation	4782810	http://old.via-alpina.org/en/stage/198
+relation	4782828	http://old.via-alpina.org/en/stage/199
 relation	4859455	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-723
 relation	5357138	http://www.eurovelo8.com/countries/italy
 relation	5365855	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/s1-140s/
@@ -4728,7 +4731,7 @@ relation	9599989	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carni
 relation	9722701	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-831a
 relation	9764630	https://www.sauris.org/maps-routes/
 relation	9765654	https://sentieroitalia.cai.it/tappa/?id=SI+A05
-relation	9788879	http://www.via-alpina.org/it/stage/202
+relation	9788879	http://old.via-alpina.org/en/stage/202
 relation	9818486	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-726b
 relation	9833101	https://www.cai-fvg.it/sentieri-cai-fvg/settore-3-dolomiti-friulane-alpi-prealpi-carniche/s3-311/
 relation	9880139	https://sentieroitalia.cai.it/tappa/?id=SI+A08
@@ -5376,6 +5379,9 @@ relation	19170630	https://www.cai-fvg.it/sentieri-cai-fvg/settore-5-alpi-giulie/
 relation	19176964	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-823/
 relation	19177293	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-823a/
 relation	19185513	https://rdmgroup.com/
+relation	19273031	https://camminodellepievi.it/tappe/diciasettesima-tappa/
+relation	19273411	https://camminodellepievi.it/tappe/diciottesima-tappa/
+relation	19273451	https://camminodellepievi.it/tappe/diciannovesima-tappa/
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
