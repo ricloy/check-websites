@@ -1516,6 +1516,7 @@ node	5908497552	https://www.ufuntanin.com/
 node	5909770987	http://www.alfobike.it/
 node	5909964961	https://dopolavoroferroviario.it/
 node	5913663085	https://m.facebook.com/pages/Gastronomia-Dai-Pescatori/188251474536011
+node	5923571479	https://www.andoramatchrace.org/
 node	5932621939	https://www.caipikanas.it/
 node	5945323958	https://www.lorenzasulmare.it/
 node	5948617685	https://lapia.it
@@ -1619,6 +1620,7 @@ node	6972806564	https://www.fordauto2000.it/
 node	6989148983	https://www.cdmfutsal.it/
 node	7007728913	https://www.jpdroni.it/
 node	7056212581	http://www.mangiaedormi.altervista.org
+node	7069290264	https://www.tamburiniandora.it/
 node	7072486541	https://www.casadelgelatoalbenga.it/
 node	7072647556	https://www.savonanews.it/2013/07/16/amp/argomenti/attualit/articolo/albenga-oggi-inaugura-il-nuovo-caffe-letterarioufficio-informazione-e-accoglienza-turistica.html
 node	7072651378	https://www.clinicasanmichelealbenga.it/
@@ -1639,13 +1641,14 @@ node	7154257931	https://it-it.facebook.com/parrucchierabellapiu/
 node	7154257932	https://www.officinafoppiano.com/
 node	7154314055	https://groprintge.giobby.com/
 node	7154494032	https://www.cricampomorone.org/wpcri/?page_id=81
-node	7154990379	https://www.scalinataborghese.it
+node	7154990379	http://www.royalsushi.it/
 node	7156651958	http://www.basecampcucco.com/it/
 node	7200418449	https://www.panarello.com/
 node	7200540866	https://www.hotelcorso.it
 node	7201275546	https://www.edendalassio.it/it/hotel-eden-alassio/mavit-bistrot-alassio
 node	7201346445	https://www.alaxihotels.it/it/strutture/edda-apartments
 node	7203016268	http://www.bagnivelazzurra.it
+node	7206890628	https://www.bagnispinnakerimperia.com/
 node	7207039701	https://www.bagnibastione.it/
 node	7207039717	https://www.bagnipino.it
 node	7228437683	https://www.fitactive.it/
@@ -1913,7 +1916,6 @@ node	9027219201	https://www.puntidivistaventimiglia.it/
 node	9028539496	https://www.pampanorama.it/punti-vendita/sanremo
 node	9029134628	https://www.dimegliosupermercati.com/
 node	9029553960	https://www.canale-immobiliare.com/
-node	9029710636	https://cinque-valli.com/listing/sir-thomas/
 node	9029754897	https://www.dentistagaroglio.it/lo-studio.aspx
 node	9029754898	https://incorsoitaliamedica.it/
 node	9032450372	https://www.laboratoriogaroglio.it/
@@ -2049,6 +2051,7 @@ node	9998396202	https://www.artedame.eu
 node	10009886783	https://www.hotelmiramarelavagna.com/
 node	10056678826	https://www.rifugiocinqueterre.com/
 node	10081622745	www.botiggiagiustiniani.it
+node	10091428315	https://www.bagnioneglio.it
 node	10097740143	https://lightning-bike.it
 node	10100719336	http://www.csbmachining.it/
 node	10107120394	https://www.comune.arenzano.ge.it/il-comune/gli-uffici-comunali/area-2/ufficio-anagrafe.htm
@@ -2230,6 +2233,7 @@ node	11200464797	https://www.yugomarket.it/
 node	11206982451	https://altamareaimperia.com
 node	11208376993	https://www.burancocinqueterre.it/
 node	11208376994	https://www.burancocinqueterre.it/
+node	11223501800	https://www.ilbastioneandora.it
 node	11233178940	https://www.barmariucciaportofino.it
 node	11251293969	https://www.autoservicesrl.net
 node	11255041321	https://mille806.com/
@@ -2657,7 +2661,13 @@ node	12887436033	http://www.pizzerianicodebolano.com/
 node	12895969902	https://bbcadafranca.it/
 node	12895981503	http://casavanzevillacristina.com
 node	12895983601	https://katestravelexperience.eu/agriturismo-peterpan-italy?correlationID=b05ad49e-9a51-4d27-a371-2e921acd4403
+node	12897734458	https://www.ciaccoandora.it/
 node	12902493101	https://www.ligurimmobili.it
+node	12920755249	https://studioobbiaragazzini.com/
+node	12921198279	https://www.hotellungomare.it/
+node	12923772153	https://www.cnandora.it
+node	12942329303	https://www.campingalberodoro.com/
+node	12946668901	https://www.ic1ventimiglia.edu.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3416,7 +3426,6 @@ way	1161621509	http://www.lattealberti.it/informativa
 way	1161621512	http://www.lattealberti.it/informativa
 way	1161621513	http://www.lattealberti.it/informativa
 way	1162787486	http://www.campingcinqueterre.it/
-way	1162787488	https://www.campingalberodoro.com/
 way	1169028252	https://catalogo.beniculturali.it/detail/ArchaeologicalProperty/0700263711
 way	1178791148	http://www.arenzanoffroad.it
 way	1179985116	http://www.shiyunjia.it/
@@ -3499,11 +3508,11 @@ relation	1948090	https://chemindassise.org/
 relation	2005160	http://www.porto.genova.it
 relation	2198352	http://www.parktennisclub.com/
 relation	2547675	http://www.sfdapaola.it
-relation	2632354	http://www.via-alpina.org/en/stage/337
-relation	2637273	http://www.via-alpina.org/en/stage/336
-relation	2642817	http://www.via-alpina.org/en/stage/335
-relation	2644202	http://www.via-alpina.org/en/stage/333
-relation	2644206	http://www.via-alpina.org/en/stage/334
+relation	2632354	http://old.via-alpina.org/en/stage/337
+relation	2637273	http://old.via-alpina.org/en/stage/336
+relation	2642817	http://old.via-alpina.org/en/stage/335
+relation	2644202	http://old.via-alpina.org/en/stage/333
+relation	2644206	http://old.via-alpina.org/en/stage/334
 relation	2689871	https://www.parcoportofino.it/
 relation	2689872	https://www.parcoportofino.it/
 relation	2689873	https://www.parcoportofino.it/
@@ -4150,6 +4159,7 @@ node	12900434615	https://www.essevuelettronica.it/
 node	12900434617	https://www.duerrecentromedico.it
 way	134211659	http://www.celtorretta.it/
 way	158281161	https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html
+way	200981533	https://www.hotelbobby.it
 way	201206121	https://www.royalhotelsanremo.com/
 way	202331656	https://www.museodellorologio.it
 way	202465238	www.cascinastra.it/
