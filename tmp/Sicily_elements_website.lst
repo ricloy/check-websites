@@ -3038,6 +3038,7 @@ node	9935766526	https://www.nuovaipsa.com/
 node	9937040966	https://www.parks.it/parco.madonie/cen_dettaglio.php?id=867
 node	9937104839	https://palermo03.mercatinousato.com/
 node	9939037536	http://www.comune.novara-di-sicilia.me.it
+node	9941130817	https://bbdietroilteatro.it/en
 node	9941961464	https://analisimadonie.it/
 node	9942247490	https://store.calliope.style/en/italy/sicilia/ragusa/calliope-22
 node	9945160950	https://elitetessutipalermo.it/
@@ -3864,6 +3865,7 @@ node	12549515553	https://www.coronatrattoria.com
 node	12549689248	https://bbruggeroprimodisicilia.it/
 node	12556919816	https://www.booking.com/hotel/it/casa-e-putia-gangi.html
 node	12568915010	https://www.palazzobutera.it/
+node	12578463915	https://www.vernaci.it/
 node	12579545803	http://www.sicilcartacontabile.it/
 node	12579545804	https://panoramacasasr.com/
 node	12582283766	https://www.aglasteimmobiliari.it/
@@ -3938,6 +3940,7 @@ node	12852392526	https://lareginadalabastro.it/
 node	12857175549	https://www.aloisio.it
 node	12857811034	https://studiomule.it/
 node	12862905149	https://www.yukisushi.it
+node	12864840100	https://www.micheleintheworld.com/ortigia/
 node	12867101502	https://www.siracusaboatclub.com/
 node	12867201663	https://www.implease.it/
 node	12878359564	https://www.riservamalabotta.it/
@@ -3958,8 +3961,15 @@ node	12925868437	https://www.flyetouring.it/
 node	12936636835	https://hollywoodstore.it/
 node	12936636928	https://www.scorzamara.com/
 node	12942524801	http://villaducale.com
-node	12942536701	http://siciliadipinta.it
+node	12942536701	https://siciliadipinta.it/
 node	12943437762	http://bikerentalipari.com/
+node	12947510084	https://www.inklifetattoo.it/
+node	12950077596	https://www.laterrazzasulcentro.it/en
+node	12952853844	https://www.dolcebarocconoto.it/
+node	12956403084	https://bebpalermopirri.it/
+node	12956804993	https://hoteldeinebrodi.com/
+node	12959335178	https://www.triscelehouse.it
+node	12960152062	https://www.nicolacisuites.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -6235,6 +6245,9 @@ way	1390117614	https://dolmencarwash.it/
 way	1391176433	https://www.dpgroupsrl.com/
 way	1391851515	https://www.parcoibleo.com/
 way	1393100643	https://www.fondazionerimed.eu/il-progetto/
+way	1408567109	https://parchiarcheologici.regione.sicilia.it/kamarina-cava-ispica/en/siti-archeologici/necropoli-arcaica-di-contrada-rifriscolaro-camarina/
+way	1408659082	https://www.cf91011.com/
+way	1409418156	https://www.lidl.it/
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
@@ -6801,6 +6814,11 @@ relation	18463998	https://www.ilgelsominoritrovato.it/area-attrezzata-per-camper
 relation	18585882	https://nettunopark.it/
 relation	19152567	https://www.viefrancigenedisicilia.it/
 relation	19213591	https://www.vipcarpark.it/
+relation	19287333	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-briganti
+relation	19289330	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-briganti
+relation	19291353	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-briganti
+relation	19292858	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-briganti
+relation	19293444	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-briganti
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	506117889	https://guardiacostiera.it/mazaradelvallo
 node	548101816	http://www.medicalcentermazara.it
