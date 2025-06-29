@@ -514,7 +514,6 @@ node	4569394295	https://lochaletdiocre.liveyourmountain.com/
 node	4592614013	https://italia.indettaglio.it/ita/abruzzo/teramo_cermignano_poggiodellerose.html
 node	4608203161	https://farmaciaferroni.it/
 node	4621255013	https://www.stammtischtavern.com
-node	4623060920	https://www.abruzzoturismo.it/index.php?Canale=Dove&IDCanaleSub=28&IDCanaleSubSub=0&IDItem=3425&ItemType=BC
 node	4624816759	https://www.farmaciediturno.org/farmacia.asp?idf=10683
 node	4646827789	https://www.comprensivo2chieti.it/
 node	4647099792	https://chieti4comprensivo.edu.it/primariavillaggioceldit/
@@ -3363,11 +3362,12 @@ node	12902178992	https://www.pizzeriadamichelepescara.it/
 node	12915426902	https://comune.montebellodibertona.pe.it/
 node	12918793014	https://www.studiopilates61.it/gli-studi-di-pilates/reform-studio-pilates/
 node	12921245944	https://www.metamer.it/sportelli/spoltore/
-node	12922098758	www.inarcisi.it
+node	12922098758	https://www.inarcisi.it/
 node	12927084647	https://www.fdlserramenti.it/
 node	12927375951	https://www.agenziaentrate.gov.it/portale/uffici/-/uffici/uffici_INSTANCE_6TA6OwuprQd0/dettagliouffT/TAK/cr/915/iur/TAK
 node	12927377358	https://www.rdmricambi.it/
 node	12942156758	https://www.gabriellispa.it/it/insegne/tigre.html
+node	12953468649	https://www.comune.campli.te.it/
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3381,6 +3381,8 @@ way	24398315	https://www.mediamuseum.it
 way	24398466	https://www.conservatoriopescara.it/
 way	24561239	naiadi2010.it
 way	24590525	https://riservacalanchidiatri.it/confini-sic-calanchi-di-atri/
+way	24708514	https://www.comune.pescara.it/node/427
+way	24708515	https://www.comune.pescara.it/node/431
 way	24722214	https://www.comune.montesilvano.pe.it
 way	24906504	https://www.chietifc.it
 way	25038582	https://tribunale-pescara.giustizia.it/
@@ -3616,7 +3618,6 @@ way	322488508	https://www.fira.it
 way	323025731	http://www.chiesamiglianico.it/wp/2006/10/18/la-chiesa-parrocchiale-di-san-rocco/
 way	323073547	https://www.pinetovacanze.com/
 way	323464915	https://www.comune.pineto.te.it/archivio28_turismo-luoghi-e-strutture_5_243.html
-way	323617037	https://www.comune.campli.te.it/
 way	323617039	https://www.musei.abruzzo.beniculturali.it/musei?mid=67&nome=museo-archeologico-nazionale-di-campli
 way	323665887	https://www.chpe.camcom.it/pagina340_sede-legale-di-chieti-scalo.html
 way	324054743	https://www.greenvillageabruzzo.it/index.php/it/
@@ -4473,6 +4474,8 @@ way	1395653690	https://www.coppodellorso.it/prenota-il-rifugio/
 way	1396776879	https://sanita.regione.abruzzo.it/canale-assistenza-territoriale/hospice/hospice-alba-chiara
 way	1396893815	https://sites.google.com/view/il-cambusiere-nature-relais/home-page
 way	1396893816	https://sites.google.com/view/il-cambusiere-nature-relais/stabilimento-balneare
+way	1408638177	https://comprensivodonmilanilanciano.edu.it/luogo/scuola-primaria-olmo-di-riccio/
+way	1409538859	https://www.vigilfuoco.it/sedi-vvf/distaccamento-di-lanciano
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4485,6 +4488,7 @@ relation	3389624	http://www.abruzzomotori.com
 relation	3389625	https://www.eurocot.it/
 relation	4854843	http://www.villamonrepos.it
 relation	5620482	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-spirito-al-morrone/
+relation	6897191	https://www.abruzzoturismo.it/index.php?Canale=Dove&IDCanaleSub=28&IDCanaleSubSub=0&IDItem=3425&ItemType=BC
 relation	6965509	https://www.colledeilupi.it/
 relation	7401586	https://sentieroitalia.cai.it/
 relation	7401587	https://sentieroitalia.cai.it/
@@ -4835,6 +4839,7 @@ node	12304275558	https://www.chpe.camcom.it/pagina182687_padiglione-espositivo-d
 node	12604348773	https://www.tripadvisor.it/Restaurant_Review-g2275192-d10685916-Reviews-Osteria_La_Vecchia_Stazione-Mosciano_Sant_Angelo_Province_of_Teramo_Abruzzo.html
 node	12755183810	https://www.universita.it/ateneo/universita-degli-studi-g-d-annunzio-chieti-pescara/
 node	12755384821	https://www.universita.it/ateneo/universita-degli-studi-g-d-annunzio-chieti-pescara/
+node	12946775009	https://shop.unigross.it/chi-siamo/
 way	12653775	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	57035180	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	301862068	https://it.m.wikipedia.org/wiki/File:Orsogna_-_Torre_di_Bene_03.jpg
@@ -4859,6 +4864,8 @@ way	1384038723	https://www.ilpescara.it/attualita/apertura-cantiere-restauro-fon
 way	1390123060	https://www.ilcentro.it/pescara/citt%C3%A0-sant-angelo-addio-ad-antonio-de-carolis-apprezzato-medico-umanista-1.156935
 way	1391312202	https://www.provinciateramo.com/utenti/il-berrettino-Teramo/il-berrettino-Teramo_PC.asp
 way	1393942195	https://www.jw.org/it/
+way	1408237792	https://www.vaticannews.va/it/festivita-liturgiche/sacro-cuore-di-gesu.html
+way	1409206858	https://santantoniolanciano.com/?i=1
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12862117	https://www.ilpescara.it/cronaca/ponti-sul-saline-inaugurato-ponte-sant-angelo.html
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
@@ -4866,3 +4873,4 @@ relation	13050879	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno
 relation	13457133	https://www.ilpescara.it/attualita/lavori-allungamento-aeroporto-ripresa-maggio-fine-2025.html
 relation	17744834	https://appenninobiketour.com/percorso/
 relation	17760420	https://appenninobiketour.com/percorso/
+relation	19283562	https://santantoniolanciano.com/la-parrocchia/
