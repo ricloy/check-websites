@@ -211,7 +211,6 @@ node	2311464483	https://www.enel.it/punto-enel/
 node	2311464522	https://www.enel.it/punto-enel/
 node	2311464535	https://www.enel.it/punto-enel/
 node	2311464548	https://www.enel.it/punto-enel/
-node	2311464569	https://www.enel.it/punto-enel/
 node	2311464570	https://www.enel.it/punto-enel/
 node	2311464571	https://www.enel.it/punto-enel/
 node	2311464572	https://www.enel.it/punto-enel/
@@ -372,6 +371,7 @@ node	4047647289	https://www.3vaselle.it/
 node	4047691889	https://www.lungarotti.it/
 node	4047694460	https://www.poggioallevigne.it/
 node	4053338990	https://www.afas.it/farmacie/farmacia-13-olmo/
+node	4059976169	https://ing.unipg.it/
 node	4071766327	https://batterieautoperugia.net/
 node	4073404996	http://www.berlinstreetfood.it
 node	4077103665	https://www.cetmusic.it/
@@ -1028,12 +1028,16 @@ node	12911373187	https://www.formagginorcia.it/
 node	12912181968	https://ianbricaire.wixsite.com/patris
 node	12919808986	https://www.autoscuolanovatecnica.it/
 node	12919808987	https://www.autoscuolanovatecnica.it/
-node	12921814302	http://www.satiriauto.it
+node	12921814302	https://www.satiriauto.it/
 node	12925603601	http://www.bancaetica.it
 node	12925618201	https://www.teatroexcelsiorbettona.it/
 node	12925621801	https://www.teatroexcelsiorbettona.it/
 node	12925632201	https://exforpizzeria.it/
 node	12927366273	https://www.gesenu.it/
+node	12952128901	http://www.affittacamereiltiroasegno.it
+node	12956467201	http://www.archiccioli.com
+node	12957318619	http://www.villadigiomici.com/
+node	12959924701	via-mazzini.com
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1442,7 +1446,6 @@ way	547635173	https://www.carabinieri.it/
 way	549556643	http://www.suncoautomotive.it/
 way	549744880	https://barton.it/
 way	550407028	https://www.acquadrink.it/
-way	551051686	https://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-delle-rose-assisi-pg/
 way	551447913	http://www.fondazionevillafabri.org
 way	552437426	https://www.laterrazzahotel.it
 way	552667063	http://www.maranauto.com
@@ -1703,6 +1706,7 @@ way	1156247069	https://www.iluoghidelsilenzio.it/chiesa-di-san-cassiano-mercatel
 way	1172237890	https://www.iluoghidelsilenzio.it/chiesa-di-san-giuseppe-montescosso-di-ponte-felcino-pg/
 way	1177772704	https://teatrodegliocchi.com/
 way	1177938974	https://www.relaisvilladeangelis.it
+way	1178007239	https://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-delle-rose-assisi-pg/
 way	1180968750	https://www.iluoghidelsilenzio.it/chiesa-di-san-giuliano-ponte-di-cerreto-di-spoleto/
 way	1184418605	https://www.iluoghidelsilenzio.it/chiesa-della-madonna-di-ricciano-poi-san-matteo-piano-di-ricciano-pg/
 way	1184496042	https://www.frantoiosepioni.it/
@@ -2048,9 +2052,12 @@ node	12779386054	https://www.istitutocasoriaassisi.it/
 node	12779726597	https://www.sanfrancescoassisi.org/
 node	12797943186	https://www.tenutasanlorenzo.it/
 node	12811371344	https://www.accoglienzasanfrancesco.it/
+node	12952324798	https://www.diocesiassisi.it/
+node	12952349653	https://monasterosangiuseppeassisi.it/
 way	37028360	https://www.santuariosandamiano.org/
 way	43051908	https://santuariorivotortoassisi.org/
 way	54610355	https://www.comune.montefalco.pg.it/pagine/polizia-stradale
+way	76844973	https://www.assisisantuariospogliazione.it/
 way	105440966	https://www.porziuncola.org/
 way	106506109	https://www.santuariosandamiano.org/
 way	106506111	https://www.santuarioeremodellecarceri.org/
@@ -2096,6 +2103,7 @@ way	1333218154	https://www.fattoriagiorgetti.it/
 way	1334245871	https://turismo.tadino.it/informazioni-aree-camper-biblioteca/
 way	1334245872	https://turismo.tadino.it/informazioni-aree-camper-biblioteca/
 way	1357196484	https://www.assisicasafrancesca.it/
+relation	2016618	https://monasterosangiuseppeassisi.it/
 relation	2997264	https://casasangirolamo.azionecattolica.it/
 relation	3444241	https://www.casamonteripido.it/
 relation	8050899	http://www.viaggispirituali.it/strutture-turismo-religioso/umbria/monastero-s-croce_3353/
