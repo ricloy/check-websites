@@ -105,6 +105,7 @@ node	691822075	http://www.rosaspina.ap.it/
 node	692007500	https://www.coal.it/archives/punti-vendita/emanga-srls
 node	712778951	https://www.hotelmonteconero.it/
 node	712778956	https://www.caffegiuliani.it/
+node	712778958	https://raval.plateform.app/
 node	712778967	https://www.ristorantelascensore.it/
 node	712778983	http://www.kingedward.it/
 node	712778986	https://anburger.it/
@@ -161,7 +162,6 @@ node	1231713521	https://www.cobaristorazione.it/cobar-caffetteria-stazione-di-an
 node	1231713528	https://www.cobaristorazione.it/caffetteria-pizzeria-stazione-di-ancona.html
 node	1231713544	http://www.taxi-ancona.it/
 node	1232292203	http://www.baiaimperiale.net/
-node	1234855121	https://www.villaserraalta.it/
 node	1237351323	https://www.immobiliareserini.it/
 node	1238990992	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/56-ancona---via-maratta.html
 node	1238991017	http://www.trattorialacantineta.it/
@@ -183,7 +183,6 @@ node	1308875606	https://www.newink.it
 node	1311371745	http://azzurrocinema.altervista.org/
 node	1311371939	http://www.lineapane.com/
 node	1316682934	https://bar-officina-68.eatbu.com
-node	1316682935	https://www.bontadellemarche.it/
 node	1316682983	https://www.ninopesciolino.it/
 node	1316682994	https://www.yumyumfood.it
 node	1321082517	https://www.egohotelancona.it/
@@ -386,6 +385,7 @@ node	2563243791	https://www.groovyland.it/
 node	2585194422	http://www.farmaciatacchi.it/
 node	2585941811	http://www.hotelmoretti.it
 node	2606111502	https://www.agricamppicobello.com/
+node	2614490647	https://www.hotelanconapalacedelconero.it/
 node	2617359913	https://www.biluce.it/
 node	2635939408	https://mercatinodelgioiello.it/
 node	2636047201	http://www.lachiaveancona.com/
@@ -923,7 +923,7 @@ node	7165005747	https://cinema27.wixsite.com/saladegliartisti/
 node	7167696479	https://www.ascolicalcio1898.it/
 node	7168070781	https://www.marcheteatro.it/biglietteria/
 node	7217676220	https://www.ristoranteparadisofalconara.it
-node	7217676224	https://www.avis.it
+node	7217676224	https://www.avisprovincialeancona.it/avis-comunale-falconara-marittima/
 node	7217683532	https://www.agenziapalmieri.it/
 node	7229705190	https://www.maggiore.it/agenzie/noleggio-auto-ancona-piazza-rosselli/
 node	7236448229	https://www.lapinseria.online
@@ -2073,10 +2073,13 @@ node	12896789666	https://fienile.bedsandhotels.com/
 node	12898677755	https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede/dettaglio-sedi.it.sezione-sedi.sedi-inps.030001.030001-elencoStruttureInps.html
 node	12901585895	https://www.pizzaexpress.ancona.it
 node	12901585896	https://www.orocash.it/an02-compro-oro-ancona
+node	12915100291	https://www.crai-supermercati.it/punto-vendita/400-cuor-di-crai-belforte-allisauro/
 node	12917280268	https://www.uicap.it
 node	12923635532	https://www.tally-weijl.com/it_IT/stores/MACERATA/6D84
 node	12926625578	https://www.comune.gabicce-mare.pu.it/
 node	12942193094	https://www.intimissimi.com/it/negozi/marche/ancona/ancona_corso_garibaldi_nn._56_58/IP64.html
+node	12955018258	https://www.ristorantepizzeriaulivodelconero.it/
+node	12955054025	https://www.manifatturadimare.it
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2857,6 +2860,7 @@ way	1388266040	https://www.difioreforni.com/
 way	1388813958	https://villalapassione.it
 way	1388876860	https://www.colleindaco.it
 way	1393266841	https://ilcolledelsolematelica.it/index.html
+way	1410363359	https://www.villaserraalta.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1512917	https://www.iismerlonimiliani.it/
