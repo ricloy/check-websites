@@ -3,7 +3,6 @@ node	26859604	https://www.campinglino.it/
 node	26859642	https://www.campingmiraflores.it/
 node	26859860	https://www.valdeiva.it/
 node	26859885	http://www.campingceraunavolta.it/
-node	26859891	https://www.campingdewijnstok.com/
 node	66586326	https://www.comune.imperia.it
 node	66586759	https://www.comunedisanremo.it/
 node	66586820	http://www.cervo.com/
@@ -81,6 +80,7 @@ node	420358207	https://www.hoteltigullio.eu/
 node	423806795	www.microkit.com
 node	439784766	https://www.campingsansebastiano.it/
 node	441526377	https://www.hotel-rossini.it/
+node	441530541	http://www.museodelclown.it
 node	454393136	https://erbagatta.it/
 node	454884295	http://www.cioilonghi.it/
 node	472443888	https://www.conad.it/ricerca-negozi/negozio.004022.html
@@ -213,6 +213,7 @@ node	1263374735	https://www.maltusfaber.com/
 node	1273655066	http://www.trebino.eu/museo-orologi
 node	1276801101	https://www.collemelosa.it/
 node	1286570771	https://www.icdianomarina.edu.it/
+node	1286587155	https://www.farmaciaguglielmi.com/
 node	1296976918	http://www.terrerossecamping.it/
 node	1313052761	https://www.glicini.it/
 node	1315968046	https://www.poste.it/
@@ -340,6 +341,7 @@ node	1917247140	http://www.ospitaliadelmare.it/
 node	1937168675	http://www.pernambucco.com
 node	1937876747	http://www.facebook.com/pages/Caffe-Costituzionale/162995820404438?rf=290497181616658
 node	1939999786	https://villaclelia.it
+node	1945736858	https://nolobici.it
 node	1973796797	http://www.arcibelleville.org/
 node	1974517946	https://www.virginactive.it/club/genova
 node	1995176469	https://www.farmaciaquaglia.com/
@@ -447,6 +449,7 @@ node	2340570166	http://www.ferasrl.it/progetto/naso-di-gatto/
 node	2340573902	http://www.ferasrl.it/progetto/naso-di-gatto/
 node	2340580970	http://www.ferasrl.it/progetto/cairo-montenotte/
 node	2341814881	https://www.repower.com/it
+node	2341975768	https://www.hoteltorinodiano.it/fr/
 node	2342490907	https://www.galleriadelcastelloimperia.com/
 node	2354247166	http://www.perladellevanteframura.it
 node	2356302749	https://www.pintori.net/
@@ -783,8 +786,9 @@ node	3741493558	http://www.gmazzotti1903.it/
 node	3741493560	https://www.fiorealbisola.it/
 node	3744148873	https://www.iltorchioarenzano.com/
 node	3744972948	https://www.caffe-del-porto-imperia.it/
+node	3747823361	https://www.museidigenova.it/it/gam-galleria-darte-moderna
 node	3747823362	www.museoluxoro.museidigenova.it
-node	3747823363	https://www.museidigenova.it/spip.php?article427
+node	3747823363	https://www.museidigenova.it/it/raccolte-frugone
 node	3751196731	https://www.monumentaltrees.com/es/ita/liguria/genova/15141_villaserra/46836/
 node	3751196732	https://www.monumentaltrees.com/es/ita/liguria/genova/2772_nervi/25910/
 node	3754072166	https://it-it.facebook.com/libreriasabina.arenzano/
@@ -1641,7 +1645,7 @@ node	7154257931	https://it-it.facebook.com/parrucchierabellapiu/
 node	7154257932	https://www.officinafoppiano.com/
 node	7154314055	https://groprintge.giobby.com/
 node	7154494032	https://www.cricampomorone.org/wpcri/?page_id=81
-node	7154990379	http://www.royalsushi.it/
+node	7154990379	https://www.royalsushi.it/
 node	7156651958	http://www.basecampcucco.com/it/
 node	7200418449	https://www.panarello.com/
 node	7200540866	https://www.hotelcorso.it
@@ -1719,6 +1723,7 @@ node	8437213485	https://www.icdianomarina.edu.it/
 node	8445036117	https://www.hotelmorescodiano.it/
 node	8445460287	https://www.gorleriwineresort.com/agriturismo/
 node	8445480077	https://www.addestramentocaniliguria.com/
+node	8445516637	https://www.hotelbaiabianca.com/
 node	8445620588	https://dianomarina1.tecnocasa.it/diano-marina/diano-marina-diano-marina/
 node	8445749663	https://www.barisone.it/
 node	8445762183	https://www.immobiliareblengino.com/
@@ -1938,6 +1943,7 @@ node	9051177123	https://improntastyle.wixsite.com/improntastyle
 node	9051259200	http://www.ventimiglia.fondocasa.it/
 node	9051382931	http://www.i-m.mx/mikybonsai/Mikybonsai/home.html
 node	9093366553	https://www.cinqueterreresidence.it
+node	9110504219	https://nicoliniamministrazioni.it/
 node	9113120067	https://www.dallacompa.com
 node	9116988491	http://palazzozecchinogenova.it/
 node	9142641915	https://www.albanalatorre.it/index.html
@@ -2668,6 +2674,7 @@ node	12921198279	https://www.hotellungomare.it/
 node	12923772153	https://www.cnandora.it
 node	12942329303	https://www.campingalberodoro.com/
 node	12946668901	https://www.ic1ventimiglia.edu.it/
+node	12954839116	https://stellamarisbergeggi.com/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3487,6 +3494,8 @@ way	1378582321	https://www.provincia.savona.it/strade/sp28bis
 way	1378582324	https://www.provincia.savona.it/strade/sp28bis
 way	1379273229	https://www.kaukau.it
 way	1391318864	https://giardinicaneva.org/
+way	1409773352	https://www.campingdewijnstok.com/
+way	1410325213	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0700111399
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -4096,6 +4105,7 @@ node	4878856100	https://www.paginegialle.it/moneglia-ge/pizzerie/pizzeria-ciocco
 node	5141426251	http://www.motonauticapagliettini.it
 node	5146204592	http://www.ulivoeilmare.it
 node	5154735413	http://www.nauroz.com/
+node	5163804579	https://www.bestsushi.it/best-sushi-coming-soon-savona/
 node	5347879759	http://www.croceverdequarto.it
 node	5347905495	http://www.ilcerchiodellerelazioni.it
 node	5347905496	http://www.ilcerchiodellerelazioni.it/centro-mascherona/
