@@ -393,6 +393,7 @@ node	949540473	https://www.anticospalathos.com/
 node	949540475	https://www.mannois.it/
 node	949540483	http://www.nurache.it
 node	949540549	http://www.supasu.com
+node	956151760	https://startuno.it/mulino/
 node	956185779	http://www.museobuggerru.it/
 node	956185787	https://www.hotel-larosadeiventi.it/
 node	957056379	https://www.lavecchialampara.com/
@@ -691,6 +692,7 @@ node	2992321578	https://www.farmaciavillasimius.it/
 node	2995436265	http://www.sacottilla.it
 node	2995485164	http://www.casamascia.it
 node	2995797658	https://www.ilvelierosolanas.it
+node	3003437374	https://www.repower.com/dina/
 node	3013247846	https://www.comune.tramatza.or.it/
 node	3014209992	https://www.ldmarket.it/
 node	3024349680	http://bedandbreakfastdelfiore.it
@@ -808,7 +810,6 @@ node	3334303909	http://www.otticaerdas.it/
 node	3336542846	http://www.latteriaselfservice.com/
 node	3336553807	http://www.latteriaselfservice.com/
 node	3349773335	http://www.ioleviaggi.it/
-node	3349773342	http://www.marcomoto.it/
 node	3349773354	http://www.nuovaimmaginesantona.com/
 node	3350225707	http://www.orequo.it/
 node	3361844287	https://www.vivocha.com
@@ -1101,7 +1102,7 @@ node	4473523208	https://www.residenceucalipti.it/en/residence-and-apartments-wit
 node	4473523228	https://www.plataforma-llengua.cat/territorials/alguer/
 node	4473526797	https://www.bata.it/
 node	4473532617	www.welcometoalghero.com/struttura/casa-dei-liuti/
-node	4473532898	www.web-project.it
+node	4473532898	https://www.web-project.it/
 node	4473541964	www.osteriamacchiavello.it
 node	4473541967	http://www.lavecchiagrottadeldiavolo.com/
 node	4473541974	http://www.altuguri.it/
@@ -1777,6 +1778,7 @@ node	12658326663	https://www.maestr-ale.org/
 node	12725894102	https://www.labaita.eu
 node	12734097392	https://instagram.com/ristorantedafabio
 node	12734486857	https://www.tenuteolbios.com/
+node	12766626511	https://avisprovincialesassari.it/
 node	12771830280	https://campingirasole.it
 node	12776948868	https://www.mdspa.it/punti-vendita/Sardegna/CA-Cagliari/236-CAGLIARI/
 node	12776948869	https://www.mdspa.it/punti-vendita/Sardegna/CA-Cagliari/244-CAGLIARI/
@@ -1872,6 +1874,7 @@ node	12787937173	https://puscedduviaggi.it/en/city-buses/
 node	12787937174	https://puscedduviaggi.it/en/city-buses/
 node	12791729637	https://hibiscushotel.it/
 node	12794262401	https://www.rentscooteralghero.it/
+node	12800183024	https://www.arddiscount.it/punti-vendita/la-caletta/via-livorno-42
 node	12800856692	https://abitareinvacanza.it/
 node	12802955766	https://gallodoro.it/
 node	12810464901	https://www.samadrighe.it/
@@ -1890,9 +1893,12 @@ node	12854102404	http://www.agrisatanca.com/
 node	12881099001	https://www.agricampeggio-sardegna.com/it/camping-sardegna.html
 node	12896284614	https://www.piumacamp.site/
 node	12902255387	https://www.aziendable.it
-node	12944787902	http://www.seranile.com
-node	12944797501	http://turismoruralefilieri.com
+node	12944787902	https://www.seranile.com/
+node	12944797501	https://turismoruralefilieri.com/
 node	12945330701	https://www.tonnodicorsa.com/
+node	12969181401	https://www.studiodeiana.com/
+node	12969657733	https:www.mobilicorda.it
+node	12969829545	poste.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -3395,6 +3401,7 @@ relation	19062049	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale
 relation	19109151	https://www.torrestennis.it/
 relation	19132100	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale/laghi-artificiali/pedra-e-othoni.html
 relation	19196433	https://www.sardegnasentieri.it/index.php/sentiero/fassoni-su-presoni-c-421
+relation	19300630	https://www.villasquer.it
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -4200,6 +4207,10 @@ way	1360863485	https://www.ictertenia.edu.it/
 way	1382100134	https://www.parkingo.com/it/parcheggio-aeroporto-cagliari-elmas
 way	1384151676	https://www.sateriavillage.it/
 way	1384335370	https://www.hoteljanas.it/
+way	1411289213	http://arst.sardegna.it/orari_e_autolinee/TPL.html
+way	1411289214	http://arst.sardegna.it/orari_e_autolinee/TPL.html
+way	1411289217	http://arst.sardegna.it/orari_e_autolinee/TPL.html
+way	1411289218	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 relation	41025	https://www.comunearzachena.it
 relation	1808857	http://www.treninoverde.com/
 relation	3647706	http://www.comuneescalaplano.info/
