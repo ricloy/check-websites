@@ -38,6 +38,7 @@ node	203398457	https://portedipescara.it/negozi/interspar/
 node	228262895	http://www.xfuel.it/stations.html
 node	228263519	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/API41510
 node	249428915	https://www.facebook.com/UTOPIA.RISTOPUB.MONTESILVANO/
+node	250052540	https://www.centrodabruzzo.com/negozi/ipercoop/
 node	254086847	https://www.icpescara3.edu.it/istituto-2/via-milite-ignoto/
 node	254087448	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10779
 node	254087764	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10841
@@ -88,6 +89,7 @@ node	452630249	https://italia.indettaglio.it/ita/abruzzo/teramo_castelli_palomba
 node	452630271	https://italia.indettaglio.it/ita/abruzzo/teramo_colledara_villailii.html
 node	452630272	https://italia.indettaglio.it/ita/abruzzo/teramo_castelli_villarossi.html
 node	472344303	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10768
+node	472693835	https://www.dipaoloarredamenti.it/
 node	472694794	https://www.farmaperbellini.it#Contatti
 node	474352309	https://www.conad.it/ricerca-negozi/negozio.009728.html
 node	475405132	https://pasticceriamichetti.com/
@@ -517,7 +519,6 @@ node	4621255013	https://www.stammtischtavern.com
 node	4624816759	https://www.farmaciediturno.org/farmacia.asp?idf=10683
 node	4646827789	https://www.comprensivo2chieti.it/
 node	4647099792	https://chieti4comprensivo.edu.it/primariavillaggioceldit/
-node	4651122790	https://www.dannunziolanciano.edu.it/le-nostre-scuole/scuola-primaria-giardino-dei-bimbi/
 node	4658680389	https://chieti4comprensivo.edu.it/primariaviabosio/
 node	4670998590	http://www.chieti4comprensivo.edu.it/chieti4/
 node	4684853599	https://www.iccastelfrentano.it
@@ -706,6 +707,7 @@ node	5928818134	http://www.intesasanpaolo.com/
 node	5939251655	consolatodelghana.it
 node	5975110331	https://www.univaq.it/section.php?id=1692
 node	5979560345	https://www.sushikaiten.it
+node	5986086487	https://openpnrr.it/progetti/82504/
 node	6048491135	http://www.valleroveto.eu/eremo-madonna-del-cauto/
 node	6066353241	https://www.pdabruzzo.com/circolo-provinciale-laquila/
 node	6083320670	http://studiodentisticomanna.it
@@ -1035,7 +1037,6 @@ node	6811181650	http://lanuovadimoraaquila.it/
 node	6811181662	https://www.amissima.it/vicino-a-te/elenco/esse-gi-assicurazioni-s-n-c-di-ercole-gino-e-bonanni-sabatino/
 node	6811181665	http://www.centrotticafunaro.it/#home
 node	6811181667	https://www.facebook.com/pg/CentroEsteticoAntheasc/about/?ref=page_internal
-node	6813208260	http://www.manziabbigliamento.it/
 node	6815165576	https://www.mausonium.it/
 node	6815226026	https://barattelli.it
 node	6828276774	http://www.farmaciafarmamentis.it/index.asp
@@ -1315,7 +1316,7 @@ node	7540374299	http://www.ilgattoconipedali.it/
 node	7540406010	https://mazzarabike.business.site/
 node	7540470903	https://dilucabike.com/
 node	7540514793	https://www.bicigaragepescara.com/
-node	7540903484	https://sites.google.com/view/bike-garage-pescara/home
+node	7540903484	https://b-sidestore.com/
 node	7540906846	https://www.issraq.it/
 node	7540935035	https://www.masciarellisportcyclingcenter.com/
 node	7540962560	https://www.difulvioracing.it
@@ -1628,7 +1629,7 @@ node	7880636057	http://www.ondahotelclub.com/
 node	7880665846	https://www.tvsei.it/
 node	7883133851	https://www.snai.it
 node	7884031835	https://tabaccheria-dragonara.business.site/
-node	7884031841	http://www.happycasastore.it/
+node	7884031841	https://www.centrodabruzzo.com/negozi/calliope/
 node	7884031842	https://www.cottonsilk.it/
 node	7884031843	https://www.gattinonitravel.it/
 node	7884031849	https://www.annavirgili.it/
@@ -2815,7 +2816,6 @@ node	11159159207	jakesplace.eu
 node	11159828831	https://www.dromedian.com/
 node	11166989450	http://www.ristorantepizzeriamarsica.it/
 node	11177325190	https://www.maversicurezza.it/
-node	11192481874	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10640
 node	11204978082	http://www.farmaciapomponio.it
 node	11205085224	https://www.conad.it/
 node	11206454148	https://www.degustoeventi.it/
@@ -3368,6 +3368,7 @@ node	12927375951	https://www.agenziaentrate.gov.it/portale/uffici/-/uffici/uffic
 node	12927377358	https://www.rdmricambi.it/
 node	12942156758	https://www.gabriellispa.it/it/insegne/tigre.html
 node	12953468649	https://www.comune.campli.te.it/
+node	12973687897	https://www.intesasanpaolo.com/
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3391,8 +3392,8 @@ way	26413279	https://www.centroborgodabruzzo.it/
 way	26419619	https://www.pinpalace.it/
 way	27351142	https://www.telespazio.com/it/azienda/centri-spaziali-teleporti/centro-spaziale-fucino
 way	27896384	https://ctpescara.it/
-way	28138873	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII177107
 way	28379456	https://www.ciakcity.it/
+way	28403226	https://www.lancianofiera.it/
 way	28524470	https://www.teatrofenaroli.it/
 way	28738491	http://hadriapescara.it/?doing_wp_cron=1578299741.8722538948059082031250
 way	37194887	https://www.gabrielliunika.it/it/il-mio-negozio.423.html
@@ -4476,6 +4477,12 @@ way	1396893815	https://sites.google.com/view/il-cambusiere-nature-relais/home-pa
 way	1396893816	https://sites.google.com/view/il-cambusiere-nature-relais/stabilimento-balneare
 way	1408638177	https://comprensivodonmilanilanciano.edu.it/luogo/scuola-primaria-olmo-di-riccio/
 way	1409538859	https://www.vigilfuoco.it/sedi-vvf/distaccamento-di-lanciano
+way	1411423348	https://rinascitalancianese.it/public/content/
+way	1411810026	https://www.dannunziolanciano.edu.it/le-nostre-scuole/scuola-primaria-giardino-dei-bimbi/
+way	1411958288	https://www.mariopatricelli.com/
+way	1412458092	https://www.gruppofrentauto.com/
+way	1412458222	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII177107
+way	1412497210	https://www.comune.torinodisangro.ch.it/it/vivere/biblioteca-comunale
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4814,6 +4821,7 @@ node	5235268513	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
 node	5235286740	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
 node	5235292044	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
 node	5235293528	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
+node	5986086487	https://www.chietitoday.it/economia/progetto-riqualificazione-olmo-riccio-lanciano.html
 node	6311570721	http://www.svapofacile.it
 node	7669061031	http://www.comune.pineto.te.it/pagina1835_presidi-sanitari.html
 node	7669123998	http://prospineto.it/guardia-medica-turistica/
@@ -4866,6 +4874,7 @@ way	1391312202	https://www.provinciateramo.com/utenti/il-berrettino-Teramo/il-be
 way	1393942195	https://www.jw.org/it/
 way	1408237792	https://www.vaticannews.va/it/festivita-liturgiche/sacro-cuore-di-gesu.html
 way	1409206858	https://santantoniolanciano.com/?i=1
+way	1411481544	https://www.dannunziolanciano.edu.it/le-nostre-scuole/scuola-dell-infanzia-e-damico/
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12862117	https://www.ilpescara.it/cronaca/ponti-sul-saline-inaugurato-ponte-sant-angelo.html
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
