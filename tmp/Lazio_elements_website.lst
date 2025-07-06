@@ -1230,7 +1230,7 @@ node	2791024986	http://coyotebar.it
 node	2793625481	https://steccolecco.com/
 node	2794689360	http://www.panzironisrl.com/
 node	2798809896	www.tangohotel.it
-node	2802085358	www.propagandaitaliancuisine.it
+node	2802085358	https://www.propagandaitaliancuisine.it/
 node	2818358459	https://www.football-pub.com/
 node	2820204086	www.babetteristorante.it
 node	2826528255	https://www2.istitutogiovannipaolo2.it/
@@ -1986,6 +1986,7 @@ node	4378761886	https://www.prefettura.it/viterbo/
 node	4382098322	http://www.villaggioloscoiattolo.it/
 node	4384920067	https://www.merumalia.it/
 node	4385165816	www.protezionecivilepalestrina.it
+node	4386562289	https://www.1000mtdipizza.com/
 node	4386770790	https://ciampini.com/
 node	4386798605	http://www.gelateriafatamorgana.com
 node	4388751989	https://www.paolocalzature.it/
@@ -6520,8 +6521,8 @@ node	12905680701	https://book-cycle.it/
 node	12908884001	https://klupizzaclub.it/
 node	12919278749	https://www.vistavisiongroup.com/dove-siamo/roma/
 node	12921453403	https://www.anastasio.info/
-node	12922959101	http://il-bistrot-di-amelie.com
-node	12923006002	http://tagliatellaroma.com
+node	12922959101	https://www.il-bistrot-di-amelie.com/
+node	12923006002	https://tagliatellaroma.com/
 node	12925486713	https://www.eccelsohotel.com
 node	12925506675	https://municipia.eng.it/home-page/
 node	12925792897	https://www.squareinn.it/
@@ -6531,13 +6532,15 @@ node	12926739138	http://www.impagliaturesedieroma.it/
 node	12926747312	https://scuolasangiuseppe.it/
 node	12927547876	http://termo.com
 node	12929357701	http://www.etimobistrot.it
-node	12949407101	http://www.albergodiffusoamatrice.it
+node	12949407101	https://www.albergodiffusoamatrice.it/
 node	12953623752	https://firmania.it/roma/piero-acconciature-600150
 node	12953673138	https://www.ro-joielly.it/
 node	12953675888	https://centroveterinariocecchignola.com/
 node	12953700025	http://www.fisiored-roma.it
 node	12954029958	https://www.unicooptirreno.it/punto-vendita/soriano-nel-cimino
 node	12955941927	https://www.gtccars.it/
+node	12970008502	http://www.centromedicofilippi.it
+node	12973995202	https://www.paneesalame.it/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7124,6 +7127,7 @@ way	199661046	http://www.agriturismotenutamirabello.com
 way	200170131	https://www.istitutosvizzero.it/
 way	200293748	http://www.parcolucretili.it
 way	201293294	https://www.arapacis.it/
+way	201317506	https://all.accor.com/hotel/B834/index.it.shtml
 way	201346829	https://www.palaghiaccioroma.it/
 way	201387328	http://hotelnizzarome.com
 way	201387329	http://www.gigliodellopera.com/
@@ -7487,6 +7491,7 @@ way	304633120	http://www.lasassola.com/
 way	305318312	http://www.lucacrevatin.it/
 way	305422524	http://lascampagnata.com
 way	305541207	luigieinaudiroma.gov.it
+way	305541208	https://www.pampanorama.it/
 way	305544397	http://ilcasale.darpoeta.com/
 way	305663079	http://www.casalasalle.com/
 way	305852819	www.progettoforti.it
@@ -7544,6 +7549,7 @@ way	331209381	https://www.specchiodidiana.it/
 way	331457645	https://www.parcheggioaltaquota1.eu/
 way	331457646	https://hotelpalacavicchi.com/
 way	331457647	https://www.lowcostparking.eu/parcheggio_ciampino-html/
+way	332108931	https://www.bibliotechediroma.it/opac/library/Aula%20Studio%20Torpignattara/RMBV2
 way	332109729	https://roma.figliedisancamillo.it/
 way	332484274	https://www.pampanorama.it/punti-vendita/panorama-cassino
 way	332765465	www.cineteatrobuonarroti.it
@@ -8097,7 +8103,6 @@ way	480493122	http://www.belsitoostia.com
 way	480614155	https://www.agriturismosanlorenzo.info/
 way	480867166	https://www.degservice.it/
 way	481188937	https://www.abclatina.it/
-way	481760129	https://www.parchilazio.it/schede-194-necropoli_di_s_giuliano
 way	481992990	http://archeologialazio.beniculturali.it/it/328/parco-naturalistico-archeologico-di-vulci
 way	484886190	https://hoteledenbolsena.it/
 way	485347060	http://www.asrieti.it/
@@ -9187,7 +9192,6 @@ relation	2415392	https://www.esa.int/About_Us/ESRIN
 relation	2426551	http://www.casinadeitrelaghi.com/
 relation	2426559	https://www.piscinadellerose.it/
 relation	2433678	https://www.casaledellacquabianca.com/
-relation	2433717	http://www.lazioturismo.it/asp/scheda_archeo.asp?id=87
 relation	2436896	https://www.termedistigliano.it/
 relation	2441352	https://centrocongressi.confindustria.it/#/ms-1/1
 relation	2459896	https://www.comune.roma.it/PCR/resources/cms/documents/delibGC24219lug2011.pdf
@@ -9652,7 +9656,7 @@ relation	12721724	http://santamariamadredellachiesa.weebly.com/
 relation	12740657	https://www.icdonmilanicerveteri.it/
 relation	12764475	https://www.ipertriscount.it/punti-vendita/negozi-ipertriscount/item/506-bracciano-roma.html
 relation	12764483	https://ristoranteyubracciano.com/
-relation	12764544	https://www.eurospin.it/punti-vendita/bracciano-540567/
+relation	12764544	https://www.eurospin.it/punti-vendita/bracciano2-via-della-macchia/
 relation	12767814	http://www.asl.vt.it/
 relation	12768241	https://www.campingsmeraldo.com/
 relation	12768268	https://casaledipolline.it/
@@ -9946,6 +9950,7 @@ relation	19065589	https://www.viadeitusci.it/
 relation	19126151	https://www.icvisconti.edu.it/
 relation	19210469	https://www.alisoriano.it/
 relation	19252518	https://polisportivaderossi.it/
+relation	19309273	https://www.parchilazio.it/schede-194-necropoli_di_s_giuliano
 node	251888861	https://www.multisalagreenwichroma.com/
 node	279379894	https://sangaspare.it/le-nostre-comunita/roma-chiesa-rettoria-santa-maria-in-trivio/
 node	452570567	https://www.catacombe.org/
