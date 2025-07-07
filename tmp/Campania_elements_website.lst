@@ -19,6 +19,7 @@ node	318616353	http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+Diosc
 node	318622961	http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+di+Cecilio+Giocondo+(V+1%2C26)&idSezione=88
 node	319120209	http://www.pompeiisites.org/Sezione.jsp?titolo=Villa+di+Diomede&idSezione=175
 node	319406677	http://www.pompeiisites.org/Sezione.jsp?titolo=House+of+the+wild+boar+%28VII%2C4%2C48%29&idSezione=593&lookfor=hunt
+node	331255921	https://www.repower.com/dina/
 node	412209373	https://www.massalubrenseturismo.it/
 node	415476691	http://hotelpotenza.blogspot.co.uk/
 node	417856731	https://www.hilton.com/en/hotels/napbnqq-de-bonart-naples/
@@ -2708,6 +2709,14 @@ node	12949697366	https://www.instagram.com/ifratellicaponicava/
 node	12953919647	https://www.a30passidacqua.com
 node	12956649419	agrorent.it
 node	12959848373	https://happychef.avellino.it
+node	12964143809	https://www.melchio.it/
+node	12971304050	https://www.comune.nusco.av.it/vivere_il_comune/luoghi/luogo_1.html
+node	12971426551	https://www.comune.torrecuso.bn.it/Vivere-il-comune/Luoghi/Sede-Ufficio-Sindaco-1-piano-palazzo-Caracciolo-Cito
+node	12971450489	https://www.comune.teano.ce.it/vivere_il_comune/luoghi/luogo_1.html
+node	12978476301	https://en.m.wikipedia.org/wiki/House_of_the_Orchard
+node	12980281058	https://www.instagram.com/incantobnb/
+node	12981672388	https://laborgata.eatbu.com/
+node	12981962355	https://kayaknapoli.com/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -2798,6 +2807,7 @@ way	154384030	www.cavalieresrl.com
 way	155968528	https://www.oacn.inaf.it/
 way	155968530	https://www.oacn.inaf.it/
 way	159256089	www.casina-rossa.it
+way	160422674	http://ao-rummo.it/
 way	160933000	www.vallodellalucania.gov.it
 way	161018760	http://www.iisdavincisapri.gov.it/iis/
 way	161090383	https://it.wikipedia.org/wiki/Giardini_di_Augusto
@@ -3362,6 +3372,7 @@ way	701341049	https://www.hotelaragona.it/
 way	701691346	https://jysk.it
 way	702805213	https://www.morsierimorsi.it/
 way	705790224	https://www.viaromasuitesischia.it/en
+way	715172505	https://www.magnetopro.it/
 way	716680398	https://cilentissimo.de/
 way	726079332	https://www.lafenosa.it
 way	726825411	https://www.tenutalafortezza.com/
@@ -3397,7 +3408,10 @@ way	733779248	https://www.baldoriaristopark.it
 way	733968400	https://www.comune.quarto.na.it/it/
 way	734180718	https://www.palaveliero.it/
 way	734195842	https://www.todis.it/
+way	734209487	http://www.lamurena.it/
 way	734210221	https://www.ov.ingv.it/ov/museo.html
+way	734210435	https://terrazza2golfi.com/pages/menu-piana-delle-ginestre
+way	734211623	https://whiteeventi.it/
 way	734218318	https://www.igiardinidicesare.it/
 way	734218564	https://www.instagram.com/goldenpadelcentro
 way	734218762	http://giannialvesuvio.it/
@@ -3898,6 +3912,7 @@ relation	1889621	https://www.comune.caserta.it/belvedere/
 relation	1947310	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
 relation	2440708	https://www.abana.it/
 relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240 | http://www.lestradeferrate.it/mono2.htm
+relation	2896671	http://www.aornmoscati.it/
 relation	3087495	https://www.museodeicastelli.it/castelli/san-martino-valle-caudina-castello-pignatelli-della-leonessa/
 relation	3095511	https://www.comune.montesarchio.bn.it/
 relation	3106073	https://www.comunedibonito.it/portale/unione-dei-comuni-terre-dellufita/
