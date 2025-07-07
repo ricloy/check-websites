@@ -2,323 +2,323 @@ COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/9193344308 http://farmaletto.
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/868703901 http://giagnacovo.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/662738499 http://cantineditullio.com/ → http://www.cantineditullio.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/3721631445 http://lavanderialapentrica.blogspot.com
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/3437724542 http://archeologicamolise.beniculturali.it/index.php?it/219/opere/28/cercemaggiore-fortificazione-sannitica → http://sabapmolise.beniculturali.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/338097943 http://archeologicamolise.beniculturali.it/index.php?it/219/opere/48/san-giuliano-del-sannio-villa-romana-in-localit-santa-margherita-crocella → http://sabapmolise.beniculturali.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3437724542 http://archeologicamolise.beniculturali.it/index.php?it/219/opere/28/cercemaggiore-fortificazione-sannitica → http://sabapmolise.beniculturali.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/10117401642 http://pizzeria-camelot.jany.io/ → https://pizzeria-camelot.edan.io
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/71285027 http://poliziadistato.it → http://www.poliziadistato.it/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/660026384 http://prolocoterventum.altervista.org/a-trivento/il-castello/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/4269484762 http://ristorantelaperladelmolise.net
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/9544178 http://turismo.provincia.campobasso.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/407
-SUCCESS_(200…299) 200 https://osm.org/browse/way/303968413 http://www.agriturismoartemide.com
-SUCCESS_(200…299) 200 https://osm.org/browse/node/12117190015 http://musei.beniculturali.it/musei?mid=209&nome=museo-della-citta-e-del-territorio-sepino
-SUCCESS_(200…299) 200 https://osm.org/browse/way/345069348 http://musei.beniculturali.it/musei?mid=5391&nome=museo-nazionale-del-paleolitico-di-isernia
-SUCCESS_(200…299) 200 https://osm.org/browse/way/347996357 http://www.agriturismovillamarcella.it/
+TIMEOUT https://osm.org/browse/node/12117190015 http://musei.beniculturali.it/musei?mid=209&nome=museo-della-citta-e-del-territorio-sepino
+TIMEOUT https://osm.org/browse/way/345069348 http://musei.beniculturali.it/musei?mid=5391&nome=museo-nazionale-del-paleolitico-di-isernia
+TIMEOUT https://osm.org/browse/relation/4462553 http://musei.beniculturali.it/musei?mid=6027&nome=museo-archeologico-santa-maria-delle-monache
 SUCCESS_(200…299) 200 https://osm.org/browse/way/347996358 http://www.agriturismozampacorta.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/347996357 http://www.agriturismovillamarcella.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/338091730 http://www.archeologia.beniculturali.it/index.php?en/142/scavi/scaviarcheologici_4e048966cfa3a/178
+SUCCESS_(200…299) 200 https://osm.org/browse/way/337225504 http://www.alcolle.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/329176210 http://www.ambrosiacb.it/ → https://www.ambrosiacb.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/300974344 http://www.archeologicamolise.beniculturali.it/index.php?it/177/campochiaro-il-santuario-di-ercole → http://sabapmolise.beniculturali.it
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2325394110 http://www.artechirico.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/662738506 http://www.beb-villaditullio.com/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/385606625 http://www.bebcampobasso.it/
+TIMEOUT https://osm.org/browse/way/303968413 http://www.agriturismoartemide.com
 SUCCESS_(200…299) 200 https://osm.org/browse/node/3389742739 http://www.camilloperrella.net/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/223446567 http://www.campitelloextremeteam.com/web/index/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/337225504 http://www.alcolle.com/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/195543371 http://www.campodiciello.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/10539764026 http://www.cantindelisio.com
-SUCCESS_(200…299) 200 https://osm.org/browse/node/10315707973 http://www.carrodeigiovani.org/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/279660523 http://www.casaledeicerri.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/329176210 http://www.ambrosiacb.it/ → https://www.ambrosiacb.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2325394110 http://www.artechirico.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/385606625 http://www.bebcampobasso.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/195543371 http://www.campodiciello.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/539380727 http://www.casadiaccoglienzavillasantamariamdc.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/335809344 http://www.centroradiologicopotitocb.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/4462553 http://musei.beniculturali.it/musei?mid=6027&nome=museo-archeologico-santa-maria-delle-monache
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/279660523 http://www.casaledeicerri.it
 SERVER_ERROR_(500…599) 503 https://osm.org/browse/node/8721914377 http://www.cmscostruzionimetalliche.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/109411742 http://www.castelmauro.org/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/662601218 http://www.cianfagna.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/384096857 http://www.conservatorioperosi.it/ → https://www.conservatorioperosi.it/
-REDIRECTION_(300…399) 307 https://osm.org/browse/way/548259100 http://www.comune.montenerodibisaccia.cb.it → https://www.comune.montenerodibisaccia.cb.it:443/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/662601218 http://www.cianfagna.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/335837743 http://www.convittonazionalemariopagano.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/539380727 http://www.casadiaccoglienzavillasantamariamdc.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/286801331 http://www.cozy.it/AVM/AVM.html → http://www.cozy.it
 REDIRECTION_(300…399) 302 https://osm.org/browse/relation/9075394 http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text → https://www.era-ewv-ferp.org/internal//index.php?topmenu_id=29&id=29&page_id=99&module=text
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/337225502 http://www.hotelledune.net/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/8521108180 http://www.farmacialediomedee.it/index.asp → https://ordinionline.valoresalute.it/farmacie/le-diomedee-srl/289980
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3389709869 https://osm.org/browse/node/4084694733 http://www.emmegross.it/punti_vendita.php?fm_browse_regione=molise → http://emmegross.it/punti_vendita.php?fm_browse_regione=molise
-SUCCESS_(200…299) 200 https://osm.org/browse/way/268474714 http://www.hotelruffirio.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/4034536 http://www.ilgiardinoparlante.com/mappa-interattiva/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/8521108180 http://www.farmacialediomedee.it/index.asp → https://ordinionline.valoresalute.it/farmacie/le-diomedee-srl/289980
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/337225502 http://www.hotelledune.net/
+REDIRECTION_(300…399) 307 https://osm.org/browse/way/548259100 http://www.comune.montenerodibisaccia.cb.it → https://www.comune.montenerodibisaccia.cb.it:443/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11155676463 http://www.iapalucci.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/574621544 http://www.icsangiovanniboscoisernia.it/ → https://www.icsangiovanniboscoisernia.edu.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/4034536 http://www.ilgiardinoparlante.com/mappa-interattiva/
+TIMEOUT https://osm.org/browse/node/10315707973 http://www.carrodeigiovani.org/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/11067511 http://www.istitutomnicomprensivotrivento.gov.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12857828615 http://www.immobiliarepretore.com/
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/272966606 http://www.lecupolette.com/ → https://www.lecupolette.com/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1076684944 http://www.lidolalampara-termoli.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/472065126 http://www.lapinetacamping.it/home.html
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1076684944 http://www.lidolalampara-termoli.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/272966606 http://www.lecupolette.com/ → https://www.lecupolette.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2750998696 https://osm.org/browse/way/270809731 http://www.lipumolise.altervista.org/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1076684938 http://www.lidosirene.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/1240704067 http://www.locanda-sangiorgio.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/11155676463 http://www.iapalucci.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/666493300 http://www.masseria-grande.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/678384913 http://www.molisealberi.com/poggio-sannita-le-ramificanti-roverelle-a-san-cataldo/ → https://www.molisealberi.com/poggio-sannita-le-ramificanti-roverelle-a-san-cataldo/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/437301968 http://www.molisecereali.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/1076684938 http://www.lidosirene.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/14598689 http://www.oasiguardiaregiacampochiaro.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2325423097 http://www.pizzeriadatonino.it → https://www.pizzeriadatonino.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/666493300 http://www.masseria-grande.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/9215104588 http://www.qualitafulvio.com/Prodotti.htm
+TIMEOUT https://osm.org/browse/way/340300303 http://www.fondazionecultura.it/
+TIMEOUT https://osm.org/browse/way/268474714 http://www.hotelruffirio.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/179940187 http://www.pleiadishotel.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/337225500 http://www.ristolidolarisacca.it/
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/767097492 https://osm.org/browse/way/359130951 https://osm.org/browse/way/359130952 http://www.ribomolise.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/767097492 https://osm.org/browse/way/359130951 https://osm.org/browse/way/359130952 http://www.ribomolise.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/664457628 http://www.ristorante-gold.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/304264078 http://www.ristorantedonchisciotte.eu
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/689512204 http://www.ristorante-miralago.it/ → https://www.ristorante-miralago.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/272966540 http://www.ristorantenetta.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/2891640106 http://www.ristorantelelfo.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/330446101 http://www.rottamauto.com/ → https://www.rottamauto.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/304264078 http://www.ristorantedonchisciotte.eu
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/11160394494 http://www.s-michaelion.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/330446101 http://www.rottamauto.com/ → https://www.rottamauto.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2579878547 http://www.scuolecasacalenda.gov.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/689512204 http://www.ristorante-miralago.it/ → https://www.ristorante-miralago.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/3414706099 http://www.sanniti.info/sangioga.html
-TIMEOUT https://osm.org/browse/way/340300303 http://www.fondazionecultura.it/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/495145522 http://www.solelago.com/hotel.php
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/662345745 http://www.terresacre.net/ → http://www.terresacre.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/14598689 http://www.oasiguardiaregiacampochiaro.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/660039091 http://www.turismo-civitacampomarano.it/i-percorsi/il-cimitero-napoleonico/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/662345745 http://www.terresacre.net/ → http://www.terresacre.com/
 REDIRECTION_(300…399) 307 https://osm.org/browse/node/9971787733 http://www.unimol.it/servizi/biblioteche → https://www.unimol.it:443/servizi/biblioteche
+SUCCESS_(200…299) 200 https://osm.org/browse/way/279461521 http://www.teatrodelloto.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11178801056 http://www.unodopolaltro.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/387729229 http://www.villaannacasadiriposo.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1018522211 http://www2.provincia.campobasso.it/ambiente/banca_dati/torivo.htm
-REDIRECTION_(300…399) 307 https://osm.org/browse/way/261652477 http://www2.unimol.it → https://www2.unimol.it:443/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/915149518 http://www3.provincia.campobasso.it/home
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1005636091 http://www.varvarusa.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1018522211 http://www2.provincia.campobasso.it/ambiente/banca_dati/torivo.htm
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/915149518 http://www3.provincia.campobasso.it/home
+REDIRECTION_(300…399) 307 https://osm.org/browse/way/261652477 http://www2.unimol.it → https://www2.unimol.it:443/
 OTHER_CURL_ERROR 56  https://osm.org/browse/relation/8134422 http://www3.regione.molise.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/657
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/8820422434 https://agriturismoessentia.com/ → https://www.agriturismoessentia.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/1240704073 https://alpescatore.org/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/8820422434 https://agriturismoessentia.com/ → https://www.agriturismoessentia.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/17760420 https://osm.org/browse/relation/17782266 https://appenninobiketour.com/percorso/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11818107435 https://osm.org/browse/node/11818124752 https://altaviahorses.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/10992693056 https://bebmarilu.jimdo.com → https://bebmarilu.jimdofree.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2672544435 https://blublu.org/sito/walls/2011/big/016.jpg
+TIMEOUT https://osm.org/browse/node/2891640106 http://www.ristorantelelfo.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/8741603407 https://ciclistore.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/279461521 http://www.teatrodelloto.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11005926629 https://comune.casalciprano.cb.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10123729340 https://comune.provvidenti.cb.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/378574221 https://ctemolise.it/it/
 TIMEOUT https://osm.org/browse/way/286801322 http://www.webalice.it/antonio.dipaolo/IL_MIO_CAMPO_DI_VOLO.html
-SUCCESS_(200…299) 200 https://osm.org/browse/way/193450242 https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-archeologica-di-altilia-saepinum
-SUCCESS_(200…299) 200 https://osm.org/browse/node/11626368897 https://dnameccanica.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/502720460 https://dallapartedegliultimi.altervista.org/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/378574221 https://ctemolise.it/it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/11152663883 https://disv.it/letterario → https://dishcovery.menu/app/restaurants/4dbafd865e3060fc190bdd1a2f7626ec
 CLIENT_ERROR_(400…499) 400 https://osm.org/browse/way/161721687 https://duckduckgo.com/l/?kh=-1&uddg=https%3A%2F%2Fwww.asrem.gov.it%2Flazienda%2Fpresidio-ospedaliero-unico-regionale%2Fospedale-di-isernia-spoke%2F
-SUCCESS_(200…299) 200 https://osm.org/browse/way/502720460 https://dallapartedegliultimi.altervista.org/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11626368897 https://dnameccanica.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/193450242 https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-archeologica-di-altilia-saepinum
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/27485 https://en.eurovelo.com/ev5/italy
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12749059932 https://gegauto.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/1076684935 https://ildelfino.wordpress.com/
 CLIENT_ERROR_(400…499) 410 https://osm.org/browse/way/678420650 https://lagonero.thefork.rest/en_GB/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1076684935 https://ildelfino.wordpress.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1077536773 https://lidobalneare.termoli.cb.it/
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/1076684940 https://lidolaperlatermoli.business.site/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/11152853940 https://m.facebook.com/ciaccusagnone → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fciaccusagnone&refsrc=deprecated&_rdr
+TIMEOUT https://osm.org/browse/node/10992693056 https://bebmarilu.jimdo.com
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/1076684940 https://lidolaperlatermoli.business.site/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12115891441 https://gustusristorante.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/9706805938 https://molise.lgbt/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/495405197 https://marturresort.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5515254660 https://novusstudios.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9706805938 https://molise.lgbt/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/9971841597 https://neuromed.it/ → https://www.neuromed.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/495405197 https://marturresort.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/8956381788 https://nuvolaria.com
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/6052266720 https://pamretailpro.it/punti_vendita/guglionesi-via-molise/
-TIMEOUT https://osm.org/browse/node/2672544435 https://blublu.org/sito/walls/2011/big/016.jpg
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11453972769 https://paolino.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/687322602 https://ristorantefedericoii.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/664451358 https://ristorantealvecchiotratturo.it/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/10642691510 https://salsedine-cucina-di-mare.business.site/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/664451358 https://ristorantealvecchiotratturo.it/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/664457629 https://sensibus.business.site/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/229291702 https://santuarioaddolorata.it/ → https://www.santuarioaddolorata.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/11453972769 https://paolino.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1064408395 https://residenzaguglielmi.it/
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/5868880272 https://www.abitermoli.it/ → https://www.immobiliaremartucci.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11618891515 https://studiopolisena.it/
 SERVER_ERROR_(500…599) 500 https://osm.org/browse/node/6741895872 https://www.agenziademanio.it/opencms/it/agenzia/strutturaorganizzativa/direzioniterritoriali/abruzzomolise/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/384710771 https://www.agriterraesapori.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/877923546 https://www.agriturismoalberione.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/280145804 https://www.agriturismolecoccole.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/347996350 https://www.agriturismolasorgente.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11099140076 https://www.airbnb.it/rooms/691863292754829367
-SUCCESS_(200…299) 200 https://osm.org/browse/way/280145804 https://www.agriturismolecoccole.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/390626945 https://www.alberghierotermoli.edu.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/1194870232 https://www.alohabeachtermoli.com/ → https://insymed.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/1240704060 https://www.alpescatore.org/ → https://alpescatore.org/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/9250757242 https://www.agenziafunebrecordiscoemanzone.it/dove-siamo/guglionesi-cb.html
 SUCCESS_(200…299) 200 https://osm.org/browse/way/332358028 https://www.archilovers.com/projects/3032/parco-della-memoria-san-giuliano-di-puglia.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1240704060 https://www.alpescatore.org/ → https://alpescatore.org/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1063651990 https://www.athenapark.it
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/1085623 https://www.altovastese.it/ambient/il-sito-di-interesse-comunitario-sic-monte-mauro-selva-di-montefalcone-nel-sannio-cb/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10101319660 https://www.arsideastudio.com/newsars.asp
 SUCCESS_(200…299) 200 https://osm.org/browse/way/330446093 https://www.autodemolizionicipullo.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/1085623 https://www.altovastese.it/ambient/il-sito-di-interesse-comunitario-sic-monte-mauro-selva-di-montefalcone-nel-sannio-cb/
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/9250757242 https://www.agenziafunebrecordiscoemanzone.it/dove-siamo/guglionesi-cb.html
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10177936660 https://www.azeltech.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/868383181 https://www.aziendaterramadre.it/ → https://shop.aziendaterramadre.it/
+TIMEOUT https://osm.org/browse/node/5868880272 https://www.abitermoli.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12766962224 https://www.basilicoepepe.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/8487315010 https://www.bccabruzziemolise.it/filiali/guglionesi/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/285490836 https://www.biancaneve.info/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/662650782 https://www.borgodicolloredo.com/wp/homepage-en/ → https://borgodicolloredo.com/wp/homepage-en/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4084683644 https://www.autoricambicolantuono.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/662650784 https://osm.org/browse/way/662650828 https://www.borgodicolloredo.com/wp/masseria-le-piane-en/ → https://borgodicolloredo.com/wp/masseria-le-piane-en/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/662650782 https://www.borgodicolloredo.com/wp/homepage-en/ → https://borgodicolloredo.com/wp/homepage-en/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3672942745 https://www.bottegasaporitermoli.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11164515446 https://www.aziendatorosacro.com
-SUCCESS_(200…299) 200 https://osm.org/browse/way/376271060 https://www.borgotufi.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9191800227 https://www.bper.it/scheda-filiale/-/filiale/molise/campobasso/agenzia-6023
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4084683644 https://www.autoricambicolantuono.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/376271060 https://www.borgotufi.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1076684927 https://www.calasveva.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11626453762 https://www.caimontaquila.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2415933583 https://www.calicerosso.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/444881069 https://www.campingmolise.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/520528524 https://www.campomarinolido.com → https://www.campomarinolido.com/it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/472065127 https://www.campingvillagecorrado.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/444881069 https://www.campingmolise.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/200494011 https://www.cantineduva.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/11178840459 https://www.capracotta.com/ → https://capracotta.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/302442175 https://www.cattedraleisernia.org/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/11178840459 https://www.capracotta.com/ → https://capracotta.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/312720904 https://www.cicchellicaffe.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/69558915 https://www.centrocostaverde.com → https://centrocostaverde.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/261652490 https://www.cimiweb.it/cat/b519/v/ana.html
-SUCCESS_(200…299) 200 https://osm.org/browse/node/3429179000 https://www.centroartemisiacampobasso.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/662603291 https://www.claudiocipressi.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12777204635 https://www.com-molise.com/it/property/casa-vacanza-centro-storicovilla.html
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12777205241 https://www.com-molise.com/nl/property/carlo-di-borbone-casa-vacanze-hotel.html
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/160806546 https://www.comune.bojano.cb.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/8532859263 https://www.compagniastabiledelmolise.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/9210464 https://osm.org/browse/relation/9210480 https://osm.org/browse/relation/9210482 https://www.claudiocipressi.it/site/it/home/ → https://claudiocipressi.it/site/it/home/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/312720904 https://www.cicchellicaffe.it/
-SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/67283748 https://www.comune.campobasso.it/ → hh/index.php
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/160806546 https://www.comune.bojano.cb.it/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/1006397452 https://www.comune.guglionesi.cb.it/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/67283748 https://www.comune.campobasso.it/ → hh/index.php
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3517601694 https://www.comune.isernia.it/it/point-of-interest/735438 → https://www.comune.isernia.it/it/vivere/735438
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8532859263 https://www.compagniastabiledelmolise.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/421866339 https://www.comune.longano.is.it/pag_la_storia.html
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/687731454 https://www.comune.macchiavalfortore.cb.it/macchiav/zf/index.php/comunita-religiose/index-chiesa/dettaglio-chiesa/chiesa/4/back/chiesa
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/687620822 https://osm.org/browse/way/687620825 https://www.comune.macchiavalfortore.cb.it/zf/index.php/comunita-religiose/index-chiesa/dettaglio-chiesa/chiesa/3
+TIMEOUT https://osm.org/browse/node/3429179000 https://www.centroartemisiacampobasso.it/
 SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/way/266933664 https://www.comune.matrice.cb.it/ → hh/index.php
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/3517601694 https://www.comune.isernia.it/it/point-of-interest/735438 → https://www.comune.isernia.it/it/vivere/735438
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/656476914 https://www.conad.it/ricerca-negozi/negozio.005911.html → https://www.conad.it/ricerca-negozi/spazio-conad-via-colle-delle-api-44-86100-campobasso--005911
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1387631458 https://www.comune.molise.cb.it/hh/index.php
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5851832257 https://www.conad.it/ricerca-negozi/negozio.050065.html → https://www.conad.it/ricerca-negozi/conad-self-24h-via-colle-delle-api-44-86100-campobasso--050065
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/7505725200 https://www.conad.it/ricerca-negozi/negozio.009513.html → https://www.conad.it/ricerca-negozi/spazio-conad-cda-padula-ss-16-c-o-centro-comm-costaverde-snc-86036-montenero-di-bisaccia--009513
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/10977334304 https://www.comune.sanmassimo.cb.it/ → https://comune.sanmassimo.cb.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/3186090713 https://www.credit-agricole.it/
-FAILED_TO_CONNECT_TO_HOST https://osm.org/browse/node/10587204922 https://www.demarifishfood.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/656476914 https://www.conad.it/ricerca-negozi/negozio.005911.html → https://www.conad.it/ricerca-negozi/spazio-conad-via-colle-delle-api-44-86100-campobasso--005911
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/12227294 https://www.consorziobonificasud.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/463926215 https://www.costaverde.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/10977334304 https://www.comune.sanmassimo.cb.it/ → https://comune.sanmassimo.cb.it/
+FAILED_TO_CONNECT_TO_HOST https://osm.org/browse/node/10587204922 https://www.demarifishfood.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/379106775 https://www.coriolis.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3186090713 https://www.credit-agricole.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/9191800238 https://www.dicesareimmobiliare.it/ → https://dicesareimmobiliare.it/it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/662642364 https://www.dimajonorante.com/ → https://www.dimajonorante.com/en
-SUCCESS_(200…299) 200 https://osm.org/browse/way/379106775 https://www.coriolis.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/463926215 https://www.costaverde.it/
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/2415933590 https://www.domusmedicabagnoli.it/cpht-balneoli.html
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12748251429 https://www.dlgraphic.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2415933592 https://www.domushotelbagnoli.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/799808952 https://www.diocesitrivento.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/12748251429 https://www.dlgraphic.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/12748594397 https://www.domusvela.it
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/2304263064 https://osm.org/browse/node/2311460857 https://osm.org/browse/node/2311460877 https://osm.org/browse/node/2311460913 https://osm.org/browse/node/2311460925 https://osm.org/browse/node/2311460957 https://osm.org/browse/node/2672544502 https://www.enel.it/punto-enel/ → https://www.enel.it/punto-enel
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/2415933590 https://www.domusmedicabagnoli.it/cpht-balneoli.html
 SUCCESS_(200…299) 200 https://osm.org/browse/way/899099861 https://www.facebook.com/VillaCenter.Campobasso/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/2304263064 https://osm.org/browse/node/2311460857 https://osm.org/browse/node/2311460877 https://osm.org/browse/node/2311460913 https://osm.org/browse/node/2311460925 https://osm.org/browse/node/2311460957 https://osm.org/browse/node/2672544502 https://www.enel.it/punto-enel/ → https://www.enel.it/punto-enel
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/9574955 https://www.era-ewv-ferp.org/e-paths/e1/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/659960121 https://www.facebook.com/lasorpresa.barristorante/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/444881071 https://www.facebook.com/marondacamping/?locale=it_IT
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/3168434296 https://www.facebook.com/pages/Eremo-Lavra-Stella-Maris/193396040833338?fref=ts → https://www.facebook.com/100064896841745/?fref=ts
+SUCCESS_(200…299) 200 https://osm.org/browse/way/444881071 https://www.facebook.com/marondacamping/?locale=it_IT
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4202886201 https://www.facebook.com/riovivocamperpark
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/836728821 https://www.eurospin.it/punti-vendita/bojano-541391/
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/337230915 https://www.fattoriadivaira.it/bioagriturismo/ → https://www.fattoriadivaira.it/index.html
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11690207939 https://www.fornairicci.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/337230915 https://www.fattoriadivaira.it/bioagriturismo/ → https://www.fattoriadivaira.it/index.html
 SUCCESS_(200…299) 200 https://osm.org/browse/way/329710207 https://www.fondazionemacte.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/14194210 https://www.ferroviedelgargano.com/en-gb/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5044471623 https://www.giammatteo.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/12857828614 https://www.gioielleriadurbano.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/285490844 https://www.giardinocapracotta.unimol.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/961329317 https://www.grandhotel-europa.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12857828614 https://www.gioielleriadurbano.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/7119226602 https://www.hosterialuvicpdent.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/613367145 https://www.icgiovanni23isernia.gov.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/961329317 https://www.grandhotel-europa.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/67731527 https://www.hotelmeridiano.com/it/ristorante-luna-restaurant.html/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/67731795 https://www.hotelmistral.net/it/
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/11506211733 https://www.inail.it/cs/internet/istituto/struttura-organizzativa/uffici-territoriali/molise.html → https://www.inail.it/portale/it.html
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/11160447276 https://www.instagram.com/circoloarcilaruota/ → https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fcircoloarcilaruota%2F&is_from_rle
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/16953052 https://osm.org/browse/relation/16978897 https://osm.org/browse/relation/16990869 https://osm.org/browse/relation/16990968 https://www.ilcamminodellapace.it
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/11160447276 https://www.instagram.com/circoloarcilaruota/ → https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fcircoloarcilaruota%2F&is_from_rle
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/330967482 https://www.idolcigrappoli.it/index.php → https://idolcigrappoli.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/7119226602 https://www.hosterialuvicpdent.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/11506211733 https://www.inail.it/cs/internet/istituto/struttura-organizzativa/uffici-territoriali/molise.html → https://www.inail.it/portale/it.html
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1223078343 https://www.isismajoranafascitelli.edu.it
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/6241927501 https://www.istat.it/it/istituto-nazionale-di-statistica/organizzazione/sedi-territoriali
 SUCCESS_(200…299) 200 https://osm.org/browse/way/183250805 https://www.isissgiordano.edu.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/13743212 https://www.kalenartemaack.com/
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/953053607 https://www.isismajoranafascitelli.edu.it/web/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/269734596 https://www.italia.it/it/molise/guardialfiera/chiese-luoghi-di-culto/parrocchia-guardialfiera---antica-cattedrale-di-santa-maria-assunta
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/6241927501 https://www.istat.it/it/istituto-nazionale-di-statistica/organizzazione/sedi-territoriali
-PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/12748192026 https://www.lacasadiduilia.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/315357197 https://www.lafontedellastore.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/953053607 https://www.isismajoranafascitelli.edu.it/web/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/11178825321 https://www.labottegadegliangeligolosi.it/ → https://labottegadegliangeligolosi.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/109579470 https://www.lapianadeimulini.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/385584824 https://www.latavernettacb.it/ → https://latavernettacb.it/
-PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/10098490118 https://www.lastamperialab.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/315357197 https://www.lafontedellastore.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/279008253 https://www.laginestra.info/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/10098490118 https://www.lastamperialab.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/385584824 https://www.latavernettacb.it/ → https://latavernettacb.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/109579470 https://www.lapianadeimulini.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/445801058 https://www.leterredelsacramento.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/953053593 https://www.lerotaie.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1194476022 https://www.ledunetermoli.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/179815087 https://www.lidl.it/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1194475990 https://www.lidoilpiratatermoli.it/
 CLIENT_ERROR_(400…499) 405 https://osm.org/browse/way/1077536770 https://www.lidolapiovra.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/953053593 https://www.lerotaie.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/1194476022 https://www.ledunetermoli.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1076684945 https://www.lidomistral.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2929635675 https://www.locandamammi.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4624183814 https://osm.org/browse/way/195110822 https://osm.org/browse/way/463239112 https://www.lucepiumolise.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/261652608 https://www.m2movement.it/
-PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/12752800337 https://www.matteopetrarcarevisioni.it
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/11737802936 https://www.lulivobianco.com/ → https://en.lulivobianco.com/
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/4871716483 https://www.mdblab.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/85826940 https://www.locandabelvedere.eu/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/280645087 https://www.lucarratino.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/12841615318 https://www.molisewow.com/borgodellefonti
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/11737802936 https://www.lulivobianco.com/ → https://en.lulivobianco.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/261652608 https://www.m2movement.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/85826940 https://www.locandabelvedere.eu/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/12752800337 https://www.matteopetrarcarevisioni.it
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/4871716483 https://www.mdblab.it/
+TIMEOUT https://osm.org/browse/node/12748192026 https://www.lacasadiduilia.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4624183814 https://osm.org/browse/way/195110822 https://osm.org/browse/way/463239112 https://www.lucepiumolise.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10103492803 https://www.molisewow.com/termoli-sotterranea
-SERVER_ERROR_(500…599) 503 https://osm.org/browse/way/125213826 https://www.montedimezzo.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12841615318 https://www.molisewow.com/borgodellefonti
 SUCCESS_(200…299) 200 https://osm.org/browse/way/335399433 https://www.misterietradizioni.com/
+SERVER_ERROR_(500…599) 503 https://osm.org/browse/way/125213826 https://www.montedimezzo.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1058578597 https://www.musei.molise.beniculturali.it/musei?mid=208&nome=museo-sannitico
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2718224411 https://www.musei.molise.beniculturali.it/musei?mid=210&nome=complesso-monumentale-di-san-vincenzo-al-volturno
-SUCCESS_(200…299) 200 https://osm.org/browse/node/1937030474 https://www.musei.molise.beniculturali.it/musei?mid=213&nome=museo-archeologico-di-venafro
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/4037638 https://www.musei.molise.beniculturali.it/musei?mid=214&nome=museo-nazionale-di-castello-pandone
+SUCCESS_(200…299) 200 https://osm.org/browse/node/1937030474 https://www.musei.molise.beniculturali.it/musei?mid=213&nome=museo-archeologico-di-venafro
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/436694441 https://www.myc.it/marinadisanpietro/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/265500391 https://www.musei.molise.beniculturali.it/musei?mid=5212&nome=museo-palazzo-pistilli
-SUCCESS_(200…299) 200 https://osm.org/browse/way/691090792 https://www.oasidellemainarde.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/243652408 https://www.musei.molise.beniculturali.it/musei?mid=6691&nome=santuario-italico
-SUCCESS_(200…299) 200 https://osm.org/browse/way/62075956 https://www.musei.molise.beniculturali.it/musei?mid=934&nome=castello-di-civitacampomarano
+SUCCESS_(200…299) 200 https://osm.org/browse/way/691090792 https://www.oasidellemainarde.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9212258639 https://www.oasitigre.it/it/il-mio-negozio.6202.html?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=6202
+SUCCESS_(200…299) 200 https://osm.org/browse/way/62075956 https://www.musei.molise.beniculturali.it/musei?mid=934&nome=castello-di-civitacampomarano
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9226639883 https://www.oliodesocio.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/12265997923 https://www.oblocaffe.it/ → https://oblocaffe.it/
 SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/10188938388 https://www.ordinegeologimolise.it → /NuovoSito
 SUCCESS_(200…299) 200 https://osm.org/browse/way/969911043 https://www.omnicomprensivoguglionesi.edu.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/12396153789 https://www.otticaluciani.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/664451368 https://www.olioextraverginesammartino.com/ → https://olioextraverginesammartino.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12396153789 https://www.otticaluciani.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12730683130 https://www.pannoniarredamenti.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/12265997923 https://www.oblocaffe.it/ → https://oblocaffe.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/8426003 https://www.parcoabruzzo.it/area_amministrativa.php
 SUCCESS_(200…299) 200 https://osm.org/browse/node/6697071395 https://www.palazzocorsoumberto.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/16153973 https://www.parcoabruzzo.it/sentiero.php?id_iti=4213
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/9796879 https://www.parcoabruzzo.it/sentiero.php?id_iti=4229
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/16153973 https://www.parcoabruzzo.it/sentiero.php?id_iti=4213
 SUCCESS_(200…299) 200 https://osm.org/browse/way/664457631 https://www.parcodellestelle.net/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9202946016 https://www.pavesasrl.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/193651509 https://www.parcosepino.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/303250433 https://www.parcodellolivodivenafro.eu/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/6187460169 https://www.pensionevillaida.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5593733644 https://www.poste.it/cerca/index.html#/risultati-cerca-up/frosolone
+SUCCESS_(200…299) 200 https://osm.org/browse/way/193651509 https://www.parcosepino.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/14635178 https://www.parcoregionaledelmatese.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5593733644 https://www.poste.it/cerca/index.html#/risultati-cerca-up/frosolone
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12857828636 https://www.prolococollenisoguglionesi.com/
-SERVER_ERROR_(500…599) 500 https://osm.org/browse/way/178282493 https://www.posteitaliane.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/6187460169 https://www.pensionevillaida.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/1154211715 https://www.residenzasveva.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3372180677 https://www.ristoranteilcavallucciomarino.net/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/125212517 https://osm.org/browse/way/490050688 https://www.riservamabaltomolise.it/
+SERVER_ERROR_(500…599) 500 https://osm.org/browse/way/178282493 https://www.posteitaliane.it/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/2711532631 https://www.ristoranteilpotesta.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2752879531 https://www.ristoranteolmicello.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/345069353 https://www.ristorantevilladellerose.net/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11152381574 https://www.ristorantepizzeriasoda.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/444881070 https://www.sabbiadorocb.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/125212517 https://osm.org/browse/way/490050688 https://www.riservamabaltomolise.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/345069353 https://www.ristorantevilladellerose.net/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1223078349 https://www.salvatoremincioneguarino.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1056651661 https://www.rivazzurrahomes.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/282543800 https://www.sanpietroturismo.it/ostello.htm
+SUCCESS_(200…299) 200 https://osm.org/browse/way/444881070 https://www.sabbiadorocb.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12120700474 https://www.pizzeriadanisa.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/1154211715 https://www.residenzasveva.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/261211563 https://www.santamariadellastradacb.it/
 SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/way/377498248 https://www.staffoli.it/ → ?
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4198722603 https://osm.org/browse/node/4207302196 https://osm.org/browse/node/5621664454 https://www.supermercatideco.it/
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/2752879530 https://www.tavernadelduca.net/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/801546767 https://www.sepino.net/turismo/c38-pacchetti-turistici-itinerari-a-sepino-ed-in-molise/conventino/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/383818137 https://www.sportingclubcampobasso.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/801546767 https://www.sepino.net/turismo/c38-pacchetti-turistici-itinerari-a-sepino-ed-in-molise/conventino/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/2752879530 https://www.tavernadelduca.net/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/6172433350 https://www.svevia.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/9720306508 https://www.termolituristica.com/
-OTHER_CURL_ERROR 92  https://osm.org/browse/node/9677384152 https://www.tesla.com/findus/location/supercharger/montenerodibisacciasupercharger
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/9206442 https://www.tenutemartarosa.com/ → https://www.tenutemartarosa.com/it/
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/9889710666 https://www.torresinarca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/662652199 https://osm.org/browse/way/662652203 https://www.tenutedigiulio.it/site/ → https://tenutedigiulio.it/site/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/9720306508 https://www.termolituristica.com/ → https://en.termolituristica.com/
+OTHER_CURL_ERROR 92  https://osm.org/browse/node/9677384152 https://www.tesla.com/findus/location/supercharger/montenerodibisacciasupercharger
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/17670872 https://osm.org/browse/relation/17671548 https://osm.org/browse/relation/17671653 https://osm.org/browse/relation/17672599 https://osm.org/browse/relation/17673028 https://osm.org/browse/relation/17674338 https://osm.org/browse/relation/17674481 https://osm.org/browse/relation/17675194 https://osm.org/browse/relation/17675320 https://osm.org/browse/relation/17678319 https://www.trekkingitalia.org/
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1183459078 https://www.tripadvisor.it/Restaurant_Review-g3346479-d4020849-Reviews-Aia_della_Foresta-Macchia_Valfortore_Province_of_Campobasso_Molise.html
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/9889710666 https://www.torresinarca.it/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1183446687 https://www.tripadvisor.it/Hotel_Review-g3346479-d7092018-Reviews-Agriturismo_Occhito-Macchia_Valfortore_Province_of_Campobasso_Molise.html
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1183459078 https://www.tripadvisor.it/Restaurant_Review-g3346479-d4020849-Reviews-Aia_della_Foresta-Macchia_Valfortore_Province_of_Campobasso_Molise.html
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/695860471 https://www.tripadvisor.it/Restaurant_Review-g3346479-d6828329-Reviews-Ristorante_dell_Agriturismo_Horse_s_Ranch-Macchia_Valfortore_Province_of_Campoba.html
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/335811339 https://www.villa-maria.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/281717920 https://www.villaggiociocca.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/335811339 https://www.villa-maria.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/662640108 https://www.vinica.it
 SUCCESS_(200…299) 200 https://osm.org/browse/way/662640085 https://www.vinica.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/662690455 https://www.tenimentigrieco.it/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/9210715 https://www.vinica.it/it/
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/6177990756 https://www.zarapasticceria.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/353496245 https://www.webdomus.net/
 MISSING_URI_SCHEME https://osm.org/browse/node/2891640104 www.agriturismoguadocannavina.net
 MISSING_URI_SCHEME https://osm.org/browse/way/440523577 www.comune.cerroalvolturno.is.it
 MISSING_URI_SCHEME https://osm.org/browse/way/608626918 www.dccsoftair.com
 MISSING_URI_SCHEME https://osm.org/browse/node/4885316167 www.granrisparmiosupermercati.it
 MISSING_URI_SCHEME https://osm.org/browse/way/99835030 www.hotelcoronatermoli.it
 MISSING_URI_SCHEME https://osm.org/browse/way/337225503 www.ristorantemediterraneosea.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/353496245 https://www.webdomus.net/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/662690455 https://www.tenimentigrieco.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/6177990756 https://www.zarapasticceria.it/
+TIMEOUT https://osm.org/browse/way/261211563 https://www.santamariadellastradacb.it/
 TIMEOUT https://osm.org/browse/way/1029023782 https://www.villaggiosilverage.it/site/
