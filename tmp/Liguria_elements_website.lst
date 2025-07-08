@@ -1,6 +1,5 @@
 @type	@id	website
 node	26859604	https://www.campinglino.it/
-node	26859642	https://www.campingmiraflores.it/
 node	26859860	https://www.valdeiva.it/
 node	26859885	http://www.campingceraunavolta.it/
 node	66586326	https://www.comune.imperia.it
@@ -106,6 +105,7 @@ node	551491601	https://www.oasihotel.eu/
 node	551586594	https://www.lagiadadelmesco.it
 node	551586608	www.maremesco.it
 node	556590550	https://www.letredelizie.it/
+node	569130143	https://pizzeria-da-luca.it/
 node	601477594	http://www.multisaladiana.it/
 node	604320174	https://agririfugiomolini.it/
 node	610543489	https://www.palazzocicala.it/
@@ -1138,7 +1138,6 @@ node	4986489528	https://www.obiettivodanza.net
 node	5003306458	http://www.alpinicogoleto.it
 node	5003847304	https://www.conad.it/ricerca-negozi/negozio.010196.html
 node	5008333085	https://www.pacolor.com/
-node	5012938088	https://www.lapinetaonline.it/
 node	5019278941	https://www.conad.it/ricerca-negozi/negozio.007113.html
 node	5021985224	https://pizzerialasmorfia.food-ts.com/
 node	5022064727	https://www.emysway.it/
@@ -2597,7 +2596,6 @@ node	12645391059	https://www.imperiaexperience.it/it/cultura/poi.html?id=24285:v
 node	12648261514	https://www.hotelsettearchi.com
 node	12648369804	https://agripinocchio.it/
 node	12650804299	https://www.estetycbeautystudio.it/
-node	12650804300	https://isaglietto.it/
 node	12650817206	https://www.oliotomatisimperia.it
 node	12657578838	https://www.affittacamerealtamarea.it/
 node	12657578839	https://www.bixiosuites.com/
@@ -2608,6 +2606,7 @@ node	12666389396	https://www.hotelzunino.com/
 node	12674019720	https://sergioelettronica.it/
 node	12674368816	https://www.agriturismoilvecchiomulino.com
 node	12685323334	https://www.washdog.store/genova525/
+node	12685327421	https://armerialacontea.it/
 node	12686932749	https://www.maccanoeterronepompefunebri.com
 node	12686932755	https://www.pompefunebrivitali.com/
 node	12686932756	https://www.pompefunebriarteco.com
@@ -2642,6 +2641,7 @@ node	12776693178	https://www.sda.it/
 node	12783606285	https://almulinodifondo.it/
 node	12794156499	https://www.locandaamegliaalta.com/
 node	12795967266	https://www.nolobici.it
+node	12802072297	https://emmediffusion.com/san-fruttuoso/
 node	12804576619	https://frantoioulividiliguria.it/
 node	12804576620	http://frantoiomalafronte.it/
 node	12805951750	https://www.torredeipaponi.it
@@ -2673,8 +2673,13 @@ node	12920755249	https://studioobbiaragazzini.com/
 node	12921198279	https://www.hotellungomare.it/
 node	12923772153	https://www.cnandora.it
 node	12942329303	https://www.campingalberodoro.com/
+node	12942603471	https://onoranzefunebrigenova.it/
 node	12946668901	https://www.ic1ventimiglia.edu.it/
 node	12954839116	https://stellamarisbergeggi.com/
+node	12964843005	https://www.rumble-store.com/
+node	12976477402	https://www.casettaanticomulino.it/
+node	12977761201	http://iltuostilenoli.com/
+node	12979644774	https://www.ihlaspezia.it
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3014,6 +3019,7 @@ way	205836101	https://www.locandadelpapa.com/
 way	205836502	http://www.bvdelcarminereboccosp.wordpress.com
 way	205837018	http://museodelcastello.museilaspezia.it/
 way	205840606	http://www.attivasportutility.it/it/?page_id=9866
+way	205842198	https://www.conad.it/ricerca-negozi/conad-city-via-buonviaggio-133-19125-la-spezia--000831
 way	205844379	https://www.arilaspezia.it/
 way	205846725	https://www.asl5.liguria.it/PerilCittadino/Ospedale.aspx
 way	205854865	http://www.rifugiomuzzerone.it/
@@ -3496,6 +3502,8 @@ way	1379273229	https://www.kaukau.it
 way	1391318864	https://giardinicaneva.org/
 way	1409773352	https://www.campingdewijnstok.com/
 way	1410325213	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0700111399
+way	1412226058	https://www.campingmiraflores.it/
+way	1413036756	https://www.lapinetaonline.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -3983,7 +3991,6 @@ relation	8449201	https://dati.toscana.it/
 relation	8835812	https://www.casapietraligure.it/
 relation	9050588	https://sites.google.com/view/e-pathsinitaly/e1/e-1-in-piedmont
 relation	9061966	http://www.era-ewv-ferp.com/index.php?topmenu_id=29&id=29&page_id=99&module=text
-relation	9434316	https://www.terzovalico.it/
 relation	9583387	http://www.eurovelo8.com/countries/italy
 relation	9629396	https://en.eurovelo.com/ev8/italy
 relation	9954210	https://www.caiparma.it/
@@ -4058,6 +4065,7 @@ relation	18442400	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/il-cimit
 relation	18442403	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/parsifal/
 relation	18442404	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/lorizzone/
 relation	18447694	https://www.finaleoutdoor.com/
+relation	18714524	https://www.caiparma.it/
 relation	18827498	https://lamialiguria.it/2023/03/ciclovia-ardesia/
 relation	19141661	https://ropewiki.com/Prialunga
 relation	19141662	https://ropewiki.com/Lerca
@@ -4179,6 +4187,7 @@ way	225443643	http://www.rivieratrasporti.it/
 way	225501972	https://www.comune.sanlorenzoalmare.im.it/Luoghi?ID=604
 way	225515627	https://www.agenziacasavacanza.it
 way	230769914	https://www.cartieragrillo.net/
+way	324950042	https://www.tigullio.com/
 way	351297030	https://www.campingbracchettovetta.com/
 way	379055920	http://www.parcomarguareis.it/
 way	440329909	https://portodiarenzano.it
@@ -4190,9 +4199,12 @@ way	720222996	https://it.wikipedia.org/wiki/Batteria_di_Punta_Chiappa
 way	884126422	https://www.asl3.liguria.it/ospedali/micone-sestri-ponente.html
 way	1162787487	https://www.piandipicche.it/index.html
 way	1303072433	http://www.musicforpeace.it
+way	1306674193	https://campingmaremonti.com/
+way	1306677627	http://campeggiotrigoso.it/
 way	1341620816	https://www.icboine-imperia.edu.it/luogo/scuola-materna-borgo-prino
 way	1341620817	https://www.icboine-imperia.edu.it/luogo/scuola-primaria-r-vercesi
 way	1372102366	https://www.eurospin.it/punti-vendita/diano-castello-via-diano-san-pietro/
+way	1413035046	http://www.campingfossalupara.it/
 relation	11734820	http://parconaturalealpiliguri.it
 node	201634566	http://www.starhotels.com/
 node	206230003	http://www.minihotelgenova.com/
