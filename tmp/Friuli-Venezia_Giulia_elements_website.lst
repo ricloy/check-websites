@@ -170,7 +170,6 @@ node	854386100	https://www.gruppobosco.it/bricocenter/bricocenter.htm
 node	855342180	https://www.banca360fvg.it
 node	863819662	http://www.dodorico.it
 node	903992917	https://www.hotelreginalignano.it/
-node	907822389	http://www.hotelbellini.eu
 node	911835673	https://www.portomaran.com/
 node	913942296	https://trattoriaalpozzodigustinipierpaolo.eatbu.com
 node	915658784	https://aipriori.it/
@@ -233,6 +232,7 @@ node	1533017994	https://www.facebook.com/people/Bar-Al-Canton/100090426858510/
 node	1540327350	http://www.amardeclevo.it
 node	1544021212	https://www.turismofvg.it/archaeological-sites/cave-of-mitreo?LangSetCMS=en
 node	1551867344	https://www.albergoromatolmezzo.it/
+node	1551873754	https://www.instagram.com/pizza_special_tolmezzo/
 node	1554539620	https://www.elettroluce.eu/
 node	1554539662	https://www.fratellibraidatrieste.com/
 node	1554539689	http://www.kalcic.it/
@@ -970,7 +970,6 @@ node	3661329536	https://www.lignanosabbiadoro.it/it/strutture/444-alcatraz-gym/
 node	3661331076	https://made-for-you-by-rosy.business.site/?utm_source=gmb&utm_medium=referral
 node	3661331142	https://www.lignanopineta.com/
 node	3661331483	http://www.gropo.it
-node	3661333060	https://www.mypiadina.it/
 node	3661334036	https://www.bellanapolilignano.info/
 node	3661336398	https://www.intras-lignano.com/
 node	3661340121	https://www.turismofvg.it/
@@ -993,7 +992,6 @@ node	3661358663	https://www.hotelpashalignano.it/servizi/bar/
 node	3661358769	http://www.profumia.com/
 node	3672820841	https://www.facebook.com/marino.gori
 node	3677326786	https://www.procne.it
-node	3679475903	http://www.panificiogobattosnc.it/
 node	3698847026	http://www.distilleriaquileia.com/
 node	3701768876	http://www.jcolja.eu/
 node	3702625287	https://www.fabjan.wpeople.it/
@@ -2314,7 +2312,6 @@ node	10578701346	https://www.banca360fvg.it
 node	10591713980	https://www.ortobar.it
 node	10600641387	https://www.repower.com/dina/
 node	10600781154	https://www.repower.com/dina/
-node	10600794095	https://www.repower.com/dina/
 node	10600794096	https://www.repower.com/dina/
 node	10600796808	https://www.repower.com/dina/
 node	10600960091	https://www.repower.com/dina/
@@ -2325,7 +2322,6 @@ node	10601219765	https://www.repower.com/dina/
 node	10601235264	https://www.repower.com/dina/
 node	10601255381	https://www.repower.com/dina/
 node	10601260465	https://www.repower.com/dina/
-node	10601265422	https://www.repower.com/dina/
 node	10601267981	https://dinaclub.repower.com/check-in/?code=3b8ca4dc-3203-40d6-bebd-d100d7f8fc93
 node	10601268445	https://www.dinaclub.cloud
 node	10601283514	https://www.repower.com/dina/
@@ -2334,6 +2330,7 @@ node	10612142641	https://www.bischoff.it/
 node	10672919405	https://www.albuonditarvisio.com/
 node	10681029863	https://www.portewestern.it
 node	10685169180	https://www.rentaski.ws/
+node	10687676875	https://asfiresrl.it/
 node	10688278371	https://www.escursionismo.it/rifugi-bivacchi/val-zea-16192
 node	10694779543	https://www.pnlug.it/
 node	10695802454	http://www.allafrasca.it/
@@ -2898,6 +2895,8 @@ node	12926755701	https://www.infinisurge.eu/
 node	12927540674	http://www.labeccaccia.com/home.html
 node	12965965078	http://www.studiolaquercia.it/
 node	12965965081	http://lavju.it/
+node	12976390201	"https://www.cantinerigonat.it
+Negozi di Trieste"
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2945,7 +2944,6 @@ way	36014812	https://www.gardel.it/
 way	36014830	http://www.albergoparkoasi.it/
 way	36014914	https://www.rifugiograuzaria.it/
 way	36015311	http://caitolmezzo.it/rifugi/rifugio-monte-sernio/
-way	36016472	https://www.donboscotolmezzo.it/
 way	36016503	http://www.ictolmezzo.it
 way	36016507	http://www.cinemadavid.it
 way	36017067	http://www.piergiorgio.org/
@@ -3294,7 +3292,7 @@ way	36668327	https://www.laviarte.it/
 way	36669447	https://www.cadeifaggi.it/
 way	36675305	https://www.protezionecivile.fvg.it/it/comune/san-quirino
 way	36676286	http://www.albergotrattoriaalcastello.com
-way	36677079	www.rifugiocolo.it
+way	36677079	https://www.rifugiocolo.it/
 way	36677702	http://marzona.net/
 way	36677839	https://www.cai-fvg.it/sentieri-e-rifugi/rifugi-e-opere-alpine/opere-alpine/616-bivacco-d-mazzeni/
 way	36677854	http://www.caitarvisio.it/capanna--brunner-.html
@@ -3416,10 +3414,8 @@ way	36704587	https://www.acapulcolignano.it
 way	36704641	https://www.albergorosadeiventi.it/
 way	36704652	https://www.ghotel-lignano.it/
 way	36704801	https://hotel-orchidea.it/
-way	36704802	https://www.hotelfalcone.it/
 way	36704803	https://mobile.doimohotels.it/consuelo/
 way	36704811	https://www.palace-hotel.it/
-way	36704820	https://www.hotelmarelignano.it/suiteapartment-dolivo-al-mare/
 way	36704827	https://gphotels.it/hotel-astoria/it/
 way	36704828	www.hotelsalus.it
 way	36704830	http://www.mobile.hotel-vittoria.net
@@ -3476,6 +3472,7 @@ way	36706327	https://www.hotelalcigno.it/
 way	36706392	http://www.apparthotelholiday.it
 way	36706399	https://www.hbl.it/
 way	36706578	https://pizzeria-lupin-lignano-sabbiadoro.business.site/
+way	36706630	http://www.hotelbellini.eu
 way	36706689	https://www.ristorantemarechiaro.com/
 way	36706809	https://golflignano.it/hotel-golf-inn/
 way	36706840	http://www.lignano.it/hotel/nuovaflavia
@@ -3709,7 +3706,7 @@ way	483706067	www.rifugiovallata.it/site/
 way	485642132	https://www.nh-hotels.it/hotel/nh-trieste
 way	488123092	http://www.ictricesimo.org/ictricesimo/sec-tricesimo
 way	499402974	http://www.protezionecivile.fvg.it/it/comune/san-dorligo-della-valle
-way	504538284	https://ww.sogit.org
+way	504538289	https://ww.sogit.org
 way	505163021	https://www.parcodaneu.it/
 way	507767053	http://www.flor-orel.com/
 way	511963036	https://www.graphistudio.it/
@@ -3844,7 +3841,6 @@ way	1046180034	https://www.spacciocchialivision.it/ottica/gorizia/
 way	1061482304	https://www.villebianchi.com/
 way	1062006445	https://netaziendapulita.it/
 way	1066416444	https://lignanosabbiadoro.it/it/strutture/130-beach-village-lignano/
-way	1073299775	https://www.h-europa.it/
 way	1076804700	https://www.larixguest.com/
 way	1078858562	https://www.lapprodogrado.it/
 way	1079473284	https://www.sunnypet.it/
@@ -4056,6 +4052,10 @@ way	1384576556	https://www.eurospin.it/punti-vendita/cervignano-del-friuli-via-a
 way	1386361507	https://www.gruppobosco.it/
 way	1391575133	https://www.tesla.com/en_eu/findus?location=303406
 way	1396232335	https://www.despar.it/
+way	1411362687	https://www.hotelmarelignano.it/suiteapartment-dolivo-al-mare/
+way	1411990811	http://www.turismofvg.it//
+way	1412286742	https://www.hotelfalcone.it/
+way	1412868418	https://www.h-europa.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -5384,6 +5384,7 @@ relation	19185513	https://rdmgroup.com/
 relation	19273031	https://camminodellepievi.it/tappe/diciasettesima-tappa/
 relation	19273411	https://camminodellepievi.it/tappe/diciottesima-tappa/
 relation	19273451	https://camminodellepievi.it/tappe/diciannovesima-tappa/
+relation	19317800	https://www.donboscotolmezzo.it/
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
