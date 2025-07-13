@@ -2012,7 +2012,7 @@ node	8857618814	https://www.farmaciediturno.org/farmacia.asp?idf=10608
 node	8862885230	https://dinino.it/contatti/
 node	8868729561	https://www.farmaciediturno.org/farmacia.asp?idf=10605
 node	8869185854	http://www.mondocampeggio.it
-node	8870381449	https://avmled.com
+node	8870381449	https://avmled.it/
 node	8870491183	https://www.bec.energy/?lang=en
 node	8872657523	https://ristorante-pizzeria-cambio-vita-di.business.site/
 node	8880083776	http://lamascionara.it
@@ -3280,6 +3280,7 @@ node	12606799673	https://www.labottegadellosvapo.it/
 node	12607116807	https://www.gabetti.it/agenzia/chieti-scalo
 node	12607122720	https://www.marcoromano.it/
 node	12607127383	https://www.demarcogioielleria.it/
+node	12609127523	https://www.siconte.it/punti-vendita/superstore-giulianova/
 node	12615392169	https://www.dolcezze-nascoste.it/
 node	12615392170	https://parrucchierifigaro.it/
 node	12617924933	https://casacibo.it/
@@ -3369,6 +3370,9 @@ node	12927377358	https://www.rdmricambi.it/
 node	12942156758	https://www.gabriellispa.it/it/insegne/tigre.html
 node	12953468649	https://www.comune.campli.te.it/
 node	12973687897	https://www.intesasanpaolo.com/
+node	12990213017	http://www.lalocandadelcervo.it/?page_id=7
+node	12991943506	https://www.gabriellispa.it/it/insegne/tigre.html
+node	12994923787	https://www.comune.sanvincenzovalleroveto.aq.it/jsps/Luoghi_3.jsp?dettaglio=163
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3394,6 +3398,7 @@ way	27351142	https://www.telespazio.com/it/azienda/centri-spaziali-teleporti/cen
 way	27896384	https://ctpescara.it/
 way	28379456	https://www.ciakcity.it/
 way	28403226	https://www.lancianofiera.it/
+way	28522907	https://www.mablanciano.it/
 way	28524470	https://www.teatrofenaroli.it/
 way	28738491	http://hadriapescara.it/?doing_wp_cron=1578299741.8722538948059082031250
 way	37194887	https://www.gabrielliunika.it/it/il-mio-negozio.423.html
@@ -3895,6 +3900,7 @@ way	679552344	https://www.lacollinadipeppino.com/
 way	679832900	https://ristorante-pizzeria-la-fontanella.business.site/
 way	680689680	https://www.abruzzoactivities.com/
 way	680884699	https://www.iuvanum.it/
+way	681252249	https://www.jw.org/it/
 way	685035424	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	685035426	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
 way	685035429	https://www.diocesipescara.it/wd-annuario-enti/torre-de-passeri-669/nostro-signore-gesu-cristo-re-266/
@@ -4483,6 +4489,10 @@ way	1411958288	https://www.mariopatricelli.com/
 way	1412458092	https://www.gruppofrentauto.com/
 way	1412458222	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII177107
 way	1412497210	https://www.comune.torinodisangro.ch.it/it/vivere/biblioteca-comunale
+way	1412990013	https://www.dannunziolanciano.edu.it/
+way	1413077883	https://www.ursini.com/c/olio-evo/
+way	1413084632	https://ciccociopposerramenti.it/
+way	1413546828	http://www.lalocandadelcervo.it/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4847,7 +4857,9 @@ node	12304275558	https://www.chpe.camcom.it/pagina182687_padiglione-espositivo-d
 node	12604348773	https://www.tripadvisor.it/Restaurant_Review-g2275192-d10685916-Reviews-Osteria_La_Vecchia_Stazione-Mosciano_Sant_Angelo_Province_of_Teramo_Abruzzo.html
 node	12755183810	https://www.universita.it/ateneo/universita-degli-studi-g-d-annunzio-chieti-pescara/
 node	12755384821	https://www.universita.it/ateneo/universita-degli-studi-g-d-annunzio-chieti-pescara/
+node	12942156758	https://www.oasitigre.it/it.html
 node	12946775009	https://shop.unigross.it/chi-siamo/
+node	12988185802	https://www.yelp.com/biz/supermercato-granmerkato-lanciano
 way	12653775	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	57035180	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	301862068	https://it.m.wikipedia.org/wiki/File:Orsogna_-_Torre_di_Bene_03.jpg
@@ -4875,6 +4887,7 @@ way	1393942195	https://www.jw.org/it/
 way	1408237792	https://www.vaticannews.va/it/festivita-liturgiche/sacro-cuore-di-gesu.html
 way	1409206858	https://santantoniolanciano.com/?i=1
 way	1411481544	https://www.dannunziolanciano.edu.it/le-nostre-scuole/scuola-dell-infanzia-e-damico/
+way	1413864433	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/17860/Chiesa+di+Santa+Giusta+%7C+Lanciano+%28CH%29
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12862117	https://www.ilpescara.it/cronaca/ponti-sul-saline-inaugurato-ponte-sant-angelo.html
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
