@@ -80,6 +80,8 @@ node	672986219	https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagin
 node	672990072	https://www.farmacialoffreda.it/
 node	672992968	https://albergosantemidio.it/
 node	672992972	https://www.hotelcantinadellarte.it
+node	672995504	https://www.hotelpennile.it/
+node	673023005	https://www.ascolimusei.it/siti-museali/galleria-darte-contemporanea-o-licini/
 node	673024078	http://musei.beniculturali.it/musei?mid=204&nome=museo-archeologico-statale-di-ascoli-piceno
 node	673024712	https://www.museodiocesanoascoli.it/
 node	673025323	https://www.ascolimusei.it/siti-museali/museo-dellarte-ceramica/
@@ -92,6 +94,7 @@ node	675435334	https://www.albergoitaliaancona.it/
 node	682383787	https://www.pizzeriapulcinellaap.it/
 node	682383788	https://www.oasitigre.it/it/punti-vendita.html?store=7706
 node	682387262	https://www.tavernadicecco.it
+node	682402248	https://www.bper.it/scheda-filiale/-/filiale/marche/ascoli-piceno/agenzia-10143
 node	683633972	https://enotecakursaal.it/
 node	684439510	https://cad.univpm.it/SebinaOpac/library/Tecnico-Scientifica-Biomedica/UANBU
 node	687053336	https://www.labotte1986.it/
@@ -138,7 +141,6 @@ node	893969287	https://www.giomettirealestatecinema.it/cinema/multiplex-ancona/p
 node	893969288	https://jysk.it/stores-locator?storeId=3184
 node	893975128	https://www.globomoda.com/puntivendita/dettagli_puntovendita.php?id=8
 node	925512122	https://www.oasisanbenedetto.it/
-node	938924503	https://it.marella.com/store/0153005
 node	945519680	https://www.globomoda.com/
 node	945519740	https://www.unieuro.it/online/negozi/Unieuro-Ascoli-Piceno---via-del-Commercio-
 node	945519753	https://www.papillonristorazione.com/
@@ -205,6 +207,7 @@ node	1372462637	http://www.hotelguiderocchi.it/
 node	1382883509	https://www.accademiadiurbino.it/aabb/
 node	1382883510	https://www.accademiadiurbino.it/aabb/
 node	1390061948	https://www.coal.it/archives/punti-vendita/vitellitaly-srl
+node	1396602805	https://www.maurys.it/punti-vendita/marche/item/38-ascoli-piceno-via-piceno-aprutina-46.html
 node	1397443501	https://www.conad.it/ricerca-negozi/conad-via-tiziano-23-60125-ancona--009962
 node	1401570925	https://www.conad.it/ricerca-negozi/conad-city-via-colombo-5-5-a-63077-monsampolo-del-tronto--006493
 node	1403760214	https://www.pasticceriangelo.it/
@@ -310,7 +313,7 @@ node	2292455689	https://www.conad.it/ricerca-negozi/conad-via-ignazio-silone-43-
 node	2294200948	https://www.alguasco.it/
 node	2294200959	http://www.bottegadipinocchio.it/
 node	2302930135	https://www.antancona.org/home
-node	2304263431	https://www.enel.it/spazio-enel/ascoli-piceno/spazio-enel/50/
+node	2304263431	https://www.enel.it/it-it/spazio-enel/city/store-detail?storeId=13710
 node	2304263432	https://www.enel.it/punto-enel/
 node	2304263433	https://www.enel.it/punto-enel/
 node	2311464948	https://www.enel.it/spazio-enel/ancona/spazio-enel-negozio-partner/1171/
@@ -380,6 +383,7 @@ node	2532557258	https://www.musei.marche.beniculturali.it/musei/?mid=203&nome=an
 node	2533094030	http://www.lagrandeagave.it/home.html
 node	2539860693	https://www.olimpia.it
 node	2544626346	https://www.coal.it/archives/punti-vendita/leone-snc
+node	2551193374	https://www.lebegonie.it/
 node	2558547440	https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=448
 node	2558547441	https://www.agriturismolacaputa.com/
 node	2558766666	https://www.oasitigre.it/it/punti-vendita.html?store=6905
@@ -669,10 +673,13 @@ node	4395473476	https://www.mangioergosum.it/
 node	4395474791	http://www.siconte.it/it/punti-vendita/si-supermercati/ancona-corso-amendola
 node	4428938791	https://www.lacerbara.com/
 node	4438348206	http://www.mapis.it/dovesiamo/ancona.php
+node	4445358797	https://www.uteap.it/
 node	4447538897	https://www.euforiagelateriacaffetteria.it/
 node	4449598089	https://www.farmaregno.com/punti-vendita/Parafarmacia%20Regno%20Ascoli%20Piceno/
 node	4450251690	https://www.acquaesapone.it/puntivendita/ascoli-piceno-via-pio-semproni/
-node	4450976090	https://www.mariniortopedia.it
+node	4450537393	https://www.negronibimbo.it/
+node	4450928291	https://www.mariniortopedia.it
+node	4450976090	https://shop.gruppocat.it/
 node	4451700490	https://www.coal.it/archives/punti-vendita/dilaga-market
 node	4451700591	https://www.laboratoriobiolab.it/
 node	4451721189	https://www.acquaesapone.it/puntivendita/ascoli-piceno-largo-degli-aranci/
@@ -729,6 +736,7 @@ node	4989800289	https://antonionisport.it/
 node	5001872625	https://www.farmaciediturno.org/orariofarmacia.asp?idf=8900
 node	5010105920	http://www.caifabriano.it
 node	5010458221	https://www.oasitigre.it/it/punti-vendita.html?store=8802
+node	5013014328	https://www.uspascolipiceno.it
 node	5026060436	https://myoutdoor.it/percorsi/trekking/giro-dell-orrido-cupi-di-fiamma/
 node	5028049095	https://www.oasitigre.it/it/punti-vendita.html?store=9708
 node	5034021159	https://farmaciaformentini.it/
@@ -784,6 +792,7 @@ node	5540874127	https://www.fraticelligirottipierella.com
 node	5544031046	https://la-loggia-luxury-brand.business.site/
 node	5582832314	https://aclimacerata.it/
 node	5588939026	https://www.osteriavialeopardi.it/
+node	5598676139	https://www.hotelbianchi.it/
 node	5600657222	https://www.gabbiano-senigallia.com/
 node	5631186365	https://gepfood.com/it/content/14-store
 node	5638207819	https://www.renatoshoes.it/
@@ -836,6 +845,7 @@ node	6141971185	https://www.lifebrain.it/laboratoriocheckup/
 node	6152710448	https://www.amarcordbarristorante.com/
 node	6157720499	https://www.corriereadriatico.it
 node	6157720500	http://www.primavisioneancona.it/
+node	6173981096	https://kingattitude.it/pages/negozi/king-ascoli-piceno
 node	6173981097	https://negozi.arcaplanet.it/portfolio_page/arcaplanet-ascoli-piceno/
 node	6173981102	https://www.oldwildwest.it/code/25128/Ascoli-Piceno
 node	6182570053	http://www.agoraciottigroup.it
@@ -909,6 +919,7 @@ node	7049864285	https://ristorantelafonte.net/
 node	7050021709	https://www.oasitigre.it/it/il-mio-negozio.5103.html
 node	7050574603	https://www.rivamare.it/en/
 node	7056776252	http://www.trattoriadasante.com/
+node	7094359683	https://www.km431.it/castel-di-lama/
 node	7094426439	https://www.agustino.it/
 node	7099728966	http://www.locandacentimetrozero.it
 node	7126199134	https://www.caiascoli.it/
@@ -2081,8 +2092,11 @@ node	12926625578	https://www.comune.gabicce-mare.pu.it/
 node	12942193094	https://www.intimissimi.com/it/negozi/marche/ancona/ancona_corso_garibaldi_nn._56_58/IP64.html
 node	12955018258	https://www.ristorantepizzeriaulivodelconero.it/
 node	12955054025	https://www.manifatturadimare.it
-node	12970299278	http://www.fattoriadeisibillini.com/
+node	12970299278	https://www.fattoriadeisibillini.com/
 node	12981084980	https://icmontemarciano-montesanvito.edu.it/struttura/infanzia-grimm-monte-san-vito/
+node	12982747944	https://www.colleolivi.it
+node	12988649562	https://www.chaletpeter.it/
+node	12992036075	https://www.ristoranteduomila.com/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2248,6 +2262,7 @@ way	290746228	http://www.campingclubcesano.com
 way	291528896	http://www.siconte.it/it/punti-vendita/si-supermercati/ancona-piazza-d-armi
 way	294002268	https://www.faonline.it/
 way	295345036	https://www.agrituristlafonte.it/
+way	295858866	https://www.casaleta.it
 way	297539974	https://www.riservagoladelfurlo.it/
 way	299519541	https://www.iluoghidelsilenzio.it/chiesa-pieve-di-santa-maria-annunziata-mevale/
 way	299634432	https://www.hotellegrotte.it/
@@ -2506,6 +2521,7 @@ way	463688037	https://prolocoloreto.com/area-camper-1.html
 way	467241889	https://www.ciip.it
 way	468566053	https://fondoambiente.it/luoghi/orto-sul-colle-dell-infinito
 way	472872293	https://www.liceolaurana.edu.it/
+way	475710413	https://kosgroup.com/it/centri/centro-venerabile-marcucci
 way	477105056	https://www.lebucoliche.it/
 way	479244572	http://www.lafattoriabiologica.it
 way	479598080	http://www.oasiipermercati.it/puntovendita?idpv=538
@@ -3095,7 +3111,6 @@ node	5943974942	https://www.laforesteriahotel.it/ristorante/
 node	5977965301	http://www.loretoturismo.info/
 node	6217343388	http://www.hotelcorallo-fano.it/
 node	6240708346	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/358-santagostino.html
-node	6240708347	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/429-santuario-beata-vergine-del-carmine.html
 node	6307700314	http://www.socapmarche.com/
 node	6528185994	https://gardendemarco.it/
 node	6563221317	http://www.bagnihelios.it/
@@ -3300,6 +3315,7 @@ way	1296358628	http://www.areacamper.it/
 way	1301847221	https://www.lasaponaria.it/
 way	1301847241	http://www.biesse.com
 way	1334249750	http://www.fabrianoturismo.it/docs/comearrivare/unanuovaareadiservizioesostacamper.asp
+way	1342766842	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/429-santuario-beata-vergine-del-carmine.html
 way	1352297039	https://www.campingroccamare.it/it/index.php
 way	1355997692	www.loasidilulu.it
 way	1386573245	https://casatartufo.nl/it/campeggio/
