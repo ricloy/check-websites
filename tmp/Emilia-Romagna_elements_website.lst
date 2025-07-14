@@ -135,7 +135,7 @@ node	294065215	https://prm.rfi.it/qo_prm/QO_Partenze_SiPMR.aspx?Id=2179&dalle=07
 node	295521061	https://www.justplaybo.it
 node	301234946	https://www.turismo.ra.it/servizi-utili/uffici-informazione-turistica/
 node	315012228	http://www.vigilfuoco.it/sitivvf/forlicesena/
-node	315012242	https://www.itisforli.it/
+node	315012242	https://www.ittmarconiforli.edu.it/
 node	343032177	https://www.succedesoloabologna.it/conserva-di-valverde/
 node	343128726	https://www.belluzzifioravanti.it/
 node	344606605	http://www.farmaciecorvinomontericco.it/
@@ -521,6 +521,7 @@ node	1704285176	https://www.sanipernatura.com/
 node	1704286899	https://www.fornopallotti.it/
 node	1704288286	https://gustochengdu.com/
 node	1704290995	https://www.cri.it/emilia-romagna
+node	1704301677	https://www.zembistrot.it
 node	1704305119	https://deliciousbologna.com/contact-us/
 node	1704356059	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/2580-bologna---san-ruffillo.html
 node	1704363751	https://www.nonsolofumo242.it/
@@ -539,6 +540,7 @@ node	1704600058	https://americagraffiti.it
 node	1704606605	https://it.webuy.com/site/storeDetail?branchId=18000
 node	1704612402	https://www.dasbologna.org/
 node	1704621763	https://questure.poliziadistato.it/servizio/orari/5730dc9d14574271527580
+node	1704627308	https://www.indiaristorante.it
 node	1704629974	https://it.webuy.com/
 node	1704657750	https://www.rosterialucianobologna.it/
 node	1704666888	https://www.118er.it/dae/dae.asp
@@ -1033,6 +1035,7 @@ node	2718118055	https://www.facebook.com/edicolaRivazzurra
 node	2718119263	https://www.trony.it/online/store/TRO044_A
 node	2718120869	https://www.badenbadenhotel.it/
 node	2718120917	https://archivio.comune.rimini.it/comune-e-citta/comune/ufficio-relazioni-con-il-pubblico/guida-ai-servizi/delegazioni-anagrafiche
+node	2718121134	https://www.hotelgaby.com/
 node	2718121368	https://www.leruotedirivabella.it/
 node	2718121905	https://www.casinadelbosco.it/
 node	2718123585	https://dealer.moto.it/argilligiovanni
@@ -1077,6 +1080,7 @@ node	2718137901	https://www.lhotelrimini.it/en/
 node	2718137925	https://swat-kebab-e-pizzeria.business.site/
 node	2718137967	https://www.duecomenoi.it/
 node	2718138765	https://ilfioraio.ecwid.com/
+node	2718138845	https://www.hotelstresa.com/
 node	2718139345	https://www.oponopoke.com/
 node	2718139788	https://www.agrofficina.it/
 node	2718140664	https://www.tuttoperlagricoltura.it/
@@ -1181,6 +1185,7 @@ node	2718185146	https://www.cittadelsole.it/ita/negozio/rimini
 node	2718186857	http://www.globalforniture.it/
 node	2718187003	https://www.atuttaranda.it
 node	2718187851	https://www.rossopomodororimini.it/
+node	2718187928	https://hoteldefrance.it/
 node	2718188446	https://centrootticomegavision.com/
 node	2718189018	https://www.pesceazzurro.com/
 node	2718189099	http://www.beach33.com
@@ -1191,6 +1196,7 @@ node	2718191186	https://www.residenceaida.it/it
 node	2718191188	https://hotellexingtonrimini.it/
 node	2718191192	https://www.hoteleliseorimini.it
 node	2718191557	https://www.ristorantecavalierispiaggia.com/
+node	2718191563	https://www.hotelnordest.it/
 node	2718191595	https://pizzerialagomaggio.it/
 node	2718191713	https://www.internormrimini.it/
 node	2718191963	https://www.cerdiesel.com/it/home/
@@ -1203,6 +1209,7 @@ node	2718195196	https://www.oasidellapiada.it/
 node	2718195221	https://www.rainbowsushibar.com/
 node	2718196061	https://fermataest.it/
 node	2718197122	https://www.hotelardearimini.it/
+node	2718197144	https://www.hoteltiberius.it/
 node	2718197241	https://www.residenceriminirelax.it/
 node	2718197303	https://www.strampalato.it
 node	2718197375	https://www.facebook.com/macelleriamuccini.it
@@ -1228,6 +1235,7 @@ node	2718201435	https://www.silverhotelrimini.com/
 node	2718201680	https://www.hotelmemory.it/it/
 node	2718201711	https://www.officinadelpanino-rimini.it/
 node	2718201837	https://tosimoto.com/
+node	2718202212	https://www.hotelconstellation.it/
 node	2718202216	https://ristorantelangoloblu.it/
 node	2718202276	https://ramenshifuriviera.it/
 node	2718202419	https://www.dallalella.it/
@@ -1246,6 +1254,7 @@ node	2718207919	https://www.misterpizzarimini.it/
 node	2718207988	https://www.alberghi.it/
 node	2718207992	http://www.pachamama-rimini.org/
 node	2718208201	https://www.touringhotelrimini.com/
+node	2718208695	https://www.assistenzarimini.it/
 node	2718208821	https://www.lagiunglarimini.it/
 node	2718209150	https://www.lapiadadiamerigo.it/
 node	2718210246	https://www.carrozzeriaroma.com/
@@ -1270,7 +1279,6 @@ node	2777875886	http://www.globushotel.de
 node	2782817164	https://www.fcr.re.it/Farmacia.jsp?idFarmacia=26
 node	2794846064	https://www.archibo.it/
 node	2800156815	http://www.piadinaciliegia.it/lido-delle-nazioni
-node	2810876160	http://www.serenataincucina.com/
 node	2819293578	https://www.uilemiliaromagna.net/
 node	2820295403	https://www.setaweb.it/azienda/index.php?azienda
 node	2821572628	https://bnl.it/
@@ -1431,7 +1439,6 @@ node	3396874979	http://www.casalebauer.com/
 node	3400828647	https://www.ristorantecesarina.it/
 node	3402470791	https://www.anticoconventosanfrancesco.it/
 node	3403608262	https://www.conad.it/ricerca-negozi/conad-superstore-via-albergone-32-48012-bagnacavallo--008544
-node	3409315455	http://www.anticaosteriadellevolte.it
 node	3410716173	https://www.comune.modena.it/genitori-a-modena/centro-per-le-famiglie/milinda
 node	3410716174	https://www.comune.modena.it/biblioteche/crocetta/
 node	3410716175	https://www.provincia.modena.it/luogo/laboratorio-della-citta-palazzina-pucci/
@@ -1527,7 +1534,6 @@ node	3720079904	https://www.lacortedeimolini.it/
 node	3722042993	https://www.we-gastameco.com/city/bologna/
 node	3722046278	https://leserredeigiardini.it/
 node	3730382207	http://brisighellagreenwellness.com/
-node	3736330574	https://www.museociviltacontadina.bo.it/
 node	3737561815	http://www.e-coop.it/StoreLocator/dettaglio.jsp?id=5091
 node	3738630842	https://www.albergovaldolo.com/
 node	3745887474	http://www.orizzontidipianura.it/interno.php?ID_MENU=173
@@ -1696,7 +1702,6 @@ node	4265093134	https://www.arisbar.it/locali/meraville/
 node	4265119876	https://www.trattoriaromano.it/
 node	4265119878	https://www.zanhotel.it
 node	4266254089	https://www.aurora-residence.it/
-node	4269849307	http://www.streetburgergourmet.com/
 node	4271005491	https://www.spaziolabo.it/
 node	4274679450	https://www.tajmahal.it/
 node	4274686100	https://www.acasamiacafe.it/
@@ -2046,7 +2051,6 @@ node	4507030748	https://pazzidipizza.business.site/
 node	4507031162	https://www.oleificiocarlinigiorgio.it/
 node	4510776182	https://www.yifusionrestaurant.it/
 node	4512070837	https://www.ordinefarmacisti.re.it/eFarmacie/ItemFarmacie.aspx?idFarmacie=246&return=/eFarmacie/doveFarmacie.aspx
-node	4512571650	https://www.facebook.com/farinadelmiosaccoferrara/?ref=py_c
 node	4512701034	http://www.ilmololive.it/
 node	4512727968	http://www.enatura.it/
 node	4512727969	https://www.zara.com/
@@ -2191,7 +2195,11 @@ node	4703801459	http://www.radiosystem.it/
 node	4705787768	https://www.coopreno.it/negozio/coop-reno-porretta-terme
 node	4706446871	https://www.pizzikotto.it/
 node	4708027824	https://www.saage.it
+node	4708054500	http://www.centroportasicura.it/
 node	4708054502	https://www.gommebologna.it/
+node	4708108290	https://www.metacasa.ai/
+node	4708108995	https://www.noleggiare.it/it/noleggio-auto/sedi/noleggio-auto-a-bologna/
+node	4708138689	https://www.sara.it/agenzia?id=0700
 node	4708260590	https://www.inail.it/portale/it/supporto/sedi/dettaglio-regione/dettaglio-sede.emilia%20romagna.18100.html#mapAnchor
 node	4711174960	https://www.ocarina.it/
 node	4711181006	https://www.accademiadeinotturni.com/
@@ -2613,6 +2621,7 @@ node	4759771150	https://istituticomprensiviargenta.gov.it/le_scuole/scuola-prima
 node	4759771415	https://www.facebook.com/lacortediDesi2020/
 node	4761697057	https://www.trattorialaforchettapiacenza.com/contattaci.php
 node	4761698272	http://ladispensadeibalocchi.it/
+node	4761725283	https://www.labuttiga.it
 node	4761822586	https://www.oldwildwest.it/code/22013/home
 node	4761829284	https://www.facebook.com/La-Pizza-di-Luciano-1330670346978812/
 node	4761871459	http://cpsacquedottofe.it/
@@ -3061,7 +3070,7 @@ node	4868433922	https://www.patapollo.it/
 node	4868551322	http://lachersenta.it
 node	4872180621	https://www.settebellohotel.com/
 node	4874928932	https://www.museolamborghini.com/
-node	4879356158	http://cinepark.it/comacchio
+node	4879356158	https://www.cinepark.it/comacchio
 node	4881691395	https://www.anticafarmacialugaresi.it/
 node	4892372744	https://www.giustospirito.com/ristoranti/giustospirito-modena.html
 node	4902281269	https://www.trattoriadellasanta.com/
@@ -4437,7 +4446,6 @@ node	9053954783	https://www.agenziaestensi.it/
 node	9055292658	https://autocarrozzeriamodernadibelli.business.site/
 node	9060557183	https://www.lapiadineria.com/
 node	9061041719	http://www.ildolcedivino.it/
-node	9061612942	https://www.botanicalab.com/
 node	9061621707	www.alchemillabio.it
 node	9061629671	https://missfagiola.com/
 node	9063161445	https://www.del-eat.com/
@@ -4576,6 +4584,7 @@ node	9513361506	https://insmercato.it/
 node	9513949961	https://www.dolciarianaldoni.it/
 node	9521537017	https://www.timbrilampo.com/
 node	9523376991	https://www.boscogerolovaltrebbia.it/distributore-bio-metano/
+node	9535536217	https://www.botanicalab.com
 node	9535655517	https://www.ipaninidimiro.it/
 node	9536568815	https://1727-bb-via-degli-dei.business.site
 node	9537408525	https://www.officinazambrellimarco.it/
@@ -5158,7 +5167,7 @@ node	11001999306	https://m.facebook.com/mamaspizzeriaofficial/
 node	11003030688	https://www.repower.com/dina/
 node	11004093405	http://www.trattosteriacastellinaria.it/
 node	11007296499	https://www.ristorantepepperoni.pizza/
-node	11007296500	http://biblioteche.provincia.re.it/piccoloprincipe
+node	11007296500	https://biblioteche.provincia.re.it/piccoloprincipe
 node	11008686528	https://www.ic10bo.edu.it/
 node	11010228135	https://www.isit100.fe.it/
 node	11011560480	https://www.sexyshop-bologna.it/sexyshop-bolognina.php
@@ -5739,7 +5748,6 @@ node	12069365673	https://ebike.bikesquare.eu/ita/parma
 node	12070167382	https://www.panificiocavalloscipione.it/
 node	12070167383	https://caseificiolamadonnina.it/
 node	12071491897	https://www.regioparco.it/
-node	12071544169	https://www.coopalleanza3-0.it/volantino-digitale/carpi-via-don-albertario/promozioni/vetrina.html
 node	12071698669	https://www.fondazionegmb.it/
 node	12073236224	http://www.uil-rimini.it/
 node	12075078069	https://www.isisementi.com/
@@ -6126,6 +6134,7 @@ node	12879370034	https://www.novavetro.it/
 node	12879370035	https://www.abrex-system-tools.com/
 node	12881564512	http://www.fondazioneluciodalla.it
 node	12883805619	https://www.willowartstudio.it
+node	12883993322	https://www.oldwildwest.it/it/ristoranti/imola-selice
 node	12886730890	https://andrèsrosapizzeria.com/
 node	12887944278	https://www.liceosteamemilia.com/
 node	12889084768	https://www.bellosi.info/
@@ -6158,7 +6167,20 @@ node	12966258948	https://www.iclugagnanovaldarda.edu.it/
 node	12966258954	https://www.iclugagnanovaldarda.edu.it/
 node	12976841208	http://www.labertola.it/
 node	12977277082	https://nautica-nettuno.com/
-node	12985019177	http://pasticceriacenni.it
+node	12985019177	https://pasticceriacenni.it/
+node	12985800498	https://www.panchinerosse.it/
+node	12989284818	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/70150/
+node	12991358434	https://www.gallasgroup.it/contatti/agenzia-badanti-bologna/
+node	12991507055	https://www.comune.corniglio.pr.it
+node	12992858201	http://www.unicredit.it
+node	12992866001	http://www.ristorantepirino.it
+node	12994026903	https://iconpalestre.it
+node	12994964101	https://scuolegambettola.edu.it/struttura/nievo/
+node	12995496538	https://www.vfgroupbardianicsffaizane.com/
+node	12996123558	https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede/dettaglio-sedi.it.sezione-sedi.sedi-inps.138000.138000-elencoStruttureInps.html
+node	12997777733	https://parsecbologna.com
+node	12997829946	https://www.afm.fe.it/?page_id=4458
+node	12997927728	https://www.ausl.bologna.it/guida-ai-servizi/luoghi/14330
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	https://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -6816,6 +6838,7 @@ way	171877071	https://www.bellariaigeamarina.org/mappa/61/parco-del-gelso.html
 way	174538356	https://www.piscinafaenza.com/pool-services/piscina-faenza/
 way	175938235	https://www.academyraggisolaris.it/
 way	178109147	http://www.guareschi.com
+way	179022960	https://www.comune.san-secondo-parmense.pr.it
 way	179286491	http://www.sidel-group.it/
 way	179291504	http://www.noceto.pubbliche.parma.it/
 way	179468114	https://www.pampanorama.it/centri-commerciali/panorama-parma
@@ -6884,6 +6907,7 @@ way	183118341	https://scn.caiparma.it/schede/fontana-di-corniglio-2/
 way	183337739	http://www.labaccana.it/
 way	183338102	https://fondoambiente.it/luoghi/ex-fornace-marchino-a-ghiare-di-berceto?ldc
 way	183338526	https://scn.caiparma.it/schede/cappella-immacolata-concezione-borgotaro-loc-tiedoli/
+way	183340759	https://www.comune.valmozzola.pr.it
 way	183398335	https://www.chiaravalledellacolomba.it/
 way	183405910	https://www.valdongina.com
 way	183406106	www.giarola.it
@@ -6906,10 +6930,13 @@ way	184126708	https://www.allapiazzakoya.it/
 way	184216705	https://www.facebook.com/Nido-dinfanzia-I-Pulcini-Ballerini-467506453438308/
 way	184219314	http://www.segalinimacchineagricole.it
 way	184289407	http://www.castagnetti.net/
+way	184379277	https://www.comune.altavaltidone.pc.it
 way	184659337	http://www.ostellodicoli.it
+way	184660674	https://www.comune.cortebrugnatella.pc.it
 way	184661282	http://www.polomusealeemiliaromagna.beniculturali.it/musei/castello-malaspina-di-bobbio
 way	184663171	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/4058-bobbio.html
 way	184669833	https://www.albergopoggiolo.it/
+way	184669867	https://www.comune.ferriere.pc.it
 way	184750835	https://www.centrolafilanda.it/
 way	184889670	https://www.materassiebimbo.it/
 way	184895191	https://puntoristorogamberorosso.it
@@ -6977,6 +7004,7 @@ way	185826205	http://www.comune.forli.fc.it/servizi/menu/dinamica.aspx?idArea=19
 way	185892994	https://www.conde.it/it/la-cittadella.html
 way	185921919	http://www.fumaioloparadisehotel.it/
 way	185969458	https://www.fattoriefaggioli.it/
+way	185969710	https://www.comune.sarsina.fc.it
 way	185977293	www.plautusfestival.it
 way	185981601	https://www.starhotels.com/en/our-hotels/du-parc-parma/
 way	186096227	https://www.chaletburraia.it/
@@ -6994,6 +7022,7 @@ way	186124798	http://www.damoreno.net/
 way	186126487	https://www.ristorantemontebusca.com/
 way	186126875	http://www.agriturismoilnottetempo.it/
 way	186127942	https://www.bnbilsogno.com/
+way	186264979	https://www.coopalleanza3-0.it/volantino-digitale/carpi-via-don-albertario/promozioni/vetrina.html
 way	186277406	https://www.teatroregioparma.it/
 way	186643921	https://www.parrocchiadispezzano.it/
 way	186643924	www.gslibertasfioranoad.it
@@ -7081,6 +7110,7 @@ way	223653899	http://www.atlantide.net/amaparco/osservatorio-naturalistico-valma
 way	223657757	https://www.comune.santarcangelo.rn.it/
 way	223662001	https://www.hotelalexandercattolica.it
 way	223662078	https://www.hoteldesbains.net/
+way	223662154	https://pesceazzurro.com
 way	223662186	https://www.bikinidiscodinner.com/
 way	223663747	https://www.embassyhotelcattolica.it/
 way	223664434	http://www.hotelromagnacattolica.it/
@@ -7956,7 +7986,6 @@ way	1167524990	https://ic1bo.edu.it/struttura/scuola-dell-infanzia-futura/
 way	1167528979	https://ic1bo.edu.it/struttura/g-dozza-1-bologna/
 way	1167569823	https://www.icmarano.it/sede-infanzia.html
 way	1167613407	https://www.amicas.it/case-famiglia-per-anziani/
-way	1169555538	https://grisodog.it/
 way	1170374776	https://vccementisti.wixsite.com/website
 way	1171981871	https://www.coopreno.it/page.php?idpag=10
 way	1173266794	https://www.vialarga.com/
@@ -9462,6 +9491,8 @@ relation	19214773	http://www.caiporretta.it
 relation	19229035	http://www.caiporretta.it
 relation	19249719	https://www.reusewithlove.org/re-cab/
 relation	19289881	https://www.caiparma.it/
+relation	19343304	https://www.caiparma.it/
+relation	19350958	https://www.museociviltacontadina.bo.it/
 node	441918990	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/427-fidenza.html
 node	693373134	https://amerigo1934.it
 node	797204601	http://www.poliambulatoriolasalute.it/
@@ -9494,6 +9525,7 @@ node	3040601733	http://www.lebondamat.com/
 node	3042918024	https://new.labs.it/
 node	3132150682	http://albergo-ilponte.it/
 node	3296862974	https://www.panzaro.it/
+node	3409315455	http://www.anticaosteriadellevolte.it
 node	3515168254	http://www.comune.bologna.it/canilegattile/luoghi/133:18548/
 node	3586451112	https://www.brewdog.com/uk/bologna
 node	3600235452	https://www.agenziamondo.it
@@ -9506,6 +9538,7 @@ node	4077386986	http://www.riminilug.it/
 node	4166130502	https://www.puntobologna.com/
 node	4216293052	http://driveeat.it/
 node	4268817191	https://www.focacceriamediterranea.it/
+node	4269849307	http://www.streetburgergourmet.com
 node	4314228899	http://www.ristoranteamau.it/
 node	4314228900	http://www.villarosariviera.it
 node	4394210194	http://www.bagnonettunopatrizia.com/
@@ -9619,6 +9652,7 @@ node	12630818737	https://www.atr.fc.it/sosta/sostare-a-cesenatico-2/
 node	12650103124	http://www.cebora.it
 node	12709999207	https://www.metalbox.it
 node	12841674924	https://www.vecchiastalla.it
+node	12995544536	https://www.ecudiscount.it/punti-vendita?selected=60730915
 way	29118673	https://www.vigilfuoco.it/sitiVVF/rimini/
 way	64980907	http://www.bibliotecanzola.it/
 way	64980910	http://www.comune.anzoladellemilia.bo.it
