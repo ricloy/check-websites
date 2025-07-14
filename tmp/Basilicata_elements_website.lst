@@ -264,6 +264,7 @@ node	6318034185	https://www.fematic.it/
 node	6433916294	http://www.latronico.eu
 node	6433924396	http://www.latronico.eu
 node	6485246372	https://www.hotelcavedelsole.it/
+node	6494454853	https://distributoreenivietridipotenza.myadj.it/
 node	6518315407	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=152870&pagename=157031
 node	6518360313	https://musei.basilicata.beniculturali.it/musei/?mid=70&nome=museo-nazionale-darte-medievale-e-moderna-della-basilicata-palazzo-lanfranchi
 node	6576717386	http://www.ristoromanferrara.com
@@ -321,7 +322,7 @@ node	8797048821	https://olimpoverde.it/
 node	8811152470	https://www.comune.bernalda.matera.it/
 node	8828026236	https://www.memphispub.com/
 node	8852357039	https://bbnonnavincenzamaratea.com
-node	8909478018	http://www.coopmasterpuglia.it/
+node	8909478018	https://www.coopmasterpuglia.it/
 node	8915107117	https://libreriakiria.it
 node	8917653117	https://www.italiana1immobiliare.com/
 node	8921361225	https://www.fantasticomondo.com/
@@ -534,8 +535,10 @@ node	12881332196	https://www.ifioridelpollino.com/
 node	12896616401	http://queenschips.com/
 node	12942430002	http://www.agriturismo-stella.it/
 node	12958978035	https://soprintendenzabasilicata.cultura.gov.it/area-educazione-ricerca/
-node	12980151179	http://residencepianetamaratea.it
+node	12980151179	https://www.residencepianetamaratea.it/
 node	12980156534	https://laseccamaratea.com
+node	12986071701	https://www.bvquarrymatera.com/
+node	12995076349	https://www.ansa.it/basilicata/notizie/2022/04/08/a-vietri-di-potenza-un-murale-per-falcone-e-borsellino_abe04915-2680-48b7-a652-88a173f1b78d.html
 way	33887443	http://musei.beniculturali.it/musei?mid=68&nome=museo-archeologico-nazionale-di-metaponto
 way	33887449	http://musei.beniculturali.it/musei?mid=326&nome=tempio-delle-tavole-palatine
 way	66767193	http://www.castelgrande.net/
@@ -552,6 +555,7 @@ way	144275406	http://www.infinitamemoria.it/cimiteri/basilicata/matera/matera/ci
 way	144275443	http://www.autoparcomatera.it/
 way	145667236	http://www.matera-irsina.chiesacattolica.it/
 way	157331516	https://www.beniculturali.it/luogo/museo-dei-culti-arborei
+way	161803123	https://www.vietriservizi.it/sport/
 way	184405903	https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_2113907389.html
 way	212089144	https://ics1lavello.edu.it/
 way	213544859	https://www.volodellangelo.com/ita/web/item.asp?nav=8
@@ -660,6 +664,9 @@ way	386527855	https://www.isassidimatera.com/cosa-vedere/ponte-sul-canyon/
 way	386791672	https://www.aspbasilicata.it/servizi/ospedale-di-villa-dagri
 way	389415943	https://www.comune.tricarico.mt.it/HomePage.aspx
 way	389515427	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/83087/Chiesa+di+Santa+Maria+Assunta
+way	392249116	https://www.vietriservizi.it/sport/
+way	392249117	https://www.vietriservizi.it/sport/
+way	392249118	https://www.vietriservizi.it/sport/
 way	395060570	https://hotelportogreco.it/
 way	395106053	https://villaggiotorredelfaro.it/
 way	395736076	https://www.tibluvillage.it/
@@ -757,6 +764,7 @@ way	1238282499	https://www.despar.com/pdv/maiora-s-r-l-via-einaudi-ang-via-berli
 way	1242487071	https://www.aspbasilicata.it/organizzazione/azienda/presidi-ospedalieri-distrettuali/ospedale-di-maratea/
 way	1307479185	http://www.agriturismopantaleonematera.it
 way	1315662201	https://www.facebook.com/Venusiaautolavaggio
+way	1414169869	https://www.vietriservizi.it/sport/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240 | http://www.lestradeferrate.it/mono2.htm
 relation	3160701	https://www.montescaglioso.net/node/1513
