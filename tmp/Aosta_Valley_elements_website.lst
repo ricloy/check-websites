@@ -146,7 +146,7 @@ node	3934389432	https://www.montecervinohotel.com/
 node	4177869337	http://www.hotel-gressoney.it/
 node	4193735406	https://www.residenceoberteil.it/
 node	4197441958	https://www.hoteldufour.it/
-node	4238252929	www.chezisabel.it
+node	4238252929	https://www.chezisabel.it/
 node	4277997934	https://www.tesla.com/findus/location/supercharger/aostasupercharger
 node	4365450437	http://www.lafermedugrandparadis.com
 node	4373181405	http://www.hotelnotremaison.com
@@ -283,7 +283,6 @@ node	9605022512	https://www.lesgourmetsaosta.it/
 node	9605236343	https://stefenellidesk.com/
 node	9605272588	https://ristorantevecchioristoro.it/
 node	9638366052	https://www.hbaostahotel.com/
-node	9661750840	https://www.repower.com/it/dina/
 node	9714516500	https://www.brasseriedentreves.it/
 node	9729678304	https://www.lovevda.it/it/banca-dati/7/bivacchi/la-salle/bivacco-cosimo-zappelli/3138
 node	9897665465	https://www.univda.it/servizi/biblioteca/
@@ -386,6 +385,7 @@ node	12917769714	https://www.lofoo.it/
 node	12920060594	https://www.aubergemaison.it
 node	12920075002	https://www.maisonaltea.it
 node	12921922099	https://www.hotelshatush.it
+node	12996082936	https://shatushmontblanc.com
 way	27264184	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264185	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264187	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -580,6 +580,7 @@ way	117702395	http://campingmonterosa.altervista.org
 way	118079558	https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/verres/castello-di-verres/864
 way	119555456	https://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/teatro-romano/736
 way	120556374	https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/chatillon/castello-di-ussel/809
+way	120676716	https://www.blumental.it/
 way	120778625	https://www.campingmargherita.com/
 way	125499916	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	125499917	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -702,7 +703,6 @@ way	171671168	https://www.ravspa.it/index.php?option=com_content&view=article&id
 way	180531934	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	180736202	https://www.comune.aymavilles.ao.it/turismo/territorio/castelli-e-dintorni/castello-di-aymavilles
 way	181558199	http://www.campeggiolapineta.it/
-way	184968550	https://shatushmontblanc.com
 way	185036901	https://www.hotelroyalegolf.com/en/5-star-hotel-courmayeur
 way	185036928	https://www.hotelboutondor.com
 way	186255789	https://campingarcenciel.it
@@ -1140,6 +1140,7 @@ node	670539184	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&
 node	10009106269	https://sketchfab.com/models/2c86a2c99925485f9416bb4cb2512495/embed?autospin=0.2&autostart=1
 node	10009106270	https://sketchfab.com/models/79c2547fa3964d72802c2815624fc5db/embed?autospin=0.2&autostart=1
 node	10009106271	https://sketchfab.com/models/942a965bc4a94f0281f4db1e5e423ebd/embed?autospin=0.2&autostart=1
+node	11173970513	https://www.lovevda.it/it/banca-dati/13/mercati-settimanali/gressoney-saint-jean/mercato-di-gressoney-saint-jean-giovedi/126
 node	12097484461	https://sketchfab.com/models/7c59d140eed94ac6b55b527c8c7a431e/embed?autospin=0.2&autostart=1
 node	12098866558	https://sketchfab.com/models/305748fdaf834a3ea36c6e1a72378e96/embed?autospin=0.2&autostart=1
 node	12098897508	https://sketchfab.com/models/c839ced2aeca4767b36b1d6d4b208473/embed?autospin=0.2&autostart=1
