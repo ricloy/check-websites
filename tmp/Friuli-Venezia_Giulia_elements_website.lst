@@ -196,6 +196,7 @@ node	1119814211	https://visionario.movie/
 node	1120210862	https://www.hotel-bb.com/it/hotel/udine.htm
 node	1134553694	https://www.ambassadorpalacehotel.it/
 node	1178193935	http://www.caneo.it/
+node	1229985660	https://archiviodistatopordenone.cultura.gov.it/home
 node	1243756859	https://www.flondar.it/2022/06/museo/
 node	1248791864	https://www.ristorantelaprimula.it/hotel
 node	1248791871	https://www.ristorantelaprimula.it/ristorante
@@ -258,6 +259,7 @@ node	1620381485	https://www.mcdonalds.it/ristorante/514
 node	1643226067	https://www.turismofvg.it/Grotte/Grotta-Verde-di-Pradis
 node	1660386540	http://www.ristorantealfortino.it
 node	1674910049	http://www.biblioteca.tricesimo.ud.it/homepage.htm
+node	1681612779	https://www.alcjariesar-tricesimo.it/
 node	1702616500	https://www.hoteldueleoni.it/
 node	1711923249	https://www.lamarmi.it/
 node	1726061056	https://www.cottur.it/
@@ -1010,6 +1012,7 @@ node	3734156198	https://www.comune.ampezzo.ud.it/
 node	3737465476	https://www.eliotecnoservice.it/
 node	3741787580	http://campeggiospin.it
 node	3747248471	https://www.milleunanotte.com
+node	3748913201	http://www.comune.udine.it
 node	3748921433	https://www.ciaoeciao.com/
 node	3748926112	http://www.drogheriaminisini.it/
 node	3748932514	http://www.sbhu.it/easyne2/LYT.aspx?Code=SBHU&IDLYT=657&ST=SQL&SQL=ID_Documento=61
@@ -1164,7 +1167,6 @@ node	3854187067	https://ladimissin.weebly.com/
 node	3854189471	https://www.pizzeriagastronomianordesud.it/
 node	3857552795	http://www.deltorre.it/
 node	3863223789	https://www.safaraeditore.com/
-node	3869547245	http://www.ristorantetrattoriasanmauro.it/
 node	3874550489	https://www.comune.gonars.ud.it/
 node	3876001569	http://utsopac.univ.trieste.it/easyweb/prb/Majano.html
 node	3879088057	http://www.osteriadamarino.com/
@@ -2312,19 +2314,8 @@ node	10578701346	https://www.banca360fvg.it
 node	10591713980	https://www.ortobar.it
 node	10600641387	https://www.repower.com/dina/
 node	10600781154	https://www.repower.com/dina/
-node	10600794096	https://www.repower.com/dina/
 node	10600796808	https://www.repower.com/dina/
-node	10600960091	https://www.repower.com/dina/
 node	10601022577	https://www.repower.com/dina/
-node	10601071781	https://www.repower.com/dina/
-node	10601211186	https://www.repower.com/dina/
-node	10601219765	https://www.repower.com/dina/
-node	10601235264	https://www.repower.com/dina/
-node	10601255381	https://www.repower.com/dina/
-node	10601260465	https://www.repower.com/dina/
-node	10601267981	https://dinaclub.repower.com/check-in/?code=3b8ca4dc-3203-40d6-bebd-d100d7f8fc93
-node	10601268445	https://www.dinaclub.cloud
-node	10601283514	https://www.repower.com/dina/
 node	10601351942	https://www.dinaclub.cloud
 node	10612142641	https://www.bischoff.it/
 node	10672919405	https://www.albuonditarvisio.com/
@@ -2894,9 +2885,11 @@ node	12907907221	https://labussola-stefanoskitchen.eatbu.com/
 node	12926755701	https://www.infinisurge.eu/
 node	12927540674	http://www.labeccaccia.com/home.html
 node	12965965078	http://www.studiolaquercia.it/
-node	12965965081	http://lavju.it/
+node	12965965081	https://lavju.it/
 node	12976390201	"https://www.cantinerigonat.it
 Negozi di Trieste"
+node	12994531501	https://www.doctolib.it/medico-di-medicina-generale/udine/federico-de-liva
+node	12998219601	https://dottoressamarcolongolorenza.it/chi-sono/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -3281,6 +3274,7 @@ way	36660002	https://www.comune.sangiorgiodinogaro.ud.it/
 way	36660004	https://www.comune.torviscosa.ud.it/
 way	36660037	https://www.comune.doberdo.go.it/
 way	36660046	https://comune.spilimbergo.pn.it/
+way	36660063	http://www.comune.reanadelrojale.ud.it/
 way	36660071	https://www.comune.povoletto.ud.it/
 way	36660091	www.sanleonardo.fvg.it
 way	36660102	https://www.comune.prata.pn.it/
@@ -3540,7 +3534,6 @@ way	149882600	https://www.centrocommercialediscount.it/
 way	151616303	https://www.parcoprealpigiulie.it/Home.aspx
 way	155713072	https://www.museougocara.eu/
 way	156739165	https://lignanosabbiadoro.it/it/strutture/198-arena-alpe-adria/
-way	157073892	https://campingsabbiadoro.it
 way	157073893	https://www.parcozoopuntaverde.it/
 way	157092319	https://www.vsopcine.it/
 way	157092320	https://www.vsopcine.it/
@@ -3672,6 +3665,7 @@ way	376899198	https://www.procordenons.it
 way	379326640	https://iclignano.edu.it/index.php?page=plesso&menu=102&p=2
 way	379348667	https://www.protezionecivile.fvg.it/it/comune/pagnacco
 way	380929071	https://www.tenutadiblasig.it/
+way	382878992	https://asufc.sanita.fvg.it/it/strutture/distretti/distretto_udine/index.html
 way	385051039	https://www.facebook.com/hostariaalmolo
 way	385406549	https://microtek.cloud/
 way	387596994	http://www.pinetadelcarso.it/
@@ -4056,6 +4050,7 @@ way	1411362687	https://www.hotelmarelignano.it/suiteapartment-dolivo-al-mare/
 way	1411990811	http://www.turismofvg.it//
 way	1412286742	https://www.hotelfalcone.it/
 way	1412868418	https://www.h-europa.it/
+way	1414255414	https://www.protezionecivile.fvg.it/
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -5385,6 +5380,7 @@ relation	19273031	https://camminodellepievi.it/tappe/diciasettesima-tappa/
 relation	19273411	https://camminodellepievi.it/tappe/diciottesima-tappa/
 relation	19273451	https://camminodellepievi.it/tappe/diciannovesima-tappa/
 relation	19317800	https://www.donboscotolmezzo.it/
+relation	19352674	https://campingsabbiadoro.it
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
