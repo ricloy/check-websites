@@ -1,5 +1,4 @@
 @type	@id	website
-node	26859409	https://www.blucamping.it/
 node	26859801	https://www.sevenhills-roma.it/
 node	32338215	http://torrerossaparkhotel.hotelinroma.com/
 node	72959652	https://www.comune.roma.it/
@@ -173,6 +172,7 @@ node	260540041	https://www.cinemamadison.it/
 node	261416414	https://www.loziodamerica.it/site/index2.html
 node	261733735	https://www.parcodeiprincipi.com/
 node	261736886	https://coris.uniroma1.it/
+node	261737031	marriot.com
 node	261737033	http://www.westinrome.com
 node	261737105	https://www.hotelmajestic.com/
 node	261857932	https://www.senato.it
@@ -210,6 +210,7 @@ node	422019522	https://trattoriacacioepepeprati.com
 node	422042472	www.beere.it
 node	442111257	https://www.museiincomuneroma.it/
 node	443610569	https://www.hotelroyalsantina.com/
+node	444927553	https://www.ilrifugiodeglielfi.it
 node	445100547	https://www.comandinigarden.it/
 node	445912980	https://www.lalocandadelborgo.com
 node	448098113	https://www.romehotelpinewood.com/
@@ -808,7 +809,7 @@ node	2138727696	http://www.ristorantespiritodivino.com/
 node	2138746280	https://glasshostaria.it/
 node	2138753806	https://cenciolaparolaccia.it/
 node	2138756992	https://ilcontedimontecristo.it/
-node	2139261441	https://casanatense.it/
+node	2139261441	https://casanatense.cultura.gov.it/
 node	2139860370	https://www.targetrestaurant.it/
 node	2139921756	https://www.mcdonalds.it/
 node	2139923602	https://www.mcdonalds.it/
@@ -1420,7 +1421,6 @@ node	3314492807	http://www.lapennadoca.com
 node	3316825405	https://www.hosteriecosiesevipare.it/
 node	3316825773	https://www.bricofer.it/storedetails/roma%20pisana
 node	3324218803	http://daobistrot.it/
-node	3329807384	http://www.videovillagefilm.com
 node	3331976972	https://www.beboropuro.it/
 node	3333935160	https://www.eurosurgelati.it/
 node	3334742411	http://www.nomenangels.it/
@@ -2104,6 +2104,7 @@ node	4500491447	https://www.todis.it/
 node	4502454090	https://osteriastana.it/
 node	4503079244	https://www.ospedalecroceazzurra.it/
 node	4503123859	https://www.osteriamargherita.it/
+node	4505133492	https://www.scicivrea.it/dove-siamo/provincia-immacolata-dei-miracoli
 node	4509036381	https://www.lefebvre.it/
 node	4510808499	fianiautonoleggio.com
 node	4512083917	https://europcar.it/
@@ -2524,6 +2525,7 @@ node	5034371432	https://m.facebook.com/Pizzeria-GALLO-MATTO-222334137964290/
 node	5034371434	https://www.sdmotors.it/
 node	5035685422	https://alcasalettoroma.it/
 node	5039325168	http://www.ristorantecateringilpeccato.it/
+node	5039738058	https://www.primigi.it/
 node	5039823826	http://www.farmaciaceccarelli.com/
 node	5039977678	https://fotografiaerrante.wordpress.com/2015/11/02/mammut-a-rebibbia-4/
 node	5040613031	https://www.facebook.com/Team-hi-fi-car-258173894638539/
@@ -2640,6 +2642,7 @@ node	5208315885	https://www.lepapere.it/
 node	5209343628	https://www.ia-ostiaantica.org/news/terme-dei-sette-sapienti/
 node	5212106958	https://www.indomitaboxe.it/
 node	5216981421	https://carrefour.it/
+node	5220473819	https://roma.figliedisancamillo.it/struttura/servizi/pronto-soccorso/
 node	5222950080	https://www.hotelferrarese.it/
 node	5223643260	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/48599
 node	5225209636	https://www.farmacialarinascente.it/
@@ -2699,7 +2702,6 @@ node	5297903150	https://bullsteak.it/
 node	5297903151	http://www.heaven.it
 node	5298545017	exe.discotecadiroma.it
 node	5298550733	https://www.room26.it/
-node	5298561394	https://clusterclub.it/
 node	5298561395	https://circolodegliilluminati.it/
 node	5298561396	https://www.rashomonclub.com/
 node	5298561397	piovra.it
@@ -3076,6 +3078,7 @@ node	5745712142	parrucchieriperbambini.com
 node	5745712143	provincia.roma.it
 node	5745712180	pasqualotto1925.it
 node	5745871063	http://www.astemiowinefood.com/
+node	5748700655	https://negozi.vodafone.it/frosinone/vodafone-store-via-aldo-moro
 node	5750258723	https://www.casadiriposocastelliromani.com/
 node	5750258728	farmaciasanbarnaba.it
 node	5750258732	http://europalavoro.lavoro.gov.it/EuropaLavoro/indirizzario_dettaglio.aspx?idstruttura=515
@@ -3150,8 +3153,6 @@ node	5818149795	https://www.esteri.it
 node	5818341564	http://osterialasolfa.it
 node	5821233587	https://www.atuttopesce.it/
 node	5825531457	https://www.facebook.com/mrbrowntrastevere/
-node	5825536040	https://goaclub.com/
-node	5825536041	baronerosso.com
 node	5825601653	http://www.maharajah1.com/
 node	5826487615	ristorantecacciatori.com
 node	5826487867	toastamore.com
@@ -3636,7 +3637,7 @@ node	6880026502	https://avanthouse.it
 node	6886439834	http://www.farmaciacolledelsole.it/index.asp
 node	6897079038	https://www.medasport.it/contatti.asp
 node	6897079040	https://www.autoricambiemmedue.it/
-node	6897079045	http://www.orionliveclub.com/info/
+node	6897079045	https://www.orionliveclub.com/
 node	6908586063	https://www.vicuscaprarius.com
 node	6911680778	https://www.doublestroke.it/
 node	6920380585	https://anticofornoroscioli.it/
@@ -4314,7 +4315,6 @@ node	8507715615	https://www.docmarket.it/it/punto-vendita/cortina
 node	8507734337	https://www.docmarket.it/it/punto-vendita/cortina
 node	8507755184	https://www.docmarket.it/it/punto-vendita/aurelia
 node	8507780327	https://www.docmarket.it/it/punto-vendita/fonteiana
-node	8507780768	https://www.docmarket.it/it/punto-vendita/frattini
 node	8507783361	https://www.docmarket.it/it/punto-vendita/marino
 node	8507783531	https://www.docmarket.it/it/punto-vendita/frattini
 node	8507820088	https://www.docmarket.it/it/punto-vendita/torrino
@@ -4565,6 +4565,7 @@ node	9043647076	https://www.hotel-bb.com/hotel/roma-pietralata
 node	9043668724	https://www.ipercarni.com/punti-vendita/item/42-tiburtina.html
 node	9051095330	https://www.va.emb-japan.go.jp/itprtop_en/index_00002.html
 node	9062045917	agriturismoefrantoiopalmieri.it/
+node	9062928406	https://negozi.vodafone.it/formia/vodafone-store-itaca
 node	9069864224	https://www.hvalloamartignano.com
 node	9070032017	https://www.romaocr.it/
 node	9070367884	https://www.homemaderome.it/
@@ -4572,7 +4573,6 @@ node	9070638909	https://www.blessbb.net
 node	9070651999	https://www.biancagiuliabb.net/
 node	9071280069	https://www.bianconetimbrietarghe.com/
 node	9073414900	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/49624
-node	9081134521	https://www.plein.com
 node	9081618925	https://www.casedimarche.it/
 node	9081624673	https://iquattrolaghi.it/
 node	9082971967	https://www.bottegatrattoriadesantis.it/
@@ -4609,7 +4609,7 @@ node	9139691519	http://www.facebook.com/ortensie2112
 node	9152041435	https://tolfa.no/
 node	9157432710	http://www.lsa100celle.org/
 node	9157432757	https://www.lsa100celle.org/biosteria-saltatempo/
-node	9160766506	http://www.cpia1.roma.it/cpia/le-sedi/via-policastro/
+node	9160766506	https://www.cpia1roma.edu.it/
 node	9160766554	https://www.todis.it/
 node	9160830771	https://www.aslroma2.it/
 node	9160830775	https://www.ispettorato.gov.it/it-it/il-ministero/Uffici-periferici-e-territoriali/roma/Pagine/default.aspx
@@ -4745,6 +4745,7 @@ node	9492164056	https://pastificioallegretti.it/
 node	9493112520	https://www.aldrovandiresidence.it/
 node	9493138416	www.tavernarossini.it
 node	9497381654	https://www.bancobpm.it/trova-filiali/tutte-le-filiali/lazio/RM/01621/
+node	9498566336	https://negozi.vodafone.it/rieti/vodafone-store-rieti
 node	9498676688	https://www.ristorantetrescalini.it/
 node	9501626306	http://www.centrocopietorvergata.it/
 node	9516018767	https://www.conad.it/ricerca-negozi/negozio.010169.html
@@ -5518,6 +5519,7 @@ node	10880269484	https://www.arciviterbo.it/2019/07/01/lo-spazio-del-cielo-2/
 node	10880677873	https://santinifuneraria.it/
 node	10886236810	https://www.caffevelluti.com/
 node	10889468171	https://roma.figliedisancamillo.it/centro-unico-di-prenotazione/
+node	10889468279	https://roma.figliedisancamillo.it/struttura/servizi/poliambulatorio/
 node	10892764135	https://www.altrimondiviaggi.it/
 node	10893343399	https://www.dolcidelsole.it/
 node	10895895505	https://www.viviroma.tv
@@ -5952,7 +5954,7 @@ node	11701927627	www.tresjoloedragona.it
 node	11702008615	https://negozi.vodafone.it/albano-laziale/vodafone-store-albano-laziale
 node	11707969669	https://www.ladrogheriaveg.it/
 node	11709225453	https://www.ilcapricciodicarla.it
-node	11709312168	http://www.censuredclubroma.it/
+node	11709312168	https://www.censuredclubroma.it/
 node	11710857991	https://lamenicaalta.it/big-bench/
 node	11716955350	https://opac.uniroma1.it/SebinaOpacRMS/library/RMSMV
 node	11717150146	https://ita.finconsgroup.com/
@@ -6602,6 +6604,20 @@ node	12996260099	https://www.coni.it/images/CNA_100_Leggende_per_data_di_nascita
 node	12996260100	https://www.coni.it/images/CNA_100_Leggende_per_data_di_nascita.pdf
 node	12996326401	https://www.coni.it/images/CNA_100_Leggende_per_data_di_nascita.pdf
 node	12996326402	https://www.coni.it/images/CNA_100_Leggende_per_data_di_nascita.pdf
+node	12998784603	http://www.centrotessilesettanni.com/
+node	12999223449	https://www.dvdequipe.it/
+node	12999988101	http://sottoscala9.com
+node	13001066188	https://matrixsportingvillage.it/it/
+node	13001355051	https://www.ilgiardinoincartato.com/
+node	13001355071	https://www.maticmind.it/
+node	13001355091	http://www.romanamaceri.it/
+node	13001400750	https://www.amicianimaliviterbo.it
+node	13002480501	https://clavdiarestaurant.com/
+node	13003842042	https://www.facebook.com/mascalzoniromani
+node	13004394385	https://www.gruppopam.it/
+node	13005935677	https://antoniopizza.it/
+node	13007151722	https://www.unicatt.it/corsi/triennale/infermieristica-camillo.html
+node	13007352601	http://www.ginnasticaeur.it
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7626,7 +7642,7 @@ way	333902713	https://parkanddream.it/
 way	333902714	www.parkandfly.it
 way	334298311	https://www.presbyterianchurchrome.org
 way	334305167	https://www.agenziademanio.it/
-way	334386175	http://www.diaphora.altervista.org/Diaphora_Onlus/Home.html
+way	334386175	http://www.diaphora.it
 way	334507038	https://www.casasantamariaroma.it/
 way	334683751	http://www.sanpaologaeta.net/
 way	334840805	http://www.teatroferento.it/
@@ -8771,8 +8787,8 @@ way	950323855	https://abaroma.it/sede-di-campo-boario/
 way	951568341	https://www.collebuono.it/
 way	952022425	https://www.mcdonalds.it/ristorante/605
 way	952908256	https://www.superconti.eu/punti-vendita/valmontone/
-way	954542678	http://www.falegnameriaroncon.com/
-way	954542680	http://www.capitallogistica.it/
+way	954542678	https://www.falegnameriaroncon.com/
+way	954542680	https://www.capitallogistica.it/
 way	954542681	https://gdgsistemi.it
 way	954542686	https://www.comicostruzioni.it/
 way	956085896	https://www.lidl.it/
@@ -9004,6 +9020,7 @@ way	1168238299	http://www.limonaiaroma.it/
 way	1168238301	https://www.museivillatorlonia.it/it/il_museo/editoriale
 way	1169380838	https://www.enav.it
 way	1170884053	https://www.oasidipace.it/
+way	1173087193	https://roma.figliedisancamillo.it/per-il-paziente/poliambulatorio-privato/
 way	1174518478	https://www.seraphicum.org/
 way	1174518487	https://www.icmontezemolo.edu.it/luoghi?id=951
 way	1176327563	https://www.eurspa.it/it/polo-congressuale/il-palazzo-dei-congressi
@@ -9157,6 +9174,7 @@ way	1373091557	https://www.living-roma.it/
 way	1374097188	https://www.fiducia-sanbernardino.it/
 way	1376951959	https://sportingclublarosadeiventi.wordpress.com
 way	1377709605	https://www.pellicanohotels.com/en/hotels/la-posta-vecchia-hotel/
+way	1378598782	https://parcoappio.it/
 way	1381207873	http://www.goldengarden.it/
 way	1381209884	https://www.campingmarina.eu/
 way	1381321394	https://www.chaletazzurro.it/
@@ -9177,6 +9195,10 @@ way	1393559982	https://www.poderepontepietra.it/
 way	1393857113	https://www.momagarden.com
 way	1410168143	https://www.tavernadeifrati.it
 way	1414050106	http://www.casadicurapioxi.it
+way	1414379267	https://www.blucamping.it/
+way	1415492517	https://www.unirufa.it
+way	1415688972	https://www.schioppo.aq.it/
+way	1415717211	https://lumsa.it/en/home
 relation	22289	https://www.farnese-rome.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -10251,6 +10273,7 @@ node	12707550690	https://www.santissimaconcezione.org/
 node	12794836624	https://linktr.ee/franolich
 node	12909349708	https://www.buzziunicem.it/
 node	12983100472	https://lievitopizzeria.it
+node	12997965679	www.allescalette.com
 way	23840659	https://santignazio.gesuiti.it/
 way	25400176	https://www.santamariasopraminerva.it
 way	25610962	https://www.chiesadelgesu.org/
