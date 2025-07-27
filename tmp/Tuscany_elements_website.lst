@@ -81,6 +81,7 @@ node	392651501	www.villafloraargentario.com
 node	392667983	https://www.anticocasalediscansano.it/
 node	410421992	https://www.chezugo.com/
 node	411302780	https://aranciopisa.it/
+node	412745766	https://www.risparmiocasa.com/store/livorno-piazza-bartelloni-3/
 node	412745767	https://www.unicooptirreno.it/punto-vendita/livorno-cc-le-fonti-del-corallo
 node	427765480	https://www.museocivicomontepulciano.it/it/
 node	431425665	https://lescuderiepisa.it/
@@ -373,6 +374,7 @@ node	1624687438	http://laracchettamarciola.altervista.org/sito/index.html
 node	1626584439	https://www.villalagrotta.com/
 node	1626928181	www.bioagriturismoilfondaccio.it
 node	1627018854	https://www.fattoriacastellina.com/
+node	1630615127	https://www.ristorante-lagiostra.com/
 node	1650573389	https://www.hostelpisatower.it/
 node	1650777694	http://www.totti-affittacamere.eu
 node	1651069182	http://www.elbalink.it/bedandbreakfast/elba-inpoggio.htm
@@ -894,7 +896,6 @@ node	2361855295	https://www.aadfi.it/
 node	2361859382	https://www.signumfirenze.it/
 node	2361859457	https://www.ristorantemirofirenze.com/
 node	2361861181	https://rifugiodigitale.it/it/home/
-node	2361862453	http://www.multiverso.biz/
 node	2361866731	https://www.luigifusaro.com/
 node	2361867309	https://www.asilonidopaida.com/
 node	2361867933	https://www.pizzeriabiancaneve.it/isolotto
@@ -6381,7 +6382,7 @@ node	12382509092	http://www.francaferrucci.it/pisa2.asp
 node	12382958545	https://www.juice.it/negozi/siena
 node	12387226283	https://www.castelfalfi.com/it/landing/stefano-ricci-la-rocca
 node	12387226284	https://www.castelfalfi.com/it/landing/la-rocca-di-castelfalfi
-node	12387226286	https://www.castelfalfi.com/it/landing/la-storia
+node	12387226286	https://www.castelfalfi.com/it/la-storia-di-castelfalfi
 node	12394177855	https://terretruria.it
 node	12394409899	https://www.cantinalacura.it
 node	12397835495	https://www.inps.it/it/it/sedi-e-contatti/sedi/ricerca-sede/dettaglio-sedi.it.sezione-sedi.sedi-inps.420000.420000-elencoStruttureInps.html
@@ -6410,7 +6411,6 @@ node	12427680876	https://www.streetfoody.it
 node	12428349320	https://agriturismosangregorio.com/
 node	12437356768	https://www.saluscompany.it
 node	12437814253	https://rinascimentopisa.it/
-node	12439024816	https://lofo.io/
 node	12442045584	http://www.ilcrocifisso.com/
 node	12442047397	https://www.termoidraulicafrancini.it/
 node	12442047421	http://casa-prisca-nel-borgo-antico.alloggiotoscana.it/
@@ -6805,13 +6805,15 @@ node	12999144781	https://www.fideuram.it/
 node	13001466001	https://www.dsu.toscana.it/web/ardsu/-/mensa-sovigliana
 node	13001995526	https://www.tuscany-realestate.it/en
 node	13002106850	https://www.tuscany-realestate.it/en
-node	13002202842	http://www.poste.it/
+node	13002202842	https://www.poste.it/
 node	13002576564	https://www.ciaoflorence.it
 node	13002576565	https://www.montezemolostore.com
 node	13004871163	https://www.ausergrosseto.org/
 node	13008864717	ristorantecicciopennello.com
 node	13009480199	https://www.caffeninci.it/
 node	13012151892	www.doccionedisotto.eu
+node	13018160201	http://cioccolatoargento.it
+node	13026950287	https://www.cosittimpianti.it/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -6964,6 +6966,7 @@ way	83537187	https://www.comune.fi.it/pagina/programma-di-mandato-rigenerazione/
 way	83603363	http://www.piancaldoli.it/daVedere.aspx
 way	83688736	https://tuttatoscana-net.translate.goog/itinerari-2/santa-colomba-nella-montagnola-senese/?_x_tr_sl=it&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp
 way	85471974	https://www.campinglamontagnola.it/
+way	85473862	https://www.aeroclubsiena.it/
 way	89002916	https://hotelrex.it/
 way	90081257	https://www.hotelmoderno.pisa.it/
 way	91299869	http://www.fattoriajavello.it/
@@ -8325,6 +8328,7 @@ way	637192270	https://pucini.it/
 way	641707118	https://www.poggiocovili.com/
 way	643527516	https://www.istitutodeandre.edu.it/scuola-dellinfanzia-s-casciano/
 way	648234710	https://www.geal-lucca.it/
+way	648240495	https://www.albergoristorantelapietra.it/
 way	648807480	https://www.cussienascherma.it/
 way	649529768	https://www.hotelsanmarcolucca.it
 way	654332302	http://www.orlandiauto.com/chisiamo.htm
@@ -8472,8 +8476,9 @@ way	714971248	http://agriturismolascopa.it/index.html
 way	714971251	http://agriturismolascopa.it/index.html
 way	714971253	http://agriturismolascopa.it/index.html
 way	714972035	https://www.filicaja.it/
-way	714972231	https://www.castelfalfi.com/it/landing/la-storia
-way	714972232	https://www.castelfalfi.com/it/landing/la-storia
+way	714972199	https://www.castelfalfi.com/it/la-storia-di-castelfalfi
+way	714972231	https://www.castelfalfi.com/it/la-storia-di-castelfalfi
+way	714972232	https://www.castelfalfi.com/it/la-storia-di-castelfalfi
 way	714972532	https://www.montaione.net/wp-content/uploads/2013/03/I-luoghi-della-Fede-a-Montaione.pdf
 way	714973733	http://www.icipressimontaione.it
 way	714974147	http://www.sanvivaldointoscana.com/it/le-cappelle/l-ascensione.html
@@ -9224,7 +9229,7 @@ way	1336067579	https://www.comune.radicondoli.si.it/home/vivere/territorio/scopr
 way	1337721044	https://it.wikipedia.org/wiki/Pratovalle
 way	1337721045	https://it.wikipedia.org/wiki/Pratovalle
 way	1338629744	https://it.wikipedia.org/wiki/Pratovalle
-way	1339137507	https://www.castelfalfi.com/it/landing/la-storia
+way	1339137507	https://www.castelfalfi.com/it/la-storia-di-castelfalfi
 way	1339448019	https://caivaldarnosuperiore.it/oliveto-e-la-chiesetta-di-san-sebastiano/
 way	1340347815	https://www.avogadro-vinci.edu.it/
 way	1340893087	https://www.lasiegia.it
@@ -9315,6 +9320,7 @@ way	1396075166	https://www.bagnolalanterna.it
 way	1396075167	https://www.lapinetinavada.it/
 way	1411620937	https://www.righettipiante.com/
 way	1411668149	https://www.linguisticolambruschini.it/index.php/homepage
+way	1416627838	https://lofo.io/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42520	https://www.comunefiv.it/
 relation	42525	https://www.castelfrancopiandisco.it/
@@ -10475,7 +10481,6 @@ node	391825344	http://www.globomoda.com
 node	391925261	http://questure.poliziadistato.it/Livorno
 node	410148477	http://www.quattro-ruote.it/
 node	412745761	http://www.maurys.it/
-node	412745766	http://www.risparmiocasa.com/
 node	427765480	https://www.museocivicomontepulciano.it/it/contatti
 node	465618861	https://www.conad.it/ricerca-negozi/conad-self-24h-via-manganaro-angolo-via-tesei-snc-57037-portoferraio--050537
 node	648340790	http://www.rondiro.it/
@@ -11337,6 +11342,7 @@ node	12899180031	https://routeculturaleapuana.it/adelaide_johnson.html
 node	12899287065	https://routeculturaleapuana.it/john_flaxman_william_blake.html
 node	12899287066	https://routeculturaleapuana.it/frances_elizabeth_willard.html
 node	12899287067	https://routeculturaleapuana.it/fratelli_piccirilli.html
+node	13027199595	https://www.lungomareadarte.com/nove
 way	23485067	http://www.comune.prato.it/storiastrade/?stato=scheda&id=82283
 way	23757921	http://www.comune.prato.it/storiastrade/?stato=scheda&id=42068
 way	25146571	http://www.comune.prato.it/storiastrade/?stato=scheda&id=11695
