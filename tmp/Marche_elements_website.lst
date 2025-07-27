@@ -130,6 +130,8 @@ node	788437075	https://www.chiccoteca.it/
 node	795814766	https://www.comune.pesaro.pu.it/cultura/da-vedere/luoghi-da-vedere/altro-da-vedere/altri-luoghi/sfera-grande/
 node	801994426	https://www.agriturismolesorgentiascolipiceno.it/
 node	823686591	http://www.motelcarnevali.com
+node	845275811	https://www.botanicgroup.it/botanic-pesaro/
+node	845275833	https://www.lindberghhotels.com/it/charlie-in-pesaro/index
 node	845275839	https://www.hotel-caravelle.net/
 node	847030599	https://www.locandacircoloippico.it/
 node	869946291	https://www.ceraunavolta-ps.com/
@@ -976,6 +978,7 @@ node	7638765328	https://www.conad.it/ricerca-negozi/conad-superstore-via-del-nov
 node	7653760391	https://www.snb.it
 node	7666590088	https://www.visualteamsas.com
 node	7684087374	http://www.petshopfanopassioneanimali.it/
+node	7808302366	https://www.aquilegiabeb.com/
 node	7818268221	https://www.locandaimperfetta.it/
 node	7821117702	https://www.quattromura.com/
 node	7832895415	https://store.calliope.style/en/italy/marche/civitanova-marche/calliope-13
@@ -1091,6 +1094,7 @@ node	8926943117	https://www.linfinitoatavola.com/
 node	8929257165	https://calalapasta.dandreagiovanni.it/
 node	8931156977	https://www.calzatureginevra.it/
 node	8934005748	https://www.futurmecurbania.com/
+node	8947413159	https://www.originalgustopizza.com/
 node	8947501023	https://www.computernewfile.com/
 node	8947501024	http://www.winkstore.it/
 node	8980990149	https://www.vagninielettrodomestici.it/
@@ -1402,7 +1406,6 @@ node	11077709880	http://www.rteshop.com/
 node	11104188742	https://www.vivaionicolini.it
 node	11104489001	https://coccoverde.it/
 node	11107871438	https://www.xhosaa.it
-node	11108264006	https://www.agrifilippetticlaudio.it/
 node	11114291525	https://www.colverde.it/
 node	11115235654	https://www.attosecondoalteatro.it/
 node	11116557808	https://www.circolovelicotorrette.it/
@@ -2095,9 +2098,18 @@ node	12981084980	https://icmontemarciano-montesanvito.edu.it/struttura/infanzia-
 node	12982747944	https://www.colleolivi.it
 node	12988649562	https://www.chaletpeter.it/
 node	12992036075	https://www.ristoranteduomila.com/
-node	12999171402	http://www.fattoriamancini.com/
+node	12999171402	https://www.fattoriamancini.com/
 node	13005104375	https://guadourbino.com/
 node	13007208947	http://www.pratodeigrilli.it/
+node	13017839338	https://farmaciapioraco.it/
+node	13021234304	http://www.colledelgiglio.com/
+node	13025686957	https://www.roof281.com/
+node	13026509252	https://comune.montecerignone.pu.it/luoghi/2864899/municipio-monte-cerignone
+node	13026515144	https://comune.peglio.pu.it/luoghi/2525409/municipio-peglio
+node	13026556580	https://comune.lunano.pu.it/luoghi/2094005/municipio-lunano
+node	13026558125	http://www.comune.pietrarubbia.pu.it/hh/index.php
+node	13026567848	https://comune.isola-del-piano.ps.it/luoghi/2871535/muncipio-isola-piano
+node	13026593937	https://comune.petriano.pu.it/luoghi/2590315/municipio-petriano
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2374,6 +2386,7 @@ way	341843655	http://www.cocopaolo.it/
 way	341843681	http://www.carrozzeriapieragostini.it/
 way	341843794	https://www.sifatechnology.com/
 way	341843871	https://www.fioricostruzioni.com/
+way	343036794	www.colledellaluna.com
 way	347568381	http://www.jcube.org/
 way	348356911	https://www.crmspa.it/
 way	348732597	https://liceoscientificofabriano.edu.it/
@@ -2882,7 +2895,8 @@ way	1388876860	https://www.colleindaco.it
 way	1393266841	https://ilcolledelsolematelica.it/index.html
 way	1410363359	https://www.villaserraalta.it/
 way	1412426518	https://www.aviosuperficiedelfermano.it/
-way	1416065957	https://fondazionemeucciaseveri.com
+way	1416753249	https://www.beweb.chiesacattolica.it/houses/house/50161/Cagli+%28PU%29+%7C+Chiesa+di+San+Luca
+way	1417154479	https://www.agrifilippetticlaudio.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1512917	https://www.iismerlonimiliani.it/
@@ -3241,6 +3255,7 @@ way	172284112	http://www.vecchiaquercia.it/
 way	177972002	https://www.ristorantechiaroscuro.it/
 way	196204922	http://www.centromiralfiore.it/
 way	219553036	http://www.maceromaceratese.it/
+way	233907726	https://campingmetauro.it/
 way	244078703	http://www.cavirginia.it
 way	276514642	http://cngeisenigallia.altervista.org/
 way	281623176	https://www.valledelmetaurocountryhouse.it/
@@ -3253,6 +3268,7 @@ way	308902876	http://www.agriturismolulivo.com
 way	309394533	http://www.dellacesola.it/
 way	310344457	https://www.lidl.it/
 way	311171026	http://www.beachstadium.net/
+way	326834060	https://www.campingtorrette.com/
 way	348307720	https://www.paradise-monsano.com/
 way	379629433	https://www.eurospin.it/punti-vendita/jesi-493890/
 way	397272665	http://www.padalino.gov.it
