@@ -1020,7 +1020,6 @@ node	4364718369	http://www.isresardegna.it
 node	4364974410	http://www.isresardegna.it
 node	4366976717	http://www.isresardegna.it
 node	4377348314	www.arabax.it/
-node	4377349091	https://www.blaumonteturri.com/en/
 node	4377492376	https://www.museodellemaschere.it/mater/
 node	4377587800	https://www.facebook.com/pages/category/Pizza-Place/Kopof%C3%A0-paninoteca-pizzeria-104435124243367/
 node	4388341836	https://www.museonivola.it/
@@ -1519,7 +1518,6 @@ node	9283240229	https://www.studioblegal.it/
 node	9334653700	https://studiolegaleballai.it/
 node	9346811920	https://cineteatro-orianna-fallaci.business.site/
 node	9349573158	https://www.bizikizi.it
-node	9366084007	https://www.blaucalamoresca.com/en/
 node	9480852004	http://lavanderiaolbia.com/
 node	9495568833	https://www.mancaspazio.com
 node	9519522875	https://comune.santadi.ci.it
@@ -1905,6 +1903,9 @@ node	12994457123	https://www.comune.barisardo.og.it/novita/servizio-guardia-medi
 node	12995764746	https://vitarent.it
 node	13006093990	https://www.pasticceriasainthonore.com/
 node	13011436267	https://manahub.it/
+node	13013917478	https://www.ilgiardinogallura.com/
+node	13016240683	https://www.warfree.net
+node	13016270833	http://www.essofuelfinder.com/en-gb/eeba651f51cd761550a186102a92c2a7
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2236,7 +2237,6 @@ way	278281773	https://www.comune.orgosolo.nu.it
 way	278281915	https://www.istitutocomprensivoorgosolo.edu.it
 way	278300622	https://le-vele-millennium.klepierre.it/
 way	278321371	https://www.comune.selargius.ca.it/
-way	278329602	http://www.vermentinomonti.it/it
 way	278406532	https://mabsantantioco.it/
 way	279179570	https://www.aurumhotels.it/it/villaggio_pini
 way	279186306	https://www.campingasinara.it/
@@ -2286,7 +2286,6 @@ way	280162840	https://www.hotelcapodorso.com/
 way	280164472	https://www.hotelcaladilepre.com/
 way	280164698	https://comune.palau.ss.it
 way	280164914	https://www.bblagattasultetto.it/
-way	281100917	http://www.essofuelfinder.com/en-gb/eeba651f51cd761550a186102a92c2a7
 way	281435057	https://www.tcelmas.com/home.aspx
 way	281459337	http://www.mirkoshop.com
 way	281474404	https://www.puntalizzu.com/
@@ -2598,6 +2597,7 @@ way	448935392	https://www.horsecountry.it/
 way	450659931	https://www.airbnb.de/rooms/12789449
 way	450931276	https://www.consorzioportorafael.it/
 way	451283806	https://www.mo.agroalimentaresardegna.it/
+way	454164425	http://www.vermentinomonti.it/it
 way	459279369	https://www.camping-tavolara.it/
 way	460285327	https://www.romanzesu.sardegna.it
 way	460307345	http://www.lorenzobellu.com/sito/gallerie/storia/Bortigali%20-%20Orolo/index.html
@@ -3214,6 +3214,7 @@ relation	8815990	http://www.sardegnasentieri.it/sentieri/mitza-su-suergiu-burdon
 relation	9102765	http://www.grandetraversatadelsupramonte.it/
 relation	9102766	http://www.grandetraversatadelsupramonte.it/
 relation	9102767	http://www.grandetraversatadelsupramonte.it/
+relation	10077575	http://www.sardegnasentieri.it/sentieri/
 relation	11516882	https://www.algheroparks.it/
 relation	11583449	https://ropewiki.com/Gorroppu
 relation	11583450	https://ropewiki.com/Flumineddu
