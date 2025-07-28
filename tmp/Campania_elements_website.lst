@@ -444,7 +444,6 @@ node	4020149891	https://www.mcdonalds.it/
 node	4031277414	http://www.autooplonti.com
 node	4031490502	https://www.selleriafratelliscarpa.com/
 node	4033377224	http://www.laconcordia.it/
-node	4041793141	http://www.casconeauto.com/
 node	4042697618	https://www.conad.it/ricerca-negozi/negozio.008591.html
 node	4042697619	https://www.jeanlouisdavid.it/parrucchiere/parrucchiere-pompei_s3552
 node	4043404348	https://negozi.vodafone.it/pompei/vodafone-store-la-cartiera
@@ -519,6 +518,7 @@ node	4168076600	https://gioielleriacomentale.com/
 node	4169939673	https://www.mocciapanificio.com
 node	4171990809	http://www.lacasettavacanze.it/?lang=en
 node	4171990845	https://www.sorbillo.it/antica-pizza-fritta-zia-esterina-sorbillo
+node	4172077389	https://www.thespacecinema.it/cinema/napoli/al-cinema
 node	4172196003	http://dftvservice.altervista.org
 node	4172604115	http://www.assistenzadomiciliareflegrea.it
 node	4172604119	http://www.streetpoint.it
@@ -2725,9 +2725,19 @@ node	12980281058	https://www.instagram.com/incantobnb/
 node	12981672388	https://laborgata.eatbu.com/
 node	12981962355	https://kayaknapoli.com/
 node	12994949785	https://www.comune.anacapri.na.it/it/vivere/746361?category_id=387110
-node	12997418502	http://www.ristorantemuseocaruso.com
+node	12997418502	https://www.ristorantemuseocaruso.com/
 node	13001126023	https://comune.candida.av.it/vivere-il-comune/luoghi/municipio-di/
 node	13001265064	https://www.oleandriresort.com/
+node	13015465443	http://www.geneticspa.com/
+node	13015465482	https://www.tenutaoliva.it/
+node	13015512301	https://agriturismosalella.com/
+node	13016003143	https://ambientecasa.tel/
+node	13016895780	www.angelicacapri.com
+node	13017013488	https://ambientecasa.tel
+node	13018185225	https://www.risvegliculturali.it/
+node	13018776194	https://ambientecasa.tel
+node	13019259005	https://www.comunedicellole.it/it/vivere/752877?category_id=417780
+node	13027201947	https://alimentaricerrone.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
@@ -2918,6 +2928,8 @@ way	232100721	http://www.mcarthurglen.com/it/la-reggia-designer-outlet/it/
 way	232658798	https://www.globomoda.com/
 way	235552609	http://www.villacasale.org
 way	237075566	https://osservatorio.astrocampania.it/
+way	237142618	https://www.comune.salento.sa.it/
+way	237142620	https://www.chiesamia.it/santa-barbara-di-salento
 way	237532916	https://www.cartotrekking.com/
 way	237581413	https://www.convienexxl.it/
 way	238993371	https://www.lidofaro.com/
@@ -3138,7 +3150,6 @@ way	400565328	https://www.teatroaugusteo.it/
 way	400827801	http://www.pompeiruinshotel.com/
 way	400938879	https://www.caimontebulgheria.it/
 way	401433943	http://www.sprintitalia.com/
-way	401458506	http://www.farmaciacentralepalomba.it/
 way	401458525	https://www.betontorre.it/
 way	401463896	http://www.ferroplastica.it
 way	402413290	http://www.liceomorantenapoli.gov.it/
@@ -3186,6 +3197,7 @@ way	414704027	http://www.agriturismoiovino.it
 way	414788704	https://www.villalfonso.it/
 way	414817336	http://www.ipsarpetronio.it/
 way	414841104	https://www.lanapolisotterranea.it/
+way	414846192	https://www.liceocaronapoli.it/
 way	415753759	http://www.paintballnolimits.com
 way	415817947	https://www.greenpark-hotel.it/
 way	416149156	http://www.amemi.info
@@ -3196,7 +3208,6 @@ way	416212922	https://www.baiamarinella.it/
 way	416446261	https://www.sacrocuoreaigerolomini.it/
 way	416456806	https://www.miramareresidence.com/
 way	416456829	http://www.solexpress.it
-way	422962845	https://www.liceocaronapoli.it/
 way	423182314	www.fieredivallo.it
 way	423466520	https://www.hotelvillacimbrone.com/
 way	424024791	https://www.capvin.com
@@ -3223,6 +3234,7 @@ way	441929027	https://www.palazzovialdo.it/
 way	441984067	https://www.scuolapolisciba.unina2.it/
 way	442428511	https://www.reneeblanche.it/
 way	442709636	https://www.lloydsbaiahotel.it/
+way	442935839	https://www.ceramicasolimene.it/ita/default.asp
 way	444804343	http://www.ristorantevillafiore.it
 way	444804359	https://www.lavelaclub.com/
 way	444804362	https://www.clubcypraea.it/
@@ -3373,6 +3385,8 @@ way	667117271	https://parconazionaledelvesuvio.it/pnv/visitailparco/sentiero_lav
 way	667117360	https://parconazionaledelvesuvio.it/pnv/visitailparco/sentiero_lava.asp
 way	671123940	https://www.ilreticolobebsalerno.it/
 way	671759035	https://www.sangiovannieruggi.it/
+way	671936998	https://www.abc.napoli.it/
+way	671937235	https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/3714
 way	671938763	https://www.popburger.it
 way	672183803	https://embarcaderosalerno.it/
 way	672365757	https://www.salernomobilita.it/index.php/servizi/aree-camper/
@@ -3607,6 +3621,7 @@ way	963910208	www.bikesharingnapoli.it
 way	964219301	https://www.costadelmito.it/
 way	964343034	https://www.cantinasolopaca.it
 way	966294714	https://www.circolodidatticogrumonevano.edu.it/
+way	969116557	http://www.vivaicardone.it/
 way	969817572	https://www.medearesort.it/
 way	970179485	https://www.olimpiasport.it/
 way	973083909	http://www.isniglio.it/it/
@@ -3636,6 +3651,7 @@ way	988958694	https://www.guardiacostiera.gov.it/organizzazione/Pages/ufficio-lo
 way	989035756	http://www.gotishooting.it
 way	989704237	https://www.villahirta.it
 way	990504069	https://www.mmmac.it/
+way	991584677	https://www.florealnapoli.com/
 way	998008722	www.agriturismolavocedelmare.com
 way	1000499449	https://www.cnic.navy.mil/Naples
 way	1002089530	https://coccoarchitettura.com/urban-garden-jhonny-cirillo/
@@ -3916,6 +3932,8 @@ way	1393228476	https://www.icmercogliano.edu.it/
 way	1412685585	https://www.opazzposillipo.it/
 way	1414832469	https://www.comune.salzairpina.av.it/vivere_il_comune/luoghi/luogo_1.html
 way	1416064529	https://www.lloydsbaiahotel.it/spiaggia/
+way	1416515964	https://www.cilentonelmondo.it/peppino/
+way	1416515977	https://www.agriturismosanbasilio.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
 relation	40837	https://santandreaconza.altervista.org/
