@@ -184,7 +184,6 @@ node	414952756	https://www.lamaisondugourmet.it/
 node	415304992	https://bibest.it/it/biblioteche/elenco-delle-biblioteche/san-giorgio-di-piano
 node	415315512	https://www.prink.it/imola-0052
 node	415330551	https://www.copyserviceimola.it/
-node	415330558	https://www.bonelliburger.it/
 node	415331134	https://www.unicredit.it/it/contatti-e-agenzie/lista-agenzie/bo/imola/imola-appia-ag03201.html
 node	415331150	http://www.farmappia.it/
 node	415331158	https://www.phoneleader.it/punti-vendita/wind-imola.html
@@ -906,11 +905,11 @@ node	2494070090	http://www.montedelre.it/
 node	2496366696	https://www.setaweb.it/
 node	2499498944	https://www.messorimusic.it/
 node	2500882219	https://www.ristorantelacolomba.com/
-node	2502758808	https://www.centroilcastello.it/
 node	2505732335	https://www.setaweb.it/
 node	2505732337	https://www.setaweb.it/
 node	2505963021	https://lovastreetfood.it/
 node	2511265422	http://bo.cts.istruzioneer.it/
+node	2514198091	https://www.mdspa.it/punti-vendita/Emilia-Romagna/FE-Ferrara/5-Ferrara/
 node	2515184407	https://www.imaginetraduzioni.it/
 node	2519572047	https://www.setaweb.it/
 node	2519572048	https://www.setaweb.it/
@@ -1593,7 +1592,6 @@ node	3873287061	https://www.dispensaemilia.it/
 node	3880038058	https://fatarobalugo.com/
 node	3886917239	lacasadicristian.com
 node	3891284998	https://www.agriturismodelpapa.it/
-node	3909471988	http://www.lapiadadisangio.it/
 node	3909471989	https://www.osteriadelmirasole.it/
 node	3910878044	https://www.fotografica-studio.it/
 node	3910926203	https://www.fondazionemanodori.it/
@@ -2239,7 +2237,6 @@ node	4712450809	https://www.ilmannarino.it/ristoranti/modena-via-del-taglio-59/
 node	4712450837	https://www.berberepizza.it/
 node	4712450854	https://www.ristorantealgrottino.com/
 node	4712450855	https://www.taglioviataglio.com/
-node	4712450860	https://www.barbaraferrarishoes.it/
 node	4712451122	https://www.ristorantepizzeriaocagolosa.com/
 node	4712451823	https://www.fotodotti.it/
 node	4712452232	https://www.lasvoltamodena.it/
@@ -4381,7 +4378,6 @@ node	8757705819	http://www.ristorantenuovaestense.it
 node	8758601423	https://www.caibo.it/
 node	8784373692	https://www.aristonhotelimperial.it/it/
 node	8784380152	https://bagnotrattoriabologna.com/
-node	8790305138	https://www.ilquartino.it/
 node	8790357566	https://www.casemori.it/
 node	8813583317	https://www.cantinettadellacorte.com/
 node	8814550409	http://www.fhstudio.it/FHStudio/Home.html
@@ -6209,6 +6205,21 @@ node	13008815205	https://amicaassistenza.com/case-di-riposo/villa-anna-maria/
 node	13008815744	https://www.retagomme.it/
 node	13013540172	https://www.residenceselice42.it/
 node	13015123615	https://www.facebook.com/cuccumaportoverdeofficial/
+node	13017654882	https://www.hotelcarpi.it/
+node	13017745972	https://www.edielettronica.it/
+node	13018655197	https://www.bencotta.it/
+node	13020664172	astrofaenza.it
+node	13020667684	astrofaenza.it
+node	13020679808	astrofaenza.it
+node	13020687438	astrofaenza.it
+node	13020687439	astrofaenza.it
+node	13020901370	astrofaenza.it
+node	13020906815	astrofaenza.it
+node	13020955752	astrofaenza.it
+node	13020991044	astrofaenza.it
+node	13020994297	astrofaenza.it
+node	13021059147	astrofaenza.it
+node	13024297917	https://pasticceriazuccheroavelo.it
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	https://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -6354,6 +6365,7 @@ way	87678012	https://www.campingflorenz.com/
 way	87678093	https://www.campingspiaggiamare.com
 way	89279270	https://osteria-gastone.eatbu.com
 way	89554524	http://www.riminiparking.it/
+way	90101288	https://www.camperparkrimini.it/
 way	95983395	http://www.tsnforli.it/
 way	97634492	https://www.campinglerossane.com/
 way	98546738	https://www.unibo.it/it/campus-forli
@@ -6583,6 +6595,7 @@ way	153231437	http://www.agriturlacrocetta.it/
 way	153233783	http://www.smassuntapadulle.it/
 way	153237375	https://carburanti.esso.it/it-it/find-station/esso-sanpietroincasale-100106691
 way	153237431	https://www.comune.san-pietro-in-casale.bo.it/
+way	153243904	https://www.mapastore.com/
 way	153249531	https://www.ristorante800.it/
 way	153250044	https://www.coopreno.it/negozio/coop-reno-argelato/
 way	153851124	https://www.museodelvapore.it
@@ -6690,6 +6703,7 @@ way	162978734	https://www.circolonauticocervia.it/
 way	162978981	https://www.hotelmonreve.it
 way	163831716	https://www.fondazionesport.it/ListaImpianti.jsp?idI=50
 way	164328420	https://www.coopreno.it/negozio/santagostino/
+way	164330049	https://mutti-parma.com/
 way	164580643	https://www.aziendagricolareggiana.com/
 way	164673177	http://www.castellodellecarpinete.it
 way	164689783	https://www.hotelromasestola.it/
@@ -6731,6 +6745,7 @@ way	166884235	https://www.dallaterraallaluna.org/
 way	166990318	https://www.parcodeicastagni.it/
 way	167002506	https://www.criferrara.it/
 way	167012063	https://www.hotel-bb.com/it/hotel/ferrara.htm
+way	167012611	https://www.centroilcastello.it/
 way	167014567	http://www.oratorioannunziata.it/
 way	167019881	http://www.acerorossobb.com
 way	167026786	https://www.ilpa-amp.it/
@@ -6893,9 +6908,9 @@ way	179727197	https://www.museocolibri.it/
 way	179730815	https://scn.caiparma.it/schede/mulino-di-pietta-tizzano-val-parma-loc-pietta/
 way	179764834	https://scn.caiparma.it/schede/mulino-di-groppo-tizzano-val-parma/
 way	179769051	https://www.poderelabertazza.it/
-way	179866360	https://www.parks.it/rif/bivacchi.valparma/
+way	179866360	https://www.parchicloud.it/bivacchi-valparma/
 way	179866366	https://www.rifugiolagdei.it/
-way	179870308	https://www.parks.it/rif/bivacco.lago.scuro/
+way	179870308	https://www.parchicloud.it/bivacco-lago-scuro/
 way	179873867	http://www.albergodarita.it/
 way	180194341	https://scn.caiparma.it/schede/mulino-molinetto-felino-loc-poggio-s-ilario/
 way	180196634	https://scn.caiparma.it/schede/mulino-di-nirone-palanzano-loc-nirone/
@@ -7171,7 +7186,7 @@ way	223746760	https://www.jarama.it/
 way	223746894	https://atilius.com/
 way	223746983	https://www.hdelfino.com/
 way	223747558	https://www.hosteljammin.com/
-way	223748050	www.paradise.rn.it
+way	223748050	https://www.paradise.rn.it/
 way	223748186	https://www.hotelmocambo.com/
 way	223748228	https://www.centrodellaceramica.it/
 way	223749297	https://www.hotelfedora.it
@@ -7240,6 +7255,7 @@ way	223828657	http://labigiola.it/
 way	223829083	https://www.bikeparkrimini.it/
 way	223829416	https://www.sunflowerhostel.com/
 way	223829543	https://www.residencehotelfellini.it/
+way	223831028	https://www.conad.it/ricerca-negozi/conad-city-via-della-fiera-2-a-47923-rimini--008144
 way	223831700	https://www.delconca.com/it/
 way	223831730	https://www.startromagna.it/
 way	223832309	https://www.birro.it
@@ -7257,6 +7273,7 @@ way	223838013	https://www.fratellianelli.com/
 way	223841162	https://www.anthearimini.it/
 way	223841484	https://www.houseofrock.it/
 way	223842398	https://www.rapidcar.biz/
+way	223842425	https://www.ilquartino.it/
 way	223842876	https://www.lebefane.it/
 way	223850427	https://baldoriarimini.it/
 way	223853363	https://ristorantelagreppia.com/
@@ -7648,6 +7665,7 @@ way	575251989	https://www.itivinci.mo.it/
 way	575262569	http://www.comprensivocarpicentro.gov.it/tag/alberto-pio
 way	582253403	https://scuolasbenedetto.wixsite.com/infanzia
 way	582343570	https://www.tavpopolesineparmense.it
+way	582704256	https://www.gruppopluricart.it/
 way	586827321	http://www.fermi-mo.gov.it/
 way	586840423	http://www.istitutoalighieri.it/
 way	589914287	https://www.atfi.it/
@@ -7923,7 +7941,6 @@ way	1040884754	https://www.iiscopernico.edu.it/
 way	1046163493	https://lartrovbartrattoria.business.site/
 way	1047697258	https://abbaziasanbenedettoinalpe.it/
 way	1052209375	https://www.ippodromoghirlandina.it/
-way	1052460811	https://pasticceriazuccheroavelo.it
 way	1056406525	https://museo121.wixsite.com/ilmuseodiocesi/giardino-storico
 way	1057426632	https://www.vivaioiduericcioliverdi.com/
 way	1057718470	http://www.comune.bobbio.pc.it
@@ -7990,7 +8007,6 @@ way	1145219759	https://www.lafenicerimini.it/
 way	1146126117	https://corteghiara.it
 way	1147358836	https://www.areacampercesenatico.com/
 way	1147412119	https://unistandbologna.wordpress.com/
-way	1147428256	https://www.camperparkrimini.it/
 way	1147489090	https://www.alberghieromalatestarimini.edu.it/
 way	1147669185	https://www.ledunerecording.com/
 way	1147951948	https://www.istitutocomprensivofermirimini.edu.it/index.php/istitutomain
@@ -8260,6 +8276,8 @@ way	1412903329	https://www.canilecomacchio.it/
 way	1414958308	https://www.ausl.imola.bo.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/11110
 way	1415130677	https://parcobacchelli.acquatimessd.it/
 way	1415355505	https://www.ynap.com/
+way	1416377840	https://nuovamapa.com/
+way	1416929206	https://agugiarofigna.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42855	http://www.comunecamugnano.gov.it/
 relation	42901	https://www.comune.casteldicasio.bo.it/
@@ -9530,6 +9548,7 @@ relation	19343304	https://www.caiparma.it/
 relation	19350958	https://www.museociviltacontadina.bo.it/
 relation	19360838	https://www.carboni.com/
 relation	19371002	https://www.caiparma.it/
+relation	19397269	https://www.caiparma.it/
 node	441918990	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/427-fidenza.html
 node	693373134	https://amerigo1934.it
 node	797204601	http://www.poliambulatoriolasalute.it/
@@ -9751,10 +9770,14 @@ way	223774647	https://www.foschihotels.it/splendid/
 way	223775318	http://www.hotelfoschi.com/
 way	223775322	https://www.augustahotel.eu/
 way	223792779	http://www.centroimalatesta.it
+way	223827903	https://www.hoteldusoleil.it
+way	223832204	https://www.diplomatpalace.it
 way	223832695	https://fsspx.it/it/priorato-madonna-di-loreto-rimini
 way	423697503	http://www.pistacattolica.it
 way	429302513	https://www.decathlon.it/
+way	469225680	https://www.santarcangelodiromagna.info/santarcamper-area-sosta-camper/
 way	730895836	http://www.aviosuperficiesantarcangelo.it
+way	742619947	http://www.riminiparking.it/
 way	917582861	https://www.comet.it/negozi/emilia-romagna/modena/comet-mirandola
 way	968125372	https://monacomima.wixsite.com/my-site/copia-di-hotel-monaco
 way	1144912516	https://www.mcdonalds.it/
