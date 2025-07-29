@@ -88,7 +88,6 @@ node	526804124	https://www.turismofvg.it/
 node	527248718	https://www.hotelfranz.it/
 node	527331566	https://www.lottantaventi.it/
 node	528045589	https://www.hotelmiramaretrieste.it/
-node	528045600	http://www.pizzeriaraffaele.it/
 node	528569783	https://www.farmaciapatuna.it/
 node	528570857	www.luccioleperlanterne.com
 node	528573361	https://www.birreriabunker.it/
@@ -862,7 +861,7 @@ node	3633923273	https://www.rsaigea.it/
 node	3633924855	https://www.osmize.com/contovello/stoka-erika-elviana
 node	3633925993	https://www.biblio.units.it/M1
 node	3633926391	http://www.retecivica.trieste.it/triestecultura/biblioteche/progetto/bcms/biblioteca.htm
-node	3633927910	"www,forvmboutiquehotel.it"
+node	3633927910	https://www.forvmboutiquehotel.it
 node	3633928563	http://www.opicinaonoranzefunebri.it/
 node	3633929240	https://osmizacacovich.business.site/
 node	3633929266	https://zssdi.it/
@@ -911,7 +910,6 @@ node	3638953927	https://osteriasolder.it/
 node	3644127017	https://www.comune.foglianoredipuglia.go.it/
 node	3645133958	https://www.devetak.com/
 node	3649044521	https://www.rosticceriaalgallo.it/
-node	3650366468	https://www.instagram.com/giulibarporpetto
 node	3652655741	https://consulenze-telefonia-aziendale.metro.biz/;https://www.telefonia.business/
 node	3652672433	https://www.campagnamica.it/
 node	3652739203	https://www.bbdaleo.it
@@ -1085,6 +1083,7 @@ node	3792392850	https://modic.digital/
 node	3792397805	https://www.sansimone.it/
 node	3792606580	http://www.mod-o.net/
 node	3794244105	https://www.bbselection.it/cerca-il-b-b/b-b-accessibile/60-b-b-al-ponte.html
+node	3797969540	https://www.frauauto.it
 node	3797969707	https://www.giessescampoli.com/
 node	3799023977	https://www.pizzeriaalpasseggio.it/
 node	3799024718	https://www.bortolotti.org
@@ -2360,7 +2359,7 @@ node	10877898429	https://osteriadegiovanni.eatbu.com/
 node	10880258436	https://www.bombolegasgiugovaz.com
 node	10916720279	https://trieste411.it
 node	10922204759	www.casaprogramma.com
-node	10922205454	www.autoscuolamambrini.it
+node	10922205454	http://www.autoscuolamambrini.it
 node	10926377430	https://www.comune.dogna.ud.it/it/novita-69046/notizie-69047/nuovo-orario-di-apertura-negozio-polifunzionale-114891
 node	10961069533	https://www.carniamusei.org/
 node	10963576839	https://www.webfit.it/
@@ -2872,6 +2871,7 @@ node	12803767802	https://ri-shopping.it/
 node	12806019316	https://www.contedattimismaniago.it/
 node	12812076043	https://autoscuolaranieri.it/
 node	12814434030	https://nl.airbnb.com/rooms/1125299440455924909?_set_bev_on_new_domain=1747474468_EANWM1OGVjMzhjMD
+node	12835219210	https://www.barazzoni.it/
 node	12836898684	https://www.bed-and-breakfast.it/de/friaul-julisch-venetien/bb-velocipede-cervignano-del-friuli/55535
 node	12848508367	https://trattoriadinapoli.it/
 node	12850338662	https://www.studioeleganceessentials.com/
@@ -2895,6 +2895,11 @@ Negozi di Trieste"
 node	12994531501	https://www.doctolib.it/medico-di-medicina-generale/udine/federico-de-liva
 node	12998219601	https://dottoressamarcolongolorenza.it/chi-sono/
 node	13011387396	https://museograndeguerra.regione.fvg.it/
+node	13019413496	https://www.tesla.com/en_eu/findus?bounds=45.84730955257605%2C13.507538874170644%2C45.834438840648964%2C13.471489985010487&location=29915
+node	13023095702	http://www.imobilia.re
+node	13028052514	https://www.inail.it/portale/it.html
+node	13028601101	https://madmonkeys.it/
+node	13032012437	https://www.agenziaentrateriscossione.gov.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -4033,6 +4038,7 @@ way	1322695626	http://www.riservavalrosandra-glinscica.it/
 way	1326162053	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/5076-trieste---poggi-paese.html
 way	1327821937	https://www.prontoauto.it/
 way	1329740235	https://www.hotelinsylvis.com/
+way	1334479842	https://www.protezionecivile.fvg.it/it/comune/trieste
 way	1339284880	https://win.zenobionline.com/ITINERARI/itinerario%20nad%20logem/nad%20logem.html
 way	1339284881	https://win.zenobionline.com/ITINERARI/itinerario%20nad%20logem/nad%20logem.html
 way	1343300110	https://ycadriaco.it/
@@ -4317,6 +4323,7 @@ relation	159960	http://www.icpagnacco.gov.it/primaria-moruzzo/
 relation	160018	https://www.cro.it/
 relation	160061	https://www.termearta.org/
 relation	160170	https://beniculturali.comune.trieste.it/architettura/?s_id=366308
+relation	160319	https://ufficipostali.poste.it/trieste/piazza-vittorio-veneto-1/?STZ=GMB
 relation	160345	https://www.hilton.com/en/hotels/trsdtdi-doubletree-trieste/
 relation	160354	http://www.residenceeuropa.com/
 relation	160367	https://www.prefettura.it/trieste/
