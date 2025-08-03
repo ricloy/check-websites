@@ -29,7 +29,6 @@ node	518561507	http://www.agriturismoivaleriani.com/
 node	519077964	https://www.sibillagolf.it/
 node	519095542	http://www.agriturismolaselva.eu
 node	522952621	http://www.hotelsanclaudio.it
-node	535088038	https://necrologie.repubblica.it/chiese/provincia-3-ancona/citta-1158-camerata-picena/7446-chiesa-della-nativita-della-beata-vergine-maria
 node	558802107	https://questure.poliziadistato.it/Macerata
 node	559337757	http://www.tuttiteatri-mc.net/?page_id=26
 node	560582053	https://www.albergoarena.com/
@@ -178,7 +177,6 @@ node	1259956901	https://www.frescocoalraponi.it/
 node	1259956932	https://www.gocoppola-ancona.it/
 node	1260345426	https://sessanta126.it
 node	1260345472	https://www.conad.it/ricerca-negozi/negozio.009862.html
-node	1276195887	https://www.facileristrutturare.it/sedi/ancona/
 node	1298222235	https://www.lagirandola.eu/
 node	1305370938	https://www.pasticceriefranco.it
 node	1305370984	https://www.ivoryhair.it/
@@ -803,7 +801,6 @@ node	5661616522	https://littlefreelibrary.org/
 node	5661903866	https://www.coal.it/archives/punti-vendita/centro-commerciale-sampaolesi
 node	5661903867	https://azzurravini.it/
 node	5661904038	http://www.loscottadito.it
-node	5665557322	https://www.comune.pesaro.pu.it/
 node	5676386525	https://www.hotelgardengabicce.com
 node	5676417723	https://www.lidohotelgabicce.com/
 node	5678089830	https://www.ecomuseoficana.it/
@@ -886,6 +883,7 @@ node	6596868980	https://www.florida-fano.it/
 node	6596868982	https://www.alvecchiodoc.com/
 node	6606037703	https://www.allgold.it/
 node	6621456064	https://www.locandaannomille.it/pinseria-anno-mille
+node	6634331172	https://www.vattimobici.it/
 node	6676199664	http://www.agriturismocalterrazzano.it/
 node	6690258549	https://www.ristorantescudiero.it/
 node	6696043522	https://www.morettimotors.com/
@@ -986,7 +984,6 @@ node	7835273352	https://www.danialtri.it/
 node	7835876676	https://www.vintagecafecivitanova.com/menu/phone/index.html
 node	7853783899	https://scarpettadivenere.it/
 node	7863241034	https://www.basilicoancona.it/
-node	7882167292	https://www.oasitigre.it/it/punti-vendita.html?store=9102
 node	7885182354	http://www.bellanapolifano.it/
 node	7924846919	http://it.tezenis.com/
 node	7924851194	https://www.calzedonia.com/it/negozi/ascoli_piceno_ccle_al_battente/CC3.html
@@ -1112,6 +1109,7 @@ node	9077061653	http://www.km42runningfitness.it/
 node	9079149413	https://www.popcafecamerino.com/
 node	9079149414	https://www.dadazen.it/
 node	9089468607	https://gastronomiadelporto.it/
+node	9090542994	http://www.porta-romana.it/
 node	9091110187	https://www.istitutoaeronavale.com
 node	9091252293	https://www.fidomania.com/
 node	9091252294	https://www.fidomania.com/
@@ -1405,7 +1403,6 @@ node	11070228063	http://www.residencelacollinetta.com/
 node	11077709880	http://www.rteshop.com/
 node	11104188742	https://www.vivaionicolini.it
 node	11104489001	https://coccoverde.it/
-node	11107871438	https://www.xhosaa.it
 node	11114291525	https://www.colverde.it/
 node	11115235654	https://www.attosecondoalteatro.it/
 node	11116557808	https://www.circolovelicotorrette.it/
@@ -2102,14 +2099,18 @@ node	12999171402	https://www.fattoriamancini.com/
 node	13005104375	https://guadourbino.com/
 node	13007208947	http://www.pratodeigrilli.it/
 node	13017839338	https://farmaciapioraco.it/
-node	13021234304	http://www.colledelgiglio.com/
+node	13021234304	https://www.colledelgiglio.com/
 node	13025686957	https://www.roof281.com/
 node	13026509252	https://comune.montecerignone.pu.it/luoghi/2864899/municipio-monte-cerignone
-node	13026515144	https://comune.peglio.pu.it/luoghi/2525409/municipio-peglio
 node	13026556580	https://comune.lunano.pu.it/luoghi/2094005/municipio-lunano
 node	13026558125	http://www.comune.pietrarubbia.pu.it/hh/index.php
 node	13026567848	https://comune.isola-del-piano.ps.it/luoghi/2871535/muncipio-isola-piano
 node	13026593937	https://comune.petriano.pu.it/luoghi/2590315/municipio-petriano
+node	13027142618	https://www.gufietartufimarche.com/
+node	13030027563	https://www.conad.it/ricerca-negozi/conad-city-via-trieste-153-63087-comunanza--001828
+node	13038178501	https://www.xhosaa.it/
+node	13043479001	https://officinatrenino211.wordpress.com/
+node	13043824876	https://www.villapoggioverde.com/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2193,6 +2194,7 @@ way	127503794	http://www.hotelambro.it
 way	128734797	http://www.cuscamerinorugby.it/
 way	128738563	https://www.asdcamerinocalcio.com/
 way	128870344	http://www.tartabini.com/
+way	129416671	https://www.comune.pesaro.pu.it/
 way	132860178	http://www.mxreddevil.it/
 way	136739348	https://www.riservagoladelfurlo.it/
 way	144506070	https://www.crai-supermercati.it/punto-vendita/5194-crai-extra-osimo/
@@ -2254,7 +2256,7 @@ way	240478831	https://www.marysierra.it/
 way	241052716	http://www.abbadiafiastra.net/index.php?lang=it
 way	241704184	http://www.centroippicosanlorenzo.it/
 way	241704419	http://www.centroippicosanlorenzo.it/
-way	243190387	https://www.campingmadonnaponte.it/
+way	243190387	https://www.campingmareluna.it/
 way	243485851	https://www.lariva.net/
 way	245867864	http://www.casadicuravillaserena.com/it
 way	247057447	https://www.casadicurastellamaris.it/
@@ -2386,7 +2388,7 @@ way	341843655	http://www.cocopaolo.it/
 way	341843681	http://www.carrozzeriapieragostini.it/
 way	341843794	https://www.sifatechnology.com/
 way	341843871	https://www.fioricostruzioni.com/
-way	343036794	www.colledellaluna.com
+way	343036794	https://www.colledellaluna.com/
 way	347568381	http://www.jcube.org/
 way	348356911	https://www.crmspa.it/
 way	348732597	https://liceoscientificofabriano.edu.it/
@@ -2561,6 +2563,7 @@ way	557085858	https://www.ostellosanbenedettodeltronto.it/
 way	565736091	https://www.ritornoallanatura.bio/
 way	572168731	https://www.pompefunebribamo.it/
 way	578103733	https://www.lemarchediurbino.it/it/territorio/forti+e+fortezze/48.aspx
+way	579522320	https://www.crocegialla.net/
 way	585373756	https://www.abbaziasantamariainpotenza.it/
 way	597886366	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	597886371	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
@@ -3127,7 +3130,6 @@ node	5893162503	https://giombettilaborafo.itcportale.it/
 node	5943974942	https://www.laforesteriahotel.it/ristorante/
 node	5977965301	http://www.loretoturismo.info/
 node	6217343388	http://www.hotelcorallo-fano.it/
-node	6240708346	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/358-santagostino.html
 node	6307700314	http://www.socapmarche.com/
 node	6528185994	https://gardendemarco.it/
 node	6563221317	http://www.bagnihelios.it/
@@ -3265,6 +3267,7 @@ way	304053944	https://www.uliassi.com/
 way	306795438	http://www.casa-aurora.it
 way	307177264	http://www.lamarcadisanmichele.com
 way	308902876	http://www.agriturismolulivo.com
+way	309036893	https://www.feelsenigallia.it/dormire/aree-camper-it/
 way	309394533	http://www.dellacesola.it/
 way	310344457	https://www.lidl.it/
 way	311171026	http://www.beachstadium.net/
@@ -3317,6 +3320,7 @@ way	939093143	http://www.itcbramante.it
 way	960148809	https://www.hotel-mareblu.it/
 way	1029684442	https://www.sannicoladatolentino.org/
 way	1060551620	https://www.centrovacanzeverdemare.it/
+way	1102428976	https://www.camping.it/marche/mareverde?ref=p
 way	1119638007	https://fedrigoni.com/
 way	1126116303	https://www.coopalleanza3-0.it/
 way	1133916798	https://www.carmelitanecamerino.it/
@@ -3339,6 +3343,8 @@ way	1352297039	https://www.campingroccamare.it/it/index.php
 way	1355997692	www.loasidilulu.it
 way	1386573245	https://casatartufo.nl/it/campeggio/
 way	1387952422	https://www.campingcostaverde.it/
+way	1418599377	http://www.campingcortina.net/
+way	1419430577	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/358-santagostino.html
 relation	1085619	https://www.cappuccinimarche.org/?page_id=21673
 relation	6517698	http://www.sorellepoveredisantachiara.it/
 relation	10967104	https://www.schnell.it/
