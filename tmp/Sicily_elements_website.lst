@@ -1392,6 +1392,7 @@ node	4795456666	https://www.lesalinesiracusa.it/
 node	4799853328	https://comune.belmonte.pa.it/
 node	4814398803	https://www.poste.it
 node	4819399771	http://libertypalace.it/
+node	4821329721	https://pizza-al-top.it/
 node	4833609069	https://www.poste.it
 node	4837043087	https://www.caseperrotta.it/
 node	4840641911	http://www.lortodeisemplici.it
@@ -3608,7 +3609,7 @@ node	11652857817	https://crazypizza.com/catania/
 node	11654877845	https://cngei.it/
 node	11657182004	https://www.onoranzefunebridinicola.it/
 node	11657182005	https://www.maremontitours.it/
-node	11657308166	http://www.cupassampinci.it/
+node	11657308166	https://www.ristorantecontemporaneo.com
 node	11657344469	https://www.hotelmagaggiari.com/
 node	11660225319	https://www.techlabitalia.it/
 node	11662400597	https://www.icpartanna.edu.it/
@@ -4010,6 +4011,10 @@ node	13021148479	https://www.bbtree14siracusa.com/
 node	13026217820	https://biscarihome.it/
 node	13026217821	https://www.suiteinn.eu/
 node	13026217822	https://www.bastiosuites.it/
+node	13028037705	www.hertz.it
+node	13034360935	https://www.siciliabelladisiracusa.it/
+node	13041481274	https://pasticceriaranieri.com/
+node	13042826603	https://conviviopalermo.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4145,6 +4150,7 @@ way	53374369	http://www.visirresort.com/
 way	53454891	https://www.sitiarcheologiciditalia.it/area-archeologica-di-solunto/
 way	55366930	https://www.scuolaguzzardi.edu.it
 way	56030979	https://www.iclamelaadrano.edu.it
+way	56131141	https://bonifichesiticontaminati.mite.gov.it/sin-35/
 way	56132270	https://www.sgboscobiancavilla.edu.it/
 way	56132310	https://www.aspct.it/azienda/presidi-ospedalieri/biancavilla/
 way	56132707	https://www.icbrunobiancavilla.edu.it/
@@ -4167,7 +4173,6 @@ way	61294944	https://www.icverganiscemi.edu.it/
 way	64366761	https://www.parcoetna.it/
 way	66346071	https://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei/pagina_musei.asp?ID=53&IdSito=83
 way	70064157	https://www.policlinicorodolicosanmarco.it/g-rodolico/
-way	70077780	https://www.aeroporto.catania.it/parcheggia-in-aeroporto
 way	70077812	https://www.aeroporto.catania.it/parcheggia-in-aeroporto
 way	70077852	https://www.aeroporto.catania.it/parcheggia-in-aeroporto
 way	71167304	https://www.parcolilibeo.it/
@@ -4997,6 +5002,7 @@ way	430153049	http://www.saithotel.com/
 way	431183124	http://masseriasusafa.com
 way	435653197	https://www.comune.sciara.pa.it/
 way	436625033	https://www.icmontessoricaltagirone.edu.it/
+way	438195086	https://www.cooldreams.it/
 way	438308015	https://www.guthotel.it/
 way	439040205	https://www.icpuglisiacate.edu.it/
 way	439707825	http://www.castellanainbici.info/iscrizioni/
@@ -7036,6 +7042,7 @@ way	45499593	http://antoniodapadova.ilbello.com/
 way	45772563	http://stelladimare.gooditaly.net/
 way	46680417	http://www.ristorantedelpescatore.com
 way	54741222	http://www.fiorentino-fiat.com/
+way	56131141	https://www.snpambiente.it/snpa/arpa-sicilia/il-monitoraggio-ambientale-nel-sito-di-interesse-nazionale-sin-di-biancavilla-ct/
 way	71917785	https://villapalagonia.it/
 way	76776024	http://www.costozerolife.it/
 way	76830363	http://www.danceworks.it/
@@ -7136,6 +7143,7 @@ node	7106569918	https://www.sanvitolocaposhuttle.com
 node	7162048723	http://www.scuolasubpalermo.it
 node	9510275015	https://www.thecrag.com/climbing/italy/central-and-southern-italy/sicily/area/1221011889
 node	9810551033	https://it.sicilyrealty.com/apt-cortile-carini-sciacca
+way	56131141	https://www.researchgate.net/publication/225673663_Geo-volcanological_mineralogical_and_environmental_aspects_of_quarry_materials_related_to_pleural_neoplasm_in_the_area_of_Biancavilla_Mount_Etna_Eastern_Sicily_Italy
 way	420556066	http://www.casaquasimodo.it/
 way	459158351	http://www.prodromo-vegetazione-italia.org/scheda/rumici-astragalion-siculi/636
 way	485717699	http://www.comune.noto.sr.it/la-cultura/palazzo-nicolaci/
