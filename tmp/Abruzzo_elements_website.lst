@@ -2048,6 +2048,7 @@ node	9007727246	https://www.colledellaselva.it/it/
 node	9009535974	https://www.monacocenter.it/
 node	9010578086	https://italia.indettaglio.it/ita/abruzzo/pescara_scafa_collimampioppo.html
 node	9014964506	https://www.vitulanodrugstore.it/
+node	9019535715	https://www.histonium.net/notizie/varie/55997/taglio-del-nastro-alla-farmacia-dellincoronata
 node	9020731348	https://italia.indettaglio.it/ita/abruzzo/chieti_roccamontepiano_pomaro.html
 node	9023354282	https://www.the-river-house.com/
 node	9026216393	https://www.bicincitta.com
@@ -2169,7 +2170,6 @@ node	9663238831	https://dealers.porscheitalia.com/pescara/ita
 node	9663554523	https://mdspescara.it/
 node	9663580980	https://www.gruppofrentauto.com/sedi/gruppo-frentauto-skoda-pescara/
 node	9666885065	http://www.abruzzesesalute.it/laboratorio-analisi-biotest/
-node	9674380297	https://www.bec.energy/?lang=en
 node	9680085499	https://www.ivpc.com/gruppo/blitz-power/
 node	9683055141	https://www.pizzeriaciferni.it
 node	9685645098	https://www.bec.energy/?lang=en
@@ -2721,8 +2721,6 @@ node	10920273830	https://autoabruzzo.bmw.it/
 node	10921082378	https://www.autofficinabellafante.it/
 node	10921443892	https://blumarine-lido-osteria-sul-mare.business.site/
 node	10921969274	https://www.bec.energy/?lang=en
-node	10922133721	https://noemi-beauty-beauty-salon.business.site/
-node	10922133722	https://bongecatering.it/bonge//
 node	10922133733	https://www.progettoimmobiliare33.com/
 node	10922133739	https://www.cafelebistrot.eu/
 node	10923892238	https://www.origamistore.it/site/
@@ -3401,6 +3399,21 @@ node	13017339429	http://www.ideapaolucci.it/
 node	13017339431	https://www.emmecimmobiliare.com/
 node	13020844921	https://www.althenamedical.it/
 node	13020942414	https://www.comune.lanciano.ch.it/Novita/Comunicati/Riapre-la-Sala-Mazzini
+node	13028541861	https://www.agriturismogliolmi.it
+node	13030959293	https://www.comune.lanciano.ch.it/
+node	13031181257	https://www.museoletteradamore.it/
+node	13031924202	https://www.pizzerialanticaricetta.it
+node	13033974273	https://www.lidocavalluccio.it/
+node	13034360601	http://www.icfossacesia.gov.it
+node	13034360603	http://poste.it
+node	13034386501	http://latenuta.net
+node	13041277684	https://www.comprendoschool.it/
+node	13041345023	http://www.gdaautonoleggio.it/
+node	13041359348	https://www.oasitigre.it/it/il-mio-negozio.1123.html
+node	13041379287	https://www.immobiliareidealcasa.it/
+node	13045333454	http://chieticomitatoprovinciale.anpi.it
+node	13045344522	https://www.facebook.com/anpipescara
+node	13045344877	https://www.facebook.com/ANPI-LAquila-489894111050188
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3571,7 +3584,6 @@ way	165548537	http://www.parrocchiasantagostino.net/
 way	165575777	https://bricomio.it
 way	166095545	https://villadiega.it
 way	167435169	http://www.liberpri.com
-way	170189899	https://www.gabriellispa.it/it/insegne/tigre.html
 way	171014287	https://www.asl.pe.it/DettaglioSede.jsp?id=9
 way	171942884	https://www.centoquindici.com/
 way	172292407	http://www.liceomarconipescara.gov.it/
@@ -3921,9 +3933,6 @@ way	677489592	https://sanrocco.parrocchiasambuceto.it/site/
 way	677995572	http://www.bottegaculinaria.com/
 way	678147712	https://www.facebook.com/campoditiroaurodalba/
 way	678185321	https://www.facebook.com/laghidelsole/
-way	678185328	http://www.vinicasalbordino.com/index.php/en/
-way	678185331	http://www.vinicasalbordino.com/index.php/en/
-way	678185335	http://www.vinicasalbordino.com/index.php/en/
 way	679552344	https://www.lacollinadipeppino.com/
 way	679832900	https://ristorante-pizzeria-la-fontanella.business.site/
 way	680689680	https://www.abruzzoactivities.com/
@@ -4161,7 +4170,7 @@ way	971314866	https://betania-la-casa-dellamicizia.business.site
 way	971345146	https://agriturismolabotte.eatbu.com/?lang=it
 way	971525258	https://www.comune.manoppello.pe.it/
 way	973100533	https://www.rosadalfonsinabb.com/
-way	973173969	https://www.traboccopuntacavalluccio.it/damasino
+way	973173969	https://www.damasino.it/
 way	975783304	https://www.neosflex.com
 way	976040386	https://gazebolandia.com/
 way	976271219	https://www.ristorolabaita.com
@@ -4560,6 +4569,7 @@ way	1416126023	https://www.wikiwand.com/it/articles/Feltrino
 way	1416525229	https://www.ducaamedeo.it/
 way	1417556425	https://circoloippicojackoneill.it/
 way	1417596679	https://www.indicepa.gov.it/ipa-portale/consultazione/indirizzo-sede/ricerca-ente/elenco-unita-organizzative/0MGJI9/uo/scheda-area-organizzativa-omogenea/A4A755D
+way	1419572939	http://www.vinicasalbordino.com/index.php/en/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4864,6 +4874,7 @@ relation	19358460	https://www.ilcamminodabruzzo.it/
 relation	19358461	https://www.ilcamminodabruzzo.it/
 relation	19358537	https://www.ilcamminodabruzzo.it/
 relation	19358538	https://www.ilcamminodabruzzo.it/
+relation	19409648	https://www.piste-ciclabili.com/itinerari/2577-vasto-torrente-lebba
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
@@ -4896,6 +4907,9 @@ node	12883355748	https://www.bnbcasapetrarca.com
 node	12887327116	https://www.basilikum.it/menu
 node	12894321758	https://centrorossetti.it
 node	13026259408	https://www.comune.lanciano.ch.it/
+way	93951553	https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.campingsurabaja.it%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExNHQ3RUhsNjlybTZhYmpLNwEeMkhOF1isoFjAuOn58meBOwL89Jg7KkFTaXtj-mAL-BgX8wPAO985ziB01cw_aem_SqmNlSc87-UkW1QaPta8rA&h=AT2jncjJuDNp22CmJA_hwe1-ffhQBfihrhd
+way	93951554	https://www.campingsurabaja.it/
+way	93951555	https://www.gildacamping.it/
 way	93958554	https://www.storkcampingvillage.com/
 way	93967257	https://www.clubdelsole.com/it/destinazioni/abruzzo-costa-teramana/roseto-degli-abruzzi-easy-camping-village
 way	93967259	https://www.campingarcobalenoroseto.it/
@@ -4992,6 +5006,7 @@ way	1409206858	https://santantoniolanciano.com/?i=1
 way	1411481544	https://www.dannunziolanciano.edu.it/le-nostre-scuole/scuola-dell-infanzia-e-damico/
 way	1413864433	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/17860/Chiesa+di+Santa+Giusta+%7C+Lanciano+%28CH%29
 way	1414822584	https://www.coobiz.it/azienda/lanciano-falegnameria-artigiana/co7563798
+way	1418014814	https://www.ufficiocamerale.it/7307/vini-del-golfo-srl
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12862117	https://www.ilpescara.it/cronaca/ponti-sul-saline-inaugurato-ponte-sant-angelo.html
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
