@@ -936,6 +936,7 @@ node	4209773493	https://www.supersigma.com/
 node	4209773494	https://www.supersigma.com/
 node	4209792091	https://www.sardegnasummer.it/residence-case-affitto-a-san-teodoro-sardegna-de.html
 node	4209885893	https://www.crai-supermercati.it/
+node	4209902355	http://e-coop.it
 node	4211435292	https://www.hotelvilladelgolfo.com/
 node	4211442689	www.trattoriailgambero.it
 node	4213453789	https://www.conad.it/ricerca-negozi/negozio.010168.html
@@ -979,7 +980,6 @@ node	4229537820	https://www.condaghes.it/
 node	4229586006	https://www.labottegadellostile.com/
 node	4229608022	https://www.mdspa.it/punti-vendita/Sardegna/CA-Cagliari/241-CAGLIARI/
 node	4229608105	https://www.ilportagioie.it
-node	4229622716	https://www.terradepunt.it
 node	4229623377	https://www.otorinocagliari.it/
 node	4229625377	http://pizzamaniapirri.altervista.org
 node	4229634239	https://ceowelcomingitaly.it/
@@ -1906,6 +1906,12 @@ node	13011436267	https://manahub.it/
 node	13013917478	https://www.ilgiardinogallura.com/
 node	13016240683	https://www.warfree.net
 node	13016270833	http://www.essofuelfinder.com/en-gb/eeba651f51cd761550a186102a92c2a7
+node	13036732805	https://www.doppiomalto.com/it/ristoranti/cagliari/
+node	13041525923	http://www.dentalstaff.it/
+node	13041600460	https://www.terradepunt.it
+node	13041600461	https://www.comune.cagliari.it/portale/page/it/infopoint_culturale_e_prime_informazioni?contentId=SRV12704
+node	13041600462	https://metodosoldhouse.it/
+node	13041694030	https://www.asefibrokers.com/broker/samar-insurance-brokers
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -1927,6 +1933,7 @@ way	62201186	https://www.conad.it/ricerca-negozi/negozio.008430.html
 way	64973793	https://campingtelis.com/
 way	72444133	https://www.tharros.sardegna.it/
 way	72444233	http://www.vinovernaccia.com
+way	72444706	https://www.museocabras.it/
 way	72444791	https://www.campingisaruttas.it
 way	72446018	https://www.consorziopontis.net/
 way	72725391	www.portososalinos.it/
@@ -2195,6 +2202,7 @@ way	277184001	https://www.sansebastianocagliari.it
 way	277184007	http://www.santaluciacagliari.com/en
 way	277184020	https://www.conad.it/ricerca-negozi/negozio.002488.html
 way	277184044	https://www.holidayinn.com/hotels/it/it/cagliari/cglit/hoteldetail
+way	277184051	https://www.fondazionemosos.it/
 way	277184085	http://mattagomme.com/
 way	277184126	https://www.sardegnahotelcagliari.it/hotel.php
 way	277184278	https://www.cfadda.com/
@@ -2741,6 +2749,7 @@ way	1064330219	http://www.campingcaladambra.com/
 way	1082295947	https://www.isarenasvillage.com
 way	1090857416	https://www.ristorantearagona.com
 way	1090905705	https://www.campingcaladostia.com/
+way	1101782892	https://www.sardegnavventura.com
 way	1113615224	http://www.campingtheleme.com/
 way	1122033337	https://www.annidoro.com/
 way	1128465851	https://nuraghelighe.it/
@@ -3166,7 +3175,6 @@ relation	3713046	https://www.consorziouno.it/
 relation	3713710	http://www.aslsassari.it/
 relation	3725540	https://www.delphina.it/
 relation	3792756	https://www.ss.camcom.it/
-relation	3935522	https://www.museocabras.it/
 relation	3941720	https://comune.sarroch.ca.it/
 relation	3941841	https://www.hilton.com/en/hotels/olbclci-conrad-chia-laguna-sardinia/
 relation	3944480	https://comune.aritzo.nu.it/
@@ -4250,6 +4258,7 @@ node	1601566871	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREA
 node	1601567218	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
 node	1601567221	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
 node	2329913542	https://www.sardegnaturismo.it/it/esplora/san-valentino
+node	10265078480	https://people.unica.it/unicamappe/2012/08/10/facolta-di-architettura/
 way	27771208	http://www.saras.it/saras/pages/inthefield/assets/refining
 way	62331902	http://www.progettodighe.it/main/le-dighe/article/bau-mandara
 way	81578382	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
