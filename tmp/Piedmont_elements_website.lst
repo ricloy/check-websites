@@ -838,6 +838,7 @@ node	2429036316	http://www.bbvigezzo.it/
 node	2429524287	https://www.dosiomusic.com/
 node	2429524294	https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Bookstore-Vercelli/1616/
 node	2429524298	https://www.grandvision.it/store-locator/vercelli/ottica-grandvision-by-avanzi-corso-liberta-vercelli
+node	2429524358	https://www.libreriasantandrea.it/
 node	2431036785	http://www.sottosoprarestaurant.com/
 node	2431041059	http://www.allevamentoilgrifone.it/home/index.html
 node	2432442822	https://www.reverchon.it/it/store-2-negozio-sede.html
@@ -2059,7 +2060,6 @@ node	4571986608	http://www.farmaciadonboscoasti.it/
 node	4574565090	http://www.elquartin.it/
 node	4574989692	https://grinto.it/
 node	4580138404	https://www.crotin1897.com/
-node	4580195309	https://www.booking.com/hotel/it/art-peace-and-food.it.html
 node	4581533289	https://www.ostorerografica.com/
 node	4583295059	https://wwwdrivalia.com/
 node	4583864783	https://www.imperialprive.it/
@@ -2402,7 +2402,6 @@ node	4733992011	https://tecnoarmi.com/
 node	4733992731	https://www.dolcitentazionitorino.it/
 node	4734138530	http://www.palestralecolonne.it/
 node	4734138606	http://www.scarpescarpe.eu
-node	4734139301	https://negozioanimalitorino.it
 node	4734140046	https://www.hotelimperialtorino.com
 node	4734140738	+39 3385867760
 node	4734140739	http://www.otticagioielliepifani.it/
@@ -2598,7 +2597,6 @@ node	4894163884	http://www.centrorecuperoselvatici.it/sedi/novello/
 node	4903496675	http://www.ilcontatto.com/
 node	4907877579	https://www.asintrekking.com
 node	4908362221	http://www.sindone.it
-node	4908962622	https://chainblock.it
 node	4913526322	https://www.tigota.it/
 node	4913567822	https://www.tigota.it/
 node	4920907629	https://www.repower.com/it/e-mobility/strumenti-di-ricarica/dina
@@ -3338,10 +3336,9 @@ node	6141441511	http://www.centrodipsicodiagnostica.it/
 node	6144710746	https://www.belebon.it/
 node	6145171611	https://www.bluespirit.com/
 node	6147221557	https://www.facebook.com/Sunofcd/
-node	6150135422	mymercato.it
+node	6150135422	https://mymercato.it/
 node	6151627494	https://www.centrofisioterapicocuneo.it/
 node	6160271234	https://www.bramardicioccolato.it/
-node	6160271235	https://www.nordgel.it/
 node	6163406576	https://www.bancaalpimarittime.it/
 node	6163928615	http://www.farmaciecomunali.cuneo.it/farmacie/farmacia-bisalta.html
 node	6164079316	http://www.babyboomcuneo.it/
@@ -3627,6 +3624,7 @@ node	6521650919	https://www.comune.quarnasotto.vb.it/it-it/vivere-il-comune/cosa
 node	6521650920	https://www.comune.quarnasotto.vb.it/it-it/vivere-il-comune/cosa-vedere/la-cappella-ossario
 node	6521697432	https://www.gruppocdc.it/
 node	6522033685	https://enoristorante.it/
+node	6522033785	https://pasticceriazichella.it/
 node	6522587995	https://www.auserarona.org
 node	6525125129	http://www.castellodilajone.it
 node	6528094112	www.archilabo.eu
@@ -3978,6 +3976,7 @@ node	7062074241	http://www.alimentarerisparmioebonta.it
 node	7062082095	https://www.autoscuoladho.eu/
 node	7065838263	http://www.dezzanitende.it
 node	7065857721	https://www.dezzanitende.it
+node	7066095977	https://conad.it
 node	7069771436	https://www.enotecabrbevande.it/
 node	7070298253	https://www.afpdronero.it/index.php?module=site&method=main_dronero
 node	7074457830	http://www.farmafedelta.it/
@@ -6370,6 +6369,7 @@ node	12435263810	https://www.bbantichepietre.it/
 node	12435856783	http://www.up.aci.it/torino/spip.php?page=sta
 node	12435856784	http://www.up.aci.it/torino/spip.php?page=orari
 node	12438719526	https://mashweb.it/
+node	12441374005	https://www.icmorozzo.edu.it
 node	12441678821	https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0100372588
 node	12444888802	https://www.emporiodelcolorefava.it/
 node	12455409912	https://www.inprimisristorantepizzeria.it/
@@ -6758,13 +6758,32 @@ node	13009218063	https://www.rossiniguarnizioni.com/
 node	13011248973	https://go-fit.it/
 node	13011461961	https://comune.salmour.cn.it/
 node	13017051595	https://farmaciacristiani.fapnet.it/
-node	13019367048	www.lacasaverdeitalia.com
+node	13019367048	https://www.lacasaverdeitalia.com/
 node	13020269201	https://www.nkd.it/
 node	13020995822	https://bigbenchcommunityproject.org/
 node	13022386179	https://powy.energy/ricarica-veicolo/
 node	13027066178	https://www.in-fusione.com/
 node	13028392230	https://www.altox.it/ValsusaFalesie/gravere_cervi.htm
 node	13030590269	https://www.laghettonais.it/
+node	13033756418	https://coripet.it/
+node	13033895195	https://gmagenzie.it
+node	13037530968	https://www.norolegnami.it
+node	13037906948	https://www.ilcarlinoubriaco.it/
+node	13037939504	https://negozioanimalitorino.it
+node	13039019354	https://gruppobellucci.it/
+node	13039344929	https://pizzeriailgaleone.plateform.app/
+node	13039344930	https://www.liveraimmobili.it/
+node	13039444186	https://www.comune.tarantasca.cn.it
+node	13040936388	https://www.justeat.it/restaurants-pizzeriadasimo/menu
+node	13041872426	https://www.clorofilla-bike.com
+node	13042721092	https://www.icmorozzo.edu.it
+node	13043232285	https://www.clorofilla-bike.com
+node	13043232286	https://www.clorofilla-bike.com
+node	13045898834	https://direzionedidatticalambert.edu.it/la-scuola/organizzazione/25-scuola-primaria-di-bardonecchia
+node	13045898835	https://scuolamaternabardonecchia.it/
+node	13046510474	https://www.essenzamonviso.it/
+node	13047912421	https://www.ic-susa.it/luogo/sede-di-meana-infanzia-e-primaria/
+node	13047912422	https://www.ic-susa.it/luogo/sede-di-meana-infanzia-e-primaria/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
 way	24219041	http://www.comune.torino.it/infrastrutture/opere/viabilita/chiaves.htm
@@ -7116,7 +7135,7 @@ way	152001800	http://www.caiarona.it/il-rifugio-citta-di-arona-alpe-veglia.html
 way	152002387	https://www.rifugi-bivacchi.com/it/821/rifugio-mores-cesare/
 way	152002393	http://www.rifugi-omg-formazza.it/
 way	152002397	http://www.rifugi-omg.org/
-way	152003351	https://www.rifugiocrosta.it/
+way	152003351	https://rifugiocrosta.info
 way	152004021	http://www.rifugiofantoli.it
 way	152004559	http://rifugiomiryam.org/
 way	152004899	http://www.rifugiomarialuisa.it/
@@ -7478,7 +7497,6 @@ way	206650722	https://www.lunahotelmotelairport.it/
 way	206726874	https://zanini.com/
 way	206728131	http://www.dsambulatorioveterinario.it
 way	206729931	https://www.icarona.edu.it/
-way	206738420	https://www.mondolatte.net
 way	206855892	https://www.emmidessert.it/
 way	206870774	https://farmacia-cammareri-e-bardelli-di-fondotoce-verbania.business.site/
 way	206871056	https://www.castellodibagnolo.it/
@@ -7540,7 +7558,6 @@ way	211439258	http://www.parrocchiadibelgirate.it/Parrocchia_di_Belgirate/PB_-_C
 way	211477145	https://www.carrefour.it/punti-vendita/supermercato-carrefour-market-torino-stradella-192194
 way	211650867	https://www.aeo.it/punti-vendita/piemonte/supermercato-aeo-grignasco---stazione
 way	211734692	https://www.coworkingproject.com/coworking-network/omegna-gravellona-toce/
-way	212028132	https://terreborromeo.it/castelli-di-cannero
 way	212650231	https://www.castellodeisolaro.it/
 way	212764334	http://www.comune.pila.vc.it/
 way	212905082	https://www.shunfa.it/
@@ -8511,6 +8528,7 @@ way	383700444	https://www.centrorevisionidelroero.it/
 way	383702364	https://www.villavalentino.it/
 way	383709497	https://www.cascinadelpozzo.com
 way	383717376	https://cascinadelponte.weebly.com/
+way	383879042	https://hotelcherasco.com/
 way	383879503	https://www.atlante-montello.it/
 way	383879916	http://monasterocherasco.it/
 way	383883535	https://assellemobili.com/
@@ -9489,6 +9507,7 @@ way	859994150	https://www.botanicgozzano.it/
 way	860985703	http://www.aziendaagricolasbarato.com/
 way	865322070	https://www.conad.it/ricerca-negozi/negozio.050412.html
 way	871989149	https://www.armandovivai.it
+way	875098117	https://www.comune.arborio.vc.it/
 way	875513758	http://www.beriagrande.it/wordpress/storia
 way	875596814	https://www.nordpetroli.it/distributori/san-germano-vercellese
 way	877504713	http://www.adica.info/html/adica.htm
@@ -9509,7 +9528,6 @@ way	890226553	https://www.ecomuseogranitomontorfano.it
 way	891214319	https://www.hotelalpi.biz/it/villa_fedora.php
 way	891221743	https://www.residenceortensia.com/it/
 way	891256116	https://www.toyscenter.it/
-way	891264455	http://www.comune.lisio.cn.it/Default.aspx
 way	891276926	http://www.bavenoturismo.it/il-granito/
 way	891278678	https://parrocchiebaveno.it/
 way	891962749	https://www.facebook.com/LoSpecchioDacqua/
@@ -9547,6 +9565,7 @@ way	916379616	http://www.klangroup.it
 way	917170895	https://www.palazzocavour.info/
 way	917629301	http://www.autodemolizionivalpellice.it
 way	920886191	https://www.gdf.gov.it/it/reparti-del-corpo/piemonte/torino/tenenza-bardonecchia
+way	921061549	https://www.istitutofrejus.it
 way	921849927	https://www.hotelroyaltorino.it
 way	922042768	https://www.comune.romagnano-sesia.no.it/
 way	926256868	http://www.caivarzo.it/bivacco-beniamino-farello-2.html
@@ -9817,7 +9836,6 @@ way	1187835156	https://www.fitactive.it/i-club/vercelli.php
 way	1190018641	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	1190224550	https://www.podiciotto.it/
 way	1191381697	https://agripassione.it/
-way	1192047733	https://www.andandoporelmundo.com/italia/torino/hotel-gardenia/
 way	1193255695	https://www.gradenigo.it/
 way	1194681278	https://www.croceverde.org/
 way	1195397556	https://www.ostellodialessandria.it/
@@ -9959,6 +9977,8 @@ way	1410837466	https://www.praliadventurepark.it/
 way	1410843179	https://glicinisummer.it/
 way	1414048579	https://iconpalestre.it
 way	1415618000	https://www.monrosarafting.it/
+way	1419690196	https://terreborromeo.it/castelli-di-cannero
+way	1419921927	https://www.montagnabiellese.com/oropa-bagni/
 relation	44299	http://www.comune.giaglione.to.it/
 relation	44339	http://www.comune.coniolo.al.it/
 relation	46615	https://www.comune.bee.vb.it/it-it/home
@@ -12034,6 +12054,7 @@ way	160965698	http://www.castellodelroccolo.it/it/
 way	162566106	http://parcoavventuraorma.com
 way	165762177	http://www.unicredit.it
 way	165966739	https://www.retesuperservice.it/it_it/centrosuperservice/929202/gomma--srl/chi-siamo.html
+way	165975761	https://www.comune.cirie.to.it
 way	167309815	http://www.rifugiobarant.it/
 way	171808383	http://www.parktofly.it/S_TOR.php
 way	174280861	http://www.hotelpiccoloallamano.it
@@ -12135,6 +12156,8 @@ way	375048271	http://www.albergotrattoriastazione.it
 way	379055920	http://www.parcomarguareis.it/
 way	380491185	http://www.nuovosecolo.it
 way	382137302	http://www.birrificiocitabiunda.it
+way	384603564	https://www.comune.faule.cn.it
+way	385485509	https://www.comune.isasca.cn.it
 way	385596176	https://www.hotelbardanatale.com/
 way	385596221	https://macelleriaalliopaesana.it/
 way	385600226	http://www.campeggiovallepo.it/
@@ -12177,7 +12200,6 @@ way	624736164	http://www.casadiriposoborsettisellafacenda.it/
 way	625828083	http://www.teatrosocialevillani.it/
 way	629204383	http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=8649
 way	631824302	http://www.paolettofratelli.it/
-way	632641331	https://fondoambiente.it/luoghi/mazzarelli-casa-natale-di-santa-maria-mazzarello
 way	635545160	http://www.ismercurinogattinara.it/
 way	638329062	https://www.monferrato.org/ita/risorse-turistiche/aree-camper/area-camper-occimiano/bc61bb9762478e4c2acb44b92cae0190.html
 way	639598576	https://www.monferrato.org/ita/risorse-turistiche/aree-camper/area-camper-mirabello-monferrato/d961f1bb16108581935f70ea6250bac9.html
@@ -12201,6 +12223,7 @@ way	860301018	https://www.mymercato.it/punti-vendita/piemonte/mercato-torino-via
 way	862447319	http://mercati.comune.torino.it/item/don-grioli/
 way	862950965	http://www.liceocottini.it/
 way	864745742	www.perariondabedbreakfast.it
+way	891264455	https://www.comune.lisio.cn.it
 way	895848261	https://www.amruta.org/it/
 way	911238510	http://www.campeggiobeaulard.it
 way	916806046	http://www.casa-isabella.com
@@ -12214,6 +12237,7 @@ way	990972220	https://paesana.it/archivio/associazioni/Societa-Bocciofila-Paesan
 way	995011539	http://casariposopaesana.it/
 way	1004040043	https://www.ostellosangermano.it/
 way	1060148383	https://www.sanmarcoalbergo.com/
+way	1102699744	https://www.comune.passeranomarmorito.at.it
 way	1124156886	https://www.teledif.it
 way	1135388904	http://www.comune.lenta.vc.it/
 way	1193015539	https://www.cantinadellaserra.com/
@@ -12221,6 +12245,7 @@ way	1193275857	http://www.paradisebruzolo.it
 way	1218203666	https://www.golfclubpiandelcolle.it/
 way	1274046336	https://www.campingrose.it
 way	1280963886	https://www.ic-susa.it/luogo/sede-di-venaus-infanzia-e-primaria/
+way	1286056003	https://www.comune.valgioie.to.it
 way	1296096463	https://www.iissdesambrois.it
 way	1308621729	http://www.museotorino.it/view/s/830aaf147f9342529bcf75f07d9ccbf5
 way	1308621731	http://www.museotorino.it/view/s/830aaf147f9342529bcf75f07d9ccbf5
@@ -12228,6 +12253,12 @@ way	1337651500	https://www.go4drivesafe.com/Area-Camper.aspx
 way	1337669766	https://www.facebook.com/lacampeggia/
 way	1345256528	https://www.icbussoleno.edu.it/luogo/sede-via-gran-porta/
 way	1412301320	https://www.gnekko.it
+way	1419034143	https://www.comune.montanaro.to.it
+way	1419034800	https://www.comune.odalengopiccolo.al.it
+way	1419034827	https://www.comune.ponzanomonferrato.al.it
+way	1419035087	https://www.comune.quattordio.al.it
+way	1419036768	https://www.comune.alto.cn.it
+way	1419226921	https://www.dana.com/
 relation	2896607	http://polomusealepiemonte.beniculturali.it/index.php/musei-e-luoghi-della-cultura/castello-di-aglie/visita-il-castello-di-aglie/
 relation	5598119	http://www.sadem.it
 relation	5606688	http://www.sadem.it
@@ -12547,6 +12578,7 @@ node	13013259372	https://www.gulliver.it/itinerari/stella-corno-regalami-un-sorr
 node	13018258016	https://www.gulliver.it/itinerari/miroglio-attico-falesia/#main
 node	13018268461	https://ekye.it/fontane/museo-etnografico/
 node	13023980062	https://www.gulliver.it/itinerari/alpini-falesia-degli-2/
+node	13028659360	https://www.comune.frabosasoprana.cn.it/Guidaalpaese?IDPagina=55578&IDCat=8615
 way	59167755	https://ip.gruppoapi.com/
 way	70044283	"https://openstreetcam.org/map/@45.692245515194244,8.471601605415346,18z"
 way	75614681	http://www.rifugiogenova.it/
