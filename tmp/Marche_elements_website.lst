@@ -1,7 +1,6 @@
 @type	@id	website
 node	26859427	https://www.campingcalypso.it/
 node	26859596	https://www.campingledzeppelin.it/
-node	26859701	http://www.camping-pineta-urbino.it/
 node	70980633	https://www.comune.grottammare.ap.it/
 node	130009920	http://www.hotelpassetto.it/
 node	227952845	https://www.tamoil.it/
@@ -299,7 +298,6 @@ node	2092920681	https://www.palazzodeimercanti.it/
 node	2094238675	https://la-vecchia-ancona3.webnode.it/
 node	2099747806	https://anellodororistorante.business.site/
 node	2103560476	http://www.osterialucia.it
-node	2114985286	http://www.bpls.it/
 node	2176144687	https://www.polo9.org/cosa-facciamo/comunita-terapeutica-di-san-cesareo/
 node	2176175480	http://www.gallerianazionalemarche.it
 node	2193008891	http://www.vet-daisy.it
@@ -941,6 +939,7 @@ node	7229705190	https://www.maggiore.it/agenzie/noleggio-auto-ancona-piazza-ross
 node	7236448229	https://www.lapinseria.online
 node	7281896606	https://www.farmaciapetracci.it/
 node	7297071539	https://femmecafe.it/
+node	7297193956	https://www.illaccio.it/
 node	7299794357	http://www.hospitaleterzoparadiso.it
 node	7319180008	http://www.hospitaleterzoparadiso.it
 node	7319221966	http://www.hospitaleterzoparadiso.it
@@ -2111,6 +2110,7 @@ node	13030027563	https://www.conad.it/ricerca-negozi/conad-city-via-trieste-153-
 node	13038178501	https://www.xhosaa.it/
 node	13043479001	https://officinatrenino211.wordpress.com/
 node	13043824876	https://www.villapoggioverde.com/
+node	13059635845	https://nouvelhoteldesbains.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2636,6 +2636,7 @@ way	818525864	http://www.asci-basescout.it/
 way	821444225	https://www.subtridente.it/
 way	824473008	https://www.stellaadriatica.it/
 way	830371841	https://www.hotelcontinental-fano.it
+way	858547485	http://www.fondazionerinaldi.it/scout-park/
 way	858597692	https://www.iluoghidelsilenzio.it/casone-pellicani-treia-mc-2/
 way	871214932	https://www.comune.arquatadeltronto.ap.it/
 way	872361070	https://www.comune.ancona.gov.it/ankonline/impianto-rugby/
@@ -2721,7 +2722,7 @@ way	1102426845	https://www.campingliana.it/
 way	1102457386	https://caffesaccariashop.it/
 way	1104447186	https://www.cagnoni.it/
 way	1109212826	https://turismo.comune.mondavio.pu.it/contenuti/2111633/area-camper-mondavio
-way	1112283489	https://www.campeggiolatorrediportonovo.it/
+way	1112283489	http://conerocamping.com
 way	1112538034	http://www.anticastamperiafabiani.it/
 way	1112903072	https://www.musicavivafermo.it
 way	1112903073	https://www.solgasonline.it/
