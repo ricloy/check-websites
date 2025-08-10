@@ -442,7 +442,6 @@ node	1578058426	https://www.aldiolacountry.com/
 node	1581225807	https://www.gruppoisa.com/pv_sing.php?idPv=50799
 node	1581283954	https://www.eurospin.it/
 node	1582492072	http://www.coopergo.it
-node	1583791260	https://www.hostelargentiera.it/
 node	1583968508	http://www.algherohostel.com/
 node	1588631899	https://www.comune.bosa.or.it/
 node	1589467393	https://www.nonnaisa.com/node/294
@@ -1728,6 +1727,7 @@ node	12178091067	https://www.mintjulep.it/beer-julep-birroteca/
 node	12178117142	https://dolcequela.com/
 node	12178154313	https://www.olbiawash.it/
 node	12178154314	https://www.olbiabags.com/
+node	12178176917	www.tolabistrot.com
 node	12178847255	https://pizzainpiazzadialeeale.it/
 node	12184945781	https://ilmeloresidence.it
 node	12187740164	http://www.cuppulata.it/
@@ -1912,6 +1912,14 @@ node	13041600460	https://www.terradepunt.it
 node	13041600461	https://www.comune.cagliari.it/portale/page/it/infopoint_culturale_e_prime_informazioni?contentId=SRV12704
 node	13041600462	https://metodosoldhouse.it/
 node	13041694030	https://www.asefibrokers.com/broker/samar-insurance-brokers
+node	13049684460	www.elissunset.com
+node	13058189390	https://www.tenutestintino.it/
+node	13058189391	https://www.biscottificiodemelas.it/
+node	13058316480	http://www.sardignabeach.com/
+node	13058316481	https://beachclub69.it/
+node	13059220214	https://www.facebook.com/langolodelbucato
+node	13059826839	https://fewo-sardinien.de.cool/
+node	13059841586	https://www.santamarialapalma.it/
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -3385,7 +3393,7 @@ relation	15737408	http://www.camminando.eu/wordpress/?page_id=59
 relation	15737447	http://www.camminando.eu/wordpress/?page_id=59
 relation	15887263	https://villaggionormann.it/
 relation	17164214	http://www.camminando.eu/wordpress/?page_id=59
-relation	17349923	https://sardegnasentieri.it
+relation	17349923	https://www.sardegnasentieri.it/sentieri/lalta-del-linas-d-100
 relation	17360268	https://www.sardegnasentieri.it/sentiero/pinningassu-stazione-di-villagrande-t-121
 relation	17360765	https://www.sardegnasentieri.it/sentiero/arcu-pedras-biancas-arriu-sa-scova-c-805
 relation	17361408	https://www.sardegnasentieri.it/sentiero/san-gregorio-sentiero-italia-c-403
@@ -3417,6 +3425,8 @@ relation	19132100	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale
 relation	19196433	https://www.sardegnasentieri.it/index.php/sentiero/fassoni-su-presoni-c-421
 relation	19300630	https://www.villasquer.it
 relation	19361334	https://www.pastacellino.it/
+relation	19437560	https://www.sardegnasentieri.it/sentiero/bidda-scema-genna-sambucu-d-116
+relation	19438034	https://www.sardegnasentieri.it/sentiero/perde-pibera-genna-spina-d-114
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -4276,6 +4286,7 @@ way	581847817	http://www.arrampicatasardegna.com/falesie/arrampicantro/
 relation	39917	http://www.fluminimaggiore-bilingue.it/
 relation	39959	http://web.tiscali.it/Senorbi2000/
 relation	40002	http://www.orroliproloco.com/
+relation	10077575	https://danbag.altervista.org/Sardegna/B485/B485-FTP.kml
 relation	12321189	https://danbag.altervista.org/Sardegna/B481/B481-FTP.kml
 relation	12857717	https://danbag.altervista.org/Sardegna/F401/F401-FTP.kml
 relation	12857738	https://danbag.altervista.org/Sardegna/F402/F402-FTP.kml
