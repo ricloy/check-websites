@@ -2209,6 +2209,7 @@ node	7037177057	https://www.hotelcorsaro.it/
 node	7039268139	https://www.trenitalia.com/
 node	7039268156	https://www.trenitalia.com/
 node	7049125650	https://www.confcommerciopaesietnei.it/
+node	7056643349	https://ristorantetriscelesiracusa.it/
 node	7058468863	https://www.maddaloni.it
 node	7061862307	http://www.iszsicilia.it/
 node	7070520685	https://bocum.it/
@@ -2350,11 +2351,13 @@ node	7853854585	http://www.dalcozzaro.it
 node	7856417986	https://osteria-rosso-divino.com/
 node	7856940485	http://www.sicilia-aziende.com/web-link.html?sobi2Task=sobi2Details&catid=2430&sobi2Id=656
 node	7857361578	http://www.agriturismoportapantalica.eu/
+node	7857756531	https://www.trasoleemare.it/
 node	7859564565	https://www.bonniciofficine.com
 node	7863270781	https://www.gustoibleo.it/
 node	7868534285	https://www.cuordicaffe.it/en/
 node	7869106052	https://www.estateolie.net/isole-eolie/ristorante-da-zurro-stromboli/
 node	7876727086	http://www.siposicilia.it
+node	7882160909	https://i2elementi.com/
 node	7888053585	https://www.arddiscount.it/punti-vendita/456/catania-via-conte-di-torino-18
 node	7892009560	https://www.duca.it/florio/
 node	7900897015	http://www.turismogranati.it/
@@ -3344,6 +3347,10 @@ node	10858714096	https://www.saisautolinee.it
 node	10861200577	https://ristorantedazino.it/
 node	10873177772	https://www.frisku.it/
 node	10876517177	https://www.poste.it
+node	10876517178	https://www.facebook.com/PizzeriaTrattoriaLoasi
+node	10877264640	https://www.instagram.com/pasticceria.trubia/
+node	10877316858	https://www.facebook.com/meetingristorantepizzeriabar/
+node	10879646030	https://www.facebook.com/pages/Pizzeria%20Trattoria%20Bar%20la%20Variante%20di%20Polizzi%20Giancarlo/633879847054318/
 node	10879679055	https://www.iccarlolevimaniace.edu.it/
 node	10881130463	https://touristservice2006.com/
 node	10882094285	https://www.icdeamicisrandazzo.edu.it/
@@ -4011,10 +4018,14 @@ node	13021148479	https://www.bbtree14siracusa.com/
 node	13026217820	https://biscarihome.it/
 node	13026217821	https://www.suiteinn.eu/
 node	13026217822	https://www.bastiosuites.it/
-node	13028037705	www.hertz.it
+node	13028037705	https://www.hertz.it/
 node	13034360935	https://www.siciliabelladisiracusa.it/
 node	13041481274	https://pasticceriaranieri.com/
 node	13042826603	https://conviviopalermo.it/
+node	13050147579	www.regione.sicilia.it
+node	13050222633	https://www.agenziaimmobiliaresiracusa.it/
+node	13055665743	https://www.comune.palermo.it/amministrazione/unita_organizzativa/uo-direzione-anagrafe/
+node	13055865201	https://www.ilcolibrisanvito.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -5445,8 +5456,10 @@ way	827397128	https://www.sostacamperclaudcar.it/
 way	829670578	https://www.openland.it
 way	832610702	https://www.cantinebirgi.it/
 way	835204990	https://www.campingdegliulivi.com/
+way	836117853	https://hoteljonionoto.it/
 way	840270537	https://www.villarenna.it
 way	844757048	https://www.di-giovanna.com
+way	844843012	https://areadisostaairone.webnode.it/
 way	845508101	https://campingcarratois.com
 way	846791712	https://hotelbinario1.it/
 way	852439575	https://www.comprensivomelilli.edu.it/
@@ -6312,6 +6325,7 @@ way	1411301508	https://gagliardihotel.com/
 way	1414425083	https://ech.rentals
 way	1416124603	https://www.notoparcheggi.it/
 way	1416981043	https://www.msmeasuring.com/
+way	1420217471	https://www.facebook.com/campetti.lombardo
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
