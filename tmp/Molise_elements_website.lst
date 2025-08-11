@@ -44,7 +44,6 @@ node	3721631445	http://lavanderialapentrica.blogspot.com
 node	4084683644	https://www.autoricambicolantuono.it/
 node	4084694733	http://www.emmegross.it/punti_vendita.php?fm_browse_regione=molise
 node	4198722603	https://www.supermercatideco.it/
-node	4202886201	https://www.facebook.com/riovivocamperpark
 node	4207302196	https://www.supermercatideco.it/
 node	4269484762	http://ristorantelaperladelmolise.net
 node	4624183814	https://www.lucepiumolise.com/
@@ -138,6 +137,7 @@ node	12857828615	http://www.immobiliarepretore.com/
 node	12857828636	https://www.prolococollenisoguglionesi.com/
 node	13005952011	https://www.facebook.com/Paparellaristorantepizzeria
 node	13029929134	https://agriturismocostantini.com/
+way	56248419	https://www.facebook.com/riovivocamperpark
 way	62075956	https://www.musei.molise.beniculturali.it/musei?mid=934&nome=castello-di-civitacampomarano
 way	67731527	https://www.hotelmeridiano.com/it/ristorante-luna-restaurant.html/
 way	67731795	https://www.hotelmistral.net/it/
@@ -231,7 +231,6 @@ way	437301968	http://www.molisecereali.it/
 way	440523577	www.comune.cerroalvolturno.is.it
 way	444881069	https://www.campingmolise.it/
 way	444881070	https://www.sabbiadorocb.it/
-way	444881071	https://www.facebook.com/marondacamping/?locale=it_IT
 way	445801058	https://www.leterredelsacramento.com/
 way	463239112	https://www.lucepiumolise.com/
 way	463926215	https://www.costaverde.it/
@@ -349,6 +348,10 @@ way	193450242	https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-arc
 way	193651509	https://www.parcosepino.it/
 way	261211563	https://www.santamariadellastradacb.it/
 way	261652608	https://www.m2movement.it/
+way	444881071	https://www.maronda.it/
+way	451040903	http://www.villaggioazzurra.it/
+way	561057676	https://www.smeraldocampingvillage.com/
+way	639116664	https://www.lianna.it/
 way	691090792	https://www.oasidellemainarde.com/
 way	1056651661	https://www.rivazzurrahomes.it
 way	1076684927	https://www.calasveva.it/
