@@ -80,6 +80,7 @@ node	423806795	www.microkit.com
 node	439784766	https://www.campingsansebastiano.it/
 node	441526377	https://www.hotel-rossini.it/
 node	441530541	http://www.museodelclown.it
+node	442709467	https://www.nuovocinemapalmaro.it/
 node	454393136	https://erbagatta.it/
 node	454884295	http://www.cioilonghi.it/
 node	472443888	https://www.conad.it/ricerca-negozi/negozio.004022.html
@@ -392,7 +393,6 @@ node	2181615482	https://lacriccaristorante.it
 node	2190185256	https://www.conad.it/ricerca-negozi/negozio.008482.html
 node	2190195579	https://www.bluerestaurantsavona.it/
 node	2210509802	https://www.genova.city-sightseeing.it/
-node	2210986845	https://www.villaadriana.info/
 node	2236191766	http://www.vincolimap.it/img/rete_IGM95_GPS/102901.pdf
 node	2256065428	http://www.dorahotel.it/
 node	2260060327	https://www.bellabubistrot.com/
@@ -403,6 +403,7 @@ node	2284339090	https://www.astadelmobile.it/
 node	2290839409	https://www.lucarda.com/
 node	2290839537	https://sailing-dreamteam.com/
 node	2290839557	https://woklong-genova.it/
+node	2291211269	https://www.villaadriana.info/
 node	2291993770	http://www.vincolimap.it/img/rete_IGM95_GPS/102902.pdf
 node	2292260068	https://www.trattoriaduruscin.com/
 node	2293639667	https://delgolfohotel.it
@@ -629,7 +630,7 @@ node	2970389121	https://ef90.com/
 node	2970402923	https://ef90.com/
 node	2985825263	www.citymessage.it
 node	2985829004	www.citymessage.it
-node	2990114658	http://www.palazzospinola.beniculturali.it
+node	2990114658	https://www.palazzospinola.beniculturali.it
 node	2994305753	http://www.villetta-pelikan.de/
 node	3035234837	https://www.airbnb.it/rooms/3261191
 node	3037519891	https://www.ilamoi.it/
@@ -639,6 +640,7 @@ node	3045208596	https://www.facebook.com/pages/San-Giorgio-Ristorazione-Coop/251
 node	3046338363	http://www.gobetti.it/
 node	3055164278	https://www.albergopiccoloparadiso.com/
 node	3060583532	www.panificioraso.it
+node	3070540289	https://lapicea.it/
 node	3075158264	https://www.bellevueresidence.net/
 node	3081436250	http://oratorioronco.altervista.org/
 node	3082633381	https://www.ovs.it/
@@ -1157,7 +1159,6 @@ node	5050838967	https://www.cailiguregenova.it/
 node	5051099229	https://caisampierdarena.com
 node	5054228823	https://www.giuan.it/
 node	5056031410	https://www.daluisalerici.it/
-node	5056283121	https://www.carrefour.it/
 node	5059508720	http://www.vecchiaitalialerici.it
 node	5059983584	http://www.byronhotel.com
 node	5062612806	https://www.giuan.it/
@@ -2625,8 +2626,6 @@ node	12648261514	https://www.hotelsettearchi.com
 node	12648369804	https://agripinocchio.it/
 node	12650804299	https://www.estetycbeautystudio.it/
 node	12650817206	https://www.oliotomatisimperia.it
-node	12657578838	https://www.affittacamerealtamarea.it/
-node	12657578839	https://www.bixiosuites.com/
 node	12660084927	https://esperiahotelspotorno.it/
 node	12660774001	https://www.affittacamerealtamarea.it/
 node	12660774002	https://www.bixiosuites.com/
@@ -2719,6 +2718,9 @@ node	13042745070	https://agenzie.realemutua.it/agenzie/agenziarapallosantamarghe
 node	13042745074	https://www.canepa1862.com
 node	13049148176	https://www.clemson.edu/caah/departments/architecture/programs/fluid-campus/genoa.html
 node	13049158362	https://residenceconte.it/
+node	13059708202	https://www.booking.com/Share-obhQ3DQ
+node	13061846001	https://www.laseusa.it
+node	13063406102	https://www.gelateriegepi.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2856,7 +2858,7 @@ way	160089240	https://www.campingacquadolce.com/
 way	160326955	www.comprensivoquezzi.it/
 way	160548207	https://www.campingrosa.it/
 way	161452958	http://www.archeoliguria.beniculturali.it/index.php?it/375/luoghi-della-cultura/13/villa-romana-loc-foce-sanremo
-way	163645949	http://www.hotel5terre.com
+way	163645949	https://www.hotelcinqueterre.com/
 way	163645961	https://www.hotelpalme.eu/
 way	164326908	http://www.irolli.it/genova_unesco/palazzo/via_lomellini_8.html
 way	165290834	http://www.itnautico.it/nautico/
@@ -3098,6 +3100,7 @@ way	225229817	http://www.gadis.it
 way	225241139	https://www.esselunga.it/cms/negozi/ricerca-negozi.ALB.html
 way	225247066	https://www.villamiralbenga.com/
 way	225256135	http://www.vistamare-tovo.ch
+way	225256722	https://sportingpinamare.com/
 way	225256835	https://www.palazzotagliaferro.it/
 way	225275324	https://agriturismovillafaraldi.it
 way	225403813	https://www.villailpoggiolo.it/
@@ -3132,6 +3135,7 @@ way	226538028	https://www.hotelvillafieschi.com/
 way	226567497	https://www.corallomoneglia.it/
 way	226569041	http://www.lacasettadisofia.it/
 way	226597594	https://www.villafanny.eu/
+way	226618680	https://www.asl4.liguria.it/ospedali/ospedale-sestri-levante/
 way	226619419	https://www.nuanatua.eu/la-locanda/locanda.html
 way	226619422	https://www.nuanatua.eu/
 way	226626496	http://www.sanac.com/
@@ -3194,7 +3198,7 @@ way	292457854	https://www.poste.it/
 way	292874749	https://www.campingdegliulivi.it/
 way	292874750	https://www.campingfornacialmare.it/
 way	293014859	https://www.parcovacanzeloscoglio.it/
-way	294642295	http://www.ilnidodelgabbiano.com/
+way	294642295	https://www.sestaterra.com/
 way	296923446	http://www.medicalsystems.it/
 way	296976437	https://www.caravellevillage.it/
 way	298213727	https://www.genova7.it/basi
@@ -4115,6 +4119,8 @@ relation	19180349	https://ropewiki.com/Argentina_(Liguria)
 relation	19180350	https://ropewiki.com/Infernetto
 relation	19343304	https://www.caiparma.it/
 relation	19425272	https://www.parks.it/parco.montemarcello.magra/iti_dettaglio.php?id_iti=4642
+relation	19434978	https://www.carrefour.it/
+relation	19435493	https://www.parcomagra.it/il-parco-in-bicicletta/
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1360305797	http://www.autogrill.it/portal/public/default
@@ -4243,6 +4249,7 @@ way	720218185	https://it.wikipedia.org/wiki/Batteria_di_Punta_Chiappa
 way	720222996	https://it.wikipedia.org/wiki/Batteria_di_Punta_Chiappa
 way	884126422	https://www.asl3.liguria.it/ospedali/micone-sestri-ponente.html
 way	1162787487	https://www.piandipicche.it/index.html
+way	1184828339	https://www.mullerbordighera.it
 way	1303072433	http://www.musicforpeace.it
 way	1306674193	https://campingmaremonti.com/
 way	1306677627	http://campeggiotrigoso.it/
@@ -4720,7 +4727,6 @@ node	440636563	http://www.atp-spa.it/cartina.php
 node	440636564	http://www.atp-spa.it/cartina.php
 node	440636565	http://www.atp-spa.it/cartina.php
 node	440636566	http://www.atp-spa.it/cartina.php
-node	442709467	http://www.nuovocinemapalmaro.it/
 node	443327277	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0613608
 node	443327279	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0613608
 node	443476375	http://www.comune.santostefanodaveto.ge.it/
