@@ -230,7 +230,6 @@ node	2005579919	https://trapaniedintorni.altervista.org/tag/museo-daniel-chalong
 node	2015289574	http://www.feudohotel.it/home_page.htm
 node	2039090776	http://www.hotelcortese.info
 node	2039096636	https://www.hoteldelcentro.it/
-node	2050479392	ristorantelatavernadelpescatore.it
 node	2067065445	http://www.ristoranteilcantuccio.it
 node	2070927487	http://www.pinetamonserrato.it
 node	2070927503	https://www.euronics.it/
@@ -1090,6 +1089,7 @@ node	4001469825	https://www.hotelbelvederelampedusa.com/
 node	4004705891	https://www.mps.it/
 node	4005541745	https://www.sainthonore.info/
 node	4006948825	http://www.ic1dalcontres.it
+node	4026830769	https://www.villa-felicia.it/
 node	4040693864	http://www.icgiardininaxos.gov.it/
 node	4043375035	https://www.planetariozafferana.it/
 node	4056938289	https://www.museodiocesanopa.it/
@@ -1336,6 +1336,7 @@ node	4616103594	https://www.bapisupermercati.it/
 node	4616129489	https://www.poste.it
 node	4616449691	http://www.gargidicenere.com/
 node	4621426089	https://ilsicilianopalermo.it/
+node	4621560488	https://siciliamo.eu/
 node	4621929748	https://www.villaggiopetruso.it/
 node	4631599789	https://www.icvittorioemanueleterzo.edu.it/
 node	4634339292	www.facellamoto.com
@@ -1447,7 +1448,7 @@ node	5051916149	https://sciroccolab.com
 node	5056582522	https://www.brioscia.it/
 node	5057755988	https://www.prezzemoloevitale.net/
 node	5057886456	https://www.poste.it
-node	5057886459	https://www.grandvision.it/
+node	5057886459	https://www.visionottica.it/
 node	5057886460	https://www.vivailoporto.it/
 node	5057886470	https://www.ardsicilia.it/punti-vendita/621/palermo-viale-della-regione-siciliana-133
 node	5058021981	https://www.bata.it/
@@ -2824,6 +2825,7 @@ node	9279982102	https://www.lentinibimbi.it/
 node	9279995229	https://stores.blukids.com/it/italia/sicilia/palermo/palermo-via-mariano-stabile
 node	9280017848	https://www.mondadoripointpalermo.it/
 node	9280735824	https://www.eurosmartstore.it
+node	9308967671	https://cosiecusuzzi.it/
 node	9311072045	https://novafoodpairing.it/
 node	9327561435	https://www.advpro.it
 node	9341262157	https://lazzart.it/
@@ -4022,10 +4024,20 @@ node	13028037705	https://www.hertz.it/
 node	13034360935	https://www.siciliabelladisiracusa.it/
 node	13041481274	https://pasticceriaranieri.com/
 node	13042826603	https://conviviopalermo.it/
-node	13050147579	www.regione.sicilia.it
+node	13050147579	https://www.regione.sicilia.it/
 node	13050222633	https://www.agenziaimmobiliaresiracusa.it/
 node	13055665743	https://www.comune.palermo.it/amministrazione/unita_organizzativa/uo-direzione-anagrafe/
 node	13055865201	https://www.ilcolibrisanvito.it
+node	13062385971	https://www.villamarina-calabernardo.it/
+node	13063454905	https://www.hostarianangalarruni.it/
+node	13064407715	https://www.voriabeach.it/
+node	13065573541	https://aditusculture.com/biglietti/sicilia/siracusa/parco-archeologico-della-neapolis
+node	13069088336	https://www.italtekno.com/
+node	13070916888	https://www.agriturismopontecalatrasi.com/
+node	13070962101	http://sannoto.it
+node	13071722528	https://www.ilsancarlo.com/
+node	13071957055	https://www.etnanatura.it/paginasentiero.php?nome=Necropoli_Ronna_Fridda
+node	13072980061	ristorantelatavernadelpescatore.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -5216,6 +5228,7 @@ way	606851272	http://www.imuci.it/
 way	606851333	http://www.hotelavalonmessina.com/
 way	606920354	https://www.st.com/
 way	613348379	https://www.poste.it
+way	621570453	https://www.hoteljonic.eu/
 way	623437047	https://www.quasimodofloridia.edu.it/
 way	624295035	https://www.comunegaggi.gov.it/
 way	627544671	https://www.ersupalermo.it/servizio-abitativo/
@@ -5502,7 +5515,6 @@ way	908526891	https://www.leonardocompany.com
 way	908526892	https://number1.it
 way	909169017	https://www.adragna.it/
 way	910627720	https://www.aspct.it/azienda/presidi-ospedalieri/caltagirone/
-way	913244454	https://aditusculture.com/biglietti/sicilia/siracusa/parco-archeologico-della-neapolis
 way	917800463	https://www.smspalumbo.edu.it/
 way	917837442	https://www.ddrodarivillabate.edu.it/
 way	917845175	https://www.1circolovillabate.edu.it/
@@ -6326,6 +6338,8 @@ way	1414425083	https://ech.rentals
 way	1416124603	https://www.notoparcheggi.it/
 way	1416981043	https://www.msmeasuring.com/
 way	1420217471	https://www.facebook.com/campetti.lombardo
+way	1422523807	https://residence-ilborgo.com/
+way	1422523929	https://www.dusty.it/avola/ccr/
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
@@ -6923,6 +6937,7 @@ node	1505733954	http://www.cortiledivenere.it/
 node	1513499798	https://farmaciabrunomilazzo.wixsite.com/farmaciabruno
 node	1708060758	https://www.arddiscount.it/punti-vendita/604/-
 node	1776168563	https://www.dianabrown.it
+node	1868726865	http://www.tabarani.it/index.php/contatti
 node	1882538216	http://www.selinunte.net/museo_cv.htm
 node	1939885872	https://petrol-service-lampedusa.business.site/
 node	1983996777	www.agriturismosorgenterefalzafi.it
@@ -7152,6 +7167,7 @@ relation	18010616	https://www.diocesidicefalu.org/
 node	603885244	http://www.ulocale.com
 node	1962531883	http://www.museomotori.unipa.it
 node	2231727823	http://www.modicarte.it/home.php?language=IT&idnews=
+node	5091059042	https://ormepalermo.it/
 node	7106569916	https://www.trapanishuttle.com
 node	7106569918	https://www.sanvitolocaposhuttle.com
 node	7162048723	http://www.scuolasubpalermo.it
