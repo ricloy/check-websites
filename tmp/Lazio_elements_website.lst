@@ -1425,7 +1425,7 @@ node	3303323906	https://www.pasticceriamax.it/
 node	3305552641	https://www.caiesperia.it/
 node	3310964447	https://www.direzionemuseistataliroma.beniculturali.it/istituti/museo-hendrik-christian-andersen-roma/
 node	3314492807	http://www.lapennadoca.com
-node	3316825405	https://www.hosteriecosiesevipare.it/
+node	3316825405	http://www.ivitelloni.it/
 node	3316825773	https://www.bricofer.it/storedetails/roma%20pisana
 node	3324218803	http://daobistrot.it/
 node	3331976972	https://www.beboropuro.it/
@@ -2798,7 +2798,7 @@ node	5381094382	https://www.spazionovecento.it/
 node	5381094383	casanovecento.it
 node	5383170742	https://www.pampanorama.it/punti-vendita/roma-appia
 node	5384442598	https://www.facebook.com/BruttaeVerdura/
-node	5384442607	https://www.lapecoraelettrica.it
+node	5384442607	https://centoincroci.regione.lazio.it/
 node	5384767296	https://yoursushiroma.it/
 node	5384767297	https://fradiavolopizzeria.com
 node	5384767298	http://sakana.it
@@ -2847,7 +2847,6 @@ node	5414168653	https://gordonbennett.it/
 node	5414168654	https://www.lacucinadiflo.it/
 node	5416319491	farmavera.it
 node	5417398321	oldwildwest.it
-node	5418158190	https://www.paradisetravel.it/
 node	5418282278	farmaciasangiorgi.com
 node	5418282288	vittoriaassicurazioni.com
 node	5418282427	villairis.biz
@@ -3113,7 +3112,7 @@ node	5769108714	http://www.ildelfinocivitavecchia.it/
 node	5769108717	mastrotittapizza.com
 node	5776808874	https://www.facebook.com/Artehairsas67rita
 node	5781517690	https://www.emmepiu-supermercati.it/
-node	5783238361	www.trattoriadaedoardo.it
+node	5783238361	https://www.trattoriadaedoardo.it/
 node	5784185896	https://3punto0.net/
 node	5784197866	https://ciociariaoggi.it/
 node	5792059038	vigilfuoco.it
@@ -3496,7 +3495,7 @@ node	6497896682	https://www.museodellarepubblicaromana.it/it/il_museo/editoriale
 node	6498036950	https://www.casaalbertomoravia.it/
 node	6499298187	https://web.uniroma1.it/museostoriamedicina/
 node	6499338101	https://web.uniroma1.it/museodichimicaprimolevi/
-node	6499816579	http://castelsantangelo.beniculturali.it
+node	6499816579	https://direzionemuseiroma.cultura.gov.it/museo-nazionale-di-castel-santangelo/
 node	6500631681	https://web.uniroma1.it/erbario/
 node	6500741290	https://web.uniroma1.it/polomuseale/museo-fisica
 node	6501541230	https://www.beniculturali.inaf.it/musei/roma
@@ -6681,6 +6680,8 @@ node	13053732466	https://www.liceorussellroma.edu.it/luoghi?id=213
 node	13053732467	https://www.icmmastroianni.edu.it/
 node	13055692262	https://www.cioccolatomenicucci.it
 node	13056129544	https://www.pizzeriamidica.com/
+node	13072961401	http://edencaffe.it
+node	13074546008	www.studiotaglione.it
 way	8035487	https://direzionemuseiroma.cultura.gov.it/museo-nazionale-di-castel-santangelo/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
@@ -7247,7 +7248,6 @@ way	195117365	https://www.facebook.com/pave.bar.9
 way	195395369	https://www.centosedici.it
 way	195410863	http://www.hotelposeidon-terracina.com
 way	195410867	http://hotelposeidon-terracina.com/
-way	195542629	https://www.orizzonteshop.it/
 way	195715617	https://www.ciclirebike.it/
 way	196118366	http://www.cicliconte.it/
 way	196168378	http://www.24disco.it
@@ -8620,6 +8620,7 @@ way	700321509	https://www.vigilfuoco.it/aspx/home.aspx
 way	700409149	https://www.casadicuranepi.it/
 way	701570174	https://www.risparmiocasa.com/store/roma-via-nomentana/
 way	702995843	https://www.comune.pomezia.rm.it/isole_ecologiche
+way	702995844	https://www.teknoserviceitalia.com/
 way	705211055	http://www.sanpaolodellacroce.org/
 way	705926752	http://www.vignasansebastiano.com
 way	706685542	https://www.bricook.it/punto-vendita.php?pv=brico-ok-valmontone
@@ -8765,6 +8766,7 @@ way	851553555	http://www.noalartedelgusto.it
 way	851773127	https://da.lnf.infn.it/organization/linac/
 way	857169278	http://www.villaggioturisticoonda.it/
 way	858865028	https://maurys.it/
+way	858865030	https://mcdonalds.it
 way	861300088	https://www.illagodinemi.it/
 way	867263173	https://www.oasidikufra.it/
 way	868418898	http://www.icsonofri.edu.it/sito/index.php/chi-siamo/i-plessi/12-la-scuola/171-plesso-capponi
@@ -9358,7 +9360,7 @@ way	1329227588	https://www.unicooptirreno.it/content/servizio-di-prestito-social
 way	1329601062	http://www.residenzacastelverde.it/
 way	1329911486	https://www.zaccaniauto.it
 way	1331676648	https://www.italsoccorso.com/
-way	1333668107	http://www.agricamperamatrice.it/
+way	1333668107	https://www.agricamperamatrice.it
 way	1337473667	https://www.scuoladivinaprovvidenza.it/
 way	1338426062	http://www.villaadriana.beniculturali.it/index.php?it/206/santuario-di-ercole-vincitore
 way	1348536168	https://www.gruppocarli.com/sedi/farine-laziali-soc-agricola-s-s/
