@@ -977,7 +977,6 @@ node	4269036625	http://www.comunedipontinvrea.it/
 node	4269764739	https://www.labotte78.it/
 node	4276904989	https://hotelarcenciel.it
 node	4277622493	http://www.legiareagriturismo.it/
-node	4277997937	https://www.tesla.com/findus/location/supercharger/varazzesupercharger
 node	4281425591	https://www.casadane.it/en/
 node	4283708890	https://circolovega.org/
 node	4293396526	http://www.agricampinglavilla.it/
@@ -2040,7 +2039,7 @@ node	9855217484	https://centrofotoimperia.rikorda.it/
 node	9865614416	https://giuntialpunto.it
 node	9867432776	https://www.hotelalexandersanremo.it/
 node	9876430416	https://liuteriaferrarese.com/
-node	9879351808	https://www.ristoranteascibretta.it/
+node	9879351808	https://www.ristoranteascibretta.it
 node	9881811435	https://www.terrazzediportovenere.com/
 node	9893043018	http://www.bbcastellospotorno.it
 node	9895478419	https://vecchiosito.comune.arenzano.ge.it/varie/stazione-meteo-comune-di-arenzano.htm
@@ -2188,6 +2187,7 @@ node	10945948268	https://hotelelandra.com/
 node	10945986340	https://ristorantestella.my.canva.site/bordighera
 node	10946028224	https://galloedanyautomobili.com/
 node	10948506105	http://www.agriturismoabunda.com/
+node	10957073463	https://www.agenziagaribaldi.it/
 node	10962319805	https://www.penny.it/
 node	10968785485	https://www.facebook.com/people/Sms-Zinolese-Zinoa/100066477523195
 node	10970348447	https://www.future-bike.it/corner/barale/
@@ -2716,11 +2716,14 @@ node	13037679639	https://www.pasticceriadanilo.it/
 node	13039668168	https://vivolab.it/strutture/istituto-radiologico-diagnostic/
 node	13042745070	https://agenzie.realemutua.it/agenzie/agenziarapallosantamargherita
 node	13042745074	https://www.canepa1862.com
+node	13043056148	www.giostreallaspezia.it.gg
 node	13049148176	https://www.clemson.edu/caah/departments/architecture/programs/fluid-campus/genoa.html
 node	13049158362	https://residenceconte.it/
 node	13059708202	https://www.booking.com/Share-obhQ3DQ
 node	13061846001	https://www.laseusa.it
 node	13063406102	https://www.gelateriegepi.it/
+node	13067147117	https://yachtclubsantampelio.com/
+node	13072559701	http://www.valchiappella.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2927,6 +2930,7 @@ way	201489116	http://www.museobicknell.com/
 way	201489156	https://clubtenco.it
 way	201489598	http://www.lidolafontana.it
 way	201490075	http://www.hotelaurora.net/
+way	201494881	https://parrocchiaborgo.wixsite.com/officialwebsite
 way	201494908	https://www.villagarnier.it/
 way	201495002	http://www.palomaristorante.it/
 way	201495953	https://www.hotelpiccololido.it/
@@ -3015,7 +3019,9 @@ way	204217103	https://agriturismolacosta.net/
 way	204224480	https://altaviarelax.it/
 way	204228521	https://www.facebook.com/Rifugio-Escurisionistico-di-Cia%C3%A9-183339688372989/?fref=ts
 way	204285831	http://www.ristorantegrit.it/
+way	204285890	https://www.iovallescrivia.edu.it/luoghi?id=1665
 way	204297469	https://comune.casella.ge.it/
+way	204301326	https://www.iovallescrivia.edu.it/luoghi?id=1659
 way	204302111	http://www.villagrit.com/#
 way	204302380	https://www.ristoranteilcaminetto.eu/
 way	204302967	www.icbusalla.it
@@ -3401,6 +3407,7 @@ way	625126589	https://www.mymercato.it/punti-vendita/liguria/mercato-camporosso
 way	628412335	https://www.hotelrivieradeifiori.it/
 way	636976142	https://www.genovabusparking.it/
 way	656492047	https://www.parcourbanocafe.it
+way	659862669	www.iovallescrivia.edu.it
 way	677915594	https://www.provincia.savona.it/strade/sp45
 way	679767866	https://www.duegemelli.it/
 way	691088084	https://www.hotelmorandi.com/
@@ -3462,6 +3469,7 @@ way	1014292823	https://www.seltservizitecnici.it/
 way	1017547541	https://www.istitutocomprensivocairo.edu.it/
 way	1031823008	https://bifuel.net/le-stazioni-di-servizio/
 way	1042357730	https://www.castellocanevaro.com/
+way	1059062150	https://www.iovallescrivia.edu.it/luoghi?id=1663
 way	1068711643	https://www.losteelastrega.it
 way	1074198353	https://www.ilcascin.com/
 way	1077960498	https://www.brt.it/
@@ -3482,7 +3490,6 @@ way	1161621513	http://www.lattealberti.it/informativa
 way	1162787486	http://www.campingcinqueterre.it/
 way	1169028252	https://catalogo.beniculturali.it/detail/ArchaeologicalProperty/0700263711
 way	1178791148	http://www.arenzanoffroad.it
-way	1179985116	http://www.shiyunjia.it/
 way	1179991363	https://www.liguriahomes.com/
 way	1184791278	http://angelschool.it/
 way	1187886581	https://liguria.agesci.it/basecairo/
@@ -3549,6 +3556,7 @@ way	1413036756	https://www.lapinetaonline.it/
 way	1417025181	https://www.sibma.it
 way	1418182807	https://www.viadellamore.info/
 way	1418182808	https://www.viadellamore.info/
+way	1422873778	https://www.tesla.com/findus/location/supercharger/varazzesupercharger
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
