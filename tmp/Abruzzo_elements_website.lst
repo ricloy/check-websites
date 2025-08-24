@@ -133,7 +133,6 @@ node	630658877	https://www.stroilioro.com/corporate/
 node	630747847	https://www.hotelbellariva.it/
 node	630750222	https://www.hotelmaja.it/
 node	638787595	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10830
-node	639924360	https://www.teatrotosti.it/
 node	641452030	https://www.conad.it/ricerca-negozi/negozio.008551.html
 node	641454416	https://negozi.pittarosso.com/it/italia/chieti/chieti-scalo
 node	641460053	https://www.zara.com/
@@ -637,7 +636,7 @@ node	5638080401	https://www.anxasalus.com
 node	5639998889	https://grandhotelberti.it/
 node	5641395345	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10876
 node	5641406561	https://www.pampanorama.it/
-node	5643852574	http://www.dolceforno.biz/
+node	5643852574	https://www.dolceforno.biz/
 node	5643855686	http://www.fuoricomune.it
 node	5643890621	https://www.poderecauti.it/
 node	5643978322	http://www.mezzadricycles.com/
@@ -1701,7 +1700,7 @@ node	7958761457	https://www.piadapiave.it/
 node	7958787308	https://www.victoriapescara.com/
 node	7958812992	https://www.theurbanbox.it/
 node	7958889892	http://mimiforkids.it/
-node	7962035932	www.danteeantonelloruggieri.it
+node	7962035932	https://www.antonelloedanteruggieriroseto.com/
 node	7963175876	http://top-bike.it
 node	7965996338	https://www.lottomatica.it/scommesse/avvenimenti
 node	7972710750	https://www.gruppoapi.com/
@@ -2253,7 +2252,6 @@ node	9914972739	https://centroesteticobellebasta.it/
 node	9914972740	https://www.farmaciediturno.org/orariofarmacia.asp?idf=20837
 node	9917578917	https://www.farmaciediturno.org/orariofarmacia.asp?idf=19192
 node	9920709949	"http://italia.indettaglio.it/ita/abruzzo/teramo_silvi_pianacce.html#:~:text=Nella%20frazione%20o%20localit%C3%A0%20di,maschi%20e%20i%20restanti%20trecentonovantaquattro%20femmine."
-node	9920866047	https://barreasostacamper.eu/
 node	9935083847	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10848
 node	9939957625	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10804
 node	9942822770	https://www.intesasanpaolo.com/
@@ -3370,6 +3368,7 @@ node	12883649127	https://www.vroomauto.it/
 node	12883649130	https://ltransport.it/
 node	12885990205	https://www.focus.abruzzo.it/
 node	12885990206	https://bm35moto.com/
+node	12886004564	https://www.farmaciasavelli.it/
 node	12886007538	https://www.cretarossa.it/
 node	12897028644	https://www.arancucine.it/en/
 node	12899220054	https://www.rifugiovaldarano.it/
@@ -3433,6 +3432,10 @@ node	13063608002	https://www.iisovidio.edu.it/luoghi?id=1173
 node	13065383775	https://www.conad.it/ricerca-negozi/conad-via-roma-59-64014-martinsicuro--009517
 node	13065383776	https://www.farmaciatalamonti.it/
 node	13070912433	https://morenafuochidartificio.it/
+node	13081718401	https://www.gelateriaoasiortona.it/
+node	13081760243	http://www.latelierortona.it/
+node	13082649601	http://www.pizzeriaokayvasto.com
+node	13092347451	https://www.gruppoedif.it/punti-vendita/vasto
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3454,7 +3457,7 @@ way	25038582	https://tribunale-pescara.giustizia.it/
 way	25465853	https://www.liceoclassicope.edu.it
 way	26413279	https://www.centroborgodabruzzo.it/
 way	26419619	https://www.pinpalace.it/
-way	27351142	https://www.telespazio.com/it/azienda/centri-spaziali-teleporti/centro-spaziale-fucino
+way	27351142	https://www.telespazio.com/it/business/space-centres-teleports/fucino-space-centre
 way	27896384	https://ctpescara.it/
 way	28379456	https://www.ciakcity.it/
 way	28403226	https://www.lancianofiera.it/
@@ -3893,7 +3896,6 @@ way	654873829	https://adriaticaestintorisas.it/
 way	657058775	https://www.conad.it/ricerca-negozi/negozio.050066.html
 way	659661122	https://www.fontefico.it/en/
 way	659671366	https://www.sangroaventino.it/abetinarosello/
-way	659760148	http://www.comunedipollutri.it/il-paese/bosco-di-don-venanzio/28/
 way	660458604	https://www.lidl.it/s/it-IT/ricerca-negozio/vasto-ch/circonvallazione-histoniense-190/
 way	660510024	https://www.villadanilo.it/
 way	661136997	https://www.abruzzocibus.com/
@@ -3950,7 +3952,6 @@ way	677009634	https://www.istitutocomprensivotrasacco.edu.it/
 way	677166903	https://www.ostelloparcodabruzzo.it/
 way	677489592	https://sanrocco.parrocchiasambuceto.it/site/
 way	677995572	http://www.bottegaculinaria.com/
-way	678147712	https://www.facebook.com/campoditiroaurodalba/
 way	678185321	https://www.facebook.com/laghidelsole/
 way	679552344	https://www.lacollinadipeppino.com/
 way	679832900	https://ristorante-pizzeria-la-fontanella.business.site/
@@ -4061,6 +4062,7 @@ way	847792681	https://www.ilcentro.it/chieti/sottopasso-allagato-auto-sommersa-a
 way	848036184	https://www.ilcentro.it/chieti/sottopasso-allagato-auto-sommersa-alla-stazione-di-tollo-1.1996312
 way	848191721	https://www.mdspa.it/punti-vendita/Abruzzo/CH-Chieti/629-ORTONA/
 way	849331246	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/52802/Lettomanoppello+(PE)+%7C+Chiesa+di+Santa+Maria+Assunta
+way	850277075	https://www.teatrotosti.it/
 way	850423122	https://www.d-piu.com
 way	850650337	https://www.rete8.it/cronaca/123porto-pescara-ok-del-comitato-via-al-progetto-partono-i-lavori/
 way	850888679	https://www.todis.it/punti-vendita/scopri-i-negozi/
@@ -4198,7 +4200,7 @@ way	977476506	https://bagnooltremare.com/
 way	977491320	https://residenceblumare.it
 way	977660995	https://www.resortolympus.it
 way	978199856	https://www.mdspa.it/punti-vendita/Abruzzo/TE-Teramo/681-Roseto-degli-Abruzzi/
-way	978821736	https://www.info.asl2abruzzo.it/assistenzaterritoriale/dsbcastiglione.html
+way	978821736	https://www.asl2abruzzo.it/strutture/altre-strutture-del-territorio/sede-di-castiglione-messer-marino/
 way	978968636	https://www.laquercia.me
 way	979554433	https://mobilita.comune.pescara.it/parcheggi-estivi-a-nord-e-a-sud-della-citta/
 way	979813343	http://www.roccamontepiano.info/territorio/monastero-di-san-pietro-celestino.html
@@ -4258,7 +4260,7 @@ way	1059195588	https://onoranzefunebridagostino.it
 way	1059776402	https://terraaccogliente.maiellaverde.it/la-grande-frana-di-roccamontepiano/
 way	1059801447	https://www.bec.energy/?lang=en
 way	1060205588	https://www.icsanvalentinoscafa.edu.it/i-nostri-plessi/scuola-dellinfanzia-scafa-decontra/
-way	1060214734	https://wikipemap.com/map/186989270_Chiesa_di_Sant'Antonio_e_Santa_Maria_Goretti
+way	1060214734	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/9745/Chiesa+di+Santa+Maria+Goretti+%7C+Scafa+%28PE%29
 way	1060552101	https://icmichettifrancavilla.edu.it
 way	1060660319	https://www.pasettivini.it/it/
 way	1060975983	https://www.tesoridabruzzo.com/francavilla-al-mare-lomaggio-del-pittore-emilio-patrizio-al-paese-alto/
@@ -4590,8 +4592,10 @@ way	1417556425	https://circoloippicojackoneill.it/
 way	1417596679	https://www.indicepa.gov.it/ipa-portale/consultazione/indirizzo-sede/ricerca-ente/elenco-unita-organizzative/0MGJI9/uo/scheda-area-organizzativa-omogenea/A4A755D
 way	1419572939	http://www.vinicasalbordino.com/index.php/en/
 way	1420243532	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/13039/Chiesa+di+San+Quirico+%7C+Farind
-way	1420383002	https://atoka.io/public/it/azienda/societa-meridionale-inerti-smi-srl-in-liquidazione/1c91b6e4d0ab
 way	1422110192	https://www.atelierdelmobile.eu/
+way	1423062826	https://torrezambra.it/
+way	1423523012	https://atoka.io/public/it/azienda/societa-meridionale-inerti-smi-srl-in-liquidazione/1c91b6e4d0ab
+way	1423538492	https://www.bluserena.it/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4898,6 +4902,7 @@ relation	19358461	https://www.ilcamminodabruzzo.it/
 relation	19358537	https://www.ilcamminodabruzzo.it/
 relation	19358538	https://www.ilcamminodabruzzo.it/
 relation	19409648	https://www.piste-ciclabili.com/itinerari/2577-vasto-torrente-lebba
+relation	19482442	http://www.comunedipollutri.it/il-paese/bosco-di-don-venanzio/28/
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
@@ -4930,6 +4935,7 @@ node	12883355748	https://www.bnbcasapetrarca.com
 node	12887327116	https://www.basilikum.it/menu
 node	12894321758	https://centrorossetti.it
 node	13026259408	https://www.comune.lanciano.ch.it/
+node	13089598897	www.agriturismocolmorino.it
 way	93951553	https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.campingsurabaja.it%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExNHQ3RUhsNjlybTZhYmpLNwEeMkhOF1isoFjAuOn58meBOwL89Jg7KkFTaXtj-mAL-BgX8wPAO985ziB01cw_aem_SqmNlSc87-UkW1QaPta8rA&h=AT2jncjJuDNp22CmJA_hwe1-ffhQBfihrhd
 way	93951554	https://www.campingsurabaja.it/
 way	93951555	https://www.gildacamping.it/
@@ -5040,3 +5046,4 @@ relation	13457133	https://www.ilpescara.it/attualita/lavori-allungamento-aeropor
 relation	17744834	https://appenninobiketour.com/percorso/
 relation	17760420	https://appenninobiketour.com/percorso/
 relation	19283562	https://santantoniolanciano.com/la-parrocchia/
+relation	19515367	https://www.storieeluoghidabruzzo.it/notizie-su-scafa/
