@@ -424,7 +424,6 @@ node	4709834411	https://www.palazzocollicola.it/
 node	4718368163	http://www.pottikki.it/
 node	4718368240	http://www.ventodivacanze.it/
 node	4718368244	https://www.cnaumbria.it/
-node	4729396932	https://www.campingmontidelsole.it/
 node	4742862825	https://www.solelunaestetica.com/
 node	4753750405	http://www.bedandbreakfastinspello.it
 node	4776812661	https://www.malakos.it/
@@ -1019,6 +1018,7 @@ node	12772662030	https://www.ilcampodinonnogio.it/
 node	12772787860	https://www.casabiron.com/
 node	12773101470	https://www.alisubasio.it/newsite_slt/sito-di-volo/
 node	12784156801	https://www.calzature4p.it/
+node	12795801981	https://norcia.agriturismocastelluccio.it/
 node	12797777749	https://www.cesvolumbria.org/
 node	12800838873	https://www.agriturismoroccadelnera.it/
 node	12800894021	https://www.locandarosati.it/
@@ -1050,6 +1050,9 @@ node	13052307745	https://sgalla.it
 node	13074405701	http://action.com
 node	13074447201	https://antichisaporidicina.it/
 node	13074520729	https://www.treterzieri.it
+node	13075676001	https://barleyagricolo.com
+node	13084022030	https://www.beltschool.it/
+node	13092300101	https://hurraspesa.it/stores/hurra-marsciano/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1214,7 +1217,6 @@ way	305247406	https://www.resortumbriaspa.com/
 way	305694717	http://www.sanpietroagriturismo.com/
 way	305921361	http://www.coopquadrifoglio.net/it/casa_di_quartiere_la_meglio_gioventu.html
 way	306380023	http://www.agriturismoangelibiondi.com/
-way	306433199	https://norcia.agriturismocastelluccio.it/
 way	306433202	https://norcia.vacanzeacastelluccio.com/
 way	306561017	https://www.umbriatourism.it/it/-/la-necropoli-del-vallone-di-san-lorenzo-a-montecchio
 way	306973962	https://www.turismotorgiano.it/ita/15/monumenti-e-luoghi-di-interesse/1/torre-baglioni/
@@ -1791,6 +1793,7 @@ way	1421389444	https://icacquasparta.edu.it/luogo/via-d-alighieri-19/
 way	1421577960	https://www.palazzocesi-acquasparta.it/
 way	1422299951	https://icacquasparta.edu.it/
 way	1422299962	https://icacquasparta.edu.it/luogo/via-carlo-quaglia-11/
+way	1422934770	https://www.campingmontidelsole.it/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1719404	https://www.sabait.it/
 relation	1948091	https://chemindassise.org/
