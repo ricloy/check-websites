@@ -644,6 +644,7 @@ node	2615891332	http://www.comune.olbia.ss.it/
 node	2615891333	https://www.comune.oristano.it/
 node	2615891334	https://www.comune.sassari.it/
 node	2632849917	https://www.monteminervaexperience.com/
+node	2659148586	https://www.bluserena.it/
 node	2667196564	http://www.bbmarenatura.com/
 node	2684458914	http://www.agriturismosaguardia.it/
 node	2688554231	https://www.arst.sardegna.it/index.html
@@ -1916,7 +1917,7 @@ node	13041694030	https://www.asefibrokers.com/broker/samar-insurance-brokers
 node	13049684460	https://www.elissunset.com/
 node	13058189390	https://www.tenutestintino.it/
 node	13058189391	https://www.biscottificiodemelas.it/
-node	13058316480	http://www.sardignabeach.com/
+node	13058316480	https://www.sardignabeach.com/
 node	13058316481	https://beachclub69.it/
 node	13059220214	https://www.facebook.com/langolodelbucato
 node	13059826839	https://fewo-sardinien.de.cool/
@@ -1925,6 +1926,7 @@ node	13064976951	https://travel.eni.com/iveportal/stations/stationfinder.do?loca
 node	13071982447	http://www.ilsognodialghero.it/
 node	13072009785	https://www.nitidia.it/
 node	13073319201	https://www.lisciaeldiresort.it/
+node	13078128831	https://www.antonellozappino.it/la-riva/
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2806,6 +2808,7 @@ way	1382144566	https://www.visitmasullas.it/itinerari/geo-minerario/parco-ossidi
 way	1386159348	https://kutaportorotondo.com/
 way	1393877886	https://www.aziendable.it
 way	1395528180	https://studio98labs.com/
+way	1423498617	https://www.bluserena.it/
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3194,6 +3197,8 @@ relation	4026328	http://www.sanpietrodisorres.net/
 relation	4076396	https://www.marinabeach.it
 relation	4494268	https://www.subaione.it/
 relation	4617082	http://www.sardegnasentieri.it/carte/
+relation	6116542	https://www.sardegnasentieri.it/sentiero/piazzale-rai-villacidro-monte-margiani-d-118
+relation	6116544	https://www.sardegnasentieri.it/sentiero/ponte-riu-piras-genne-impi-d-102
 relation	6611766	http://www.parcodiportoconte.it/
 relation	6611767	http://www.parcodiportoconte.it/
 relation	6611768	http://www.parcodiportoconte.it/
@@ -3229,8 +3234,8 @@ relation	7621435	https://www.cisalfasport.it/
 relation	7621438	http://www.otticaerdas.it/
 relation	7621439	https://www.limoni.it/
 relation	7814866	https://www.iisbuonarrotiguspini.edu.it/
-relation	8815956	http://www.sardegnasentieri.it
-relation	8815990	http://www.sardegnasentieri.it/sentieri/mitza-su-suergiu-burdoni-203
+relation	8815956	https://www.sardegnasentieri.it/sentieri/cannoneris-medau-m-nieddu-d-201
+relation	8815990	https://www.sardegnasentieri.it/sentiero/perdu-melis-burdoni-d-203
 relation	9102765	http://www.grandetraversatadelsupramonte.it/
 relation	9102766	http://www.grandetraversatadelsupramonte.it/
 relation	9102767	http://www.grandetraversatadelsupramonte.it/
@@ -3308,6 +3313,8 @@ relation	13487589	https://www.sardegnasentieri.it/sentieri/museo-del-cervo-%E2%8
 relation	13487592	https://www.sardegnasentieri.it/sentiero/sentiero-italia-sent-811b-c-800a
 relation	14101413	https://www.cicloviadellasardegna.it/
 relation	14191482	https://www.sardegnasentieri.it/sentieri/cantina-ferraris-ovile-linas-d-112
+relation	14211283	http://www.sardegnasentieri.it/sentieri/
+relation	14211317	http://www.sardegnasentieri.it/sentieri/
 relation	14404161	http://www.windsurfingclubcagliari.org/
 relation	14480780	https://www.grendi.it/
 relation	14480781	http://www.cict.it/
@@ -3431,11 +3438,13 @@ relation	19196433	https://www.sardegnasentieri.it/index.php/sentiero/fassoni-su-
 relation	19300630	https://www.villasquer.it
 relation	19361334	https://www.pastacellino.it/
 relation	19437560	https://www.sardegnasentieri.it/sentiero/bidda-scema-genna-sambucu-d-116
+relation	19437648	https://www.sardegnasentieri.it/sentiero/cantina-ferraris-genna-sambucu-d-111
 relation	19438034	https://www.sardegnasentieri.it/sentiero/perde-pibera-genna-spina-d-114
 relation	19448081	https://www.sardegnasentieri.it/sentiero/da-gutturu-abis-scoveri-d-132
 relation	19448732	https://www.sardegnasentieri.it/sentiero/sorgente-sega-bogas-cuccurdoni-mannu-d-131
 relation	19449391	https://www.sardegnasentieri.it/sentiero/parcheggio-antas-sa-corona-arrubia-d-340
 relation	19449709	https://www.sardegnasentieri.it/node/3556
+relation	19478897	https://27crags.com/crags/punta-giogadorgiu
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -4302,6 +4311,8 @@ relation	12857738	https://danbag.altervista.org/Sardegna/F402/F402-FTP.kml
 relation	12858020	https://danbag.altervista.org/Sardegna/F404/F404-FTP.kml
 relation	12858037	https://danbag.altervista.org/Sardegna/F405/F405-FTP.kml
 relation	12858057	https://danbag.altervista.org/Sardegna/F406/F406-FTP.kml
+relation	14211283	https://danbag.altervista.org/Sardegna/T741/T741-FTP.kml
+relation	14211317	https://danbag.altervista.org/Sardegna/T702/T702-FTP.kml
 relation	14704119	https://danbag.altervista.org/Sardegna/B401/B401-FTP.kml
 relation	15088814	https://danbag.altervista.org/Sardegna/B162/B162-FTP.kml
 relation	16503335	https://danbag.altervista.org/Sardegna/B505/B505-FTP.kml
