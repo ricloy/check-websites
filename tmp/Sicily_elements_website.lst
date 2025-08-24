@@ -82,6 +82,7 @@ node	722919037	https://www.albergoathenaeum.it/
 node	722919046	https://all.accor.com/hotel/B2H7/index.en.shtml
 node	759146431	https://www.hotelsabbiedoro.it/
 node	759146810	https://www.ristoranteportamessina.com
+node	759590041	https://www.lavilletta.it/
 node	759590145	https://ristorantealpescatorelipari.business.site
 node	759590591	https://www.tripadvisor.it/Restaurant_Review-g1575073-d2217883-Reviews-Tano_Bar-Canneto_di_Lipari_Province_of_Messina_Sicily.html
 node	759590664	http://www.gecobarvulcano.it
@@ -167,6 +168,7 @@ node	1632946901	https://www.comune.francavilladisicilia.me.it/
 node	1638905901	http://www.bluhotels.it/hotel/sicilia/agrigento/blu-hotel-kaos
 node	1657262150	https://www.booking.com/hotel/it/b-amp-b-antica-dimora-messina-gazzi.html
 node	1657463962	https://www.poste.it
+node	1659017279	https://www.mcdonalds.it/
 node	1661279407	https://www.autogrill.it
 node	1676942512	http://www.bbcampidoglio.it/
 node	1702804437	https://www.poste.it
@@ -228,8 +230,10 @@ node	2002731416	https://www.poste.it
 node	2002999228	https://www.poste.it
 node	2005579919	https://trapaniedintorni.altervista.org/tag/museo-daniel-chalonge-erice/
 node	2015289574	http://www.feudohotel.it/home_page.htm
+node	2018454695	https://ristoranteyezi.iz
 node	2039090776	http://www.hotelcortese.info
 node	2039096636	https://www.hoteldelcentro.it/
+node	2054078106	https://www.chiusadicarlo.it/
 node	2067065445	http://www.ristoranteilcantuccio.it
 node	2070927487	http://www.pinetamonserrato.it
 node	2070927503	https://www.euronics.it/
@@ -1036,7 +1040,7 @@ node	3965088331	http://www.comunefrazzano.it
 node	3965113391	https://www.comune.furcisiculo.me.it/
 node	3965127760	https://www.comune.galatimamertino.me.it/
 node	3965364316	https://comune.gualtieri.me.it/
-node	3965757918	http://www.comunelipari.gov.it
+node	3965757918	https://www.comunelipari.it/
 node	3965840383	https://www.poste.it
 node	3965840384	www.comunelongi.it
 node	3967146626	https://comune.militellorosmarino.me.it/
@@ -2434,6 +2438,7 @@ node	8284400009	https://trekkingtrailmtb.wixsite.com/trekkingtrailmtb
 node	8284408672	https://www.caimessina.it/
 node	8285153243	http://gis.osservatorioturistico.sicilia.it/doc/testi/schede_albmon/quercia_commissario.txt
 node	8285153244	http://gis.osservatorioturistico.sicilia.it/doc/testi/schede_albmon/quercia_consiglio.txt
+node	8297633924	https://www.comune.pozzallo.rg.it/
 node	8303783086	https://www.barpizzeriapampam.it/
 node	8303784025	https://www.facebook.com/almirageristrappeto/
 node	8303784044	http://www.lakalta.com/
@@ -4011,7 +4016,6 @@ node	12977944277	https://sicilbatterynewlife.it/
 node	12977944278	https://www.oleificiolemacine.it/
 node	12995867161	https://www.premiatacereriaviola.it/
 node	13001092800	https://www.facebook.com/BarberPepsicily/
-node	13001128828	https://instagram.com/vogue_uomo
 node	13001133420	https://www.ecologica-palermo.it/en/
 node	13002138670	https://www.sikeliasuites.com/
 node	13017353403	https://siramuse.it/
@@ -4038,6 +4042,9 @@ node	13070962101	http://sannoto.it
 node	13071722528	https://www.ilsancarlo.com/
 node	13071957055	https://www.etnanatura.it/paginasentiero.php?nome=Necropoli_Ronna_Fridda
 node	13072980061	ristorantelatavernadelpescatore.it
+node	13076146604	https://villamagnoliataormina.blogspot.com/
+node	13089518175	https://www.villaisolaresort.com/
+node	13089856101	https://capotavolapizzeria.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4297,6 +4304,7 @@ way	147478836	http://www.icbattistifoscolo.gov.it/
 way	152522288	https://www.rifugiomarini.it/
 way	152673616	http://www.turrisicolonna.it/
 way	152697982	https://www.dfa.unict.it/
+way	152962265	https://www.lavialattea.it/
 way	153358879	https://www.santuaritaliani.it/santuario/madonna-di-dinnammare/
 way	153424773	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/45848/Erice+%28TP%29+%7C+Chiesa+di+Maria+Santissima+Assunta
 way	154915243	https://www.chaletclandeiragazzi.it/lo-chalet/
@@ -4355,6 +4363,7 @@ way	179011528	https://www.scuolecassibile.edu.it/
 way	179011541	https://www.scuolecassibile.edu.it/
 way	179093963	https://www.poste.it
 way	179310806	https://www.scuolecassibile.edu.it/
+way	179482310	https://www.mcdonalds.it/
 way	179489827	https://www.euronics.it/
 way	179598993	https://www.icgiovannipaolo2gravinact.edu.it/
 way	180135702	https://www.comune.belpasso.ct.it/it/point-of-interest/705459
@@ -4754,6 +4763,7 @@ way	318848137	https://www.donmilanipaterno.edu.it/
 way	320723831	https://www.lampedusa.to
 way	320775205	https://ascotinternational.com/
 way	320849013	http://desusino.net/
+way	320998665	https://www.bluserena.it
 way	321266959	https://duerocche.it/
 way	321282935	http://hoteldegliangeli.info
 way	321412676	http://falconararesort.edenhotels.it
@@ -5471,6 +5481,8 @@ way	832610702	https://www.cantinebirgi.it/
 way	835204990	https://www.campingdegliulivi.com/
 way	836117853	https://hoteljonionoto.it/
 way	840270537	https://www.villarenna.it
+way	844654289	https://www.cocobeachavola.it/
+way	844654296	https://www.paradisodelmare.it/
 way	844757048	https://www.di-giovanna.com
 way	844843012	https://areadisostaairone.webnode.it/
 way	845508101	https://campingcarratois.com
@@ -6340,6 +6352,7 @@ way	1416981043	https://www.msmeasuring.com/
 way	1420217471	https://www.facebook.com/campetti.lombardo
 way	1422523807	https://residence-ilborgo.com/
 way	1422523929	https://www.dusty.it/avola/ccr/
+way	1423643545	https://tramontoibleoresort.com/
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
