@@ -844,7 +844,7 @@ node	5666387469	https://www.nyxcosmetics.it/
 node	5666387470	https://www.calzedonia.com/it/negozi/puglia/bari/bari_corso_conte_camillo_benso_di_cavour_137/CAF3.html
 node	5666387472	https://www.calliope.style/
 node	5666387473	https://www.camicissima.it/allShops/bari-cavour-italia
-node	5666387478	https://www.aw-lab.com/negozio?storeID=170W_S_73714
+node	5666387478	https://www.legami.com/it_it/boutique/?storeid=0159
 node	5666387482	https://www.bershka.com/
 node	5666387485	https://stores.footlocker.it/it/it-75/bari/corso-cavour-99-101-57_31_06229.html
 node	5666387488	https://www.tezenis.com/
@@ -1100,6 +1100,7 @@ node	6810254953	https://qs-bike-di-caputo-noemi.business.site/
 node	6814074785	https://tenuta-santo-stefano-da-giuliano.business.site
 node	6843853786	https://maps.app.goo.gl/GYipq7G1HouWGDSn6
 node	6867261330	https://www.mondadoristore.it/negozi/libreria/mondadori-bookstore-grottaglie/MFR05K
+node	6867261337	https://www.cerbahealthcare.it/sedi/grottaglie-viale-matteotti-51/
 node	6869587909	www.hotelincanto.it
 node	6871760416	www.immobiliaredetomasi.com
 node	6873287411	www.hotelplaia.it
@@ -1170,7 +1171,6 @@ node	7301290211	https://castellaneta.gov.it/pubblicazioni/item/18581-servizio-di
 node	7302446212	https://www.grupposanmarco.eu/
 node	7305348348	https://www.masseriacamarda.it/
 node	7316911892	https://www.bluserena.it/it/granvalentino-village/villaggio-turistico-puglia
-node	7318427120	https://www.bluserena.it/it/alborea-ecolodge-resort/resort-puglia
 node	7323860421	http://obiettivo2020.it/bb
 node	7343277838	https://www.guidedocartis.it/?page_id=35065
 node	7343277839	https://www.guidedocartis.it/?page_id=35175
@@ -2187,7 +2187,7 @@ node	11498142595	https://www.dodo.it/
 node	11500870422	https://peroniabbigliamento.com/
 node	11500870423	https://bananabenz.it/
 node	11500932876	https://www.calzedonia.com/it/negozi/puglia/bari/bari_via_sparano_da_bari_96_98/CD87.html
-node	11500932879	https://www.legami.com/it_it/
+node	11500932879	https://www.legami.com/it_it/boutique/?storeid=0109
 node	11500932880	https://www.lordbyroncollege.com/
 node	11500932881	https://www.falconeri.com/it/negozi/puglia/bari/bari_bari_via_sparano_104/F431.html
 node	11500932882	https://www.calvinklein.it/
@@ -3131,7 +3131,7 @@ node	13059528539	https://sushikimo.it/
 node	13059573601	https://www.pasticceriasaracino.it/
 node	13059573602	https://www.facebook.com/bibliotecasava/
 node	13059573603	https://www.museomissionariocinese.org/
-node	13059925823	http://www.liceomoscati.edu.it/
+node	13059925823	https://www.liceomoscati.edu.it/
 node	13060121201	https://covepuglia.it/
 node	13061317826	https://www.naturasi.it/punti-vendita/putignano-via-cavalieri-di-malta-94-1
 node	13061317828	https://www.windsorschool.it/
@@ -3163,6 +3163,23 @@ node	13072301337	https://www.masseriaborgoritella.it/
 node	13076243728	https://agriturismopostamangieri.com
 node	13076268671	https://www.cioccolatomaglio.it/
 node	13076362004	https://www.comeinunafavola.it/
+node	13078100129	https://lavorodisquadraonline.it
+node	13078100867	https://promedicare.eu
+node	13078146001	http://bigsur.it
+node	13078163501	http://lidoturrisi.it
+node	13078226124	https://urupia.wordpress.com/
+node	13078263983	https://biblioteche.regione.puglia.it/SebinaOpac/library/Grottaglie%20-%20Biblioteca%20comunale%20Gaspare%20Pignatelli/PUGAE
+node	13078270062	https://www.liceomoscati.edu.it/
+node	13078274054	https://www.liceomoscati.edu.it/
+node	13078276774	https://www.liceomoscati.edu.it/
+node	13078329607	https://unica.istruzione.gov.it/cercalatuascuola/istituti/TAAA84201B/giocosa/
+node	13078522962	https://www.cdlp.it/
+node	13082555548	https://www.facebook.com/pianobri
+node	13082626421	https://www.associazionemusicaleamj.it/
+node	13084210546	https://www.carrisiland.it/
+node	13086544555	https://www.comune.carosino.ta.it/vivere-il-comune/luoghi/municipio/
+node	13089275738	http://www.ediliziaperlacasa.com/
+node	13089592453	https://matiti.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -3247,6 +3264,7 @@ way	181148484	http://www.bleusalento.it/
 way	181595328	http://www.diocesifoggiabovino.it/?pag=diocesi&sub_pag=parrocchie&action=view&newsid=20
 way	184736881	https://www.fimetsrl.com/
 way	195795727	https://it.wikipedia.org/wiki/Stazione_di_Ginosa
+way	195819550	https://www.bluserena.it
 way	198901667	http://www.gommoland.it/
 way	200881623	https://www.ilcantico.nl/
 way	202178196	https://www.iamb.it/
@@ -3400,7 +3418,6 @@ way	332659502	https://www.liceoribezzo.edu.it/
 way	332686340	https://terzoicfrancavilla.edu.it/
 way	334146669	http://www.secondocomprensivoadelfia.it/
 way	334709550	http://sanroccoceglie.altervista.org/
-way	334711114	https://www.carrisiland.it/
 way	334779688	https://www.sanita.puglia.it/web/asl-brindisi/distretti-socio-sanitari_det/-/journal_content/56/36031/dss-n-3-francavilla-fontana
 way	334779689	https://www.conservatoriolecce.it/index.php?option=com_content&view=article&id=498&Itemid=196
 way	335600675	https://www.calaponte.com/
@@ -3460,6 +3477,7 @@ way	380008264	https://www.hotelmontecallini.com/
 way	380076858	https://www.martinucci1950.com/
 way	380076992	https://www.ristorantelacozza.it/
 way	380077602	https://www.lidovenere.com/
+way	380836120	https://www.bluserena.it/
 way	381630465	http://www.comunedicollepasso.gov.it
 way	382429581	https://www.salentohotels.it/
 way	382642081	https://www.icdonmilanidassisi.edu.it/luogo/plesso-vito-faenza/
@@ -3620,7 +3638,6 @@ way	411844159	https://casamidi.it/
 way	411866371	https://www.comune.noci.ba.it/it/page/chiese-conventi-e-monasteri
 way	411867703	https://catalogo.beniculturali.it/detail/PhotographicHeritage/1600368685
 way	411875194	http://www.icgallopositano2circolo.gov.it
-way	412167074	https://palazzofizzarotti.com/
 way	412526220	https://portosantospirito.it/
 way	412715106	https://www.montecosrl.it/
 way	413944453	https://www.pianetaostuni.it/index.php/18-chiese-rurali/562-soluco-24
@@ -3671,6 +3688,7 @@ way	417999276	https://www.come-te.net/comete/nido-e-scuola-dellinfanzia-beata-el
 way	417999516	https://campusx.it
 way	417999575	https://tribunale-bari.giustizia.it/
 way	418001525	https://www.consba.it/
+way	418005600	https://www.vallisa.it/
 way	418005612	http://www.comune.bari.it/
 way	418005634	http://www.palamartino.it
 way	418005639	https://crescereinsiemebaricoop.pro06.it/aladdin/
@@ -3793,7 +3811,6 @@ way	423157307	https://www.decomobili.com/
 way	423173201	https://www.newsunflower.it
 way	423180653	https://bb-chiancaro.business.site/
 way	423545087	https://www.fseonline.it/
-way	423808058	https://www.kalidriahotel.com/
 way	423829221	https://www.facebook.com/MinimarketSantomajLeporano/
 way	423831009	http://www.santomaj.com/
 way	423940506	www.bbginevra.it
@@ -3951,7 +3968,7 @@ way	506383788	http://www.ipdepace.com
 way	507091083	https://www.ledunesuitehotel.it/
 way	507107462	http://www.hotelriccio.com
 way	507107463	https://www.hotelfalli.com/
-way	507372871	www.azzurrocalenella.com
+way	507372871	https://www.azzurrocalenella.com/
 way	507373732	https://baiacalenella.com/
 way	507881616	https://www.hotelmediterraneo.org/
 way	508233043	http://www.lagiararesort.it
@@ -4129,10 +4146,10 @@ way	769768290	http://www.liceolilla.it
 way	777800980	https://www.tribunale.bari.giustizia.it/
 way	779340548	http://www.itdeleddalecce.gov.it
 way	779865408	https://www.villaggioalbergocervo.it/
-way	783443023	https://www.bluserena.it/it/granvalentino-village/villaggio-turistico-puglia
-way	783443024	https://www.kalidriahotel.com/
-way	783443026	https://www.bluserena.it/it/calane-village/villaggio-turistico-puglia
-way	783454020	https://www.bluserena.it/it/alborea-ecolodge-resort/resort-puglia
+way	783443023	https://www.bluserena.it
+way	783443024	https://www.bluserena.it
+way	783443026	https://www.bluserena.it
+way	783454020	https://www.bluserena.it
 way	784447186	https://www.athenaservizi.it/
 way	794687543	https://www.pianetaostuni.it/index.php/lame/delle-grotte
 way	795338558	https://www.pianetaostuni.it/index.php/lame/delle-grotte
@@ -4514,6 +4531,7 @@ way	1418907304	https://www.icdavinci.it/
 way	1418919977	https://www.icsdantealighieri.edu.it/
 way	1418922462	https://unica.istruzione.gov.it/cercalatuascuola/istituti/BREE80802G/madre-teresa-di-calcutta/
 way	1418922463	https://unica.istruzione.gov.it/cercalatuascuola/istituti/BREE80801E/don-lorenzo-milani/
+way	1424609373	https://www.plgenius.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -4575,6 +4593,7 @@ relation	6418568	https://www.sentierinelparco.it/sentieri/f01sentiero-del-nemico
 relation	6449811	https://www.rivadiugento.it/
 relation	6502703	http://www.bel-ami.it
 relation	7320501	https://www.ipsantarelladelilla.edu.it/luogo/sede-centrale/
+relation	7737183	https://ilcastellovolante.it
 relation	8055419	https://www.iczannotti.edu.it/sito1/index.php
 relation	8055449	https://www.pestalozzi.edu.it/
 relation	8221789	http://parcodellegravine.provincia.ta.it/
@@ -4706,6 +4725,7 @@ relation	18972913	https://www.bicitalia.org/it/routing-gpx?bi_id=13
 relation	19099079	https://www.decorcasagarden.it/
 relation	19355352	https://www.vigilfuoco.it/sedi-vvf/distaccamento-aeroportuale-di-bari
 relation	19462339	https://www.spaziomurat.it/
+relation	19515335	https://palazzofizzarotti.com/
 node	267435000	https://www.museodelconfetto.it/
 node	305000300	https://www.comune.terlizzi.ba.it
 node	347426173	https://pinacoteca.comune.terlizzi.ba.it
