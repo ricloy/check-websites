@@ -307,7 +307,7 @@ node	1487387990	http://www.tramontievigne.it/
 node	1487933346	https://www.barattiemilano.it/caffe-baratti
 node	1489981315	https://www.alvearebarcitta.it/
 node	1490049566	http://www.ghironda.com/valmaira/pages/99139.htm
-node	1513480039	http://www.comune.torino.it/cultura/biblioteche/sedi_orari/carluccio.shtml
+node	1513480039	https://bct.comune.torino.it/sedi-orari/luigi-carluccio
 node	1514848350	https://bct.comune.torino.it/sedi-orari/cesare-pavese
 node	1515827367	http://algirasol.com/
 node	1528857258	https://www.dafabionetrattoriapizzeria.it/
@@ -466,6 +466,7 @@ node	1892546711	http://www.limoni.it/
 node	1892958244	http://www.pagliughisport.com/
 node	1892958955	http://www.saitviaggi.it/
 node	1893038930	http://www.comune.fossano.cn.it/
+node	1893942269	lepetitrestaurantjaponaise.com
 node	1893942270	https://sanmicheleristorante.it/index.php/it-it/
 node	1895071125	https://www.comune.balme.to.it/it-it/home
 node	1895071131	https://www.ecomuseobalme.it/index.html
@@ -826,7 +827,7 @@ node	2408949534	https://www.damistral.it/default.asp
 node	2410250002	https://www.unicredit.it/
 node	2411069971	https://argirobiciclette.oneminutesite.it/
 node	2411560485	https://interaffariimmobiliare.it/
-node	2411560486	http://rondodeitalenti.it
+node	2411560486	https://rondodeitalenti.it/
 node	2411560496	http://www.queentouch.it/
 node	2412939260	http://www.lapiallasnc.it/
 node	2422115900	https://www.fabbromobili.com/
@@ -2489,7 +2490,6 @@ node	4735867243	https://kebhouze.com/
 node	4735867714	https://thebeachmurazzi.it/
 node	4735868305	https://www.ristorantemarenostrum.it/
 node	4735868851	http://www.osteriainvinoveritas.it
-node	4735868972	https://www.trattoriapiemontese.it/
 node	4735869375	https://www.melissatorino.com/
 node	4735870059	http://www.amsterdamchips.com/
 node	4736052784	https://www.valorevalori.it/
@@ -3013,6 +3013,7 @@ node	5670131907	https://www.stroppianaspa.it/
 node	5671202632	https://www.farmaciadivintebbio.it
 node	5671460893	https://farmaciainternazionale.net/
 node	5672194304	https://www.enotecadelbarolo.it/
+node	5672620382	https://www.instagram.com/barsportbarolo/
 node	5672671974	https://www.docbi.it/modules/smartsection/item.php?itemid=1833
 node	5672689574	https://www.docbi.it/modules/smartsection/item.php?itemid=1835
 node	5672694518	https://www.docbi.it/modules/smartsection/item.php?itemid=1829
@@ -3571,6 +3572,7 @@ node	6454272701	https://www.ilmaniero.it/
 node	6459156399	https://www.ecomuseopietracantoni.it/
 node	6460327628	https://www.meteo3r.it/
 node	6463280948	https://www.pampanorama.it/
+node	6463552477	https://visitvalsesiavercelli.it/vivi/arte-e-cultura/museo-della-subacquea-storica-vercelli/
 node	6464687515	https://www.mupin.it
 node	6464788041	https://www.ildivisionismo.it
 node	6466198055	http://labufalinacuneo.altervista.org
@@ -4783,6 +4785,7 @@ node	8842330456	https://labonauda.it/
 node	8846802204	https://www.conad.it/ricerca-negozi/negozio.050050.html
 node	8850637213	https://hotelresidenceanticoverbano.it/ristorante
 node	8851032159	https://www.astimagmax.it/
+node	8852460276	https://primavercelli.it/
 node	8853135895	https://ar-lab.it
 node	8855253314	http://www.flyislife.it/
 node	8855253315	https://www.villamorenica.it/
@@ -6800,18 +6803,28 @@ node	13059876852	https://www.comune.piozzo.cn.it
 node	13059876962	https://www.comune.lesegno.cn.it/
 node	13060151401	https://www.cascinabelvedere.eu
 node	13062054713	https://www.excaliburbar.it
-node	13064260867	www.antico-convento.it
+node	13064260867	https://www.antico-convento.it/
 node	13064999712	https://spaceindustries.global/
 node	13065127374	https://coripet.it/
 node	13065149852	https://www.studioquality.it
 node	13066452430	https://www.restaurantrelais.com/
 node	13066452431	http://www.romantichoteltorino.com/hotel-quatre-etoiles-turin-italie
-node	13068108501	http://motorbikevercelli.com
+node	13068108501	https://motorbikevercelli.com/
 node	13069785201	https://www.tonysport.net
 node	13070525343	https://bigbenchcommunityproject.org/
 node	13072486742	https://www.pgrcompany.it
 node	13072726803	http://www.ossolahiking.com
 node	13077465601	http://www.gruppocdc.it
+node	13077506801	https://www.tribunale.torino.giustizia.it
+node	13078750189	https://www.thecrag.com/fr/grimper/italy/northern-italy/torino-susa-area/val-chisone/area/339978912
+node	13081462267	https://www.cicapuy.it/
+node	13081532300	https://www.aslcn1.it/donare-sangue-e-plasma
+node	13082038035	https://www.instagram.com/bicicleria/#
+node	13082041537	https://www.seatorino.org/
+node	13082298524	https://www.trattoriapiemontese.it/
+node	13084346006	https://bedandbreakfastlameridiana.com/
+node	13086572082	https://sushiko.it/locali/sushiko-serravalle-retail-park/
+node	13092050243	https://nalustore.it/
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
 way	24219041	http://www.comune.torino.it/infrastrutture/opere/viabilita/chiaves.htm
@@ -7141,6 +7154,7 @@ way	145237354	http://www.cascinagabriela.com/
 way	145587042	https://www.campinggranbosco.it/
 way	146337029	http://bernezzo.diocesicuneo.it/introduzione-1.html
 way	149101164	https://www.covar14.it/index.php/servizi/centri-di-raccolta
+way	149116211	https://www.cittadellasalute.to.it/
 way	149809069	https://www.ikea.com/it/it/stores/torino-collegno/
 way	149862629	http://www.rifugimonterosa.it
 way	150181354	http://icpertiniovada.it/jmla/scuola-secondaria-di-1d-grado-pertini.html
@@ -7587,6 +7601,7 @@ way	211439258	http://www.parrocchiadibelgirate.it/Parrocchia_di_Belgirate/PB_-_C
 way	211477145	https://www.carrefour.it/punti-vendita/supermercato-carrefour-market-torino-stradella-192194
 way	211650867	https://www.aeo.it/punti-vendita/piemonte/supermercato-aeo-grignasco---stazione
 way	211734692	https://www.coworkingproject.com/coworking-network/omegna-gravellona-toce/
+way	212305770	https://www.comune.balocco.vc.it/
 way	212650231	https://www.castellodeisolaro.it/
 way	212764334	http://www.comune.pila.vc.it/
 way	212905082	https://www.shunfa.it/
@@ -7719,6 +7734,7 @@ way	225430872	https://www.lavazzei.it/
 way	225650860	https://www.eurossola.com/
 way	225914036	https://laprealpina.com
 way	226044578	https://www.astrofilibisalta.it/
+way	226264739	https://comune.oldenico.vc.it/
 way	226432971	https://comune.bolzanonovarese.no.it
 way	226435163	http://www.comune.luecuccaromonferrato.al.it/
 way	227399316	https://www.cascinalissona.com
@@ -8163,6 +8179,7 @@ way	303844391	https://www.museodellequarne.it/
 way	303846142	https://www.comune.quargnento.al.it/it/page/cimitero-comunale-f6a047f2-213c-4618-abb2-cb7e9965f7c9
 way	303848461	https://www.fratellidurando.it
 way	304009827	https://miraorti.com/
+way	304099856	https://www.monkeysevolution.org/
 way	304155358	https://comune.crevoladossola.vb.it/it-it/vivere-il-comune/dove-dormire/area-sosta-camper-lago-tana-54829-1-b3bf2952adca2b9fa5dc8f655fb0668e
 way	304161834	https://www.chiesa-baceno.it
 way	304193913	https://www.icarona.edu.it/
@@ -8278,7 +8295,6 @@ way	323254333	http://www.hotellacasadelre.it
 way	323327781	https://feasgourmet.it/
 way	323658685	https://www.orangepalestre.it/palestra/lingotto/
 way	323688943	https://www.sauzehotel.com/
-way	324062068	https://www.crai-supermercati.it/code/punti-vendita/pdv.php?id=161
 way	324267881	http://www.castellodibanchette.it
 way	324276154	http://www.anticopedaggio.it/
 way	324451788	https://otticanazzarobassi.it/
@@ -8390,6 +8406,7 @@ way	362507348	https://www.hotellanghe.it/
 way	363226140	https://iisgovonealba.it/
 way	363226586	https://residenzasanpaolo.com/
 way	363284002	https://www.istitutoprimolevi.edu.it/
+way	363448488	https://gabanon.it/
 way	363491673	https://www.ceretto.com/
 way	363498414	https://www.hotelmedea.it/
 way	363578365	https://www.parcosafari.it/
@@ -8637,6 +8654,7 @@ way	395787488	http://www.cascinalane.com/
 way	396375636	https://www.campobaseacceglio.it/
 way	396382868	https://www.campobaseacceglio.it/
 way	396957597	https://www.comune.chieri.to.it/
+way	397478169	https://www.kura.srl
 way	397504738	https://ilgelsodelmainito.it/
 way	397713487	https://ecomuseo.wixsite.com/altavalsangone
 way	398196331	http://www.iisdoria.it
@@ -9542,6 +9560,7 @@ way	859069626	http://www.comune.premeno.vb.it/
 way	859755943	https://www.agriturismoalpecrampiolo.it/
 way	859994150	https://www.botanicgozzano.it/
 way	860985703	http://www.aziendaagricolasbarato.com/
+way	862215352	https://comune.villarboit.vc.it/
 way	865322070	https://www.conad.it/ricerca-negozi/negozio.050412.html
 way	871989149	https://www.armandovivai.it
 way	875098117	https://www.comune.arborio.vc.it/
@@ -10138,7 +10157,6 @@ relation	4576148	https://www.ecomuseodellerocche.it/
 relation	4576244	https://www.ecomuseodellerocche.it/
 relation	4576282	https://www.ecomuseodellerocche.it/
 relation	4576532	https://www.ecomuseodellerocche.it/
-relation	4577160	https://www.ecomuseodellerocche.it/
 relation	4583168	https://www.lamitica.it/
 relation	4604563	https://www.fortedifenestrelle.it
 relation	4651537	https://www.sentierobalcone.it/
@@ -10258,9 +10276,9 @@ relation	7631780	https://www.caiseregno.it/
 relation	7642600	https://www.estmonterosa.it/catasto-percorsi-vco-valli-antigorio-formazza-settore-g.html
 relation	7651697	https://www.cmop.it/
 relation	7651757	https://www.cmop.it/
+relation	7660060	https://www.cmop.it/
 relation	7663066	https://www.cmop.movimentolento.it/
 relation	7663067	https://www.cmop.movimentolento.it/
-relation	7665506	https://www.cmop.it/
 relation	7665513	https://www.cmop.movimentolento.it/
 relation	7670114	https://it.wikipedia.org/wiki/Sentiero_Italia
 relation	7685374	https://www.estmonterosa.it/catasto-percorsi-vco-val-grande-settore-p.html
@@ -11460,6 +11478,10 @@ relation	19193083	https://www.parks.it/parco.gran.bosco.salbertrand/iti_dettagli
 relation	19373258	https://schweizmobil.ch/fr/suisse-a-pied/itineraire-6/etape-27
 relation	19440206	https://www.estmonterosa.it/catasto-percorsi-vco-val-divedro-settore-f.html
 relation	19448140	http://www.fortedivinadio.it/index.html
+relation	19475140	https://www.grandtourlagodorta.it/
+relation	19507361	https://www.camminolagomaggiore.it
+relation	19509180	https://www.cmop.it/
+relation	19509433	https://www.cmop.it/
 node	63629039	http://www.comune.chiusadisanmichele.to.it
 node	63631321	http://www.cittadisusa.it/
 node	306555609	https://www.rinascente.it/it/store-torino-via-lagrange
@@ -11834,7 +11856,7 @@ node	6420525774	http://www.fuoritempo.net
 node	6425340685	https://www.nordaffari.com
 node	6440639639	https://www.grancollina.com
 node	6468199496	http://www.maccheria.it
-node	6505421822	http://mulinodibairo.it
+node	6505421822	https://www.mulinodibairo.it/
 node	6510465713	https://www.ristoranteisolabella.it/
 node	6516420012	https://www.paneamorepoderia.com
 node	6542763916	http://www.grandamodels.it
@@ -12623,6 +12645,10 @@ node	13018258016	https://www.gulliver.it/itinerari/miroglio-attico-falesia/#main
 node	13018268461	https://ekye.it/fontane/museo-etnografico/
 node	13023980062	https://www.gulliver.it/itinerari/alpini-falesia-degli-2/
 node	13028659360	https://www.comune.frabosasoprana.cn.it/Guidaalpaese?IDPagina=55578&IDCat=8615
+node	13084116486	https://www.falesia.it/it/crag/293/borgoratto.html
+node	13084142702	https://www.thecrag.com/de/klettern/italy/mont-orfano/area/408571107
+node	13084142703	https://www.thecrag.com/de/klettern/italy/mont-orfano/area/408571107
+node	13084188604	https://www.thecrag.com/de/klettern/italy/mont-orfano/area/408571107
 way	59167755	https://ip.gruppoapi.com/
 way	70044283	"https://openstreetcam.org/map/@45.692245515194244,8.471601605415346,18z"
 way	75614681	http://www.rifugiogenova.it/
