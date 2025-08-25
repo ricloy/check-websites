@@ -57,7 +57,6 @@ node	1307685825	https://www.mdspa.it/punti-vendita/Campania/SA-Salerno/710-SAPRI
 node	1316712175	http://www.ustariarosella.it
 node	1320623898	www.hrmare.com
 node	1330786982	http://www.comune.pianodisorrento.na.it/
-node	1342638343	http://www.lidolasolara.com
 node	1357012856	http://www.tavernaviola.it/
 node	1374246701	https://www.napolisotterranea.org/
 node	1386654181	https://www.trezene.com/
@@ -1270,6 +1269,7 @@ node	7886966891	https://www.zara.com/it/
 node	7886966892	https://www.hollisterco.com
 node	7896928514	www.unattimodivino.com
 node	7900078858	https://www.istitutocomprensivolusciano.edu.it/
+node	7900110454	https://www.fattoriafuoridizucca.it/
 node	7900567308	https://sportnetit.com/
 node	7911886359	https://www.prestitoprimeacerra.it
 node	7912388242	https://www.bibliotecauniversitarianapoli.beniculturali.it/
@@ -1444,6 +1444,7 @@ node	8862324824	https://www.aslnapoli2nord.it/vaccinazioni/campagna-vaccinale-co
 node	8862399418	https://www.osterianumerocinque.it/
 node	8862428334	https://www.aslnapoli2nord.it/vaccinazioni/campagna-vaccinale-contro-il-covid19/
 node	8862447980	https://www.aslnapoli2nord.it/vaccinazioni/campagna-vaccinale-contro-il-covid19/
+node	8862474379	https://www.wildbuffalo.it/
 node	8865187679	https://www.santachiarahotel.com/
 node	8868346334	https://www.igeasantimo.com/gruppo-igea/centro-igea-santantimo
 node	8868798017	https://www.centroitaliano.it/
@@ -2490,6 +2491,7 @@ node	12393497846	https://www.fotododici.com/
 node	12397638201	https://www.airbnb.it/rooms/1228131104828878895?adults=1&children=0&enable_m3_private_room=true&infants=0&pets=0&search_mode=regular_search&check_in=2024-12-05&check_out=2024-12-10&source_impression_id=p3_1733398448_P378tQ4XiIXXPSzM&previous_page_section_
 node	12403381630	https://www.musa.unicampania.it/index.php/le-sezioni/bibliografica
 node	12406908119	https://www.officinagraficaimprimo.it/
+node	12422885343	https://antonioemanu.it/
 node	12431827901	https://www.pizzeriamadison.it
 node	12441350009	https://www.mariotalarico.it/
 node	12444164160	https://www.laguardiense.it/
@@ -2542,6 +2544,7 @@ node	12623405445	https://www.rabbitagerola.it/
 node	12624316451	https://litho55restaurant.it/
 node	12628899010	https://social.quandoo.com/en/groups/trattoria-tammarie-103414
 node	12650215229	https://forancostruzioni.it/
+node	12657390240	https://www.delfinosurgelati.it/
 node	12657406726	https://www.instagram.com/event.uomo
 node	12660487432	https://iresilientipizzaefrittidautore.com/
 node	12660645944	https://www.unisa.it/
@@ -2757,8 +2760,8 @@ node	13042872201	https://www.palazzodoriadangri.it/
 node	13045218978	https://milloneburger.com/
 node	13052310801	https://zintoniohotel.it/
 node	13057939080	https://uplevel.fitness/
-node	13059242187	www.terrazzacaravaggio.eu
-node	13060893026	http://www.liceomercalli.it/
+node	13059242187	https://www.terrazzacaravaggio.eu/
+node	13060893026	https://www.liceomercalli.it/
 node	13060893027	https://www.ispagano.edu.it/
 node	13061974550	ammaccamm.com
 node	13071635527	https://www.comune.lusciano.ce.it/
@@ -2767,6 +2770,22 @@ node	13071704786	https://www.comune.ortadiatella.ce.it/hh/index.php
 node	13073198912	https://www.comune.acerra.na.it/
 node	13075628219	https://www.tcengineering.it/
 node	13075697659	https://www.villatreville.com/
+node	13078812424	https://sepformazione.it/
+node	13083994746	http://www.nolaferramenta.it/
+node	13083994748	https://booxit.it/app/umakisalerno
+node	13083994753	https://www.bancobpm.it
+node	13084067531	https://intesa-sanpaolo-it.open-closed.net/lusciano-orario-via-manzoni-2
+node	13084091828	http://www.ciardocucinadimare.it/
+node	13084091829	http://www.ciardolabottega.it/
+node	13084091831	https://autolavaggiosantarosa.it/
+node	13084091846	http://www.edillegnosalerno.it/
+node	13084880828	https://monamourshop.eu/
+node	13085287233	https://www.eurospin.it/punti-vendita/lusciano/
+node	13090625324	https://ottiglass.com/
+node	13090625327	http://www.prestige-sporting-club.com/
+node	13091934591	https://www.instagram.com/olympic_club_qualiano_/
+node	13091950717	https://www.demaprint.it/
+node	13093000077	https://www.liceosianiaversa.edu.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	24225619	https://www.reggiadicaserta.beniculturali.it/
 way	28929636	http://www.pompeiisites.org/Sezione.jsp?titolo=L%27Orto+botanico&idSezione=6912
