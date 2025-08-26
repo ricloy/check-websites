@@ -1029,6 +1029,7 @@ node	4442370141	https://www.museopassatempo.it/
 node	4446277273	https://www.cmac.it/
 node	4452442993	https://locandaitremerli.com
 node	4453271993	http://www.anticaosteriadapalmira.it/
+node	4462319794	http://www.fast-energy.net/
 node	4481733823	https://www.upregin.it/
 node	4504247325	https://www.allscent.it/
 node	4506380200	www.citymessage.it
@@ -1117,6 +1118,7 @@ node	4820899823	https://www.ristorantefuorirotta.com
 node	4821264345	http://www.italianscandinavian.com
 node	4846863124	http://www.abcschoolsestrilevante.com
 node	4870403031	https://www.picassogomme.com/
+node	4873559861	https://ilmugugno.com/
 node	4878600028	https://www.pinko.com/
 node	4878600029	http://www.patriziapepe.it
 node	4878600030	https://oculariumottica.it/
@@ -1143,6 +1145,7 @@ node	4977048545	https://www.campingfinaleligure.it/
 node	4977810829	http://www.allevecchiemura.it
 node	4986489528	https://www.obiettivodanza.net
 node	5003306458	http://www.alpinicogoleto.it
+node	5003844838	https://animalcentertoelet.wixsite.com/animalcenter
 node	5003847304	https://www.conad.it/ricerca-negozi/negozio.010196.html
 node	5008333085	https://www.pacolor.com/
 node	5019278941	https://www.conad.it/ricerca-negozi/negozio.007113.html
@@ -2395,6 +2398,7 @@ node	11577578820	https://www.immobiliareoptima.it
 node	11577695833	https://www.studio-guglielmi.com
 node	11577695834	https://www.blix.it
 node	11577695842	https://www.nuovaidr.com/
+node	11578608343	www.otticabessone.it
 node	11578608345	https://olioberaldi.it/
 node	11578608355	https://www.compass.it/agenzie/prestiti-imperia.html
 node	11578608358	http://www.narcisoart.com/
@@ -2716,14 +2720,19 @@ node	13037679639	https://www.pasticceriadanilo.it/
 node	13039668168	https://vivolab.it/strutture/istituto-radiologico-diagnostic/
 node	13042745070	https://agenzie.realemutua.it/agenzie/agenziarapallosantamargherita
 node	13042745074	https://www.canepa1862.com
-node	13043056148	www.giostreallaspezia.it.gg
+node	13043056148	https://www.giostreallaspezia.it.gg/
 node	13049148176	https://www.clemson.edu/caah/departments/architecture/programs/fluid-campus/genoa.html
 node	13049158362	https://residenceconte.it/
 node	13059708202	https://www.booking.com/Share-obhQ3DQ
 node	13061846001	https://www.laseusa.it
 node	13063406102	https://www.gelateriegepi.it/
 node	13067147117	https://yachtclubsantampelio.com/
-node	13072559701	http://www.valchiappella.it/
+node	13072559701	https://www.valchiappella.it/
+node	13085061984	https://paddockpub.it/
+node	13087131514	https://www.immobiliareriviera.it
+node	13094383054	https://lavachiclavanderia.it/
+node	13096949218	http://www.rgsi.it/
+node	13096949219	http://www.missautousato.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3081,9 +3090,11 @@ way	205929383	https://www.x-rider.it/
 way	206027934	https://parrocchiasanlazzaro.wixsite.com/sanlazzaro
 way	206085971	https://parrocchiasanlazzaro.wixsite.com/sanlazzaro
 way	207301551	http://derrick.it/genova-borzoli/
+way	207331466	https://smart.comune.genova.it/content/garrone
 way	207332100	https://www.ambulatoriomorego.it/
 way	207332359	https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html
 way	207335714	http://www.ricreatorio.it/
+way	207336512	https://www.officinaprefumo.it
 way	207337719	http://www.grondona.com
 way	207920143	http://www.galatamuseodelmare.it
 way	208146569	https://www.rpbw.com/
@@ -3167,7 +3178,6 @@ way	235830029	https://www.campingbaciccia.it/
 way	235873437	http://consorzio.marinagenova.net/
 way	237728671	http://www.amico.it/
 way	243689551	www.parodispa.it
-way	245280430	https://www.museidigenova.it/en/museum-lighthouse-la-lanterna
 way	250470365	https://www.thecrag.com/climbing/italy/area/451380039
 way	250470401	https://www.thecrag.com/climbing/italy/area/451380210
 way	251618464	http://www.getoil.it/
@@ -3407,7 +3417,7 @@ way	625126589	https://www.mymercato.it/punti-vendita/liguria/mercato-camporosso
 way	628412335	https://www.hotelrivieradeifiori.it/
 way	636976142	https://www.genovabusparking.it/
 way	656492047	https://www.parcourbanocafe.it
-way	659862669	www.iovallescrivia.edu.it
+way	659862669	https://www.iovallescrivia.edu.it/
 way	677915594	https://www.provincia.savona.it/strade/sp45
 way	679767866	https://www.duegemelli.it/
 way	691088084	https://www.hotelmorandi.com/
@@ -3557,6 +3567,7 @@ way	1417025181	https://www.sibma.it
 way	1418182807	https://www.viadellamore.info/
 way	1418182808	https://www.viadellamore.info/
 way	1422873778	https://www.tesla.com/findus/location/supercharger/varazzesupercharger
+way	1424746516	https://villabiener.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -4129,6 +4140,7 @@ relation	19343304	https://www.caiparma.it/
 relation	19425272	https://www.parks.it/parco.montemarcello.magra/iti_dettaglio.php?id_iti=4642
 relation	19434978	https://www.carrefour.it/
 relation	19435493	https://www.parcomagra.it/il-parco-in-bicicletta/
+relation	19515124	https://www.museidigenova.it/en/museum-lighthouse-la-lanterna
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1360305797	http://www.autogrill.it/portal/public/default
@@ -4167,6 +4179,7 @@ node	4358577655	www.camoglicase.it
 node	4442358037	http://www.museodellacanzone.it/
 node	4467496585	www.possibile.com
 node	4878856100	https://www.paginegialle.it/moneglia-ge/pizzerie/pizzeria-ciocco
+node	4888387271	https://www.bper.it/scheda-filiale/-/filiale/liguria/imperia/agenzia-22068
 node	5141426251	http://www.motonauticapagliettini.it
 node	5146204592	http://www.ulivoeilmare.it
 node	5154735413	http://www.nauroz.com/
@@ -4233,6 +4246,7 @@ node	12785575476	https://www.abruzzese.it/
 node	12785575477	https://www.erbolario.com/
 node	12900434615	https://www.essevuelettronica.it/
 node	12900434617	https://www.duerrecentromedico.it
+node	13096908610	https://www.oliorivieraligure.it/produttori/frantoio-ulivi-di-liguria/
 way	134211659	http://www.celtorretta.it/
 way	158281161	https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html
 way	200981533	https://www.hotelbobby.it
