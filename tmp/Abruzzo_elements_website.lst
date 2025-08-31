@@ -39,7 +39,6 @@ node	135133652	https://multicinema.it/Programmazione?cinema=arca
 node	203398457	https://portedipescara.it/negozi/interspar/
 node	228262895	http://www.xfuel.it/stations.html
 node	228263519	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/API41510
-node	249428915	https://www.facebook.com/UTOPIA.RISTOPUB.MONTESILVANO/
 node	250052540	https://www.centrodabruzzo.com/negozi/ipercoop/
 node	254086847	https://www.icpescara3.edu.it/istituto-2/via-milite-ignoto/
 node	254087448	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10779
@@ -354,7 +353,7 @@ node	2429207648	https://www.enteportogiulianova.it/
 node	2443972547	https://www.residenza-latorre.it
 node	2444404305	https://www.residencebelvedere.eu/
 node	2444404947	http://www.lecasedellaposta.it/
-node	2446746550	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10840
+node	2446746550	https://farmaciarussodomenico.it/
 node	2460717204	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10818
 node	2478805151	https://www.decathlon.it/store-view/negozio-sport-teramo-0070115001150
 node	2498326469	http://www.tradizionecarni.it/
@@ -1570,6 +1569,7 @@ node	7713307992	https://www.autoscuoleriunite.it/
 node	7713837824	https://carpediem.pizza
 node	7713989541	https://www.dormiresano.eu/
 node	7716092725	https://www.comeinunafavola.it/puntivendita/pescara/21/
+node	7719489170	https://lo-spuntino-burger.it/
 node	7719509720	https://www.tropicoexotico.it/
 node	7723468542	https://brancaleo.thefork.rest/en_GB/
 node	7725989612	https://www.pinko.com
@@ -2120,7 +2120,6 @@ node	9230398975	https://www.tenutaarabona.it
 node	9231155543	https://www.crezy-queen.com
 node	9233668711	https://tecnousatopescara.it/
 node	9234918860	https://www.madonnacarminemontesilvano.it
-node	9235036776	https://www.sarniristorazione.it
 node	9246684655	https://italia.indettaglio.it/ita/abruzzo/chieti_casalincontrada_malandravecchia.html
 node	9248130105	https://www.bimbostore.com
 node	9248507711	https://www.bec.energy/?lang=en
@@ -2216,7 +2215,6 @@ node	9785938819	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=22
 node	9788827754	https://www.bed-and-breakfast.it/en/abruzzo/la-nostra-magione-montepagano/12812
 node	9791852434	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10861
 node	9793665090	http://www.gelateriacremilla.com
-node	9793791971	https://www.pgkart.com/it/progetti/pgk-karting-network-pescara/
 node	9793818535	https://www.farmaciediturno.org/orariofarmacia.asp?idf=20851
 node	9794343622	https://www.ristorantenewgilda.it
 node	9794343632	https://www.ristorantenewgilda.it
@@ -3436,6 +3434,10 @@ node	13081718401	https://www.gelateriaoasiortona.it/
 node	13081760243	http://www.latelierortona.it/
 node	13082649601	http://www.pizzeriaokayvasto.com
 node	13092347451	https://www.gruppoedif.it/punti-vendita/vasto
+node	13095879330	https://www.pinpalace.it/
+node	13098238300	https://www.facebook.com/p/Stil-novo-100063542234747/?locale=it_IT
+node	13100147699	https://www.conad.it/ricerca-negozi/negozio.050064.html
+node	13103197406	https://www.chaletmiamibeach.com
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3456,7 +3458,6 @@ way	24906504	https://www.chietifc.it
 way	25038582	https://tribunale-pescara.giustizia.it/
 way	25465853	https://www.liceoclassicope.edu.it
 way	26413279	https://www.centroborgodabruzzo.it/
-way	26419619	https://www.pinpalace.it/
 way	27351142	https://www.telespazio.com/it/business/space-centres-teleports/fucino-space-centre
 way	27896384	https://ctpescara.it/
 way	28379456	https://www.ciakcity.it/
@@ -3656,7 +3657,7 @@ way	260861075	https://www.regione.abruzzo.it/xcultura/index.asp?modello=schedaAn
 way	262314995	https://www.regione.abruzzo.it/xcultura/index.asp?modello=sitoarcaq&servizio=xList&stileDiv=monoLeft&template=intIndex&b=menuSiti281&tom=81
 way	262315996	https://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_566714676.html
 way	262764547	http://www.chiedi-a-christel.it/pianella/contrada-quercia-dell-ompiso_mappa93089.php
-way	262801003	http://www.sanniti.info/smschiav.html
+way	262801003	https://sabapchpe.cultura.gov.it/soprintendenza/aree-tematiche/patrimonio-archeologico/schiavi-dabruzzo/
 way	264204679	https://www.info.asl2abruzzo.it/ospedaleguardiagrele/
 way	267637426	https://tilm.it/
 way	268407770	https://www.residenzauniversitariasancarloborromeo.com
@@ -3814,7 +3815,6 @@ way	485004583	https://bbvillamart.it/
 way	488118760	https://www.emmepiu-supermercati.it/
 way	490686818	https://www.isoladelgransasso.it/
 way	491342735	https://it.wikipedia.org/wiki/Fonte_della_Noce
-way	495289201	https://www.conad.it/ricerca-negozi/negozio.050064.html
 way	498678526	https://www.icpescara10.edu.it/scuola-primaria/
 way	501213648	https://www.villaducadegliabruzzi.com
 way	503504129	https://cooperativatavolarotonda.com/camping-orsa-minore/
@@ -4596,6 +4596,9 @@ way	1422110192	https://www.atelierdelmobile.eu/
 way	1423062826	https://torrezambra.it/
 way	1423523012	https://atoka.io/public/it/azienda/societa-meridionale-inerti-smi-srl-in-liquidazione/1c91b6e4d0ab
 way	1423538492	https://www.bluserena.it/
+way	1425267578	https://www.dedominicisedilizia.it/
+way	1425269878	https://integraonline.it/
+way	1425977948	http://www.paesiteramani.it/Paesi/FaieteCellino.htm
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
