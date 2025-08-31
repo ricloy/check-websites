@@ -1314,6 +1314,7 @@ node	5798555714	https://www.nuraghemannu.com/
 node	5799950262	https://www.lacasadinichedda.it
 node	5802256891	https://www.bbcasalicheri.it
 node	5804131884	https://www.anticaposada.com/
+node	5808818855	http://saporidisardegna.com
 node	5810352079	https://m.facebook.com/Libarium-Nostrum-1593135687567911/?rf=316786478457232
 node	5810358510	https://www.ortobotanicoitalia.it/sardegna/cagliari/
 node	5827148999	https://www.shopcucina.it/
@@ -1927,6 +1928,12 @@ node	13071982447	http://www.ilsognodialghero.it/
 node	13072009785	https://www.nitidia.it/
 node	13073319201	https://www.lisciaeldiresort.it/
 node	13078128831	https://www.antonellozappino.it/la-riva/
+node	13095197801	https://www.momiolbia.com/
+node	13096293592	http://ventocastelsardo.it/
+node	13100154938	http://www.bblareale.it/
+node	13100247234	http://www.lufanali.it/
+node	13104117749	https://lollovers.it
+node	13104117752	https://trattoriasacartolina.com
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2809,6 +2816,7 @@ way	1386159348	https://kutaportorotondo.com/
 way	1393877886	https://www.aziendable.it
 way	1395528180	https://studio98labs.com/
 way	1423498617	https://www.bluserena.it/
+way	1425574659	https://www.hyatt.com/destination-by-hyatt/en-US/sardh-7-pines-resort-sardinia
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3205,6 +3213,7 @@ relation	6611768	http://www.parcodiportoconte.it/
 relation	6611769	http://www.parcodiportoconte.it/
 relation	6611770	http://www.parcodiportoconte.it/
 relation	6611771	http://www.parcodiportoconte.it/
+relation	6663926	https://www.sardegnaforeste.it/foresta/settefratelli-sinnai
 relation	6797206	http://www.sardegnacultura.it/j/v/253?s=20734&v=2&c=2488&c1=2127&t=1
 relation	6797297	http://www.sardegnacultura.it/j/v/253?s=24785&v=2&c=2488&c1=2123&visb=&t=1
 relation	6798267	https://www.nuraghelosa.net/
@@ -3312,7 +3321,10 @@ relation	13487588	https://www.sardegnasentieri.it/sentieri/ingresso-strada-fores
 relation	13487589	https://www.sardegnasentieri.it/sentieri/museo-del-cervo-%E2%80%93-arcu-sa-spina-c-815
 relation	13487592	https://www.sardegnasentieri.it/sentiero/sentiero-italia-sent-811b-c-800a
 relation	14101413	https://www.cicloviadellasardegna.it/
+relation	14156649	https://www.sardegnasentieri.it/sentieri/canale-canargius-%E2%80%93-sa-galanza-d-212
+relation	14191480	https://www.sardegnasentieri.it/sentieri/piscina-irgas-d-113
 relation	14191482	https://www.sardegnasentieri.it/sentieri/cantina-ferraris-ovile-linas-d-112
+relation	14211271	https://www.sardegnasentieri.it/sentieri/arcu-su-lillu-sa-tuppa-d-213
 relation	14211283	http://www.sardegnasentieri.it/sentieri/
 relation	14211317	http://www.sardegnasentieri.it/sentieri/
 relation	14404161	http://www.windsurfingclubcagliari.org/
@@ -3567,7 +3579,6 @@ node	4592619945	http://www.sapposentu.it
 node	4596038695	http://web.tiscali.it/agriturismodavalore/
 node	4609438059	https://isdomosantigas.wordpress.com/
 node	4683667589	http://www.hoteltrebotti.it/
-node	5020298877	https://7pines-sardinia.com/it/home
 node	5033826082	http://www.palaviaggi.it
 node	5059961510	http://www.agriturismosamamaioa.com
 node	5059961511	http://www.agriturismosamamaioa.com
@@ -3692,6 +3703,7 @@ node	12679884915	http://www.fiorerosa.com
 node	12681487643	https://flcomunicazione.it
 node	12912465898	https://www.cramasinara.org/
 node	12912465900	https://www.parcoasinara.org/attivita/il-ceas-inara/
+node	13100179664	http://www.sardegnatermale.it
 way	27668357	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668458	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668483	http://arst.sardegna.it/orari_e_autolinee/TPL.html
@@ -4274,7 +4286,6 @@ relation	3970750	http://www.comune.zeddiani.or.it
 relation	4264134	http://www.comune.sedilo.or.it
 relation	4294454	http://www.afsardegna.it
 relation	6581360	http://www.ferratacabirol.it
-relation	7651240	http://www.sardegnatermale.it
 relation	7688852	http://www.golfhotelisarenas.com/
 relation	7706249	http://www.comune.ussaramanna.vs.it
 relation	7796877	http://www.comune.sanluri.vs.it
