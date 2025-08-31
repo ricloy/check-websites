@@ -233,6 +233,7 @@ node	2015289574	http://www.feudohotel.it/home_page.htm
 node	2018454695	https://ristoranteyezi.iz
 node	2039090776	http://www.hotelcortese.info
 node	2039096636	https://www.hoteldelcentro.it/
+node	2050479690	https://portomatto.it/
 node	2054078106	https://www.chiusadicarlo.it/
 node	2067065445	http://www.ristoranteilcantuccio.it
 node	2070927487	http://www.pinetamonserrato.it
@@ -3386,7 +3387,6 @@ node	10978260976	https://www.hotelsportingbaia.com/
 node	10979807856	https://www.autogrill.it/
 node	10979807979	https://www.autogrill.it/
 node	10981356991	http://www.magazze.com
-node	10981357252	https://www.tenutachiaramonte.com/
 node	10981357350	https://papaleoturismo.it/
 node	10988837799	https://www.trattoriachicchirichi.it/
 node	10989082059	https://filippo-pietro-castrovinci.jimdosite.com/galleria/
@@ -4010,6 +4010,7 @@ node	12966991803	https://www.fermicatenanuova.edu.it/
 node	12966991804	https://www.fermicatenanuova.edu.it/
 node	12966991813	https://www.fermicatenanuova.edu.it/
 node	12971108016	https://www.lafatadeisogni.it/
+node	12971108018	https://www.bernava.net/
 node	12976932390	https://www.facebook.com/people/Put%C3%ACa-Lab/100077528603058/
 node	12977601352	https://www.sfiziecaffe.com/
 node	12977944277	https://sicilbatterynewlife.it/
@@ -4045,6 +4046,11 @@ node	13072980061	ristorantelatavernadelpescatore.it
 node	13076146604	https://villamagnoliataormina.blogspot.com/
 node	13089518175	https://www.villaisolaresort.com/
 node	13089856101	https://capotavolapizzeria.it/
+node	13096800435	https://www.aesseinfotel.com
+node	13099057546	http://www.distrettoturisticoselinuntino.it/a.cfm?id=583
+node	13104141596	https://sinatraristoranteispica.it/
+node	13107979923	https://www.dusty.it/portopalodicapopassero/ccr/
+node	13109445460	http://www.candianopalace.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4777,7 +4783,6 @@ way	322957993	https://supermercatideco.gruppoarena.it/
 way	323283231	http://residencerosangela.it
 way	323615032	www.lafocetta.it
 way	323776907	https://www.beblicata.it/
-way	323867734	https://www.scuoladisneylandsiracusa.it/
 way	323931743	http://bedandbreakfasttenutella.it
 way	325007295	https://www.celertrasporti.com/
 way	326716525	http://rsacaposoprano.it/
@@ -4867,6 +4872,8 @@ way	363872436	http://www.casadicurasantabarbara.com
 way	364680904	https://www.marina.difesa.it/storiacultura/fari/Pagine/3104.aspx
 way	364707269	http://www.comuneletojanni.gov.it
 way	364953358	www.sportingresidenceclub.it
+way	366771272	https://www.newmobiliamore.com/
+way	366771273	https://www.federicoauto.it/
 way	367065501	https://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei/pagina_musei.asp?ID=165&IdSito=129
 way	369237717	https://www.campingsalica.it/
 way	369272777	http://www.isolavulcano.it/
@@ -5945,6 +5952,8 @@ way	1167640045	https://www.icmaletto.edu.it/
 way	1167830762	www.ristorantefontanamurata.it
 way	1168152182	https://www.iccarlolevimaniace.edu.it/
 way	1168379141	https://www.alberghierogiarre.edu.it/
+way	1169365963	https://comprensivoassoro.edu.it/
+way	1169379650	https://comprensivoassoro.edu.it/
 way	1171016377	https://www.icdeamicisrandazzo.edu.it/
 way	1171016381	https://www.icdeamicisrandazzo.edu.it/
 way	1171016386	https://www.icdeamicisrandazzo.edu.it/
@@ -6311,6 +6320,7 @@ way	1330213057	https://www.canilerifugioasi.it/
 way	1336589839	https://tekne.engineering/
 way	1338941018	https://www.ictorregrotta.edu.it/infanzia-madre-teresa
 way	1340072818	https://etnapalacebanqueting.com/
+way	1340574866	https://www.galigroup.com/
 way	1349642861	https://www.bionap.com
 way	1351845497	https://www.trilogycatania.it/
 way	1352106639	http://www.preconsrl.it/
@@ -6353,6 +6363,9 @@ way	1420217471	https://www.facebook.com/campetti.lombardo
 way	1422523807	https://residence-ilborgo.com/
 way	1422523929	https://www.dusty.it/avola/ccr/
 way	1423643545	https://tramontoibleoresort.com/
+way	1424635979	https://comprensivoassoro.edu.it/
+way	1425628690	https://www.autokino.it/
+way	1425949963	https://www.hotelquattrocuori.it/
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
@@ -6928,6 +6941,7 @@ relation	19289330	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-bri
 relation	19291353	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-briganti
 relation	19292858	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-briganti
 relation	19293444	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-briganti
+relation	19534740	https://www.tenutachiaramonte.com/
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	506117889	https://guardiacostiera.it/mazaradelvallo
 node	548101816	http://www.medicalcentermazara.it
@@ -6958,6 +6972,7 @@ node	2005579921	http://www.annalisabuccellato.it/
 node	2005579929	http://www.santuariodisanvitolocapo.it/museo/museo.html
 node	2037987487	http://www.giamettamotor.it/
 node	2037987498	http://www.nati.eu/
+node	2149427892	https://borgo-il-faro.bedsandhotels.com
 node	2441334040	www.bblavitelleria.com
 node	3067355245	www.anticareggia.it/
 node	3067355246	www.bbfragolina.it/en/
@@ -7185,7 +7200,7 @@ node	7106569916	https://www.trapanishuttle.com
 node	7106569918	https://www.sanvitolocaposhuttle.com
 node	7162048723	http://www.scuolasubpalermo.it
 node	9510275015	https://www.thecrag.com/climbing/italy/central-and-southern-italy/sicily/area/1221011889
-node	9810551033	https://it.sicilyrealty.com/apt-cortile-carini-sciacca
+node	9810551034	https://it.sicilyrealty.com/apt-cortile-carini-sciacca
 way	56131141	https://www.researchgate.net/publication/225673663_Geo-volcanological_mineralogical_and_environmental_aspects_of_quarry_materials_related_to_pleural_neoplasm_in_the_area_of_Biancavilla_Mount_Etna_Eastern_Sicily_Italy
 way	420556066	http://www.casaquasimodo.it/
 way	459158351	http://www.prodromo-vegetazione-italia.org/scheda/rumici-astragalion-siculi/636
