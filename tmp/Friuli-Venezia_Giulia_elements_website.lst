@@ -852,7 +852,6 @@ node	3633911789	https://www.canottieriadria1877.com/
 node	3633913068	www.irsses.it
 node	3633913184	http://www.agrososic.eu/
 node	3633914965	https://www.lapironada.com/
-node	3633917988	https://www.vsopcine.it/
 node	3633921305	https://www.crai-supermercati.it/
 node	3633921592	https://www.optostudio.eu/
 node	3633923273	https://www.rsaigea.it/
@@ -1487,6 +1486,7 @@ node	5260533681	https://www.seleco.it/
 node	5278740823	https://www.mediaworld.it/negozi/trieste
 node	5284356721	https://www.geibitrieste.it/
 node	5291804222	https://www.comune.pordenone.it/it/comune/in-comune/uffici/direzione-generale/settore-5/polizia-municipale
+node	5291871387	http://www.stelladoro.info/
 node	5295931596	http://www.sergiozentilin.it/
 node	5298964338	http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1035985/ICCD12198258_S163_55354.JPG
 node	5298973594	http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1021084/ICCD11705022_S163_55358.jpg
@@ -2232,7 +2232,7 @@ node	10012354056	https://bar-gelateria-kings.business.site/
 node	10012354057	https://giocasaimmobiliare.it/
 node	10012354067	https://www.agenziameridiana.it/
 node	10018069014	https://www.repower.com/dina/
-node	10026883138	https://ristoranteallebocce.business.site/?utm_source=gmb&utm_medium=referral
+node	10026883138	https://ristoranteallebocce.business.site/
 node	10028260718	http://www.ferramentapapotto.it/
 node	10028298717	https://www.bartergesteogrado.it/
 node	10028411434	https://www.agenziabattiston.it/
@@ -2927,6 +2927,9 @@ node	13077817627	https://asugi.sanita.fvg.it/it/medici/
 node	13081292454	https://www.italianaparchi.it/it/realizzazioni/parco-avventura-arta-terme/
 node	13082185048	https://innover.group/
 node	13097950967	https://www.ceccarelligroup.it
+node	13099901548	http://sottolapergola.it/
+node	13099912741	http://arcobaleno-trieste.it/
+node	13108742030	https://www.skamperle.org/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2982,7 +2985,7 @@ way	36017096	http://www.ictolmezzo.it
 way	36017793	https://www.facebook.com/Pizzerialacortedeimiracoli
 way	36018512	https://www.museoguerrafredda.com/
 way	36018745	http://www.hotel-orso.it
-way	36019387	http://www.baitasalman.com/
+way	36019387	https://www.baitasalman.com/
 way	36019438	http://www.sporthotelbellavista.com
 way	36019507	https://www.urbex.nl/centro-vacanza-della-gioventu-italiana/?utm_source=chatgpt.com
 way	36019750	https://www.comuneditarvisio.com/
@@ -3149,6 +3152,7 @@ way	36357668	https://www.doganavecchia.it/chi-siamo/
 way	36363952	https://www.protezionecivile.fvg.it/it/comune/capriva-del-friuli
 way	36366516	http://www.iclucinico.it
 way	36366517	https://www.museocomel.it/
+way	36370501	https://langolodiluna.webnode.it/
 way	36374886	http://www.pizzerianovecento.it/
 way	36374903	https://www.sme.it/
 way	36380925	http://www.trattoriadalcheco.com/
@@ -3193,6 +3197,7 @@ way	36395656	https://www.u-blox.com/
 way	36395761	https://www.ictp.it/visit-ictp/accommodation/guesthouses.aspx
 way	36395820	https://www.ictp.it/visit-ictp/accommodation/guesthouses.aspx
 way	36396056	http://www.hostariaaipini.com/
+way	36396866	https://www.vsopcine.it/
 way	36396939	https://www.sorrentino-trattoria.it/
 way	36396949	http://fondazioneluchetta.eu/
 way	36396981	https://www.villaverdetrieste.it/
@@ -4992,6 +4997,7 @@ relation	12747866	https://www.cai-fvg.it/sentieri-cai-fvg/sentieri-cai-fvg-setto
 relation	12927572	https://sentieroitalia.cai.it/tappa/?id=SI+A06V1
 relation	12927582	https://sentieroitalia.cai.it/tappa/?id=SI+A06V2
 relation	12934178	https://www.outdooractive.com/
+relation	13076061	https://www.ikea.com/it/it/stores/gorizia-villesse/
 relation	13088292	https://www.sabait.it/it/parcheggi/trieste/trieste-ospedale-maggiore
 relation	13158672	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	13217964	https://www.comune.attimis.ud.it/index.php?id=13422
