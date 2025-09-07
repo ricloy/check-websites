@@ -1314,7 +1314,7 @@ node	5798555714	https://www.nuraghemannu.com/
 node	5799950262	https://www.lacasadinichedda.it
 node	5802256891	https://www.bbcasalicheri.it
 node	5804131884	https://www.anticaposada.com/
-node	5808818855	http://saporidisardegna.com
+node	5808818855	https://saporidisardegna.com/
 node	5810352079	https://m.facebook.com/Libarium-Nostrum-1593135687567911/?rf=316786478457232
 node	5810358510	https://www.ortobotanicoitalia.it/sardegna/cagliari/
 node	5827148999	https://www.shopcucina.it/
@@ -1900,7 +1900,7 @@ node	12944787902	https://www.seranile.com/
 node	12944797501	https://turismoruralefilieri.com/
 node	12945330701	https://www.tonnodicorsa.com/
 node	12969181401	https://www.studiodeiana.com/
-node	12969657733	https:www.mobilicorda.it
+node	12969657733	https://www.mobilicorda.it/
 node	12969829545	poste.it
 node	12994457123	https://www.comune.barisardo.og.it/novita/servizio-guardia-medica-turistica-comune-di-bari-sardo-turni-punto-continuita-assistenziale-mese-di-luglio-2025/
 node	12995764746	https://vitarent.it
@@ -1929,11 +1929,13 @@ node	13072009785	https://www.nitidia.it/
 node	13073319201	https://www.lisciaeldiresort.it/
 node	13078128831	https://www.antonellozappino.it/la-riva/
 node	13095197801	https://www.momiolbia.com/
-node	13096293592	http://ventocastelsardo.it/
-node	13100154938	http://www.bblareale.it/
+node	13096293592	https://www.ventocastelsardo.it/
+node	13100154938	https://www.bblareale.it/
 node	13100247234	http://www.lufanali.it/
 node	13104117749	https://lollovers.it
 node	13104117752	https://trattoriasacartolina.com
+node	13115205861	https://www.trattoriamarcopolo.it
+node	13123749902	https://www.anticacasamarini.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -3188,6 +3190,7 @@ relation	49116	http://comune.castiadas.ca.it/
 relation	49117	http://www.comune.muravera.ca.it/
 relation	2235675	https://www.autodromosardegna.net/
 relation	2237704	http://www.compendiogaribaldino.it/
+relation	2346057	https://www.sardegnasentieri.it/sentieri/filareddus-%E2%80%93-cascata-muru-mannu-d-109
 relation	3163211	http://www.museoarcheologiconuoro.beniculturali.it
 relation	3343219	http://www.chiagolfclub.it/
 relation	3685133	https://www.thotel.it/
@@ -3330,6 +3333,7 @@ relation	14211317	http://www.sardegnasentieri.it/sentieri/
 relation	14404161	http://www.windsurfingclubcagliari.org/
 relation	14480780	https://www.grendi.it/
 relation	14480781	http://www.cict.it/
+relation	14568991	https://www.sardegnasentieri.it/node/3411
 relation	14748074	https://www.sardegnasentieri.it/sentiero/vecchia-caserma-forestale-sa-ruxi-de-acueddas-c-811b
 relation	14751643	https://www.sardegnasentieri.it/sentiero/sa-pala-de-cunventu-seddas-de-trebini-c-801
 relation	14753221	https://www.sardegnasentieri.it/sentiero/ruderi-su-cunventu-bruncu-poni-fogu-c-802
@@ -3457,6 +3461,8 @@ relation	19448732	https://www.sardegnasentieri.it/sentiero/sorgente-sega-bogas-c
 relation	19449391	https://www.sardegnasentieri.it/sentiero/parcheggio-antas-sa-corona-arrubia-d-340
 relation	19449709	https://www.sardegnasentieri.it/node/3556
 relation	19478897	https://27crags.com/crags/punta-giogadorgiu
+relation	19553661	https://www.sardegnasentieri.it/node/2241
+relation	19554505	https://www.sardegnasentieri.it/node/3656
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
