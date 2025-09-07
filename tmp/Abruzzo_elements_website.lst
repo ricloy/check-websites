@@ -157,6 +157,7 @@ node	720577597	https://www.bancaetica.it/uffici/ufficio-di-pescara/
 node	723246426	https://www.provincia.pescara.it/
 node	723266223	https://www.d-piu.com
 node	723966323	https://www.conad.it/ricerca-negozi/conad-superstore-via-federico-fellini-2-65010--spoltore--009890
+node	727939582	https://coopetruria.coop.it/negozi/sulmonailborgo-sulmona
 node	730186901	https://www.ristorantemargherita.it
 node	730216694	https://www.fontartana.it
 node	734442770	https://lacivitellapizzeriabraceria.eatbu.com
@@ -218,6 +219,7 @@ node	1336100700	https://www.hotelastor.it/
 node	1337558093	https://la-piccola-positano.business.site
 node	1359121040	https://www.sarniristorazione.it/item/ads-terrabianca-2/
 node	1359855981	https://www.mychef.it/
+node	1363907187	https://coopetruria.coop.it/negozi/laquilabazzano-bazzano
 node	1373189560	https://poesiaeritratto.it/contatti
 node	1373189561	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10828
 node	1420711026	https://www.greenvillageabruzzo.it
@@ -379,6 +381,7 @@ node	2784825545	https://www.caifarasanmartino.it
 node	2784861941	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10710
 node	2791951219	https://eusebi.it/
 node	2796394158	http://www.adesrl.it
+node	2806054935	https://coopetruria.coop.it/negozi/avezzanoviavidimari-avezzano
 node	2845681779	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10765
 node	2845880924	https://flyingtiger.com/
 node	2860973852	https://www.redlion.it
@@ -440,6 +443,7 @@ node	3309189980	https://www.miramarepineto.com/
 node	3309197515	https://www.miramarepineto.com/
 node	3325288566	http://www.albergoabruzzo.it//ristorante-pizzeria-akileas-chieti.html
 node	3328544263	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/NI006031
+node	3328582426	https://www.autoepi.it/servizi/officina-auto/
 node	3355831721	https://www.enel.it/spazio-enel/pescara/ro-ma-srl/5942/
 node	3359482648	http://www.coopintegra.it
 node	3359577665	https://www.autoscuolapescaranuova.it/
@@ -3438,6 +3442,13 @@ node	13095879330	https://www.pinpalace.it/
 node	13098238300	https://www.facebook.com/p/Stil-novo-100063542234747/?locale=it_IT
 node	13100147699	https://www.conad.it/ricerca-negozi/negozio.050064.html
 node	13103197406	https://www.chaletmiamibeach.com
+node	13110425539	https://www.adm.gov.it/portale/-/ufficio-delle-dogane-di-pescara
+node	13112337116	https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/1300283127
+node	13112633644	https://www.apicolturalucafinocchio.it/
+node	13119875335	https://inpost.it/locker-pescara-itpes44007m-piazza-ovidio
+node	13121317786	https://coopetruria.coop.it/negozi/ipercoopavezzano-avezzano
+node	13122919490	https://centralsuites.it
+node	13123162563	https://www.villaggiocirulli.it/?page_id=103
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3671,6 +3682,7 @@ way	297000195	https://albaadriaticahotelresidence.it/
 way	301861360	https://www.centrovacanzepoker.it/
 way	304589677	http://www.caiisola.it/index.php?option=com_content&view=article&id=62&Itemid=194
 way	305874832	https://www.campingcolleciglio.it/index
+way	305950447	https://coopetruria.coop.it/negozi/laquilatorrione-torrione
 way	306107832	https://www.acquaesapone.it/schedaPuntovendita.php?puntovendita=25&provincia=AQ&comuneA=LAQUILA
 way	306484992	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/13102/Chiesa+di+San+Rocco
 way	310782202	https://www.prolocobucchianico.it/chiese-e-conventi.html
@@ -3782,6 +3794,7 @@ way	440200721	https://www.lapieja.it/
 way	441086978	https://www.collescarpone.it/
 way	442566502	https://www.comune.tossicia.te.it/luoghi/edifici-di-culto/chiesa-di-santa-maria-della-neve/
 way	450295603	https://www.mondimedievali.net/Castelli/Abruzzo/pescara/pescara.htm
+way	451594803	https://fondoambiente.it/luoghi/santuario-della-madonna-del-popolo
 way	452050846	http://www.collemoro.it
 way	452117242	https://teleriazed.com/
 way	454723594	http://www.valleroveto.eu/eremo-madonna-della-ritornata/
@@ -3851,7 +3864,7 @@ way	561501899	http://www.paesiteramani.it/Paesi/MutignanoSAntonio.htm
 way	571950497	https://www.hotelsporting.com/
 way	576476872	https://www.fcagroup.com/it-it/pages/home.aspx
 way	576476878	https://www.isri.de/
-way	577306276	https://www.comunedibomba.it/
+way	577306276	https://comune.bomba.ch.it/
 way	580247021	http://hotelmiramaresilvi.com
 way	580587901	http://www.arcieridelfino.it
 way	584939485	http://www.paesiteramani.it/Paesi/SilviSPio.htm
@@ -3900,7 +3913,7 @@ way	660458604	https://www.lidl.it/s/it-IT/ricerca-negozio/vasto-ch/circonvallazi
 way	660510024	https://www.villadanilo.it/
 way	661136997	https://www.abruzzocibus.com/
 way	661200474	http://www.vecchiocasale.it/
-way	661200477	https://www.villaggiocirulli.it/?page_id=103
+way	661200477	https://www.villaggiocirulli.it/
 way	661204088	https://www.tenutatestarossa.it/en/
 way	661217813	https://www.cantinasanmichele.it/index.php/it/
 way	661219916	https://www.jasciemarchesani.it/
@@ -3986,6 +3999,8 @@ way	705491853	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-cu
 way	712106549	https://www.agroamiternum.it/i_sapori_della_natura_17.html
 way	725803972	https://www.facebook.com/pages/category/Bar/Stella-Alpina-Bar-trattoria-107579397258952/
 way	730051038	https://www.saquella.it/
+way	746820000	https://www.comestsrl.it/contatti/
+way	746820001	https://www.comestsrl.it/contatti/
 way	752912659	https://www.circuitointernazionaledabruzzo.it/
 way	753710031	http://www.museomuspac.com
 way	760905435	https://comune.pescina.aq.it/
@@ -4008,7 +4023,6 @@ way	804454739	https://www.bblaperlarosa.it/
 way	808429901	https://www.lidl.it/
 way	809296718	https://www.enel.it/punto-enel/
 way	810263074	http://artiespettacolo.org
-way	810880541	https://www.adm.gov.it/portale/-/ufficio-delle-dogane-di-pescara
 way	813737576	http://www.alpinibarisciano.it
 way	815428621	https://www.ilpescara.it/politica/lavori-rotatoria-colli-via-monti-di-campli.html
 way	817248090	http://www.arcobalenocommerciale.it/
@@ -4094,6 +4108,7 @@ way	871660345	https://www.redbubble.com/shop/zero+point+energy+device-cases
 way	871855005	https://www.footballinnovation.it/referenze/2103-campo-sportivo-ughetto-di-febo
 way	878142923	https://paintball-pescara.reservio.com/
 way	879183638	https://www.laconteagentile.it/
+way	879239564	https://coopetruria.coop.it/negozi/celanoleginestre-celano
 way	883308550	https://www.poste.it
 way	885553981	https://www.diocesipescara.it/wd-annuario-enti/citta-s-angelo-662/assunzione-della-beata-vergine-maria-361/
 way	886520038	https://www.mdspa.it/punti-vendita/Abruzzo/PE-Pescara/927-Pescara/
@@ -4311,6 +4326,7 @@ way	1091841402	https://provincia.teramo.it/novita/per-il-ponte-di-castelnuovo-su
 way	1091841403	https://provincia.teramo.it/novita/per-il-ponte-di-castelnuovo-sul-vomano-e-arrivato-il-definitivo-collaudo-statico/
 way	1091841404	https://provincia.teramo.it/novita/per-il-ponte-di-castelnuovo-sul-vomano-e-arrivato-il-definitivo-collaudo-statico/
 way	1091930128	http://ristorantezenobi.it
+way	1092685790	https://www.beweb.chiesacattolica.it/enti/ente/1020462/Parrocchia+di+San+Pantaleone
 way	1093908562	https://www.ilcentro.it/pescara/l-omaggio-della-citt%C3%A0-al-sindaco-de-toma-dedicata-una-strada-1.2061639
 way	1094039145	https://mapio.net/pic/p-12899349/
 way	1094405840	https://www.riservalagodipenne.com
@@ -4416,7 +4432,6 @@ way	1210070389	https://www.aigaa.org/public/GGA.2008-08.1-02.0212.pdf
 way	1213995845	https://mobilita.comune.pescara.it/parcheggi-estivi-a-nord-e-a-sud-della-citta/
 way	1214086034	https://www.facebook.com/profile.php?id=100027756471959&sk=about
 way	1214399157	https://www.comune.montebellosulsangro.ch.it/
-way	1215094040	https://www.apicolturalucafinocchio.it/
 way	1215094044	https://www.facebook.com/groups/213017468747809/about/
 way	1215820359	https://parcogransassohotel.it/
 way	1216112264	https://www.riservasorgentidelpescara.it/tariffario-regolamento-area-pic-nic/
@@ -4518,6 +4533,7 @@ way	1350660468	https://www.hotellasirenetta.it/
 way	1350675919	https://www.residenceilborgo.it/
 way	1355210001	https://www.pinetovacanze.com
 way	1356410521	https://www.ilcascinale.com/
+way	1358295801	https://www.graziellahotelbeachclub.it/
 way	1359817734	https://www.decogroup.it/
 way	1361483749	https://oliverigroup.it/
 way	1364247298	https://www.dizioinoxa.net/
@@ -4599,6 +4615,7 @@ way	1423538492	https://www.bluserena.it/
 way	1425267578	https://www.dedominicisedilizia.it/
 way	1425269878	https://integraonline.it/
 way	1425977948	http://www.paesiteramani.it/Paesi/FaieteCellino.htm
+way	1426406884	https://beweb.chiesacattolica.it/percorsitematici/barocco-sacro-a-casale-monferrato-la-chiesa-di-san-filippo-neri/fondazioni-della-chiesa-di-san-filippo-neri/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4724,7 +4741,7 @@ relation	12933250	https://www.ausl.pe.it/DettaglioSede.jsp?id=30&idSezione=32
 relation	12949872	https://www.parcomajella.it/visita-il-parco/giardini-botanici-musei-e-aree-faunistiche/area-faunistica-lupo/
 relation	13022312	https://www.parcomajella.it/visita-il-parco/giardini-botanici-musei-e-aree-faunistiche/area-faunistica-lupo/
 relation	13036249	https://it.wikiloc.com/percorsi-mountain-bike/chieti-calanchi-casalincontrada-serramonacesca-23820167
-relation	13052616	https://www.coopcentroitalia.it/negozi/coop-scoppito-via-roma-54-scoppito-aq
+relation	13052616	https://coopetruria.coop.it/negozi/scoppito-scoppito
 relation	13078399	https://abruzzodevelopment.it/2020/11/24/sp-59/
 relation	13106587	https://it.wikiloc.com/percorsi-mountain-bike/chieti-calanchi-casalincontrada-serramonacesca-23820167
 relation	13124151	https://www.cantinasanzefferino.it
@@ -4779,6 +4796,7 @@ relation	13918858	http://www.aziendacantalupo.it/
 relation	13942582	https://www.tiburtiauto..com
 relation	14021301	https://www.panoramaristorantehotel.it/
 relation	14032324	https://lampato.com
+relation	14044618	http://www.cimiterofrancavillaalmare.com/
 relation	14064959	http://wikimapia.org/31794391/it/Residence-IL-Giardino-degli-Aranci
 relation	14096378	https://traslochibea.it
 relation	14100951	https://www.vetrinamotori.it/concessionario-gt-cars-italia-daF16A0/
@@ -4957,6 +4975,7 @@ way	851992976	https://www.decathlon.it/
 way	853983627	https://nauticagabbiano.it/contatti/
 way	1088076365	https://www.comune.pietranico.pe.it/zf/index.php/trasparenza/index/index/categoria/81
 way	1100938727	https://www.abruzzihotel.it/
+way	1163730026	https://www.kzrkart.it/
 way	1184521284	https://www.casalecenturioneabruzzo.it/
 way	1219832545	https://linktr.ee/fishbonesfishsushi
 way	1219832546	https://hotelilcasale.it/
@@ -4967,6 +4986,8 @@ way	1324624550	https://www.campingcarouan.it/
 way	1337938957	https://www.molinolattanzio.it/
 way	1389922648	https://www.comune.scontrone.aq.it/i-borghi/musei/centro-di-documentazione-paleontologico/
 way	1394109109	https://www.campingvillaelena.it/
+way	1426372819	https://www.kzrkart.it/
+way	1426473377	https://www.museoetnograficobomba.it/
 relation	8646860	http://www.gssi.it/
 relation	18178088	http://www.cantinacrecchio.it/contattaci/
 relation	19190580	https://borghidelgransasso.it/
@@ -5041,6 +5062,7 @@ way	1411481544	https://www.dannunziolanciano.edu.it/le-nostre-scuole/scuola-dell
 way	1413864433	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/17860/Chiesa+di+Santa+Giusta+%7C+Lanciano+%28CH%29
 way	1414822584	https://www.coobiz.it/azienda/lanciano-falegnameria-artigiana/co7563798
 way	1418014814	https://www.ufficiocamerale.it/7307/vini-del-golfo-srl
+way	1426247567	https://www.histonium.net/notizie/appuntamenti/38557/dedicazione-sala-del-regno-a-villa-alfonsina
 relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 relation	12862117	https://www.ilpescara.it/cronaca/ponti-sul-saline-inaugurato-ponte-sant-angelo.html
 relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
