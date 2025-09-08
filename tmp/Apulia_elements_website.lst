@@ -2728,7 +2728,6 @@ node	12445459802	https://biblioteche.comune.bari.it/SebinaOpac/library/Bibliotec
 node	12445526562	https://www.uniba.it/it/bibliotechecentri/biblioteca-ateneo
 node	12450827377	https://prink.it/
 node	12452918212	https://onoranzefunebriimmacolata.it/
-node	12452918213	https://caseificiogarofalo.it/
 node	12459255203	https://www.ediltecno.com/
 node	12459255207	https://www.clickcafe.it/click-cafe-altamura/
 node	12459255208	https://rbcollection.it/
@@ -2736,7 +2735,6 @@ node	12470981485	https://www.emanuelemaggio.it/
 node	12470981497	https://lavetrinadibioebimbo.wordpress.com/
 node	12470993686	https://www.ashitaba.it/
 node	12471059974	https://asteebilancieri.com/
-node	12471059991	https://www.energymbitonto.it/
 node	12478515528	https://www.asfapuglia.it/la-casa-dipandora/
 node	12480152396	https://www.instagram.com/streatfood_grottaglie/
 node	12480922270	https://www.studiotresessanta.it/
@@ -3196,6 +3194,14 @@ node	13103792049	https://www.hoteldellemorevieste.com/
 node	13109096101	https://osteriaradici.it/
 node	13110049901	https://menu.inarifusionrestaurant.it/
 node	13110249189	https://autorimessathebest.it/
+node	13112682480	https://gibimed.com/
+node	13112977598	www.osmairm.it
+node	13112977599	www.bakeryfumarola.com
+node	13116884983	www.caafcgilpuglia.it
+node	13121398771	https://bari.esn.it/
+node	13121421564	https://www.facebook.com/people/Casa-delle-Donne-del-Mediterraneo/61556822503937/
+node	13124719484	https://res-design.it/
+node	13124881245	https://www.consultradesrl.com/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -3586,6 +3592,7 @@ way	405764853	https://solariahouse.business.site/
 way	406096605	https://www.villapallotta.it/
 way	406096724	https://www.agriturismomoschella.com/
 way	406111732	iposea.com
+way	406289015	https://www.aqp.it/
 way	406300053	https://www.facebook.com/sostacamperzapponeta/
 way	406300203	https://www.facebook.com/ParrocchiaSanMicheleZapponeta
 way	406345921	https://star-centro-sportivo-polifunzionale.business.site/?utm_source=gmb&utm_medium=referral
@@ -3601,6 +3608,7 @@ way	406683741	https://www.comune.rodigarganico.fg.it/
 way	406683837	https://www.hoteltramonto.it/
 way	406683891	https://www.hotelalbano.it/en/index.php/
 way	406684043	https://www.hotelrivieragargano.it/
+way	406690322	https://www.gargano.it/santuari/crocifisso-di-varano-ischitella/
 way	406860239	http://www.villareginadelmonte.com
 way	407000273	https://www.masserialeville.it/
 way	407004384	https://hotelpineta.it/
@@ -4849,8 +4857,11 @@ node	12150451998	https://www.edorestaurant.it/
 node	12150453317	https://www.elgazerpub.it/
 node	12151379498	https://regina-botter.jimdosite.com/
 node	12163863537	https://www.museocapuano.it/
+node	12452918213	https://caseificiogarofalo.it/
 node	12459748663	https://www.ledueaquile.it
 node	12469810252	https://www.corvotorvo.it/
+node	12471059991	https://www.energymbitonto.it/
+node	12501156777	https://therapia.it/
 node	12558518963	https://www.operaprima-ristorantepizzeria.it/
 node	12706282665	https://fratelligourmet.it/
 node	12994461420	https://humusnature.it/
@@ -4873,6 +4884,7 @@ way	299999568	https://fondoambiente.it/luoghi/abbazia-di-santa-maria-di-cerrate
 way	322135529	https://www.viaggiareinpuglia.it/at/13/areaarcheologica/3687/it/Parco-archeologico-Li-Castelli-San-Pancrazio-Salentino-(Brindisi)
 way	340087182	https://www.antimoristorante.com/
 way	355434366	www.quintocolore.it
+way	380851478	https://www.comprensivosylos.edu.it/
 way	397710431	https://www.liside.edu.it/
 way	402902564	https://www.madonnadellacoltura.it/
 way	402903524	https://www.fseonline.it
@@ -4942,6 +4954,7 @@ way	1340510694	https://www.hotelsvevo.it/larea-camper-per-la-tua-sosta/
 way	1345419658	https://www.itesbitonto.edu.it/
 way	1345419660	https://www.lsgalilei.edu.it/
 way	1349171299	https://www.facebook.com/ForcatellaCamperOfficial/
+way	1351248564	https://www.iccassanoderenzio.edu.it/
 way	1383299251	https://www.masserialatofala.it/
 way	1388696376	https://www.liceociardopellegrinolecce.edu.it/
 way	1388696377	https://www.istitutoprestacolumella.edu.it/
