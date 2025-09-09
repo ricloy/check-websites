@@ -1486,7 +1486,7 @@ node	5260533681	https://www.seleco.it/
 node	5278740823	https://www.mediaworld.it/negozi/trieste
 node	5284356721	https://www.geibitrieste.it/
 node	5291804222	https://www.comune.pordenone.it/it/comune/in-comune/uffici/direzione-generale/settore-5/polizia-municipale
-node	5291871387	http://www.stelladoro.info/
+node	5291871387	https://www.stelladoro.info/
 node	5295931596	http://www.sergiozentilin.it/
 node	5298964338	http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1035985/ICCD12198258_S163_55354.JPG
 node	5298973594	http://www.sigecweb.beniculturali.it/images/fullsize/ICCD1021084/ICCD11705022_S163_55358.jpg
@@ -1966,6 +1966,7 @@ node	8647436929	https://www.comune.buja.ud.it/index.php?id=22666
 node	8650489043	http://autofficinasbaiz.altervista.org/
 node	8677062183	https://www.burgerking.it/ristoranti/friuli-venezia-giulia/trieste/burger-king-trieste/
 node	8677062191	https://operaimmobiliarets.it/
+node	8677062196	https://www.lambientetrieste.it/
 node	8677079819	https://www.lapiadineria.com/
 node	8689079687	https://www.crocevia173.it
 node	8727725466	http://gmdimensione.com/
@@ -1977,6 +1978,7 @@ node	8779387934	https://riuso.uniud.it/
 node	8791810048	https://www.eyecarecenter.it/
 node	8795089702	http://www.pipergrado.it/
 node	8798081418	https://www.alcollio.it/
+node	8808599386	https://thebridge1754.eatbu.com/
 node	8808618078	https://www.pizzeria-ledelizie.it/
 node	8855968715	https://www.bbtrecuori.com/
 node	8856298639	https://www.confartigianatoudine.com/
@@ -2363,6 +2365,7 @@ node	10922204759	www.casaprogramma.com
 node	10922205454	http://www.autoscuolamambrini.it
 node	10926377430	https://www.comune.dogna.ud.it/it/novita-69046/notizie-69047/nuovo-orario-di-apertura-negozio-polifunzionale-114891
 node	10961069533	https://www.carniamusei.org/
+node	10961197505	https://www.pasticceriadaily.it/
 node	10963576839	https://www.webfit.it/
 node	10971454847	https://www.tarvisiano.org/it/18491/palestra-delle-ponze-rif-zacchi
 node	11005668161	https://eccolobeertruck.it
@@ -2842,7 +2845,6 @@ node	12696811134	https://friuliristrutturazioni.it/
 node	12701999064	http://giuseppinalesa.net/
 node	12706769550	https://www.prolocoiutizzo.it/
 node	12716733041	https://www.italoeanna.com/informazioni/
-node	12722904467	https://www.gabinfood.it/
 node	12722904477	http://www.studiotecnoimmobil.com/
 node	12722909025	https://sartoriatosone.com/
 node	12723602420	https://www.elettrotecnicadelloste.it/
@@ -2927,9 +2929,20 @@ node	13077817627	https://asugi.sanita.fvg.it/it/medici/
 node	13081292454	https://www.italianaparchi.it/it/realizzazioni/parco-avventura-arta-terme/
 node	13082185048	https://innover.group/
 node	13097950967	https://www.ceccarelligroup.it
-node	13099901548	http://sottolapergola.it/
-node	13099912741	http://arcobaleno-trieste.it/
+node	13099901548	https://sottolapergola.it/
+node	13099912741	https://arcobaleno-trieste.it/
 node	13108742030	https://www.skamperle.org/
+node	13120336769	http://www.labaitadiviaso.altervista.org/
+node	13123051755	https://www.arciericurtisvadi.it/sedi
+node	13127606652	http://www.sattolo.com/
+node	13128787278	https://www.colorievernici.udine.it/
+node	13128787279	https://www.studiodentisticozambelli.com/
+node	13128787280	https://www.bonfantemobili.it/
+node	13128787288	https://www.studiomedicoodontoiatrico.eu
+node	13128787289	http://www.ferramentacattaruzzi.it/
+node	13128787290	https://www.decorpacis.it
+node	13128787291	http://saporiecolori.com/
+node	13130737401	https://sircelli.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -2977,6 +2990,7 @@ way	36014812	https://www.gardel.it/
 way	36014830	http://www.albergoparkoasi.it/
 way	36014914	https://www.rifugiograuzaria.it/
 way	36015311	http://caitolmezzo.it/rifugi/rifugio-monte-sernio/
+way	36016472	https://www.donboscotolmezzo.it/
 way	36016503	http://www.ictolmezzo.it
 way	36016507	http://www.cinemadavid.it
 way	36017067	http://www.piergiorgio.org/
@@ -3070,6 +3084,7 @@ way	36129973	https://www.icudine.it/
 way	36132432	https://www.comune.udine.it/
 way	36132499	https://www.comune.udine.it/it/sicurezza-22643/protezione-civile-50370
 way	36132934	https://www.anapassons.it/
+way	36144927	http://www.hotelcapriudine.it
 way	36147588	http://www.afamweb.com/
 way	36151771	https://6icudine.gov.it/
 way	36152108	https://bearzi.it/
@@ -3278,6 +3293,7 @@ way	36430373	https://www.menardisnc.it/
 way	36430389	https://www.friulpack.it/
 way	36430391	https://www.allus.it/
 way	36430412	http://www.telebit.it/
+way	36430470	https://www.arciericurtisvadi.it/sedi
 way	36430494	https://www.officineforesto.com/
 way	36430498	https://www.marzinfuoco.it/
 way	36430574	http://www.costrusionlen.it/
@@ -4077,6 +4093,7 @@ way	1329740235	https://www.hotelinsylvis.com/
 way	1334479842	https://www.protezionecivile.fvg.it/it/comune/trieste
 way	1339284880	https://win.zenobionline.com/ITINERARI/itinerario%20nad%20logem/nad%20logem.html
 way	1339284881	https://win.zenobionline.com/ITINERARI/itinerario%20nad%20logem/nad%20logem.html
+way	1340734501	https://www.arciericurtisvadi.it/sedi
 way	1343300110	https://ycadriaco.it/
 way	1344528105	https://www.progettogaiaterra.com/
 way	1347836710	https://montuzza.it/oratorio
@@ -4363,6 +4380,7 @@ relation	159960	http://www.icpagnacco.gov.it/primaria-moruzzo/
 relation	160018	https://www.cro.it/
 relation	160061	https://www.termearta.org/
 relation	160170	https://beniculturali.comune.trieste.it/architettura/?s_id=366308
+relation	160289	https://istitutovolta.edu.it/struttura/itis/
 relation	160319	https://ufficipostali.poste.it/trieste/piazza-vittorio-veneto-1/?STZ=GMB
 relation	160345	https://www.hilton.com/en/hotels/trsdtdi-doubletree-trieste/
 relation	160354	http://www.residenceeuropa.com/
@@ -5433,7 +5451,6 @@ relation	19185513	https://rdmgroup.com/
 relation	19273031	https://camminodellepievi.it/tappe/diciasettesima-tappa/
 relation	19273411	https://camminodellepievi.it/tappe/diciottesima-tappa/
 relation	19273451	https://camminodellepievi.it/tappe/diciannovesima-tappa/
-relation	19317800	https://www.donboscotolmezzo.it/
 relation	19352674	https://campingsabbiadoro.it
 relation	19377949	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/via-ferrata-mario-lonzar/
 relation	19422528	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-918a/
