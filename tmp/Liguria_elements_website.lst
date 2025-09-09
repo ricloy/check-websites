@@ -346,7 +346,7 @@ node	1973796797	http://www.arcibelleville.org/
 node	1974517946	https://www.virginactive.it/club/genova
 node	1995176469	https://www.farmaciaquaglia.com/
 node	1995176475	https://www.bancadicaraglio.it/filiali/ventimiglia/
-node	1998996967	http://www.trattoriaarmanda.it/
+node	1998996967	https://www.facebook.com/trattoriaarmanda
 node	2014887826	https://www.asl3.liguria.it/ambulatori/servizi.html
 node	2027126976	https://www.cgscontroluce.it/
 node	2028670090	https://www.andareavela.it/
@@ -2210,7 +2210,6 @@ node	10994953045	https://www.repower.com/it
 node	10996600758	https://www.repower.com/dina/
 node	11002985556	https://www.repower.com/it
 node	11002991462	https://www.repower.com/it
-node	11003053444	https://www.repower.com/dina/
 node	11003406902	https://www.hotelmary.it/
 node	11005606809	https://www.bagnisliguria.it/
 node	11010116583	https://www.welcomecharter.it/
@@ -2405,7 +2404,7 @@ node	11577578820	https://www.immobiliareoptima.it
 node	11577695833	https://www.studio-guglielmi.com
 node	11577695834	https://www.blix.it
 node	11577695842	https://www.nuovaidr.com/
-node	11578608343	www.otticabessone.it
+node	11578608343	https://www.otticabessone.it/
 node	11578608345	https://olioberaldi.it/
 node	11578608355	https://www.compass.it/agenzie/prestiti-imperia.html
 node	11578608358	http://www.narcisoart.com/
@@ -2522,6 +2521,7 @@ node	12087298916	https://www.eurospin.it/punti-vendita/finale-ligure-via-calice/
 node	12090109703	https://www.farina44.com/
 node	12090283608	https://www.immobiliaremartinelli.com/
 node	12095041500	https://www.nontiscordardimefiori.com
+node	12102823230	https://www.labiciclettalaspezia.it/
 node	12116553623	https://agririfugiomolini.it/casa-dell-arco/
 node	12133563501	https://www.baracchetta.it/
 node	12133799848	https://www.igmi.org/it/geoprodotti/punti-geodetici/vertici-trigonometrici/certa_definizione/trigo-1609497278.06
@@ -2743,6 +2743,18 @@ node	13100581790	https://mareconsulting.it
 node	13100912201	https://www.facebook.com/lanorcineria.armando/
 node	13108257150	https://www.calevo.it/
 node	13110757646	https://www.isoppoeparma.com
+node	13114401973	https://tendolacycling.com/
+node	13115743741	https://www.accademiabianchi.it
+node	13115783280	https://www.infissieprogetti.com/
+node	13115816638	https://www.lacantinadelnonnopescetto.it/
+node	13116206022	https://www.serramentidisanto.it/
+node	13116216781	https://www.bikelablaspezia.it/
+node	13116728404	https://www.ciclopoint.it/
+node	13118785134	https://www.allstardeesign.com/
+node	13120802487	https://www.scriabinclub.com/post/scriabin-bogliasco/
+node	13121691149	https://www.febalcasa.com/it/stores/febal-casa-sarzana/
+node	13122870798	https://www.supermarketdelcolore.it
+node	13124666795	https://www.effettiarredamenti.com
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3096,6 +3108,7 @@ way	205907618	https://www.poliartigiana.it/
 way	205908161	https://www.isoppoeparma.com
 way	205909169	https://fondoambiente.it/luoghi/villa-rezzola/
 way	205912591	https://www.deasecurity.com
+way	205917090	https://www.museodiocesanolaspeziasarzanabrugnato.com/museo-diocesano/
 way	205923320	http://www.lunabrasivi.it/
 way	205926464	https://www.moderno.it/
 way	205928804	https://www.microdata.it/
@@ -4293,6 +4306,7 @@ way	1341620816	https://www.icboine-imperia.edu.it/luogo/scuola-materna-borgo-pri
 way	1341620817	https://www.icboine-imperia.edu.it/luogo/scuola-primaria-r-vercesi
 way	1372102366	https://www.eurospin.it/punti-vendita/diano-castello-via-diano-san-pietro/
 way	1413035046	http://www.campingfossalupara.it/
+way	1426798893	https://www.lapietraelulivo-agricamping-pietraligure.com/
 relation	11734820	http://parconaturalealpiliguri.it
 node	201634566	http://www.starhotels.com/
 node	206230003	http://www.minihotelgenova.com/
