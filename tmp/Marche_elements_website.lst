@@ -98,7 +98,6 @@ node	683633972	https://enotecakursaal.it/
 node	684439510	https://cad.univpm.it/SebinaOpac/library/Tecnico-Scientifica-Biomedica/UANBU
 node	687053336	https://www.labotte1986.it/
 node	687053344	https://www.gelaterialagolosa.it/
-node	687062516	https://www.poste.it/
 node	690726278	https://www.comune.ap.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/9896
 node	691119727	https://www.bper.it/scheda-filiale/-/filiale/marche/ascoli-piceno/agenzia-10140
 node	691565189	https://www.iismazzocchiumbertoprimo.gov.it/
@@ -1156,7 +1155,6 @@ node	9247958607	https://www.s2spa.it/
 node	9256466286	https://www.poderecoldifico.it/
 node	9267642111	https://www.malibufitness.it/
 node	9315154917	http://beerstocivitanova.it
-node	9324689493	https://www.locandadellapieve.com
 node	9330788913	https://www.guardiacostiera.gov.it/organizzazione/Pages/capitaneria-di-porto-di-pesaro.aspx
 node	9344826699	https://credito-valtellinese-it.open-closed.net/pesaro-orario-piazzale-carducci-5
 node	9347416918	https://www.casemuseomarche.it/casa-natale-di-maria-montessori/
@@ -1968,6 +1966,7 @@ node	12526984857	https://www.tigota.it/negozi/022421
 node	12531063459	http://www.falegnameriaaghetoni.it/
 node	12531440905	https://zetabidenim.it/
 node	12532173100	https://www.spadoniarredamenti.com/
+node	12532200001	https://www.passaggilibriecaffe.it/
 node	12535117254	https://www.happy-camper.it/
 node	12546207448	https://local.churchofjesuschrist.org/it/it/ancona/ancona/via-fermo-1-b
 node	12554538294	https://serviziweb.asur.marche.it/GASASUR/gas.php?mod=ORG&padre=523
@@ -2149,6 +2148,13 @@ node	13109268324	https://avventuranelparco.it/
 node	13115606931	https://www.parkhotelarcevia.it/
 node	13115613245	https://albergoappennino.com/
 node	13116380669	https://www.puntosaluteacqualagna.it
+node	13130820793	https://www.comune.ortezzano.fm.it/it/vivere/752404?category_id=418678
+node	13130846586	https://www.comune.ortezzano.fm.it/it/unita_organizzative/22021?#sede-principale
+node	13130911739	https://icpetritoli.edu.it/struttura/ortezzano-monterinaldo/
+node	13131123904	https://www.pievedelcolle.com/
+node	13133973326	https://cuoreadriatico.it/
+node	13139832460	https://www.erbamicasenigallia.it/
+node	13139986948	www.lecastellane.it
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2769,7 +2775,6 @@ way	1112903073	https://www.solgasonline.it/
 way	1112903074	http://www.fondazionesagrini.it/
 way	1112903078	https://www.ortopediasanitariamary.it/
 way	1112903085	https://www.carifermo.it
-way	1113139190	https://cuoreadriatico.it/
 way	1113631183	http://www.giaccheverdimarche.it/
 way	1126114699	http://www.siconte.it/it/punti-vendita/si-superstore/civitanova-marche-via-carlo-alberto-dalla-chiesa
 way	1127708981	https://www.ilpincio.it/
@@ -2946,6 +2951,7 @@ way	1416753249	https://www.beweb.chiesacattolica.it/houses/house/50161/Cagli+%28
 way	1417154479	https://www.agrifilippetticlaudio.it/
 way	1424809967	https://www.frasassiavventura.it/
 way	1426159090	https://eurotecnica.com/
+way	1428121849	https://falconairpark.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1512917	https://www.iismerlonimiliani.it/
@@ -3251,6 +3257,7 @@ node	8007144830	http://www.officinabonfigli.it
 node	8094784734	https://fisioterapia-cipelli.it
 node	8608462864	https://www.gmonamour.it/
 node	8648846196	http://www.le-fontane.com
+node	9324689493	https://www.locandadellapieve.com
 node	9690460176	https://mexicodemicorazonosimo.eatbu.com/
 node	9831945293	https://www.agricampingtramontorosso.it/
 node	9875326926	https://m.facebook.com/ristorantepizzeriaIlFagiano/
@@ -3282,6 +3289,7 @@ node	12012479008	http://www.vernacciadilanfrancoquacquarini.it/
 node	12062067501	https://www.lasaponaria.it/biostorie-civitanova
 node	12062085781	https://www.lasaponaria.it/biostorie-senigallia
 node	12798648901	http://www.bbancona.com
+node	13127681779	https://www.locandadellapieve.com
 way	14805243	https://www.santuarioloreto.va
 way	44523218	http://www.arterisko.com
 way	61094272	http://www.athleticclubpesaro.it/
