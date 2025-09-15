@@ -147,6 +147,8 @@ node	13087310938	https://www.provincia.isernia.it/
 node	13087310939	https://prefettura.interno.gov.it/it/prefetture/isernia
 node	13103654702	https://www.scuolascicapracotta.com
 node	13103697314	http://www.noloscicapracotta.it/
+node	13130925894	https://www.diocesitrivento.it/
+node	13134418980	https://www.julierose.it/
 way	56248419	https://www.facebook.com/riovivocamperpark
 way	62075956	https://www.musei.molise.beniculturali.it/musei?mid=934&nome=castello-di-civitacampomarano
 way	67731527	https://www.hotelmeridiano.com/it/ristorante-luna-restaurant.html/
@@ -285,10 +287,9 @@ way	678384913	http://www.molisealberi.com/poggio-sannita-le-ramificanti-roverell
 way	678420650	https://lagonero.thefork.rest/en_GB/
 way	687620822	https://www.comune.macchiavalfortore.cb.it/zf/index.php/comunita-religiose/index-chiesa/dettaglio-chiesa/chiesa/3
 way	687620825	https://www.comune.macchiavalfortore.cb.it/zf/index.php/comunita-religiose/index-chiesa/dettaglio-chiesa/chiesa/3
-way	687731454	https://www.comune.macchiavalfortore.cb.it/macchiav/zf/index.php/comunita-religiose/index-chiesa/dettaglio-chiesa/chiesa/4/back/chiesa
+way	687731458	http://turismo.provincia.campobasso.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/407
 way	689512204	http://www.ristorante-miralago.it/
 way	695860471	https://www.tripadvisor.it/Restaurant_Review-g3346479-d6828329-Reviews-Ristorante_dell_Agriturismo_Horse_s_Ranch-Macchia_Valfortore_Province_of_Campoba.html
-way	799808952	https://www.diocesitrivento.it/
 way	801546767	https://www.sepino.net/turismo/c38-pacchetti-turistici-itinerari-a-sepino-ed-in-molise/conventino/
 way	836728821	https://www.eurospin.it/punti-vendita/bojano-541391/
 way	868383181	https://www.aziendaterramadre.it/
@@ -332,7 +333,6 @@ relation	9210464	https://www.claudiocipressi.it/site/it/home/
 relation	9210480	https://www.claudiocipressi.it/site/it/home/
 relation	9210482	https://www.claudiocipressi.it/site/it/home/
 relation	9210715	https://www.vinica.it/it/
-relation	9544178	http://turismo.provincia.campobasso.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/407
 relation	9574955	https://www.era-ewv-ferp.org/e-paths/e1/
 relation	9796879	https://www.parcoabruzzo.it/sentiero.php?id_iti=4229
 relation	11067511	http://www.istitutomnicomprensivotrivento.gov.it/
@@ -356,6 +356,8 @@ relation	17674481	https://www.trekkingitalia.org/
 relation	17675194	https://www.trekkingitalia.org/
 relation	17675320	https://www.trekkingitalia.org/
 relation	17678319	https://www.trekkingitalia.org/
+relation	19598338	https://www.fisiomedicaloretana.it
+node	10769105353	https://www.museionline.info/musei/museo-di-storia-naturale-della-valle-del-fortore
 node	12115891441	https://gustusristorante.com/
 node	12841615318	https://www.molisewow.com/borgodellefonti
 way	193450242	https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-archeologica-di-altilia-saepinum
