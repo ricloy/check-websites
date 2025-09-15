@@ -170,7 +170,6 @@ node	3585615676	http://www.uiuis.com/
 node	3585754297	http://www.tribunale.potenza.it/
 node	3585992794	https://biblioteca.unibas.it/site/home/biblioteca/sedi/polo-tecnico-scientifico.html
 node	3585992795	https://biblioteca.unibas.it/site/home/biblioteca/sedi/polo-delle-scienze-umane.html
-node	3604924538	http://www.liceoscientificomt.it/
 node	3733707428	https://www.itigeopz.edu.it/
 node	3734060325	http://www.paesit.eu
 node	3743170225	https://www.goblinspub.com/
@@ -269,7 +268,6 @@ node	6433924396	http://www.latronico.eu
 node	6485246372	https://www.hotelcavedelsole.it/
 node	6494454853	https://distributoreenivietridipotenza.myadj.it/
 node	6518315407	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=152870&pagename=157031
-node	6518360313	https://musei.basilicata.beniculturali.it/musei/?mid=70&nome=museo-nazionale-darte-medievale-e-moderna-della-basilicata-palazzo-lanfranchi
 node	6576717386	http://www.ristoromanferrara.com
 node	6586043007	https://www.repower.com/it/lenergia-di-repower/produzione-di-energia-elettrica/
 node	6602521780	https://www.wikimatera.it/cosa-vedere-a-matera/matera-sotterranea-gioielli-nelle-viscere-della-terra/materasum-citta-sotterranea/
@@ -576,6 +574,10 @@ node	13057661523	https://www.solimenelavello.edu.it/
 node	13109576401	https://ilrusticone.com/menu-pizzeria-matera-street-food-il-rusticone/
 node	13111137609	https://www.poste.it
 node	13121234351	https://www.instagram.com/fecaffe2025/
+node	13128033511	https://www.museotam.com
+node	13128033512	https://www.museotam.com
+node	13128082225	https://www.fondazionesassi.org/
+node	13128840854	https://www.parcoofanto.it/borgo-gaudiano-lavello/
 way	33887443	http://musei.beniculturali.it/musei?mid=68&nome=museo-archeologico-nazionale-di-metaponto
 way	33887449	http://musei.beniculturali.it/musei?mid=326&nome=tempio-delle-tavole-palatine
 way	61114412	https://www.stradeanas.it/it/le-strade/la-rete-anas
@@ -807,14 +809,12 @@ way	1307479185	http://www.agriturismopantaleonematera.it
 way	1315662201	https://www.facebook.com/Venusiaautolavaggio
 way	1414169869	https://www.vietriservizi.it/sport/
 way	1414685461	https://www.davinci-nitti.it/
+way	1429709391	https://www.comune.teana.pz.it/it/luoghi/municipio-del-comune-di-teana
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240 | http://www.lestradeferrate.it/mono2.htm
 relation	3160701	https://www.montescaglioso.net/node/1513
 relation	3274279	https://www.isassidimatera.com/chiesa-sant-agostino/
-relation	3293582	http://www.liceoscientificomt.it/
 relation	3293654	https://www.prefettura.it/matera/multidip/index.htm
-relation	3474467	http://www.artibasilicata.beniculturali.it
-relation	3534125	http://www.liceoscientificomt.it/
 relation	5214171	https://portale.unibas.it/site/home.html
 relation	6274746	http://parcoappenninolucano.it/
 relation	8085866	http://www.santuariopicciano.it/
@@ -841,7 +841,6 @@ relation	14244476	https://camminomaterano.it/via/1/via-peuceta
 relation	14251864	https://camminomaterano.it/via/1/via-peuceta
 relation	14561416	https://www.castellodilagopesole.com/
 relation	14614956	http://musei.beniculturali.it/musei?mid=71&nome=museo-archeologico-nazionale-della-siritide
-relation	16328653	https://museometaponto.beniculturali.it/
 relation	16859095	https://museomassimopallottino.beniculturali.it/il-castello-di-melfi/
 relation	17133490	www.caicastrovillari.it
 relation	17906724	https://cailagonegro.com/
@@ -959,7 +958,9 @@ way	1026172888	https://www.poste.it/cerca/index.html#/risultati-cerca-up/metapon
 way	1071078745	https://www.cosmetinfissi.it/
 way	1216242696	https://web.rivion.it/it
 way	1270374199	https://www.terredigaudio.com/
+relation	3534125	https://www.liceoscientificomatera.edu.it/
 relation	16284930	http://www.icnovasiri.edu.it/
+relation	16529663	https://museometaponto.beniculturali.it/
 node	1893135959	http://www.lagiaramaratea.it/
 node	1895052179	http://www.sanmarcoagriturismo.it/
 node	3583367906	http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/PZMM880015/l-la-vista-pz/
