@@ -42,6 +42,7 @@ node	611584735	https://www.puntalunga.it/
 node	615632967	https://www.facebook.com/ibucanieri
 node	615632974	https://www.saint-patrick.it/
 node	620120661	https://www.anchecinema.com/
+node	620120664	https://www.rossotono.it/punti-vendita/1444/rossotono-easy/
 node	624106051	https://www.empiregym.it/
 node	624399054	www.barimotors.it
 node	643883764	http://www.cinemaesedra.it/
@@ -508,7 +509,6 @@ node	4230141993	https://www.qstravel.it/
 node	4232113826	http://www.popolarevicenza.it
 node	4232142598	https://www.poste.it/
 node	4233391789	http://www.lenottidoriente.com
-node	4233448454	https://www.bluserena.it/it/calane-village/villaggio-turistico-puglia
 node	4233509776	https://www.paginegialle.it/castellaneta-ta/villa-2-fields-bed-amp-breakfast
 node	4234812301	https://www.repower.com/dina/
 node	4237309189	latorreilmare.blogspot.it
@@ -868,6 +868,7 @@ node	5666387813	https://cconforthotels.com/bari/bb-dolci-emozioni-bari/
 node	5666387816	https://baciami-ancora.bedsandhotels.com/
 node	5666388125	https://cconforthotels.com/bari/bb-appartamento-cavour-bari/
 node	5666388135	https://cconforthotels.com/
+node	5666545058	https://www.conquist.it/
 node	5666609959	https://iriparo.com/
 node	5676259976	https://www.cirgom.it/
 node	5679355575	https://www.lebeef.it/
@@ -1132,7 +1133,6 @@ node	6982739517	https://www.facebook.com/MorolaCaffeItaliano/
 node	6983737749	https://m.facebook.com/M.TeresaCampana/
 node	6989731640	https://fb.com/boutiquedellacarneac
 node	6991022907	https://www.conad.it/ricerca-negozi/conad-via-provle-erchie-torre-ss-92-snc-72020-erchie--007831
-node	6997066985	https://www.birrificiobari.it/
 node	7042332709	https://supermercatisisaavetrana.it/
 node	7046585014	http://www.ciaccohotel.it/
 node	7049183180	https://www.novaurea.com/
@@ -1170,7 +1170,6 @@ node	7299865516	https://jerome-chocolat.restauflow.it/store/bari
 node	7301290211	https://castellaneta.gov.it/pubblicazioni/item/18581-servizio-di-guardia-medica-turistica-estate-2019
 node	7302446212	https://www.grupposanmarco.eu/
 node	7305348348	https://www.masseriacamarda.it/
-node	7316911892	https://www.bluserena.it/it/granvalentino-village/villaggio-turistico-puglia
 node	7323860421	http://obiettivo2020.it/bb
 node	7343277838	https://www.guidedocartis.it/?page_id=35065
 node	7343277839	https://www.guidedocartis.it/?page_id=35175
@@ -2103,6 +2102,7 @@ node	11323141634	http://www.barinfiori.it/
 node	11323149710	https://www.pizzeriadesideria.com/
 node	11323185683	https://www.vivabaribb.com/
 node	11327477688	https://trulyapulia.it/
+node	11327631004	www.cri.it/puglia
 node	11328030459	http://www.ediliziaeambiente.it/
 node	11328151984	https://www.colellaenergie.it/
 node	11328842805	https://domusapulia.it/
@@ -3195,13 +3195,20 @@ node	13109096101	https://osteriaradici.it/
 node	13110049901	https://menu.inarifusionrestaurant.it/
 node	13110249189	https://autorimessathebest.it/
 node	13112682480	https://gibimed.com/
-node	13112977598	www.osmairm.it
-node	13112977599	www.bakeryfumarola.com
-node	13116884983	www.caafcgilpuglia.it
+node	13112977598	https://www.osmairm.it/
+node	13112977599	https://www.bakeryfumarola.com/
+node	13116884983	https://www.caafcgilpuglia.it/
 node	13121398771	https://bari.esn.it/
 node	13121421564	https://www.facebook.com/people/Casa-delle-Donne-del-Mediterraneo/61556822503937/
 node	13124719484	https://res-design.it/
 node	13124881245	https://www.consultradesrl.com/
+node	13132809583	https://manelligroup.com/
+node	13133048741	https://www.cocoonbeautyfarm.it/
+node	13133048744	https://www.cocoonbeautyfarm.it/
+node	13134457161	https://www.infocamere.it/
+node	13134480098	http://www.schermabari.it/
+node	13136265988	https://www.lascuolaopensource.xyz/it
+node	13143137665	https://www.mamangiorecchietteria.it/
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -3549,6 +3556,7 @@ way	397823580	https://www.portedellojonio.com/
 way	397824031	https://it-it.facebook.com/fiumegiallofg/
 way	399019724	https://www.augustusresort.com/
 way	401418218	https://censimento.valledellacupa.it/gal_r.php?wchben=590&vvv=999__-__999__-__999__-__999__-____-__0---0---0---0---0---0---0---0---0---0---0---1---&bbb=5
+way	401944815	www.castleelvira.com
 way	402038243	http://www.masseriamelcarne.it/web/
 way	402042926	https://www.masseriapisciani.it
 way	402047534	http://www.hotelcoccioli.com/it/coccioli
@@ -3578,6 +3586,7 @@ way	404759635	https://www.iczannotti.edu.it/sito1/index.php
 way	404759726	https://www.itesfraccacreta.edu.it/
 way	404765604	https://www.iczannotti.edu.it/sito1/index.php
 way	405019151	https://www.facebook.com/oasisostacamperlesina
+way	405030423	https://fondoambiente.it/luoghi/santuario-di-san-nazario?ldc
 way	405218757	https://mongolfierafoggia.it/
 way	405218785	WWW.NUOVAGAM.IT
 way	405228336	https://www.facebook.com/pages/Mario-Forcella/151803948191811
@@ -4173,7 +4182,7 @@ way	779340548	http://www.itdeleddalecce.gov.it
 way	779865408	https://www.villaggioalbergocervo.it/
 way	783443023	https://www.bluserena.it
 way	783443024	https://www.bluserena.it
-way	783443026	https://www.bluserena.it
+way	783443026	https://www.bluserena.it/ethra-reserve/calane/
 way	783454020	https://www.bluserena.it
 way	784447186	https://www.athenaservizi.it/
 way	794687543	https://www.pianetaostuni.it/index.php/lame/delle-grotte
@@ -4554,6 +4563,7 @@ way	1418919977	https://www.icsdantealighieri.edu.it/
 way	1418922462	https://unica.istruzione.gov.it/cercalatuascuola/istituti/BREE80802G/madre-teresa-di-calcutta/
 way	1418922463	https://unica.istruzione.gov.it/cercalatuascuola/istituti/BREE80801E/don-lorenzo-milani/
 way	1424609373	https://www.plgenius.com/
+way	1429472505	https://www.comprensivoperonelevi.edu.it/luogo/plesso-2-padiglione/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
@@ -4580,6 +4590,7 @@ relation	5491368	http://www.lidostellamaris.it/
 relation	5642391	https://www.hotelrizieri.it/
 relation	5690968	https://www.robinson.com/clubs/apulia/
 relation	5711287	http://www.cdmancini.it/
+relation	5719245	https://uslecce.it/stadio/
 relation	5918765	https://www.comune.sava.ta.it/it
 relation	5995040	https://www.albergopalazzo.it/
 relation	6032730	https://www.comune.trepuzzi.le.it/
@@ -4726,6 +4737,7 @@ relation	17349766	https://www.thenicolaushotel.com/
 relation	17467312	https://www.uniba.it/
 relation	17469561	https://www.uniba.it/it/ricerca/dipartimenti/dipmedveterinaria
 relation	17497412	https://www.icmazzinimodugno.edu.it/
+relation	17709936	www.comune.bari.it
 relation	17857179	https://www.liceoaristosseno.edu.it/
 relation	17864305	https://www.eseitalia.it
 relation	17895020	https://zoosafari.it/?art=news1
