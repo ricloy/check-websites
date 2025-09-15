@@ -2086,7 +2086,7 @@ node	4590846046	https://carsharingtorino.it/
 node	4590854530	https://carsharingtorino.it/
 node	4590999738	https://carsharingtorino.it/
 node	4592748492	https://www.mandali.org/
-node	4596535000	http://www.turismotorino.org/
+node	4596535000	https://www.turismotorino.org/
 node	4597177587	https://cyclospherabike.it
 node	4598090123	https://www.trattorialmulin.it/
 node	4603382270	https://www.lamparatorino.com/
@@ -4774,6 +4774,7 @@ node	8791553227	http://www.luvaeilgrano.eu/
 node	8792367088	https://www.terradelcastelmagno.it/senpie/
 node	8792814301	http://www.pesceriasanmartino.it/
 node	8804739105	https://www.passionecaffeonline.it/
+node	8809020967	https://www.salgaricampus.it
 node	8809997968	https://friscoshop.it
 node	8813991917	https://airbnb.com/h/ghiardomarco
 node	8814451507	https://www.enelx.com/it/it
@@ -4854,6 +4855,7 @@ node	9028732097	https://www.centrocommerciale-sesiacenter.com/negozi/tutto-pizza
 node	9037833856	https://www.museotorino.it/view/s/f6a6120ab4744a0c9194b7a87854b67f
 node	9038805031	https://trattoriaalba.eatbu.com
 node	9046346169	https://it-it.facebook.com/NauticaBeachArona/
+node	9051355248	https://www.geymonatmacelleria.it/
 node	9052439924	https://museorodari.it/
 node	9052560929	https://www.sanfrancescosusa.it/
 node	9053140090	https://www.terradelcastelmagno.it/
@@ -6840,15 +6842,15 @@ node	13103182323	https://www.otticatelesio.it/
 node	13103182325	https://parrucchieremirko.com/
 node	13103182327	https://antenneaschieri.com/
 node	13108166785	https://www.metropolisarea.it/
-node	13111784099	canoaclubtorino.it
+node	13111784099	https://canoaclubtorino.it/
 node	13112575594	https://pugliesematerassi.it/
 node	13116907582	https://ilcantucciobb.com
 node	13116907583	https://www.bebilglicine.com/
 node	13116951516	https://www.locandadelcentrocambiano.com
-node	13118749084	www.ferrerolegno.com
+node	13118749084	https://www.ferrerolegno.com/
 node	13118995441	https://www.instagram.com/laurarossistudio_parrucchieri/
 node	13118995442	https://www.facebook.com/graficandostudio/
-node	13119061643	www.saladeglieroi.it
+node	13119061643	https://saladeglieroi.it/
 node	13119228351	https://www.rojto.it/
 node	13119989702	https://parcocampofelice.it
 node	13119997573	http://www.labraida.it/
@@ -6859,6 +6861,17 @@ node	13123354501	https://m.facebook.com/PizzeriaDaCiccillo/
 node	13123756741	https://www.viabeirut.it/
 node	13124195058	https://www.igmi.org/geoprodotti/punti-geodetici/vertici-trigonometrici/incerta_definizione/trigo-1609496567.21
 node	13125156053	https://www.igmi.org/geoprodotti/punti-geodetici/vertici-trigonometrici/incerta_definizione/trigo-1609496567.44
+node	13130132802	https://www.epf.it/
+node	13131030134	https://www.mymercato.it
+node	13131945487	http://www.gripal.it/
+node	13131963327	http://www.cillarioarredamenti.it
+node	13133932887	https://speedqueeninvestor.com/our-laundry-stores/locations/italy/torino/lavanderia-self-service-speed-queen/217386
+node	13134363986	https://serramentoitaliano.com/
+node	13138457894	https://luconsport.it
+node	13138457896	https://checucine.it
+node	13138509109	https://www.easypoke.it
+node	13141684225	https://yggdra.eu/
+node	13141684226	https://ilcantonepub.wixsite.com/pub85
 way	23028146	https://www.palavelatorino.it/
 way	23079840	https://www.isola2000.com
 way	24219041	http://www.comune.torino.it/infrastrutture/opere/viabilita/chiaves.htm
@@ -6917,6 +6930,7 @@ way	55693706	https://www.rifugiogastaldi.com/
 way	56470867	https://www.denso-ts.com/
 way	56471684	http://www.laraenergy.it/
 way	58740906	https://questure.poliziadistato.it/it/Vercelli
+way	58743618	https://www.fcprovercelli.it/il-club/centro-sportivo
 way	58876943	https://sanmartino2.it/
 way	59047982	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	59159261	https://www.gruppoiren.it/it/i-nostri-servizi/produzione-energia/impianti-termici.html
@@ -6968,7 +6982,7 @@ way	80403942	http://www.golfclubstupinigi.com/
 way	80996989	https://www.ordinemauriziano.it/precettoria-di-s-antonio-ranverso
 way	81064045	https://www.itisgrassi.it/
 way	81091406	https://www.parks.it/vr.sponde.fluviali.casale.monferrato/map_fullscreen.php
-way	81162491	www.azzurrastore.it
+way	81162491	https://azzurrastore.it/
 way	81245675	http://www2.comune.casale-monferrato.al.it:81/mobile/?p=97
 way	81363862	https://anticatettoiaorologio.com/
 way	81514543	https://www.sobrero.edu.it
@@ -7561,6 +7575,7 @@ way	205206370	http://www.locandaaquilabianca.it
 way	205252424	https://www.laquabythelake.it
 way	205261641	https://www.campingpuntacrabbia.it/
 way	205597235	https://aula-arcobaleno-pettenasco.hotelmix.it/
+way	205628767	https://www.hotelmadonnadiluciago.com/
 way	205658511	https://www.castelloconti.it/
 way	205779102	https://www.villapizzinimottarone.com/homepage-1
 way	205795558	https://www.camping7camini.it
@@ -7611,6 +7626,7 @@ way	208271058	https://www.alagna.it/trekking-e-passeggiate/la-chiesa-di-alagna/
 way	208279429	https://www.comune.gozzano.no.it/
 way	208465635	http://www.comune.alagnavalsesia.vc.it/
 way	208545169	https://www.alagna.it/attivita/passeggiate/la-segheria-della-resiga/
+way	208631026	https://www.nh-hotels.com/en/hotel/nh-collection-torino-santo-stefano?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb
 way	208839058	https://www.relaisregina.it/
 way	209086936	https://www.ilcaprifogliocampiglione.com/
 way	209094577	https://www.discotecalunarossa.com
@@ -7967,7 +7983,7 @@ way	254045585	https://www.ittica-casarotti.com/
 way	254055113	https://www.cordarvalsesia.it/
 way	254095731	https://www.padregemelli.edu.it/luogo/sede-via-terraneo/
 way	254099871	https://hotelcastellotorino.com/
-way	254106255	http://www.iccaraglio.itisavogadro.org/
+way	254106255	http://www.iccaraglio.edu.it
 way	254619834	https://www.labussolanovara.it/
 way	254760036	https://www.caivigezzo.org/rifugi/rifugio-d-castelnuovo-al-cedo/
 way	254869067	https://www.museotorino.it/view/s/7a2616492fba4ed4b21b63fce239c909
@@ -9618,7 +9634,7 @@ way	885186391	https://www.aslto3.piemonte.it/strutture/poliambulatori/oulx-sede_
 way	885847134	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	885847135	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	885847137	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
-way	886151385	https://archiviodelverbanocusioossola.com/2013/01/02/due-vagoni-tra-le-nuvole/
+way	886151385	https://www.ciaspole.net/blog/il-wag-ristoratore-della-val-formazza
 way	886703818	https://www.edisu.piemonte.it/it/servizi/ristorazione/mense/mensa-universitaria-perrone
 way	887360227	https://www.comune.greggio.vc.it/it-it/home
 way	888016670	https://www.insmercato.it/volantino/
@@ -10097,6 +10113,7 @@ relation	1547327	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1547328	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1547991	http://www.provincia.alessandria.gov.it/sentieri/
 relation	1571202	https://www.gtt.to.it/cms/percorari/urbano?view=percorso&bacino=U&linea=18&percorso=18R2&verso=Di&Regol=GE
+relation	1642536	https://www.juventus.com/it/allianz-stadium/
 relation	1681502	http://www.parcoartevivente.it
 relation	1765980	https://www.facebook.com/damariaristorante/
 relation	1777413	https://www.circoloeridano.it/
@@ -10518,6 +10535,7 @@ relation	9077357	https://www.estmonterosa.it/catasto-percorsi-vco-alto-verbano-s
 relation	9079386	https://www.estmonterosa.it/catasto-percorsi-vco-alto-verbano-settore-r.html
 relation	9080519	http://www.caivarallo.it
 relation	9080542	http://www.caivarallo.it
+relation	9080570	https://www.torinofc.it/stadio/lo-stadio-olimpico-grande-torino
 relation	9080579	http://www.caivarallo.it
 relation	9080580	http://www.caivarallo.it
 relation	9080581	http://www.caivarallo.it
@@ -12134,6 +12152,8 @@ node	12989190717	https://simondi.gallery
 node	13006366931	https://www.glamourbiella.it/
 node	13115880031	http://www.birrificiocitabiunda.it
 node	13119724826	http://www.ciclisumindario.it/
+node	13127705873	https://www.rifugionelboscodialice.it/
+node	13127705874	https://www.rifugionelboscodialice.it/
 way	24600050	https://booking.isoleborromee.it/it/product/7/detail
 way	39670307	https://www.bardonecchia.it/strutture/posto-tappa-valfredda/
 way	58323423	http://www.aeroclubvercelli.it/
@@ -12698,6 +12718,8 @@ node	13084142703	https://www.thecrag.com/de/klettern/italy/mont-orfano/area/4085
 node	13084188604	https://www.thecrag.com/de/klettern/italy/mont-orfano/area/408571107
 node	13096798244	https://www.montagnapertutti.it/alp_piemonte/stura/alpette.php?lang=it
 node	13124461333	https://www.cuneoclimbing.it/new/2025/01/07/rastello-falesia-gias-gruppetti/
+node	13142543839	https://associazionedai.it/evento/il-triangolo-impossibile/
+node	13143956428	https://www.vielunghe.com/mongioie-cima-campanili-via-alba-celtica/
 way	59167755	https://ip.gruppoapi.com/
 way	70044283	"https://openstreetcam.org/map/@45.692245515194244,8.471601605415346,18z"
 way	75614681	http://www.rifugiogenova.it/
