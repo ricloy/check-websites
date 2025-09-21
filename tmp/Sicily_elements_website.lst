@@ -895,7 +895,6 @@ node	3415696324	http://www.nonnaassunta.it
 node	3415908293	www.zefirorooms.it
 node	3415920121	www.zefirorooms.it
 node	3415938510	https://www.ginostraincontro.it/
-node	3419393690	http://museodistromboli.blogspot.it/
 node	3419452778	www.casadelsolestromboli.it/
 node	3421329691	https://www.widesnc.com/
 node	3425134046	https://ades-novelty-store.business.site
@@ -1790,6 +1789,7 @@ node	6331125323	https://www.poste.it
 node	6343512297	https://web.facebook.com/venusristorantepizzeria/
 node	6348434897	http://www.favignanamare.it/
 node	6355843102	https://www.telebitconsulting.it/
+node	6358724295	https://www.pubblicittasr.com/
 node	6361223736	https://librerianunnari.it
 node	6361615810	https://www.tinefiori.it/
 node	6361615959	https://motorsud.it
@@ -2537,6 +2537,7 @@ node	8618886996	https://www.paintwars.it/
 node	8631197219	https://www.cartoleriamultiservices.it/
 node	8631197220	https://www.cartoleriamultiservices.it/
 node	8647754670	https://www.lubestoresiracusa.it/
+node	8647880926	https://pachino.creokitchens.it/
 node	8684325548	https://despar.it
 node	8700759667	https://angoloinformatico.it/
 node	8702543062	https://www.avaliani.it/
@@ -2774,6 +2775,7 @@ node	9044444043	https://www.alberghierowojtyla.edu.it/
 node	9044444044	https://www.liceogalileicatania.edu.it/
 node	9045072398	https://mercatocolantoni.it/
 node	9045072399	https://mercatocolantoni.it/
+node	9045408405	http://www.scuolasandomenicosavio.it/
 node	9045408412	https://scuolaipiccoliamicicarlentini.jimdofree.com/
 node	9045447078	https://www.istitutoscolasticopioxii.it/
 node	9045447084	https://www.sacrocuoresr.it/
@@ -3203,7 +3205,6 @@ node	10270123835	https://www.fermivittoria.edu.it
 node	10270123836	https://www.istitutosuperioremarconi.edu.it
 node	10272188685	https://www.francescocrispi.edu.it
 node	10272188686	https://www.istitutoberlinguer.edu.it
-node	10272194433	https://www.quasimodoragusa.edu.it
 node	10274495938	https://www.istitutocomprensivovannanto.edu.it
 node	10274495939	https://www.istitutocomprensivovannanto.edu.it
 node	10274496232	https://www.francescocrispi.edu.it/
@@ -3591,6 +3592,7 @@ node	11596489594	https://www.iis-brunelleschi.edu.it/
 node	11597892438	https://cicciosburger.it
 node	11598949205	https://www.fratellicontorno.com/
 node	11599853265	https://www.icspaolovasta.it/
+node	11602398733	http://www.quidgustosiciliano.com/
 node	11602971581	https://www.facebook.com/PalermoYouthCentre/about
 node	11605491791	https://www.istituto-paritario-majorana.it/
 node	11605491792	https://www.istitutolionardovigo.it/
@@ -4072,6 +4074,13 @@ node	13134726001	https://pregiataputiapalermitana.com/
 node	13136122401	https://www.la-finestra-sul-castello-b-b.com/servizi-offerti
 node	13136197931	https://www.peppeilbarbiere.it/
 node	13136302551	www.bccaltofonteecaccamo.bcc.it
+node	13143024701	https://mangiunizzu.eatbu.com
+node	13143621956	https://lecupolesuites.it
+node	13147431021	https://www.nautilusadv.it/
+node	13147587001	https://www.sitimar.it/
+node	13150850781	https://www.matibaixa.it/
+node	13150850782	https://www.matibaixa.it/
+node	13153113723	https://www.nairiso.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -6396,6 +6405,8 @@ way	1427640366	https://www.alpontealcantara.it/
 way	1427771765	https://www.lns.infn.it/it/
 way	1429055417	https://www.dusty.it/pachino/ccr/
 way	1429495242	https://www.poste.it
+way	1430911368	https://www.comprensivopuglisi.it/
+way	1431188397	https://www.quasimodoragusa.edu.it
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
@@ -6551,6 +6562,7 @@ relation	11296030	https://www.cai.it/sezione/catania/
 relation	11299074	http://www.tribunaleragusa.it/
 relation	11578359	https://www.wyndhamhotels.com/dolce/siracusa-italy/dolce-siracusa-i-monasteri-golf-and-spa/overview
 relation	11603897	https://mappasentieroitalia.cai.it
+relation	11899698	https://openclimbing.org/relation/11899698
 relation	11931135	https://www.sicilytrekkingtour.it/
 relation	11931263	https://www.sicilytrekkingtour.it
 relation	11936465	https://www.sicilytrekkingtour.it
@@ -6973,6 +6985,27 @@ relation	19292858	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-bri
 relation	19293444	https://www.camminodeibrigantisicilia.it/tappe-cammino-dei-briganti
 relation	19534740	https://www.tenutachiaramonte.com/
 relation	19560525	https://www.comune.santaflavia.pa.it/
+relation	19586189	https://openclimbing.org/relation/19586189
+relation	19602382	https://openclimbing.org/relation/19602382
+relation	19602414	https://openclimbing.org/relation/19602414
+relation	19602484	https://openclimbing.org/relation/19602484
+relation	19604137	https://openclimbing.org/relation/19604137
+relation	19604619	https://openclimbing.org/relation/19604619
+relation	19604668	https://openclimbing.org/relation/19604668
+relation	19604813	https://openclimbing.org/relation/19604813
+relation	19604949	https://openclimbing.org/relation/19604949
+relation	19605041	https://openclimbing.org/relation/19605041
+relation	19607528	https://openclimbing.org/relation/19607528
+relation	19607773	https://openclimbing.org/relation/19607773
+relation	19607774	https://openclimbing.org/relation/19607774
+relation	19608220	https://openclimbing.org/relation/19608220
+relation	19608643	https://openclimbing.org/relation/19608643
+relation	19609196	https://openclimbing.org/relation/19609196
+relation	19609335	https://openclimbing.org/relation/19609335
+relation	19609336	https://openclimbing.org/relation/19609336
+relation	19609348	https://openclimbing.org/relation/19609348
+relation	19613438	https://openclimbing.org/relation/19613438
+relation	19613439	https://openclimbing.org/relation/19613439
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	506117889	https://guardiacostiera.it/mazaradelvallo
 node	548101816	http://www.medicalcentermazara.it
@@ -7033,6 +7066,7 @@ node	4567792579	http://www.ristorantelagrotta.info
 node	4693870954	http://www.pasticceriacalamunci.it/
 node	4736605311	http://www.crocedorosanfrancesco.com
 node	4759415458	http://infocenter.me
+node	4938651485	https://www.facebook.com/profile.php?id=61556313331223
 node	5076281574	https://www.bbportasoprana.it/
 node	5140311509	https://www.ageallianz.it/patti3948000/
 node	5142441727	https://www.comunicarepatti.it/
@@ -7051,6 +7085,7 @@ node	5725863291	https://www.centrodermatologicocatalfamo.it/
 node	6015666528	http://www.parafarmaciadeltindari.it
 node	6063310988	http://fablabpalermo.org
 node	6222710510	http://www.raiatea.mediainx.com/start.inx
+node	6370120147	https://www.facebook.com/profile.php?id=100028020593319
 node	6497282968	http://www.pediatramerlino.it/sedi
 node	6502412894	https://www.ristorantevillasalvenere.it
 node	6757394075	http://laperlaneravacanze.it
