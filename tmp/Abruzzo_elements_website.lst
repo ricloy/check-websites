@@ -211,7 +211,7 @@ node	1126695005	https://residencehercules.com/
 node	1133642825	https://www.conad.it/ricerca-negozi/negozio.003658.html
 node	1135517534	https://www.ristorantecarmine.it
 node	1177064594	http://www.castellochiola.com/en/chiola-castle/
-node	1206265652	http://www.roccacasale.gov.it
+node	1206265652	https://comune.roccacasale.aq.it/
 node	1249790347	https://puntogarden.it/
 node	1268422492	https://gliantenati.com/
 node	1270080476	https://hotellatartaruga.it/
@@ -1026,7 +1026,6 @@ node	6749921065	https://www.toyscenter.it/
 node	6749921067	http://www.pittarosso.com/
 node	6752586316	https://www.scuolacivica.sangiovanniteatino.ch.it/
 node	6757864043	http://www.danilogiampaolo.com/
-node	6760534983	https://carne-butchershop.business.site/
 node	6760534984	https://www.etereacalzature.com/
 node	6760605387	https://www.andreasbaraglia.com/
 node	6774825925	https://www.bper.it/scheda-filiale?p_p_id=&p_p_lifecycle=0&p_p_mode=view&__mylat=42.3662232&__mylng=13.442201&__lat=42.3569669&__lng=13.4069304&__subsidiaryId=695&__distance=5.1+km&__duration=8+min
@@ -3456,6 +3455,12 @@ node	13133098331	https://www.hotelmiami.it/
 node	13135666622	https://www.comune.pollutri.ch.it/it
 node	13138453745	https://comune.bomba.ch.it/
 node	13142110235	https://www.yoiramenesushi.it/
+node	13152522821	http://www.comacspa.it/
+node	13155242783	https://www.mondocamerette.it/stores/pescara/
+node	13155255363	https://www.goldbet.it/store-locator/goldbet-pescara-578344
+node	13155277289	https://www.dangelokart.it/
+node	13156989801	https://www.casa-co.it/
+node	13159348559	https://plantgrooveit.wordpress.com/
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -4256,7 +4261,6 @@ way	1018888434	https://www.facebook.com/Pro-Loco-Torrebruna-131289956891274/
 way	1018888435	https://www.facebook.com/Pro-Loco-Torrebruna-131289956891274/
 way	1018888448	http://www.comune.torrebruna.ch.it/zf/index.php/itinerari/index/dettaglio-itinerario/itinerario/1
 way	1021710438	"http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&type=auto&code=13004&Chiesa_di_Sant%27Antonio_abate__Villa_Cipressi,_Citt%c3%a0_Sant%27Angelo"
-way	1022211145	http://www.comacspa.it/
 way	1025297372	https://www.mcdonalds.it/ristorante/abruzzo/chieti/vasto-histoniense
 way	1031685525	https://www.compisrl.it
 way	1031686089	https://www.fiorellaindustrie.it
@@ -4623,8 +4627,9 @@ way	1425269878	https://integraonline.it/
 way	1425977948	http://www.paesiteramani.it/Paesi/FaieteCellino.htm
 way	1426406884	https://beweb.chiesacattolica.it/percorsitematici/barocco-sacro-a-casale-monferrato-la-chiesa-di-san-filippo-neri/fondazioni-della-chiesa-di-san-filippo-neri/
 way	1427911614	https://www.orientespa.it/
-way	1427955899	http://www.giardinomare.com/
+way	1427955899	https://www.giardinomare.com/
 way	1428465877	https://www.icritalevimontalcini.civitellatorricella.edu.it/luoghi?id=501
+way	1430805655	https://www.inergia.it/impianti-fotovoltaici/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -5049,6 +5054,7 @@ way	378791366	https://scelgofullservice.com/e-store
 way	524461839	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/13056/Chiesa+di+San+Rocco
 way	558584552	https://bar-la-torretta.business.site
 way	840972146	https://fondoambiente.it/luoghi/torre-di-san-giovanni-lanciano
+way	1120718205	https://bura.regione.abruzzo.it/sites/bura.regione.abruzzo.it/files/bollettini/2025-01-07/relazione-illustrativa.pdf
 way	1185570786	https://artbonus.gov.it/1483-fontana-dellartista-ettore-spalletti.html
 way	1228264791	https://www.patriaindipendente.it/memoria-attiva/ortona-1943-quella-battaglia-da-non-dimenticare/
 way	1242961312	https://www.todis.it/punti-vendita/scopri-i-negozi/#!/l/sambuceto/via-amendola-264/4399529
