@@ -174,7 +174,7 @@ node	1776355620	https://www.prolococampi.it/
 node	1776992670	http://www.iluoghidelsilenzio.it/?p=141280
 node	1776992671	http://www.iluoghidelsilenzio.it/?p=61519
 node	1779756179	https://www.ostellocentrosperanza.it/
-node	1800250074	http://musei.beniculturali.it/musei?mid=472&nome=necropoli-etrusca-crocifisso-del-tufo
+node	1800250074	http://musei.beniculturali.it/musei?mid=472&amp;nome=necropoli-etrusca-crocifisso-del-tufo
 node	1817783109	https://www.ristorantepizzeriapubnostrano.com/
 node	1824077676	https://www.hoteltiferno.it
 node	1853514005	https://www.ilbalestruccio.it/
@@ -568,6 +568,7 @@ node	6111701924	https://www.liquoreartigianale.com/
 node	6123203063	https://www.decathlon.it/store-view/negozio-sport-perugia-0070202802028
 node	6173256429	https://www.cinemacaporali.it/
 node	6186308385	https://www.straginazifasciste.it/?page_id=38&id_strage=1554
+node	6255883862	https://norceriaansuini.it
 node	6264517617	http://www.agriturismosanvito.com
 node	6286275623	https://poggio-cafe-perugia.metro.bar/?lang=it
 node	6321012231	https://festivaldispoleto.com/
@@ -759,6 +760,7 @@ node	9887891160	https://www.lacasinarossaperugia.it/
 node	9930511424	http://www.ilmolinelloumbria.it
 node	9933685685	https://www.borgocampello.com
 node	9947669324	https://www.jessicaligobbi.com
+node	9954861554	https://prodelta.it
 node	9967147520	https://www.villaclaraassisi.it/
 node	9971157307	https://www.isaporidellumbria.com/
 node	9979695112	https://instagram.com/audiomonk.studio?igshid=YmMyMTA2M2Y=
@@ -782,6 +784,7 @@ node	10046850989	https://www.promass.com/
 node	10050521306	https://azienda-agricola-ciuchicchi.business.site
 node	10053876757	http://www.tagliolamierectl.it/
 node	10053901410	https://www.greentales.it/
+node	10058041381	https://tavernadelboscaiolo.it
 node	10059385233	https://www.domuslaetitiaeassisi.it
 node	10079765082	https://www.magnatestone.it/
 node	10079765083	https://www.officine-bartolini.it/
@@ -1094,8 +1097,20 @@ node	13112961120	https://www.residenzabocci.com/
 node	13115289287	https://leterrazzedispazzavento.it/la-cantina/
 node	13119245780	https://www.pianetatende.net
 node	13121183193	https://coopetruria.coop.it/negozi/ellera-corciano
-node	13136520475	http://www.fratellicenci.com/
-node	13140880501	http://www.antincendioeformazione.com
+node	13136520475	https://www.fratellicenci.com/
+node	13140880501	https://www.antincendioeformazione.com/
+node	13148823080	https://tamat.org/
+node	13152944136	https://norcineriacoccia.it
+node	13152944142	https://rinopolito.it
+node	13152944149	https://www.norcineriaansuini.it/
+node	13152944152	https://norcineriacoccia.it
+node	13152944170	https://norciafood.it
+node	13152944179	https://pasticceriapolenta.it
+node	13153023393	https://asgaia.it
+node	13153023394	https://raftingadventurevalnerina.com
+node	13156849633	https://www.jolliflex.it/
+node	13156905364	https://www.jolliflex.it
+node	13156907551	https://www.jolliflex.it
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1103,6 +1118,7 @@ way	36195165	http://www.inorvieto.it/it/scegli/gli_imperdibili/area_archeologica
 way	36994747	https://www.assisisantachiara.it/
 way	44184811	https://www.opsm.it/
 way	54583779	https://www.iluoghidelsilenzio.it/santuario-della-madonna-delle-grazie-rasiglia/
+way	58565063	https://www.sabait.it/
 way	59041465	http://www.HotelDarsena.it/
 way	61461560	http://www.trasinet.com/al-lago
 way	61490922	https://www.motonauticacarli.it/
@@ -1223,7 +1239,7 @@ way	238535343	https://www.40martiridigubbio.it/
 way	239765480	https://www.umbriamobilita.it/
 way	241161149	http://www.iluoghidelsilenzio.it/?p=16161
 way	242166525	http://www.cascinaantonini.com
-way	242379147	http://www.enerpetroli.it/
+way	242379147	https://www.enerpetroli.it/
 way	244031203	http://www.sviluppumbria.it/
 way	244440969	http://www.monasterolegrazie.it/
 way	244567501	http://www.lavalnerina.it/dett_luogo.php?id_item=104
@@ -1290,6 +1306,7 @@ way	326897584	www.confraternitadisanjacopo.it
 way	328450617	www.confraternitadisanjacopo.it
 way	330355608	http://www.parcoattigliano.it/
 way	335203816	https://coopetruria.coop.it/negozi/norcia-norcia
+way	335289482	https://superelite.it
 way	335987426	https://www.sanpietroinvalle.com/
 way	336103479	https://www.ristoranteilgattamelatanarni.com/
 way	338149378	https://www.avioclubpantalla.com/newsite/home.asp
@@ -1847,7 +1864,6 @@ way	1422299962	https://icacquasparta.edu.it/luogo/via-carlo-quaglia-11/
 way	1422934770	https://www.campingmontidelsole.it/
 way	1427277414	https://www.musec-castelviscardo.it/
 relation	1253429	https://www.abbaziacollemedio.it/
-relation	1719404	https://www.sabait.it/
 relation	1947993	https://chemindassise.org/
 relation	1948091	https://chemindassise.org/
 relation	2048968	http://www.camminodiassisi.it
@@ -2078,6 +2094,7 @@ relation	18621930	https://camminilauretani.eu/
 relation	19556968	https://liveorvieto.com/blog/monumenti/castello-di-madonna-antonia/
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1635117842	https://www.agriturismoleburgne.it/
+node	1800250074	http://musei.beniculturali.it/musei?mid=472&amp;nome=necropoli-etrusca-crocifisso-del-tufo
 node	1887119542	https://www.fezemauro.com/
 node	2146579118	https://www.domuspacis.it/
 node	2169682875	http://www.lavalledelleaquile.com
