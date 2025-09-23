@@ -232,7 +232,6 @@ node	1380921309	http://www.albergoalda.it/
 node	1381564833	https://www.facebook.com/tuibistrot/
 node	1381568204	https://www.outblackout.it/
 node	1381877132	https://caricasa.it/agenzia/agenzia-san-lorenzo-al-mare/
-node	1382276593	https://campingilpersiano.com
 node	1402300773	https://www.ostello-tramonti.it/
 node	1408228210	https://www.repower.com/dina/
 node	1420179404	http://bancobpm.it
@@ -256,6 +255,7 @@ node	1471283069	http://www.comune.perinaldo.im.it/
 node	1474493098	http://www.adi-genova.it/
 node	1475150372	https://www.studioveterinarioansaldo.com/
 node	1475160303	https://www.drmax.it/le-nostre-farmacie/genova-via-monticelli-88-r
+node	1476598643	https://www.ekomdiscount.it
 node	1478068836	http://www.vivaidelcastello.it
 node	1478246105	https://www.leos.it/
 node	1479209049	https://simoarttattoo.jimdofree.com
@@ -401,6 +401,7 @@ node	2260060327	https://www.bellabubistrot.com/
 node	2268089172	http://www.casaalbertieri.com/
 node	2272738533	https://www.zenazuena.com/
 node	2275735959	http://ww.pizzeriaristoranteclub64.com/
+node	2281185558	www.centrocanoa.com
 node	2284339090	https://www.astadelmobile.it/
 node	2290839409	https://www.lucarda.com/
 node	2290839537	https://sailing-dreamteam.com/
@@ -807,7 +808,6 @@ node	3761682867	https://www.oliocalvi.it/
 node	3762320783	https://www.ferrante.ge.it/home.html
 node	3762654217	http://www.dibelladagnino.it/
 node	3766220299	https://www.spaziosushi.it/
-node	3769739974	https://www.paradisodeibimbigenova.it/
 node	3781239926	http://www.studiotecnico-dm.it/
 node	3781320397	https://www.pragaviaggi.it/
 node	3781525861	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/47206
@@ -898,6 +898,7 @@ node	4020476731	https://www.villacaramanti.com/
 node	4023699148	https://www.facebook.com/labottegabiologica
 node	4027493722	https://dicca.unige.it/geomatica/campoprova/
 node	4028635732	https://www.leganavale.it/strutture/genova_quinto
+node	4028635756	https://www.carrefour.it/punti-vendita/carrefour-express-genova-via-quinto-68-r-3790.html
 node	4028636105	www.studioveterinarioassociato.it
 node	4029454583	https://www.studioveterinariopriaruggia.it/
 node	4029456044	http://puboconnorgenova.it
@@ -1200,7 +1201,6 @@ node	5166366248	https://hifit.it/
 node	5166366249	https://www.ivri.it/
 node	5166485596	https://www.lesrouges.it/
 node	5166486110	https://www.capenardo.it
-node	5187253570	http://ghettoblastershop.com
 node	5194891887	https://www.pasticceriatagliafico.it/
 node	5194891894	https://www.hotelsuissegenova.it/
 node	5200900614	http://www.robymoto.it
@@ -2213,6 +2213,7 @@ node	10989112169	https://beb.it/verdemarebordighera
 node	10994718381	https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0700345603
 node	10994953045	https://www.repower.com/it
 node	10996600758	https://www.repower.com/dina/
+node	10997758089	https://www.rfi.it/it/stazioni/arenzano.html
 node	11002985556	https://www.repower.com/it
 node	11002991462	https://www.repower.com/it
 node	11003406902	https://www.hotelmary.it/
@@ -2359,7 +2360,6 @@ node	11466770820	https://www.mymercato.it/punti-vendita/liguria/mercato-local-va
 node	11468766853	www.chiappiinimobili.it/scavolini-la-spezia
 node	11468894838	https://etlimtravel.it
 node	11468894841	https://www.damareterraemare.it
-node	11492004269	https://www.ristorantequattrostrade.it/
 node	11498126829	https://www.residenceleduneclub.it/
 node	11499451035	https://candidollo.com/
 node	11500704019	https://www.confindustria.imperia.it
@@ -2768,6 +2768,13 @@ node	13142221203	https://giorgiabertonatipsicologa.it
 node	13142498891	https://www.studiodidietica.eu
 node	13144239337	https://www.hosteriadelviale.it
 node	13144269335	https://www.cooyservice2000.it
+node	13152977101	https://www.italiapervoimagazine.it/partners/ristorante-l-uliveto/
+node	13155962578	https://coronaboatclublerici.com/
+node	13156053647	www.immobiliaremassa.it
+node	13156108424	www.divingnervi.com
+node	13156115045	porticcioloimmobiliare.it
+node	13162478279	https://inpost.it/locker-genova-itgen44235m-via-posalunga
+node	13163689267	https://www.hotelbanksia.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3531,6 +3538,7 @@ way	1068711643	https://www.losteelastrega.it
 way	1074198353	https://www.ilcascin.com/
 way	1077960498	https://www.brt.it/
 way	1078662045	http://www.studiofaggioni.com/museo-baracca-faggioni.php?pag=3
+way	1080507216	https://www.ortomio.it
 way	1082325212	https://www.iccampomoroneceranesi.edu.it/
 way	1087039728	http://www.comune.cipressa.im.it/
 way	1090234561	https://www.duesse.eu
@@ -3615,6 +3623,7 @@ way	1418182807	https://www.viadellamore.info/
 way	1418182808	https://www.viadellamore.info/
 way	1422873778	https://www.tesla.com/findus/location/supercharger/varazzesupercharger
 way	1424746516	https://villabiener.com/
+way	1430545078	https://campingilpersiano.com
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -7099,6 +7108,11 @@ node	9358247237	http://www.atp-spa.it/cartina.php
 node	9874264277	https://www.booking.com/hotel/it/casa-da-gina.it.html
 node	11030068555	http://www.atp-spa.it/
 node	13046014135	http://www.amt.genova.it/rete_e_orari/funicolari.asp
+node	13147777223	http://www.amt.genova.it/orari/orari_urbana.asp
+node	13147777224	http://www.amt.genova.it/orari/orari_urbana.asp
+node	13147777225	http://www.amt.genova.it/orari/orari_urbana.asp
+node	13147777226	http://www.amt.genova.it/orari/orari_urbana.asp
+node	13147777227	http://www.amt.genova.it/orari/orari_urbana.asp
 way	22969165	https://youtu.be/tGcvX5q98Wg
 way	24056654	http://www.firpo-buonarroti.it/
 way	27040005	http://www.piccolacittaimmacolata.it/
