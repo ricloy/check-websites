@@ -3293,7 +3293,6 @@ node	10738126765	http://www.vicoproiette.com/
 node	10739463863	https://loredanacucchiara.wixsite.com/seahorsehousepalermo
 node	10739554818	https://www.arcaplanet.it/
 node	10739554820	https://www.arcaplanet.it/
-node	10739554821	https://www.arcaplanet.it/
 node	10739554826	https://www.arcaplanet.it/
 node	10739554827	https://www.arcaplanet.it/
 node	10739554828	https://www.arcaplanet.it/
@@ -3389,6 +3388,7 @@ node	10969898071	https://www.agrigerace.com/
 node	10971467685	https://www.istitutomorante.it/
 node	10976915656	https://sanicolo.it/
 node	10978260976	https://www.hotelsportingbaia.com/
+node	10979107283	https://www.egogreen.it/
 node	10979807856	https://www.autogrill.it/
 node	10979807979	https://www.autogrill.it/
 node	10981356991	http://www.magazze.com
@@ -3592,7 +3592,7 @@ node	11596489594	https://www.iis-brunelleschi.edu.it/
 node	11597892438	https://cicciosburger.it
 node	11598949205	https://www.fratellicontorno.com/
 node	11599853265	https://www.icspaolovasta.it/
-node	11602398733	http://www.quidgustosiciliano.com/
+node	11602398733	https://www.quidgustosiciliano.com/
 node	11602971581	https://www.facebook.com/PalermoYouthCentre/about
 node	11605491791	https://www.istituto-paritario-majorana.it/
 node	11605491792	https://www.istitutolionardovigo.it/
@@ -3707,7 +3707,6 @@ node	11917878745	https://www.ggbistrot.com/
 node	11921664969	https://commers.it
 node	11922620024	https://www.casabellinipalermo.it/
 node	11931642714	https://www.tripadvisor.it/Restaurant_Review-g1187116-d10678380-Reviews-La_Siesta_Trattoria_Pizzeria_Cucina_Tipica_Servizio_Bar-Naso_Province_of_Messin.html
-node	11933575694	https://www.comprensivomarconi.edu.it/
 node	11936533243	https://www.comprensivomarconi.edu.it/
 node	11937116811	http://www.comune.alcaralifusi.me.it
 node	11938224551	https://enotecadelletna.com
@@ -4047,6 +4046,7 @@ node	13071957055	https://www.etnanatura.it/paginasentiero.php?nome=Necropoli_Ron
 node	13072980061	ristorantelatavernadelpescatore.it
 node	13076146604	https://villamagnoliataormina.blogspot.com/
 node	13078608885	https://www.booking.com/hotel/it/cupole-case-vacanza-sciacca.html
+node	13081744246	https://www.egogreen.it/
 node	13089518175	https://www.villaisolaresort.com/
 node	13089856101	https://capotavolapizzeria.it/
 node	13096800435	https://www.aesseinfotel.com
@@ -4081,6 +4081,17 @@ node	13147587001	https://www.sitimar.it/
 node	13150850781	https://www.matibaixa.it/
 node	13150850782	https://www.matibaixa.it/
 node	13153113723	https://www.nairiso.it/
+node	13167993997	http://www.residencelesaline.it/
+node	13169489101	"https://giocheren​
+da.it"
+node	13169527301	"http://www.ham​
+mam.pa.it"
+node	13171715555	https://sorelleglamour.it/
+node	13173742742	info@ilmoroagrigento.it
+node	13173830362	www.ortoinfesta.it
+node	13173992237	https://www.booking.com/hotel/it/la-casa-del-borgo-petralia-soprana.html
+node	13174022918	https://www.vulcanicapizzeria.it/
+node	13175081495	https://www.netherlandsandyou.nl/web/italy/about-us/honorary-consuls/honorary-consul-palermo
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4708,6 +4719,7 @@ way	302626589	https://www.poste.it
 way	302630382	https://www.poste.it
 way	303216868	https://www.autogrill.it/
 way	303509601	https://www.gbnicolosi.edu.it
+way	303594260	https://www.euroetnatourism.it/
 way	303801394	https://www.gbnicolosi.edu.it
 way	304005582	https://www.cefaluseapalace.it
 way	304111293	https://www.aspct.it/azienda/presidi-ospedalieri/patern/
@@ -5031,6 +5043,7 @@ way	412284638	http://www.campeggioforzadagromare.it/
 way	412288426	https://www.parkhotelsilemi.com/
 way	416718524	http://teatroluigipirandello.it
 way	416766363	https://www.portoturisticomarinadiragusa.it/
+way	416999297	https://www.comprensivomarconi.edu.it/
 way	417416354	https://www.istitutocomprensivovannanto.edu.it
 way	417425065	http://agahotel.com/
 way	417838264	https://www.ictorregrotta.edu.it/secondaria-dante-alighieri
@@ -6407,12 +6420,12 @@ way	1429055417	https://www.dusty.it/pachino/ccr/
 way	1429495242	https://www.poste.it
 way	1430911368	https://www.comprensivopuglisi.it/
 way	1431188397	https://www.quasimodoragusa.edu.it
+way	1431816598	https://ortomi.net/
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
 relation	324440	https://www.unipa.it/dipartimenti/seas/
 relation	324778	https://www.unipa.it/dipartimenti/difc
-relation	350716	https://selinunte.net/
 relation	357473	http://www.kempinski-sicily.com/
 relation	395010	https://www.federicosecondo.org/palazzo-reale-2/
 relation	535720	http://www.visirresort.com/
@@ -7006,6 +7019,15 @@ relation	19609336	https://openclimbing.org/relation/19609336
 relation	19609348	https://openclimbing.org/relation/19609348
 relation	19613438	https://openclimbing.org/relation/19613438
 relation	19613439	https://openclimbing.org/relation/19613439
+relation	19641288	https://openclimbing.org/relation/19641288
+relation	19641630	https://openclimbing.org/relation/19641630
+relation	19641631	https://openclimbing.org/relation/19641631
+relation	19641632	https://openclimbing.org/relation/19641632
+relation	19643171	https://openclimbing.org/relation/19643171
+relation	19643383	https://openclimbing.org/relation/19643383
+relation	19643534	https://openclimbing.org/relation/19643534
+relation	19644522	https://openclimbing.org/relation/19644522
+relation	19644523	https://openclimbing.org/relation/19644523
 node	268654722	https://www.excelsiorpalacepalermo.com/
 node	506117889	https://guardiacostiera.it/mazaradelvallo
 node	548101816	http://www.medicalcentermazara.it
@@ -7217,6 +7239,7 @@ way	245055218	http://www.campinglapineta.it/italy/
 way	257262779	http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=399
 way	278803360	http://www.torreata.it/
 way	279460081	http://www.siciliaoutletvillage.it/
+way	301351094	https://trattoriamaniaci.com
 way	316423358	http://www.kartodromolascari.it/
 way	318113279	https://www.eurospin.it/
 way	333413153	http://www.caposcalambri.com/
