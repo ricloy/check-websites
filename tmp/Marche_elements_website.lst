@@ -569,7 +569,6 @@ node	3856498457	https://www.shineacqualagna.it/
 node	3862612457	https://www.sandwichtime.it
 node	3865170690	https://www.sandwichtime.it
 node	3873401360	https://www.anticouliveto.com/
-node	3885785924	https://www.axis-italy.com/
 node	3887709037	https://www.teatrodicagli.it/
 node	3895182603	https://www.confindustria.ap.it/
 node	3896391381	https://www.caserrantonio-ferri.com/
@@ -610,6 +609,7 @@ node	4172233009	http://www.ladegosteria.it/degostreet/
 node	4172233011	https://lagaleriancona.it/
 node	4173252996	https://daciccio.com/
 node	4175775203	https://studiumanistici.unimc.it/it/locations/sede-di-via-illuminati-4
+node	4175843689	https://www.unilink.it/ateneo/le-sedi/sede-di-macerata
 node	4175854779	https://biblioteche.unimc.it/it
 node	4175861097	https://csia.unimc.it/it
 node	4202944566	https://www.parcheggioseminario.it/
@@ -805,7 +805,6 @@ node	5661904038	http://www.loscottadito.it
 node	5676386525	https://www.hotelgardengabicce.com
 node	5676417723	https://www.lidohotelgabicce.com/
 node	5678089830	https://www.ecomuseoficana.it/
-node	5685183250	https://www.lapastadicamerino.it/
 node	5718742084	https://www.brt.it/
 node	5747784121	https://www.casavecchia.it/
 node	5756470607	https://myoutdoor.it/
@@ -1434,6 +1433,7 @@ node	11171487399	https://icviareginaelena.edu.it/struttura/via-regina-elena/luig
 node	11178636292	https://www.cmsangiuseppe.it/
 node	11178636293	https://centro-medico-progetto-salute.business.site/
 node	11182456126	https://www.casamalena.it
+node	11182456127	https://www.acquaesapone.it/puntivendita/ascoli-piceno-via-dino-angelini-67/
 node	11182456128	https://www.autoscuolasciamanna.it
 node	11182799663	https://www.pasticceriaessenza.it/
 node	11182799665	https://www.mancinipneumatici.it/main.php
@@ -1844,7 +1844,6 @@ node	12432994746	https://terremerse.it/punti-vendita/santippolito/
 node	12432994747	https://www.galloitaly.com/
 node	12432994748	http://www.needle-sewing.it/
 node	12432994749	https://www.diesel-car.it/
-node	12432994750	https://www.beniculturali.it/luogo/museo-del-territorio-arte-degli-scalpellini
 node	12433045885	https://aipiedidelcatria.it/ai-piedi-del-catria-bb/
 node	12433045886	https://aipiedidelcatria.it/ai-piedi-del-catria-bb-pradaccio/
 node	12433630663	http://www.tavernadellarocca.com/
@@ -2157,6 +2156,11 @@ node	13133973326	https://cuoreadriatico.it/
 node	13139832460	https://www.erbamicasenigallia.it/
 node	13139986948	www.lecastellane.it
 node	13155321494	www.aemmestudiodanza.com
+node	13161675480	https://0712139024
+node	13164894547	https://vignadellacava.com/
+node	13167161103	https://www.gruppovege.it/it/punti-vendita/punto-vendita-di-via-dei-fiori-fantastici-44
+node	13168120233	https://www.centrostudiosvaldolicini.it/
+node	13176477301	https://www.cinemagabbiano.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2495,6 +2499,7 @@ way	373179950	http://www.rifugiocupi.it/
 way	373184465	https://www.sibillini.net/
 way	373194350	http://www.rifugioaltino.it/
 way	373757154	https://www.sassoferratoturismo.it/museo-delle-arti-e-tradizioni-popolari/
+way	374346838	http://ilgelsoagriturismo.com/
 way	375128657	http://www.ahlstrom.com/en/Contact-us/?type=all&country=Italy
 way	375684358	https://www.aspes.it/3/servizi-e-attivita/servizi-cimiteriali/attivita.html
 way	375994743	http://www.casaaccoglienzadilvabaroni.org
@@ -2954,6 +2959,7 @@ way	1417154479	https://www.agrifilippetticlaudio.it/
 way	1424809967	https://www.frasassiavventura.it/
 way	1426159090	https://eurotecnica.com/
 way	1428121849	https://falconairpark.it/
+way	1433621023	https://www.lapastadicamerino.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1512917	https://www.iismerlonimiliani.it/
@@ -3078,6 +3084,13 @@ relation	18803666	https://www.centromirum.it/
 relation	18952790	https://camminoportadoriente.com/
 relation	19244536	https://www.gruppozaffiro.it/residenze/marche/residenza-cappuccini/
 relation	19352395	http://www.baiaimperiale.net/
+relation	19650094	https://www.camminodeiforti.it
+relation	19650542	https://www.camminodeiforti.it
+relation	19650596	https://www.camminodeiforti.it
+relation	19650636	https://www.camminodeiforti.it
+relation	19650688	https://www.camminodeiforti.it
+relation	19650703	https://www.camminodeiforti.it
+relation	19650857	https://www.camminodeiforti.it
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
@@ -3291,6 +3304,7 @@ node	12062067501	https://www.lasaponaria.it/biostorie-civitanova
 node	12062085781	https://www.lasaponaria.it/biostorie-senigallia
 node	12798648901	http://www.bbancona.com
 node	13127681779	https://www.locandadellapieve.com
+node	13162457774	https://chiaramonimacerata.it
 way	14805243	https://www.santuarioloreto.va
 way	44523218	http://www.arterisko.com
 way	61094272	http://www.athleticclubpesaro.it/
@@ -3404,6 +3418,7 @@ way	1393066354	https://www.parchiavventuraitaly.it/colle-san-marco/
 way	1418599377	http://www.campingcortina.net/
 way	1419430577	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/358-santagostino.html
 way	1422909593	https://www.proloco-fermignano.it/area-camper/
+way	1432560930	https://www.axis-italy.com/
 relation	1085619	https://www.cappuccinimarche.org/?page_id=21673
 relation	6517698	http://www.sorellepoveredisantachiara.it/
 relation	10967104	https://www.schnell.it/
