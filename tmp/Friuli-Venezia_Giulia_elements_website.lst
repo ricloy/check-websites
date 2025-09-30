@@ -61,7 +61,6 @@ node	413353380	https://www.mps.it/
 node	413353383	http://www.antonveneta.it
 node	413353386	https://www.civibank.it/
 node	413353390	http://www.ostelloeuropa.it
-node	416884609	http://www.sancin.com
 node	421152281	https://www.repower.com/dina/
 node	421204328	www.trattoriafurlan.it
 node	422171372	http://www.prolocovalledisoffumbergo.it
@@ -160,6 +159,7 @@ node	779148569	https://illegio.it/
 node	789995781	http://www.farmaciatestadoro.it/
 node	795715378	https://m.facebook.com/gerlax/
 node	795959692	https://visionario.movie/
+node	802208378	https://www.hotelvillastrassoldo.com/
 node	808081314	https://www.ulyssesboutique.com/
 node	813186210	https://www.zkb.it/
 node	813186213	https://jadranbasket.com/
@@ -1051,6 +1051,7 @@ node	3765089991	https://www.ricosfood.it/
 node	3765104857	https://www.lambiente.it
 node	3765114668	http://www.somsipn.it/index.html
 node	3765116375	https://www.francopadovan.com/
+node	3765120417	https://www.depari.it/
 node	3765128006	https://www.facebook.com/Wellnessforhair
 node	3772950874	https://www.comune.muzzanadelturgnano.ud.it/it/cultura-14693/biblioteca-24291
 node	3775603013	http://www.autoservicesnc.com/
@@ -2979,6 +2980,13 @@ node	13147145397	https://officinaesperia.it/
 node	13147145398	https://neonaurora.com/
 node	13147145399	http://aurorafactory.it/
 node	13155192317	https://www.allavalledibanne.it/
+node	13165830126	https://www.ponterosso.it/it/zona_artigianale_ponte_rosso
+node	13178916321	https://www.casavolton.com/
+node	13180262566	https://pasiandiprato1.tecnocasa.it/
+node	13183569991	https://www.vivereosopravvivere.it/
+node	13183582358	https://deganutti.it/
+node	13183651088	https://www.coselag.it/
+node	13184330377	https://www.beantech.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -3349,6 +3357,7 @@ way	36433392	https://www.bricofer.it/singoli-punti-vendita/trieste
 way	36433901	https://www.ilrossetti.it/
 way	36434309	https://questure.poliziadistato.it/
 way	36435348	https://icpordenonesud.edu.it/scuola-secondaria-di-i-grado-t-drusin
+way	36436431	http://sancin.com/
 way	36437264	https://www.narodnidom.eu/
 way	36437344	https://www.teatroverdi-trieste.com/
 way	36438742	https://www.foibadibasovizza.it/
@@ -3368,6 +3377,7 @@ way	36659188	https://www.elliothotel.it/
 way	36659460	https://www.hoteludinenord.it/
 way	36659467	https://www.protezionecivile.fvg.it/it/comune/tavagnacco
 way	36659859	https://www.lignano.org/
+way	36659980	https://www.comune.cordovado.pn.it/it
 way	36659982	https://www.comune.pravisdomini.pn.it/
 way	36660002	https://www.comune.sangiorgiodinogaro.ud.it/
 way	36660004	https://www.comune.torviscosa.ud.it/
@@ -3549,7 +3559,6 @@ way	36705858	https://www.vallinhotels.com/
 way	36705949	https://www.cifnazionale.it/regioni/friuliveneziagiulia/servizi/colonia
 way	36706014	http://www.hotelgoletta.it
 way	36706015	http://www.hotelmare.lignano.it
-way	36706070	https://www.guardiacostiera.gov.it/organizzazione/Pages/ufficio-locale-marittimo-di-lignano-sabbiadoro.aspx
 way	36706119	https://www.aurora.lignano.it/
 way	36706126	https://www.hotelpensioneornella.it/
 way	36706133	http://www.lignano.org/index.php?id=398&no_cache=1
@@ -3571,7 +3580,6 @@ way	36706689	https://www.ristorantemarechiaro.com/
 way	36706809	https://golflignano.it/hotel-golf-inn/
 way	36706840	http://www.lignano.it/hotel/nuovaflavia
 way	36706909	https://www.ristorantedagigimarchetto.it/
-way	36707198	https://www.casavolton.com/
 way	36709273	https://www.trattoriaallarisata.it/
 way	36711527	https://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/UDEE835015/edmondo-de-amicis/
 way	36712821	http://www.moesslang.net/forte_precenicco_friaul.htm
@@ -4035,6 +4043,7 @@ way	1223145371	http://www.associazionesangregorio.org/index.php?option=com_conte
 way	1223215744	https://icpordenonesud.edu.it/scuola-primaria-gaspare-gozzi
 way	1225150293	https://www.ecoworks.it/wordpress/
 way	1225180773	http://zucchettovini.it/
+way	1234945365	https://www.turismofvg.it/it/montagna365/zipline-tarvisio
 way	1239902628	https://www.elettrosanvitese.it/
 way	1241226336	http://www.bottosso.eu/
 way	1242961557	https://refoscollection.it/
@@ -4101,7 +4110,6 @@ way	1318839146	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambie
 way	1318839147	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320017.pdf
 way	1318839148	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320013.pdf
 way	1318839151	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320009.pdf
-way	1318839152	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320006.pdf
 way	1318839153	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320008.pdf
 way	1318839154	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320003.pdf
 way	1318839155	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320004.pdf
@@ -4162,6 +4170,8 @@ way	1414255414	https://www.protezionecivile.fvg.it/
 way	1418598730	https://prolocodignano.it/
 way	1419158822	https://www.skedenj.net/
 way	1424928850	http://www.parrocchiaroiano.it/
+way	1432767144	https://www.kinderalm.it/
+way	1433580862	https://www.guardiacostiera.gov.it/organizzazione/Pages/ufficio-locale-marittimo-di-lignano-sabbiadoro.aspx
 relation	139953	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-924/
 relation	139954	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-925/
 relation	139959	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-960/
@@ -4671,7 +4681,6 @@ relation	2771761	https://www.alpe-adria-radweg.com/
 relation	2820415	http://www.istitutocomprensivotravesio
 relation	2835513	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-821
 relation	2835514	https://www.cai-fvg.it/sentieri-cai-fvg/settore-8-prealpi-carniche/s8-821a
-relation	2868142	https://www.tnp.si/
 relation	2887154	https://www.comune.attimis.ud.it/index.php?id=13422
 relation	2889110	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-743a
 relation	2889111	https://www.cai-fvg.it/sentieri-cai-fvg/settore-7-prealpi-giulie/s7-743b
@@ -5299,7 +5308,6 @@ relation	14237601	https://www.instagram.com/ultravertikalchallenge/?igshid=YmMyM
 relation	14309113	https://parco-zompitta.business.site/
 relation	14326016	https://www.triestetrasporti.it;https://tplfvg.it/it/
 relation	14326017	https://www.triestetrasporti.it;https://tplfvg.it/it/
-relation	14355993	https://it.wikipedia.org/wiki/Alta_via_n._7
 relation	14376118	https://www.cai-fvg.it/sentieri-cai-fvg/settore-1-alpi-carniche/s1-180/
 relation	14380150	https://www.outdooractive.com/de/route/wanderung/prato-carnico/sentiero-dei-tre-paesi-julius-kugy-in-30-tappe-estensione-e-23a/39651239/
 relation	14382533	https://www.outdooractive.com/de/route/bergtour/sappada/sentiero-dei-tre-paesi-julius-kugy-in-30-tappe-estensione-e-24a/39652187/
@@ -5498,6 +5506,7 @@ relation	19352674	https://campingsabbiadoro.it
 relation	19377949	https://www.cai-fvg.it/sentieri-cai-fvg/settore-6-alpi-giulie/via-ferrata-mario-lonzar/
 relation	19422528	https://www.cai-fvg.it/sentieri-cai-fvg/settore-9-prealpi-carniche/s9-918a/
 relation	19451019	https://www.parcoprealpigiulie.it/it/principale/attivita/sentieri-e-percorsi/anello-borgo-cros-rio-serai
+relation	19652669	https://www.regione.fvg.it/rafvg/export/sites/default/RAFVG/ambiente-territorio/tutela-ambiente-gestione-risorse-naturali/FOGLIA203/FOGLIA1/allegati/20032017_ZSC/Site_IT3320006.pdf
 node	424794561	https://www.despar.it/
 node	426678537	https://m.facebook.com/fridafridastore/?view_public_for=100805071646600
 node	446273523	http://www.lagirandola.com/
@@ -5815,6 +5824,7 @@ node	12132517851	https://ristorante-pizzerianordest.it/
 node	12278203605	www.falegnameriazeta.it
 node	12345779588	http://www.zahrebeer.com
 node	12345779589	https://ziplinesauris.com
+node	13165961685	https://www.alfred24.it
 way	35945116	http://www.casaperaria.it
 way	35946164	http://www.albergodiffusoilgrop.it/
 way	35946195	http://www.sotlanapa.it/
