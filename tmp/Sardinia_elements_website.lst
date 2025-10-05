@@ -681,6 +681,7 @@ node	2868252936	https://www.crai-supermercati.it/punti-vendita/pdv.php?id=702
 node	2871493153	https://www.grandhotelcapotesta.it/
 node	2889942917	http://www.sardegnacultura.it/j/v/253?s=24173&v=2&c=2488&c1=2130&t=1
 node	2890247916	http://www.sardegnacultura.it/j/v/253?s=20926&v=2&c=2488&c1=2123&t=1
+node	2895190186	http://www.sardissimo.it
 node	2913771901	https://www.facebook.com/marketsanna/
 node	2928126564	https://www.hotelagugliastra.it/
 node	2928162804	https://www.ristorantelungomare.com/
@@ -1948,6 +1949,9 @@ node	13159518872	https://www.agriturismolunodu.it/
 node	13162727280	https://www.lispusada.com/
 node	13169297827	https://www.farmasinara.it/
 node	13173443915	https://www.panificiofratellipinna.com/
+node	13179663450	https://www.midarent.com/autonoleggio/aeroporto-alghero/
+node	13185688202	http://bosarentbike.it
+node	13185910601	https://ilovecozzeria.it/assemini/
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2002,6 +2006,7 @@ way	119562949	https://www.enas.sardegna.it/il-sistema-idrico-multisettoriale/lag
 way	119749412	http://www.sardegnasentieri.it/da-vedere/caserma-ula-montarbu
 way	119752907	https://www.campingvalledoria.com/
 way	120552868	http://www.peverogolfclub.com/
+way	121848768	https://www.heartofsardinia.com
 way	122428575	https://www.civillacidro.it/
 way	123564552	https://www.campinglaliccia.com/
 way	126761445	https://www.abbatoggiavillage.it/
@@ -2057,7 +2062,7 @@ way	163215603	http://www.wakeboardsardegna.com/
 way	165022619	https://www.nascarhotel.eu/
 way	165546216	https://www.hotelnibaru.it/
 way	166806077	http://touristicservice.it
-way	167222958	https://abbadruche.it
+way	167222958	https://www.sabbadruche.com/
 way	167585479	https://www.eurospin.it/
 way	170245285	https://www.comune.tempiopausania.ot.it/index.php?option=com_content&view=article&id=71:nuraghe-majori&catid=53&Itemid=67
 way	170743462	https://www.campingarzachena.it/
@@ -2066,7 +2071,7 @@ way	171957212	http://www.lezagarehotel.it/
 way	171961937	https://www.villaggiospiaggiadelriso.it/
 way	172330718	https://www.4mori.it/de/
 way	172678486	https://www.campingermosa.com
-way	172686476	http://www.farmasinara.it/
+way	172686476	https://www.farmasinara.it/
 way	173137926	http://www.campingsciopadroxiu.com/
 way	176855397	http://www.sardegnacultura.it/j/v/253?s=20725&v=2&c=2488&c1=2123&visb=&t=1
 way	176855398	http://www.antichiovili.it/
@@ -2437,6 +2442,7 @@ way	296388911	https://villa-bettina.de
 way	296391112	http://www.villamargheritaperdesali.com/
 way	296391319	https://www.booking.com/hotel/it/villa-adelina-porto-columbu-perd-e-sali.html
 way	296398389	https://www.comune.villasanpietro.ca.it/
+way	296401919	http://www.crareluna.it
 way	296547799	https://www.comune.sorgono.nu.it/
 way	296547906	http://web.tiscali.it/balero/
 way	296549279	https://www.comune.atzara.nu.it/
@@ -2973,7 +2979,7 @@ relation	40067	http://www.comune.sini.or.it/
 relation	40069	https://comune.curcuris.or.it/indixi.php
 relation	40071	http://www.comune.marrubiu.or.it/
 relation	40072	http://www.comune.sadali.nu.it/
-relation	40073	http://www.comune.genoni.or.it/
+relation	40073	https://en.wikipedia.org/wiki/Genoni
 relation	40074	http://www.comune.nuragus.ca.it/
 relation	40075	https://www.comune.ales.or.it/
 relation	40076	http://www.comune.villanovatulo.ca.it/
@@ -3477,6 +3483,8 @@ relation	19553661	https://www.sardegnasentieri.it/node/2241
 relation	19554505	https://www.sardegnasentieri.it/node/3656
 relation	19583264	https://www.sardegnasentieri.it/sentieri/arcu-artilai-bruncu-spina-t-721a
 relation	19650091	https://openclimbing.org/relation/19650091
+relation	19663362	https://openclimbing.org/relation/19663362
+relation	19663363	https://openclimbing.org/relation/19663363
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -4317,6 +4325,7 @@ node	1601566871	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREA
 node	1601567218	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
 node	1601567221	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
 node	2329913542	https://www.sardegnaturismo.it/it/esplora/san-valentino
+node	8018364892	https://commons.wikimedia.org/wiki/File:Bruncu_Suergiu.jpg
 node	10265078480	https://people.unica.it/unicamappe/2012/08/10/facolta-di-architettura/
 way	27771208	http://www.saras.it/saras/pages/inthefield/assets/refining
 way	62331902	http://www.progettodighe.it/main/le-dighe/article/bau-mandara
