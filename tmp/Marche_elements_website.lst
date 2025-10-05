@@ -202,6 +202,8 @@ node	1364270417	https://www.conerobreak.it/
 node	1364681347	http://www.siconte.it/it/punti-vendita/si-superstore/ancona-collemarino
 node	1365032889	http://www.farmaciavallemiano.it
 node	1365032892	https://www.credit-agricole.it/
+node	1365032905	https://www.findomestic.it/dove-siamo/agenzia/2464/centro-clienti-ancona
+node	1365032919	https://www.orienta.net/it/chi-siamo/contatti-filiali.html?ag_country=Italia&ag_city=Ancona
 node	1372462637	http://www.hotelguiderocchi.it/
 node	1382883509	https://www.accademiadiurbino.it/aabb/
 node	1382883510	https://www.accademiadiurbino.it/aabb/
@@ -316,7 +318,6 @@ node	2304263432	https://www.enel.it/punto-enel/
 node	2304263433	https://www.enel.it/punto-enel/
 node	2311464948	https://www.enel.it/spazio-enel/ancona/spazio-enel-negozio-partner/1171/
 node	2311464962	https://www.enel.it/punto-enel/
-node	2311464972	https://www.enel.it/punto-enel/
 node	2311464992	https://www.enel.it/punto-enel/
 node	2311465011	https://www.enel.it/punto-enel/
 node	2311465022	https://www.enel.it/punto-enel/
@@ -334,7 +335,7 @@ node	2311465181	https://www.enel.it/punto-enel/
 node	2311465191	https://www.enel.it/punto-enel/
 node	2311465199	https://www.enel.it/punto-enel/
 node	2311465200	https://www.enel.it/punto-enel/
-node	2311465204	https://www.enel.it/punto-enel/
+node	2311465204	https://www.mareverde.it
 node	2311465225	https://www.enel.it/punto-enel/
 node	2311465235	https://www.enel.it/punto-enel/
 node	2311465274	https://www.enel.it/punto-enel/
@@ -412,6 +413,7 @@ node	2892150535	https://www.agriturismolacampana.it/
 node	2908300303	https://www.amacaconero.com/
 node	2908301755	https://ostelloasiloricci.jimdo.com/
 node	2940910422	https://www.dafiorellaristorantepizzeria.com/
+node	2941629395	https://michelemattioli.consulente.zurichbank.it/
 node	2952360786	http://www.dallagioconda.com/
 node	2962602228	https://www.hotelmamiani.it/
 node	2964603268	https://www.obi-italia.it/
@@ -852,6 +854,7 @@ node	6209837276	http://www.winenotancona.it/
 node	6241779859	https://www4.istat.it/it/istituto-nazionale-di-statistica/organizzazione/sedi-territoriali/marche
 node	6272805489	https://loscrignotrend.it/
 node	6272805491	https://www.mood22.it/
+node	6272805492	https://wargasisti.com/
 node	6282026920	https://dominaimmobiliare.com/
 node	6285170496	https://poldoburgerbar.eatbu.com
 node	6287203839	https://www.cgilancona.it/orari-e-servizi-2/
@@ -1664,6 +1667,7 @@ node	11980292629	https://www.gruppopieralisi.it/
 node	11987487379	https://www.agenziaentrate.gov.it/portale/uffici2/-/uffici/uffici_INSTANCE_760I75Ju693C/dettaglioufficio/TQX
 node	11987517158	https://www.corecom.marche.it/
 node	11990331950	https://www.ilgirasoleristorante.it/
+node	11994646081	https://www.tim.it/trova-negozio/dettaglio-negozio#7100096344
 node	11997866469	https://www.ccode.net
 node	12003242084	http://www.studiotecnicodinicolo.it/
 node	12012309881	https://davarano.it/torre-beregna/
@@ -2008,6 +2012,7 @@ node	12726014682	https://www.morica.it/
 node	12734273152	https://www.agriturismomondavio.it/
 node	12747544586	https://www.facebook.com/gsnngruppospeleo
 node	12748251552	https://www.cabetania.nl/home-en
+node	12754197472	https://www.enel.it/it-it/spazio-enel/city/store-detail?storeId=5760
 node	12759431635	https://www.casailglicine.it/
 node	12762886118	https://vettamarina.trianongroup.com/
 node	12766142141	https://www.masetticinema.it/
@@ -2161,6 +2166,16 @@ node	13164894547	https://vignadellacava.com/
 node	13167161103	https://www.gruppovege.it/it/punti-vendita/punto-vendita-di-via-dei-fiori-fantastici-44
 node	13168120233	https://www.centrostudiosvaldolicini.it/
 node	13176477301	https://www.cinemagabbiano.it/
+node	13176642545	https://liceoclassicojesi.edu.it/
+node	13176674815	https://liceicamerino.edu.it/
+node	13176674816	http://www.antinori.edu.it/
+node	13176763839	http://www.lanuovasecondaria.it/
+node	13176778711	http://www.istitutoaleandri.it/
+node	13176778712	https://www.istitutileonardoitalia.it/
+node	13176778713	https://www.bambingesu.org/
+node	13176778714	https://www.istituticaggiari.it/
+node	13181359805	https://www.amap.marche.it/progetti/olivicoltura/pubblicazioni/le-icone-della-biodiversita-gli-olivi-monumentali-delle-marche
+node	13181375772	https://www.amap.marche.it/progetti/olivicoltura/pubblicazioni/le-icone-della-biodiversita-gli-olivi-monumentali-delle-marche
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2228,6 +2243,7 @@ way	107066606	https://anconaservizi.it/parcheggi-coperti/parcheggio-scambiatore-
 way	108069464	https://www.urbinoservizi.it/servizio/pargheggi-a-urbino/parcheggio-borgo-mercatale/
 way	108129237	http://www.roccavarano.info/
 way	108446488	https://www.bricocenter.it/falconara/
+way	110150084	https://www.liceodavincijesi.edu.it/
 way	110150086	https://www.schermajesi.it
 way	111120099	http://www.recinahotel.com
 way	111196286	http://istitutomesticamacerata.gov.it/
@@ -2960,12 +2976,14 @@ way	1424809967	https://www.frasassiavventura.it/
 way	1426159090	https://eurotecnica.com/
 way	1428121849	https://falconairpark.it/
 way	1433621023	https://www.lapastadicamerino.it/
+way	1433734866	https://www.iisgalileijesi.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1512917	https://www.iismerlonimiliani.it/
 relation	1652522	https://www.riservasentina.it/
 relation	1749100	https://musei.beniculturali.it/musei?mid=4093&nome=anfiteatro-romano-di-ancona
 relation	2126671	https://www.mirahotels.com/it/nuovonaturalvillage
+relation	2749753	https://rinaldini.edu.it/
 relation	3164710	https://www.gransassolagapark.it/
 relation	3415695	http://www.parcodelconero.com
 relation	4053386	https://www.civicatolentino.it/servizi-asp-civica-tolentino/servizi-residenziali-asp-tolentino-macerata.html
