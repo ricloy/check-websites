@@ -158,6 +158,7 @@ node	227995888	https://www.dnb.com/business-directory/company-profiles.tiber_oil
 node	248733730	http://www.rgb46.it/
 node	250889369	https://www.circuitocinema.com/cinema/quattro-fontane
 node	251876420	https://forteprenestino.net/
+node	251904108	https://www.rfi.it/it/stazioni/roma-termini.html
 node	252419164	https://www.teatrovittoria.it/
 node	252440275	http://m.facebook.com/aimarmi
 node	256592934	http://www.palazzodelfreddo.it
@@ -889,7 +890,6 @@ node	2261566532	https://www.facebook.com/pages/Carta-e-Penna-di-Daniele-Anna/508
 node	2266083036	http://ristorantenavonanotte.it
 node	2267028223	http://www.maxbeergarden.com
 node	2267113047	https://www.ditiramboristorante.it/
-node	2267113048	http://www.ristorante3scalini.it
 node	2267121923	https://www.salumeriaroscioli.com/
 node	2267127838	http://www.ilsanlorenzo.it
 node	2267137974	https://www.baladin.it/it/i-locali/open-baladin-roma
@@ -1995,6 +1995,7 @@ node	4374752492	https://said.it/
 node	4375213727	ristoranteacquapazza.net
 node	4376017560	https://www.fao.org/
 node	4376017562	http://museopalazzovenezia.beniculturali.it/index.php?it/1/home
+node	4376086301	http://www.casettabiagini.it/dove-siamo/
 node	4377191863	http://www.museodiocesanorieti.it/
 node	4377755226	http://www.ristorantedatrani.com/
 node	4377755232	http://www.gandhiroma2.eu/
@@ -5117,7 +5118,6 @@ node	10115885154	http://www.ilcantico.it
 node	10116244356	https://www.domusaustralia.org/
 node	10116244452	https://www.otticavip.net/
 node	10116760683	https://www.facebook.com/tiancihotpot
-node	10117169980	https://www.hyatt.com/en-US/hotel/italy/the-tribune/romjd
 node	10117169981	https://www.lemilleeunanotte.it/
 node	10117169983	http://www.ristorantecesarinaroma.it
 node	10117169985	https://www.ilfellini.com/
@@ -6756,7 +6756,7 @@ node	13144134208	https://ifrieti.it
 node	13145172305	https://www.casaperferiemargherita.it/
 node	13147547876	https://lagosecco.com
 node	13149069406	https://www.lidl.it/
-node	13150967819	https://www.instagram.com/acg_upv/
+node	13150967819	https://sites.google.com/view/azionecattolica-upvelletri
 node	13150970101	https://casamariaimmacolata.it/
 node	13152580602	https://www.aeci.it/
 node	13158394194	https://mixmarkt.it
@@ -6771,11 +6771,16 @@ node	13173184040	https://officinadelgustobracciano.it/
 node	13173184041	https://www.thefork.it/ristorante/fuori-corso-r801430
 node	13173268077	https://interstart.it/
 node	13176066101	http://www.panfusionrestaurant.com
+node	13183584001	https://www.palestrafashion.it/
+node	13185606207	https://tenutalatorraccia.it/
+node	13185691635	https://www.bbleterrecottesutri.it/
+node	13190869061	https://www.santamariaallefornaci.it
 way	8035487	https://direzionemuseiroma.cultura.gov.it/museo-nazionale-di-castel-santangelo/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
 way	23274363	http://www.asl.vt.it/Ospedaliera/Ospedali/baseOspedali.php
+way	23276946	https://www.romatermini.com/
 way	23370510	https://www.basilicasanpaolo.org/
 way	23432370	https://www.santipietroepaoloroma.it/
 way	23442671	https://www.villamedici.it/
@@ -7771,7 +7776,6 @@ way	319680229	https://www.parkingo.com/
 way	319732644	http://www.lazioturismo.it/asp/scheda_archeo.asp?id=19
 way	319732645	http://www.lazioturismo.it/asp/scheda_archeo.asp?id=19
 way	319991262	http://www.ilcaminettoresort.it/
-way	320537200	https://plus.google.com/115297202529891304378/about
 way	320564545	https://www.rina.org/
 way	321712087	http://www.sunbayparkhotel.com/inizio.html
 way	321995524	https://www.plein.com
@@ -9486,7 +9490,6 @@ way	1363825698	https://www.collemordani.it/
 way	1363825700	https://www.collemordani.it/
 way	1363991551	https://officinamarinangeli.com
 way	1366022145	https://www.parchilazio.it/schede-29608-pista_ciclopedonale_lago_di_canterno
-way	1367862242	https://web.uniroma1.it/cersites
 way	1367862243	https://web.uniroma1.it/cersites
 way	1368371994	https://www.ilmelogranomontopoli.it/
 way	1369877711	https://santacristina.it/
@@ -9530,6 +9533,8 @@ way	1425092112	https://www.realacciedilizia.com/
 way	1429176108	https://www.icesperia.edu.it/scuola/?luogo=scuola-primaria-castelnuovo-parano
 way	1431394377	https://villapamphili.it
 way	1431394378	https://villapamphili.it
+way	1434821448	https://www.hyatt.com/jdv-by-hyatt/en-US/romjd-the-tribune
+way	1435540889	https://cupra.pasquarelliauto.it/
 relation	22289	https://www.farnese-rome.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -10370,6 +10375,7 @@ relation	19331776	https://www.romeastrata.org/
 relation	19331815	https://www.romeastrata.org/
 relation	19331901	https://www.romeastrata.org/
 relation	19344079	https://www.ospedalebambinogesu.it/sede-roma-gianicolo
+relation	19662489	https://web.uniroma1.it/cersites
 node	251888861	https://www.multisalagreenwichroma.com/
 node	279379894	https://sangaspare.it/le-nostre-comunita/roma-chiesa-rettoria-santa-maria-in-trivio/
 node	452570567	https://www.catacombe.org/
