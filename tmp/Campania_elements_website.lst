@@ -1,6 +1,6 @@
 @type	@id	website
 node	25399515	https://www.rfi.it/it/stazioni/aversa.html
-node	25399517	https://www.rfi.it/it/stazioni/villa-literno.html
+node	25399519	https://www.rfi.it/it/stazioni/sessa-aurunca-roccamonfina.html
 node	26859809	https://soleado.info/
 node	68566158	https://www.comune.caserta.it
 node	68579913	http://www.museincampania.it/spip.php?page=musei_dettaglio&id_museo=110
@@ -687,6 +687,7 @@ node	4877368423	http://www.cicciovitielloprenotazioni.it
 node	4883449770	https://www.lavecchiamasseria.it/
 node	4883911526	https://www.museomuta.it/
 node	4889550783	https://www.comune.trentoladucenta.ce.it/
+node	4905758798	https://www.rfi.it/it/stazioni/napoli-afragola.html
 node	4921380721	http://www.deshi.it/
 node	4924164409	https://www.lacasasulmare.it/
 node	4940655216	http://www.chiaiabaiabb.it
@@ -1551,7 +1552,7 @@ node	9108367012	https://www.agenziaentrate.gov.it/
 node	9114973656	https://www.supermercatipiccolo.it
 node	9117945786	https://negozi.naturasi.it/italia/caserta/caserta?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Caserta_27627
 node	9117959021	https://stores.ovs.it/it/italia/campania/caserta/ovs-caserta?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Caserta_0287
-node	9126486961	https://www.napolicentrale.it/
+node	9126486961	https://www.rfi.it/it/stazioni/napoli-centrale.html
 node	9126498649	http://www.domusclelia.it/
 node	9126498661	https://www.ilcalicepaestum.it/
 node	9127213831	http://www.ristorantenettuno.com/
@@ -2392,6 +2393,7 @@ node	11816542410	https://overdrivepub.info
 node	11816542411	https://passiespassi-shop.com
 node	11816605148	https://uplevel.fitness/
 node	11817056129	https://www.vocedelmare.it/
+node	11819638430	https://linktr.ee/gioielleriaesposito
 node	11819688691	https://www.defenzacolori.com/
 node	11821074063	https://www.theatreon-tourism.it/
 node	11821148208	https://www.pescoranteolupino.it/
@@ -2500,6 +2502,7 @@ node	12262679871	http://www.hotelrisorgimento.it/
 node	12263500764	https://www.treatwell.it/salone/i-rosolino-salon-1
 node	12287504871	https://spinelliinvestigazioni.it
 node	12289896923	https://www.caseificiothegreenvalley.it/
+node	12294030826	https://www.rfi.it/it/stazioni/falciano-mondragone-carinola.html
 node	12296090356	https://www.fondazioneilcantodivirgilio.it/domus-ars
 node	12301789320	https://www.instagram.com/event.uomo
 node	12302227011	https://www.antichiortidelsole.it/
@@ -2860,8 +2863,8 @@ node	13146067092	https://barone.passweb.it/
 node	13146069401	https://mozzarellacostanzo.com/
 node	13146069406	https://pastapizzo.easy-delivery.it/
 node	13153801785	https://puntivendita.ayoka.it/it/italia/caserta/capodrise?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Capodrise_6830
-node	13156950010	http://www.autolineasrl.it/
-node	13156950011	http://www.autolineasrl.it/
+node	13156950010	https://www.autolineasrl.it/
+node	13156950011	https://www.autolineasrl.it/
 node	13159640401	https://calamoresca.it
 node	13159649398	https://www.poste.it
 node	13161991246	https://www.poste.it
@@ -2876,6 +2879,11 @@ node	13173861768	https://www.mamamare.net/
 node	13175036844	https://www.tempadeigrui.it/en/contacts/
 node	13175434230	https://www.poste.it
 node	13176423465	http://montanahotel.it/
+node	13194453841	https://www.rfi.it/it/stazioni/s-marcellino-frignano.html
+node	13194543207	https://www.rfi.it/it/stazioni/villa-literno.html
+node	13194552444	https://www.rfi.it/it/stazioni/albanova.html
+node	13195220101	https://www.tenshin.it
+node	13195682367	https://www.cinemavittoriaaversa.it/
 way	21851818	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/fontana-di-diana-e-atteone/
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
@@ -3097,6 +3105,7 @@ way	241500253	https://dellesirene.com/
 way	242698469	https://www.termediaugusto.it/
 way	243482489	https://www.ristorantereginella.com/
 way	243484784	http://www.ristoranterosiello.it/
+way	243491531	https://www.tennisclubnapoli.it/
 way	243808395	https://www.oldwildwest.it/ristoranti/old-wild-west-napoli-fuorigrotta
 way	244038379	https://www.lidoparadiso.it
 way	247458280	http://www.pensionevillamafalda.it/index.php/it/
@@ -3244,7 +3253,7 @@ way	331073972	https://www.liberoricercatore.it/Storia/piazza_cristoforo_colombo.
 way	331157263	https://www.beatasolitudo.it
 way	332302633	https://www.istitutocomprensivocapuozzo.edu.it/
 way	334155513	https://www.torrebassano.it/
-way	334344034	https://www.rfi.it/it/stazioni/napoli-centrale.html
+way	334344034	https://www.napolicentrale.it/
 way	334753238	https://www.motorvillageitalia-napoli.it/
 way	334754170	https://www.liceovillari.edu.it/
 way	335850444	https://jambo1.it/w/
@@ -4285,7 +4294,6 @@ relation	12208412	https://www.caimontilattari.it/sentiero/310c/
 relation	12351556	https://www.teatrostabilenapoli.it/
 relation	12576335	https://www.viefrancigenedelsud.it/
 relation	13159059	http://www.terminalnapoli.it/
-relation	13565269	https://www.tennisclubnapoli.it/
 relation	13677460	https://www.alpileviscampia.edu.it/
 relation	13705730	http://www.icfalconescaudatorredelgreco.gov.it
 relation	13705731	http://www.icfalconescaudatorredelgreco.gov.it
@@ -4436,6 +4444,7 @@ node	13158322173	https://linktr.ee/CalaCrabPorto
 node	13159937324	http://www.comune.gianovetusto.ce.it
 node	13178955478	https://www.bbnapolimaria.com/
 node	13178985321	https://www.stayinnaples.it/
+node	13194260136	https://www.acasadiclara.it/
 way	79268408	http://www.szn.it
 way	170920731	https://www.giardiniposeidonterme.com/
 way	174047981	http://www.cittadellascienza.it/
