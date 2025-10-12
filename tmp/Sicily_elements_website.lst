@@ -680,7 +680,6 @@ node	2941160117	https://www.icinquebalconi.it/
 node	2941160120	https://www.hotelpuntabarone.it/
 node	2941160121	https://www.mammasantina.it/
 node	2942539217	https://www.poste.it
-node	2942589749	http://www.bluemoonmalfa.it/
 node	2947425147	bagliohimera.it
 node	2953818640	www.baglioferlito.com
 node	2953818641	https://www.bagliofontana.it/
@@ -2216,6 +2215,7 @@ node	6990132694	https://www.enotecapicone.com/
 node	6993798055	https://www.trenitalia.com/
 node	7008603608	https://rete.comuni-italiani.it/wiki/Enna/Statua_di_Euno
 node	7008833352	http://www.hobbyzoo.org/
+node	7037160097	https://www.sudesthomes.com/
 node	7037177057	https://www.hotelcorsaro.it/
 node	7039268139	https://www.trenitalia.com/
 node	7039268156	https://www.trenitalia.com/
@@ -3570,6 +3570,7 @@ node	11537311210	https://www.airbnb.it/rooms/11705866
 node	11542838926	https://www.favignanavacanza.it/
 node	11543707703	https://www.sushisusiracusa.it/
 node	11549020294	https://www.museionline.info/musei/museo-della-tonnara-di-bonagia
+node	11560060133	https://aldoematteopizzarestaurant.it/
 node	11564885008	http://www.hobbyzoo.org/
 node	11564885009	http://www.hobbyzoo.org/
 node	11564885010	http://www.hobbyzoo.org/
@@ -4083,8 +4084,7 @@ node	13150850781	https://www.matibaixa.it/
 node	13150850782	https://www.matibaixa.it/
 node	13153113723	https://www.nairiso.it/
 node	13167993997	http://www.residencelesaline.it/
-node	13169489101	"https://giocheren​
-da.it"
+node	13169489101	https://giocheren​ da.it
 node	13169527301	"http://www.ham​
 mam.pa.it"
 node	13171715555	https://sorelleglamour.it/
@@ -4093,9 +4093,11 @@ node	13173992237	https://www.booking.com/hotel/it/la-casa-del-borgo-petralia-sop
 node	13174022918	https://www.vulcanicapizzeria.it/
 node	13175081495	https://www.netherlandsandyou.nl/web/italy/about-us/honorary-consuls/honorary-consul-palermo
 node	13176377753	https://www.casa4casa.it/
-node	13184047601	http://theonetaormina.it
+node	13184047601	https://www.theonetaormina.it/
 node	13188929678	www.cefalu.mondosenzaglutine.it
 node	13194616390	https://www.lacollinadivenere.it/
+node	13196172827	https://www.vinirudini.it/
+node	13198136243	https://www.bistrosaporedistelle.it/catania/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -6428,6 +6430,7 @@ way	1429495242	https://www.poste.it
 way	1430911368	https://www.comprensivopuglisi.it/
 way	1431188397	https://www.quasimodoragusa.edu.it
 way	1431816598	https://ortomi.net/
+way	1435706515	https://www.dimorasavarino.it/
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
