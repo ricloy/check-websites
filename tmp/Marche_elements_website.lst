@@ -163,7 +163,6 @@ node	1231713520	https://www.cobaristorazione.it/cobar-ristorazione-self-service-
 node	1231713521	https://www.cobaristorazione.it/cobar-caffetteria-stazione-di-ancona.html
 node	1231713528	https://www.cobaristorazione.it/caffetteria-pizzeria-stazione-di-ancona.html
 node	1231713544	http://www.taxi-ancona.it/
-node	1232292203	http://www.baiaimperiale.net/
 node	1237351323	https://www.immobiliareserini.it/
 node	1238990992	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/56-ancona---via-maratta.html
 node	1238991017	http://www.trattorialacantineta.it/
@@ -284,6 +283,7 @@ node	1884913016	http://www.villagruccione.it/
 node	1944932058	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18486/Chiesa+di+San+Giovanni+Battista
 node	1947715291	https://www.libreriadelmonte.it/
 node	1962525554	http://www.dalmarchigiano.it
+node	1962703672	https://www.conad.it/ricerca-negozi/conad-city-via-porta-romana-132-63811-santelpidio-a-mare--001824
 node	1962972166	https://www.sassoferratoturismo.it/
 node	1962972167	https://www.sassoferratoturismo.it/museo-civico-archeologico/
 node	1962993035	https://www.comune.sassoferrato.an.it/hh/index.php
@@ -626,7 +626,6 @@ node	4265183776	https://www.marinadeicesari.it/
 node	4265183778	https://www.taghotelfano.com/
 node	4268166925	https://www.pennenteoutdoor.it
 node	4275268691	https://turismosirolo.it/
-node	4292804889	https://www.campingregina.it/
 node	4298678903	https://www.ilvinattiere.it/
 node	4298678904	http://www.ostiumpub.it
 node	4301428747	http://www.lafumetteria.it
@@ -1437,7 +1436,6 @@ node	11178636292	https://www.cmsangiuseppe.it/
 node	11178636293	https://centro-medico-progetto-salute.business.site/
 node	11182456126	https://www.casamalena.it
 node	11182456127	https://www.acquaesapone.it/puntivendita/ascoli-piceno-via-dino-angelini-67/
-node	11182456128	https://www.autoscuolasciamanna.it
 node	11182799663	https://www.pasticceriaessenza.it/
 node	11182799665	https://www.mancinipneumatici.it/main.php
 node	11182799672	http://www.verdinimoto.com
@@ -2161,16 +2159,15 @@ node	13133973326	https://cuoreadriatico.it/
 node	13139832460	https://www.erbamicasenigallia.it/
 node	13139986948	www.lecastellane.it
 node	13155321494	www.aemmestudiodanza.com
-node	13161675480	https://0712139024
 node	13164894547	https://vignadellacava.com/
 node	13167161103	https://www.gruppovege.it/it/punti-vendita/punto-vendita-di-via-dei-fiori-fantastici-44
 node	13168120233	https://www.centrostudiosvaldolicini.it/
 node	13176477301	https://www.cinemagabbiano.it/
 node	13176642545	https://liceoclassicojesi.edu.it/
 node	13176674815	https://liceicamerino.edu.it/
-node	13176674816	http://www.antinori.edu.it/
+node	13176674816	https://www.antinori.edu.it/
 node	13176763839	http://www.lanuovasecondaria.it/
-node	13176778711	http://www.istitutoaleandri.it/
+node	13176778711	https://www.istitutoaleandri.it/
 node	13176778712	https://www.istitutileonardoitalia.it/
 node	13176778713	https://www.bambingesu.org/
 node	13176778714	https://www.istituticaggiari.it/
@@ -2515,7 +2512,7 @@ way	373179950	http://www.rifugiocupi.it/
 way	373184465	https://www.sibillini.net/
 way	373194350	http://www.rifugioaltino.it/
 way	373757154	https://www.sassoferratoturismo.it/museo-delle-arti-e-tradizioni-popolari/
-way	374346838	http://ilgelsoagriturismo.com/
+way	374346838	https://ilgelsoagriturismo.com/
 way	375128657	http://www.ahlstrom.com/en/Contact-us/?type=all&country=Italy
 way	375684358	https://www.aspes.it/3/servizi-e-attivita/servizi-cimiteriali/attivita.html
 way	375994743	http://www.casaaccoglienzadilvabaroni.org
@@ -2602,6 +2599,7 @@ way	455672981	https://fondoambiente.it/luoghi/san-gregorio-in-dinazzano-camerino
 way	460537441	https://www.oasitigre.it/content/ot/it/it/il-mio-negozio.545.html
 way	462884881	http://www.ristoromontelago.it/
 way	463688037	https://prolocoloreto.com/area-camper-1.html
+way	463697567	http://www.pisaurumbodylab.it/
 way	467241889	https://www.ciip.it
 way	468566053	https://fondoambiente.it/luoghi/orto-sul-colle-dell-infinito
 way	472872293	https://www.liceolaurana.edu.it/
@@ -2977,6 +2975,7 @@ way	1426159090	https://eurotecnica.com/
 way	1428121849	https://falconairpark.it/
 way	1433621023	https://www.lapastadicamerino.it/
 way	1433734866	https://www.iisgalileijesi.it/
+way	1436892205	https://www.campingregina.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1512917	https://www.iismerlonimiliani.it/
@@ -3144,7 +3143,6 @@ node	3121931116	http://www.ziamelia.it
 node	3402021824	http://www.deltasegnaletica.com
 node	3429515106	http://www.calzaturificiolauretta.net
 node	3491136831	http://www.aspes.it/3/servizi-e-attivita/farmacie-comunali/gestione-farmacie/farmacia-comunale-soria/
-node	3496970204	http://www.bellaischia.net/pizzeria-bella-ischia-fano.html
 node	3606793144	http://www.lagrottadeifolletti.it/
 node	3672366633	http://www.villafonti.it
 node	3677819114	http://www.dallacira.it
