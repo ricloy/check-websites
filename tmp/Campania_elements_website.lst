@@ -66,7 +66,6 @@ node	1316712175	http://www.ustariarosella.it
 node	1320623898	www.hrmare.com
 node	1330786982	http://www.comune.pianodisorrento.na.it/
 node	1357012856	http://www.tavernaviola.it/
-node	1374246701	https://www.napolisotterranea.org/
 node	1386654181	https://www.trezene.com/
 node	1399178507	http://www.cristinaparkhotel.it
 node	1421018346	http://www.autofficinaguida.com
@@ -1161,7 +1160,6 @@ node	7142669631	https://www.vittopitagorico.it/
 node	7147507120	http://www.pasticceriacapriccionapoli.com/index.html
 node	7147507122	https://www.puokburger.com/
 node	7150695841	https://www.giorgiolieto.com/
-node	7158648836	https://www.washdog.store/napoli233/
 node	7158648851	https://negozi.vodafone.it/napoli/vodafone-store-corso-umberto-napoli
 node	7159068592	https://www.napoliparking.it
 node	7160803033	https://www.artstreethotel.it/
@@ -1292,7 +1290,6 @@ node	7902937074	https://www.comune.casapesenna.ce.it/it
 node	7911886359	https://www.prestitoprimeacerra.it
 node	7912388242	https://www.bibliotecauniversitarianapoli.beniculturali.it/
 node	7925757403	https://www.savariseventidafavola.com
-node	7927213768	https://www.facebook.com/pg/demetra.azienda.agricola
 node	7931893848	https://www.pinewood-hotels.com/inn-naples-airport-english
 node	7938411590	https://www.monachelle.org
 node	7941398564	https://www.optionalauto.com/
@@ -2351,6 +2348,7 @@ node	11725427342	https://www.dispensaemilia.it/it
 node	11737373337	https://www.netgroup.it/en/
 node	11738741611	https://www.libreriaromano.com/
 node	11739293676	https://innovaway.it/en/
+node	11741883477	https://www.imaginesbook.it/
 node	11745983632	https://www.resilienza.pizza
 node	11755419850	https://www.molagroup.it/
 node	11755419851	https://www.hotel-giulia.it/
@@ -2495,6 +2493,7 @@ node	12207122819	https://www.ruoccorita.it/
 node	12222509596	https://www.palazzosantantonionapoli.it/
 node	12237490718	https://www.studiolegalesiporso.it/
 node	12237518523	https://www.home51.it/
+node	12243589096	https://www.libreriabrunolibri.it/
 node	12243903720	https://dumdumrepublic.it
 node	12250042885	https://www.blue-soul.de
 node	12255045605	https://inpost.it/locker-napoli-itnap44783m-via-galileo-ferraris
@@ -2884,7 +2883,14 @@ node	13194543207	https://www.rfi.it/it/stazioni/villa-literno.html
 node	13194552444	https://www.rfi.it/it/stazioni/albanova.html
 node	13195220101	https://www.tenshin.it
 node	13195682367	https://www.cinemavittoriaaversa.it/
-way	21851818	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/fontana-di-diana-e-atteone/
+node	13200283729	https://betra-pizza-e-food.it/
+node	13202525801	https://pampanorama.it
+node	13202621107	https://pizzeriapositano.eu/pizzeria-positano-salerno/
+node	13204264302	https://www.teatrodistinto.com/
+node	13204582659	https://www.facebook.com/pg/demetra.azienda.agricola
+node	13205528835	https://www.poste.it
+node	13207627666	https://noleggiala.it/contatti/
+node	13228002575	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
 way	24225619	https://reggiadicaserta.cultura.gov.it/
@@ -3455,7 +3461,6 @@ way	491438853	http://www.icsianivillaricca.it/
 way	491438859	https://www.icsianivillaricca.edu.it/
 way	491534000	www.marsicani.com
 way	491622822	https://www.hoteldamaria.it/
-way	491761431	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
 way	491761438	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/casa-del-giardiniere/
 way	491819411	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/castelluccia/
 way	492135925	https://www.comune.maiori.sa.it/index.php?option=com_content&view=article&id=444&Itemid=212
@@ -4116,6 +4121,7 @@ way	1430253971	http://www.comune.casalbuono.sa.it
 way	1430306563	https://www.feudodelmonaco.com
 way	1430306564	https://www.feudodelmonaco.com
 way	1432710610	http://www.comune.tortorella.sa.it/
+way	1441661654	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/fontana-di-diana-e-atteone/
 relation	12377	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/lago-tempio-diruto-e-casa-dei-cigni/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
@@ -4445,6 +4451,8 @@ node	13159937324	http://www.comune.gianovetusto.ce.it
 node	13178955478	https://www.bbnapolimaria.com/
 node	13178985321	https://www.stayinnaples.it/
 node	13194260136	https://www.acasadiclara.it/
+node	13202158065	https://www.bionceli.com/
+node	13202824163	https://campania.coldiretti.it/calendari-mercati-napoli/
 way	79268408	http://www.szn.it
 way	170920731	https://www.giardiniposeidonterme.com/
 way	174047981	http://www.cittadellascienza.it/
