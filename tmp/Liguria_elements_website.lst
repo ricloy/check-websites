@@ -78,7 +78,7 @@ node	418883069	http://www.ergcasaccia.com/
 node	420358207	https://www.hoteltigullio.eu/
 node	423806795	www.microkit.com
 node	428732457	https://osteriadivicopalla.com/
-node	439784766	https://www.campingsansebastiano.it/
+node	439784766	https://www.campingsansebastiano.com/
 node	441526377	https://www.hotel-rossini.it/
 node	441530541	http://www.museodelclown.it
 node	442709467	https://www.nuovocinemapalmaro.it/
@@ -446,7 +446,6 @@ node	2331651307	https://www.guzzardiplastica.com/
 node	2331723988	http://www.europalevanto.com
 node	2333439683	http://www.tempofoscogenova.it
 node	2335318120	http://www.govonis.org
-node	2336334551	http://www.i2truogoli.it/
 node	2338118165	http://www.sanmartinorooms.it
 node	2338474472	http://www.boulderfactory.it
 node	2340570166	http://www.ferasrl.it/progetto/naso-di-gatto/
@@ -1201,6 +1200,7 @@ node	5166366248	https://hifit.it/
 node	5166366249	https://www.ivri.it/
 node	5166485596	https://www.lesrouges.it/
 node	5166486110	https://www.capenardo.it
+node	5181613964	https://unige.it/store
 node	5194891887	https://www.pasticceriatagliafico.it/
 node	5194891894	https://www.hotelsuissegenova.it/
 node	5200900614	http://www.robymoto.it
@@ -2624,11 +2624,13 @@ node	12582241243	https://www.ciclibosco.it/
 node	12592853646	https://www.cristiancastigliola.com/
 node	12592853650	https://www.winstonchurchillimperia.it
 node	12595843953	https://it.airbnb.ch/rooms/1113136687370130999
+node	12598553301	https://www.campingsansebastiano.com/it/tents-and-campers/
 node	12600897734	https://www.airbnb.it/rooms/1228326034837470040?source_impression_id=p3_1739977986_P32gXjtCN5_cfvIB
 node	12604691209	https://www.studiogaribaldimoraldo.com/wp
 node	12604691210	https://mdbuildingroup.com
 node	12604691213	http://www.nordovestproperty.it
 node	12604691214	https://studiocielle.rikorda.it/
+node	12609290944	https://openclimbing.org/node/12609290944
 node	12620686004	https://www.facebook.com/profile.php?id=61571378611492
 node	12629114032	https://www.ortobioimperia.it/
 node	12629114035	https://diverdedazzurro.com
@@ -2660,6 +2662,7 @@ node	12686932763	https://www.studiotutela.com
 node	12695453858	https://www.stazionediserviziolaspezia.com/enjoy-point
 node	12695476559	https://www.radiotaxilaspezia.com/it/
 node	12702980496	https://www.lisolachecegenova.it/
+node	12719335135	https://www.agenziailcastello.it
 node	12722635895	https://www.quotalavoro.it/
 node	12722635901	https://www.schiavetti-center.it
 node	12731960885	https://cor-nus.com
@@ -2781,6 +2784,12 @@ node	13170542386	https://www.stabiliacase.it
 node	13190276509	https://www.parcourbanocafe.it
 node	13197466044	https://www.nespresso.com/it/
 node	13197466046	https://www.bialetti.com/
+node	13202627521	https://www.instagram.com/_ahimsalab.yoga_
+node	13203849522	https://www.icloano-boissano.it/luogo/scuola-dellinfanzia-e-scuola-primaria-g-rodari/
+node	13203849523	https://www.icloano-boissano.it/luogo/scuola-dellinfanzia-e-scuola-primaria-g-rodari/
+node	13207363974	https://dergi-pizzeria-paninoteca.it/
+node	13208349151	https://bricoio.it
+node	13227791616	https://ostaiadistorti.it/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3631,6 +3640,7 @@ way	1418182808	https://www.viadellamore.info/
 way	1422873778	https://www.tesla.com/findus/location/supercharger/varazzesupercharger
 way	1424746516	https://villabiener.com/
 way	1430545078	https://campingilpersiano.com
+way	1436553694	https://teatrosalvini.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -4645,7 +4655,6 @@ node	374482790	http://www.atp-spa.it/cartina.php
 node	374482805	http://www.atp-spa.it/cartina.php
 node	374482817	http://www.atp-spa.it/cartina.php
 node	374482837	http://www.atp-spa.it/cartina.php
-node	374482850	http://www.atp-spa.it/cartina.php
 node	374484480	http://www.atp-spa.it/cartina.php
 node	374573077	http://www.atp-spa.it/cartina.php
 node	374573115	http://www.atp-spa.it/cartina.php
@@ -6878,6 +6887,7 @@ node	3508993870	http://www.rivieratrasporti.it/ShowOrari.asp
 node	3508993871	http://www.rivieratrasporti.it/ShowOrari.asp
 node	3508993872	http://www.rivieratrasporti.it/ShowOrari.asp
 node	3510667531	http://www.amt.genova.it/orari/orari_urbana.asp
+node	3600089443	https://www.dannetta.it/artemisia.htm
 node	3761595233	http://www.amt.genova.it/orari/orari_urbana.asp
 node	3761595234	http://www.amt.genova.it/orari/orari_urbana.asp
 node	3761622660	http://www.amt.genova.it/orari/orari_urbana.asp
@@ -7254,6 +7264,10 @@ way	875789516	https://www.gulliver.it/itinerari/telematica-falesia/
 way	926736204	http://www.cogoletoinfo.it/storia/fornaci/fornaci.htm
 way	1052316469	https://www.thecrag.com/en/climbing/italy/finale-ligure/valle-aquila/area/1950858624
 way	1214577471	https://www.thecrag.com/en/climbing/italy/albenga/area/6649998117
+way	1265630599	https://climbook.com/falesie/9691/la-cava-toirano-placca-dellartista
+way	1265630600	https://climbook.com/falesie/9721/la-cava-toirano-litigometro
+way	1265630601	https://climbook.com/falesie/9761/la-cava-toirano-cristalliera
+way	1265630602	https://climbook.com/falesie/9731/la-cava-toirano-placca-rosa
 relation	42641	http://www.cartografiarl.regione.liguria.it/mapfiles/repertoriocartografico/CONFINI/56.asp?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3
 relation	42663	http://www.cartografiarl.regione.liguria.it/mapfiles/repertoriocartografico/CONFINI/56.asp?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3
 relation	42681	http://www.dolceacqua.it/
