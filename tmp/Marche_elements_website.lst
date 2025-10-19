@@ -39,6 +39,7 @@ node	602806636	https://www.farmaciatamburrini.com/
 node	602842097	https://www.lacremeriapasticceria.it/
 node	605107804	https://ama.coop/casa/casa-aquilone/
 node	605122328	https://www.ilpoggioresort.it/
+node	605127352	https://www.lacortedelsole.com/
 node	610647852	https://www.farmaciapallotta.it/
 node	610647853	https://www.conad.it/ricerca-negozi/negozio.010258.html
 node	610671412	https://www.conad.it/ricerca-negozi/conad-superstore-viale-costantino-rozzi-snc-63100-ascoli-piceno--010024
@@ -56,9 +57,14 @@ node	639264164	https://www.senbhotel.it/
 node	639358820	https://www.alpiccoloteatro.it/
 node	639359448	https://www.vittoriaristorante.it/
 node	639617646	https://www.pizzeriabellanapoliascoli.it/
+node	644068429	https://www.multiplexdellestelle.it/
+node	644068432	https://www.topasytapas.com/
+node	644068437	https://comidaakilo.it/
 node	644135437	https://www.villasanmarco.it/
 node	647384024	https://www.gabrielliunika.it/it/il-mio-negozio.425.html
+node	647384026	https://www.bricocenter.it/ascoli-piceno/
 node	653001436	https://www.conad.it/ricerca-negozi/negozio.009949.html
+node	658937874	https://fishandlove.it/
 node	658940303	https://stores.oltre.com/it/italia/ascoli-piceno/ascoli-piceno-zona-industriale-campolungo
 node	659630555	https://www.acquaesapone.it/puntivendita/ancona-via-giordano-bruno-85/
 node	659630594	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/4119-ancona-cinci.html
@@ -940,7 +946,6 @@ node	7168070781	https://www.marcheteatro.it/biglietteria/
 node	7217676220	https://www.ristoranteparadisofalconara.it
 node	7217676224	https://www.avisprovincialeancona.it/avis-comunale-falconara-marittima/
 node	7217683532	https://www.agenziapalmieri.it/
-node	7229705190	https://www.maggiore.it/agenzie/noleggio-auto-ancona-piazza-rosselli/
 node	7236448229	https://www.lapinseria.online
 node	7281896606	https://www.farmaciapetracci.it/
 node	7297071539	https://femmecafe.it/
@@ -1048,6 +1053,7 @@ node	8495392936	https://www.enotecadorica.com/
 node	8497869731	https://www.comune.acqualagna.ps.it
 node	8498107581	https://www.comune.apecchio.ps.it/
 node	8500881731	http://lnx.radioascoli.it/
+node	8503196404	https://www.acquaesapone.it/puntivendita/ascoli-piceno-via-dei-mutilati-del-lavoro-120/
 node	8508746033	https://www.coal.it/archives/punti-vendita/lillini-marco
 node	8508746061	https://www.tortellinibolognesi.it/
 node	8508746063	https://www.ionocoid.com/
@@ -1382,7 +1388,6 @@ node	10949185366	https://essepidistribuzionebevande.it/nonsolovino/
 node	10965350005	http://www.conhive.it
 node	10971542731	https://www.hotelangela.it/
 node	10971568750	https://www.hotelbeaurivagefano.it/
-node	10978020325	https://www.minianetstore.it
 node	10990082924	https://www.noisushi.it
 node	10997123392	https://www.plusservices.it
 node	11002972783	https://suroviristorante.it/
@@ -1522,6 +1527,7 @@ node	11293761269	https://emporio-gamba.business.site/
 node	11297394597	https://www.ristorantelagatta.it
 node	11297658384	https://www.etsy.com/it/shop/OfficinaGraficaUrb?ref=seller-platform-mcnav
 node	11297749415	https://www.felicasacentrorisparmio.it/
+node	11298921025	https://tivittori.it
 node	11303005683	https://www.gioielleriarossetti.it/
 node	11303956502	https://www.booking.com/hotel/it/arco-augusto-fano.it.html
 node	11307672847	https://anconabaraccola.bloomest.it/
@@ -1914,6 +1920,7 @@ node	12444646867	http://www.simply.net/?k=36562a8cc61f9de6bf433660f983ea70#!/hom
 node	12444646872	https://www.rosalbastore.it/
 node	12444646876	https://www.cose-antiche.biz/
 node	12447144640	https://www.enel.it/spazio-enel/ascoli-piceno/spazio-enel-negozio-partner/11654/
+node	12447432082	https://www.consulentimediolanum.it/agenzie/ascoli-piceno
 node	12458727715	https://www.comune.morrovalle.mc.it/
 node	12458738957	https://www.bussolamoda.it
 node	12459908799	https://www.tittarelli.it/
@@ -2173,6 +2180,9 @@ node	13176778713	https://www.bambingesu.org/
 node	13176778714	https://www.istituticaggiari.it/
 node	13181359805	https://www.amap.marche.it/progetti/olivicoltura/pubblicazioni/le-icone-della-biodiversita-gli-olivi-monumentali-delle-marche
 node	13181375772	https://www.amap.marche.it/progetti/olivicoltura/pubblicazioni/le-icone-della-biodiversita-gli-olivi-monumentali-delle-marche
+node	13233198915	https://www.ilcasaledellevolpi.it/
+node	13233526940	https://www.comune.serradeconti.an.it/amministrazione/enti_e_fondazioni/ente_17.html
+node	13233526941	https://www.astancona.marche.it
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -3049,6 +3059,7 @@ relation	12379392	https://www.amastrofili.it/osservatorio/
 relation	13145363	https://www.marinadorica.it/
 relation	13270946	https://nerogiardini.it/store-locator/nerogiardini-outlet-monte-san-pietrangeli-italia
 relation	13273430	https://liceostabilitrebbiani.edu.it/
+relation	13273468	https://www.odeon6.it/
 relation	14223406	https://www.sibillini.net/
 relation	14248618	https://www.eurospin.it/punti-vendita/ascoli-piceno-via-genova-493502/
 relation	14381580	https://www.parcosanbartolo.it/
