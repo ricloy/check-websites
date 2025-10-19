@@ -873,6 +873,7 @@ node	11002033826	https://www.studiolegalealunnorossetti.it/
 node	11003036946	https://www.repower.com/dina/
 node	11005336655	https://lagrottadellospuntino.eatbu.com/?lang=it
 node	11017821199	https://orari.fsbusitalia.com/epdf/GB0308.pdf
+node	11022009467	https://www.casacontachilometriperugia.com/
 node	11023682173	https://www.laterrazzahotel.it/centro-benessere-spa/
 node	11066977599	https://www.repower.com/dina/
 node	11067051464	https://www.repower.com/dina
@@ -1121,6 +1122,8 @@ node	13190496614	http://www.unipolsaiperugia.it/
 node	13190496615	https://impastataguasta.it/
 node	13203500691	https://aurava.love
 node	13217961502	http://www.cameliafiori.it
+node	13234253052	https://www.ciaimpianti.net/
+node	13236086366	https://www.studiovagnetti.com
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1876,7 +1879,6 @@ way	1427277414	https://www.musec-castelviscardo.it/
 way	1434439214	https://www.vacanzecolcuore.com/it/resort/trasimeno-glamping-resort
 way	1435963182	https://www.hotelfichetto.it/
 relation	1253429	https://www.abbaziacollemedio.it/
-relation	1947993	https://chemindassise.org/
 relation	1948091	https://chemindassise.org/
 relation	2048968	http://www.camminodiassisi.it
 relation	2154336	http://musei.beniculturali.it/musei?mid=5351&nome=museo-archeologico-nazionale-dellumbria
@@ -1898,7 +1900,6 @@ relation	6554441	https://www.carabinieri.it/
 relation	6599043	http://www.lascarzuola.com/
 relation	6706723	https://www.relaistodini.com/
 relation	6713762	http://www.lavalnerina.it/dett_luogo.php?id_item=104
-relation	6862481	https://www.monterufeno.it/
 relation	7182014	https://www.umbriamobilita.it/it/umbria-mobilita/ex-ferrovia-spoleto-norcia-1
 relation	7300151	https://www.parks.it/parco.colfiorito
 relation	7348110	https://www.sentieriamerini.it/
@@ -2214,6 +2215,7 @@ way	1357196484	https://www.assisicasafrancesca.it/
 relation	2016618	https://monasterosangiuseppeassisi.it/
 relation	2997264	https://casasangirolamo.azionecattolica.it/
 relation	3444241	https://www.casamonteripido.it/
+relation	6862481	https://www.monterufeno.it/
 relation	8050899	http://www.viaggispirituali.it/strutture-turismo-religioso/umbria/monastero-s-croce_3353/
 relation	16020019	http://www.lavalnerina.it/
 relation	17666893	http://www.agriturismopoponi.it/
