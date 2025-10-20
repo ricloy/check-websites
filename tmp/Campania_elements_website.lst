@@ -562,7 +562,6 @@ node	4258814388	https://www.bbaunpassoda.it/
 node	4269549494	http://www.sirialab.it
 node	4277217543	https://www.osterialachitarra.it/
 node	4281257105	https://www.fondazioneplart.it/
-node	4294699305	https://napolibike.com/
 node	4295563918	https://www.ilpuntogroup.com/
 node	4309923302	https://it.maxmara.com/store/0100104
 node	4313149323	https://www.hoteltoledo.com/
@@ -2846,7 +2845,6 @@ node	13135139863	https://www.ravsolution.it/
 node	13135139867	https://www.coopdigitalservice.it/
 node	13135139870	http://www.progresswater.it/
 node	13135139872	https://worldimmobiliare.net/
-node	13135242865	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/bosco-vecchio/
 node	13135242866	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/fontana-di-venere-e-adone/
 node	13135242867	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/via-dacqua/
 node	13135250039	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/obelisco/
@@ -2891,6 +2889,11 @@ node	13204582659	https://www.facebook.com/pg/demetra.azienda.agricola
 node	13205528835	https://www.poste.it
 node	13207627666	https://noleggiala.it/contatti/
 node	13228002575	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
+node	13236153764	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
+node	13238603860	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
+node	13240488549	http://www.osolemiohotel.com/
+node	13240492542	http://www.oasiolimpiarelais.it/
+node	13243128185	beacons.page/jrmarecords
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
 way	24225619	https://reggiadicaserta.cultura.gov.it/
@@ -3268,7 +3271,6 @@ way	337028909	https://www.restauriraia.com/
 way	337974453	http://museorientale.unior.it/
 way	341212443	https://www.aeroclubbenevento.it/
 way	343650825	http://alvecchiomulinotriflisco.it/
-way	349210670	www.bikesharingnapoli.it
 way	349488038	https://www.pizzeriasalvo.it/
 way	352842291	http://torrevillage.it/
 way	355834242	http://www.pompeiisites.org/Sezione.jsp?titolo=Temple+of+Fortuna+Augusta+%28VII%2C4%2C1%29&idSezione=652&lookfor=Fortuna%20Augusta
@@ -3462,7 +3464,6 @@ way	491438859	https://www.icsianivillaricca.edu.it/
 way	491534000	www.marsicani.com
 way	491622822	https://www.hoteldamaria.it/
 way	491761438	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/casa-del-giardiniere/
-way	491819411	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/castelluccia/
 way	492135925	https://www.comune.maiori.sa.it/index.php?option=com_content&view=article&id=444&Itemid=212
 way	494700426	http://www.adoratriciperpetue.org/index.php?option=com_content&view=article&id=33&catid=18&Itemid=135
 way	495189115	http://www.badiadicava.it/
@@ -3604,7 +3605,6 @@ way	732202111	http://www.polomusealecampania.beniculturali.it/index.php/il-museo
 way	732479676	www.bikesharingnapoli.it
 way	732479678	www.bikesharingnapoli.it
 way	732479679	www.bikesharingnapoli.it
-way	732479680	www.bikesharingnapoli.it
 way	732479681	www.bikesharingnapoli.it
 way	733108490	https://www.liceoserao.edu.it/
 way	733285434	https://www.febalcasa.com/it/stores/febal-casa-emozioni/
@@ -4122,6 +4122,8 @@ way	1430306563	https://www.feudodelmonaco.com
 way	1430306564	https://www.feudodelmonaco.com
 way	1432710610	http://www.comune.tortorella.sa.it/
 way	1441661654	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/fontana-di-diana-e-atteone/
+way	1442035873	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/castelluccia/
+way	1442296188	https://electripglobal.com/it/punti-di-ricarica
 relation	12377	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/lago-tempio-diruto-e-casa-dei-cigni/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
@@ -4306,9 +4308,7 @@ relation	13705731	http://www.icfalconescaudatorredelgreco.gov.it
 relation	14034334	https://fondoambiente.it/luoghi/baia-di-ieranto
 relation	14048568	https://www.massalubrenseturismo.it/monastero-del-santissimo-rosario-di-monticchio/
 relation	14172030	https://www.era-ewv-ferp.org/e-paths/e1/
-relation	14434407	https://www.wwf.it/oasi/campania/lago_di_campolattaro/
 relation	14468270	https://www.camminodisanfilipponeri.com
-relation	14635178	https://www.parcoregionaledelmatese.it/
 relation	14756307	https://matese.guideslow.it/castello-gioia-sannitica/
 relation	14860832	https://www.sorrentowalks.com/sorrento-sant-agata-via-acquacarbone-9.php
 relation	14861987	https://www.sorrentowalks.com/mura-e-porte-di-sorrento-4.php
@@ -4397,6 +4397,7 @@ node	6879579147	https://www.stellehotel.com/binario-calmo.asp
 node	6943713452	https://www.bbskyhouse.com/bevel
 node	6943713455	https://maschioangioinosuite-it.3dcartstores.com
 node	7175603435	https://www.bellillo.it
+node	7797025364	http://www.calasole.com/home.html
 node	7944774684	https://www.quidstore.it
 node	8346948239	www.scuolagramscimpastato.edu.it
 node	8757448479	https://www.infoserv.biz
@@ -4451,6 +4452,7 @@ node	13159937324	http://www.comune.gianovetusto.ce.it
 node	13178955478	https://www.bbnapolimaria.com/
 node	13178985321	https://www.stayinnaples.it/
 node	13194260136	https://www.acasadiclara.it/
+node	13197324775	https://www.llabbasc.it
 node	13202158065	https://www.bionceli.com/
 node	13202824163	https://campania.coldiretti.it/calendari-mercati-napoli/
 way	79268408	http://www.szn.it
@@ -4485,6 +4487,8 @@ way	1384056894	https://www.rinaldo.it/
 way	1394480691	https://www.villapuntapennata.it
 way	1427078648	https://www.comune.tufo.av.it
 way	1432321748	https://www.agricampeggiolaghettobasilone.it/
+relation	14434407	https://www.wwf.it/oasi/campania/lago_di_campolattaro/
+relation	14635178	https://www.parcoregionaledelmatese.it/
 node	68581547	www.ravello.com
 node	1892958672	http://www.lanticocortile.it/
 node	4033063953	http://www.vacanzeforiapalinuro.it
