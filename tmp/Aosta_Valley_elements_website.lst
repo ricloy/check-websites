@@ -472,9 +472,7 @@ way	71170701	https://www.lovevda.it/it/banca-dati/8/architettura-romana/aymavill
 way	73024728	http://www.azzurra-camper.com/
 way	77455428	http://www.rifugiogonella.com/
 way	77697399	https://www.campinghobo.com
-way	79808464	https://www.camperonline.it/area-di-sosta/Area-sosta-Saint-Denis_6449
 way	80035142	https://www.camperonline.it/area_di_sosta_dettaglio.asp?ID
-way	80039108	https://www.camperonline.it/area_di_sosta_dettaglio.asp?ID=6704
 way	82298005	https://www.lovevda.it/it/banca-dati/8/archeologia/aosta/area-megalitica-di-saint-martin-de-corleans-museo-e-parco-archeologico/751
 way	83107080	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	83107082	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -683,6 +681,7 @@ way	160891082	https://www.pizzeriadutunnel.it/
 way	160977651	https://www.alpissima.it/gran-baita-courmayeur/
 way	160977653	https://ih-hotels.com/it/i-nostri-aberghi/ih-hotels-courmayeur-mont-blanc-resort.html
 way	160998408	https://www.hotelsvizzero.com/
+way	161026107	www.fisio-sfm.com
 way	161031130	https://www.locandabellevue.com/
 way	161265126	https://www.edildueci.com/
 way	161265133	https://www.comune.villeneuve.ao.it/
@@ -1054,21 +1053,104 @@ relation	14405841	https://www.caiseregno.it/
 relation	15311564	https://www.gal.vda.it/magic-hicking-il-sentiero-magico/
 relation	17010467	https://www.vivavda.it/aree/area_i.aspx?area=6&n=Riserva%20naturale%20%20%20%20C%C3%B4te%20de%20Gargantua
 relation	19452591	https://www.visitcogne.it
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
-
-</body>
-</html>
+node	299232222	http://www.hotelleriedemascognaz.com/
+node	353049781	https://rifugioarp.com/
+node	353049803	www.rifugioguidefrachey.it
+node	353049806	http://www.rifugioermitage.com/
+node	353049825	http://www.rifugio-prarayer.it/
+node	353049833	https://www.rifugioaosta.com/
+node	353049840	http://www.caitorino.it/
+node	353049844	http://www.rifugiocuney.it/
+node	353083724	http://www.rifugioelena.it
+node	353084260	http://www.rifugiodalmazzi.com/
+node	353085969	http://www.rifugiomontebianco.com/
+node	372792977	www.lescupoles.com
+node	372793064	www.hoteldechampoluc.it
+node	725271625	http://www.lovevda.it/it/banca-dati/22/agriturismo/valsavarenche/lo-mayen/9000701
+node	1255708744	www.albergolesclochettes.it
+node	1272066385	http://www.comune-challandsaintanselme.it
+node	1288184982	www.stadelsoussun.com
+node	1288185322	http://www.rifugiobelvedere.net/
+node	1326399991	http://www.fortedimachaby.it/
+node	1353685312	http://www.locanda-lacplacemoulin.it/
+node	1355487738	http://www.trattoriaomens.com
+node	1483752218	http://www.studioantey.com
+node	1726355073	http://www.tuodi.it/
+node	1768307866	http://www.vallee-sport.com/
+node	1777902774	http://www.hotelgenzianella.it/
+node	1777902777	http://www.hotelgenzianella.it/
+node	1836184412	http://www.marianivis.com/
+node	1885091082	http://www.bistrotramet.it/
+node	1930450200	http://www.ostellolacrestadellupo.it/
+node	2039958910	http://www.termedisaintvincent.it/
+node	2186332685	http://www.residencecervino2.com
+node	2302314344	http://www.dortoirlavyiyeehcoula.it/
+node	2339014872	http://www.bachamp1826.com/
+node	2400501564	www.hotelarolla.it
+node	2906929778	https://www.pensionemontecervino.it/
+node	2929169744	http://www.lecoindesmelezes.it
+node	2963161790	http://www.samsuffy.it/
+node	2963295873	http://dondeynazgamba.com/home.html
+node	2995588143	www.gervasoni.it
+node	3045625655	www.oldwildwest.it
+node	3165214101	http://www.topopazzoclimbinghouse.com/
+node	3278397850	https://www.facebook.com/pages/Appartamenti-Valley-Vacanze-Brusson-Valle-dAosta
+node	3290454777	https://www.hotelgparadiso.com
+node	3290454779	www.rifugiochabod.com
+node	3310419237	http://www.ilcaselloverres.com/
+node	3484473141	http://www.rus-arlaz-herbal.it/
+node	3544679306	http://www.montmars.it/
+node	3578700663	http://hotelsaintnicolas.it/
+node	3723824746	http://www.maisongaudenzio.com/
+node	3784836248	http://www.casacountryarnad.it/
+node	3863346956	https://www.facebook.com/Corpo-Valdostano-Vigili-del-Fuoco-Volontari-di-Pont-Saint-Martin-371874182125/
+node	3883252320	http://www.lovevda.it/it/banca-dati/22/bed-breakfast/gignod/clemaison/9005221
+node	3929064529	http://www.lepetitabri.com
+node	4118550098	http://www.alpenzu.com/
+node	4131425462	http://www.rifugiomagia.it
+node	4141060073	https://www.roteskalb.it/
+node	4293296279	http://www.chamousira.net/home.html
+node	4316721857	https://www.airbnb.it/rooms/5611772?s=xfKY
+node	4358940865	http://www.marmoval.it/default.asp
+node	4358940866	http://www.pinetdelio.it/
+node	4895210542	www.acqualifesnc.com
+node	5327637740	http://officine.puntopro.it/officina-laurent
+node	7021611885	https://www.locandaurbana.it
+node	8821176197	http://www.comune-challandsaintanselme.it
+node	8821176198	http://www.comune-challandsaintanselme.it
+node	8912126919	https://www.alcaminettosemon.it/
+node	11253391257	http://maisondunoyer.com/
+node	11305460568	https://www.thefork.it/ristorante/osteria-mansio-1695-r579361
+node	12396204338	https://latteriadelmonterosa.com/shop.php
+node	12920060600	https://www.gdf.gov.it/it/reparti-del-corpo/valle-daosta/valle-daosta/stazione-sagf-entreves
+node	12921922098	https://royaldrivingexperience.com
+node	13158296094	https://www.armand.it
+way	58526794	www.rifugiovittorioemanuele.com
+way	60356684	https://www.rifugioguidedelcervino.com/
+way	60813251	https://www.abitarelestremo.it/la-casermetta-eng/
+way	61579198	http://www.rifugiosavoia.com/
+way	81823894	http://www.cogne.com/
+way	103017128	http://www.hotelpetitfoyer.it
+way	120778651	http://www.residencedelapierre.it/
+way	125447845	www.rifugiorionde.it
+way	131413425	http://www.rifugiodellemarmotte.it
+way	147536904	http://www.rifugiobonatti.it/
+way	147963960	http://www.rifugiobertone.it/wp/it/home/
+way	154481659	https://rifugioalpebonze.com/
+way	161482846	https://www.parrocchiasantamargheritaentreves.it
+way	165077481	http://www.ponteromano.it/
+way	229567128	http://www.rifugiomontfallere.it/
+way	243217275	http://www.cogne.com/
+way	292792697	http://dondeynazgamba.com/home.html
+way	295875967	http://www.rifugioteodulo.it
+way	325870330	https://www.montebianco.com
+way	331091609	http://www.montmars.it/
+way	344525243	http://www.villagiuditta.eu
+way	365318454	http://www.parcofaunisticomontavic.it/
+way	401733377	http://www.lovevda.it/it/banca-dati/22/bed-breakfast/antey-saint-andre/outdoor/9004315
+way	893997036	http://www.campingarvier.com/
+relation	14059755	https://www.diocese-annecy.fr/
+relation	15880628	https://www.diocese-annecy.fr/le-diocese/les-paroisses/paroisse-saint-bernard-du-mont-blanc
 node	666335350	http://www.hoteldufoyer.it
 node	670533689	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C
 node	670536202	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73176A
