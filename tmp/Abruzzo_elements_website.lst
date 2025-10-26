@@ -730,7 +730,7 @@ node	6194717276	https://www.diemidioforniture.it/
 node	6194945042	https://www.diemidio.it/
 node	6236356819	http://www.laferramentashop.it/
 node	6241550086	http://auaa.it/articoli-escursionismo/340-cascata-del-macellaro-parco-nazionale-della-majella
-node	6241829250	https://www.istat.it/it/istituto-nazionale-di-statistica/organizzazione/sedi-territoriali
+node	6241829250	https://www.istat.it/listituto/uffici-territoriali/
 node	6242232640	https://www.romanoliveoil.com/i-produttori/azienda-agricola-biologica-augusto-spagnoli/
 node	6243522185	https://www.univaq.it/section.php?id=333
 node	6243522186	http://esnlaquila.it/
@@ -1899,6 +1899,7 @@ node	8538789257	http://www.sangiovanniservizi.it/it/
 node	8540572340	https://www.kawa.srl/
 node	8540577967	https://www.ing.it/dove-ci-trovi/abruzzo/pescara-viale-marconi-21.html
 node	8540950354	https://www.carrefour.it/punti-vendita/carrefour-express-pescara-via-milite-ignoto-9-4242.html
+node	8544586337	https://www.fantaverso.com/
 node	8544589057	https://www.bppm.eu/
 node	8544606862	https://www.orienta.net
 node	8549532832	http://www.ferraragiardinaggio.it/
@@ -2205,7 +2206,6 @@ node	9759839795	https://www.vitaccia.it
 node	9761232838	https://www.insight.co.it
 node	9761799322	https://www.antichedimore.net/country_house_abbateggio_abruzzo.html
 node	9767911808	https://www.tamoristorante.it
-node	9773468131	https://www.roccadisotto.com
 node	9775305586	https://www.hoteliltiglio.com/
 node	9776929947	https://www.ivpc.com/gruppo/blitz-power/
 node	9779038224	https://www.7venti.it/
@@ -3493,6 +3493,10 @@ node	13226463889	https://www.giessescampoli.com/negozi/index/view/id/9
 node	13233055486	https://www.ristorolabaita.com
 node	13233055488	https://www.mammarosa.it/
 node	13236112675	https://www.lospuntinoburger.com/
+node	13245314748	https://www.leonardo.com/it/home
+node	13249270994	https://www.chefexpress.it/poi/vomano-ovest-area-di-servizio-n-30/
+node	13253657263	https://www.hotelholidays.it/
+node	13253657289	https://vettadabruzzo.it/
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3638,7 +3642,6 @@ way	142719390	http://www.ciapiabruzzo.it/
 way	144391302	https://www.info.asl2abruzzo.it/ospedalechieti/direzione-sanitaria.html
 way	146276235	https://www.piccolihome.it/
 way	146465117	https://www.bblepalme.it/
-way	147416124	https://www.leonardocompany.com/
 way	149877900	https://www.burgerking.it/ristoranti/abruzzo/pescara/burger-king-montesilvano/
 way	149906405	https://www.liceoscientificovasto.gov.it/
 way	149996012	https://www.ilpescara.it/economia/montesilvano-colle-lavori-piazza-calabresi-foto.html
@@ -3699,7 +3702,6 @@ way	246885192	https://it-it.facebook.com/emissario.capistrello/
 way	247257998	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=150264&pagename=157031
 way	248452981	http://oa-teramo.inaf.it/ita/
 way	249458215	https://www.conventodeglizoccolanti.it
-way	252724980	https://www.selex-es.com/
 way	257319211	https://www.lafontanalanciano.it/
 way	259798160	http://www.paesiteramani.it/Paesi/MontepaganoSAntimo.htm
 way	259801748	https://www.pagusmontepagano.it
@@ -3853,7 +3855,6 @@ way	470700476	https://www.hotelboccadivalle.com/home.htm
 way	471522148	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-michele-di-pescocostanzo/
 way	472275200	http://www.musicateatromarsi.it/
 way	472275544	http://www.itisavezzano.it/
-way	472529443	https://vettadabruzzo.it/
 way	473535931	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-spirito-a-majella/
 way	474904366	http://caiavezzano.it/
 way	475443541	https://www.webmarsica.it/castello-di-pereto/
@@ -4179,7 +4180,6 @@ way	911881689	https://www.ipsias-dimarziomichetti.it
 way	912799465	https://www.infoans.org/sezioni/l-approfondimento/item/7858-italia-comunita-soggiorno-proposta-di-ortona-un-luogo-dove-rinascere-accompagnati-dallo-spirito-salesiano
 way	913957272	https://francavilla.tuttogare.it/gare/id23229-dettagli
 way	914175098	https://www.icpescarasette.edu.it/
-way	915500815	https://www.chefexpress.it/poi/vomano-ovest-area-di-servizio-n-30/
 way	915811192	https://www.iwash.it
 way	915811193	https://www.iwash.it
 way	918793027	https://lido-apollo.business.site/
@@ -4219,7 +4219,7 @@ way	958182606	https://www.centrouniverso.it/
 way	958581733	https://www.newdribbling.it/
 way	961103027	https://gelsumino.it/download/book/penneelesuefontane.pdf
 way	961526908	https://www.campingondaazzurra.it
-way	961526909	https://www.campingborghetti.it/
+way	961526909	https://www.campingborghetti.com/
 way	962198778	https://www.infomedianews.com/largo-e-monumento-della-tiburtina-dedicati-al-pilota-eugenio-sirolli/
 way	964210827	https://www.conventosantissimaannunziata.org
 way	965317941	https://www.coal.it
@@ -4538,7 +4538,7 @@ way	1324624549	https://www.campingvillageadriatico.it
 way	1325266483	https://www.magalipe.it/
 way	1326467917	https://www.liceomaior.it/
 way	1328155099	https://www.proxicad.it/en/
-way	1328176900	https://www.campingborghetti.it/
+way	1328176900	https://www.campingborghetti.com/
 way	1328331510	https://www.campeggioverdemare.it/
 way	1328665680	https://www.iiscrocetticerulli.edu.it/
 way	1330389449	https://www.hotelpina.it/
@@ -4657,6 +4657,7 @@ way	1435863428	https://linktr.ee/LaKap
 way	1436220718	https://www.ic1chieti.edu.it/luogo/infanzia-brecciarola-casone/
 way	1436386490	https://cantinespinelli.it/
 way	1436749065	https://www.parcosirentevelino.it/pun_dettaglio.php?id_pun=2843
+way	1443674965	https://www.roccadisotto.com
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
