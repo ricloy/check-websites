@@ -834,6 +834,7 @@ node	10702541558	https://associazionesanmartino.eu/
 node	10704469015	https://www.cidatsanita.it/domus-gratiae/
 node	10704469016	https://www.uslumbria2.it/pagine/domus-gratiae
 node	10704751127	https://www.uslumbria2.it/servizi/hospice
+node	10706386721	https://stores.pittarello.com/it/italia/pg/perugia
 node	10706557381	https://sites.unipg.it/v3/terni/strutture/sede-medicina
 node	10706557912	http://www.criterni.it/home.html
 node	10706557929	https://www.uslumbria2.it/notizie/centro-salute-mentale-di-terni
@@ -1057,7 +1058,6 @@ node	12795801981	https://norcia.agriturismocastelluccio.it/
 node	12797777749	https://www.cesvolumbria.org/
 node	12800838873	https://www.agriturismoroccadelnera.it/
 node	12800894021	https://www.locandarosati.it/
-node	12804609101	https://campingorvieto.com/
 node	12813573259	https://www.farmaciamarchese.it/
 node	12816265103	https://www.antichitalacappuccina.com/
 node	12840668694	http://www.usigni.it/usigni/arte
@@ -1065,7 +1065,6 @@ node	12860947736	https://www.bricoio.it
 node	12862063053	https://www.casaminotti.it
 node	12882918601	https://www.uslumbria1.it/servizio/centri-di-salute/
 node	12891384401	https://regnumnaturae.com
-node	12911373187	https://www.formagginorcia.it/
 node	12912181968	https://ianbricaire.wixsite.com/patris
 node	12919808986	https://www.autoscuolanovatecnica.it/
 node	12919808987	https://www.autoscuolanovatecnica.it/
@@ -1121,9 +1120,14 @@ node	13190496602	https://www.angolodelcontadino.it/
 node	13190496614	http://www.unipolsaiperugia.it/
 node	13190496615	https://impastataguasta.it/
 node	13203500691	https://aurava.love
-node	13217961502	http://www.cameliafiori.it
+node	13217961502	https://www.cameliafiori.it/
 node	13234253052	https://www.ciaimpianti.net/
 node	13236086366	https://www.studiovagnetti.com
+node	13244595701	http://banditellarentroom.it
+node	13247577387	https://mennoliauto.it/
+node	13247867154	https://www.gronze.com/italia/umbria/terni/arrone/rifugio-parrocchiale-di-arrone-santa-maria-assunta/
+node	13249700225	https://www.spaziotrearredamenti.it
+node	13254777332	https://www.trattoriafoco.it
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
@@ -1462,6 +1466,7 @@ way	481659252	http://www.iluoghidelsilenzio.it/?p=209438
 way	482558129	http://web.tiscali.it/sanfrancescoinn/
 way	485496504	https://www.reartuassisi.com/
 way	485643495	http://www.iluoghidelsilenzio.it/castello-di-montelabate-o-castellaccio-ramazzano/
+way	485942889	https://hoteldellago.com/
 way	486438826	https://www.carrozzeriapiacenti.it/
 way	486438833	http://www.speranzaspoleto.it/azienda.html
 way	486442123	https://ilcerchio.net/casa-bianca/#edurap
@@ -1616,6 +1621,7 @@ way	631243760	https://www.iluoghidelsilenzio.it/chiesa-di-santo-stefano-picciche
 way	633088877	https://www.countryhousegiottoassisi.it/
 way	634771948	https://www.2circolospoleto.edu.it/jm4/
 way	634771963	https://www.spitelliagristore.it/
+way	637817703	https://www.iluoghidelsilenzio.it/chiesa-di-san-michele-arcangelo-fogliano/
 way	637963574	http://www.oasidialviano.org/
 way	639168094	http://www.caiterni.it/
 way	640266159	http://www.agriturismomarinella.it/
@@ -1656,6 +1662,7 @@ way	686632530	https://www.trattoriatipicaternanafriozzu.it/
 way	690024100	https://www.studiomoretticaselli.it/
 way	690770014	http://www.iluoghidelsilenzio.it/?p=77215
 way	691756388	https://www.camping-trasimeno.it/
+way	691759083	https://areacamperlairone.weebly.com/
 way	692372521	http://www.planetariodanti.pg.it/
 way	694203978	https://cesabeniculturali.it/
 way	695851663	http://www.poderebello.it
@@ -1878,6 +1885,10 @@ way	1422934770	https://www.campingmontidelsole.it/
 way	1427277414	https://www.musec-castelviscardo.it/
 way	1434439214	https://www.vacanzecolcuore.com/it/resort/trasimeno-glamping-resort
 way	1435963182	https://www.hotelfichetto.it/
+way	1443504385	luigitega.it
+way	1443513556	https://www.ilborgodelfattore.it/it/
+way	1443650736	https://campingorvieto.com/
+way	1443654796	https://www.formagginorcia.it/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1948091	https://chemindassise.org/
 relation	2048968	http://www.camminodiassisi.it
