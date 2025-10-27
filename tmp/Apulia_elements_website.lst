@@ -39,7 +39,6 @@ node	563766862	https://www.kinsushiterlizzi.it/
 node	567237137	https://www.grottapalazzese.it/
 node	591597582	http://www.ba.cnr.it/
 node	592016534	https://www.teatroverdi.eu/
-node	611584735	https://www.puntalunga.it/
 node	615632967	https://www.facebook.com/ibucanieri
 node	615632974	https://www.saint-patrick.it/
 node	620120661	https://www.anchecinema.com/
@@ -231,6 +230,7 @@ node	2312152745	http://www.pizzaricambi.com/
 node	2335104809	https://it.benetton.com/
 node	2343166407	https://www.instagram.com/ottica_rita/
 node	2350565095	http://www.mascheregrottagliesi.it
+node	2353348298	https://multiplexteatrofasano.it
 node	2377090420	viasparano149.com
 node	2390690661	https://bracerialatradizione.it/
 node	2393132340	https://www.quattromiglia.it/
@@ -644,10 +644,7 @@ node	4809770653	https://www.scalilla.it/
 node	4830442120	http://www.sanpancraziosalentino.gov.it/
 node	4836570478	https://www.teatrorfeo.it/
 node	4838580822	https://www.iltrabuccoristorante.it/
-node	4838842568	"http://Supermercato Despar Di Gennaro Serena & Figli
-0881 972037
-
- https://g.co/kgs/RDNxY6"
+node	4838842568	http://Supermercato Despar Di Gennaro Serena & Figli 0881 972037 https://g.co/kgs/RDNxY6
 node	4839207683	https://www.enotecadivinosalento.it/punti-vendita/maglie
 node	4841611706	https://www.pizzerialatorreantica.it/
 node	4841907562	http://www.gadisoft.com
@@ -2528,7 +2525,7 @@ node	12000906769	https://www.acquaesapone.it/
 node	12000909769	http://www.touristintercontinental.com/
 node	12000923931	https://www.primoicmonopoli.edu.it/
 node	12000946369	https://www.myviste.it/
-node	12001020916	http://www.agriturismoserine.it
+node	12001020916	https://agriturismoserine.it/
 node	12001629569	https://www.lorenzotreminuti.com/
 node	12001634270	http://www.musima.it/
 node	12002628469	https://www.menubrasserie.it/
@@ -3281,10 +3278,16 @@ node	13192519602	https://www.cmrpalmisano.com/
 node	13196378201	https://parkingzoe.it/
 node	13196560401	https://itsmobilita.it/
 node	13196575901	https://www.abc-englishschool.com/
-node	13198355772	www.amanibenessere.com
+node	13198355772	https://www.amanibenessere.com/
 node	13236946201	https://www.olimpiadicentrosportivo.it/servizio-camper/
 node	13241646001	http://www.lacasadelgelsobianco.it
 node	13243712001	http://quokkamonopoli.it
+node	13246302201	https://pneurama-di-gioia.firststop.it/
+node	13248174370	https://lemilianalavasecco.wixsite.com/profilo
+node	13250653224	https://itsmobilita.it/
+node	13250756613	https://www.joniandolphin.it/
+node	13251973602	https://speedqueeninvestor.com/our-laundry-stores/locations/italy/modugno/lavanderia-self-service-speed-queen/138412
+node	13259133866	https://www.cicciopanza.it
 way	26310002	https://www.campinguria.it/
 way	27336650	https://www.accessibilitacentristorici.it/ztl/puglia/manduria.html#Orario%20e%20giorni%20di%20funzionamento
 way	29362869	https://www.barimax.it/
@@ -3429,6 +3432,7 @@ way	271882738	https://masseriasurani.it/
 way	272916364	http://weareschool.fermiliceobrindisi.it
 way	275223075	www.trackzero.org
 way	275716874	http://www.bbbari.com
+way	276706365	https://www.piafondazionepanico.it/
 way	276706366	https://www.piafondazionepanico.it/hospice
 way	276953751	https://www.apuliascuola.edu.it/
 way	279543125	https://www.citymoda.it/
@@ -3547,7 +3551,7 @@ way	347252933	http://www.palazzocamarda.com/
 way	347654793	https://www.0831space.com/
 way	350801148	https://www.aerotre.it/
 way	351522166	https://www.8piuhotel.com/
-way	359220851	https://puntalunga.it
+way	359220851	https://www.puntalunga.it/
 way	359522711	http://www.santicuti.it
 way	359667890	https://www.spiaggiazzurra.com/
 way	359667897	https://www.acquaspeed.com/
@@ -3593,6 +3597,7 @@ way	382906479	https://www.bufolaria.it/
 way	382963048	http://www.tr-inox.it/
 way	382963238	https://www.ventosolare.it/
 way	382965583	http://www.contradamacchia.com
+way	383272111	https://www.isottafraschini.it/
 way	383705916	http://www.webdiocesi.chiesacattolica.it/webdiocesi2/taranto/index.html
 way	383706416	http://www.webdiocesi.chiesacattolica.it/webdiocesi2/taranto/index.html
 way	383707368	https://www.facebook.com/parrocchiasanfrancescodegeronimotaranto/
@@ -4410,7 +4415,7 @@ way	1223814198	https://www.pacinottitaranto.edu.it/
 way	1226460371	https://www.japigiaii-torreamare.edu.it/
 way	1227656766	https://www.foodbeveragesrl.it/
 way	1227659145	https://www.residencecostabianca.it/
-way	1228080367	https://www.suitebaia.it
+way	1228080367	https://www.suitebaia.it/
 way	1228419155	https://www.sanita.puglia.it/web/asl-brindisi/ospedali_det/-/journal_content/56/36031/presidio-di-brindisi-di-summa-perrino-
 way	1228626410	https://www.brezzadimareareacamper.it/
 way	1229032693	https://www.carrefoursuditalia.com/puntivendita/122
@@ -4656,10 +4661,23 @@ way	1436404079	www.felicita-monopoli.pl
 way	1441593947	https://www.hiltonsud.it/
 way	1441594934	https://www.affittodepositibari.it/
 way	1442836997	https://www.hotelmajesty.it/
+way	1443536532	https://www.sicospa.it/
+way	1443540228	https://services.brt.it/it/filiale/bari
+way	1444192962	https://www.mapei.com/
+way	1444223757	https://www.sirti.it/
+way	1444227329	https://www.zincometsrl.it/
+way	1444227330	https://liferelax.it/
+way	1444227332	https://www.circet.it/
+way	1444241797	https://www.unicospa.it/
+way	1444241799	https://www.cisternegrapar.com/
+way	1444241800	https://www.sol.it/
+way	1444241801	https://www.thermocold.it/
+way	1444672869	https://www.stamplast-web.com/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	2204417	https://www.fseonline.it/
 relation	2204418	https://www.fseonline.it/
+relation	2312960	https://museipuglia.cultura.gov.it/musei/castello-svevo-di-bari/
 relation	2341136	https://www.viefrancigene.org
 relation	2442342	https://www.ferrovieabbandonate.it/linea_dismessa.php?id=240 | http://www.lestradeferrate.it/mono2.htm
 relation	3178831	http://www.mulinodacqua.it
@@ -4704,6 +4722,7 @@ relation	6213076	https://www.bancaditalia.it/chi-siamo/organizzazione/filiali/ba
 relation	6217604	pololicealemonopli.edu.it
 relation	6223648	https://www.comune.putignano.ba.it/polizialocale
 relation	6225175	http://www.city-manager.info/-un-habitat-residenziale--a-terrazzo-.html
+relation	6234912	https://museipuglia.cultura.gov.it/musei/museo-archeologico-nazionale-e-castello-di-gioia-del-colle/
 relation	6251742	https://www.sanita.puglia.it/web/asl-brindisi/distretti-socio-sanitari_det/-/journal_content/56/36031/poliambulatorio-di-mesagne
 relation	6264779	https://www.primocomprensivofrancavilla.edu.it/
 relation	6264780	http://www.secondocomprensivofrancavillafontana.gov.it
@@ -4822,6 +4841,7 @@ relation	17008390	https://www.larottadeiduemari.it
 relation	17037198	https://masseriasantulasi.org
 relation	17046188	https://www.residencemoderno.com/
 relation	17349766	https://www.thenicolaushotel.com/
+relation	17448906	https://www.comune.taranto.it/it/vivere/parco-della-musica
 relation	17467312	https://www.uniba.it/
 relation	17469561	https://www.uniba.it/it/ricerca/dipartimenti/dipmedveterinaria
 relation	17497412	https://www.icmazzinimodugno.edu.it/
@@ -4939,7 +4959,7 @@ node	11076679870	https://www.cittadelsole.it/companies/view/alberobello
 node	11100118525	https://www.lecarasse.it/
 node	11108033584	https://www.dantedivinoconvivio.com/
 node	11114525868	http://www.casadeldisco.it/
-node	11176657016	https://www.crigrottaglie.it
+node	11176657016	https://www.crigrottaglie.it/
 node	11200928752	http://www.3cpowersrl.com
 node	11200942458	https://www.caseinvenditapeschici.it
 node	11244224102	https://www.volivorestaurant.it
@@ -5055,6 +5075,7 @@ way	1212951225	https://services.brt.it/it/filiale/lecce-sud
 way	1213658376	https://www.secolario.com
 way	1218435563	https://www.dolmensportresort.it/
 way	1300404664	https://www.masseriafulcignano.com/
+way	1306133239	https://www.umbramare.it/
 way	1306514335	https://sostacampersole.it/
 way	1327449260	https://www.lochaletgargano.com/area-camper/
 way	1327455277	https://www.agricampeggiomalapezza.it/
@@ -5067,6 +5088,9 @@ way	1383299251	https://www.masserialatofala.it/
 way	1388696376	https://www.liceociardopellegrinolecce.edu.it/
 way	1388696377	https://www.istitutoprestacolumella.edu.it/
 way	1388799770	https://www.divatende.com/
+way	1422511641	https://www.centrovacanzeoriente.it/
+way	1444203479	https://baialombardi.it/
+way	1444203480	https://spiaggialunga.it/camping-a-vieste/
 relation	3536823	http://www.comune.bari.it
 relation	4041429	https://www.conventosantuariopadrepio.it/
 relation	5724434	http://www.comune.taranto.it/
