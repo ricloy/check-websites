@@ -2869,7 +2869,7 @@ node	13162005196	http://www.comune.sanpietroaltanagro.sa.it
 node	13162281254	https://www.superotium.it/
 node	13165010917	https://www.centrodiradiologiacedir.com/
 node	13165028554	https://www.poliziamunicipale.it/comune/194/marcianise
-node	13165736601	http://www.gay-odin.it/
+node	13165736601	https://gay-odin.it/
 node	13166549584	https://www.iccamera.it/luogo/plesso-scuola-primaria-s-antonio/
 node	13173861767	https://cumeja.it/
 node	13173861768	https://www.mamamare.net/
@@ -2888,12 +2888,14 @@ node	13204264302	https://www.teatrodistinto.com/
 node	13204582659	https://www.facebook.com/pg/demetra.azienda.agricola
 node	13205528835	https://www.poste.it
 node	13207627666	https://noleggiala.it/contatti/
+node	13208241665	https://primorske.svet24.si/primorska/srednja-primorska/krasevec-miroslav-zvab-je-bil-vodja-vstaje-v-neap/
 node	13228002575	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
 node	13236153764	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
 node	13238603860	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
 node	13240488549	http://www.osolemiohotel.com/
 node	13240492542	http://www.oasiolimpiarelais.it/
 node	13243128185	beacons.page/jrmarecords
+node	13254539701	http://www.actionmoto.it
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
 way	24225619	https://reggiadicaserta.cultura.gov.it/
@@ -3921,6 +3923,7 @@ way	1065359612	https://www.comunevillamaina.it/
 way	1073077629	https://www.ilnocegalleriacommerciale.it/
 way	1074228862	"https://www.google.it/maps/place/Ristorante+Martone/@41.0584125,14.445503,17.75z/data=!3m1!5s0x133a524383d3af75:0x450af36cdcee1495!4m5!3m4!1s0x133a524172b00049:0x8d109748d32d36f3!8m2!3d41.0585691!4d14.4436506"
 way	1075274789	https://iccastelvolturno.edu.it/
+way	1076190161	https://www.comune.portici.na.it/c063059_s/zf/index.php/servizi-aggiuntivi/index/index/idtesto/171
 way	1079202767	http://www.villatrentova.it
 way	1079281030	https://santangelosportvillage.com
 way	1080590322	https://it-it.facebook.com/pages/Asd-Sporting-Dog-La-Reggia-San-Tammaro/762950217179964
@@ -4124,6 +4127,10 @@ way	1432710610	http://www.comune.tortorella.sa.it/
 way	1441661654	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/fontana-di-diana-e-atteone/
 way	1442035873	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/castelluccia/
 way	1442296188	https://electripglobal.com/it/punti-di-ricarica
+way	1444864265	www.bikesharingnapoli.it
+way	1444864267	www.bikesharingnapoli.it
+way	1444971861	www.bikesharingnapoli.it
+way	1444971862	www.bikesharingnapoli.it
 relation	12377	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/lago-tempio-diruto-e-casa-dei-cigni/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
@@ -4370,11 +4377,13 @@ relation	19556354	https://www.camminibizantini.com/
 relation	19556653	https://www.camminibizantini.com/
 relation	19556714	https://www.camminibizantini.com/
 relation	19629130	https://www.centrocommercialemedi.it
+relation	19742496	https://laviasilente.it/content/
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
 node	1692455244	http://www.hotelcavadellisola.it/
 node	1692455246	http://www.ristorantelacapanna.com/
+node	1762147302	https://www.casarufolo.com/
 node	1879132315	https://www.figaroburgerhouse.it/
 node	2229877668	https://www.royalpalm.it/
 node	3077486456	https://www.sorrisoresort.it/
@@ -4384,8 +4393,9 @@ node	3078242116	http://www.gabbianobeach.net/
 node	3078242117	https://www.hotelcitara.it/
 node	3078242118	http://www.hotelrivadelsoleischia.it/
 node	3079079309	http://www.casacigliano.it/
+node	4129755956	https://puntivendita.dodeca.it/it/italia/napoli/napoli-via-raffaele-morghen
 node	4309168118	http://www.szn.it/index.php/it/acquario/la-storia
-node	4309168119	http://www.szn.it/index.php/it/ricerca/infrastrutture-di-ricerca-per-le-risorse-biologiche-marine/unita-museo-archivio-biblioteca-mab/biblioteca
+node	4309168119	https://bibliotecaszn.it/
 node	4309168120	http://www.szn.it/index.php/it/ricerca/infrastrutture-di-ricerca-per-le-risorse-biologiche-marine/unita-museo-archivio-biblioteca-mab/
 node	4469650706	http://portadonicaravello.com/homeit.html
 node	4470213603	www.leopoldoricevimenti.it
@@ -4393,6 +4403,7 @@ node	5235202021	https://www.osteriadacarmela.it/
 node	5304701401	https://ostellobello.com/en/hostel/naples/
 node	5469967821	http://www.limoncellodinapoli.it/
 node	5851835229	https://salernobunker.facomgas.it/
+node	6562169185	https://www.lanificio25.it/
 node	6879579147	https://www.stellehotel.com/binario-calmo.asp
 node	6943713452	https://www.bbskyhouse.com/bevel
 node	6943713455	https://maschioangioinosuite-it.3dcartstores.com
@@ -4455,7 +4466,10 @@ node	13194260136	https://www.acasadiclara.it/
 node	13197324775	https://www.llabbasc.it
 node	13202158065	https://www.bionceli.com/
 node	13202824163	https://campania.coldiretti.it/calendari-mercati-napoli/
-way	79268408	http://www.szn.it
+node	13247958620	https://www.napolicentrobeb.it/it
+node	13247963087	https://www.formazionesrl.it
+node	13260035349	https://www.perdormire.com/negozi/napoli-vomero/
+way	79268408	https://szn.it/index.php/
 way	170920731	https://www.giardiniposeidonterme.com/
 way	174047981	http://www.cittadellascienza.it/
 way	188278613	https://retemuseale.provincia.benevento.it/complesso-monumentale-di-santilario
@@ -4512,3 +4526,4 @@ relation	17760420	https://appenninobiketour.com/percorso/
 relation	17782266	https://appenninobiketour.com/percorso/
 relation	17784877	https://appenninobiketour.com/percorso/
 relation	17785838	https://appenninobiketour.com/percorso/
+relation	19742496	https://laviasilente.it/content/
