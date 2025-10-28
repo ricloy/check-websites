@@ -1670,6 +1670,7 @@ node	7200540866	https://www.hotelcorso.it
 node	7201275546	https://www.edendalassio.it/it/hotel-eden-alassio/mavit-bistrot-alassio
 node	7201346445	https://www.alaxihotels.it/it/strutture/edda-apartments
 node	7203016268	http://www.bagnivelazzurra.it
+node	7206253187	https://shitcoins.club/localizzazione-atm/atm-bitcoin-genova-via-giovanni-tommaso-invrea
 node	7206890628	https://www.bagnispinnakerimperia.com/
 node	7207039701	https://www.bagnibastione.it/
 node	7207039717	https://www.bagnipino.it
@@ -2377,8 +2378,6 @@ node	11521709191	https://caricasa.it
 node	11521709193	https://www.sibillaviaxx.com
 node	11528593141	https://www.manpower.it
 node	11531678796	https://www.unoenergy.it
-node	11531678800	https://bottegaisnardi.it
-node	11531678801	https://imperia.ubiklibri.it
 node	11531678802	https://www.threemonkeys3m.com
 node	11534737171	http://www.spaziovuoto.com/
 node	11534894649	https://www.lukhairsalon.it
@@ -2500,7 +2499,6 @@ node	11881272247	https://www.museopassatempo.it/
 node	11881544068	https://www.ristoranteagrillo.it
 node	11887385895	https://imperia.cucinelube.it/
 node	11887385900	https://www.calviauto.it
-node	11925827361	https://shitcoins.club/localizzazione-atm/atm-bitcoin-genova-via-giovanni-tommaso-invrea
 node	11928819612	https://www.museidigenova.it/it/muce-museo-certosa-di-genova
 node	11930128486	https://airbnb.com/h/a-un-passo-dal-mare
 node	11952285695	https://hotelbristollaigueglia.com
@@ -2790,7 +2788,12 @@ node	13203849523	https://www.icloano-boissano.it/luogo/scuola-dellinfanzia-e-scu
 node	13207363974	https://dergi-pizzeria-paninoteca.it/
 node	13208349151	https://bricoio.it
 node	13227791616	https://ostaiadistorti.it/
+node	13234199723	https://www.pitagoraspa.it/dove-siamo/filiale-di-la-spezia/
 node	13234410264	https://www.atcesercizio.it/
+node	13252270716	www.cambielli.it
+node	13252966189	www.itfspa.it
+node	13261190431	https://www.franchinfissi.it
+node	13261224520	www.mobpark.it
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3120,6 +3123,7 @@ way	204702009	https://www.villabalin.it/
 way	204739468	https://www.altaviadeimontiliguri.it/portale/it/ospview.wp?contentId=OSP2203
 way	204741616	http://www.agriturismoilsogno.it
 way	204742078	https://www.comune.rapallo.ge.it/pagina600_la-funivia-rapallo-montallegro.html
+way	204744068	https://clubschermarapallo.it
 way	204749728	https://www.comune.cicagna.ge.it/
 way	204991393	http://www.ostellocorniglia.com/index2.html
 way	204991395	https://www.diocesilaspezia.it/directory/listing/riomaggiore-s-giovanni-battista
@@ -4202,6 +4206,7 @@ relation	18442400	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/il-cimit
 relation	18442403	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/parsifal/
 relation	18442404	http://www.outdoorfinaleligure.com/caprazoppa-e-orera/lorizzone/
 relation	18447694	https://www.finaleoutdoor.com/
+relation	18490485	https://openclimbing.org/relation/18490485
 relation	18827498	https://lamialiguria.it/2023/03/ciclovia-ardesia/
 relation	19141661	https://ropewiki.com/Prialunga
 relation	19141662	https://ropewiki.com/Lerca
@@ -4225,7 +4230,6 @@ relation	19717758	https://viadellacosta.it/
 relation	19717765	https://viadellacosta.it/
 relation	19717776	https://viadellacosta.it/
 relation	19717792	https://viadellacosta.it/
-relation	19718211	https://viadellacosta.it/
 relation	19726331	https://viadellacosta.it/
 relation	19726792	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria#ipd=62677428
 relation	19726972	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria#ipd=62677428
@@ -4255,6 +4259,8 @@ relation	19735249	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-lig
 relation	19735447	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#dm=1&ipd=62676738
 relation	19735739	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria
 relation	19736747	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#dm=1&ipd=62676738
+relation	19737831	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria
+relation	19738818	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria#ipd=62677428
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1360305797	http://www.autogrill.it/portal/public/default
@@ -4558,7 +4564,6 @@ node	321951758	http://www.atp-spa.it/cartina.php
 node	321951760	http://www.atp-spa.it/cartina.php
 node	321951762	http://www.atp-spa.it/cartina.php
 node	321951763	http://www.atp-spa.it/cartina.php
-node	321951765	http://www.atp-spa.it/cartina.php
 node	321951767	http://www.atp-spa.it/cartina.php
 node	321963880	http://www.atp-spa.it
 node	321964706	http://www.atp-spa.it/cartina.php
@@ -4571,11 +4576,7 @@ node	321964718	http://www.atp-spa.it/cartina.php
 node	321964720	http://www.atp-spa.it/cartina.php
 node	321965347	http://www.atp-spa.it/cartina.php
 node	321965349	http://www.atp-spa.it/cartina.php
-node	321965351	http://www.atp-spa.it/cartina.php
 node	321965352	http://www.atp-spa.it/cartina.php
-node	321965354	http://www.atp-spa.it/cartina.php
-node	321965357	http://www.atp-spa.it/cartina.php
-node	321965358	http://www.atp-spa.it/cartina.php
 node	322528935	http://www.amt.genova.it/orari/orari_urbana.asp
 node	322528937	http://www.amt.genova.it/orari/orari_urbana.asp
 node	322528939	http://www.amt.genova.it/orari/orari_urbana.asp
@@ -4625,15 +4626,11 @@ node	374284742	http://www.amt.genova.it/orari/orari_urbana.asp
 node	374284774	http://www.amt.genova.it/orari/orari_urbana.asp
 node	374323392	http://www.atp-spa.it/cartina.php
 node	374323445	http://www.atp-spa.it/cartina.php
-node	374323458	http://www.atp-spa.it/cartina.php
 node	374323479	http://www.atp-spa.it/cartina.php
 node	374323503	http://www.atp-spa.it/cartina.php
 node	374323517	http://www.atp-spa.it/cartina.php
-node	374323532	http://www.atp-spa.it/cartina.php
 node	374323554	http://www.atp-spa.it/cartina.php
-node	374323565	http://www.atp-spa.it/cartina.php
 node	374323589	http://www.atp-spa.it/cartina.php
-node	374323610	http://www.atp-spa.it/cartina.php
 node	374323646	http://www.atp-spa.it/cartina.php
 node	374323659	http://www.atp-spa.it/cartina.php
 node	374323813	http://www.atp-spa.it/cartina.php
@@ -4710,8 +4707,6 @@ node	413173179	http://www.amt.genova.it/orari/orari_urbana.asp
 node	413173180	http://www.amt.genova.it/orari/orari_urbana.asp
 node	413173181	http://www.amt.genova.it/orari/orari_urbana.asp
 node	413173182	http://www.amt.genova.it/orari/orari_urbana.asp
-node	413203856	http://www.atp-spa.it/cartina.php
-node	413203857	http://www.atp-spa.it/cartina.php
 node	413230582	http://www.atp-spa.it/cartina.php
 node	413230629	http://www.atp-spa.it/cartina.php
 node	413230671	http://www.atp-spa.it/cartina.php
@@ -4754,10 +4749,8 @@ node	429219754	http://www.atp-spa.it/cartina.php
 node	429219756	http://www.atp-spa.it/cartina.php
 node	429219758	http://www.atp-spa.it/cartina.php
 node	429219759	http://www.atp-spa.it/cartina.php
-node	429302364	http://www.atp-spa.it/cartina.php
 node	429302365	http://www.atp-spa.it/cartina.php
 node	429302366	http://www.atp-spa.it/cartina.php
-node	429302367	http://www.atp-spa.it/cartina.php
 node	429302379	http://www.atp-spa.it/cartina.php
 node	429302380	http://www.atp-spa.it/cartina.php
 node	429302381	http://www.atp-spa.it/cartina.php
@@ -5084,23 +5077,17 @@ node	577958620	http://www.amt.genova.it/orari/orari_urbana.asp
 node	577958649	http://www.amt.genova.it/orari/orari_urbana.asp
 node	577958660	http://www.amt.genova.it/orari/orari_urbana.asp
 node	592514368	http://www.amt.genova.it/orari/orari_urbana.asp
-node	592514396	http://www.atp-spa.it/cartina.php
 node	592514398	http://www.atp-spa.it/cartina.php
 node	592514403	http://www.atp-spa.it/cartina.php
-node	592514406	http://www.atp-spa.it/cartina.php
 node	592514408	http://www.atp-spa.it/cartina.php
 node	592514414	http://www.atp-spa.it/cartina.php
-node	592514418	http://www.atp-spa.it/cartina.php
 node	592514449	http://www.atp-spa.it/cartina.php
 node	592514456	http://www.atp-spa.it/cartina.php
 node	592514461	http://www.atp-spa.it/cartina.php
-node	592514464	http://www.atp-spa.it/cartina.php
 node	592514466	http://www.atp-spa.it/cartina.php
 node	592514469	http://www.atp-spa.it/cartina.php
 node	592514485	http://www.atp-spa.it/cartina.php
-node	592514487	http://www.atp-spa.it/cartina.php
 node	592514492	http://www.atp-spa.it/cartina.php
-node	592514494	http://www.atp-spa.it/cartina.php
 node	599738989	http://www.amt.genova.it/orari/orari_urbana.asp
 node	599738991	http://www.amt.genova.it/orari/orari_urbana.asp
 node	599738992	http://www.amt.genova.it/orari/orari_urbana.asp
@@ -5157,7 +5144,6 @@ node	659798852	http://www.ristorantedalmoro.com
 node	659798955	http://www.amt.genova.it/orari/orari.asp
 node	659798957	http://www.amt.genova.it/orari/orari.asp
 node	660797676	http://www.amt.genova.it/orari/orari_urbana.asp
-node	660797677	http://www.atp-spa.it/cartina.php
 node	660797695	http://www.amt.genova.it/orari/orari.asp
 node	660797697	http://www.amt.genova.it/orari/orari.asp
 node	660797698	http://www.amt.genova.it/orari/orari.asp
@@ -5390,8 +5376,6 @@ node	676346988	http://www.atp-spa.it/cartina.php
 node	676346993	http://www.atp-spa.it/cartina.php
 node	676346996	http://www.atp-spa.it/cartina.php
 node	676346998	http://www.atp-spa.it/cartina.php
-node	677416365	http://www.atp-spa.it/cartina.php
-node	677416386	http://www.atp-spa.it/cartina.php
 node	679122729	http://www.amt.genova.it/orari/orari.asp
 node	679122752	http://www.amt.genova.it/orari/orari.asp
 node	679122801	http://www.amt.genova.it/orari/orari.asp
@@ -5623,7 +5607,6 @@ node	768223808	http://www.hoteleuropa-rapallo.com/it/
 node	768223853	http://www.hotelfernanda.com/
 node	768906978	http://www.amt.genova.it/orari/orari_urbana.asp
 node	772631178	http://www.rifugiomonteaiona.it/
-node	772848306	http://www.atp-spa.it/cartina.php
 node	772927219	http://www.atp-spa.it/cartina.php
 node	776341308	http://www.atp-spa.it/cartina.php
 node	776341317	http://www.amt.genova.it/orari/orari_urbana.asp
@@ -5939,7 +5922,6 @@ node	1163289678	http://www.atp-spa.it/cartina.php
 node	1165069618	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1165069621	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1165069625	http://www.amt.genova.it/orari/orari_urbana.asp
-node	1185803497	http://www.atp-spa.it/cartina.php
 node	1213212794	http://www.atp-spa.it/cartina.php
 node	1213212798	http://www.atp-spa.it/cartina.php
 node	1213212800	http://www.atp-spa.it/cartina.php
@@ -6077,7 +6059,6 @@ node	1248112607	http://www.atp-spa.it
 node	1248112619	http://www.atp-spa.it
 node	1248112620	http://www.atp-spa.it
 node	1248112622	http://www.atp-spa.it
-node	1248112631	http://www.atp-spa.it
 node	1248112634	http://www.atp-spa.it
 node	1248112636	http://www.atp-spa.it
 node	1248112647	http://www.atp-spa.it
@@ -6088,7 +6069,6 @@ node	1248112662	http://www.atp-spa.it
 node	1248112665	http://www.atp-spa.it
 node	1248112672	http://www.atp-spa.it
 node	1248112675	http://www.atp-spa.it
-node	1248112696	http://www.atp-spa.it
 node	1248112699	http://www.atp-spa.it
 node	1248112707	http://www.atp-spa.it
 node	1248112713	http://www.atp-spa.it
@@ -6100,7 +6080,6 @@ node	1249021492	http://www.atp-spa.it
 node	1249021498	http://www.atp-spa.it
 node	1249021517	http://www.atp-spa.it
 node	1249021520	http://www.atp-spa.it
-node	1249021534	http://www.atp-spa.it
 node	1249021539	http://www.atp-spa.it
 node	1249021544	http://www.atp-spa.it
 node	1249021558	http://www.atp-spa.it
@@ -6166,7 +6145,6 @@ node	1250307960	http://www.atp-spa.it
 node	1250307967	http://www.atp-spa.it
 node	1250307973	http://www.atp-spa.it
 node	1250307974	http://www.atp-spa.it
-node	1250307985	http://www.atp-spa.it
 node	1252824391	http://www.amt.genova.it/orari/orari.asp
 node	1252824412	http://www.amt.genova.it/orari/orari.asp
 node	1256562431	http://www.atp-spa.it/
@@ -6495,7 +6473,6 @@ node	1532970388	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1532970396	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1532970403	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1534061705	http://www.amt.genova.it/orari/orari_urbana.asp
-node	1534061711	http://www.atp-spa.it/cartina.php
 node	1534326969	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1534327097	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1534327115	http://www.atp-spa.it/cartina.php
@@ -6614,7 +6591,6 @@ node	1950707695	http://www.genovacarsharing.it/
 node	1950707699	http://www.genovacarsharing.it/
 node	1974009732	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1974009749	http://www.amt.genova.it/orari/orari_urbana.asp
-node	1991406976	http://www.atp-spa.it/cartina.php
 node	2006399073	http://www.amt.genova.it/orari/orari.asp
 node	2092325954	http://www.amt.genova.it/orari/orari.asp
 node	2175260283	http://www.amt.genova.it/orari/orari.asp
@@ -6637,7 +6613,6 @@ node	2284579747	http://www.amt.genova.it/orari/orari.asp
 node	2284579752	http://www.amt.genova.it/orari/orari.asp
 node	2287094616	http://www.amt.genova.it/orari/orari_urbana.asp
 node	2287094630	http://www.amt.genova.it/orari/orari_urbana.asp
-node	2287094631	http://www.amt.genova.it/orari/orari_urbana.asp
 node	2289394086	http://www.amt.genova.it/orari/orari.asp
 node	2289394087	http://www.amt.genova.it/orari/orari.asp
 node	2289394090	http://www.amt.genova.it/orari/orari.asp
@@ -6729,7 +6704,6 @@ node	2839648498	http://www.catastogrotte.net/liguria/en/caves/view/207/
 node	2839648500	http://www.catastogrotte.net/liguria/en/caves/view/481/
 node	2984116371	https://youtu.be/XF0vgMXskpY?t=55
 node	3012311245	https://www.infoboulder.com/
-node	3123754528	http://www.atp-spa.it/cartina.php
 node	3123754544	http://www.atp-spa.it/cartina.php
 node	3123754561	http://www.atp-spa.it/cartina.php
 node	3123754574	http://www.atp-spa.it/cartina.php
@@ -7041,6 +7015,7 @@ node	5696687496	http://www.atp-spa.it/cartina.php
 node	5731267107	http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=175
 node	5928916678	http://www.catastogrotte.net/liguria/en/caves/view/2129/
 node	6007214804	http://www.bicincitta.com/
+node	7206253187	https://coinatmradar.com/bitcoin_atm/11675/bitcoin-atm-shitcoins-club-genova-shitcoinsclub/
 node	7207039700	https://youtu.be/brY7dwJeeks
 node	7308420649	https://genova.repubblica.it/cronaca/2020/03/18/news/al_castello_d_albertis_ritorna_a_posto_il_mondo-251619155/
 node	7752731386	https://sketchfab.com/models/8e4014d52e70464ab7fd7cf6c632551f/embed?autospin=0.2&autostart=1
@@ -7059,8 +7034,6 @@ node	13147777225	http://www.amt.genova.it/orari/orari_urbana.asp
 node	13147777226	http://www.amt.genova.it/orari/orari_urbana.asp
 node	13147777227	http://www.amt.genova.it/orari/orari_urbana.asp
 node	13192388165	https://www.atpesercizio.it/orarigooglemaps.php?clat=44.332790&clng=9.345516
-node	13192388167	https://www.atpesercizio.it/orarigooglemaps.php?clat=44.332836&clng=9.345599
-node	13192388168	http://www.atp-spa.it/cartina.php
 node	13195674386	https://www.amt.genova.it/amt/trasporto-multimodale/linee-bus-provinciali/
 node	13195674387	https://www.amt.genova.it/amt/trasporto-multimodale/linee-bus-provinciali/
 node	13195674388	https://www.amt.genova.it/amt/trasporto-multimodale/linee-bus-provinciali/
@@ -7112,6 +7085,17 @@ node	13233449093	http://www.atp-spa.it/cartina.php
 node	13233584130	http://www.atp-spa.it/cartina.php
 node	13233584131	http://www.atp-spa.it/cartina.php
 node	13235229304	http://www.atp-spa.it/cartina.php
+node	13248176763	http://www.atp-spa.it
+node	13248176764	http://www.atp-spa.it
+node	13248176765	http://www.atp-spa.it
+node	13248176766	http://www.atp-spa.it
+node	13248176767	http://www.atp-spa.it
+node	13248176768	http://www.atp-spa.it
+node	13248176769	http://www.atp-spa.it/cartina.php
+node	13248176770	http://www.atp-spa.it/cartina.php
+node	13248176771	http://www.atp-spa.it/cartina.php
+node	13248176772	http://www.atp-spa.it/cartina.php
+node	13248312588	http://www.amt.genova.it/orari/orari_urbana.asp
 way	22969165	https://youtu.be/tGcvX5q98Wg
 way	24056654	http://www.firpo-buonarroti.it/
 way	27040005	http://www.piccolacittaimmacolata.it/
