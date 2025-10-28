@@ -45,6 +45,7 @@ node	287355831	https://www.sandheim.it/
 node	288469484	https://www.kirchenwirt.it/
 node	288469485	https://www.baerenhotel.com
 node	288471882	https://www.pragserhof.com/
+node	288911508	https://famigliacooperativapovo.it/
 node	288938675	https://orostube.it/
 node	289741264	http://www.garnisonnegg.it
 node	289741265	https://www.hotel-peter.it/
@@ -380,7 +381,9 @@ node	728707913	http://derby.bz.it/
 node	730647029	http://www.schenna-bike.com/index.php
 node	730699488	https://www.sennereialgund.it/
 node	731942548	https://meinbeck.com
+node	734869675	https://www.repower.com/it/dina/
 node	734923916	https://www.repower.com/dina/
+node	734951204	https://www.repower.com/it/dina/
 node	736861020	http://www.waalrast.com
 node	736899603	https://www.schlosstirol.it/
 node	736899610	https://www.gufyland.com/
@@ -3681,6 +3684,7 @@ node	4931049621	https://www.eggerhoefe.it/it/prodotti-del-maso/
 node	4936567173	https://www.provincia.tn.it/bikesharing
 node	4939850862	https://www.masomichael.it/
 node	4941869751	https://www.puntoverdexausa.it/
+node	4945240223	https://gemischtwaren-kaufmann.it
 node	4946575228	http://www.wieserhof.net
 node	4958710982	https://www.mirabel.it/
 node	4960356098	http://daoneboulder.blogspot.it/p/blog-page_26.html
@@ -6513,8 +6517,8 @@ node	13163233435	https://www.comune.ala.tn.it/Amministrazione/Uffici/Sportello-p
 node	13165944067	https://www.telfer.it/
 node	13165944068	www.coscor.it
 node	13168106593	https://www.tesla.com/de_ch/findus?bounds=45.7342634423896%2C10.948462603273347%2C45.72781539426747%2C10.930438158693269&location=32213
-node	13174169301	http://falkensteiner.com
-node	13175454133	www.audika.it
+node	13174169301	https://www.falkensteiner.com/
+node	13175454133	https://www.audika.it/
 node	13178967046	https://www.pergola-experience.it/de/locations/haus-engadein
 node	13178976104	https://www.trento7.it
 node	13178980449	https://www.mk-oberinn.org
@@ -6562,6 +6566,9 @@ node	13245296021	https://www.ethicalsoftware.eu/
 node	13246356994	https://pasticcerialucian.it/
 node	13246390079	https://www.scaletauto.com/
 node	13246424829	http://www.inufficio.tn.it/
+node	13252182668	https://www.comunitadellegiudicarie.it/Tematiche/Servizi-sociali/I-Servizi/Tipo-di-servizio/Presso-strutture/Centro-di-aggregazione-giovanile-Spazio-giovani
+node	13255732294	https://www.musikhausbozen.it/
+node	13260582952	https://www.gioielleriavalenti.it/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -6879,6 +6886,7 @@ way	59716772	https://www.eggbauer.it/
 way	60100905	https://englovacanze.com/de/home-deu/
 way	60133024	https://www.maximodecenter.it/de/eppan
 way	60133950	https://www.orchideariva.it/
+way	60145453	https://malgheaperte.it/en/malghe/malga-nudole/
 way	60206227	https://www.coopaltogarda.it/coop-riva-del-garda-piazzale-mimosa/
 way	60231095	https://www.casari.net/
 way	60231910	http://www.albergoalmaso.it/
@@ -8810,6 +8818,7 @@ way	234955783	https://www.gruenerbaum.it/
 way	234960950	https://www.gruenerbaum.it
 way	234964556	https://www.funggashof.it/
 way	234969059	https://www.campingdolomiti.com/
+way	234969060	https://www.campingdolomiti.com/en/camper-parking-area-dimaro/
 way	234969765	https://www.tyrol.it/
 way	234969777	https://www.prokulus.it/
 way	234974598	http://www.hofschank-wald.com/
@@ -9476,6 +9485,7 @@ way	366012870	https://www.camperstoptorbole.com/
 way	366094266	https://www.hotelsayonara.tn.it/
 way	366189321	http://www.campingeuropatorbole.it
 way	366561435	https://www.funivie.org/cantieri/thumbnails.php?album=364
+way	366921017	https://www.haidenhof.it/
 way	367059404	https://www.inderst.it/
 way	367755856	https://www.geier.it/
 way	368282820	https://www.caicanzo.it/bivacco.php
@@ -9562,7 +9572,6 @@ way	403589926	https://www.garni-wiesenhof.com/
 way	404737767	https://www.infopineta.it/
 way	404774375	https://www.kinderdorf.it/
 way	405013157	https://www.maestridiscifolgaria.it/
-way	406615400	https://www.gasthofstern.com/
 way	407734098	https://www.icvalrendena.edu.it
 way	407734099	https://www.icvalrendena.edu.it
 way	408350396	https://www.wfokafka.it/
@@ -10108,6 +10117,7 @@ way	1047221814	https://www.prags.bz/en
 way	1047221815	https://www.prags.bz/en
 way	1051032420	https://www.nardellimarmi.it/
 way	1051863175	https://www.nauders.com/de/aktiv-erleben/sommer-aktiv-erleben/bike-rad/endurobike/bunker-trail_td-11728
+way	1054640195	https://www.trento.info/dettaglio-servizio/-/c/n/area-camper-di-garniga-terme_b400ed41-1127-5bae-9da3-c3ce096c948a
 way	1054831232	https://www.nauders.com/de/aktiv-erleben/sommer-aktiv-erleben/bike-rad/endurobike/bunker-trail_td-11728
 way	1056912138	https://www.nauders.com/de/aktiv-erleben/sommer-aktiv-erleben/bike-rad/endurobike/etsch-trail_td-11729
 way	1063499264	https://www.campinglemarocche.com/
@@ -10195,7 +10205,8 @@ way	1171091460	https://www.paintballtrento.it/
 way	1172405215	https://www.ilarici.it/
 way	1174402326	https://www.lagoraiberry.it/
 way	1178148831	https://www.am-hang.com
-way	1182195394	www.agriturismoilgioco.it
+way	1181829270	https://baitabordala.com/la-baita/vacanze-in-camper/
+way	1182195394	https://www.agriturismoilgioco.it/
 way	1182875929	www.ff-zenoberg.it
 way	1185307752	https://www.valgardena.it/en/news-val-gardena/detail/new-via-ferrata-furcela-de-saslonch/
 way	1186016110	https://www.waldorf-meran.it
@@ -10329,6 +10340,8 @@ way	1442578107	https://www.ristorantegarnierta.it/
 way	1442599590	https://www.visitvalsugana.it/it/dormire-mangiare/aree-sosta-camper/area-sosta-camper-pergine-valsugana_17330_idar/
 way	1442617921	https://www.visitvalsugana.it/it/dormire-mangiare/aree-sosta-camper/area-sosta-camper-la-vecchia-fattoria_16545_idar/
 way	1442720646	https://www.visittrentino.info/it/guida/area-camper-tognola_md_84749338
+way	1443697411	http://www.camperstopnals.it/
+way	1443931785	https://www.camperstopebnbnavis.com/it/area-camper
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -11575,7 +11588,6 @@ relation	9620354	https://www.dolomitinordicski.com
 relation	9620377	https://www.dolomitinordicski.com
 relation	9620999	https://www.dolomitinordicski.com
 relation	9621013	https://www.dolomitinordicski.com
-relation	9624081	https://www.muenchen-venezia.info/
 relation	9631373	https://www.trentinotrasporti.it/pdforari/extraurbani/linee/OrariDiDirettrice-E24I-214INA.PDF
 relation	9681044	https://www.caitregnago.it/
 relation	9735793	https://www.schweizmobil.ch/mountainbikeland/etappe443.2
@@ -12371,7 +12383,7 @@ node	279714557	https://www.raiffeisen.it/de/niederdorf.html
 node	282776887	http://www.agriturismo-leita.it/
 node	288471881	https://www.trenker.it/
 node	288910331	https://www.bancapts.it
-node	288917447	http://www.farcomtrento.it/
+node	288917447	https://www.farcomtrento.com/farmacie/farmacia-povo/
 node	289246661	http://www.st-barbara.it/
 node	292015813	https://www.bancapts.it
 node	292018684	http://www.poste.it/
