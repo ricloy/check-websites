@@ -288,7 +288,6 @@ node	1872537272	https://www.conad.it/ricerca-negozi/negozio.009954.html
 node	1875607893	https://www.comune.pesaro.pu.it/cultura/biblioteche/biblioteche-di-quartiere/biblioteca-louis-braille/
 node	1875634048	https://ristorante-giapponese-hachiko.eatbu.com/
 node	1884913016	http://www.villagruccione.it/
-node	1907529744	https://www.corrierenews.it/cronaca/sabato-1-giugno-si-inaugura-a-porto-sant-elpidio-una-rotonda-dedicata-a-bepi-moro
 node	1944932058	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/18486/Chiesa+di+San+Giovanni+Battista
 node	1947715291	https://www.libreriadelmonte.it/
 node	1962525554	http://www.dalmarchigiano.it
@@ -477,6 +476,7 @@ node	3172070400	http://www.ilpanediunavolta.com/home.html
 node	3178673626	http://www.ristorantelabalestra.it/
 node	3184991356	https://www.pinetahotel.com/
 node	3186852565	https://www.crai-supermercati.it/punto-vendita/5189-crai-extra-montecassiano/
+node	3197254803	https://www.tipografiacingolani.it
 node	3242292772	https://www.chignoni.it/
 node	3243143183	https://www.bluaziende.com/azienda/marche/pu/mondolfo/garden_service/
 node	3258671587	http://www.belvedereap.it
@@ -806,6 +806,7 @@ node	5598676139	https://www.hotelbianchi.it/
 node	5600657222	https://www.gabbiano-senigallia.com/
 node	5631186365	https://gepfood.com/it/content/14-store
 node	5638207819	https://www.renatoshoes.it/
+node	5638240421	https://www.modaiole.it
 node	5639514406	https://www.victoriaconcept.it/
 node	5642018893	https://angolodimario.it/
 node	5661616522	https://littlefreelibrary.org/
@@ -1666,7 +1667,6 @@ node	11952541293	https://www.agriturismoanticomuro.it/
 node	11953874725	https://www.leggimenu.it/menu/75sk7fao75q1
 node	11962273977	https://eagles.aero/
 node	11964590568	http://mare-vento.blogspot.com/
-node	11965433118	https://www.modaiole.it
 node	11975336450	https://www.vittoriaprofumi.com/
 node	11980292628	https://www.gruppopieralisi.it/manutenzione-auto-officine-ocra
 node	11980292629	https://www.gruppopieralisi.it/
@@ -2168,6 +2168,7 @@ node	13131123904	https://www.pievedelcolle.com/
 node	13133973326	https://cuoreadriatico.it/
 node	13139832460	https://www.erbamicasenigallia.it/
 node	13139986948	www.lecastellane.it
+node	13149213432	https://www.isaporideimonti.com/
 node	13155321494	www.aemmestudiodanza.com
 node	13164894547	https://vignadellacava.com/
 node	13167161103	https://www.gruppovege.it/it/punti-vendita/punto-vendita-di-via-dei-fiori-fantastici-44
@@ -2186,6 +2187,13 @@ node	13181375772	https://www.amap.marche.it/progetti/olivicoltura/pubblicazioni/
 node	13233198915	https://www.ilcasaledellevolpi.it/
 node	13233526940	https://www.comune.serradeconti.an.it/amministrazione/enti_e_fondazioni/ente_17.html
 node	13233526941	https://www.astancona.marche.it
+node	13261268768	http://www.golfclubilauri.com
+node	13261811918	https://molinoagostini.it/
+node	13261811930	https://www.difioreforni.com/
+node	13261812031	https://www.collelago.it/
+node	13261812169	https://www.bio-blu.it/
+node	13264894279	https://callisia.health
+node	13269291401	http://lofttamanti.it
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2900,7 +2908,7 @@ way	1306313432	https://www.areaperladelladriatico.it/
 way	1306318477	https://www.paradisocamping.it/
 way	1306320752	https://centrovacanzemirage.it/
 way	1310997502	https://www.blubebos.it/
-way	1311778271	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100239819-bene-individuo
+way	1311778271	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100239820-bene-individuo
 way	1311778272	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100239818-bene-individuo
 way	1311778273	https://www.villadevecchis.com/
 way	1311778276	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100223148-bene-individuo
@@ -2935,12 +2943,10 @@ way	1330475644	https://www.sassoferratoturismo.it/stagione-di-prosa/
 way	1332746399	https://crisassoferrato.it/
 way	1333185200	https://www.elmocamp.it/
 way	1334215513	https://maps.app.goo.gl/aCKQhF1yCXHmtwY26
-way	1337110216	https://www.bio-blu.it/
 way	1337111307	https://www.biomalavoltamassignano.it/dove-siamo/
-way	1337151037	https://www.collelago.it/
-way	1337151038	https://molinoagostini.it/
 way	1337151039	https://www.cactusmeraviglietina.it/
 way	1337158887	https://www.villaamaranto.it/ristorante/
+way	1337164395	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100239819-bene-individuo
 way	1338128131	https://fioriafermo.it/contatti
 way	1340110277	https://www.iluoghidelsilenzio.it/torre-matteucci-fermo/
 way	1342092434	https://www.villamonterosso.it/
@@ -2976,7 +2982,6 @@ way	1386561507	https://www.officinabistrot.it/
 way	1387135121	https://www.colverde.it/camping/
 way	1387950357	https://www.anastasiapiccolamaesta.com
 way	1388266037	https://www.casalfarano.it/
-way	1388266040	https://www.difioreforni.com/
 way	1388813958	https://villalapassione.it
 way	1388876860	https://www.colleindaco.it
 way	1393266841	https://ilcolledelsolematelica.it/index.html
@@ -2991,13 +2996,15 @@ way	1433621023	https://www.lapastadicamerino.it/
 way	1433734866	https://www.iisgalileijesi.it/
 way	1436892205	https://www.campingregina.it/
 way	1444291975	https://anffascivitanova.it/
+way	1446754871	https://comprensivobetti.edu.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1512917	https://www.iismerlonimiliani.it/
 relation	1652522	https://www.riservasentina.it/
 relation	1749100	https://musei.beniculturali.it/musei?mid=4093&nome=anfiteatro-romano-di-ancona
 relation	2126671	https://www.mirahotels.com/it/nuovonaturalvillage
-relation	2749753	https://rinaldini.edu.it/
+relation	2749753	https://www.liceoartisticomannucci.edu.it/
+relation	2749754	https://www.rinaldini.edu.it/
 relation	3164710	https://www.gransassolagapark.it/
 relation	3415695	http://www.parcodelconero.com
 relation	4053386	https://www.civicatolentino.it/servizi-asp-civica-tolentino/servizi-residenziali-asp-tolentino-macerata.html
@@ -3091,6 +3098,7 @@ relation	17357079	https://www.grandeanellodeiborghiascolani.it
 relation	17357155	https://www.grandeanellodeiborghiascolani.it
 relation	17371893	https://www.caiascoli.it
 relation	17386687	https://www.caiascoli.it
+relation	17611621	https://erdis.it/luoghi/3170438/studentato-montagnano
 relation	17685720	https://www.castellopallotta.com/
 relation	17958110	https://www.casadelsolepineta.it/
 relation	18027235	https://www.borgoparvo.com/
@@ -3478,4 +3486,4 @@ way	620626312	https://www.jadrolinija.hr/en/fleet-ship/marko-polo
 way	1109212826	https://www.mondavioturismo.it/area-camper-mondavio/
 way	1246109205	https://www.ansa.it/marche/notizie/2025/07/16/ponte-ciclopedonale-sul-tronto-lavori-entro-primavera-2026_2a6bddde-5b7e-4f34-83ae-5c758f2178fd.html
 way	1307473250	https://www.campingvalentinasostacamper.it/areasosta.html
-way	1311778271	https://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/28/
+way	1337164395	https://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/28/
