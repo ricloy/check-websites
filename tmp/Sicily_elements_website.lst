@@ -211,6 +211,7 @@ node	1930347435	http://www.hotelletizia.com
 node	1948131038	http://www.museodelmarepalermo.it/
 node	1952713449	https://www.comune.acicatena.ct.it/
 node	1956432775	https://www.casansaldo.it/
+node	1956455745	https://www.rfi.it/it/stazioni/carruba.html
 node	1957103614	https://www.museodelgiocattolo.org/
 node	1962100576	https://bibliotp.regione.sicilia.it
 node	1962531883	https://www.museomotori.unipa.it/
@@ -516,6 +517,7 @@ node	2446970580	https://www.domusverdiana.it/
 node	2447905341	https://www.etnanatura.it/sentieri.php?nome=orgale
 node	2454252032	https://www.poste.it
 node	2458618807	https://www.poste.it
+node	2460659383	https://www.rfi.it/it/stazioni/guardia-mangano-s-venerina.html
 node	2460840155	http://granieri.altervista.org
 node	2460985667	https://www.la-brace.it/
 node	2461680060	https://latrinacriacefalu.it/
@@ -888,6 +890,7 @@ node	3379584126	https://www.poste.it
 node	3385559838	http://www.legrandbleusiracusa.it
 node	3396256940	https://www.poste.it
 node	3397092105	https://www.fridapizzeria.it
+node	3397475807	https://www.rfi.it/it/stazioni/alcantara.html
 node	3404272591	https://www.polivalentepalazzolo.edu.it/
 node	3409331322	https://www.poste.it
 node	3414048563	https://www.poste.it
@@ -1542,6 +1545,7 @@ node	5320492192	https://www.francotriocalzature.it
 node	5321552732	http://dgcsrl.com/dgcsrl/
 node	5321812433	https://www.costadelsolevacanze.com/
 node	5324380795	https://www.santacaterinahotel.com/
+node	5324492776	https://www.rfi.it/it/stazioni/acireale.html
 node	5326211222	http://www.ippocampersr.it/
 node	5328218066	https://villaarchirafi.com/
 node	5328954821	https://www.booking.com/hotel/it/b-b-stazione-centrale-palermo.it.html
@@ -1828,7 +1832,6 @@ node	6415303530	https://vimavìgliartigianideriposo.com/
 node	6416406159	https://www.poste.it
 node	6416406160	https://www.poste.it
 node	6419464640	https://www.eurospin.it/punti-vendita/marsala-709451/
-node	6419763989	https://www.boatstore.it/
 node	6437150585	http://www.lanoce.org/foresteria/
 node	6437159285	https://www.zeroglutinelife.it/
 node	6439915043	https://scuderimotoservice.com/
@@ -2222,13 +2225,16 @@ node	6983618734	https://www.trenitalia.com/
 node	6985840023	https://sites.google.com/view/casavacanzeavanedda/home
 node	6990132694	https://www.enotecapicone.com/
 node	6993798055	https://www.trenitalia.com/
+node	6993798056	https://www.rfi.it/it/stazioni/catania-centrale.html
 node	7008603608	https://rete.comuni-italiani.it/wiki/Enna/Statua_di_Euno
 node	7008833352	http://www.hobbyzoo.org/
 node	7037160097	https://www.sudesthomes.com/
 node	7037177057	https://www.hotelcorsaro.it/
+node	7039268138	https://www.rfi.it/it/stazioni/taormina-giardini.html
 node	7039268139	https://www.trenitalia.com/
 node	7039268156	https://www.trenitalia.com/
 node	7039277004	https://www.rfi.it/it/stazioni/letojanni.html
+node	7042610812	https://www.rfi.it/it/stazioni/giarre-riposto.html
 node	7049125650	https://www.confcommerciopaesietnei.it/
 node	7056643349	https://ristorantetriscelesiracusa.it/
 node	7058468863	https://www.maddaloni.it
@@ -2301,6 +2307,21 @@ node	7522945573	https://www.conad.it/ricerca-negozi/negozio.009155.html
 node	7525314832	https://www.conad.it/ricerca-negozi/negozio.007560.html
 node	7525370233	https://www.conad.it/ricerca-negozi/negozio.008359.html
 node	7525419097	https://www.conad.it/ricerca-negozi/negozio.008966.html
+node	7525884231	https://www.rfi.it/it/stazioni/cannizzaro.html
+node	7525884232	https://www.rfi.it/it/stazioni/ognina.html
+node	7525884233	https://www.rfi.it/it/stazioni/picanello.html
+node	7525884234	https://www.rfi.it/it/stazioni/europa.html
+node	7525884237	https://www.rfi.it/it/stazioni/lentini.html
+node	7525884238	https://www.rfi.it/it/stazioni/augusta.html
+node	7525884239	https://www.rfi.it/it/stazioni/priolo-melilli.html
+node	7525884240	https://www.rfi.it/it/stazioni/targia.html
+node	7525922366	https://www.rfi.it/it/stazioni/pozzallo.html
+node	7525922367	https://www.rfi.it/it/stazioni/ispica.html
+node	7525922368	https://www.rfi.it/it/stazioni/rosolini.html
+node	7525922369	https://www.rfi.it/it/stazioni/noto.html
+node	7525922370	https://www.rfi.it/it/stazioni/avola.html
+node	7525922371	https://www.rfi.it/it/stazioni/fontane-bianche.html
+node	7525922372	https://www.rfi.it/it/stazioni/siracusa.html
 node	7526450829	https://www.rfi.it/it/stazioni/contesse.html
 node	7526450831	https://www.rfi.it/it/stazioni/mili-marina.html
 node	7526450832	https://www.rfi.it/it/stazioni/galati.html
@@ -2314,6 +2335,9 @@ node	7526450841	https://www.rfi.it/it/stazioni/roccalumera-mandanici.html
 node	7526450842	https://www.rfi.it/it/stazioni/furci.html
 node	7526450843	https://www.rfi.it/it/stazioni/s-teresa-di-riva.html
 node	7526450844	https://www.rfi.it/it/stazioni/s-alessio-siculo-forza-d-agr-.html
+node	7526450846	https://www.rfi.it/it/stazioni/calatabiano.html
+node	7526450847	https://www.rfi.it/it/stazioni/fiumefreddo-di-sicilia.html
+node	7526450849	https://www.rfi.it/it/stazioni/mascali.html
 node	7556720794	https://www.montainbici.it/
 node	7556761722	http://radyshams.com/
 node	7559552794	https://www.guardiacostiera.gov.it/
@@ -2451,6 +2475,7 @@ node	8201277318	http://iltortellinotrapani.it
 node	8232717765	https://www.casadiriposolamadonnina.it/
 node	8237340447	https://www.casevacanzaloria.it/
 node	8242609317	https://donpeppinu.it/
+node	8251178135	https://www.rfi.it/it/stazioni/catania-aeroporto-fontanarossa.html
 node	8254392835	https://www.nicanuci.it/
 node	8258816083	https://www.arddiscount.it/punti-vendita/455/floridia-via-fratelli-amato-10
 node	8258816084	https://www.arddiscount.it/punti-vendita/502/francofonte-via-antonio-gramsci-102
@@ -3555,7 +3580,6 @@ node	11394442896	https://www.facebook.com/p/BB-La-Terrazza-Di-Harmakhis-10005423
 node	11398033573	https://www.facebook.com/VillaPietra/?locale=it_IT
 node	11398033574	https://elimo-affittacamere-di-scardino-leonardo-jankowice-podkarpackie.hotelmix.it/
 node	11398033575	https://www.tripadvisor.it/Restaurant_Review-g6819047-d10844957-Reviews-Caffe_Degli_Archi-Poggioreale_Province_of_Trapani_Sicily.html
-node	11399043531	https://www.sanibaby.it/
 node	11399982295	https://www.camagnacountryhouse.it/
 node	11414297430	http://www.aspag.it/index.php/continuita-assistenziale-guardia-medica
 node	11414577552	https://go-dive.net/travelhero/dona/
@@ -4141,6 +4165,8 @@ node	13247677001	https://brigantilibrino.it/
 node	13248000289	https://sbezfood.it/
 node	13255693201	https://www.capperobistrot.com/
 node	13255841989	https://www.battiatobevande.it/
+node	13266848422	https://www.agatabb.it/
+node	13272951303	https://www.icboccadifalcotomasidilampedusa.edu.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4305,6 +4331,7 @@ way	71167304	https://www.parcolilibeo.it/
 way	71512381	https://comune.belmonte.pa.it/
 way	71896935	https://www.agrumariacorleone.com/
 way	73107732	https://www.icfontanarossa.edu.it/
+way	73395702	https://latorrehotel.it/
 way	73395899	https://www.costaponente.it/
 way	74837437	https://www.airgest.it/
 way	76560592	https://www.hotelmillepini.com/
@@ -4328,6 +4355,9 @@ way	91258624	https://www.battistix.it
 way	91435532	https://www.hotelmediterraneoct.com/
 way	95670373	https://www.icdusmetdoria.edu.it/
 way	97560233	https://www.ilpiccioloetnagolfresort.com/
+way	99168613	"https://www.etnanatura.it/paginasentiero.php?nome=Rifugio_Monte_Baracca
+
+https://pianoprovenzana.it/scopri-etna-nord/etna-natura/rifugi-etna/"
 way	100142992	https://www.poste.it
 way	102487266	https://iclinguaglossacali.edu.it/
 way	103778193	https://www.beniculturali.it/luogo/museo-regionale-interdisciplinare-di-messina
@@ -5391,6 +5421,7 @@ way	686408437	https://www.villadafne.it/
 way	686462183	https://www.riparautosiracusa.it/
 way	686462438	https://www.tedi.com/it/
 way	686991192	https://www.servizifunebrimessina.it/
+way	687469335	https://removestore.it/
 way	689331691	http://www.giannonelavorazionepietra.com/
 way	691158466	https://www.campinglilybeovillage.it/
 way	691158467	https://www.campinghelios.it/
@@ -6474,6 +6505,9 @@ way	1430911368	https://www.comprensivopuglisi.it/
 way	1431188397	https://www.quasimodoragusa.edu.it
 way	1431816598	https://ortomi.net/
 way	1435706515	https://www.dimorasavarino.it/
+way	1444948438	https://sudgel.com/
+way	1445299836	https://gilibertoauto.it/
+way	1445299842	https://automobiliditomasi.com/
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
