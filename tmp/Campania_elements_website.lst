@@ -811,7 +811,6 @@ node	5263850431	https://www.iblbanca.it/
 node	5263850434	https://www.dambobeef.it
 node	5263850435	https://www.dimartinodolcegabbana.online
 node	5263850438	https://www.escapenapoli.com/
-node	5265384863	https://www.califanoservice.it/
 node	5268021691	http://www.fusarogold.com/
 node	5268021696	https://www.diecidieci.net/
 node	5268021704	https://www.arbitertrekking.it/
@@ -2892,10 +2891,14 @@ node	13208241665	https://primorske.svet24.si/primorska/srednja-primorska/kraseve
 node	13228002575	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
 node	13236153764	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
 node	13238603860	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/cascata-e-torrione/
-node	13240488549	http://www.osolemiohotel.com/
-node	13240492542	http://www.oasiolimpiarelais.it/
+node	13240488549	https://www.osolemiohotel.com/
+node	13240492542	https://www.oasiolimpiarelais.it/
 node	13243128185	beacons.page/jrmarecords
 node	13254539701	http://www.actionmoto.it
+node	13267353693	http://www.aziendaagricoladelpozzo.it/
+node	13272713369	https://www.ontanotravel.com
+node	13274156186	https://deliziereali.it/
+node	13274544701	http://www.sipos.it
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
 way	24225619	https://reggiadicaserta.cultura.gov.it/
@@ -3253,6 +3256,7 @@ way	319563496	https://www.tribmin.salerno.giustizia.it/
 way	319568633	http://www.caseificioaurora.it/
 way	319806559	http://www.sollevante.it/wsc/
 way	320428225	https://www.barlotti.it/
+way	321275809	https://all.accor.com/hotel/3243/index.it.shtml
 way	321565894	http://www.pompeiisites.org/Sezione.jsp?titolo=newsletter&idSezione=186
 way	321565896	http://www.pompeiisites.org/Sezione.jsp?titolo=La+casa+del+Genio&idSezione=184
 way	326769051	http://www.comune.corbara.sa.it/
@@ -3861,7 +3865,6 @@ way	1013301518	https://www.primoicsantanastasia.edu.it/
 way	1013304251	https://www.istitutopacioli.edu.it
 way	1013342244	http://www.liceomorantenapoli.gov.it/
 way	1014147107	https://piccolook.it/punti-vendita/castello-di-cisterna-via-imper-na
-way	1014357571	https://www.aslcaserta.it/index.php/p-o-marcianise/
 way	1015848955	https://www.parkinstation.it/luoghi/351753-napoli-centrale-corso-meridionale-auto
 way	1016163518	https://www.istitutodavinostriano.edu.it/
 way	1016168451	https://www.gerli.eu/
@@ -4131,6 +4134,8 @@ way	1444864265	www.bikesharingnapoli.it
 way	1444864267	www.bikesharingnapoli.it
 way	1444971861	www.bikesharingnapoli.it
 way	1444971862	www.bikesharingnapoli.it
+way	1446393050	www.bikesharingnapoli.it
+way	1446583535	https://www.aslcaserta.it/index.php/p-o-marcianise/
 relation	12377	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/lago-tempio-diruto-e-casa-dei-cigni/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
@@ -4469,6 +4474,7 @@ node	13202824163	https://campania.coldiretti.it/calendari-mercati-napoli/
 node	13247958620	https://www.napolicentrobeb.it/it
 node	13247963087	https://www.formazionesrl.it
 node	13260035349	https://www.perdormire.com/negozi/napoli-vomero/
+node	13267694712	https://www.casadelcontemporaneo.it/sala-assoli-teatro-napoli-quartieri-spagnoli-spettacoli/
 way	79268408	https://szn.it/index.php/
 way	170920731	https://www.giardiniposeidonterme.com/
 way	174047981	http://www.cittadellascienza.it/
