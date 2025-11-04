@@ -291,7 +291,6 @@ node	558621094	https://barrobytrento.metro.bar
 node	558628505	https://www.provincia.tn.it/bikesharing
 node	560013174	https://www.museumzeitreisemensch.it/it/
 node	560081097	https://www.caritas.bz.it/
-node	566728667	https://www.bortolottilaquadra.it/
 node	570733717	https://www.umpalai.it/miniera-dellerdemolo/
 node	571193720	https://www.casari.net/
 node	571194266	https://www.arredogroup.it
@@ -873,6 +872,7 @@ node	1723094360	https://www.weihrerhof.com
 node	1727066061	https://www.hotellagodigarda.it/
 node	1736952407	https://bad-schoergau.com/
 node	1737540231	https://www.millenniumcaffedaciro.it/
+node	1738453003	https://www.mittnackerhof.com/de/bauernhof
 node	1739076436	https://www.archeoparc.it/
 node	1740376142	https://instagram.com/sartoria_vicolodelvo
 node	1740376152	https://www.studio3a.tn.it
@@ -3714,6 +3714,7 @@ node	5035827668	https://www.dirndlstube-praxmarer.com/
 node	5035879072	https://www.pruenster.it/
 node	5038164162	https://www.psairerbergkaeserei.com/
 node	5038965691	https://de-de.facebook.com/ff.laatsch
+node	5039356822	https://www.verdepianocamping.com/campeggio/
 node	5041444941	https://www.cgil.tn.it
 node	5042206683	https://elektro-innerhofer.it/
 node	5042449096	https://www.kindergarten.bz.it/bozen/bozen-montessoriplatz/
@@ -5730,7 +5731,6 @@ node	11264399247	https://www.rimmele.it/
 node	11264490506	https://www.noessinghof.it/
 node	11272097409	https://www.1477reichhalter.com/
 node	11272442565	www.barbian.it
-node	11273005409	https://www.sostacampertrentino.it
 node	11275477472	https://fantasiastore.it/
 node	11276088258	https://www.arcoclimbing.com/
 node	11281011576	https://www.franziskus.it/
@@ -6048,7 +6048,7 @@ node	11903427851	https://www.gandolfi.bz.it/
 node	11903427852	https://www.gandolfi.bz.it/
 node	11905085938	https://www.dorftirol.com/sehenswuerdigkeiten/burglehenpark/
 node	11909661806	https://www.geighof.com/
-node	11919288237	https://rubein.com/de-de/zimmer/
+node	11919288237	https://rubein.com/it-it/
 node	11923480131	https://www.thecrag.com/climbing/italy/alto-adige/area/3242778318
 node	11923485265	https://www.thecrag.com/climbing/italy/alto-adige/area/1042490022
 node	11925916422	http://www.carpenteriaoma.it
@@ -6569,6 +6569,17 @@ node	13246424829	http://www.inufficio.tn.it/
 node	13252182668	https://www.comunitadellegiudicarie.it/Tematiche/Servizi-sociali/I-Servizi/Tipo-di-servizio/Presso-strutture/Centro-di-aggregazione-giovanile-Spazio-giovani
 node	13255732294	https://www.musikhausbozen.it/
 node	13260582952	https://www.gioielleriavalenti.it/
+node	13266266372	https://www.camilliane.net/
+node	13266832140	https://www.cs4.coop
+node	13269485649	https://www.macelleriebazzoli.it/
+node	13269834958	https://ikiexperience.it/
+node	13270414393	https://www.visittrentino.info/en/guide/what-to-do/camper-rest-areas-in-trentino/area-sosta-camper-passo-coe_md_84754008
+node	13270952184	https://www.mittnackerhof.com/de
+node	13274505998	https://pfifftoys.com/geschaefte/waltherpark-bozen/
+node	13275691267	https://www.rsd-electronic.com/
+node	13278826303	https://artedellegnotrento.it/
+node	13278826304	https://www.bortsegnaletica.com/
+node	13279604641	https://www.bike-sport.it/
 way	24302790	https://www.oberschoeberlehof.com/
 way	24785843	http://museodiocesanotridentino.it
 way	24875467	https://www.trentinotrasporti.it/tariffe/parcheggi
@@ -9952,7 +9963,6 @@ way	702212759	https://www.comune.sluderno.bz.it/system/web/zusatzseite.aspx?menu
 way	707619798	http://www.zanellahotels.com
 way	707987163	https://www.paulnhof.com/
 way	708971233	https://www.hotel-st-valentin.com/de
-way	708994058	http://www.gruppocreval.com/Pagine/credito-valtellinese/sede-legale.aspx
 way	709880989	https://phone-techno.business.site/
 way	710054173	https://www.libreriarcadia.com/
 way	710054174	https://www.thun.com/it_it/
@@ -10342,6 +10352,7 @@ way	1442617921	https://www.visitvalsugana.it/it/dormire-mangiare/aree-sosta-camp
 way	1442720646	https://www.visittrentino.info/it/guida/area-camper-tognola_md_84749338
 way	1443697411	http://www.camperstopnals.it/
 way	1443931785	https://www.camperstopebnbnavis.com/it/area-camper
+way	1446908036	https://www.pratzner.it/
 relation	31315	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-delle-Valli-di-Fiemme-e-Fassa
 relation	32303	https://www.provincia.tn.it/News/Approfondimenti/Ciclovia-della-Val-di-Sole
 relation	47214	https://www.martell.it/
@@ -11792,7 +11803,7 @@ relation	16229098	https://dolomitesgeotrail.com/
 relation	16229125	https://dolomitesgeotrail.com/
 relation	16229233	https://dolomitesgeotrail.com/
 relation	16233486	https://radrouting.tirol/
-relation	16244647	https://www.rifugi.lombardia.it/attivita/trekking/passo-forcel-rosso.html
+relation	16297144	https://www.rifugi.lombardia.it/attivita/trekking/passo-forcel-rosso.html
 relation	16326270	https://www.sat.tn.it/
 relation	16367102	https://www.gardatrentino.it/it
 relation	16391483	https://www.sat.tn.it/itinerario-marchetti/
@@ -13995,7 +14006,7 @@ way	365684254	http://www.elektromarschall.it/de
 way	372517415	https://www.museopejo.it/
 way	373081086	http://www.dolcelit.it
 way	375106979	http://www.hotelstellaalpina.it
-way	375769608	https://www.trentinomobilita.it/sosta-camper
+way	375769608	https://www.trentinomobilita.it/servizi/comune/trento/sosta-camper-trento/rimessaggio-trento-sud/
 way	385162547	https://www.diocesitn.it/area-cultura/
 way	404413967	https://www.bikebreak.it
 way	406814319	https://www.visitvalsugana.it/
@@ -14026,7 +14037,7 @@ way	516827453	https://www.visitfiemme.it/it/val-di-cembra/Arte%20e%20paesaggi%20
 way	521529607	https://find.shell.com/it/fuel/10126799-arco
 way	522867797	https://www.gardolo.eu
 way	542235880	https://www.pontedilegnotonale.com/
-way	545094991	https://www.trentinomobilita.it/sosta-camper
+way	545094991	https://www.trentinomobilita.it/servizi/comune/trento/sosta-camper-trento/area-fersina/
 way	576647438	https://www.visitvaldisole.it
 way	598343901	http://www.kostner-despar.com/de/home.aspx
 way	609277535	https://www.albergosanrocco.com/
@@ -14062,7 +14073,7 @@ way	966535350	https://www.appm.it/
 way	971107438	https://www.olgacasanova.it/
 way	983124134	https://alpinn.it/
 way	992003831	https://www.hotel-gamz.com/
-way	999895469	https://www.trentinomobilita.it/sosta-camper
+way	999895469	https://www.trentinomobilita.it/servizi/comune/trento/sosta-camper-trento/area-zuffo/
 way	1023595391	https://cittadella.gruppopoli.it
 way	1051578416	https://www.tecnoplasticatrentina.com
 way	1064157452	https://www.ssp-ahrntal.it/lernorte/grundschule-steinhaus/
