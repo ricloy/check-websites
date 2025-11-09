@@ -2826,7 +2826,7 @@ node	5387212502	minipizza22cm.com
 node	5390684898	https://prismaprogetti.it/
 node	5390684903	https://www.fitfriends.it/
 node	5393594564	https://caffeletterarioroma.it
-node	5397011008	https://ospedaliere.it/
+node	5397011008	https://viterbo.ospedaliere.it/
 node	5397011010	https://www.farmaciagiaccifederico.com/
 node	5398152721	https://www.fuso-orario.it/
 node	5398257800	https://www.akiraristoranteviterbo.com/
@@ -5767,6 +5767,7 @@ node	11118517111	https://museodellenecropolirupestri.it/
 node	11125886646	https://www.allevamentocaputmundi.it/
 node	11129845958	https://www.agenziaentrate.gov.it/
 node	11131477120	https://www.conad.it/ricerca-negozi/conad-city-via-costa-cavalieri-5-03020-strangolagalli--004124
+node	11135542991	http://www.dolcenottecornetteria.it
 node	11139241823	https://www.beastside.it/
 node	11139241824	https://www.farmaciafarina.com/
 node	11139241827	https://www.cantone7.com/
@@ -6590,6 +6591,7 @@ node	12955941927	https://www.gtccars.it/
 node	12970008502	https://www.centromedicofilippi.it/
 node	12973995202	https://www.paneesalame.it/
 node	12981720000	https://saazrestobar.com
+node	12981728913	https://pomodorum.com
 node	12983079997	https://www.lafeltrinelli.it
 node	12985440102	https://www.semidicomunita.it/
 node	12985815025	https://immobiliarevolpe.it
@@ -6803,10 +6805,20 @@ node	13264779030	https://www.museodellemuraroma.it
 node	13265457042	https://www.instagram.com/jumanji_bracciano/
 node	13266803101	https://www.docksroma.com/
 node	13267505711	https://www.magpulsolution.it
-node	13268588285	http://www.gruppoeurocar.com/
+node	13268588285	https://gruppoeurocar.com/
 node	13270320509	aziendaagricolaicolli.it
 node	13273803619	https://ortorosso.com/
 node	13274294570	https://www.mozzarellapaolella.it
+node	13277251259	https://www.agenziariscossione.gov.it
+node	13279119729	https://www.familypetsroma.com/cina/
+node	13279211178	http://www.relaxinpiazzetta.it/
+node	13283197802	https://www.edencusmano.it/
+node	13285048701	https://www.savethechildren.it/cosa-facciamo/progetti/punto-luce-delle-arti-di-ostia
+node	13285048901	https://www.ciofslazio.it/ostia
+node	13285048902	https://quiunquartierepercrescere.it/quartieri/roma-ostia-ponente/centro-risorse-qui-un-quartiere-crescere
+node	13285049001	https://quiunquartierepercrescere.it/quartieri/roma-ostia-ponente/emporio-aladino-0
+node	13285049301	https://www.regione.lazio.it/cittadini/lavoro/centri-impiego
+node	13288847364	https://www.paideiahospital.it/
 way	8035487	https://direzionemuseiroma.cultura.gov.it/museo-nazionale-di-castel-santangelo/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
@@ -10658,6 +10670,7 @@ node	13242976055	https://bottegaliberati.it
 node	13256178943	https://www.museopropagandafide.va/
 node	13261450880	https://happyluggagestorage.com/
 node	13261450884	https://baglocker.com/
+node	13289820222	http://casamadrenazarena.it/
 way	23840659	https://santignazio.gesuiti.it/
 way	25400176	https://www.santamariasopraminerva.it
 way	25610962	https://www.chiesadelgesu.org/
@@ -10803,6 +10816,7 @@ way	402664662	https://www.parchilazio.it/sutri
 way	402843089	https://museopalazzodoebbing.it/
 way	406610631	https://www.hoteltirrenolatina.it
 way	408235284	https://hurraspesa.it/stores/hurra-cura-di-vetralla/
+way	419163226	https://ostiaantica.cultura.gov.it/siti-musei/area-archeologica-dei-porti-imperiali-di-claudio-e-traiano/
 way	421826236	http://www.allalocomotiva.com/
 way	437248869	http://www.hotelzodiacobolsena.it
 way	450796190	https://www.carabinieri.it/
@@ -10854,7 +10868,6 @@ relation	449593	https://sansilvestroincapite.org/
 relation	941918	https://nostrasignoradelsacrocuore.mozellosite.com/
 relation	1026680	https://www.oasidigreccio.it/
 relation	1576101	https://www.cgu.it/it/santo-stefano-rotondo/
-relation	1578095	http://casamadrenazarena.it/
 relation	1705010	http://www.tordespecchi.it/
 relation	1797980	https://www.parcoappiaantica.it/
 relation	1807295	https://www.monasterosangregorio.it/
