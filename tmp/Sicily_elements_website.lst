@@ -73,6 +73,8 @@ node	582900437	http://www.santaveneranda.it/
 node	582900438	https://www.bbmazara.it/
 node	602097307	https://www.facebook.com/finale.sicilia
 node	602528429	https://www.vivaiborgonatura.it/
+node	611596618	https://www.rfi.it/it/stazioni/grotte.html
+node	611596749	https://www.rfi.it/it/stazioni/racalmuto.html
 node	618659171	https://www.poste.it
 node	618709524	https://www.cinemarconipalermo.it/
 node	677496259	https://www.sailegadi.com/
@@ -481,7 +483,6 @@ node	2311470003	https://www.enel.it/punto-enel/
 node	2311470013	https://www.enel.it/negozio-enel/
 node	2311470064	https://www.enel.it/punto-enel/
 node	2311470072	https://www.enel.it/punto-enel/
-node	2311470088	https://www.enel.it/punto-enel/
 node	2311470121	https://www.enel.it/punto-enel/
 node	2313283265	https://www.regione.sicilia.it/beniculturali/dirbenicult/database/page_musei/pagina_musei.asp?ID=28&IdSito=67&IdC=&IdS=&IdAS=
 node	2314340093	http://www.liceoscientificoleonardo.gov.it/
@@ -1752,6 +1753,7 @@ node	6176383086	http://hosteltaormina.com
 node	6188902866	https://shop.aputiadellecosebuone.it/restaurant/
 node	6188902878	https://www.siculamente.it/
 node	6188902879	https://ortygiabs.org/
+node	6193164852	http://tuttoinfissigroup.it/
 node	6199350490	https://www.systemcart.com/
 node	6199350508	https://www.systemcart.com/
 node	6204632136	http://www.accamora.it/
@@ -1810,6 +1812,7 @@ node	6367903290	https://www.diocesipatti.it/it/archivio-storico-capitolare-arca-
 node	6367903291	https://it.cathopedia.org/wiki/Museo_Diocesano_di_Patti
 node	6367926224	https://anagrafe.iccu.sbn.it/it/ricerca/dettaglio.html?monocampo=&regione=SICILIA&provincia=MESSINA&comune=Patti&codice_isil=&ricerca_tipo=semplice&monocampo:tipo=AND&start=1
 node	6369132827	https://negozi.vodafone.it/siracusa/vodafone-store-siracusa
+node	6373947154	https://www.pc-serv.net/
 node	6373947843	http://siracusatourbike.it
 node	6373947869	https://alloroshop.it
 node	6375712339	https://www.ristoranteacanto.it/
@@ -2076,7 +2079,9 @@ node	6860429485	https://www.palazzoasmundo.com/it/il_palazzo/piano_terra_teatro_
 node	6861086695	https://www.poste.it
 node	6867632637	https://it-it.facebook.com/farmaciasantabarbaracefalu/
 node	6868210848	https://www.prezzemoloevitale.net/
+node	6872304893	https://comune.torretta.pa.it/hh/index.php
 node	6873513357	https://www.vintagelookstore.com
+node	6876060383	https://www.comune.isoladellefemmine.pa.it/
 node	6876060396	https://www.poste.it
 node	6882293669	https://www.poste.it
 node	6883666711	http://www.fratellicelona.it
@@ -2315,6 +2320,18 @@ node	7525884237	https://www.rfi.it/it/stazioni/lentini.html
 node	7525884238	https://www.rfi.it/it/stazioni/augusta.html
 node	7525884239	https://www.rfi.it/it/stazioni/priolo-melilli.html
 node	7525884240	https://www.rfi.it/it/stazioni/targia.html
+node	7525922353	https://www.rfi.it/it/stazioni/canicatt-.html
+node	7525922354	https://www.rfi.it/it/stazioni/campobello-ravanusa.html
+node	7525922355	https://www.rfi.it/it/stazioni/licata.html
+node	7525922356	https://www.rfi.it/it/stazioni/gela.html
+node	7525922358	https://www.rfi.it/it/stazioni/acate.html
+node	7525922359	https://www.rfi.it/it/stazioni/vittoria.html
+node	7525922360	https://www.rfi.it/it/stazioni/comiso.html
+node	7525922361	https://www.rfi.it/it/stazioni/donnafugata.html
+node	7525922362	https://www.rfi.it/it/stazioni/ragusa.html
+node	7525922363	https://www.rfi.it/it/stazioni/modica.html
+node	7525922364	https://www.rfi.it/it/stazioni/scicli.html
+node	7525922365	https://www.rfi.it/it/stazioni/sampieri.html
 node	7525922366	https://www.rfi.it/it/stazioni/pozzallo.html
 node	7525922367	https://www.rfi.it/it/stazioni/ispica.html
 node	7525922368	https://www.rfi.it/it/stazioni/rosolini.html
@@ -2406,6 +2423,7 @@ node	7804046377	http://www.siqillyah.it/
 node	7806029585	https://casa-florio.business.site
 node	7813234662	https://www.2superioreaugusta.edu.it/
 node	7813971386	https://antoniolupo.com/
+node	7847787986	https://www.roccadia.com/
 node	7849243685	https://www.desparsicilia.it/
 node	7853854585	http://www.dalcozzaro.it
 node	7856417986	https://osteria-rosso-divino.com/
@@ -2865,6 +2883,12 @@ node	9120126917	https://www.michelangelocatania.com/
 node	9124717224	https://www.disfor.unict.it/
 node	9128643517	https://www.booking.com/hotel/it/nave-trapani.html
 node	9128643617	https://drepanumrentcarescooter.mozello.it/
+node	9130235384	https://www.rfi.it/it/stazioni/agrigento-centrale.html
+node	9130235387	https://www.rfi.it/it/stazioni/agrigento-bassa.html
+node	9130235390	https://www.rfi.it/it/stazioni/aragona-caldare.html
+node	9130235391	https://www.rfi.it/it/stazioni/campofranco.html
+node	9130235393	https://www.rfi.it/it/stazioni/acquaviva-casteltermini.html
+node	9130235395	https://www.rfi.it/it/stazioni/cammarata-s-giovanni-gemini.html
 node	9130555701	https://madeprogram.it
 node	9132051717	https://bbstellamaris.wixsite.com/stella
 node	9133462206	https://www.oursoul.it/
@@ -4118,7 +4142,6 @@ node	13119666734	http://www.ippocampersr.it/
 node	13119882460	https://retecivicacomunemo.wixsite.com/museocivico
 node	13121580225	https://www.ilcentesimo.com/
 node	13121853187	https://www.copacabana.it/
-node	13121872601	https://www.rosmarinotaormina.com
 node	13121879601	https://www.rosmarinotaormina.com
 node	13125649178	https://www.ristoranteupiscaturi.com/
 node	13125649561	https://www.lalenasgarden.it/
@@ -4167,6 +4190,17 @@ node	13255693201	https://www.capperobistrot.com/
 node	13255841989	https://www.battiatobevande.it/
 node	13266848422	https://www.agatabb.it/
 node	13272951303	https://www.icboccadifalcotomasidilampedusa.edu.it/
+node	13275842097	https://www.tdegroup.it
+node	13275948458	https://www.alpalmentopachino.it/
+node	13277217311	https://www.zangaloro.it/home/rYD5feNjWa9EmbdqMbDubdwi
+node	13278197715	https://www.babilonia.it/
+node	13278351186	https://www.terzoweb.com/
+node	13280108892	https://www.pizzichella.it
+node	13281210538	http://tuttoinfissigroup.it/
+node	13281210539	http://tuttoinfissigroup.it/
+node	13283694835	https://www.icsbuonarroti.edu.it/
+node	13288030105	https://centrostudiolab.com
+node	13288587969	https://www.icliviobassi.edu.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -6250,6 +6284,7 @@ way	1240815144	https://www.ponterossocomart.com/
 way	1241147952	https://www.suitebeach.it/
 way	1241305288	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/40438
 way	1242364977	https://www.caritascatania.it/
+way	1242996765	https://www.gracecoffee.it/
 way	1244237334	https://www.icdallachiesa.edu.it/
 way	1244237340	https://www.icdallachiesa.edu.it/
 way	1244237345	https://www.icdallachiesa.edu.it/
@@ -6508,6 +6543,7 @@ way	1435706515	https://www.dimorasavarino.it/
 way	1444948438	https://sudgel.com/
 way	1445299836	https://gilibertoauto.it/
 way	1445299842	https://automobiliditomasi.com/
+way	1446934449	https://brunoautosrl.com/
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
@@ -7266,6 +7302,7 @@ node	12579470520	https://www.hapimag.com/en-gb/italy/sicily/cefalu/
 node	12685127676	https://www.analisiclinichearagona.com
 node	12837327645	https://www.tcldental-pedodonzia.it
 node	13185070526	https://www.booking.com/hotel/it/palermo-central-stay.html
+node	13289919769	https://www.libriepensieri.it/
 way	28233134	https://www.messinarte.it/duomo-di-messina/
 way	34227431	http://liceomazara.edu.it/
 way	34314619	https://www.zoculture.it/
@@ -7380,6 +7417,7 @@ node	7106569918	https://www.sanvitolocaposhuttle.com
 node	7162048723	http://www.scuolasubpalermo.it
 node	9510275015	https://www.thecrag.com/climbing/italy/central-and-southern-italy/sicily/area/1221011889
 node	9810551034	https://it.sicilyrealty.com/apt-cortile-carini-sciacca
+way	23446889	https://www.funiviaetna.com/
 way	56131141	https://www.researchgate.net/publication/225673663_Geo-volcanological_mineralogical_and_environmental_aspects_of_quarry_materials_related_to_pleural_neoplasm_in_the_area_of_Biancavilla_Mount_Etna_Eastern_Sicily_Italy
 way	420556066	http://www.casaquasimodo.it/
 way	459158351	http://www.prodromo-vegetazione-italia.org/scheda/rumici-astragalion-siculi/636
