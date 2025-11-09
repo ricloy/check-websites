@@ -439,7 +439,6 @@ node	3292291237	https://questure.poliziadistato.it
 node	3292291246	https://questure.poliziadistato.it/Pescara
 node	3292330544	https://www.ceatelecomunicazioni.it/
 node	3302582052	https://www.farmaciediturno.org/orariofarmacia.asp?idf=18719
-node	3303962026	https://www.agfmanu.com/
 node	3304148589	http://allaconchiglia.it
 node	3309189980	https://www.miramarepineto.com/
 node	3309197515	https://www.miramarepineto.com/
@@ -696,7 +695,6 @@ node	5828285868	https://www.hotel-laquila.com/
 node	5836792641	https://it-it.facebook.com/La-Bottega-della-Luna-698638463492508/
 node	5836950002	https://www.regione.abruzzo.it/struttura-regionale/dpc-dipartimento-opere-pubbliche-governo-del-territorio-e-politiche-ambientali
 node	5836950003	https://www.torronenurzia.it/
-node	5836950005	https://www.gssi.it/institute/services-facilities/item/2454-studentato
 node	5844351085	https://benbdolcefarniente.com/
 node	5850113908	https://it-it.facebook.com/pg/deritisgioielleria/
 node	5850113909	https://it-it.facebook.com/pg/Marta-Sista-1840621886179075/
@@ -2032,7 +2030,6 @@ node	8870381449	https://avmled.it/
 node	8870491183	https://www.bec.energy/?lang=en
 node	8872657523	https://ristorante-pizzeria-cambio-vita-di.business.site/
 node	8880083776	http://lamascionara.it
-node	8882234715	https://www.tesla.com/findus/location/supercharger/carsolioricolasupercharger
 node	8892227906	https://www.soggiornoproposta.org/index.php?option=com_content&view=article&id=51&Itemid=75
 node	8894005972	https://sorginibici.eu
 node	8897253425	www.parcosponga.it
@@ -2165,6 +2162,7 @@ node	9599671955	https://abnb.me
 node	9603703075	https://quercia.altervista.org
 node	9604975705	https://bellavistamare.it/
 node	9623929722	http://dandreamatteo.it/
+node	9631863510	https://odissea.eatbu.com
 node	9633104773	https://www.bec.energy/?lang=en
 node	9633111255	https://www.byebyepelos.it/pescara
 node	9633116050	https://lasvoltapescara.eatbu.com
@@ -3500,6 +3498,10 @@ node	13245314748	https://www.leonardo.com/it/home
 node	13249270994	https://www.chefexpress.it/poi/vomano-ovest-area-di-servizio-n-30/
 node	13253657263	https://www.hotelholidays.it/
 node	13253657289	https://vettadabruzzo.it/
+node	13277292982	https://www.fontecchiointernational.org
+node	13282991907	https://imagomuseum.it/
+node	13285536117	https://www.inèpost.it
+node	13286686420	http://www.comune.giulianoteatino.ch.it
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3657,7 +3659,6 @@ way	156799568	https://www.fotocard.it
 way	159146267	http://www.campingceppo.it/
 way	159820853	https://www.peanorosaonline.edu.it/
 way	163140007	https://www.campodigiove.org/
-way	165257464	https://www.pescarabruzzo.it/
 way	165548537	http://www.parrocchiasantagostino.net/
 way	165575777	https://bricomio.it
 way	166095545	https://villadiega.it
@@ -4267,7 +4268,6 @@ way	1001516676	https://www.hotelleortensie.it/
 way	1006921452	https://www.cittabianca.info/index.php/pescara-boutique-spa-benessere-hotel-citta-bianca-homepage-relax-ristorante-meeting-riunioni-albergo-aeroporto.html
 way	1008296898	https://www.vinievino.com/cantina/chieti/ari/cantina-sociale-ari-soc-coop-agr--3466.html
 way	1008418512	http://www.comune.ari.ch.it/c069003/zf/index.php/servizi-aggiuntivi/index/index/idtesto/3#
-way	1008864695	http://www.comune.giulianoteatino.ch.it
 way	1008864700	https://www.tuttitalia.it/abruzzo/46-giuliano-teatino/77-scuole/
 way	1009164862	https://www.forapack.it
 way	1010486561	https://www.mondialcarortona.it/
@@ -4661,6 +4661,7 @@ way	1436220718	https://www.ic1chieti.edu.it/luogo/infanzia-brecciarola-casone/
 way	1436386490	https://cantinespinelli.it/
 way	1436749065	https://www.parcosirentevelino.it/pun_dettaglio.php?id_pun=2843
 way	1443674965	https://www.roccadisotto.com
+way	1447099817	https://www.solisgreenlog.com/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4970,6 +4971,7 @@ relation	19358538	https://www.ilcamminodabruzzo.it/
 relation	19409648	https://www.piste-ciclabili.com/itinerari/2577-vasto-torrente-lebba
 relation	19482442	http://www.comunedipollutri.it/il-paese/bosco-di-don-venanzio/28/
 relation	19581797	https://www.aslteramo.it/ospedale-di-giulianova/
+relation	19791573	https://www.tesla.com/findus/location/supercharger/carsolioricolasupercharger
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
