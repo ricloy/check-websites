@@ -309,6 +309,7 @@ node	8578353673	https://www.lidl.it/
 node	8652130280	http://www.aviscittanova.it/
 node	8668774189	https://www.comune.corigliano-rossano.cs.it/
 node	8805179434	https://www.trony.it/online/store/MTR008_A
+node	8860487765	www.menocosti.it
 node	8894723706	https://cenadistore.it/
 node	8953296061	https://www.cisalfasport.it/
 node	8971439819	https://www.conad.it/ricerca-negozi/negozio.010243.html
@@ -653,6 +654,9 @@ node	13178964190	https://www.supermercaticonte.com/
 node	13190508315	https://www.fbicommunication.it/
 node	13195163138	https://chiostro.eu/
 node	13233022661	https://www.winetsolution.com/
+node	13283296745	https://www.poste.it
+node	13285130801	https://www.studiotramontana.it/
+node	13290796985	"https//stefyhouse,it"
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	47051512	https://www.sanrobertoebiagio.it/indexmobile.php
 way	86940311	https://www.sacal.it/
@@ -805,11 +809,10 @@ way	278789151	http://www.prolocogioiosajonica.it/DA-VISITARE/palazzo-amaduri.htm
 way	279225696	http://www.treeffecenter.it/
 way	281312100	https://www.mimosacamping.it/
 way	281843479	https://diocesikr.it/struttura.php?id=37
-way	284634539	https://www.onda-azzurra.it/
+way	284634539	https://ondaazzurracamping.com/
 way	285017253	https://www.vascellero.it/
 way	293179919	http://www.santumiledabisignano.it/
 way	294983284	https://www.museisantaseverina.it/
-way	297478893	https://www.diocesicassanoalloionio.it/cattedrale/
 way	297492666	https://www.hotelroscianum.it/
 way	297526685	https://www.facebook.com/p/Cattedrale-Maria-Ss-Achiropita-Rossano-100064769434338/?locale=it_IT
 way	299589407	http://www.complessoconventualecappuccinichiaravallecentrale.com/index.htm
@@ -916,7 +919,6 @@ way	499975172	https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.museodelmareischia
 way	512724607	https://basilicaminoremariassdellaquercia.myadj.it/
 way	520119532	https://www.clubesse.it/strutture/hotel-sunbeach/
 way	531770777	https://fondoambiente.it/luoghi/convento-di-san-francesco-di-paola-roccabernarda?ldc
-way	536150271	https://www.termesibarite.it/
 way	539871252	https://www.comune.pietrafitta.cs.it/
 way	540138606	https://www.bluserena.it
 way	540622329	https://www.bebmula.it/
@@ -1212,7 +1214,6 @@ way	1383936414	https://turismo.reggiocal.it/cultura/le-chiese-e-i-monasteri/il-m
 way	1384371874	https://www.oleariamamerto.com/
 way	1384380285	https://locri.comune.digital/visit-1/i/62748005/borgo-di-moschetta
 way	1384545885	https://shop.bergamottobova.it/
-way	1385720327	https://www.facebook.com/p/Parrocchia-San-Francesco-dAssisi-Cassano-Ionio-100064883046274/
 way	1385743129	https://www.facebook.com/p/Parrocchia-San-Raffaele-Arcangelo-Lattughelle-100069277327213/
 way	1385779370	https://www.actondileporano.com/
 way	1385792366	https://www.olearia.eu/
@@ -1232,6 +1233,8 @@ way	1432531197	https://www.sanvincenzosrl.it/
 way	1432590071	https://www.adricezioni.it
 way	1433226137	https://www.asp.cz.it/dipartimenti/dipartimento-salute-mentale-g-curti/centro-di-salute-mentale-di-catanzaro/
 way	1433727346	http://www.comune.mottasantalucia.cz.it/
+way	1447516612	https://www.diocesicassanoalloionio.it/cattedrale/
+way	1448243056	https://www.termesibarite.it/
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	4277258	https://www.santaspina.it/
@@ -1478,6 +1481,8 @@ relation	19280118	https://www.tribunale.cosenza.giustizia.it/
 relation	19334265	https://www.casasanfrancescodassisi.it/laccoglienza-nel-convento-ss-crocifisso/
 relation	19541380	https://www.kalabriatrekking.it/
 relation	19541381	https://www.kalabriatrekking.it/
+relation	19792370	https://www.facebook.com/p/Parrocchia-San-Francesco-dAssisi-Cassano-Ionio-100064883046274/
+node	470285761	https://pollinorafting.it/camping/
 node	1794725248	https://catanzarolido.ubiklibri.it
 node	1811214931	http://www.computerdiscount.it
 node	2471827092	http://www.costabluresidence.it
@@ -1502,7 +1507,9 @@ node	12650084588	https://www.calabria-ubytovani.it/nabidky-apartmanu/
 way	150646604	http://www.pertinikr.gov.it/
 way	170206470	http://acquaparkatlantis.com/
 way	170486603	http://www.parcosila.it/index.php
+way	176480923	https://agriturismoscifo.wixsite.com/
 way	184223841	http://scilla.asmenet.it/
+way	223801473	https://www.lecastellaresortebeach.it/
 way	239391413	http://www.costabluresidence.it
 way	304503499	https://www.lidl.it/
 way	304791110	https://lagunablufuscaldo.it/
@@ -1512,6 +1519,7 @@ way	443506804	http://www.csoacartella.org/
 way	473609923	http://stationfinder.eni.com/iveportal/stations/stationfinder.do?locale=it_IT&m=3&id=IT8556
 way	473808525	http://www.mirarchipneumatici.it/
 way	599969250	http://www.asedsrl.it/
+way	628781312	https://www.campeggiointernazionale.it/
 way	702212887	https://www.hotelbaiadelcapo.com/
 way	702244425	https://www.costarealtropea.com/
 way	812508926	https://www.sda.it/
@@ -1520,6 +1528,15 @@ way	1039118536	https://www.conad.it/ricerca-negozi/conad-strada-statale-18-snc-8
 way	1230127300	http://www.parcoleninfee.com/
 way	1231176426	www.giuntialpunto.it
 way	1340231886	https://www.campingdelluva.net/
+way	1383776045	https://www.campingvagamundo.it/
+way	1447918026	https://rivertribe.it/camping-area-camper/
+way	1447924041	https://campeggiolao.it/
+way	1447962853	https://hotelfattoria.it/sosta-camper-in-sila/
+way	1447972502	https://www.hoteldeipini.net/camping/
+way	1447973616	https://www.arsacweb.it/camping-lago-arvo-arsac/
+way	1447979230	https://www.villaggiobahja.it/
+way	1447979231	https://sosta-camper-bahja.webador.it/
+way	1447983062	https://www.campingulisselamezia.com/
 relation	9761581	https://www.villaggiosantamonica.com/
 relation	16172031	http://www.iistropea.gov.it/
 relation	16822856	https://www.centrocommercialelevele.it/
