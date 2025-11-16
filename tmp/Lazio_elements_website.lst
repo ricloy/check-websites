@@ -481,7 +481,6 @@ node	1411729011	https://www.bibliotechediroma.it/opac/library/Biblioteca%20Centr
 node	1412049041	http://www.beausiterome.com/
 node	1413977904	https://pmi.katolikus.hu/
 node	1414163854	https://www.taxiostia.it/
-node	1415245871	https://pataazulostia.com/
 node	1417376738	https://www.oldbear.it/
 node	1417673728	https://holysee.embassy.gov.au/
 node	1420009837	https://www.conad.it/conad/it/home/puntivendita/dettaglio.html?idPdv=1414
@@ -6558,7 +6557,6 @@ node	12875317502	https://www.servizialtavolo.it/controllo.php?page=menu_e&id=260
 node	12877956650	https://www.seminarioromanominore.com/
 node	12878632001	https://www.teeteiere.it/
 node	12879083256	https://jubileeofficialstore.com/en/pages/official-store
-node	12879129675	https://lumsa.it/it/home
 node	12879162108	https://rentroomitalia.it/picca/classic-room/
 node	12880878789	https://www.tesla.com/en_eu/findus?location=303441
 node	12880938929	https://www.tesla.com/en_eu/findus?location=Rome4221
@@ -6818,7 +6816,10 @@ node	13285048901	https://www.ciofslazio.it/ostia
 node	13285048902	https://quiunquartierepercrescere.it/quartieri/roma-ostia-ponente/centro-risorse-qui-un-quartiere-crescere
 node	13285049001	https://quiunquartierepercrescere.it/quartieri/roma-ostia-ponente/emporio-aladino-0
 node	13285049301	https://www.regione.lazio.it/cittadini/lavoro/centri-impiego
-node	13288847364	https://www.paideiahospital.it/
+node	13294097301	http://www.lacostierapescevino.it/
+node	13298375196	https://www.taomark.com/
+node	13300901279	https://www.pinsalabglutenfree.com
+node	13305866227	https://www.onoranzefunebrivelli.com
 way	8035487	https://direzionemuseiroma.cultura.gov.it/museo-nazionale-di-castel-santangelo/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
@@ -8316,6 +8317,7 @@ way	455695376	https://www.comune.civitavecchia.rm.it/
 way	455759932	iisadige.it
 way	455759933	istitutostendhal.gov.it
 way	455759936	liceoscientificogalilei.gov.it
+way	455809089	https://www.paideiahospital.it/
 way	456408563	http://www.cobragor.org/
 way	457233421	https://www.omeg2.it/
 way	457420045	https://www.facebook.com/CasaleMarchizzaMentana
@@ -9570,7 +9572,6 @@ way	1414050106	http://www.casadicurapioxi.it
 way	1414379267	https://www.blucamping.it/
 way	1415492517	https://www.unirufa.it
 way	1415688972	https://www.schioppo.aq.it/
-way	1415717211	https://lumsa.it/en/home
 way	1416907269	https://campoantico.it/
 way	1417675204	https://www.vivaiotrasolini.it
 way	1419959019	https://www.inail.it/portale
@@ -9787,6 +9788,7 @@ relation	6566169	www.montilucretili.it
 relation	6566170	www.parcolucretili.it
 relation	6566171	www.parcolucretili.it
 relation	6619597	http://www.asl.vt.it
+relation	6717208	https://www.viefrancigene.org
 relation	6717265	https://www.viefrancigene.org
 relation	6717293	https://www.viefrancigene.org
 relation	6717966	https://www.viefrancigene.org
@@ -10380,6 +10382,7 @@ relation	17950967	https://www.lidl.it/s/it-IT/ricerca-negozio/bracciano-rm/via-s
 relation	17989073	https://www.comune.bracciano.rm.it/vivere-il-comune/luoghi/teatro-del-lago-delia-scala/
 relation	18031930	https://www.facebook.com/gympalacemanziana
 relation	18051918	https://camminodeibriganti.it/mtb/
+relation	18069721	http://u.osmfr.org/m/1111539/
 relation	18106131	https://www.cassanotariato.it
 relation	18140858	https://poliziapenitenziaria.gov.it/polizia-penitenziaria-site/en/centrosportivomt.page
 relation	18180007	https://www.lepiniorientali.it/project/supino/escursioni/sentiero_valle/sentiero_d_valle.htm
@@ -10401,6 +10404,7 @@ relation	18566726	http://www.liceoaprilia.gov.it
 relation	18566731	https://www.isrosselliaprilia.edu.it/
 relation	18616045	http://www.etruriameridionale.beniculturali.it/index.php?it/252/luni-sul-mignone
 relation	18660026	https://www.enel.com/
+relation	18697154	http://u.osmfr.org/m/1111539/
 relation	18776210	http://www.pontesfondatomxcircuit.it/
 relation	18828359	https://camminodeibriganti.it
 relation	18828360	https://camminodeibriganti.it
@@ -10475,10 +10479,12 @@ node	3132175210	http://www.studiodca.it/
 node	3180594238	http://www.osterialaquercia.com/
 node	3315233820	http://www.autogrill.it/portal/public/default
 node	3517484221	https://visiting.europarl.europa.eu/it/visitor-offer/other-locations/europa-experience/rome
+node	3585410298	https://lumsa.it/
 node	3697289480	http://www.ristorantedasandrina.it
 node	3810752249	www.viminalehill.com
 node	3832252157	http://www.caffedelleartiroma.com/
 node	3883978750	http://www.isiaroma.it/
+node	4058542376	https://www.sovraintendenzaroma.it/
 node	4059822722	https://www.locandafrancigena.it/
 node	4071574515	https://www.conad.it/ricerca-negozi/negozio.006436.html
 node	4230923577	http://www.latavernettaumbra.com
@@ -10658,6 +10664,7 @@ node	12702998408	https://www.castellosantamarinella.it/
 node	12707547766	https://www.sanvito-roma.it/
 node	12707550690	https://www.santissimaconcezione.org/
 node	12794836624	https://linktr.ee/franolich
+node	12879129675	https://lumsa.it/
 node	12909349708	https://www.buzziunicem.it/
 node	12983100472	https://lievitopizzeria.it
 node	12997965679	www.allescalette.com
@@ -10671,6 +10678,8 @@ node	13256178943	https://www.museopropagandafide.va/
 node	13261450880	https://happyluggagestorage.com/
 node	13261450884	https://baglocker.com/
 node	13289820222	http://casamadrenazarena.it/
+node	13291094784	https://gelateriamasci.it
+node	13297314285	https://www.gesusacerdote.org/
 way	23840659	https://santignazio.gesuiti.it/
 way	25400176	https://www.santamariasopraminerva.it
 way	25610962	https://www.chiesadelgesu.org/
@@ -10682,6 +10691,7 @@ way	44132631	https://www.battisterolaterano.it/
 way	44448525	https://santaprassede.wordpress.com
 way	50773061	https://www.sansebastianofuorilemura.org/
 way	52251976	http://www.santasusanna.org/
+way	52333244	https://nostrasignoradelsacrocuore.mozellosite.com/
 way	52333460	https://www.santagneseinagone.org/
 way	52334111	https://www.pisma.it/
 way	52335646	https://saintlouis-rome.net/
@@ -10689,6 +10699,7 @@ way	52457969	https://www.carmelitanicentroitalia.it/dove-siamo/conventi-della-pr
 way	52458908	https://www.sanmarcelloalcorso.eu/
 way	53638757	https://www.basilicaapollinare.org/
 way	54044477	https://trinitadeimonti.net/
+way	58774198	https://www.holidayvillage.it/
 way	60517021	https://santamariadeimiracoli.com
 way	60575532	https://santaluciagonfalone.it/
 way	60615616	https://www.sveti-jeronim.org/
@@ -10796,6 +10807,7 @@ way	255284986	https://www.ifad.org/
 way	271932734	https://www.piac.it/
 way	276412668	http://www.centrosanlorenzo.com
 way	301427733	http://www.relaiscaladeiromani.it/
+way	301626727	https://circolovelicoventotene.com/
 way	316217519	http://www.eneahotel.it
 way	324283427	https://www.conad.it/ricerca-negozi/negozio.005940.html
 way	325444491	https://www.cycleband.com/
@@ -10843,6 +10855,7 @@ way	881434721	https://www.augustinianorder.org/
 way	998191514	http://www.santacroceroma.it
 way	1007107718	https://colosseo.it/
 way	1066345894	https://www.albergotoscana.net/
+way	1128013555	https://www.agriturismolasosta.it/
 way	1132023738	https://www.castelloboncompagniludovisi.it
 way	1162435641	https://club-ristorante.business.site/
 way	1169435607	https://www.todis.it/
@@ -10865,7 +10878,6 @@ relation	326080	https://www.basilicasanclemente.com/
 relation	418303	https://www.collegiosantanselmo.com/chiesa/
 relation	422911	https://www.basilicasanlorenzofuorilemura.it/
 relation	449593	https://sansilvestroincapite.org/
-relation	941918	https://nostrasignoradelsacrocuore.mozellosite.com/
 relation	1026680	https://www.oasidigreccio.it/
 relation	1576101	https://www.cgu.it/it/santo-stefano-rotondo/
 relation	1705010	http://www.tordespecchi.it/
@@ -10911,6 +10923,7 @@ relation	14228417	https://www.santuarivallesanta.com/santuari/poggio-bustone/
 relation	17759647	https://colosseo.it
 relation	19560663	https://www.parchilazio.it/vico
 relation	19560664	https://www.parchilazio.it/selvadellamone
+relation	19811352	https://lumsa.it/
 node	32631124	http://www.giolitti.it/
 node	72962031	http://italia.indettaglio.it/ita/lazio/poggiomirteto.html
 node	260540041	http://www.mymovies.it/cinema/roma/4916/
