@@ -347,7 +347,10 @@ node	72994844	https://www.comune.pattada.ss.it/
 node	72994859	https://comune.pozzomaggiore.ss.it/
 node	226923518	https://www.eni.com/
 node	227777261	https://www.tamoil.it/
+node	259430501	https://www.rfi.it/it/stazioni/rudalza.html
+node	259430562	https://www.rfi.it/it/stazioni/cala-sabina.html
 node	259445128	http://www.comune.loiriportosanpaolo.ot.it/
+node	259744281	https://www.rfi.it/it/stazioni/olbia-terranova.html
 node	290372245	https://www.instagram.com/trattoria_bar_manu/
 node	297644300	https://blunavytraghetti.com/
 node	299418663	https://www.eurospin.it/
@@ -418,6 +421,10 @@ node	1292013709	https://www.pessighette.it/
 node	1316564759	https://www.pizzeriadafilippo.it/
 node	1322509389	https://www.rfi.it/it/stazioni/uras-mogoro.html
 node	1322521224	https://www.rfi.it/it/stazioni/marrubiu-terralba-arborea.html
+node	1323937077	https://www.rfi.it/it/stazioni/oschiri.html
+node	1323945585	https://www.rfi.it/it/stazioni/berchidda.htmlwiki
+node	1323955165	https://www.rfi.it/it/stazioni/monti-telti.html
+node	1324015802	https://www.rfi.it/it/stazioni/marinella.html
 node	1349356659	https://www.mareblucamping.it
 node	1350404391	http://www.comune.lotzorai.og.it/
 node	1353689258	http://www.latanadelvolo.com/Home.html
@@ -1182,6 +1189,7 @@ node	4645250189	https://www.calareale.it/
 node	4672617289	http://www.neverlandsrl.com
 node	4680655390	https://www.pescatoemangiatolbia.it/
 node	4686145030	https://www.ventomare.com
+node	4687652334	https://www.rfi.it/it/stazioni/su-canale.html
 node	4713014990	https://www.siddura.com/
 node	4718557092	https://www.stradeanas.it/it
 node	4756742709	https://www.rioxoris.it/
@@ -1633,7 +1641,6 @@ node	10752352474	http://www.cuiledemolino.it/
 node	10752380548	https://www.agriturismocristina.com/
 node	10781475885	https://www.facebook.com/LaMuragliaCagliari/
 node	10784772248	https://www.cai.it/sezione/nuoro/
-node	10788272290	https://www.doppelganger.it/it/
 node	10807021858	https://www.yumisushialghero.com/
 node	10817065847	https://macelleria.antonioatzeni.com
 node	10848245803	https://web-menu.cassanova.com/5620021b-7c5a-4ccc-bfc0-7fd7c5bc6266/14080/categories/
@@ -1774,6 +1781,7 @@ node	12255083938	https://www.marinapoltuquatu.com
 node	12255222086	https://www.marinadicalacapra.com/en/home-en/
 node	12271300155	https://www.bebpalmasera.com
 node	12281703379	https://it.wikipedia.org/wiki/Giovanni_Maria_Angioy
+node	12299001194	https://www.rfi.it/it/stazioni/olbia.html
 node	12321369225	https://www.sardiniadomus.it/
 node	12321371439	https://acaciaedilizia.it/
 node	12321395317	https://navitora.it/
@@ -2011,6 +2019,7 @@ node	13274106890	https://www.sapoesiacantada.it
 node	13278338177	https://www.comune.suni.or.it/
 node	13287123839	https://streetartutopia.com/2024/01/04/beautiful-mural-by-vanda-banti-in-zeddiani-sardinia-in-italy/
 node	13287127501	http://www.cosir.org
+node	13303625501	http://www.rosasfotografia.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2164,6 +2173,7 @@ way	190955014	http://www.prolocomusei.it/
 way	191100182	http://musei.beniculturali.it/musei?mid=5371&nome=museo-nazionale-memoriale-giuseppe-garibaldi
 way	194362860	https://www.guardiacostiera.gov.it/cagliari
 way	195947877	https://www.comune.bono.ss.it
+way	195977770	https://www.nostrasignoralattedolce.it
 way	197107889	https://www.boiautomobili.it/
 way	198074375	http://www.sardegnacultura.it/j/v/253?s=20731&v=2&c=2461&c1=2617&t=1
 way	198074385	https://www.tharros.info/
@@ -4221,7 +4231,6 @@ way	523352008	http://www.comune.villagrandestrisaili.og.it
 way	525168447	http://www.comune.gairo.nu.it
 way	525203060	http://www.pastificiosaporidisardegna.it
 way	525312501	http://www.comune.nuragus.ca.it
-way	525312509	http://www.comune.esterzili.ca.it
 way	525421509	http://www.appikkoniu.it
 way	528960804	http://www.comune.nurri.ca.it
 way	528960808	http://www.comune.orroli.ca.it
@@ -4362,6 +4371,7 @@ way	1411289213	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	1411289214	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	1411289217	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	1411289218	http://arst.sardegna.it/orari_e_autolinee/TPL.html
+way	1450362548	http://www.comune.esterzili.ca.it
 relation	41025	https://www.comunearzachena.it
 relation	1808857	http://www.treninoverde.com/
 relation	3647706	http://www.comuneescalaplano.info/
