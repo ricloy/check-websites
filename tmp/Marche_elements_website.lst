@@ -1,5 +1,4 @@
 @type	@id	website
-node	26859427	https://www.campingcalypso.it/
 node	26859596	https://www.campingledzeppelin.it/
 node	70980633	https://www.comune.grottammare.ap.it/
 node	130009920	http://www.hotelpassetto.it/
@@ -911,7 +910,6 @@ node	6745567315	https://catalogo.beniculturali.it/detail/HistoricOrArtisticPrope
 node	6780410058	https://www.gate-away.com
 node	6823873570	http://www.farmaciafortuna.it/
 node	6828345292	https://www.farmaciablasi.it/Home-Page
-node	6829830194	https://www.campingilfrutteto.it/
 node	6832789217	https://www.facebook.com/farmaciasalaria/
 node	6858926135	https://www.pastalamadia.it/
 node	6872910286	https://ilmandriano.it/
@@ -1291,6 +1289,7 @@ node	10173324911	https://www.d-piu.com/punti_vendita/d280-montemarciano/
 node	10175871701	https://www.risparmiocasa.com/store/castelfidardo/
 node	10177798532	https://www.locandadelwest.it/
 node	10182481939	https://www.ripa.bcc.it
+node	10182481943	https://www.comune.fermo.it/Vivere-il-comune/Luoghi/Sede-Corpo-di-Polizia-locale
 node	10186350184	https://www.lp-auto.it/
 node	10186350185	https://www.pc-smart.it/
 node	10186456351	https://www.farmaciacomunalemorrovalle.it
@@ -1363,14 +1362,12 @@ node	10858842912	https://www.ristoranteilpiaceredellacarne.it/
 node	10876598018	http://scuromilano.it
 node	10876598492	http://www.flatshop.it/
 node	10877142210	https://prink.it/
-node	10881659837	https://www.pinetacamping.it/
 node	10891922445	https://www.leconfezioni.it/
 node	10893542845	https://www.campinglefarfalle.com/
 node	10893597151	https://alfiume.it/en/
 node	10893597152	https://sanprocolo.com/
 node	10896048817	https://ascolipiceno.ubiklibri.it/home.html
 node	10898589461	https://comprensivobetti.edu.it/
-node	10908218211	https://radio.unicam.it
 node	10908438216	https://www.3cimmobiliare.it
 node	10908438237	https://www.roberto-conti.it
 node	10915561882	http://www.zerosetteaccordions.com/
@@ -2196,6 +2193,9 @@ node	13277254968	https://www.nuradanza.com/
 node	13283519977	https://museodiocesanocamerino.it
 node	13284644407	https://www.studiodentisticostrappa.it/
 node	13287214206	https://archiviodistatofermo.cultura.gov.it/home
+node	13299928853	galdellibatterie.it
+node	13299986879	https://www.nationalsanit.it
+node	13307230701	https://www.librerie.coop
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2306,7 +2306,6 @@ way	174192372	https://mercatoitticosbt.it/
 way	176823254	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	176823255	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	183160671	http://www.standbycoffeebistro.com/
-way	183427234	www.halleyweb.com/c044067/zf/index.php/servizi-aggiuntivi/index/index/idtesto/13
 way	196171471	http://www.finisafricae.info/
 way	196176606	https://www.comune.pesaro.pu.it/turismo/da-vedere-in-citta/parchi-e-giardini/parco-miralfiore/
 way	199469514	https://www.governatoriauto.com/
@@ -2600,6 +2599,7 @@ way	437202561	https://www.bancaditalia.it/chi-siamo/organizzazione/filiali/ancon
 way	438665641	http://www.campeggioparadiso.com
 way	438777427	https://www.carabinieri.it/
 way	439006128	https://www.carabinieri.it/
+way	439007618	lavolpebianca.it
 way	439016112	http://www.rifugiosibilla1540.com/
 way	439208734	https://www.iluoghidelsilenzio.it/chiesa-della-romita-a-croce-visso-mc/
 way	439447876	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100370546
@@ -2759,7 +2759,7 @@ way	979674434	https://www.bb-infinito.com/
 way	983017414	http://www.hotelathena-pesaro.com/
 way	983017415	https://www.hotelduepavoni.com/
 way	983586717	https://www.gardenriver.it/
-way	985177386	https://www.campingtrearchi.it/index.php/it/
+way	985177386	https://https://www.campingtrearchi.it/
 way	987168330	https://lumared.wixsite.com/tennisclubflaminia
 way	995585964	http://musei.beniculturali.it/musei?mid=414&nome=area-archeologica-di-helvia-recina
 way	997978029	https://www.itisurbino.edu.it/
@@ -2861,6 +2861,7 @@ way	1205253580	https://cluanadog.it
 way	1205444411	https://icviareginaelena.edu.it/struttura/via-regina-elena/carlo-lorenzini-collodi/
 way	1207229688	https://www.conad.it/ricerca-negozi/negozio.009722.html
 way	1207229808	https://negozi.vodafone.it/civitanova-marche/vodafone-store-il-cuore-adriatico
+way	1207229825	https://stores.miriade.com/it/italia/macerata/civitanova-marche
 way	1208463703	https://turismo.unione.montiazzurri.it/monumenti-cms/chiesa-di-s-francesco-3/
 way	1210548380	https://www.riservaboscoditecchie.it/
 way	1210548628	https://www.valentinoresort.com
@@ -3005,7 +3006,13 @@ way	1447098600	https://www.comune.santavittoria.fm.it/vivere_il_comune/luoghi/lu
 way	1447130548	https://www.ipsiacorridoni.edu.it/
 way	1447238464	https://www.iluoghidelsilenzio.it/chiesa-madonna-del-monte-santa-vittoria-in-matenano-fm/
 way	1447238465	https://www.iluoghidelsilenzio.it/chiesa-di-san-giovanni-santa-vittoria-in-matenano-fm/
+way	1447552825	www.halleyweb.com/c044067/zf/index.php/servizi-aggiuntivi/index/index/idtesto/13
 way	1447933386	https://www.pars.it/
+way	1449699815	https://www.campingilfrutteto.it/
+way	1449699818	https://www.campingledzeppelin.it/
+way	1449699824	https://www.campingcalypso.it/
+way	1449963692	https://www.pinetacamping.it/
+way	1450201363	www.halleyweb.com/c044067/zf/index.php/servizi-aggiuntivi/index/index/idtesto/13
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
 relation	1512917	https://www.iismerlonimiliani.it/
@@ -3075,6 +3082,8 @@ relation	11103673	https://www.comunesbt.it/Aree-tematiche/Quartieri-2/Salaria
 relation	11103731	https://www.comunesbt.it/Aree-tematiche/Quartieri-2/Agraria
 relation	11103781	https://www.comunesbt.it/Aree-tematiche/Quartieri-2/Fosso-dei-Galli
 relation	11567554	https://ropewiki.com/Presale
+relation	11622887	https://www.sibillini.net/chiedi_sibilla/sentieri/sentieriNatura/N15/
+relation	11623097	https://www.sibillini.net/chiedi_sibilla/sentieri/sentieriNatura/N4/
 relation	12234549	https://www.comune.montelupone.mc.it/avvisi-cms/monitoraggio-impianto-fotovoltaico-di-san-firmano/
 relation	12379392	https://www.amastrofili.it/osservatorio/
 relation	13145363	https://www.marinadorica.it/
@@ -3324,6 +3333,7 @@ node	9324689493	https://www.locandadellapieve.com
 node	9690460176	https://mexicodemicorazonosimo.eatbu.com/
 node	9831945293	https://www.agricampingtramontorosso.it/
 node	9875326926	https://m.facebook.com/ristorantepizzeriaIlFagiano/
+node	10048771650	https://www.bartolacci.it/il-nostro-agricampeggio/
 node	10065100786	https://lasorgentedelsole.com/
 node	10065100790	https://lasorgentedelsole.com/
 node	10089105756	https://www.nordesthotel.com/
@@ -3337,6 +3347,7 @@ node	10573665606	https://www.clarissepollenza.com/
 node	10573665607	https://www.salesianimacerata.it/
 node	10584848592	https://maps.app.goo.gl/2Z4SDoi838tSmuP86
 node	10634263022	https://etoilebistrot.com/
+node	10642737829	https://www.ollyfarm.it/
 node	10688426439	https://www.caifermo.it/
 node	10893542846	https://camping44.com/
 node	10930117518	https://enjoycamerino.it
@@ -3372,6 +3383,7 @@ way	143339638	https://www.iguzzini.com/
 way	144658381	https://sangiuseppedacopertino.net/
 way	157172901	https://www.icmarotta.edu.it/
 way	163510710	https://visiturbania.com/strutture/
+way	169021246	https://www.campingreno.eu/
 way	172284112	http://www.vecchiaquercia.it/
 way	177972002	https://www.ristorantechiaroscuro.it/
 way	196204922	http://www.centromiralfiore.it/
@@ -3393,6 +3405,7 @@ way	310344457	https://www.lidl.it/
 way	311171026	http://www.beachstadium.net/
 way	326834060	https://www.campingtorrette.com/
 way	348307720	https://www.paradise-monsano.com/
+way	369297547	https://villaggiocentrovacanzedeangelis.com/
 way	379629433	https://www.eurospin.it/punti-vendita/jesi-493890/
 way	397272665	http://www.padalino.gov.it
 way	400562786	http://www.chaletamare.it/
@@ -3415,6 +3428,7 @@ way	545671787	http://www.santamariadellerose.com/
 way	547728245	http://igattidiosiride.it/
 way	547736968	http://www.hotelelisabethdue.it/
 way	585676708	https://www.prolocoportopotenza.it/index.php/area-sosta-camper
+way	593509403	https://www.campingriviera.it/
 way	609526585	http://www.pesceazzurro.com/ristorante-fano/
 way	609700964	https://www.ristorantealmare.it/
 way	614086773	https://www.paradisevacanze.com
@@ -3437,12 +3451,14 @@ way	789642768	http://www.golf-village.it/
 way	795795166	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/356-san-giuseppe.html
 way	795829519	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/432-san-giovanni-battista.html
 way	795943206	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/433-santuario-madonna-delle-grazie.html
+way	839489411	https://www.campingpanorama.it/
 way	904375042	http://www.paciepagliarigruppo.it
 way	939093143	http://www.itcbramante.it
 way	960148809	https://www.hotel-mareblu.it/
+way	985178874	https://residence-mare.com/
 way	1029684442	https://www.sannicoladatolentino.org/
 way	1060551620	https://www.centrovacanzeverdemare.it/
-way	1102428976	https://www.camping.it/marche/mareverde?ref=p
+way	1102428976	https://www.feelsenigallia.it/dormire/campeggio-mare-verde/
 way	1119638007	https://fedrigoni.com/
 way	1126116303	https://www.coopalleanza3-0.it/
 way	1133916798	https://www.carmelitanecamerino.it/
@@ -3470,8 +3486,12 @@ way	1419430577	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e
 way	1422909593	https://www.proloco-fermignano.it/area-camper/
 way	1432560930	https://www.axis-italy.com/
 way	1443310269	https://www.comune.castelsantangelosulnera.mc.it/vivere-il-comune/luoghi/area-sosta-camper/
+way	1450684804	https://www.feelsenigallia.it/dormire/raggio-di-luna
 relation	1085619	https://www.cappuccinimarche.org/?page_id=21673
 relation	6517698	http://www.sorellepoveredisantachiara.it/
+relation	8268454	https://www.campinginternazionale.com/
+relation	8268459	https://www.greengardensirolo.com/
+relation	8268460	https://www.tobaccoroad.it/
 relation	10967104	https://www.schnell.it/
 relation	15341759	https://diocesimacerata.it/
 relation	15982110	https://www.rivieradelconero.info/
