@@ -109,7 +109,6 @@ node	528762314	http://www.comune.casteldelmonte.aq.it/
 node	528762389	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10743
 node	529252174	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10758
 node	532319910	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10766
-node	540505714	https://www.credit-agricole.it/
 node	554198621	https://dilanaedaltrestorie.it/
 node	558350225	https://www.ristorantedaclara.it/
 node	558549918	https://negozi.vodafone.it/montesilvano/vodafone-store-montesilvano
@@ -462,7 +461,6 @@ node	3414358810	https://www.ubibanca.com/it/
 node	3418580806	https://www.mondadoristore.it/app/storeLocator/detail?pickUpPoint=1325
 node	3429304559	https://www.manufattincuoio.it/
 node	3512011464	http://locandatorredelparco.altervista.org
-node	3571200293	https://www.campinglakeplacid.it
 node	3578354630	http://disciascio.it
 node	3611415640	https://panificiopanetta.myadj.it/
 node	3639040190	https://www.errediweb.it/
@@ -748,7 +746,6 @@ node	6341877883	https://www.comuniecitta.it/frazioni-del-comune-di-ortona-69058
 node	6342158307	https://www.sciue-sciue.it/
 node	6343687703	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10746
 node	6348378418	https://tracks.mxcenter.it/index.php/circuiti-motocross/abruzzo/scheda-circuito?regione=abruzzo&dove=162
-node	6355395217	https://www.ilprimopapavero.it/
 node	6356958824	https://www.mondadoristore.it/negozi/punti-vendita/MONDADORI-BOOKSTORE-L-AQUILA/14701/
 node	6362818084	https://trasparenza.comune.laquila.it/archivio13_strutture_0_8689.html
 node	6362818185	https://trasparenza.comune.laquila.it/archivio13_strutture_0_11081.html
@@ -1589,6 +1586,7 @@ node	7736205454	https://www.orologeriasatolli.it/
 node	7736776154	https://jump-shot.it/
 node	7736851406	https://www.brotherstore.it/
 node	7762684313	http://www.comacspa.it/sintesi-showroom/
+node	7762844438	https://www.pluri-service.it
 node	7762886184	https://www.sambucetobackschool.it/
 node	7772327093	https://www.cittabianca.info/index.php/homepage-acquaperla.html
 node	7772327094	https://www.studiomedicodeiuliis.it/
@@ -2255,7 +2253,6 @@ node	9920709949	"http://italia.indettaglio.it/ita/abruzzo/teramo_silvi_pianacce.
 node	9935083847	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10848
 node	9939957625	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10804
 node	9942822770	https://www.intesasanpaolo.com/
-node	9943171009	https://m.facebook.com/Camping-maiella-1943140985985636/
 node	9944099372	https://libreriabarbati.wixsite.com/barbati
 node	9956436904	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10572
 node	9958500604	https://www.facebook.com/pages/biz/bucchianico/Al-Cantuccio-ristorante-1371748589602844/
@@ -3469,6 +3466,7 @@ node	13176918504	https://www.eurospin.it
 node	13180375025	https://www.masicalzature.it/
 node	13180375026	https://www.realcantieri.it/
 node	13180395025	https://www.laselvapesca.it/
+node	13183712665	https://www.istitutoalberghierovillasantamaria.edu.it/luogo/sede-centrale/
 node	13185489031	https://teramo.aci.it/
 node	13186048255	https://www.marinadspose.com/
 node	13186250303	https://unica.istruzione.gov.it/cercalatuascuola/istituti/TEMM83001Q/scm-b-croce-s-egidio/
@@ -3502,6 +3500,15 @@ node	13277292982	https://www.fontecchiointernational.org
 node	13282991907	https://imagomuseum.it/
 node	13285536117	https://www.inèpost.it
 node	13286686420	http://www.comune.giulianoteatino.ch.it
+node	13296773061	https://www.beps.it/it/negozi/san_giovanni_teatino
+node	13296773072	https://gruppoedif.it/
+node	13298953570	https://www.lavorint.it/dove-siamo/item/pescara
+node	13299334507	https://www.comune.villasantamaria.ch.it/vivere_il_comune/luoghi/luogo_8.html
+node	13302097728	https://difrancescochocolate.it/
+node	13303026685	https://www.dazerostudio.it/
+node	13304669679	https://sanita.regione.abruzzo.it/canale-assistenza-territoriale/consultori/consultorio-san-demetrio
+node	13304669680	https://sanita.regione.abruzzo.it/canale-assistenza-territoriale/consultori/consultorio-avezzano
+node	13304669681	https://sanita.regione.abruzzo.it/canale-assistenza-territoriale/consultori/consultorio-celano
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3565,7 +3572,6 @@ way	82748488	https://www.hotelalbatrosroseto.it/
 way	84727311	https://www.galleriascalo.it/
 way	84977536	http://www.e-fish.pescara.it/
 way	85081322	https://pescarasambuceto.mercatinousato.com/
-way	85081331	https://gruppoedif.it/
 way	85556856	https://www.galleriascalo.it/
 way	86585507	http://www.aeroportodeiparchi.it/
 way	88359368	https://www.monacelliarredi.it/
@@ -3759,7 +3765,6 @@ way	342486095	https://www.villaggioaquilareale.it/
 way	342488435	http://www.campingvecchiomulino.it/index.html
 way	342489791	https://www.lefoci.it/italy/index.html
 way	342490373	https://www.campingfuniviadelgransasso.com/
-way	342520054	https://www.rifugiofontevetica.it/dintorni/
 way	342526299	www.campinglagenzianapasetta.it
 way	342797930	http://www.danonnali.it
 way	343946907	http://www.seripubbli.it/Paesi/SanPietroCampov.htm
@@ -3872,7 +3877,7 @@ way	490686818	https://www.isoladelgransasso.it/
 way	491342735	https://it.wikipedia.org/wiki/Fonte_della_Noce
 way	498678526	https://www.icpescara10.edu.it/scuola-primaria/
 way	501213648	https://www.villaducadegliabruzzi.com
-way	503504129	https://cooperativatavolarotonda.com/camping-orsa-minore/
+way	503504129	https://www.campingorsaminore.it/
 way	503526781	https://abruzzo.agenziaentrate.it
 way	503947374	http://www.madaservice.it
 way	508454795	https://www.poste.it/
@@ -3908,7 +3913,6 @@ way	576476872	https://www.fcagroup.com/it-it/pages/home.aspx
 way	576476878	https://www.isri.de/
 way	580247021	http://hotelmiramaresilvi.com
 way	580587901	http://www.arcieridelfino.it
-way	584939485	http://www.paesiteramani.it/Paesi/SilviSPio.htm
 way	587034682	https://www.officineperini.com
 way	602632292	https://www.campingfrancavilla.it/francavillaalmare/
 way	605352030	https://www.cantinafrentana.it/
@@ -3948,7 +3952,6 @@ way	654030792	https://www.ilprimato.eu/natura-e-ambiente/12437-riserva-naturale-
 way	654873829	https://adriaticaestintorisas.it/
 way	657058775	https://www.conad.it/ricerca-negozi/negozio.050066.html
 way	659661122	https://www.fontefico.it/en/
-way	659671366	https://www.sangroaventino.it/abetinarosello/
 way	660458604	https://www.lidl.it/s/it-IT/ricerca-negozio/vasto-ch/circonvallazione-histoniense-190/
 way	660510024	https://www.villadanilo.it/
 way	661136997	https://www.abruzzocibus.com/
@@ -4340,6 +4343,7 @@ way	1081099206	http://www.lemagnolie.com
 way	1081145975	https://www.tenutatalamonti.it/en/home-en/
 way	1082379169	https://www.visitsilvi.it/cosa-vedere/la-fontana-di-silvi-paese/39-10.html
 way	1082545522	https://saila.it/il-negozio-saila/
+way	1082720567	https://www.heliopolis.it/
 way	1082919992	https://www.santuaritaliani.it/santuario/beato-nunzio-sulprizio-santuario-diocesano/
 way	1083577262	https://www.parconaturalemajella.it
 way	1083741224	http://www.icfarafpetri.gov.it
@@ -4469,7 +4473,6 @@ way	1216112264	https://www.riservasorgentidelpescara.it/tariffario-regolamento-a
 way	1223142723	https://www.onpmi.org/case-di-accoglienza/ofena-aq/
 way	1224867456	https://www.noarabeach.it/
 way	1224867457	https://agricampingmarino.it/
-way	1224867458	https://www.facebook.com/AgricampeggiomareESoleRosi/
 way	1225415023	https://questure.poliziadistato.it/it/Teramo
 way	1225415024	https://questure.poliziadistato.it/servizio/uffici/5730dc9d62dab858942235
 way	1225535770	https://www.enelgreenpower.com/it/impianti/operativi/centrale-idroelettrica-triano
@@ -4662,6 +4665,8 @@ way	1436386490	https://cantinespinelli.it/
 way	1436749065	https://www.parcosirentevelino.it/pun_dettaglio.php?id_pun=2843
 way	1443674965	https://www.roccadisotto.com
 way	1447099817	https://www.solisgreenlog.com/
+way	1449601482	https://it.wikipedia.org/wiki/Strade_provinciali_della_provincia_di_Pescara
+way	1449676197	https://www.campinglakeplacid.it
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
@@ -4835,7 +4840,6 @@ relation	13732931	https://www.leonellomacchine.it/
 relation	13750826	https://www.centrosportivofairplayssd.com/
 relation	13759533	https://www.rustichella.it/
 relation	13802827	https://www.fattoriadannunzio.it
-relation	13815366	https://www.rondinellacamping.it/
 relation	13888340	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-bartolomeo-in-legio/
 relation	13910440	https://www.gabrielliunika.it/it/il-mio-negozio.511.html
 relation	13918858	http://www.aziendacantalupo.it/
@@ -4972,6 +4976,7 @@ relation	19409648	https://www.piste-ciclabili.com/itinerari/2577-vasto-torrente-
 relation	19482442	http://www.comunedipollutri.it/il-paese/bosco-di-don-venanzio/28/
 relation	19581797	https://www.aslteramo.it/ospedale-di-giulianova/
 relation	19791573	https://www.tesla.com/findus/location/supercharger/carsolioricolasupercharger
+relation	19825642	https://www.sangroaventino.it/abetinarosello/
 node	3167415761	http://www.filippone.it
 node	3964634186	http://casadiripososomero.jimdo.com/
 node	4696406586	https://avezzano.ubiklibri.it/
@@ -5007,7 +5012,8 @@ node	13026259408	https://www.comune.lanciano.ch.it/
 node	13089598897	https://www.agriturismocolmorino.it
 node	13197501469	https://www.comune.scontrone.aq.it/i-borghi/musei/centro-di-documentazione-paleontologico/
 node	13204523586	http://www.siconte.it/it/punti-vendita/si-superstore/pescara-via-bologna
-way	93951553	https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.campingsurabaja.it%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExNHQ3RUhsNjlybTZhYmpLNwEeMkhOF1isoFjAuOn58meBOwL89Jg7KkFTaXtj-mAL-BgX8wPAO985ziB01cw_aem_SqmNlSc87-UkW1QaPta8rA&h=AT2jncjJuDNp22CmJA_hwe1-ffhQBfihrhd
+node	13291149806	https://www.ristoranteilpicchio.it
+way	93951553	http://www.campinglaplaya.it/
 way	93951554	https://www.campingsurabaja.it/
 way	93951555	https://www.gildacamping.it/
 way	93958554	https://www.storkcampingvillage.com/
@@ -5017,11 +5023,13 @@ way	148593095	https://www.hotellenazioni.com
 way	246620756	https://www.polomusealeteramo.it/sedi/sito-archeologico-di-largo-sant-anna/14-10.html
 way	288614834	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-onofrio-al-morrone/
 way	294085362	http://www.ristoranteriparidigiobbe.it/
+way	342526298	https://www.campinglequite.eu/
 way	462217261	www.caipenne.it
 way	483498665	https://www.ball.com/na/about-ball/contact-us
 way	505162414	https://www.hotelitalia.org
 way	851992976	https://www.decathlon.it/
 way	853983627	https://nauticagabbiano.it/contatti/
+way	1077993519	https://www.rifugiosilone.it/
 way	1088076365	https://www.comune.pietranico.pe.it/zf/index.php/trasparenza/index/index/categoria/81
 way	1100938727	https://www.abruzzihotel.it/
 way	1163730026	https://www.kzrkart.it/
@@ -5038,6 +5046,7 @@ way	1426372819	https://www.kzrkart.it/
 way	1426473377	https://www.museoetnograficobomba.it/
 relation	8646860	http://www.gssi.it/
 relation	9383854	https://www.cascatedelverde.info/
+relation	13815366	https://www.rondinellacamping.it/
 relation	18178088	http://www.cantinacrecchio.it/contattaci/
 relation	19190580	https://borghidelgransasso.it/
 node	768603431	https://farmaciasanmassimopenne.it/
@@ -5077,6 +5086,7 @@ node	12942156758	https://www.oasitigre.it/it.html
 node	12946775009	https://shop.unigross.it/chi-siamo/
 node	12988185802	https://www.yelp.com/biz/supermercato-granmerkato-lanciano
 node	13159628059	https://www.facebook.com/ASLPescara/posts/-elice-apertura-nuovi-studi-di-medici-di-medicina-generale-si-informa-che-%C3%A8-pros/1126222549514008/
+node	13302097728	https://difrancescochocolate.it/negozio/
 way	10791681	https://www.ilpescara.it/attualita/svincolo-circonvallazione-san-silvestro-zona-30-modifiche-viabilita-sicurezza.html
 way	12653775	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
 way	31971383	https://www.ilpescara.it/attualita/svincolo-circonvallazione-san-silvestro-zona-30-modifiche-viabilita-sicurezza.html
