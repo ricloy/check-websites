@@ -1,6 +1,5 @@
 @type	@id	website
 node	26859619	https://www.lamantinera.it/
-node	26859641	https://www.villaggiomimosa.com/
 node	67273943	https://www.comunedicrosia.it
 node	67274418	http://www.comune.calopezzati.cs.it/
 node	67274517	https://www.comune.frascineto.cs.it
@@ -209,6 +208,7 @@ node	5050211244	https://www.facebook.com/Bar-Gelateria-Da-Giacinto-2819575018368
 node	5119046424	http://www.lidoskipper.com
 node	5119059425	http://www.lidoskipper.com
 node	5120696586	https://www.tesla.com/findus/location/supercharger/moranocalabrosupercharger
+node	5225545576	https://www.poste.it
 node	5233490247	https://negozi.vodafone.it/catanzaro/vodafone-store-catanzaro-lido
 node	5235087484	https://www.giardinoiti.it/
 node	5237894981	https://www.sabait.it/it/parcheggi/cosenza/cosenza-i-due-fiumi
@@ -309,7 +309,7 @@ node	8578353673	https://www.lidl.it/
 node	8652130280	http://www.aviscittanova.it/
 node	8668774189	https://www.comune.corigliano-rossano.cs.it/
 node	8805179434	https://www.trony.it/online/store/MTR008_A
-node	8860487765	www.menocosti.it
+node	8860487765	https://www.menocosti.it/
 node	8894723706	https://cenadistore.it/
 node	8953296061	https://www.cisalfasport.it/
 node	8971439819	https://www.conad.it/ricerca-negozi/negozio.010243.html
@@ -444,7 +444,6 @@ node	10887051209	https://www.hairstudioscosenza.it/
 node	10892982521	https://www.ristorantepizzeriametropolis.com/
 node	10892982547	https://www.geraceferramenta.it/
 node	10894215570	https://kingu.it/
-node	10899966471	https://cibusminniti.it
 node	10909078161	http://simarigioielli.com/
 node	10909428201	https://www.elitefitness.it
 node	10909428202	https://www.arddiscount.it/
@@ -549,7 +548,6 @@ node	11809676401	https://negozi.vodafone.it/rende/vodafone-store-metropolis
 node	11865914728	https://ormenelparco.it/
 node	11921758851	https://sushionelamezia.it/
 node	11928275421	https://shitcoins.club/localizzazione-atm/atm-bitcoin-reggio-calabria-via-crisafi
-node	11951360970	https://www.facebook.com/share/Z8aYVELA7WDHAxB9/?mibextid=LQQJ4d
 node	11972463070	https://www.facebook.com/profile.php?id=100063651634154
 node	12005929361	http://www.lidoalabama.it/
 node	12020669190	https://www.facebook.com/lido.smeraldo.12
@@ -657,6 +655,7 @@ node	13233022661	https://www.winetsolution.com/
 node	13283296745	https://www.poste.it
 node	13285130801	https://www.studiotramontana.it/
 node	13290796985	"https//stefyhouse,it"
+node	13297249204	https://www.centromedicogitalia.it/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	47051512	https://www.sanrobertoebiagio.it/indexmobile.php
 way	86940311	https://www.sacal.it/
@@ -884,6 +883,9 @@ way	443732597	https://www.museoarcheologicoreggiocalabria.it
 way	443732622	https://www.tripadvisor.it/Attraction_Review-g187777-d13204923-Reviews-Chiesa_di_Santa_Lucia-Reggio_Calabria_Province_of_Reggio_Calabria_Calabria.html
 way	443732696	https://www.itepiria.edu.it/
 way	443872351	http://www.palabotteghelle.it/
+way	443873835	https://cibusminniti.it
+way	443873899	https://unmondodipizza.it
+way	443874051	https://villalaviniarc.it
 way	443887808	https://www.posteitaliane.it/
 way	443887811	http://smsgalilei.altervista.org
 way	443897844	https://www.itepiria.edu.it/
@@ -1235,6 +1237,8 @@ way	1433226137	https://www.asp.cz.it/dipartimenti/dipartimento-salute-mentale-g-
 way	1433727346	http://www.comune.mottasantalucia.cz.it/
 way	1447516612	https://www.diocesicassanoalloionio.it/cattedrale/
 way	1448243056	https://www.termesibarite.it/
+way	1449311326	https://www.facebook.com/share/Z8aYVELA7WDHAxB9/?mibextid=LQQJ4d
+way	1449320580	https://calabriagreca.it/blog/hotel/camping-doccica/
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	4277258	https://www.santaspina.it/
@@ -1483,6 +1487,8 @@ relation	19541380	https://www.kalabriatrekking.it/
 relation	19541381	https://www.kalabriatrekking.it/
 relation	19792370	https://www.facebook.com/p/Parrocchia-San-Francesco-dAssisi-Cassano-Ionio-100064883046274/
 node	470285761	https://pollinorafting.it/camping/
+node	1059765318	https://www.rivadelsolbeachresort.com/
+node	1059765627	https://www.calalandrusa.com/
 node	1794725248	https://catanzarolido.ubiklibri.it
 node	1811214931	http://www.computerdiscount.it
 node	2471827092	http://www.costabluresidence.it
@@ -1521,10 +1527,14 @@ way	473808525	http://www.mirarchipneumatici.it/
 way	599969250	http://www.asedsrl.it/
 way	628781312	https://www.campeggiointernazionale.it/
 way	702212887	https://www.hotelbaiadelcapo.com/
+way	702232423	https://www.donnacanfora.it/
 way	702244425	https://www.costarealtropea.com/
+way	702269257	https://www.quattroscogli.it/
 way	812508926	https://www.sda.it/
 way	955883014	https://www.reinventingaspromonte.eu/rifugio-il-boschetto/
 way	1039118536	https://www.conad.it/ricerca-negozi/conad-strada-statale-18-snc-87023--diamante--010227
+way	1203880492	https://www.ilcalabriano.it/
+way	1204429470	https://www.sambalon.it/
 way	1230127300	http://www.parcoleninfee.com/
 way	1231176426	www.giuntialpunto.it
 way	1340231886	https://www.campingdelluva.net/
