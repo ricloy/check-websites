@@ -134,7 +134,7 @@ node	283047377	http://trattoriadavito.it/
 node	288212413	https://www.caibo.it/
 node	292608403	https://www.hiexpress.com/hotels/it/it/
 node	293069335	https://www.comune.bondeno.fe.it/stellata-di-bondeno
-node	294065215	https://prm.rfi.it/qo_prm/QO_Partenze_SiPMR.aspx?Id=2179&dalle=07.46&alle=23.59&ora=07.46&guid=d4e3a42e-e8ac-4977-b2c3-2fd2d551109b
+node	294065215	https://prm.rfi.it/qo_prm/QO_Partenze_SiPMR.aspx?Id=2179&dalle=04.00&alle=08.00&ora=04.00&guid=6ffa5a4b-0ab4-49f8-9ebb-307c8264d7da
 node	295275912	https://www.rfi.it/it/stazioni/bellaria.html
 node	295521061	https://www.justplaybo.it
 node	301234946	https://www.turismo.ra.it/servizi-utili/uffici-informazione-turistica/
@@ -142,7 +142,7 @@ node	315012228	http://www.vigilfuoco.it/sitivvf/forlicesena/
 node	315012242	https://www.ittmarconiforli.edu.it/
 node	322608348	https://www.comune.bagnacavallo.ra.it/
 node	343032177	https://www.succedesoloabologna.it/conserva-di-valverde/
-node	343128726	https://www.belluzzifioravanti.it/
+node	343128726	https://belluzzifioravanti.edu.it/
 node	344606605	http://www.farmaciecorvinomontericco.it/
 node	345130751	https://www.pm.labassaromagna.it
 node	349067427	https://www.sorrivoli.it/
@@ -165,7 +165,6 @@ node	374351219	https://www.traghettosantalbertoravenna.it/
 node	374357073	https://www.traghettosantalbertoravenna.it/
 node	376030937	http://www.malinibici.it/
 node	382119808	https://www.chioscodolcevita.it/
-node	385535870	http://www.areablu.com/imola-in-bici/centro-in-bici-4/
 node	387206991	https://www.farmaciazolino.it/
 node	387396969	https://www.taxiimola.it/
 node	387490780	http://www.montebattaglia.it/
@@ -186,7 +185,6 @@ node	414946337	https://pizzeriaparigi.it/
 node	414952756	https://www.lamaisondugourmet.it/
 node	415304992	https://bibest.it/it/biblioteche/elenco-delle-biblioteche/san-giorgio-di-piano
 node	415315512	https://www.prink.it/imola-0052
-node	415330551	https://www.copyserviceimola.it/
 node	415331134	https://www.unicredit.it/it/contatti-e-agenzie/lista-agenzie/bo/imola/imola-appia-ag03201.html
 node	415331150	http://www.farmappia.it/
 node	415331158	https://www.phoneleader.it/punti-vendita/wind-imola.html
@@ -358,6 +356,7 @@ node	1134556299	https://www.residenzasanitariaalparco.it/
 node	1140049300	https://www.cinemaastoria.it/
 node	1148893327	https://www.labirreria.pub/
 node	1149435299	http://www.unangolodigermania.it/
+node	1187966968	https://caibo.it/1
 node	1188021821	https://www.coopreno.it/negozio/baricella/
 node	1195161496	https://www.auditoriumanzoni.it/
 node	1211221891	https://ostellomodena.it/
@@ -427,7 +426,6 @@ node	1467216951	https://www.comune.loiano.bologna.it/it-it/home
 node	1492281233	www.carastelli.it/
 node	1494516631	https://scn.caiparma.it/schede/t107-cippo-di-confine-il-passo-della-bastia-sul-alto-sinistro-della-strada-che-da-cirone-va-nel-toscanocorniglio/
 node	1506705266	http://www.castellodellelfo.com/
-node	1517308729	https://www.facebook.com/pasticceriaberti/
 node	1518728922	https://www.asiamach.com/
 node	1520006308	https://www.labcc.it/
 node	1534024190	https://informagiovani.parma.it/stai-cercando/vivere-parma/centri-giovani/centro-giovani-montanara.html
@@ -532,7 +530,6 @@ node	1704279704	https://www.zanhotel.it
 node	1704285176	https://www.sanipernatura.com/
 node	1704286899	https://www.fornopallotti.it/
 node	1704288286	https://gustochengdu.com/
-node	1704290995	https://www.cri.it/emilia-romagna
 node	1704301677	https://www.zembistrot.it
 node	1704305119	https://deliciousbologna.com/contact-us/
 node	1704356059	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/2580-bologna---san-ruffillo.html
@@ -833,6 +830,7 @@ node	2323167354	https://www.labolabo.it/
 node	2323167721	https://it.yamaha-motor.eu/concessionari/belletti-moto
 node	2323172556	https://sistemiditornitura.it/
 node	2323173115	http://www.lagrotta1922.it
+node	2323174232	https://malatestanovello.it/
 node	2323174322	https://www.sushicorner.it/
 node	2323175965	www.luciocesena.com
 node	2323175978	https://roppongi.squisito.shop/
@@ -1021,7 +1019,6 @@ node	2718098810	https://adriatica.ciminohotels.it/
 node	2718099166	https://bar-malatesta-rimini.eatbu.com/
 node	2718101149	https://www.minihotelrimini.it/
 node	2718101322	https://imagosrl.eu/
-node	2718102099	https://www.hotelanversa.com/
 node	2718102777	https://suseasushi.it/
 node	2718102940	https://www.justeat.it/restaurants-tigellamente-rimini-rivabella
 node	2718103220	https://erboristeria.cloud/
@@ -1688,7 +1685,7 @@ node	3999669457	https://www.officinepixel.com/
 node	4005355246	stopmusicstore.it
 node	4023578213	http://www.agriturismoilciuffo.it/en/
 node	4031870119	https://www.gapers.it/
-node	4037306315	http://www.ranzani13.it/
+node	4037306315	https://www.pizzeriaranzani13.it/
 node	4038298786	https://www.ilcielodistrela.it/
 node	4038308710	http://www.costalta.com/
 node	4038980037	https://roomsbreakfastmtb.it/
@@ -1983,6 +1980,7 @@ node	4495193832	https://miracholistic.it/
 node	4495193876	https://www.imaxshop.com/it/
 node	4495194097	https://www.fondazionemarcosimoncelli.it/
 node	4495194098	http://www.motoclubberardi.it/
+node	4495194166	https://www.agenziagammariccione.it/
 node	4495194750	https://www.rendimentoetico.it/
 node	4495195414	https://www.credit-agricole.it/
 node	4495195448	https://www.pastrocchio.com
@@ -2169,6 +2167,7 @@ node	4527109662	https://encuentrogroup.it/
 node	4527846557	https://www.comune.poviglio.re.it
 node	4527848590	https://biblioteche.provincia.re.it/Sezione.jsp?idSezione=66
 node	4527960204	https://biblioteche.provincia.re.it/Sezione.jsp?idSezione=69
+node	4527960784	https://www.facebook.com/DANOIDUEE/
 node	4528122895	https://latanatattooemysticlab.it/
 node	4528124374	https://www.comune.rolo.re.it/servizi/Menu/dinamica.aspx?idArea=63&idCat=162&ID=599
 node	4528124772	https://andreanigrellifotografo.it/
@@ -2234,7 +2233,7 @@ node	4607423489	http://www.asterixclub.it/contatti/
 node	4610775417	https://www.officineformazione.it/
 node	4616292037	https://www.reggiochildren.it/pause/
 node	4618171125	https://www.abcbilance.it/it/pese-pubbliche/pesa-pubblica-campogalliano
-node	4621956389	http://www.ofioremio.it
+node	4621956389	https://www.ofioremio.it/
 node	4621956489	http://www.osteriabartolinibologna.com
 node	4622014589	https://www.berberepizza.it/berbere-bologna/
 node	4622395589	https://www.osteriapassatelli.it/
@@ -2766,7 +2765,6 @@ node	4762169093	https://www.autovia.it/
 node	4762169094	https://www.simaplastrivestimenti.com/
 node	4762169515	http://www.naifparrucchieri.com
 node	4762174287	https://www.acantho.it/
-node	4762176450	https://www.calzoleria-online.it/
 node	4762176459	http://www.rbbimola.com/
 node	4762176684	https://www.area111.it/
 node	4762177335	https://www.motorvalley.it/collezioni/collezione-battilani
@@ -3003,6 +3001,7 @@ node	4767043803	https://www.ristorantestelladoro.it/
 node	4767048940	https://www.comune.soragna.pr.it/
 node	4767065880	https://www.comune.fontevivo.pr.it/comune/servizi-e-uffici/ufficio-cultura-e-sport/ufficio-cultura/biblioteca-comunale-%E2%80%9Cvanda-negri%E2%80%9D
 node	4767073557	https://www.comune.fontevivo.pr.it/
+node	4767165646	https://nobilpan.it/it/
 node	4768972567	https://www.hoteleriale.com/
 node	4769152261	https://www.comune.pievepelago.mo.it/
 node	4769157683	https://www.comune.fiumalbo.mo.it/
@@ -3210,6 +3209,7 @@ node	4958871908	https://lorcobacco.eatbu.com/
 node	4958968606	https://www.stradivarius.com
 node	4961685821	https://www.nh-hotels.com/hotel/nh-bologna-villanova
 node	4979120422	https://www.hotel-savoia.com/
+node	4987232783	https://www.nob.bike/
 node	4988237377	https://www.albergoairone.it/
 node	4989673338	https://www.odontoiatriassociati.com/
 node	4996077721	https://www.g7gelati.it/
@@ -3891,6 +3891,7 @@ node	6629431307	https://www.matteopizzarimini.com/
 node	6631314685	https://www.tiberiniarredamenti.it/
 node	6633516797	https://tenutamararelais.it
 node	6633516798	https://tenutamara.it
+node	6634033424	https://www.agriturismocolombara.it
 node	6640650385	https://hotelcarltoncattolica.com/
 node	6644626996	https://www.finceramica.it/
 node	6644626997	https://www.certimac.it/
@@ -5241,6 +5242,7 @@ node	10832878002	https://giustospirito.com/#ristoranti
 node	10839330310	https://ristorante-indiano-moghul.business.site/
 node	10839842934	https://palestrasinergybologna.it/
 node	10839875941	https://www.calisthenicsbologna.it/
+node	10840046928	https://www.immobiliarevalparma.it/
 node	10840060325	https://linktr.ee/libsettevolpi
 node	10840095419	https://leila-bologna.it/
 node	10840421518	https://www.tibetstrumentiarmonici.com/
@@ -5473,7 +5475,6 @@ node	11282094888	https://officinerecycle.com
 node	11282121969	http://www.pga-servizi.it/
 node	11282121975	https://pololadotta.it/
 node	11282121982	https://www.dentalpro.it/centri/dentista-imola-viale-galeati/
-node	11282121987	https://www.otostudio.it/
 node	11282121988	https://phototimeaurea.wordpress.com/
 node	11282121990	https://www.agenziacalamosca.it/
 node	11282122004	https://mixmarkt.it/negozi/mix-markt-imola-bo-via-appia/
@@ -5925,7 +5926,9 @@ node	12132122854	https://www.fabbrichebinarie.it/
 node	12133999607	https://store.ferrari.com/it-it/store-detail?StoreID=0000GF
 node	12133999608	https://www.warmup.it/
 node	12136495919	https://mit-italia.it
+node	12139639755	https://erep.uk
 node	12141557666	https://www.tecnocasa.it/agenzie/immobiliari+residenziali/rimini/bellaria-igea-marina/rnhn2.html
+node	12141557691	https://www.evangelisticasa.it/
 node	12141614457	https://www.centopizze.com/
 node	12144713993	https://michelahairstylist.it
 node	12147798035	https://www.facebook.com/AnffasBologna/
@@ -6122,6 +6125,7 @@ node	12544199017	https://www.magazzinimop.it/p/grosmop
 node	12544971236	https://www.coprociv.ra.it/
 node	12547073973	https://www.circolocralamps.it/
 node	12549109901	https://www.aktivarium.it/
+node	12551005918	https://ovs.it/it/it/stores/italia/emilia-romagna/bologna/ovs-bologna-martiri
 node	12552448141	https://www.ovs.it/it/it/stores/italia/emilia-romagna/ravenna/ovs-ravenna-via-di-roma
 node	12556780588	https://www.stucchiandrea.com/
 node	12556780589	https://www.laboratorio-relab.it/
@@ -6573,6 +6577,29 @@ node	13288904838	https://www.mazzonirimini.it/
 node	13289617746	https://scn.caiparma.it/schede/maesta-beata-vergine-delle-grazie-con-bambino-neviano-arduini-loc-mozzano/
 node	13289617751	https://scn.caiparma.it/schede/maesta-madonna-con-bambino-e-santi-neviano-arduini-loc-signano/
 node	13290483542	https://laurapausini.com/it/ors-studios/chi-siamo/
+node	13296100760	https://www.facebook.com/p/Bar-Pizzeria-Tabaccheria-SP-10-61559662521477/
+node	13297034540	https://www.facebook.com/RistoranteTornado/
+node	13298620326	https://www.comune.rimini.it/vivere-il-comune/luoghi/centro-la-cultura/nido-dinfanzia-il-gabbiano
+node	13298933875	https://www.facebook.com/caffecentralecoltaro/
+node	13299022917	https://jeffboutique.it/shop/
+node	13299025101	https://www.maggioliaziende.it/
+node	13299034901	https://kazuma.it/
+node	13299758402	http://labolognina.it
+node	13299995760	https://ramenshifu.it/bologna
+node	13300012121	https://championstore.com
+node	13300939961	https://animalsparadise.it/
+node	13300941815	https://pusterla1880.com/it/contatti/
+node	13301466615	https://www.cspietro.it/luogo/centro-diurno-per-disabili
+node	13301780973	http://www.studiosepi.it/
+node	13301789976	https://www.bianchihotels.com/hotels/hotel-a-bellaria/hotel-levante/
+node	13304548027	https://brunolequipe.com/
+node	13305395174	https://www.ahrcos.it/
+node	13305877904	https://www.facebook.com/gelateria.ilfiore/
+node	13305877909	https://www.lavoropiu.it/filiali/novellara/
+node	13305877910	https://www.facebook.com/erboristeria.sanfrancesco.novellara/
+node	13307731024	https://www.facebook.com/people/Bar-Vettigano/100064138747534/
+node	13308149136	https://nonnopep.com/
+node	13308783484	https://www.anticatrattoriadelreno.it
 way	23189490	https://www.bolognafiere.it/
 way	23357379	https://www.fiabilandia.it/
 way	23432713	https://www.turismo.ra.it/ita/Scopri-il-territorio/Ambiente-e-natura/Parchi_-riserve-naturali/La-Pineta-di-Classe
@@ -6818,6 +6845,7 @@ way	145144869	https://museodelbalsamicotradizionale.org
 way	146338545	http://www.villaorsi.it/
 way	146338560	https://www.societadolce.it/nidi/?id=333
 way	148141703	https://www.conadrioagina.com/
+way	148503179	https://www.cri.it/emilia-romagna
 way	148627254	http://www.colliromagnoli.it/
 way	148745336	https://www.circuitocinemabologna.it/sale/
 way	148747352	https://cassero.it/
@@ -6865,6 +6893,7 @@ way	150046232	http://www.centroautodellindustria.it
 way	150055059	https://www.gamsristorazione.it/
 way	150055749	https://www.acquaefitness.it/
 way	150078963	http://www.hotelsanvitale.com
+way	150102944	https://www.museodellavalledellidice.it/
 way	150115183	https://www.lilt.it/
 way	150120383	https://www.lidl.it/
 way	150130603	http://sandonato.pdbologna.org/
@@ -7599,6 +7628,9 @@ way	223777938	https://www.hotelmissouri.net/
 way	223778006	https://www.diocesi.rimini.it/wd-annuario-enti/nostra-signora-del-sacro-cuore-igea-marina-168/
 way	223778095	https://www.beachsuitehotel.it/
 way	223778510	https://www.hluxor.it
+way	223787627	https://riminiturismo.it/guida-pratica/fiere-e-congressi/centro-andrej-tarkovskij
+way	223791878	https://www.hotelaccademiarimini.com/
+way	223792068	https://www.hotelmarylise.it/
 way	223792118	https://ristoranteletrebotti.com/
 way	223792339	http://www.diocesi.rimini.it/parrocchie-e-chiese/s-maria-viserba-mare/
 way	223792583	https://www.istitutocomprensivofermirimini.edu.it/index.php/istitutomain
@@ -7606,6 +7638,11 @@ way	223792716	http://www.hoteldiana-rimini.com/
 way	223792749	https://liceocesarevalgimigli.edu.it/index.php/i-plessi/liceo-linguistico
 way	223792784	https://www.istitutocomprensivofermirimini.edu.it/index.php/istitutomain
 way	223792802	https://www.mhzoutdoor.com
+way	223793668	https://www.villalauda.it/
+way	223794325	https://www.villagraziarimini.it/
+way	223796017	https://www.hotellaika.it/
+way	223796086	https://www.hotelanversa.com/
+way	223797654	https://www.hoteldelvecchiorimini.it/
 way	223798095	https://www.liceoserpieri.it/
 way	223807131	https://www.alberghieromalatestarimini.edu.it/
 way	223807135	http://www.parrocchiabellariva.it
@@ -7723,6 +7760,7 @@ way	261185556	https://ilgiardinodelleerbe.it/
 way	261204714	https://www.bagnoadriatico.it/
 way	261352316	http://www.hippogroupcesenate.it/site/ippocampus_ippocampus_index.asp
 way	261381302	https://www.aviozzano-guglielmozamboni.com/index.php
+way	261386423	https://turismoinpianura.cittametropolitana.bo.it/it/luoghi/luoghi-di-sport/centro-turismo-equestre-roversella
 way	261726861	https://www.eurospin.it/
 way	262051642	https://ambiente.regione.emilia-romagna.it/parchi-natura2000/rete-natura-2000/siti/it4050029
 way	262543035	https://ambiente.regione.emilia-romagna.it/parchi-natura2000/rete-natura-2000/siti/it4040006
@@ -8605,7 +8643,6 @@ way	1305723764	https://parma.repubblica.it/cronaca/2024/08/05/news/commercio_pal
 way	1306031551	https://circoloippicoamadessi.it/
 way	1306215676	https://linktr.ee/kellermodena
 way	1306241612	https://www.comune.rioloterme.ra.it/Citta/Sport-e-tempo-libero/Mercati
-way	1306628981	https://www.areasostacamperparma.it/
 way	1311003642	https://www.facebook.com/Bagnoeden76/
 way	1312184415	https://www.hotelvillatosi.com/
 way	1312458459	https://www.scuolemarconi.edu.it/
@@ -8717,8 +8754,16 @@ way	1445926882	https://acquashopromagna.it/
 way	1446263317	https://www.reusewithlove.org/re-cab/
 way	1446467223	http://www.autodemolizionebertozzi.com/
 way	1446516286	https://olivetosullago.com/
+way	1446678078	https://dd4cesena.edu.it/la-scuola/i-luoghi/25-infanzia-le-colline-montenovo-di-montiano
 way	1447106327	https://www.romagnacar.com/
 way	1447528069	https://www.sma.unipr.it/it/museo-di-storiografia-naturalistica/
+way	1449623352	https://www.gazebo.it/
+way	1449898124	https://www.omarzumot.it
+way	1449898580	https://www.elstarsrl.com/
+way	1449917521	https://www.comune.rimini.it/vivere-il-comune/luoghi/centro-la-cultura/scuola-infanzia-il-gabbiano
+way	1449917524	https://www.icalighieri.edu.it/luogo/plesso-madre-teresa-di-calcutta/
+way	1450209449	https://www.hoteliones.it/
+way	1451289009	https://www.gruppoivas.com/evidenza_dett/inaugurazione-nuovo-stabilimento-di-eps-e-della-prima-green-building-valley-italiana_1134/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42855	http://www.comunecamugnano.gov.it/
 relation	42901	https://www.comune.casteldicasio.bo.it/
@@ -10042,6 +10087,9 @@ relation	19807079	https://www.persolinostrocchi.edu.it/
 relation	19808988	https://www.moreno.it/
 node	343657223	https://www.thespacecinema.it/cinema/parma-centro/al-cinema
 node	441918990	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/427-fidenza.html
+node	501609462	https://www.agriturismo-cagabrielli.it/
+node	501609463	https://www.agriturismo-cagabrielli.it/
+node	501609464	https://www.agriturismo-cagabrielli.it/
 node	564669262	https://www.thespacecinema.it/cinema/parma-campus/al-cinema
 node	693373134	https://amerigo1934.it
 node	797204601	http://www.poliambulatoriolasalute.it/
@@ -10058,6 +10106,7 @@ node	1704757052	http://www.gelateriasanmamolo.it
 node	1710274967	http://www.nonnorossi.it/
 node	1710274968	http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=310
 node	1716340659	http://www.comune.sarsina.fo.it/turismo/percorsi-mtb.htm
+node	1781678987	https://www.lacervarola.it/
 node	1874922755	http://www.hanabi72.com/
 node	1881800658	http://www.emilbanca.it/
 node	1909741676	http://www.viaggipinarella.com/
@@ -10215,6 +10264,8 @@ node	13070843256	https://www.metalbox.it
 node	13163279022	https://lalocandaditorrechiara.it/bottega-del-borgo/
 node	13193332755	www.dolceamaroparma.it
 node	13236237734	http://www.teatrocrystal.com/
+node	13300362318	http://wew.circoloilcapriolo.it
+node	13305877908	https://www.instagram.com/macelleria_equina_novellara/
 way	29118673	https://www.vigilfuoco.it/sitiVVF/rimini/
 way	64980907	http://www.bibliotecanzola.it/
 way	64980910	http://www.comune.anzoladellemilia.bo.it
@@ -10270,6 +10321,7 @@ way	187454933	https://centroipioppi.it/
 way	190433110	http://www.internationalcamping.eu/index.php/en/contact-us
 way	195545112	https://www.clarissesantagata.it/
 way	206103788	https://www.camping-rioverde.it/
+way	206537090	Coop La Faggeta Campeggio privato
 way	223553427	http://www.casafragheto.it/
 way	223622029	http://www.poggioduca.it/
 way	223772759	http://www.hotelelizabeth.com
