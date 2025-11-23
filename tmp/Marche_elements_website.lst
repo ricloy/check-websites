@@ -1435,7 +1435,6 @@ node	11170009169	https://www.casa-co.it/punti-vendita/marche/macerata/civitanova
 node	11171208249	https://www.hungsingmartialarts.com/
 node	11171358033	https://impresapiu.subito.it/shops/44362-redauto-civitanova
 node	11171487382	https://icviareginaelena.edu.it/struttura/via-regina-elena/luigi-bartolini/
-node	11171487399	https://icviareginaelena.edu.it/struttura/via-regina-elena/luigi-pirandello/
 node	11178636292	https://www.cmsangiuseppe.it/
 node	11178636293	https://centro-medico-progetto-salute.business.site/
 node	11182456126	https://www.casamalena.it
@@ -1605,6 +1604,7 @@ node	11591105226	https://www.farmaciacerni.net/
 node	11594013959	https://www.farmaciacardinali.it/
 node	11594013960	https://www.farmaciagriffoni.it/
 node	11597933187	https://www.loretomultiservizi.it/loreto-multiservizi/farmacia-comunale/
+node	11598185286	https://www.studiopalombare.it/
 node	11598400368	https://www.zeroglutineancona.it/
 node	11610458845	http://www.ristorantedellerose.it/
 node	11632234036	http://www.farmaciabucci.it/
@@ -1677,8 +1677,10 @@ node	12014285993	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/m
 node	12014286003	https://www.comune.serrapetrona.mc.it/vivere-il-comune/luoghi/museo-pinacoteca-darte-sacra-contemporanea/
 node	12014814726	https://gvmedicali.it/
 node	12022288542	https://www.isabigioielli.it/
+node	12026531814	https://www.audiovideoserviceancona.it/
 node	12026531815	https://www.colorworks-srl.it/
 node	12031415868	https://www.poliambulatoriodellemuse.com/
+node	12033284643	https://www.autofficinacartronic.com/
 node	12033853829	https://www.facebook.com/pages/Cantina-Antisociale/135661380130635
 node	12035489391	https://www.korcaffe.it/
 node	12035489395	https://www.pescheriailmoscardino.com/
@@ -2196,6 +2198,12 @@ node	13287214206	https://archiviodistatofermo.cultura.gov.it/home
 node	13299928853	galdellibatterie.it
 node	13299986879	https://www.nationalsanit.it
 node	13307230701	https://www.librerie.coop
+node	13308655319	https://www.immobiliarerinaldelli.com
+node	13312755696	https://www.cgilpesaro.it/sede-urbania/
+node	13312786299	https://www.cgilpesaro.it/sede-santangelo-in-vado/
+node	13321830285	https://icviareginaelena.edu.it/struttura/via-regina-elena/san-giovanni-bosco/
+node	13321830286	https://icviareginaelena.edu.it/struttura/via-regina-elena/carlo-lorenzini-collodi/
+node	13321830288	https://icviareginaelena.edu.it/struttura/via-regina-elena/luigi-pirandello/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2710,7 +2718,6 @@ way	751756672	https://www.bagnicarlo.com/
 way	753583679	https://www.residenceedelweiss.com/
 way	764685017	https://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/94/
 way	770382388	https://www.iisdavinci.edu.it
-way	773119082	https://icviareginaelena.edu.it/struttura/via-regina-elena/san-giovanni-bosco/
 way	778480526	https://www.campinggabicce.it/
 way	782406450	https://www.hoteledelweissfano.it
 way	783905998	http://www.hospitaleterzoparadiso.it
@@ -2858,7 +2865,6 @@ way	1204853002	https://www.asur.marche.it/strutture-aziendali
 way	1204910502	https://www.evangelo.org/gruppi/gruppi.asp?idgruppo=402&operazione=dove
 way	1204919842	https://www.casadicuravillapini.it/
 way	1205253580	https://cluanadog.it
-way	1205444411	https://icviareginaelena.edu.it/struttura/via-regina-elena/carlo-lorenzini-collodi/
 way	1207229688	https://www.conad.it/ricerca-negozi/negozio.009722.html
 way	1207229808	https://negozi.vodafone.it/civitanova-marche/vodafone-store-il-cuore-adriatico
 way	1207229825	https://stores.miriade.com/it/italia/macerata/civitanova-marche
