@@ -684,7 +684,7 @@ node	1829423506	https://csalatorre.net/
 node	1832848889	https://www.hosianum.com/
 node	1832969901	http://www.kosherinrome.it
 node	1834736431	https://www.comunecerretolaziale.rm.it/
-node	1835178926	http://outdoorsrlshop.it/
+node	1835178926	https://outdoorsrlshop.it/
 node	1835372053	https://www.istitutosanbernardo.it/
 node	1835773305	https://www.zoomarine.it/ilparco/laguna-dei-pirati
 node	1835773379	https://www.zoomarine.it/ilparco/polpo
@@ -693,7 +693,7 @@ node	1837419452	http://www.rotunnoimmobiliare.it
 node	1837433287	http://www.casavoguefondi.com
 node	1840223455	http://www.domusaurelia.com/
 node	1840236851	http://happyislandbb.altervista.org/
-node	1842971020	http://www.ilcastagneto.net/
+node	1842971020	https://www.ilcastagneto.net/
 node	1858252772	http://sistema-bibliotecario.provincia.roma.it/content/biblioteca-comunale-formello
 node	1867169505	http://www.vittoriobike.it/
 node	1868592228	http://www.coopinitinere.it/
@@ -4110,6 +4110,7 @@ node	8095179221	https://www.gbelettronica.com/
 node	8095199981	https://www.tullielettronica.net/
 node	8111992282	https://www.aeronautica.difesa.it/sport/Pagine/Contatti.aspx
 node	8112113422	https://www.leggimenu.it/menu/ristorantedonnagloria
+node	8129092017	https://www.volkswagen-veicolicommerciali.it/it/rete/nicolaprezioso.html
 node	8137564605	https://www.caiviterbo-grupporiolo.it/
 node	8137564606	https://www.comune.orioloromano.vt.it/
 node	8137564607	http://uniagrariaorioloromano.altervista.org/
@@ -4637,6 +4638,7 @@ node	9160766506	https://www.cpia1roma.edu.it/
 node	9160766554	https://www.todis.it/
 node	9160830771	https://www.aslroma2.it/
 node	9160830775	https://www.ispettorato.gov.it/it-it/il-ministero/Uffici-periferici-e-territoriali/roma/Pagine/default.aspx
+node	9162462789	https://www.conad.it/ricerca-negozi/conad-via-dei-mille-34-04011-aprilia--008916
 node	9162519617	https://www.conad.it/ricerca-negozi/conad-superstore-via-fiume-2-04011-aprilia--009661
 node	9164251011	https://www.risparmiocasa.com/
 node	9164265704	https://www.risparmiocasa.com/
@@ -6814,7 +6816,7 @@ node	13285048901	https://www.ciofslazio.it/ostia
 node	13285048902	https://quiunquartierepercrescere.it/quartieri/roma-ostia-ponente/centro-risorse-qui-un-quartiere-crescere
 node	13285049001	https://quiunquartierepercrescere.it/quartieri/roma-ostia-ponente/emporio-aladino-0
 node	13285049301	https://www.regione.lazio.it/cittadini/lavoro/centri-impiego
-node	13294097301	http://www.lacostierapescevino.it/
+node	13294097301	https://www.lacostierapescevino.it/
 node	13298375196	https://www.taomark.com/
 node	13300901279	https://www.pinsalabglutenfree.com
 node	13305866227	https://www.onoranzefunebrivelli.com
@@ -6824,6 +6826,26 @@ node	13308045654	https://www.capitoloquartopizzeria.com/
 node	13308924095	https://www.lagusteria.com
 node	13316102570	https://www.woody.film/woofactory/
 node	13319698588	https://www.comune.roma.it/web/it/dipartimento-organizzazione-e-risorse-umane.page
+node	13325669690	https://dozosushi.it/
+node	13329713199	https://artebona.it/
+node	13333113969	https://www.fornopistilli.it/
+node	13333113972	http://www.immobilcasacisterna.it/
+node	13336839060	https://www.comune.roma.it/web/it/ragioneria-generale.page
+node	13336839061	https://www.comune.roma.it/web/it/avvocatura-capitolina.page
+node	13337720994	http://www.ladeliziosa.net/
+node	13337721006	https://omniamusic.it/
+node	13338165106	https://inpost.it/locker-aprilia-itapr114166d-via-fiume
+node	13338165107	https://www.ecostore.it/store/eco-store-aprilia/
+node	13338165108	https://inpost.it/locker-aprilia-itapr128256d-via-dei-lauri
+node	13338165110	https://stores.upim.com/it/italia/lazio/latina/aprilia-via-dei-lauri
+node	13338165111	https://www.bper.it/trova-filiali/centri-private/lazio/latina/agenzia-28139
+node	13338165112	https://www.bper.it/scheda-filiale/-/filiale/lazio/latina/agenzia-5906
+node	13338165113	https://www.amplifon.com/it/cerca-centro-amplifon/apparecchi-acustici-latina/amplifon-corso-papa-giovanni-xxiii-s799
+node	13338165114	https://www.conad.it/ricerca-negozi/pet-store-conad-via-dei-mille-34-04011-aprilia--050045
+node	13338165117	https://www.action.com/it-it/negozi/aprilia-via-delle-valli-snc/
+node	13338165175	https://www.volkswagen-veicolicommerciali.it/it/rete/nicolaprezioso.html
+node	13338165176	https://www.volkswagen.it/it/rete/nicolaprezioso.html
+node	13338165177	https://www.volkswagen.it/it/rete/nicolaprezioso.html
 way	8035487	https://direzionemuseiroma.cultura.gov.it/museo-nazionale-di-castel-santangelo/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
@@ -8382,6 +8404,7 @@ way	473688618	carabinieri.it
 way	473803684	https://www.bibliotechediroma.it/opac/library/Biblioteca%20Casa%20dei%20Bimbi/RMBL3
 way	473884562	centrocommercialeaura.it
 way	473913624	https://it-it.facebook.com/Infinito-Dancing-695829853770799/
+way	473915584	https://www.hilton.com/it/hotels/fcorohx-hampton-rome-north-fiano-romano/
 way	474023996	https://www.icfabriziodeandre.edu.it/
 way	474184674	procalcioisolaliri.it
 way	474184675	https://www.facebook.com/aqvaliri.isoladelliri
@@ -9590,10 +9613,12 @@ way	1431394378	https://villapamphili.it
 way	1434821448	https://www.hyatt.com/jdv-by-hyatt/en-US/romjd-the-tribune
 way	1435540889	https://cupra.pasquarelliauto.it/
 way	1435760319	https://www.trep-cash.it/
-way	1451285173	http://www.ilcastagneto.net/
+way	1451285173	https://www.ilcastagneto.net/
 way	1451317924	https://www.parcodellagallinara.com/
 way	1451320450	http://www.campingaitucul.it
 way	1451611724	https://quirino-area-sosta-camper.business.site/
+way	1454345211	http://www.kotuki.it/
+way	1454737476	https://dipfilosofia.web.uniroma1.it/
 relation	22289	https://www.farnese-rome.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -9877,6 +9902,7 @@ relation	8324908	https://www.caiantrodoco.it/
 relation	8324958	https://www.caiantrodoco.it/
 relation	8416989	http://www.liceoalbertiminturno.it
 relation	8426003	https://www.parcoabruzzo.it/area_amministrativa.php
+relation	8433932	https://www.risparmiocasa.com/store/aprilia/
 relation	8437086	https://www.vicariatusurbis.org/?page_id=188&ID=358
 relation	8481080	https://www.cimiterodilatina.it/
 relation	8523163	https://www.comune.pontinia.lt.it/
@@ -9917,7 +9943,6 @@ relation	10558714	https://www.comune.roma.it/web/it/municipio-vii.page
 relation	10579137	https://www.lepiniorientali.it/
 relation	11106304	https://www.navegnacervia.it/
 relation	11109162	https://www.camminodibenedetto.it/
-relation	11109163	https://www.camminodibenedetto.it/
 relation	11109164	https://www.camminodibenedetto.it/
 relation	11109349	https://www.camminodibenedetto.it/
 relation	11109845	https://www.camminodibenedetto.it/
