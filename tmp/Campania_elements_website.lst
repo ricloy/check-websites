@@ -1497,6 +1497,7 @@ node	8974832979	https://negozi.vodafone.it/gricignano-daversa/vodafone-store-gri
 node	8976804768	https://scripturapelletteria.it/
 node	8977672645	https://www.villarena.it
 node	8984185106	https://www.nodetective.com/
+node	8987682680	https://www.salvatoremafalda.it/
 node	8989770989	https://www.ilcantuccionerano.com/
 node	8989777488	https://www.villaggionettuno.it/
 node	8989791011	https://www.ristorantemariagrazia.com/
@@ -1541,6 +1542,7 @@ node	9104788621	https://www.mcdonalds.it/ristorante/campania/napoli/napoli-stazi
 node	9105876038	https://www.upim.com/
 node	9105999191	https://romanoautogas.eu/
 node	9108367012	https://www.agenziaentrate.gov.it/
+node	9111974274	https://dublinsquare.it/
 node	9114973656	https://www.supermercatipiccolo.it
 node	9117945786	https://negozi.naturasi.it/italia/caserta/caserta?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Caserta_27627
 node	9117959021	https://stores.ovs.it/it/italia/campania/caserta/ovs-caserta?utm_source=google&utm_medium=GMBSitelink&utm_campaign=GMBSitelink_Caserta_0287
@@ -2540,7 +2542,6 @@ node	12512446102	https://www.contedoroliving.it/
 node	12518347301	https://www.maru-aversa.it/
 node	12520167205	https://www.portobelloroad.it/
 node	12525043656	https://www.tripstockmarket.it
-node	12526303810	www.morone.it
 node	12526553666	https://www.codiceazienda.it/
 node	12531833174	https://www.facebook.com/centrorevisioneflegreo
 node	12532317291	https://www.hopestel.it/
@@ -2898,9 +2899,13 @@ node	13272713369	https://www.ontanotravel.com
 node	13274156186	https://deliziereali.it/
 node	13274544701	https://www.sipos.it/
 node	13287788568	https://www.museiscienzenaturaliefisiche.it/
-node	13294140087	www.officinebriosce.it
-node	13315329307	http://www.carabinieri.it/
+node	13294140087	https://www.officinebriosce.it/
+node	13315329307	https://www.carabinieri.it/
 node	13320284850	https://www.farmacieparisicostantino.it/
+node	13328740360	https://www.poste.it
+node	13328926302	https://rameloungebistrot.it/
+node	13335869965	https://nazzaroabbigliamento.it
+node	13338382485	https://ilgiardinodeipini.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
 way	24225619	https://reggiadicaserta.cultura.gov.it/
@@ -3253,7 +3258,7 @@ way	315021663	https://www.smbruna.org/
 way	315021668	https://www.parrocchiapreziosissimosangue.it/
 way	315026121	https://www.sacrocuoretorredelgreco.it/
 way	315809992	https://istitutodam.it/
-way	317978666	https://www.duelbeat.it/
+way	317978666	https://duelclub.it/
 way	319563496	https://www.tribmin.salerno.giustizia.it/
 way	319568633	http://www.caseificioaurora.it/
 way	319806559	http://www.sollevante.it/wsc/
@@ -4140,6 +4145,8 @@ way	1446583535	https://www.aslcaserta.it/index.php/p-o-marcianise/
 way	1448425327	https://www.bricocenter.it/benevento
 way	1448690490	https://www.liceovittorioemanuelegaribaldi.edu.it/
 way	1450139946	https://www.famila.it
+way	1454619357	https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/600
+way	1454619358	https://www.ic53giganteneghelli.edu.it/#
 relation	12377	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/lago-tempio-diruto-e-casa-dei-cigni/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
@@ -4485,6 +4492,8 @@ node	13294553966	https://www.casacinemanapoli.it/programmazione-casacinema-napol
 node	13299177905	https://www.latujarelaisduparc.com/
 node	13305049095	https://www.galleriatoledo.it
 node	13307193572	https://pensioneristorantedeifiori.weebly.com/index.html
+node	13333967011	https://www.pizzeriapisani.it/
+node	13334562342	https://www.londonstore.it
 way	79268408	https://szn.it/index.php/
 way	170920731	https://www.giardiniposeidonterme.com/
 way	174047981	http://www.cittadellascienza.it/
