@@ -28,7 +28,7 @@ node	2718224411	https://www.musei.molise.beniculturali.it/musei?mid=210&nome=com
 node	2750998696	http://www.lipumolise.altervista.org/
 node	2752879530	https://www.tavernadelduca.net/
 node	2752879531	https://www.ristoranteolmicello.com/
-node	2891640104	www.agriturismoguadocannavina.net
+node	2891640104	https://www.agriturismoguadocannavina.net/
 node	2891640106	http://www.ristorantelelfo.it
 node	2929635675	https://www.locandamammi.it/
 node	3168434296	https://www.facebook.com/pages/Eremo-Lavra-Stella-Maris/193396040833338?fref=ts
@@ -383,5 +383,7 @@ way	1076684945	https://www.lidomistral.com/
 way	1077536770	https://www.lidolapiovra.com/
 way	1077536773	https://lidobalneare.termoli.cb.it/
 relation	14635178	https://www.parcoregionaledelmatese.it/
+node	13340059807	https://comune.pescopennataro.is.it/
+relation	1756297	https://ingiroapiunonposso.it/bosco-degli-abeti-soprani-in-molise/
 relation	17760420	https://appenninobiketour.com/percorso/
 relation	17782266	https://appenninobiketour.com/percorso/
