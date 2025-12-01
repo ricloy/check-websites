@@ -307,7 +307,6 @@ node	8364588112	https://www.crai-supermercati.it/punto-vendita/5461-crai-sibari/
 node	8509404591	https://www.facebook.com/MAISONdeBEAUTE.FC/?ref=page_internal
 node	8533470617	http://www.bebdhafnacivita.com/
 node	8578353412	http://www.e-coop.it/punti-vendita-dettaglio?id=5641
-node	8578353673	https://www.lidl.it/
 node	8652130280	http://www.aviscittanova.it/
 node	8668774189	https://www.comune.corigliano-rossano.cs.it/
 node	8805179434	https://www.trony.it/online/store/MTR008_A
@@ -660,6 +659,7 @@ node	13290796985	"https//stefyhouse,it"
 node	13297249204	https://www.centromedicogitalia.it/
 node	13317005523	https://www.poste.it
 node	13324771703	https://www.poste.it
+node	13333296762	https://www.poste.it
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	47051512	https://www.sanrobertoebiagio.it/indexmobile.php
 way	86940311	https://www.sacal.it/
@@ -1004,9 +1004,9 @@ way	881756132	https://portalidicalabria.altervista.org/palazzo-cosentino-romiti-
 way	884468010	https://temesaresort.it/
 way	897069352	https://hotelnapoleone.it/
 way	900405116	https://www.riservetarsiacrati.it/
-way	901691220	https://storico.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151546&pagename=57
 way	906588675	https://www.facebook.com/agristore.iazzolino/
 way	906689602	https://gias-srl.com/
+way	924116622	https://www.lidl.it/
 way	941100792	https://www.AziendaAgricolaRende.it/
 way	941100794	https://www.facebook.com/Agriturismo-Rende-110722120766760/
 way	972481631	https://comune.scido.rc.it/vivere-il-comune/luoghi/museo-della-civilta-contadina/
@@ -1243,6 +1243,7 @@ way	1447516612	https://www.diocesicassanoalloionio.it/cattedrale/
 way	1448243056	https://www.termesibarite.it/
 way	1449311326	https://www.facebook.com/share/Z8aYVELA7WDHAxB9/?mibextid=LQQJ4d
 way	1449320580	https://calabriagreca.it/blog/hotel/camping-doccica/
+way	1454424896	https://storico.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151546&pagename=57
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	4277258	https://www.santaspina.it/
@@ -1361,7 +1362,6 @@ relation	12721498	https://www.parcosila.it/
 relation	12721529	https://www.parcosila.it/
 relation	12721594	https://www.parcosila.it/
 relation	12721645	https://www.parcosila.it/
-relation	12721647	http://www.caicosenza.it
 relation	12721673	https://www.parcosila.it/
 relation	12721676	https://www.parcosila.it/
 relation	12721705	https://www.parcosila.it/
@@ -1555,65 +1555,18 @@ relation	9761581	https://www.villaggiosantamonica.com/
 relation	16172031	http://www.iistropea.gov.it/
 relation	16822856	https://www.centrocommercialelevele.it/
 relation	18006192	https://www.diocesisanmarcoscalea.it/
-node	2696198330	https://portalidicalabria.altervista.org/palazzo-de-nobili-sellia-marina/
-node	9899918440	https://www.tuibluetropea.com
-node	9899927291	https://www.orizzonteblu.it/
-way	88861340	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
-way	171042206	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
-way	171042209	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
-way	171042211	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
-way	171043498	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043500	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043501	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043504	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043505	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043507	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043511	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043515	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
-way	171043517	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043519	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043520	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043521	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043522	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043523	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043524	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043525	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	171043527	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	174685994	http://www.archeocalabria.beniculturali.it/archeovirtualtour/calabriaweb/locriteatro1.htm
-way	226228592	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=9773
-way	278199791	https://portalidicalabria.altervista.org/trebisacce-chiesa-madre-di-san-nicola-di-mira-cupola-e-campanile/
-way	289087925	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
-way	289087927	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
-way	375114782	https://portalidicalabria.altervista.org/palazzo-dellaccademia-cosentina-cosenza/
-way	708057676	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=9773
-way	708057677	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=9773
-way	708057678	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico
-way	708057679	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	708104140	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	708104141	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	708104142	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	723000097	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
-way	723000098	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
-way	723000102	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
-way	812626555	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=9773
-way	812626557	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico
-way	812626559	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=9773
-way	817780156	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	888302244	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
-way	888302247	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
-way	940715594	https://portalidicalabria.altervista.org/palazzo-de-nobili-sellia-marina/
-way	940720029	https://portalidicalabria.altervista.org/rose-cs-decorazioni-longobarde-nelle-chiesa-matrice/
-way	1015099595	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
-way	1085549028	https://www.comune.montaltouffugo.cs.it/
-way	1238103069	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
-way	1292024264	https://www.tonicello.it
-relation	17789897	https://appenninobiketour.com/percorso/
-relation	17790117	https://appenninobiketour.com/percorso/
-relation	17790422	https://appenninobiketour.com/percorso/
-relation	17792059	https://appenninobiketour.com/percorso/
-relation	17806128	https://appenninobiketour.com/percorso/
-relation	17806644	https://appenninobiketour.com/percorso/
-relation	17807195	https://appenninobiketour.com/percorso/
-relation	17807260	https://appenninobiketour.com/percorso/
-relation	17807702	https://appenninobiketour.com/percorso/
-relation	17814924	https://appenninobiketour.com/percorso/
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
+
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
+
+</body>
+</html>
