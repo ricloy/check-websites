@@ -142,7 +142,7 @@ node	727775004	https://www.laurinhotel.it/
 node	729635737	http://www.e-coop.it/StoreLocator/dettaglio.jsp?id=3500
 node	730790368	https://www.barcorallogenova.com/
 node	730852369	https://www.blancogenova.com/
-node	733684465	http://www.trattoriadegliamici.eu/
+node	733684465	https://www.trattoriadegliamici.eu/
 node	735126005	http://www.mulinodelgassetta.it/
 node	735132191	https://portofino.eighthotels.it/
 node	735139329	http://www.pitosforo-portofino.it/ita/delfino/ristorante.htm
@@ -585,7 +585,6 @@ node	2792724630	http://www.osteriabancorosso.com
 node	2795773376	https://www.altromercato.it/flex/FixedPages/Common/part.php/L/IT/par/par-8815982
 node	2798235384	http://www.aitroeggi.it/
 node	2801237750	http://ghettuptv.net/
-node	2807330320	http://www.strizoli.com/
 node	2809111749	www.citymessage.it
 node	2821829309	https://www.bierredi.it/
 node	2821829321	https://www.conad.it/ricerca-negozi/negozio.006345.html
@@ -1136,6 +1135,8 @@ node	4913226760	https://www1.agenziaentrate.gov.it/servizi/Monografie/risultato.
 node	4913252631	https://www1.agenziaentrate.gov.it/servizi/Monografie/risultato.php?provincia=GENOVA&comune=ARENZANO&co=A388&foglio=020
 node	4942024591	https://www.immobiliareeffeti.com/
 node	4949775821	https://www.ruggerimobili.it/
+node	4958047849	https://storelocator.triumph.com/en/italy/liguria/province-of-la-spezia/brugnato/triumph-lingerie-outlet-shopinn-brugnato-5-terre-5754
+node	4958047855	https://www.nike.com/retail/s/brugnato-nike-factory-store
 node	4960638826	https://www.accademiamarinamercantile.it/home/
 node	4963748522	https://www.webvisibility.it/
 node	4964750710	www.proreccoarrampicata.it/
@@ -1542,7 +1543,9 @@ node	5952537050	https://www.ilcorniglianese.it/
 node	5972683656	https://www.dotnext.it
 node	5974617697	https://www.fidra.it/
 node	5975265315	https://associazione.opengenova.org/
+node	5986443890	https://www.hotelariston-imperia.it
 node	5989346492	http://www.locandalorena.com
+node	5992253963	https://oasilapizza.it
 node	5993784181	https://arcadiamarina.it
 node	5998560781	http://www.figinianimalisestri.it/
 node	6013916714	https://it.wikipedia.org/wiki/Volto_megalitico_di_Borzone
@@ -2359,7 +2362,6 @@ node	11499451035	https://candidollo.com/
 node	11500704019	https://www.confindustria.imperia.it
 node	11503488859	https://www.agenziasanlorenzo.it
 node	11504045903	https://www.resortvillasanluca.it/
-node	11506799133	https://lagiraffarotelle.it/
 node	11506799134	https://www.enotecadiportamartina.it/
 node	11508935574	http://www.ilgaleonesanremo.com/
 node	11509319591	https://entraincontatto.deutsche-bank.it/filiali/sportelli-bancari/Liguria/Imperia/f134
@@ -2808,6 +2810,10 @@ node	13289749918	https://www.mastrilevigatori.it
 node	13311474686	https://www.autoscuolaalfieri.it/
 node	13314886730	https://www.obiettivoforma.it/
 node	13327120663	https://www.dantesinpieve.it
+node	13334185762	https://www.otticadamiani.com/
+node	13334671622	osteriadeicamalli.com
+node	13339354799	https://www.stellamarisimperia.it
+node	13343364782	https://www.elmascavi.com
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3147,6 +3153,7 @@ way	204995530	https://www.parconazionale5terre.it/pun_dettaglio.php?id_pun=1938
 way	205086220	https://www.fortecanarbino.it/
 way	205452175	https://www.infollo.it/news/villa-delle-streghe-tra-il-mito-e-leggenda
 way	205470489	www-teamgallina.com
+way	205483203	https://www.conad.it/ricerca-negozi/conad-via-leonardo-da-vinci-snc-19020-bolano--000845
 way	205512758	https://riversportingclub.weebly.com/
 way	205512853	http://www.agriturismolalupa.it/
 way	205835506	http://www.museonazionaletrasporti.it
@@ -3647,6 +3654,7 @@ way	1342118948	https://donquiquepadelimperia.it/
 way	1343810683	https://www.manenahostel.it/
 way	1355972592	https://liguriadamare.com/caladisole/appartamenti.html
 way	1361002049	https://playtomic.com/clubs/tavolara-sporting-club
+way	1361473341	https://openpnrr.it/progetti/869/
 way	1361527752	https://www.sanlorenzoalmarecantieri.it
 way	1363938538	https://www.remolidays.it/en/remolipark-3/
 way	1365506069	https://www.cantieridiimperia.com
@@ -4390,6 +4398,7 @@ node	12900434617	https://www.duerrecentromedico.it
 node	13096908610	https://www.oliorivieraligure.it/produttori/frantoio-ulivi-di-liguria/
 node	13136169465	https://www.comini.eu/borea/privati/showrooms/imperia-showroom
 node	13198574112	https://www.vigilanzalavigile.it/
+node	13340881986	https://www.maresport.it/maresport-porto-maurizio/
 way	134211659	http://www.celtorretta.it/
 way	158281161	https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html
 way	200981533	https://www.hotelbobby.it
@@ -4621,13 +4630,6 @@ node	324652177	http://www.atp-spa.it/cartina.php
 node	326144340	http://www.atp-spa.it/cartina.php
 node	326144350	http://www.atp-spa.it/cartina.php
 node	326144360	http://www.atp-spa.it/cartina.php
-node	332976046	http://www.atp-spa.it/cartina.php
-node	332976049	http://www.atp-spa.it/cartina.php
-node	332976052	http://www.atp-spa.it/cartina.php
-node	332976055	http://www.atp-spa.it/cartina.php
-node	332976058	http://www.atp-spa.it/cartina.php
-node	332976061	http://www.atp-spa.it/cartina.php
-node	332976064	http://www.atp-spa.it/cartina.php
 node	349891122	http://www.altaviacmargentea.net/ospitalita/ripari.shtml
 node	360684270	http://www.altaviacmargentea.net/ospitalita/ripari.shtml
 node	360684272	http://www.altaviacmargentea.net/ospitalita/ripari.shtml
@@ -4737,7 +4739,6 @@ node	428205847	http://www.amt.genova.it/orari/orari_urbana.asp
 node	428205848	http://www.amt.genova.it/orari/orari_urbana.asp
 node	429219746	http://www.atp-spa.it/cartina.php
 node	429219752	http://www.atp-spa.it/cartina.php
-node	429219754	http://www.atp-spa.it/cartina.php
 node	429219756	http://www.atp-spa.it/cartina.php
 node	429219758	http://www.atp-spa.it/cartina.php
 node	429219759	http://www.atp-spa.it/cartina.php
@@ -5393,7 +5394,6 @@ node	690281693	http://www.amt.genova.it/orari/orari.asp
 node	691922206	http://www.atp-spa.it/cartina.php
 node	694652682	http://www.atp-spa.it/cartina.php
 node	694652686	http://www.amt.genova.it/orari/orari.asp
-node	694652687	http://www.atp-spa.it/cartina.php
 node	694652690	http://www.amt.genova.it/orari/orari.asp
 node	694652692	http://www.atp-spa.it/cartina.php
 node	694652693	http://www.amt.genova.it/orari/orari.asp
@@ -6550,7 +6550,6 @@ node	2321580443	http://www.atp-spa.it/cartina.php
 node	2321580457	http://www.atp-spa.it/cartina.php
 node	2321580489	http://www.atp-spa.it/cartina.php
 node	2321580495	http://www.atp-spa.it/cartina.php
-node	2321580517	http://www.atp-spa.it/cartina.php
 node	2321580544	http://www.atp-spa.it/cartina.php
 node	2321580559	http://www.atp-spa.it/cartina.php
 node	2321580590	http://www.atp-spa.it/cartina.php
@@ -6679,7 +6678,6 @@ node	4009113107	http://www.atp-spa.it/cartina.php
 node	4012767690	http://www.atp-spa.it/cartina.php
 node	4044331190	https://www.tpllinea.it/
 node	4044331191	https://www.tpllinea.it/
-node	4111842242	http://www.atp-spa.it/cartina.php
 node	4111842243	http://www.amt.genova.it/orari/orari.asp
 node	4140446592	http://it-it.facebook.com/eden-arenzano-207859969255782/
 node	4225668442	http://www.amt.genova.it/orari/orari_urbana.asp
