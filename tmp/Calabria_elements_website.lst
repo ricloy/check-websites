@@ -144,6 +144,7 @@ node	3454316644	https://www.hotelsavant.it/
 node	3454316645	http://www.microelettronica.it/
 node	3455955826	http://www.carmar.eu/
 node	3455984855	http://www.carmar.eu/
+node	3485234116	https://www.poste.it
 node	3485256468	https://www.comune.villapiana.cs.it/
 node	3487410193	https://www.autoscuoletripodi.it/
 node	3592694280	https://www.megalehellas.net/
@@ -817,7 +818,6 @@ way	285017253	https://www.vascellero.it/
 way	293179919	http://www.santumiledabisignano.it/
 way	294983284	https://www.museisantaseverina.it/
 way	297492666	https://www.hotelroscianum.it/
-way	297526685	https://www.facebook.com/p/Cattedrale-Maria-Ss-Achiropita-Rossano-100064769434338/?locale=it_IT
 way	299589407	http://www.complessoconventualecappuccinichiaravallecentrale.com/index.htm
 way	299592317	https://www.parrocchiachiaravallecentrale.it/
 way	302713278	http://www.vallecrocchio.it/itinerari/naturalistici/Itinerario%2012.pdf
@@ -993,7 +993,6 @@ way	824208995	https://www.palazzopolicastrisuites.it/
 way	834217990	https://www.popiliaresort.it/
 way	844655934	https://www.lanavedellasila.org/
 way	849417774	https://www.castellofedericianoroseto.com/
-way	850413604	https://www.museocodexrossano.it/
 way	858244518	http://www.costasplendente.it/
 way	859313247	https://campingthurium.com/
 way	859615532	https://www.poliziadistato.it/
@@ -1135,7 +1134,6 @@ way	1280715421	https://www.iislucreziadellavalle.edu.it/
 way	1281793742	https://www.madonnadeipoveri.com/
 way	1287486430	https://arcomagno.it/
 way	1287733875	http://www.portal-sun.com/Museo-Grimaldi/Home.asp
-way	1292792925	https://cinemateatrosanmarco.it
 way	1295087655	https://www.calabriaportal.com/cetraro/5100-chiesa-san-pietro-apostolo-cetraro.html
 way	1295636130	http://www.lidotropical.it/
 way	1295637269	https://www.hoteldeifocesi.it/
@@ -1555,18 +1553,65 @@ relation	9761581	https://www.villaggiosantamonica.com/
 relation	16172031	http://www.iistropea.gov.it/
 relation	16822856	https://www.centrocommercialelevele.it/
 relation	18006192	https://www.diocesisanmarcoscalea.it/
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
-
-</body>
-</html>
+node	2696198330	https://portalidicalabria.altervista.org/palazzo-de-nobili-sellia-marina/
+node	9899918440	https://www.tuibluetropea.com
+node	9899927291	https://www.orizzonteblu.it/
+way	88861340	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
+way	171042206	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
+way	171042209	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
+way	171042211	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
+way	171043498	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043500	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043501	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043504	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043505	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043507	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043511	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043515	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
+way	171043517	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043519	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043520	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043521	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043522	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043523	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043524	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043525	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	171043527	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	174685994	http://www.archeocalabria.beniculturali.it/archeovirtualtour/calabriaweb/locriteatro1.htm
+way	226228592	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=9773
+way	278199791	https://portalidicalabria.altervista.org/trebisacce-chiesa-madre-di-san-nicola-di-mira-cupola-e-campanile/
+way	289087925	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
+way	289087927	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
+way	375114782	https://portalidicalabria.altervista.org/palazzo-dellaccademia-cosentina-cosenza/
+way	708057676	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=9773
+way	708057677	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=9773
+way	708057678	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico
+way	708057679	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	708104140	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	708104141	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	708104142	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	723000097	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
+way	723000098	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
+way	723000102	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
+way	812626555	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=9773
+way	812626557	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico
+way	812626559	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=9773
+way	817780156	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	888302244	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
+way	888302247	https://www.stradeanas.it/it/calabria-anas-aperta-al-traffico-la-variante-di-palizzi-lungo-la-ss106-jonica-provincia-di-reggio
+way	940715594	https://portalidicalabria.altervista.org/palazzo-de-nobili-sellia-marina/
+way	940720029	https://portalidicalabria.altervista.org/rose-cs-decorazioni-longobarde-nelle-chiesa-matrice/
+way	1015099595	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
+way	1085549028	https://www.comune.montaltouffugo.cs.it/
+way	1238103069	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
+way	1292024264	https://www.tonicello.it
+relation	17789897	https://appenninobiketour.com/percorso/
+relation	17790117	https://appenninobiketour.com/percorso/
+relation	17790422	https://appenninobiketour.com/percorso/
+relation	17792059	https://appenninobiketour.com/percorso/
+relation	17806128	https://appenninobiketour.com/percorso/
+relation	17806644	https://appenninobiketour.com/percorso/
+relation	17807195	https://appenninobiketour.com/percorso/
+relation	17807260	https://appenninobiketour.com/percorso/
+relation	17807702	https://appenninobiketour.com/percorso/
+relation	17814924	https://appenninobiketour.com/percorso/
