@@ -345,7 +345,6 @@ node	72994821	http://www.comune.oschiri.ot.it/
 node	72994836	https://www.comune.ozieri.ss.it/
 node	72994844	https://www.comune.pattada.ss.it/
 node	72994859	https://comune.pozzomaggiore.ss.it/
-node	226923518	https://www.eni.com/
 node	227777261	https://www.tamoil.it/
 node	259430501	https://www.rfi.it/it/stazioni/rudalza.html
 node	259430562	https://www.rfi.it/it/stazioni/cala-sabina.html
@@ -547,7 +546,6 @@ node	2253205440	https://www.eurospin.it/
 node	2255631324	https://www.clubesse.it/strutture/resort-cala-gonone-beach-village/
 node	2257989689	http://www.hotelsantelene.net/ristorante-e-pizzeria/
 node	2258462860	https://www.sapposentusardegna.it/
-node	2267756818	http://musei.beniculturali.it/musei?mid=239&nome=museo-nazionale-archeologico-ed-etnografico-giovanni-antonio-sanna
 node	2267764472	https://www.hotelgraziadeledda.it/
 node	2267771052	https://www.supersigma.com/
 node	2267771209	https://www.eurospin.it/
@@ -1074,7 +1072,6 @@ node	4469700481	http://www.kennedysassari.it/
 node	4469718558	https://panegrossosassari.it/
 node	4469737051	https://www.fablabsassari.org/
 node	4469737512	https://www.istituto-bellieni.it/
-node	4469739513	http://www.marianarredamenti.it
 node	4469759706	https://www.officinecondivise.com
 node	4469760288	http://utt.uniss.it
 node	4469765001	https://www.outlawstore.it/
@@ -1787,7 +1784,7 @@ node	12321369225	https://www.sardiniadomus.it/
 node	12321371439	https://acaciaedilizia.it/
 node	12321395317	https://navitora.it/
 node	12357742068	www.notaiopianusassari.it
-node	12380667841	https://www.provincia.sassari.it/
+node	12380667841	https://www.cittametropolitana.ss.it/it
 node	12384044467	https://www.officinameccanica-apostosulposto.it/
 node	12396262441	https://www.repower.com/dina/
 node	12406674356	https://www.metalbox.it
@@ -2022,6 +2019,10 @@ node	13287123839	https://streetartutopia.com/2024/01/04/beautiful-mural-by-vanda
 node	13287127501	https://www.cosir.org/
 node	13303625501	https://www.rosasfotografia.it/
 node	13310610113	https://www.sardegnabiblioteche.it/index.php?xsl=839&s=2&v=9&c=5670&codice=PR-OV0010
+node	13359524139	https://www.barlafenicelaconi.it/
+node	13368342428	https://www.otticadelogu.com/
+node	13368342429	https://www.otticadelogu.com/
+node	13374227738	http://www.marianarredamenti.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2182,11 +2183,12 @@ way	198074385	https://www.tharros.info/
 way	199093273	https://www.eurospin.it/
 way	199385493	https://www.letorrihotelsardegna.it/
 way	201186907	https://www.motorschoolriola.it/
+way	202961705	https://www.iisbuonarrotivolta.it/
 way	206297685	http://istitutoangioj.gov.it
 way	206844793	https://www.eurospin.it/
 way	210107356	http://www.sardegnacultura.it/j/v/253?s=24751&v=2&c=2488&c1=2123&visb=&t=1
 way	212855914	https://www.facebook.com/momotu.assocult/info
-way	215454031	http://www.accademiasironi.it/
+way	215493752	http://musei.beniculturali.it/musei?mid=239&nome=museo-nazionale-archeologico-ed-etnografico-giovanni-antonio-sanna
 way	217522449	https://www.lidl.it/
 way	218050974	https://www.lanuovasardegna.it/
 way	218807662	https://www.carlodelfinoeditore.it/
@@ -2922,6 +2924,8 @@ way	1441720222	https://www.capofigari.it/sentieri-mappa.php?id=9&lang=ita
 way	1444426110	https://www.bittirex.it
 way	1444707270	https://www.chioscodiponente.it/
 way	1453594670	http://www.hotelmarini.com
+way	1457211208	http://www.accademiasironi.it/
+way	1458306656	https://www.eni.com/
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
