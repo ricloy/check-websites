@@ -41,6 +41,7 @@ node	228262895	http://www.xfuel.it/stations.html
 node	228263519	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/API41510
 node	250052540	https://www.centrodabruzzo.com/negozi/ipercoop/
 node	254086847	https://www.icpescara3.edu.it/istituto-2/via-milite-ignoto/
+node	254087271	https://istitutoravasco.it
 node	254087448	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10779
 node	254087764	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10841
 node	254088436	https://www.farmaciediturno.org/farmacia.asp?idf=10769
@@ -1721,7 +1722,6 @@ node	7991033227	https://www.clinitest-pescara.it/Laboratorio-analisi
 node	7992623717	https://mercati.comune.pescara.it/commercio-su-area-pubblica/
 node	7992623718	https://mercati.comune.pescara.it/commercio-su-area-pubblica/
 node	7992623719	https://mercati.comune.pescara.it/commercio-su-area-pubblica/mercato-di-via-maestri-del-lavoro.html
-node	8000764535	https://www.esaenergie.eu/
 node	8001434549	https://valdesi-sgl.business.site
 node	8016637320	https://insideevs.it/news/523560/piemonte-atlante-nhoa-free2move-esolutions/
 node	8039824954	https://www.barprofetarestaurant.it
@@ -2069,6 +2069,7 @@ node	9050375647	https://www.borgosanmartino.eu/it/
 node	9053454519	https://sportscienceitalia.simplybook.it/
 node	9055264052	https://www.comune.roseto.te.it/mercati
 node	9056957012	https://www.comune.schiavidiabruzzo.ch.it/
+node	9056965418	https://www.comune.schiavidiabruzzo.ch.it/it/point-of-interest/702026
 node	9065949532	https://www.pdezi.it/
 node	9067495866	https://www.hotelromalanciano.it/
 node	9076402949	https://www.carabinieri.it/cittadino/tutela/patrimonio-culturale/articolazione/gruppo-tpc-di-roma/nucleo-tpc-di-l%27aquila
@@ -3229,6 +3230,7 @@ node	12455513003	http://www.accademiamusicaleprogettochitarra.it/
 node	12455548148	https://www.visitgiulianova.com/punto_interesse.php?id=44
 node	12455633287	https://enoagricoladittastella.it/
 node	12458566864	https://www.spaziocasa.net/
+node	12462670438	https://www.asp2teramo.it/istituto-castorani
 node	12464816747	https://speedqueeninvestor.com/our-laundry-stores/locations/italy/pescara/lavanderia-self-service-speed-queen/138211
 node	12469187363	https://www.hotelaltevie.it
 node	12470921542	https://www.facebook.com/p/Organic-Beauty-District-by-Deny-100063786601058/
@@ -3337,6 +3339,7 @@ node	12759821617	http://www.ziogio.it/
 node	12774535774	https://www.bottega94.com
 node	12800578685	https://www.ilbosso.com/tirino-hostel/
 node	12804499249	https://www.supermercatidem.com/supermercati/dem-pescara/
+node	12805961253	https://www.casaecompany.it/
 node	12813670110	https://www.tagmarketshop.it
 node	12813670111	https://www.studioimpressions.it/
 node	12840155620	https://www.gasgas.fun/
@@ -3516,6 +3519,8 @@ node	13344421910	https://casadamedardo.it
 node	13344421934	https://comune.sanbenedettoinperillis.aq.it
 node	13348372587	https://www.uniecampus.it/
 node	13351328477	https://www.federalpol.net/
+node	13361413801	https://www.carabinieri.it
+node	13369801651	https://www.larocca.foundation/
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3524,6 +3529,7 @@ way	14474246	https://www.accessibilitacentristorici.it/ztl/abruzzo/pescara.html
 way	14474250	https://www.icranet.org/index.php?option=com_content&task=view&id=3&Itemid=596
 way	19716154	https://www.asdpescaranord.com/home/campo-sportivo/
 way	23142406	https://www.gentidabruzzo.com/
+way	23161314	https://www.leonardope.it
 way	24280498	https://www.mumbojumbo.it
 way	24398315	https://www.mediamuseum.it
 way	24398466	https://www.conservatoriopescara.it/
@@ -3732,6 +3738,7 @@ way	267637426	https://tilm.it/
 way	268407770	https://www.residenzauniversitariasancarloborromeo.com
 way	269351137	https://www.comune.bussisultirino.pe.it
 way	276212659	https://www.fatergroup.com/en
+way	276462198	http://questure.poliziadistato.it/servizio/commissariati/5730dc9d13155540706764
 way	276465517	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII182440#
 way	285509352	https://www.rolli.it/italiano/stabilimenti.aspx
 way	290024030	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1300300808
@@ -3869,6 +3876,7 @@ way	469487122	https://www.avezzanorugby.it/
 way	469488564	https://www.avezzanorugby.it/
 way	470700476	https://www.hotelboccadivalle.com/home.htm
 way	471522148	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-michele-di-pescocostanzo/
+way	471834676	https://www.carabinieri.it
 way	472275200	http://www.musicateatromarsi.it/
 way	472275544	http://www.itisavezzano.it/
 way	473535931	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-spirito-a-majella/
@@ -4416,6 +4424,7 @@ way	1144316637	https://www.tenutailguerriero.it/
 way	1147124767	https://www.thegreenpark.it/
 way	1148225873	https://www.vinisincarpa.it
 way	1150379623	https://www.cosvega.it/
+way	1150720420	https://www.aziendaagricolaciccone.it/
 way	1150983173	https://lazzaronibiscotti.it/en/lazzaroni-biscotti-en/
 way	1152885066	https://isola.net/
 way	1153887336	https://www.campingdonantonio.it/
@@ -4618,6 +4627,7 @@ way	1396893815	https://sites.google.com/view/il-cambusiere-nature-relais/home-pa
 way	1396893816	https://sites.google.com/view/il-cambusiere-nature-relais/stabilimento-balneare
 way	1408638177	https://comprensivodonmilanilanciano.edu.it/luogo/scuola-primaria-olmo-di-riccio/
 way	1409538859	https://www.vigilfuoco.it/sedi-vvf/distaccamento-di-lanciano
+way	1410608111	https://dati.cultura.gov.it/lodview-arco/resource/ArchitecturalOrLandscapeHeritage/1300025976.html
 way	1410955526	https://www.tgmax.it/rotatoria-di-via-per-treglio-lamentele-e-correzioni-in-corso-dopera/
 way	1411423348	https://rinascitalancianese.it/public/content/
 way	1411810026	https://www.dannunziolanciano.edu.it/le-nostre-scuole/scuola-primaria-giardino-dei-bimbi/
@@ -5138,6 +5148,7 @@ way	1391312202	https://www.provinciateramo.com/utenti/il-berrettino-Teramo/il-be
 way	1393942195	https://www.jw.org/it/
 way	1408237792	https://www.vaticannews.va/it/festivita-liturgiche/sacro-cuore-di-gesu.html
 way	1409206858	https://santantoniolanciano.com/?i=1
+way	1410608111	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1300025976
 way	1410955526	https://www.chietitoday.it/attualita/provincia-aggiudicati-lavori-rotatoria-lanciano-treglio.html
 way	1411481544	https://www.dannunziolanciano.edu.it/le-nostre-scuole/scuola-dell-infanzia-e-damico/
 way	1413864433	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/17860/Chiesa+di+Santa+Giusta+%7C+Lanciano+%28CH%29
