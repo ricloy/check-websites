@@ -426,7 +426,6 @@ node	3654592431	http://www.museocivicomontesano.it/
 node	3654849515	http://www.ristorantedaalfonso.it/
 node	3654888865	https://www.poste.it/cerca/index.html#/risultati-cerca-up/sapri%20ufficio%20postale
 node	3657245231	https://trekking.it/itinerario/le-valli-dei-mulini
-node	3658211900	http://www.campingacapulco.it/
 node	3664327691	https://www.farmaciamonteruscello.it/
 node	3671547482	https://www.lunacaprese.net
 node	3677050334	https://www.museoalfonsiano.it/node/1
@@ -2482,7 +2481,6 @@ node	12120722017	https://www.oasimadredellapace.com/
 node	12135270251	www.sigitec.net
 node	12144016748	https://farmaciacasa.it/
 node	12144016749	https://farmacieinternazionali.it/
-node	12147574683	https://www.txilibri.com
 node	12186589813	https://www.instagram.com/aurora_casa_della_cultura/
 node	12186650358	https://www.hotelgardenriviera.it/
 node	12206971413	https://museodeipellegrini.it/
@@ -2907,6 +2905,8 @@ node	13328926302	https://rameloungebistrot.it/
 node	13335869965	https://nazzaroabbigliamento.it
 node	13338382485	https://ilgiardinodeipini.it/
 node	13354463140	https://etesupermercati.it/etesmarty
+node	13372296719	http://www.agriturismoilcastagno.com/
+node	13372530246	https://www.ristorantefranchino.com/
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
 way	24225619	https://reggiadicaserta.cultura.gov.it/
@@ -3861,6 +3861,7 @@ way	1009147283	https://www.itibarsanti.edu.it/
 way	1010289466	http://www.campingdelverde.it/
 way	1011049885	https://www.icsorrento.edu.it/index.php/9-generale/47-scuola-primaria
 way	1011546783	https://itimariecurie.it/#
+way	1012160440	https://www.instagram.com/santamvsica?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 way	1012160442	https://www.grancafferomano.it/
 way	1013293998	http://www.icdassisinicolaamore.edu.it
 way	1013293999	http://www.icdassisinicolaamore.edu.it
@@ -4148,6 +4149,7 @@ way	1450139946	https://www.famila.it
 way	1454619357	https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/600
 way	1454619358	https://www.ic53giganteneghelli.edu.it/#
 way	1456256591	https://pro7.it/negozi/pro7-vitulazio
+way	1457752477	https://www.valledelvesuvio.it/agricampingstone/
 relation	12377	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/lago-tempio-diruto-e-casa-dei-cigni/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
@@ -4395,6 +4397,7 @@ relation	19556653	https://www.camminibizantini.com/
 relation	19556714	https://www.camminibizantini.com/
 relation	19629130	https://www.centrocommercialemedi.it
 relation	19742496	https://laviasilente.it/content/
+node	26859440	https://www.capogrossocamerota.it/
 node	253783845	https://www.pasticceriageneroso.it
 node	897180728	http://www.mcpiccadilly.com
 node	897305670	http://www.hotelpalaceonline.it
@@ -4429,6 +4432,7 @@ node	7797025364	http://www.calasole.com/home.html
 node	7944774684	https://www.quidstore.it
 node	8346948239	www.scuolagramscimpastato.edu.it
 node	8757448479	https://www.infoserv.biz
+node	8972379210	https://www.villaggiocalablanca.it/
 node	9799025842	http://www.treesmusicstudio.it/
 node	9835776084	https://www.villarosada.net/
 node	9835776085	https://m.facebook.com/PizzeriaTriventoPalinuro/
@@ -4484,7 +4488,9 @@ node	13178985321	https://www.stayinnaples.it/
 node	13194260136	https://www.acasadiclara.it/
 node	13197324775	https://www.llabbasc.it
 node	13202158065	https://www.bionceli.com/
+node	13202158066	https://nxsgrowshop.com/
 node	13202824163	https://campania.coldiretti.it/calendari-mercati-napoli/
+node	13206311029	https://bichotashop.com/
 node	13247958620	https://www.napolicentrobeb.it/it
 node	13247963087	https://www.formazionesrl.it
 node	13260035349	https://www.perdormire.com/negozi/napoli-vomero/
@@ -4498,9 +4504,11 @@ node	13333967011	https://www.pizzeriapisani.it/
 node	13334562342	https://www.londonstore.it
 way	79268408	https://szn.it/index.php/
 way	170920731	https://www.giardiniposeidonterme.com/
+way	170951369	https://www.areapicnicpugliese.it/
 way	174047981	http://www.cittadellascienza.it/
 way	188278613	https://retemuseale.provincia.benevento.it/complesso-monumentale-di-santilario
 way	203584104	https://www.talentocash.com/punti-vendita/avellino/
+way	210211794	http://www.villaggiobussento.it/
 way	210821318	https://www.liceoviconapoli.edu.it/
 way	210821324	https://www.ic9cuocoschipa.edu.it/
 way	215320284	www.ravino.it
@@ -4511,12 +4519,15 @@ way	259069370	https://www.lasalettenapoli.it/
 way	287539256	https://supermercatideco.multicedi.it/
 way	297582955	http://www.ischia-fewo.com/
 way	302370309	http://www.santafortunata.com
+way	304834797	https://www.camping3g.it/
+way	305525050	https://www.europaunitasolemare.com/
 way	312823675	https://www.lautotamigi.it/
 way	320200930	https://www.centrocommercialepegaso.it/
 way	380467603	http://www.hotelcapodichino.it/
 way	414221329	https://www.giardinoliberato.org/
 way	417834740	https://www.paradisesportingvillage.com/
 way	420554014	https://www.casamonetacapri.com/
+way	462983178	https://www.villaggioromano.com/
 way	610045991	https://www.hermitagecapodimonte.it/
 way	749284733	https://www.tui.co.uk/destinations/europe/italy/neapolitan-riviera/piano-di-sorrento/hotels/tui-blue-nastro-azzurro.html
 way	749285010	https://villaflore.it
@@ -4533,6 +4544,13 @@ way	1384056894	https://www.rinaldo.it/
 way	1394480691	https://www.villapuntapennata.it
 way	1427078648	https://www.comune.tufo.av.it
 way	1432321748	https://www.agricampeggiolaghettobasilone.it/
+way	1450308181	https://www.donciccio.life/
+way	1457689474	https://www.villaggiomaddalena.it/
+way	1457703740	https://www.villaggionessuno.com/
+way	1457703742	https://www.odisseavillage.com/
+way	1457713177	https://www.campinglentiscella.com/
+way	1457736165	https://www.glampingdipalma.it/
+way	1457740740	campingacapulco.i
 relation	14434407	https://www.wwf.it/oasi/campania/lago_di_campolattaro/
 relation	14635178	https://www.parcoregionaledelmatese.it/
 node	68581547	www.ravello.com
