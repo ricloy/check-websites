@@ -343,7 +343,6 @@ node	11196283938	https://cofruits.it
 node	11196283940	https://www.fontina-valledaosta.it/
 node	11202298421	https://www.repower.com/it/dina/
 node	11227977959	https://www.hotelmonteemilius.com/
-node	11247696490	https://www.campeggioduparc.com/
 node	11253391257	http://maisondunoyer.com/
 node	11333524652	https://www.lebouquetaosta.it/
 node	11350961345	https://www.repower.com/dina/
@@ -960,6 +959,7 @@ way	1423992265	https://www.hotel-la-thuile-resort-spa.com/
 way	1423993199	https://www.lovevda.it/it/banca-dati/11/servizi/la-thuile/parco-giochi-per-bambini-in-frazione-buic/313
 way	1450916056	https://www.lovevda.it/it/banca-dati/8/architettura-romana/aymavilles/il-ponte-acquedotto-romano-di-pont-d-ael/852
 way	1450916057	https://www.lovevda.it/it/banca-dati/8/architettura-romana/aymavilles/il-ponte-acquedotto-romano-di-pont-d-ael/852
+way	1457882986	https://www.campeggioduparc.com/
 relation	7407	https://hautesavoie.fr/
 relation	124582	https://www.viefrancigene.org/
 relation	162371	https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/cogne-rifugio-sogno-di-berdze/2974
@@ -1139,8 +1139,10 @@ way	103017128	http://www.hotelpetitfoyer.it
 way	120778651	http://www.residencedelapierre.it/
 way	125447845	www.rifugiorionde.it
 way	131413425	http://www.rifugiodellemarmotte.it
+way	144122539	https://www.vmao.it/
 way	147536904	http://www.rifugiobonatti.it/
 way	147963960	http://www.rifugiobertone.it/wp/it/home/
+way	148853613	https://campingmontblanc.it/
 way	154481659	https://rifugioalpebonze.com/
 way	161482846	https://www.parrocchiasantamargheritaentreves.it
 way	165077481	http://www.ponteromano.it/
