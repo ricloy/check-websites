@@ -118,7 +118,7 @@ node	638737867	https://www.hotelserena-ge.it/
 node	638737876	http://www.enahotel.it/
 node	652439366	https://www.patanegragenova.it/
 node	658317431	http://www.anticaostaja.it/
-node	664525961	https://genoacfc.it/sede/museum-and-store/
+node	664525961	https://www.fondazionegenoa.com/
 node	665142545	https://www.hotelghironi.it/
 node	665513762	https://www.trovavetrine.it/ristorante-scandelin
 node	665513773	http://www.labattigiasori.it/
@@ -2713,7 +2713,6 @@ node	12920755249	https://studioobbiaragazzini.com/
 node	12921198279	https://www.hotellungomare.it/
 node	12923772153	https://www.cnandora.it
 node	12924795576	https://www.protezioneciviletrinita.it/
-node	12942329303	https://www.campingalberodoro.com/
 node	12942603471	https://onoranzefunebrigenova.it/
 node	12946668901	https://www.ic1ventimiglia.edu.it/
 node	12954839116	https://stellamarisbergeggi.com/
@@ -2816,6 +2815,8 @@ node	13334671622	osteriadeicamalli.com
 node	13339354799	https://www.stellamarisimperia.it
 node	13343364782	https://www.elmascavi.com
 node	13354308531	https://albergodellangelo.com
+node	13367743992	https://www.rb-sistemi.com
+node	13376154948	https://genoacfc.it/negozi/
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -3497,7 +3498,7 @@ way	534485034	https://www.thecrag.com/climbing/italy/area/1804244892
 way	534488089	https://www.thecrag.com/climbing/italy/area/1804248174
 way	536123088	https://www.provincia.savona.it/strade/sp45
 way	536790001	https://www.campingvallecrosia.com/
-way	539308173	www.campingholiday.it
+way	539308173	http://www.campingholiday.it/
 way	541004181	https://www.specchiodiatlantide.com/
 way	551828533	http://www.fgriciclaggi.com
 way	558513347	https://www.iccarcare.gov.it/
@@ -3550,6 +3551,7 @@ way	822977506	https://www.pampanorama.it/punti-vendita/pam-sanremo-agosti
 way	827669966	https://www.campingdellerose.eu/
 way	834041920	https://www.provincia.savona.it/strade/sp28bis
 way	834041921	https://www.provincia.savona.it/strade/sp28bis
+way	835916614	https://comune.loano.sv.it/it/page/la-sosta-area-camper
 way	839825074	http://www.comuneosiglia.it/Home/Guida-al-paese?IDDettaglio=33495
 way	840187808	https://www.ristorantedallava.com/
 way	845657968	http://www.sollevantebeach.it/
@@ -3604,6 +3606,7 @@ way	1161621509	http://www.lattealberti.it/informativa
 way	1161621512	http://www.lattealberti.it/informativa
 way	1161621513	http://www.lattealberti.it/informativa
 way	1162787486	http://www.campingcinqueterre.it/
+way	1162787488	https://www.campingalberodoro.com/
 way	1169028252	https://catalogo.beniculturali.it/detail/ArchaeologicalProperty/0700263711
 way	1178791148	http://www.arenzanoffroad.it
 way	1179991363	https://www.liguriahomes.com/
@@ -3678,6 +3681,7 @@ way	1422873778	https://www.tesla.com/findus/location/supercharger/varazzesuperch
 way	1424746516	https://villabiener.com/
 way	1430545078	https://campingilpersiano.com
 way	1436553694	https://teatrosalvini.com/
+way	1457414473	http://www.agricampinglavilla.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	42713	https://www.apricale.org/
 relation	283620	https://www.inps.it
@@ -4405,6 +4409,7 @@ node	13198574112	https://www.vigilanzalavigile.it/
 node	13340881986	https://www.maresport.it/maresport-porto-maurizio/
 way	134211659	http://www.celtorretta.it/
 way	158281161	https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html
+way	178709006	https://www.campingleo.it/
 way	200981533	https://www.hotelbobby.it
 way	201206121	https://www.royalhotelsanremo.com/
 way	202331656	https://www.museodellorologio.it
@@ -4415,16 +4420,22 @@ way	225443643	http://www.rivieratrasporti.it/
 way	225501972	https://www.comune.sanlorenzoalmare.im.it/Luoghi?ID=604
 way	225515627	https://www.agenziacasavacanza.it
 way	230769914	https://www.cartieragrillo.net/
+way	235809148	https://www.campinglasfinge.com/
+way	236840321	https://www.campingrustia.it/
 way	259258749	https://costalunga.org/
 way	324950042	https://www.tigullio.com/
+way	332491572	https://www.caduchittu.com/
 way	333063281	https://www.campeggiooasi.it/
 way	342519271	https://www.campinglapergola.net/
+way	345663486	https://locandaupega.com/campeggio/
 way	351297030	https://www.campingbracchettovetta.com/
+way	365091985	https://www.campingcharly.it
 way	379055920	http://www.parcomarguareis.it/
 way	437897161	https://www.booking.com/hotel/it/bungalow-camping-rivamare.it.html?aid=7974236
 way	437899402	http://www.villaggiointernazionale.blog/
 way	440329909	https://portodiarenzano.it
 way	443614365	https://www.stellamarinasavona.it/
+way	462540380	https://campinglaghetti.it/
 way	481979099	https://it.wikipedia.org/wiki/Batteria_di_Punta_Chiappa
 way	481979115	https://it.wikipedia.org/wiki/Batteria_di_Punta_Chiappa
 way	708233827	www.soccorsocinofiloliguria.org
@@ -4440,10 +4451,12 @@ way	1306677627	http://campeggiotrigoso.it/
 way	1341620816	https://www.icboine-imperia.edu.it/luogo/scuola-materna-borgo-prino
 way	1341620817	https://www.icboine-imperia.edu.it/luogo/scuola-primaria-r-vercesi
 way	1372102366	https://www.eurospin.it/punti-vendita/diano-castello-via-diano-san-pietro/
+way	1382406917	https://www.campingpfirsich.it/
 way	1413035046	http://www.campingfossalupara.it/
 way	1426798893	https://www.lapietraelulivo-agricamping-pietraligure.com/
 way	1456193698	https://www.vacanzissima.net/
 way	1456206265	https://labaiadeigabbiani.it/
+way	1457403896	https://campingcostabella.it/
 relation	11734820	http://parconaturalealpiliguri.it
 node	201634566	http://www.starhotels.com/
 node	206230003	http://www.minihotelgenova.com/
@@ -4744,9 +4757,6 @@ node	429302379	http://www.atp-spa.it/cartina.php
 node	429302380	http://www.atp-spa.it/cartina.php
 node	429302384	http://www.atp-spa.it/cartina.php
 node	429302398	http://www.atp-spa.it/cartina.php
-node	429302400	http://www.atp-spa.it/cartina.php
-node	429302401	http://www.atp-spa.it/cartina.php
-node	429302402	http://www.atp-spa.it/cartina.php
 node	429536147	http://www.genovacarsharing.it/
 node	434142122	http://www.amt.genova.it/orari/orari_urbana.asp
 node	434142141	http://www.amt.genova.it/orari/orari.asp
@@ -5818,11 +5828,8 @@ node	1165069618	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1165069621	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1165069625	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1213212794	http://www.atp-spa.it/cartina.php
-node	1213212798	http://www.atp-spa.it/cartina.php
 node	1213212800	http://www.atp-spa.it/cartina.php
-node	1213212805	http://www.atp-spa.it/cartina.php
 node	1213212808	http://www.atp-spa.it/cartina.php
-node	1213212812	http://www.atp-spa.it/cartina.php
 node	1213212814	http://www.atp-spa.it/cartina.php
 node	1213212816	http://www.atp-spa.it/cartina.php
 node	1213212819	http://www.atp-spa.it/cartina.php
@@ -5832,13 +5839,11 @@ node	1213212823	http://www.atp-spa.it/cartina.php
 node	1213212825	http://www.atp-spa.it/cartina.php
 node	1213212832	http://www.atp-spa.it/cartina.php
 node	1213212833	http://www.atp-spa.it/cartina.php
-node	1213212834	http://www.atp-spa.it/cartina.php
 node	1213212835	http://www.atp-spa.it/cartina.php
 node	1213212836	http://www.atp-spa.it/cartina.php
 node	1213212846	http://www.atp-spa.it/cartina.php
 node	1213212848	http://www.atp-spa.it/cartina.php
 node	1213212849	http://www.atp-spa.it/cartina.php
-node	1213212850	http://www.atp-spa.it/cartina.php
 node	1213212851	http://www.atp-spa.it/cartina.php
 node	1213212854	http://www.atp-spa.it/cartina.php
 node	1213212855	http://www.atp-spa.it/cartina.php
@@ -5847,7 +5852,6 @@ node	1213212858	http://www.atp-spa.it/cartina.php
 node	1213212860	http://www.atp-spa.it/cartina.php
 node	1213212861	http://www.atp-spa.it/cartina.php
 node	1213212868	http://www.atp-spa.it/cartina.php
-node	1213212869	http://www.atp-spa.it/cartina.php
 node	1213212871	http://www.atp-spa.it/cartina.php
 node	1213212879	http://www.atp-spa.it/cartina.php
 node	1213212881	http://www.atp-spa.it/cartina.php
@@ -5855,8 +5859,6 @@ node	1213212882	http://www.atp-spa.it/cartina.php
 node	1213212883	http://www.atp-spa.it/cartina.php
 node	1213212884	http://www.atp-spa.it/cartina.php
 node	1213212885	http://www.atp-spa.it/cartina.php
-node	1213212893	http://www.atp-spa.it/cartina.php
-node	1213212895	http://www.atp-spa.it/cartina.php
 node	1213212896	http://www.atp-spa.it/cartina.php
 node	1213840175	http://www.amt.genova.it/orari/orari_urbana.asp
 node	1213840189	http://www.amt.genova.it/orari/orari_urbana.asp
