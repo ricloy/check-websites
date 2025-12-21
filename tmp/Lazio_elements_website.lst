@@ -847,7 +847,6 @@ node	2162469364	https://www.hm.com/om/store-locator/italy/roma-rm/il-palazzo/
 node	2168580021	https://www.caffehaitiroma.it/it/
 node	2169651235	http://www.ristoranteosteriadel400.com
 node	2179743432	https://www.facebook.com/Antichi-Sapori-by-Macelleria-Fratelli-Squarcia-1441728122797578/
-node	2184077390	https://www.caseromane.it/
 node	2186088949	https://coopetruria.coop.it/negozi/fabricadiroma-fabricadiroma
 node	2187746078	http://www.ovelletrano.it
 node	2190181786	https://unieuro.it/
@@ -1900,7 +1899,6 @@ node	4286310977	https://www.dragolago.it/
 node	4286310978	nauticailgabbiano.it
 node	4290115126	https://www.hotelducadalba.com/
 node	4293324122	http://beldeshotel.com
-node	4293569497	www.casadicurasanluca.com
 node	4294462284	www.cex-expo.it
 node	4294972094	http://www.ristorantevillamarsili.it
 node	4294999793	www.lapinetastudio.it
@@ -2747,6 +2745,7 @@ node	5312034572	aziendaagricolatrevi.it
 node	5313604827	shizenviterbo.it
 node	5313604840	https://fratellilabufala.eu/
 node	5313604851	crunchtoasttoast.com
+node	5313604852	https://www.ghostchilipizza.com/
 node	5313736045	lacimina.it
 node	5313955857	http://ristorantebravocharlie.com
 node	5315006837	https://www.poseidonsportingclub2013.it/
@@ -3456,6 +3455,7 @@ node	6393009550	https://www.facebook.com/pages/6ei8ttavi/1549194391861117
 node	6394745085	https://www.conad.it/ricerca-negozi/negozio.003890.html
 node	6394755185	https://www.todis.it/
 node	6395833585	http://www.pizzerialafiorente.it
+node	6397309502	https://www.aristoapi.com
 node	6399497786	https://www.sorbillo.it/
 node	6401177792	http://www.icviatorriani.gov.it/scuola-primaria/scuola-primaria-sede-i-pizzetti/
 node	6401210937	https://www.facebook.com/Parrocchia-S-Maria-della-Perseveranza-1754127361578489/
@@ -4769,6 +4769,7 @@ node	9482120115	https://nsaprotezionecivile.it/
 node	9483735469	https://www.armeriapatria.it/
 node	9491632841	https://www.loft84.it/
 node	9492164056	https://pastificioallegretti.it/
+node	9492822626	https://studiomedicoanglona.it/
 node	9493112520	https://www.aldrovandiresidence.it/
 node	9493138416	www.tavernarossini.it
 node	9497381654	https://www.bancobpm.it/trova-filiali/tutte-le-filiali/lazio/RM/01621/
@@ -4930,6 +4931,7 @@ node	9797955029	https://www.naba.it/
 node	9797956580	https://www.britishcouncil.it/
 node	9797957328	https://talentgarden.org
 node	9798445501	https://www.spritzino.it/
+node	9801345227	https://gruppofarmacieitaliane.it/rete/farmacia-camilli/
 node	9801403645	https://www.pizzaforumroma.it/
 node	9801803267	https://www.facebook.com/La-Botte-Gelata-105971590776899/
 node	9802476355	https://www.ilbocconcino.com/
@@ -6239,6 +6241,7 @@ node	12149390855	https://www.mase.gov.it/
 node	12149390888	https://www.salute.gov.it/portale/usmafsasn/dettaglioUsmafSasn.jsp?lingua=italiano&id=87&area=usmaf&menu=vuoto
 node	12154830761	https://www.montelapuglia.it/
 node	12155861198	https://bucciatrattoria.superbexperience.com/
+node	12160051270	https://www.goodfellastraining.it/
 node	12160371686	https://www.ristoranteilcorsarobarberini.it/
 node	12161629782	https://www.icgianicolo.edu.it
 node	12161638804	https://umisushiroma.it/
@@ -6848,17 +6851,26 @@ node	13338165177	https://www.volkswagen.it/it/rete/nicolaprezioso.html
 node	13342965358	https://www.farmacap.info/farmacap-farmacia-comunale-malaga-euroma2/
 node	13344449792	https://www.libreriatralerighe.it/
 node	13345686465	https://apicio16.it/
-node	13352768780	ilcignoingordo.com
+node	13352768780	https://ilcignoingordo.com/
 node	13357322494	https://www.nesler.it/
 node	13358931542	https://www.tappezzeriadarredamento.it/
 node	13358931559	https://ristoranteilpellicano.com
 node	13359971201	https://www.facebook.com/DalBarbiereMarco/
 node	13361340601	https://www.liceoartisticoenzorossi.edu.it/
-node	13363040945	www.libroccasione.com
+node	13363040945	https://www.libroccasione.com/
 node	13363072295	https://libreriasottomarina.it
-node	13365989603	http://www.laciotoladoro.it
+node	13365989603	https://www.laciotoladoro.it/
 node	13366005103	https://carleader.it
 node	13372324001	https://www.aghotels.it/it/the-glam/hotel-con-lounge-bar-roma-centro?_gfc_cli=16034471406315273&_ga=2.33335932.358905528.1603447148-616702909.1603447148
+node	13380472743	https://www.romaurbancenter.it/
+node	13380799760	https://www.veterinariopigneto.it
+node	13380872265	https://www.leduequerceagriturismo.it
+node	13381903452	https://ilsistinachapiteau.it/
+node	13383297700	https://www.museocastrumvivarii.it/
+node	13386270592	http://www.pasticceriacasantini.it/
+node	13386958483	https://hospicesanluca.com/
+node	13386979269	https://www.sovraintendenzaroma.it/content/casina-vignola-boccapaduli-0
+node	13389308166	https://www.casacabrini.org
 way	8035487	https://direzionemuseiroma.cultura.gov.it/museo-nazionale-di-castel-santangelo/
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
@@ -6964,6 +6976,7 @@ way	58401608	http://www.sanpietroapostolofondi.com
 way	58472536	http://www.animalzone.it
 way	58521761	https://www.conad.it
 way	58774191	https://www.anastasiacamping.it/
+way	58887238	https://www.rai.it/
 way	58887814	https://www.essofuelfinder.it/429510-stazione-di-servizio-esso-5296-roma
 way	58901307	http://www.gymnasticstudio.it
 way	58908382	http://www.tacabandashop.it
@@ -9600,6 +9613,7 @@ way	1387032152	https://www.provincia.viterbo.it
 way	1387032154	https://www.provincia.viterbo.it
 way	1387032157	https://www.provincia.viterbo.it
 way	1387032158	https://www.provincia.viterbo.it
+way	1390021066	https://www.oasitigre.it/content/ot/it/it/il-mio-negozio.555.html
 way	1390908708	https://www.daivaldomontefiascone.it
 way	1391579418	https://villapamphili.it
 way	1392637891	https://www.icdecurtis.gov.it
@@ -9630,6 +9644,8 @@ way	1451611724	https://quirino-area-sosta-camper.business.site/
 way	1454345211	http://www.kotuki.it/
 way	1456879822	http://www.icviacortinaroma.it/Crivelli.html
 way	1456879823	http://www.babyandjob.it/portfolio-view/il-casello-dei-piccoli/
+way	1459611992	https://ambulatori.hospicesanluca.com/
+way	1460036087	https://www.comune.roma.it/web-resources/cms/documents/slides_Technopole.pdf
 relation	22289	https://www.farnese-rome.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -9658,7 +9674,6 @@ relation	1517413	castellodelsasso.it
 relation	1530887	https://www.eurspa.it/it/asset-property/patrimonio/edifici-storici/palazzo-arte-moderna
 relation	1536797	http://2.42.228.117/archeologia/index.php?it/142/scavi/scaviarcheologici_4e048966cfa3a/15
 relation	1537040	http://etruriameridionale.beniculturali.it/index.php?it/135/aree-archeologiche
-relation	1538880	https://www.rai.it/
 relation	1669409	www.battellidiroma.it
 relation	1694031	https://www.comune.roma.it/web/it/dipartimento-coordinamento-sviluppo-infrastrutture-e-manutenzione-urbana.page
 relation	1710629	https://www.efrome.it/
@@ -10507,6 +10522,7 @@ node	1981741075	https://monterotondo.ubiklibri.it
 node	2012371794	https://www.bibliothe.blogspot.it
 node	2151224588	http://www.gammarelli.com
 node	2175094020	http://www.biblico.it
+node	2184077390	https://www.caseromanedelcelio.it/
 node	2244964954	http://the-yellow.com/
 node	2246354459	http://www.gelateriadeigracchi.it
 node	2290944893	https://visit.galmartellotta.it/catacomba-ad-decimum/
@@ -10732,6 +10748,9 @@ node	13289820222	http://casamadrenazarena.it/
 node	13291094784	https://gelateriamasci.it
 node	13297314285	https://www.gesusacerdote.org/
 node	13313394098	https://www.supersigma.com/pdv/sigma-di-gaeta-eucalipti/
+node	13378696060	https://www.bebroma.it
+node	13386209303	https://laocoonteimmobiliare.it
+node	13386307534	https://www.altostore.it
 way	23840659	https://santignazio.gesuiti.it/
 way	25400176	https://www.santamariasopraminerva.it
 way	25610962	https://www.chiesadelgesu.org/
@@ -11207,7 +11226,6 @@ relation	11795110	https://www.youtube.com/watch?v=ZqHC9QQ-7CQ
 relation	12564083	https://m.youtube.com/watch?v=2R3skmCAPT4/
 relation	13210133	https://web.uniroma1.it/cencelle/tipo
 relation	13402532	http://www.tesoridiroma.net/foro_romano/maria_antiqua.html
-relation	13557047	https://www.laboratorioroma.it/citta-dei-giovani.html
 relation	13747286	https://www.sentieriperblera.it/petrolo-citta-antica/
 relation	13844950	https://www.facebook.com/camminotrevillaggi/
 relation	14986760	http://www.etruschi.name.it
