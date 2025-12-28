@@ -12,42 +12,42 @@ MISSING_URI_SCHEME  <p><strong style="color:#FF0000">Error</strong>: runtime err
 MISSING_URI_SCHEME  <p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
 CLIENT_ERROR_(400…499) 400  http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2603603327 http://algaleone.it
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/5289899757 https://osm.org/browse/node/5289899758 https://osm.org/browse/way/547461830 http://agriturismoilginepro.it/ → https://agriturismoilginepro.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5094261702 https://osm.org/browse/node/5094261703 https://osm.org/browse/way/523230448 http://affittacameremunduge-it.book.direct
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/27668357 https://osm.org/browse/way/27668458 https://osm.org/browse/way/27668483 https://osm.org/browse/way/27668486 https://osm.org/browse/way/28408977 https://osm.org/browse/way/50845483 https://osm.org/browse/way/50845484 https://osm.org/browse/way/118650758 https://osm.org/browse/way/118963422 https://osm.org/browse/way/118963425 https://osm.org/browse/way/118967049 https://osm.org/browse/way/118967053 https://osm.org/browse/way/119332297 https://osm.org/browse/way/119332301 https://osm.org/browse/way/134580058 https://osm.org/browse/way/154360559 https://osm.org/browse/way/154364034 https://osm.org/browse/way/173029529 https://osm.org/browse/way/173061207 https://osm.org/browse/way/175666159 https://osm.org/browse/way/175666160 https://osm.org/browse/way/182727240 https://osm.org/browse/way/234747378 https://osm.org/browse/way/278320413 https://osm.org/browse/way/278320414 https://osm.org/browse/way/295586094 https://osm.org/browse/way/295586095 https://osm.org/browse/way/380248449 https://osm.org/browse/way/380248450 https://osm.org/browse/way/380317314 https://osm.org/browse/way/380800017 https://osm.org/browse/way/380800018 https://osm.org/browse/way/381706015 https://osm.org/browse/way/516832941 https://osm.org/browse/way/530753380 https://osm.org/browse/way/530753381 https://osm.org/browse/way/530753396 https://osm.org/browse/way/530753397 https://osm.org/browse/way/530753421 https://osm.org/browse/way/530753422 https://osm.org/browse/way/545626427 https://osm.org/browse/way/545626430 https://osm.org/browse/way/551945435 https://osm.org/browse/way/551945436 https://osm.org/browse/way/552994600 https://osm.org/browse/way/552994601 https://osm.org/browse/way/593264609 https://osm.org/browse/way/593264610 https://osm.org/browse/way/762673827 https://osm.org/browse/way/762679692 https://osm.org/browse/way/762679693 https://osm.org/browse/way/1076023371 https://osm.org/browse/way/1115430376 https://osm.org/browse/way/1411289213 https://osm.org/browse/way/1411289214 https://osm.org/browse/way/1411289217 https://osm.org/browse/way/1411289218 http://arst.sardegna.it/orari_e_autolinee/TPL.html → https://arst.sardegna.it/orari_e_autolinee/TPL.html
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/294225570 http://comune.curcuris.or.it → https://comune.curcuris.or.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/9866720659 http://allaplaya.altervista.org/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/5289899757 https://osm.org/browse/node/5289899758 https://osm.org/browse/way/547461830 http://agriturismoilginepro.it/ → https://agriturismoilginepro.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/27668357 https://osm.org/browse/way/27668458 https://osm.org/browse/way/27668483 https://osm.org/browse/way/27668486 https://osm.org/browse/way/28408977 https://osm.org/browse/way/50845483 https://osm.org/browse/way/50845484 https://osm.org/browse/way/118650758 https://osm.org/browse/way/118963422 https://osm.org/browse/way/118963425 https://osm.org/browse/way/118967049 https://osm.org/browse/way/118967053 https://osm.org/browse/way/119332297 https://osm.org/browse/way/119332301 https://osm.org/browse/way/134580058 https://osm.org/browse/way/154360559 https://osm.org/browse/way/154364034 https://osm.org/browse/way/173029529 https://osm.org/browse/way/173061207 https://osm.org/browse/way/175666159 https://osm.org/browse/way/175666160 https://osm.org/browse/way/182727240 https://osm.org/browse/way/234747378 https://osm.org/browse/way/278320413 https://osm.org/browse/way/278320414 https://osm.org/browse/way/295586094 https://osm.org/browse/way/295586095 https://osm.org/browse/way/380248449 https://osm.org/browse/way/380248450 https://osm.org/browse/way/380317314 https://osm.org/browse/way/380800017 https://osm.org/browse/way/380800018 https://osm.org/browse/way/381706015 https://osm.org/browse/way/516832941 https://osm.org/browse/way/530753380 https://osm.org/browse/way/530753381 https://osm.org/browse/way/530753396 https://osm.org/browse/way/530753397 https://osm.org/browse/way/530753421 https://osm.org/browse/way/530753422 https://osm.org/browse/way/545626427 https://osm.org/browse/way/545626430 https://osm.org/browse/way/551945435 https://osm.org/browse/way/551945436 https://osm.org/browse/way/552994600 https://osm.org/browse/way/552994601 https://osm.org/browse/way/593264609 https://osm.org/browse/way/593264610 https://osm.org/browse/way/762673827 https://osm.org/browse/way/762679692 https://osm.org/browse/way/762679693 https://osm.org/browse/way/1076023371 https://osm.org/browse/way/1115430376 https://osm.org/browse/way/1411289213 https://osm.org/browse/way/1411289214 https://osm.org/browse/way/1411289217 https://osm.org/browse/way/1411289218 http://arst.sardegna.it/orari_e_autolinee/TPL.html → https://arst.sardegna.it/orari_e_autolinee/TPL.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/545810296 http://hotelsamuvara.com → http://www.117-117.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/294225570 http://comune.curcuris.or.it → https://comune.curcuris.or.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4508882840 http://arcobalibri.hystrix.eu
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/547409854 http://lamagnoliaingurtosu.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/13275206735 http://oliastefano.wixsite.com/ilmiosito → https://oliastefano.wixsite.com:443/ilmiosito
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/280053114 http://iissanluri.gov.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/247884938 http://comune.torpe.nu.it → https://comune.torpe.nu.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/547409854 http://lamagnoliaingurtosu.com
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/545810296 http://hotelsamuvara.com → http://www.117-117.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4508882840 http://arcobalibri.hystrix.eu
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/13275206735 http://oliastefano.wixsite.com/ilmiosito → https://oliastefano.wixsite.com:443/ilmiosito
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/5235983938 http://pasticceriasansimaco.blogspot.it → http://pasticceriasansimaco.blogspot.com/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/247032045 http://ristorante-vigne-doro-orosei.business.site/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294435902 http://ristorantefrontemari.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/4512582310 https://osm.org/browse/node/5646002572 https://osm.org/browse/way/591383527 http://sadomemalloru.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5325729468 https://osm.org/browse/way/551464475 http://web.tiscali.it/agriturismoSNGerrei/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/72991040 https://osm.org/browse/relation/39959 http://web.tiscali.it/Senorbi2000/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5230894215 https://osm.org/browse/node/5230894216 https://osm.org/browse/way/540763339 http://web.tiscali.it/agriturismomontalbo/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4596038695 https://osm.org/browse/way/464504339 http://web.tiscali.it/agriturismodavalore/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5555311287 http://web.tiscali.it/dott.andreamelis/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5230894215 https://osm.org/browse/node/5230894216 https://osm.org/browse/way/540763339 http://web.tiscali.it/agriturismomontalbo/
-CLIENT_ERROR_(400…499) 405 https://osm.org/browse/way/536637221 http://www.abbamala.com
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5222367628 http://web.tiscali.it/ristorantesanlorenzo/
+CLIENT_ERROR_(400…499) 405 https://osm.org/browse/way/536637221 http://www.abbamala.com
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/216218590 http://www.acquariocalagonone.it → https://www.acquariocalagonone.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/4294454 http://www.afsardegna.it
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/46428907 http://www.aeroportotortoliarbatax.it/
 OTHER_CURL_ERROR 52  https://osm.org/browse/node/5630683762 https://osm.org/browse/node/5630683763 https://osm.org/browse/way/589652026 http://www.agriturismo-irghitula.com
-TIMEOUT https://osm.org/browse/node/3334303908 http://otticadelrio.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/4294454 http://www.afsardegna.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5289899751 https://osm.org/browse/node/5289899752 https://osm.org/browse/way/547461829 http://www.agriturismoangoloazzurro.com
-TIMEOUT https://osm.org/browse/node/4449216135 http://pacs.unica.it/cere/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4497028703 https://osm.org/browse/node/5497038520 https://osm.org/browse/way/572130152 http://www.agriturismobaccucardu.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2802045281 https://osm.org/browse/node/2802045282 https://osm.org/browse/way/536712613 http://www.agriturismobainasbosa.com
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/319004687 http://www.agriturismobonusuile.com/home.html
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4497028703 https://osm.org/browse/node/5497038520 https://osm.org/browse/way/572130152 http://www.agriturismobaccucardu.it
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5181211456 https://osm.org/browse/node/5181211457 https://osm.org/browse/way/534193055 http://www.agriturismocasacasti.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/3276959645 https://osm.org/browse/node/3276959648 https://osm.org/browse/way/320994319 http://www.agriturismocaposanmarco.it
+TIMEOUT https://osm.org/browse/node/3334303908 http://otticadelrio.it/
+TIMEOUT https://osm.org/browse/node/4449216135 http://pacs.unica.it/cere/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5181211456 https://osm.org/browse/node/5181211457 https://osm.org/browse/way/534193055 http://www.agriturismocasacasti.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/443077998 http://www.agriturismodidone.com → https://www.agriturismodidone.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/533946422 http://www.agriturismocostaverde.it
-TIMEOUT https://osm.org/browse/way/46428907 http://www.aeroportotortoliarbatax.it/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/1889770377 https://osm.org/browse/node/5186422889 https://osm.org/browse/way/333772084 http://www.agriturismoferrari.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5247158574 https://osm.org/browse/node/5247158575 https://osm.org/browse/way/542754609 http://www.agriturismogliastra.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5195758266 https://osm.org/browse/node/5195758267 https://osm.org/browse/way/332860473 http://www.agriturismoilgiglio.com/ → https://www.agriturismoilgiglio.com/
@@ -55,262 +55,262 @@ REDIRECTION_(300…399) 301 https://osm.org/browse/node/3661377675 https://osm.o
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/563303855 https://osm.org/browse/node/5076772332 https://osm.org/browse/way/520970372 http://www.agriturismoiloghe.com
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1885899244 https://osm.org/browse/node/5179415199 https://osm.org/browse/way/533946401 http://www.agriturismolaquila.com → https://www.agriturismolaquila.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5562220379 https://osm.org/browse/way/283961927 https://osm.org/browse/way/497917232 http://www.agriturismoilmirto.it → https://www.agriturismoilmirto.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/318840183 http://www.agriturismomulinubetzu.it
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/532312524 http://www.agriturismonuovigiardini.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/5076889310 https://osm.org/browse/node/5076889311 https://osm.org/browse/way/520985558 http://www.agriturismoneule.com → https://www.agriturismoneule.com/
-TIMEOUT https://osm.org/browse/node/1993112765 https://osm.org/browse/node/5535753506 https://osm.org/browse/way/577454033 http://www.agriturismo-perdaniedda.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5314869631 https://osm.org/browse/way/273770346 https://osm.org/browse/way/550260359 http://www.agriturismoertila.it/ → https://www.agriturismoertila.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/532312524 http://www.agriturismonuovigiardini.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/318840183 http://www.agriturismomulinubetzu.it
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/242529162 http://www.agriturismonuraghemannu.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5076889310 https://osm.org/browse/node/5076889311 https://osm.org/browse/way/520985558 http://www.agriturismoneule.com → https://www.agriturismoneule.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5186553773 https://osm.org/browse/node/5186553774 http://www.agriturismopinuccia.it → https://www.agriturismopinuccia.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5236052245 https://osm.org/browse/node/5236052246 https://osm.org/browse/way/541486136 http://www.agriturismopiperedda.it → https://www.agriturismopiperedda.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/330681078 http://www.agriturismoorizzonte.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5059961510 https://osm.org/browse/node/5059961511 https://osm.org/browse/way/518791562 http://www.agriturismosamamaioa.com
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/564220971 http://www.agriturismosantareparata.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/534929014 http://www.agriturismosaroiatraversa.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/295903835 https://osm.org/browse/way/295904628 https://osm.org/browse/way/320994322 http://www.agriturismosaruda.it → https://www.agriturismosaruda.it/
+TIMEOUT https://osm.org/browse/node/1993112765 https://osm.org/browse/node/5535753506 https://osm.org/browse/way/577454033 http://www.agriturismo-perdaniedda.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/319259042 http://www.agriturismosaserra.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/540007189 http://www.agriturismosiscopalzu.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/1889770379 https://osm.org/browse/node/5186422499 https://osm.org/browse/way/534908924 http://www.agriturismosacanudera.it → https://agriturismosacanudera.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/330681078 http://www.agriturismoorizzonte.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/295903835 https://osm.org/browse/way/295904628 https://osm.org/browse/way/320994322 http://www.agriturismosaruda.it → https://www.agriturismosaruda.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295905116 https://osm.org/browse/way/295905142 https://osm.org/browse/way/320994325 http://www.agriturismosusattu.it → https://www.agriturismosusattu.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/534929014 http://www.agriturismosaroiatraversa.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1919761330 https://osm.org/browse/way/181561571 https://osm.org/browse/way/567859955 http://www.agriturismosuvrau.com → http://tenutasuvrau.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5627069974 https://osm.org/browse/node/5627069975 https://osm.org/browse/way/589277025 http://www.agriturismotoninocorda.it → https://www.agriturismotoninocorda.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1889770379 https://osm.org/browse/node/5186422499 https://osm.org/browse/way/534908924 http://www.agriturismosacanudera.it → https://agriturismosacanudera.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/320994324 http://www.agriturismosupranu.com
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/536336023 https://osm.org/browse/way/603589976 http://www.agriturismovilladegliulivi.it
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5351030781 https://osm.org/browse/node/5351030782 https://osm.org/browse/way/554493550 http://www.agriturvalbella.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/298888046 http://www.albergomenhirs.com/ → https://www.albergomenhirs.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3026224484 http://www.anticocaffe1855.it/ → https://www.anticocaffe1855.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5351030781 https://osm.org/browse/node/5351030782 https://osm.org/browse/way/554493550 http://www.agriturvalbella.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/525421509 http://www.appikkoniu.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/298888046 http://www.albergomenhirs.com/ → https://www.albergomenhirs.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/150919310 http://www.almielerestaurant.com/ → http://almielerestaurant.com/
-TIMEOUT https://osm.org/browse/way/242529162 http://www.agriturismonuraghemannu.com
 SUCCESS_(200…299) 200 https://osm.org/browse/way/581847817 http://www.arrampicatasardegna.com/falesie/arrampicantro/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/581847804 http://www.arrampicatasardegna.com/falesie/torre-di-titti-torre-sauron-i-menhir/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/4295147061 http://www.asfodelihotel.com → https://www.asfodelihotel.com/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275230394 http://www.autoscuola.oristano.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/581847809 http://www.arrampicatasardegna.com/falesie/punta-pilocca/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/581847789 http://www.arrampicatasardegna.com/falesie/masua-castello-delliride/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275219249 http://www.babai.bar
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275230394 http://www.autoscuola.oristano.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/235951078 http://www.bauladu.net
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3607817227 http://www.baiacea.com → https://www.baiacea.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/581847809 http://www.arrampicatasardegna.com/falesie/punta-pilocca/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/318668818 http://www.bblapalma.com
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/273799641 http://www.beblavalledelcedrino.com
+SUCCESS_(200…299) 200 https://osm.org/browse/way/581847804 http://www.arrampicatasardegna.com/falesie/torre-di-titti-torre-sauron-i-menhir/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/322927787 http://www.bbsedilo.com/ → https://www.bbsedilo.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/273799641 http://www.beblavalledelcedrino.com
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/296350927 http://www.bedandbreakfastilrosmarino.com
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/1865725527 http://www.bbginepro.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/4279220567 https://osm.org/browse/node/4279221018 http://www.bnbcostaverde.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/5076888552 https://osm.org/browse/node/5076888557 https://osm.org/browse/way/274939113 https://osm.org/browse/way/520985532 http://www.biofarmcucche.it → https://www.biofarmcucche.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4295147061 http://www.asfodelihotel.com → https://www.asfodelihotel.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3609536726 http://www.calamurtas.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5076888552 https://osm.org/browse/node/5076888557 https://osm.org/browse/way/274939113 https://osm.org/browse/way/520985532 http://www.biofarmcucche.it → https://www.biofarmcucche.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/119452886 http://www.campingbungalowlapineta.it → https://www.campingbungalowlapineta.it/
-TIMEOUT https://osm.org/browse/node/5627069974 https://osm.org/browse/node/5627069975 https://osm.org/browse/way/589277025 http://www.agriturismotoninocorda.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3319949939 http://www.bonaria.eu/storia-di-bonaria/museo/museo/ → https://www.bonaria.eu/storia-di-bonaria/museo/museo/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/153573912 http://www.capofrascaresort.it/ → https://capofrascaresort.it/
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/279199357 http://www.climatecnika.it/ → https://www.climatecnika.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5237700083 https://osm.org/browse/way/242529161 https://osm.org/browse/way/242529167 http://www.codulafuili.com → https://www.codulafuili.com/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/279199357 http://www.climatecnika.it/ → https://www.climatecnika.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/305623213 http://www.comune.abbasanta.or.it → https://www.comune.abbasanta.or.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/587512471 http://www.comune.aladeisardi.ot.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1770850285 https://osm.org/browse/node/5077009752 https://osm.org/browse/way/521001974 http://www.canales.it → https://www.canales.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/279264384 http://www.comune.alghero.ss.it → https://comune.alghero.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/293644734 http://www.comune.ales.or.it → https://www.comune.ales.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/520286502 http://www.comune.anela.ss.it → https://comune.anela.ss.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/237803987 http://www.comune.arborea.or.it → https://www.comune.arborea.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/561552933 http://www.comune.ardara.ss.it → https://comune.ardara.ss.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/237803987 http://www.comune.arborea.or.it → https://www.comune.arborea.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/248785975 http://www.comune.armungia.ca.it → https://www.comune.armungia.ca.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/294108224 http://www.comune.assolo.or.it → https://www.comune.assolo.or.it:443/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/548880459 http://www.comune.banari.ss.it → https://comune.banari.ss.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/294108224 http://www.comune.assolo.or.it → https://www.comune.assolo.or.it:443/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/538232901 http://www.comune.baratilisanpietro.or.it → https://comune.baratilisanpietro.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294110250 http://www.comune.baressa.or.it → https://www.comune.baressa.or.it:443/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294110219 http://www.comune.baradili.or.it/ → https://www.comune.baradili.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295928440 http://www.comune.barrali.ca.it → https://www.comune.barrali.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/302640487 http://www.comune.bessude.ss.it → https://comune.bessude.ss.it/
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/294096110 http://www.comune.bidoni.or.it/ → https://www.comune.bidoni.or.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/416229031 http://www.comune.bitti.nu.it → https://www.comune.bitti.nu.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/294120812 http://www.comune.bonarcado.or.it → https://comune.bonarcado.or.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/294096110 http://www.comune.bidoni.or.it/ → https://www.comune.bidoni.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/302642552 http://www.comune.bonnanaro.ss.it/ → https://www.comune.bonnanaro.ss.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/294120812 http://www.comune.bonarcado.or.it → https://comune.bonarcado.or.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/247884931 http://www.comune.boroneddu.or.it → https://www.comune.boroneddu.or.it/
+TIMEOUT https://osm.org/browse/node/5076888488 https://osm.org/browse/node/5076888489 https://osm.org/browse/way/520985527 http://www.biriddo.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/296807764 http://www.comune.bortigali.nu.it → https://www.comune.bortigali.nu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/302653827 http://www.comune.bottidda.ss.it → https://www.comune.bottidda.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/302654940 http://www.comune.bultei.ss.it → https://comune.bultei.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295732980 http://www.comune.burcei.ca.it/ → https://www.comune.burcei.su.it/
-REDIRECTION_(300…399) 307 https://osm.org/browse/way/322239312 http://www.comune.cabras.or.it → https://www.comune.cabras.or.it:443/
-TIMEOUT https://osm.org/browse/node/5076888488 https://osm.org/browse/node/5076888489 https://osm.org/browse/way/520985527 http://www.biriddo.com/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/277789608 http://www.comune.calasetta.ci.it/ → https://comune.calasetta.ci.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/302638500 http://www.comune.benetutti.ss.it → https://www.comune.benetutti.ss.it/
+REDIRECTION_(300…399) 307 https://osm.org/browse/way/322239312 http://www.comune.cabras.or.it → https://www.comune.cabras.or.it:443/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/302658700 http://www.comune.cargeghe.ss.it → https://comune.cargeghe.ss.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/4493007759 http://www.comune.castelsardo.ss.it → https://www.comune.castelsardo.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/302922272 http://www.comune.chiaramonti.ss.it/ → https://comune.chiaramonti.ss.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/294446583 http://www.comune.collinas.vs.it → https://www.comune.collinas.vs.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295298856 http://www.comune.decimomannu.ca.it → https://comune.decimomannu.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/596100431 http://www.comune.decimoputzu.ca.it → https://www.comune.decimoputzu.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/199271558 http://www.comune.desulo.nu.it → https://www.comune.desulo.nu.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/302638500 http://www.comune.benetutti.ss.it → https://www.comune.benetutti.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/247884922 http://www.comune.dolianova.ca.it → https://www.comune.dolianova.su.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/213131875 http://www.comune.domusnovas.ci.it → https://www.comune.domusnovas.ci.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/296810874 http://www.comune.dualchi.gov.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/296354042 http://www.comune.escolca.ca.it → https://www.comune.escolca.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/1450362548 http://www.comune.esterzili.ca.it → https://comune.esterzili.su.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/207878256 http://www.comune.florinas.ss.it → https://comune.florinas.ss.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/296354042 http://www.comune.escolca.ca.it → https://www.comune.escolca.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294617486 http://www.comune.fluminimaggiore.ca.it → https://www.comune.fluminimaggiore.su.it/
+TIMEOUT https://osm.org/browse/relation/3685066 http://www.comune.cagliari.it
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/294096001 http://www.comune.fordongianus.or.it → https://www.comune.fordongianus.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/247884903 http://www.comune.furtei.ca.it → https://www.comune.furtei.ca.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/525168447 http://www.comune.gairo.nu.it → https://www.comune.gairo.nu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294463792 http://www.comune.genuri.vs.it → https://comunedigenuri.it/
+TIMEOUT https://osm.org/browse/way/538438576 http://www.comune.cheremule.ss.it
+TIMEOUT https://osm.org/browse/way/294446583 http://www.comune.collinas.vs.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/296362273 http://www.comune.gesico.ca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/296365629 http://www.comune.gergei.ca.it → https://www.comune.gergei.ca.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/294464167 http://www.comune.gesturi.vs.it → https://www.comune.gesturi.vs.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/294099004 http://www.comune.ghilarza.or.it → https://www.comune.ghilarza.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304013358 http://www.comune.giave.ss.it → https://comune.giave.ss.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/297850871 http://www.comune.girasole.og.it → https://www.comune.girasole.og.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/296364770 http://www.comune.guamaggiore.ca.it → https://comune.guamaggiore.su.it
-TIMEOUT https://osm.org/browse/relation/3685066 http://www.comune.cagliari.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/547220988 http://www.comune.guspini.vs.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/296364770 http://www.comune.guamaggiore.ca.it → https://comune.guamaggiore.su.it
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/2025254418 https://osm.org/browse/way/283514808 http://www.comune.iglesias.ca.it → https://www.comune.iglesias.ca.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/298114033 http://www.comune.ilbono.og.it → https://www.comune.ilbono.og.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/538321088 http://www.comune.illorai.ss.it → https://www.comune.illorai.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/276592443 http://www.comune.irgoli.nu.it → https://www.comune.irgoli.nu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3268824387 http://www.comune.isili.ca.it → https://comune.isili.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304015651 http://www.comune.ittireddu.ss.it → https://comune.ittireddu.ss.it/
-TIMEOUT https://osm.org/browse/way/538438576 http://www.comune.cheremule.ss.it
 SUCCESS_(200…299) 200 https://osm.org/browse/way/298064039 http://www.comune.jerzu.og.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294464098 http://www.comune.lasplassas.vs.it → https://www.comune.lasplassas.vs.it:443/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/296807487 http://www.comune.lei.nu.it/ → https://comune.lei.nu.it/
+REDIRECTION_(300…399) 307 https://osm.org/browse/way/276610413 http://www.comune.loculi.nu.it → https://www.comune.loculi.nu.it:443/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/567072485 http://www.comune.lode.nu.it → https://www.comune.lode.nu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/277489026 http://www.comune.lula.nu.it → https://www.comune.lula.nu.it/
+TIMEOUT https://osm.org/browse/way/294464167 http://www.comune.gesturi.vs.it
+TIMEOUT https://osm.org/browse/way/295940225 http://www.comune.goni.ca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/538318942 http://www.comune.macomer.nu.it → https://comune.macomer.nu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/296260299 http://www.comune.magomadas.or.it → https://comune.magomadas.or.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/294446865 http://www.comune.lunamatrona.ca.it
+TIMEOUT https://osm.org/browse/way/298114033 http://www.comune.ilbono.og.it
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/244748628 http://www.comune.mamoiada.nu.it → https://www.comune.mamoiada.nu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/528981677 http://www.comune.mandas.ca.it/ → https://www.comune.mandas.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/257774284 http://www.comune.mogoro.or.it → https://www.comune.mogoro.or.it:443/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/304087040 http://www.comune.martis.ss.it → https://www.comune.martis.ss.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/295730977 http://www.comune.monastir.ca.it/ → https://www.comune.monastir.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304089824 http://www.comune.monteleoneroccadoria.ss.it → https://comune.monteleoneroccadoria.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304090644 http://www.comune.mores.ss.it → https://comune.mores.ss.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/295893350 http://www.comune.muravera.ca.it → https://www.comunedimuravera.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/304093157 http://www.comune.muros.ss.it → https://www.comune.muros.ss.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/294629298 http://www.comune.musei.ci.it/ → https://www.comune.musei.ci.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/295893350 http://www.comune.muravera.ca.it → https://www.comunedimuravera.it/
 REDIRECTION_(300…399) 308 https://osm.org/browse/way/317979586 http://www.comune.neoneli.or.it/ → https://www.comune.neoneli.or.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/294446865 http://www.comune.lunamatrona.ca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/3948039 http://www.comune.noragugume.nu.it → https://comune.noragugume.nu.it/
-REDIRECTION_(300…399) 307 https://osm.org/browse/way/276610413 http://www.comune.loculi.nu.it → https://www.comune.loculi.nu.it:443/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/294098990 http://www.comune.norbello.or.it → https://www.comune.norbello.or.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/246793761 http://www.comune.nule.ss.it → https://www.comune.nule.ss.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/472121306 http://www.comune.nuoro.it → https://www.comune.nuoro.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/247884924 http://www.comune.nurachi.or.it → https://www.comune.nurachi.or.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/3930553 http://www.comune.nuraminis.ca.it → https://www.comune.nuraminis.ca.it/
+TIMEOUT https://osm.org/browse/way/295730977 http://www.comune.monastir.ca.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/525312501 http://www.comune.nuragus.ca.it
+TIMEOUT https://osm.org/browse/way/294629298 http://www.comune.musei.ci.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294107070 http://www.comune.nureci.or.it → https://www.comune.nureci.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/528960804 http://www.comune.nurri.ca.it → https://comune.nurri.su.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/316986725 http://www.comune.ollastra.or.it → https://comune.ollastra.or.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/525312501 http://www.comune.nuragus.ca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/538318945 http://www.comune.ollolai.nu.it/ → https://www.comune.ollolai.nu.it/
-TIMEOUT https://osm.org/browse/way/295940225 http://www.comune.goni.ca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/278426322 http://www.comune.onani.nu.it → https://www.comune.onani.nu.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/538318948 http://www.comune.onifai.nu.it → https://www.comune.onifai.nu.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/296791100 http://www.comune.oniferi.nu.it → https://www.comune.oniferi.nu.it/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/3712966 http://www.comune.oristano.it
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/102703789 http://www.comune.orosei.nu.it → https://www.comune.orosei.nu.it/
+TIMEOUT https://osm.org/browse/way/247884924 http://www.comune.nurachi.or.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/528960808 http://www.comune.orroli.ca.it → http://comune.orroli.su.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/520767767 http://www.comune.orune.nu.it → https://www.comune.orune.nu.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/203373550 http://www.comune.oschiri.ot.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295933993 http://www.comune.ortacesus.ca.it → http://www.comune.ortacesus.su.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/203373550 http://www.comune.oschiri.ot.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/296592082 http://www.comune.osidda.nu.it → https://www.comune.osidda.nu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2197997617 http://www.comune.osilo.ss.it → https://www.comune.osilo.ss.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/279355176 http://www.comune.pabillonis.vs.it
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294443689 http://www.comune.pauliarbarei.vs.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/298115325 http://www.comune.osini.nu.it → https://www.comune.osini.nu.it/
-REDIRECTION_(300…399) 307 https://osm.org/browse/way/304296835 http://www.comune.ossi.ss.it → https://www.comune.ossi.ss.it:443/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304308430 http://www.comune.pattada.ss.it → https://www.comune.pattada.ss.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/294120813 http://www.comune.paulilatino.or.it/ → https://www.comune.paulilatino.or.it/
+REDIRECTION_(300…399) 307 https://osm.org/browse/way/304296835 http://www.comune.ossi.ss.it → https://www.comune.ossi.ss.it:443/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294443689 http://www.comune.pauliarbarei.vs.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/298085144 http://www.comune.perdasdefogu.nu.it → https://www.comune.perdasdefogu.og.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295930110 http://www.comune.pimentel.ca.it/ → https://www.comune.pimentel.ca.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/283844881 http://www.comune.posada.nu.it → https://www.comune.posada.nu.it/
+TIMEOUT https://osm.org/browse/relation/3930553 http://www.comune.nuraminis.ca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/548690815 http://www.comune.putifigari.ss.it → https://www.comune.putifigari.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/374680352 http://www.comune.riolasardo.or.it/ → https://www.comune.riolasardo.or.it:443/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/283844881 http://www.comune.posada.nu.it → https://www.comune.posada.nu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304535966 http://www.comune.romana.ss.it → https://www.comune.romana.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295515391 http://www.comune.sadali.ca.it → https://www.comune.sadali.ca.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/554287472 http://www.comune.samassi.ca.it → https://www.comune.samassi.ca.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/295928606 http://www.comune.samatzai.ca.it → https://www.comune.samatzai.ca.it/
+TIMEOUT https://osm.org/browse/way/298115325 http://www.comune.osini.nu.it
 REDIRECTION_(300…399) 307 https://osm.org/browse/way/538214283 http://www.comune.samugheo.or.it/ → https://www.comune.samugheo.or.it:443/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/7796877 http://www.comune.sanluri.vs.it
+TIMEOUT https://osm.org/browse/way/294120813 http://www.comune.paulilatino.or.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/295936569 http://www.comune.sanbasilio.ca.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/7796877 http://www.comune.sanluri.vs.it
 REDIRECTION_(300…399) 307 https://osm.org/browse/way/225110342 http://www.comune.sannicolodarcidano.or.it/ → https://www.comune.sannicolodarcidano.or.it:443/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/295923358 http://www.comune.sannicologerrei.ca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/318726415 http://www.comune.santagiusta.or.it → https://www.comune.santagiusta.or.it:443/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/295925803 http://www.comune.santandreafrius.ca.it → https://www.comune.santandreafrius.ca.it/
+TIMEOUT https://osm.org/browse/way/554287472 http://www.comune.samassi.ca.it
 REDIRECTION_(300…399) 307 https://osm.org/browse/way/295901706 http://www.comune.sanvito.ca.it/ → https://www.comune.sanvito.ca.it:443/
+TIMEOUT https://osm.org/browse/way/295928606 http://www.comune.samatzai.ca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/250510706 http://www.comune.sardara.vs.it → https://www.comune.sardara.su.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2249437690 http://www.comune.sassari.it → https://www.comune.sassari.it/
-REDIRECTION_(300…399) 302 https://osm.org/browse/relation/4264134 http://www.comune.sedilo.or.it → https://www.comune.sedilo.or.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/545807959 http://www.comune.segariu.ca.it
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/4264134 http://www.comune.sedilo.or.it → https://www.comune.sedilo.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/545626633 http://www.comune.senorbi.ca.it → https://www.comune.senorbi.ca.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/295706009 http://www.comune.serdiana.ca.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/295923358 http://www.comune.sannicologerrei.ca.it
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/202814575 http://www.comune.serramanna.ca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294419611 http://www.comune.serrenti.ca.it → https://www.comune.serrenti.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295594714 http://www.comune.sestu.ca.it/ → https://www.comune.sestu.ca.it/
+TIMEOUT https://osm.org/browse/way/546401419 http://www.comune.sangavinomonreale.vs.it
 SUCCESS_(200…299) 200 https://osm.org/browse/way/291626597 http://www.comune.setzu.vs.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/305351162 http://www.comune.siamaggiore.or.it → https://www.comune.siamaggiore.or.it:443/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/12618911905 http://www.comune.seui.og.it → https://comune.seui.su.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/178636337 http://www.comune.seneghe.or.it → https://www.comune.seneghe.or.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/305351162 http://www.comune.siamaggiore.or.it → https://www.comune.siamaggiore.or.it:443/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/294231224 http://www.comune.siamanna.or.it/ → https://www.comune.siamanna.or.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/280145207 http://www.comune.siliqua.ca.it → https://www.comune.siliqua.ca.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/294225667 http://www.comune.siapiccia.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295932472 http://www.comune.silius.ca.it → https://www.comune.silius.ca.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/280157958 http://www.comune.simaxis.or.it/ → https://comune.simaxis.or.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/294225667 http://www.comune.siapiccia.or.it/
+TIMEOUT https://osm.org/browse/way/295925803 http://www.comune.santandreafrius.ca.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294231363 http://www.comune.sini.or.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/280157958 http://www.comune.simaxis.or.it/ → https://comune.simaxis.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/538318938 http://www.comune.sindia.nu.it → https://www.comune.sindia.nu.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/550474542 http://www.comune.siniscola.nu.it → https://www.comune.siniscola.nu.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/295531593 http://www.comune.sinnai.ca.it → https://www.comune.sinnai.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/305350826 http://www.comune.siris.or.it → https://www.comune.siris.or.it:443/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/295940951 http://www.comune.siurgusdonigala.ca.it → https://www.comune.siurgusdonigala.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294093230 http://www.comune.soddi.or.it → https://www.comune.soddi.or.it:443/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/248435081 http://www.comune.solarussa.or.it → https://comune.solarussa.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294094348 http://www.comune.sorradile.or.it → https://comune.sorradile.or.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/522956857 http://www.comune.talana.nu.it → https://www.comune.talana.nu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294095976 http://www.comune.tadasuni.or.it → https://comune.tadasuni.or.it/
 REDIRECTION_(300…399) 307 https://osm.org/browse/way/460319848 http://www.comune.terralba.or.it → https://www.comune.terralba.or.it:443/
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/522956857 http://www.comune.talana.nu.it → https://www.comune.talana.nu.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/295940951 http://www.comune.siurgusdonigala.ca.it → https://www.comune.siurgusdonigala.ca.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294464140 http://www.comune.tuili.vs.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304557329 http://www.comune.tissi.ss.it/ → https://www.comune.tissi.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/247884921 http://www.comune.tramatza.or.it/ → https://www.comune.tramatza.or.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294464140 http://www.comune.tuili.vs.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/519023096 http://www.comune.tresnuraghes.or.it → https://www.comune.tresnuraghes.or.it/
-TIMEOUT https://osm.org/browse/way/546401419 http://www.comune.sangavinomonreale.vs.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294465446 http://www.comune.turri.vs.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/298073733 http://www.comune.ulassai.og.it → https://comune.ulassai.nu.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/294094675 http://www.comune.ulatirso.or.it/ → https://www.comune.ulatirso.or.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/304562216 http://www.comune.tula.ss.it/ → https://www.comune.tula.ss.it/
 REDIRECTION_(300…399) 307 https://osm.org/browse/way/247832388 http://www.comune.uras.or.it/ → https://www.comune.uras.or.it:443/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304563651 http://www.comune.uri.ss.it → https://comune.uri.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/583440917 http://www.comune.usini.ss.it → https://comune.usini.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295586849 http://www.comune.ussana.ca.it/ → https://www.comune.ussana.ca.it/
-TIMEOUT https://osm.org/browse/way/178636337 http://www.comune.seneghe.or.it
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/7706249 http://www.comune.ussaramanna.vs.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294446761 http://www.comune.villamar.vs.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/3913282 http://www.comune.villacidro.vs.it/ → https://www.comune.villacidro.su.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/523352008 http://www.comune.villagrandestrisaili.og.it → https://comune.villagrandestrisaili.og.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/7706249 http://www.comune.ussaramanna.vs.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294230564 http://www.comune.villanovatruschedu.or.it → https://comune.villanovatruschedu.or.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/295512397 http://www.comune.villanovatulo.ca.it → https://www.comune.villanovatulo.ca.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/217680285 http://www.comune.villaputzu.ca.it/ → https://www.comune.villaputzu.ca.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/295901633 http://www.comune.villasalto.ca.it → https://www.comune.villasalto.ca.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/3923897 http://www.comune.villasor.gov.it
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/294446890 http://www.comune.villanovafranca.ca.it → https://www.comune.villanovafranca.ca.it/DEFAULT.ASPX?TABID=60189&LANGUAGE=IT-IT
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/295901633 http://www.comune.villasalto.ca.it → https://www.comune.villasalto.ca.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/295299374 http://www.comune.villaspeciosa.ca.it → https://www.comune.villaspeciosa.ca.it:443/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294229778 http://www.comune.villaurbana.or.it → https://comune.villaurbana.or.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/538198446 http://www.comune.villaverde.or.it/ → https://www.comune.villaverde.or.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/3970750 http://www.comune.zeddiani.or.it → https://www.comune.zeddiani.or.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/294446890 http://www.comune.villanovafranca.ca.it → https://www.comune.villanovafranca.ca.it/DEFAULT.ASPX?TABID=60189&LANGUAGE=IT-IT
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/317247114 http://www.comuneaidomaggiore.gov.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/294226013 http://www.comune.zerfaliu.or.it → https://comune.zerfaliu.or.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/293641819 http://www.comuneallai.gov.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294093933 http://www.comuneardauli.gov.it/index.asp
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/294226013 http://www.comune.zerfaliu.or.it → https://comune.zerfaliu.or.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/296349638 http://www.comunebosa.gov.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/273776904 http://www.comunebudduso.gov.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/3725211 http://www.comunebudoni.gov.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/538190485 http://www.comunebusachi.gov.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294436390 http://www.comunediarbus.gov.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/463052558 http://www.comunediarzana.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/247884927 http://www.comunedibarisardo.gov.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/463052558 http://www.comunediarzana.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/297852731 http://www.comunedibaunei.it → https://www.comunedibaunei.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/247884911 http://www.comunedicardedu.it → https://comune.cardedu.nu.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/298113222 http://www.comunedielini.gov.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/247884904 http://www.comunedilanusei.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/247884911 http://www.comunedicardedu.it → https://comune.cardedu.nu.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/248206060 http://www.comunedipalmasarborea.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/247884904 http://www.comunedilanusei.it
 REDIRECTION_(300…399) 307 https://osm.org/browse/way/289634126 http://www.comuneditortoli.it → https://www.comuneditortoli.it:443/
-TIMEOUT https://osm.org/browse/way/304562216 http://www.comune.tula.ss.it/
-REDIRECTION_(300…399) 302 https://osm.org/browse/relation/3647706 http://www.comuneescalaplano.info/ → http://www.comuneescalaplano.info/h7103/site/get.asp?v=2D2EBA
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/274852003 http://www.comunegonnosfanadiga.gov.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/545679392 http://www.comuneguasila.gov.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/298115684 http://www.comuneloceri.gov.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304094765 http://www.comunenughedusn.it/ → http://www.comune.nughedusannicolo.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294096671 http://www.comunenughedusv.it/ → https://www.comune.nughedusantavittoria.or.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/3647706 http://www.comuneescalaplano.info/ → http://www.comuneescalaplano.info/h7103/site/get.asp?v=2D2EBA
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/296364738 http://www.comuneserri.gov.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/189052946 http://www.comunesiddi.gov.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/298873962 http://www.comunesantulussurgiu.it → https://www.comune.santulussurgiu.or.it/it/
@@ -319,65 +319,65 @@ COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/298056287 http://www.comuneter
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/304555051 http://www.comunethiesi.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/297852924 http://www.comunetriei.gov.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/297833935 http://www.comuneurzulei.gov.it
-TIMEOUT https://osm.org/browse/way/295512397 http://www.comune.villanovatulo.ca.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/112708955 http://www.coopgoloritze.com/rifugio-altopiano-golgo/ → https://www.coopgoloritze.com/rifugio-altopiano-golgo/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275244446 http://www.cosmocasaoristano.it
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/296374789 http://www.csmonteluna.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1367812354 http://www.coopsinis.it/default.asp?s=1&lang= → https://www.coopsinis.it/default.asp?s=1&lang=
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275244446 http://www.cosmocasaoristano.it
+TIMEOUT https://osm.org/browse/way/538198446 http://www.comune.villaverde.or.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/296374789 http://www.csmonteluna.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5195758265 http://www.darenzo.it → https://www.darenzo.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5338029321 http://www.duosapposentos.it/ → https://www.duosapposentos.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/279271363 http://www.elfarohotel.it → https://www.elfarohotel.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4367749446 http://www.dmeloni.it → https://www.dmeloni.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/7733906504 http://www.escaperoomoristano.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/554623721 http://www.esterhotel.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/4367749446 http://www.dmeloni.it → https://www.dmeloni.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/372004081 http://www.eurospin.it/ → https://www.eurospin.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/6581360 http://www.ferratacabirol.it
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/291627246 http://www.filodimemoria.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/279271363 http://www.elfarohotel.it → https://www.elfarohotel.it/
 TIMEOUT https://osm.org/browse/way/302925984 http://www.comunecodrongianos.it
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/72991301 https://osm.org/browse/relation/39917 http://www.fluminimaggiore-bilingue.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/372004081 http://www.eurospin.it/ → https://www.eurospin.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/291627246 http://www.filodimemoria.it
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/6581360 http://www.ferratacabirol.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/12679884915 http://www.fiorerosa.com → https://www.fiorerosa.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/72991301 https://osm.org/browse/relation/39917 http://www.fluminimaggiore-bilingue.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/541524692 http://www.galtelli.gov.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5464937005 http://www.greenvillageposada.com → https://www.greenvillageposada.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3275227815 http://www.exclusivecar.net/ → https://www.exclusivecar.net/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/7688852 http://www.golfhotelisarenas.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/5237502229 https://osm.org/browse/node/5237502230 https://osm.org/browse/way/437548870 http://www.gulunie.com → https://www.gulunie.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/279200727 http://www.hostelrodia.it → https://www.hostelrodia.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5237502229 https://osm.org/browse/node/5237502230 https://osm.org/browse/way/437548870 http://www.gulunie.com → https://www.gulunie.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2101073023 http://www.hotelbajaromantica.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2603603346 http://www.hotelalgabbiano.it → https://www.hotelalgabbiano.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/542781196 http://www.hotelabbaemurta.it → https://www.hotelabbaemurta.it/
 OTHER_CURL_ERROR 52  https://osm.org/browse/way/456169673 http://www.hotelcavallinorosso.com
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/2839869900 http://www.hotelcorallaro.it/ → https://www.hotelcorallaro.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294438698 https://osm.org/browse/way/294438797 http://www.hotelcorsaronero.com → https://www.hotelcorsaronero.com/
-TIMEOUT https://osm.org/browse/way/296361577 http://www.comunesuelli.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/11187792421 http://www.hotelcorterosada.it → https://www.hotelcorterosada.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2839869900 http://www.hotelcorallaro.it/ → https://www.hotelcorallaro.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/542781196 http://www.hotelabbaemurta.it → https://www.hotelabbaemurta.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/281462870 http://www.hotelgrillo.net/ → https://www.hotelgrillo.net/
+TIMEOUT https://osm.org/browse/way/296361577 http://www.comunesuelli.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/282347732 http://www.hotellafuntana.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/3913497 http://www.hotelfuntananoa.it → https://www.hotelfuntananoa.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/11187792421 http://www.hotelcorterosada.it → https://www.hotelcorterosada.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/3964318 http://www.hotelorlandoresort.com
-SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/way/146849821 http://www.hotelpanorama.it → parking.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/956276106 http://www.hotelportoconte.it → https://www.hotelportoconte.it/
-TIMEOUT https://osm.org/browse/node/3275227815 http://www.exclusivecar.net/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/4291383764 http://www.hotelraffael.com → https://www.hotelraffael.com/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/273743488 http://www.hotelmurru.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/3913497 http://www.hotelfuntananoa.it → https://www.hotelfuntananoa.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/298063290 http://www.hotelrifugiodogliastra.it → https://www.hotelrifugiodogliastra.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3743884407 http://www.hotelreginamargherita.com → https://www.hotelreginamargherita.com/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/way/146849821 http://www.hotelpanorama.it → parking.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4291383764 http://www.hotelraffael.com → https://www.hotelraffael.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2785062554 http://www.hotelsalumenera.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1921808271 http://www.hotelsarocca.com → https://www.hotelsarocca.com/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/4683667589 http://www.hoteltrebotti.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/119571860 http://www.hotelulivo.it/ → https://www.hotelulivo.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/3685040 http://www.hotelvillafanny.it/ → https://www.hotelvillafanny.it/
-TIMEOUT https://osm.org/browse/node/2101073023 http://www.hotelbajaromantica.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/298063290 http://www.hotelrifugiodogliastra.it → https://www.hotelrifugiodogliastra.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3253518534 http://www.idolcidiborore.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/536712631 https://osm.org/browse/way/537388055 http://www.iisgapischeddabosa.gov.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/3685040 http://www.hotelvillafanny.it/ → https://www.hotelvillafanny.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/554608220 http://www.iisvoltaguspini.gov.it
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/279199321 http://www.ilbernini.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/318012922 http://www.ilmenudisabaelia.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/276604811 http://www.hotelvillaselene.net
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/279199321 http://www.ilbernini.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/542464008 http://www.imandorli.com → http://imandorli.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/323324112 http://www.immaviaggi.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/281514774 http://www.ilredentore.com → https://www.ilredentore.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/276604811 http://www.hotelvillaselene.net
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/333770660 http://www.iscortillaris.it → https://www.iscortillaris.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/1309604770 http://www.isolarossabosa.it → http://isolarossabosa.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/295705018 http://www.ispaulis.it → https://www.ispaulis.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/295905022 https://osm.org/browse/way/534908988 http://www.ittioturismooristano.com
-TIMEOUT https://osm.org/browse/way/273743488 http://www.hotelmurru.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/295705018 http://www.ispaulis.it → https://www.ispaulis.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275219009 http://www.kebabpaneevino.com
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/317709443 http://www.istcomprensivoardauli.191.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/322929277 http://www.janaemele.com → https://www.janaemele.com/
@@ -394,205 +394,205 @@ COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/298887807 http://www.lesalinem
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/583734739 http://www.liceoartisticosassari.gov.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/554640314 http://www.liceopiga.gov.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/279199030 http://www.liceoscientificooristano.gov.it
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4209176505 https://osm.org/browse/way/530334139 http://www.lacuratoria.it
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5195758316 https://osm.org/browse/node/5195758317 https://osm.org/browse/way/314864374 http://www.loliveto.sardegna.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2603603340 http://www.lidochelo.it → https://www.lidochelo.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5195758316 https://osm.org/browse/node/5195758317 https://osm.org/browse/way/314864374 http://www.loliveto.sardegna.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4209176505 https://osm.org/browse/way/530334139 http://www.lacuratoria.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/318840185 http://www.lorto.it → https://www.lorto.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4229032904 http://www.luigipomata.com → https://luigipomata.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5159203223 https://osm.org/browse/node/5159203224 http://www.lunasorgente.com
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5194426846 https://osm.org/browse/node/5194426847 https://osm.org/browse/way/536130352 http://www.maestraleagriturismo.com
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2734346243 http://www.malvasiaoggianu.it → https://www.malvasiaoggianu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304012856 http://www.marilenapischeddaarredamenti.it → https://www.marilenapischeddaarredamenti.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5159203223 https://osm.org/browse/node/5159203224 http://www.lunasorgente.com
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275217765 http://www.meccanico.oristano.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/295524089 http://www.montresta.org
 TIMEOUT https://osm.org/browse/node/3275228969 http://www.ic30.com/osolemio/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/3947951 http://www.museodelpanerituale.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/159550755 http://www.leduneingurtosu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/298053088 http://www.museoalbinomanca.it → https://www.museoalbinomanca.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/1670392027 http://www.mutseu.org → https://www.mutseu.org/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/3913513 http://www.museosacoronarrubia.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/4473484703 http://www.nonnaisa.com/ → https://www.nonnaisa.com/
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/533946403 http://www.oasidelcervo.it → https://www.oasidelcervo.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/588989868 http://www.marinhotel.it → https://www.marinhotel.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/72992193 https://osm.org/browse/way/142884664 https://osm.org/browse/way/516635404 https://osm.org/browse/way/516635406 https://osm.org/browse/way/516635408 https://osm.org/browse/way/516635410 https://osm.org/browse/relation/40002 http://www.orroliproloco.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4473484703 http://www.nonnaisa.com/ → https://www.nonnaisa.com/
 CLIENT_ERROR_(400…499) 406 https://osm.org/browse/node/3275238357 https://osm.org/browse/node/3275242274 https://osm.org/browse/node/3275246669 http://www.ninovaccapasticceria.com/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/533946403 http://www.oasidelcervo.it → https://www.oasidelcervo.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/72992193 https://osm.org/browse/way/142884664 https://osm.org/browse/way/516635404 https://osm.org/browse/way/516635406 https://osm.org/browse/way/516635408 https://osm.org/browse/way/516635410 https://osm.org/browse/relation/40002 http://www.orroliproloco.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/6960016710 http://www.oldcountry.pizza → https://www.oldcountry.pizza/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5033826082 http://www.palaviaggi.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/538296914 http://www.parcoacquaticosardegna.com
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294225903 http://www.parrocchia-zerfaliu.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3233957424 http://www.pasticceriadolceisola.it
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5197551530 https://osm.org/browse/node/5197551531 https://osm.org/browse/way/171375765 http://www.pedramanna.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/525203060 http://www.pastificiosaporidisardegna.it
 CLIENT_ERROR_(400…499) 406 https://osm.org/browse/node/3275241235 http://www.otticanotaro.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5197551530 https://osm.org/browse/node/5197551531 https://osm.org/browse/way/171375765 http://www.pedramanna.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1724768359 http://www.pedraruja.com → https://www.pedraruja.com/
+TIMEOUT https://osm.org/browse/way/159550755 http://www.leduneingurtosu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/543324573 http://www.perdeperaresort.it/ → https://www.perdeperaresort.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1645036294 http://www.pferdehof-morgenstern.de/ → https://morgensternhof.de/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/2732555612 http://www.pedramare.com → https://www.pedramare.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/279201844 http://www.poliambulatorio.oristano.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/62331902 http://www.progettodighe.it/main/le-dighe/article/bau-mandara → https://www.progettodighe.it/main/le-dighe/article/bau-mandara
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/297850481 http://www.rifugiouttolo.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275231505 http://www.ristorante.oristano.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/4475204463 http://www.ristorantebosa.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2732555612 http://www.pedramare.com → https://www.pedramare.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/294460351 http://www.ristorantecavallinodellagiara.com/
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/1949049464 http://www.ristorantedalucio.it → https://www.ristorantedalucio.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/294436466 http://www.ristorantefrongia.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/532022334 http://www.ristorantelestrutture.it → https://www.ristorantelestrutture.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/1949049464 http://www.ristorantedalucio.it → https://www.ristorantedalucio.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275224376 http://www.ristorantepizzeria.oristano.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2446480408 http://www.ristorantepizzeriaoasi.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/532022334 http://www.ristorantelestrutture.it → https://www.ristorantelestrutture.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2713014794 http://www.ristorantesascovas.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/3628331166 http://www.ristorantesasevada.it/ → https://www.ristorantesasevada.it/
-TIMEOUT https://osm.org/browse/node/5520268660 https://osm.org/browse/node/5520268661 https://osm.org/browse/way/575245715 http://www.orangemoonagriturismo.com
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/251512896 http://www.ristorantetipicogolgo.com → https://www.ristorantetipicogolgo.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/287807442 http://www.ristorantetorregrande.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3628331166 http://www.ristorantesasevada.it/ → https://www.ristorantesasevada.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/535684475 http://www.samarigosa.com → https://www.samarigosa.com/
-TIMEOUT https://osm.org/browse/way/525203060 http://www.pastificiosaporidisardegna.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/656560464 http://www.samuredda.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/860162984 http://www.santamariabambina.it/ → https://www.santamariabambina.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5289899729 https://osm.org/browse/node/5289899730 https://osm.org/browse/way/547461825 http://www.saboriantigu.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/247016181 http://www.santamariaresort.it
+TIMEOUT https://osm.org/browse/node/5520268660 https://osm.org/browse/node/5520268661 https://osm.org/browse/way/575245715 http://www.orangemoonagriturismo.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/860162984 http://www.santamariabambina.it/ → https://www.santamariabambina.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3275226830 http://www.santona.it → https://www.santona.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/247016181 http://www.santamariaresort.it
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/5494373585 http://www.saporeantico.net
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/547390087 http://www.saperdamarcada.it/ → https://www.saperdamarcada.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/27771208 http://www.saras.it/saras/pages/inthefield/assets/refining → https://www.saras.it/saras/pages/inthefield/assets/refining
 TIMEOUT https://osm.org/browse/node/4592425127 http://www.pinacoteca.cagliari.beniculturali.it/
-REDIRECTION_(300…399) 307 https://osm.org/browse/way/230339567 http://www.sardegnacultura.it/j/v/253?v=2&c=2488&t=1&s=21531 → https://www.sardegnacultura.it/j/v/253?v=2&c=2488&t=1&s=21531
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4592619945 http://www.sapposentu.it
+REDIRECTION_(300…399) 307 https://osm.org/browse/way/230339567 http://www.sardegnacultura.it/j/v/253?v=2&c=2488&t=1&s=21531 → https://www.sardegnacultura.it/j/v/253?v=2&c=2488&t=1&s=21531
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/547240268 http://www.sarocca.it/ → https://www.sarocca.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/13100179664 http://www.sardegnatermale.it → https://www.sardegnatermale.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5462716548 https://osm.org/browse/way/281476479 https://osm.org/browse/way/567547177 http://www.satancaebore.it → https://www.satancaebore.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/13100179664 http://www.sardegnatermale.it → https://www.sardegnatermale.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1853376497 https://osm.org/browse/node/5196332083 https://osm.org/browse/way/197511882 http://www.sispiga.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/3359514893 http://www.stone-art.it/it/index.html → https://www.stone-art.it/it/index.html
 SUCCESS_(200…299) 200 https://osm.org/browse/way/322928596 http://www.sedilnet.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3359514893 http://www.stone-art.it/it/index.html → https://www.stone-art.it/it/index.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5247158868 https://osm.org/browse/node/5247158869 https://osm.org/browse/way/542754647 http://www.subarraccu.it → https://www.subarraccu.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/823795318 http://www.subarroccu.it → https://www.subarroccu.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5195758268 https://osm.org/browse/node/5195758269 https://osm.org/browse/way/317186374 http://www.sulivariu.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/273770395 http://www.sulithu.it → https://www.sulithu.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/279203119 http://www.tecnoversnc.com/ → http://tecnoversnc.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5195758306 https://osm.org/browse/node/5195758307 https://osm.org/browse/way/336666091 http://www.serrasdala.com/ → https://www.serrasdala.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/547240494 http://www.tartheshotel.com/ → https://www.tartheshotel.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/273770395 http://www.sulithu.it → https://www.sulithu.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5195758268 https://osm.org/browse/node/5195758269 https://osm.org/browse/way/317186374 http://www.sulivariu.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/279203119 http://www.tecnoversnc.com/ → http://tecnoversnc.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/572779652 http://www.teknolegno.it → https://www.teknolegno.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/294436343 http://www.torrehotel.it → https://www.torrehotel.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275239615 http://www.trattoria.oristano.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2833526613 http://www.trenino.it → https://www.trenino.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/5195758306 https://osm.org/browse/node/5195758307 https://osm.org/browse/way/336666091 http://www.serrasdala.com/ → https://www.serrasdala.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/106813704 https://osm.org/browse/way/106813710 https://osm.org/browse/way/106813743 https://osm.org/browse/way/106813773 https://osm.org/browse/way/116570273 https://osm.org/browse/way/116570274 https://osm.org/browse/way/116570275 https://osm.org/browse/way/116571282 https://osm.org/browse/way/116571289 https://osm.org/browse/way/116571291 https://osm.org/browse/way/116571293 https://osm.org/browse/way/116573344 https://osm.org/browse/way/116580701 https://osm.org/browse/way/116580703 https://osm.org/browse/way/116580708 https://osm.org/browse/way/116580714 https://osm.org/browse/way/116581687 https://osm.org/browse/way/116581688 https://osm.org/browse/way/172782529 https://osm.org/browse/way/173045343 https://osm.org/browse/way/295509261 https://osm.org/browse/way/295509262 https://osm.org/browse/way/295509263 https://osm.org/browse/way/296547517 https://osm.org/browse/way/296547518 https://osm.org/browse/way/310640541 https://osm.org/browse/way/451583849 https://osm.org/browse/way/461888361 https://osm.org/browse/way/461888362 https://osm.org/browse/way/461940268 https://osm.org/browse/way/461940269 https://osm.org/browse/way/462703964 https://osm.org/browse/way/462703965 https://osm.org/browse/way/462964352 https://osm.org/browse/way/462964353 https://osm.org/browse/way/463102171 https://osm.org/browse/way/463102172 https://osm.org/browse/way/464259649 https://osm.org/browse/way/464259650 https://osm.org/browse/way/464259656 https://osm.org/browse/way/464259657 https://osm.org/browse/way/466700239 https://osm.org/browse/way/466700240 https://osm.org/browse/way/470714905 https://osm.org/browse/way/470714906 https://osm.org/browse/way/470714923 https://osm.org/browse/way/470714924 https://osm.org/browse/way/471503930 https://osm.org/browse/way/471503931 https://osm.org/browse/way/471511416 https://osm.org/browse/way/471511417 https://osm.org/browse/way/471511500 https://osm.org/browse/way/471511501 https://osm.org/browse/way/471511508 https://osm.org/browse/way/471511509 https://osm.org/browse/way/471832870 https://osm.org/browse/way/471832872 https://osm.org/browse/way/471832886 https://osm.org/browse/way/471832890 https://osm.org/browse/way/471884614 https://osm.org/browse/way/471884615 https://osm.org/browse/way/497151616 https://osm.org/browse/way/497151617 https://osm.org/browse/way/497151625 https://osm.org/browse/way/497151628 https://osm.org/browse/way/497151629 https://osm.org/browse/way/497151631 https://osm.org/browse/way/500705252 https://osm.org/browse/way/1076808208 https://osm.org/browse/way/1076808209 https://osm.org/browse/way/1076808210 https://osm.org/browse/way/1110236050 https://osm.org/browse/way/1110236051 https://osm.org/browse/way/1157785571 https://osm.org/browse/way/1157842325 https://osm.org/browse/relation/1808857 http://www.treninoverde.com/ → https://www.treninoverde.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/277017452 http://www.tripadvisor.it/Restaurant_Review-g3528959-d3524787-Reviews-Il_Gatto_Sardo-Gonnoscodina_Province_of_Oristano_Sardinia.html → https://www.tripadvisor.it/Restaurant_Review-g3528959-d3524787-Reviews-Il_Gatto_Sardo-Gonnoscodina_Province_of_Oristano_Sardinia.html
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/291517718 http://www.vallermosa.gov.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/106813704 https://osm.org/browse/way/106813710 https://osm.org/browse/way/106813743 https://osm.org/browse/way/106813773 https://osm.org/browse/way/116570273 https://osm.org/browse/way/116570274 https://osm.org/browse/way/116570275 https://osm.org/browse/way/116571282 https://osm.org/browse/way/116571289 https://osm.org/browse/way/116571291 https://osm.org/browse/way/116571293 https://osm.org/browse/way/116573344 https://osm.org/browse/way/116580701 https://osm.org/browse/way/116580703 https://osm.org/browse/way/116580708 https://osm.org/browse/way/116580714 https://osm.org/browse/way/116581687 https://osm.org/browse/way/116581688 https://osm.org/browse/way/172782529 https://osm.org/browse/way/173045343 https://osm.org/browse/way/295509261 https://osm.org/browse/way/295509262 https://osm.org/browse/way/295509263 https://osm.org/browse/way/296547517 https://osm.org/browse/way/296547518 https://osm.org/browse/way/310640541 https://osm.org/browse/way/451583849 https://osm.org/browse/way/461888361 https://osm.org/browse/way/461888362 https://osm.org/browse/way/461940268 https://osm.org/browse/way/461940269 https://osm.org/browse/way/462703964 https://osm.org/browse/way/462703965 https://osm.org/browse/way/462964352 https://osm.org/browse/way/462964353 https://osm.org/browse/way/463102171 https://osm.org/browse/way/463102172 https://osm.org/browse/way/464259649 https://osm.org/browse/way/464259650 https://osm.org/browse/way/464259656 https://osm.org/browse/way/464259657 https://osm.org/browse/way/466700239 https://osm.org/browse/way/466700240 https://osm.org/browse/way/470714905 https://osm.org/browse/way/470714906 https://osm.org/browse/way/470714923 https://osm.org/browse/way/470714924 https://osm.org/browse/way/471503930 https://osm.org/browse/way/471503931 https://osm.org/browse/way/471511416 https://osm.org/browse/way/471511417 https://osm.org/browse/way/471511500 https://osm.org/browse/way/471511501 https://osm.org/browse/way/471511508 https://osm.org/browse/way/471511509 https://osm.org/browse/way/471832870 https://osm.org/browse/way/471832872 https://osm.org/browse/way/471832886 https://osm.org/browse/way/471832890 https://osm.org/browse/way/471884614 https://osm.org/browse/way/471884615 https://osm.org/browse/way/497151616 https://osm.org/browse/way/497151617 https://osm.org/browse/way/497151625 https://osm.org/browse/way/497151628 https://osm.org/browse/way/497151629 https://osm.org/browse/way/497151631 https://osm.org/browse/way/500705252 https://osm.org/browse/way/1076808208 https://osm.org/browse/way/1076808209 https://osm.org/browse/way/1076808210 https://osm.org/browse/way/1110236050 https://osm.org/browse/way/1110236051 https://osm.org/browse/way/1157785571 https://osm.org/browse/way/1157842325 https://osm.org/browse/relation/1808857 http://www.treninoverde.com/ → https://www.treninoverde.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/278134532 http://www.termedisardara.it → https://www.termedisardara.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/3933094 http://www.villadegliulivirsa.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/291517718 http://www.vallermosa.gov.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1601566871 https://osm.org/browse/node/1601567218 https://osm.org/browse/node/1601567221 http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF → https://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/648982433 https://osm.org/browse/node/5559639928 http://www.villabarbarina.com → https://www.villabarbarina.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/3933094 http://www.villadegliulivirsa.it
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/1419301151 http://www.villaggioledune.net
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/610512699 http://www.villaggiomandragola.com → https://www.villaggiomandragola.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/648982433 https://osm.org/browse/node/5559639928 http://www.villabarbarina.com → https://www.villabarbarina.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/199931713 http://www.villaggiosabbiedoro.net → https://www.villaggiosabbiedoro.net/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/532022330 http://www.villanovaforru.gov.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/610512699 http://www.villaggiomandragola.com → https://www.villaggiomandragola.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/324012854 http://www.waterlandnuoto.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1889770618 http://www.ziaberta.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2600434842 http://www.villapischinas.it → https://www.villapischinas.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/5198022489 http://www.villaggioturas.it → https://www.villaggioturas.net/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4497987848 https://arteseos.com/
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/11056964484 https://beb.it/villamereu/it/
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/11925747476 https://coinatmradar.com/bitcoin_atm/64663/bitcoin-atm-shitcoins-club-cagliari-shitcoinsclub/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/8018364892 https://commons.wikimedia.org/wiki/File:Bruncu_Suergiu.jpg
 TIMEOUT https://osm.org/browse/node/1889770623 https://osm.org/browse/node/5186422492 http://www.sapedrera.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/294226010 https://comune.gonnosno.or.it
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/11925747476 https://coinatmradar.com/bitcoin_atm/64663/bitcoin-atm-shitcoins-club-cagliari-shitcoinsclub/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/11056964484 https://beb.it/villamereu/it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8018364892 https://commons.wikimedia.org/wiki/File:Bruncu_Suergiu.jpg
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/318668819 https://bbparco.jimdo.com
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/846973862 https://comune.monserrato.ca.it → https://comune.monserrato.ca.it/it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/294226010 https://comune.gonnosno.or.it
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/15088814 https://danbag.altervista.org/Sardegna/B162/B162-FTP.kml
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/14704119 https://danbag.altervista.org/Sardegna/B401/B401-FTP.kml
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11057009072 https://casabonaria.com/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/18159900 https://danbag.altervista.org/Sardegna/B410/B410-FTP.kml
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/14704119 https://danbag.altervista.org/Sardegna/B401/B401-FTP.kml
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12321189 https://danbag.altervista.org/Sardegna/B481/B481-FTP.kml
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/10077575 https://danbag.altervista.org/Sardegna/B485/B485-FTP.kml
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/16503335 https://danbag.altervista.org/Sardegna/B505/B505-FTP.kml
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12858037 https://danbag.altervista.org/Sardegna/F405/F405-FTP.kml
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12857717 https://danbag.altervista.org/Sardegna/F401/F401-FTP.kml
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12857738 https://danbag.altervista.org/Sardegna/F402/F402-FTP.kml
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12858020 https://danbag.altervista.org/Sardegna/F404/F404-FTP.kml
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12858037 https://danbag.altervista.org/Sardegna/F405/F405-FTP.kml
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12858057 https://danbag.altervista.org/Sardegna/F406/F406-FTP.kml
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/14211283 https://danbag.altervista.org/Sardegna/T741/T741-FTP.kml
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/18147528 https://danbag.altervista.org/Sardegna/G100/G100-FTP.kml
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/14211317 https://danbag.altervista.org/Sardegna/T702/T702-FTP.kml
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/14211283 https://danbag.altervista.org/Sardegna/T741/T741-FTP.kml
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/12858057 https://danbag.altervista.org/Sardegna/F406/F406-FTP.kml
 PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/3275230781 https://hotelreginadarborea.com
-SUCCESS_(200…299) 200 https://osm.org/browse/node/12681487643 https://flcomunicazione.it
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5426915786 https://estetitty.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4609438059 https://osm.org/browse/way/466052357 https://isdomosantigas.wordpress.com/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/5195897128 https://isbenaslodge.com → https://www.isbenaslodge.com/?lang=en
-SUCCESS_(200…299) 200 https://osm.org/browse/node/9817977077 https://linktr.ee/SabrinaPintusLBS
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5426915786 https://estetitty.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12681487643 https://flcomunicazione.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11177446652 https://makito.io/
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/11157772237 https://sapandacagliari.business.site
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4198977689 https://ristoranteportotaverna.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9817977077 https://linktr.ee/SabrinaPintusLBS
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/11157772237 https://sapandacagliari.business.site
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10265078480 https://people.unica.it/unicamappe/2012/08/10/facolta-di-architettura/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/8220719399 https://www.agriturismoilsinis.it/
-TIMEOUT https://osm.org/browse/way/318668819 https://bbparco.jimdo.com
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/589009080 https://www.agriturismomuzzuolbia.it/ → https://agriturismomuzzuolbia.it/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/1459894779 https://www.angelagoeser.de
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275213670 https://www.autoscuolalafenicia.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/1889770381 https://osm.org/browse/node/5289590236 https://osm.org/browse/way/547430932 https://www.agriturismosannoranna.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1428858864 https://www.caponieddu.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/273745304 https://www.comune.ballao.ca.it → https://www.comune.ballao.su.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/589009080 https://www.agriturismomuzzuolbia.it/ → https://agriturismomuzzuolbia.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275213670 https://www.autoscuolalafenicia.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/9726164063 https://www.anticacagliari.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1428858864 https://www.caponieddu.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/7721090863 https://www.capomannuproductions.com → https://capomannuproductions.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/273745304 https://www.comune.ballao.ca.it → https://www.comune.ballao.su.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/673141866 https://www.cantinedidolianova.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/251356390 https://www.comune.berchidda.ot.it → https://www.comune.berchidda.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/302653106 https://www.comune.borutta.ss.it/ → https://comune.borutta.ss.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4558825245 https://www.comune.cagliari.it/portale/page/it/grotta_della_vipera
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8220719399 https://www.agriturismoilsinis.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/283489564 https://www.comune.carbonia.su.it
-REDIRECTION_(300…399) 302 https://osm.org/browse/way/295315003 https://www.comune.castiadas.su.it → https://www.comune.castiadas.su.it/it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295727615 https://www.comune.donori.ca.it → https://comune.donori.su.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/673141866 https://www.cantinedidolianova.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/274938790 https://www.comune.dorgali.nu.it
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/301718555 https://www.comune.soleminis.ca.it
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/295315003 https://www.comune.castiadas.su.it → https://www.comune.castiadas.su.it/it
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/560282977 https://www.comune.ittiri.ss.it/ → https://www.comune.ittiri.ss.it/it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/301718555 https://www.comune.soleminis.ca.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/274938790 https://www.comune.dorgali.nu.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/279365351 https://www.comune.padru.ot.it → https://comune.padru.ss.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/584202853 https://www.comune.ploaghe.ss.it/ → https://www.comune.ploaghe.ss.it/it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/304559933 https://www.comune.torralba.ss.it → https://comune.torralba.ss.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/41025 https://www.comunearzachena.it → https://www.comune.arzachena.ss.it
 SAME_DOMAIN_REDIRECTION_(300…399) 301 https://osm.org/browse/way/153313851 https://www.comunebuggerru.it/ → /it/index.html
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12912465898 https://www.cramasinara.org/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/5588752862 https://www.emporiumsedini.it
 SUCCESS_(200…299) 200 https://osm.org/browse/way/305351161 https://www.darenzo.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5588752862 https://www.emporiumsedini.it
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/4550507266 https://www.facebook.com/Montalbo-Escursioni-Locanda-Ammentos-268308323229454/ → https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FMontalbo-Escursioni-Locanda-Ammentos-268308323229454%2F
 SUCCESS_(200…299) 200 https://osm.org/browse/way/186724408 https://www.entuesole.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/8953808140 https://www.facebook.com/Mordi-Fuggi-1308511185954126/ → https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FMordi-Fuggi-1308511185954126%2F
 SUCCESS_(200…299) 200 https://osm.org/browse/node/5091138709 https://www.facebook.com/Parafarmacia131/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/294436397 https://www.facebook.com/ristorantevillaggiooasi/ → https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fristorantevillaggiooasi%2F
 SUCCESS_(200…299) 200 https://osm.org/browse/way/158188869 https://www.gruthas.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/279204864 https://www.gtsushiwok.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11182866855 https://www.estay.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/542463988 https://www.hotel-santefisio.com
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275234826 https://www.ichnosviaggi.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/279204864 https://www.gtsushiwok.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/7707090341 https://www.gattisupallosu.org
-SUCCESS_(200…299) 200 https://osm.org/browse/way/1384335370 https://www.hoteljanas.it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/542709674 https://www.ipsar.gov.it
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/248440824 https://www.isscabas.com
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275234826 https://www.ichnosviaggi.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/13318933129 https://www.eccellentemente.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/542463988 https://www.hotel-santefisio.com
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/542709674 https://www.ipsar.gov.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1384335370 https://www.hoteljanas.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/248440824 https://www.isscabas.com
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/295906317 https://www.lafattoriadiago.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/279200030 https://www.jysk.it → https://jysk.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1360863485 https://www.ictertenia.edu.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1011014493 https://www.mdspa.it/punti-vendita/Sardegna/OR-Oristano/1048-Oristano → https://www.mdspa.it/punti-vendita/Sardegna/OR-Oristano/1048-Oristano/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2995797658 https://www.ilvelierosolanas.it
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/258094245 https://www.nuraghesantuantine.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/1011014493 https://www.mdspa.it/punti-vendita/Sardegna/OR-Oristano/1048-Oristano → https://www.mdspa.it/punti-vendita/Sardegna/OR-Oristano/1048-Oristano/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11175496106 https://www.palazzotirsocagliari.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/6647634285 https://osm.org/browse/node/6647634287 https://www.letrerose.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4550323768 https://www.only-sardinia.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1382100134 https://www.parkingo.com/it/parcheggio-aeroporto-cagliari-elmas
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/295299352 https://www.ristorantecasacortina.com
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4550323768 https://www.only-sardinia.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/3275225045 https://www.ristorantecologo.com
-SUCCESS_(200…299) 200 https://osm.org/browse/node/3275103169 https://www.ristoranteilcaminettocabras.com
-CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/1912121792 https://www.ristorantelecisterne.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/6647634285 https://osm.org/browse/node/6647634287 https://www.letrerose.it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12912465900 https://www.parcoasinara.org/attivita/il-ceas-inara/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/5186422519 https://osm.org/browse/node/5186422520 https://osm.org/browse/way/534908936 https://www.sacrannaccia.com
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/1912121792 https://www.ristorantelecisterne.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3275103169 https://www.ristoranteilcaminettocabras.com
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3275225045 https://www.ristorantecologo.com
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2839870410 https://www.ristorantemarlin.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5186422519 https://osm.org/browse/node/5186422520 https://osm.org/browse/way/534908936 https://www.sacrannaccia.com
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3275103170 https://www.ristoranteziabelledda.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/295590355 https://www.sansperate.net → https://www.comune.sansperate.su.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/11170811974 https://www.samariga.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/7965302786 https://www.sardiniaexperience.com/
-TIMEOUT https://osm.org/browse/node/8303473544 https://www.marinaseadabeach.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11170811974 https://www.samariga.it/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/4229075825 https://osm.org/browse/node/5234820341 https://www.stefanodeidda.it
+TIMEOUT https://osm.org/browse/node/8303473544 https://www.marinaseadabeach.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2726975489 https://www.sucumbidu.com/ → https://www.sucumbiduterra.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/296771775 https://www.sufassoi.it
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3275220559 https://www.tharroscaffe.it
 SUCCESS_(200…299) 200 https://osm.org/browse/way/974054833 https://www.torremoresca.it
-TIMEOUT https://osm.org/browse/node/3275103170 https://www.ristoranteziabelledda.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/1384151676 https://www.sateriavillage.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/296378089 https://www.villa-alberta.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/958519236 https://www.villalinapula.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/180721764 https://www.vigilfuoco.it/sedi-vvf/distaccamento-di-porto-torres
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1384151676 https://www.sateriavillage.it/
 MISSING_URI_SCHEME https://osm.org/browse/node/1770857583 https://osm.org/browse/node/5236864807 https://osm.org/browse/way/438275533 www.agriturismosozzastru.com
 MISSING_URI_SCHEME https://osm.org/browse/node/1889770382 https://osm.org/browse/node/4366148210 https://osm.org/browse/way/438982002 www.agriturvillagaia.it
 MISSING_URI_SCHEME https://osm.org/browse/way/447873782 www.aquafantasy.it
@@ -613,6 +613,6 @@ MISSING_URI_SCHEME https://osm.org/browse/way/575457452 www.ippodromovillacidro.
 MISSING_URI_SCHEME https://osm.org/browse/node/5194427063 https://osm.org/browse/node/5194427064 https://osm.org/browse/way/536130370 www.sanea.it
 MISSING_URI_SCHEME https://osm.org/browse/node/4366148213 https://osm.org/browse/node/4366148214 https://osm.org/browse/way/438259377 www.sincantu.it
 MISSING_URI_SCHEME https://osm.org/browse/way/322927916 www.studiomameli.com
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2329913542 https://www.sardegnaturismo.it/it/esplora/san-valentino
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/81578382 https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
-TIMEOUT https://osm.org/browse/node/2329913542 https://www.sardegnaturismo.it/it/esplora/san-valentino
-SUCCESS_(200…299) 200 https://osm.org/browse/way/296378089 https://www.villa-alberta.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/180721764 https://www.vigilfuoco.it/sedi-vvf/distaccamento-di-porto-torres
