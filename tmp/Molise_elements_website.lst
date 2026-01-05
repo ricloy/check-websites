@@ -328,6 +328,8 @@ way	1435045588	https://www.comune.termoli.cb.it/vivere-il-comune/luoghi/piazza-v
 way	1435045589	https://www.comune.termoli.cb.it/vivere-il-comune/luoghi/piazza-vittorio-veneto/
 way	1450934442	https://completedstay.com/il-caminetto-carpinone/
 way	1459046045	https://www.smaltimentisud.com/
+way	1462869570	https://www.museodelrame.it/en-us/
+way	1463398349	https://www.diocesitrivento.it/diocesi/le-parrocchie/maria-ssma-di-costantinopoli/1
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1085623	https://www.altovastese.it/ambient/il-sito-di-interesse-comunitario-sic-monte-mauro-selva-di-montefalcone-nel-sannio-cb/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
@@ -367,28 +369,21 @@ relation	17675194	https://www.trekkingitalia.org/
 relation	17675320	https://www.trekkingitalia.org/
 relation	17678319	https://www.trekkingitalia.org/
 relation	19598338	https://www.fisiomedicaloretana.it
-node	10769105353	https://www.museionline.info/musei/museo-di-storia-naturale-della-valle-del-fortore
-node	12115891441	https://gustusristorante.com/
-node	12841615318	https://www.molisewow.com/borgodellefonti
-way	193450242	https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-archeologica-di-altilia-saepinum
-way	193651509	https://www.parcosepino.it/
-way	261211563	https://www.santamariadellastradacb.it/
-way	261652608	https://www.m2movement.it/
-way	444881071	https://www.maronda.it/
-way	451040903	http://www.villaggioazzurra.it/
-way	561057676	https://www.smeraldocampingvillage.com/
-way	639116664	https://www.lianna.it/
-way	691090792	https://www.oasidellemainarde.com/
-way	1056651661	https://www.rivazzurrahomes.it
-way	1076684927	https://www.calasveva.it/
-way	1076684935	https://ildelfino.wordpress.com/
-way	1076684938	http://www.lidosirene.it/
-way	1076684940	https://lidolaperlatermoli.business.site/
-way	1076684944	http://www.lidolalampara-termoli.it/
-way	1076684945	https://www.lidomistral.com/
-way	1077536770	https://www.lidolapiovra.com/
-way	1077536773	https://lidobalneare.termoli.cb.it/
-relation	14635178	https://www.parcoregionaledelmatese.it/
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
+
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
+
+</body>
+</html>
 node	13340059807	https://comune.pescopennataro.is.it/
 relation	1756297	https://ingiroapiunonposso.it/bosco-degli-abeti-soprani-in-molise/
 relation	17760420	https://appenninobiketour.com/percorso/
