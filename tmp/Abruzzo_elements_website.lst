@@ -1606,7 +1606,6 @@ node	7817119423	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10806
 node	7819606578	https://www.ilcentro.it/pescara/ad-abbateggio-la-nuova-farmacia-nei-locali-del-comune-1.2384203
 node	7821117705	https://www.pecorinodifarindola.it/la-casera-consortile/
 node	7821150443	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10827
-node	7824495085	https://www.facebook.com/Artemide.Restaurant/
 node	7825348090	https://doreca.it/store/san_giovanni_teatino
 node	7825632978	https://www.somsrl.it/
 node	7829838820	https://www.enigmaroomabruzzo.it/
@@ -1653,7 +1652,6 @@ node	7884031859	https://www.primigi.it/
 node	7884031860	https://www.nau.it/
 node	7884155590	https://www.giuntialpunto.it/
 node	7884161084	http://www.pittarosso.com/
-node	7884164950	https://kingattitude.it/pages/negozi/king-outlet-silvi-marina
 node	7884166639	https://www.centrouniverso.it/negozi/joka-village/
 node	7884175412	https://stores.ovs.it/it/italia/abruzzo/teramo/ovs-silvi-marina-cc-universo
 node	7884175528	https://www.yamamay.com/it_it/
@@ -2028,6 +2026,7 @@ node	8880083776	http://lamascionara.it
 node	8892227906	https://www.soggiornoproposta.org/index.php?option=com_content&view=article&id=51&Itemid=75
 node	8894005972	https://sorginibici.eu
 node	8897253425	www.parcosponga.it
+node	8897533178	https://housity.net/hotel/paradiso-country-house/
 node	8901213707	https://iezzielettrodomestici.it
 node	8910111810	https://www.micoperi.com/it
 node	8911304782	https://pepco.it/shop/220155-pescara-via-g-dannunzio/
@@ -3534,6 +3533,8 @@ node	13414458801	https://www.coal.it
 node	13417503057	https://arrosticinicollinaverde.it/
 node	13420747401	https://www.poste.it/
 node	13426719001	https://www.trieste.pizza
+node	13430987902	https://cameliashop.sumupstore.com/
+node	13441926299	https://chieti.aci.it/
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3665,7 +3666,6 @@ way	134727476	hmiramonti.com
 way	137473583	https://www.musei.abruzzo.beniculturali.it/musei?mid=316&nome=museo-archeologico-nazionale-la-civitella
 way	137473630	http://visitabruzzo.altervista.org/it/2012/01/parco-archeologico-e-anfiteatro-della-civitella-chieti/
 way	137474062	https://www.esalife.it/
-way	137535991	https://chieti.aci.it/
 way	137603572	https://www.parrocchiadodiciapostoli.com/
 way	138166809	https://www.albergoabruzzo.it/
 way	141134674	https://www.unite.it/UniTE/Bioscienze_e_tecnologie_agro-alimentari_e_ambientali
@@ -5089,18 +5089,96 @@ relation	9383854	https://www.cascatedelverde.info/
 relation	13815366	https://www.rondinellacamping.it/
 relation	18178088	http://www.cantinacrecchio.it/contattaci/
 relation	19190580	https://borghidelgransasso.it/
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
-
-</body>
-</html>
+node	768603431	https://farmaciasanmassimopenne.it/
+node	2335563949	https://www.bbilparcodeipoeti.it/
+node	5235268513	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
+node	5235286740	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
+node	5235292044	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
+node	5235293528	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
+node	5986086487	https://www.chietitoday.it/economia/progetto-riqualificazione-olmo-riccio-lanciano.html
+node	6311570721	http://www.svapofacile.it
+node	7669061031	http://www.comune.pineto.te.it/pagina1835_presidi-sanitari.html
+node	7669123998	http://prospineto.it/guardia-medica-turistica/
+node	7884031843	https://agenzie.gattinonitravel.it/19700-zona-industriale-val-pescara
+node	8560415318	https://www.ilpescara.it/ristoranti/apre-pescara-kfc-ristorante-pollo-fritto-kentucky.html
+node	8686616134	https://restaurantguru.it/Osteria-Il-Grottino-Citta-SantAngelo
+node	8854958906	https://www.ilpescara.it/cronaca/montesilvano/sito-web-centro-riuso-ritiro-gratuito.html
+node	9053829474	https://www.liritv.it/montesilvano-pe-defibrillatori-accessibili-installato-dae-al-campo-di-via-foscolo/
+node	9926972892	https://it.wikipedia.org/wiki/Gallo_(Tagliacozzo)
+node	10304671252	https://it.wikiloc.com/percorsi-alpinismo/anello-della-cresta-di-pizzi-di-palena-49865511
+node	10971279346	https://piatti.menu/restaurants/vasto/le-vele-12
+node	11017555269	https://www.pietredellamemoria.it/pietre/monumento-ai-caduti-di-santa-barbara-chieti/
+node	11207307441	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10858
+node	11935046254	https://fattoriatoccaferro.it/
+node	11999554534	https://www.halleyweb.com/c068018/zf/index.php/associazioni/index/dettaglio/associazione/5
+node	12000317392	https://www.regione.abruzzo.it/system/files/enti-locali/documenti/ordinanza-n6-del-11032020.pdf
+node	12007249885	https://italia.indettaglio.it/ita/abruzzo/teramo_castilenti_contradacasabiancasud.html
+node	12071668360	https://www.abruzzocitta.it/luogo/monte-zurrone/
+node	12124829139	https://restaurantguru.it/Bar-Cafe-de-Paris-SantEusanio-del-Sangro
+node	12177199641	https://kobak.it/noleggia/
+node	12247823374	https://www.mtbtrails.it/trail-areas/bike-park-bocca-di-valle
+node	12301781615	https://www.booking.com/hotel/it/b-amp-b-reale-ortona.it.html
+node	12304275558	https://www.chpe.camcom.it/pagina182687_padiglione-espositivo-d-becci.html
+node	12604348773	https://www.tripadvisor.it/Restaurant_Review-g2275192-d10685916-Reviews-Osteria_La_Vecchia_Stazione-Mosciano_Sant_Angelo_Province_of_Teramo_Abruzzo.html
+node	12755183810	https://www.universita.it/ateneo/universita-degli-studi-g-d-annunzio-chieti-pescara/
+node	12755384821	https://www.universita.it/ateneo/universita-degli-studi-g-d-annunzio-chieti-pescara/
+node	12942156758	https://www.oasitigre.it/it.html
+node	12946775009	https://shop.unigross.it/chi-siamo/
+node	12988185802	https://www.yelp.com/biz/supermercato-granmerkato-lanciano
+node	13159628059	https://www.facebook.com/ASLPescara/posts/-elice-apertura-nuovi-studi-di-medici-di-medicina-generale-si-informa-che-%C3%A8-pros/1126222549514008/
+node	13302097728	https://difrancescochocolate.it/negozio/
+way	10791681	https://www.ilpescara.it/attualita/svincolo-circonvallazione-san-silvestro-zona-30-modifiche-viabilita-sicurezza.html
+way	12653775	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
+way	31971383	https://www.ilpescara.it/attualita/svincolo-circonvallazione-san-silvestro-zona-30-modifiche-viabilita-sicurezza.html
+way	57035180	https://www.ilcentro.it/pescara/via-d-andrea-sei-mesi-di-lavori-in-arrivo-parco-e-un-anfiteatro-1.3231604
+way	57920161	https://www.ilpescara.it/attualita/svincolo-circonvallazione-san-silvestro-zona-30-modifiche-viabilita-sicurezza.html
+way	57920166	https://www.ilpescara.it/attualita/svincolo-circonvallazione-san-silvestro-zona-30-modifiche-viabilita-sicurezza.html
+way	301862068	https://it.m.wikipedia.org/wiki/File:Orsogna_-_Torre_di_Bene_03.jpg
+way	350513029	https://metar-taf.com/IT-0370
+way	359782109	http://www.comune.pineto.te.it/pagina1798_informazioni-utili.html
+way	378791366	https://scelgofullservice.com/e-store
+way	389341821	https://www.vivino.com/it/san-panfilo-scerni-planasi-montepulciano-d-abruzzo/w/2946766
+way	524461839	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/13056/Chiesa+di+San+Rocco
+way	558584552	https://bar-la-torretta.business.site
+way	840972146	https://fondoambiente.it/luoghi/torre-di-san-giovanni-lanciano
+way	1120718205	https://bura.regione.abruzzo.it/sites/bura.regione.abruzzo.it/files/bollettini/2025-01-07/relazione-illustrativa.pdf
+way	1185570786	https://artbonus.gov.it/1483-fontana-dellartista-ettore-spalletti.html
+way	1228264791	https://www.patriaindipendente.it/memoria-attiva/ortona-1943-quella-battaglia-da-non-dimenticare/
+way	1242961312	https://www.todis.it/punti-vendita/scopri-i-negozi/#!/l/sambuceto/via-amendola-264/4399529
+way	1246109205	https://www.ansa.it/marche/notizie/2025/07/16/ponte-ciclopedonale-sul-tronto-lavori-entro-primavera-2026_2a6bddde-5b7e-4f34-83ae-5c758f2178fd.html
+way	1293938249	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/13031/Elice+%28PE%29+%7C+Chiesa+di+San+Martino+Vescovo
+way	1294646986	https://www.liceopenne.edu.it/indirizzo-di-studio/liceo-artistico/
+way	1294745501	https://www.ilcentro.it/pescara/parco-solare-anche-per-essilorluxottica-riconvertiti-40-ettari-di-terreni-industriali-1.3295267
+way	1301595650	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno/
+way	1307420954	https://www.cogesambiente.it/cogesa2021/contatti/
+way	1307780549	https://www.vasport.it/lo-stadio-di-castel-frentano-intitolato-a-massimo-scalingi/
+way	1315272611	https://chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=guest&code=9701&Chiesa_di_San_Nicola_di_Bari__Orsogna
+way	1330879777	http://www.visit-sulmona.it/poi/288/chiesa-di-santa-lucia/3
+way	1359817723	https://www.ufficiocamerale.it/7042/truck-wash-23-societa-a-responsabilita-limitata
+way	1363111294	https://www.facebook.com/groups/123006997723018/posts/larea-verde-di-via-silvio-pellico-simbolo-di-degrado-carlo-masci-carlo-costantin/9064105783613050/
+way	1384038723	https://www.ilpescara.it/attualita/apertura-cantiere-restauro-fontana-maestro-spalletti-tribunale.html
+way	1390123060	https://www.ilcentro.it/pescara/citt%C3%A0-sant-angelo-addio-ad-antonio-de-carolis-apprezzato-medico-umanista-1.156935
+way	1391312202	https://www.provinciateramo.com/utenti/il-berrettino-Teramo/il-berrettino-Teramo_PC.asp
+way	1393942195	https://www.jw.org/it/
+way	1408237792	https://www.vaticannews.va/it/festivita-liturgiche/sacro-cuore-di-gesu.html
+way	1409206858	https://santantoniolanciano.com/?i=1
+way	1410608111	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1300025976
+way	1410955526	https://www.chietitoday.it/attualita/provincia-aggiudicati-lavori-rotatoria-lanciano-treglio.html
+way	1411481544	https://www.dannunziolanciano.edu.it/le-nostre-scuole/scuola-dell-infanzia-e-damico/
+way	1413864433	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/17860/Chiesa+di+Santa+Giusta+%7C+Lanciano+%28CH%29
+way	1414822584	https://www.coobiz.it/azienda/lanciano-falegnameria-artigiana/co7563798
+way	1418014814	https://www.ufficiocamerale.it/7307/vini-del-golfo-srl
+way	1426247567	https://www.histonium.net/notizie/appuntamenti/38557/dedicazione-sala-del-regno-a-villa-alfonsina
+way	1454690470	https://www.comune.sanvalentino.pe.it/it/vivere/750050
+relation	1756297	https://ingiroapiunonposso.it/bosco-degli-abeti-soprani-in-molise/
+relation	2000662	http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
+relation	12186929	https://unica.istruzione.gov.it/cercalatuascuola/istituti/PEEE837022/boscoic-pescara-/
+relation	12862117	https://www.ilpescara.it/cronaca/ponti-sul-saline-inaugurato-ponte-sant-angelo.html
+relation	12872498	https://trello.com/c/ZxUkKEjU/5-percorso-201-tossicia-cusciano
+relation	13050879	https://www.discoverabruzzo.it/listings/altopiano-del-voltigno/
+relation	13457133	https://www.ilpescara.it/attualita/lavori-allungamento-aeroporto-ripresa-maggio-fine-2025.html
+relation	17744834	https://appenninobiketour.com/percorso/
+relation	17760420	https://appenninobiketour.com/percorso/
+relation	19283562	https://santantoniolanciano.com/la-parrocchia/
+relation	19515367	https://www.storieeluoghidabruzzo.it/notizie-su-scafa/
+relation	19917166	https://www.rainews.it/tgr/molise/video/2025/06/viabilita-provinciale-84-alto-molise-strada-collegamenti-955e8c7d-175b-4b56-afe8-e3fcdda4a14c.html
