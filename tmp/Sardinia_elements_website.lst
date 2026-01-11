@@ -2026,7 +2026,8 @@ node	13374227738	http://www.marianarredamenti.it
 node	13398209978	https://www.unionecoros.it
 node	13414803625	https://www.cinetempio.it
 node	13426903001	https://www.comune.quartu.ca.it/vivere-il-comune/luoghi/centro-per-la-cultura/biblioteca/biblioteca-centrale-e-biblioteca-ragazzi
-node	13428665824	airbnb.com/h/sweethomebosa
+node	13428665824	https://www.airbnb.com/h/sweethomebosa
+node	13443811919	https://happysardiniatours.it
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2117,6 +2118,7 @@ way	148161152	https://www.itcgoggiano.edu.it/
 way	148161160	http://www.ic1siniscola.gov.it/icsiniscola/
 way	148652958	http://www.aslnuoro.it/index.php?xsl=21&s=3&v=9&c=625&esn=Primo+piano&na=1&n=50
 way	148652959	http://www.aslnuoro.it/index.php?xsl=21&s=3&v=9&c=626&esn=Primo+piano&na=1&n=50
+way	148770483	https://www.parrocchiasanteodoro.org
 way	149978987	https://www.sacadrea.it/
 way	151346841	https://www.aimontidelgennargentu.it/
 way	151519938	http://www.akhela.com
@@ -2403,6 +2405,7 @@ way	279270521	https://www.hotelvillalastronas.it/
 way	279271916	https://www.villamosca.it/
 way	279365533	https://agriturismocasteddu.com/
 way	279386425	https://www.campingsanteodoro.com
+way	279387377	https://www.parrocchiasanteodoro.org
 way	279388114	https://www.ristorantemiriacheddu.it/
 way	279399229	https://www.galluraturismo.eu/chiese-campestri-ad-ala-dei-sardi/
 way	279424755	https://nuraghedellagocoghinas.com
@@ -2443,7 +2446,6 @@ way	285340152	http://www.sardegnacultura.it/j/v/253?s=21048&v=2&c=2510&c1=2628&v
 way	285358029	http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/Contenuti/MibacUnif/Eventi/visualizza_asset.html_1388971669.html
 way	285941622	https://www.testonisrl.com/
 way	285961846	https://sassari.aci.it/
-way	285976028	http://www.centrosportivocanopoli.it/default.asp
 way	286753989	http://www.marinadiportomassimo.it/
 way	288235487	http://www.delfinoclub.com
 way	289634125	https://www.ianas.edu.it/
@@ -2934,6 +2936,8 @@ way	1457211208	http://www.accademiasironi.it/
 way	1458306656	https://www.eni.com/
 way	1460768398	https://rifugiogesubambino.it/
 way	1463904850	http://www.iisantoniosegni.gov.it/
+way	1464369828	https://www.iistcgdongavinopes.edu.it
+way	1465602617	http://www.centrosportivocanopoli.it/default.asp
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3332,6 +3336,7 @@ relation	6611769	http://www.parcodiportoconte.it/
 relation	6611770	http://www.parcodiportoconte.it/
 relation	6611771	http://www.parcodiportoconte.it/
 relation	6663926	https://www.sardegnaforeste.it/foresta/settefratelli-sinnai
+relation	6797131	https://domusnovas.nuraghesomuesorcu.com/
 relation	6797206	http://www.sardegnacultura.it/j/v/253?s=20734&v=2&c=2488&c1=2127&t=1
 relation	6797297	http://www.sardegnacultura.it/j/v/253?s=24785&v=2&c=2488&c1=2123&visb=&t=1
 relation	6798267	https://www.nuraghelosa.net/
@@ -3583,7 +3588,9 @@ relation	19650091	https://openclimbing.org/relation/19650091
 relation	19663362	https://openclimbing.org/relation/19663362
 relation	19663363	https://openclimbing.org/relation/19663363
 relation	20000530	https://www.unionecoros.it/perledelcoros/usini/corte-di-casa-diaz/
-relation	20044384	https://www.sardegnasentieri.it/node/4811
+relation	20048810	https://www.sardegnasentieri.it/sentiero/centro-abitato-di-jerzu-localita-porcu-e-ludu-c-206
+relation	20051032	https://www.sardegnasentieri.it/node/4811
+relation	20051994	https://www.sardegnasentieri.it/node/3881
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -3756,7 +3763,6 @@ node	5197551530	http://www.pedramanna.it
 node	5197551531	http://www.pedramanna.it
 node	5197599682	http://www.larosadeiventiristorante.com
 node	5198022489	http://www.villaggioturas.it
-node	5222367628	http://web.tiscali.it/ristorantesanlorenzo/
 node	5230894215	http://web.tiscali.it/agriturismomontalbo/
 node	5230894216	http://web.tiscali.it/agriturismomontalbo/
 node	5234820341	https://www.stefanodeidda.it
@@ -3834,6 +3840,7 @@ node	12912465900	https://www.parcoasinara.org/attivita/il-ceas-inara/
 node	13100179664	http://www.sardegnatermale.it
 node	13275206735	http://oliastefano.wixsite.com/ilmiosito
 node	13318933129	https://www.eccellentemente.it/
+node	13440439642	https://www.farmaciagaraubudoni.com
 way	27668357	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668458	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668483	http://arst.sardegna.it/orari_e_autolinee/TPL.html
@@ -4386,6 +4393,7 @@ way	1110236051	http://www.treninoverde.com/
 way	1115430376	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	1157785571	http://www.treninoverde.com/
 way	1157842325	http://www.treninoverde.com/
+way	1230075147	http://web.tiscali.it/ristorantesanlorenzo/
 way	1309604770	http://www.isolarossabosa.it
 way	1360863485	https://www.ictertenia.edu.it/
 way	1382100134	https://www.parkingo.com/it/parcheggio-aeroporto-cagliari-elmas
