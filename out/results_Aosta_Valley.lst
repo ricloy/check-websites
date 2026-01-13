@@ -9,158 +9,158 @@ MISSING_URI_SCHEME  <body>
 MISSING_URI_SCHEME  <head>
 MISSING_URI_SCHEME  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 MISSING_URI_SCHEME  <p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
+CLIENT_ERROR_(400…499) 400  http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 MISSING_URI_SCHEME  <p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2963295873 https://osm.org/browse/way/292792697 http://dondeynazgamba.com/home.html
-CLIENT_ERROR_(400…499) 400  http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/670537553 https://osm.org/browse/node/670537556 https://osm.org/browse/relation/517794 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206 → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670533689 https://osm.org/browse/relation/517389 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670537491 https://osm.org/browse/relation/517790 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202 → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670537581 https://osm.org/browse/node/670537582 https://osm.org/browse/node/670537583 https://osm.org/browse/node/670537586 https://osm.org/browse/relation/517797 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209 → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/670537553 https://osm.org/browse/node/670537556 https://osm.org/browse/relation/517794 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206 → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670537610 https://osm.org/browse/node/670537617 https://osm.org/browse/relation/517800 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323212 → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323212
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/670537633 https://osm.org/browse/relation/517803 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232C → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232C
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670537632 https://osm.org/browse/relation/517802 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232B → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232B
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/670537633 https://osm.org/browse/relation/517803 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232C → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232C
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517928 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517930 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517931 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517929 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517931 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517934 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517932 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670538722 https://osm.org/browse/relation/517933 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AF → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AF
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517934 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517938 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517939 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517940 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517943 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517941 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517942 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517940 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517944 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517942 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517945 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517943 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517946 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517950 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517947 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517949 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517950 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517954 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517951 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517952 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517953 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V
-REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517956 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517952 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517954 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517955 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517956 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y
 REDIRECTION_(300…399) 301 https://osm.org/browse/relation/517957 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/670539182 https://osm.org/browse/node/670539184 https://osm.org/browse/relation/518000 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608 → https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3578700663 http://hotelsaintnicolas.it/ → https://hotelsaintnicolas.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/5327637740 http://officine.puntopro.it/officina-laurent → https://officine.puntopro.it/officina-laurent
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2339014872 http://www.bachamp1826.com/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1885091082 http://www.bistrotramet.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/4118550098 http://www.alpenzu.com/ → https://www.alpenzu.com/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3784836248 http://www.casacountryarnad.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1885091082 http://www.bistrotramet.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/353049840 http://www.caitorino.it/ → https://www.caitorino.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3784836248 http://www.casacountryarnad.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/893997036 http://www.campingarvier.com/ → https://www.campingarvier.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/11253391257 http://maisondunoyer.com/ → https://www.maisondunoyer.com/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2302314344 http://www.dortoirlavyiyeehcoula.it/
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/1272066385 https://osm.org/browse/node/8821176197 https://osm.org/browse/node/8821176198 http://www.comune-challandsaintanselme.it → http://www.comune-challandsaintanselme.it/it-it/home
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/666335350 http://www.hoteldufoyer.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/81823894 https://osm.org/browse/way/243217275 http://www.cogne.com/ → https://www.cogne.com/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/1272066385 https://osm.org/browse/node/8821176197 https://osm.org/browse/node/8821176198 http://www.comune-challandsaintanselme.it → http://www.comune-challandsaintanselme.it/it-it/home
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2302314344 http://www.dortoirlavyiyeehcoula.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/1326399991 http://www.fortedimachaby.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/666335350 http://www.hoteldufoyer.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1777902774 https://osm.org/browse/node/1777902777 http://www.hotelgenzianella.it/ → https://www.hotelgenzianella.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/299232222 http://www.hotelleriedemascognaz.com/ → https://www.hotelleriedemascognaz.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/1326399991 http://www.fortedimachaby.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/3310419237 http://www.ilcaselloverres.com/ → https://thebest100hotels.com/il-casello-verre/?redireccion=5&ts=1767674134
+TIMEOUT https://osm.org/browse/node/11253391257 http://maisondunoyer.com/
+TIMEOUT https://osm.org/browse/node/5327637740 http://officine.puntopro.it/officina-laurent
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3310419237 http://www.ilcaselloverres.com/ → https://thebest100hotels.com/il-casello-verre/?redireccion=12&ts=1768278945
 OTHER_CURL_ERROR 52  https://osm.org/browse/node/2929169744 http://www.lecoindesmelezes.it
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3929064529 http://www.lepetitabri.com → https://www.lepetitabri.com/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/1353685312 http://www.locanda-lacplacemoulin.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/725271625 http://www.lovevda.it/it/banca-dati/22/agriturismo/valsavarenche/lo-mayen/9000701 → https://www.lovevda.it:443/it/banca-dati/22/agriturismo/valsavarenche/lo-mayen/9000701
+TIMEOUT https://osm.org/browse/node/4293296279 http://www.chamousira.net/home.html
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/401733377 http://www.lovevda.it/it/banca-dati/22/bed-breakfast/antey-saint-andre/outdoor/9004315 → https://www.lovevda.it:443/it/banca-dati/22/bed-breakfast/antey-saint-andre/outdoor/9004315
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3883252320 http://www.lovevda.it/it/banca-dati/22/bed-breakfast/gignod/clemaison/9005221 → https://www.lovevda.it:443/it/banca-dati/22/bed-breakfast/gignod/clemaison/9005221
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1836184412 http://www.marianivis.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/725271625 http://www.lovevda.it/it/banca-dati/22/agriturismo/valsavarenche/lo-mayen/9000701 → https://www.lovevda.it:443/it/banca-dati/22/agriturismo/valsavarenche/lo-mayen/9000701
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3723824746 http://www.maisongaudenzio.com/ → https://www.maisongaudenzio.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/4358940865 http://www.marmoval.it/default.asp → https://www.marmoval.it/default.asp
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1836184412 http://www.marianivis.com/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1930450200 http://www.ostellolacrestadellupo.it/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/365318454 http://www.parcofaunisticomontavic.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/103017128 http://www.hotelpetitfoyer.it → https://www.hotelpetitfoyer.it/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/4358940865 http://www.marmoval.it/default.asp
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/3544679306 https://osm.org/browse/way/331091609 http://www.montmars.it/ → https://www.montmars.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/103017128 http://www.hotelpetitfoyer.it → https://www.hotelpetitfoyer.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2186332685 http://www.residencecervino2.com
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/4358940866 http://www.pinetdelio.it/ → https://pinetdelio.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/120778651 http://www.residencedelapierre.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1288185322 http://www.rifugiobelvedere.net/ → https://www.rifugiobelvedere.net/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/353049825 http://www.rifugio-prarayer.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/147536904 http://www.rifugiobonatti.it/ → https://www.rifugiobonatti.it/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/353049844 http://www.rifugiocuney.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/353084260 http://www.rifugiodalmazzi.com/ → http://ww25.rifugiodalmazzi.com/?subid1=20260113-1535-5306-99af-6e4d385e04d1
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/147963960 http://www.rifugiobertone.it/wp/it/home/ → http://www.rifugiobertone.it/wp/fr/home/
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/353084260 http://www.rifugiodalmazzi.com/ → http://ww25.rifugiodalmazzi.com/?subid1=20260106-1535-415f-b4dd-f856ef572abc
 REDIRECTION_(300…399) 301 https://osm.org/browse/way/131413425 http://www.rifugiodellemarmotte.it → https://www.rifugiodellemarmotte.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/353083724 http://www.rifugioelena.it → https://www.rifugioelena.it:443/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/353049806 http://www.rifugioermitage.com/
 OTHER_CURL_ERROR 52  https://osm.org/browse/node/353085969 http://www.rifugiomontebianco.com/
-TIMEOUT https://osm.org/browse/node/4293296279 http://www.chamousira.net/home.html
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/229567128 http://www.rifugiomontfallere.it/ → https://www.rifugiomontfallere.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4131425462 http://www.rifugiomagia.it
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/61579198 http://www.rifugiosavoia.com/ → https://www.rifugiosavoia.com/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/229567128 http://www.rifugiomontfallere.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/way/295875967 http://www.rifugioteodulo.it → https://www.caitorino.it/rifugi/teodulo/
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3484473141 http://www.rus-arlaz-herbal.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/61579198 http://www.rifugiosavoia.com/ → https://www.rifugiosavoia.com/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2963161790 http://www.samsuffy.it/ → https://www.samsuffy.it/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/1483752218 http://www.studioantey.com
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3165214101 http://www.topopazzoclimbinghouse.com/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/1355487738 http://www.trattoriaomens.com → https://hydraulicservice.net/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1355487738 http://www.trattoriaomens.com → https://michisolana.org/
 FAILED_TO_CONNECT_TO_HOST https://osm.org/browse/node/2039958910 http://www.termedisaintvincent.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/node/1483752218 http://www.studioantey.com → https://www.studioantey.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/344525243 http://www.villagiuditta.eu
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/1768307866 http://www.vallee-sport.com/ → https://www.vallee-sport.com/
+TIMEOUT https://osm.org/browse/node/4358940866 http://www.pinetdelio.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/344525243 http://www.villagiuditta.eu
+TIMEOUT https://osm.org/browse/way/165077481 http://www.ponteromano.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670536202 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73176A → https://fiches-geodesie.ign.fr/fiches/pdf/73176A.pdf
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538701 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA → https://fiches-geodesie.ign.fr/fiches/pdf/73285AA.pdf
 SUCCESS_(200…299) 200 https://osm.org/browse/way/148853613 https://campingmontblanc.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538705 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB → https://fiches-geodesie.ign.fr/fiches/pdf/73285AB.pdf
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538701 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA → https://fiches-geodesie.ign.fr/fiches/pdf/73285AA.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538708 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC → https://fiches-geodesie.ign.fr/fiches/pdf/73285AC.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538711 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD → https://fiches-geodesie.ign.fr/fiches/pdf/73285AD.pdf
+SERVER_ERROR_(500…599) 502 https://osm.org/browse/node/670538725 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538714 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE → https://fiches-geodesie.ign.fr/fiches/pdf/73285AE.pdf
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538725 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG → https://fiches-geodesie.ign.fr/fiches/pdf/73285AG.pdf
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538738 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F → https://fiches-geodesie.ign.fr/fiches/pdf/73285F.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538741 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G → https://fiches-geodesie.ign.fr/fiches/pdf/73285G.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538748 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H → https://fiches-geodesie.ign.fr/fiches/pdf/73285H.pdf
-TIMEOUT https://osm.org/browse/way/165077481 http://www.ponteromano.it/
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538750 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I → https://fiches-geodesie.ign.fr/fiches/pdf/73285I.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538751 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J → https://fiches-geodesie.ign.fr/fiches/pdf/73285J.pdf
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538738 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F → https://fiches-geodesie.ign.fr/fiches/pdf/73285F.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538753 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L → https://fiches-geodesie.ign.fr/fiches/pdf/73285L.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538756 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M → https://fiches-geodesie.ign.fr/fiches/pdf/73285M.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538759 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N → https://fiches-geodesie.ign.fr/fiches/pdf/73285N.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538762 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O → https://fiches-geodesie.ign.fr/fiches/pdf/73285O.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538770 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P → https://fiches-geodesie.ign.fr/fiches/pdf/73285P.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538781 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R → https://fiches-geodesie.ign.fr/fiches/pdf/73285R.pdf
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538784 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S → https://fiches-geodesie.ign.fr/fiches/pdf/73285S.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538788 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T → https://fiches-geodesie.ign.fr/fiches/pdf/73285T.pdf
-SERVER_ERROR_(500…599) 502 https://osm.org/browse/node/670538800 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538784 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S → https://fiches-geodesie.ign.fr/fiches/pdf/73285S.pdf
+SERVER_ERROR_(500…599) 502 https://osm.org/browse/node/670538803 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538791 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U → https://fiches-geodesie.ign.fr/fiches/pdf/73285U.pdf
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538803 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W → https://fiches-geodesie.ign.fr/fiches/pdf/73285W.pdf
-SERVER_ERROR_(500…599) 502 https://osm.org/browse/node/670538804 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538800 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V → https://fiches-geodesie.ign.fr/fiches/pdf/73285V.pdf
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538804 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X → https://fiches-geodesie.ign.fr/fiches/pdf/73285X.pdf
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538805 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y → https://fiches-geodesie.ign.fr/fiches/pdf/73285Y.pdf
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/12396204338 https://latteriadelmonterosa.com/shop.php
-SUCCESS_(200…299) 200 https://osm.org/browse/node/12194508770 https://matteo-giglio.blogspot.com/2012/05/pilier-rhodo-nuovo-spot-trad-in-valle.html
 REDIRECTION_(300…399) 302 https://osm.org/browse/node/670538806 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z → https://fiches-geodesie.ign.fr/fiches/pdf/73285Z.pdf
-SUCCESS_(200…299) 200 https://osm.org/browse/way/154481659 https://rifugioalpebonze.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12194508770 https://matteo-giglio.blogspot.com/2012/05/pilier-rhodo-nuovo-spot-trad-in-valle.html
+FAILED_TO_CONNECT_TO_HOST https://osm.org/browse/node/12921922098 https://royaldrivingexperience.com
 SUCCESS_(200…299) 200 https://osm.org/browse/node/353049781 https://rifugioarp.com/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/154481659 https://rifugioalpebonze.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10009106269 https://sketchfab.com/models/2c86a2c99925485f9416bb4cb2512495/embed?autospin=0.2&autostart=1
-SUCCESS_(200…299) 200 https://osm.org/browse/node/12098866558 https://sketchfab.com/models/305748fdaf834a3ea36c6e1a72378e96/embed?autospin=0.2&autostart=1
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10009106270 https://sketchfab.com/models/79c2547fa3964d72802c2815624fc5db/embed?autospin=0.2&autostart=1
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12097484461 https://sketchfab.com/models/7c59d140eed94ac6b55b527c8c7a431e/embed?autospin=0.2&autostart=1
-SUCCESS_(200…299) 200 https://osm.org/browse/node/12921922098 https://royaldrivingexperience.com
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12098866558 https://sketchfab.com/models/305748fdaf834a3ea36c6e1a72378e96/embed?autospin=0.2&autostart=1
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12098897508 https://sketchfab.com/models/c839ced2aeca4767b36b1d6d4b208473/embed?autospin=0.2&autostart=1
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10009106271 https://sketchfab.com/models/942a965bc4a94f0281f4db1e5e423ebd/embed?autospin=0.2&autostart=1
-SUCCESS_(200…299) 200 https://osm.org/browse/node/4316721857 https://www.airbnb.it/rooms/5611772?s=xfKY
-SUCCESS_(200…299) 200 https://osm.org/browse/way/60813251 https://www.abitarelestremo.it/la-casermetta-eng/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/8912126919 https://www.alcaminettosemon.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/13158296094 https://www.armand.it
 TIMEOUT https://osm.org/browse/node/1726355073 http://www.tuodi.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4316721857 https://www.airbnb.it/rooms/5611772?s=xfKY
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/16653970 https://www.aostavalleybiking.com/ciclovia-cervino/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/60813251 https://www.abitarelestremo.it/la-casermetta-eng/
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/16619194 https://www.aostavalleybiking.com/ciclovia-becca-daver/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/13158296094 https://www.armand.it
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3863346956 https://www.facebook.com/Corpo-Valdostano-Vigili-del-Fuoco-Volontari-di-Pont-Saint-Martin-371874182125/ → https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FCorpo-Valdostano-Vigili-del-Fuoco-Volontari-di-Pont-Saint-Martin-371874182125%2F
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/3278397850 https://www.facebook.com/pages/Appartamenti-Valley-Vacanze-Brusson-Valle-dAosta
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/15880628 https://www.diocese-annecy.fr/le-diocese/les-paroisses/paroisse-saint-bernard-du-mont-blanc
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/14059755 https://www.diocese-annecy.fr/
-CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/3278397850 https://www.facebook.com/pages/Appartamenti-Valley-Vacanze-Brusson-Valle-dAosta
-REDIRECTION_(300…399) 302 https://osm.org/browse/node/3863346956 https://www.facebook.com/Corpo-Valdostano-Vigili-del-Fuoco-Volontari-di-Pont-Saint-Martin-371874182125/ → https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FCorpo-Valdostano-Vigili-del-Fuoco-Volontari-di-Pont-Saint-Martin-371874182125%2F
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/16619194 https://www.aostavalleybiking.com/ciclovia-becca-daver/
-SUCCESS_(200…299) 200 https://osm.org/browse/relation/16653970 https://www.aostavalleybiking.com/ciclovia-cervino/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/7021611885 https://www.locandaurbana.it
-SUCCESS_(200…299) 200 https://osm.org/browse/way/126610973 https://www.ferrate365.it/vie-ferrate/ferrata-covarey/
 OTHER_CURL_ERROR 92  https://osm.org/browse/node/3290454777 https://www.hotelgparadiso.com
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/126610973 https://www.ferrate365.it/vie-ferrate/ferrata-covarey/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/7021611885 https://www.locandaurbana.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12920060600 https://www.gdf.gov.it/it/reparti-del-corpo/valle-daosta/valle-daosta/stazione-sagf-entreves
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8912126919 https://www.alcaminettosemon.it/
 REDIRECTION_(300…399) 301 https://osm.org/browse/node/2400501571 https://www.loutchappe.it/ → https://loutchappe.it/
 SAME_DOMAIN_REDIRECTION_(300…399) 301 https://osm.org/browse/way/325870330 https://www.montebianco.com → /it
 SUCCESS_(200…299) 200 https://osm.org/browse/node/2906929778 https://www.pensionemontecervino.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/11173970513 https://www.lovevda.it/it/banca-dati/13/mercati-settimanali/gressoney-saint-jean/mercato-di-gressoney-saint-jean-giovedi/126
-SUCCESS_(200…299) 200 https://osm.org/browse/node/353049833 https://www.rifugioaosta.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/60356684 https://www.rifugioguidedelcervino.com/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/353049833 https://www.rifugioaosta.com/
 CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/11305460568 https://www.thefork.it/ristorante/osteria-mansio-1695-r579361
 SUCCESS_(200…299) 200 https://osm.org/browse/node/4141060073 https://www.roteskalb.it/
 MISSING_URI_SCHEME https://osm.org/browse/node/4895210542 www.acqualifesnc.com
@@ -175,6 +175,6 @@ MISSING_URI_SCHEME https://osm.org/browse/node/353049803 www.rifugioguidefrachey
 MISSING_URI_SCHEME https://osm.org/browse/way/125447845 www.rifugiorionde.it
 MISSING_URI_SCHEME https://osm.org/browse/way/58526794 www.rifugiovittorioemanuele.com
 MISSING_URI_SCHEME https://osm.org/browse/node/1288184982 www.stadelsoussun.com
+SUCCESS_(200…299) 200 https://osm.org/browse/way/60356684 https://www.rifugioguidedelcervino.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/161482846 https://www.parrocchiasantamargheritaentreves.it
 SUCCESS_(200…299) 200 https://osm.org/browse/way/144122539 https://www.vmao.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/node/12920060600 https://www.gdf.gov.it/it/reparti-del-corpo/valle-daosta/valle-daosta/stazione-sagf-entreves
