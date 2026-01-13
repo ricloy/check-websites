@@ -5,166 +5,525 @@ charset=utf-8" lang="en"/>	-1
 </body>	-1		
 </head>	-1		
 </html>	-1		
-<?xml version="1.0" encoding="UTF-8"?>	-1		
 <body>	-1		
 <head>	-1		
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">	-1		
-http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	0	400	
 <p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>	-1		
 <p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>	-1		
 http://asigogna.com/	6		
-http://icsmb.gov.it	6		
-http://rifugiolacucciaimperia.blogspot.it/	0	302	http://rifugiolacucciaimperia.blogspot.com/
-http://parconaturalealpiliguri.it	0	301	https://parconaturalealpiliguri.it/
+http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	0	400	
+http://caipallanzapercorsi.altervista.org/PercorsiVCO/SVA/SVA-FTP.kml	0	403	
 http://campeggiotrigoso.it/	0	200	
+http://digilander.libero.it/stedgl13/pennone.htm	0	301	https://digilander.libero.it/stedgl13/pennone.htm
+http://genova.webguide.it/webcam.php?i=30	0	404	
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023F	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023F
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023G	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023G
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023H	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023H
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023I	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023I
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023J	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023J
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023L	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023L
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023R	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023R
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023S	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023S
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023T	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023T
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023U	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023U
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023V	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023V
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023W	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023W
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023X	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023X
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023Y	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023Y
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023Z	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023Z
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0603501	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0603501
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0608302	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0608302
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0613208	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0613208
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06132A	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06132A
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06132B	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06132B
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06132C	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06132C
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0613608	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0613608
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136K	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136K
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136L	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136L
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136M	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136M
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136N	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136N
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136O	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136O
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136P	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136P
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162L	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162L
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162M	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162M
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162N	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162N
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162O	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162O
+http://icsmb.gov.it	6		
+http://iplom.it/	0	301	https://iplom.it/
+http://it-it.facebook.com/eden-arenzano-207859969255782/	0	301	https://it-it.facebook.com/eden-arenzano-207859969255782/
+http://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_di_Castello	0	301	https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_di_Castello
+http://it.wikipedia.org/wiki/File:Porta_pila_genova.JPG	0	301	https://it.wikipedia.org/wiki/File:Porta_pila_genova.JPG
+http://montebeigua.altervista.org/	6		
+http://parconaturalealpiliguri.it	0	301	https://parconaturalealpiliguri.it/
+http://37.207.194.154/ware/schedaigm95.php?id=2419	28		
+http://87.30.244.175/ware/schedaigm95.php?id=6245	28		
+http://rifugiolacucciaimperia.blogspot.it/	0	302	http://rifugiolacucciaimperia.blogspot.com/
+http://cvcogoleto.dyndns.org/cgi-bin/guestimage.html	28		
+http://wap.comune.genova.it/detail.html?contentId=2427&section=offices	6		
+http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network	0	301	https://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
 http://suoreminime.it/	0	301	https://suoreminime.it/
+http://retelimet.centrometeoligure.it/meteo-cipolla/webcam/current.jpg	0	301	https://retelimet.centrometeoligure.it/meteo-cipolla/webcam/current.jpg
+http://www.agenziabozzo.it/Ita/WebCam.shtm	0	200	
+http://www.agriturismoilrifugio.it	0	200	
+http://www.agueta.it	0	301	https://www.agueta.it/
+http://www.altaviacmargentea.net/ospitalita/ripari.shtml	6		
+http://www.albergoligure.it/	6		
+http://quezzimeteo.altervista.org/immagini/capture1.jpg	0	404	
+http://www.acts.it/	0	301	https://www.acts.com/
+http://www.altaviadeimontiliguri.it/portale/it/meteocam_data.wp?postazione=beigua	0	301	https://www.altaviadeimontiliguri.it/portale/it/meteocam_data.wp?postazione=beigua
+http://www.amt.genova.it/orari/orari.asp	0	301	https://www.amt.genova.it/orari/orari.asp
+http://www.amt.genova.it/rete_e_orari/ascensori.asp	0	301	https://www.amt.genova.it/rete_e_orari/ascensori.asp
+http://www.amt.genova.it/orari/orari_urbana.asp?linea=I22	0	301	https://www.amt.genova.it/orari/orari_urbana.asp?linea=I22
+http://www.amt.genova.it/orari/orari_urbana.asp	0	301	https://www.amt.genova.it/orari/orari_urbana.asp
+http://www.amt.genova.it/rete_e_orari/funicolari.asp	0	301	https://www.amt.genova.it/rete_e_orari/funicolari.asp
+http://www.amt.genova.it/rete_e_orari/navebus.asp	0	301	https://www.amt.genova.it/rete_e_orari/navebus.asp
+http://www.atlassib.it	0	200	
+http://www.archivolto.it/	0	403	
+http://www.anticaosteriacampenave.it	28		
+http://www.atp-spa.it	28		
 http://www.autogrill.it/portal/public/default	0	301	https://www.autogrill.it/portal/public/default
+http://www.atp-spa.it/	28		
+http://www.atp-spa.it/cartina.php	28		
+http://www.bagnisilvano.it/webcam.htm	0	200	
+http://www.autostradale.it/	0	301	https://autostradale.it/
 http://www.bbgiutte.it	0	301	https://www.bbgiutte.it/
-http://www.celtorretta.it/	0	301	https://www.celtorretta.it/
-http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370	0	301	https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
-http://www.casadellarosa.it/	0	200	
+http://www.bicincitta.com/citta_v3.asp?id=33&pag=1	0	302	https://www.bicincitta.com
+http://www.bicincitta.com/	0	302	https://www.bicincitta.com
+http://www.bicincitta.com/frmLeStazioniComune.aspx?ID=175	0	302	https://www.bicincitta.com
+http://www.bmsport.it/bmsport/	0	301	https://www.bmsport.it/bmsport/
+http://www.busalla.altervista.org/	0	200	
+http://www.bruxaboschi.it/	0	200	
 http://www.campingfossalupara.it/	0	200	
-http://www.creamcafe.altervista.org/index.html	6		
-http://www.donmilanicolombo.it	6		
+http://www.casa-aurora.com/	0	200	
+http://www.caravanparklavesima.it/index.php	0	301	https://www.caravanparklavesima.it/index.php
+http://www.casadellarosa.it/	0	200	
+http://www.catastogrotte.net/liguria/en/caves/view/205/	0	200	
+http://www.catastogrotte.net/liguria/en/caves/view/207/	0	200	
+http://www.catastogrotte.net/liguria/en/caves/view/2129/	0	200	
+http://www.catastogrotte.net/liguria/en/caves/view/24/	0	200	
+http://www.catastogrotte.net/liguria/en/caves/view/364/	0	200	
+http://www.celtorretta.it/	0	301	https://www.celtorretta.it/
+http://www.catastogrotte.net/liguria/en/caves/view/481/	0	200	
+http://www.cervara.it/	0	200	
+http://www.cicarudeclan.com/ita/a5_secco.htm	0	301	https://www.cicarudeclan.com/ita/a5_secco.htm
+http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=27969	0	302	https://chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=27969
+http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=28015	0	302	https://chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=28015
+http://www.cinemagenovacentro.it/	6		
+http://www.circuitocinemagenova.com/	0	301	https://www.circuitocinemagenova.com/
+http://www.cogoletoinfo.it/storia/fornaci/fornaci.htm	0	200	
+http://www.cittadinidigitali.com/notizie/comunicati/nove-piazze-nel-mare-di-internet-dove-i-genovesi-navigano-con-un-euro	0	404	
+http://www.cineclubnickelodeon.it/	0	301	https://www.cineclubnickelodeon.it/
+http://www.comune.rapallo.ge.it/interna_AT.asp?menu=316&id=318	0	301	https://www.comune.rapallo.ge.it/interna_AT.asp?menu=316&id=318
+http://www.comune.rapallo.ge.it/interna_AT.asp?menu=316&id=319	0	301	https://www.comune.rapallo.ge.it/interna_AT.asp?menu=316&id=319
+http://www.comune.santostefanodaveto.ge.it/	0	308	https://www.comune.santostefanodaveto.ge.it/
+http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370	0	301	https://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 http://www.coopillaboratorio.com/il-formicaio/	0	301	https://www.coopillaboratorio.it/
-http://www.ilcantinoneduepuntozero.it/	6		
-http://www.collinatorre.it/it/home	0	200	
+http://www.cartografiarl.regione.liguria.it/mapfiles/repertoriocartografico/CONFINI/56.asp?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3	28		
+http://www.creamcafe.altervista.org/index.html	6		
+http://www.covodinordest.net/	6		
+http://www.comuneisolabona.it/	0	200	
+http://www.donmilanicolombo.it	6		
+http://www.dolceacqua.it/	0	200	
+http://www.enahotel.it/	0	301	https://www.enahotel.it/
+http://www.firpo-buonarroti.it/	6		
+http://www.ferroviagenovacasella.it/	0	301	https://www.ferroviagenovacasella.it/
+http://www.fontanadellolmo.altervista.org/prezzi.html	0	403	
+http://www.croceverdequarto.it	0	301	https://www.croceverdequarto.it/
+http://www.galliera.it	0	301	https://www.galliera.it/
 http://www.gelateriagaggero.it	0	301	https://www.gelateriagaggero.it/
+http://www.genovameteo.it/webcam/video.jpg	0	301	https://www.genovameteo.it/webcam/video.jpg
+http://www.collinatorre.it/it/home	0	200	
+http://www.gnssliguria.it/pdf/BAJA.pdf	0	301	https://geoportal.regione.liguria.it/servizi/rete-gnss-liguria.html/pdf/BAJA.pdf
+http://www.gulliver.it/itinerario/12080/	0	403	
+http://www.genovacarsharing.it	28		
+http://www.genovacarsharing.it/	28		
+http://www.hoteleuropa-rapallo.com/it/	0	301	https://www.hoteleuropa-rapallo.com/it/
+http://www.gharenzano.it/	28		
+http://www.hotelfernanda.com/	52		
+http://www.hotelclaridgerapallo.it/	0	301	https://www.hotelclaridgerapallo.it/
+http://www.hotelpsm.it/	0	301	https://www.hotelpsm.it/
+http://www.hotelpuntabella.it	0	200	
+http://www.ilcantinoneduepuntozero.it/	6		
+http://www.hotel-giulio-cesare.it/	28		
+http://www.hotelmignonposta.it/	0	200	
 http://www.ilcerchiodellerelazioni.it/centro-mascherona/	0	301	https://www.ilcerchiodellerelazioni.it/centro-mascherona/
 http://www.ilcerchiodellerelazioni.it	0	301	https://www.ilcerchiodellerelazioni.it/
+http://www.hotelriviera-arenzano.it/	0	301	https://www.hotelrivieraarenzano.it/
+http://www.irolli.it/genova_unesco/palazzo/piazza_de_marini_1.html	0	301	https://www.irolli.it/genova_unesco/palazzo/piazza_de_marini_1.html
+http://www.irolli.it/genova_unesco/palazzo/piazza_grillo_cattaneo_1.html	0	301	https://www.irolli.it/genova_unesco/palazzo/piazza_grillo_cattaneo_1.html
+http://www.irolli.it/genova_unesco/palazzo/piazza_della_meridiana_2.html	0	301	https://www.irolli.it/genova_unesco/palazzo/piazza_della_meridiana_2.html
+http://www.irolli.it/genova_unesco/palazzo/piazza_san_bernardo_26.html	0	301	https://www.irolli.it/genova_unesco/palazzo/piazza_san_bernardo_26.html
+http://www.inps.it/bussola/visualizzadoc.aspx?sVirtuAlURL=/News/Camogli/index.htm&iIDDalPortale=4935&bLight=true	0	301	https://www.inps.it/bussola/visualizzadoc.aspx?sVirtuAlURL=/News/Camogli/index.htm&iIDDalPortale=4935&bLight=true
 http://www.lemacinedelconfluente.com/	0	301	https://www.lemacinedelconfluente.com/
+http://www.italiaelido.com/	0	301	https://www.italiaelido.com/
+http://www.lacasasulpoggio.it/	0	301	https://www.lacasasulpoggio.it/
+http://www.liguriawebcam.com/	0	200	
+http://www.liguriawebcam.com/genova/montefasce.jpg	0	200	
+http://www.lecaravelle.com/	0	200	
+http://www.liguriawebcam.com/genova/sturla.jpg	0	200	
+http://www.liguriawebcam.com/webcam_genova_nervi.asp	0	200	
 http://www.milleeunanotte.net/	0	301	https://www.milleeunanotte.net/
-http://www.museodellacanzone.it/	0	200	
+http://www.makogenova.com/	0	200	
+http://www.minihotelgenova.com/	0	301	https://www.minihotelgenova.net
 http://www.marinaportoantico.it/	0	301	https://marinaportoantico.it/
+http://www.miramare-hotel.it/	6		
+http://www.museidigenova.it/spip.php?rubrique27	0	301	https://www.museidigenova.it/spip.php?rubrique27
+http://www.museodellacanzone.it/	0	200	
 http://www.nauroz.com/	0	301	https://www.nauroz.com/
+http://www.musicforpeace.it	0	301	https://www.musicforpeace.it/
+http://www.nimbus.it/liguria/webcam.htm	0	301	https://www.nimbus.it/liguria/webcam.htm
 http://www.motonauticapagliettini.it	0	200	
 http://www.palabeachvillage.it/	6		
-http://www.musicforpeace.it	0	301	https://www.musicforpeace.it/
-http://www.croceverdequarto.it	0	301	https://www.croceverdequarto.it/
+http://www.nuovorifugioallavena.it/	0	301	https://www.nuovorifugioallavena.it/
 http://www.officineiadr.com	0	200	
-http://www.rivieratrasporti.it/	0	301	https://www.rivieratrasporti.it/
-http://www.sushi-si.it/	6		
+http://www.palazzomorali.com/	0	301	https://www.palazzomorali.com/
+http://www.piccolacittaimmacolata.it/	6		
+http://www.parcoportofino.it/	0	301	https://www.parcoportofino.it/
 http://www.parcomarguareis.it/	0	301	https://www.parcomarguareis.it/
-http://www.sonnodautore.it/	0	200	
-http://www.ulivoeilmare.it	0	200	
-http://www.vivisol.it/	0	301	https://www.vivisol.it:443/
+http://www.portofinoevents.com/webcamfoto/portofino.jpg	0	301	https://www.portofinoevents.com/webcamfoto/portofino.jpg
+http://www.poggiohotel.it/	0	301	https://www.poggiohotel.it/
 http://www.piccolovallega.it/	0	301	https://piccolovallega.it/
+http://www.rifugioantola.com/	0	301	https://www.rifugioantola.com/
+http://www.rifugiodelbocco.it/	0	301	https://www.rifugiodelbocco.it/
+http://www.rifugiomonteaiona.it/	6		
+http://www.ristorantedalmoro.com	6		
+http://www.montagnapertutti.it/roccia/arrampicate/liguria/rocca_fo/rocca_fo.php	0	200	
+http://www.rivieratrasporti.it/	0	301	https://www.rivieratrasporti.it/
+http://www.rivieratrasporti.it/ShowOrari.asp	0	301	https://www.rivieratrasporti.it/ShowOrari.asp
+http://www.savonacarsharing.it	6		
+http://www.realdovive.it	0	301	http://realdovive.it/
+http://www.smomge.org/	0	403	
+http://www.robadatori.it/images/climbing/magg_vie.jpg	0	404	
+http://www.sonnodautore.it/	0	200	
+http://www.starhotels.com/	0	301	https://www.starhotels.com/current/setuserlanguage.php
+http://www.stefanome.it/tar_cen.htm	0	404	
+http://www.statturismo.com/autolinee.asp/p/0	0	301	https://www.gruppostat.com/autolinee-noleggi/autolinee.asp/p/0
+http://www.stefanome.it/tar_lev.htm	0	404	
+http://www.stefanome.it/tar_pon.htm	0	404	
+http://www.sushi-si.it/	6		
+http://www.trattoriadelliberale.com	6		
+http://www.toiranogrotte.it/	0	301	https://www.toiranogrotte.it/
+http://www.tpllinea.it/	0	301	https://www.tpllinea.it/
+http://www.portofinokulm.it/	28		
+http://www.tu6genova.it/ServiziInfo/immagine.asp?img=/immagini/12.jpg	28		
+http://www.tu6genova.it/ServiziInfo/immagine.asp?img=/immagini/15.jpg	28		
+http://www.tu6genova.it/ServiziInfo/immagine.asp?img=/immagini/16.jpg	28		
+http://www.tu6genova.it/ServiziInfo/immagine.asp?img=/immagini/17.jpg	28		
+http://www.tu6genova.it/ServiziInfo/immagine.asp?img=/immagini/19.jpg	28		
+http://www.tu6genova.it/ServiziInfo/immagine.asp?img=/immagini/20.jpg	28		
+http://www.tu6genova.it/ServiziInfo/immagine.asp?img=/immagini/21.jpg	28		
+http://www.tu6genova.it/ServiziInfo/immagine.asp?img=/immagini/26.jpg	28		
+http://www.tu6genova.it/ServiziInfo/immagine.asp?img=/immagini/28.jpg	28		
+http://www.tu6genova.it/immagini/11.jpg	28		
+http://www.tu6genova.it/immagini/33.jpg	28		
+http://www.turbolic2.altervista.org/f24h3/webcam.php	0	200	
+http://www.ulivoeilmare.it	0	200	
+http://www.villamarosa.it/	0	301	https://www.villamarosa.it/
 http://www.villaggiointernazionale.blog/	0	200	
+http://www.villarosetta.it/ita/index.asp	6		
+http://www.villaluisarapallo.it/	0	200	
+http://www.villapagoda.it/	0	200	
+http://www.vivisol.it/	0	301	https://www.vivisol.it:443/
+http://www.tu6genova.it/immagini/7.jpg	28		
+http://www.volpibus.com/orari.asp/l/8	0	301	https://www.gruppostat.com/autolinee-noleggi/orari.asp/l/8
+http://www.yiweiartrestaurant.com/	6		
+http://www1.agenziaentrate.gov.it/servizi/Monografie/risultato.php?provincia=IMPERIA&comune=SAN%20REMO&co=I138	0	302	https://www1.agenziaentrate.gov.it/servizi/Monografie/risultato.php?provincia=IMPERIA&comune=SAN%20REMO&co=I138
+http://www.wimove.it	0	200	
 https://aromiconcentrati.it	0	200	
-https://claspesto.com	0	200	
 https://campingcostabella.it/	0	200	
-https://colorificiogenova.it/	0	503	
+http://www.vincolimap.it/img/rete_raff7km_igm95_monogr/c_009.pdf	28		
+http://www.vincolimap.it/img/rete_raff7km_igm95_monogr/c_010.pdf	28		
 https://campinglaghetti.it/	0	200	
-https://elettrosecuritysrl.it/	0	200	
+https://claspesto.com	0	301	https://www.gruppoladoria.it/
 https://campingmaremonti.com/	0	200	
-https://garagesanroccofirriolo.trovaweb.net/	60		
+https://climbook.com/falesie/9691/la-cava-toirano-placca-dellartista	0	200	
+https://anagrafe.iccu.sbn.it/isil/IT-GE0453	28		
+https://climbook.com/falesie/9721/la-cava-toirano-litigometro	0	200	
+https://coinatmradar.com/bitcoin_atm/11675/bitcoin-atm-shitcoins-club-genova-shitcoinsclub/	0	403	
+https://climbook.com/falesie/9731/la-cava-toirano-placca-rosa	0	200	
+https://climbook.com/falesie/9761/la-cava-toirano-cristalliera	0	200	
+https://colorificiogenova.it/	0	503	
+https://circuitocinemagenova.com/america/	0	200	
+https://elettrosecuritysrl.it/	0	200	
+https://emporioceresola.it/	35		
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023J	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023J.pdf
 https://fablabimperia.org/	0	200	
-https://immobiliaresegalerba.it/	0	200	
-https://imperia.sebina.it/opac/.do	0	200	
-https://gruppodomusre.it	0	200	
-https://kokoart.it/	0	200	
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023L	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023L.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023R	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023R.pdf
 https://costalunga.org/	0	200	
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023G	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023G.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023S	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023S.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023T	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023T.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023U	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023U.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023V	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023V.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023W	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023W.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023X	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023X.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023Y	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023Y.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06132A	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06132A.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06023Z	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06023Z.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06132C	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06132C.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136K	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06136K.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0613608	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/0613608.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136O	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06136O.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06136P	0	302	https://fiches-geodesie.ign.fr/fiches/
+https://garagesanroccofirriolo.trovaweb.net/	60		
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06132B	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06132B.pdf
+https://genova.repubblica.it/cronaca/2020/03/18/news/al_castello_d_albertis_ritorna_a_posto_il_mondo-251619155/	0	200	
+https://fondoambiente.it/luoghi/antico-acquedotto-della-famiglia-maglione	0	200	
+https://immobiliaresegalerba.it/	0	200	
+https://kokoart.it/	0	200	
+https://gruppodomusre.it	0	200	
+https://imperia.sebina.it/opac/.do	0	200	
 https://labaiadeigabbiani.it/	0	200	
-https://negozi.libraccio.it/	0	200	
 https://it.wikipedia.org/wiki/Batteria_di_Punta_Chiappa	0	200	
 https://locandaupega.com/campeggio/	0	200	
+https://negozi.libraccio.it/	0	200	
 https://pokesunrice.com/	0	200	
 https://osteriadellacquasanta.com	0	200	
-https://savona.ubiklibri.it/	0	301	https://www.ubiklibri.it/librerie/ubik-savona
-https://portodiarenzano.it	0	301	https://www.portodiarenzano.it/
 https://minervasoluzioni.it/	0	200	
+https://portodiarenzano.it	0	301	https://www.portodiarenzano.it/
+https://savona.ubiklibri.it/	0	301	https://www.ubiklibri.it/librerie/ubik-savona
+https://sketchfab.com/models/8e4014d52e70464ab7fd7cf6c632551f/embed?autospin=0.2&autostart=1	0	200	
 https://shop.spesaespesa.com/shop/parafarmacia-santermete	0	200	
 https://victoriagenoa.com/	0	200	
-https://pizzeriasenese.it/	0	200	
 https://www.adecco.it/trova-agenzie/imperia-imperia-adit_0160/	0	301	https://www.adecco.com/it-it/filiali/liguria/imperia/adecco
-https://www.adm.gov.it/portale/dt-liguria-piemonte-valledaosta/-/adm/deleteCookies?p_auth=tReLpgtB	0	403	
-https://www.abruzzese.it/	0	200	
-https://www.alliancemedical.it/	0	200	
+https://pizzeriasenese.it/	0	200	
 https://www.aikikai-imperia.it/	0	200	
+https://www.abruzzese.it/	0	200	
+https://www.agenziacasavacanza.it	0	200	
+https://www.adm.gov.it/portale/dt-liguria-piemonte-valledaosta/-/adm/deleteCookies?p_auth=tReLpgtB	0	403	
+https://www.alliancemedical.it/	0	200	
 https://www.ambulatoriocavallini.com/	0	200	
+https://www.amt.genova.it/amt/trasporto-multimodale/linee-bus-provinciali/	0	200	
+https://www.albaretto.it/	0	200	
 https://www.asl3.liguria.it/ospedali/gallino-pontedecimo.html	0	200	
 https://www.asl3.liguria.it/ospedali/micone-sestri-ponente.html	0	200	
-https://www.agenziacasavacanza.it	0	200	
-https://www.autoscuolegruppozena.com/	0	301	https://autoscuolegruppozena.com/
-https://www.bluebeachbungalows.com/	0	200	
-https://www.booking.com/hotel/it/bungalow-camping-rivamare.it.html?aid=7974236	0	301	https://www.booking.com/hotel/it/bungalow-camping-rivamare.it.html
+https://www.atpesercizio.it/cartina2.php?sez=M	60		
+https://www.atpesercizio.it/cartina2.php?sez=TOr	60		
 https://www.bestsushi.it/best-sushi-coming-soon-savona/	0	404	
+https://www.autoscuolegruppozena.com/	0	301	https://autoscuolegruppozena.com/
+https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/193-bi19-ciclovia-tirrenica	0	200	
+https://www.bluebeachbungalows.com/	0	200	
+https://www.booking.com/hotel/it/casa-da-gina.it.html	0	202	
+https://www.booking.com/hotel/it/bungalow-camping-rivamare.it.html?aid=7974236	0	301	https://www.booking.com/hotel/it/bungalow-camping-rivamare.it.html
+https://www.caduchittu.com/	0	200	
+https://www.associazione1429.com/	0	200	
 https://www.bluvacanze.it	0	301	https://bluvacanze.it/
 https://www.bper.it/scheda-filiale/-/filiale/liguria/imperia/agenzia-22068	0	200	
 https://www.calunae.com	0	200	
 https://www.campingbracchettovetta.com/	0	200	
-https://www.caduchittu.com/	0	200	
 https://www.campinglapergola.net/	0	200	
 https://www.campeggiooasi.it/	0	200	
+https://www.campingcharly.it	0	301	https://www.campingcharly.it/it/
 https://www.campingleo.it/	0	200	
 https://www.campinglasfinge.com/	0	200	
-https://www.campingpfirsich.it/	0	200	
 https://www.cartieragrillo.net/	0	301	https://www.cartieragrillo.net/index.php/it/
-https://www.campingrustia.it/	0	301	https://www.campingrustia.it/it/
-https://www.centrolunasarzana.it/negozi/lavanderia-1h-clean/	0	403	
-https://www.centrolunasarzana.it/negozi/percento/	0	403	
-https://www.centrolunasarzana.it/negozi/mumble-mumble/	0	403	
+https://www.campingpfirsich.it/	0	200	
+https://www.centrolunasarzana.it/negozi/lavanderia-1h-clean/	0	200	
+https://www.centrolunasarzana.it/negozi/mumble-mumble/	0	200	
 https://www.cmpsport.com/it/	0	200	
 https://www.cibiamo.it/	0	302	./site
+https://www.centrolunasarzana.it/negozi/percento/	0	200	
+https://www.comune.carro.sp.it/	0	404	
 https://www.comini.eu/borea/privati/showrooms/imperia-showroom	0	404	
+https://www.comune.castiglione-chiavarese.ge.it/	0	404	
+https://www.comune.castiglione-chiavarese.ge.it/vivere_il_comune/luoghi/luogo_8.html	0	200	
+https://www.comune.mezzanego.ge.it/	0	404	
 https://www.comune.sanlorenzoalmare.im.it/Luoghi?ID=604	0	200	
+https://www.campingrustia.it/	0	301	https://www.campingrustia.it/it/
 https://www.danjohn.com	0	301	https://danjohn.com/
 https://www.comune.sanlorenzoalmare.im.it/Luoghi?ID=657#Modalitaaccesso	0	200	
-https://www.easydepot.it	0	301	https://easydepot.it/
+https://www.dannetta.it/artemisia.htm	0	200	
 https://www.dentalpro.it	0	200	
+https://www.easydepot.it	0	301	https://easydepot.it/
 https://www.duerrecentromedico.it	0	200	
-https://www.erbolario.com/	0	103	
 https://www.equiparafarmacie.it/storelocator/store/index/source_code/parafarmacia_sarzana/	0	200	
+https://www.erbolario.com/	0	103	
+https://www.esselunga.it/cms/area-stampa/comunicati/2020/12/esselunga-apre-a-genova.html	0	301	https://www.esselunga.it/it-it/area-stampa/comunicati.html
 https://www.essevuelettronica.it/	0	200	
 https://www.fabianigioiellerie.com/	0	103	
+https://www.facebook.com/Bar-tabacchi-Ideal-1160302900658315/	0	302	https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FBar-tabacchi-Ideal-1160302900658315%2F
 https://www.eurospin.it/punti-vendita/diano-castello-via-diano-san-pietro/	0	200	
+https://www.facebook.com/Cremeria-delle-Gardenie-264002967130706/	0	302	https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FCremeria-delle-Gardenie-264002967130706%2F
+https://www.facebook.com/Traditional-Tattoo-Studio-194760027215945/	0	302	https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FTraditional-Tattoo-Studio-194760027215945%2F
+https://www.facebook.com/barmagicrivatrigoso/	0	302	https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbarmagicrivatrigoso%2F
+https://www.facebook.com/blubar.rivatrigoso	0	302	https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fblubar.rivatrigoso
+https://www.finaleoutdoor.com/en/trails-walls/anello-delle-cormore	0	404	
+https://www.finaleoutdoor.com/en/trails-walls/aleluia	0	301	https://www.finaleoutdoor.com/en/trails-walls/aleluya
+https://www.finaleoutdoor.com/en/trails-walls/anello-degli-avioai	0	404	
+https://www.finaleoutdoor.com/en/trails-walls/acquedotto	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/asinolla-uphill	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/armuin	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/avioai	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/benevento-beeches	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/black-mamba	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/ca-bianca	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/cadotto	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/campogrande-san-rocco	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/case-del-fungo-giogo-di-toirano-e-san-nicolo	0	404	
+https://www.finaleoutdoor.com/en/trails-walls/carbonera	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/carmo-per-sempre	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/cnc	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/collegamento-vilmar	0	404	
+https://www.finaleoutdoor.com/en/trails-walls/cromagnon	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/cormore	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/cuore-di-cervo	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/dog-eat-dog	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/fedele-alla-linea	0	301	https://www.finaleoutdoor.com/en/trails-walls/true-to-the-line
+https://www.finaleoutdoor.com/en/trails-walls/finale-oltre	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/gabry	0	301	https://www.finaleoutdoor.com/en/trails-walls/gabri
+https://www.finaleoutdoor.com/en/trails-walls/fast-and-furious	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/foresto	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/green-river	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/il-rio-gambero	0	404	
+https://www.finaleoutdoor.com/en/trails-walls/hell-boy-part-1	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/hiroshima-mon-amour	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/hell-boy-part-2	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/il-vallone-di-muschieto	0	404	
+https://www.finaleoutdoor.com/en/trails-walls/le-foreste-dell-acquetta	0	404	
+https://www.finaleoutdoor.com/en/trails-walls/isallo-extasi	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/karma-trail	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/issalo	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/little-dog	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/little-champery	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/madonnina	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/margot	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/monte-grosso-uphill	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/mugugno	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/mulino	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/muro-nero	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/neanderthal	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/neverland	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/oltrefinale	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/oribago	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/oribago-2	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/otzi	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/pagliarina	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/pian-marino-cia	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/pian-marino-top	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/pino-morto	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/pianfieno	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/ranzi-uphill	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/rock-n-rolla	0	301	https://www.finaleoutdoor.com/en/trails-walls/rocknrolla
+https://www.finaleoutdoor.com/en/trails-walls/revenant	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/rose-di-pietra	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/ruote-di-pietra	0	301	https://www.finaleoutdoor.com/en/trails-walls/wheels-of-pietra
+https://www.finaleoutdoor.com/en/trails-walls/route-bella	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/sentiero-del-fieno	0	301	https://www.finaleoutdoor.com/en/trails-walls/hay-trail-sentiero-del-fieno
+https://www.finaleoutdoor.com/en/trails-walls/salite-di-livello-pt-1	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/stai-carmo	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/salite-di-livello-pt-2	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/strada-beretta	0	404	
+https://www.finaleoutdoor.com/en/trails-walls/strada-della-cava	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/strada-delle-gatelle	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/sugheri	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/titalana	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/trail-del-boccion	0	200	
+https://www.finaleoutdoor.com/en/trails-walls/vezzi-monte-mao	0	404	
+https://www.finaleoutdoor.com/en/trails-walls/vaixella	0	200	
 https://www.golfodellaluna.it	0	200	
 https://www.grandvision.it/it-it/trova-negozi/negozio?storeNumber=K041	0	200	
 https://www.gabetti.it/agenzia/imperia	0	200	
+https://www.gulliver.it/itinerari/telematica-falesia/	0	403	
 https://www.greenhouseanimali.it/	0	200	
 https://www.gruppoge.it/sedi/toyota-genova-vendita-assistenza-service-toyota/	0	200	
-https://www.campingcharly.it	28		
-https://www.hotelbobby.it	0	200	
 https://www.icboine-imperia.edu.it/luogo/scuola-primaria-a-magliano/	60		
 https://www.icboine-imperia.edu.it/luogo/scuola-materna-borgo-prino	60		
+https://www.hotelbobby.it	0	200	
 https://www.icboine-imperia.edu.it/luogo/scuola-primaria-r-vercesi	60		
 https://www.ilcashewficio.com/	0	103	
-https://www.gter.it/	0	200	
 https://www.ilfaggiocoop.it/struttura/residenza-protetta-rp-di-perinaldo/	0	200	
 https://www.ilsognoimmobiliare.it	0	301	https://ilsognoimmobiliare.it/
-https://www.lapietraelulivo-agricamping-pietraligure.com/	0	200	
 https://www.ilnostrocaffeonline.it/	0	200	
 https://www.imperiascacchi.it/	0	200	
+https://www.infoboulder.com/	0	200	
+https://www.lapietraelulivo-agricamping-pietraligure.com/	0	200	
+https://www.louisianajazz.it/	0	503	
 https://www.lollihotel.it/	0	200	
 https://www.maresport.it/maresport-porto-maurizio/	0	200	
-https://www.miodottore.it/francesca-casazza/logopedista/genova	0	200	
+https://www.gter.it/	0	200	
+https://www.menoventi.it	0	200	
 https://www.mullerbordighera.it	0	200	
+https://www.miodottore.it/francesca-casazza/logopedista/genova	0	200	
 https://www.nidoscuolaumbertoemargherita.it/	0	200	
 https://www.paginegialle.it/moneglia-ge/pizzerie/pizzeria-ciocco	0	403	
-https://www.menoventi.it	0	200	
-https://www.piandipicche.it/index.html	0	200	
 https://www.museodellorologio.it	0	200	
+https://www.museidigenova.it/it/castello-dalbertis-museo-delle-culture-del-mondo	0	200	
 https://www.oliorivieraligure.it/produttori/frantoio-ulivi-di-liguria/	0	200	
-https://www.ristorantealcambio-spotorno.it	6		
+https://www.prolococastiglionechiavarese.org	0	200	
+https://www.piandipicche.it/index.html	0	200	
 https://www.pizzeriamennella.it/	0	200	
-https://www.royalhotelsanremo.com/	0	200	
+https://www.rifugiopratomollo.it/	6		
+https://www.ristorantealcambio-spotorno.it	6		
 https://www.riccaeugenia.it/	0	200	
+https://www.ristorantebertin.it/	0	200	
+https://www.royalhotelsanremo.com/	0	200	
 https://www.stellamarinasavona.it/	0	200	
 https://www.rtimmobiliare.it	0	301	https://rtimmobiliare.it/
+https://www.settembrin.it/trattoria-settembrin-carasco/	0	200	
+https://www.thecrag.com/climbing/italy/albenga/area/1043434299	0	403	
+https://www.thecrag.com/climbing/italy/albenga	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/1043434371	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/1988070993	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/2773298784	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/2773299705	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/2773300506	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/2773300578	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/3039399888	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/3039400434	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/3039427959	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/3039428025	0	403	
 https://www.technipackgenova.com	0	200	
+https://www.thecrag.com/climbing/italy/albenga/area/3039431889	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/3039431823	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/3039431955	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/3039432021	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/3039434877	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/395951172	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/395962470	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/396601122	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448285872	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448298724	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448320231	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448322418	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448323243	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448323387	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448323459	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448324902	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448324974	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448326648	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/448328673	0	403	
+https://www.thecrag.com/climbing/italy/albenga/area/996592266	0	403	
+https://www.thecrag.com/de/klettern/italy/area/8592997416	0	403	
+https://www.thecrag.com/de/klettern/italy/finale-ligure/rocca-degli-uccelli	0	403	
+https://www.thecrag.com/en/climbing/italy/albenga/area/1003916943	0	403	
+https://www.thecrag.com/en/climbing/italy/albenga/area/396575046	0	403	
+https://www.thecrag.com/en/climbing/italy/albenga/area/6649998117	0	403	
+https://www.thecrag.com/en/climbing/italy/finale-ligure/avancorpo	0	403	
+https://www.thecrag.com/en/climbing/italy/finale-ligure/caprazoppa/area/1441686498	0	403	
+https://www.thecrag.com/en/climbing/italy/finale-ligure/rocca-dellorera	0	403	
+https://www.thecrag.com/en/climbing/italy/finale-ligure/rocca-di-perti/area/2013829896	0	403	
+https://www.thecrag.com/en/climbing/italy/finale-ligure/valle-aquila/area/1950858624	0	403	
+https://www.spaziocucinearreda.com/	0	200	
+https://www.tpllinea.it/	0	200	
 https://www.uildm.org/liguria	0	301	https://uildm.org/liguria
 https://www.tigullio.com/	0	200	
-https://www.spaziocucinearreda.com/	0	200	
 https://www.tim.it/	0	200	
-https://www.vitaecalicieforchette.it	60		
 https://www.vacanzissima.net/	0	301	https://vacanzissima.net/
+https://www.veladoc.it/	0	200	
+https://youtu.be/2PtkiSIoMjQ	0	303	https://www.youtube.com/watch?v=2PtkiSIoMjQ&feature=youtu.be
+https://youtu.be/XF0vgMXskpY?t=55	0	303	https://www.youtube.com/watch?t=55&v=XF0vgMXskpY&feature=youtu.be
+https://www.zenamare.com	0	200	
+https://youtu.be/brY7dwJeeks	0	303	https://www.youtube.com/watch?v=brY7dwJeeks&feature=youtu.be
 www.bbfiume.it	-1		
 www.camoglicase.it	-1		
+www.cartografia.regione.liguria.it	-1		
 www.cascinastra.it/	-1		
 www.cozzani.com	-1		
+www.grottediborgio.it	-1		
 www.magnanoenergierinnovabili.com	-1		
 www.possibile.com	-1		
 www.soccorsocinofiloliguria.org	-1		
+https://youtu.be/tGcvX5q98Wg	0	303	https://www.youtube.com/watch?v=tGcvX5q98Wg&feature=youtu.be
 https://www.vigilanzalavigile.it/	0	200	
-https://www.veladoc.it/	0	200	
-https://www.zenamare.com	0	200	
+https://www.vitaecalicieforchette.it	0	301	https://vitaecalicieforchette.it/
