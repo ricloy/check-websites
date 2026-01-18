@@ -5,12 +5,13 @@ charset=utf-8" lang="en"/>	-1
 </body>	-1		
 </head>	-1		
 </html>	-1		
-http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	0	400	
+<?xml version="1.0" encoding="UTF-8"?>	-1		
 <body>	-1		
 <head>	-1		
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">	-1		
 <p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>	-1		
 <p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>	-1		
+http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	0	400	
 https://casasantoro.it/it/,https://airbnb.com/h/casasantoro	0	301	https://www.casasantoro.it/it/,https://airbnb.com/h/casasantoro
 http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=105	28		
 http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=136	28		
@@ -18,59 +19,56 @@ http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=399	28
 http://alpostogiustopuntasecca.blogspot.it/2013/06/al-posto-giusto-punta-secca-con.html#_=_	0	302	http://alpostogiustopuntasecca.blogspot.com/2013/06/al-posto-giusto-punta-secca-con.html
 http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=410	28		
 http://cantunera.it/	0	200	
+http://antoniodapadova.ilbello.com/	0	200	
+http://fablabpalermo.org	0	301	https://fablabpalermo.org/415.shtml
 http://casamemoria.it/	0	301	https://www.casamemoria.it/
-http://fablabpalermo.org	0	301	https://fablabpalermo.org/
 http://giardinoemiro.altervista.org/	6		
 http://gruppoarena.it	0	301	https://gruppoarena.it:443/
 http://infocenter.me	0	200	
-http://laperlaneravacanze.it	0	200	
-http://laplayacamping.it/	0	302	https://laplayacamping.it/
+http://laperlaneravacanze.it	0	415	
+http://laplayacamping.it/	0	415	
 http://lecicasvacanze.altervista.org/	6		
-http://antoniodapadova.ilbello.com/	0	200	
-http://liceomazara.edu.it/	0	301	http://www.liceomazara.edu.it/
+http://ledunebeachclub.it/	0	415	
 http://masterchef-steak-house.business.site	0	404	
 http://moduliweb.enac.gov.it/Applicazioni/avioeli/Avio_04.asp?selaeroporto=32	0	302	https://moduliweb.enac.gov.it/Applicazioni/avioeli/Avio_04.asp?selaeroporto=32
-http://ledunebeachclub.it/	0	410	
+http://liceomazara.edu.it/	0	301	http://www.liceomazara.edu.it/
 http://ristorantesaro.it/	6		
 http://stelladimare.gooditaly.net/	6		
-http://ortobotanico.unict.it/	0	200	
 http://stores.ebay.it/Remember-Me-Game-Shop	0	301	https://stores.ebay.it/Remember-Me-Game-Shop
+http://tenutalacco.com/	0	415	
 http://trovanegozio.vodafone.it/	6		
-http://tenutalacco.com/	0	301	https://tenutalacco.com/
 http://web.tiscali.it/galleriadellafoto/	0	302	http://webspace.tiscali.it/
-http://www.annalisabuccellato.it/	6		
-http://www.anticoborgomarinaro.it/	6		
 http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=541	28		
 http://195.103.234.163/Applicazioni/avioeli/Avio_04.asp?selaeroporto=76	28		
+http://www.annalisabuccellato.it/	6		
+http://www.anticoborgomarinaro.it/	6		
 http://www.ateliermelody.com	0	200	
-http://www.bblatorredelsole.it	0	301	https://www.bblatorredelsole.it/
 http://www.avioclubsalemi.it/	0	500	
+http://www.agriturismoilranch.it/	0	200	
+http://www.bblatorredelsole.it	0	301	https://www.bblatorredelsole.it/
 http://www.beballapirrera.hellospace.net/	6		
 http://www.bccsanmichele.com/default.asp	6		
-http://www.agriturismoilranch.it/	0	200	
 http://www.campingdelcapo.it/	0	301	https://www.campingdelcapo.it/
 http://www.bibliotecamodica.it/	0	200	
-http://www.cantineforaci.com/	6		
-http://www.cantinecolombabianca.it/	0	302	http://www.colombabianca.com/
-http://www.cantinesanfrancesco.it	6		
-http://www.casadicureorestano.it	0	403	
 http://www.campinglapineta.it/italy/	0	200	
-http://www.caposcalambri.com/	0	301	https://www.caposcalambri.com/
-http://www.casaquasimodo.it/	0	301	https://www.casaquasimodo.it/
+http://www.cantineforaci.com/	6		
+http://www.cantinesanfrancesco.it	6		
+http://www.cantinecolombabianca.it/	0	302	http://www.colombabianca.com/
+http://www.caposcalambri.com/	0	403	
+http://www.casadicureorestano.it	0	301	https://www.casadicureorestano.it/
 http://www.centroposeidon.it/	0	301	https://www.centroposeidon.it/
 http://www.chiesamadrediisola.it/	0	301	https://www.chiesamadrediisola.it/
-http://www.comune.noto.sr.it/la-cultura/palazzo-nicolaci/	0	301	https://www.comune.noto.sr.it:443/la-cultura/palazzo-nicolaci/
 http://www.costozerolife.it/	6		
-http://www.costierabarocca.it/noto_000015.htm	0	200	
 http://www.crocedorosanfrancesco.com	0	301	https://www.crocedorosanfrancesco.com/
 http://www.daemonpc.it/	0	301	https://www.daemonpc.it/
+http://ortobotanico.unict.it/	28		
 http://www.dentievacanze.com	6		
-http://www.cortiledivenere.it/	0	301	https://www.cortiledivenere.it/
+http://www.cortiledivenere.it/	0	415	
 http://www.danceworks.it/	0	301	https://www.danceworks.it/
 http://www.ducarteam.it/	6		
 http://www.fantasygames.it/	6		
-http://www.dp-dental.it	0	200	
 http://www.diagnosiprenatale.it/	0	301	https://www.diagnosiprenatale.it/
+http://www.dp-dental.it	0	200	
 http://www.footstation.it/	6		
 http://www.fratellifirenze.com/	6		
 http://www.fratellibonafede.it/	0	301	https://www.fratellibonafede.it/
@@ -79,13 +77,13 @@ http://www.friomed.com/	0	405
 http://www.giamettamotor.it/	6		
 http://www.hajtoceramiche.it/	6		
 http://www.hotel-vittorio.com/	0	301	https://hotel-vittorio.com/
-http://www.fiorentino-fiat.com/	0	301	https://www.fiorentino-fiat.com/
 http://www.hoteladmeto.it	0	301	https://www.hoteladmeto.it/
 http://www.hotelbelvedere.net	6		
+http://www.fiorentino-fiat.com/	0	301	https://www.fiorentino-fiat.com/
+http://www.hoteltorrebennistra.it/	0	301	https://www.hoteltorrebennistra.it/
 http://www.ikebanarestaurant.it/	6		
 http://www.ilcortiledellinferno.it/	6		
 http://www.ilmolomazara.it	6		
-http://www.hoteltorrebennistra.it/	0	301	https://www.hoteltorrebennistra.it/
 http://www.ior.it/rizzoli-sicilia/	0	301	https://www.ior.it:443/rizzoli-sicilia/
 http://www.ipesrl.it	0	200	
 http://www.itaga.biz/	6		
@@ -95,87 +93,79 @@ http://www.kartodromolascari.it/	6
 http://www.kikocosmetics.com	7		
 http://www.comune.mazara-del-vallo.tp.it/turismo/musei/Museo%20Ornitologico.htm	28		
 http://www.kinisia.it/	0	301	https://www.kinisia.it/
-http://www.lampararestaurant.it	0	403	
+http://www.lampararestaurant.it	0	301	https://www.lampararestaurant.it/
 http://www.lacasaamare.com/	0	301	https://www.lacasaamare.com/
 http://www.liceoscientificomazara.it/	6		
 http://www.mazaradelvallo.mercatinousato.com/	0	403	
-http://www.mdspa.it	0	301	https://www.mdspa.it/
+http://www.mdspa.it	0	415	
 http://www.medicalcentermazara.it	0	301	https://www.medicalcentermazara.it/
-http://www.medipesca.eu	0	200	
-http://www.modajob.it/	6		
-http://www.modicarte.it/home.php?language=IT&idnews=	6		
+http://www.medipesca.eu	0	415	
 http://www.lettera22books.it/	0	200	
+http://www.modajob.it/	6		
 http://www.mps.it	0	302	https://www.mps.it/
+http://www.mtauto.it/	0	415	
 http://www.geniocivilerg.it/	28		
-http://www.mtauto.it/	0	200	
-http://www.museodiocesanomazara.it/	0	200	
 http://www.mustkaucana.it/	6		
-http://www.museomotori.unipa.it	0	302	https://www.museomotori.unipa.it:443/
 http://www.nati.eu/	0	301	https://www.nati.eu/
 http://www.oasiazzurra.it/	0	301	https://www.oasiazzurra.it/
 http://www.osterialiparota.it	0	301	https://www.osterialiparota.com/
-http://www.osteriadeivespri.it/	0	301	https://www.osteriadeivespri.it/
 http://www.parafarmaciadeltindari.it	6		
+http://www.osteriadeivespri.it/	0	301	https://www.osteriadeivespri.it/
 http://www.parconinnicassara.it/	6		
 http://www.pasticceriacalamunci.it/	6		
 http://www.pediatramerlino.it/sedi	6		
-http://www.poderefossarunza.it/	0	301	https://www.poderefossarunza.it/
+http://www.museodiocesanomazara.it/	0	200	
+http://www.immobiliarebuemi.it	28		
 http://www.prodottiitticigiacalone.it	6		
 http://www.pavessrl.it	0	301	https://www.pavessrl.it/
-http://www.immobiliarebuemi.it	28		
 http://www.quiaidone.it/aquiledeglierei/	6		
 http://www.radioazimut.net/	6		
-http://www.prolocovillafrancatirrena.com/museo-della-medicina	0	200	
+http://www.poderefossarunza.it/	0	301	https://www.poderefossarunza.it/
 http://www.rallosrl.com/	6		
+http://www.prolocovillafrancatirrena.com/museo-della-medicina	0	200	
 http://www.raiatea.mediainx.com/start.inx	0	200	
-http://www.prodromo-vegetazione-italia.org/scheda/rumici-astragalion-siculi/636	0	301	https://www.prodromo-vegetazione-italia.org/scheda/rumici-astragalion-siculi/636
 http://www.ristorantelabettola.it/	6		
 http://www.ristorantelacollinetta.it/	6		
 http://www.ristorantelagrotta.info	6		
-http://www.ristorantedelpescatore.com	0	302	https://www.ristorantedelpescatore.com/
+http://www.riservabiviere.it/	0	301	https://www.riservabiviere.it/
+http://www.ristorantedelpescatore.com	0	403	
 http://www.scaccoclubmazara.it/	0	500	
 http://www.scaleaclub.com/	0	301	https://www.scaleaclub.com/
-http://www.scuolasubpalermo.it	0	301	https://www.scuolasubpalermo.it/
 http://www.selinunte.net/museo_cv.htm	0	301	https://www.selinunte.net/museo_cv.htm
-http://www.riservabiviere.it/	0	301	https://www.riservabiviere.it/
-http://www.siberiana.it/	0	301	https://www.siberiana.it/
+http://www.siberiana.it/	0	415	
 http://www.siciliaoutletvillage.it/	0	301	https://www.siciliaoutletvillage.com
-http://www.spaccioalimentare.it	0	200	
 http://www.sottileottica.it	0	301	https://www.sottileottica.it/
-http://www.sunseabeach-camping.it/	0	200	
+http://www.spaccioalimentare.it	0	200	
+http://www.tabarani.it/index.php/contatti	0	415	
 http://www.teatrolidea.com	0	301	https://www.teatrolidea.com/
-http://www.tabarani.it/index.php/contatti	0	200	
+http://www.sunseabeach-camping.it/	0	200	
 http://www.tele8tv.com/	0	301	https://www.tele8tv.it/
 http://www.televallo.it/	0	301	https://www.televallo.it/
-http://www.torreata.it/	0	301	http://www.torreata.it/it/
 http://www.trattorialapentolaccia.com/	0	301	https://www.lapentolacciacatania.it/?utm_source=redirects&utm_medium=trattorialapentolaccia.com&utm_campaign=301_Redirects/
-http://www.pizzatimeragusa.it/	28		
-http://www.voloclubalbatros.com/	6		
-http://www.ulocale.com	0	200	
 http://www.villamusco.it/	0	302	https://www.villamusco.it/
+http://www.voloclubalbatros.com/	6		
 http://www.wwfpreola.it/	0	301	https://betera-by.com
+http://www.torreata.it/	0	301	http://www.torreata.it/it/
+http://www.wwfsalineditrapani.it/	0	415	
 https://agriturismo-trinacria.business.site/?utm_source=gmb&utm_medium=referral	0	404	
-http://www.wwfsalineditrapani.it/	0	301	https://wwfsalineditrapani.it/
 https://baiadelprincipe.com/	0	200	
 https://bbagricolarosa.it/	6		
 https://beerbang.wixsite.com/beerbang	0	200	
-https://appenninobiketour.com/percorso/	0	404	
-http://www.santuariodisanvitolocapo.it/museo/museo.html	28		
+http://www.pizzatimeragusa.it/	28		
 https://borgo-il-faro.bedsandhotels.com	0	200	
 https://campingalmoetia.it/	0	200	
+https://campingbaiadeicoralli.it/	0	415	
 https://dadart.it	0	200	
-https://campingbaiadeicoralli.it/	0	200	
+http://www.santuariodisanvitolocapo.it/museo/museo.html	28		
 https://farmaciabrunomilazzo.wixsite.com/farmaciabruno	0	200	
-https://anticasena.it/	0	200	
 https://dimoraehouses.it/	0	200	
 https://gugliuzza.it/	0	200	
+https://anticasena.it/	0	200	
 https://ilfortevillage.it/	0	200	
-https://it.sicilyrealty.com/apt-cortile-carini-sciacca	0	404	
 https://lomyu.com/it-view.php?seo=forneria-scaduto-810687	0	301	https://bizsite.link/it-view.php?seo=forneria-scaduto-810687
-https://lacortedeimari.it/	0	200	
 https://m.facebook.com/bargea	0	302	https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fbargea&refsrc=deprecated&_rdr
-https://ormepalermo.it/	0	200	
 https://mucreativespace.com/	0	103	
+https://lacortedeimari.it/	0	200	
 https://panificio-aroma-palermo.business.site/	0	404	
 https://petrol-service-lampedusa.business.site/	0	404	
 https://ragusamarina.ubiklibri.it	0	301	https://www.ubiklibri.it/librerie/ubik-ragusa-marina
@@ -184,96 +174,86 @@ https://sites.google.com/view/pizzeriadanatale/info	0	200
 https://seamultiservizimessina.it/	0	200	
 https://bibliotp.regione.sicilia.it/	28		
 https://ucpme.it/	0	200	
-https://sonatrachitalia.it/	0	200	
+https://trattoriamaniaci.com	0	200	
 https://visitsicilia.net	6		
 https://villapalagonia.it/	0	200	
-https://web.archive.org/web/20220927054441/https://www.vetrinatv.it/mistretta-tentano-di-rubare-legna-in-area-boschiva-per-rivenderla-arrestati-dai-carabinieri/	0	200	
-https://guardiacostiera.it/mazaradelvallo	28		
-https://web.archive.org/web/20230323233356/https://www.italianostra.org/news/taglio-dei-pluridecennali-cipressi-antistanti-lospedale-di-mistretta-e-il-contiguo-servizio-di-psichiatria-di-mistretta-istanza-al-comune/	0	200	
 https://www.ageallianz.it/patti3948000/	0	404	
-https://www.analisiclinichearagona.com	35		
-https://www.adpugliese.it/	0	200	
-https://www.anticalibreria.it/	0	301	https://anticalibreria.it/
+https://www.analisiclinichearagona.com	0	200	
 https://www.airbnb.it/rooms/50452010	0	200	
+https://www.adpugliese.it/	0	200	
 https://www.arddiscount.it/punti-vendita/604/-	0	301	/punti-vendita/604/-/
+https://www.anticalibreria.it/	0	301	https://anticalibreria.it/
 https://www.bbportasoprana.it/	60		
-https://trattoriamaniaci.com	0	200	
 https://www.bbvianazionale.it/it/	0	200	
-https://www.caffenakone.com/	6		
 https://www.booking.com/hotel/it/palermo-central-stay.html	0	202	
+https://www.caffenakone.com/	6		
+https://guardiacostiera.it/mazaradelvallo	28		
+https://www.campingparadise.it/	0	200	
 https://www.campeggiocaptain.it/	0	200	
-https://www.campingresidencecapopassero.it/	0	200	
 https://www.campingvulcano.it/	0	200	
 https://www.campoallegrosicilia.it/	0	200	
-https://www.cannistrabeerservice.it/	0	200	
-https://www.asp.messina.it/?page_id=147264	28		
-https://www.campingparadise.it/	0	200	
+https://www.campingresidencecapopassero.it/	0	200	
 https://www.casatrapani.it	0	301	https://casatrapani.it/
+https://www.cannistrabeerservice.it/	0	200	
 https://www.centrodermatologicocatalfamo.it/	6		
-https://www.belvedereresidence.it/	28		
 https://www.castellana.it/prenota/	0	200	
-https://www.comunicarepatti.it/	35		
-https://www.ctvmessina.it/	0	200	
-https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/6513	0	403	
 https://www.comune.prizzi.pa.it/turismo/il-museo/	0	301	https://comune.prizzi.pa.it/luogo/il-museo-e-il-sito-archeologico/
-https://www.decathlon.it/	0	403	
+https://www.asp.messina.it/?page_id=147264	28		
 https://www.centroolimpopalermo.it/	0	200	
-https://www.donnamariatrattoria.it/	0	200	
+https://www.comunicarepatti.it/	0	200	
+https://www.decathlon.it/	0	403	
+https://www.belvedereresidence.it/	28		
+https://www.ctvmessina.it/	0	200	
 https://www.diocesidicefalu.org/	0	200	
-https://www.diocesiag.it/	0	200	
+https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/6513	0	403	
+https://www.donnamariatrattoria.it/	0	200	
+https://www.dianabrown.it	60		
 https://www.eolianresidence.com/	0	301	https://www.eolianresidence.com/it/
-https://www.dianabrown.it	0	200	
-https://www.etnasci.it/localita/etna-nord	0	200	
-https://www.etnasci.it/localita/nicolosi-etna-sud	0	200	
-https://www.facebook.com/firstct/	0	200	
-https://www.facebook.com/profile.php?id=100028020593319	0	301	https://www.facebook.com/people/Pizzeria-del-Corso-Cottone/100028020593319/
+https://www.eracleaminoavillage.it/	0	200	
 https://www.eurospin.it/	0	200	
+https://www.facebook.com/profile.php?id=100028020593319	0	301	https://www.facebook.com/people/Pizzeria-del-Corso-Cottone/100028020593319/
 https://www.facebook.com/profile.php?id=61556313331223	0	301	https://www.facebook.com/people/Athena-ristorantepizzeria/61556313331223/
+https://www.facebook.com/firstct/	0	200	
 https://www.farmaciaingoglia.it/	6		
 https://www.fecarotta.it/it/	0	301	https://www.fecarotta.com/it/
-https://www.eracleaminoavillage.it/	0	200	
-https://www.funiviaetna.com/	0	200	
-https://www.hapimag.com/en-gb/italy/sicily/cefalu/	0	200	
 https://www.excelsiorpalacepalermo.com/	0	200	
+https://www.hapimag.com/en-gb/italy/sicily/cefalu/	0	200	
 https://www.giomi.com/	0	200	
 https://www.gruppoformula3.it	0	200	
-https://www.hpa-automotive.it/	0	200	
-https://www.holidayscefalu.com/	0	200	
-https://www.ilcicero.it/	0	200	
-https://www.irccsme.it/	60		
-https://www.lamattamadeinsicily.com	0	200	
 https://www.horcynusorcalido.it/	0	200	
+https://www.holidayscefalu.com/	0	200	
+https://www.hpa-automotive.it/	0	200	
+https://www.ilcicero.it/	0	200	
+https://www.lamattamadeinsicily.com	0	200	
 https://www.ledelizieprovenzano.it/	6		
-https://www.lidl.it/	0	200	
 https://www.libriepensieri.it/	0	200	
-https://www.linkspace.it/	0	200	
-https://www.lidoplayablanca.it/	0	200	
-https://www.morganschool.it/bagheria/	0	200	
 https://www.lampedusa-licciardi.it/ristorante	0	301	https://www.lampedusa-licciardi.it/ristorante/
+https://www.lidoplayablanca.it/	0	200	
+https://www.lidl.it/	0	200	
+https://www.linkspace.it/	0	200	
 https://www.messinarte.it/campanile-del-duomo-di-messina/	0	200	
-https://www.mumamilazzo.com/	0	200	
+https://www.morganschool.it/bagheria/	0	200	
 https://www.messinarte.it/duomo-di-messina/	0	200	
+https://www.diocesiag.it/	28		
+https://www.mumamilazzo.com/	0	200	
 https://www.nelsonsicily.com/	0	200	
 https://www.officinapisciotta.it/	60		
-https://www.parcodellemadonie.it/	0	200	
-https://www.onoranzefunebrialiotta.it/	0	200	
-https://www.parfois.com/it/	0	302	https://www.parfois.com/en/us/country/
 https://www.panaceaweb.it/	0	200	
+https://www.parfois.com/it/	0	302	https://www.parfois.com/en/us/country/
+https://www.onoranzefunebrialiotta.it/	0	200	
+https://www.parcodellemadonie.it/	0	415	
 https://www.ristorantealpiratalipari.com/	6		
-https://www.researchgate.net/publication/225673663_Geo-volcanological_mineralogical_and_environmental_aspects_of_quarry_materials_related_to_pleural_neoplasm_in_the_area_of_Biancavilla_Mount_Etna_Eastern_Sicily_Italy	0	403	
-https://www.ristorantevillasalvenere.it	6		
 https://www.progettolegalita.it/progetti/museo-falcone-e-borsellino-il-bunkerino/	0	403	
-https://www.rosticceriafamulari.it/	35		
+https://www.ristorantevillasalvenere.it	6		
 https://www.realposte.it	0	200	
+https://www.rosticceriafamulari.it/	0	200	
 https://www.studioginecologicoullo.it	6		
-https://www.sanvitolocaposhuttle.com	0	200	
-https://www.tcldental-pedodonzia.it	0	403	
 https://www.ristorantepizzeriariviera.it	0	200	
 https://www.tasting-sicily.com	0	200	
-https://www.thecrag.com/climbing/italy/central-and-southern-italy/sicily/area/1221011889	0	403	
 https://www.seleneimbesi-immunoallergologia.it/	0	200	
-https://www.trapanishuttle.com	0	200	
+https://www.tcldental-pedodonzia.it	0	403	
 https://www.tenuteseniawine.it/	0	200	
+https://www.villa-sanbiagio.it	0	415	
 https://www.villaaltair.com/	0	301	https://villaaltair.it/
 pozzitello-village.it	-1		
 www.agriturismosorgenterefalzafi.it	-1		
@@ -281,10 +261,10 @@ www.anticareggia.it/	-1
 www.bbfragolina.it/en/	-1		
 www.bblavitelleria.com	-1		
 www.ceramichecear.it	-1		
-https://www.villa-sanbiagio.it	0	200	
 www.lacannahotel.it	-1		
 www.lancoramilazzo.it	-1		
 www.pirainetoairportparking.com	-1		
 www.trattoriaborrello.it	-1		
 https://www.zoculture.it/	0	200	
+https://www.irccsme.it/	28		
 https://www.villaries.it/	0	200	
