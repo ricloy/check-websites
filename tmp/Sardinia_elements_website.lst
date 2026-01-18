@@ -2028,6 +2028,8 @@ node	13414803625	https://www.cinetempio.it
 node	13426903001	https://www.comune.quartu.ca.it/vivere-il-comune/luoghi/centro-per-la-cultura/biblioteca/biblioteca-centrale-e-biblioteca-ragazzi
 node	13428665824	https://www.airbnb.com/h/sweethomebosa
 node	13443811919	https://happysardiniatours.it
+node	13460741026	https://www.bancaetica.it/filiale/filiale-di-sassari/
+node	13460741027	https://www.bancaetica.it/uffici/ufficio-di-cagliari/
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2222,7 +2224,7 @@ way	231101933	http://www.ilportalesardo.it/archeo/vallermosa.htm
 way	231671918	https://brailoi.it/
 way	232402987	https://www.residenceucalipti.it/
 way	232904661	https://www.residencepicale.it/
-way	234295706	https://www.eurospin.it/punti-vendita/olbia-57133/
+way	234295706	https://www.eurospin.it/punti-vendita/olbia-caduti-sul-lavoro/
 way	234810033	http://www.hotelviadelmare.com/
 way	235008941	http://www.tribunuoro.it/
 way	235227496	https://www.corterubja.it/
@@ -2370,6 +2372,8 @@ way	278281773	https://www.comune.orgosolo.nu.it
 way	278281915	https://www.istitutocomprensivoorgosolo.edu.it
 way	278300622	https://le-vele-millennium.klepierre.it/
 way	278321371	https://www.comune.selargius.ca.it/
+way	278330563	https://www.comune.monti.ss.it
+way	278330740	https://www.sardegnacultura.it/articolo/monti-museo-etnografico-luigi-pirisino-casa-franco
 way	278405590	https://airbnb.it/h/villapanoramicabelohorizonte
 way	278406532	https://mabsantantioco.it/
 way	279179570	https://www.aurumhotels.it/it/villaggio_pini
@@ -4427,45 +4431,18 @@ relation	6581360	http://www.ferratacabirol.it
 relation	7688852	http://www.golfhotelisarenas.com/
 relation	7706249	http://www.comune.ussaramanna.vs.it
 relation	7796877	http://www.comune.sanluri.vs.it
-node	72991040	http://web.tiscali.it/Senorbi2000/
-node	72991301	http://www.fluminimaggiore-bilingue.it/
-node	72992193	http://www.orroliproloco.com/
-node	610512699	http://www.villaggiomandragola.com
-node	1601566871	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
-node	1601567218	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
-node	1601567221	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
-node	2329913542	https://www.sardegnaturismo.it/it/esplora/san-valentino
-node	8018364892	https://commons.wikimedia.org/wiki/File:Bruncu_Suergiu.jpg
-node	10265078480	https://people.unica.it/unicamappe/2012/08/10/facolta-di-architettura/
-node	11925747476	https://coinatmradar.com/bitcoin_atm/64663/bitcoin-atm-shitcoins-club-cagliari-shitcoinsclub/
-way	27771208	http://www.saras.it/saras/pages/inthefield/assets/refining
-way	62331902	http://www.progettodighe.it/main/le-dighe/article/bau-mandara
-way	81578382	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
-way	119452886	http://www.campingbungalowlapineta.it
-way	142884664	http://www.orroliproloco.com/
-way	277017452	http://www.tripadvisor.it/Restaurant_Review-g3528959-d3524787-Reviews-Il_Gatto_Sardo-Gonnoscodina_Province_of_Oristano_Sardinia.html
-way	516635404	http://www.orroliproloco.com/
-way	516635406	http://www.orroliproloco.com/
-way	516635408	http://www.orroliproloco.com/
-way	516635410	http://www.orroliproloco.com/
-way	581847789	http://www.arrampicatasardegna.com/falesie/masua-castello-delliride/
-way	581847804	http://www.arrampicatasardegna.com/falesie/torre-di-titti-torre-sauron-i-menhir/
-way	581847809	http://www.arrampicatasardegna.com/falesie/punta-pilocca/
-way	581847817	http://www.arrampicatasardegna.com/falesie/arrampicantro/
-relation	39917	http://www.fluminimaggiore-bilingue.it/
-relation	39959	http://web.tiscali.it/Senorbi2000/
-relation	40002	http://www.orroliproloco.com/
-relation	10077575	https://danbag.altervista.org/Sardegna/B485/B485-FTP.kml
-relation	12321189	https://danbag.altervista.org/Sardegna/B481/B481-FTP.kml
-relation	12857717	https://danbag.altervista.org/Sardegna/F401/F401-FTP.kml
-relation	12857738	https://danbag.altervista.org/Sardegna/F402/F402-FTP.kml
-relation	12858020	https://danbag.altervista.org/Sardegna/F404/F404-FTP.kml
-relation	12858037	https://danbag.altervista.org/Sardegna/F405/F405-FTP.kml
-relation	12858057	https://danbag.altervista.org/Sardegna/F406/F406-FTP.kml
-relation	14211283	https://danbag.altervista.org/Sardegna/T741/T741-FTP.kml
-relation	14211317	https://danbag.altervista.org/Sardegna/T702/T702-FTP.kml
-relation	14704119	https://danbag.altervista.org/Sardegna/B401/B401-FTP.kml
-relation	15088814	https://danbag.altervista.org/Sardegna/B162/B162-FTP.kml
-relation	16503335	https://danbag.altervista.org/Sardegna/B505/B505-FTP.kml
-relation	18147528	https://danbag.altervista.org/Sardegna/G100/G100-FTP.kml
-relation	18159900	https://danbag.altervista.org/Sardegna/B410/B410-FTP.kml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
+
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
+
+</body>
+</html>
