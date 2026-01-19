@@ -2,55 +2,38 @@
 <title>OSM3S Response</title>	-1		
 charset=utf-8" lang="en"/>	-1		
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN	-1		
-http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	0	400	
 </body>	-1		
 </head>	-1		
 </html>	-1		
+<?xml version="1.0" encoding="UTF-8"?>	-1		
+http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	0	400	
 <body>	-1		
 <head>	-1		
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">	-1		
 <p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>	-1		
 <p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>	-1		
 agenzie.tecnocasa.it/piemonte/torino/san-giorgio-canavese/san-giorgio-canavese/chi-siamo.html	-1		
-bgarchitettinovi.it	-1		
-hhttps://www.impresafunebrelapacenovara.com/	-1		
-http://alvaro-modigliani.it/	6		
 http://ancien-geodesie.ign.fr/fiche_point.asp?num_site=06073R&no_ptg=01&numero_f50=3640	6		
-http://agenzie.tecnocasa.it/piemonte/torino/aglie/aglie/chi-siamo.html	0	404	
-http://ancien-geodesie.ign.fr/fiche_point.asp?num_site=06163O&no_ptg=01&numero_f50=3740	6		
 http://ancien-geodesie.ign.fr/fiche_point.asp?num_site=06127H&no_ptg=01&numero_f50=3740	6		
+http://ancien-geodesie.ign.fr/fiche_point.asp?num_site=06163O&no_ptg=01&numero_f50=3740	6		
 http://ancien-geodesie.ign.fr/fiche_point.asp?num_site=7304710&no_ptg=01&numero_f50=3633	6		
-http://arcobalenocamereceresolereale.com	0	301	https://arcobalenocamereceresolereale.com/
-https://openstreetcam.org/map/@45.692245515194244,8.471601605415346,18z	0	301	https://kartaview.org/map/@45.692245515194244,8.471601605415346,18z
-http://b2burger.com/	0	200	
-http://asdbeppeviola.it/	0	200	
-http://baudinet.it/	0	200	
-http://blue-group.it/turin/	0	301	https://blue-group.it/turin/
-http://archeocarta.org/salussola-bi-resti-della-pieve-di-san-pellegrino-di-puliaco/	0	200	
-http://caipallanzapercorsi.altervista.org/PercorsiVCO/P06/P06-FTP.kml	0	403	
+http://agenzie.tecnocasa.it/piemonte/torino/aglie/aglie/chi-siamo.html	0	404	
 http://caipallanzapercorsi.altervista.org/PercorsiVCO/LTB-2019/LTB-2019-FTP.kml	0	403	
+https://openstreetcam.org/map/@45.692245515194244,8.471601605415346,18z	0	301	https://kartaview.org/map/@45.692245515194244,8.471601605415346,18z
 http://caipallanzapercorsi.altervista.org/PercorsiVCO/P01v/P01v-FTP.kml	0	403	
 http://caipallanzapercorsi.altervista.org/PercorsiVCO/P09a/P09a-FTP.kml	0	403	
 http://caipallanzapercorsi.altervista.org/PercorsiVCO/P14NS/P14NS-FTP.kml	0	403	
-http://caipallanzapercorsi.altervista.org/PercorsiVCO/SIE64/SIE64-FTP.kml	0	403	
 http://carrefour.it/supermercati-torino/ivrea/carrefour-express-via-pavetti.html	0	302	https://www.carrefour.it/supermercati-torino/ivrea/carrefour-express-via-pavetti.html
-http://capraudin.altervista.org/	6		
-http://casariposopaesana.it/	0	301	https://www.casariposopaesana.it/
-http://civico15.thefork.rest/	0	301	https://civico15.thefork.rest:443/
-http://colombodicuccaro.it	0	200	
 http://danbag.altervista.org/PercorsiVCO/XP1c/XP1c-FTP.kml	0	301	https://danbag.altervista.org/PercorsiVCO/XP1c/XP1c-FTP.kml
-http://danbag.altervista.org/Valgrande/P00da/P00da-FTP.kml	0	301	https://danbag.altervista.org/Valgrande/P00da/P00da-FTP.kml
-http://campingcasabianca.altervista.org/	0	302	/joomla/
-http://danbag.altervista.org/Valgrande/P06a/P06a-FTP.kml	0	301	https://danbag.altervista.org/Valgrande/P06a/P06a-FTP.kml
-http://emanueledutto.altervista.org/	0	200	
+http://caipallanzapercorsi.altervista.org/PercorsiVCO/P06/P06-FTP.kml	0	403	
+http://archeocarta.org/salussola-bi-resti-della-pieve-di-san-pellegrino-di-puliaco/	0	200	
+http://caipallanzapercorsi.altervista.org/PercorsiVCO/SIE64/SIE64-FTP.kml	0	403	
 http://danbag.altervista.org/Valgrande/X99/X99-FTP.kml	0	301	https://danbag.altervista.org/Valgrande/X99/X99-FTP.kml
-http://farmaciacrocemosso.it	6		
-https://www.poste.it/cerca/index.html#/risultati-cerca-up/Crissolo,%20CN,%20Italia	0	504	
-http://fornoalpigraie.it/img/IMG_20130706_165011s.jpg	0	301	https://www.fornoalpigraie.it/img/IMG_20130706_165011s.jpg
-http://follis.it/	0	301	https://follis.it/
+http://danbag.altervista.org/Valgrande/P06a/P06a-FTP.kml	0	301	https://danbag.altervista.org/Valgrande/P06a/P06a-FTP.kml
+http://danbag.altervista.org/Valgrande/P00da/P00da-FTP.kml	0	301	https://danbag.altervista.org/Valgrande/P00da/P00da-FTP.kml
 http://fornoalpigraie.it/img/IMG_20130706_165044s.jpg	0	301	https://www.fornoalpigraie.it/img/IMG_20130706_165044s.jpg
-http://equin-ozio.it	0	301	https://equin-ozio.it/
 http://fornoalpigraie.it/img/IMG_20130706_165055s.jpg	0	301	https://www.fornoalpigraie.it/img/IMG_20130706_165055s.jpg
+http://fornoalpigraie.it/img/IMG_20130706_165011s.jpg	0	301	https://www.fornoalpigraie.it/img/IMG_20130706_165011s.jpg
 http://fornoalpigraie.it/img/IMG_20130706_165121s.jpg	0	301	https://www.fornoalpigraie.it/img/IMG_20130706_165121s.jpg
 http://fornoalpigraie.it/img/IMG_20130706_165251s.jpg	0	301	https://www.fornoalpigraie.it/img/IMG_20130706_165251s.jpg
 http://fornoalpigraie.it/img/IMG_20130706_165302s.jpg	0	301	https://www.fornoalpigraie.it/img/IMG_20130706_165302s.jpg
@@ -60,78 +43,76 @@ http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&si
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0410003	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0410003
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0410007	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0410007
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0412005	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0412005
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085E	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085E
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0500106	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0500106
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0500107	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0500107
-http://gallogastronomia.com	0	301	https://gallogastronomia.com/
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085F	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085F
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0502709	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0502709
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085E	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085E
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085G	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085G
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085I	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085I
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085F	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085F
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085K	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085K
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085M	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085M
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085O	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085O
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509314	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509314
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093O	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093O
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509319	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509319
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509321	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509321
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093S	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093S
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509319	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509319
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093O	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093O
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093R	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093R
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093U	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093U
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093V	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093V
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093W	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093W
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0512003	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0512003
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093S	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093S
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093U	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093U
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0515704	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0515704
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0512003	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0512003
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0515705	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0515705
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05157A	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05157A
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093W	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093W
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05174F	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05174F
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05157A	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05157A
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0601301	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0601301
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AA	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AA
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0607301	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0607301
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0607303	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0607303
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0607307	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0607307
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AA	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AA
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AB	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AB
-http://fusinimaterassi.it	0	301	https://fusinimaterassi.it/
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AE	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AE
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AC	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AC
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AF	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AF
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AD	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AD
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AF	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AF
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AE	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AE
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AG	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AG
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AH	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AH
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AJ	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AJ
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AI	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AI
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AK	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AK
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AH	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AH
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AI	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AI
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AJ	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AJ
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AL	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AL
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AO	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AO
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AM	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AM
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AN	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AN
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AO	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AO
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AR	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AR
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AP	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AP
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AQ	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AQ
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AR	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AR
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AW	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AW
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AY	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AY
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073B	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073B
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AY	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AY
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BD	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BD
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BE	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BE
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BF	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BF
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BI	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BI
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BH	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BH
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BJ	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BJ
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BK	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BK
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BJ	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BJ
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BM	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BM
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BO	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BO
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BP	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BP
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073C	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073C
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073L	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073L
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073C	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073C
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073E	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073E
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073N	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073N
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073P	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073P
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073R	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073R
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073S	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073S
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073U	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073U
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0612005	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0612005
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073Z	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073Z
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0612001	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0612001
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0612005	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0612005
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0612707	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0612707
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127C	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127C
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127E	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127E
@@ -140,28 +121,28 @@ http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&si
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127H	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127H
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127I	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127I
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615305	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615305
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615306	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615306
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162A	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162A
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615306	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0615306
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162B	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162B
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162D	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162D
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162G	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162G
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162E	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162E
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162G	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162G
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162H	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162H
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0616309	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0616309
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0616314	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0616314
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163C	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163C
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163A	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163A
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163C	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163C
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163D	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163D
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163J	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163J
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163E	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163E
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163G	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163G
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163H	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163H
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163J	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163J
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163O	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163O
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7302602	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7302602
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7302604	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7302604
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304008	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304008
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304014	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304014
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304015	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304015
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304014	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304014
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304709	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304709
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304710	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304710
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73047A	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73047A
@@ -178,723 +159,227 @@ http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&si
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73157A	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73157A
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7330412	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7330412
 http://gis.provincia.cuneo.it/Immagini/SentieriDescrizioni/html/G2.html	6		
-http://hotelblanchetti.it	0	200	
-http://hotelsusa.it	0	301	https://hotelsusa.it/
-http://ilfalcoelavolpe.com	0	301	https://www.ilfalcoelavolpe.com/
-http://ireneartcafe.blogspot.it/	0	302	http://ireneartcafe.blogspot.com/
-http://it-it.facebook.com/pages/RIFUGIO-SAP/93535874718	0	301	https://it-it.facebook.com/pages/RIFUGIO-SAP/93535874718
-http://ilmercantesnc.com	0	301	https://ilmercantesnc.com/
-http://gtapiemonte.it	0	200	
-http://gtapiemonte.it/	0	200	
-http://labottegadellabicicletta.it/	0	200	
-http://lagrottadeifranchi.it/	6		
-http://lamerendasinoirameana.simplesite.com/	6		
-http://lanokk.it/	6		
-http://lapedoc.altervista.org/	0	200	
-http://lavelpribordone.webnode.it	0	301	https://lavelpribordone.webnode.it/
-http://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_cravegna.html	0	301	https://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_cravegna.html
-http://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_viceno.html	0	301	https://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_viceno.html
-http://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_mozzio.html	0	301	https://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_mozzio.html
-http://madonnapellegrina.org/	6		
-http://locandadellacontea.it	0	200	
-http://lospitalitadelcastello.it	0	301	http://www.lospitalitadelcastello.it/
-http://mercati.comune.torino.it/item/sebastopoli/	0	403	
-http://mercati.comune.torino.it/item/don-grioli/	0	403	
-http://lopiparo.it/	0	200	
 http://negozi.ovs.it/it/negozi/italia/torino/ovs-ivrea_00361.aspx	0	301	https://negozi.ovs.it/it/negozi/italia/torino/ovs-ivrea_00361.aspx
-http://parconaturalealpiliguri.it	0	301	https://parconaturalealpiliguri.it/
-http://parcoavventuraorma.com	0	200	
+http://percorsi.estmonterosa.it/c/C00(1)/C00(1).kml	0	200	
 http://percorsi.estmonterosa.it/c/C00(2)/C00(2).kml	0	200	
 http://percorsi.estmonterosa.it/c/C00(3)/C00(3).kml	0	200	
-http://percorsi.estmonterosa.it/c/C00(1)/C00(1).kml	0	200	
-http://percorsi.estmonterosa.it/c/C05b/C05b.kml	0	200	
-http://percorsi.estmonterosa.it/c/C02/C02.kml	0	200	
 http://percorsi.estmonterosa.it/c/C01/C01.kml	0	200	
+http://percorsi.estmonterosa.it/c/C02/C02.kml	0	200	
+http://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_viceno.html	0	301	https://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_viceno.html
+http://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_mozzio.html	0	301	https://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_mozzio.html
+http://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_cravegna.html	0	301	https://italia.indettaglio.it/ita/piemonte/verbanocusioossola_crodo_cravegna.html
 http://percorsi.estmonterosa.it/c/C05/C05.kml	0	200	
-http://percorsi.estmonterosa.it/c/C05d/C05d.kml	0	200	
 http://percorsi.estmonterosa.it/c/C06/C06.kml	0	200	
-http://percorsi.estmonterosa.it/c/C09/C09.kml	0	200	
+http://percorsi.estmonterosa.it/c/C05b/C05b.kml	0	200	
+http://percorsi.estmonterosa.it/c/C05d/C05d.kml	0	200	
 http://percorsi.estmonterosa.it/c/C07/C07.kml	0	200	
-http://percorsi.estmonterosa.it/c/C27/C27.kml	0	200	
-http://percorsi.estmonterosa.it/c/C12/C12.kml	0	200	
+http://percorsi.estmonterosa.it/c/C09/C09.kml	0	200	
 http://percorsi.estmonterosa.it/c/C23/C23.kml	0	200	
+http://percorsi.estmonterosa.it/c/C12/C12.kml	0	200	
 http://percorsi.estmonterosa.it/c/C23a/C23a.kml	0	200	
-http://percorsi.estmonterosa.it/c/C96/C96.kml	0	200	
+http://percorsi.estmonterosa.it/c/C27/C27.kml	0	200	
 http://percorsi.estmonterosa.it/c/C32/C32.kml	0	200	
-http://percorsi.estmonterosa.it/p/P11/P11.kml	0	200	
+http://percorsi.estmonterosa.it/c/C96/C96.kml	0	200	
 http://percorsi.estmonterosa.it/f/F28/F28.kml	0	200	
-http://percorsi.estmonterosa.it/p/P15/P15.kml	0	200	
-http://prodottitipicilasiciliana.it	0	200	
-http://polenterialaramasse.com/	0	200	
-http://quellidellarossa.it	0	301	https://www.quellidellarossa.it/
-http://polomusealepiemonte.beniculturali.it/index.php/musei-e-luoghi-della-cultura/castello-di-aglie/visita-il-castello-di-aglie/	0	301	https://polomusealepiemonte.beniculturali.it/index.php/musei-e-luoghi-della-cultura/castello-di-aglie/visita-il-castello-di-aglie/
-http://questure.poliziadistato.it/Torino/orari-5-602-2-1.htm	0	301	https://questure.poliziadistato.it/Torino/orari-5-602-2-1.htm
 http://rucaski.com	0	301	https://rucaski.com/
-http://ristorantebuasca.it/	0	301	http://www.ristorantebuasca.com/
-http://societa-pont.net	6		
-http://tennis-rivoli-2000.it	6		
-http://theguinness.com/	0	301	http://www.RogueFishMedia.com
-http://trerecastellamonte.it	0	200	
-http://scaratomauro.it/	0	301	https://scaratomauro.it/
+http://questure.poliziadistato.it/Torino/orari-5-602-2-1.htm	0	301	https://questure.poliziadistato.it/Torino/orari-5-602-2-1.htm
+http://percorsi.estmonterosa.it/p/P15/P15.kml	0	200	
+http://percorsi.estmonterosa.it/p/P11/P11.kml	0	200	
 http://web.tiscali.it/rifugio.pontese/	0	200	
-http://www.2giardini.it	0	200	
-http://ristorantedellatorre.it/	0	301	https://ristorantedellatorre.it/
-http://www.3diciatavola.it/	6		
-http://www.abbigliamentodacastagna.it	6		
-http://www.abitidasposasilvia.com/	6		
-http://webgis.arpa.piemonte.it/qualita_aria_webapp/dati_anagrafici/index.php?NUMCODICE=001270-801	0	302	https://webgis.arpa.piemonte.it/qualita_aria_webapp/dati_anagrafici/index.php?NUMCODICE=001270-801
-http://webgis.arpa.piemonte.it/webmeteo/meteo.php?CODTOT=005005901	0	302	https://webgis.arpa.piemonte.it/webmeteo/meteo.php?CODTOT=005005901
-http://www.aeroclubvercelli.it/	0	200	
-http://www.adirivoli.org	0	301	https://www.adirivoli.org/
-http://www.agriservicesas.it/	6		
-http://www.aeo.it/PuntiVendita.aspx?regione=piemonte&provincia=Torino&puntovendita=172	0	301	https://www.aeo.it/PuntiVendita.aspx?regione=piemonte&provincia=Torino&puntovendita=172
 http://www.agriturismofiorendo.it/	0	301	https://agriturismofiorendo.it/
-http://www.agriturismocascinamadonna.it/	0	302	https://www.agriturismocascinamadonna.it/
-http://www.aidar-susa.com/	6		
-http://www.agriturismolaburla.it/	0	301	https://www.agriturismolaburla.it/
-http://www.aibeaticuneo.it/	0	301	https://www.aibeaticuneo.it/
-http://www.albergoaquilaalpina.it	0	200	
-http://www.albergoristorantevittoria.net/	6		
-http://www.albergoitalia.novara.it/	0	301	https://www.albergoitalia.novara.it/
-http://www.albergosportceresole.it	0	301	https://www.albergosportceresole.it/
-http://www.albergoristoranteasmara.it/	0	301	https://www.albergoristoranteasmara.it/
-http://www.agrifoglio.eu	0	301	https://www.agrifoglio.eu/
-http://www.albysport.com/	0	301	https://biz-magazine.co.uk
-http://www.allarosabianca.it/	6		
-http://www.allacerorosso.it/	0	301	https://www.allacerorosso.it/
-http://www.aleghebirra.com	0	302	https://www.aleghebirra.com/
-http://www.alpinerunner.it/	0	200	
-http://www.alpyland.com	0	301	https://www.alpyland.com/
-http://www.albergotrattoriastazione.it	6		
+http://www.aeo.it/PuntiVendita.aspx?regione=piemonte&provincia=Torino&puntovendita=172	0	301	https://www.aeo.it/PuntiVendita.aspx?regione=piemonte&provincia=Torino&puntovendita=172
+http://webgis.arpa.piemonte.it/webmeteo/meteo.php?CODTOT=005005901	0	302	https://webgis.arpa.piemonte.it/webmeteo/meteo.php?CODTOT=005005901
+http://www.altox.it/ValsusaFalesie/borgone_penna.htm	0	200	
 http://www.altox.it/ValsusaFalesie/borgone_cava.htm	0	200	
 http://www.altox.it/ValsusaFalesie/borgone_libro.htm	0	200	
 http://www.altox.it/ValsusaFalesie/caprie_anticaprie.htm	0	200	
-http://www.altox.it/ValsusaFalesie/borgone_penna.htm	0	200	
 http://www.altox.it/ValsusaFalesie/caprie_campambiardo.htm	0	200	
 http://www.altox.it/ValsusaFalesie/caprie_dahu.htm	0	200	
 http://www.altox.it/ValsusaFalesie/caprie_estateinf.htm	0	200	
 http://www.altox.it/ValsusaFalesie/chianocco_losarea.htm	0	200	
-http://www.altox.it/ValsusaFalesie/clarea_granrotsa.htm	0	200	
 http://www.altox.it/ValsusaFalesie/foresto_isolafelice.htm	0	200	
+http://www.altox.it/ValsusaFalesie/clarea_granrotsa.htm	0	200	
 http://www.altox.it/ValsusaFalesie/mompellato_placche.htm	0	200	
-http://www.alpifondi.it/it-IT/fondicomuni/	0	301	https://alicantocapital.com/it-IT/fondicomuni/
-http://www.altrocanto.org/wp/casalpine/	0	200	
-http://www.amicidellegno.com	0	301	https://www.amicidellegno.com/
-http://www.anavercelli.it/	0	200	
-http://www.amicidellaviafrancigena.vercelli.it/ostello-hospitale-sancti-eusebi/	0	200	
-http://www.anciennemaisonduthe.com	0	200	
-http://www.apostolatoliturgico.it	0	301	https://www.apostolatoliturgico.it/
-http://www.alpasche.it	28		
-http://www.azzurra.cn.it/	0	301	https://azzurracenter.it/azzurra/
-http://www.autojuniorbiella.it/	0	301	https://www.autojuniorbiella.it/
-http://www.barbagiadiollolai.com/	6		
-http://www.arrugginita.com/	0	301	https://www.arrugginita.com/
-http://www.bancadicherasco.it	0	301	https://www.bancadicherasco.it/
-http://www.barberobike.it	6		
-http://www.bardosteria.com/	6		
-http://www.barbamarc.it/	0	301	https://www.barbamarc.it/
-http://www.barbassa.it	0	301	https://www.barbassa.it/
-http://www.bb-laterrazza.com	0	301	https://www.bb-laterrazza.com/
-http://www.bartomfossano.it/	0	200	
-http://www.bbrocciamelone.it/	0	200	
-http://www.bellanapolisusa.it/	0	301	https://www.bellanapolisusa.it/
-http://www.belvedereorasso.it/	0	301	https://www.belvedereorasso.it/
-http://www.benebanca.it	0	301	https://www.benebanca.it/
-http://www.bicincitta.com/	0	302	https://www.bicincitta.com
-http://www.birrabba.it/	0	301	https://www.birrabba.it/
-http://www.ambharabar.it/	28		
-http://www.birreriarol.it/	6		
-http://www.bergolo.com/	0	200	
-http://www.birrificioalba.it	0	302	https://www.birrificioalba.it/
-http://www.birrabeba.it	0	200	
-http://www.birrificiocitabiunda.it	0	302	/it/
-http://www.birrificiodellagranda.it	0	301	https://www.birrificiodellagranda.it/
 http://www.biverbanca.it/dove-siamo/item/filiale-di-ivrea?category_id=69	0	301	https://bancadiasti.it/dove-siamo/item/filiale-di-ivrea?category_id=69
-http://www.bnl.it	0	301	https://www.bnl.it/
-http://www.bontondipietrini.it/	0	301	https://www.bontondipietrini.it/
-http://www.birrificiocastagnero.com	0	301	https://www.birrificiocastagnero.com/
-http://www.caborgovecchio.com	0	301	https://www.caborgovecchio.com/
-http://www.cafe44.it/	0	200	
-http://www.caffedelteatrobiella.it/	0	301	https://www.caffedelteatrobiella.it/
-http://www.caffevergnano.com	0	301	https://www.caffevergnano.com/
 http://www.cai.mondovi.cn.it/cai/rifugi/bivacchi/cavarero.htm	6		
-http://www.caibaveno.it/rifugio-alpe-nuovo.html	0	301	https://www.caibaveno.it/rifugio-alpe-nuovo.html
-http://www.caicvl.eu/bivacco_revelli.htm	0	404	
-http://www.bbsantantonio.eu	28		
-http://www.caiivrea.it	0	200	
-http://www.bnp.it	28		
-http://www.brebanca.it	28		
-http://www.caiolgiate.it/rifugio.php	0	404	
-http://www.caisusa.it/	0	301	https://www.caisusa.it/
-http://www.caimacugnaga.org/rifugi/31-amici-della-valle-moriana.html	0	403	
-http://www.caitortona.net/rifugio.htm	0	404	
-http://www.caimacugnaga.org/rifugi/30-gaspare-oberto.html	0	403	
-http://www.caivarallo.it/	0	301	https://www.caivarallo.it/
-http://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_campo_artogna.php	0	301	https://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_campo_artogna.php
-http://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_cavaione.php	0	301	https://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_cavaione.php
-http://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_toso.php	0	301	https://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_toso.php
-http://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_salei.php	0	301	https://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_salei.php
-http://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_sella_alta.php	0	301	https://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_sella_alta.php
-http://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_helo.php	0	301	https://www.caivarallo.it/rifugi_cai_varallo/punto_appoggio_alpe_helo.php
-http://www.caivilladossola.net/rifugi_e_bivacchi.html	0	301	https://www.caivilladossola.net/rifugi_e_bivacchi.html
-http://www.caivercelli.it	0	301	https://www.caivercelli.it/
-http://www.caivercelli.it/barba-ferrero/barba-ferrero.php	0	301	https://www.caivercelli.it/barba-ferrero/barba-ferrero.php
-http://www.campeggioalagna.it/	0	301	https://www.campeggioalagna.it/
-http://www.campeggiobeaulard.it	0	200	
-http://www.campeggiodinelli.com/	0	301	https://www.campeggiodinelli.com/
-http://www.campeggiopiandelcolle.com/	0	301	http://campeggiopiandelcolle.com/
-http://www.campingvallegesso.com/	0	301	https://www.campingvallegesso.com/
-http://www.campeggiotizianella.it/	0	200	
-http://www.casa-isabella.com	0	200	
-http://www.casacanada.eu	0	301	https://www.casacanada.eu/
-http://www.campeggiovallepo.it/	0	200	
-http://www.casamaterasso.com/	0	200	
-http://www.casadiriposoborsettisellafacenda.it/	0	302	https://www.casadiriposoborsettisellafacenda.it/DEFAULT.ASPX?TABID=1059&LANGUAGE=IT-IT
-http://www.cascinadonda.it	0	301	https://www.cascinadonda.it/
-http://www.casatorreallera.com/	0	200	
-http://www.cascinalane.com/	0	301	https://www.cascinalane.com/
-http://www.castellodelroccolo.it/it/	0	200	
-http://www.castellodiburonzo.it/	0	301	https://www.castellodiburonzo.it/
-http://www.castellogrinzane.com	0	301	https://www.castellogrinzane.com/
-http://www.caivilladossola.it/catasto/rifugi.htm?A	28		
-http://www.cattolica.it/	0	301	https://www.cattolica.it/
-http://www.centroippicoaltavalsesia.it/	6		
-http://www.centroculturalediocesano.it/	0	200	
-http://www.chaletsullago.it/	0	301	https://www.chaletsullago.it/
-http://www.chiesa-avigliana.it	6		
-http://www.chiapellacuneo.it/	0	301	https://www.chiapellacuneo.it/
-http://www.casaarcobaleno.eu	28		
-http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=52465	0	302	https://chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=52465
-http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=8463	0	302	https://chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=8463
-http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=8562	0	302	https://chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=8562
-http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=8649	0	302	https://chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=8649
-http://www.ciabotbesimauda.it/	0	200	
-http://www.ciclisumindario.it/	0	301	https://www.ciclisumindario.it/
+http://www.bicincitta.com/	0	302	https://www.bicincitta.com
 http://www.circolodidatticosangiorgio.it/cuceglio.html	6		
-http://www.circolodellapaniscia.com	0	301	https://www.circolodellapaniscia.com/
-http://www.cittadisusa.it/	0	302	http://www.cittadisusa.it/it-it/home
-http://www.colorificiolarcobaleno.com/	6		
-http://www.cinemasabrina.191.it/	52		
-http://www.comune.bardonecchia.to.it/	0	301	https://www.comune.bardonecchia.to.it:443/
-http://www.comune.borgosesia.vc.it/	0	301	https://www.comune.borgosesia.vc.it:443/
 http://www.comune.caravino.to.it/storia-e-cultura/1612-chiesa-di-san-rocco	0	301	https://comune.caravino.to.it/storia-e-cultura/1612-chiesa-di-san-rocco
-http://www.comune.chiusadisanmichele.to.it	0	302	http://www.comune.chiusadisanmichele.to.it/it-it/home
-http://www.comune.giaglione.to.it/	0	302	http://www.comune.giaglione.to.it/it-it/home
 http://www.comune.groscavallo.to.it/it-it/vivere-il-comune/cosa-vedere/villa-pastrone-31493-1-d4b9ee0482d9fe025f2d252cff8746ae	0	301	https://www.comune.groscavallo.to.it:443/it-it/vivere-il-comune/cosa-vedere/villa-pastrone-31493-1-d4b9ee0482d9fe025f2d252cff8746ae
-http://www.comune.lenta.vc.it/	0	301	https://www.comune.lenta.vc.it:443/
-http://www.clinicasrita.it/	0	301	https://www.clinicasrita.it/
-http://www.comune.mondovi.cn.it/	0	301	https://www.comune.mondovi.cn.it/
-http://www.comune.pontcanavese.to.it/ComSchedaTem.asp?Id=4987	0	301	https://www.comune.pontcanavese.to.it/it-it/asp.cshtml?Id=4987
-http://www.comune.rittana.cn.it/	0	301	https://www.comune.rittana.cn.it:443/
-http://www.comune.quintovercellese.vc.it/dettagli.aspx?c=1&sc=23&ssc=26&id=3&tbl=contenuti	0	301	https://comune.quintovercellese.vc.it/dettagli.aspx?c=1&sc=23&ssc=26&id=3&tbl=contenuti
-http://www.comune.robilante.cn.it/	0	301	https://www.comune.robilante.cn.it:443/
-http://www.comune.savigliano.cn.it/	0	301	https://www.comune.savigliano.cn.it:443/
-http://www.cascinamolinotorrine.com/	28		
+http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=52465	0	302	https://chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=52465
 http://www.comune.torino.it/papum/	0	301	https://www.comune.torino.it/papum/
 http://www.comune.torino.it/papum/user.php?context=opere&submitAction=dettaglio&ID_opera=M215	0	301	https://www.comune.torino.it/papum/user.php?context=opere&submitAction=dettaglio&ID_opera=M215
-http://www.comunecarcoforo.it/campeggio.htm	6		
 http://www.comune.usseglio.to.it/ComStruttureSportive.asp	0	301	https://www.comune.usseglio.to.it:443/ComStruttureSportive.asp
-http://www.cornerhouse.it/	0	200	
-http://www.convittocafe.it/	0	301	https://www.convittocafe.it/
-http://www.cosedicasadiblandino.com	0	301	https://www.cosedicasadiblandino.com/
-http://www.contatto.cn.it/	0	301	https://azzurracenter.it/contatto/
-http://www.crealto.it/	0	301	https://www.crealto.it/
-http://www.corbusier.it	0	301	http://corbusier.it/
 http://www.cuneoclimbing.it/relazioni/falesie/bagnasco.pdf	0	301	https://www.cuneoclimbing.it/relazioni/falesie/bagnasco.pdf
-http://www.cremeriacussanio.it	0	200	
-http://www.ddmazzinitorino.it/	6		
-http://www.dalmale.it	0	301	https://dalmale.it/
-http://www.danceteamvercelli.it	0	200	
-http://www.diblasisusa.it	0	302	https://www.diblasisusa.it/
-http://www.dinamicassd.it/susa/	0	301	https://www.dinamicassd.it/susa/
-http://www.discotecashock.com	0	500	
-http://www.ecomuseo.cossato.bi.it	7		
-http://www.donboscorivoli.it/	0	200	
-http://www.ecomuseoami.it/index.php?option=com_content&view=article&id=116:museo-didattico-memorie-del-tempo-&catid=39:musei-della-rete&Itemid=64	0	301	https://www.ecomuseoami.it/index.php?option=com_content&view=article&id=116:museo-didattico-memorie-del-tempo-&catid=39:musei-della-rete&Itemid=64
 http://www.ecomuseoami.it/index.php?option=com_content&view=article&id=119:museo-mineralogico-&catid=39:musei-della-rete&Itemid=64	0	301	https://www.ecomuseoami.it/index.php?option=com_content&view=article&id=119:museo-mineralogico-&catid=39:musei-della-rete&Itemid=64
+http://www.ecomuseoami.it/index.php?option=com_content&view=article&id=116:museo-didattico-memorie-del-tempo-&catid=39:musei-della-rete&Itemid=64	0	301	https://www.ecomuseoami.it/index.php?option=com_content&view=article&id=116:museo-didattico-memorie-del-tempo-&catid=39:musei-della-rete&Itemid=64
 http://www.ecomuseoami.it/site/index.php?option=com_content&view=article&id=103:ecomuseo-della-castagna-&catid=39:musei-della-rete&Itemid=64	0	301	https://www.ecomuseoami.it/site/index.php?option=com_content&view=article&id=103:ecomuseo-della-castagna-&catid=39:musei-della-rete&Itemid=64
-http://www.erbaluceridingclub.it	0	301	https://www.erbaluceridingclub.it/
-http://www.effettocamper.it/	0	301	https://www.effettocamper.it/
-http://www.erbamedica.com/	0	301	https://www.erbamedica.com/
-http://www.europadanza.it/	6		
-http://www.estetica-paolapetracca.it/	0	200	
-http://www.estmonterosa.it/baita-dott-giovanni-rondolini.html	0	301	https://www.estmonterosa.it/baita-dott-giovanni-rondolini.html
-http://www.farmaciamasino.it	0	301	https://farmaciamasino.it/
-http://www.farmaciapaduano.com/	0	301	https://www.farmaciapaduano.com/
-http://www.ddcastellamonte.it/aglie.htm	6		
-http://www.farmaciasanlorenzosnc.it/	6		
-http://www.farmaciasimondi.it/	6		
-http://www.farmaciaubertallo.com/	6		
-http://www.farmaciasangiacomo.com	0	404	
-http://www.fondazionecrbiella.it/palazzogromolosasrl	0	301	https://www.fondazionecrbiella.it/palazzogromolosasrl
-http://www.flyclubbaronerosso.it/	0	301	https://www.flyclubbaronerosso.it/
-http://www.fondazionevaldese.org	0	301	https://www.fondazionevaldese.org/
-http://www.fuoritempo.net	0	403	
-http://www.fortebramafam.it/	0	301	https://www.fortebramafam.it/
-http://www.farmaciabernardi.it/	0	200	
-http://www.gbctorino.eu	0	302	https://gbctorino.it
-http://www.gardenplanet.it/	6		
-http://www.gelateriadossi.com/	6		
-http://www.gboropa.it/	0	200	
-http://www.fsm.it	0	500	
-http://www.gelateriamarcella.it/	0	200	
-http://www.giovanemontagna.org/rifugio.asp?id=6	0	301	https://www.giovanemontagna.org/rifugio.asp?id=6
-http://www.grancentralcafe.it/	6		
-http://www.gofreriapiemonteisa.it/	0	200	
-http://www.grandamodels.it	0	200	
-http://www.grandehalte.it/	0	301	https://www.grandehalte.it/
 http://www.gulliver.it/itinerario/46251/	0	403	
+http://www.giovanemontagna.org/rifugio.asp?id=6	0	301	https://www.giovanemontagna.org/rifugio.asp?id=6
 http://www.gulliver.it/itinerario/8019/	0	403	
-http://www.golfboves.com/	0	200	
-http://www.happycasastore.it	0	301	https://www.happycasastore.it/
-http://www.hortilusgarden.it/	0	301	https://www.hortilusgarden.it/
-http://www.gattiglio.it/	0	301	https://www.gattiglio.it/
-http://www.gsptorino.it/la-capanna.html	0	301	https://www.gsptorino.it/la-capanna.html
-http://www.hotellidostresa.it/	0	301	https://www.hotellidostresa.it/
-http://www.hotel-quadrifoglio.com/	0	301	https://hotel-quadrifoglio.com/
-http://www.hotelbussolaorta.it/it/	0	404	
 http://www.icivrea2.it/scuola-primaria-don-milani	6		
 http://www.icivrea2.it/scuola-primaria-nigra	6		
-http://www.hotelpiccoloallamano.it	0	200	
-http://www.ilcortilevercelli.com/	0	301	https://www.ilcortilevercelli.com/
-http://www.ianuacoeli.com/	0	200	
-http://www.ilgattoazzurro.it/	6		
-http://www.idrocentro.com/	0	301	https://idrocentro.com/
-http://www.ilrifugiodegliasinelli.org/	0	301	https://www.ilrifugiodegliasinelli.org/
-http://www.ilmieledida.com/	0	200	
-http://www.impresafunebrenovara.com/	0	301	http://www.impresafunebrenovara.it/
-http://www.in-montagna.it/forum/viewtopic.php?f=4&t=374	0	302	http://www.in-montagna.it/cgi-sys/suspendedpage.cgi?f=4&t=374
-http://www.infernot-crea.it/	0	200	
 http://www.inmondadori.it/app/storeLocator/detail?pickUpPoint=1023	0	403	
 http://www.inps.it/AgendaSedi/DatiSede.asp?D6=01V81V02V00	0	301	https://www.inps.it/AgendaSedi/DatiSede.asp?D6=01V81V02V00
-http://www.ilgiardinodeicedri.com/	0	301	https://www.ilgiardinodeicedri.com/
-http://www.intesasanpaolo.com	0	301	https://www.intesasanpaolo.com/ib/public/static/redirect.html?r=aHR0cDovL3d3dy5pbnRlc2FzYW5wYW9sby5jb20v
-http://www.ippogrifo.com/	0	301	https://www.ippogrifo.com/
-http://www.intec-2000.it/	0	200	
-http://www.isaiasport.it	0	301	https://www.isaiasport.it/
-http://www.ismercurinogattinara.it/	0	301	https://istitutosuperioreferrarimercurino.edu.it/
-http://www.juventus.com	0	302	http://www.juventus.com/it
-http://www.la-rocca.org/	0	200	
-http://www.istitutosalus.eu	0	301	https://www.istitutosalus.eu/
-http://www.hcrystalpalace.com/	28		
-http://www.kreuzbergtrattobar.eu/	0	301	https://www.kreuzbergtrattobar.eu/
-http://www.labaritlera.it/	0	200	
-http://www.laboratoriovalsusa.it/azienda/pastificio-berardinelli	0	301	https://www.laboratoriovalsusa.it/azienda/pastificio-berardinelli
-http://www.laboratoriovalsusa.it/azienda/birrificio-lis-doc	0	301	https://www.laboratoriovalsusa.it/azienda/birrificio-lis-doc
-http://www.labranda.net/	6		
-http://www.labisimauda.it	0	301	https://www.labisimauda.it/
-http://www.lacacita.it/	0	302	https://www.lacacita.it/
-http://www.lacivettadibiella.it/	0	301	https://www.lacivettadibiella.it/
-http://www.labelladormiente.com/	0	200	
 http://www.lafiocavenmola.it/modules/news/article.php?storyid=5359	0	200	
-http://www.ladarbunera.com	0	301	https://www.ladarbunera.com/
-http://www.lagenziana.eu/	0	301	https://www.lagenziana.eu/
-http://www.lamedelsesia.vc.it/home.asp	6		
-http://www.lacasablu.it/	0	200	
-http://www.langolodelgustovercelli.it	0	301	https://www.langolodelgustovercelli.it/
-http://www.langoloconsfuso.it/	0	200	
-http://www.lapiazzettalimone.it	0	301	https://www.lapiazzettalimone.it/
-http://www.lasacrabirra.it/	0	301	https://www.lasacrabirra.it/
-http://www.lascurcio.it	0	301	https://www.lascurcio.it/
-http://www.laressia.it/	0	403	
-http://www.lasuissa.it/	0	301	https://www.lasuissa.it/
-http://www.lebaite.com/	0	200	
-http://www.lavecchiaivrea.it/	0	301	https://www.lavecchiaivrea.it/
-http://www.liceocottini.it/	0	301	https://www.liceocottini.it/
-http://www.lavanetdinachitmohammed.it/	0	200	
-http://www.liuteriapiemontese.it	0	301	https://www.liuteriapiemontese.it/
+http://www.gsptorino.it/la-capanna.html	0	301	https://www.gsptorino.it/la-capanna.html
 http://www.limoni.it/code/19489	0	301	https://www.douglas.it/
-http://www.lnostpais.it/la_rotonda/	0	200	
-http://www.locandaaquilabianca.it	0	302	https://www.locandaaquilabianca.it/
-http://www.locandadellorso.eu/	6		
-http://www.locandadelrubino.it/	0	200	
-http://www.lorenzatto.it/	0	200	
-http://www.longjin.it	0	301	https://www.longjin.it/
-http://www.lotticodicaraglio.it/	6		
-http://www.losfusotorino.it/	0	301	https://www.losfusotorino.it/
-http://www.lozac.it/	0	301	https://www.lozac.it/
-http://www.macelleriamaritan.com	6		
-http://www.mamivrea.it	0	301	https://www.mamivrea.it/
-http://www.lucaviano.com/	0	301	https://www.lucaviano.com/
-http://www.martinasusa.com	0	302	https://www.martinasusa.com/
-http://www.mastervision.it	0	301	https://www.mastervision.it/
-http://www.maximiglio.com	0	405	
-http://www.mbun.it/	0	301	https://www.mbun.it/
-http://www.mercatinounotorino.it/	0	301	https://www.mercatinounotorino.it/
-http://www.leondoro.cn.it/	28		
-http://www.mastexonline.it/	0	301	https://mastexonline.it/
-http://www.minichin.it/	6		
-http://www.mercatoitticotorino.it/	0	301	https://www.mercatoitticotorino.it/
-http://www.mondo-carta.com	6		
+http://www.ddcastellamonte.it/aglie.htm	6		
 http://www.montagnabiellese.com/mucrone-via-del-canalino-2/	0	301	https://www.montagnabiellese.com/mucrone-via-del-canalino-2/
-http://www.monterosapromotion.com/la-miacceria.html	0	404	
-http://www.mixmarkt.eu/	0	301	https://www.mixmarkt.eu/
-http://www.localport.it/canavese/trattoriasgiovanni/trattoriasangiovanni.asp	28		
-http://www.morenomoto.com	0	301	https://www.morenomoto.com/
-http://www.museoaldorossini.com/	0	301	https://www.museoaldorossini.com/
-http://www.museoferroviariosuno.it	0	301	https://www.museoferroviariosuno.it/
-http://www.museodelcostumechianale.it	0	301	https://www.museodelcostumechianale.it/
-http://www.museolaboratoriosalussola.org/	0	301	https://www.museolaboratoriosalussola.org/
-http://www.museolenuove.it	0	301	https://www.museolenuove.it/
-http://www.montmars.it/	0	301	https://www.montmars.it/
-http://www.museotorino.it/view/s/830aaf147f9342529bcf75f07d9ccbf5	0	302	https://www.museotorino.it/view/s/830aaf147f9342529bcf75f07d9ccbf5
-http://www.museotorino.it/view/s/906c2bbbb429445c948e4e05a851b9b0	0	302	https://www.museotorino.it/view/s/906c2bbbb429445c948e4e05a851b9b0
-http://www.museoradiotv.rai.it	0	301	https://www.rai.it/museoradiotv/
-http://www.negozioleggero.it	0	301	https://www.negozioleggero.it/
-http://www.nomasvello.it	0	301	https://www.nomasvello.it/
-http://www.museotornielli.it/	0	301	https://www.museotornielli.it/
-http://www.nuovavib.com/	0	301	https://nuovavib.com/
-http://www.oasicravamorozzo.it/	6		
-http://www.ocularium-torino.it	0	301	https://www.ocularium-torino.it/
-http://www.officinadellascrittura.it	0	301	https://www.officinadellascrittura.it/
-http://www.opificioristorantepizzeria.it	0	301	https://www.opificioristorantepizzeria.it/
-http://www.mosca1916.it/	0	301	https://mosca1916.it/
-http://www.oscam.com	0	301	https://www.oscam.com/
-http://www.nuovosecolo.it	0	200	
-http://www.otticaferrara.it/	0	301	https://www.otticaferrara.it/
-http://www.osteriadelvecchioasilo.eu/	0	303	/it/
-http://www.orobirra.it	0	301	https://orobirra.it/
-http://www.otticapetrini.it/	0	403	
 http://www.paesaggiverticali.it/Montagna/Relazioni/RelazioniMontagna2011.aspx	0	200	
-http://www.panperfocacciatorino.it	0	301	https://www.panperfocacciatorino.it/
-http://www.paolettofratelli.it/	0	200	
-http://www.paradisebruzolo.it	0	301	https://www.paradisebruzolo.it/
-http://www.parchireali.gov.it/parco.mandria/	6		
-http://www.parchialpicozie.it/	0	301	https://www.parchialpicozie.it/
-http://www.parchireali.gov.it/parco.stupinigi/	6		
-http://www.parcomarguareis.it/	0	301	https://www.parcomarguareis.it/
-http://www.parcoravere.com/il-chiosco/	6		
-http://www.parcosassihotel.com	0	200	
+http://www.lnostpais.it/la_rotonda/	0	200	
 http://www.parcovalborbera.it/	6		
-http://www.parcovalgrande.it/	0	301	https://www.parcovalgrande.it/
-http://www.parktofly.it/S_TOR.php	0	301	https://www.parktofly.it/S_TOR.php
-http://www.nuoviinvestimenti.it/it-IT/	28		
-http://www.parpavimenti.eu/	0	301	https://www.parpavimenti.eu/
-http://www.paraloup.it/	0	301	https://paraloup.it/
-http://www.parrocchiadivinaprovvidenza.it	0	200	
-http://www.pastificioboetti.it/	0	301	https://www.pastificioboetti.it/
-http://www.piazzettadimagnano.com	0	301	https://www.piazzettadimagnano.com/
-http://www.parrocchialavisitazione.it	0	200	
-http://www.pietrinisusa.it/	0	301	https://www.pietrinisusa.it/
-http://www.pizzeriacapribiella.com/	6		
-http://www.piscinejollyclub.net/	0	301	https://www.piscinejollyclub.net/
-http://www.poste.it	0	301	https://www.poste.it/
-http://www.pneuspio.it/	0	301	https://www.pneuspio.it/
-http://www.racconigicarta.com	0	301	https://www.racconigicarta.com/
-http://www.radiodora.it/	0	301	https://www.radiodora.it/
-http://www.radiofrejus.it/	0	301	https://www.radiofrejus.it/
-http://www.rbe.it	0	301	https://www.rbe.it/
-http://www.parcogranboscosalbertrand.it/Ecen_dettaglio.php?id=229	28		
-http://www.reginapacisvercelli.it/joomla/	0	301	https://www.reginapacisvercelli.it/joomla/
-http://www.reaonline.com	0	301	https://www.reaonline.com/
-http://www.relaisdelbrigante.com	0	200	
-http://www.residencecianfuran.com/	52		
-http://www.parrocchiasantignazio.it	28		
 http://www.regione.piemonte.it/montagna/areemontane/im/webcam/mongioie.jpg	0	404	
-http://www.regione.piemonte.it/montagna/areemontane/webcam15.htm	0	404	
-http://www.residenzavillata.it/	0	301	https://www.residenzavillata.it/
+http://www.in-montagna.it/forum/viewtopic.php?f=4&t=374	6		
 http://www.rifugio-mongioie.com/	0	301	https://www.rifugio-mongioie.com/
-http://www.rifugioalpebaranca.com	0	301	https://www.rifugioalpebaranca.com/
-http://www.rifugimonterosa.it/	0	200	
-http://www.rifugiobarant.it/	0	200	
-http://www.rifugioarlaud.it/	0	200	
-http://www.rifugioalpette.it	0	200	
 http://www.rifugiochionea.it	0	200	
-http://www.rifugioguglielmina.com	0	302	http://ww38.rifugioguglielmina.com/
 http://www.rifugiogenova.it/	0	301	https://www.rifugiogenova.it/
-http://www.rifugiocoda.it	0	500	
-http://www.rifugiomila.it/	0	200	
+http://www.rifugioguglielmina.com	0	302	http://ww38.rifugioguglielmina.com/
+http://www.localport.it/canavese/trattoriasgiovanni/trattoriasangiovanni.asp	28		
 http://www.rifugioliviobianco.com/	0	200	
-http://www.rifugionovara.com/	0	405	
-http://www.rifugiopagari.com/	0	301	https://www.rifugiopagari.com/
 http://www.rifugiopagari.com/Birrificio.htm	0	301	https://www.rifugiopagari.com/Birrificio.htm
-http://www.rifugioguglielmojervis.it/	0	200	
-http://www.rifugiopastore.it/	0	301	http://www.rifugimonterosa.it/
+http://www.rifugiopagari.com/	0	301	https://www.rifugiopagari.com/
+http://www.parcogranboscosalbertrand.it/Ecen_dettaglio.php?id=229	28		
 http://www.rifugioquarzina.it/	0	301	http://www.spazioweb.it/holding
-http://www.rifugiopontese.it	0	200	
-http://www.rifugiosoriaellena.com/	0	301	https://rifugiosoriaellena.com
 http://www.rifugioremondino.it/	0	301	https://www.rifugioremondino.it/
-http://www.riseriadiasigliano.it	0	301	https://www.riseriadiasigliano.it/
-http://www.rifugiozamboni.com/	0	301	https://www.rifugiozamboni.com/
-http://www.ristorantealbergodellaposta.com/	6		
-http://www.ristoranteaureliolurisia.it/	6		
-http://www.ristorante-imbarcadero.it	0	301	https://www.ristorante-imbarcadero.it/
-http://www.residencelesoleil.it/	28		
-http://www.ristorantedelmonte.com	0	301	https://www.lucaberolatti.it/
-http://www.ristorantedelcambio.it	0	301	https://www.ristorantedelcambio.it/
-http://www.ristorantegiapponesemeishi.it/	6		
-http://www.ristorantegiapponesesapporo.it/	6		
-http://www.ristoranteilritrovo.it	0	301	https://www.ristoranteilritrovo.it/
-http://www.ristorantedubini.it/	0	200	
-http://www.ristorantelalira.it/	0	301	https://www.ristorantelalira.it/
-http://www.ristorantelaluna.it/	0	301	https://www.ristorantelaluna.it/
-http://www.ristorantepiazzano.com/	6		
-http://www.ristorantepizzeriacentro.torino.it/	6		
-http://www.ristorantepizzeriadapietro.it/	0	301	https://www.ristorantepizzeriadapietro.it/
-http://www.ristorantequattrosoldi.it	6		
-http://www.ristorantesusastazione.it	6		
-http://www.ristorantevittoria.it/	0	200	
-http://www.rifugioquesta.it/	28		
-http://www.rprceramiche.com/	0	301	https://rprceramiche.com/
-http://www.ristoranteconvivio.it/	28		
-http://www.sadem.it	0	301	https://www.sadem.it:443/
-http://www.sandrosciacca.it/i-nostri-centri/susa	0	301	https://www.sandrosciacca.it/i-nostri-centri/susa
-http://www.ristorantelabarbatella.it/	0	301	https://www.ristorantelabarbatella.it/
+http://www.rifugiosoriaellena.com/	0	301	https://rifugiosoriaellena.com
+http://www.rifugioquesta.it/	0	301	https://www.rifugioquesta.it/
 http://www.santuariosantanna.eu/webcam.html	0	404	
-http://www.scacchiclubvallemosso.it	0	301	https://www.scacchiclubvallemosso.it/
-http://www.scuolaguidodellatorre.it/relazioni/RoccaSbarua-viaCinquettiBurdino/271/	0	403	
-http://www.scarpescarpe.eu/	0	301	https://www.scarpescarpestore.com/
-http://www.scuole-valpellice.eu/	6		
-http://www.seccio.it/	6		
-http://www.siae.it/	0	302	https://www.siae.it/it
-http://www.scuolamaternachiusadisanmichele.it/	0	200	
-http://www.sixnationspub.it	0	301	https://www.sixnationspub.it/
 http://www.societastorica-dellevallidilanzo.it/la-royi-d%E2%80%99b%C3%A8rtoul%C3%A9.html	0	301	https://www.societastorica-dellevallidilanzo.it/la-royi-d%E2%80%99b%C3%A8rtoul%C3%A9.html
-http://www.spacefishing.it/	0	301	https://www.spacefishing.it/
-http://www.studiodartefulci.com/	6		
-http://www.tartiflabistrot.it/	6		
-http://www.spezialemilitaria.com/	0	301	https://www.spezialemilitaria.com/
-http://www.ristoranteviverone.it	28		
-http://www.teaecompany.it/	0	301	https://www.teaecompany.it/
-http://www.tatamia.org/	0	301	https://www.tatamia.org/
-http://www.tecnografiamorero.it	6		
-http://www.tecnocasa.it/agenzie/immobiliari%2Bresidenziali/torino/ivrea/tohr5.html	0	301	https://www.tecnocasa.it:443/agenzie/immobiliari%2Bresidenziali/torino/ivrea/tohr5.html
-http://www.sitaf.it/index.php?option=com_k2&view=item&id=153:il-centro-servizi&Itemid=180	0	301	https://www.sitaf.it/index.php?option=com_k2&view=item&id=153:il-centro-servizi&Itemid=180
-http://www.torino05.mercatinousato.com/	0	403	
-http://www.tonytere.it/	0	200	
-http://www.torino16.mercatinousato.com/	0	403	
-http://www.torino29.mercatinousato.com/	0	403	
-http://www.torino25.mercatinousato.com/	0	403	
-http://www.torinosanpaolo.mercatinousato.com/	0	403	
-http://www.torinovialanzo.mercatinousato.com/	0	403	
-http://www.tpvservice.it	6		
-http://www.trattoriaburcina.it	6		
-http://www.torinonuoto.it/	0	301	https://www.torinonuoto.it/
-http://www.trattoriadeitigliivrea.it/	6		
-http://www.trattoriadamarisapeveragno.it/	0	301	https://www.trattoriadamarisapeveragno.it/
-http://www.trattoriamodernailsimposio.it/	0	301	https://www.trattoriamodernailsimposio.it/
-http://www.trotetraversella.com	0	301	https://www.trotetraversella.com/
-http://www.trealberiliberi.it/	0	301	https://www.trealberiliberi.it/
-http://www.tulipinnturinwest.com	0	301	https://tulip-inn-turin-west.goldentulip.com
+http://www.scuolaguidodellatorre.it/relazioni/RoccaSbarua-viaCinquettiBurdino/271/	0	403	
 http://www.turismomassello.net/base7.html	6		
-http://www.tua.cn.it/	0	301	https://azzurracenter.it/tua/
-http://www.turismovallidilanzo.it/cosa-fare/massi-balme/	0	301	https://turismovallidilanzo.it/cosa-fare/massi-balme/
-http://www.teatrosocialevillani.it/	0	400	
-http://www.universocapelli.net/	6		
-http://www.varionda.it/	0	200	
-http://www.venusorta.it/Ristorante/	6		
+http://www.tecnocasa.it/agenzie/immobiliari%2Bresidenziali/torino/ivrea/tohr5.html	0	301	https://www.tecnocasa.it:443/agenzie/immobiliari%2Bresidenziali/torino/ivrea/tohr5.html
+http://www.regione.piemonte.it/montagna/areemontane/webcam15.htm	28		
+http://www.termedivaldieri.it/	0	200	
 http://www.vercellisantandrea.com/index.html?scene_id=10	0	200	
 http://www.vercellisantandrea.com/index.html?scene_id=5	0	200	
 http://www.vercellisantandrea.com/index.html?scene_id=8	0	200	
 http://www.vercellisantandrea.com/index.html?scene_id=9	0	200	
-http://www.verocaffe.eu/	0	301	https://www.verocaffe.eu/
-http://www.vianoprofumicoltelli.com/	0	301	https://www.vianoprofumicoltelli.com/
-http://www.unione-coser.it/	0	200	
-http://www.villagrillidicantarana.it/	6		
-http://www.vinichiesa.it	0	200	
-http://www.zizi-susa.com/	6		
-https://abaton.damanhur.org/tourandtravelservices/	0	200	
-http://www.termedivaldieri.it/	28		
-https://agenziapiemontelavoro.it/centro-per-limpiego/centro-per-limpiego-di-vercelli/	0	200	
-http://www.zero30.it/	0	200	
-https://agricolasangiuliano.it/	0	200	
-https://agenziapiemontelavoro.it/centro-per-limpiego/centro-per-limpiego-di-chieri/	0	200	
-https://anniazzurri.it/residenza-anni-azzurri-carmagnola	0	200	
-http://www.unicredit.it	28		
-https://amysushi.it/ristoranti/ristorante-amysushi-castelletto-ticino/	0	301	https://amysushi.it/ristoranti/ristorante-castelletto-ticino/
-https://autolavaggiodoctorino.com/contatti/	92		
-https://armistizio1848.wixsite.com/website	0	200	
-https://amarene.net/	0	200	
-https://bblabarletta.wixsite.com	0	404	
-https://bbverdemusica.com/	6		
-https://basilicamariaausiliatrice.it/cappella-pinardi/	0	200	
 https://battikuore.com/	0	200	
-https://associazionedai.it/evento/il-triangolo-impossibile/	0	200	
-https://borromees.com/en	0	301	https://borromees.com/en/
-https://bikeadventures.it/negozio/	0	200	
-https://buddies.it/it/scuola-buddies-primaria/	0	405	
-https://booking.isoleborromee.it/it/product/7/detail	0	200	
-https://campingdellaserra.com/	0	200	
-https://bsabeer.it/	0	301	http://www.birrificiobsa.com/
-https://campingpiscinademonte.com/	0	200	
-https://casadide.it	0	301	http://www.casadide.it/
-https://campingavigliana.it/	0	200	
-https://casaè.it/agenzia/villanovadasti-at001o/	0	403	
-https://cascinacavanel.com/	60		
-https://casaropipe.com/	0	200	
+https://basilicamariaausiliatrice.it/cappella-pinardi/	0	200	
 https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0100028372	0	200	
 https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/0100028184	0	200	
+https://associazionedai.it/evento/il-triangolo-impossibile/	0	200	
 https://climbook.com/falesie/1558/rocca-dellarma-placca-silvana-lo-scudo-placca-di-guz-notte-di-stelle	0	200	
 https://climbook.com/falesie/27168/placche-giacottino	0	200	
-https://chalet-ceresolereale.it/	0	200	
 https://coinatmradar.com/bitcoin_atm/10902/bitcoin-atm-shitcoins-club-torino-punto-atm-bitcoin/	0	403	
 https://coinatmradar.com/bitcoin_atm/55467/bitcoin-atm-shitcoins-club-torino-piazza-paradiso-torino-bitcoin-atm/	0	403	
-https://catastogrotte-piemonte.net/caves-view-1550.html	0	200	
 https://commons.wikimedia.org/wiki/File:PV_Balme_015.JPG	0	200	
 https://commons.wikimedia.org/wiki/File:Scultura_lignea_su_albero.jpg	0	200	
-https://cristianamarengo.it/	0	200	
-https://dama-caffetteria.business.site/	0	404	
-https://comune.almese.to.it/vivere-il-comune/territorio/sport-e-itinerari/percorsi-mtb/percorso-della-miosa-nero/	0	200	
-https://danbag.altervista.org/PercorsiVCO/XR1A/XR1A-FTP.kml	0	404	
+https://catastogrotte-piemonte.net/caves-view-1550.html	0	200	
 https://danbag.altervista.org/PercorsiVCO/XR1B/XR1B-FTP.kml	0	404	
-https://danbag.altervista.org/Valgrande/X06/X06-FTP.kml	0	404	
-https://damanhur.org/	0	200	
+https://danbag.altervista.org/PercorsiVCO/XR1A/XR1A-FTP.kml	0	404	
+https://comune.almese.to.it/vivere-il-comune/territorio/sport-e-itinerari/percorsi-mtb/percorso-della-miosa-nero/	0	200	
 https://danbag.altervista.org/Valgrande/X07NS/X07NS-FTP.kml	0	404	
 https://danbag.altervista.org/Valgrande/X07SN/X07SN-FTP.kml	0	404	
 https://danbag.altervista.org/Valgrande/X08/X08-FTP.kml	0	404	
-https://campingmonterosa.eu	0	301	https://www.campingmonterosa.eu/
-https://danbag.altervista.org/Valgrande/X10/X10-FTP.kml	0	404	
+https://danbag.altervista.org/Valgrande/X06/X06-FTP.kml	0	404	
 https://danbag.altervista.org/Valgrande/X09/X09-FTP.kml	0	404	
+https://danbag.altervista.org/Valgrande/X10/X10-FTP.kml	0	404	
 https://danbag.altervista.org/Valgrande/X11/X11-FTP.kml	0	404	
 https://danbag.altervista.org/Valgrande/X14/X14-FTP.kml	0	404	
 https://danbag.altervista.org/Valgrande/XP1A/XP1A-FTP.kml	0	404	
-https://commercio.comune.torino.it/mercati/mercati-allaperto/mercato-crocetta/	0	200	
 https://ekye.it/fontane/museo-etnografico/	0	200	
-https://europam.it/stazioni-di-servizio/mappa-distributori/dettaglio-distributori/43587/	0	404	
-https://edilruda.it	0	200	
-https://domori.com	0	200	
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0410007	0	502	
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085O	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05085O.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085I	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05085I.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509314	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/0509314.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509319	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/0509319.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509314	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/0509314.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093L	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05093L.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0509321	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/0509321.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05085O	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05085O.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0410007	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/0410007.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093P	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05093P.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093O	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05093O.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093R	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05093R.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093L	0	200	
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093S	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05093S.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093R	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05093R.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093O	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05093O.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093U	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05093U.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05174E	0	502	
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093V	0	302	https://fiches-geodesie.ign.fr/fiches/
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05093W	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05093W.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0607307	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/0607307.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AA	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AA.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=05174E	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/05174E.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AB	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AB.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AA	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AA.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AC	0	302	https://fiches-geodesie.ign.fr/fiches/
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AE	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AE.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AD	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AD.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AE	0	502	
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AD	0	502	
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AF	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AF.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AG	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AG.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AH	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AH.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AI	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AI.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AJ	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AJ.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AK	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AK.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AJ	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AJ.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AN	0	502	
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AM	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AM.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AN	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AN.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AO	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AO.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AP	0	502	
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AP	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AP.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073B	0	302	https://fiches-geodesie.ign.fr/fiches/
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AS	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AS.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AR	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AR.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AQ	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AQ.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073AS	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073AS.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BD	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073BD.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BE	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073BE.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BF	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073BF.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073B	0	302	https://fiches-geodesie.ign.fr/fiches/
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BH	0	502	
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BJ	0	302	https://fiches-geodesie.ign.fr/fiches/
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BI	0	302	https://fiches-geodesie.ign.fr/fiches/
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BJ	0	302	https://fiches-geodesie.ign.fr/fiches/
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BD	0	502	
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BF	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073BF.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BH	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073BH.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073BK	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073BK.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073C	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073C.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073E	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073E.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073E	0	502	
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073N	0	302	https://fiches-geodesie.ign.fr/fiches/
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06073C	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06073C.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127G	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06127G.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162A	0	502	
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06127I	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06127I.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162A	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06162A.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06162G	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06162G.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0616314	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/0616314.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=0616315	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/0616315.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163G	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06163G.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=06163H	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/06163H.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304015	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/7304015.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73047A	0	502	
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73047A	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73047A.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7304709	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/7304709.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7305609	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/7305609.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73056D	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73056D.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73056F	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73056F.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73056E	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73056E.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73143G	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73143G.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73056F	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73056F.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73143H	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73143H.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73143I	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73143I.pdf
-https://forms.gle/L7FCiFEEmprTSHWs8	0	302	https://docs.google.com/forms/d/e/1FAIpQLSc-ADGND4dRGCp-bK2oOl8T_BBo9wnQLEI_44S18BgQnoC1fw/viewform?usp=send_form
-https://flavourart.com	0	301	http://flavourart.com/corporate/
-https://fisiokinetiksport.it	0	200	
-https://gametekkcuneo.business.site/	0	404	
-https://fuorirottacanavese.com	0	301	https://www.fuorirottacanavese.com/
-https://futureisnature.com/	0	200	
 https://guida.prolocorosazza.it/fontanafede.html	0	200	
-https://gardiman.it/	0	302	https://www.gardiman.it/falegnameria/index.php
 https://guida.prolocorosazza.it/fontanarosa.html	0	200	
 https://guida.prolocorosazza.it/fontanavalligiana.html	0	200	
 https://guida.prolocorosazza.it/stella.html	0	200	
-https://hotelvictoriacuneo.it	0	200	
-https://galleriebig.it/parafarmacia-marchisio/	0	200	
-https://il-calzolaiosu-misura.business.site/	0	404	
-https://identify.plantnet.org/it/k-middle-europe/observations/1022378313	0	200	
-https://iesse3.com	0	200	
-https://ilglicinerestaurant.it/	0	200	
-https://ilpodiosport.it/	0	200	
-https://invalsesia.it/listing/chiesa-parrocchiale-di-san-giacomo-a-rimasco/	0	200	
-https://ip.gruppoapi.com/	0	200	
 https://it-it.facebook.com/pages/Hollywood-cafè/472502336137001	0	302	https://it-it.facebook.com/100067532298029/
-https://ilverbano.com/	0	200	
-https://il-bric.it/	0	200	
-https://kawasushi.it/	0	200	
-https://lamericano.store/	6		
-https://lakeview.eu/	0	200	
-https://lemiliano.it/	0	200	
-https://lacombustoil.it/	0	200	
-https://lacrosa.it/	0	200	
-https://lorto-di-alice-vegan.eatbu.com/	0	404	
-https://locandadellastazione.com	0	301	https://locandadellastazione.com/it/
-https://magivosushi.it/	0	405	
-https://market-tuttanatura.jimdosite.com/	0	403	
-https://locandaupega.com/campeggio/	0	200	
-https://mercatousatoitalia.com	6		
-https://macelleriaalliopaesana.it/	0	200	
-https://microteatrosusa.wixsite.com	0	404	
-https://moito.myshopify.com/	0	301	https://moitotorino.com/
-https://lupipiemonte.it/	0	200	
-https://montagnapertutti.it/roccia/arrampicate/piemonte/stura/vallonetto_so.php	0	200	
-https://mediacor.it/product/madre-natalina-bonardi/	0	200	
-https://montagnapertutti.it/roccia/arrampicate/piemonte/stura/vallonetto.php?lang=en	0	200	
-https://museotazzetti.it/	0	200	
-https://negozi.tigota.it/it/6123-mondovi	0	301	http://www.tigota.it/negozi/
-https://negozi.iperbimbo.it/vercelli/	0	200	
-https://novararcobaleno.wordpress.com	0	200	
-https://motoline.it/	0	200	
-https://miserere.it/contatti/	0	200	
-https://osteriasanmaurizio.it/	6		
-https://osteriamalora.it/	0	200	
-https://paesana.it/archivio/associazioni/Societa-Bocciofila-Paesana_10.asp	0	200	
+https://identify.plantnet.org/it/k-middle-europe/observations/1022378313	0	200	
+https://ip.gruppoapi.com/	0	200	
+https://invalsesia.it/listing/chiesa-parrocchiale-di-san-giacomo-a-rimasco/	0	200	
 https://percorsi.estmonterosa.it/NOAV/VR3/VR3.kml	0	200	
+https://montagnapertutti.it/roccia/arrampicate/piemonte/stura/vallonetto_so.php	0	200	
+https://montagnapertutti.it/roccia/arrampicate/piemonte/stura/vallonetto.php?lang=en	0	200	
 https://percorsi.estmonterosa.it/NOAV/VR3a/VR3a.kml	0	200	
-https://pasticceriadulcia.com/	0	200	
 https://percorsi.estmonterosa.it/a/A00(1)/A00(1).kml	0	200	
 https://percorsi.estmonterosa.it/a/A00(2)/A00(2).kml	0	200	
+https://mediacor.it/product/madre-natalina-bonardi/	0	200	
 https://percorsi.estmonterosa.it/a/A00(3)/A00(3).kml	0	200	
 https://percorsi.estmonterosa.it/a/A00a(1)/A00a(1).kml	0	200	
-https://percorsi.estmonterosa.it/a/A00d/A00d.kml	0	200	
 https://percorsi.estmonterosa.it/a/A00a(2)/A00a(2).kml	0	200	
-https://percorsi.estmonterosa.it/a/A00e/A00e.kml	0	200	
 https://percorsi.estmonterosa.it/a/A00f/A00f.kml	0	200	
+https://percorsi.estmonterosa.it/a/A00d/A00d.kml	0	200	
+https://percorsi.estmonterosa.it/a/A00e/A00e.kml	0	200	
 https://percorsi.estmonterosa.it/a/A00g/A00g.kml	0	200	
-https://pasticceriastorie.it	0	200	
 https://percorsi.estmonterosa.it/a/A00v/A00v.kml	0	200	
 https://percorsi.estmonterosa.it/a/A01a/A01a.kml	0	200	
-https://percorsi.estmonterosa.it/a/A01/A01.kml	0	200	
 https://percorsi.estmonterosa.it/a/A03/A03.kml	0	200	
-https://percorsi.estmonterosa.it/a/A03a/A03a.kml	0	200	
+https://percorsi.estmonterosa.it/a/A01/A01.kml	0	200	
 https://percorsi.estmonterosa.it/a/A03b/A03b.kml	0	200	
 https://percorsi.estmonterosa.it/a/A03c/A03c.kml	0	200	
+https://percorsi.estmonterosa.it/a/A03a/A03a.kml	0	200	
 https://percorsi.estmonterosa.it/a/A04/A04.kml	0	200	
 https://percorsi.estmonterosa.it/a/A06/A06.kml	0	200	
+https://percorsi.estmonterosa.it/a/A08/A08.kml	0	200	
 https://percorsi.estmonterosa.it/a/A16/A16.kml	0	200	
 https://percorsi.estmonterosa.it/a/A17/A17.kml	0	200	
 https://percorsi.estmonterosa.it/a/A17b/A17b.kml	0	200	
-https://percorsi.estmonterosa.it/a/A08/A08.kml	0	200	
-https://percorsi.estmonterosa.it/a/A20a/A20a.kml	0	200	
 https://percorsi.estmonterosa.it/a/A21/A21.kml	0	200	
+https://percorsi.estmonterosa.it/a/A20a/A20a.kml	0	200	
 https://percorsi.estmonterosa.it/a/A22/A22.kml	0	200	
 https://percorsi.estmonterosa.it/a/A22a/A22a.kml	0	200	
 https://percorsi.estmonterosa.it/a/A24/A24.kml	0	200	
@@ -903,24 +388,24 @@ https://percorsi.estmonterosa.it/a/A26/A26.kml	0	200
 https://percorsi.estmonterosa.it/a/A28/A28.kml	0	200	
 https://percorsi.estmonterosa.it/a/A28a/A28a.kml	0	200	
 https://percorsi.estmonterosa.it/a/A32/A32.kml	0	200	
+https://percorsi.estmonterosa.it/a/A34a/A34a.kml	0	200	
 https://percorsi.estmonterosa.it/a/A33/A33.kml	0	200	
 https://percorsi.estmonterosa.it/a/A34/A34.kml	0	200	
-https://percorsi.estmonterosa.it/a/A36/A36.kml	0	200	
-https://percorsi.estmonterosa.it/a/A34a/A34a.kml	0	200	
-https://percorsi.estmonterosa.it/a/A39a/A39a.kml	0	200	
 https://percorsi.estmonterosa.it/a/A36a/A36a.kml	0	200	
+https://percorsi.estmonterosa.it/a/A36/A36.kml	0	200	
+https://percorsi.estmonterosa.it/a/A39a/A39a.kml	0	200	
 https://percorsi.estmonterosa.it/a/A44/A44.kml	0	200	
 https://percorsi.estmonterosa.it/a/A46/A46.kml	0	200	
-https://percorsi.estmonterosa.it/a/A48/A48.kml	0	200	
 https://percorsi.estmonterosa.it/a/A47/A47.kml	0	200	
+https://percorsi.estmonterosa.it/a/A48/A48.kml	0	200	
 https://percorsi.estmonterosa.it/a/A51/A51.kml	0	200	
 https://percorsi.estmonterosa.it/a/A52/A52.kml	0	200	
 https://percorsi.estmonterosa.it/a/A52a/A52a.kml	0	200	
 https://percorsi.estmonterosa.it/a/A52b/A52b.kml	0	200	
-https://percorsi.estmonterosa.it/a/A54/A54.kml	0	200	
 https://percorsi.estmonterosa.it/a/A52c/A52c.kml	0	200	
-https://percorsi.estmonterosa.it/a/A53/A53.kml	0	200	
 https://percorsi.estmonterosa.it/a/A52f/A52f.kml	0	200	
+https://percorsi.estmonterosa.it/a/A53/A53.kml	0	200	
+https://percorsi.estmonterosa.it/a/A54/A54.kml	0	200	
 https://percorsi.estmonterosa.it/a/A54a/A54a.kml	0	200	
 https://percorsi.estmonterosa.it/a/A56/A56.kml	0	200	
 https://percorsi.estmonterosa.it/a/A56a/A56a.kml	0	200	
@@ -930,32 +415,32 @@ https://percorsi.estmonterosa.it/a/A58b/A58b.kml	0	200
 https://percorsi.estmonterosa.it/a/A60/A60.kml	0	200	
 https://percorsi.estmonterosa.it/b/B00a/B00a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B00b/B00b.kml	0	200	
-https://percorsi.estmonterosa.it/b/B02/B02.kml	0	200	
 https://percorsi.estmonterosa.it/b/B00c/B00c.kml	0	200	
+https://percorsi.estmonterosa.it/b/B02/B02.kml	0	200	
 https://percorsi.estmonterosa.it/b/B04a/B04a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B04b/B04b.kml	0	200	
 https://percorsi.estmonterosa.it/b/B06/B06.kml	0	200	
-https://percorsi.estmonterosa.it/b/B08/B08.kml	0	200	
 https://percorsi.estmonterosa.it/b/B06a/B06a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B08a/B08a.kml	0	200	
+https://percorsi.estmonterosa.it/b/B08/B08.kml	0	200	
 https://percorsi.estmonterosa.it/b/B08c/B08c.kml	0	200	
 https://percorsi.estmonterosa.it/b/B14/B14.kml	0	200	
 https://percorsi.estmonterosa.it/b/B15/B15.kml	0	200	
 https://percorsi.estmonterosa.it/b/B15a/B15a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B15b/B15b.kml	0	200	
 https://percorsi.estmonterosa.it/b/B16/B16.kml	0	200	
-https://percorsi.estmonterosa.it/b/B16a/B16a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B16c/B16c.kml	0	200	
-https://percorsi.estmonterosa.it/b/B19a/B19a.kml	0	200	
+https://percorsi.estmonterosa.it/b/B16a/B16a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B18b/B18b.kml	0	200	
 https://percorsi.estmonterosa.it/b/B19/B19.kml	0	200	
-https://percorsi.estmonterosa.it/b/B19b/B19b.kml	0	200	
+https://percorsi.estmonterosa.it/b/B19a/B19a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B20/B20.kml	0	200	
+https://percorsi.estmonterosa.it/b/B19b/B19b.kml	0	200	
 https://percorsi.estmonterosa.it/b/B20a/B20a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B20b/B20b.kml	0	200	
+https://percorsi.estmonterosa.it/b/B21a/B21a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B21/B21.kml	0	200	
 https://percorsi.estmonterosa.it/b/B22/B22.kml	0	200	
-https://percorsi.estmonterosa.it/b/B21a/B21a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B23/B23.kml	0	200	
 https://percorsi.estmonterosa.it/b/B23a/B23a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B24/B24.kml	0	200	
@@ -963,12 +448,12 @@ https://percorsi.estmonterosa.it/b/B24a/B24a.kml	0	200
 https://percorsi.estmonterosa.it/b/B25a/B25a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B25b/B25b.kml	0	200	
 https://percorsi.estmonterosa.it/b/B27/B27.kml	0	200	
-https://percorsi.estmonterosa.it/b/B38b/B38b.kml	0	200	
 https://percorsi.estmonterosa.it/b/B30/B30.kml	0	200	
+https://percorsi.estmonterosa.it/b/B38b/B38b.kml	0	200	
 https://percorsi.estmonterosa.it/b/B40/B40.kml	0	200	
 https://percorsi.estmonterosa.it/b/B41a/B41a.kml	0	200	
-https://percorsi.estmonterosa.it/b/B96/B96.kml	0	200	
 https://percorsi.estmonterosa.it/b/B46a/B46a.kml	0	200	
+https://percorsi.estmonterosa.it/b/B96/B96.kml	0	200	
 https://percorsi.estmonterosa.it/b/B96a/B96a.kml	0	200	
 https://percorsi.estmonterosa.it/b/B97/B97.kml	0	200	
 https://percorsi.estmonterosa.it/b/B98/B98.kml	0	200	
@@ -987,8 +472,8 @@ https://percorsi.estmonterosa.it/d/D12/D12.kml	0	200
 https://percorsi.estmonterosa.it/d/D10/D10.kml	0	200	
 https://percorsi.estmonterosa.it/d/D12a/D12a.kml	0	200	
 https://percorsi.estmonterosa.it/d/D13/D13.kml	0	200	
-https://percorsi.estmonterosa.it/d/D14/D14.kml	0	200	
 https://percorsi.estmonterosa.it/d/D14a/D14a.kml	0	200	
+https://percorsi.estmonterosa.it/d/D14/D14.kml	0	200	
 https://percorsi.estmonterosa.it/d/D15/D15.kml	0	200	
 https://percorsi.estmonterosa.it/d/D17/D17.kml	0	200	
 https://percorsi.estmonterosa.it/d/D18/D18.kml	0	200	
@@ -1008,9 +493,9 @@ https://percorsi.estmonterosa.it/g/G00(2)/G00(2).kml	0	200
 https://percorsi.estmonterosa.it/g/G00(3)/G00(3).kml	0	200	
 https://percorsi.estmonterosa.it/g/G00(4)/G00(4).kml	0	200	
 https://percorsi.estmonterosa.it/g/G00a/G00a.kml	0	200	
-https://percorsi.estmonterosa.it/g/G00b/G00b.kml	0	200	
-https://percorsi.estmonterosa.it/g/G04/G04.kml	0	200	
 https://percorsi.estmonterosa.it/g/G00d/G00d.kml	0	200	
+https://percorsi.estmonterosa.it/g/G04/G04.kml	0	200	
+https://percorsi.estmonterosa.it/g/G00b/G00b.kml	0	200	
 https://percorsi.estmonterosa.it/g/G06/G06.kml	0	200	
 https://percorsi.estmonterosa.it/g/G06a/G06a.kml	0	200	
 https://percorsi.estmonterosa.it/g/G09.kml	0	500	
@@ -1032,20 +517,20 @@ https://percorsi.estmonterosa.it/g/G27/G27.kml	0	200
 https://percorsi.estmonterosa.it/g/G28a/G28a.kml	0	200	
 https://percorsi.estmonterosa.it/g/G30/G30.kml	0	200	
 https://percorsi.estmonterosa.it/g/G31/G31.kml	0	200	
-https://percorsi.estmonterosa.it/g/G31a/G31a.kml	0	200	
 https://percorsi.estmonterosa.it/g/G32/G32.kml	0	200	
+https://percorsi.estmonterosa.it/g/G31a/G31a.kml	0	200	
 https://percorsi.estmonterosa.it/g/G32a/G32a.kml	0	200	
 https://percorsi.estmonterosa.it/g/G34a/G34a.kml	0	200	
+https://percorsi.estmonterosa.it/g/G36/G36.kml	0	200	
 https://percorsi.estmonterosa.it/g/G34b/G34b.kml	0	200	
 https://percorsi.estmonterosa.it/g/G38/G38.kml	0	200	
-https://percorsi.estmonterosa.it/g/G36/G36.kml	0	200	
-https://percorsi.estmonterosa.it/g/G41a/G41a.kml	0	200	
 https://percorsi.estmonterosa.it/g/G39/G39.kml	0	200	
 https://percorsi.estmonterosa.it/g/G43/G43.kml	0	200	
+https://percorsi.estmonterosa.it/g/G41a/G41a.kml	0	200	
 https://percorsi.estmonterosa.it/g/G97/G97.kml	0	200	
 https://percorsi.estmonterosa.it/g/G99/G99.kml	0	200	
-https://percorsi.estmonterosa.it/h/H00(1).kmz	0	200	
 https://percorsi.estmonterosa.it/h/H00(2).kmz	0	200	
+https://percorsi.estmonterosa.it/h/H00(1).kmz	0	200	
 https://percorsi.estmonterosa.it/h/H00c/H00c.kml	0	200	
 https://percorsi.estmonterosa.it/h/H00e/H00e.kml	0	200	
 https://percorsi.estmonterosa.it/h/H01/H01.kml	0	200	
@@ -1059,15 +544,15 @@ https://percorsi.estmonterosa.it/h/H08c/H08c.kml	0	200
 https://percorsi.estmonterosa.it/h/H09/H09.kml	0	200	
 https://percorsi.estmonterosa.it/h/H09c/H09c.kml	0	200	
 https://percorsi.estmonterosa.it/h/H09x/H09x.kml	0	200	
-https://percorsi.estmonterosa.it/h/H10/H10.kml	0	200	
 https://percorsi.estmonterosa.it/h/H09y/H09y.kml	0	200	
-https://percorsi.estmonterosa.it/h/H14/H14.kml	0	200	
+https://percorsi.estmonterosa.it/h/H10/H10.kml	0	200	
 https://percorsi.estmonterosa.it/h/H16/H16.kml	0	200	
+https://percorsi.estmonterosa.it/h/H14/H14.kml	0	200	
 https://percorsi.estmonterosa.it/h/H18/H18.kml	0	200	
 https://percorsi.estmonterosa.it/h/H98/H98.kml	0	200	
 https://percorsi.estmonterosa.it/h/H99/H99.kml	0	200	
-https://percorsi.estmonterosa.it/m/M00(1)/M00(1).kml	0	200	
 https://percorsi.estmonterosa.it/l/L98/L98.kml	0	200	
+https://percorsi.estmonterosa.it/m/M00(1)/M00(1).kml	0	200	
 https://percorsi.estmonterosa.it/m/M00(2)/M00(2).kml	0	200	
 https://percorsi.estmonterosa.it/m/M00a/M00a.kml	0	200	
 https://percorsi.estmonterosa.it/m/M00b/M00b.kml	0	200	
@@ -1086,12 +571,12 @@ https://percorsi.estmonterosa.it/p/P01/P01.kml	0	200
 https://percorsi.estmonterosa.it/p/P01a/P01a.kml	0	200	
 https://percorsi.estmonterosa.it/p/P01b/P01b.kml	0	200	
 https://percorsi.estmonterosa.it/p/P01c/P01c.kml	0	200	
-https://percorsi.estmonterosa.it/p/P01e/P01e.kml	0	200	
 https://percorsi.estmonterosa.it/p/P01d/P01d.kml	0	200	
+https://percorsi.estmonterosa.it/p/P01e/P01e.kml	0	200	
 https://percorsi.estmonterosa.it/p/P01v/P01v.kml	0	200	
 https://percorsi.estmonterosa.it/p/P02/P02.kml	0	200	
-https://percorsi.estmonterosa.it/p/P02b/P02b.kml	0	200	
 https://percorsi.estmonterosa.it/p/P02a/P02a.kml	0	200	
+https://percorsi.estmonterosa.it/p/P02b/P02b.kml	0	200	
 https://percorsi.estmonterosa.it/p/P02c/P02c.kml	0	200	
 https://percorsi.estmonterosa.it/p/P02d/P02d.kml	0	200	
 https://percorsi.estmonterosa.it/p/P02e/P02e.kml	0	200	
@@ -1106,39 +591,39 @@ https://percorsi.estmonterosa.it/p/P07c/P07c.kml	0	200
 https://percorsi.estmonterosa.it/p/P07d/P07d.kml	0	200	
 https://percorsi.estmonterosa.it/p/P08/P08.kml	0	200	
 https://percorsi.estmonterosa.it/p/P09/P09.kml	0	200	
-https://percorsi.estmonterosa.it/p/P12/P12.kml	0	200	
 https://percorsi.estmonterosa.it/p/P11/P11.kml	0	200	
+https://percorsi.estmonterosa.it/p/P12/P12.kml	0	200	
 https://percorsi.estmonterosa.it/p/P12a/P12a.kml	0	200	
 https://percorsi.estmonterosa.it/p/P13/P13.kml	0	200	
 https://percorsi.estmonterosa.it/p/P14/P14.kml	0	200	
 https://percorsi.estmonterosa.it/p/P17/P17.kml	0	200	
 https://percorsi.estmonterosa.it/p/P40/P40.kml	0	200	
 https://percorsi.estmonterosa.it/p/P50/P50.kml	0	200	
-https://percorsi.estmonterosa.it/r/R01a/R01a.kml	0	200	
-https://percorsi.estmonterosa.it/r/R00/R00.kml	0	200	
 https://percorsi.estmonterosa.it/p/P50b/P50b.kml	0	200	
+https://percorsi.estmonterosa.it/r/R00/R00.kml	0	200	
+https://percorsi.estmonterosa.it/r/R01a/R01a.kml	0	200	
 https://percorsi.estmonterosa.it/r/R01b/R01b.kml	0	200	
 https://percorsi.estmonterosa.it/r/R02/R02.kml	0	200	
-https://percorsi.estmonterosa.it/r/R03-BOVE/R03-BOVE.kml	0	200	
 https://percorsi.estmonterosa.it/r/R02a/R02a.kml	0	200	
+https://percorsi.estmonterosa.it/r/R03-BOVE/R03-BOVE.kml	0	200	
 https://percorsi.estmonterosa.it/r/R03a/R03a.kml	0	200	
 https://percorsi.estmonterosa.it/r/R04/R04.kml	0	200	
 https://percorsi.estmonterosa.it/r/R06/R06.kml	0	200	
-https://percorsi.estmonterosa.it/r/R07a/R07a.kml	0	200	
 https://percorsi.estmonterosa.it/r/R09/R09.kml	0	200	
+https://percorsi.estmonterosa.it/r/R07a/R07a.kml	0	200	
 https://percorsi.estmonterosa.it/r/R14/R14.kml	0	200	
-https://percorsi.estmonterosa.it/r/R16a/R16a.kml	0	200	
 https://percorsi.estmonterosa.it/r/R16/R16.kml	0	200	
+https://percorsi.estmonterosa.it/r/R16a/R16a.kml	0	200	
 https://percorsi.estmonterosa.it/r/R18/R18.kml	0	200	
 https://percorsi.estmonterosa.it/r/R22/R22.kml	0	200	
 https://percorsi.estmonterosa.it/r/R24/R24.kml	0	200	
 https://percorsi.estmonterosa.it/r/R24b/R24b.kml	0	200	
 https://percorsi.estmonterosa.it/r/R30a/R30a.kml	0	200	
 https://percorsi.estmonterosa.it/r/R30b/R30b.kml	0	200	
-https://percorsi.estmonterosa.it/r/R30d/R30d.kml	0	200	
 https://percorsi.estmonterosa.it/r/R30c/R30c.kml	0	200	
-https://percorsi.estmonterosa.it/r/R30e/R30e.kml	0	200	
+https://percorsi.estmonterosa.it/r/R30d/R30d.kml	0	200	
 https://percorsi.estmonterosa.it/r/R36/R36.kml	0	200	
+https://percorsi.estmonterosa.it/r/R30e/R30e.kml	0	200	
 https://percorsi.estmonterosa.it/r/R38/R38.kml	0	200	
 https://percorsi.estmonterosa.it/r/R42/R42.kml	0	200	
 https://percorsi.estmonterosa.it/s/S03a/S03a.kml	0	200	
@@ -1164,266 +649,70 @@ https://percorsi.estmonterosa.it/t/T22a/T22a.kml	0	200
 https://percorsi.estmonterosa.it/t/T24/T24.kml	0	200	
 https://percorsi.estmonterosa.it/t/T26/T26.kml	0	200	
 https://percorsi.estmonterosa.it/t/T28/T28.kml	0	200	
-https://percorsi.estmonterosa.it/t/T30/T30.kml	0	200	
 https://percorsi.estmonterosa.it/t/T32/T32.kml	0	200	
 https://percorsi.estmonterosa.it/t/T32a/T32a.kml	0	200	
+https://percorsi.estmonterosa.it/t/T30/T30.kml	0	200	
 https://percorsi.estmonterosa.it/t/T34/T34.kml	0	200	
 https://percorsi.estmonterosa.it/t/T34b/T34b.kml	0	200	
 https://percorsi.estmonterosa.it/t/T36/T36.kml	0	200	
 https://percorsi.estmonterosa.it/t/T36a/T36a.kml	0	200	
 https://percorsi.estmonterosa.it/t/T36e/T36e.kml	0	200	
 https://percorsi.estmonterosa.it/v/V00/V00.kml	0	200	
-https://percorsi.estmonterosa.it/v/VL2/VL2.kml	0	200	
 https://percorsi.estmonterosa.it/v/VL7/VL7.kml	0	200	
+https://percorsi.estmonterosa.it/v/VL2/VL2.kml	0	200	
 https://percorsi.estmonterosa.it/v/VM2/VM2.kml	0	200	
 https://percorsi.estmonterosa.it/v/VM6/VM6.kml	0	200	
-https://phoenix-asd.business.site	0	404	
-https://percorsi.estmonterosa.it/z/Z02/Z02.kml	0	200	
 https://percorsi.estmonterosa.it/z/Z02bZ02b.kml	0	500	
+https://percorsi.estmonterosa.it/z/Z02/Z02.kml	0	200	
 https://percorsi.estmonterosa.it/z/Z99/Z99.kml	0	200	
-https://pizzium.com/locali/novara-via-fratelli-rosselli-30/	0	200	
-https://pumptrackpianezza.it/	0	200	
-https://pokeyfood.com/	0	200	
-https://realcastello.com/albergo/	0	200	
-https://rifugiopianadelponte.wixsite.com	0	404	
-https://realcastello.com/ristorante/	0	200	
-https://sacradisanmichele.com/	0	200	
-https://puntofotopinerolo.it/	0	200	
-https://scout.coop	0	200	
-https://rivoldrink.it/	0	200	
-https://rifugiofauniera.it/vie-di-arrampicata/	0	200	
-https://sites.google.com/site/isolapescatori/comunicazioni/ipadspash	0	404	
-https://serviceandmanagement.it/	0	200	
-https://sites.google.com/view/tabaccheriafumagalli	0	200	
-https://simondi.gallery	0	301	https://simondi.gallery/ita/
 https://sketchfab.com/models/87517206692740e38233b719e4a49a16/embed?autospin=0.2&autostart=1	0	200	
 https://sketchfab.com/models/be0ce4b6158842af8b070b37019ba125/embed?autospin=0.2&autostart=1	0	200	
-https://sketchfab.com/models/fa0ba37475a84e24864fc52147917845/embed?autospin=0.2&autostart=1	0	200	
-https://smashburgersandfries.com/	0	103	
-https://sito.libero.it/rampigneacuni/2022/08/09/falesia-della-reina-entracque/	0	200	
-https://studiodiecivercelli.org/	0	200	
-https://sushi-su.eatbu.com	0	302	https://sushi-su.eatbu.com/?lang=en
-https://spspa.it/	0	200	
-https://tabaccheriapiazzacastello.business.site	0	404	
-https://torino.arriva.it/	0	200	
-https://torrecives.wordpress.com/	0	200	
-https://torinowineandspirits.it	0	301	https://www.torinowineandspirits.it/
-https://sprizzeria.com/	0	200	
-https://trivetime.it/	0	200	
-https://valchiusella2000.webs.com/	6		
-https://turismo-oulx.it/territorio/dove-dormire/campeggi-e-aree-di-sosta/campeggio-pra-long/	0	200	
-https://turismo-oulx.it/territorio/dove-dormire/campeggi-e-aree-di-sosta/campeggio-pra-vey/	0	200	
 https://vandalo.blogspot.com/2019/03/cromatica-95-vercelli-mask-lark-amok.html	0	200	
-https://vallivaldesi.chiesavaldese.org/villar-pellice/sala-polivalente/	0	200	
-https://vallivaldesi.chiesavaldese.org/villar-pellice/storia/	0	200	
+https://sketchfab.com/models/fa0ba37475a84e24864fc52147917845/embed?autospin=0.2&autostart=1	0	200	
+https://sito.libero.it/rampigneacuni/2022/08/09/falesia-della-reina-entracque/	0	200	
+https://rifugiofauniera.it/vie-di-arrampicata/	0	200	
 https://vicolungo.thestyleoutlets.it/it/intrend-diffusione-tessile	0	301	https://vicolungo.thestyleoutlets.it/it
 https://vicolungo.thestyleoutlets.it/it/negozi/swarovski	0	200	
 https://visitvalsesiavercelli.it/vivi/arte-e-cultura/arca-polo-espositivo/	0	200	
-https://visit.asti.it/scopri-asti/artecultura/musei/museo-diocesano-san-giovanni/	0	200	
-https://vividevero.it/	0	200	
-https://www.360tuttocasa.it/	6		
-https://wiki.openstreetmap.org/wiki/File:PV_Ala-di-Stura_022.JPG	0	200	
-https://vitality3g.it	0	200	
-https://www.afv-valclarea.com/	6		
-https://sbp.erasmo.it	28		
 https://www.aeroclubtorino.it/it/storia/capitolo-4.html	0	200	
-https://www.agenzievittoria.com/cigliano/	0	403	
-https://www.agriturismocascinazanot.it/agricampeggio	0	200	
-https://www.airbnb.it/rooms/35394232?guests=1&adults=1&s=67&unique_share_id=e5341d0b-347d-4bac-8c3b-ab51e0ee0829	0	200	
-https://www.accumulatorigidi.it/	0	200	
-https://www.alexala.it/it/risorsa/area-camper-mirabello-monferrato/52a2a97a910d2334d9a08c4584431971/e05c9eb05a6aae868bb1333449dbfc46/875859a544435262e0685e3adf885eac	0	200	
-https://www.albergominiere.com/	0	200	
-https://www.amicafarmacia.com/	0	200	
-https://www.amruta.org/it/	0	403	
-https://www.amycasettadicharme.com/	0	200	
-https://www.arcaplanet.it/	0	200	
-https://www.albergocentro.it	0	200	
-https://www.arredamentisocomeva.it/	6		
-https://www.allamodina.it/	0	200	
-https://www.areasostanovara.com/	0	200	
-https://www.associazioneilponte.com/	0	200	
-https://www.aurorapen.it/	0	301	https://aurorapen.it/
-https://www.associazioneinsieme.info/wp/	0	200	
-https://www.autoingros.it/	0	405	
-https://www.avisprovincialetorino.it/sedi-comunali/susa/	0	200	
-https://www.barbalando.it/	0	200	
-https://www.bardonecchia.it/arte-cultura-storia/parco-archeologico/	0	301	https://www.bardonecchia.it/imperdibili/
-https://www.agriturismolafontanella.it/	28		
-https://www.aviosuperficieilfalco.it/scuola-di-volo-torino-contatti/	0	200	
-https://www.basko.it	0	200	
-https://www.bardonecchiaski.com/	0	301	https://www.bardonecchiaski.com/it
-https://www.batteryclinic.it	0	200	
-https://www.beautiful-center.it/	6		
-https://www.bardonecchia.it/strutture/posto-tappa-valfredda/	0	301	https://bardonecchia.it/strutture/posto-tappa-valfredda/
-https://www.bellonearredamenti.it	0	200	
+https://wiki.openstreetmap.org/wiki/File:PV_Ala-di-Stura_022.JPG	0	200	
 https://www.beweb.chiesacattolica.it/edificidiculto/edificio/59405/Cappella+di+San+Sebastiano+e+San+Rocco	0	200	
-https://www.birralaval.it/brew-pub-il-birrificio/	0	200	
-https://www.birralaval.it	0	200	
-https://www.boninorosella.it/	0	200	
-https://www.birrificiotrunasse.it/	0	200	
-https://www.birrasanmichele.it/	0	301	https://birrasanmichele.it/
-https://www.briccenciurio.com/	0	200	
-https://www.bper.it/	0	200	
-https://www.birrificiotroll.it/	0	301	https://birrificiotroll.it/
-https://www.caditulin.it/	0	200	
-https://www.caffeborsa.it/	0	200	
-https://www.buniva.edu.it/	0	200	
-https://www.caffeinasrl.it	0	301	https://caffeinasrl.it/
-https://www.cadelpitur.it	0	200	
-https://www.caffefantino.it/	0	301	https://caffefantino.it/
-https://www.caffeputto.it	0	200	
 https://www.cailanzo.it/index.php/component/k2/item/191-falesia-del-tramonto	0	404	
-https://www.caicvl.eu/index.php/i-rifugi/valchiusella/rifugio-bruno-piazza	0	200	
-https://www.cailanzo.it/index.php/palestre-di-roccia/item/171	0	404	
-https://www.caffeboutic.it	0	301	https://caffeboutic.it/
+https://visit.asti.it/scopri-asti/artecultura/musei/museo-diocesano-san-giovanni/	0	200	
 https://www.cailanzo.it/index.php/palestre-di-roccia/item/184	0	404	
 https://www.cailanzo.it/index.php/palestre-di-roccia/item/190-guglia-rossa-e-marmitta-di-lucifero	0	404	
-https://www.caisaronno.it/pagine/info/	0	200	
-https://www.caiormea.it/il-rifugio-valcaira/	0	301	https://caiormea.it/il-rifugio-valcaira/
-https://www.caitorino.it/montievalli/2018/03/21/la-palestra-di-roccia-di-avigliana/	0	200	
-https://www.campeggioformazza.it/	0	200	
-https://www.campeggiosagersboden.it/	0	200	
-https://www.campeggivallestura.it/index.php?id=1678	0	200	
-https://www.campeggivallestura.it/index.php?id=1679	0	200	
-https://www.campeggiopianbosco.com/	0	200	
-https://www.campeggivallestura.it/index.php?id=1683	0	200	
-https://www.campeggivallestura.it/index.php?id=1684	0	200	
-https://www.campingeden.it/	0	200	
-https://www.camping-valpellice.com	0	200	
-https://www.campeggioilsole.it/	0	200	
-https://www.campeggiodelsole.com/	0	200	
-https://www.campingitalialido.it/	0	200	
-https://www.campinglacascina.it/	0	200	
-https://www.campingilmelo.it/	0	200	
-https://www.campinghaway.it/	0	301	https://www.campinghaway.it/it/
-https://www.campinglaquercia.com/	0	303	https://www.campinglaquercia.com/index.php?lang=en
-https://www.campinglefonti.it	0	200	
-https://www.campinglagoazzurro.it	0	200	
-https://www.campingparisi.it/	0	403	
-https://www.campingmombarone.it	0	200	
-https://www.campingorta.it/	0	200	
-https://www.campingrose.it	0	200	
-https://www.campingroyal.com/	0	302	https://www.campingroyal.com/en/
-https://www.campingparkvallemaira.com/	0	200	
-https://www.campingvallestretta.com/	0	200	
-https://www.campingyoghiebubu.it/	0	200	
-https://www.casagiubileo.com	6		
-https://www.cantinadellaserra.com/	0	200	
-https://www.casaimmacolataverbania.it	0	302	https://www.casaimmacolataverbania.it/modules/smartsection/item.php?itemid=1
-https://www.casafrancoli.it	0	200	
-https://www.casevacanzegiusy.it/	60		
-https://www.cascinasortina.it/	0	200	
-https://www.centrogiococuneo.com/	6		
-https://www.centromedicomedil.it	6		
-https://www.centrorivoli.it	0	200	
-https://www.centrovercelli.it/negozio/reverchon/	0	200	
-https://www.campingpiccoloparadiso.it/	28		
-https://www.chezdali.it/	6		
-https://www.chimicafranke.it	0	200	
-https://www.chaletpalu.it/	0	200	
-https://www.cigliantours.it/	0	200	
-https://www.cioccolatocolle-biella.it/	6		
-https://www.casatrend.eu/	28		
-https://www.comune.alto.cn.it	0	302	https://www.comune.alto.cn.it/it-it/home
-https://www.cittaecattedrali.it/it/bces/330-chiesa-nativita-di-maria-vergine	0	200	
+https://www.cailanzo.it/index.php/palestre-di-roccia/item/171	0	404	
 https://www.comune.casale-monferrato.al.it/toponomastica/difesa2	0	301	https://comune.casale-monferrato.al.it/toponomastica/difesa2
-https://www.castellodelguado.com/	28		
+https://www.centrovercelli.it/negozio/reverchon/	0	200	
+https://www.caiormea.it/il-rifugio-valcaira/	0	301	https://caiormea.it/il-rifugio-valcaira/
+https://www.cittaecattedrali.it/it/bces/330-chiesa-nativita-di-maria-vergine	0	200	
 https://www.comune.casalino.no.it/it-it/vivere-il-comune/cosa-vedere/castello-di-ponzana-sec-xi-21860-1-529d77a5f76b80411245b5dd7053f2d9	0	200	
-https://www.ciclocentrico.it/	0	301	https://ciclocentrico.it/
-https://www.comune.castellettostura.cn.it	0	200	
-https://www.comune.chieri.to.it/Biblioteca/orari-contatti	0	301	https://www.comune.chieri.to.it/biblioteca/orari-contatti
 https://www.comune.crissolo.cn.it/archivio/attivita/Consorzio-Autonoleggiatori-Cuneesi_35.asp	0	200	
-https://www.comune.crissolo.cn.it/archivio/pagine/Grotta_di_Rio_Martino.asp	0	200	
 https://www.comune.frabosasoprana.cn.it/Guidaalpaese?IDPagina=55578&IDCat=8615	0	200	
-https://www.comune.chivasso.to.it/fr/point-of-interest/753686	0	500	
-https://www.comune.frinco.at.it/	0	200	
 https://www.comune.front.to.it/it-it/amministrazione/uffici/servizi/biblioteca-comunale-1778-1-2066a70651226dd12e34c09915c15462	0	404	
-https://www.comune.ivrea.to.it/index.php/entra-in-comune/la-struttura-organizzativa/contatti-e-orari/item/informagiovani.htmlafe.html	0	403	
-https://www.comune.ivrea.to.it/index.php/entra-in-comune/la-struttura-organizzativa/contatti-e-orari/item/servizio-biblioteca-e-sistema-bibliotecario.html	0	403	
-https://www.comune.ivrea.to.it/index.php/entra-in-comune/la-struttura-organizzativa/contatti-e-orari/item/ufficio-anagrafe.html	0	403	
-https://www.comune.ivrea.to.it/index.php/entra-in-comune/la-struttura-organizzativa/contatti-e-orari/item/ufficio-elettorale.html	0	403	
-https://www.comune.cirie.to.it	0	302	https://www.comune.cirie.to.it/it
-https://www.comune.isasca.cn.it	0	200	
-https://www.comune.faule.cn.it	0	200	
-https://www.comune.montanaro.to.it	0	302	https://www.comune.montanaro.to.it/it-it/home
-https://www.comune.moretta.cn.it//	0	200	
-https://www.comune.novara.it/it/aree-tematiche/cultura-e-tempo-libero/musei/barriera-albertina	0	200	
-https://www.comune.passeranomarmorito.at.it	0	200	
-https://www.comune.ponzanomonferrato.al.it	0	200	
-https://www.comune.valgioie.to.it	0	302	https://www.comune.valgioie.to.it/it-it/home
-https://www.comune.lisio.cn.it	0	200	
-https://www.contiroero.eu	35		
-https://www.cristalhotelcuneo.it/	6		
-https://www.cristalhotelcuneo.it/ristorante/	6		
-https://www.cuneoclimbing.it/new/2025/01/07/rastello-falesia-gias-gruppetti/	0	200	
-https://www.cusatibikeshop.it	0	403	
-https://www.comune.odalengopiccolo.al.it	0	200	
-https://www.dana.com/	0	200	
-https://www.comune.quattordio.al.it	0	302	https://www.comune.quattordio.al.it/it
-https://www.datommy.it/	0	200	
-https://www.distilleriaalpina.it/	0	301	https://distilleriaalpina.it/
-https://www.docfix.it	0	200	
-https://www.distrettolaghi.it/it/ospitalita/piano-grande	0	200	
-https://www.dusmanpianpietro.it/	0	200	
-https://www.emmeti4x4.it/	0	200	
-https://www.damarco.it/	0	200	
-https://www.equazionenole.eu	0	200	
-https://www.equiparafarmacie.it/	0	200	
+https://www.comune.ivrea.to.it/index.php/entra-in-comune/la-struttura-organizzativa/contatti-e-orari/item/informagiovani.htmlafe.html	0	404	
+https://www.comune.ivrea.to.it/index.php/entra-in-comune/la-struttura-organizzativa/contatti-e-orari/item/servizio-biblioteca-e-sistema-bibliotecario.html	0	404	
+https://www.comune.ivrea.to.it/index.php/entra-in-comune/la-struttura-organizzativa/contatti-e-orari/item/ufficio-anagrafe.html	0	404	
+https://www.comune.ivrea.to.it/index.php/entra-in-comune/la-struttura-organizzativa/contatti-e-orari/item/ufficio-elettorale.html	0	404	
 https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html://percorsi.estmonterosa.it/a/A38/A38.kml	0	404	
-https://www.estmonterosa.it/bivacco-rifugio-amedeo-pirozzini.html	0	301	https://caimacugnaga.org/sezione/rifugi/28-rifugio-amedeo-pirozzini
-https://www.eliograsso.it/	0	200	
 https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html://percorsi.estmonterosa.it/a/A40/A40.kml	0	404	
 https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html://percorsi.estmonterosa.it/a/A40b/A40b.kml	0	404	
+https://www.comune.vercelli.it/sociale/servizi-anziani/inserimento-nella-casa-giorno-anziani-ca-dal	0	404	
 https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html://percorsi.estmonterosa.it/a/B00(1)/B00(1).kml	0	404	
+https://www.cuneoclimbing.it/new/2025/01/07/rastello-falesia-gias-gruppetti/	0	200	
 https://www.estmonterosa.it/catasto-percorsi-vco-piana-del-toce-settore-a.html://percorsi.estmonterosa.it/a/B00(2)/B00(2).kml	0	404	
-https://www.comune.vercelli.it/sociale/servizi-anziani/inserimento-nella-casa-giorno-anziani-ca-dal	28		
-https://www.europa-ristorante.com/de/	0	200	
 https://www.facebook.com/alagna.it/photos/a.187118401402254.40629.179267195520708/846537008793720/?type=3&theater	0	302	https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Falagna.it%2Fphotos%2Fa.187118401402254.40629.179267195520708%2F846537008793720%2F%3Ftype%3D3%26theater
-https://www.facebook.com/agrilatteriadelvallinotto/	0	200	
-https://www.fabrizioracca.it/	0	200	
-https://www.facebook.com/bottegamia/	0	200	
-https://www.facebook.com/media/set/?set=a.650677711712985.1073741873.179267195520708&type=3&uploaded=32	0	200	
 https://www.facebook.com/farmacia.del.palucco.asti/	0	200	
-https://www.facebook.com/lacampeggia/	0	200	
+https://www.facebook.com/media/set/?set=a.650677711712985.1073741873.179267195520708&type=3&uploaded=32	0	200	
 https://www.facebook.com/pages/la-bottega-delle-lingue/256169607634?id=256169607634&sk=info	0	200	
-https://www.facebook.com/p/Osteria-di-Filia-100063134835427/?locale=it_IT	0	200	
-https://www.facebook.com/ufficioturismomeina/	0	302	https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fufficioturismomeina%2F
-https://www.facebook.com/people/Carni-Tipiche-delle-zona-da-Bruno-e-Gian-Pigs-Cows-Srl/100063507282123/	0	200	
-https://www.facis1932.com/	0	200	
 https://www.falesia.it/it/crag/293/borgoratto.html	0	200	
-https://www.farmaciaginodrstefano.it/	6		
-https://www.fanfaluch.it	0	200	
-https://www.farmaciaredamante.it/	0	503	
-https://www.fedcp.org/hospice/hospice-il-gelso	0	403	
 https://www.fermopoint.it/punto-di-ritiro-e-di-spedizione-pacchi/Nero-su-Bianco-Copisteria-16896	0	200	
-https://www.farmaciadenina.it/	0	301	https://farmaciadenina.it/
-https://www.fgbike.it/	6		
-https://www.fioriborgogno.it/	6		
 https://www.ferrate365.it/vie-ferrate/ferrata-montorfano/	0	200	
-https://www.ferramentabriatore.com	0	301	https://ferramentabriatore.com/
-https://www.gauditito.com/	6		
-https://www.gautelanatatrattoriavillanova.it/	6		
-https://www.fondoambiente.it/luoghi/castello-della-manta	0	301	https://fondoambiente.it:443/luoghi/castello-della-manta
-https://www.fralumasrl.com/	0	200	
-https://www.gelapajo.it/	0	301	https://gelapajo.it/
-https://www.gelateriapopolare.com/	0	200	
-https://www.gdf.gov.it/	0	302	/it
-https://www.giordanocioccolato.it	0	200	
-https://www.ginospa.com/	0	200	
-https://www.gnekko.it	0	302	https://www.gnekko.it/vita/
-https://www.glamourbiella.it/	0	200	
-https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html	0	200	
-https://www.gomplast.es	0	302	https://www.gomplast.es/?lang=en
-https://www.greenandgrow.it/	0	200	
-https://www.grancollina.com	0	301	https://www.grancollina.com/it/
-https://www.geogreen.it/it/parco-produttivo	0	200	
-https://www.groupama.it/trova-agente/vercelli/agenzia-vercelli-000375	0	200	
-https://www.gruppoabc.it/struttura/hotel-la-torre.html	0	200	
-https://www.golfclubpiandelcolle.it/	0	200	
+https://www.fedcp.org/hospice/hospice-il-gelso	0	403	
+https://www.gtt.to.it/cms/parcheggi/31-barriera/rotazione/1630-caio-mario#camper	0	200	
 https://www.gulliver.it/itinerari/alpini-falesia-degli-2/	0	403	
 https://www.gulliver.it/itinerari/lausa-bruna-contrafforti-di-parete-ese-via-2-di-cuori/	0	403	
 https://www.gulliver.it/itinerari/miroglio-attico-falesia/#main	0	403	
-https://www.grottocarza.it/	0	301	https://grottocarza.it/
 https://www.gulliver.it/itinerari/san-giacomo-di-boves/	0	403	
 https://www.gulliver.it/itinerari/stella-corno-regalami-un-sorriso-2/#main	0	403	
 https://www.gulliver.it/itinerario/10093/	0	403	
@@ -1431,211 +720,56 @@ https://www.gulliver.it/itinerario/10756/	0	403
 https://www.gulliver.it/itinerario/10930/	0	403	
 https://www.gulliver.it/itinerario/11875/	0	403	
 https://www.gulliver.it/itinerario/13700/	0	403	
+https://www.comune.chivasso.to.it/fr/point-of-interest/753686	28		
 https://www.gulliver.it/itinerario/3772/	0	403	
 https://www.gulliver.it/itinerario/4143/	0	403	
 https://www.gulliver.it/itinerario/47072/	0	403	
 https://www.gulliver.it/itinerario/48961/	0	403	
 https://www.gulliver.it/itinerario/53539/https://www.gulliver.it/itinerario/70448/https://www.gulliver.it/itinerario/62401/	0	403	
+https://www.groupama.it/trova-agente/vercelli/agenzia-vercelli-000375	0	200	
 https://www.gulliver.it/itinerario/55983/	0	403	
 https://www.gulliver.it/itinerario/5609/	0	403	
 https://www.gulliver.it/itinerario/58210/	0	403	
 https://www.gulliver.it/itinerario/63608/	0	403	
 https://www.gulliver.it/itinerario/7965/	0	403	
 https://www.gulliver.it/itinerario/7985/	0	403	
+https://www.gulliver.it/itinerario/8982/	0	403	
 https://www.gulliver.it/itinerario/8519/	0	403	
 https://www.gulliver.it/itinerario/8538/	0	403	
-https://www.gulliver.it/itinerario/8982/	0	403	
 https://www.gulliver.it/itinerario/9839/	0	403	
-https://www.gtt.to.it/cms/parcheggi/31-barriera/rotazione/1630-caio-mario#camper	0	200	
 https://www.haute-maurienne-vanoise.com/en/group-accommodation/bivouac-hannibal-val-cenis/	0	200	
-https://www.guesthouselanuvola.it/	0	301	https://guesthouselanuvola.it/
-https://www.heuropa.com/	0	200	
-https://www.hotelbardanatale.com/	0	200	
-https://www.hashicuneo.it/index.php	0	301	https://hashicuneo.it/
-https://www.hotelcannero.com/	0	200	
-https://www.homezon.it	0	200	
-https://www.hoteleuropa-bi.com/	0	200	
-https://www.hotelpolitano.it/	0	200	
-https://www.hotelgrandusseglio.com/	0	200	
-https://www.ic-susa.it/luogo/sede-di-venaus-infanzia-e-primaria/	0	200	
-https://www.icsanfrontpaesana.edu.it/	0	301	https://icsanfrontpaesana.edu.it/
-https://www.icsanfrontpaesana.edu.it/paesana-2/infanzia-paesana/	0	301	https://icsanfrontpaesana.edu.it/paesana-2/infanzia-paesana/
+https://www.estmonterosa.it/catasto-percorsi-vco-vergante-settore-v.html	0	200	
+https://www.ilcercartigianodiqualita.it/it/attivita/3813-pasticceria-mongini-di-mongini-roberto	0	302	https://www.ilcercartigianodiqualita.it/pasticceria-mongini-di-mongini-roberto
 https://www.icybernonni.it/vc/palazzo-cerrone/	0	200	
 https://www.icybernonni.it/vc/antchiostro-sgraziano/	0	200	
-https://www.icbussoleno.edu.it/luogo/sede-via-gran-porta/	0	200	
-https://www.ifuntanil.com/	0	200	
-https://www.hotelgrantorino.com/	0	301	https://hotelgrantorino.com/
-https://www.ilbrusafer.com	0	302	https://www.ilbrusafer.com/wp/
-https://www.iissdesambrois.it	0	200	
-https://www.igoliardi.it/	0	200	
-https://www.ilcercartigianodiqualita.it/it/attivita/3813-pasticceria-mongini-di-mongini-roberto	0	302	https://www.ilcercartigianodiqualita.it/pasticceria-mongini-di-mongini-roberto
-https://www.ilgiardinettovercelli.it/	0	200	
-https://www.ildiavolosullecolline.it/	0	200	
-https://www.ilmulinodeifiori.it/	0	200	
-https://www.ilbucanevecrissolo.com	0	200	
-https://www.insmercato.it	0	200	
-https://www.informaticavision.it/	0	200	
-https://www.isoleborromee.it/isola-madre/	60		
-https://www.immobiliare-brokerhouse.it/	0	200	
-https://www.ivrea.casadicarita.org	0	200	
-https://www.kasanova.com/it	0	200	
-https://www.isleofskyepub.it/	0	200	
-https://www.lacasadelleroseaffitti.it	0	200	
-https://www.inaudi.com/	0	200	
-https://www.labessanocciole.it/	0	200	
-https://www.lacarosera.it/	0	200	
-https://www.lacasaregina.com/	60		
-https://www.lagomag.com/	0	200	
-https://www.ladispensatorino.com	0	500	
-https://www.larampichina.it/	0	200	
-https://www.lagranda.it/	0	301	https://lagranda.it/
-https://www.lacasadialicesusa.it/	0	200	
-https://www.lasalsamenteria.it/	0	302	https://www.lasalsamenteria.it/it
 https://www.lesmontagnards.it/attivita/falesie-arrampicata/labirinto-sotterraneo/	0	200	
-https://www.librobiella.com/	6		
-https://www.libreriadeiragazzitorino.it	0	200	
-https://www.locandadellarte.it/	0	200	
-https://www.lecasedipalu.it/	0	301	http://www.chaletpalu.it/
-https://www.macelleriamaurobbq.it	0	403	
-https://www.maccheria.wevegroup.it/	0	200	
-https://www.maithai.it/	0	200	
-https://www.manpower.it	0	200	
-https://www.maretorino.com	0	103	
-https://www.maxielettrodomestici.com/	6		
-https://www.machacafe.it/piemonte	0	200	
-https://www.mdspa.it/punti-vendita/Piemonte/NO-Novara/210-Gozzano/	0	200	
-https://www.lasorgentedemonte.com/	28		
-https://www.merlocamping.it/	6		
-https://www.mezzalunabio.it	0	200	
-https://www.mbun.it	0	301	https://mbun.it/
-https://www.monasterodibose.it/	0	200	
-https://www.monferrato.org/ita/risorse-turistiche/aree-camper/area-camper-occimiano/bc61bb9762478e4c2acb44b92cae0190.html	0	200	
-https://www.logoscenter.it	28		
-https://www.medicasalus.it/	0	200	
-https://www.montagnapertutti.it/alp_piemonte/stura/alpette.php?lang=it	0	200	
-https://www.mormone.it	0	301	https://www.comeuntochrist.org/ita
 https://www.monvisopiemonte.com/panetteria-garzino-di-calcinere/	0	200	
-https://www.montagnedelmare.it/servizi/aree-attrezzate-e-parcheggi	0	200	
-https://www.movimentorangers.com/	0	301	https://movimentorangers.com/
-https://www.mulinodibairo.it/	0	302	https://www.mulinodibairo.it/it
 https://www.museotorino.it/view/s/8acdee4da69a4114acd98523cc748576	0	200	
-https://www.movefitness.it/home-santhia/	0	200	
-https://www.mymercato.it/punti-vendita/piemonte/mercato-torino-via-filadelfia	0	200	
-https://www.mymercato.it/punti-vendita/piemonte/mercato-vaie	0	200	
 https://www.navigazionelaghi.it/en/	0	200	
-https://www.nordaffari.com	0	200	
-https://www.nicolas-maroda.eu/	0	200	
-https://www.olimpiaacciai.it/	0	200	
-https://www.olfattorio.it/	0	200	
-https://www.ostellosangermano.it/	0	200	
-https://www.orocash.it/to28-compro-oro-susa	0	200	
-https://www.oropameteo.eu/cam1.jpg	0	200	
-https://www.osteriascuolecomunali.it/	6		
-https://www.padelzero.it/	0	404	
-https://www.otticapetriniorbassano.it/	0	403	
-https://www.pampanorama.it/punti-vendita/torino-racconigi	0	200	
-https://www.paneamorepoderia.com	6		
-https://www.paesana.it/	0	200	
-https://www.osteriadellavilla.it/	0	200	
-https://www.parchialpicozie.it/maps/point/alpe-arguel/	0	302	/it/maps/point/alpe-arguel/?
-https://www.parchireali.it/centro-visite-ciabot-degli-animali/	0	404	
-https://www.pasticceriabergia.it/	0	301	https://pasticceriabergia.it/
+https://www.montagnapertutti.it/alp_piemonte/stura/alpette.php?lang=it	0	200	
+https://www.parrocchiaceres.it/index.php/chiesa-e-cappelle/19-almesio-cappella-di-s-anna	0	200	
 https://www.piemonteitalia.eu/it/dormire/casa-ferie/casa-sacro-cuore	0	200	
-https://www.officinadelcomputer.net/	28		
-https://www.pizzeria4stagionicuneo.it	6		
-https://www.pizzeriascugnizzo.it/	0	200	
-https://www.piemonteoutdoor.it/it/natura/alpeggi/alpe-costa-rossa	0	200	
-https://www.pizzikotto.it/it/ristoranti/torino	0	500	
-https://www.pleinsoleil.it/	0	200	
-https://www.parrocchiaceres.it/index.php/chiesa-e-cappelle/19-almesio-cappella-di-s-anna	28		
 https://www.polito.it/mappe?bl_id=TO_CIT09&fl_id=XPTE&rm_id=057	0	200	
-https://www.polito.it/mappe?bl_id=TO_CIT09&fl_id=XPTE&rm_id=057?bl_id=TO_CIT09&fl_id=XPTE&rm_id=090	0	200	
 https://www.polito.it/mappe?bl_id=TO_CIT09&fl_id=XPTE&rm_id=057?bl_id=TO_CIT09&fl_id=XPTE&rm_id=092	0	200	
-https://www.pokeria.com	0	200	
+https://www.polito.it/mappe?bl_id=TO_CIT09&fl_id=XPTE&rm_id=057?bl_id=TO_CIT09&fl_id=XPTE&rm_id=090	0	200	
 https://www.polito.it/mappe?bl_id=TO_CIT09&fl_id=XPTE&rm_id=057?bl_id=TO_CIT09&fl_id=XPTE&rm_id=137	0	200	
-https://www.petstorevalley.com	28		
 https://www.polito.it/mappe?bl_id=TO_CIT09&fl_id=XPTE&rm_id=088	0	200	
 https://www.polito.it/mappe?bl_id=TO_CIT09&fl_id=XPTE&rm_id=086	0	200	
-https://www.poliziadistato.it/	0	200	
-https://www.publidok.com	0	200	
-https://www.polp.it	0	301	https://polp.it/
-https://www.redvillagecafe.it/	0	403	
-https://www.relaisdalcavaliere.com/	0	302	https://www.relaisdalcavaliere.com/en
-https://www.retesuperservice.it/it_it/centrosuperservice/929202/gomma--srl/chi-siamo.html	0	404	
-https://www.rifugioamprimo.com	0	200	
-https://www.provincia.asti.it/it/point-of-interest/719812	0	301	https://www.provincia.asti.it/it/vivere/719812
-https://www.rifugio-rosazza.it	0	200	
-https://www.rinascente.it/it/store-torino-via-lagrange	0	403	
-https://www.rifugionelboscodialice.it/	0	200	
-https://www.ristorantedeipescatoriviverone.com/	0	200	
-https://www.realparkentracque.it/	0	200	
-https://www.ristoranteilpescatore3.it/	0	403	
-https://www.ristorantedelsantuario.it/	0	200	
-https://www.rifugiomondovi.com/index.php/il-rifugio/webcam	0	301	https://rifugiomondovi.com/webcam/
-https://www.ristoranteitalia.it/	0	200	
-https://www.ristoranteisolabella.it/	60		
-https://www.ristorantepizzeriacampagnaverampio.com/services-1	0	301	https://www.ristorantepizzeriacampagnaverampio.com/sostacampaergratis
-https://www.ristorantedicrea.it/	0	200	
 https://www.runoutcs.it/	6		
-https://www.ristorantesanmartino.it	60		
-https://www.ristorantelastadera.it/	0	200	
-https://www.ristorantepizzerialalucciola.it	0	200	
-https://www.sancarlosalotti.com/	0	200	
-https://www.sanmarcoalbergo.com/	0	404	
+https://www.parchireali.it/centro-visite-ciabot-degli-animali/	0	404	
 https://www.sacrimonti.org/sacro-monte-di-crea/punto-di-interesse/-/d/cappella-1-martirio-di-sant-eusebio	0	200	
-https://www.sandomenicoski.com/	0	301	https://www.san-domenico.com
-https://www.santagostinoaste.it/	60		
-https://www.sella.it	0	200	
 https://www.siedenergia.it/le-centrali/	0	200	
-https://www.silviograsso.com	0	200	
-https://www.sorsiemorsi-bardonecchia.it/	0	200	
-https://www.sottoilfaggio.it/	0	200	
-https://www.studioolgasochirca.it/	0	500	
-https://www.smatorino.it/	0	200	
-https://www.serplast.it/	0	200	
-https://www.tecnomat.it/it/	0	403	
-https://www.supersigma.com/pdv/sigma-di-piedimulera-martiri-della-liberta/	0	403	
-https://www.supermarketdellacarta.com	0	200	
-https://www.sacradisanmichele.com/it/	0	301	https://sacradisanmichele.com/it/
-https://www.teledif.it	0	301	https://teledif.it/
 https://www.thecrag.com/de/klettern/italy/mont-orfano/area/408571107	0	403	
-https://www.trattoriadellaripa.com/	6		
-https://www.trattorialacooperativa.it	6		
-https://www.trattorialasella.it/	6		
-https://www.tuttocampingfrossasco.it/	0	200	
-https://www.trattoriasarroc.net/	0	200	
-https://www.valchiusellaweb.it/il-pollice-verde-di-gianmario-fontana/	6		
-https://www.trattoriaallelavagne.it/	0	200	
-https://www.valentinoduparc.it	6		
-https://www.unionemombarone.it/it-it/vivere-il-territorio/dove-dormire/camping-agriturismo-nosy-56301-1-ef56a3011c9bc8521f869d3466ca7686	0	200	
-https://www.vetrocar.it/centri-vetrocar/vetrocar-cuneo-borgo-san-dalmazzo	0	403	
-https://www.terradelcastelmagno.it/museo-terra-del-castelmagno/	0	200	
-https://www.valmilana.it/	0	200	
-https://www.viciniaziendaagricola.it/montezeus/	0	200	
-https://www.vigliettiviaroma.it/	0	500	
-https://www.vielunghe.com/mongioie-cima-campanili-via-alba-celtica/	0	200	
-https://www.villinoobertobedandbreakfast.com	0	200	
-https://www.villameryguesthouse.it/it/	0	200	
-https://www.visitcuneese.it/fr/alloggio?p_p_id=Configurable&_Configurable_jsonParams=%7B%22id%22:004090-CAM-00002%7D	0	200	
-https://www.vivereincampeggio.it/il-progetto-valcurone-al/	0	200	
-https://www.webadvertising.it/local-torino.php	60		
-www.bbilcasalediaglie.it	-1		
+https://www.provincia.asti.it/it/point-of-interest/719812	0	301	https://www.provincia.asti.it/it/vivere/719812
+https://www.valdisusaturismo.it/alp45/	0	200	
 www.circolodidatticosangiorgio.it/montalenghe.html	-1		
 www.circolodidatticosangiorgio.it/sangiorgiocanavese.html	-1		
 www.comune.loranze.to.it/index.php/castel-rosso.html	-1		
 www.comune.loranze.to.it/index.php/il-masso-coppellato.html	-1		
-www.costantinosas.it	-1		
 www.evos.it/evos-donatella-san-giorgio-canavese	-1		
-www.gelateriaanticatorre.com	-1		
 www.icvistrorio.gov.it/doc/scuole/infanzia/loranzeinfanzia/intro.htm	-1		
 www.icvistrorio.gov.it/doc/scuole/primaria/loranzeprimaria/intro.htm	-1		
 www.icvistrorio.gov.it/doc/scuole/primaria/vistrorioprimaria/intro.htm	-1		
-www.la-florida.it	-1		
-www.lemurazze.com	-1		
-www.perariondabedbreakfast.it	-1		
-www.rossanigo.com	-1		
-www.talloneorafi.it	-1		
-www.trattoriarocchi.com	-1		
-https://yrei.it/	0	200	
+https://www.rifugiomondovi.com/index.php/il-rifugio/webcam	0	301	https://rifugiomondovi.com/webcam/
 https://zupeggo.wordpress.com/2021/09/30/race-simulation-vercelli/	0	200	
-https://www.valdisusaturismo.it/alp45/	0	200	
+https://www.vielunghe.com/mongioie-cima-campanili-via-alba-celtica/	0	200	
