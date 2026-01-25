@@ -284,7 +284,10 @@ node	1865888795	https://www.miglioriolive.it/
 node	1866626877	https://www.villafortezza.it/
 node	1868077790	https://www.euro3immobiliare.it
 node	1869222865	https://www.coal.it/archives/punti-vendita/coal-gestioni-srl-castelfidardo
+node	1869358676	https://poste.it
 node	1869425558	https://www.halleyweb.com/c042049/
+node	1869643917	https://officinascansani.it/
+node	1869651107	https://ten-cafe.eatbu.com/
 node	1871040415	https://www.eurospin.it/punti-vendita/castelfidardo-492793/
 node	1872488278	https://www.ristorantealvaro.com/
 node	1872499978	http://www.vecchiafattorialoreto.com/
@@ -2232,6 +2235,7 @@ node	13389060679	https://www.tempusitalia.it/
 node	13389060680	https://www.during.it/
 node	13389060681	https://www.randstad.it/
 node	13416734943	https://www.cc-cash.it/punti-vendita/marche/arca-c-c-cash-and-carry-monsano
+node	13423983883	https://www.otticamassimocastelfidardo.it/
 node	13431048878	https://www.mistertbone.com/
 node	13431181504	https://www.comune.falconara-marittima.an.it/area_letturaLuogo/536/pagsistema.html/
 node	13431331518	https://osteriaculinaria.it/
@@ -2243,6 +2247,11 @@ node	13460604510	https://www.bancaetica.it/uffici/ufficio-di-senigallia/
 node	13460629685	https://nationalsanit.it/
 node	13461276035	https://icmazzinicastelfidardo.edu.it/
 node	13463084181	https://dominaimmobiliare.com/
+node	13464304003	https://www.santanna-castelfidardo.it/
+node	13464371079	https://museodelrisorgimentocastelfidardo.it/
+node	13464371091	http://comune.castelfidardo.an.it/
+node	13464537549	https://www.siconte.it/punti-vendita/supermercato-si-con-te-castelfidardo-piazza-sant-agostino/
+node	13479244457	https://acquaesapone.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2526,6 +2535,7 @@ way	341843871	https://www.fioricostruzioni.com/
 way	343036794	https://www.colledellaluna.com/
 way	347568381	http://www.jcube.org/
 way	348356911	https://www.crmspa.it/
+way	348723690	https://www.comune.castelfidardo.an.it/
 way	348732597	https://liceoscientificofabriano.edu.it/
 way	348733913	https://www.raffaelloresidence.it/
 way	350617333	https://www.villadecastelletta.it/
@@ -2635,7 +2645,6 @@ way	435117306	https://www.facebook.com/rifugiocasali/
 way	435117360	https://www.comune.ussita.mc.it/
 way	435144744	https://www.latorrenumana.it/
 way	435148477	https://www.caimacerata.it
-way	435272966	https://www.carabinieri.it/
 way	435289979	https://www.campingvettore.it/
 way	435434331	http://www.albergovettore.it
 way	435444522	https://www.rifugideisibillini.it/
@@ -2683,6 +2692,7 @@ way	468566053	https://fondoambiente.it/luoghi/orto-sul-colle-dell-infinito
 way	472872293	https://www.liceolaurana.edu.it/
 way	475710413	https://kosgroup.com/it/centri/centro-venerabile-marcucci
 way	477105056	https://www.lebucoliche.it/
+way	478635780	https://laeng-meucci.edu.it/
 way	479244572	http://www.lafattoriabiologica.it
 way	479598080	http://www.oasiipermercati.it/puntovendita?idpv=538
 way	479805410	https://www.lidl.it/
@@ -2897,6 +2907,8 @@ way	1158118515	https://bar-pertini-ancona-demo.netlify.app/
 way	1168196343	https://www.minieracabernardi.it/
 way	1170345238	https://campinglemarche.com/
 way	1175831449	https://www.cortecampioli.com
+way	1175841412	https://girolomoni.it
+way	1175841418	https://girolomoni.it
 way	1180066892	https://www.cuscamerino.it/
 way	1182249119	https://www.collinadellefate.com/
 way	1185080172	https://www.iluoghidelsilenzio.it/chiesa-di-s-maria-apparente-monte-urano-fm/
@@ -3410,6 +3422,7 @@ node	10584848592	https://ristorantepizzeriareghiottone.it/
 node	10634263022	https://etoilebistrot.com/
 node	10642737829	https://www.ollyfarm.it/
 node	10688426439	https://www.caifermo.it/
+node	10879136567	https://basecamp1070.it/
 node	10893542846	https://camping44.com/
 node	10930117518	https://enjoycamerino.it
 node	11023063270	https://museostoricoaeronautico.it/
@@ -3520,6 +3533,7 @@ way	960148809	https://www.hotel-mareblu.it/
 way	985178874	https://residence-mare.com/
 way	1029684442	https://www.sannicoladatolentino.org/
 way	1060551620	https://www.centrovacanzeverdemare.it/
+way	1102427844	https://www.feelsenigallia.it/dormire/playa/
 way	1102428976	https://www.feelsenigallia.it/dormire/campeggio-mare-verde/
 way	1119638007	https://fedrigoni.com/
 way	1126116303	https://www.coopalleanza3-0.it/
@@ -3549,6 +3563,7 @@ way	1422909593	https://www.proloco-fermignano.it/area-camper/
 way	1432560930	https://www.axis-italy.com/
 way	1443310269	https://www.comune.castelsantangelosulnera.mc.it/vivere-il-comune/luoghi/area-sosta-camper/
 way	1450684804	https://www.feelsenigallia.it/dormire/raggio-di-luna
+way	1468685378	https://basecamp1070.it/
 relation	1085619	https://www.cappuccinimarche.org/?page_id=21673
 relation	6517698	http://www.sorellepoveredisantachiara.it/
 relation	8268454	https://www.campinginternazionale.com/
@@ -3558,18 +3573,23 @@ relation	10967104	https://www.schnell.it/
 relation	15341759	https://diocesimacerata.it/
 relation	15982110	https://www.rivieradelconero.info/
 relation	17269004	http://www.liceogmarconi.gov.it/
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
-
-</body>
-</html>
+node	1342443841	http://lnx.montaltomarche.it/montalto2/Mercato/Ristora/Sistov/sistov.php
+node	1342443843	http://noteurbane.com/en/shop/hotel-pinella-montalto-delle-marche-peretti
+node	1342443844	http://www.museisistini.it/museo-montalto.html
+node	2724110539	https://www.facebook.com/pages/Bar-Diamond/421191581300138
+node	2918695876	https://www.lavalledelmetauro.it/contenuti/comuni-del-bacino/scheda/8225.html
+node	3184281715	http://www.facebook.com/frontemarepesaro
+node	5180660621	http://www.luoghidelsilenzio.it/marche/02_eremi/00049/index.htm
+node	7922936444	https://www.parcosanbartolo.it/luoghi/il-tetto-del-mondo/
+node	10001454964	https://www.pietredellamemoria.it/pietre/monumento-ai-martiri-della-liberta-jesi-an/
+node	10048771656	https://www.iomangiobiologico.it
+node	12533991038	https://ilregistrodeglialberi.it/7331-cedro-di-corinaldo-cedro-dellhimalaya-corinaldo-ancona-marche
+node	12534717843	https://ilregistrodeglialberi.it/15483-roverella-jesi-ancona-marche
+way	31869757	https://pontesancarlo.comune.jesi.an.it/
+way	39405476	https://www.jadrolinija.hr/en/fleet-ship/marko-polo?
+way	437828400	http://pesaro.fiere.name
+way	620626312	https://www.jadrolinija.hr/en/fleet-ship/marko-polo
+way	1109212826	https://www.mondavioturismo.it/area-camper-mondavio/
+way	1246109205	https://www.ansa.it/marche/notizie/2025/07/16/ponte-ciclopedonale-sul-tronto-lavori-entro-primavera-2026_2a6bddde-5b7e-4f34-83ae-5c758f2178fd.html
+way	1307473250	https://www.campingvalentinasostacamper.it/areasosta.html
+way	1337164395	https://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/28/
