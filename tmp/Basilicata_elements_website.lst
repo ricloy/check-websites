@@ -188,6 +188,7 @@ node	4291084494	https://www.coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/57
 node	4320901396	http://www.ristorantelancione.com/
 node	4321139881	http://www.bbantoniovivaldi.it/
 node	4321307797	https://www.poste.it
+node	4322221616	https://www.italiamappata.it/basilicata/pz/593-possidente/
 node	4327209985	http://musei.beniculturali.it/musei?mid=76&nome=museo-archeologico-nazionale-della-basilicata-dinu-adamesteanu
 node	4357505889	https://www.paneepace.it
 node	4358112816	http://volumezero.eu
@@ -603,6 +604,9 @@ node	13310757676	https://www.italiamappata.it/basilicata/pz/387-lella/
 node	13338386969	https://www.italiamappata.it/basilicata/pz/371-iscalunga/
 node	13372388616	https://www.camperis.com/
 node	13460661178	https://www.bancaetica.it/uffici/ufficio-di-matera/
+node	13473038725	https://www.italiamappata.it/basilicata/pz/551-paoladoce/
+node	13473038763	https://www.italiamappata.it/basilicata/pz/173-canarra/
+node	13478695266	https://www.italiamappata.it/basilicata/pz/632-san-donato/
 way	33887443	http://musei.beniculturali.it/musei?mid=68&nome=museo-archeologico-nazionale-di-metaponto
 way	33887449	https://museometaponto.beniculturali.it/tempio-delle-tavole-palatine/
 way	61114412	https://www.stradeanas.it/it/le-strade/la-rete-anas
@@ -892,21 +896,109 @@ relation	19561802	https://camminomaterano.it/via/6/via-lucana
 relation	19561803	https://camminomaterano.it/via/6/via-lucana
 relation	19561805	https://camminomaterano.it/via/6/via-lucana
 relation	19561810	https://camminomaterano.it/via/6/via-lucana
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
-
-</body>
-</html>
+node	1325468665	http://www.farmaciafigliola.it
+node	2217378718	https://www.fornosorellepalese.it
+node	2683140503	www.parkhotelpotenza.com
+node	3582979997	http://liceoclassicostatale.pz.it
+node	3583755380	https://www.albergolaprimula.it
+node	3583756647	https://www.animaepolpa.it
+node	3585615671	https://www.lefolliedellochef.com/
+node	3654413788	http://www.cineteatrodonbosco.com
+node	3734061525	http://www.hotelvittoriapz.it
+node	4222753894	https://www.taalumaparty.com
+node	4340096489	http://www.oasiwwfpolicoro.net
+node	4498605890	http://happycasastore.it
+node	4498628190	http://siem.euronics.it
+node	4498628191	http://bata.it
+node	4498628289	http://acquaesapone.it
+node	4498745149	fixme
+node	4552091789	http://comune.pisticci.mt.it
+node	4561912090	http://www.godesk.it
+node	4672043990	http://www.regione.basilicata.it
+node	4672132391	http://www.regione.basilicata.it
+node	4672139091	http://www.regione.basilicata.it
+node	4685424489	http://www.autolineeliscio.it
+node	4687406889	http://www.comunesantangelolefrattepz.it
+node	4688291394	https://www.ufficiostampabasilicata.it/
+node	4689094189	http://www.controsensobasilicata.com
+node	4696998890	http://idmakers.it
+node	4716720003	http://biciclopz.it
+node	4731960450	http://tavernaludwig.it
+node	4736515323	http://icoloridellavitabb.com
+node	4841421821	https://www.basilicataturistica.it
+node	4881976123	http://www.ristorantelaroulette.it
+node	4920689323	http://portale.unibas.it/site/home.html
+node	4923629621	http://basilicata.agenziaentrate.it
+node	4930923621	http://www.acquedottolucano.it
+node	4959751673	https://www.parafarmaciaeuropea.it/
+node	4989511021	https://www.aspbasilicata.it/servizi/farmaceutica-territoriale
+node	5068788832	http://autolineecaivano.com
+node	5071419724	https://comune.tito.pz.it/
+node	5085736922	https://www.trotta.it/rp.aspx?p=potenza
+node	5119656921	http://www.grandhotelmaratea.it
+node	5196344423	https://www.aquaticapignola.com/
+node	5327048721	https://bio-cosmo.it
+node	5398156222	http://www.mt.camcom.it
+node	5398226126	www.asmbasilicata.it
+node	5407055823	http://www.trattoriapaolangelo.com
+node	5407181922	http://www.bgarte.com
+node	5422427421	https://lollipops.fr
+node	5723612374	http://www.petruzziautolinee.it
+node	5723671994	http://www.musiclubmatera.it/
+node	6513356130	http://www.hosteliltetto.com/
+node	7302106685	https://www.lequadre.com
+node	7302122385	https://www.redandy.it
+node	7315431885	https://www.despar.it
+node	7359403985	https://shop.cantinedelnotaio.it
+node	7359403989	https://www.escaffe.it/
+node	7366007685	https://www.gelateriacaruso.com/
+node	7371156185	https://www.msddesign.eu
+node	7379838992	https://www.affiliati.buffetti.it
+node	7391735285	https://www.vespestore.it/
+node	7393395588	https://brunomoda.com
+node	7405399986	http://binformatic.it
+node	7414108287	http://www.lasirenadeitessuti.it
+node	7427912085	https://www.bricorionero.it/
+node	7437130986	https://www.delitaly.eu
+node	7439533585	http://ferramentadelpollino.it
+node	7439577585	https://ideaartesas.wordpress.com
+node	7453378586	https://www.naracamice.com
+node	8647817828	https://www.domar.it/
+node	8647817829	https://www.dileo.it/
+node	8850626805	http://www.laraccoltadelleacquematera.it/
+node	8952385041	http://www.fumettiegiochi.it/
+node	8952419120	https://www.telescacentrogomme.it
+node	8955134390	https://www.grafieonline.com/
+node	9037416513	https://www.centromedicokos.com
+node	9143882053	https://www.polisan.it/
+node	9297563733	https://autoscuolelisciosnc.it/
+node	9886423493	https://villa-giada-bb.business.site/
+node	9892802356	https://www.almacamere.it/
+node	9897542602	https://www.lasuitematera.com/
+node	9971796445	https://neapolis.business.site/
+node	9972349730	https://www.onoranzefunebrigiasi.com/
+node	10542727649	https://www.trmtv.it
+node	10816485949	http://www.spinafotostudio.it
+node	13448524245	https://www.masseriacardillo.it/
+way	174364133	https://www.ivytour.it/tour/basilicata-campeggio-bambini-family-camp/
+way	180867500	https://www.mondialcamping.it/
+way	243924521	https://poloacquistilucania.it/
+way	243924526	http://www.multicinemaranieri.it
+way	304832839	https://agriturismoparcoverde.it/pages/chi-siamo
+way	326874505	https://www.gdf.gov.it/
+way	349803875	http://www.comune.potenza.it/
+way	352951827	https://www.mararanch.it/
+way	366033331	http://kartodromorsoleo.altervista.org
+way	507654705	https://www.eurospin.it/
+way	1017375989	http://win.comune.rioneroinvulture.pz.it/urbanistica_regolamento/allegati_33_bis/ELABORATI%20GEOLOGICI%20REGOLAMENTO%20URBANISTICO%20COMUNALE/all.12a.Relazione%20idraulica.pdf
+way	1026172888	https://www.poste.it/cerca/index.html#/risultati-cerca-up/metaponto
+way	1071078745	https://www.cosmetinfissi.it/
+way	1216242696	https://web.rivion.it/it
+way	1270374199	https://www.terredigaudio.com/
+way	1457456684	https://www.caseinautogestione.it/it/m-dettaglio-casa.php?hid=1198
+relation	3534125	https://www.liceoscientificomatera.edu.it/
+relation	16284930	http://www.icnovasiri.edu.it/
+relation	16529663	https://museometaponto.beniculturali.it/
 node	1893135959	http://www.lagiaramaratea.it/
 node	1895052179	http://www.sanmarcoagriturismo.it/
 node	3583367906	http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/PZMM880015/l-la-vista-pz/
