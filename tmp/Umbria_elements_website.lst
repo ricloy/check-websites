@@ -160,6 +160,7 @@ node	1612289206	https://badiailvingone.it
 node	1628199153	http://www.hotelmorlacchi.it
 node	1628199154	https://www.hotelsansebastianoperugia.com/
 node	1628199159	https://www.morlacchilibri.com/libreria/
+node	1628232938	https://www.hilton.com/en/hotels/pegonup-rosetta-hotel-perugia/
 node	1628232946	www.ostello.perugia.it
 node	1651740728	http://www.mapasainformatica.com
 node	1667525472	https://www.comune.gubbio.pg.it/servizio/ascensori-pubblici/
@@ -897,7 +898,6 @@ node	11105577644	https://www.bambingesuspoleto.com/
 node	11113549526	https://www.umbraacque.com/territorio-e-sostenibilita/case-dellacqua
 node	11136780306	https://anticocasalemarmore.weebly.com/
 node	11143326307	http://www.bb-allecime.it
-node	11143333453	https://www.nkd.com/filialen/4197/foligno/06034/nkd-via-fiamenga-53
 node	11147052373	https://www.thebubbleretreat.com/home/
 node	11147753654	https://www.osterianovecentoilci.it
 node	11162989837	https://www.piugustoimpastiesapori.it/
@@ -906,7 +906,6 @@ node	11169421154	https://www.ristorantepizzeriadecarolis.it/
 node	11169432132	https://www.assisinonnapapera.it/
 node	11169436099	http://www.vogliadipizza1999.it
 node	11178389792	https://negozi.vodafone.it/foligno/vodafone-store-foligno
-node	11181143445	https://www.nkd.com/filialen/4049/terni/05100/nkd-via-donatori-di-sangue-10
 node	11273622004	http://www.hotelorvieto.it/
 node	11301865541	https://www.repower.com/dina/
 node	11310638069	https://www.incantodellanatura.com/
@@ -1168,9 +1167,13 @@ node	13439671984	https://www.5fg.it
 node	13457810107	https://lainoxspoleto.com/
 node	13457830001	http://www.binaglia.it
 node	13462582045	https://www.miarsnc.it/
+node	13508767543	https://comune.sangemini.tr.it/home.php
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
+way	30110992	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
+way	35683777	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	35683778	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
+way	35683795	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	36195165	http://www.inorvieto.it/it/scegli/gli_imperdibili/area_archeologica_porto_di_pagliano.html
 way	36994747	https://www.assisisantachiara.it/
 way	44184811	https://www.opsm.it/
@@ -1369,7 +1372,6 @@ way	335987426	https://www.sanpietroinvalle.com/
 way	336103479	https://www.ristoranteilgattamelatanarni.com/
 way	338149378	https://www.avioclubpantalla.com/newsite/home.asp
 way	341179912	http://www.avioclubpantalla.com/newsite/home.asp
-way	347555340	https://comune.sangemini.tr.it/home.php
 way	350933527	https://www.iltorrionetrasimeno.com/
 way	360567106	http://www.casabruciata.com/
 way	361719552	https://www.lavalledelleaquile.com/
