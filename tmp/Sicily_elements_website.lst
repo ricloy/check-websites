@@ -1127,7 +1127,7 @@ node	4005541745	https://www.sainthonore.info/
 node	4006948825	http://www.ic1dalcontres.it
 node	4010029591	https://www.rfi.it/it/stazioni/lolli.html
 node	4026830769	https://www.villa-felicia.it/
-node	4040693864	http://www.icgiardininaxos.gov.it/
+node	4040693864	https://www.icgiardininaxos.edu.it
 node	4043375035	https://www.planetariozafferana.it/
 node	4056938289	https://www.museodiocesanopa.it/
 node	4058412589	http://www.kasbahcafe.it/
@@ -1307,7 +1307,6 @@ node	4472225806	http://www.allombradelmassimo.it/
 node	4472601213	https://www.boscoangimbe.it/
 node	4473283575	http://www.croomfleres.com
 node	4476242889	https://www.avioclubagrigento.it/vdt/
-node	4477394494	http://frescomare.it
 node	4478932877	http://www.merendinogomme.it/
 node	4478932879	https://www.conad.it/ricerca-negozi/negozio.008966.html
 node	4482887808	https://www.ristorantepizzeriailvecchiomulino.com/
@@ -1533,11 +1532,12 @@ node	5137114726	https://m.facebook.com/pages/Osteria-Bacchus/800844259949950?fre
 node	5137622323	https://www.poste.it
 node	5139943123	https://www.facebook.com/noleggiobruno
 node	5143322921	https://www.baffoscastle.com/
-node	5143558284	www.beverlab.it
+node	5143558284	https://www.beverlab.it/
 node	5158664621	https://www.euronics.it/
 node	5160191670	https://bodycentermilazzo.it/
 node	5165071125	http://www.villameligunis.it/
 node	5165344522	https://www.lavelacaffe.com
+node	5168446035	https://pantelleriadiving.it
 node	5168446249	https://www.altamareapantelleria.it/
 node	5168713951	http://www.pilgrim-ranch.it/
 node	5170817993	https://www.quattroventipalermo.it
@@ -1605,7 +1605,7 @@ node	5411081651	https://www.autolavaggiosettegrani.it
 node	5411112574	https://www.toyscenter.it/store/palermo-finocchiaro/
 node	5411834956	https://www.rockbrewery.it/
 node	5412716529	https://www.eurobet.it/it/
-node	5412716530	veterinarioesoticipalermo.it
+node	5412716530	https://www.veterinarioesoticipalermo.it/
 node	5412716533	https://www.abauto.biz/
 node	5412716540	https://palermo3.tecnorete.it/palermo/calatafimi-villa-tasca/
 node	5412716549	https://www.multimediapalermo.it/
@@ -1701,6 +1701,7 @@ node	5657365792	https://www.seguenza.it/
 node	5667055884	https://www.lagrevillea.it/
 node	5667560308	https://casatalia.it/
 node	5675625321	http://www.acasitta.it
+node	5682517367	www.ericeplaya.it
 node	5693133101	http://www.passaparolacapodorlando.it/ristorante/
 node	5693137166	https://quajetri.it/
 node	5693139078	https://www.comune.capodorlando.me.it/
@@ -3907,7 +3908,6 @@ node	11917878742	https://www.ggbistrot.com/
 node	11917878745	https://www.ggbistrot.com/
 node	11921664969	https://commers.it
 node	11922620024	https://www.casabellinipalermo.it/
-node	11931642714	https://www.tripadvisor.it/Restaurant_Review-g1187116-d10678380-Reviews-La_Siesta_Trattoria_Pizzeria_Cucina_Tipica_Servizio_Bar-Naso_Province_of_Messin.html
 node	11936533243	https://www.comprensivomarconi.edu.it/
 node	11937116811	http://www.comune.alcaralifusi.me.it
 node	11938224551	https://enotecadelletna.com
@@ -4388,6 +4388,20 @@ node	13462286105	https://orbitapalermo.it
 node	13473697769	https://www.convittonazionale.palermo.it/
 node	13473745639	https://www.regione.sicilia.it/istituzioni/regione/strutture-regionali/assessorato-infrastrutture-mobilita/dipartimento-regionale-tecnico/organizzazione/civile-palermo
 node	13479083358	https://casaeputiaristorante.it/
+node	13482528538	https://www.museodellascienza.com
+node	13483532062	https://kirani.it
+node	13483534134	https://pantelleriadiving.it
+node	13483549420	https://greendivers-sub.com
+node	13484602673	https://www.pizzeriacrescenzio.it/
+node	13495489413	https://www.leganavale.it/aci-trezza
+node	13504009201	https://hubman.it/
+node	13504571149	https://euromaster-pneumatici.it
+node	13505917494	www.sicilycyclingclub.com
+node	13506991501	https://www.trenitalia.com/
+node	13513209694	https://www.tripadvisor.it/Restaurant_Review-g1187116-d10678380-Reviews-La_Siesta_Trattoria_Pizzeria_Cucina_Tipica_Servizio_Bar-Naso_Province_of_Messin.html
+node	13514734601	http://www.almahotel.it
+node	13514734701	http://www.planetaestate.it
+node	13514734802	http://ristoranteilcambusone.it
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4928,7 +4942,7 @@ way	260783555	https://www.poste.it
 way	260805884	https://istitutoferraris.it
 way	260877177	https://www.belsoggiorno.com/it
 way	260877186	https://www.miramaretaormina.com/
-way	261430182	https://www3.hilton.com/en/hotels/italy/hilton-giardini-naxos-CTAGNHI/index.html?WT.mc_id=zELWAKN0EMEA1HI2DMH3LocalSearch4DGGenericx6CTAGNHI
+way	261430182	https://www.marriott.com/en-us/hotels/ctade-delta-hotels-giardini-naxos/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0ahttps://www.marriott.com/en-us/hotels/ctade-delta-hotels-giardini-naxos/overview
 way	262243917	https://www.iasacqua.it/
 way	262801280	https://www.icwojtylapalermo.edu.it/luogo/sede-di-bartolo/
 way	263203457	http://www.scstrapani.it/
@@ -6747,6 +6761,11 @@ way	1455348940	https://www.carabinieri.it/
 way	1461325973	https://www.poste.it
 way	1466991681	https://secondoicgiarre.edu.it/
 way	1468538611	https://sanpietro.chiesadipalermo.it/
+way	1472021936	https://costa.euromaster-pneumatici.it
+way	1472497189	https://www.icgiardininaxos.edu.it/luogo/scuola-dellinfanzia-c-h-andersen/
+way	1472497190	https://www.icgiardininaxos.edu.it/luogo/scuola-dellinfanzia-c-h-andersen/
+way	1472506299	https://www.icgiardininaxos.edu.it/luogo/scuola-dellinfanzia-c-h-andersen/
+way	1472506302	https://www.icgiardininaxos.edu.it/luogo/scuola-dellinfanzia-c-h-andersen/
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
@@ -7165,7 +7184,7 @@ relation	14873194	https://www.viefrancigenedisicilia.it/PaMe.php
 relation	14873300	https://www.viefrancigenedisicilia.it/PaMe.php
 relation	14873351	https://www.viefrancigenedisicilia.it/PaMe.php
 relation	14873744	https://www.viefrancigenedisicilia.it/PaMe.php
-relation	14888098	http://www.viefrancigenedisicilia.it/PaMe.php
+relation	14888098	https://www.viefrancigenedisicilia.it/PaMe.php
 relation	14894235	https://www.cefalumadoniehimera.it/trails/552-sentiero-battaglietta-piano-sempria/
 relation	14894295	https://www.cefalumadoniehimera.it/trails/587-sentiero-della-pace/
 relation	14894320	https://www.cefalumadoniehimera.it/trails/553-sentiero-nociazzi-madonna-dellalto-monte-san-salvatore/
