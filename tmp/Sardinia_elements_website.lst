@@ -368,7 +368,6 @@ node	525793484	https://fortezzamontealtura.com/
 node	538508137	http://www.ghivine.com/serraorrios.htm
 node	564953937	https://www.rfi.it/it/stazioni/villaspeciosa-uta.html
 node	590038254	https://ristorante-il-pozzo-italian-restaurant.business.site/
-node	596586890	https://www.camping-bellasardinia.com/de/
 node	610512699	https://www.villaggiomandragola.com/
 node	648855400	https://gorropu.info
 node	648900547	http://www.agriturismosamurta.it
@@ -385,11 +384,9 @@ node	796485712	http://www.hotellavecchiamarina.com/
 node	796489846	https://www.hotellabitta.it/
 node	796702427	https://www.arbatasar.it/
 node	796794620	https://www.arbataxpark.com/
-node	800475566	https://www.campingsaprama.com/
 node	800475720	https://www.amfibietreks.de
 node	804233626	https://www.escursionisadali.it/
 node	804265919	www.hotelarbus.it
-node	808434064	http://www.campnurral.it/
 node	817759589	http://www.myohotelroccesarde.com/
 node	830339857	https://www.coopenis.it/de/camping/
 node	860123495	http://www.faldor.it/
@@ -425,7 +422,6 @@ node	1323937077	https://www.rfi.it/it/stazioni/oschiri.html
 node	1323945585	https://www.rfi.it/it/stazioni/berchidda.htmlwiki
 node	1323955165	https://www.rfi.it/it/stazioni/monti-telti.html
 node	1324015802	https://www.rfi.it/it/stazioni/marinella.html
-node	1349356659	https://www.mareblucamping.it
 node	1350404391	http://www.comune.lotzorai.og.it/
 node	1353689258	http://www.latanadelvolo.com/Home.html
 node	1370551309	https://www.rfi.it/it/stazioni/carbonia-serbariu.html
@@ -517,7 +513,7 @@ node	1927382431	https://www.agriturismo-agrisole.com/
 node	1943392419	https://www.ristoranteilcormorano.net/
 node	1944417732	https://www.agriturismodonnortei.com/
 node	1944417734	http://www.agriturismosupinnettu.it/
-node	1951516165	https://www.elighesuttiosos.it/en/home-page/
+node	1951516165	https://www.elighesuttiosos.it/
 node	1955261608	https://www.ristoranteroccaja.com/
 node	1955261610	http://www.ristorantesunuraghe.com
 node	1963394163	http://www.comune.gesico.ca.it/
@@ -1152,7 +1148,6 @@ node	4497988124	http://www.edilrentsimius.com
 node	4498675438	https://www.tessutisardi.it/
 node	4498679055	https://www.tessutisardi.it/
 node	4502694395	http://www.bbraggiodisole.it
-node	4508898068	https://www.campinglinibari.com
 node	4512330316	https://www.farmaciagaraubudoni.com/
 node	4519391666	https://www.hotelscintilla.com/
 node	4519398821	http://www.ambraday.it/
@@ -1623,7 +1618,6 @@ node	10269228813	https://www.enedina.it/
 node	10269368708	https://www.sistemicostruttivi.it/
 node	10294817544	https://www.casanataleantoniogramsci.org/
 node	10316613859	www.s-ena.it
-node	10357875563	https://www.calapineta.it
 node	10537466338	https://www.grottadinettuno.it/
 node	10539814003	https://www.bullisurfclub.it/
 node	10539816994	https://www.safiorida.com/
@@ -1693,6 +1687,7 @@ node	11381233436	https://www.sardiniagrandtour.com
 node	11387434930	https://www.istitutocomprensivoisili.edu.it/
 node	11387434968	https://www.crai-supermercati.it/punto-vendita/5286-crai-extra-gessa-commerciale-via-cedda-isili/
 node	11389529498	https://www.agenziafunebreisili.it/
+node	11401184181	https://comune.seui.su.it/it/vivere-il-comune/luoghi/luogo/Centro-Polivalente-Is-Minadoris/
 node	11406465688	https://suite4relax.com/
 node	11428497026	https://www.aziendaquattropuntozero.it/scheda/autoscuola-pisano-isili/
 node	11428497031	https://www.bene.it/
@@ -2030,6 +2025,7 @@ node	13428665824	https://www.airbnb.com/h/sweethomebosa
 node	13443811919	https://happysardiniatours.it
 node	13460741026	https://www.bancaetica.it/filiale/filiale-di-sassari/
 node	13460741027	https://www.bancaetica.it/uffici/ufficio-di-cagliari/
+way	23937282	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179224
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
 way	28559647	http://www.diverland.it/
@@ -2054,7 +2050,7 @@ way	72444233	http://www.vinovernaccia.com
 way	72444706	https://www.museocabras.it/
 way	72444791	https://www.campingisaruttas.it
 way	72446018	https://www.consorziopontis.net/
-way	72725391	www.portososalinos.it/
+way	72725391	https://www.portososalinos.it/
 way	81141271	https://spiaggiatuerredda.it/
 way	81578382	http://www.fondazionebarumini.it/it;http://www.sardegnacultura.it/j/v/253?s=20710&v=2&c=2488&c1=2127&t=1
 way	82242404	https://campingcalaginepro.net
@@ -2149,7 +2145,7 @@ way	170743462	https://www.campingarzachena.it/
 way	171593759	https://www.aquadream.it/
 way	171957212	http://www.lezagarehotel.it/
 way	171961937	https://www.villaggiospiaggiadelriso.it/
-way	172330718	https://www.4mori.it/de/
+way	172330718	https://www.4mori.it/
 way	172351299	https://www.sardegnaforeste.it
 way	172678486	https://www.campingermosa.com
 way	172686476	https://www.farmasinara.it/
@@ -2573,6 +2569,7 @@ way	301687237	http://www.laitittiri.com/it/
 way	301907330	https://www.ovopollo.com/
 way	301964049	https://www.hotelsolanas.net/
 way	302637042	https://www.sastore.it/
+way	302645794	https://www.panificiononnococco.it
 way	302648049	https://www.ristorantevalledeinuraghi.com/
 way	302658116	http://www.comuneburgos.gov.it
 way	302932017	https://www.comune.cossoine.ss.it/
@@ -2621,6 +2618,7 @@ way	311387174	https://abbadruche.it
 way	311411337	https://www.eurospin.it/
 way	311411338	https://www.mdspa.it/punti-vendita/Sardegna/SS-Sassari/289-OLBIA/
 way	313718514	http://www.sardegnacultura.it/j/v/253?s=19449&v=2&c=2489&c1=2128&t=1
+way	314146832	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII172835
 way	314890128	http://www.sardegnacultura.it/j/v/253?s=20728&v=2&c=2488&c1=&t=1
 way	317166388	https://www.agriturismocuccuruaio.it/
 way	317323034	https://www.vivaiosimbula.com/
@@ -2669,7 +2667,7 @@ way	322650227	https://www.sugrabiolu.it/
 way	322650228	http://nuke.agriturismoilmelograno.info
 way	322650229	http://www.agriturismoimeriagusu.com
 way	322650230	http://www.agriturismoserramaiori.it
-way	322650231	http://www.nuragheruiu.it
+way	322650231	https://www.nuragheruiu-bhbi.it/
 way	322662380	http://www.agriturismolemimose.com
 way	322662381	http://www.senarrubia.it/
 way	322929358	http://www.iloisedilo.org/
@@ -2879,7 +2877,6 @@ way	1056704326	https://www.sardegnatermale.it/
 way	1057808744	http://www.masullas.gov.it/
 way	1061325600	https://fatzendafactory.eatbu.com/
 way	1064330219	http://www.campingcaladambra.com/
-way	1082295947	https://www.isarenasvillage.com
 way	1090857416	https://www.ristorantearagona.com
 way	1090905705	https://www.campingcaladostia.com/
 way	1101782892	https://www.sardegnavventura.com
@@ -2942,6 +2939,11 @@ way	1460768398	https://rifugiogesubambino.it/
 way	1463904850	http://www.iisantoniosegni.gov.it/
 way	1464369828	https://www.iistcgdongavinopes.edu.it
 way	1465602617	http://www.centrosportivocanopoli.it/default.asp
+way	1471570752	https://www.mareblucamping.it
+way	1471656984	http://www.campnurral.it/
+way	1472238264	https://www.camping-bellasardinia.com/de/
+way	1472590940	https://www.campingsaprama.it/
+way	1472628352	https://www.calapineta.it
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3554,6 +3556,7 @@ relation	17645470	https://www.cicloviadellasardegna.it/
 relation	17716421	https://www.sardegnasentieri.it/sentiero/marina-di-tertenia-foresta-bingionniga-c-102
 relation	18001585	https://www.comune.alghero.ss.it/it/amministrazione/luoghi/luogo/Parco-Martin-Luther-King/
 relation	18248575	https://www.geasar.it
+relation	18266185	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII181091
 relation	18349591	https://www.sardegnasentieri.it/sentiero/sincantu-san-gregorio-campu-omu-c-804
 relation	18349762	https://www.sardegnasentieri.it/sentiero/arcu-sa-spina-arcu-su-crabiolu-c-806
 relation	18375428	https://www.cicloviadellasardegna.it/
@@ -3611,6 +3614,7 @@ node	1670392027	http://www.mutseu.org
 node	1724768359	http://www.pedraruja.com
 node	1770850285	http://www.canales.it
 node	1770857583	www.agriturismosozzastru.com
+node	1786333574	https://www.visitbuggerru.it/product-page/ortus-de-mari-campeggio
 node	1853376497	http://www.sispiga.it
 node	1865725527	http://www.bbginepro.it
 node	1885899244	http://www.agriturismolaquila.com
@@ -3828,6 +3832,8 @@ node	8953808140	https://www.facebook.com/Mordi-Fuggi-1308511185954126/
 node	9726164063	https://www.anticacagliari.it/
 node	9817977077	https://linktr.ee/SabrinaPintusLBS
 node	9866720659	http://allaplaya.altervista.org/
+node	9893735774	https://quisardegna.eu/Sardegna/Default.asp?MnDesc=musei&MnCall=agricamping-su-e-lentu-bosa&Struttura=46&Lang=1&MnGroup=3&MnNum=1
+node	9893738683	https://www.mattagiana.com/
 node	11056964484	https://beb.it/villamereu/it/
 node	11057009072	https://casabonaria.com/
 node	11157772237	https://sapandacagliari.business.site
@@ -3880,7 +3886,9 @@ way	118967049	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	118967053	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	119332297	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	119332301	http://arst.sardegna.it/orari_e_autolinee/TPL.html
+way	119452886	http://www.campingbungalowlapineta.it
 way	119571860	http://www.hotelulivo.it/
+way	121291732	https://www.coccorroccicamping.com/
 way	134580058	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	146849821	http://www.hotelpanorama.it
 way	150919310	http://www.almielerestaurant.com/
@@ -3914,6 +3922,7 @@ way	207878256	http://www.comune.florinas.ss.it
 way	213131875	http://www.comune.domusnovas.ci.it
 way	216218590	http://www.acquariocalagonone.it
 way	217680285	http://www.comune.villaputzu.ca.it/
+way	220928538	https://campingvillagetesonis.netsons.org/
 way	225110342	http://www.comune.sannicolodarcidano.or.it/
 way	230339567	http://www.sardegnacultura.it/j/v/253?v=2&c=2488&t=1&s=21531
 way	234747378	http://arst.sardegna.it/orari_e_autolinee/TPL.html
@@ -3990,6 +3999,8 @@ way	283844881	http://www.comune.posada.nu.it
 way	283961927	http://www.agriturismoilmirto.it
 way	287807442	http://www.ristorantetorregrande.com
 way	289634106	https://www.campingsosflores.com/
+way	289634110	https://campingcignobianco.it/
+way	289634113	https://campingorri.it/
 way	289634126	http://www.comuneditortoli.it
 way	291517718	http://www.vallermosa.gov.it/
 way	291626597	http://www.comune.setzu.vs.it
@@ -4103,6 +4114,7 @@ way	296807487	http://www.comune.lei.nu.it/
 way	296807764	http://www.comune.bortigali.nu.it
 way	296810874	http://www.comune.dualchi.gov.it
 way	297833935	http://www.comuneurzulei.gov.it
+way	297850131	https://www.campeggiocavallobianco.com/
 way	297850166	www.comune.lotzorai.og.it
 way	297850481	http://www.rifugiouttolo.it/
 way	297850871	http://www.comune.girasole.og.it
@@ -4154,6 +4166,8 @@ way	305350826	http://www.comune.siris.or.it
 way	305351161	https://www.darenzo.it/
 way	305351162	http://www.comune.siamaggiore.or.it
 way	305623213	http://www.comune.abbasanta.or.it
+way	310417388	https://www.campingiscrixedda.com/
+way	310417390	https://www.campinglecernie.it/
 way	310640541	http://www.treninoverde.com/
 way	314864374	http://www.loliveto.sardegna.it
 way	316986725	http://www.comune.ollastra.or.it
@@ -4393,6 +4407,7 @@ way	1076023371	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	1076808208	http://www.treninoverde.com/
 way	1076808209	http://www.treninoverde.com/
 way	1076808210	http://www.treninoverde.com/
+way	1082295947	https://www.camping-isarenas.com/
 way	1110236050	http://www.treninoverde.com/
 way	1110236051	http://www.treninoverde.com/
 way	1115430376	http://arst.sardegna.it/orari_e_autolinee/TPL.html
@@ -4409,6 +4424,8 @@ way	1411289214	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	1411289217	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	1411289218	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	1450362548	http://www.comune.esterzili.ca.it
+way	1471589273	https://www.campeggiosolemar.com/
+way	1471686888	https://www.stintinocamper.it/
 relation	41025	https://www.comunearzachena.it
 relation	1808857	http://www.treninoverde.com/
 relation	3647706	http://www.comuneescalaplano.info/
@@ -4435,7 +4452,6 @@ relation	7796877	http://www.comune.sanluri.vs.it
 node	72991040	http://web.tiscali.it/Senorbi2000/
 node	72991301	http://www.fluminimaggiore-bilingue.it/
 node	72992193	http://www.orroliproloco.com/
-node	610512699	http://www.villaggiomandragola.com
 node	1601566871	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
 node	1601567218	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
 node	1601567221	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
@@ -4446,7 +4462,6 @@ node	11925747476	https://coinatmradar.com/bitcoin_atm/64663/bitcoin-atm-shitcoin
 way	27771208	http://www.saras.it/saras/pages/inthefield/assets/refining
 way	62331902	http://www.progettodighe.it/main/le-dighe/article/bau-mandara
 way	81578382	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
-way	119452886	http://www.campingbungalowlapineta.it
 way	142884664	http://www.orroliproloco.com/
 way	277017452	http://www.tripadvisor.it/Restaurant_Review-g3528959-d3524787-Reviews-Il_Gatto_Sardo-Gonnoscodina_Province_of_Oristano_Sardinia.html
 way	516635404	http://www.orroliproloco.com/
