@@ -204,6 +204,8 @@ node	1339932766	http://www.pizzeriavallemiano.it
 node	1339933011	https://www.siconte.it/punti-vendita/supermercato-si-con-te-ancona-q2/
 node	1348507378	http://www.agriturismoaccipicchia.it/
 node	1352044591	https://dajessica-ancona.it/
+node	1352788356	http://www.cinemaitaliamacerata.it/
+node	1352788358	https://www.scientificomc.edu.it/
 node	1364270407	http://www.barluana.it/
 node	1364270417	https://www.conerobreak.it/
 node	1364681346	https://www.siconte.it/punti-vendita/supermercato-si-con-te-ancona-posatora/
@@ -260,6 +262,7 @@ node	1699887895	https://www.oldwildwest.it/code/20001/ancona-multisala-giometti
 node	1699887911	https://otello-cafe.business.site/
 node	1707812186	https://www.gabrielliunika.it/it/punti-vendita.html?store=7102
 node	1717069517	https://www.cinemamargherita.com/
+node	1724636695	https://poste.it
 node	1737574929	http://www.caffeimperialejesi.it
 node	1749497065	http://www.lavignapizzeria.it/
 node	1751776482	http://www.sangirolamo.com
@@ -836,6 +839,7 @@ node	5772695953	https://www.ristorantecasarapisarda.it/
 node	5780536202	https://www.ckcarwash.it/
 node	5793755982	https://www.alphagemini.it
 node	5825631356	https://www.pizzeriadarobys.it/
+node	5851831677	https://storelocator.tamoil.it/it/marche/provincia-di-ancona/falconara/tamoil-7915-falconara-922
 node	5851842486	https://www.oilone.eu/oilone/portfolio-articoli/stazione-di-servizio-montelabbatese-pu/
 node	5851844606	https://ip.gruppoapi.com/ricerca-stazioni-servizio/station/46775
 node	5881009063	https://www.nethesis.it/
@@ -2241,7 +2245,7 @@ node	13431181504	https://www.comune.falconara-marittima.an.it/area_letturaLuogo/
 node	13431331518	https://osteriaculinaria.it/
 node	13438108926	https://www.armoniadellasera.it/
 node	13442702154	https://www.gustoecapriccio.it
-node	13448547528	http://www.innochimica.it
+node	13448547528	https://www.innochimica.it/
 node	13451615801	https://urbica.it
 node	13460604510	https://www.bancaetica.it/uffici/ufficio-di-senigallia/
 node	13460629685	https://nationalsanit.it/
@@ -2252,6 +2256,9 @@ node	13464371079	https://museodelrisorgimentocastelfidardo.it/
 node	13464371091	http://comune.castelfidardo.an.it/
 node	13464537549	https://www.siconte.it/punti-vendita/supermercato-si-con-te-castelfidardo-piazza-sant-agostino/
 node	13479244457	https://acquaesapone.it/
+node	13500893567	https://vistafermo.com/met-de-camper/
+node	13507486201	https://www.spritzandchips.it/
+node	13507488601	https://radiounimc.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2361,6 +2368,7 @@ way	174192367	https://trattoriamolosud.it/
 way	174192372	https://mercatoitticosbt.it/
 way	176823254	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	176823255	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
+way	183050165	https://www.mercatoitticocivitanovese.it
 way	183160671	http://www.standbycoffeebistro.com/
 way	196171471	http://www.finisafricae.info/
 way	196176606	https://www.comune.pesaro.pu.it/turismo/da-vedere-in-citta/parchi-e-giardini/parco-miralfiore/
@@ -3084,6 +3092,7 @@ way	1449963692	https://www.pinetacamping.it/
 way	1450201363	www.halleyweb.com/c044067/zf/index.php/servizi-aggiuntivi/index/index/idtesto/13
 way	1463966094	https://www.ipiapocognoni.edu.it/
 way	1463966095	https://omnirotellamontalto.edu.it/luogo/via-della-scuola1/
+way	1471736152	https://iscsem.edu.it/
 relation	42253	https://www.comune.grottammare.ap.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
