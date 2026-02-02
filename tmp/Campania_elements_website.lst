@@ -99,8 +99,8 @@ node	1399178507	http://www.cristinaparkhotel.it
 node	1421018346	http://www.autofficinaguida.com
 node	1428339935	https://www.rifugiolatorre.it/
 node	1436199334	http://www.polomusealecampania.beniculturali.it/index.php/il-museo-montella
-node	1436226470	http://www.ziacarmela.it/
-node	1436226473	http://www.ziacarmela.it/
+node	1436226470	https://www.ziacarmela.it/
+node	1436226473	https://www.ziacarmela.it/
 node	1449317329	https://www.rfi.it/it/stazioni/scafati.html
 node	1449317333	https://www.rfi.it/it/stazioni/angri.html
 node	1457483598	https://www.rfi.it/it/stazioni/gricignano-teverola.html
@@ -744,7 +744,7 @@ node	4807853322	https://www.mcdonalds.it/
 node	4807866122	https://shop.flordocafe.it/
 node	4807869921	https://www.burgerking.it/ristoranti/burger-king-napoli/
 node	4812129137	https://rakisorrento.com
-node	4813268147	www.sole365.it
+node	4813268147	https://www.sole365.it/
 node	4813282949	https://www.carrefour.it/
 node	4827573711	https://comune.caivano.na.it/
 node	4836021455	http://www.comune.pietramelara.ce.it/
@@ -1227,7 +1227,7 @@ node	7050100503	https://www.rfi.it/it/stazioni/duomo-via-vernieri.html
 node	7056785497	https://www.comune.quadrelle.av.it/
 node	7078487239	https://www.conad.it/ricerca-negozi/negozio.003763.html
 node	7078503464	https://giadafiori.it/
-node	7078505839	http://www.villaimperiale.eu/
+node	7078505839	https://www.villaimperiale.eu/
 node	7078510975	https://www.villadelvecchiopozzo.it/
 node	7078518815	https://m.facebook.com/pubpaulette/
 node	7080475770	www.ilmacello.com
@@ -1792,7 +1792,6 @@ node	9407631729	https://resortsantangelo.it/
 node	9407632765	https://www.dannaspose.it
 node	9407632766	https://www.perdormire.com/negozi/nola-na/
 node	9407632768	https://castaldodesign.it/
-node	9407637695	info@schettinoinfanzia.com
 node	9407873905	https://www.lartigianoceramiche.com
 node	9408699290	https://www.eatwellys.com/
 node	9408712558	https://www.internidicorradonapoli.it/
@@ -3030,7 +3029,7 @@ node	13394698537	https://www.emicenter.it/
 node	13395108416	http://www.domusrelaisposillipo.com/
 node	13398504934	https://xn--casa-8oa.it/agenzia/napoli-na011i/
 node	13404173714	https://www.aslnapoli1centro.it/uo-medicina-legale-ds24
-node	13404173818	http://www.villaangela.it/
+node	13404173818	https://www.villaangela.it/
 node	13404462643	https://www.granfuocobraceria.it/
 node	13404462645	https://www.opazzposillipo.it/
 node	13404462647	https://www.aslnapoli1centro.it/anziani
@@ -3041,7 +3040,7 @@ node	13410942941	https://www.rfi.it/it/stazioni/battipaglia.html
 node	13411406671	https://www.gran-gusto.it/
 node	13413236789	https://www.lafattoriadelcastello.it/
 node	13424607466	https://www.rfi.it/it/stazioni/benevento.html
-node	13429450916	http://www.miranapoli.com/
+node	13429450916	https://www.miranapoli.com/
 node	13429451024	https://www.agenziaentrate.gov.it/portale/uffici6/-/uffici/uffici_INSTANCE_1cLNQUzabo40/dettaglioufficio/TF2
 node	13429451026	https://www.cittametropolitana.na.it/
 node	13429993163	https://www.depositobagaglistazionenapoli.it/
@@ -3049,12 +3048,12 @@ node	13436172077	https://www.civico36.store
 node	13438327310	www.facebook.com/Cngei.Scout.Casoria/?locale=it_IT
 node	13448671826	https://www.comune.napoli.it/amministrazione/unita_organizzativa/municipalita-1/
 node	13448671827	https://www.comune.napoli.it/amministrazione/unita_organizzativa/municipalita-1/
-node	13460273301	http://faromedico.it
-node	13460288101	http://faromedico.it
+node	13460273301	https://faromedico.it/
+node	13460288101	https://faromedico.it/
 node	13460652801	https://gennarobottone.eu/
 node	13460668711	https://www.bancaetica.it/uffici/ufficio-di-avellino/
 node	13472284739	https://www.florealnapoli.com/
-node	13474126441	http://www.agriturismopericle.it/
+node	13474126441	https://www.agriturismopericle.it/
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
 way	24225619	https://reggiadicaserta.cultura.gov.it/
