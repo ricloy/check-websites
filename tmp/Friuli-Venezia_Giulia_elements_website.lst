@@ -731,6 +731,7 @@ node	3118445929	https://www.valigeriasaraudine.it/
 node	3118489188	"http://www.viaggioinfriuliveneziagiulia.it/wcms/index.php?id=5773,0,0,1,0,0"
 node	3128394748	https://www.banca360fvg.it
 node	3136529612	https://www.agriturismohermada.it/
+node	3142818465	https://www.ardis.fvg.it/contenuti.php?view=page&id=214
 node	3152604998	https://www.ialweb.it/udine
 node	3155075202	https://www.banca360fvg.it
 node	3155075203	https://farmaciafavero.it/
@@ -1059,7 +1060,7 @@ node	3752755703	https://www.banca360fvg.it
 node	3765051723	https://www.hotelsantinpordenone.it/
 node	3765065295	http://www.immobiliarelce.it/
 node	3765065317	https://www.coopalleanza3-0.it/fare-spesa/elenco-negozi/dettaglio-negozio/4932-pordenone-centro.html
-node	3765066758	http://www.panificiosaporidelgrano.it/
+node	3765066758	https://www.panificiosaporidelgrano.it/
 node	3765085943	https://ristorantebean.it
 node	3765089991	https://www.ricosfood.it/
 node	3765104857	https://www.lambiente.it
@@ -1073,7 +1074,6 @@ node	3775603015	https://www.bliz-peugeot.it/
 node	3775603016	https://www.bliz-peugeot.it/
 node	3775603017	https://chiappo.net/
 node	3775603019	https://www.ossoauto.com/
-node	3780260913	https://www.piassalber.it/
 node	3784350092	https://www.farmaciasatti.com/
 node	3784350130	http://www.tretiarredamenti.it/
 node	3784354935	https://www.autonordfioretto.it
@@ -3161,6 +3161,11 @@ node	13460548313	https://www.bancaetica.it/uffici/ufficio-di-udine/
 node	13460765026	https://naonianretrogamingsociety.it/
 node	13474200528	https://www.gobitti.com/
 node	13476245753	https://www.civibank.it/filiali/filiale-di-tarvisio/
+node	13519381326	https://mamototo.com/
+node	13521356871	https://www.beps.it/
+node	13521356872	http://www.autoandauto.it/
+node	13521356873	http://www.gruppoquadrifogliofvg.it/
+node	13521371881	http://www.friulforgia.it
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -3273,6 +3278,7 @@ way	36052154	https://agriturismozaro.it/
 way	36052390	https://www.cividale.com/it/il_rifugio_pelizzo
 way	36052562	https://locandalaserenissima.com/
 way	36054157	https://www.casavalcellina.it/it
+way	36056959	https://www.albergoristorantebornass.it/
 way	36057183	https://www.bottegone.eu
 way	36057653	https://www.universiis.it/villa-olimpia-pra-de-plana-aviano-rsa/
 way	36057975	https://www.lefacchine-aviano.it/
@@ -3498,7 +3504,6 @@ way	36423774	https://www.pmc-italy.it/
 way	36424056	https://www.artegiardino.net/
 way	36424069	https://famastudio.it/
 way	36424078	http://www.pertoldi.it/
-way	36424136	https://www.beps.it/
 way	36424168	https://pilosio.com/
 way	36424226	https://www.telonifiascaris.it/
 way	36424549	https://ferriauto.it/
@@ -3968,7 +3973,7 @@ way	376899198	https://www.procordenons.it
 way	379326640	https://iclignano.edu.it/index.php?page=plesso&menu=102&p=2
 way	379348667	https://www.protezionecivile.fvg.it/it/comune/pagnacco
 way	380929071	https://www.tenutadiblasig.it/
-way	382878992	https://asufc.sanita.fvg.it/it/strutture/distretti/distretto_udine/index.html
+way	382878992	https://asufc.sanita.fvg.it/it/strutture/dir_sanitaria/dip_assistenza_territoriale/distretto_udine/index.html
 way	385051039	https://www.facebook.com/hostariaalmolo
 way	385406549	https://microtek.cloud/
 way	387596994	http://www.pinetadelcarso.it/
@@ -4141,6 +4146,7 @@ way	1003506085	https://www.protezionecivile.fvg.it/it/comune/moraro
 way	1011000555	https://gokbora.com/
 way	1013601006	http://www.vesnabrezina.it/novo/sl/plessi/otroski-vrtec-v-gabrovcu
 way	1020495877	http://www.sacrocuoretrieste.it
+way	1033863049	https://www.e3l.ski/
 way	1038867840	https://www.enpaudine.it/
 way	1039118940	www.libereta-fvg.it
 way	1044798528	https://www.marinazzurraresort.com/
@@ -5777,6 +5783,7 @@ node	8665445448	https://antennistatrieste.com/
 node	9916760727	http://italia.indettaglio.it/ita/friuliveneziagiulia/udine_lignanosabbiadoro_casabianca.html
 node	9916760752	http://italia.indettaglio.it/ita/friuliveneziagiulia/udine_latisana_duranti.html
 node	11037120820	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=18&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
+node	13520707804	https://asufc.sanita.fvg.it/it/strutture/dir_sanitaria/dip_assistenza_territoriale/distretto_udine/serv_ammin_ud/uff_anagrafe_migrant_assist_internaz/
 way	25796421	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=11&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	26572774	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=9&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
 way	26578892	http://www.ipac.regione.fvg.it/aspx/ViewProspIntermedia.aspx?idScheda=120&tsk=PG&tp=vRAP&idAmb=120&idsttem=6
