@@ -1,6 +1,7 @@
 @type	@id	website
 node	26859596	https://www.campingledzeppelin.it/
 node	130009920	http://www.hotelpassetto.it/
+node	227739748	https://www.cellicarburanti.com/stazioni-di-servizio/civitanova-marche/
 node	227952845	https://www.tamoil.it/
 node	257061689	https://www.farmaciaferrettidrgianpaolo.com/
 node	266580073	http://www.donegal.it/
@@ -385,7 +386,6 @@ node	2469054629	https://www.pasticceriadolcemania.it/
 node	2470050178	https://www.comunesbt.it/Vivi-San-Benedetto/Quartieri-2/Mare
 node	2470180048	https://www.oasitigre.it/it/punti-vendita.html?store=6205
 node	2492877495	https://www.facebook.com/pages/Osteria-Del-Lago/245683322122591?v=info
-node	2492892275	https://www.abbaziasanruffino.it/
 node	2492921104	http://www.dimensionenatura.org/it/accommodations/
 node	2495611498	https://www.forneriatoto.it/
 node	2501972620	https://www.hotelnazzare.com/
@@ -2425,6 +2425,7 @@ way	289656880	https://www.campingdelgabbiano.it/
 way	289656881	https://ristorantelabatana.it/
 way	290746228	http://www.campingclubcesano.com
 way	291528896	http://www.siconte.it/it/punti-vendita/si-supermercati/ancona-piazza-d-armi
+way	293672743	https://www.abbaziasanruffino.it/
 way	294002268	https://www.faonline.it/
 way	295345036	https://www.agrituristlafonte.it/
 way	295858866	https://www.casaleta.it
