@@ -1073,7 +1073,6 @@ node	4469760288	http://utt.uniss.it
 node	4469765001	https://www.outlawstore.it/
 node	4469775403	https://www.supersigma.com
 node	4469775404	https://www.supersigma.com/
-node	4469775405	https://www.supersigma.com/
 node	4469775408	https://www.supersigma.com/
 node	4469775409	https://www.supersigma.com/
 node	4471074425	https://www.innovyou.it/
@@ -1424,7 +1423,6 @@ node	6886228853	https://it-it.facebook.com/Farmacia-Porto-Istana-467853403738453
 node	6893978923	https://archeodiving.it/
 node	6893978924	http://www.ristorantelacalavillasimius.it/
 node	6955933120	www.bnbcasaolla.it
-node	7003932985	https://www.campingbaiaparadiso.it/
 node	7046501591	www.scuoleboccaccio.edu.it
 node	7080474585	https://facebook.com/platocafe
 node	7116429716	https://www.clubesse.it/
@@ -1505,7 +1503,6 @@ node	8755165185	https://www.mishesteticcenter.com/
 node	8765012678	https://www.hotelcaladellatorre.com/
 node	8773330517	https://www.facebook.com/PLANBburgersandbeers
 node	8844615537	https://www.marinasantelmo.it/
-node	8849841618	https://campingmaddalena.it/
 node	8852531816	https://www.cphpeverohotel.com/
 node	8880376608	https://www.consulmedia.it/
 node	8880551001	https://www.mdspa.it/punti-vendita/Sardegna/SS-Sassari/931-Ozieri
@@ -1807,7 +1804,6 @@ node	12725894102	https://www.labaita.eu
 node	12734097392	https://instagram.com/ristorantedafabio
 node	12734486857	https://www.tenuteolbios.com/
 node	12766626511	https://avisprovincialesassari.it/
-node	12771830280	https://campingirasole.it
 node	12776948868	https://www.mdspa.it/punti-vendita/Sardegna/CA-Cagliari/236-CAGLIARI/
 node	12776948869	https://www.mdspa.it/punti-vendita/Sardegna/CA-Cagliari/244-CAGLIARI/
 node	12776948870	https://www.mdspa.it/punti-vendita/Sardegna/CA-Cagliari/796-CAGLIARI/
@@ -2025,6 +2021,9 @@ node	13428665824	https://www.airbnb.com/h/sweethomebosa
 node	13443811919	https://happysardiniatours.it
 node	13460741026	https://www.bancaetica.it/filiale/filiale-di-sassari/
 node	13460741027	https://www.bancaetica.it/uffici/ufficio-di-cagliari/
+node	13522540296	https://www.turcusemorus.it
+node	13529717771	https://museocavallinodellagiara.it
+node	13531932465	http://www.comunebarumini.it/c-24-biblioteca.html
 way	23937282	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179224
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
@@ -2484,7 +2483,6 @@ way	294421525	https://www.arddiscount.it/
 way	294429714	http://www.centrosantignazio.com/
 way	294436460	https://www.comunearbus.it/it/index.html
 way	294461457	https://www.museocavallinodellagiara.it/
-way	294464123	http://www.comunebarumini.it/c-24-biblioteca.html
 way	294464158	http://www.comunebarumini.it/
 way	294639415	https://www.sistemamuseo.it/ita/2/musei/277/villaperuccio-sardegna-parco-archeologico-di-montessu/
 way	294652568	http://musei.beniculturali.it/musei?mid=940&nome=torre-spagnola-di-portoscuso
@@ -2835,6 +2833,7 @@ way	715591216	https://www.porcuautodemolizionioristano.com/
 way	721745849	https://www.comune.cagliari.it/portale/page/it/parco_degli_anelli_it_1
 way	722618010	https://mansioresidence.it/
 way	722672255	https://www.caricavinci.it/
+way	724763730	https://campingmaddalena.it/
 way	729912868	https://www.facebook.com/agriturismo.mattale
 way	734181216	https://www.malfatanobeach.com/
 way	749873918	https://www.nekohotel.com/
@@ -2874,7 +2873,6 @@ way	1015072850	https://www.marinadiportocervo.com/cantiere-porto-cervo/
 way	1025504521	https://www.bricoman.it/it/n/cagliari-assemini/
 way	1043755653	https://www.rinascente.it/it/store-cagliari
 way	1056704326	https://www.sardegnatermale.it/
-way	1057808744	http://www.masullas.gov.it/
 way	1061325600	https://fatzendafactory.eatbu.com/
 way	1064330219	http://www.campingcaladambra.com/
 way	1090857416	https://www.ristorantearagona.com
@@ -2892,7 +2890,7 @@ way	1160529514	https://www.motorschoolriola.it/
 way	1167784168	https://www.mandrolisaidoc.com
 way	1207243672	http://www.resortlesaline.it/
 way	1208370615	https://www.facebook.com/SeaLoungeClub/about_contact_and_basic_info
-way	1214067682	http://areacamperilsole.it
+way	1214067682	https://www.areacamperilsole.it/
 way	1217204495	https://www.nurapolis.it
 way	1218225722	https://liceoscientificoartisticobrotzu.edu.it
 way	1242063879	https://www.icilbono.edu.it/
@@ -2944,6 +2942,7 @@ way	1471656984	http://www.campnurral.it/
 way	1472238264	https://www.camping-bellasardinia.com/de/
 way	1472590940	https://www.campingsaprama.it/
 way	1472628352	https://www.calapineta.it
+way	1474144727	https://campingirasole.it
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3843,6 +3842,7 @@ node	11177446652	https://makito.io/
 node	11182866855	https://www.estay.it/
 node	11187792421	http://www.hotelcorterosada.it
 node	12618911905	http://www.comune.seui.og.it
+node	12645682304	https://www.petradicossu.it/
 node	12679884915	http://www.fiorerosa.com
 node	12681487643	https://flcomunicazione.it
 node	12912465898	https://www.cramasinara.org/
@@ -3856,6 +3856,7 @@ way	27668458	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668483	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668486	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	28408977	http://arst.sardegna.it/orari_e_autolinee/TPL.html
+way	39695815	https://foce.it/
 way	46428907	http://www.aeroportotortoliarbatax.it/
 way	50845483	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	50845484	http://arst.sardegna.it/orari_e_autolinee/TPL.html
@@ -4025,13 +4026,13 @@ way	294120812	http://www.comune.bonarcado.or.it
 way	294120813	http://www.comune.paulilatino.or.it/
 way	294225570	http://comune.curcuris.or.it
 way	294225667	http://www.comune.siapiccia.or.it/
+way	294225760	http://www.comune.sini.or.it
 way	294225903	http://www.parrocchia-zerfaliu.it
 way	294226010	https://comune.gonnosno.or.it
 way	294226013	http://www.comune.zerfaliu.or.it
 way	294229778	http://www.comune.villaurbana.or.it
 way	294230564	http://www.comune.villanovatruschedu.or.it
 way	294231224	http://www.comune.siamanna.or.it/
-way	294231363	http://www.comune.sini.or.it
 way	294419611	http://www.comune.serrenti.ca.it
 way	294435902	http://ristorantefrontemari.it
 way	294436343	http://www.torrehotel.it
@@ -4395,6 +4396,7 @@ way	593264610	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	596100431	http://www.comune.decimoputzu.ca.it
 way	603589976	http://www.agriturismovilladegliulivi.it
 way	673141866	https://www.cantinedidolianova.it/
+way	732456236	https://www.camping-baiaparadiso.com/
 way	762673827	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	762679692	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	762679693	http://arst.sardegna.it/orari_e_autolinee/TPL.html
