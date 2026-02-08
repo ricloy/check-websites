@@ -127,6 +127,8 @@ node	955404719	https://www.caos.museum/luogo/museo-d-arte-moderna-e-contemporane
 node	980297632	https://dishcovery.menu/app/restaurants/295f58231c02ec2693e37781f0af3d39/a-la-carte-menu
 node	980297641	https://turismo.comune.perugia.it/poi/teatro-del-pavone
 node	983923931	https://www.ilpanaro.com/
+node	1067539879	https://poste.it
+node	1067539982	https://poste.it
 node	1106856923	http://labtopo.ing.unipg.it/labtopo/index.php?id=84
 node	1171417598	https://www.iluoghidelsilenzio.it/villa-di-rio-secco-trevi-pg/
 node	1201408985	https://www.lariete.org/
@@ -345,6 +347,7 @@ node	3323226261	https://www.sasu.it/
 node	3323241111	https://www.speleopg.it/
 node	3328243156	https://m.facebook.com/ristorantedalmicocco/
 node	3366294910	https://postmodernissimo.com
+node	3384212545	https://poste.it
 node	3399584985	http://www.agello.it/
 node	3417244549	https://bachiorri.com
 node	3461614631	https://www.biaginiluigi.it/
@@ -997,7 +1000,7 @@ node	12202629487	https://www.farmaciaperellideruta.it/
 node	12202629488	https://www.uslumbria1.it/
 node	12202760754	https://umbriadanceschool.com/
 node	12214770601	http://www.macelleriamorettini.it/
-node	12215153113	www.mctaxidriver.it
+node	12215153113	https://mctaxidriver.it/
 node	12215158647	https://www.perugiataxidrivers.it
 node	12215167646	https://ittaxi.it/
 node	12215167647	https://ittaxi.it/
@@ -1168,6 +1171,7 @@ node	13457810107	https://lainoxspoleto.com/
 node	13457830001	http://www.binaglia.it
 node	13462582045	https://www.miarsnc.it/
 node	13508767543	https://comune.sangemini.tr.it/home.php
+node	13518356223	https://poste.it
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30110992	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
@@ -1612,6 +1616,7 @@ way	564994508	https://www.sanpietroperugia.it/
 way	565561519	http://www.iluoghidelsilenzio.it/chiesa-di-san-bartolomeo-roselli-di-spoleto-pg/
 way	565814574	https://www.iluoghidelsilenzio.it/?p=252113
 way	565949375	https://m.iluoghidelsilenzio.it/articolo.html?id=villa-di-sustrico-spoleto-pg
+way	566665573	https://www.iluoghidelsilenzio.it/castello-di-pompagnano-spoleto-pg/
 way	566999469	https://www.iluoghidelsilenzio.it/chiesa-di-santa-maria-assunta-o-pieve-petroia-maestrello-di-perugia-pg/
 way	567471026	http://www.iluoghidelsilenzio.it/?p=78300
 way	567994857	https://www.iluoghidelsilenzio.it/santuario-della-madonna-della-croce-petrognano/
@@ -1937,6 +1942,8 @@ way	1457476237	https://www.iluoghidelsilenzio.it/castello-di-pontuglia-scheggino
 way	1464857030	https://centroippiconarnese.it/
 way	1466424633	https://www.agriturismosantostefano.it/
 way	1467802194	https://www.fantauzzimoto.com/
+way	1474170258	https://www.iluoghidelsilenzio.it/chiesa-di-san-giovanni-battista-rapicciano/
+way	1474731701	https://oliofarchioni.com/
 relation	1253429	https://www.abbaziacollemedio.it/
 relation	1948091	https://chemindassise.org/
 relation	2048968	http://www.camminodiassisi.it
