@@ -3147,7 +3147,7 @@ node	13388926786	https://catastogrotte.regione.fvg.it/scheda/1082-Grotta_a_NE_di
 node	13389630558	https://catastogrotte.regione.fvg.it/scheda/3583-Cavit_2_di_Artegna
 node	13418273838	https://www.dd-srl.it/
 node	13426753429	https://www.antonuttivini.it/it/home/
-node	13428327601	https://uominicomenoi.it/contatti/
+node	13428327601	https://uominicomenoi.it/
 node	13434356395	https://www.go2025.eu/it/imports/poi/no-sync/dag-digital-art-gallery
 node	13434356396	https://www.go2025.eu/it/imports/poi/no-sync/dag-digital-art-gallery
 node	13449448101	https://www.friulsicurezza.it/
@@ -3166,6 +3166,7 @@ node	13521356871	https://www.beps.it/
 node	13521356872	http://www.autoandauto.it/
 node	13521356873	http://www.gruppoquadrifogliofvg.it/
 node	13521371881	http://www.friulforgia.it
+node	13523696906	http://www.arredamentipertoldi.it/
 way	5198178	https://www.areasciencepark.it
 way	25005406	https://www.aquasplash.it/
 way	25557670	https://verdepubblico.online.trieste.it/giardini-storici/giardino-di-villa-cosulich/
@@ -3854,7 +3855,6 @@ way	158852230	https://www.clubdelsole.com/it/destinazioni/friuli-venezia-giulia-
 way	160548530	http://www.liburniats.org/p/le-spiagge.html
 way	162977548	https://www.protezionecivile.fvg.it/it/comune/osoppo
 way	163794292	http://www.comune.pozzuolo.udine.it
-way	168959261	https://comune.sandanieledelfriuli.ud.it/it/vivere-il-comune-30689/luoghi-30691/caravan-ed-aree-attrezzate-85034
 way	170856596	https://www.sauris.org/maps-routes/2E
 way	171519490	https://www.univ.trieste.it/
 way	171532815	http://versajudrio.it/
@@ -5718,6 +5718,7 @@ relation	20016906	https://www.via-alpina.org/
 relation	20016954	https://www.via-alpina.org/
 relation	20081213	https://federsanita.anci.fvg.it/progetti/progetto-friuli-venezia-giulia-in-movimento
 relation	20081813	https://federsanita.anci.fvg.it/progetti
+relation	20182797	https://comune.sandanieledelfriuli.ud.it/it/vivere-il-comune-30689/luoghi-30691/caravan-ed-aree-attrezzate-85034
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
