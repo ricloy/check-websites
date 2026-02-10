@@ -5,82 +5,178 @@ charset=utf-8" lang="en"/>	-1
 </body>	-1		
 </head>	-1		
 </html>	-1		
-<?xml version="1.0" encoding="UTF-8"?>	-1		
 <body>	-1		
 <head>	-1		
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">	-1		
 <p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>	-1		
 <p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>	-1		
+http://dondeynazgamba.com/home.html	6		
 http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	0	400	
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323212	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323212
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232B	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232B
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232C	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232C
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AF	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AF
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W
+http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y
-http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z
 http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608	0	301	https://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
+http://officine.puntopro.it/officina-laurent	0	301	https://officine.puntopro.it/officina-laurent
+http://www.bachamp1826.com/	6		
+http://hotelsaintnicolas.it/	0	301	https://hotelsaintnicolas.it/
+http://www.alpenzu.com/	0	301	https://www.alpenzu.com/
+http://www.bistrotramet.it/	6		
+http://www.casacountryarnad.it/	6		
+http://www.caitorino.it/	0	301	https://www.caitorino.it/
+http://www.campingarvier.com/	0	301	https://www.campingarvier.com/
+http://maisondunoyer.com/	0	301	https://www.maisondunoyer.com/
+http://www.dortoirlavyiyeehcoula.it/	6		
+http://www.comune-challandsaintanselme.it	0	302	http://www.comune-challandsaintanselme.it/it-it/home
 http://www.hoteldufoyer.it	6		
+http://www.cogne.com/	0	301	https://www.cogne.com/
+http://www.hotelgenzianella.it/	0	301	https://www.hotelgenzianella.it/
+http://www.fortedimachaby.it/	0	200	
+http://www.ilcaselloverres.com/	0	301	https://thebest100hotels.com/il-casello-verre/?redireccion=9&ts=1770701087
+http://www.lecoindesmelezes.it	52		
+http://www.lepetitabri.com	0	301	https://www.lepetitabri.com/
+http://www.hotelleriedemascognaz.com/	0	301	https://www.hotelleriedemascognaz.com/
+http://www.locanda-lacplacemoulin.it/	0	403	
+http://www.lovevda.it/it/banca-dati/22/agriturismo/valsavarenche/lo-mayen/9000701	0	301	https://www.lovevda.it:443/it/banca-dati/22/agriturismo/valsavarenche/lo-mayen/9000701
+http://www.lovevda.it/it/banca-dati/22/bed-breakfast/gignod/clemaison/9005221	0	301	https://www.lovevda.it:443/it/banca-dati/22/bed-breakfast/gignod/clemaison/9005221
+http://www.lovevda.it/it/banca-dati/22/bed-breakfast/antey-saint-andre/outdoor/9004315	0	301	https://www.lovevda.it:443/it/banca-dati/22/bed-breakfast/antey-saint-andre/outdoor/9004315
+http://www.marianivis.com/	6		
+http://www.maisongaudenzio.com/	0	301	https://www.maisongaudenzio.com/
+http://www.hotelpetitfoyer.it	0	301	https://www.hotelpetitfoyer.it/
+http://www.ostellolacrestadellupo.it/	6		
+http://www.parcofaunisticomontavic.it/	6		
+http://www.marmoval.it/default.asp	0	301	https://www.marmoval.it/default.asp
+http://www.montmars.it/	0	301	https://www.montmars.it/
+http://www.pinetdelio.it/	0	301	https://pinetdelio.it/
+http://www.residencecervino2.com	0	200	
+http://www.residencedelapierre.it/	0	200	
+http://www.rifugiobelvedere.net/	0	301	https://www.rifugiobelvedere.net/
+http://www.chamousira.net/home.html	28		
+http://www.rifugio-prarayer.it/	0	403	
+http://www.rifugiocuney.it/	0	403	
+http://www.rifugiobonatti.it/	0	301	https://www.rifugiobonatti.it/
+http://www.rifugiodalmazzi.com/	0	302	http://ww38.rifugiodalmazzi.com/
+http://www.rifugiodellemarmotte.it	0	301	https://www.rifugiodellemarmotte.it/
+http://www.rifugioelena.it	0	301	https://www.rifugioelena.it:443/
+http://www.rifugiobertone.it/wp/it/home/	0	301	http://www.rifugiobertone.it/wp/fr/home/
+http://www.rifugiomontebianco.com/	52		
+http://www.rifugioermitage.com/	0	200	
+http://www.rifugiomontfallere.it/	0	301	https://www.rifugiomontfallere.it/
+http://www.rifugiomagia.it	0	200	
+http://www.rifugioteodulo.it	0	302	https://www.caitorino.it/rifugi/teodulo/
+http://www.rus-arlaz-herbal.it/	6		
+http://www.samsuffy.it/	0	301	https://www.samsuffy.it/
+http://www.rifugiosavoia.com/	0	301	https://www.rifugiosavoia.com/
+http://www.topopazzoclimbinghouse.com/	6		
+http://www.trattoriaomens.com	0	301	https://michisolana.org/
+http://www.termedisaintvincent.it/	7		
+http://www.studioantey.com	0	301	https://www.studioantey.com/
+http://www.vallee-sport.com/	0	301	https://www.vallee-sport.com/
+http://www.villagiuditta.eu	0	200	
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73176A	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73176A.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285AC.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285AA.pdf
+http://www.ponteromano.it/	28		
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285AB.pdf
+https://campingmontblanc.it/	0	200	
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285AC.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285AD.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG	0	502	
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285F.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285AG.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285AE.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285F.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285H.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285G.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285I.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285G.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M	0	502	
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285J.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285L.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285M.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285O.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N	0	200	
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285P.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P	0	502	
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O	0	502	
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285N.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285S.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285R.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285T.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285U.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285V.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285R.pdf
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285T.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285W.pdf
-https://matteo-giglio.blogspot.com/2012/05/pilier-rhodo-nuovo-spot-trad-in-valle.html	0	200	
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285X.pdf
-https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285Z.pdf
 https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285Y.pdf
-https://sketchfab.com/models/305748fdaf834a3ea36c6e1a72378e96/embed?autospin=0.2&autostart=1	0	200	
+https://latteriadelmonterosa.com/shop.php	6		
+https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z	0	302	https://fiches-geodesie.ign.fr/fiches/pdf/73285Z.pdf
+https://matteo-giglio.blogspot.com/2012/05/pilier-rhodo-nuovo-spot-trad-in-valle.html	0	200	
+https://rifugioalpebonze.com/	0	200	
+http://www.tuodi.it/	28		
+https://rifugioarp.com/	0	200	
 https://sketchfab.com/models/2c86a2c99925485f9416bb4cb2512495/embed?autospin=0.2&autostart=1	0	200	
+https://sketchfab.com/models/305748fdaf834a3ea36c6e1a72378e96/embed?autospin=0.2&autostart=1	0	200	
 https://sketchfab.com/models/79c2547fa3964d72802c2815624fc5db/embed?autospin=0.2&autostart=1	0	200	
 https://sketchfab.com/models/7c59d140eed94ac6b55b527c8c7a431e/embed?autospin=0.2&autostart=1	0	200	
-https://sketchfab.com/models/c839ced2aeca4767b36b1d6d4b208473/embed?autospin=0.2&autostart=1	0	200	
 https://sketchfab.com/models/942a965bc4a94f0281f4db1e5e423ebd/embed?autospin=0.2&autostart=1	0	200	
-https://www.ferrate365.it/vie-ferrate/ferrata-covarey/	0	200	
-https://www.lovevda.it/it/banca-dati/13/mercati-settimanali/gressoney-saint-jean/mercato-di-gressoney-saint-jean-giovedi/126	0	200	
+https://royaldrivingexperience.com	0	200	
+https://sketchfab.com/models/c839ced2aeca4767b36b1d6d4b208473/embed?autospin=0.2&autostart=1	0	200	
+https://www.airbnb.it/rooms/5611772?s=xfKY	0	410	
+https://www.alcaminettosemon.it/	0	200	
 https://www.aostavalleybiking.com/ciclovia-cervino/	0	200	
+https://www.armand.it	0	200	
+https://www.abitarelestremo.it/la-casermetta-eng/	0	200	
 https://www.aostavalleybiking.com/ciclovia-becca-daver/	0	200	
+https://www.chezpierina.it	92		
+https://www.facebook.com/Corpo-Valdostano-Vigili-del-Fuoco-Volontari-di-Pont-Saint-Martin-371874182125/	0	302	https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FCorpo-Valdostano-Vigili-del-Fuoco-Volontari-di-Pont-Saint-Martin-371874182125%2F
+https://www.facebook.com/pages/Appartamenti-Valley-Vacanze-Brusson-Valle-dAosta	0	404	
+https://www.ferrate365.it/vie-ferrate/ferrata-covarey/	0	200	
+https://www.diocese-annecy.fr/le-diocese/les-paroisses/paroisse-saint-bernard-du-mont-blanc	0	403	
+https://www.diocese-annecy.fr/	0	403	
+https://www.locandaurbana.it	6		
+https://www.hotelgparadiso.com	92		
+https://www.lovechamois.it	92		
+https://www.loutchappe.it/	0	301	https://loutchappe.it/
+https://www.montebianco.com	0	301	/it
+https://www.lovevda.it/it/banca-dati/13/mercati-settimanali/gressoney-saint-jean/mercato-di-gressoney-saint-jean-giovedi/126	0	200	
+https://www.pensionemontecervino.it/	0	200	
+https://www.rifugioaosta.com/	0	200	
+https://www.rifugioguidedelcervino.com/	0	200	
+https://www.rifugiorionde.it	0	302	https://www.rifugiorionde.it/index.cfm/it/
+https://www.gdf.gov.it/it/reparti-del-corpo/valle-daosta/valle-daosta/stazione-sagf-entreves	0	200	
+https://www.thefork.it/ristorante/osteria-mansio-1695-r579361	0	403	
+www.acqualifesnc.com	-1		
+www.albergolesclochettes.it	-1		
+www.gervasoni.it	-1		
+www.hotelarolla.it	-1		
+www.hoteldechampoluc.it	-1		
+www.lescupoles.com	-1		
+www.oldwildwest.it	-1		
+www.rifugiochabod.com	-1		
+www.rifugioguidefrachey.it	-1		
+www.rifugiovittorioemanuele.com	-1		
+www.stadelsoussun.com	-1		
+https://www.roteskalb.it/	0	200	
+https://www.vmao.it/	0	200	
+https://www.parrocchiasantamargheritaentreves.it	0	200	
