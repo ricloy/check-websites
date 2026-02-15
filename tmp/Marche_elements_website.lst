@@ -250,7 +250,6 @@ node	1579771561	https://www.conad.it/ricerca-negozi/conad-via-michelangelo-48-62
 node	1580433339	https://www.exum.it/
 node	1581081450	https://www.osteriadellavedova.it/
 node	1582413330	https://www.pizzeria4rioni.it/
-node	1583425939	http://www.caffedamiani.it/
 node	1600678000	https://www.7piazzadiaz.it/
 node	1600678004	https://www.ristorantegiardinoancona.it/
 node	1605084516	https://www.vecchiogelso.com
@@ -289,9 +288,11 @@ node	1866626877	https://www.villafortezza.it/
 node	1868077790	https://www.euro3immobiliare.it
 node	1869222865	https://www.coal.it/archives/punti-vendita/coal-gestioni-srl-castelfidardo
 node	1869358676	https://poste.it
+node	1869384734	https://comune.castelfidardo.an.it/it/unita_organizzative/ufficio-polizia-locale-polizia-giudiziaria
 node	1869425558	https://www.halleyweb.com/c042049/
 node	1869643917	https://officinascansani.it/
 node	1869651107	https://ten-cafe.eatbu.com/
+node	1869667918	https://siconte.it/punti-vendita/market-si-con-te-castelfidardo/
 node	1871040415	https://www.eurospin.it/punti-vendita/castelfidardo-492793/
 node	1872488278	https://www.ristorantealvaro.com/
 node	1872499978	http://www.vecchiafattorialoreto.com/
@@ -660,6 +661,7 @@ node	4337839840	https://www.originalgustopizza.com/
 node	4338524390	https://pasticceriapatrizia.wordpress.com/pasticceria-patrizia/
 node	4338524391	https://www.tribsorv.ancona.giustizia.it/
 node	4338973860	https://www.ciavattinigarden.it/floreale-del-passetto/
+node	4338973862	https://lagoladoro.it
 node	4338973867	https://vanillacafe.eatbu.com
 node	4338987960	http://www.bocasalina.com/
 node	4338999196	https://ristoranteselfgino.it
@@ -887,7 +889,6 @@ node	6347517821	https://mandaraortopedia.it/
 node	6354162885	https://www.cellashirley.com/
 node	6393832909	https://www.coal.it/archives/punti-vendita/maver-di-buratti-monica-c-sas-porto-potenza-picena
 node	6399647072	https://www.sonnybono.com/it/sonny-bono-ancona.html
-node	6399647073	https://stores.intersport.it/it/italia/marche/ancona/ancona-via-scataglini-6
 node	6399647074	https://stores.footlocker.it/it/it-57/ancona/unit-41-conero-sc-57_31_06289.html
 node	6399647077	https://giuntialpunto.it/pages/libreria/ancona-an-70127
 node	6399647078	https://store.calliope.style/it/italia/marche/ancona/calliope-917
@@ -2259,6 +2260,15 @@ node	13479244457	https://acquaesapone.it/
 node	13500893567	https://vistafermo.com/met-de-camper/
 node	13507486201	https://www.spritzandchips.it/
 node	13507488601	https://radiounimc.it/
+node	13534244501	https://www.ristoranteilbaciogradara.it/
+node	13534739001	http://terradelvento.it
+node	13535077501	https://www.osteriadelpisello.com/index.php
+node	13535081101	http://girolomoni.it
+node	13535916901	https://www.locandalarocca.it/it/il-ristorante/
+node	13536010001	https://www.lavalledelvento.it/
+node	13536084101	http://baam.beer
+node	13536084401	http://fraventociboevino.it
+node	13537218997	https://leonardotiberi.consulente.zurichbank.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2672,6 +2682,7 @@ way	439016112	http://www.rifugiosibilla1540.com/
 way	439208734	https://www.iluoghidelsilenzio.it/chiesa-della-romita-a-croce-visso-mc/
 way	439447876	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1100370546
 way	439644620	https://sol.bibliomarchenord.it/opactest/library/FRONTONE%20-%20Biblioteca%20Comunale/URB$CNFRONTONE
+way	439929633	http://www.markhotel.it/
 way	440671434	https://rifugiocollelecese.it/
 way	442655082	https://www.lavalledelmetauro.it/contenuti/beni-storici-artistici/scheda/4680.html
 way	444189301	http://www.sidecar.it
@@ -3234,6 +3245,7 @@ relation	19650688	https://www.camminodeiforti.it
 relation	19650703	https://www.camminodeiforti.it
 relation	19650857	https://www.camminodeiforti.it
 relation	20081247	https://www.eurosuole.com
+relation	20211757	https://icmazzinicastelfidardo.edu.it/struttura/castelfidardo-s-agostino/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
