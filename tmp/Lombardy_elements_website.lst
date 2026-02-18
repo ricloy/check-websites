@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
-
-</body>
-</html>
+@type	@id	website
 node	62507553	https://www.tuttitalia.it/lombardia/26-cologne/statistiche/indici-demografici-struttura-popolazione/
 node	62508196	https://www.comune.pozzolengo.bs.it/
 node	62508333	www.comune.braone.bs.it
@@ -827,7 +813,6 @@ node	3349625270	http://www.farcombrescia.it
 node	3354931529	https://www.esteticabeautyfemme.it/
 node	3364725483	http://www.pizzeria-paradise.it
 node	3365381882	http://www.aldocoppola.it/
-node	3365924908	http://www.meet2bizshop.com/
 node	3369060650	http://www.cailumezzane.it/
 node	3370806661	http://www.ttmontichiari.it/
 node	3373898343	https://caivillacarcina.it/
@@ -1084,6 +1069,7 @@ node	4230177971	http://www.ilcarrettiere.eu
 node	4235156350	http://www.elmerenderocomo.it
 node	4236626480	http://www.easytrust.it/
 node	4240900295	https://www.hotelduparcsirmione.it/
+node	4243024225	https://cooperativafarmaceuticabergamasca.it/farmacie/farmacia-ruspini/
 node	4243068255	www.samarbici.it
 node	4250006941	http://www.upcyclecafe.it
 node	4256139090	http://albese.pescevela.it
@@ -1951,6 +1937,7 @@ node	7598783937	https://hempembassy.it
 node	7599130014	https://alfolzone.com/
 node	7622905707	https://www.lafeltrinelli.it/fcom/it/home/pages/puntivendita/negozi/trova/lombardia/la-Feltrinelli-Librerie-Milano-XXIIMarzo.html
 node	7636326585	http://farmaciaarrighi.it
+node	7641170859	https://amicimieilissone.it
 node	7649394626	https://www.acquaroli.it/location-matrimoni/castello-di-monasterolo
 node	7656142793	https://www.studiodentisticotaroni.it
 node	7660325987	http://www.bersiserlini.it
@@ -2545,6 +2532,7 @@ node	10576212555	https://oro-style.business.site/
 node	10576212556	https://vendita.rentalplus.it
 node	10577630473	https://www.aclibresciane.it/
 node	10577717076	https://www.drinkshop.it/
+node	10598920775	https://www.laspacca.com
 node	10603721500	https://www.mcdonalds.it/ristorante/lombardia/milano/milano-stazione-porta-garibaldi
 node	10617930658	https://www.carbonepizzeria.it
 node	10617930659	http://www.bustotre.org
@@ -2988,7 +2976,6 @@ node	12301526032	https://discoveringbellano.eu/it/orrido-di-bellano
 node	12303922088	https://www.lively.it/punti-vendita/livelyvacavour/
 node	12305217156	www.duca-s.it
 node	12305217196	www.upim.it
-node	12306912803	https://www.decathlon.it/store-view/negozio-sport-saronno-varese-0070073300733
 node	12308269875	https://www.qcterme.com/it/san-pellegrino/qc-terme-san-pellegrino
 node	12309599891	https://www.livingalzate.it
 node	12310371273	https://www.bicicapace.com
@@ -3076,6 +3063,7 @@ node	12694977477	https://nagoyax.it/ristorante-sushi-castegnato/
 node	12709489410	https://cerlettiinktattoo.it/
 node	12716944008	https://www.gasparina.org/
 node	12718710037	https://checchicafe.com/
+node	12723669456	https://vegami.it
 node	12725804801	https://gelaterialapecoranera.it
 node	12732500523	https://www.riccicurbastro.it/
 node	12732500524	https://www.cascinasanlorenzo.com
@@ -3423,10 +3411,28 @@ node	13512971271	https://www.comune.pontoglio.bs.it/amministrazione/uffici/bibli
 node	13513000097	https://www.comune.uragodoglio.bs.it
 node	13514349716	https://comune.calvenzano.bg.it/vivere-il-comune/luoghi/biblioteca-comuinale/
 node	13526357049	https://restcar.it
+node	13529300394	https://lattoneriavalenza.it
+node	13529312301	https://www.falegnamerialocati.com/
+node	13529312311	https://setec-group.com
+node	13529312317	https://www.infrarodon.com
+node	13529312337	https://www.chiovenda.com
+node	13529312343	https://www.milsnc.it
+node	13529312350	https://www.gest-impianti.it/
+node	13529312370	https://www.finestra2000.it/
+node	13529312376	https://www.autosicura.it
+node	13529312383	https://arena14.it
+node	13529312386	https://www.aerdelta.it/
+node	13529312389	https://errenne.it
+node	13529312393	https://www.chiovenda.com
+node	13529312399	https://www.aseptic.it/
+node	13529312406	https://promotogarage.it/
+node	13529312433	https://www.deskglue.it
+node	13529312445	https://www.emmevitechnologies.it
 node	13530347530	https://www.lapiadineria.com/
 node	13536240897	http//www.autofficinamaggiore.it
 node	13536267681	https://restcar.it
 node	13536268096	https://www.allestimenti-disabili.it
+node	13564376271	https://millydolciesalati.it
 way	4497863	http://www.teatronazionale.it
 way	25531410	http://www.portodidusano.com/
 way	25564132	https://www.navigazionelaghi.it/
@@ -3975,7 +3981,6 @@ way	259119942	https://www.comune.brescia.it/servizi/scuolaeuniversita/pasqualeag
 way	259217652	http://www.domusacademy.it/
 way	259583125	https://www.cremonacircuit.com/
 way	260206887	https://it-it.facebook.com/rifugiomine/
-way	261377874	http://www.aziendaspecialeconcesio.it/
 way	261377919	https://www.pedrini.com/
 way	262844170	https://www.camping-belvedere.it/
 way	263491091	https://www.villaimeldalimone.it/
@@ -4147,6 +4152,7 @@ way	383670295	http://www.baitabelvedere.it/
 way	383976765	https://www.manelli.it/
 way	384018641	https://www.comune.marone.brescia.it/
 way	384018642	https://www.comune.acquafredda.bs.it/hh/index.php
+way	384177578	https://www.comunitapaolovi.it/
 way	384409704	https://www.mg.marposs.com/
 way	384417098	https://www.detas.com/
 way	384554228	https://www.comunepradalunga.it
@@ -4201,6 +4207,7 @@ way	427772502	https://casavacanzebovegno.com/casa-ludizzo/
 way	427952392	https://www.capirola.it/
 way	432894561	https://www.hoteloasiverde.it/
 way	435136830	https://www.lafornace.it/
+way	437420137	https://www.isicomsrl.it/
 way	438012359	https://www.bagnomio.it/
 way	438149250	https://www.gobbifrattini.com/index.php
 way	438150160	https://www.gobbifrattini.com/index.php
@@ -4794,6 +4801,7 @@ relation	19785990	https://www.ilsantellone.it/
 relation	19815251	https://www.icbovezzo.edu.it/la-scuola/organizzazione/scuolaistituto/scuola-secondaria-di-primo-grado-vivaldi
 relation	19870798	www.bresciagolf.it
 relation	20174606	https://www.dufercotp.com/
+relation	20230160	http://www.aziendaspecialeconcesio.it/
 node	62510124	http://italia.indettaglio.it/ita/lombardia/trezzone.html
 node	62513742	http://italia.indettaglio.it/ita/lombardia/misinto.html
 node	62514371	http://italia.indettaglio.it/ita/lombardia/zibidosangiacomo.html
