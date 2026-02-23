@@ -24,6 +24,7 @@ node	1424495635	http://www.torrefazionemanuli.com/
 node	1424495638	https://www.pasticceriataverna.it
 node	1428093878	https://www.maon.it/Contenuti/ShowContenuto?IdSezione=2&urlJsPDF=%2F
 node	1471310914	https://www.poste.it
+node	1498695127	https://www.biafora.it/
 node	1511510560	https://www.residencelataverna.com/
 node	1612021797	www.angelomarra.com
 node	1635820054	www.hotelilcantagalli.com
@@ -152,6 +153,7 @@ node	3487410193	https://www.autoscuoletripodi.it/
 node	3592694280	https://www.megalehellas.net/
 node	3607825749	http://www.iresudcalabria.it/museo.asp?id=38
 node	3632645843	http://www.hotelresidencesantachiara.it/
+node	3734052375	https://www.asteaenergia.it/
 node	3774625578	http://www.crac.eu
 node	3774671876	http://vertshop.it
 node	3796219336	http://www.actionbayfabiano.com/
@@ -341,7 +343,6 @@ node	9324424490	https://www.iltartufopenna.com
 node	9343850203	https://www.agenziaentrate.gov.it/portale/web/guest/uffici5/-/uffici/uffici_INSTANCE_TzbRUYbxP53E/dettaglioufficio/TDX
 node	9373121993	https://www.demetriofullservice.com/
 node	9400788497	https://www.facebook.com/Linea-Benessere-Tatiana-146735599344568/
-node	9400817472	https://www.quarzorosaestetica.com/
 node	9404246754	http://www.teapraia.it
 node	9474080664	http://www.farmaciaminardi.it
 node	9508284097	http://www.allcarsoverato.it
@@ -673,6 +674,9 @@ node	13450825182	www.comunediroghudi.it
 node	13460711731	https://www.bancaetica.it/filiale/filiale-di-reggio-calabria/
 node	13460711740	https://www.bancaetica.it/uffici/ufficio-di-lamezia-terme/
 node	13476787420	https://hotelnapoleone.it/
+node	13580145981	https://www.asteaenergia.it/
+node	13582126100	https://poste.it
+node	13584532410	https://amarillosbarbecue.it/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	47051512	https://www.sanrobertoebiagio.it/indexmobile.php
 way	86940311	https://www.sacal.it/
@@ -1041,7 +1045,7 @@ way	1054090057	https://scuolemonasteraceriace.edu.it
 way	1054234060	http://www.comune.feroletodellachiesa.rc.it/
 way	1057609162	https://www.cappuccinidicalabria.com/belvedere-marittimo
 way	1059059864	http://www.icbelmontecalabro.gov.it/
-way	1060073624	https://fondoambiente.it/luoghi/chiesa-e-cappella-di-sant-antonio-da-padova-terranova-da-s?ldc
+way	1061887287	http://comune.sansosti.cs.it/
 way	1062536734	https://www.comune.rogliano.cs.it/
 way	1063481826	https://www.facebook.com/SantuarioPaternoCalabro/?locale=it_IT
 way	1063485355	https://www.comune.parenti.cs.it/
@@ -1502,6 +1506,8 @@ relation	19334265	https://www.casasanfrancescodassisi.it/laccoglienza-nel-conven
 relation	19541380	https://www.kalabriatrekking.it/
 relation	19541381	https://www.kalabriatrekking.it/
 relation	19792370	https://www.facebook.com/p/Parrocchia-San-Francesco-dAssisi-Cassano-Ionio-100064883046274/
+relation	20250719	https://icterranovadasibari.edu.it/
+relation	20251898	https://fondoambiente.it/luoghi/chiesa-e-cappella-di-sant-antonio-da-padova-terranova-da-s?ldc
 node	470285761	https://pollinorafting.it/camping/
 node	1059765318	https://www.rivadelsolbeachresort.com/
 node	1059765627	https://www.calalandrusa.com/
@@ -1578,6 +1584,7 @@ relation	18006192	https://www.diocesisanmarcoscalea.it/
 node	2696198330	https://portalidicalabria.altervista.org/palazzo-de-nobili-sellia-marina/
 node	9899918440	https://www.tuibluetropea.com
 node	9899927291	https://www.orizzonteblu.it/
+node	11928275421	https://coinatmradar.com/bitcoin_atm/55668/bitcoin-atm-bitomat-reggio-calabria-bancomat-bitcoin-247/
 way	88861340	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24109
 way	171042206	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
 way	171042209	https://www.stradeanas.it/it/anas/app/ordinanze/get_ordinanza_pdf?ord_id=24237
