@@ -973,7 +973,6 @@ way	1475491386	www.cerviniaholiday.com
 relation	7407	https://hautesavoie.fr/
 relation	124582	https://www.viefrancigene.org/
 relation	162371	https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/cogne-rifugio-sogno-di-berdze/2974
-relation	372502	http://www.alptrekking.ch
 relation	1004348	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 relation	1471008	https://www.viefrancigene.org
 relation	1596159	http://www.trailvsb.com
@@ -1068,6 +1067,8 @@ relation	14405841	https://www.caiseregno.it/
 relation	15311564	https://www.gal.vda.it/magic-hicking-il-sentiero-magico/
 relation	17010467	https://www.vivavda.it/aree/area_i.aspx?area=6&n=Riserva%20naturale%20%20%20%20C%C3%B4te%20de%20Gargantua
 relation	19452591	https://www.visitcogne.it
+relation	20249738	https://www.valrando.ch/fr/propositions-de-randonnees/2726/Alptrekking-3
+relation	20249740	https://www.valrando.ch/fr/propositions-de-randonnees/2724/Alptrekking-1
 node	299232222	http://www.hotelleriedemascognaz.com/
 node	353049781	https://rifugioarp.com/
 node	353049803	www.rifugioguidefrachey.it
@@ -1087,6 +1088,7 @@ node	1272066385	http://www.comune-challandsaintanselme.it
 node	1288184982	www.stadelsoussun.com
 node	1288185322	http://www.rifugiobelvedere.net/
 node	1326399991	http://www.fortedimachaby.it/
+node	1353509327	https://www.campinglaclexert.it/
 node	1353685312	http://www.locanda-lacplacemoulin.it/
 node	1355487738	http://www.trattoriaomens.com
 node	1483752218	http://www.studioantey.com
@@ -1155,10 +1157,12 @@ way	117702395	https://visitmonterosa.com/dove-dormire/campeggio-monterosa-19676
 way	117702397	https://www.campeggiodeans.it/
 way	120778651	http://www.residencedelapierre.it/
 way	125447845	https://www.rifugiorionde.it
+way	129262941	https://www.campinghotelgrivola.com/
 way	129924163	https://www.campeggiogranparadisocogne.com/
 way	130626494	https://www.lovevda.it/it/banca-dati/22/campeggi-1-stelle/cogne/campeggio-vallee-de-cogne/3613
 way	131413425	http://www.rifugiodellemarmotte.it
 way	144122539	https://www.vmao.it/
+way	146637176	https://www.lovevda.it/it/banca-dati/22/campeggi-2-stelle/gignod/camping-europa/3620
 way	147536904	http://www.rifugiobonatti.it/
 way	147963960	http://www.rifugiobertone.it/wp/it/home/
 way	148853613	https://campingmontblanc.it/
@@ -1180,8 +1184,10 @@ way	344525243	http://www.villagiuditta.eu
 way	365318454	http://www.parcofaunisticomontavic.it/
 way	401733377	http://www.lovevda.it/it/banca-dati/22/bed-breakfast/antey-saint-andre/outdoor/9004315
 way	413677592	https://www.lovevda.it/en/database/22/camps-1-stars/gaby/camping-la-pineta-gaby/3619
+way	442030276	https://www.campinglaclexert.it/
 way	893997036	http://www.campingarvier.com/
 way	1191060764	https://www.campinglagrolla.it/
+relation	11022407	https://campinggranparadiso.it/
 relation	14059755	https://www.diocese-annecy.fr/
 relation	15880628	https://www.diocese-annecy.fr/le-diocese/les-paroisses/paroisse-saint-bernard-du-mont-blanc
 node	666335350	http://www.hoteldufoyer.it
