@@ -768,7 +768,6 @@ node	3275218717	https://wavesurfshop.it/
 node	3275220356	https://www.hotelmistraloristano.it/
 node	3275220596	https://www.casadellamusica.net/
 node	3275221484	https://www.komos.it
-node	3275223967	http://www.eleonoraviaggi.it/
 node	3275224175	https://www.vicinoatesupermercati.it/
 node	3275224370	https://www.onoranzefunebri-melis.com/
 node	3275224611	http://www.specialmentepesce.altervista.org/
@@ -807,6 +806,7 @@ node	3295039559	https://www.accenture.com/
 node	3307390674	http://www.atticoghilarza.it/
 node	3307390675	http://www.bbleroseabbasanta.it/
 node	3307390676	http://www.ic30.com/saslendas/
+node	3314919551	https://www.biblioteca.oristano.it
 node	3318017861	http://web.tiscali.it/laspigadoro/
 node	3319272193	http://www.m4ph.eu/
 node	3322962983	www.ristoranteaeden.com
@@ -817,7 +817,6 @@ node	3327371415	https://www.belliniphotoart.it/
 node	3334303909	http://www.otticaerdas.it/
 node	3336542846	http://www.latteriaselfservice.com/
 node	3336553807	http://www.latteriaselfservice.com/
-node	3349773335	http://www.ioleviaggi.it/
 node	3349773354	http://www.nuovaimmaginesantona.com/
 node	3350225707	http://www.orequo.it/
 node	3361844287	https://www.vivocha.com
@@ -2028,6 +2027,9 @@ node	13570155705	https://www.sherdenenergia.it/
 node	13570667131	https://www.sherdenenergia.it/
 node	13586497991	https://www.prolocosedilo.it/
 node	13586497996	https://danielesanna.it
+node	13592194083	https://www.sfg-stellamaris.com
+node	13592194085	https://www.sacrocostato.it/scuola/
+node	13606474679	www.bnbguacamayo.com
 way	23937282	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179224
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
@@ -2204,7 +2206,6 @@ way	221376201	http://www.aslsanluri.it/
 way	221605467	https://www.acquaesapone.it/
 way	222066079	https://www.agriturismobellu.it/
 way	222066086	https://www.caseificiocuozzo.com/
-way	222066090	http://www.liceodecastro.gov.it/
 way	224162270	https://www.comune.gairo.nu.it/index.asp
 way	225050799	https://www.comune.ozieri.ss.it/
 way	225107194	https://ilcanneto.it.gg/
@@ -2380,8 +2381,6 @@ way	279179570	https://www.aurumhotels.it/it/villaggio_pini
 way	279186306	https://www.campingasinara.it/
 way	279199005	https://www.provincia.or.it
 way	279199040	https://www.comune.oristano.it/it/vivioristano/citta/luoghi-del-passato/torre-di-mariano-ii-o-di-san-cristoforo/index.html
-way	279200643	http://isislorenzomossa.gov.it/
-way	279200764	https://www.sfg-stellamaris.com
 way	279202259	https://www.arredovinci.it/
 way	279202770	https://www.unieuro.it/punti-vendita/oristano?Name=ORISTANO
 way	279203005	http://oristano.iamc.cnr.it
@@ -2530,6 +2529,7 @@ way	296391112	http://www.villamargheritaperdesali.com/
 way	296391319	https://www.booking.com/hotel/it/villa-adelina-porto-columbu-perd-e-sali.html
 way	296398389	https://www.comune.villasanpietro.ca.it/
 way	296401919	https://www.crareluna.it/
+way	296547757	https://vitivinicolaetzo.it/
 way	296547799	https://www.comune.sorgono.nu.it/
 way	296547906	http://web.tiscali.it/balero/
 way	296549279	https://www.comune.atzara.nu.it/
@@ -2675,7 +2675,6 @@ way	322662381	http://www.senarrubia.it/
 way	322929358	http://www.iloisedilo.org/
 way	323309708	http://www.liass.org/
 way	323962791	https://www.autoscuolaoppo.it/
-way	325353485	https://www.sacrocostato.it/scuola/
 way	325677707	http://www.moviesmultisala.it/
 way	326765896	http://www.istitutocomprensivoghilarza.gov.it/
 way	328262721	http://www.amicidellaria.it/faq_ultraleggeri.htm
@@ -2811,6 +2810,7 @@ way	578672315	https://www.mdspa.it/punti-vendita/Sardegna/CA-Cagliari/787-SESTU/
 way	590076696	http://www.bluhotellaconia.it/
 way	591319444	http://www.agriturismoilnuraghe.it/agriturismo.asp
 way	594546303	https://www.piazzaitalia.it/
+way	601084717	https://www.asproni-fermi.edu.it/
 way	601813749	https://www.barley.it/
 way	607913257	http://www.liceoazuni.it/
 way	616258138	https://www.argiolas.it/
@@ -2948,6 +2948,7 @@ way	1472590940	https://www.campingsaprama.it/
 way	1472628352	https://www.calapineta.it
 way	1474144727	https://campingirasole.it
 way	1475302681	https://gonnosfanadiga.scuolacottolengo.org
+way	1482143896	http://www.liceodecastro.gov.it/
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3868,6 +3869,7 @@ node	13440439642	https://www.farmaciagaraubudoni.com
 node	13582737998	http://www.comune.villamar.vs.it
 node	13586497990	http://www.comune.sedilo.or.it
 node	13586497998	https://www.robertovirdis.com
+node	13588936684	https://www.casamelania.it
 way	27668357	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668458	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668483	http://arst.sardegna.it/orari_e_autolinee/TPL.html
@@ -4004,7 +4006,6 @@ way	279264384	http://www.comune.alghero.ss.it
 way	279271363	http://www.elfarohotel.it
 way	279355176	http://www.comune.pabillonis.vs.it
 way	279365351	https://www.comune.padru.ot.it
-way	280053114	http://iissanluri.gov.it/
 way	280145207	http://www.comune.siliqua.ca.it
 way	280157958	http://www.comune.simaxis.or.it/
 way	281462870	http://www.hotelgrillo.net/
@@ -4467,18 +4468,43 @@ relation	6581360	http://www.ferratacabirol.it
 relation	7688852	http://www.golfhotelisarenas.com/
 relation	7706249	http://www.comune.ussaramanna.vs.it
 relation	7796877	http://www.comune.sanluri.vs.it
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
-
-</body>
-</html>
+node	72991040	http://web.tiscali.it/Senorbi2000/
+node	72991301	http://www.fluminimaggiore-bilingue.it/
+node	72992193	http://www.orroliproloco.com/
+node	1601566871	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
+node	1601567218	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
+node	1601567221	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
+node	2329913542	https://www.sardegnaturismo.it/it/esplora/san-valentino
+node	8018364892	https://commons.wikimedia.org/wiki/File:Bruncu_Suergiu.jpg
+node	10265078480	https://people.unica.it/unicamappe/2012/08/10/facolta-di-architettura/
+node	11925747476	https://coinatmradar.com/bitcoin_atm/64663/bitcoin-atm-shitcoins-club-cagliari-shitcoinsclub/
+way	27771208	http://www.saras.it/saras/pages/inthefield/assets/refining
+way	62331902	http://www.progettodighe.it/main/le-dighe/article/bau-mandara
+way	81578382	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
+way	142884664	http://www.orroliproloco.com/
+way	277017452	http://www.tripadvisor.it/Restaurant_Review-g3528959-d3524787-Reviews-Il_Gatto_Sardo-Gonnoscodina_Province_of_Oristano_Sardinia.html
+way	516635404	http://www.orroliproloco.com/
+way	516635406	http://www.orroliproloco.com/
+way	516635408	http://www.orroliproloco.com/
+way	516635410	http://www.orroliproloco.com/
+way	581847789	http://www.arrampicatasardegna.com/falesie/masua-castello-delliride/
+way	581847804	http://www.arrampicatasardegna.com/falesie/torre-di-titti-torre-sauron-i-menhir/
+way	581847809	http://www.arrampicatasardegna.com/falesie/punta-pilocca/
+way	581847817	http://www.arrampicatasardegna.com/falesie/arrampicantro/
+relation	39917	http://www.fluminimaggiore-bilingue.it/
+relation	39959	http://web.tiscali.it/Senorbi2000/
+relation	40002	http://www.orroliproloco.com/
+relation	10077575	https://danbag.altervista.org/Sardegna/B485/B485-FTP.kml
+relation	12321189	https://danbag.altervista.org/Sardegna/B481/B481-FTP.kml
+relation	12857717	https://danbag.altervista.org/Sardegna/F401/F401-FTP.kml
+relation	12857738	https://danbag.altervista.org/Sardegna/F402/F402-FTP.kml
+relation	12858020	https://danbag.altervista.org/Sardegna/F404/F404-FTP.kml
+relation	12858037	https://danbag.altervista.org/Sardegna/F405/F405-FTP.kml
+relation	12858057	https://danbag.altervista.org/Sardegna/F406/F406-FTP.kml
+relation	14211283	https://danbag.altervista.org/Sardegna/T741/T741-FTP.kml
+relation	14211317	https://danbag.altervista.org/Sardegna/T702/T702-FTP.kml
+relation	14704119	https://danbag.altervista.org/Sardegna/B401/B401-FTP.kml
+relation	15088814	https://danbag.altervista.org/Sardegna/B162/B162-FTP.kml
+relation	16503335	https://danbag.altervista.org/Sardegna/B505/B505-FTP.kml
+relation	18147528	https://danbag.altervista.org/Sardegna/G100/G100-FTP.kml
+relation	18159900	https://danbag.altervista.org/Sardegna/B410/B410-FTP.kml
