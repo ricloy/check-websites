@@ -305,7 +305,6 @@ way	877923546	https://www.agriturismoalberione.it/
 way	899099861	https://www.facebook.com/VillaCenter.Campobasso/
 way	915149518	http://www3.provincia.campobasso.it/home
 way	953053593	https://www.lerotaie.com/
-way	953053607	https://www.isismajoranafascitelli.edu.it/web/
 way	961329317	https://www.grandhotel-europa.it/
 way	969911043	https://www.omnicomprensivoguglionesi.edu.it/
 way	1005636091	http://www.varvarusa.it/
@@ -325,6 +324,7 @@ way	1387631458	https://www.comune.molise.cb.it/hh/index.php
 way	1421605788	https://www.ortodautore.it
 way	1421621721	https://www.grafichearcobaleno.it
 way	1423259299	http://www.icsangiovanniboscoisernia.it/
+way	1423259301	https://www.isismajoranafascitelli.edu.it/web/
 way	1423259317	https://www.isismajoranafascitelli.edu.it
 way	1435045588	https://www.comune.termoli.cb.it/vivere-il-comune/luoghi/piazza-vittorio-veneto/
 way	1435045589	https://www.comune.termoli.cb.it/vivere-il-comune/luoghi/piazza-vittorio-veneto/
@@ -397,18 +397,17 @@ way	1076684945	https://www.lidomistral.com/
 way	1077536770	https://www.lidolapiovra.com/
 way	1077536773	https://lidobalneare.termoli.cb.it/
 relation	14635178	https://www.parcoregionaledelmatese.it/
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
-
-</body>
-</html>
+node	13340059807	https://comune.pescopennataro.is.it/
+way	1465271313	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1400019192
+way	1465631242	https://www.gem.wiki/Castelmauro_wind_farm
+way	1466046524	https://www.camperonline.it/sosta-camper/aree-di-sosta/italia/molise/area-comunale/11764
+way	1473617138	https://www.areeprotettemolise.it/montagnola-molisana/
+way	1473628257	https://rgpbio.it/riserva/pesche/ZSC
+way	1473647903	https://www.riservamabaltomolise.it/
+way	1475259981	https://www.tuttocampo.it/Molise/Eccellenza/GironeCoppaItaliaDilettanti/Squadra/Guardialfiera/1011537/Stadio
+relation	1756297	https://ingiroapiunonposso.it/bosco-degli-abeti-soprani-in-molise/
+relation	17760420	https://appenninobiketour.com/percorso/
+relation	17782266	https://appenninobiketour.com/percorso/
+relation	19917166	https://www.rainews.it/tgr/molise/video/2025/06/viabilita-provinciale-84-alto-molise-strada-collegamenti-955e8c7d-175b-4b56-afe8-e3fcdda4a14c.html
+relation	20063668	https://www.gem.wiki/Castelmauro_wind_farm
+relation	20110726	https://www.ilbenecomune.it/2018/10/18/un-fiume-minore-nato-da-monti-minori/
