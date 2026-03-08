@@ -442,6 +442,7 @@ node	4540918908	https://turismo.comune.perugia.it/poi/museo-del-giocattolo
 node	4543172063	https://coopetruria.coop.it/negozi/folignoagora-foligno
 node	4552454970	https://www.csigubbio.it/
 node	4561710233	https://www.enel.it/punto-enel/
+node	4570305107	https://catasto.fugs.it/index.php?mod=caves&op=view&id=657
 node	4630480177	www.ResidenceSantEmiliano.it
 node	4665040691	https://www.natiperviaggiare.com/
 node	4680473788	https://www.comune.bevagna.pg.it/
@@ -1179,7 +1180,7 @@ node	13537297585	https://www.mercedes-benz.it/passengercars/mercedes-benz-cars/d
 node	13537297586	https://colmef.com/
 node	13537297587	https://boschcarservice.com/it/it
 node	13537297588	https://hecoclima.com
-node	13556671837	https://www.tesla.com/de_ch/findus?bounds=42.87537935126828%2C12.026699426046367%2C42.87199446498987%2C12.017687203756328&location=30296
+node	13556671837	https://www.tesla.com/findus/location/supercharger/30296
 node	13574587001	http://serpolla.com
 node	13585813994	https://www.cassaedilepg.it/
 node	13585813995	https://www.cesf.pg.it/
@@ -2308,15 +2309,18 @@ relation	8050899	http://www.viaggispirituali.it/strutture-turismo-religioso/umbr
 relation	16020019	http://www.lavalnerina.it/
 relation	17666893	http://www.agriturismopoponi.it/
 relation	18259686	https://benedettineciterna.wordpress.com/
-node	703424171	http://italia.indettaglio.it/ita/umbria/perugia_sangiustino_cospaia.html
-node	2329559965	www.osterialecivette.it
-node	4364974414	http://www.umbriameteo.com/webcam/castelluccio/
-node	7726566305	http://www.museiprovinciaterni.it/context_musei.jsp?ID_LINK=498&area=47
-node	12872798807	https://www.iluoghidelsilenzio.it/tugurio-di-san-francesco-cannara-pg/
-way	207812059	https://fondoambiente.it/luoghi/abbazia-di-santa-maria-di-valdiponte-in-corbiniano-o-abbazia-di-montelabate
-way	229271786	https://www.iluoghidelsilenzio.it/chiesa-di-san-giovanni-battista-cannara-pg/
-way	238107829	https://pleiades.stoa.org/places/416806
-way	261548140	https://www.academia.edu/84533366/COME_NASCE_UNA_BASE_GIS_PER_L_ARCHEOLOGIA_OPENSOURCE_SVILUPPATA_DA_ARCHEOLOGI_PER_GLI_ARCHEOLOGI_LO_SCAVO_DI_POGGIO_GRAMIGNANO_LUGNANO_IN_TEVERINA_TR_
-way	833610917	https://www.iluoghidelsilenzio.it/eremo-di-santangelo-in-pantanelli-baschi/
-way	1222044942	https://www.iluoghidelsilenzio.it/chiesa-della-buona-morte-cannara-pg/
-way	1382315972	https://www.iluoghidelsilenzio.it/chiesa-di-san-lorenzo-vecchio-rapecchiano-di-foligno-pg/
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
+
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
+
+</body>
+</html>
