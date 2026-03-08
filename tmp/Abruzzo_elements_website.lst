@@ -381,7 +381,6 @@ node	2696457807	https://www.casadellamattonella.com/
 node	2705909007	https://www.conad.it/ricerca-negozi/negozio.006957.html
 node	2727221764	http://www.locandadellestreghe.info
 node	2733513194	https://www.parcomajella.it/
-node	2757819512	https://stmichelehotel.it/it/home/
 node	2784825545	https://www.caifarasanmartino.it
 node	2784861941	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10710
 node	2791951219	https://eusebi.it/
@@ -3586,6 +3585,9 @@ node	13592433868	https://www.cicconesrl.com/
 node	13592596543	https://www.conservatoriopescara.it/
 node	13604916901	http://pescarauno.it
 node	13607505541	https://magnaq.it
+node	13612727428	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
+node	13617085954	https://www.lidl.it/
+node	13623111604	https://www.icripatorrevecchia.edu.it/
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -3884,6 +3886,7 @@ way	376266659	https://www.comune.spoltore.pe.it
 way	378791366	https://scelgofullservice.com
 way	380092454	https://fondoambiente.it/luoghi/castello-dei-cantelmo-e-borgo?ldc
 way	380097681	https://www.fattoriatanadellavolpe.com/
+way	380205680	https://sanita.regione.abruzzo.it/canale-ospedali/ospedale-di-sulmona
 way	380255141	https://sacaservizi.com/
 way	380875511	https://www.ilcentro.it/chieti/sottopasso-allagato-auto-sommersa-alla-stazione-di-tollo-1.1996312
 way	380875513	https://www.ilcentro.it/chieti/sottopasso-allagato-auto-sommersa-alla-stazione-di-tollo-1.1996312
@@ -3922,7 +3925,6 @@ way	452050846	http://www.collemoro.it
 way	452117242	https://teleriazed.com/
 way	454648477	https://www.ic-te-dalessandro-risorgimento.edu.it/luoghi?id=771
 way	454723594	http://www.valleroveto.eu/eremo-madonna-della-ritornata/
-way	456015083	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 way	457405083	https://www.liceodascanio.edu.it
 way	459618670	https://www.penelopeamare.it/
 way	461179725	https://www.istitutocomprensivopescara2.edu.it/
@@ -4138,7 +4140,6 @@ way	800743796	http://www.centromedicolifecare.it/
 way	801307271	https://www.volleypescara3.it
 way	804163119	https://www.conad.it/ricerca-negozi/negozio.009515.html
 way	804454739	https://www.bblaperlarosa.it/
-way	808429901	https://www.lidl.it/
 way	809296718	https://www.enel.it/punto-enel/
 way	810263074	http://artiespettacolo.org
 way	813737576	http://www.alpinibarisciano.it
@@ -4400,7 +4401,6 @@ way	1066635862	https://www.diocesichieti.it/wd-annuario-enti/arcidiocesi-di-chie
 way	1069658004	https://www.cnsasabruzzo.it/
 way	1070290465	https://www.ilmartino.it/2018/02/mosciano-santangelo-la-fantasia-colorata-dei-murales-un-incanto-gli-occhi/
 way	1070731882	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/1493/Chiesa+del+Crocifisso
-way	1071112137	https://www.icripatorrevecchia.edu.it/
 way	1071316203	https://www.farmaciediturno.org/orariofarmacia.asp?idf=10850
 way	1072022804	https://www.beweb.chiesacattolica.it/edificidiculto/edificio/1657/Chiesa+di+Santa+Maria+di+Propezzano
 way	1072190918	https://www.tuttocampo.it/Abruzzo/Promozione/GironeB/Squadra/MorroDOroCalcio/934406/Stadio
@@ -4662,7 +4662,7 @@ way	1388564428	https://visitcittasantangelo.it/luoghi/chiesa-san-bernardo/
 way	1388721615	https://visitcittasantangelo.it/luoghi/palazzo-coppa/
 way	1390506932	https://torremannella.com/nl/
 way	1391422334	https://www.agriturismolemacine.it/
-way	1391589931	https://www.tesla.com/en_eu/findus?location=303024
+way	1391589931	https://www.tesla.com/findus/location/supercharger/303024
 way	1396284015	https://www.wikiwand.com/it/articles/Feltrino
 way	1396284017	https://www.wikiwand.com/it/articles/Feltrino
 way	1396293024	https://www.wikiwand.com/it/articles/Feltrino
@@ -5066,78 +5066,21 @@ relation	19482442	http://www.comunedipollutri.it/il-paese/bosco-di-don-venanzio/
 relation	19581797	https://www.aslteramo.it/ospedale-di-giulianova/
 relation	19791573	https://www.tesla.com/findus/location/supercharger/carsolioricolasupercharger
 relation	19926084	http://www.abetinadirosello.it/
-node	3167415761	http://www.filippone.it
-node	3964634186	http://casadiripososomero.jimdo.com/
-node	4696406586	https://avezzano.ubiklibri.it/
-node	5794173038	https://www.pedrinitappezzeria.it
-node	5812948162	https://www.robertogrillo.it
-node	6581727927	https://ambiente.comune.pescara.it/?page_id=4258
-node	7449054850	http://www.ceramichecacciagrano.it/home.html
-node	7798782521	https://www.ristoranteresilienza.it
-node	7967064037	https://aca.pescara.it
-node	8784526449	https://www.campagnamica.it/la-nostra-rete/mercato/mercato-di-campagna-amica-di-pescara/
-node	8821454279	https://www.gelaterieduomo.com/
-node	9123939727	https://www.prenotauncampo.it/centri-sportivi/pescara/pescara/padelmaniapescara/
-node	9203799774	https://www.facebook.com/pizzerialozio/
-node	9471038392	https://autoricambitritella.it
-node	10978467236	https://ilgiuggioloverde.it/contatti/
-node	11234246802	https://www.hotelrojan.it/
-node	11302870976	https://www.sbnoleggiobici.it/
-node	11302973066	https://www.lafarmacia.it/trova-farmacia/del-principe-martinsicuro
-node	11542658048	https://www.telespazio.com/it/business/space-centres-teleports/fucino-space-centre
-node	11932491331	http://www.siconte.it/it/punti-vendita/si-supermercati/loreto-aprutino-via-della-fornace
-node	12144001881	https://castrumtruentinum-antiquarium.blogspot.com/
-node	12222600657	https://leonellomacchine.it/
-node	12818751619	https://www.blockhausclimbing.it
-node	12825644476	https://ristoranterever.it
-node	12846533482	https://www.ilbosso.com/centro-visita-del-lupo/
-node	12872788046	https://www.comune.lanciano.ch.it/Vivere-il-comune/Luoghi/Lanciano-sotterranea
-node	12873377885	https://cultura.gov.it/luogo/polo-museale-santo-spirito-museo-archeologico
-node	12879334141	https://www.ristoranteclemente.it
-node	12883355748	https://www.bnbcasapetrarca.com
-node	12887327116	https://www.basilikum.it/menu
-node	12894321758	https://centrorossetti.it
-node	13026259408	https://www.comune.lanciano.ch.it/
-node	13089598897	https://www.agriturismocolmorino.it
-node	13197501469	https://www.comune.scontrone.aq.it/i-borghi/musei/centro-di-documentazione-paleontologico/
-node	13204523586	http://www.siconte.it/it/punti-vendita/si-superstore/pescara-via-bologna
-node	13291149806	https://www.ristoranteilpicchio.it
-node	13427592301	https://mab.comune.ortona.ch.it/musei/pinacoteca-cascella
-way	93951553	http://www.campinglaplaya.it/
-way	93951554	https://www.campingsurabaja.it/
-way	93951555	https://www.gildacamping.it/
-way	93958554	https://www.storkcampingvillage.com/
-way	93967257	https://www.clubdelsole.com/it/destinazioni/abruzzo-costa-teramana/roseto-degli-abruzzi-easy-camping-village
-way	93967259	https://www.campingarcobalenoroseto.it/
-way	148593095	https://www.hotellenazioni.com
-way	246620756	https://www.polomusealeteramo.it/sedi/sito-archeologico-di-largo-sant-anna/14-10.html
-way	288614834	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-onofrio-al-morrone/
-way	294085362	http://www.ristoranteriparidigiobbe.it/
-way	342526298	https://www.campinglequite.eu/
-way	462217261	www.caipenne.it
-way	483498665	https://www.ball.com/na/about-ball/contact-us
-way	505162414	https://www.hotelitalia.org
-way	851992976	https://www.decathlon.it/
-way	1077993519	https://www.rifugiosilone.it/
-way	1088076365	https://www.comune.pietranico.pe.it/zf/index.php/trasparenza/index/index/categoria/81
-way	1100938727	https://www.abruzzihotel.it/
-way	1163730026	https://www.kzrkart.it/
-way	1184521284	https://www.casalecenturioneabruzzo.it/
-way	1219832545	https://linktr.ee/fishbonesfishsushi
-way	1219832546	https://hotelilcasale.it/
-way	1225230007	https://www.poseidonresort.it/
-way	1225233711	https://www.pasquarelliautosrl.it
-way	1320957655	https://maielletta.it/
-way	1324624550	https://www.campingcarouan.it/
-way	1337938957	https://www.molinolattanzio.it/
-way	1394109109	https://www.campingvillaelena.it/
-way	1426372819	https://www.kzrkart.it/
-way	1426473377	https://www.museoetnograficobomba.it/
-relation	8646860	http://www.gssi.it/
-relation	9383854	https://www.cascatedelverde.info/
-relation	13815366	https://www.rondinellacamping.it/
-relation	18178088	http://www.cantinacrecchio.it/contattaci/
-relation	19190580	https://borghidelgransasso.it/
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
+
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
+
+</body>
+</html>
 node	768603431	https://farmaciasanmassimopenne.it/
 node	2335563949	https://www.bbilparcodeipoeti.it/
 node	5235268513	https://pss.aslteramo.it/pss/#/portaleasl/prontoSoccorso
