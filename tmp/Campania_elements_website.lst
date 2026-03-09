@@ -501,6 +501,7 @@ node	3671547482	https://www.lunacaprese.net
 node	3677050334	https://www.museoalfonsiano.it/node/1
 node	3683555296	http://www.palazzoartinapoli.net/
 node	3689421652	https://fondazionepolis.regione.campania.it/showInEvidenceDocuments.php?bb1a82c9aa29ce63beb388080ed9f1d4=8ae40367f2880a8233702314e9a7239c&id_document=782&refresh=on
+node	3707596999	https://www.rfi.it/it/stazioni/nocera-inferiore-mercato.html
 node	3711523838	http://www.agenziagiuffresalerno.it
 node	3733540789	http://www.polomusealecampania.beniculturali.it/index.php/il-museo
 node	3757948817	http://www.vineriabuio.it/#
@@ -830,18 +831,11 @@ node	5256314774	https://www.monidee.it/
 node	5256314784	http://www.ex-j.it
 node	5256314785	https://www.tim.it/
 node	5256314786	https://fusarouomo.it/
-node	5256314787	http://www.antoniobarbaroboutique.it/
 node	5256502089	https://www.pasticceriamennella.it/gelateria.html
 node	5256502091	https://www.trucchiorologeria.it/
 node	5256502092	https://primoemporio.it
-node	5256502094	https://www.desimonegioielli.com/
-node	5256502095	https://www.zuiki.it/
-node	5256502099	https://www.lamaoptical.it/
 node	5256502101	http://www.antoniobarbaroboutique.it/
-node	5256502102	http://www.antoniobarbaroboutique.it/
-node	5256502103	https://www.kiehls.it/
 node	5256502104	https://www.maccosmetics.com/
-node	5256502105	https://www.gutteridge.com/
 node	5256502106	https://www.kikocosmetics.com/it-it/store/kiko-napoli-via-toledo/s-443
 node	5256502107	https://www.napoliartresort.com/
 node	5256502117	https://it.sisley.com/
@@ -902,11 +896,9 @@ node	5268280163	http://www.lamicoperlapelle.com
 node	5268402242	http://www.lamicoperlapelle.com
 node	5268402247	https://www.coconuda.eu/
 node	5268402249	http://www.pizzaioliveraci.com
-node	5268402250	https://www.desigual.com/it_IT/punti-vendita/italy/napoli/desigual_via_toledo
 node	5268402252	https://fusarouomo.it/
 node	5268402264	https://www.yamamay.com/
 node	5270438338	https://www.motivi.com/on/demandware.store/Sites-motivi-it-Site/it_IT/Storelocator-Detail?storeid=32315
-node	5270438340	https://www.luisaspagnoli.it/
 node	5270438343	http://www.afigliadamaruzzara.it/
 node	5270438345	https://www.wyconcosmetics.com/
 node	5270438351	https://it.calzedonia.com/
@@ -971,10 +963,7 @@ node	5340809495	https://www.remax.it/advisor
 node	5347559117	https://bnl.it/
 node	5347559118	https://www2.hm.com/it_it/
 node	5347560721	https://www.pullandbear.com/it/
-node	5347560722	https://it.marinarinaldi.com/store/0100620
-node	5347560723	https://salvatorefalconeg.wixsite.com/negozio
 node	5347560728	http://www.armandogentile.it/
-node	5347560733	https://www.anticasartoriapositano.it/
 node	5347560734	https://www.negozi.fastweb.it/it/napoli/fastweb-toledo-detta-via-roma/
 node	5347819626	https://www.salderiso.it/
 node	5350867421	https://palazzopetrucci.it/
@@ -1829,7 +1818,6 @@ node	9534202461	https://www.mulino-capri.com/
 node	9548012517	https://sirenuse.it/
 node	9550230404	https://prm.rfi.it/qo_prm/QO_Partenze_SiPMR.aspx?Id=876&dalle=04.00&alle=08.00&ora=04.00&guid=e4372268-65b1-4a21-859d-d26f45f00f7d
 node	9552953127	http://www.cnsfiammacampania.it/sacrario-armata-silente/
-node	9553835496	http://www.farmacieiuliano.it/
 node	9553860271	http://www.farmacieiuliano.it/
 node	9569450597	https://www.britishinstitutes.it/casoria
 node	9569454958	https://www.teatroeduardo.it/
@@ -2118,7 +2106,7 @@ node	10568214809	https://www.sole365.it/
 node	10568231610	https://www.sole365.it/
 node	10568497170	https://www.giardinidelvolturno.it/
 node	10570331251	https://www.eclissinailsystem.it
-node	10589534631	https://www.tesla.com/en_eu/findus?bounds=41.82042566559218%2C16.66451100625001%2C40.033893366806325%2C12.050253193750011&location=28393
+node	10589534631	https://www.tesla.com/findus/location/supercharger/28393
 node	10589904286	https://direzioneinvestigativaantimafia.interno.gov.it/
 node	10589904288	https://camalat.it/
 node	10604953409	https://www.mugisushi.com
@@ -2845,7 +2833,7 @@ node	12876183700	https://www.gabetti.it/agenzia/pagani
 node	12876538444	https://buonocoreborse.it/
 node	12876547812	https://www.glamouratelier1978.it/
 node	12876548608	https://www.glamouratelier1978.it/
-node	12881007614	https://www.tesla.com/en_eu/findus?location=30323
+node	12881007614	https://www.tesla.com/findus/location/supercharger/30323
 node	12883866035	https://www.domusbnb.com/
 node	12884467272	https://www.eraorahotelvillage.it/
 node	12886566362	https://lafeminahome.it/
@@ -3060,6 +3048,10 @@ node	13580144129	https://www.asteaenergia.it/
 node	13580341603	https://www.casahosteno.it/
 node	13598690733	https://www.facebook.com/scoutcngeitrecase
 node	13602182901	https://lavoro.regione.campania.it
+node	13620405265	https://farmaciapelo.it/
+node	13620774782	http://www.amalfilenereidi.it/
+node	13621132105	http://www.buglione.it/
+node	13625171954	https://www.facebook.com/ristorantelacilentana/
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
 way	24225619	https://reggiadicaserta.cultura.gov.it/
@@ -4671,6 +4663,7 @@ way	170951369	https://www.areapicnicpugliese.it/
 way	174047981	http://www.cittadellascienza.it/
 way	188278613	https://retemuseale.provincia.benevento.it/complesso-monumentale-di-santilario
 way	203584104	https://www.talentocash.com/punti-vendita/avellino/
+way	206643200	https://www.villaggiostelladelsud.it/
 way	210211794	http://www.villaggiobussento.it/
 way	210821318	https://www.liceoviconapoli.edu.it/
 way	210821324	https://www.ic9cuocoschipa.edu.it/
@@ -4699,6 +4692,7 @@ way	1025270923	https://www.fondazionefs.it/content/fondazionefs/it/esplora-il-mu
 way	1031137500	https://www.vesevus.it/
 way	1069157099	https://www.olattariello.com
 way	1265506175	https://www.jetcamp.com/it/italia/camping-maldive-first-class/
+way	1306499893	https://www.campeggiomingardo.it/
 way	1323904669	https://www.nitrodi.com/
 way	1324177310	https://www.mezzatorre.com/
 way	1340342349	https://parrocchiadisanbenedetto.it/
@@ -4722,18 +4716,29 @@ way	1474712890	https://campingipini.com/
 way	1474779012	https://www.campingdesiderio.com/
 relation	14434407	https://www.wwf.it/oasi/campania/lago_di_campolattaro/
 relation	14635178	https://www.parcoregionaledelmatese.it/
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
-
-</body>
-</html>
+node	68581547	www.ravello.com
+node	1892958672	http://www.lanticocortile.it/
+node	4033063953	http://www.vacanzeforiapalinuro.it
+node	9306631595	http://www.comune.giugliano.na.it/index.php/servizi/informazioni-sulla-raccolta-rifiuti/item/96-informazioni-sulla-raccolta-dei-rifiuti
+node	10973765686	https://it.wikipedia.org/wiki/Ipogeo_dei_Cristallini
+node	11954291648	https://coinatmradar.com/bitcoin_atm/29525/bitcoin-atm-bitomat-naples-centro-commerciale-quarto-nuovo-napoli/
+node	12273347981	www.vincenzoberretti.it
+node	12498361618	https://nxsgrowshop.com
+node	12811290036	https://www.supermercatipiccolo.it/index.php/punti-vendita
+node	13136583282	autolineelamanna.it
+node	13406448700	autolineelamanna.it
+way	160954511	hotelpixunte.com
+way	227481094	http://caudinia.altervista.org/forchia1.htm
+way	360022936	http://www.comune.giugliano.na.it/index.php/servizi/informazioni-sulla-raccolta-rifiuti/item/96-informazioni-sulla-raccolta-dei-rifiuti
+way	424377361	www.sorelledeluca.com
+way	570296942	http://www.bottegacellito.it
+way	573467914	https://www.borgoditortorella.com/poi/chiesa-di-san-vito-martire/
+way	733643615	http://web.archive.org/web/20210403120316/https://www.ilgiuglianese.it/cappella-dei-santi-filippo-e-giacomo-a-giugliano-conosciuta-come-cappella-dei-morti/
+way	1021640138	https://fratellilabufala.com/menu-inverno-2021-a/
+relation	40658	www.ravello.com
+relation	8110890	https://laviasilente.it/content/
+relation	17760420	https://appenninobiketour.com/percorso/
+relation	17782266	https://appenninobiketour.com/percorso/
+relation	17784877	https://appenninobiketour.com/percorso/
+relation	17785838	https://appenninobiketour.com/percorso/
+relation	19742496	https://laviasilente.it/content/
