@@ -1084,18 +1084,92 @@ relation	20249740	https://www.valrando.ch/fr/propositions-de-randonnees/2724/Alp
 
 </body>
 </html>
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
-
-</body>
-</html>
+node	666335350	http://www.hoteldufoyer.it
+node	670533689	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C
+node	670536202	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73176A
+node	670537491	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202
+node	670537553	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206
+node	670537556	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206
+node	670537581	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
+node	670537582	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
+node	670537583	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
+node	670537586	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
+node	670537610	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323212
+node	670537617	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323212
+node	670537632	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232B
+node	670537633	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232C
+node	670538701	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA
+node	670538705	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB
+node	670538708	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC
+node	670538711	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD
+node	670538714	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE
+node	670538722	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AF
+node	670538725	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG
+node	670538738	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F
+node	670538741	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G
+node	670538748	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H
+node	670538750	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I
+node	670538751	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J
+node	670538753	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L
+node	670538756	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M
+node	670538759	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N
+node	670538762	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O
+node	670538770	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P
+node	670538781	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R
+node	670538784	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S
+node	670538788	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T
+node	670538791	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U
+node	670538800	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V
+node	670538803	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W
+node	670538804	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X
+node	670538805	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y
+node	670538806	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z
+node	670539182	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
+node	670539184	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
+node	10009106269	https://sketchfab.com/models/2c86a2c99925485f9416bb4cb2512495/embed?autospin=0.2&autostart=1
+node	10009106270	https://sketchfab.com/models/79c2547fa3964d72802c2815624fc5db/embed?autospin=0.2&autostart=1
+node	10009106271	https://sketchfab.com/models/942a965bc4a94f0281f4db1e5e423ebd/embed?autospin=0.2&autostart=1
+node	11173970513	https://www.lovevda.it/it/banca-dati/13/mercati-settimanali/gressoney-saint-jean/mercato-di-gressoney-saint-jean-giovedi/126
+node	12097484461	https://sketchfab.com/models/7c59d140eed94ac6b55b527c8c7a431e/embed?autospin=0.2&autostart=1
+node	12098866558	https://sketchfab.com/models/305748fdaf834a3ea36c6e1a72378e96/embed?autospin=0.2&autostart=1
+node	12098897508	https://sketchfab.com/models/c839ced2aeca4767b36b1d6d4b208473/embed?autospin=0.2&autostart=1
+node	12194508770	https://matteo-giglio.blogspot.com/2012/05/pilier-rhodo-nuovo-spot-trad-in-valle.html
+node	13467922299	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
+node	13467923411	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
+way	126610973	https://www.ferrate365.it/vie-ferrate/ferrata-covarey/
+relation	517389	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C
+relation	517790	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202
+relation	517794	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206
+relation	517797	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
+relation	517800	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323212
+relation	517802	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232B
+relation	517803	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232C
+relation	517928	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA
+relation	517929	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB
+relation	517930	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC
+relation	517931	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD
+relation	517932	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE
+relation	517933	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AF
+relation	517934	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG
+relation	517938	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F
+relation	517939	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G
+relation	517940	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H
+relation	517941	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I
+relation	517942	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J
+relation	517943	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L
+relation	517944	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M
+relation	517945	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N
+relation	517946	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O
+relation	517947	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P
+relation	517949	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R
+relation	517950	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S
+relation	517951	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T
+relation	517952	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U
+relation	517953	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V
+relation	517954	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W
+relation	517955	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X
+relation	517956	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y
+relation	517957	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z
+relation	518000	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
+relation	16619194	https://www.aostavalleybiking.com/ciclovia-becca-daver/
+relation	16653970	https://www.aostavalleybiking.com/ciclovia-cervino/
