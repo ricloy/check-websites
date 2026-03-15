@@ -1185,6 +1185,7 @@ node	13574587001	http://serpolla.com
 node	13585813994	https://www.cassaedilepg.it/
 node	13585813995	https://www.cesf.pg.it/
 node	13602543738	https://www.bandamusicale.it/bande/italia/umbria/perugia/spoleto/spoleto.php
+node	13639891901	http://www.agallocolors.com/
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30110992	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
@@ -2309,18 +2310,15 @@ relation	8050899	http://www.viaggispirituali.it/strutture-turismo-religioso/umbr
 relation	16020019	http://www.lavalnerina.it/
 relation	17666893	http://www.agriturismopoponi.it/
 relation	18259686	https://benedettineciterna.wordpress.com/
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
-
-</body>
-</html>
+node	703424171	http://italia.indettaglio.it/ita/umbria/perugia_sangiustino_cospaia.html
+node	2329559965	www.osterialecivette.it
+node	4364974414	http://www.umbriameteo.com/webcam/castelluccio/
+node	7726566305	http://www.museiprovinciaterni.it/context_musei.jsp?ID_LINK=498&area=47
+node	12872798807	https://www.iluoghidelsilenzio.it/tugurio-di-san-francesco-cannara-pg/
+way	207812059	https://fondoambiente.it/luoghi/abbazia-di-santa-maria-di-valdiponte-in-corbiniano-o-abbazia-di-montelabate
+way	229271786	https://www.iluoghidelsilenzio.it/chiesa-di-san-giovanni-battista-cannara-pg/
+way	238107829	https://pleiades.stoa.org/places/416806
+way	261548140	https://www.academia.edu/84533366/COME_NASCE_UNA_BASE_GIS_PER_L_ARCHEOLOGIA_OPENSOURCE_SVILUPPATA_DA_ARCHEOLOGI_PER_GLI_ARCHEOLOGI_LO_SCAVO_DI_POGGIO_GRAMIGNANO_LUGNANO_IN_TEVERINA_TR_
+way	833610917	https://www.iluoghidelsilenzio.it/eremo-di-santangelo-in-pantanelli-baschi/
+way	1222044942	https://www.iluoghidelsilenzio.it/chiesa-della-buona-morte-cannara-pg/
+way	1382315972	https://www.iluoghidelsilenzio.it/chiesa-di-san-lorenzo-vecchio-rapecchiano-di-foligno-pg/
