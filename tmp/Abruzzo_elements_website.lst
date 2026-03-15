@@ -1650,7 +1650,6 @@ node	7884031851	https://negozi.vodafone.it/san-giovanni-teatino/vodafone-store-c
 node	7884031852	https://www.aw-lab.com/
 node	7884031857	http://www.sephora.it/
 node	7884031858	https://www.stroilioro.com/
-node	7884031859	https://www.primigi.it/
 node	7884031860	https://www.nau.it/
 node	7884155590	https://www.giuntialpunto.it/
 node	7884161084	http://www.pittarosso.com/
@@ -3588,6 +3587,10 @@ node	13607505541	https://magnaq.it
 node	13612727428	https://www.vigilfuoco.it/sitiVVF/pescara/dislocazione.aspx?s=221&p=283
 node	13617085954	https://www.lidl.it/
 node	13623111604	https://www.icripatorrevecchia.edu.it/
+node	13629472201	http://damapasticceria.it
+node	13629472301	http://caffeletterario.net
+node	13629506301	http://caritaspescara.it
+node	13629512901	http://caritaspescara.it
 way	6059129	https://www.asl.pe.it/DettaglioSede.jsp?id=29&idSezione=32
 way	10814292	https://pescaramultiservice.it/parcheggi/#parcheggi
 way	11982540	"https://it.geoview.info/torrente_alzapone,11982540w"
@@ -4060,7 +4063,6 @@ way	666635880	https://www.parcomajella.it/Monastero-di-S-Martino-in-Valle.htm
 way	666635882	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-martino-in-valle/
 way	666635884	https://www.auaa.it/articoli-escursionismo/340-cascata-del-macellaro-parco-nazionale-della-majella
 way	666635885	https://www.parcomajella.it/uomo-e-territorio/eremi-e-luoghi-di-culto-rupestri/s-onofrio-di-serramonacesca/
-way	666638331	https://trattoriadalpagano.it/
 way	666638332	http://www.bb-larcobaleno.com/
 way	666663825	https://www.quattrocalici.it/produttori/vino/cantine-ciampoli/
 way	666702212	https://www.radiodelta1.it/
@@ -4755,6 +4757,7 @@ way	1453832626	https://www.altovastese.it/ambient/abetina-di-castiglione-messer-
 way	1453832627	https://www.altovastese.it/ambient/abetina-di-castiglione-messer-marino-ch/
 way	1453832628	https://www.altovastese.it/ambient/abetina-di-castiglione-messer-marino-ch/
 way	1463671076	https://natura2000.eea.europa.eu/Natura2000/SDF.aspx?site=IT7140214
+way	1487137340	https://trattoriadalpagano.it/
 relation	8484	http://www.pinetadannunziana.it/
 relation	41790	http://www.comune.pennapiedimonte.ch.it/
 relation	42014	http://www.comune.pescara.it
