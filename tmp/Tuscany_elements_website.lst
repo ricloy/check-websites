@@ -61,7 +61,7 @@ node	327544685	https://poste.it
 node	331402455	https://www.credit-agricole.it/
 node	335577875	https://www.museopiaggio.it/
 node	335747002	https://www.milleideeonline.it/
-node	336436384	http://www.fioristaarcobalenolivorno.it
+node	336436384	https://www.fioristaarcobalenolivorno.it/
 node	336738041	https://www.trattorialabaracchina.it
 node	340891856	https://www.unicredit.it/it/contatti-e-agenzie/lista-agenzie/si/siena/siena-quinto-bersaglieri-ag00508.html
 node	344287936	https://granduca.it/
@@ -798,7 +798,6 @@ node	2311463056	https://www.enel.it/punto-enel/
 node	2311463080	https://www.enel.it/punto-enel/
 node	2311463102	https://www.enel.it/punto-enel/
 node	2311463152	https://www.enel.it/punto-enel/
-node	2311463170	https://www.enel.it/punto-enel/
 node	2311463234	https://www.enel.it/punto-enel/
 node	2311463251	https://www.enel.it/punto-enel/
 node	2311463270	https://www.enel.it/punto-enel/
@@ -7273,6 +7272,7 @@ node	13289844914	https://formiglisrl.it/
 node	13289860079	https://www.livornoinfissietende.it/
 node	13289860082	https://www.clinicheplus.it/
 node	13289860086	https://www.danoro.com/
+node	13294164033	http://www.trabacus.it/
 node	13294553001	https://retrobottegafirenze.com/
 node	13294826028	https://www.bivignano.com/
 node	13300215934	https://inpost.it/locker-carrara-itcar44610m-viale-cristoforo-colombo
@@ -7474,8 +7474,8 @@ node	13598101089	https://csaexemerson.org/
 node	13598101090	https://csaexemerson.org/index.php/palestra/
 node	13602270732	https://www.martinario.it
 node	13602311564	https://www.ilfattoreparty.it
-node	13603665801	http://vadavillage.com
-node	13603669301	http://mattarello22.it
+node	13603665801	https://vadavillage.com/
+node	13603669301	https://mattarello22.it/
 node	13603679101	http://hamburgheria.com
 node	13604079383	http://www.18karatigioielli.com
 node	13604079389	https://www.concessionari-suzuki.it/nippocar
@@ -7494,6 +7494,8 @@ node	13625243986	https://www.ariannahotel.it/
 node	13625260316	https://www.yogorino.it
 node	13625561901	https://chiantibrewfighters.it/
 node	13625575801	https://chiantibrewfighters.it/
+node	13639141607	https://www.facebook.com/wildkingbarbistrot/
+node	13640771857	https://www.fitactive.it/
 way	20292858	https://www.centrodeiborghi.it/
 way	22718564	http://www.archeotoscana.beniculturali.it/
 way	22793201	https://www.leopolda.it/
@@ -8673,6 +8675,7 @@ way	411033524	https://camper.pisamo.net/
 way	411044544	https://www.anticoborgosanmartino.it
 way	411099727	https://www.freetimecamping.it/
 way	412154534	https://www.dellastoriadempoli.it/notizie-storiche-villa-di-empoli-vecchio/
+way	412154537	https://istitutocomprensivoempoliovest.edu.it/luogo/scuola-primaria-galileo-galilei-avane/
 way	412571123	https://hotelparcodeipini.it/
 way	412619316	https://www.trailforks.com/trails/albereta-ps2/
 way	413188493	https://www.parrinihotel.com/
@@ -11920,6 +11923,7 @@ node	13401859495	https://www.boutiquenadine.com
 node	13401859507	https://dimsumrestaurant.it
 node	13413894335	https://180grammi-burgers-beers.com/
 node	13592195206	https://www.opapisa.it
+node	13630284044	https://www.ciapino.it/
 way	22945162	https://www.opapisa.it/visita/battistero/
 way	22945163	https://www.opapisa.it/visita/cattedrale/
 way	28396159	https://www.basilicacateriniana.it/
@@ -12004,7 +12008,6 @@ way	231544291	http://www.hotel-castiglione.com
 way	232964940	https://icpisano.edu.it
 way	236107929	https://www.ilgineprino.com/
 way	242392572	http://www.shipinfo.it/
-way	242392575	http://www.lamarsub.it/
 way	251675868	https://www.ilgineprino.com/
 way	258477214	http://www.chedditeitaly.com/
 way	259894225	https://pietrasanta.uoei.it/HTML/LaFaniaStoria.htm
