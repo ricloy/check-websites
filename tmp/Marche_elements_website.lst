@@ -179,7 +179,7 @@ node	1238991022	https://www.trattoriaulderico.com/
 node	1238991031	http://www.siconte.it/it/punti-vendita/si-supermercati/supermercati-ancona-via-matteotti
 node	1238991050	http://www.trattoriamoretta.com
 node	1241989601	https://www.maceratesegomme.it/
-node	1245690804	http://www.ristoranteoasipaesedeibimbi.com
+node	1245690804	https://www.parcozoofalconara.com/servizi/#ristozoo
 node	1259956901	https://www.frescocoalraponi.it/
 node	1259956932	https://www.gocoppola-ancona.it/
 node	1260345426	https://sessanta126.it
@@ -428,7 +428,6 @@ node	2789952348	https://www.zeroscarti.it/
 node	2812995424	http://www.ilpozzofiorito.it
 node	2815535801	https://www.conad.it/ricerca-negozi/negozio.010156.html
 node	2820990853	https://www.esiflordidottori.it/
-node	2825244070	http://www.arniadelcuciniere.it
 node	2856102121	https://www.ristoranteagliolivi.it/
 node	2872703675	https://www.ilchiostrodellavis.it/
 node	2888209094	http://www.seatech.it/
@@ -874,7 +873,6 @@ node	6066268651	https://www.asteaenergia.it/
 node	6069518825	https://www.lacasanelboscoripa.it
 node	6070906250	https://www.agrsicurezza.it
 node	6106719499	http://www.isosingegneria.eu/
-node	6106736606	https://www.americagraffiti.it/ristoranti/pesaro
 node	6110118728	https://www.ferramentaanpa.com/
 node	6135928745	https://www.asteaenergia.it/
 node	6136149943	https://ristorante66.it/
@@ -2055,7 +2053,6 @@ node	12762886118	https://vettamarina.trianongroup.com/
 node	12766142141	https://www.masetticinema.it/
 node	12768265478	https://www.ristorantevecchiafano.it/
 node	12768265480	http://lascarpavolante.altervista.org/
-node	12773113520	https://www.cngei-pesaro.it/
 node	12778819738	https://www.villarinapesaro.com
 node	12779804778	https://kiko-stores.kikocosmetics.com/it-it/italia/marche/pesaro-e-urbino/fano
 node	12779804779	https://www.goldenpoint.com/it_it/storelocator/GOLDENPOINT_SPA_GPPU01/
@@ -2318,6 +2315,13 @@ node	13617534755	https://kingattitude.it/pages/negozi/king-castelfidardo
 node	13617534756	https://tigota.it/negozi/027023
 node	13620525797	https://luigisauro.com/
 node	13626438346	https://assifabbri.com
+node	13627136319	https://cristhalia.it
+node	13629220201	https://www.smartlabriparazioni.it/website/
+node	13629502988	https://www.molocodilevante.it/
+node	13629529986	www.bagniagatapesaro.it
+node	13629530786	https://www.facebook.com/itacabeach/?locale2=it_IT&_rdr
+node	13645030137	https://www.tenuteurani.it
+node	13647919860	https://www.illanternino.net/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2403,9 +2407,11 @@ way	127503794	http://www.hotelambro.it
 way	128734797	http://www.cuscamerinorugby.it/
 way	128738563	https://www.asdcamerinocalcio.com/
 way	128870344	http://www.tartabini.com/
+way	129414301	https://www.amadeihotel.it/hotel-figaro
 way	129416671	https://www.comune.pesaro.pu.it/
 way	132860178	http://www.mxreddevil.it/
 way	135174127	https://store.terranovastyle.com/it/italia/marche/senigallia/terranova-314
+way	135174128	https://www.hotelmastai.it/
 way	136739348	https://www.riservagoladelfurlo.it/
 way	144928923	https://brandoni.com/
 way	144939343	https://www.siriuscappe.com/
@@ -2426,6 +2432,8 @@ way	170590858	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.ph
 way	171931912	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	174192367	https://trattoriamolosud.it/
 way	174192372	https://mercatoitticosbt.it/
+way	175813726	https://www.excelsiorpesaro.it/
+way	175903904	https://dallamaria.it/ristorante-pesaro-dalla-maria-tradizione-e-qualita-in-tavola/
 way	175903915	https://www.hotelleonardodavincipesaro.com/
 way	176823254	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
 way	176823255	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
@@ -2536,6 +2544,7 @@ way	305067371	https://www.fondazionemasogiba.it/
 way	306846665	http://www.ipsiafermo.gov.it/
 way	307177615	https://www.vallerosa-bonci.com/
 way	307885194	https://www.ilfrantoioagriturismo.it/
+way	308064299	https://store.calliope.style/it/italia/marche/senigallia/calliope-68
 way	308854479	https://www.hotelbeaurivagesenigallia.com/
 way	309894080	http://www.brombolona.it/
 way	310213323	http://www.latartanasenigallia.it/
@@ -2735,6 +2744,7 @@ way	439447876	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeH
 way	439644620	https://sol.bibliomarchenord.it/opactest/library/FRONTONE%20-%20Biblioteca%20Comunale/URB$CNFRONTONE
 way	439929633	http://www.markhotel.it/
 way	440671434	https://rifugiocollelecese.it/
+way	442589214	https://www.icsmontelabbate.edu.it/
 way	442655082	https://www.lavalledelmetauro.it/contenuti/beni-storici-artistici/scheda/4680.html
 way	444189301	http://www.sidecar.it
 way	445824345	https://teatrodelleapi.it/
@@ -2848,6 +2858,7 @@ way	770382388	https://www.iisdavinci.edu.it
 way	778480526	https://www.campinggabicce.it/
 way	782406450	https://www.hoteledelweissfano.it
 way	783647050	https://centroriusocivitanova.blogspot.com
+way	783721401	https://www.americagraffiti.it/ristoranti/pesaro
 way	783905998	http://www.hospitaleterzoparadiso.it
 way	783907509	www.hospitaleterzoparadiso.it
 way	785139868	http://www.civitaexpo.it/
@@ -3119,6 +3130,7 @@ way	1364859481	https://maglianobellezzainfinita.it/chiesa-san-filippo-neri/
 way	1371150508	https://www.lazazie.com/laboratori/ancona-corso-giuseppe-mazzini/
 way	1371355927	https://www.naima.it/it/naima-ancona-via-menicucci
 way	1373711728	https://tenutacontelucangeli.it/
+way	1379421416	https://www.cngei-pesaro.it/
 way	1383765064	https://www.cantinedicastignano.com/
 way	1385811209	https://www.saecula.eu/
 way	1385816240	https://la-vecchia-posta.italiadestinazioni.top/
@@ -3307,6 +3319,9 @@ relation	20226650	https://monticelli.it/
 relation	20242501	https://tolentinoretailpark.it/
 relation	20285706	https://icsoprani.edu.it/
 relation	20285887	https://tastitalia.com
+relation	20301999	https://somecstampi.it/
+relation	20302000	https://doricagroup.com
+relation	20321896	https://maitenergy.it/
 node	293876239	http://www.spumantebio-peruzzi.it
 node	566330554	https://www.laforesteriahotel.it/
 node	619720919	http://www.collesi.com/
@@ -3656,18 +3671,23 @@ relation	10967104	https://www.schnell.it/
 relation	15341759	https://diocesimacerata.it/
 relation	15982110	https://www.rivieradelconero.info/
 relation	17269004	http://www.liceogmarconi.gov.it/
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
-
-</body>
-</html>
+node	1342443841	http://lnx.montaltomarche.it/montalto2/Mercato/Ristora/Sistov/sistov.php
+node	1342443843	http://noteurbane.com/en/shop/hotel-pinella-montalto-delle-marche-peretti
+node	1342443844	http://www.museisistini.it/museo-montalto.html
+node	2724110539	https://www.facebook.com/pages/Bar-Diamond/421191581300138
+node	2918695876	https://www.lavalledelmetauro.it/contenuti/comuni-del-bacino/scheda/8225.html
+node	3184281715	http://www.facebook.com/frontemarepesaro
+node	5180660621	http://www.luoghidelsilenzio.it/marche/02_eremi/00049/index.htm
+node	7922936444	https://www.parcosanbartolo.it/luoghi/il-tetto-del-mondo/
+node	10001454964	https://www.pietredellamemoria.it/pietre/monumento-ai-martiri-della-liberta-jesi-an/
+node	10048771656	https://www.iomangiobiologico.it
+node	12533991038	https://ilregistrodeglialberi.it/7331-cedro-di-corinaldo-cedro-dellhimalaya-corinaldo-ancona-marche
+node	12534717843	https://ilregistrodeglialberi.it/15483-roverella-jesi-ancona-marche
+way	31869757	https://pontesancarlo.comune.jesi.an.it/
+way	39405476	https://www.jadrolinija.hr/en/fleet-ship/marko-polo?
+way	437828400	http://pesaro.fiere.name
+way	620626312	https://www.jadrolinija.hr/en/fleet-ship/marko-polo
+way	1109212826	https://www.mondavioturismo.it/area-camper-mondavio/
+way	1246109205	https://www.ansa.it/marche/notizie/2025/07/16/ponte-ciclopedonale-sul-tronto-lavori-entro-primavera-2026_2a6bddde-5b7e-4f34-83ae-5c758f2178fd.html
+way	1307473250	https://www.campingvalentinasostacamper.it/areasosta.html
+way	1337164395	https://www.fermodiocesi.it/it/Scheda_parrocchia/parrocchia/28/
