@@ -1461,6 +1461,7 @@ node	3197966608	https://www.comune.santamarinella.rm.it/vivere-la-citta/1070-far
 node	3198319475	http://www.farmaciapecorone.it/
 node	3198931974	http://fisheyeskateshop.com/
 node	3201345574	http://www.todis.com/
+node	3202330278	https://www.pizzeriailsole.com
 node	3210037761	https://www.friccicogreenbakery.it/
 node	3210638053	https://sushikingroma.it
 node	3211580143	https://www.pasticcerialerondini.com/
@@ -3934,6 +3935,7 @@ node	7500861602	https://www.conad.it/ricerca-negozi/negozio.004295.html
 node	7500879230	https://www.conad.it/ricerca-negozi/negozio.008454.html
 node	7502784328	https://negozi.ovs.it/mobile/it/negozi/italia/roma/ovs-kids-anguillara_01945.aspx
 node	7517183536	https://www.acivalmontone.it/
+node	7517183540	https://www.navigamondo.it/
 node	7517183567	http://www.autoscuoledelbrusco.com/
 node	7525502443	https://www.salute.gov.it/
 node	7529712367	https://www.farmaciafagnani.it/
@@ -4758,7 +4760,9 @@ node	9177025917	https://www.1990accademiadelgusto.it
 node	9178219009	https://www.gliarchiristorante.com
 node	9179733960	www.dascenzitende.com
 node	9180470640	www.studiolegalebonannomurolo.it
+node	9183309795	https://streetsport.it
 node	9183309809	https://www.unigross.it/punti-vendita-unigross/roma-1.html
+node	9183341920	https://www.rinfreschicorsetti.it/
 node	9190490895	https://www.conad.it/ricerca-negozi/negozio.010154.html
 node	9192514038	http://www.hotelanticoacquedotto.it/
 node	9197582139	https://mamashelter.com/roma/
@@ -5504,7 +5508,6 @@ node	10618589223	https://roma124.tecnocasa.it/
 node	10634670458	https://upim.com
 node	10642664363	https://www.romaneviacipro106.it/romaneviacipro106/
 node	10648275392	https://www.unis.it
-node	10649899290	https://www.skicaravan.com/
 node	10651174725	https://www.gruppoveloccia.it/
 node	10658483669	https://www.diademe.it/reverberi/
 node	10659797701	https://alsettantasette.it/
@@ -6170,7 +6173,6 @@ node	11889917781	https://www.carfotech.it
 node	11895587946	https://www.colpiditesta.it
 node	11896005787	https://www.lovenegozio.it
 node	11898904837	https://www.usi.it/centri/10/eur-marconi
-node	11901106451	https://www.ristoranterossi.net/
 node	11901880297	https://www.booking.com/hotel/it/b-amp-bees-roccaranieri-longone-sabino.it.html
 node	11904379169	https://www.hotelascotroma.com/
 node	11905215345	https://www.mmbstudios.com/
@@ -6389,7 +6391,6 @@ node	12232206515	https://modpro.it
 node	12235156736	https://www.corteconti.it/Home/Attivita/Procura
 node	12237750695	https://www.rione13ristorante.com/
 node	12238459020	https://www.annaiacobucci.it/
-node	12243737981	https://www.rinfreschicorsetti.it/
 node	12250485125	https://hotelparrasio.com/
 node	12250634836	https://studiofrancario.eu/
 node	12252412476	https://www.facebook.com/CopacabanaBeachGaeta/?locale=it_IT
@@ -6518,7 +6519,7 @@ node	12560949862	https://www.icviafabiola.edu.it
 node	12560949869	https://www.icviafabiola.edu.it
 node	12560949870	https://www.icviafabiola.edu.it
 node	12561202481	https://www.accademiasilviodamico.it/
-node	12561205708	https://www.museomacro.it/it/visita/aula-studio/
+node	12561205708	https://www.museomacro.it/pagine/aule-studio
 node	12561205709	https://www.sovraintendenzaroma.it/per_approfondire/centri_di_documentazione/centro_di_ricerca_e_documentazione_arti_visive
 node	12561205721	https://www.accademiaxl.it/archivi-e-biblioteca/biblioteca/
 node	12565039401	https://www.fabriziosroomsroma.it/
@@ -7149,6 +7150,15 @@ node	13622879163	https://www.aprilespa.it
 node	13623405133	https://www.cesmep.it/
 node	13623405136	https://www.corteconti.it/Home/Attivita/Biblioteca
 node	13623566101	https://www.bodyzoneintegratori.com/
+node	13629477120	https://www.studiomedicosalus.it/
+node	13629477142	https://clinica-iphone.com/cliniche/clinica-iphone-san-cesareo/
+node	13629626859	https://www.mammina.com/roma-eur
+node	13634510101	https://linktr.ee/metrocore
+node	13638055550	https://ristorantedapeppeatorcervara.eatbu.com
+node	13638895276	https://www.orientamondo.it/
+node	13638895291	https://www.eurospin.it/punti-vendita/roma-via-corleone/
+node	13645605901	https://www.ristorantevittorioemanuele.it/
+node	13648440701	http://cepib.it
 way	22875465	https://www.adr.it/ciampino
 way	22883200	http://www.oasidiporto.it/
 way	23036615	http://www.aslromab.it/cittadini/ospedali/pertini/index.php
@@ -7916,6 +7926,7 @@ way	231816984	https://www.agriturismoilcastoro.it/
 way	231864573	http://www.baiaverde-passoscuro.it
 way	231864575	http://www.ilpiratapassoscuro.it/
 way	231864577	http://www.moaibeach.it/
+way	232459557	http://www.pasticceriapennisi.it/
 way	232463911	https://www.expertonline.it/
 way	232973099	https://www.icvoltalatina.edu.it/sito/teatro-ponchielli/
 way	232973552	https://www.ausl.latina.it/gs-serviziospedalieri/gs-presidionord/gs-goretti
@@ -7965,6 +7976,7 @@ way	239452265	https://www.atac.roma.it/utility/atac-sosta/parcheggi
 way	239476605	http://bellavista.shapcott-family.com
 way	239476607	http://bellavista.shapcott-family.com
 way	239555111	https://campingillago.it/
+way	239731808	https://www.esercito.difesa.it/storia/ufficio-storico-sme/archivio/93898.html
 way	239789908	https://www.istitutopallotti.it/
 way	239852124	http://www.ristorantefaraone.it
 way	240150592	http://roma.mfa.gov.rs/
@@ -8139,6 +8151,7 @@ way	305852819	www.progettoforti.it
 way	306122880	https://www.addistende.it/
 way	307137458	http://www.museiresina.it/musei/museo-del-mare-e-della-costa-marcello-zei/
 way	308079064	https://www.istitutofranceschini.it
+way	309378238	https://www.sposamiatelier.com/
 way	310081707	https://www.laportadelprincipe.it/
 way	310137527	https://www.villinogregoraci.it/
 way	310496948	https://www.officinefarneto.it/
@@ -9966,6 +9979,11 @@ way	1469100999	https://www.depinedo.edu.it/
 way	1469101005	icsdallachiesa.it
 way	1473581417	https://labottegadeigiovanitalenti.eu/
 way	1479061718	https://bedacollege.org/
+way	1487231965	https://www.skicaravan.com/
+way	1487269697	https://enotecapallotti.it/
+way	1487270099	https://www.arshotel.com/
+way	1487271121	http://www.zoobar.roma.it/
+way	1487271137	https://www.comune.roma.it/web/it/municipio-iii.page
 relation	22289	https://www.farnese-rome.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	77421	http://web.tiscali.it/aguzzano/
@@ -10294,6 +10312,7 @@ relation	10558714	https://www.comune.roma.it/web/it/municipio-vii.page
 relation	10579137	https://www.lepiniorientali.it/
 relation	11106304	https://www.navegnacervia.it/
 relation	11109162	https://www.camminodibenedetto.it/
+relation	11109163	https://www.camminodibenedetto.it/
 relation	11109164	https://www.camminodibenedetto.it/
 relation	11109349	https://www.camminodibenedetto.it/
 relation	11109845	https://www.camminodibenedetto.it/
@@ -10421,7 +10440,7 @@ relation	12310835	https://www.caiamatrice.it/
 relation	12312405	www.parcolucretili.it
 relation	12312406	www.parcolucretili.it
 relation	12313062	www.parcolucretili.it
-relation	12313063	www.parcolucretili.it
+relation	12313063	http://www.parcolucretili.it
 relation	12313125	www.parcolucretili.it
 relation	12313206	https://www.caiamatrice.it/
 relation	12313277	www.parcolucretili.it
