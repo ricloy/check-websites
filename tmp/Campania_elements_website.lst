@@ -1,7 +1,6 @@
 @type	@id	website
 node	25399515	https://www.rfi.it/it/stazioni/aversa.html
 node	25399519	https://www.rfi.it/it/stazioni/sessa-aurunca-roccamonfina.html
-node	26859809	https://soleado.info/
 node	68566158	https://www.comune.caserta.it
 node	68579913	http://www.museincampania.it/spip.php?page=musei_dettaglio&id_museo=110
 node	68580078	https://www.comune.casagiove.ce.it/
@@ -804,6 +803,7 @@ node	5099844477	http://www.bebmassico.it/
 node	5102399666	https://www.lamarinellasorrento.com/en/restaurant/
 node	5102834621	http://www.ibtweb.it
 node	5106818187	https://www.facebook.com/WaveSpaceAversa/
+node	5126351599	https://www.napolisotterranea.org/
 node	5126359508	http://www.mazz.bar
 node	5128090614	https://scaturchio.it/
 node	5141213637	https://www.barveneruso.it/
@@ -1248,6 +1248,7 @@ node	7169124095	https://www.rfi.it/it/stazioni/frattamaggiore-grumo.html
 node	7169124096	https://www.rfi.it/it/stazioni/casoria-afragola.html
 node	7175504337	http://www.farmacieiuliano.it/
 node	7175603411	https://negozi.vodafone.it/napoli/vodafone-store-piazza-bovio
+node	7177239932	https://www.tappo.org/
 node	7188768320	https://www.lalocandagesuvecchionapoli.it
 node	7204219203	https://www.salumeriaupnea.it/
 node	7209572064	https://www.pizzeriatarumbo.it/
@@ -1714,7 +1715,6 @@ node	9329042162	https://www.aslnapoli2nord.it/strutture/luoghi/distretto-sanitar
 node	9332434587	https://vittoriaolive.it/
 node	9332529441	https://squisitofood.it/
 node	9332529465	https://www.sebetotrasporti.it/it/
-node	9332529466	https://gifuni.it/
 node	9332554002	https://www.amera.it/
 node	9332554003	https://www.renault-trucks.it/
 node	9332619663	https://www.snaidero.it/
@@ -2648,6 +2648,7 @@ node	12548707833	https://www.sangiuseppedeinudi.org/category/eventi/
 node	12548752001	https://www.manitese.it/
 node	12558624183	https://natolavoratorio.it
 node	12564808731	https://www.fuorimuraparkingsorrento.com/
+node	12565930584	https://www.bbvicidomini.it
 node	12569253379	https://vesuviopark.vivaticket.it/
 node	12584905301	https://www.appuntiofficinastudenti.com
 node	12596244601	https://www.domustraiani.it/
@@ -3049,9 +3050,17 @@ node	13580341603	https://www.casahosteno.it/
 node	13598690733	https://www.facebook.com/scoutcngeitrecase
 node	13602182901	https://lavoro.regione.campania.it
 node	13620405265	https://farmaciapelo.it/
-node	13620774782	http://www.amalfilenereidi.it/
+node	13620774782	https://www.amalfilenereidi.it/
 node	13621132105	http://www.buglione.it/
 node	13625171954	https://www.facebook.com/ristorantelacilentana/
+node	13629368001	https://www.ovs.it/it/it/stores/italia/campania/caserta/underwear-santa-maria-capua-underwear
+node	13638801401	http://www.rivoluzione.red
+node	13641438407	https://www.aprilespa.it/
+node	13647763893	https://www.terramaresuites.it
+node	13648203848	http://www.casamazzola.it/
+node	13648203981	https://www.hotels-italiano.com/appartamento-villa-degli-ulivi/
+node	13649394910	https://www.ghpresident.com/
+node	13650184301	https://social.quandoo.com/en/groups/vitami-ristorante-napoli-104335
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
 way	24225619	https://reggiadicaserta.cultura.gov.it/
@@ -4302,6 +4311,8 @@ way	1478521671	https://emidiocivitillocusanomutri.blogspot.com/2018/11/il-montem
 way	1478521702	https://emidiocivitillocusanomutri.blogspot.com/2018/11/il-montemutria-e-le-sue-rave-formatesi.html?fbclid=IwAR0agm60MoSMKZv1ZGJ53YC9rbPGaEjWL6C8sTNJUWRold9dliS4W3CXlvI
 way	1478521703	https://emidiocivitillocusanomutri.blogspot.com/2018/11/il-montemutria-e-le-sue-rave-formatesi.html?fbclid=IwAR0agm60MoSMKZv1ZGJ53YC9rbPGaEjWL6C8sTNJUWRold9dliS4W3CXlvI
 way	1478876245	https://www.santantoniohotel.it/
+way	1486852268	https://soleado.info/
+way	1488864086	https://gifuni.it/
 relation	12377	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/lago-tempio-diruto-e-casa-dei-cigni/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	40808	https://www.comune.pozzuoli.na.it/
@@ -4558,6 +4569,7 @@ node	1692455246	http://www.ristorantelacapanna.com/
 node	1762147302	https://www.casarufolo.com/
 node	1879132315	https://www.figaroburgerhouse.it/
 node	2229877668	https://www.royalpalm.it/
+node	2857564156	https://ilbrigante.org/
 node	3077486456	https://www.sorrisoresort.it/
 node	3077486498	http://www.trattoriaterradelfuoco.it
 node	3077534880	http://www.casthotels.com/baiadellesirene.html
@@ -4656,6 +4668,7 @@ node	13305049095	https://www.galleriatoledo.it
 node	13307193572	https://pensioneristorantedeifiori.weebly.com/index.html
 node	13333967011	https://www.pizzeriapisani.it/
 node	13334562342	https://www.londonstore.it
+node	13648204071	https://villaflore.it
 way	79268408	https://szn.it/index.php/
 way	148258429	https://www.sunriseresort.it/
 way	170920731	https://www.giardiniposeidonterme.com/
@@ -4685,8 +4698,8 @@ way	417834740	https://www.paradisesportingvillage.com/
 way	420554014	https://www.casamonetacapri.com/
 way	462983178	https://www.villaggioromano.com/
 way	610045991	https://www.hermitagecapodimonte.it/
+way	719629639	https://lafrancescascario.it/
 way	749284733	https://www.tui.co.uk/destinations/europe/italy/neapolitan-riviera/piano-di-sorrento/hotels/tui-blue-nastro-azzurro.html
-way	749285010	https://villaflore.it
 way	997977627	http://www.agriturismoziocristoforo.com/
 way	1025270923	https://www.fondazionefs.it/content/fondazionefs/it/esplora-il-museo/visita-pietrarsa.html
 way	1031137500	https://www.vesevus.it/
@@ -4697,6 +4710,7 @@ way	1323904669	https://www.nitrodi.com/
 way	1324177310	https://www.mezzatorre.com/
 way	1340342349	https://parrocchiadisanbenedetto.it/
 way	1353651229	https://www.comune.carinaro.ce.it/it-it/linea-diretta/scrivici
+way	1353658178	http://www.ischiacampingpaluba.it/camping.html
 way	1381719045	http://www.parchicommercialialice.it/i-parchi-commerciali-alice
 way	1384056894	https://www.rinaldo.it/
 way	1394480691	https://www.villapuntapennata.it
@@ -4714,6 +4728,8 @@ way	1474386385	https://www.campinglariva.it/
 way	1474647396	https://www.camperstoplagomare.it/
 way	1474712890	https://campingipini.com/
 way	1474779012	https://www.campingdesiderio.com/
+way	1486850766	https://www.albacamping.com/
+way	1486850773	https://www.torredivelia.it/
 relation	14434407	https://www.wwf.it/oasi/campania/lago_di_campolattaro/
 relation	14635178	https://www.parcoregionaledelmatese.it/
 node	68581547	www.ravello.com
