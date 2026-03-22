@@ -1,7 +1,6 @@
 @type	@id	website
 node	26860542	https://baiasaraceno.it/
 node	26860544	https://www.selemacamping.com/
-node	26860549	http://www.campeggiotorrechia.it/
 node	72990657	http://www.comune.cagliari.it/portale/
 node	72990702	http://www.comune.carbonia.ci.it/urbiportal/home.html
 node	72990724	http://www.comune.sanluri.vs.it/
@@ -759,6 +758,7 @@ node	3275216649	www.pitzeria.it
 node	3275216878	http://www.automania-oristano.com/
 node	3275217022	https://ilfornaiodiangelopiras.it/
 node	3275217258	http://www.sistelinformatica.it/
+node	3275217459	http://www.cgiloristano.it
 node	3275217465	http://www.countryroads.altervista.org/
 node	3275217505	http://www.spicchiopizza.it/
 node	3275217695	https://www.fllimarchi.com/
@@ -1027,7 +1027,6 @@ node	4353560961	https://www.pasticcerialoiolbia.com/
 node	4364718369	http://www.isresardegna.it
 node	4364974410	http://www.isresardegna.it
 node	4366976717	http://www.isresardegna.it
-node	4377348314	www.arabax.it/
 node	4377492376	https://www.museodellemaschere.it/mater/
 node	4377587800	https://www.facebook.com/pages/category/Pizza-Place/Kopof%C3%A0-paninoteca-pizzeria-104435124243367/
 node	4388341836	https://www.museonivola.it/
@@ -2028,12 +2027,18 @@ node	13586497991	https://www.prolocosedilo.it/
 node	13586497996	https://danielesanna.it
 node	13592194083	https://www.sfg-stellamaris.com
 node	13592194085	https://www.sacrocostato.it/scuola/
-node	13606474679	www.bnbguacamayo.com
+node	13606474679	https://www.bnbguacamayo.com/
 node	13615386586	https://www.lalumacagesico.it
 node	13622509202	https://www.utensileriasarda.eu/
 node	13624812601	https://www.sardegnapalestina.org/
 node	13634265730	https://www.vathel.com/residenzaculturalearmungia
-node	13647339302	http://www.cgilsassari.it
+node	13647339302	https://www.cgilsassari.it/
+node	13649398901	https://cgil-nuoro.it/
+node	13649510701	http://www.asloristano.it
+node	13649519802	https://www.asl5oristano.it/
+node	13649858502	http://www.inca.it
+node	13649873701	http://www.filleacgil.it
+node	13659019301	https://questure.poliziadistato.it/it/servizio/orari/5730dc9d14fed007295896
 way	23937282	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179224
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
@@ -2953,6 +2958,7 @@ way	1474144727	https://campingirasole.it
 way	1475302681	https://gonnosfanadiga.scuolacottolengo.org
 way	1482143896	http://www.liceodecastro.gov.it/
 way	1488883762	https://www.comprensivosenorbi.edu.it/
+way	1491014968	http://www.campeggiotorrechia.it/
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3487,7 +3493,7 @@ relation	15648708	www.camminosantujacu.it
 relation	15648733	www.camminosantujacu.it
 relation	15648924	www.camminosantujacu.it
 relation	15649055	www.camminosantujacu.it
-relation	15649225	www.camminosantujacu.it
+relation	15649225	https://www.camminosantujacu.it
 relation	15652565	www.camminosantujacu.it
 relation	15652866	www.camminosantujacu.it
 relation	15655017	http://www.camminando.eu/wordpress/?page_id=59
@@ -3600,11 +3606,11 @@ relation	20000530	https://www.unionecoros.it/perledelcoros/usini/corte-di-casa-d
 relation	20048810	https://www.sardegnasentieri.it/sentiero/centro-abitato-di-jerzu-localita-porcu-e-ludu-c-206
 relation	20051032	https://www.sardegnasentieri.it/node/4811
 relation	20051994	https://www.sardegnasentieri.it/node/3881
-relation	20202976	www.camminosantujacu.it
+relation	20202976	https://www.camminosantujacu.it
 relation	20203080	www.camminosantujacu.it
-relation	20203419	www.camminosantujacu.it
-relation	20203460	www.camminosantujacu.it
-relation	20203516	www.camminosantujacu.it
+relation	20203419	https://www.camminosantujacu.it
+relation	20203460	https://www.camminosantujacu.it
+relation	20203516	https://www.camminosantujacu.it
 relation	20207239	www.camminosantujacu.it
 relation	20207240	www.camminosantujacu.it
 relation	20207282	www.camminosantujacu.it
