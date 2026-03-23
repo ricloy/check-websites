@@ -4,7 +4,6 @@ MISSING_URI_SCHEME  charset=utf-8" lang="en"/>
 MISSING_URI_SCHEME  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN
 MISSING_URI_SCHEME  </body>
 MISSING_URI_SCHEME  </head>
-CLIENT_ERROR_(400…499) 400  http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 MISSING_URI_SCHEME  </html>
 MISSING_URI_SCHEME  <?xml version="1.0" encoding="UTF-8"?>
 MISSING_URI_SCHEME  <body>
@@ -12,25 +11,26 @@ MISSING_URI_SCHEME  <head>
 MISSING_URI_SCHEME  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 MISSING_URI_SCHEME  <p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
 MISSING_URI_SCHEME  <p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+CLIENT_ERROR_(400…499) 400  http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1076684944 http://www.lidolalampara-termoli.it/
-REDIRECTION_(300…399) 301 https://osm.org/browse/way/1076684938 http://www.lidosirene.it/ → https://www.lidosirene.it/
 SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/way/451040903 http://www.villaggioazzurra.it/ → /it/
-COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1077536773 https://lidobalneare.termoli.cb.it/
-SERVER_ERROR_(500…599) 503 https://osm.org/browse/node/12115891441 https://gustusristorante.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1076684935 https://ildelfino.wordpress.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1077536773 https://lidobalneare.termoli.cb.it/
 CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/1076684940 https://lidolaperlatermoli.business.site/
+SERVER_ERROR_(500…599) 503 https://osm.org/browse/node/12115891441 https://gustusristorante.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1076684927 https://www.calasveva.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/639116664 https://www.lianna.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/193450242 https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-archeologica-di-altilia-saepinum
-SUCCESS_(200…299) 200 https://osm.org/browse/way/1077536770 https://www.lidolapiovra.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1076684945 https://www.lidomistral.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1076684938 http://www.lidosirene.it/ → https://www.lidosirene.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/261652608 https://www.m2movement.it/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/444881071 https://www.maronda.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/639116664 https://www.lianna.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/12841615318 https://www.molisewow.com/borgodellefonti
+SUCCESS_(200…299) 200 https://osm.org/browse/way/444881071 https://www.maronda.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/691090792 https://www.oasidellemainarde.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/node/10769105353 https://www.museionline.info/musei/museo-di-storia-naturale-della-valle-del-fortore
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1077536770 https://www.lidolapiovra.com/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/1056651661 https://www.rivazzurrahomes.it
 SUCCESS_(200…299) 200 https://osm.org/browse/way/261211563 https://www.santamariadellastradacb.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/193651509 https://www.parcosepino.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/relation/14635178 https://www.parcoregionaledelmatese.it/
 SUCCESS_(200…299) 200 https://osm.org/browse/way/561057676 https://www.smeraldocampingvillage.com/
-SUCCESS_(200…299) 200 https://osm.org/browse/way/193651509 https://www.parcosepino.it/
