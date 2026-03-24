@@ -309,7 +309,6 @@ node	10009106269	https://histoiredebornes.ch
 node	10009106270	https://histoiredebornes.ch
 node	10009106271	https://histoiredebornes.ch
 node	10009128933	https://www.randonneurmb.com/ristorante
-node	10013781046	https://www.grandcombin.vda.it
 node	10076371041	https://www.cogne.com/
 node	10229318541	https://www.airbnb.it/rooms/51124758
 node	10230965814	https://www.facebook.com/AuPotagerNicoletta/
@@ -348,7 +347,6 @@ node	11202298421	https://www.repower.com/it/dina/
 node	11227977959	https://www.hotelmonteemilius.com/
 node	11253391257	http://maisondunoyer.com/
 node	11333524652	https://www.lebouquetaosta.it/
-node	11350961345	https://www.repower.com/dina/
 node	11350982873	https://www.repower.com/dina/
 node	11374126360	http://www.bb-montmars.com
 node	11405487051	https://www.pitstopcervinia.it
@@ -424,6 +422,9 @@ node	13455677923	https://www.giulianabianchedi.it/
 node	13467894382	https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/139-bivacco-lorenzo-borelli
 node	13509949629	https://www.eivavie.com/
 node	13555714271	https://hotelalpiolet.com/ristorante/
+node	13654164606	https://montavic.it/
+node	13661404304	https://www.facebook.com/fitzroygressoney/
+node	13664505457	https://www.vigilfuoco.it/sedi-vvf/distaccamento-volontari-vvf-di-aosta-gignod
 way	27264184	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264185	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	27264187	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -617,7 +618,6 @@ way	117846477	https://www.comune.brusson.ao.it/it-it/vivere-il-comune/dove-dormi
 way	118079558	https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/verres/castello-di-verres/864
 way	119555456	https://www.lovevda.it/it/banca-dati/8/architettura-romana/aosta/teatro-romano/736
 way	120556374	https://www.lovevda.it/it/banca-dati/8/castelli-e-torri/chatillon/castello-di-ussel/809
-way	120585921	https://www.lovevda.it/it/banca-dati/8/parchi-e-riserve/champorcher/centro-visitatori-del-parco-regionale-del-mont-avic-champorcher/1928
 way	120676716	https://www.blumental.it/
 way	120778625	https://www.campingmargherita.com/
 way	125499916	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -657,7 +657,10 @@ way	138118136	https://www.lovevda.it/it/banca-dati/7/bivacchi/oyace/bivacco-la-l
 way	143213679	https://www.maisondubonmegnadzo.com
 way	144122532	https://www.campingbarpineta.it
 way	145518348	https://www.lovevda.it/it/banca-dati/8/chiese-e-santuari/etroubles/chiesa-parrocchiale-di-santa-maria-assunta/771
+way	146851693	https://www.grandcombin.vda.it
+way	146851832	https://www.lovevda.it/it/banca-dati/5/salute/gignod/consultorio-di-variney/4727
 way	146851840	https://www.chezduclos.com/
+way	146851843	https://www.piscinavariney.it/
 way	147172024	https://www.rifugiobenevolo.com/
 way	147187152	http://bivaccolucareboulaz.weebly.com/
 way	147428208	https://www.clubalpinoaccademico.it/index.php/bivacchi/item/147-bivacco-cesare-fiorio
@@ -971,6 +974,7 @@ way	1457882986	https://www.campeggioduparc.com/
 way	1469635398	https://tribunale-aosta.giustizia.it/
 way	1473296179	https://www.hoteldianaaosta.com/index.php/it/
 way	1475491386	www.cerviniaholiday.com
+way	1490967328	https://www.ellexhotel.it/
 relation	7407	https://hautesavoie.fr/
 relation	124582	https://www.viefrancigene.org/
 relation	162371	https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/cogne-rifugio-sogno-di-berdze/2974
@@ -1070,6 +1074,8 @@ relation	17010467	https://www.vivavda.it/aree/area_i.aspx?area=6&n=Riserva%20nat
 relation	19452591	https://www.visitcogne.it
 relation	20249738	https://www.valrando.ch/fr/propositions-de-randonnees/2726/Alptrekking-3
 relation	20249740	https://www.valrando.ch/fr/propositions-de-randonnees/2724/Alptrekking-1
+relation	20353802	https://www.lalibellula.info/servizi/prima-infanzia/asilo-nido-di-variney/
+relation	20353803	https://www.gcombin.edu.it/luoghi?id=143
 node	299232222	http://www.hotelleriedemascognaz.com/
 node	353049781	https://rifugioarp.com/
 node	353049803	www.rifugioguidefrachey.it
