@@ -1191,6 +1191,10 @@ node	13585813994	https://www.cassaedilepg.it/
 node	13585813995	https://www.cesf.pg.it/
 node	13602543738	https://www.bandamusicale.it/bande/italia/umbria/perugia/spoleto/spoleto.php
 node	13639891901	https://www.agallocolors.com/
+node	13685084550	https://www.omnicomprensivoorsiniamelia.edu.it/luogo/plesso-via-del-mattatoio/
+node	13685084551	https://www.omnicomprensivoorsiniamelia.edu.it/luogo/plesso-infanzia-angelo-ciatti/
+node	13685084552	https://www.omnicomprensivoorsiniamelia.edu.it/
+node	13686506086	https://www.umbria.camcom.it/la-camera/sale-camerali/centro-servizi-galeazzo-alessi-perugia
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30110992	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
@@ -1277,6 +1281,7 @@ way	174970797	https://www.comune.gubbio.pg.it/turismo/mausoleo-di-pomponio-greci
 way	176327011	https://www.emisfero.eu/ipermercato-perugia/promozioni/it
 way	176335219	https://www.listro.it/
 way	176589640	http://musei.beniculturali.it/musei?mid=4673&nome=teatro-romano-e-antiquarium-di-gubbio
+way	177083019	https://www.comune.perugia.it/luogo/palazzo-donini/
 way	177687147	https://www.fontemaggio.it/
 way	177727322	http://www.fontemaggio.it/hotel.htm
 way	194299532	https://www.comune.spoleto.pg.it/servizi/polizia-mortuaria/servizi-cimiteriali/
@@ -1299,6 +1304,7 @@ way	222174104	https://www.comune.spoleto.pg.it/turismoecultura/the-city/churches
 way	222264179	https://www.vigilfuoco.it/sitiVVF/perugia/
 way	222603424	http://www.alessandrelli.eu/
 way	222747709	https://www.sibillini.net/chiedi_sibilla/areeCamper/preci_borgo_garibaldi/
+way	224090347	https://www.omnicomprensivoorsiniamelia.edu.it/luogo/sede-centrale/
 way	224748296	https://www.mulinaccino.it/
 way	224748301	https://www.torrebisenzio.com/
 way	225080564	http://www.casasereni.it/
@@ -1898,7 +1904,8 @@ way	1220822573	https://www.cityhotelfoligno.com/
 way	1224812932	http://www.chiaraebenedetta.com/index.html?i=1
 way	1225718509	https://www.direzionedidatticabastia.edu.it/scuola/primaria-xxv-aprile/
 way	1227004656	https://www.paesaggiumbri.info/
-way	1230487177	https://www.ioderuta.edu.it
+way	1230917397	https://www.ioderuta.edu.it/
+way	1231260895	https://www.ioderuta.edu.it/
 way	1238882995	https://johnpatersontodi.com/
 way	1243314391	https://m.iluoghidelsilenzio.it/articolo.html?id=chiesa-di-san-michele-arcangelo-molini-di-sellano&title=Chiesa%20di%20San%20Michele%20Arcangelo%20-%20Molini%20di%20Sellano
 way	1243314397	https://m.iluoghidelsilenzio.it/articolo.html?id=chiesa-di-santa-maria-assunta-orsano&title=Chiesa%20di%20Santa%20Maria%20Assunta%20-%20Orsano
@@ -2192,6 +2199,20 @@ relation	18621928	https://camminilauretani.eu/
 relation	18621929	https://camminilauretani.eu/
 relation	18621930	https://camminilauretani.eu/
 relation	19556968	https://liveorvieto.com/blog/monumenti/castello-di-madonna-antonia/
+relation	20366423	https://www.camminopietrabianca.it
+relation	20367298	https://www.camminopietrabianca.it
+relation	20367399	https://www.camminopietrabianca.it
+relation	20367423	https://www.camminopietrabianca.it
+relation	20367442	https://www.camminopietrabianca.it
+relation	20367454	https://www.camminopietrabianca.it
+relation	20367489	https://www.camminopietrabianca.it
+relation	20367513	https://www.camminopietrabianca.it
+relation	20367548	https://www.camminopietrabianca.it
+relation	20367564	https://www.camminopietrabianca.it
+relation	20367645	https://www.camminopietrabianca.it
+relation	20367664	https://www.camminopietrabianca.it
+relation	20367677	https://www.camminopietrabianca.it
+relation	20367780	https://www.camminopietrabianca.it
 node	1232632410	http://www.pizzeriapozzoromano.com
 node	1635117842	https://www.agriturismoleburgne.it/
 node	1800250074	http://musei.beniculturali.it/musei?mid=472&amp;nome=necropoli-etrusca-crocifisso-del-tufo
