@@ -607,6 +607,7 @@ node	13473038725	https://www.italiamappata.it/basilicata/pz/551-paoladoce/
 node	13473038763	https://www.italiamappata.it/basilicata/pz/173-canarra/
 node	13478695266	https://www.italiamappata.it/basilicata/pz/632-san-donato/
 node	13665528799	https://wildcardsmarket.com/
+node	13684573401	http://www.la-scorzetta.it
 way	33887443	http://musei.beniculturali.it/musei?mid=68&nome=museo-archeologico-nazionale-di-metaponto
 way	33887449	https://museometaponto.beniculturali.it/tempio-delle-tavole-palatine/
 way	61114412	https://www.stradeanas.it/it/le-strade/la-rete-anas
@@ -896,6 +897,7 @@ relation	19561803	https://camminomaterano.it/via/6/via-lucana
 relation	19561805	https://camminomaterano.it/via/6/via-lucana
 relation	19561810	https://camminomaterano.it/via/6/via-lucana
 relation	20289247	https://www.basilicataturistica.it/scopri-la-basilicata/arte-e-cultura-in-basilicata/castelli-della-basilicata/il-castello-di-venosa/
+relation	20378633	https://fri-el.it
 node	1325468665	http://www.farmaciafigliola.it
 node	2217378718	https://www.fornosorellepalese.it
 node	2683140503	www.parkhotelpotenza.com
@@ -999,15 +1001,18 @@ way	1457456684	https://www.caseinautogestione.it/it/m-dettaglio-casa.php?hid=119
 relation	3534125	https://www.liceoscientificomatera.edu.it/
 relation	16284930	http://www.icnovasiri.edu.it/
 relation	16529663	https://museometaponto.beniculturali.it/
-node	1893135959	http://www.lagiaramaratea.it/
-node	1895052179	http://www.sanmarcoagriturismo.it/
-node	3583367906	http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/PZMM880015/l-la-vista-pz/
-node	11410362739	https://www.policoro.basilicata.it/
-way	1230386602	http://www.comune.novasiri.mt.it
-relation	17785838	https://appenninobiketour.com/percorso/
-relation	17786022	https://appenninobiketour.com/percorso/
-relation	17788952	https://appenninobiketour.com/percorso/
-relation	17789255	https://appenninobiketour.com/percorso/
-relation	17789815	https://appenninobiketour.com/percorso/
-relation	17789897	https://appenninobiketour.com/percorso/
-relation	19985814	sitasudtrasporti.it
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
+
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
+
+</body>
+</html>
