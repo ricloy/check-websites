@@ -101,6 +101,7 @@ node	504657838	https://fondoambiente.it/luoghi/antica-barberia-giacalone
 node	504923645	https://www.ristorantesantateresagenova.it/
 node	506626158	http://www.virgoclub.com/
 node	511193427	http://lacollettaristorante.com
+node	533642585	https://ilcantinone-genova.com/
 node	534814385	https://www.suite1906.it/
 node	537687863	https://www.bancaetica.it/filiale/filiale-di-genova/
 node	538899391	https://www.puntottica.it/
@@ -419,7 +420,6 @@ node	2297335593	http://www.pasticceriapoldo.it/
 node	2297335594	http://www.borgovecchiopizzeria.it/
 node	2297512913	https://www.gruppoapi.com/ricerca-stazioni-servizio/station/45837
 node	2298340336	https://www.facebook.com/pg/pasticceriascalvini/about/?ref=page_internal
-node	2299779301	www.dammideltugenova.it
 node	2302202099	https://retelimet.centrometeoligure.it/meteo-pratorotondo/pratocam/pratocam.php
 node	2304263443	https://www.enel.it/punto-enel/
 node	2304263464	https://www.enel.it/punto-enel/
@@ -515,6 +515,7 @@ node	2438131693	www.citymessage.it
 node	2439486150	https://www.marinaplace.it/
 node	2449860864	www.citymessage.it
 node	2449867138	www.citymessage.it
+node	2452087190	https://www.baiahotel.it/
 node	2454619208	https://www.ilnegoziettodelgelato.it/
 node	2456108488	https://www.sciorba.it/home.html
 node	2460524555	www.citymessage.it
@@ -949,6 +950,7 @@ node	4195633768	https://www.osteriainferno.it/
 node	4200470837	www.crcsertoli.net
 node	4200805386	https://www.pizzeriamondopizza.com/
 node	4200955674	https://www.alsantandrea.com/sito/
+node	4201921642	https://residencedellangelo.it
 node	4206935492	https://apiedema.it
 node	4208087610	https://www.parcoantola.it/dettaglio.php?id=32549
 node	4208092189	http://www.altavaltrebbia.net/strutture/ristoranti-trattorie-e-pizzerie/631-cresci-valentina.html
@@ -2866,6 +2868,10 @@ node	13646094924	https://www.ateliermaisonam.it
 node	13651674039	https://studioilcondominio.webnode.it/
 node	13663384306	https://www.dafox.it/
 node	13665764277	https://pastificiovogliadisfoglia.com/
+node	13680397683	https://www.conad.it/ricerca-negozi/pet-store-conad-via-maralunga-snc-19100-la-spezia--050948
+node	13680397684	https://www.conad.it/ricerca-negozi/conad-via-maralunga-snc-19100-la-spezia--010760
+node	13683083944	https://www.i99olivi.com
+node	13683083961	https://www.i99olivi.com
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -6657,6 +6663,7 @@ way	1484476320	https://climbook.com/falesie/27927/valle-di-rian-cornei-gonika
 way	1484476321	https://climbook.com/falesie/27380/valle-di-rian-cornei-falesia-del-capricorno
 way	1484476322	https://climbook.com/falesie/27360/valle-di-rian-cornei-falesia-del-leone
 way	1484476323	https://
+way	1494191393	https://climbook.com/falesie/27363/borgio-verezzi-arene-candide-caprazoppa-antro-dei-pirati
 relation	42641	http://www.cartografiarl.regione.liguria.it/mapfiles/repertoriocartografico/CONFINI/56.asp?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3
 relation	42663	http://www.cartografiarl.regione.liguria.it/mapfiles/repertoriocartografico/CONFINI/56.asp?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3
 relation	42681	http://www.dolceacqua.it/
