@@ -944,7 +944,7 @@ node	4209773494	https://www.supersigma.com/
 node	4209792091	https://www.sardegnasummer.it/residence-case-affitto-a-san-teodoro-sardegna-de.html
 node	4209885893	https://www.crai-supermercati.it/
 node	4209902355	http://e-coop.it
-node	4211435292	https://www.hotelvilladelgolfo.com/
+node	4211435292	https://www.aethos.com/destinations/sardinia
 node	4211442689	www.trattoriailgambero.it
 node	4213453789	https://www.conad.it/ricerca-negozi/negozio.010168.html
 node	4213506489	https://www.supermercatipan.it/
@@ -1297,6 +1297,7 @@ node	5599110928	https://www.ex-animo.it/
 node	5600392475	https://www.hotelispinigoli.it/
 node	5615152823	https://www.sardovagando.com/
 node	5632299281	https://www.gruppovege.it
+node	5633191348	https://www.ksrentsardinia.com/
 node	5635362206	https://www.gruppovege.it
 node	5729920781	https://greenshare.it/
 node	5731826206	http://www.portocontericerche.it/
@@ -2039,8 +2040,8 @@ node	13649858502	http://www.inca.it
 node	13649873701	http://www.filleacgil.it
 node	13659019301	https://questure.poliziadistato.it/it/servizio/orari/5730dc9d14fed007295896
 node	13673119501	https://www.istitutoamsicora.edu.it/
-node	13686377548	https://www.thecrag.com/en/climbing/italy/sardinia/canyon
 node	13686531239	https://www.muasinnai.com
+node	13703824682	https://enermed.it/
 way	23937282	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179224
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
@@ -2569,6 +2570,7 @@ way	297853615	https://www.albergosantamaria.it/
 way	298042079	https://www.campingultimaspiaggia.it/
 way	298056139	http://www.agriturismocirratertenia.com
 way	298072840	https://www.stazionedellarte.com/
+way	298073464	https://sumarmuri.it
 way	298115326	https://www.funtanaena.it/
 way	298115662	https://www.icilbono.edu.it/
 way	298132955	https://www.ilnidodellaquila.com/
@@ -2649,7 +2651,6 @@ way	319199440	http://www.sardegnadigitallibrary.it/index.php?xsl=626&id=136728
 way	319212352	https://www.spinnakervacanze.com/
 way	319278816	https://www.eurospin.it/
 way	319835535	https://www.comune.ozieri.ss.it/index.php?pagina=mon_nuraghe_sa_mandra
-way	319984654	http://www.icmonastir.gov.it/
 way	320168545	http://www.evaristiani.it/
 way	320234966	https://www.agriturismoarchelao.it/
 way	320234967	https://www.satanchitta.it/
@@ -2889,6 +2890,7 @@ way	1043755653	https://www.rinascente.it/it/store-cagliari
 way	1056704326	https://www.sardegnatermale.it/
 way	1061325600	https://fatzendafactory.eatbu.com/
 way	1064330219	http://www.campingcaladambra.com/
+way	1089812964	https://www.campingtorredibarisardo.com/
 way	1090857416	https://www.ristorantearagona.com
 way	1090905705	https://www.campingcaladostia.com/
 way	1101782892	https://www.sardegnavventura.com
@@ -2924,7 +2926,6 @@ way	1313553766	https://www.asl1sassari.it/strutture/farmacia-territoriale-di-sas
 way	1315007087	https://www.tenutanaturale.it/
 way	1315269560	https://baiasaraceno.it/
 way	1315273600	https://www.supinnettu.it/
-way	1321671492	https://www.thecrag.com/climbing/italy/sardinia/jerzu-area/area/1645832697
 way	1327093214	https://www.thecrag.com/climbing/italy/sardinia/cala-fuili/area/14151631
 way	1336959319	https://www.sardegnaforeste.it/struttura-territoriale/vedetta-sena-tunda
 way	1340048233	https://www.hotelpaolacarloforte.it/
@@ -3509,8 +3510,6 @@ relation	15666869	http://www.camminando.eu/wordpress/?page_id=59
 relation	15667061	http://www.camminando.eu/wordpress/?page_id=59
 relation	15667213	http://www.camminando.eu/wordpress/?page_id=59
 relation	15667312	http://www.camminando.eu/wordpress/?page_id=59
-relation	15667313	http://www.camminando.eu/wordpress/?page_id=59
-relation	15667314	http://www.camminando.eu/wordpress/?page_id=59
 relation	15667315	http://www.camminando.eu/wordpress/?page_id=59
 relation	15667316	http://www.camminando.eu/wordpress/?page_id=59
 relation	15672024	http://www.camminando.eu/wordpress/?page_id=59
@@ -3553,9 +3552,6 @@ relation	15736826	http://www.camminando.eu/wordpress/?page_id=59
 relation	15736928	http://www.camminando.eu/wordpress/?page_id=59
 relation	15737069	http://www.camminando.eu/wordpress/?page_id=59
 relation	15737206	http://www.camminando.eu/wordpress/?page_id=59
-relation	15737339	http://www.camminando.eu/wordpress/?page_id=59
-relation	15737408	http://www.camminando.eu/wordpress/?page_id=59
-relation	15737447	http://www.camminando.eu/wordpress/?page_id=59
 relation	15887263	https://villaggionormann.it/
 relation	17164214	http://www.camminando.eu/wordpress/?page_id=59
 relation	17349923	https://www.sardegnasentieri.it/sentieri/lalta-del-linas-d-100
@@ -3615,7 +3611,7 @@ relation	20203419	https://www.camminosantujacu.it
 relation	20203460	https://www.camminosantujacu.it
 relation	20203516	https://www.camminosantujacu.it
 relation	20207239	www.camminosantujacu.it
-relation	20207240	www.camminosantujacu.it
+relation	20207240	https://www.camminosantujacu.it
 relation	20207282	www.camminosantujacu.it
 relation	20207336	www.camminosantujacu.it
 relation	20207357	www.camminosantujacu.it
@@ -3624,7 +3620,8 @@ relation	20207780	www.camminosantujacu.it
 relation	20211498	www.camminosantujacu.it
 relation	20211499	www.camminosantujacu.it
 relation	20211535	www.camminosantujacu.it
-relation	20212078	www.camminosantujacu.it
+relation	20212078	https://www.camminosantujacu.it
+relation	20410411	https://openclimbing.org/relation/20410411
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
