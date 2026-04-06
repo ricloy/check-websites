@@ -1001,18 +1001,15 @@ way	1457456684	https://www.caseinautogestione.it/it/m-dettaglio-casa.php?hid=119
 relation	3534125	https://www.liceoscientificomatera.edu.it/
 relation	16284930	http://www.icnovasiri.edu.it/
 relation	16529663	https://museometaponto.beniculturali.it/
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
-
-</body>
-</html>
+node	1893135959	http://www.lagiaramaratea.it/
+node	1895052179	http://www.sanmarcoagriturismo.it/
+node	3583367906	http://cercalatuascuola.istruzione.it/cercalatuascuola/istituti/PZMM880015/l-la-vista-pz/
+node	11410362739	https://www.policoro.basilicata.it/
+way	1230386602	http://www.comune.novasiri.mt.it
+relation	17785838	https://appenninobiketour.com/percorso/
+relation	17786022	https://appenninobiketour.com/percorso/
+relation	17788952	https://appenninobiketour.com/percorso/
+relation	17789255	https://appenninobiketour.com/percorso/
+relation	17789815	https://appenninobiketour.com/percorso/
+relation	17789897	https://appenninobiketour.com/percorso/
+relation	19985814	sitasudtrasporti.it
