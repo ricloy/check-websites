@@ -1,3 +1,4 @@
+@type	@id	website
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -13,22 +14,6 @@
 
 </body>
 </html>
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
-
-</body>
-</html>
-node	62510124	http://italia.indettaglio.it/ita/lombardia/trezzone.html
 node	62513742	http://italia.indettaglio.it/ita/lombardia/misinto.html
 node	62514371	http://italia.indettaglio.it/ita/lombardia/zibidosangiacomo.html
 node	62514689	https://www.giorgioweb.com/
@@ -94,7 +79,6 @@ node	847764459	http://italia.indettaglio.it/ita/lombardia/pavia_torrevecchiapia_
 node	902764653	http://italia.indettaglio.it/ita/lombardia/sondrio_novatemezzola_codera.html
 node	994006624	http://italia.indettaglio.it/ita/lombardia/como_geralario_stallonevenini.html
 node	1057869109	http://italia.indettaglio.it/ita/lombardia/sondrio_madesimo_montespluga.html
-node	1062891979	http://italia.indettaglio.it/ita/lombardia/sondrio_madesimo_isola.html
 node	1077443511	http://pavia.autoguidovie.it
 node	1301164938	https://anagrafe.iccu.sbn.it/isil/IT-MI0105
 node	1315131555	https://anagrafe.iccu.sbn.it/isil/IT-VA0095;http://www.comune.origgio.va.it/aree-tematiche/4/14/biblioteca-comunale
@@ -722,7 +706,6 @@ relation	2347228	http://wiki.openstreetmap.org/wiki/Campo_dei_Fiori
 relation	2349419	http://www.parcocampodeifiori.it/download.aspx?filename=files/3826_guidasent14.doc
 relation	2364256	http://wiki.openstreetmap.org/wiki/Campo_dei_Fiori
 relation	2372652	http://www.parcocampodeifiori.it/download.aspx?filename=files/3828_guidasent15.doc
-relation	3208694	http://www.clubsangottardo.ch
 relation	3488069	http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14486
 relation	3498299	http://www.skiareavalchiavenna.it
 relation	5282394	http://www.lombardiabeniculturali.it/architetture/schede/MI100-07259/
