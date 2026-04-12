@@ -457,6 +457,7 @@ node	1589467393	https://www.nonnaisa.com/node/294
 node	1593356518	http://museoatzori.altervista.org/
 node	1595267543	http://www.leginestrehotel.com/
 node	1607410477	https://www.rfi.it/it/stazioni/golfo-aranci.html
+node	1609061891	https://www.mdspa.it/punti-vendita/Sardegna/OR-Oristano/297-Bosa/
 node	1609789959	http://www.trattoriamammamia.com/
 node	1609792234	https://pizzeriadabastiano.wixsite.com/dabastiano
 node	1609792829	https://www.meloniefresu.com/
@@ -2042,6 +2043,7 @@ node	13659019301	https://questure.poliziadistato.it/it/servizio/orari/5730dc9d14
 node	13673119501	https://www.istitutoamsicora.edu.it/
 node	13686531239	https://www.muasinnai.com
 node	13703824682	https://enermed.it/
+node	13708990401	http://www.rurinnova.com
 way	23937282	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179224
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
@@ -2538,7 +2540,7 @@ way	296382342	https://www.fortevillageresort.com/ru/hotels-suites/il-castello/
 way	296388911	https://villa-bettina.de
 way	296391112	http://www.villamargheritaperdesali.com/
 way	296391319	https://www.booking.com/hotel/it/villa-adelina-porto-columbu-perd-e-sali.html
-way	296398389	https://www.comune.villasanpietro.ca.it/
+way	296398499	https://www.comune.villasanpietro.ca.it/
 way	296401919	https://www.crareluna.it/
 way	296547757	https://vitivinicolaetzo.it/
 way	296547799	https://www.comune.sorgono.nu.it/
@@ -3619,8 +3621,9 @@ relation	20207734	www.camminosantujacu.it
 relation	20207780	www.camminosantujacu.it
 relation	20211498	www.camminosantujacu.it
 relation	20211499	www.camminosantujacu.it
-relation	20211535	www.camminosantujacu.it
+relation	20211535	https://www.camminosantujacu.it
 relation	20212078	https://www.camminosantujacu.it
+relation	20401096	https://openclimbing.org/relation/20401096
 relation	20410411	https://openclimbing.org/relation/20410411
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
