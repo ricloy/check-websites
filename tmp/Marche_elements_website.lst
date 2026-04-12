@@ -139,6 +139,7 @@ node	845275811	https://www.botanicgroup.it/botanic-pesaro/
 node	845275833	https://www.lindberghhotels.com/it/charlie-in-pesaro/index
 node	845275839	https://www.hotel-caravelle.net/
 node	847030599	https://www.locandacircoloippico.it/
+node	848167403	https://www.farmaciacomunalechiaravalle.it/
 node	869946291	https://www.ceraunavolta-ps.com/
 node	871077749	https://www.trattoriaconerello.com/
 node	877038855	https://www.labottegadibruno.com/
@@ -614,7 +615,6 @@ node	3995449152	https://pizzeriadaberto.it/
 node	4003722594	https://www.reverde.it/
 node	4003744551	http://www.mengustas.it
 node	4006112902	https://linktr.ee/fumodimoka
-node	4009453619	http://www.dagustinell.it/
 node	4012970438	https://nikosabbigliamento.it/
 node	4012970439	https://www.mysticpizza-urbino.it/
 node	4012970441	https://www.hotelpierodellafrancesca.net/
@@ -1156,7 +1156,7 @@ node	9043404449	https://anticofurlo.it/
 node	9045446728	https://www.libreriausato.info
 node	9045647147	https://www.avis.it/it/comunale-di-acqualagna
 node	9054307287	http://www.museotartufoacqualagna.it
-node	9054765414	http://www.cgilpesaro.it
+node	9054765414	https://www.cgilpesaro.it/
 node	9060812757	http://www.tartufidiacqualagna.it
 node	9077061653	http://www.km42runningfitness.it/
 node	9079149413	https://www.popcafecamerino.com/
@@ -2339,11 +2339,12 @@ node	13652384746	https://ghotelancona.it/
 node	13652918133	https://bilionairemacao.com/
 node	13652918134	https://ristorantenagoya.it/
 node	13658162963	https://www.skatepassion.it
-node	13664092601	http://bibliotecacontrovento.it
+node	13664092601	https://bibliotecacontrovento.it/
 node	13665938192	https://www.bangkokpesaro.it/
 node	13690730670	https://birrificiobaiaflaminia.it/
 node	13692395544	https://fondoambiente.it/luoghi/casa-di-mario-dondero?ldc=
-node	13703236803	http://www.verdenaturale.it
+node	13703236803	https://www.verdenaturale.it/
+node	13714412343	http://cislmarche.it/
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2432,7 +2433,7 @@ way	128870344	http://www.tartabini.com/
 way	129414301	https://www.amadeihotel.it/hotel-figaro
 way	129416671	https://www.comune.pesaro.pu.it/
 way	129478769	https://www.liceomamianipesaro.edu.it
-way	129478789	http://www.icgaudianopesaro.edu.it
+way	129478789	https://www.icgaudianopesaro.edu.it/
 way	129894749	https://acquambientemarche.it/azienda/impianti-gestiti/impianto-di-depurazione-villa-poticcio/
 way	132860178	http://www.mxreddevil.it/
 way	135174127	https://store.terranovastyle.com/it/italia/marche/senigallia/terranova-314
@@ -2548,6 +2549,7 @@ way	304155991	https://pelletteriaflora.it/
 way	304156148	https://www.tbcom.it/
 way	304160349	https://www.villanena.it/
 way	304168167	https://www.iluoghidelsilenzio.it/chiesa-del-sacro-cuore-di-gesu-tolentino-mc/
+way	304207690	https://www.vedoacolori.it
 way	304239889	https://h-delaville.it/
 way	304353038	https://www.comune.grottammare.ap.it/biblioteca-comunale/
 way	304359528	http://www.villafioritagrottammare.it
@@ -3122,6 +3124,7 @@ way	1323359887	https://avalonpizzeria.it/home/
 way	1324448675	https://www.comune.vallefoglia.pu.it/
 way	1328478904	http://www.countryhousefederico.it/
 way	1328747901	https://www.sibillini.net/primoPiano/eventi/2016/09_sisma/index.php
+way	1329914912	https://www.icspiandelbruscolo.edu.it/categoria/i-luoghi/5432/primaria-padiglione/
 way	1330475644	https://www.sassoferratoturismo.it/stagione-di-prosa/
 way	1332746399	https://crisassoferrato.it/
 way	1333185200	https://www.elmocamp.it/
@@ -3205,6 +3208,9 @@ way	1489418276	https://vitadapacos.com/
 way	1489429831	https://vitadapacos.com/
 way	1491809779	https://app.laquerciaristoro.com/prenota
 way	1493500781	https://elettromeccanicadorica.it
+way	1497294964	https://www.vedoacolori.it
+way	1497294965	https://www.vedoacolori.it
+way	1497294966	https://www.vedoacolori.it
 relation	42253	https://www.comune.grottammare.ap.it/
 relation	1085613	https://www.sferisterio.it/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
@@ -3381,7 +3387,6 @@ node	2098656753	http://www.fanolug.org/
 node	2099036011	http://www.farmaciapierinifano.it/
 node	2206750674	http://www.cirionitrasporti.it/index.php
 node	2258865130	http://www.adecco.it/
-node	2326324373	https://www.frasassi.com/
 node	2330339690	http://www.uniurb.it/cla
 node	2524606650	http://www.metaofficina.it/
 node	2875106428	http://www.mondolfoferro.it/
@@ -3683,6 +3688,7 @@ way	1296346692	https://www.hotelristorantepanorama.com/
 way	1296358628	http://www.areacamper.it/
 way	1301847221	https://www.lasaponaria.it/
 way	1301847241	http://www.biesse.com
+way	1316875085	https://www.abbaziafurloareasosta.com/
 way	1334249750	http://www.fabrianoturismo.it/docs/comearrivare/unanuovaareadiservizioesostacamper.asp
 way	1342766842	http://www.arcidiocesipesaro.it/parrocchie/93-elenco-parrocchie-e-chiese/429-santuario-beata-vergine-del-carmine.html
 way	1352297039	https://www.campingroccamare.it/it/index.php
