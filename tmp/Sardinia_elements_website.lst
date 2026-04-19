@@ -1442,6 +1442,7 @@ node	7695177505	https://www.marinadicalacapra.com/
 node	7700346453	http://www.pizzerialarosadeiventi.com/
 node	7701978093	https://www.douglas.it/Profumeria/Siniscola/0431/0070/vst.html
 node	7702644783	https://www.farmaciepisanoegutierrez.it/
+node	7707553786	https://www.supramonte.it
 node	7867449985	https://www.trattoriadaattilio.com/daattilioinpaese.php
 node	7890157277	https://www.dstsardegna.it/
 node	7913851915	https://www.vignetizanatta.it
@@ -2044,6 +2045,8 @@ node	13673119501	https://www.istitutoamsicora.edu.it/
 node	13686531239	https://www.muasinnai.com
 node	13703824682	https://enermed.it/
 node	13708990401	http://www.rurinnova.com
+node	13729669151	https://prolococalasetta.it/piccole-librerie-condivise/
+node	13739545548	https://www.tharrosmarittima.it/
 way	23937282	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179224
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
@@ -2965,6 +2968,7 @@ way	1482143896	http://www.liceodecastro.gov.it/
 way	1488883762	https://www.comprensivosenorbi.edu.it/
 way	1491014968	http://www.campeggiotorrechia.it/
 way	1493574801	https://www.lecittadellinfanzia.it/struttura/le-ciribiricoccole/
+way	1500733848	https://www.tharrosmarittima.it/
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3883,6 +3887,7 @@ node	13582737998	http://www.comune.villamar.vs.it
 node	13586497990	http://www.comune.sedilo.or.it
 node	13586497998	https://www.robertovirdis.com
 node	13588936684	https://www.casamelania.it
+node	13729679331	https://prolococalasetta.it/piccole-librerie-condivise/
 way	27668357	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668458	http://arst.sardegna.it/orari_e_autolinee/TPL.html
 way	27668483	http://arst.sardegna.it/orari_e_autolinee/TPL.html
@@ -4072,7 +4077,7 @@ way	294436397	https://www.facebook.com/ristorantevillaggiooasi/
 way	294436466	http://www.ristorantefrongia.it
 way	294438698	http://www.hotelcorsaronero.com
 way	294438797	http://www.hotelcorsaronero.com
-way	294439390	http://www.lacaletta.it
+way	294439390	https://www.zeevahotel.com/
 way	294443689	http://www.comune.pauliarbarei.vs.it
 way	294446583	http://www.comune.collinas.vs.it
 way	294446865	http://www.comune.lunamatrona.ca.it
@@ -4481,43 +4486,18 @@ relation	6581360	http://www.ferratacabirol.it
 relation	7688852	http://www.golfhotelisarenas.com/
 relation	7706249	http://www.comune.ussaramanna.vs.it
 relation	7796877	http://www.comune.sanluri.vs.it
-node	72991040	http://web.tiscali.it/Senorbi2000/
-node	72991301	http://www.fluminimaggiore-bilingue.it/
-node	72992193	http://www.orroliproloco.com/
-node	1601566871	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
-node	1601567218	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
-node	1601567221	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
-node	2329913542	https://www.sardegnaturismo.it/it/esplora/san-valentino
-node	8018364892	https://commons.wikimedia.org/wiki/File:Bruncu_Suergiu.jpg
-node	10265078480	https://people.unica.it/unicamappe/2012/08/10/facolta-di-architettura/
-node	11925747476	https://coinatmradar.com/bitcoin_atm/64663/bitcoin-atm-shitcoins-club-cagliari-shitcoinsclub/
-way	27771208	http://www.saras.it/saras/pages/inthefield/assets/refining
-way	62331902	http://www.progettodighe.it/main/le-dighe/article/bau-mandara
-way	81578382	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
-way	142884664	http://www.orroliproloco.com/
-way	277017452	http://www.tripadvisor.it/Restaurant_Review-g3528959-d3524787-Reviews-Il_Gatto_Sardo-Gonnoscodina_Province_of_Oristano_Sardinia.html
-way	516635404	http://www.orroliproloco.com/
-way	516635406	http://www.orroliproloco.com/
-way	516635408	http://www.orroliproloco.com/
-way	516635410	http://www.orroliproloco.com/
-way	581847789	http://www.arrampicatasardegna.com/falesie/masua-castello-delliride/
-way	581847804	http://www.arrampicatasardegna.com/falesie/torre-di-titti-torre-sauron-i-menhir/
-way	581847809	http://www.arrampicatasardegna.com/falesie/punta-pilocca/
-way	581847817	http://www.arrampicatasardegna.com/falesie/arrampicantro/
-relation	39917	http://www.fluminimaggiore-bilingue.it/
-relation	39959	http://web.tiscali.it/Senorbi2000/
-relation	40002	http://www.orroliproloco.com/
-relation	10077575	https://danbag.altervista.org/Sardegna/B485/B485-FTP.kml
-relation	12321189	https://danbag.altervista.org/Sardegna/B481/B481-FTP.kml
-relation	12857717	https://danbag.altervista.org/Sardegna/F401/F401-FTP.kml
-relation	12857738	https://danbag.altervista.org/Sardegna/F402/F402-FTP.kml
-relation	12858020	https://danbag.altervista.org/Sardegna/F404/F404-FTP.kml
-relation	12858037	https://danbag.altervista.org/Sardegna/F405/F405-FTP.kml
-relation	12858057	https://danbag.altervista.org/Sardegna/F406/F406-FTP.kml
-relation	14211283	https://danbag.altervista.org/Sardegna/T741/T741-FTP.kml
-relation	14211317	https://danbag.altervista.org/Sardegna/T702/T702-FTP.kml
-relation	14704119	https://danbag.altervista.org/Sardegna/B401/B401-FTP.kml
-relation	15088814	https://danbag.altervista.org/Sardegna/B162/B162-FTP.kml
-relation	16503335	https://danbag.altervista.org/Sardegna/B505/B505-FTP.kml
-relation	18147528	https://danbag.altervista.org/Sardegna/G100/G100-FTP.kml
-relation	18159900	https://danbag.altervista.org/Sardegna/B410/B410-FTP.kml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
+
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
+
+</body>
+</html>
