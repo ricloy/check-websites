@@ -134,6 +134,7 @@ node	2903015961	http://www.iltulipanonero.it
 node	2916174673	https://www.decathlon.it/
 node	2940661543	www.palmadorobagnara.it
 node	2948773231	https://www.rfi.it/it/stazioni/ann-.html
+node	2956714850	http://www.malavenda.it/
 node	2960451703	https://www.planetariumpythagoras.com/
 node	2972710507	https://www.terrerossedimassadita.it/
 node	3072850484	https://www.hotelvalemare.it/
@@ -781,6 +782,10 @@ node	13647147301	https://www.spicgilcalabria.it/
 node	13647152301	https://www.spicgilcalabria.it/
 node	13651642901	https://www.bnblameziairport.it/
 node	13686720601	http://www.hotelparnaso.it
+node	13730638929	https://www.villaggiomimosa.com/
+node	13737065467	https://poste.it/
+node	13737065468	http://comune.malito.cs.it/
+node	13740082162	https://www.comune.joppolo.vv.it/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	47051512	https://www.sanrobertoebiagio.it/indexmobile.php
 way	86940311	https://www.sacal.it/
@@ -1216,7 +1221,6 @@ way	1199288378	https://www.borgosulporto.com
 way	1200617414	https://www.villaggiocampinglascogliera.com
 way	1200626120	https://www.villaggiofiorina.com/
 way	1200957712	https://www.campinguliveto.it/
-way	1201106540	https://www.comune.joppolo.vv.it/
 way	1201559777	https://sabap-rc.cultura.gov.it/?page_id=238
 way	1202733348	https://www.villaggioformicoli.it/
 way	1204160242	https://musei.calabria.beniculturali.it/
@@ -1364,6 +1368,7 @@ way	1457564911	https://shop.bergamottobova.it/
 way	1472841384	https://www.parks.it/riserva.statale.macch.giumenta/index.php
 way	1473680478	http://www.duchessadellasila.it/
 way	1482182264	https://rgpbio.it/riserva/serra-nicolino-piano-dellalbero/
+way	1499854308	https://comune.domanico.cs.it/
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	4277258	https://www.santaspina.it/
