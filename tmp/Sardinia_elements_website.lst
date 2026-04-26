@@ -472,7 +472,7 @@ node	1695812780	https://www.farmaciabulciolu.it/
 node	1698649606	http://www.mandraedera.com
 node	1701503735	https://www.rifugiogorropu.it/
 node	1701582086	http://www.bbchiara.com
-node	1714661720	www.hotelcagliariaurora.it
+node	1714661720	https://www.hotelcagliariaurora.it
 node	1714661797	http://www.trattoria.cagliari.it
 node	1718551729	https://www.museodelcoltello.it/
 node	1719272937	https://www.eurospin.it/
@@ -609,7 +609,7 @@ node	2337672656	http://www.alristorantino.it/
 node	2338536543	http://www.relaisazuni.com/
 node	2338536563	http://www.hostelmarinacagliari.com/
 node	2338607658	https://www.carlofortebedandbreakfast.it/
-node	2339545144	www.theplacecagliari.com
+node	2339545144	https://www.theplacecagliari.com
 node	2360267062	https://www.bibliotecadisangavino.net/
 node	2376861285	http://www.dorgali.it/
 node	2408902180	https://www.bbmorpheo.it/
@@ -646,7 +646,7 @@ node	2517966292	https://www.satoda.it/
 node	2519763866	https://www.facebook.com/InuSardinianWineBar
 node	2519768564	https://www.osteriasadomusarda.it/
 node	2527958648	https://www.thenetvalue.com/
-node	2527965130	www.farmaciaschlich.it
+node	2527965130	https://www.farmaciaschlich.it
 node	2530460871	http://www.valburger.com
 node	2542962086	http://www.suboschettu.it/
 node	2567577737	http://www.coopvillabbas.sardegna.it
@@ -952,6 +952,7 @@ node	4213506489	https://www.supermercatipan.it/
 node	4213531896	https://www.carrefour.it/
 node	4213814889	https://www.e-coop.it/scegli-il-tuo-negozio/negozi-e-promozioni/5852
 node	4213816621	https://www.supersigma.com/
+node	4213875795	http://casevacanzamarginetto.com
 node	4215114791	https://www.mdspa.it/punti-vendita/Sardegna/CA-Cagliari/941-MONSERRATO/
 node	4218267239	www.bbdomusdejanas.com
 node	4226482200	marinadiesel.it
@@ -1339,7 +1340,7 @@ node	5929417385	https://www.hotelondamarina.it/
 node	5981650889	https://www.facebook.com/lavioletta71
 node	6037662308	https://www.ilcalicedoro.it/
 node	6087338015	http://www.exploringsardinia.it
-node	6103754787	www.stefanoferrando.com
+node	6103754787	https://www.stefanoferrando.com
 node	6111059687	http://www.bb-lapintadera.it
 node	6126016167	https://www.climbingsardinia.com/wp-content/uploads/villasimius-cala-usai.jpg
 node	6143098922	https://www.efys.it/
@@ -2047,6 +2048,7 @@ node	13703824682	https://enermed.it/
 node	13708990401	http://www.rurinnova.com
 node	13729669151	https://prolococalasetta.it/piccole-librerie-condivise/
 node	13739545548	https://www.tharrosmarittima.it/
+node	13752106401	http://sucoili.com
 way	23937282	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179224
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
@@ -4486,18 +4488,43 @@ relation	6581360	http://www.ferratacabirol.it
 relation	7688852	http://www.golfhotelisarenas.com/
 relation	7706249	http://www.comune.ussaramanna.vs.it
 relation	7796877	http://www.comune.sanluri.vs.it
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
-
-</body>
-</html>
+node	72991040	http://web.tiscali.it/Senorbi2000/
+node	72991301	http://www.fluminimaggiore-bilingue.it/
+node	72992193	http://www.orroliproloco.com/
+node	1601566871	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
+node	1601567218	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
+node	1601567221	http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/PDFFILES/TREATIES/FRA-ITA1986MB.PDF
+node	2329913542	https://www.sardegnaturismo.it/it/esplora/san-valentino
+node	8018364892	https://commons.wikimedia.org/wiki/File:Bruncu_Suergiu.jpg
+node	10265078480	https://people.unica.it/unicamappe/2012/08/10/facolta-di-architettura/
+node	11925747476	https://coinatmradar.com/bitcoin_atm/64663/bitcoin-atm-shitcoins-club-cagliari-shitcoinsclub/
+way	27771208	http://www.saras.it/saras/pages/inthefield/assets/refining
+way	62331902	http://www.progettodighe.it/main/le-dighe/article/bau-mandara
+way	81578382	https://www.worldheritagesite.org/list/Su+Nuraxi+di+Barumini
+way	142884664	http://www.orroliproloco.com/
+way	277017452	http://www.tripadvisor.it/Restaurant_Review-g3528959-d3524787-Reviews-Il_Gatto_Sardo-Gonnoscodina_Province_of_Oristano_Sardinia.html
+way	516635404	http://www.orroliproloco.com/
+way	516635406	http://www.orroliproloco.com/
+way	516635408	http://www.orroliproloco.com/
+way	516635410	http://www.orroliproloco.com/
+way	581847789	http://www.arrampicatasardegna.com/falesie/masua-castello-delliride/
+way	581847804	http://www.arrampicatasardegna.com/falesie/torre-di-titti-torre-sauron-i-menhir/
+way	581847809	http://www.arrampicatasardegna.com/falesie/punta-pilocca/
+way	581847817	http://www.arrampicatasardegna.com/falesie/arrampicantro/
+relation	39917	http://www.fluminimaggiore-bilingue.it/
+relation	39959	http://web.tiscali.it/Senorbi2000/
+relation	40002	http://www.orroliproloco.com/
+relation	10077575	https://danbag.altervista.org/Sardegna/B485/B485-FTP.kml
+relation	12321189	https://danbag.altervista.org/Sardegna/B481/B481-FTP.kml
+relation	12857717	https://danbag.altervista.org/Sardegna/F401/F401-FTP.kml
+relation	12857738	https://danbag.altervista.org/Sardegna/F402/F402-FTP.kml
+relation	12858020	https://danbag.altervista.org/Sardegna/F404/F404-FTP.kml
+relation	12858037	https://danbag.altervista.org/Sardegna/F405/F405-FTP.kml
+relation	12858057	https://danbag.altervista.org/Sardegna/F406/F406-FTP.kml
+relation	14211283	https://danbag.altervista.org/Sardegna/T741/T741-FTP.kml
+relation	14211317	https://danbag.altervista.org/Sardegna/T702/T702-FTP.kml
+relation	14704119	https://danbag.altervista.org/Sardegna/B401/B401-FTP.kml
+relation	15088814	https://danbag.altervista.org/Sardegna/B162/B162-FTP.kml
+relation	16503335	https://danbag.altervista.org/Sardegna/B505/B505-FTP.kml
+relation	18147528	https://danbag.altervista.org/Sardegna/G100/G100-FTP.kml
+relation	18159900	https://danbag.altervista.org/Sardegna/B410/B410-FTP.kml
