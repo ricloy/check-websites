@@ -1168,7 +1168,7 @@ node	4172232459	http://www.icsantostefanodicamastra.gov.it/
 node	4172265689	https://www.ictommasoaversa.it/
 node	4172283684	http://www.icacquedolci.gov.it/
 node	4174359472	https://www.teatroapparte.com
-node	4174867605	www.barmagri.it
+node	4174867605	https://www.barmagri.it/
 node	4175877925	http://www.istitutocesareo.gov.it/
 node	4175877926	http://www.ictorrenova.it/
 node	4176493470	http://www.icdonsturzocesaro.gov.it/
@@ -1793,6 +1793,7 @@ node	6139397291	https://buscenter.travel/autobus/gela/
 node	6140152603	https://ristorantecontatto.it/
 node	6146278286	https://www.pelleriti.com/
 node	6146462365	https://paghipoco.com/
+node	6148605818	https://doncioccolato.it/
 node	6157639006	https://siracusaortigia.ubiklibri.it/
 node	6157639007	https://www.rocca1794.com/it_it/storelocator/rocca-1794-siracusa-corso-matteotti
 node	6166536485	https://m.facebook.com/ristorante131/
@@ -1814,6 +1815,7 @@ node	6211006394	https://lacasadelascarcasas.it/
 node	6214032274	https://www.poste.it
 node	6215251971	https://ledivise.it
 node	6215252698	https://micelisport.com/
+node	6215252741	https://www.beautypointsiracusa.it/
 node	6219040661	https://lacasaalduomo.wordpress.com
 node	6219919545	https://www.servizifunebrimessina.it/
 node	6219920587	https://www.casamusicalesanfilippo.it/
@@ -1839,7 +1841,7 @@ node	6283162214	https://www.servizifunebrimessina.it/
 node	6283162235	https://comproorosiracusa.it/
 node	6283162326	https://lesacpelletteria.com/
 node	6287522485	https://dimorahostel.business.site/
-node	6291738548	www.barmagri.it
+node	6291738548	https://www.barmagri.it/
 node	6291853307	https://www.onoranzefunebridinicola.it/
 node	6296836177	https://www.agathossr.it
 node	6297295942	www.sottoipini.it/
@@ -2524,6 +2526,7 @@ node	7888294142	https://hotellarosadeiventi.it/
 node	7888306597	https://www.donnamariatrattoria.it/
 node	7888306598	http://www.agriturismoilranch.it/
 node	7892009560	https://www.duca.it/florio/
+node	7895359758	https://www.lidomorghella.it/
 node	7900897015	http://www.turismogranati.it/
 node	7906738995	www.latorrepalazzolo.it
 node	7924972286	https://ristorante-pizzeria-al-giardino.business.site
@@ -2902,6 +2905,7 @@ node	8999812237	https://bed-ferragosto.business.site/
 node	8999812295	https://paghipoco.com/
 node	9001200117	https://lasalerniana.it/
 node	9002501106	http://acidolatticopizzeria.it/
+node	9002501193	https://poke-house.com/
 node	9002501196	http://www.casadicuralucina.it/
 node	9005349836	http://www.bedgiuseppeverdi.it/
 node	9005475888	https://iltaglierect.it/
@@ -3327,6 +3331,7 @@ node	10027739269	https://www.sida.unict.it/content/punto-di-servizio-biologia-ve
 node	10031622952	https://www.lex.unict.it/it/biblioteca/la-biblioteca-delle-scienze-giuridiche
 node	10031696027	https://www.dfa.unict.it/it/content/biblioteca
 node	10031812388	https://www.disum.unict.it/content/biblioteca-del-dipartimento-di-scienze-umanistiche
+node	10045254239	https://www.impiantitecnologicifinocchiaro.it/
 node	10046093947	https://oscar1965.com
 node	10046922619	https://new-paradise.it
 node	10047759397	https://www.leterrazzedelsole.it/
@@ -3734,6 +3739,7 @@ node	11242109208	https://www.facebook.com/neromiciok/
 node	11244238166	https://www.trasportiurbaniagrigento.it/mappa-linea-2-.html
 node	11244238168	https://www.trasportiurbaniagrigento.it/mappa-linea-2-.html
 node	11251398845	http://www.hobbyzoo.org/
+node	11255385434	https://acquamarzamemi.it/
 node	11255752384	http://www.comica.org/wordpress/
 node	11261200482	https://maps.app.goo.gl/dBH615ptucQ37Czz5
 node	11263012309	https://lacasadelascarcasas.it/
@@ -4571,6 +4577,13 @@ node	13734497658	https://www.sottosale.com/it/sotto-sale-ristorante/
 node	13734497659	https://www.sottosale.com/it/osteria-del-sotto-sale/
 node	13735260101	http://shop.rueballu.it
 node	13739811509	https://oncharge.it
+node	13749397883	https://www.esimpiantitecnologici.com/
+node	13750151802	https://unikore.it/
+node	13758525744	https://www.lagiaraalcamo.it/
+node	13758772365	https://www.egogreen.it/
+node	13759645662	https://www.gibiauto.com/
+node	13762171755	https://www.baiamuri.com/
+node	13762186081	https://doncioccolato.it/
 way	23551535	http://www.ilparcopiubello.it/index.php/park/dettaglio/140
 way	24701808	http://www.ortobotanico.unipa.it/
 way	24818423	https://www.unipa.it/dipartimenti/matematicaeinformatica
@@ -4866,7 +4879,7 @@ way	167902089	http://www.marconiscuola.edu.it/
 way	169950433	https://www.hoteleuropamessina.it/
 way	170763035	https://www.aeroporto.catania.it/parcheggia-in-aeroporto
 way	170781200	https://www.parcouditore.org/
-way	171621460	www.parrocchiadellaguardia.it
+way	171621460	https://diocesi.catania.it/wd-annuario-enti/parrocchia-s-maria-della-guardia-catania-510/
 way	172589718	http://93.94.88.173/castelbuono/hh/index.php
 way	174329127	https://www.grandhotelortigia.it/
 way	174517439	https://www.livingstonhotel.it/
@@ -4918,6 +4931,7 @@ way	188677861	http://www.distrettoturisticoselinuntino.it/a.cfm?id=565
 way	189952415	https://www.salineculcasi.it
 way	190439226	https://www.comune.gangi.pa.it/
 way	190580677	http://casaetnea.it
+way	194633577	https://www.comune.lampedusaelinosa.ag.it/
 way	194792928	https://www.poste.it
 way	195118773	https://www.poste.it
 way	195829008	http://www.calcestruzziericina.it/
@@ -5293,7 +5307,6 @@ way	313906792	https://plemmirio.eu/
 way	314042469	https://www.aretusapark.it/
 way	315018790	https://www.facebook.com/parco.villaturrisi
 way	316908787	http://www.agris.it/
-way	317811325	http://www.cantiericulturaliallazisa.it/
 way	318110035	https://www.vigilfuoco.it/sitiVVF/palermo/dislocazione.aspx?s=205&p=279
 way	318127602	http://hoteldegliangeli.info
 way	318713505	https://www.smsvirgilio.edu.it/
@@ -5695,7 +5708,6 @@ way	505258057	https://www.icsantachiaraenna.edu.it/
 way	505268299	https://www.poste.it
 way	507481476	https://www.icnegliasavarese.edu.it/
 way	507793994	https://circuitovincenzaispica.it/
-way	509062760	https://www.vigilfuoco.it
 way	510351870	https://www.comune.siracusa.it/servizio/centri-comunali-di-raccolta
 way	510790725	https://www.parcodellemadonie.it/santa-foca-castelbuono.html
 way	510839283	https://www.icprincipedinapoli.edu.it/
@@ -6976,6 +6988,8 @@ way	1492846920	https://www.krinohotelcafe.it/
 way	1494570252	https://www.hotelatlantis.it/
 way	1495947777	https://www.marinahomeortigia.it/
 way	1497393602	https://www.donnafranca.it
+way	1502282323	https://www.vigilfuoco.it
+way	1503415138	https://www.donbaccovini.it/
 relation	39184	https://www.comune.floridia.sr.it/
 relation	62858	https://www.palazzobiscari.it/
 relation	271371	https://pirandellomazara.it/
@@ -7866,18 +7880,34 @@ relation	3311607	https://www.parcodellemadonie.it/
 relation	3320979	http://www.avioclubsalemi.it/
 relation	18010491	https://www.diocesiag.it/
 relation	18010616	https://www.diocesidicefalu.org/
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
-
-</body>
-</html>
+node	603885244	http://www.ulocale.com
+node	1962531883	http://www.museomotori.unipa.it
+node	2231727823	http://www.modicarte.it/home.php?language=IT&idnews=
+node	5091059042	https://ormepalermo.it/
+node	7106569916	https://www.trapanishuttle.com
+node	7106569918	https://www.sanvitolocaposhuttle.com
+node	7162048723	http://www.scuolasubpalermo.it
+node	9510275015	https://www.thecrag.com/climbing/italy/central-and-southern-italy/sicily/area/1221011889
+node	9810551034	https://it.sicilyrealty.com/apt-cortile-carini-sciacca
+node	11954269833	https://coinatmradar.com/bitcoin_atm/27408/bitcoin-atm-bitomat-catania-bancomat-bitcoin-247/
+node	13747986828	https://www.nuoveofficinezisa.com
+way	23446889	https://www.funiviaetna.com/
+way	56131141	https://www.researchgate.net/publication/225673663_Geo-volcanological_mineralogical_and_environmental_aspects_of_quarry_materials_related_to_pleural_neoplasm_in_the_area_of_Biancavilla_Mount_Etna_Eastern_Sicily_Italy
+way	112997770	https://bibliotecheursinorecupero.comune.catania.it/la-biblioteca/la-storia/
+way	420556066	http://www.casaquasimodo.it/
+way	459158351	http://www.prodromo-vegetazione-italia.org/scheda/rumici-astragalion-siculi/636
+way	485717699	http://www.comune.noto.sr.it/la-cultura/palazzo-nicolaci/
+way	1184179286	https://web.archive.org/web/20230323233356/https://www.italianostra.org/news/taglio-dei-pluridecennali-cipressi-antistanti-lospedale-di-mistretta-e-il-contiguo-servizio-di-psichiatria-di-mistretta-istanza-al-comune/
+relation	8271170	https://sonatrachitalia.it/
+relation	10339853	https://www.etnasci.it/localita/etna-nord
+relation	10339854	https://www.etnasci.it/localita/nicolosi-etna-sud
+relation	11900894	http://www.costierabarocca.it/noto_000015.htm
+relation	15740414	https://web.archive.org/web/20220927054441/https://www.vetrinatv.it/mistretta-tentano-di-rubare-legna-in-area-boschiva-per-rivenderla-arrestati-dai-carabinieri/
+relation	17808234	https://appenninobiketour.com/percorso/
+relation	17809145	https://appenninobiketour.com/percorso/
+relation	17812241	https://appenninobiketour.com/percorso/
+relation	17812465	https://appenninobiketour.com/percorso/
+relation	17812733	https://appenninobiketour.com/percorso/
+relation	17812766	https://appenninobiketour.com/percorso/
+relation	17813407	https://appenninobiketour.com/percorso/
+relation	17814924	https://appenninobiketour.com/percorso/
