@@ -1,7 +1,10 @@
 @type	@id	website
 node	67283748	https://www.comune.campobasso.it/sito/
+node	67283760	https://www.comune.acquavivacollecroce.cb.it/it
 node	67283781	https://www.comune.campolieto.cb.it/
 node	67283786	https://comune.casacalenda.cb.it/
+node	67283792	https://comune.castelmauro.cb.it/
+node	67283799	https://www.comune.civitacampomarano.cb.it/
 node	67283804	https://www.comune.colletorto.cb.it/hh/index.php
 node	67283817	https://www.comune.guardialfiera.cb.it/
 node	67283827	https://www.comune.jelsi.cb.it/
@@ -12,34 +15,50 @@ node	67283853	https://www.comune.macchiavalfortore.cb.it/
 node	67283874	https://comune.montelongo.cb.it/
 node	67283880	https://www.comune.montecilfone.cb.it/
 node	67283889	https://www.comune.montorioneifrentani.cb.it/hh/index.php
+node	67283897	https://www.comune.montemitro.cb.it/it
+node	67283902	https://www.comune.palata.cb.it/
 node	67283909	https://comune.morronedelsannio.cb.it/
+node	67283914	https://www.comune.petrellatifernina.cb.it/hh/index.php
 node	67283917	https://www.comune.petacciato.cb.it/it
 node	67283918	https://comune.provvidenti.cb.it/
 node	67283924	https://www.comune.ripabottoni.cb.it/hh/index.php
 node	67283935	https://comune.portocannone.cb.it/
 node	67283941	https://www.comune.sangiovanniingaldo.cb.it/
 node	67283946	https://www.comune.sangiulianodipuglia.cb.it/
+node	67283956	https://www.comune.sanfelicedelmolise.cb.it/
 node	67283967	https://comune.santacrocedimagliano.cb.it/
 node	67283975	https://www.comune.sanmartinoinpensilis.cb.it/
+node	67283998	https://www.comune.tavenna.cb.it/it
 node	67284003	https://www.comune.santeliaapianisi.cb.it/
 node	67284023	https://www.comune.bonefro.cb.it/hh/index.php
 node	67284028	https://www.comune.ururi.cb.it/
+node	67284030	https://comune.castelbottaccio.cb.it/
 node	67284031	https://comune.campomarino.cb.it/
 node	67284032	https://www.comune.campodipietra.cb.it/
 node	67284057	https://www.comune.castellinodelbiferno.cb.it/
+node	67284065	https://www.comune.lupara.cb.it/
+node	67284067	https://www.comune.lucito.cb.it/
+node	67284126	https://www.comune.mafalda.cb.it/it
 node	67284138	https://www.comune.monacilioni.cb.it/hh/index.php
+node	67284148	https://www.comune.montefalconenelsannio.cb.it/
+node	67284166	https://www.comune.roccavivara.cb.it/
 node	67284169	https://www.comune.rotello.cb.it/
 node	67284178	https://www.comune.sangiacomo.cb.it/it
 node	67284199	https://www.comune.toro.cb.it/
 node	656476914	https://www.conad.it/ricerca-negozi/negozio.005911.html
 node	687322602	https://ristorantefedericoii.it/
 node	687333685	https://www.comune.termoli.cb.it/
+node	746308606	https://www.rfi.it/it/stazioni/larino.html
+node	747697220	https://www.rfi.it/it/stazioni/campomarino.html
 node	767097492	http://www.ribomolise.it/
 node	1151773414	https://www.facebook.com/profile.php?id=100063497596101
 node	1154211715	https://www.residenzasveva.com/
+node	1157269509	https://www.rfi.it/it/stazioni/termoli.html
 node	1240704060	https://www.alpescatore.org/
 node	1240704067	http://www.locanda-sangiorgio.it/
 node	1240704073	https://alpescatore.org/
+node	1607733671	https://www.rfi.it/it/stazioni/ripabottoni-s-elia.html
+node	1607737024	https://www.rfi.it/it/stazioni/casacalenda-guardialfiera.html
 node	1937030474	https://www.musei.molise.beniculturali.it/musei?mid=213&nome=museo-archeologico-di-venafro
 node	2304263064	https://www.enel.it/punto-enel/
 node	2311460857	https://www.enel.it/punto-enel/
@@ -71,6 +90,7 @@ node	3389742739	http://www.camilloperrella.net/
 node	3414706099	http://www.sanniti.info/sangioga.html
 node	3429179000	https://www.centroartemisiacampobasso.it/
 node	3437724542	http://archeologicamolise.beniculturali.it/index.php?it/219/opere/28/cercemaggiore-fortificazione-sannitica
+node	3500065334	https://www.rfi.it/it/stazioni/campolieto-monacilioni.html
 node	3517601694	https://www.comune.isernia.it/it/point-of-interest/735438
 node	3672942745	https://www.bottegasaporitermoli.it/
 node	3721631445	http://lavanderialapentrica.blogspot.com
@@ -95,6 +115,9 @@ node	6241927501	https://www.istat.it/it/istituto-nazionale-di-statistica/organiz
 node	6697071395	https://www.palazzocorsoumberto.it/
 node	6741895872	https://www.agenziademanio.it/opencms/it/agenzia/strutturaorganizzativa/direzioniterritoriali/abruzzomolise/
 node	7119226602	https://www.hosterialuvicpdent.it/
+node	7472936413	https://www.rfi.it/it/stazioni/rocca-ravindola.html
+node	7472936414	https://www.rfi.it/it/risultati.html?s=venafro&p=%2Fcontent%2Frfi%2Fit%2Fstazioni
+node	7473059189	https://www.rfi.it/it/stazioni/campobasso.html
 node	7505725200	https://www.conad.it/ricerca-negozi/negozio.009513.html
 node	8487315010	https://www.bccabruzziemolise.it/filiali/guglionesi/
 node	8521108180	http://www.farmacialediomedee.it/index.asp
@@ -110,8 +133,12 @@ node	9202946016	https://www.pavesasrl.it/
 node	9212258639	https://www.oasitigre.it/it/il-mio-negozio.6202.html?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=6202
 node	9215104588	http://www.qualitafulvio.com/Prodotti.htm
 node	9226639883	https://www.oliodesocio.com/
+node	9234028483	https://www.rfi.it/it/stazioni/vinchiaturo.html
+node	9234059034	https://www.rfi.it/it/stazioni/isernia.html
+node	9234059035	https://www.rfi.it/it/stazioni/boiano.html
 node	9250757242	https://www.agenziafunebrecordiscoemanzone.it/dove-siamo/guglionesi-cb.html
 node	9677384152	https://www.tesla.com/findus/location/supercharger/montenerodibisacciasupercharger
+node	9703707661	https://www.rfi.it/it/stazioni/sesto-campano.html
 node	9706805938	https://molise.lgbt/
 node	9720306508	https://www.termolituristica.com/
 node	9889710666	https://www.torresinarca.it/
@@ -132,6 +159,7 @@ node	10977334304	https://www.comune.sanmassimo.cb.it/
 node	10992693056	https://bebmarilu.jimdo.com
 node	11005926629	https://comune.casalciprano.cb.it/
 node	11099140076	https://www.airbnb.it/rooms/691863292754829367
+node	11119595964	https://www.anticatavernadelprincipe.com
 node	11152381574	https://www.ristorantepizzeriasoda.it
 node	11152663883	https://disv.it/letterario
 node	11152853940	https://m.facebook.com/ciaccusagnone
@@ -155,6 +183,7 @@ node	12049694614	https://www.comune.agnone.is.it/
 node	12117190015	http://musei.beniculturali.it/musei?mid=209&nome=museo-della-citta-e-del-territorio-sepino
 node	12120700474	https://www.pizzeriadanisa.it/
 node	12265997923	https://www.oblocaffe.it/
+node	12294092336	https://www.rfi.it/it/stazioni/montenero-petacciato.html
 node	12396153789	https://www.otticaluciani.it/
 node	12730683130	https://www.pannoniarredamenti.com/
 node	12748192026	https://www.lacasadiduilia.it
@@ -187,6 +216,7 @@ node	13306935022	https://www.moliseinaction.it/
 node	13306935023	https://attraversoilmolise.it/
 node	13316754404	https://www.facebook.com/rigenerasnc
 node	13531470619	https://www.consorzioforestalematese.it/
+node	13752998873	https://www.rfi.it/it/stazioni/carpinone.html
 way	56248419	https://www.facebook.com/riovivocamperpark
 way	62075956	https://www.musei.molise.beniculturali.it/musei?mid=934&nome=castello-di-civitacampomarano
 way	67731527	https://www.hotelmeridiano.com/it/ristorante-luna-restaurant.html/
@@ -373,6 +403,7 @@ way	1490152005	https://www.sanniosapori.com/
 way	1490228976	https://it-it.facebook.com/people/Piscine-Emma/100047494788246/
 way	1495074811	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1400018188
 way	1498438584	https://www.workdesignsrl.com/
+way	1501699351	https://www.acquasalsa.it/
 relation	27485	https://en.eurovelo.com/ev5/italy
 relation	1085623	https://www.altovastese.it/ambient/il-sito-di-interesse-comunitario-sic-monte-mauro-selva-di-montefalcone-nel-sannio-cb/
 relation	1401870	https://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/131-bi6-ciclovia-adriatica
@@ -428,6 +459,28 @@ relation	20422280	https://gtmbus.it/linee-e-orari
 relation	20422283	https://gtmbus.it/linee-e-orari
 relation	20422299	https://gtmbus.it/linee-e-orari
 relation	20422463	https://gtmbus.it/linee-e-orari
+node	10769105353	https://www.museionline.info/musei/museo-di-storia-naturale-della-valle-del-fortore
+node	12115891441	https://gustusristorante.com/
+node	12841615318	https://www.molisewow.com/borgodellefonti
+way	193450242	https://cultura.gov.it/luogo/parco-archeologico-di-sepino-area-archeologica-di-altilia-saepinum
+way	193651509	https://www.parcosepino.it/
+way	261211563	https://www.santamariadellastradacb.it/
+way	261652608	https://www.m2movement.it/
+way	444881071	https://www.maronda.it/
+way	451040903	http://www.villaggioazzurra.it/
+way	561057676	https://www.smeraldocampingvillage.com/
+way	639116664	https://www.lianna.it/
+way	691090792	https://www.oasidellemainarde.com/
+way	1056651661	https://www.rivazzurrahomes.it
+way	1076684927	https://www.calasveva.it/
+way	1076684935	https://ildelfino.wordpress.com/
+way	1076684938	http://www.lidosirene.it/
+way	1076684940	https://lidolaperlatermoli.business.site/
+way	1076684944	http://www.lidolalampara-termoli.it/
+way	1076684945	https://www.lidomistral.com/
+way	1077536770	https://www.lidolapiovra.com/
+way	1077536773	https://lidobalneare.termoli.cb.it/
+relation	14635178	https://www.parcoregionaledelmatese.it/
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -439,22 +492,7 @@ relation	20422463	https://gtmbus.it/linee-e-orari
 <body>
 
 <p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
-
-</body>
-</html>
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
 
 </body>
 </html>
