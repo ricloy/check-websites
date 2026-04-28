@@ -15,12 +15,10 @@ node	353082192	https://www.chaligne.com
 node	353086852	https://www.maisonvieille.com/
 node	355336801	https://www.clubalpinoaccademico.it/index.php/bivacchi/item/138-bivacco-umberto-balestrieri
 node	355336802	https://www.caitorino.it/rifugi/balzola/
-node	355336810	https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/139-bivacco-lorenzo-borelli
 node	355336815	https://www.clubalpinoaccademico.it/index.php/news-2/item/275-nuovo-look-per-il-bivacco-canzio-al-colle-delle-grandes-jurasses
 node	355336825	https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/151-bivacco-lampugnani-grassi
 node	355336830	https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/140-bivacco-alberico-borgna
 node	355336844	http://www.msmountain.it/aroundw/rifugi/bivacco_gastaldi.html
-node	355336909	https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/155-bivacco-tete-del-roeses
 node	355336922	https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/145-bivacco-de-la-sassa-ceresa
 node	376506096	https://www.castorepolluce.com/
 node	462097194	https://www.hotelmiage.it/
@@ -247,7 +245,6 @@ node	7784835490	https://www.bblaluna.it/
 node	7795323285	https://www.qcterme.com/destinations/pre-saint-didier/qc-spa-pre-saint-didier
 node	7842781584	https://www.carrefour.it/punti-vendita/carrefour-express-courmayeur-strada-larzey-entreves-2931.html
 node	7900639885	https://www.cogneturismo.it/ospitalita.asp?id=18&cat=11&l=1&n=66&p=1
-node	8108975517	https://www.lazybee.it/
 node	8118527814	https://gerolina.it
 node	8235617510	http://www.caichatillon.it
 node	8235734591	http://aosta.caivda.it
@@ -419,7 +416,6 @@ node	13424633599	https://presidi2.regione.vda.it/str_dataview_station/4020
 node	13424661544	https://presidi2.regione.vda.it/str_dataview_station/4000
 node	13424662139	https://presidi2.regione.vda.it/str_dataview_station/1100
 node	13455677923	https://www.giulianabianchedi.it/
-node	13467894382	https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/139-bivacco-lorenzo-borelli
 node	13509949629	https://www.eivavie.com/
 node	13555714271	https://hotelalpiolet.com/ristorante/
 node	13654164606	https://montavic.it/
@@ -672,7 +668,6 @@ way	147548048	http://www.hibouprojet.it
 way	147709782	http://www.tronchey.com/
 way	147709783	https://www.grandesjorasses.com/
 way	147963958	https://www.baitacourmayeur.it
-way	147963963	http://www.rifugiobertone.it/wp/it/home/
 way	148212583	https://www.rifugiotorino.com/
 way	148214318	https://www.lovevda.it/it/banca-dati/8/chiese-e-santuari/courmayeur/santuario-di-notre-dame-de-guerison/931
 way	148453152	http://www.rifugiomonzino.com/
@@ -960,10 +955,12 @@ way	1317457820	https://www.rebelpark.it
 way	1355978520	https://www.valgrisencheski.it/
 way	1395571424	https://www.rifugiograuson.it/starsbox/
 way	1396053402	https://www.thcourmayeur.it
+way	1413821077	https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/155-bivacco-tete-del-roeses
 way	1414933116	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	1414933117	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	1414933118	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	1414933119	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
+way	1422696281	https://www.clubalpinoaccademico.it/index.php/chi-siamo-2/bivacchi-2/item/139-bivacco-lorenzo-borelli
 way	1423892427	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	1423892428	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
 way	1423892429	https://www.ravspa.it/index.php?option=com_content&view=article&id=5&Itemid=13
@@ -977,6 +974,7 @@ way	1469635398	https://tribunale-aosta.giustizia.it/
 way	1473296179	https://www.hoteldianaaosta.com/index.php/it/
 way	1475491386	www.cerviniaholiday.com
 way	1490967328	https://www.ellexhotel.it/
+way	1502824293	https://www.lazybee.it/
 relation	7407	https://hautesavoie.fr/
 relation	124582	https://www.viefrancigene.org/
 relation	162371	https://www.lovevda.it/it/banca-dati/7/alte-vie/valle-d-aosta/cogne-rifugio-sogno-di-berdze/2974
@@ -1097,7 +1095,6 @@ node	1272066385	http://www.comune-challandsaintanselme.it
 node	1288184982	www.stadelsoussun.com
 node	1288185322	http://www.rifugiobelvedere.net/
 node	1326399991	http://www.fortedimachaby.it/
-node	1353509327	https://www.campinglaclexert.it/
 node	1353685312	http://www.locanda-lacplacemoulin.it/
 node	1355487738	http://www.trattoriaomens.com
 node	1483752218	http://www.studioantey.com
@@ -1173,10 +1170,10 @@ way	131413425	http://www.rifugiodellemarmotte.it
 way	144122539	https://www.vmao.it/
 way	146637176	https://www.lovevda.it/it/banca-dati/22/campeggi-2-stelle/gignod/camping-europa/3620
 way	147536904	http://www.rifugiobonatti.it/
-way	147963960	http://www.rifugiobertone.it/wp/it/home/
 way	148853613	https://campingmontblanc.it/
 way	153360820	https://campingrutor.altervista.org/
 way	154481659	https://rifugioalpebonze.com/
+way	157466532	https://www.dalailamavillage.it/
 way	158823486	https://www.campingalsole.com/
 way	161482846	https://www.parrocchiasantamargheritaentreves.it
 way	165077481	http://www.ponteromano.it/
@@ -1196,95 +1193,23 @@ way	413677592	https://www.lovevda.it/en/database/22/camps-1-stars/gaby/camping-l
 way	442030276	https://www.campinglaclexert.it/
 way	893997036	http://www.campingarvier.com/
 way	1191060764	https://www.campinglagrolla.it/
+way	1502823150	https://www.campinglaclexert.it/
 relation	11022407	https://campinggranparadiso.it/
+relation	11034523	http://www.rifugiobertone.it/wp/it/home/
 relation	14059755	https://www.diocese-annecy.fr/
 relation	15880628	https://www.diocese-annecy.fr/le-diocese/les-paroisses/paroisse-saint-bernard-du-mont-blanc
-node	666335350	http://www.hoteldufoyer.it
-node	670533689	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C
-node	670536202	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73176A
-node	670537491	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202
-node	670537553	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206
-node	670537556	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206
-node	670537581	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
-node	670537582	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
-node	670537583	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
-node	670537586	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
-node	670537610	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323212
-node	670537617	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323212
-node	670537632	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232B
-node	670537633	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232C
-node	670538701	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA
-node	670538705	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB
-node	670538708	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC
-node	670538711	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD
-node	670538714	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE
-node	670538722	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AF
-node	670538725	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG
-node	670538738	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F
-node	670538741	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G
-node	670538748	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H
-node	670538750	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I
-node	670538751	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J
-node	670538753	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L
-node	670538756	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M
-node	670538759	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N
-node	670538762	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O
-node	670538770	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P
-node	670538781	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R
-node	670538784	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S
-node	670538788	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T
-node	670538791	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U
-node	670538800	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V
-node	670538803	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W
-node	670538804	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X
-node	670538805	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y
-node	670538806	https://fiches-geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z
-node	670539182	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
-node	670539184	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
-node	10009106269	https://sketchfab.com/models/2c86a2c99925485f9416bb4cb2512495/embed?autospin=0.2&autostart=1
-node	10009106270	https://sketchfab.com/models/79c2547fa3964d72802c2815624fc5db/embed?autospin=0.2&autostart=1
-node	10009106271	https://sketchfab.com/models/942a965bc4a94f0281f4db1e5e423ebd/embed?autospin=0.2&autostart=1
-node	11173970513	https://www.lovevda.it/it/banca-dati/13/mercati-settimanali/gressoney-saint-jean/mercato-di-gressoney-saint-jean-giovedi/126
-node	12097484461	https://sketchfab.com/models/7c59d140eed94ac6b55b527c8c7a431e/embed?autospin=0.2&autostart=1
-node	12098866558	https://sketchfab.com/models/305748fdaf834a3ea36c6e1a72378e96/embed?autospin=0.2&autostart=1
-node	12098897508	https://sketchfab.com/models/c839ced2aeca4767b36b1d6d4b208473/embed?autospin=0.2&autostart=1
-node	12194508770	https://matteo-giglio.blogspot.com/2012/05/pilier-rhodo-nuovo-spot-trad-in-valle.html
-node	13467922299	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
-node	13467923411	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
-way	126610973	https://www.ferrate365.it/vie-ferrate/ferrata-covarey/
-relation	517389	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73054C
-relation	517790	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323202
-relation	517794	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323206
-relation	517797	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323209
-relation	517800	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7323212
-relation	517802	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232B
-relation	517803	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73232C
-relation	517928	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AA
-relation	517929	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AB
-relation	517930	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AC
-relation	517931	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AD
-relation	517932	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AE
-relation	517933	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AF
-relation	517934	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285AG
-relation	517938	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285F
-relation	517939	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285G
-relation	517940	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285H
-relation	517941	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285I
-relation	517942	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285J
-relation	517943	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285L
-relation	517944	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285M
-relation	517945	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285N
-relation	517946	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285O
-relation	517947	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285P
-relation	517949	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285R
-relation	517950	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285S
-relation	517951	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285T
-relation	517952	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285U
-relation	517953	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285V
-relation	517954	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285W
-relation	517955	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285X
-relation	517956	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Y
-relation	517957	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=73285Z
-relation	518000	http://geodesie.ign.fr/fiches/index.php?module=e&action=fichepdf&source=carte&sit_no=7329608
-relation	16619194	https://www.aostavalleybiking.com/ciclovia-becca-daver/
-relation	16653970	https://www.aostavalleybiking.com/ciclovia-cervino/
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
+
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
+
+</body>
+</html>
