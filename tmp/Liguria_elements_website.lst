@@ -2878,7 +2878,7 @@ node	13683083944	https://www.i99olivi.com
 node	13683083961	https://www.i99olivi.com
 node	13701858301	http://stylecar.secondhandmobile.it
 node	13705501318	https://ventiristorante.com/
-node	13705565901	http://www.caddys.it
+node	13705565901	https://www.caddys.it/
 node	13716250101	https://www.lecinqueterre.org/eng/riomaggiore/affittacamerelegiare.php
 node	13716749536	https://www.serviziambientali.org/
 node	13717411596	https://cuoreonoranzefunebri.it/
@@ -2892,6 +2892,8 @@ node	13730895784	https://www.autoscuolamaccio.com
 node	13730935237	https://www.alborgo.eu
 node	13735059625	https://sereniorizzonti.it/it/residenza/residenza-protetta-humanitas/
 node	13735668879	https://etlimtravel.it
+node	13750361113	https://www.saglietto.it
+node	13756685921	https://www.laroccaagriturismo.it
 way	10045286	http://www.cimiterodistaglieno.it/
 way	11696107	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII152284
 way	13860217	https://www.ospedalesanmartino.it/
@@ -2913,6 +2915,7 @@ way	25616990	https://www.areacamperpietra.it/
 way	27328026	https://www.provincia.savona.it/strade/sp45
 way	27661098	https://www.101giteinliguria.it/forte-geremia-a-due-passi-da-genova/
 way	27714990	https://www.stellamaris.tv/
+way	27809546	https://bagnisirenaloano.it
 way	27873002	https://www.bnbpetit-finale.com/
 way	28024413	http://www.arenzanofc.it/
 way	28910930	https://www.alstom.com/
@@ -3318,7 +3321,6 @@ way	225445400	https://www.comune.dianoarentino.im.it/
 way	225464024	https://www.oliobenza.it/
 way	225484774	https://wwwt.agenziaentrate.gov.it/servizi/UfficiProvinciali/ufficio.htm?iduff=IM1&r=Liguria&pr=Imperia
 way	225499698	https://www.ilsoledipoggi.it
-way	225499714	https://www.saglietto.it
 way	225501579	http://www.agriturismocollarina.it/
 way	225503354	https://www.agriturismoilgeco.it/
 way	225508273	https://www.hotelariston-imperia.it/residence-villa-marina/
@@ -4393,6 +4395,7 @@ relation	19735739	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-lig
 relation	19736747	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria.html#dm=1&ipd=62676738
 relation	19738818	http://www.beactiveliguria.it/it/beactive/a-piedi/sentiero-liguria#ipd=62677428
 relation	20357514	https://www.offroadatlas.com/tour/italy/liguria-tuscany/ligurian-border-ridge-road
+relation	20577526	https://www.quotazero.com/forum/viewforum.php?f=15
 node	631496026	http://www.conad.it/conad/home/puntivendita/dettaglio.html?idPdv=370
 node	942829865	http://www.autogrill.it/portal/public/default
 node	1304621648	https://istituto.misericordiaimperia.net
