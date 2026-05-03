@@ -669,6 +669,7 @@ node	2708501800	http://www.sardegnacultura.it/j/v/253?s=21279&v=2&c=2488&c1=2123
 node	2708503280	http://www.sardegnacultura.it/j/v/253?s=21279&v=2&c=2488&c1=2123&visb=&t=1
 node	2714272847	www.leplusbon.com/
 node	2720747905	https://www.joyartgrafica.it/
+node	2725245269	https://thenetvalue.com/
 node	2725373298	http://www.ilsuq.it
 node	2726663881	http://www.locabiancacagliari.it
 node	2726708387	https://www.unicredit.it/it/contatti-e-agenzie/lista-agenzie/nu/nuoro/nuoro-mughina-ag00473.html
@@ -1109,7 +1110,7 @@ node	4473522938	https://www.obracultural.cat/biblioteca-catalana/
 node	4473523208	https://www.residenceucalipti.it/en/residence-and-apartments-with-pool-alghero.html
 node	4473523228	https://www.plataforma-llengua.cat/territorials/alguer/
 node	4473526797	https://www.bata.it/
-node	4473532617	www.welcometoalghero.com/struttura/casa-dei-liuti/
+node	4473532617	https://www.welcometoalghero.com/struttura/casa-dei-liuti/
 node	4473532898	https://www.web-project.it/
 node	4473541964	www.osteriamacchiavello.it
 node	4473541967	http://www.lavecchiagrottadeldiavolo.com/
@@ -1931,7 +1932,7 @@ node	13013917478	https://www.ilgiardinogallura.com/
 node	13016240683	https://www.warfree.net
 node	13016270833	http://www.essofuelfinder.com/en-gb/eeba651f51cd761550a186102a92c2a7
 node	13036732805	https://www.doppiomalto.com/it/ristoranti/cagliari/
-node	13041525923	http://www.dentalstaff.it/
+node	13041525923	https://www.dentalstaff.it/
 node	13041600460	https://www.terradepunt.it
 node	13041600461	https://www.comune.cagliari.it/portale/page/it/infopoint_culturale_e_prime_informazioni?contentId=SRV12704
 node	13041600462	https://metodosoldhouse.it/
@@ -1945,7 +1946,7 @@ node	13059220214	https://www.facebook.com/langolodelbucato
 node	13059826839	https://fewo-sardinien.de.cool/
 node	13059841586	https://www.santamarialapalma.it/
 node	13064976951	https://travel.eni.com/iveportal/stations/stationfinder.do?locale=en_CH&m=3&id=IT56438
-node	13071982447	http://www.ilsognodialghero.it/
+node	13071982447	https://www.ilsognodialghero.it/
 node	13072009785	https://www.nitidia.it/
 node	13073319201	https://www.lisciaeldiresort.it/
 node	13078128831	https://www.antonellozappino.it/la-riva/
@@ -2045,10 +2046,11 @@ node	13659019301	https://questure.poliziadistato.it/it/servizio/orari/5730dc9d14
 node	13673119501	https://www.istitutoamsicora.edu.it/
 node	13686531239	https://www.muasinnai.com
 node	13703824682	https://enermed.it/
-node	13708990401	http://www.rurinnova.com
+node	13708990401	https://www.rurinnova.com/
 node	13729669151	https://prolococalasetta.it/piccole-librerie-condivise/
 node	13739545548	https://www.tharrosmarittima.it/
-node	13752106401	http://sucoili.com
+node	13752106401	https://sucoili.com/
+node	13765289849	https://www.bongasurfschool.it/
 way	23937282	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII179224
 way	24038576	https://www.santeodoroulm.it/
 way	27799788	https://www.ismolas.it/
@@ -2971,6 +2973,7 @@ way	1488883762	https://www.comprensivosenorbi.edu.it/
 way	1491014968	http://www.campeggiotorrechia.it/
 way	1493574801	https://www.lecittadellinfanzia.it/struttura/le-ciribiricoccole/
 way	1500733848	https://www.tharrosmarittima.it/
+way	1504348801	http://www.agriturismolurotu.com/
 relation	39373	http://www.comunesanteodoro.gov.it/
 relation	39734	https://www.comune.domusdemaria.ca.it/
 relation	39736	https://www.comune.teulada.ca.it/
@@ -3504,9 +3507,9 @@ relation	15648470	www.camminosantujacu.it
 relation	15648708	www.camminosantujacu.it
 relation	15648733	www.camminosantujacu.it
 relation	15648924	www.camminosantujacu.it
-relation	15649055	www.camminosantujacu.it
+relation	15649055	https://camminosantujacu.it/
 relation	15649225	https://www.camminosantujacu.it
-relation	15652565	www.camminosantujacu.it
+relation	15652565	https://camminosantujacu.it/
 relation	15652866	www.camminosantujacu.it
 relation	15655017	http://www.camminando.eu/wordpress/?page_id=59
 relation	15657352	http://www.parcogennargentu.it/index.htm
@@ -3614,7 +3617,7 @@ relation	20048810	https://www.sardegnasentieri.it/sentiero/centro-abitato-di-jer
 relation	20051032	https://www.sardegnasentieri.it/node/4811
 relation	20051994	https://www.sardegnasentieri.it/node/3881
 relation	20202976	https://www.camminosantujacu.it
-relation	20203080	www.camminosantujacu.it
+relation	20203080	https://camminosantujacu.it/
 relation	20203419	https://www.camminosantujacu.it
 relation	20203460	https://www.camminosantujacu.it
 relation	20203516	https://www.camminosantujacu.it
@@ -3631,6 +3634,10 @@ relation	20211535	https://www.camminosantujacu.it
 relation	20212078	https://www.camminosantujacu.it
 relation	20401096	https://openclimbing.org/relation/20401096
 relation	20410411	https://openclimbing.org/relation/20410411
+relation	20598186	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII181091
+relation	20600196	https://www.sardegnasentieri.it/en/node/1093
+relation	20608088	http://www.sardegnasentieri.it/sentieri/
+relation	20608105	http://www.sardegnasentieri.it/sentieri/
 node	472121306	http://www.comune.nuoro.it
 node	563303855	http://www.agriturismoiloghe.com
 node	648982433	http://www.villabarbarina.com
@@ -3740,6 +3747,7 @@ node	4366148220	www.bachilebertula.it
 node	4367749446	http://www.dmeloni.it
 node	4449216135	http://pacs.unica.it/cere/
 node	4473484703	http://www.nonnaisa.com/
+node	4473488454	https://www.okpizzaevolution.it/
 node	4475204463	http://www.ristorantebosa.com
 node	4484285194	http://www.lagrumetobeb.com
 node	4493007759	http://www.comune.castelsardo.ss.it
