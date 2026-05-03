@@ -159,7 +159,7 @@ node	1576336916	https://www.abbaziasettefrati-fratres.it/
 node	1576498769	https://www.promuseoboldrini.it/
 node	1583772617	https://www.museodelvetropiegaro.it/
 node	1612289206	https://badiailvingone.it
-node	1628199153	http://www.hotelmorlacchi.it
+node	1628199153	https://www.hotelmorlacchi.it/
 node	1628199154	https://www.hotelsansebastianoperugia.com/
 node	1628199159	https://www.morlacchilibri.com/libreria/
 node	1628232938	https://www.hilton.com/en/hotels/pegonup-rosetta-hotel-perugia/
@@ -197,7 +197,7 @@ node	1945036764	https://www.straginazifasciste.it/?page_id=38&id_strage=2150
 node	1951293015	http://www.iluoghidelsilenzio.it/?p=16749
 node	1962342447	https://www.metemagno.it/
 node	1972368666	http://www.ristoranteilconvento.it
-node	2044591398	http://www.albergoanna.it
+node	2044591398	https://www.albergoanna.it/
 node	2111237743	https://www.agriturismoilper.it
 node	2133499004	https://www.trilogyclub.it/
 node	2147499234	https://www.sanfelicissimo.com
@@ -1210,6 +1210,7 @@ node	13730150697	https://bellaumbria.dk/
 node	13738092810	https://unica.istruzione.gov.it/cercalatuascuola/istituti/TRMM81005A/guardea-b-dalviano/
 node	13738092811	https://unica.istruzione.gov.it/cercalatuascuola/istituti/TREE81006C/guardea-icattiglianoguard/
 node	13738092812	https://unica.istruzione.gov.it/cercalatuascuola/istituti/TRAA810034/guardea-icattiglianoguard/
+node	13765077201	https://www.lacasettadichiara.it
 way	23079751	https://turismo.comune.perugia.it/poi/giardini-carducci
 way	30110992	https://www.orvietoviva.com/funicolare-e-bus-orvieto/
 way	30627124	https://www.comune.orvieto.tr.it/la-citta/gestione-parcheggi-e-moblita/#5
@@ -1280,6 +1281,7 @@ way	144373509	http://www.lamborghinionline.it/pagine/golf-club
 way	146617509	https://torredellasoara.it
 way	148489166	http://www.gsgt.it/brico.html#RIFUGIO
 way	149647658	http://www.montimartaniseranosubasio.it
+way	149668806	https://www.iluoghidelsilenzio.it/san-masseo-de-platea-assisi-2/
 way	149675315	https://www.duomospoleto.it/
 way	153761485	https://campusdavinci.edu.it
 way	154180015	https://www.gubbioculturamultiservizi.it/servizi/parcheggiare-a-gubbio/
@@ -1993,7 +1995,6 @@ way	1490850416	https://www.iluoghidelsilenzio.it/chiesa-di-san-giacomo-de-muroru
 way	1498774244	https://www.anticadimoradelcarmelo.com/
 way	1502445964	https://www.agriturismoilgirasole.net/en/home/homepage/
 relation	1253429	https://www.abbaziacollemedio.it/
-relation	1948091	https://chemindassise.org/
 relation	2048968	http://www.camminodiassisi.it
 relation	2154336	http://musei.beniculturali.it/musei?mid=5351&nome=museo-archeologico-nazionale-dellumbria
 relation	2163461	https://www.conservatorioperugia.it/
@@ -2295,7 +2296,6 @@ way	43051908	https://santuariorivotortoassisi.org/
 way	54610355	https://www.comune.montefalco.pg.it/pagine/polizia-stradale
 way	76844973	https://www.assisisantuariospogliazione.it/
 way	105440966	https://www.porziuncola.org/
-way	106506109	https://www.santuariosandamiano.org/
 way	106506111	https://www.santuarioeremodellecarceri.org/
 way	140678619	https://www.superconti.eu/punti-vendita/orvieto/
 way	149526977	https://www.santacolette.com/
@@ -2355,6 +2355,7 @@ relation	8050899	http://www.viaggispirituali.it/strutture-turismo-religioso/umbr
 relation	16020019	http://www.lavalnerina.it/
 relation	17666893	http://www.agriturismopoponi.it/
 relation	18259686	https://benedettineciterna.wordpress.com/
+relation	20601484	https://www.santuariosandamiano.org/
 node	703424171	http://italia.indettaglio.it/ita/umbria/perugia_sangiustino_cospaia.html
 node	2329559965	www.osterialecivette.it
 node	4364974414	http://www.umbriameteo.com/webcam/castelluccio/
