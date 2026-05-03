@@ -49,6 +49,7 @@ node	627797955	https://www.centromedicosantemidio.it/
 node	636108666	http://www.siconte.it/it/punti-vendita/si-supermercati/supermercati-ancona-tavernelle
 node	637949778	https://www.centotorri.com/
 node	637949781	https://www.lorenzcafe.it/
+node	637964456	https://www.pizzeriaascolana.it/
 node	637971065	https://www.locandaannomille.it/menu-osteria-anno-mille
 node	638357811	https://corner-caffe-ancona.eatbu.com/
 node	639264164	https://www.senbhotel.it/
@@ -489,6 +490,7 @@ node	3143447361	https://www.conad.it/ricerca-negozi/negozio.010048.html
 node	3150218201	https://www.cosedite.it/
 node	3150248950	https://www.ristorantepizzerialunarossa-senigallia.it/
 node	3156294094	https://www.gianniguerra.it/penelope/penelope.htm
+node	3157694965	https://www.bancomarchigiano.it/filiali/senigallia/
 node	3164294497	https://www.alcuocodibordo.it/
 node	3164305586	https://www.labuga.it/
 node	3172070395	http://www.comunedilapedona.it
@@ -1347,6 +1349,7 @@ node	10238035485	https://www.amplifon.com/it/cerca-centro-amplifon/apparecchi-ac
 node	10238038750	https://www.immobiliarececcodascoli.com/
 node	10238052445	https://www.kidsandus.it/it/scuole-inglese/ascoli
 node	10238052828	https://www.picenworldmuseum.it/
+node	10239004586	http://alicegelati.it
 node	10240316890	http://www.ancona.lago.it
 node	10240333092	https://www.assiadriatica.it/sede-assicurazione-unipolsai/assiadriatica-ancona.html
 node	10252828979	https://www.multiradio.it/
@@ -1944,7 +1947,7 @@ node	12437163577	https://eltekelettronica.it/
 node	12441370948	https://www.civadiviaggiare.it/
 node	12443601184	https://www.cieloenuvole.it/
 node	12443601187	http://www.bonclericihouse.it/web
-node	12443601189	http://www.casalapis.com/
+node	12443601189	https://www.casalapis.com/
 node	12443626479	https://www.fornopiconi.it/
 node	12443683310	https://www.casavinto.com/
 node	12444238722	http://www.ilpostodelleviole.com/
@@ -1989,8 +1992,8 @@ node	12480244006	https://www.fontesomma.it/
 node	12481013359	https://www.ilbuongustoenoteca.it/
 node	12481113830	https://sporthousecagli.it/
 node	12481113840	https://www.merceriaintimoilcorso.it/
-node	12481113841	http://www.btpoint.it/
-node	12481113844	http://www.mobiliprocacci.com/it/offerte.asp
+node	12481113841	https://www.btpoint.it/
+node	12481113844	https://www.mobiliprocacci.com/it/offerte.asp
 node	12481113848	http://tfsport.it/
 node	12481113849	https://serrallegri.com/
 node	12481113850	https://www.motobaleani.com/
@@ -2166,7 +2169,7 @@ node	13021234304	https://www.colledelgiglio.com/
 node	13025686957	https://www.roof281.com/
 node	13026509252	https://comune.montecerignone.pu.it/luoghi/2864899/municipio-monte-cerignone
 node	13026556580	https://comune.lunano.pu.it/luoghi/2094005/municipio-lunano
-node	13026558125	http://www.comune.pietrarubbia.pu.it/hh/index.php
+node	13026558125	https://comune.pietrarubbia.pu.it/hh/index.php
 node	13026567848	https://comune.isola-del-piano.ps.it/luoghi/2871535/muncipio-isola-piano
 node	13026593937	https://comune.petriano.pu.it/luoghi/2590315/municipio-petriano
 node	13027142618	https://www.gufietartufimarche.com/
@@ -2358,6 +2361,20 @@ node	13743747351	https://www.bagniclaudia.com/
 node	13744387102	https://www.pcmmeccanica.it/
 node	13744387103	https://www.tfvetritalia.com/
 node	13751448584	instagram.com/kaleidonpesaro
+node	13763633201	http://tappomatto.com
+node	13763674301	http://lupinpozzo.com
+node	13770979656	https://www.nexussrl.net/it/
+node	13776481903	http://lalimentaripesaro.com
+node	13776481904	http://ilfurgoncino.it
+node	13776708001	http://chantalculturedalmondo.it
+node	13785290601	http://ristorantesurin.com
+node	13785486701	http://borgopetranumana.it
+node	13785978101	http://fidomania.com
+node	13786523199	http://www.hotelflyingpesaro.com/
+node	13786531415	https://www.hotelpresidentspesaro.it/
+node	13786549814	http://www.nostranoristorante.it/
+node	13786640077	https://linktr.ee/tenrestaurant?fbclid=IwY2xjawGkKFxleHRuA2FlbQIxMAABHe8sfpD54SnsFGDzmuXtBJoRKsrzPUY6XWn1TRDmteqmd6eoAa26-8MNmg_aem_-GQ_ImOLDDmFZyLY5fpLbQ
+node	13789108780	https://pagliapizzaefichi.it
 way	22781491	https://www.roccasenigallia.it
 way	23121576	https://www.regione.marche.it/
 way	23177834	https://www.centroleancore.it/
@@ -2406,6 +2423,7 @@ way	68458699	http://www.santuariomacereto.it/
 way	69764943	https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII158941#
 way	70050612	https://www.lasorgenteagriturismo.com/
 way	72857152	https://www.treiamusei.it/teatro-comunale/
+way	75139276	https://www.aegitalia.com/
 way	75614890	https://fonteavellana.it/
 way	75614891	http://www.asmontecatria.com
 way	81296770	https://www.allasolagna.it/
