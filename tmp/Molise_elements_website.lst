@@ -1,17 +1,24 @@
 @type	@id	website
 node	67283748	https://www.comune.campobasso.it/sito/
 node	67283760	https://www.comune.acquavivacollecroce.cb.it/it
+node	67283771	https://www.comune.busso.cb.it/
 node	67283781	https://www.comune.campolieto.cb.it/
 node	67283786	https://comune.casacalenda.cb.it/
+node	67283790	https://comune.casalciprano.cb.it/
 node	67283792	https://comune.castelmauro.cb.it/
+node	67283794	https://www.comune.cercemaggiore.cb.it/
+node	67283798	https://comune.cercepiccola.cb.it/
 node	67283799	https://www.comune.civitacampomarano.cb.it/
 node	67283804	https://www.comune.colletorto.cb.it/hh/index.php
 node	67283817	https://www.comune.guardialfiera.cb.it/
+node	67283820	https://www.comune.guardiaregia.cb.it/
 node	67283827	https://www.comune.jelsi.cb.it/
 node	67283831	https://www.comune.guglionesi.cb.it/
+node	67283836	https://comune.limosano.cb.it/
 node	67283843	https://www.comune.larino.cb.it/
 node	67283844	https://www.comune.matrice.cb.it/
 node	67283853	https://www.comune.macchiavalfortore.cb.it/
+node	67283860	https://comune.montagano.cb.it/
 node	67283874	https://comune.montelongo.cb.it/
 node	67283880	https://www.comune.montecilfone.cb.it/
 node	67283889	https://www.comune.montorioneifrentani.cb.it/hh/index.php
@@ -25,26 +32,45 @@ node	67283924	https://www.comune.ripabottoni.cb.it/hh/index.php
 node	67283935	https://comune.portocannone.cb.it/
 node	67283941	https://www.comune.sangiovanniingaldo.cb.it/
 node	67283946	https://www.comune.sangiulianodipuglia.cb.it/
+node	67283947	https://www.comune.salcito.cb.it/it
 node	67283956	https://www.comune.sanfelicedelmolise.cb.it/
 node	67283967	https://comune.santacrocedimagliano.cb.it/
+node	67283971	https://www.comune.santangelolimosano.cb.it/hh/index.php
 node	67283975	https://www.comune.sanmartinoinpensilis.cb.it/
+node	67283985	https://www.comune.sanpolomatese.cb.it/
 node	67283998	https://www.comune.tavenna.cb.it/it
 node	67284003	https://www.comune.santeliaapianisi.cb.it/
+node	67284013	https://www.comune.sepino.cb.it/
 node	67284023	https://www.comune.bonefro.cb.it/hh/index.php
+node	67284025	https://www.comune.bojano.cb.it/
+node	67284027	https://comune.baranello.cb.it/
 node	67284028	https://www.comune.ururi.cb.it/
 node	67284030	https://comune.castelbottaccio.cb.it/
 node	67284031	https://comune.campomarino.cb.it/
 node	67284032	https://www.comune.campodipietra.cb.it/
+node	67284038	https://comune.campochiaro.cb.it/
+node	67284042	https://comune.duronia.cb.it/
+node	67284045	https://comune.colledanchise.cb.it/
+node	67284052	https://comune.castropignano.cb.it/
 node	67284057	https://www.comune.castellinodelbiferno.cb.it/
 node	67284065	https://www.comune.lupara.cb.it/
 node	67284067	https://www.comune.lucito.cb.it/
+node	67284086	https://comune.fossalto.cb.it/
+node	67284097	https://comune.oratino.cb.it/
+node	67284103	https://www.comune.pietracupa.cb.it/
 node	67284126	https://www.comune.mafalda.cb.it/it
+node	67284134	https://www.comune.molise.cb.it/hh/index.php
 node	67284138	https://www.comune.monacilioni.cb.it/hh/index.php
 node	67284148	https://www.comune.montefalconenelsannio.cb.it/
+node	67284163	https://www.comune.spinete.cb.it/
 node	67284166	https://www.comune.roccavivara.cb.it/
 node	67284169	https://www.comune.rotello.cb.it/
+node	67284175	https://www.comune.sanbiase.cb.it/
 node	67284178	https://www.comune.sangiacomo.cb.it/it
 node	67284199	https://www.comune.toro.cb.it/
+node	67284208	https://comune.torelladelsannio.cb.it/
+node	67284221	https://www.comune.vinchiaturo.cb.it/
+node	67284224	https://www.comune.trivento.cb.it/
 node	656476914	https://www.conad.it/ricerca-negozi/negozio.005911.html
 node	687322602	https://ristorantefedericoii.it/
 node	687333685	https://www.comune.termoli.cb.it/
@@ -79,6 +105,7 @@ node	2718224411	https://www.musei.molise.beniculturali.it/musei?mid=210&nome=com
 node	2750998696	http://www.lipumolise.altervista.org/
 node	2752879530	https://www.tavernadelduca.net/
 node	2752879531	https://www.ristoranteolmicello.com/
+node	2856932945	https://www.comune.riccia.cb.it/
 node	2891640104	https://www.agriturismoguadocannavina.net/
 node	2891640106	http://www.ristorantelelfo.it
 node	2929635675	https://www.locandamammi.it/
@@ -216,7 +243,14 @@ node	13306935022	https://www.moliseinaction.it/
 node	13306935023	https://attraversoilmolise.it/
 node	13316754404	https://www.facebook.com/rigenerasnc
 node	13531470619	https://www.consorzioforestalematese.it/
+node	13749467059	https://www.casalemaginulfo.com/
 node	13752998873	https://www.rfi.it/it/stazioni/carpinone.html
+node	13784524544	https://www.italiamappata.it/molise/cb/222-piana/
+node	13786215060	https://www.italiamappata.it/molise/cb/230-pietroneri/
+node	13786296137	https://www.italiamappata.it/molise/cb/145-macchie/
+node	13786296138	https://www.italiamappata.it/molise/cb/132-iacovantuono/
+node	13786296139	https://www.italiamappata.it/molise/cb/8-anniballi/
+node	13786296140	https://www.italiamappata.it/molise/cb/189-monte/
 way	56248419	https://www.facebook.com/riovivocamperpark
 way	62075956	https://www.musei.molise.beniculturali.it/musei?mid=934&nome=castello-di-civitacampomarano
 way	67731527	https://www.hotelmeridiano.com/it/ristorante-luna-restaurant.html/
@@ -294,6 +328,7 @@ way	347996350	https://www.agriturismolasorgente.it/
 way	347996357	http://www.agriturismovillamarcella.it/
 way	347996358	http://www.agriturismozampacorta.it/
 way	353496245	https://www.webdomus.net/
+way	357765076	https://www.casalemaginulfo.com/
 way	358875706	https://www.facebook.com/p/Rifugio-Valle-Piana-Roccamandolfi-61584276389267/
 way	359130951	http://www.ribomolise.it/
 way	359130952	http://www.ribomolise.it/
@@ -481,18 +516,17 @@ way	1076684945	https://www.lidomistral.com/
 way	1077536770	https://www.lidolapiovra.com/
 way	1077536773	https://lidobalneare.termoli.cb.it/
 relation	14635178	https://www.parcoregionaledelmatese.it/
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
-
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
-
-</body>
-</html>
+node	13340059807	https://comune.pescopennataro.is.it/
+way	1465271313	https://catalogo.beniculturali.it/detail/ArchitecturalOrLandscapeHeritage/1400019192
+way	1465631242	https://www.gem.wiki/Castelmauro_wind_farm
+way	1466046524	https://www.camperonline.it/sosta-camper/aree-di-sosta/italia/molise/area-comunale/11764
+way	1473617138	https://www.areeprotettemolise.it/montagnola-molisana/
+way	1473628257	https://rgpbio.it/riserva/pesche/ZSC
+way	1473647903	https://www.riservamabaltomolise.it/
+way	1475259981	https://www.tuttocampo.it/Molise/Eccellenza/GironeCoppaItaliaDilettanti/Squadra/Guardialfiera/1011537/Stadio
+relation	1756297	https://ingiroapiunonposso.it/bosco-degli-abeti-soprani-in-molise/
+relation	17760420	https://appenninobiketour.com/percorso/
+relation	17782266	https://appenninobiketour.com/percorso/
+relation	19917166	https://www.rainews.it/tgr/molise/video/2025/06/viabilita-provinciale-84-alto-molise-strada-collegamenti-955e8c7d-175b-4b56-afe8-e3fcdda4a14c.html
+relation	20063668	https://www.gem.wiki/Castelmauro_wind_farm
+relation	20110726	https://www.ilbenecomune.it/2018/10/18/un-fiume-minore-nato-da-monti-minori/
