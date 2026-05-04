@@ -784,9 +784,13 @@ node	13651642901	https://www.bnblameziairport.it/
 node	13686720601	http://www.hotelparnaso.it
 node	13730638929	https://www.villaggiomimosa.com/
 node	13737065467	https://poste.it/
-node	13737065468	http://comune.malito.cs.it/
+node	13737065468	https://comune.malito.cs.it/
 node	13740082162	https://www.comune.joppolo.vv.it/
 node	13744448779	https://www.capovaticanoluxuryrooms.it
+node	13773790041	https://www.calabriastayandplay.it
+node	13789670789	https://www.hotelcecita-sila.it/
+node	13789899845	https://www.hotellosciatore.com/
+node	13791190689	https://www.ristoranteanticoborgo.com/
 way	27836339	https://unical.it/portale/strutture/centri/residenziale/Servizi_dip/Socrates/
 way	47051512	https://www.sanrobertoebiagio.it/indexmobile.php
 way	86940311	https://www.sacal.it/
@@ -967,7 +971,6 @@ way	328359045	https://www.facebook.com/santuariosangiovannipaoloiicardolo/?local
 way	333558339	https://www.newkitezone.it/
 way	338120756	http://www.lameziateam.it/
 way	338456217	http://www.iislamezia.it
-way	340696650	https://www.isentieridelpollino.it/castelli-rupestri-parco-pollino/castello-normanno-svevo-Morano-Calabro-Pollino.html
 way	350820524	https://www.sibarifly.com/
 way	352688714	http://www.newmagnagreciahotel.it/
 way	353414619	https://www.beniculturali.it/luogo/museo-e-parco-archeologico-archeoderi?page=2#contatti
@@ -1156,8 +1159,10 @@ way	1054090057	https://scuolemonasteraceriace.edu.it
 way	1054234060	http://www.comune.feroletodellachiesa.rc.it/
 way	1057609162	https://www.cappuccinidicalabria.com/belvedere-marittimo
 way	1059059864	http://www.icbelmontecalabro.gov.it/
+way	1059069852	https://comune.belsito.cs.it/
 way	1061887287	http://comune.sansosti.cs.it/
 way	1062536734	https://www.comune.rogliano.cs.it/
+way	1063054982	https://comune.pianecrati.cs.it
 way	1063481826	https://www.facebook.com/SantuarioPaternoCalabro/?locale=it_IT
 way	1063485355	https://www.comune.parenti.cs.it/
 way	1064098171	https://www.facebook.com/groups/1426738390929752/?locale=it_IT
@@ -1187,7 +1192,6 @@ way	1137103049	https://www.iisfermi.edu.it/
 way	1139340782	https://www.asp.cz.it/
 way	1173629732	https://www.parrocchiasanmarcocetraro.it/
 way	1174327176	https://www.orientalpark.it/
-way	1174753643	https://www.conad.it/ricerca-negozi/negozio.050247.html
 way	1175009342	https://www.marinadirossano.it/
 way	1176630653	https://www.facebook.com/parcogaslinicz/
 way	1178313400	https://www.icsofiaalessio-contestabile.edu.it/
@@ -1294,7 +1298,6 @@ way	1340235677	https://zaap.bio/SUN-BAY-Le-Castella
 way	1347117118	https://www.vrbo.com/it-it/affitto-vacanze/p11069469?uni_id=6100735
 way	1347117119	https://www.miriasol.it/
 way	1348710767	https://www.aethersuitestropea.com/index.php
-way	1349336119	https://www.ristoranteanticoborgo.com/
 way	1351561540	https://www.hotelroscianum.it/
 way	1365990555	https://collegiosantadrianosite.wordpress.com/
 way	1368377650	https://www.comune.grisolia.cs.it/
@@ -1372,6 +1375,8 @@ way	1473680478	http://www.duchessadellasila.it/
 way	1482182264	https://rgpbio.it/riserva/serra-nicolino-piano-dellalbero/
 way	1499854308	https://comune.domanico.cs.it/
 way	1502685370	https://www.iosandemetrio.edu.it/plessi/san-demetrio-corone
+way	1508164027	https://www.hotelcecita-sila.it/
+way	1508425720	https://www.isentieridelpollino.it/castelli-rupestri-parco-pollino/castello-normanno-svevo-Morano-Calabro-Pollino.html
 relation	2992269	https://www.parcodelleserre.it/
 relation	4168965	https://www.beniculturali.it/mibac/opencms/MiBAC/sito-MiBAC/Luogo/MibacUnif/Luoghi-della-Cultura/visualizza_asset.html?id=151185&pagename=57
 relation	4277258	https://www.santaspina.it/
