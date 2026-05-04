@@ -3099,6 +3099,18 @@ node	13744788315	http://www.aziendaagricolareale.it/
 node	13752224001	http://lalberodeivisconti.it
 node	13757922812	https://www.caseificioluise.it/
 node	13757922852	https://informareonline.com/
+node	13778094257	https://www.gameorbit.it
+node	13786458210	https://www.aslnapoli1centro.it/751/
+node	13786539378	https://www.ospedaleinternazionale.it/
+node	13789074506	https://www.comune.napoli.it/
+node	13789074510	https://www.unicredit.it/it/contatti-e-agenzie/lista-agenzie/na/napoli/fil-operativa-sud-italia-ag66052.html
+node	13789076946	https://cultura.gov.it/luogo/museo-civico-castelnuovo
+node	13789173629	https://www.villaalbina.it
+node	13789450954	https://www.madrenapoli.it/
+node	13789755444	https://www.clinicamediterranea.it/
+node	13790561520	https://www.scuoladicinema.tv/
+node	13790859310	https://it.usembassy.gov/embassy-consulates/naples/
+node	13790859347	https://www.facebook.com/pg/BB-Agor%C3%A0-Mura-Greche-268377017177778/
 way	22652287	https://www.aeroportodinapoli.it/
 way	22790881	https://sscnapoli.it/storia-dello-stadio/
 way	24225619	https://reggiadicaserta.cultura.gov.it/
@@ -3186,7 +3198,6 @@ way	149392658	https://www.jw.org
 way	149792327	https://www.liceorescigno.edu.it/
 way	149979063	https://www.centrofrancescano.it/
 way	150199670	https://www.ssjuvestabia.it/lo-stadio/
-way	150527653	https://it.usembassy.gov/embassy-consulates/naples/
 way	153502384	https://tomtominternational.sharepoint.com/teams/MapsGen/SoOps/RSO%20ECA/Management/Shared%20Documents/General/Local%20Intelligence_temporary/LI_Activities.pptx?web=1
 way	153620666	https://www.parcoregionaledeimontilattari.it/index.php?action=index&p=377
 way	154384030	www.cavalieresrl.com
@@ -3331,7 +3342,6 @@ way	248339338	https://grandhoteloriente.it/
 way	248522001	https://www.facebook.com/polisportivapartenope/?locale=it_IT
 way	248629069	https://www.omnicomprensivocervinara.edu.it/
 way	248690443	https://www.coelmo.net/
-way	248710756	https://www.aslnapoli1centro.it/751/
 way	248821196	https://www.restaurantlaterrazza.it/
 way	248981517	https://www.bnnonline.it/
 way	249196720	http://www.lacolombaia.it/prove/agriturismo.html
@@ -3355,7 +3365,7 @@ way	262438631	http://www.cir.campania.beniculturali.it/luoghi-della-cultura/crip
 way	262438632	http://www.cir.campania.beniculturali.it/luoghi-della-cultura/criptoportico-teatro-romano-di-suessa
 way	262665909	www.bikesharingnapoli.it
 way	262734295	http://musei.beniculturali.it/musei?mid=761&nome=villa-romana-di-san-giovanni-in-palco
-way	262778366	www.bikesharingnapoli.it
+way	262778366	https://www.bikesharingnapoli.it
 way	262862430	https://www.asianapoli.it/centri-di-raccolta
 way	262862997	https://www.asianapoli.it/centri-di-raccolta
 way	262864839	https://www.asianapoli.it/centri-di-raccolta
@@ -3395,7 +3405,6 @@ way	286838787	https://www.residenzaexcelsior.it/
 way	291938074	http://cir.campania.beniculturali.it/archeogiugliano/
 way	294173520	https://www.cicliscotto.it/
 way	295017368	http://www.palazzogallotti.it
-way	295088643	https://www.facebook.com/pg/BB-Agor%C3%A0-Mura-Greche-268377017177778/
 way	301663282	https://www.comune.acerra.na.it/pagina.php?id=43
 way	301972362	https://www.sorrentolift.it/
 way	301978864	https://www.hotelreginasorrento.com/
@@ -3554,7 +3563,6 @@ way	412687323	https://www.hotelglidei.com/
 way	413075836	http://www.web-app.it/
 way	413075837	https://www.centronauticomarinelli.com/
 way	413104225	http://www.sosprint.it/
-way	413113750	www.villaalbina.it
 way	413379958	https://www.ideamare.com//
 way	413397761	http://www.kiamotorsca.it
 way	413991661	http://www.tennishotel.it/
@@ -3589,7 +3597,6 @@ way	423466520	https://www.hotelvillacimbrone.com/
 way	424024791	https://www.capvin.com
 way	424488454	www.alberghierocastelnuovocilento.gov.it
 way	424501510	https://www.ficosa.com/
-way	425342548	https://www.clinicamediterranea.it/
 way	428294185	https://www.pastagarofalo.it/it_it/
 way	428784712	https://www.lamedusahotel.com/
 way	428874421	www.hotelserenella.it
@@ -4379,11 +4386,8 @@ relation	3106073	https://www.comunedibonito.it/portale/unione-dei-comuni-terre-d
 relation	3134841	https://www.cira.it/it
 relation	3321296	https://www.grandhotelcapodimonte.it/
 relation	3345231	https://questure.poliziadistato.it/Napoli
-relation	3346542	https://www.comune.napoli.it/home
-relation	3346549	https://www.unicredit.it/it/contatti-e-agenzie/lista-agenzie/na/napoli/fil-operativa-sud-italia-ag66052.html
 relation	3609123	https://www.archiviodistatonapoli.it/
 relation	3820923	https://www.icsboviocolletta.edu.it/
-relation	3821123	https://www.madrenapoli.it/
 relation	3824019	https://www.museoarcheologiconapoli.it/
 relation	4069494	http://www.pompeiisites.org/Sezione.jsp?titolo=Casa+degli+Amorini+Dorati+%28VI+16%2C7%29&idSezione=87&lookfor=Casa%20degli%20amorini%20dorati
 relation	4464209	https://reggiadicaserta.cultura.gov.it/scopri-il-complesso/circuito-archeologico-dellantica-capua/
@@ -4752,7 +4756,7 @@ way	1069157099	https://www.olattariello.com
 way	1265506175	https://www.jetcamp.com/it/italia/camping-maldive-first-class/
 way	1306499893	https://www.campeggiomingardo.it/
 way	1323904669	https://www.nitrodi.com/
-way	1324177310	https://www.mezzatorre.com/
+way	1324177310	https://www.pellicanohotels.com/it/hotels/mezzatorre-hotel-e-thermal-spa/#/
 way	1340342349	https://parrocchiadisanbenedetto.it/
 way	1353651229	https://www.comune.carinaro.ce.it/it-it/linea-diretta/scrivici
 way	1353658178	http://www.ischiacampingpaluba.it/camping.html
@@ -4777,29 +4781,18 @@ way	1486850766	https://www.albacamping.com/
 way	1486850773	https://www.torredivelia.it/
 relation	14434407	https://www.wwf.it/oasi/campania/lago_di_campolattaro/
 relation	14635178	https://www.parcoregionaledelmatese.it/
-node	68581547	www.ravello.com
-node	1892958672	http://www.lanticocortile.it/
-node	4033063953	http://www.vacanzeforiapalinuro.it
-node	9306631595	http://www.comune.giugliano.na.it/index.php/servizi/informazioni-sulla-raccolta-rifiuti/item/96-informazioni-sulla-raccolta-dei-rifiuti
-node	10973765686	https://it.wikipedia.org/wiki/Ipogeo_dei_Cristallini
-node	11954291648	https://coinatmradar.com/bitcoin_atm/29525/bitcoin-atm-bitomat-naples-centro-commerciale-quarto-nuovo-napoli/
-node	12273347981	www.vincenzoberretti.it
-node	12498361618	https://nxsgrowshop.com
-node	12811290036	https://www.supermercatipiccolo.it/index.php/punti-vendita
-node	13136583282	autolineelamanna.it
-node	13406448700	autolineelamanna.it
-way	160954511	hotelpixunte.com
-way	227481094	http://caudinia.altervista.org/forchia1.htm
-way	360022936	http://www.comune.giugliano.na.it/index.php/servizi/informazioni-sulla-raccolta-rifiuti/item/96-informazioni-sulla-raccolta-dei-rifiuti
-way	424377361	www.sorelledeluca.com
-way	570296942	http://www.bottegacellito.it
-way	573467914	https://www.borgoditortorella.com/poi/chiesa-di-san-vito-martire/
-way	733643615	http://web.archive.org/web/20210403120316/https://www.ilgiuglianese.it/cappella-dei-santi-filippo-e-giacomo-a-giugliano-conosciuta-come-cappella-dei-morti/
-way	1021640138	https://fratellilabufala.com/menu-inverno-2021-a/
-relation	40658	www.ravello.com
-relation	8110890	https://laviasilente.it/content/
-relation	17760420	https://appenninobiketour.com/percorso/
-relation	17782266	https://appenninobiketour.com/percorso/
-relation	17784877	https://appenninobiketour.com/percorso/
-relation	17785838	https://appenninobiketour.com/percorso/
-relation	19742496	https://laviasilente.it/content/
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
+
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::rate_limited. Please check /api/status for the quota of your IP address. </p>
+
+</body>
+</html>
