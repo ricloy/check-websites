@@ -7,3 +7,116 @@ MISSING_URI_SCHEME  <hr>
 MISSING_URI_SCHEME  <html><head>
 MISSING_URI_SCHEME  <p>An appropriate representation of the requested resource could not be found on this server.</p>
 MISSING_URI_SCHEME  <title>406 Not Acceptable</title>
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/264673865 http://colosseoorg.wix.com/aitrescalini → https://colosseoorg.wix.com:443/aitrescalini
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9714419784 http://l.ead.me/bb3jDF
+SUCCESS_(200…299) 200 https://osm.org/browse/node/6459748656 http://l.ead.me/bb3jEV
+SAME_DOMAIN_REDIRECTION_(300…399) 303 https://osm.org/browse/way/403045763 https://ospitalitareligiosa.it/en/structures/ad/familarca,5546 → /en/structures/all,0
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/1648166947 http://leano.altervista.org/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/72962031 http://italia.indettaglio.it/ita/lazio/poggiomirteto.html → https://italia.indettaglio.it/ita/lazio/poggiomirteto.html
+TIMEOUT https://osm.org/browse/node/4526715858 http://kalulu.it/providers/co-br-ag-or
+TIMEOUT https://osm.org/browse/way/367010323 http://visite.cimitericapitolini.it/architetti/personaggio-11.html
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/1370434 https://osm.org/browse/relation/1537040 http://whc.unesco.org/en/list/1158
+TIMEOUT https://osm.org/browse/way/34362827 http://visite.cimitericapitolini.it/monumenti-verano/personaggio-27.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/2000662 https://osm.org/browse/relation/2000666 http://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network → https://wiki.openstreetmap.org/wiki/WikiProject_Europe/E-road_network
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/2234038 http://www.abbaziacasamari.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/2265789 http://www.aironeinforma.it/duomo_di_santandrea.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/50773070 http://www.060608.it/it/cultura-e-svago/luoghi-di-culto-di-interesse-storico-artistico/chiese-cattoliche/domine-quo-vadis-s-maria-in-palmis.html → https://060608.comune.roma.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/134898086 http://www.ajaonline.org/node/833 → https://www.ajaonline.org/node/833
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/2280176 http://www.angolohermes.com/Luoghi/Lazio/Ausonia/S_Maria_del_Piano.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9725160049 http://www.arciviterbo.it/2019/07/01/lo-spazio-del-cielo-2/ → https://www.arciviterbo.it/2019/07/01/lo-spazio-del-cielo-2/
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/919376 http://www.archidiap.com/opera/albergo-rosso/ → http://archidiap.com/opera/albergo-rosso/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/253792940 http://www.arvaliastoria.it/dblog/scheda.asp?idscheda=14
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/434692525 http://www.aureliahospital.com/ → https://www.aureliahospital.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1893015314 http://www.bebvilladeste.com/bb-la-panoramica/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/253793806 http://www.arvaliastoria.it/dblog/scheda.asp?idscheda=5
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/956100760 http://www.camminodifrancesco.it → https://www.camminodifrancesco.it/
+TIMEOUT https://osm.org/browse/way/23896138 http://visite.cimitericapitolini.it/monumenti-verano/personaggio-37.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/1026680 http://www.centroculturalearacoeli.it/CMS/Alle-Sprachen/Alle-Kategorien/Oasi-Ges%C3%B9-Bambino-Greccio.aspx?Sel=339&lg=4 → https://www.centroculturalearacoeli.org/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/312138583 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=42136 → https://chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=42136
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/163229779 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=42131 → https://chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=42131
+CLIENT_ERROR_(400…499) 405 https://osm.org/browse/relation/14986760 http://www.etruschi.name.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1006105383 http://www.fastionline.org/record_view.php?fst_cd=AIAC_4342 → https://www.fastionline.org/record_view.php?fst_cd=AIAC_4342
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/1632687 http://www.foroitalico.altervista.org/montegiano.htm
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1217882279 http://www.gatc.it → https://www.gatc.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/32631124 http://www.giolitti.it/ → https://www.giolitti.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/475380685 http://www.grottepastena.it/ → https://www.grottepastena.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5601997762 https://osm.org/browse/node/6930509548 http://www.gruppolem.com → https://www.gruppolem.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5090066036 http://www.libreriateatrotlon.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/983852587 https://osm.org/browse/way/1221735753 http://www.lazioverticale.joomlafree.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/260540041 http://www.mymovies.it/cinema/roma/4916/ → https://www.mymovies.it/cinema/roma/4916/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/77683597 http://www.myspace.com/cslastrada → https://www.myspace.com:443/cslastrada
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/108630337 http://www.parchilazio.it/home~extra&oldp-comuni+id_parco-5+nomepagina-archeologia_arte+id-229.htm
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/24240367 https://osm.org/browse/way/205572626 https://osm.org/browse/way/220175965 https://osm.org/browse/way/1352198925 http://www.parcoappiaantica.it/ → https://www.parcoappiaantica.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/172782668 http://www.prolocoviconellazio.it/parrochia-santa-maria-goretti.html
+TIMEOUT https://osm.org/browse/node/5570903795 http://visite.cimitericapitolini.it/monumenti-verano/personaggio-58.html
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2959460930 http://www.sevoinapizzadillo.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/147061555 http://www.tarquiniaturismo.it/archivio6_luoghi-e-strutture-tarquinia-turismo_0_126_22_2.html → https://tarquiniaturismo.com//archivio6_luoghi-e-strutture-tarquinia-turismo_0_126_22_2.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/201950493 http://www.teatrobrancaccio.it/ → https://www.teatrobrancaccio.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2854681889 http://www.riservaduchessa.it/storia/collefegato.html
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1298397830 http://www.viafrancigenadisanfrancesco.com
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/13402532 http://www.tesoridiroma.net/foro_romano/maria_antiqua.html
+TIMEOUT https://osm.org/browse/way/367010355 http://www.cimitericapitolini.it/eventi-e-cultura/177-sala-mater-admirabilis.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1812809988 http://www.viconellazio.org/ → https://www.viconellazio.org/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/32867666 http://www.wwfroma11.it/documenti/F%20Ardeatino/Forte.htm
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/6058581167 https://osm.org/browse/node/6058581168 https://osm.org/browse/node/6058581169 https://osm.org/browse/node/6058581170 https://osm.org/browse/node/6058581171 https://osm.org/browse/node/6058581173 https://osm.org/browse/node/6058581174 https://osm.org/browse/node/6058581175 https://osm.org/browse/node/6058581176 https://osm.org/browse/node/6058581177 https://osm.org/browse/node/6058581178 https://osm.org/browse/node/6771427376 https://osm.org/browse/node/6771427377 https://osm.org/browse/node/9352570416 https://osm.org/browse/node/9352586717 https://osm.org/browse/node/9352586727 https://osm.org/browse/node/9352586728 https://osm.org/browse/node/9352586742 https://osm.org/browse/node/9352586743 https://osm.org/browse/node/9352586769 https://osm.org/browse/node/9352586770 https://osm.org/browse/way/1013711655 https://osm.org/browse/way/1013711656 https://osm.org/browse/way/1013711657 https://osm.org/browse/way/1013711658 https://osm.org/browse/way/1013711659 https://27crags.com/ → https://thetopo.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/949193274 https://catalogo.beniculturali.it/detail/ArchaeologicalProperty/1201339483-3
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/7206253186 https://coinatmradar.com/bitcoin_atm/11688/bitcoin-atm-shitcoins-club-rome-centro-commerciale-cinecittadue/
+TIMEOUT https://osm.org/browse/way/30693040 http://www.medioevo.roma.it/html/architettura/torri-ext/tex-marancia.htm
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/16439916 https://comune.cellere.vt.it/contenuti/338104/percorso-trekking
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12723154216 https://epn.eps.org/eps-historic-sites/#4
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9714435037 https://l.ead.me/bbC6K3
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3517484221 https://insieme-per.eu/ → https://together.europarl.europa.eu/it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/12564083 https://m.youtube.com/watch?v=2R3skmCAPT4/ → https://www.youtube.com/watch?app=desktop&v=2R3skmCAPT4%2F
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/4699039095 https://luoghidelcontemporaneo.beniculturali.it/dea-roma
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/10937793525 https://museocivilta.cultura.gov.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/539134 https://sansaba.gesuiti.it/basilica-storia-arte/ → https://www.parrocchiasansaba.it/basilica-storia-arte/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2628447770 https://qrmenu.restaurant/risto.asp?i=165&p=IG0H51W8CG
+TIMEOUT https://osm.org/browse/way/363223377 http://www.vicariatusurbis.org/?page_id=188&ID=103
+TIMEOUT https://osm.org/browse/relation/1826577 http://www.vicariatusurbis.org/Ente.asp?ID=4027
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/19126151 https://unica.istruzione.gov.it/cercalatuascuola/istituti/RMMM818016/e-q-visconti/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1068735575 https://wiki.openstreetmap.org/wiki/Ramsar_site
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/13210133 https://web.uniroma1.it/cencelle/tipo
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/22289 https://visite-palazzofarnese.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9458369151 https://www.arpalazio.it/documents/20124/67746/AL008.pdf
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12813664034 https://www.artribune.com/arti-visive/archeologia-arte-antica/2024/12/horrea-piperataria-foro-roma-parco-colosseo-apertura/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/583040475 https://www.cimitericapitolini.it/servizi/servizi-cimiteriali/61-cerimonie-al-tempietto-egizio-e-altre-iniziative.html
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11509026537 https://www.comune.roma.it/web/it/notizia.page?contentId=NWS1127992
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11697072361 https://www.diocesidiroma.it/phpenti/ente/?ID=7825
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/7193332257 https://www.facebook.com/La-dispensa-del-podere-650749582046100/ → https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FLa-dispensa-del-podere-650749582046100%2F
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12833773215 https://www.comune.roma.it/web/it/notizia/nuovo-laboratorio-pasta-fresca-centro-storico.page
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/13844950 https://www.facebook.com/camminotrevillaggi/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4971065306 https://www.facebook.com/miziostreetfood/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/7023311006 https://www.facebook.com/cucinehackereurcolombo/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/7760915021 https://www.facebook.com/sinosteria/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/983867234 https://osm.org/browse/way/983867241 https://osm.org/browse/way/983867242 https://www.falesia.it/it/crag/421/santoreste.html
+SUCCESS_(200…299) 200 https://osm.org/browse/way/78057686 https://www.falesia.it/it/crag/25/Ripa-Majala.html
+SUCCESS_(200…299) 200 https://osm.org/browse/way/169401169 https://www.falesia.it/it/crag/14/guadagnolo.html
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/5817468855 https://www.giulius.com
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9764515313 https://www.centrostampacolombo.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12855564503 https://www.gpsmycity.com/attractions/aldo-fefe-54779.html
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4798313725 https://www.gattidiroma.net/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/9721225211 https://www.jetphotos.com/registration/MM80972
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12855564503 https://www.iltempo.it/roma-capitale/2010/06/24/news/aldo-fefe-il-mastro-cartaio-che-lavoro-per-papa-wojtyla-864699/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/202116761 https://www.nytimes.com/2016/04/29/realestate/elegant-residence-by-the-spanish-steps-in-rome.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4592378467 https://www.ordinepsicologilazio.it/ → https://ordinepsicologilazio.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1314222849 https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=6669
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8599247532 https://www.info.roma.it/monumenti_dettaglio.asp?ID_schede=10985
+SUCCESS_(200…299) 200 https://osm.org/browse/way/23016254 https://osm.org/browse/way/23480542 https://osm.org/browse/way/27740575 https://osm.org/browse/way/27740744 https://osm.org/browse/way/159086048 https://osm.org/browse/way/159086051 https://osm.org/browse/way/160742048 https://osm.org/browse/way/160742051 https://osm.org/browse/way/233612987 https://osm.org/browse/way/233612988 https://osm.org/browse/way/233612989 https://osm.org/browse/way/233612990 https://osm.org/browse/way/271938630 https://osm.org/browse/way/271938631 https://osm.org/browse/way/271938632 https://osm.org/browse/way/271938633 https://osm.org/browse/way/271938634 https://osm.org/browse/way/320038954 https://osm.org/browse/way/320038955 https://osm.org/browse/way/399360596 https://osm.org/browse/way/438269545 https://osm.org/browse/way/438269546 https://osm.org/browse/way/453486565 https://osm.org/browse/way/453487611 https://osm.org/browse/way/453491848 https://osm.org/browse/way/453491849 https://osm.org/browse/way/453506377 https://osm.org/browse/way/453506379 https://osm.org/browse/way/453508828 https://osm.org/browse/way/493760523 https://osm.org/browse/way/516221706 https://osm.org/browse/way/653342762 https://osm.org/browse/way/653342763 https://osm.org/browse/way/815445277 https://osm.org/browse/way/917156506 https://osm.org/browse/way/917156507 https://osm.org/browse/way/1008965141 https://osm.org/browse/way/1008965142 https://osm.org/browse/way/1010751249 https://osm.org/browse/way/1010751250 https://osm.org/browse/way/1010751251 https://osm.org/browse/way/1010751252 https://osm.org/browse/way/1010751255 https://osm.org/browse/way/1246182264 https://osm.org/browse/way/1246182267 https://osm.org/browse/way/1305945224 https://osm.org/browse/way/1305945225 https://osm.org/browse/way/1337994611 https://osm.org/browse/way/1337994614 https://osm.org/browse/way/1337994615 https://osm.org/browse/way/1337994616 https://osm.org/browse/way/1337994618 https://osm.org/browse/way/1337994620 https://osm.org/browse/way/1337994621 https://osm.org/browse/way/1337994622 https://osm.org/browse/way/1337994625 https://osm.org/browse/way/1385796107 https://osm.org/browse/way/1385796114 https://osm.org/browse/way/1385796115 https://osm.org/browse/way/1385796116 https://osm.org/browse/way/1385796119 https://osm.org/browse/way/1385796122 https://osm.org/browse/way/1385796123 https://osm.org/browse/way/1385796124 https://osm.org/browse/way/1385796125 https://osm.org/browse/way/1385796126 https://osm.org/browse/way/1385796128 https://osm.org/browse/way/1385796130 https://osm.org/browse/way/1385796131 https://osm.org/browse/way/1385796132 https://osm.org/browse/way/1385796133 https://osm.org/browse/way/1385796134 https://osm.org/browse/way/1385796135 https://osm.org/browse/way/1385796140 https://osm.org/browse/way/1388868047 https://osm.org/browse/way/1395960885 https://osm.org/browse/way/1413047741 https://osm.org/browse/way/1427302287 https://osm.org/browse/way/1427302288 https://osm.org/browse/way/1427302289 https://osm.org/browse/way/1427302290 https://osm.org/browse/way/1427302291 https://osm.org/browse/way/1446232870 https://osm.org/browse/way/1524277674 https://osm.org/browse/way/1524277675 https://www.provincia.viterbo.it/strade.html
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/10082931681 https://www.teatro.it/teatri/portico-roma-cartellone
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12922987886 https://www.romatoday.it/zone/eur/laurentino/incendio-polisportiva-joyce-laurentino-38-.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/13747286 https://www.sentieriperblera.it/petrolo-citta-antica/ → https://sentieriperblera.altervista.org/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1383952044 https://www.sotterraneidiroma.it/sites/torre-dei-borgia
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/12813576589 https://www.tripadvisor.com/Hotel_Review-g187791-d501581-Reviews-Nicolas_Inn-Rome_Lazio.html
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12813692927 https://www.tmcrew.org/l38squat/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/5596663028 https://www.turismoroma.it/en/node/65
+SUCCESS_(200…299) 200 https://osm.org/browse/node/7263096784 https://www.ukrinform.ua/rubric-diaspora/2888899-u-rimi-vidkrivsa-restoran-ukrainskoi-kuhni.html
+REDIRECTION_(300…399) 303 https://osm.org/browse/way/1363836006 https://youtu.be/sHacnFjRB-Q?si=hO2HkV9A0ENKPICy → https://www.youtube.com/watch?si=hO2HkV9A0ENKPICy&v=sHacnFjRB-Q&feature=youtu.be
+MISSING_URI_SCHEME https://osm.org/browse/node/803657703 www.locandabellarmino.com
+MISSING_URI_SCHEME https://osm.org/browse/node/351606161 www.ostiainbicixiii.it
+MISSING_URI_SCHEME https://osm.org/browse/way/66286008 www.palazzoquintiliano.it
+MISSING_URI_SCHEME https://osm.org/browse/node/535329954 www.ripetta25.it
+MISSING_URI_SCHEME https://osm.org/browse/node/523011726 www.sailpost.it
+MISSING_URI_SCHEME https://osm.org/browse/node/804953816 www.trattorialacontadina.com
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9658770047 https://www.yogalabsanlorenzo.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/11795110 https://www.youtube.com/watch?v=ZqHC9QQ-7CQ
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9764515313 https://www.tshirt-shop.online/
