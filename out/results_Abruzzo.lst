@@ -1,9 +1,23 @@
+MISSING_URI_SCHEME  <meta http-equiv="content-type" content="text/html
+MISSING_URI_SCHEME  <title>OSM3S Response</title>
+MISSING_URI_SCHEME  charset=utf-8" lang="en"/>
 MISSING_URI_SCHEME  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+MISSING_URI_SCHEME  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN
+MISSING_URI_SCHEME  </body>
 MISSING_URI_SCHEME  </body></html>
+MISSING_URI_SCHEME  </head>
 MISSING_URI_SCHEME  </head><body>
+MISSING_URI_SCHEME  </html>
+MISSING_URI_SCHEME  <?xml version="1.0" encoding="UTF-8"?>
 MISSING_URI_SCHEME  <address>Apache/2.4.67 (Debian) Server at overpass-api.de Port 443</address>
+MISSING_URI_SCHEME  <body>
 MISSING_URI_SCHEME  <h1>Not Acceptable</h1>
+MISSING_URI_SCHEME  <head>
 MISSING_URI_SCHEME  <hr>
+MISSING_URI_SCHEME  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 MISSING_URI_SCHEME  <html><head>
+MISSING_URI_SCHEME  <p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
 MISSING_URI_SCHEME  <p>An appropriate representation of the requested resource could not be found on this server.</p>
+MISSING_URI_SCHEME  <p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
 MISSING_URI_SCHEME  <title>406 Not Acceptable</title>
+CLIENT_ERROR_(400…499) 400  http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">

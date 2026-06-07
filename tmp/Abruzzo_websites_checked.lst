@@ -1,9 +1,23 @@
+<meta http-equiv="content-type" content="text/html	-1		
+<title>OSM3S Response</title>	-1		
+charset=utf-8" lang="en"/>	-1		
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">	-1		
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN	-1		
+</body>	-1		
 </body></html>	-1		
+</head>	-1		
 </head><body>	-1		
+</html>	-1		
+<?xml version="1.0" encoding="UTF-8"?>	-1		
 <address>Apache/2.4.67 (Debian) Server at overpass-api.de Port 443</address>	-1		
+<body>	-1		
 <h1>Not Acceptable</h1>	-1		
+<head>	-1		
 <hr>	-1		
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">	-1		
 <html><head>	-1		
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>	-1		
 <p>An appropriate representation of the requested resource could not be found on this server.</p>	-1		
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>	-1		
 <title>406 Not Acceptable</title>	-1		
+http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">	0	400	
