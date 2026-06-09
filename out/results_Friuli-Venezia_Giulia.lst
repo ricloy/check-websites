@@ -7,3 +7,486 @@ MISSING_URI_SCHEME  <hr>
 MISSING_URI_SCHEME  <html><head>
 MISSING_URI_SCHEME  <p>An appropriate representation of the requested resource could not be found on this server.</p>
 MISSING_URI_SCHEME  <title>406 Not Acceptable</title>
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/4403307931 http://alcampanontrieste.it/
+SUCCESS_(200…299) 202 https://osm.org/browse/way/36658589 http://centrocommercialecervignano.com/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/3854178833 http://dealer.moto.it/dueruoteudine
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/3661327973 http://fastmood.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/8727725466 http://gmdimensione.com/ → https://gmdimensione.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/6242084249 http://lacoccinelladoro.com
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36019609 http://rossi-elettronica.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4437743902 http://mepgroup.com → https://mepgroup.com/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/36019614 http://ristoranteitaliatarvisio.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1960307844 http://rentaski.ws/ → https://rentaski.ws/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/5547432 http://www.58motorsporting.com/tolmezzo/it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/213211137 http://www.1301inn.it → https://www.1301inn.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36020754 http://valbrunainn.com → https://www.valbrunainn.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9978846299 http://www.agenziafargo.it/ → https://www.agenziafargo.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36021507 http://www.albergo-edelweiss.com/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/4181673768 http://www.acjasedilise.it → it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/11989104680 http://www.agriturismozaine.it/ → https://www.agriturismozaine.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/35946164 https://osm.org/browse/way/282144331 http://www.albergodiffusoilgrop.it/ → https://www.albergodiffusozoncolan.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3956267271 http://www.albergoneidersauris.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36020162 http://www.albergotrieste.org → https://www.albergotrieste.org:443/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/10111296253 http://trattoriabrunomasaneta.it/ → https://trattoriabrunomasaneta.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/254164767 http://www.alcentrobarsport.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/4227148428 http://www.alcentral.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36039227 http://www.alciclista.it → https://www.alciclista.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9895913294 http://www.alexdepasetattoo.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/5057125710 http://www.allatessitura.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36696079 http://www.allegrafattoriaincarso.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/6274097495 http://www.aldolcenero.it/ → https://www.aldolcenero.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3661341212 http://www.alpiccolocason.it/ → https://www.alpiccolocason.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/185431525 http://www.alpstation.it → https://www.alpstation.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36054041 http://www.antarespiancavallo.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1296953458 http://www.ausoniabeachlignano.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/185431533 http://www.baldansport.com → https://www.baldansport.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3661346243 http://www.babylignano.it/ → https://babylignano.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/185835372 http://www.bbartigrafiche.com
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36688134 http://www.betonfer.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4958779940 http://www.birraebasta.com → https://www.birraebasta.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2601556166 http://www.birreriamondial.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9978846293 http://www.cafenoir.biz/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4830599100 http://www.casadellachiave.com → https://www.casadellachiave.com/
+TIMEOUT https://osm.org/browse/node/1960281836 http://www.albergoadriatico-tarvisio.it
+TIMEOUT https://osm.org/browse/way/36020129 http://www.albergoalcacciatoretarvisio.191.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/35945116 http://www.casaperaria.it → https://www.casaperaria.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10089595534 http://www.casadimirea.com/it/grado/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36301969 http://www.castfvg.it/ → https://www.castfvg.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5302200576 http://www.comune.maranolagunare.ud.it/index.php?id=14362 → https://www.comune.maranolagunare.ud.it/index.php?id=14362
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/35951571 http://www.comune.sauris.ud.it → https://www.comune.sauris.ud.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9813792207 http://www.comunediruda.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2479127662 http://www.comuneditarvisio.com/ → https://www.comuneditarvisio.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4861558196 http://www.casainternazionaledonnetrieste.org → https://www.casainternazionaledonnetrieste.org/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8676024168 http://www.crbcrismancich.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/12725009941 http://www.cpiago.edu.it → https://cpiago.edu.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9978846259 http://www.davidegioielleria.it/ → https://www.davidegioielleria.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36019489 http://www.dawit.it → http://www.dawit.shop/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/142730444 http://www.fabbromeccanicalussetti.com/
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/18011181 http://www.diocesigorizia.it/ → https://www.diocesigorizia.it/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/1964891874 https://osm.org/browse/way/36020496 http://www.exposta.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/6119132985 http://www.farmaciadare.it/ → https://www.farmaciadare.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/89650583 http://www.federicomarsich.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1768167418 http://www.farmacialondero.it/ → https://www.farmacialondero.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4463156913 http://www.ferramentaceolin.it/ → https://www.ferramentaceolin.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/relation/2574315 http://www.golfsenzaconfini.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/6119132990 http://www.farmaciatoso.it/index.asp → https://ordinionline.valoresalute.it/farmacie/toso-dr.-lorenzo/231147
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1098486725 http://www.hotel-abbazia-grado.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36703641 http://www.greifhotel.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36019596 http://www.hoteledelhof.com
+TIMEOUT https://osm.org/browse/node/2134678466 http://www.carbonneri.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/185529139 http://www.hotelhaberl.com → https://www.hotelhaberl.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/185529146 http://www.hotelnevadatarvisio.com
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36051533 http://www.hotelnevea.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3956267273 http://www.hotelpluemesauris.it → http://hotelplueme.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3653979455 http://www.galleriaillevriero.com/ → https://www.galleriaillevriero.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36051520 http://www.hotelcanin.it → https://www.hotelcanin.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36053915 http://www.hotelreginapiancavallo.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1104944147 http://www.hotelreginagrado.com/ → https://www.hotelreginagrado.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/185444989 http://www.hotelraibl.com/ → https://www.hotelraibl.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1960281898 https://osm.org/browse/way/36020607 http://www.hotelrenzo.com
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/36019838 https://osm.org/browse/way/36659928 http://www.hotelspartiacque.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1098792630 http://www.hoteltognongrado.it/ → https://www.hoteltognongrado.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36019584 https://osm.org/browse/way/36019585 http://www.hotelvalleverde.com → https://www.hotelvalleverde.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36392568 http://www.hotelhelvetiagrado.it → https://hotelhelvetiagrado.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1098682817 http://www.hotelvillavenezia.com/ → https://www.hotelvillavenezia.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/399742376 https://osm.org/browse/way/593078460 http://www.kanaeteam.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3011946278 http://www.labottelignano.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9895913296 http://www.kinesisclub.com/beauty-spa/ → https://www.kinesisclub.com/beauty-spa/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/4079982554 http://www.lacucinadibeaebenny.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36020746 http://www.hotelsaisera.com → https://hotelsaisera.com/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/1098362127 http://www.lacroma.it/
+SERVER_ERROR_(500…599) 500 https://osm.org/browse/way/185442935 http://www.labaitadeisapori.com
+SUCCESS_(200…299) 200 https://osm.org/browse/node/446273523 http://www.lagirandola.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/185442938 http://www.lussari.com/ → http://lussari.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1296953467 http://www.lidocity.com/ita/lidocity/ → https://www.lidocity.com/ita/lidocity/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/35951613 http://www.morgenleit.com
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2211443898 https://osm.org/browse/node/2465694154 http://www.lanificiomarchesin.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/4112312123 http://www.osteriaiturians.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/185835375 http://www.mingot.it → https://www.mingotrieste.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/35985991 http://www.pakrhaizar-sauris.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36699369 http://www.ostelloaquileia.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/185835378 http://www.otaimpianti.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3956267272 http://www.pamairlan-sauris.it → https://www.pamairlan-sauris.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/70601088 http://www.palmanovadesignervillage.com/ → https://www.palmanovadesignervillage.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2904513049 http://www.pasticceriasanmarcoudine.com
+SERVER_ERROR_(500…599) 503 https://osm.org/browse/way/36020689 http://www.picchionero.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1960281882 http://www.pitacco.net
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/1095713432 http://www.piperbeach.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10036312350 http://www.panificiogobattosnc.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1960281886 http://www.promotur.org
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2617680671 http://www.promotur.org/it/15358/Contatti
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/4651557 http://www.promotur.org/it/15497/Sci-alpinismo-in-notturna
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/4602471 http://www.promotur.org/tarvisio/scialpinismo-in-notturna
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2599764374 http://www.quiwolf.it → https://www.quiwolf.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36020656 http://www.rifugio-kugy-valbruna.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/35987829 http://www.rifugiotitapiaz.it
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/2211443911 http://www.reporterstarvisio.it → https://reporterstarvisio.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3653978820 http://www.ristorantedaovidio.com/ → https://www.ristorantedaovidio.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2599764377 http://www.ristoranteallapace.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4761203899 https://osm.org/browse/node/4761216690 http://www.scribanovini.it → https://www.scribanovini.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/185835380 http://www.sisli.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/35946195 http://www.sotlanapa.it/ → https://www.sotlanapa.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36019438 http://www.sporthotelbellavista.com
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36051550 http://www.sporthotelforte.com
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36053885 http://www.sporthotelpiancavallo.it → https://www.sporthotelpiancavallo.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36019657 http://www.tarvisiano.org/ → https://www.tarvisiano.org/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36020446 http://www.tarvisiobedandbreakfast.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1960281944 http://www.timeout-tarvisio.it
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/35951735 http://www.riglarhaus.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/268426006 http://www.vecchiosauris.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3734069327 http://www.verzegnassi.it → https://www.verzegnassi.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/1098609047 http://www.villagiuliagrado.it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4249923483 http://www.wienerhaus.it/ → https://wienerhaus.it/
+TIMEOUT https://osm.org/browse/way/36053864 http://www.lagenzianella.eu
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3715723116 http://www.yuximonfalcone.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36420219 http://www.wolfsauris.it → https://www.wolfsauris.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/12345779588 http://www.zahrebeer.com → https://www.zahrebeer.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/36020006 http://www.zimmerkarkus.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/10068588073 http://www.zeromiglia.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/10001910060 https://acquapazzalignano.it/ → https://www.acquapazzalignano.it/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/3661288262 https://alemarhome.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/36393205 https://alpontildetripoli.eatbu.com/ → https://alpontildetripoli.eatbu.com/?lang=en
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1217355220 https://alturis.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/11263359082 https://annavirgili.com/ → https://www.annavirgili.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/10089595529 https://appartamentiveronesi.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1099808867 https://asufc.sanita.fvg.it/it/presidi-ospedalieri/ospedale_latisana_palmanova/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/1979536337 https://barbombengrado.eatbu.com → https://barbombengrado.eatbu.com/?lang=en
+TIMEOUT https://osm.org/browse/node/3661315762 http://www.sanmarcorealestate.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/791727843 https://calaguna.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/14345851 https://campeggiosanbartolomeo.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10059054007 https://colavetta.it/
+TIMEOUT https://osm.org/browse/way/36722241 http://www.vigilfuoco.it/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/619568102 https://costadelsolgrado.it/
+SUCCESS_(200…299) 202 https://osm.org/browse/way/1095713434 https://costazzurragrado.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/1095872399 https://edicola-guarino.business.site/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10063081217 https://eppingercaffetrieste.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/3653986571 https://filomena-bar.business.site/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/9978846256 https://firmania.it/lignano-sabbiadoro/escala-mode-2227273
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/3653984638 https://flash-elettronica-di-gregori-augusto.business.site/
+TIMEOUT https://osm.org/browse/node/3653979234 https://adriaticagrado.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11851439338 https://fratellilabufala.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9774219269 https://friuli.vimado.it/locali/ristoranti/grado-ri/hosteria-de-gustibus-grado/ → https://friuli.vimado.it/locali/ristoranti/grado-ri/hosteria-de-gustibus-grado
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2547437356 https://freesolarimpianti.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3653978229 https://grado.it/it/cosa-fare/benessere/equipe-acconciature-paolo-valentina/ → https://grado.it/it/cosa-fare/terme-wellness-hair-stylist/hair-stylist/equipe-acconciature-paolo-valentina
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36689138 https://grado.it/it/cosa-fare/gastronomia/mercato-ittico/ → https://grado.it/it/cosa-fare/ristoranti-bar/prodotti-tipici-e-gastronomie/mercato-ittico
+TIMEOUT https://osm.org/browse/node/3747205795 https://benkadi.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9815419789 https://grado.it/it/scoprire-grado/informazioni-utili-e-servizi/uffici-del-turismo/ → https://grado.it/it/scoprire-grado/info-utili-trasporti-e-servizi/uffici-del-turismo
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/36392559 https://hoteleldorado.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36319114 https://icpalazzolo.edu.it/ → https://icpalrite.edu.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/10000794128 https://la-baja-del-mar-da-mirco-e-angela.business.site/#details
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1289812698 https://grado.it/it/spiagge-e-terme-marine/spiaggia-principale-git-1/ → https://grado.it/it/spiagge/spiaggia-principale-git-1
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3653985848 https://iltuomenu.eu/altimon/ → https://www.iltuomenu.eu/altimon/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/2014105117 https://lacantinadiepicuro.com/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/1112677487 https://lamovidadeipescatori.eatbu.com/ → https://lamovidadeipescatori.eatbu.com/?lang=en
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3953205246 https://latarabane.wordpress.com
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36194927 https://lefucine.com/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/way/1084287322 https://lignanosabbiadoro.it/it/strutture/19-i-gommosi-lignano/ → /it/strutture/i-gommosi/
+TIMEOUT https://osm.org/browse/node/3466136735 https://cortivopancotto.it/ristoro-la-crosetta/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/3661349122 https://lignanosabbiadoro.it/it/strutture/438-salumeria-da-luciano-venturato/ → /de/strutture/salumeria-da-luciano-venturato/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/3661357834 https://lignanosabbiadoro.it/it/strutture/569-micidiale-boys/ → /it/strutture/micidiale-boys/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/9980899281 https://lignanosabbiadoro.it/it/strutture/200-sala-giochi-millefiori/ → /it/strutture/sala-giochi-millefiori/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3653978679 https://m.facebook.com/DaRenata.1967/ → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2FDaRenata.1967%2F&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/36698675 https://m.facebook.com/OsPampasChurrascaria/ → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2FOsPampasChurrascaria%2F&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3799021985 https://m.facebook.com/Antartik-Gelateria-e-Pasticceria-898506590159916/?rf=116027038488346 → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2FAntartik-Gelateria-e-Pasticceria-898506590159916%2F%3Frf%3D116027038488346&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/36705415 https://m.facebook.com/PuntaFaroBeach → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2FPuntaFaroBeach&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3661324647 https://m.facebook.com/StreetIslandStore → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2FStreetIslandStore&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/4164070301 https://m.facebook.com/ParkAvenueLignano/ → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2FParkAvenueLignano%2F&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3653986179 https://m.facebook.com/cipiacegrado/ → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fcipiacegrado%2F&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/36702475 https://m.facebook.com/bbqlignano/photos/a.637311366357965/1429891430433284/?type=3 → https://m.facebook.com/login/?next=https%3A%2F%2Fm.facebook.com%2Fbbqlignano%2Fphotos%2Fa.637311366357965%2F1429891430433284%2F%3Ftype%3D3&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/426678537 https://m.facebook.com/fridafridastore/?view_public_for=100805071646600 → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Ffridafridastore%2F%3Fview_public_for%3D100805071646600&refsrc=deprecated&_rdr
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1209087989 https://lignanosabbiadoro.it/it/strutture/pineta-for-dogs/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3661335382 https://m.facebook.com/lucreziabeautystudio/ → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Flucreziabeautystudio%2F&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3067667571 https://m.facebook.com/ilgamberorossolignano → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Filgamberorossolignano&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/9978846229 https://m.facebook.com/pages/category/Ice-Cream-Shop/Gelateria-Veneziana-674688362662345/ → https://m.facebook.com/login/?next=https%3A%2F%2Fm.facebook.com%2Fpages%2Fcategory%2FIce-Cream-Shop%2FGelateria-Veneziana-674688362662345%2F&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/9875378277 https://m.facebook.com/pages/category/Local-business/New-Dynamic-Center-172495654190/ → https://m.facebook.com/login/?next=https%3A%2F%2Fm.facebook.com%2Fpages%2Fcategory%2FLocal-business%2FNew-Dynamic-Center-172495654190%2F&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/36461668 https://osm.org/browse/way/620120269 https://m.facebook.com/pages/category/Local-business/Stabilimento-Laguna-Gradese-da-Cinzia-747686161910309/ → https://m.facebook.com/login/?next=https%3A%2F%2Fm.facebook.com%2Fpages%2Fcategory%2FLocal-business%2FStabilimento-Laguna-Gradese-da-Cinzia-747686161910309%2F&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/9083958871 https://m.facebook.com/pages/category/Pizza-place/Anema-e-Core-1168099166669757/ → https://m.facebook.com/login/?next=https%3A%2F%2Fm.facebook.com%2Fpages%2Fcategory%2FPizza-place%2FAnema-e-Core-1168099166669757%2F&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/9978846252 https://m.facebook.com/pages/category/Pizza-place/PeterPan-Lignano-854093714626539/ → https://m.facebook.com/login/?next=https%3A%2F%2Fm.facebook.com%2Fpages%2Fcategory%2FPizza-place%2FPeterPan-Lignano-854093714626539%2F&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3661357613 https://m.facebook.com/profile.php?id=100034443146054 → https://m.facebook.com/login/?next=https%3A%2F%2Fm.facebook.com%2Fprofile.php%3Fid%3D100034443146054&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/4349767192 https://m.facebook.com/profile.php?id=100063635347904 → https://m.facebook.com/login/?next=https%3A%2F%2Fm.facebook.com%2Fprofile.php%3Fid%3D100063635347904&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3794202635 https://m.facebook.com/profile.php?id=121576034563277&__tn__=C-R → https://m.facebook.com/login/?next=https%3A%2F%2Fm.facebook.com%2Fprofile.php%3Fid%3D121576034563277%26__tn__%3DC-R&refsrc=deprecated&_rdr
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3653986444 https://m.facebook.com/theperfectwavegrado/ → https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Ftheperfectwavegrado%2F&refsrc=deprecated&_rdr
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/10111269999 https://newherashop.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3706387975 https://mobilicaramel.com/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/10068116503 https://parafarmacia-pesce.business.site/?utm_source=gmb&utm_medium=referral
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/9891988032 https://pizzeriadamariocodroipo.business.site/?utm_source=gmb&utm_medium=referral
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/12132517851 https://ristorante-pizzerianordest.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9978846234 https://nittagioielli.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11263359092 https://pepco.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/10066531935 https://rugiada-clothing-store.business.site/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/3661351027 https://souvenir-da-disma.business.site/?utm_source=gmb&utm_medium=referral
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/770056948 https://rusticus-steakhouse.eatbu.com/ → https://rusticus-steakhouse.eatbu.com/?lang=en
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/10068116500 https://sportuno.business.site/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1099782497 https://nodohotel.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/9781065155 https://taxibar.wixsite.com/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/3661356393 https://sweet-steps.company.site/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8205693711 https://swamiviaggi.it
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/3661345630 https://travelone.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/8063664712 https://ww.maracaiba.it
+SSL_CONNECT_ERROR https://osm.org/browse/node/9978846237 https://weekendshoponline.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3653972330 https://villamori.eu/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3424506660 https://www.aeo.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/291589892 https://www.aeo.it/punti-vendita/Friuli%20Venezia%20Giulia/supermercato-aeo-monfalcone
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/10000794001 https://www.agenzianadalini.it/ → it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3661350165 https://www.agostinis.com/
+INFORMATION_(100…199) 103 https://osm.org/browse/way/1133011585 https://www.620passi.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10946235274 https://www.albarcollo.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/537985342 https://www.ai-due-leoni.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36041076 https://www.aldi.it/it/trova-il-punto-vendita/aldi-udine/aldi-gemona.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36705850 https://www.albergobahia.it/ → https://www.albergobahia.it/home/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/13165961685 https://www.alfred24.it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1357503815 https://www.alparcoristorante.it/
+SERVER_ERROR_(500…599) 500 https://osm.org/browse/way/1099320323 https://www.ambriabella.it/
+TIMEOUT https://osm.org/browse/way/36392489 https://rivapalace.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1098330301 https://www.aparthotelmiramaregrado.com/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1321639825 https://www.aristonteatrogrado.com/
+SUCCESS_(200…299) 202 https://osm.org/browse/node/10101324603 https://www.autofficinafratellibandiera.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/6496439185 https://www.altiglioveg.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1107529112 https://www.baseibrewery.it/
+SAME_DOMAIN_REDIRECTION_(300…399) 301 https://osm.org/browse/way/36684771 https://osm.org/browse/way/36684772 https://www.basilicadiaquileia.it/ → /it/basilica
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10090064930 https://www.arredamentiantima3.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/375049142 https://www.bellaitaliavillage.com/it/piscina-bella-italia.php
+TIMEOUT https://osm.org/browse/node/12132375119 https://www.agriturismodagastone.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/36702253 https://www.bellaveneziamare.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3661330566 https://www.boutiquecasa.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3154519572 https://www.burgerking.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/692767299 https://www.bricook.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10038162628 https://www.belanger.it/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/185835374 https://www.carpenteriabreg.com/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/1586852211 https://www.carpisa.it/ → https://www.carpisa.it/it-it
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36430062 https://www.caisanvito.it/palestra-home → https://www.caisanvito.it/palestra-home/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36706513 https://www.cavallinobianco.lignano.it/ → https://www.cavallinobiancolignano.it/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/10111293120 https://www.civibank.it/ → /privati/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/36660031 https://www.cervignanodelfriuli.net/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/13760428273 https://www.comune.pordenone.it/it/vivere-pordenone/luoghi/museo-arte
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36659863 https://www.comunegrado.it/ → https://comune.grado.go.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/920074035 https://www.clinicasantaeufemia.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36432434 https://www.consorzioagrariofvg.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3661320779 https://www.cremerialacoccola.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/144788543 https://osm.org/browse/way/461917015 https://www.decathlon.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/424794561 https://osm.org/browse/node/3706386716 https://www.despar.it/ → https://www.despar.it/it/
+TIMEOUT https://osm.org/browse/way/36721838 https://www.bricoio.it/Custom/PuntoVendita.aspx?codiceNegozio=1299
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/9950839252 https://www.divaniedivani.it/
+TIMEOUT https://osm.org/browse/way/36722243 https://osm.org/browse/way/360694657 https://osm.org/browse/way/960169472 https://www.carabinieri.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1085719202 https://www.doggybeachlignano.com/ → https://doggybeachlignano.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/13257452983 https://www.dolceneroresidence.com/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/10059054016 https://www.easy-phone.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/835196887 https://www.dvpanettone.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/524488119 https://www.eirldolomites.com/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/10060920089 https://www.emmegi-snc.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1090873490 https://www.ericahotel.it/ → http://www.ericahotel.it/it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3748952557 https://www.europizzaudine.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/513701673 https://www.eurokey.it
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/3424506659 https://www.eurospesa.it/ → https://www.eurospesa.it/eurospesa/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/906759812 https://www.eurospin.it/punti-vendita/fogliano-di-redipuglia/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/3894653610 https://www.faccinielettrodomestici.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3314478591 https://www.facebook.com/Gdsclarascuoladiballo/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/3704248908 https://www.farmaciadudine.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/8146209049 https://www.fincantieri.com/ → https://www.fincantieri.com/en
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/3661356409 https://www.focenza.com/
+TIMEOUT https://osm.org/browse/node/9676381670 https://www.coopcasarsa.it/punti-vendita/ruda/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36425741 https://www.galleriebennet.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/45194107 https://www.fondazioneaquileia.it/it/cosa-vedere/porto-fluviale
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9961101339 https://www.gallomobili.it/
+TIMEOUT https://osm.org/browse/way/183435022 https://www.diamantcar.it
+SERVER_ERROR_(500…599) 500 https://osm.org/browse/node/10133260018 https://www.garagestella.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/6606571085 https://www.gelateriamu.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3427697558 https://www.giacomelloalzetta.com/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/8999986747 https://www.giacominicalzature.it/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/node/530758161 https://www.gdf.gov.it/ → /it
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1749461119 https://www.giuntialpunto.it/ → https://giuntialpunto.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12535875195 https://osm.org/browse/node/13840491965 https://osm.org/browse/node/13840491966 https://www.giacich.edu.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1099320331 https://www.gradohotelserena.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36462160 https://www.gradoit.it/it/numero_uno
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36393140 https://www.gradoriabilita.coop/ → https://universiis.it/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/way/1214969963 https://www.gradoit.it/it/scopri_le_terme_marine# → /
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1098646096 https://www.hcresortlignano.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3669327825 https://www.homstorecasa.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10111665423 https://www.gradus.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/36392932 https://www.hotelantaresgrado.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36306096 https://www.gruppotaboga.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1089586651 https://www.hotelalprater.it/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/10587615301 https://www.hotelcentrotrieste.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36704675 https://www.hotelhelvetialignano.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36019739 https://www.hotelilcervo.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36660539 https://www.hotelitaliaweb.com/alla-basilica/
+INFORMATION_(100…199) 103 https://osm.org/browse/way/36393468 https://www.hoteltanit.it/
+TIMEOUT https://osm.org/browse/node/939159246 https://www.filoxenia.it/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/185442930 https://www.hoteltarvisio.com/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1098330278 https://www.hoteltizianogrado.it/
+SUCCESS_(200…299) 202 https://osm.org/browse/way/36392613 https://www.hotelvillapatrizia.com/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/36381986 https://www.icdestratorre.edu.it/sito/index.php/scuola/informazioni-generali/primaria-di-ruda → https://www.icdestratorre.edu.it//scuola/informazioni-generali/primaria-di-ruda
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/1099300086 https://www.iccasier.edu.it/organizzazione/plessi/primaria-alighieri
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1375965658 https://www.hotelfriulicervignano.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3653983989 https://www.immobiliaremarina.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/1095713430 https://www.keywestgrado.it/ → https://nicsell.com/domain/www.keywestgrado.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36702242 https://www.hotelsorayalignano.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/10133937125 https://www.isolaugusta.com/ → https://isolaugusta.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1108278563 https://www.lagunafarosuites.com/ → https://www.lagunafarosuites.com/de/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/136306693 https://www.lagunapalacehotel.it/?utm_source=gbp&utm_medium=organic → https://www.lagunapalacehotel.it/de/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1296953463 https://www.lidodelsolelignano.it/start
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3661348982 https://www.lacurcumabeach.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11807614061 https://www.lodgeart.it/en-gb/veneta
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3661330749 https://www.lol-fashionstyle.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3661330748 https://www.lignanomare.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/9978846279 https://www.manulingerieemare.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/367207078 https://www.losnidoslignano.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8612621257 https://www.lauraechristiangrado.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/7579703094 https://www.mcps.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10133864205 https://www.lineaflexmaterassi.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10133864184 https://www.mariussicar.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4427755039 https://www.mittelab.org/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/668583878 https://www.mulinodelletolle.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10000794127 https://www.marketluna.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36690154 https://www.novatiemio.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3661320256 https://www.ondinaequipe.it/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/9871973604 https://www.museitarvisio.it/
+SSL_CONNECT_ERROR https://osm.org/browse/node/10068116502 https://www.onoranzefunebrifabello.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3661348313 https://www.otticaepis.it/
+SAME_DOMAIN_REDIRECTION_(300…399) 302 https://osm.org/browse/relation/18148133 https://www.parcoprealpigiulie.it/ → /en/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1750894678 https://www.pennymarket.it/ → https://www.penny.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2137017691 https://osm.org/browse/node/2639387266 https://osm.org/browse/node/9947501868 https://osm.org/browse/way/36091695 https://www.poste.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/130709948 https://www.picnicpozzesmeraldine.com/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/183435023 https://www.precisionmechanics.eu
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/166163788 https://www.puntaspin.it/it/ → https://puntaspin.it/it/
+SERVER_ERROR_(500…599) 503 https://osm.org/browse/way/1099325108 https://www.meublealpontegrado.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3661323677 https://www.qqimmobiliare.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36263188 https://www.prixquality.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/10587621614 https://www.regione.fvg.it/ → https://www.regione.fvg.it/rafvg/cms/RAFVG/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1098330279 https://www.residenceormeggio.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9978846238 https://www.risskio.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/1968555164 https://www.rifugioalsantuario.com/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/6274965083 https://www.ristorantecentopassi.it/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/10111655670 https://www.ristoranteagliartisti.it/ostaria-de-mar-grado/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/1260510118 https://www.ristorantedatoni.it/
+SAME_DOMAIN_REDIRECTION_(300…399) 307 https://osm.org/browse/way/36693567 https://www.rivamondina.it → /it/
+TIMEOUT https://osm.org/browse/way/1110037198 https://www.parcotermalerivieraresort.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36706106 https://www.rossiniresort.com/
+SUCCESS_(200…299) 202 https://osm.org/browse/way/36688129 https://www.sangiustocaffe.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1502757732 https://www.sassodoro.pn.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9394844126 https://www.riservacornino.it/informazioni/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36053876 https://www.scuolasciavianopiancavallo.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/1099320332 https://www.serenellagrado.it/index.php/ct-menu1-item13
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/1750894680 https://osm.org/browse/node/3894652854 https://www.sireneblu.it/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/980960006 https://www.soleislignano.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/620120271 https://www.spiagge.it/stabilimenti-balneari/17791-pineta-beach/?
+TIMEOUT https://osm.org/browse/node/2134672922 https://www.ristorantewilly.it/
+TIMEOUT https://osm.org/browse/node/6755953166 https://www.robertolandello.com/
+SUCCESS_(200…299) 202 https://osm.org/browse/way/847115218 https://osm.org/browse/relation/16158597 https://www.stabilimentoborabora.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/36393803 https://www.spiaggiaairone.it/RISTORANTE.html → https://www.spiaggiaairone.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/620120268 https://osm.org/browse/way/620120270 https://www.spiaggiaairone.it/
+SUCCESS_(200…299) 202 https://osm.org/browse/way/1095713429 https://www.stabilimentotivoli.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3661336823 https://www.sundek.us/ → https://sundek.us/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/2755619381 https://www.supertosano.com/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/3661320767 https://www.tally-weijl.com/it
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/9807407364 https://www.taxplanningsacile.com/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10791024366 https://www.supermercativisotto.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/788777874 https://www.tenutaprimero.com/it/ → https://www.clubdelsole.com/it/destinazioni/friuli-venezia-giulia-alto-adriatico/tenuta-primero-resort
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3749005041 https://www.svapoland.it/
+SAME_DOMAIN_REDIRECTION_(300…399) 301 https://osm.org/browse/node/10101226455 https://www.turismofvg.it/ → /it
+SAME_DOMAIN_REDIRECTION_(300…399) 301 https://osm.org/browse/way/36021303 https://www.turismofvg.it/en/mountain365/rifugio-giacomo-di-brazza → /it/montagna365/rifugio-giacomo-di-brazza
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12017287866 https://www.testedipietra.it/
+SAME_DOMAIN_REDIRECTION_(300…399) 301 https://osm.org/browse/node/617878910 https://osm.org/browse/way/48660487 https://www.turismofvg.it/en/mountain365/sella-nevea → /it/montagna365/sella-nevea
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/10054725696 https://www.unicredit.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/3661351039 https://www.turismofvg.it/info-utili/uffici-turistici/lignano-pineta-infopoint
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/4602473 https://www.turismofvg.it/montagna/infoneve?hub=tarvisio
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/3653971050 https://www.winestoregrado.it/
+TIMEOUT https://osm.org/browse/way/972133914 https://www.schoolvisor.it/it-it/scuola/48880/udine/scuola-infanzia-paritaria-m-andretta/scuola-infanzia-paritaria-m-andretta
+MISSING_URI_SCHEME https://osm.org/browse/node/9755091728 it.fracomina.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852138 www.abacoviaggi.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991159 www.alcott.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991170 www.amelie.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991167 www.angelico.it
+MISSING_URI_SCHEME https://osm.org/browse/way/598796460 www.avwmj.it
+MISSING_URI_SCHEME https://osm.org/browse/node/11263359086 www.bassettihomeinnovation.it
+MISSING_URI_SCHEME https://osm.org/browse/node/11243083917 www.battistutta.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991195 www.benetton.com/Outlet
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991158 www.bialettistore.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991184 www.caleffionline.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991164 www.calvinklein.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991201 www.calzedonia.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/36382290 https://www.villaiachia.it/
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991214 www.camicissima.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852193 www.claroitalia.it
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852391 www.claytonitalia.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991181 www.cmpsport.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9806926740 www.compagniadinavigazione.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991194 www.cottonsilk.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991176 www.coveri.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991216 www.desigual.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991189 www.diemmecaffe.com/
+MISSING_URI_SCHEME https://osm.org/browse/node/5338743521 www.dokdallava.com
+MISSING_URI_SCHEME https://osm.org/browse/way/180572509 www.dolomiticontemporanee.net
+MISSING_URI_SCHEME https://osm.org/browse/node/7419700231 www.doppiomalto.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9806926733 www.douglas.it
+MISSING_URI_SCHEME https://osm.org/browse/node/3794246671 www.esteticacocoonlignano.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991171 www.eu.tommy.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991192 www.excelsa.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991180 www.facis1932.com/
+MISSING_URI_SCHEME https://osm.org/browse/node/12278203605 www.falegnameriazeta.it
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852223 https://osm.org/browse/node/9271991186 https://osm.org/browse/node/9806926730 www.fiorellarubino.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9755200440 www.flaviocastellani.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991196 www.foppapedretti.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991199 www.freddy.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991203 www.gap-italia.it/collection/kidsbaby
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991204 www.gap.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852230 https://osm.org/browse/node/9271991153 www.gasjeans.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991166 www.gaudi.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991212 https://osm.org/browse/node/9806926731 www.giuntialpunto.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9806926724 www.goldenpointonline.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991202 www.guess.eu
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991205 www.gutteridge.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991197 www.hamericas.com/
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991173 www.harmontblaine.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9806926738 www.hcparrucchierimilano.com
+MISSING_URI_SCHEME https://osm.org/browse/node/7419700227 www.hdental.it
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852268 https://osm.org/browse/node/3152597409 www.hm.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852272 www.idexe.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9755200439 www.intimissimi.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991160 www.ixosofficial.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852315 www.jackjones.com
+MISSING_URI_SCHEME https://osm.org/browse/node/11263359093 www.jdsports.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991177 www.kappastore.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991187 https://osm.org/browse/node/9806926727 www.kikocosmetics.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991183 www.kocca.it
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852333 https://osm.org/browse/node/9271991215 https://osm.org/browse/node/9806926728 www.lapiadineria.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991207 www.lindt.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991209 www.liujouomo.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991208 www.marinamilitare-sportswear.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991174 www.melluso.it
+MISSING_URI_SCHEME https://osm.org/browse/way/1099281829 www.meubletripoli.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991179 www.miriadespa.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991178 www.modusprofumerie.com/
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991163 www.nanaitalianheart.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991188 www.nike.com
+MISSING_URI_SCHEME https://osm.org/browse/node/11263359087 www.oltre.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852371 www.originalmarines.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991161 www.outly.it
+MISSING_URI_SCHEME https://osm.org/browse/node/11263359091 www.pinalli.it
+MISSING_URI_SCHEME https://osm.org/browse/node/11263359085 www.pinokkioshop.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9755091725 www.piquadro.com/it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991206 www.pollini.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991155 www.pompea.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991185 www.puma.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991198 www.pupa.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991154 https://osm.org/browse/node/9755091727 www.push96.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852386 www.rinascimento.com
+MISSING_URI_SCHEME https://osm.org/browse/node/3911470297 www.ristorantelaite.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991168 www.roncato.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991157 www.salewa.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9806926734 www.salmoiraghievigano.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991200 www.slam.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852374 www.sonnybono.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852376 https://osm.org/browse/node/9806926735 www.stroilioro.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991213 www.sunglasshut.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9806926723 www.terranovastyle.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852382 www.timretail.it/
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991162 www.trussardi.com
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852220 www.unieuro.it
+MISSING_URI_SCHEME https://osm.org/browse/node/1586852381 www.upim.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9806926722 www.yamamay.com
+MISSING_URI_SCHEME https://osm.org/browse/node/9271991190 www.yeszee.it
+MISSING_URI_SCHEME https://osm.org/browse/node/9806926739 www.zooplanet.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1107452935 https://www.zanuttaspa.it/punti-vendita/muzzana-del-turgnano/
+MISSING_URI_SCHEME https://osm.org/browse/node/9272018717 www.zuiki.it
+SUCCESS_(200…299) 202 https://osm.org/browse/node/12345779589 https://ziplinesauris.com
