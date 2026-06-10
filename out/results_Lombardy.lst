@@ -1,3 +1,4 @@
+OTHER_CURL_ERROR    -1
 MISSING_URI_SCHEME  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 MISSING_URI_SCHEME  </body></html>
 MISSING_URI_SCHEME  </head><body>
@@ -7,3 +8,446 @@ MISSING_URI_SCHEME  <hr>
 MISSING_URI_SCHEME  <html><head>
 MISSING_URI_SCHEME  <p>An appropriate representation of the requested resource could not be found on this server.</p>
 MISSING_URI_SCHEME  <title>406 Not Acceptable</title>
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/993511495 http://ilovearese.altervista.org/chiesa-s-carlo-e-immacolata.php → https://ilovearese.altervista.org/chiesa-s-carlo-e-immacolata.php
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/310261225 http://italia.indettaglio.it/ita/lombardia/milano_bollate_castellazzo.html → https://italia.indettaglio.it/ita/lombardia/milano_bollate_castellazzo.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3241351918 http://italia.indettaglio.it/ita/lombardia/como_cernobbio_piazzasantostefano.html → https://italia.indettaglio.it/ita/lombardia/como_cernobbio_piazzasantostefano.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/994006624 http://italia.indettaglio.it/ita/lombardia/como_geralario_stallonevenini.html → https://italia.indettaglio.it/ita/lombardia/como_geralario_stallonevenini.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1809268150 http://italia.indettaglio.it/ita/lombardia/milano_bollate_ospiate.html → https://italia.indettaglio.it/ita/lombardia/milano_bollate_ospiate.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9893364611 http://italia.indettaglio.it/ita/lombardia/milano_bollate_viatrento.html → https://italia.indettaglio.it/ita/lombardia/milano_bollate_viatrento.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5940885306 http://italia.indettaglio.it/ita/lombardia/milano_cisliano_bestazzo.html → https://italia.indettaglio.it/ita/lombardia/milano_cisliano_bestazzo.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/313076790 http://italia.indettaglio.it/ita/lombardia/milano_cormano_mangiagalli.html → https://italia.indettaglio.it/ita/lombardia/milano_cormano_mangiagalli.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2878048092 http://italia.indettaglio.it/ita/lombardia/milano_cisliano_scanna.html → https://italia.indettaglio.it/ita/lombardia/milano_cisliano_scanna.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5148460669 http://italia.indettaglio.it/ita/lombardia/milano_cisliano_sanpietro.html → https://italia.indettaglio.it/ita/lombardia/milano_cisliano_sanpietro.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/8901389642 http://italia.indettaglio.it/ita/lombardia/milano_cusago_cascinacusagodisotto.html → https://italia.indettaglio.it/ita/lombardia/milano_cusago_cascinacusagodisotto.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/661404754 http://italia.indettaglio.it/ita/lombardia/milano_cormano_molinazzo.html → https://italia.indettaglio.it/ita/lombardia/milano_cormano_molinazzo.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1341080870 http://italia.indettaglio.it/ita/lombardia/milano_cusago_monzoro.html → https://italia.indettaglio.it/ita/lombardia/milano_cusago_monzoro.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1834197681 http://italia.indettaglio.it/ita/lombardia/milano_nerviano_santilariomilanese.html → https://italia.indettaglio.it/ita/lombardia/milano_nerviano_santilariomilanese.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4561665578 http://italia.indettaglio.it/ita/lombardia/milano_gaggiano_bonirola.html → https://italia.indettaglio.it/ita/lombardia/milano_gaggiano_bonirola.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9228594858 http://italia.indettaglio.it/ita/lombardia/milano_garbagnatemilanese_villaggiogarbagnate.html → https://italia.indettaglio.it/ita/lombardia/milano_garbagnatemilanese_villaggiogarbagnate.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/746564248 http://italia.indettaglio.it/ita/lombardia/milano_noviglio_tainate.html → https://italia.indettaglio.it/ita/lombardia/milano_noviglio_tainate.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9646020146 http://italia.indettaglio.it/ita/lombardia/milano_pregnanamilanese_cascinafabriziana.html → https://italia.indettaglio.it/ita/lombardia/milano_pregnanamilanese_cascinafabriziana.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1834197683 http://italia.indettaglio.it/ita/lombardia/milano_nerviano_villanova.html → https://italia.indettaglio.it/ita/lombardia/milano_nerviano_villanova.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/387727237 http://italia.indettaglio.it/ita/lombardia/milano_rescaldina_rescalda.html → https://italia.indettaglio.it/ita/lombardia/milano_rescaldina_rescalda.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9646526854 http://italia.indettaglio.it/ita/lombardia/milano_pregnanamilanese_santelenacecchetti.html → https://italia.indettaglio.it/ita/lombardia/milano_pregnanamilanese_santelenacecchetti.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9536950974 http://italia.indettaglio.it/ita/lombardia/milano_pregnanamilanese_serbelloni.html → https://italia.indettaglio.it/ita/lombardia/milano_pregnanamilanese_serbelloni.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/8752733176 http://italia.indettaglio.it/ita/lombardia/milano_rho_cascinabruciata.html → https://italia.indettaglio.it/ita/lombardia/milano_rho_cascinabruciata.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9612642764 http://italia.indettaglio.it/ita/lombardia/milano_rho_cascinaghisolfa.html → https://italia.indettaglio.it/ita/lombardia/milano_rho_cascinaghisolfa.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3216443095 http://italia.indettaglio.it/ita/lombardia/milano_rodano_millepini.html → https://italia.indettaglio.it/ita/lombardia/milano_rodano_millepini.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4204882401 http://italia.indettaglio.it/ita/lombardia/milano_robecchettoconinduno_cascinainduno.html → https://italia.indettaglio.it/ita/lombardia/milano_robecchettoconinduno_cascinainduno.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9128020222 http://italia.indettaglio.it/ita/lombardia/milano_senago_cascinasangiuseppe.html → https://italia.indettaglio.it/ita/lombardia/milano_senago_cascinasangiuseppe.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/313076788 http://italia.indettaglio.it/ita/lombardia/milano_senago_cascinatraversagna.html → https://italia.indettaglio.it/ita/lombardia/milano_senago_cascinatraversagna.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9240355493 http://italia.indettaglio.it/ita/lombardia/milano_senago_cascinabrodolini.html → https://italia.indettaglio.it/ita/lombardia/milano_senago_cascinabrodolini.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/8752733179 http://italia.indettaglio.it/ita/lombardia/milano_vanzago_valdarenne.html → https://italia.indettaglio.it/ita/lombardia/milano_vanzago_valdarenne.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3615510899 http://italia.indettaglio.it/ita/lombardia/milano_solaro_introini.html → https://italia.indettaglio.it/ita/lombardia/milano_solaro_introini.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/776212771 http://italia.indettaglio.it/ita/lombardia/milano_settimomilanese_vighignolo.html → https://italia.indettaglio.it/ita/lombardia/milano_settimomilanese_vighignolo.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/62513742 http://italia.indettaglio.it/ita/lombardia/misinto.html → https://italia.indettaglio.it/ita/lombardia/misinto.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/752100982 http://italia.indettaglio.it/ita/lombardia/milano_zibidosangiacomo_moirago.html → https://italia.indettaglio.it/ita/lombardia/milano_zibidosangiacomo_moirago.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4185966757 http://italia.indettaglio.it/ita/lombardia/milano_zibidosangiacomo_sanpietrocusico.html → https://italia.indettaglio.it/ita/lombardia/milano_zibidosangiacomo_sanpietrocusico.html
+TIMEOUT https://osm.org/browse/node/2763985025 http://37.207.194.154/ware/schedaigm95.php?id=3087
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9448419667 http://italia.indettaglio.it/ita/lombardia/monzaedellabrianza_limbiate_fornacedellacroce.html → https://italia.indettaglio.it/ita/lombardia/monzaedellabrianza_limbiate_fornacedellacroce.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4221451712 http://italia.indettaglio.it/ita/lombardia/monzaedellabrianza_limbiate_villaggiodeigiovi.html → https://italia.indettaglio.it/ita/lombardia/monzaedellabrianza_limbiate_villaggiodeigiovi.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/315550879 http://italia.indettaglio.it/ita/lombardia/monzaedellabrianza_limbiate_chaletdellaghetto.html → https://italia.indettaglio.it/ita/lombardia/monzaedellabrianza_limbiate_chaletdellaghetto.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2629120894 http://italia.indettaglio.it/ita/lombardia/monzaedellabrianza_misinto_cascinanuova.html → https://italia.indettaglio.it/ita/lombardia/monzaedellabrianza_misinto_cascinanuova.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5394550556 http://italia.indettaglio.it/ita/lombardia/sondrio_campodolcino_mottala.html → https://italia.indettaglio.it/ita/lombardia/sondrio_campodolcino_mottala.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/6480623236 http://italia.indettaglio.it/ita/lombardia/sondrio_campodolcino_gualdera.html → https://italia.indettaglio.it/ita/lombardia/sondrio_campodolcino_gualdera.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2629157490 http://italia.indettaglio.it/ita/lombardia/monzaedellabrianza_varedo_valera.html → https://italia.indettaglio.it/ita/lombardia/monzaedellabrianza_varedo_valera.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/847764459 http://italia.indettaglio.it/ita/lombardia/pavia_torrevecchiapia_cascinacolombara.html → https://italia.indettaglio.it/ita/lombardia/pavia_torrevecchiapia_cascinacolombara.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/6007038127 http://italia.indettaglio.it/ita/lombardia/sondrio_chiavenna_uschione.html → https://italia.indettaglio.it/ita/lombardia/sondrio_chiavenna_uschione.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3890570111 http://italia.indettaglio.it/ita/lombardia/sondrio_chiavenna_bette.html → https://italia.indettaglio.it/ita/lombardia/sondrio_chiavenna_bette.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1364161547 http://italia.indettaglio.it/ita/lombardia/sondrio_gordona_bedolina.html → https://italia.indettaglio.it/ita/lombardia/sondrio_gordona_bedolina.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1057869109 http://italia.indettaglio.it/ita/lombardia/sondrio_madesimo_montespluga.html → https://italia.indettaglio.it/ita/lombardia/sondrio_madesimo_montespluga.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3890491763 http://italia.indettaglio.it/ita/lombardia/sondrio_gordona_castanedi.html → https://italia.indettaglio.it/ita/lombardia/sondrio_gordona_castanedi.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2839648990 http://italia.indettaglio.it/ita/lombardia/sondrio_gordona_bodengo.html → https://italia.indettaglio.it/ita/lombardia/sondrio_gordona_bodengo.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1765382313 http://italia.indettaglio.it/ita/lombardia/sondrio_madesimo_pianazzo.html → https://italia.indettaglio.it/ita/lombardia/sondrio_madesimo_pianazzo.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/5349891010 http://italia.indettaglio.it/ita/lombardia/sondrio_madesimo_scalcoggia.html → https://italia.indettaglio.it/ita/lombardia/sondrio_madesimo_scalcoggia.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/902764653 http://italia.indettaglio.it/ita/lombardia/sondrio_novatemezzola_codera.html → https://italia.indettaglio.it/ita/lombardia/sondrio_novatemezzola_codera.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9947197010 http://italia.indettaglio.it/ita/lombardia/sondrio_sangiacomofilippo_mottasanguglielmo.html → https://italia.indettaglio.it/ita/lombardia/sondrio_sangiacomofilippo_mottasanguglielmo.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9196488315 http://italia.indettaglio.it/ita/lombardia/sondrio_samolaco_pontenave.html → https://italia.indettaglio.it/ita/lombardia/sondrio_samolaco_pontenave.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3890491760 http://italia.indettaglio.it/ita/lombardia/sondrio_pratacamportaccio_sancassiano.html → https://italia.indettaglio.it/ita/lombardia/sondrio_pratacamportaccio_sancassiano.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2460954609 http://italia.indettaglio.it/ita/lombardia/sondrio_sangiacomofilippo_olmo.html → https://italia.indettaglio.it/ita/lombardia/sondrio_sangiacomofilippo_olmo.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3164405519 http://italia.indettaglio.it/ita/lombardia/sondrio_sangiacomofilippo_santantonioalbareda.html → https://italia.indettaglio.it/ita/lombardia/sondrio_sangiacomofilippo_santantonioalbareda.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2511907707 http://italia.indettaglio.it/ita/lombardia/sondrio_sangiacomofilippo_sommarovina.html → https://italia.indettaglio.it/ita/lombardia/sondrio_sangiacomofilippo_sommarovina.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/4192332448 http://italia.indettaglio.it/ita/lombardia/sondrio_valdidentro_pedenosso.html → https://italia.indettaglio.it/ita/lombardia/sondrio_valdidentro_pedenosso.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1937335802 http://italia.indettaglio.it/ita/lombardia/sondrio_valdidentro_turripiano.html → https://italia.indettaglio.it/ita/lombardia/sondrio_valdidentro_turripiano.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3421881048 http://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_canete.html → https://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_canete.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9448689928 http://italia.indettaglio.it/ita/lombardia/sondrio_sangiacomofilippo_vho.html → https://italia.indettaglio.it/ita/lombardia/sondrio_sangiacomofilippo_vho.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3421881049 http://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_chete.html → https://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_chete.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3890556707 http://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_giavera.html → https://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_giavera.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3890556706 http://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_dogana.html → https://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_dogana.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3421881050 http://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_sanbarnaba.html → https://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_sanbarnaba.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9419431244 http://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_piandellaca.html → https://italia.indettaglio.it/ita/lombardia/sondrio_villadichiavenna_piandellaca.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9645571373 http://italia.indettaglio.it/ita/lombardia/varese_saronno_campodeifiori.html → https://italia.indettaglio.it/ita/lombardia/varese_saronno_campodeifiori.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9645562907 http://italia.indettaglio.it/ita/lombardia/varese_origgio_villaregina.html → https://italia.indettaglio.it/ita/lombardia/varese_origgio_villaregina.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2649519635 http://italia.indettaglio.it/ita/lombardia/torrevecchiapia.html → https://italia.indettaglio.it/ita/lombardia/torrevecchiapia.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2829183069 http://italia.indettaglio.it/ita/lombardia/varese_origgio_cascinabroggio.html → https://italia.indettaglio.it/ita/lombardia/varese_origgio_cascinabroggio.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2317505668 http://italia.indettaglio.it/ita/lombardia/varese_sommalombardo_casenuove.html → https://italia.indettaglio.it/ita/lombardia/varese_sommalombardo_casenuove.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/62514371 http://italia.indettaglio.it/ita/lombardia/zibidosangiacomo.html → https://italia.indettaglio.it/ita/lombardia/zibidosangiacomo.html
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/837566148 http://larioclimb.paolo-sonja.net/falesie_lecco/discoteca/index.html
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/9635037341 http://larioclimb.paolo-sonja.net/falesie_lecco/varenna/index.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2829183071 http://italia.indettaglio.it/ita/lombardia/varese_uboldo_cascinaregusella.html → https://italia.indettaglio.it/ita/lombardia/varese_uboldo_cascinaregusella.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/2347228 https://osm.org/browse/relation/2364256 https://osm.org/browse/relation/14228020 http://wiki.openstreetmap.org/wiki/Campo_dei_Fiori → https://wiki.openstreetmap.org/wiki/Campo_dei_Fiori
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/62516825 http://italia.indettaglio.it/ita/lombardia/vigevano.html → https://italia.indettaglio.it/ita/lombardia/vigevano.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/207112590 https://osm.org/browse/node/207112597 https://osm.org/browse/node/207115317 https://osm.org/browse/node/207115329 https://osm.org/browse/node/640411875 https://osm.org/browse/node/640411898 https://osm.org/browse/node/640428488 https://osm.org/browse/node/640436819 https://osm.org/browse/node/647099995 https://osm.org/browse/node/660013769 https://osm.org/browse/node/660013772 https://osm.org/browse/node/660013773 https://osm.org/browse/node/660013774 https://osm.org/browse/node/679721233 https://osm.org/browse/node/679721235 https://osm.org/browse/node/679721236 https://osm.org/browse/node/679850822 https://osm.org/browse/node/679887624 https://osm.org/browse/node/679887665 https://osm.org/browse/node/681799338 https://osm.org/browse/node/681799455 https://osm.org/browse/node/681799471 https://osm.org/browse/node/712337961 https://osm.org/browse/node/712337965 https://osm.org/browse/node/712337969 https://osm.org/browse/node/712337973 https://osm.org/browse/node/712337980 https://osm.org/browse/node/712349684 https://osm.org/browse/node/712349687 https://osm.org/browse/node/712349690 https://osm.org/browse/node/712394396 https://osm.org/browse/node/712394402 https://osm.org/browse/node/712394404 https://osm.org/browse/node/712394406 https://osm.org/browse/node/712423205 https://osm.org/browse/node/712423210 https://osm.org/browse/node/712460746 https://osm.org/browse/node/712460752 https://osm.org/browse/node/712460756 https://osm.org/browse/node/712460759 https://osm.org/browse/node/760464881 https://osm.org/browse/node/760464883 https://osm.org/browse/node/1077443511 https://osm.org/browse/node/1701726357 https://osm.org/browse/node/1730334613 https://osm.org/browse/node/1730347228 https://osm.org/browse/node/1730347230 https://osm.org/browse/node/1730347233 https://osm.org/browse/node/1730347239 https://osm.org/browse/node/1730347240 https://osm.org/browse/node/1730347244 https://osm.org/browse/node/1730347246 https://osm.org/browse/node/1730347249 https://osm.org/browse/node/1730347256 https://osm.org/browse/node/1730347257 https://osm.org/browse/node/1730347258 https://osm.org/browse/node/1730347260 https://osm.org/browse/node/1730347264 https://osm.org/browse/node/1730347272 https://osm.org/browse/node/1730347274 https://osm.org/browse/node/1730347275 https://osm.org/browse/node/1730353003 https://osm.org/browse/node/1730359898 https://osm.org/browse/node/1730359905 https://osm.org/browse/node/1730359911 https://osm.org/browse/node/1730375137 https://osm.org/browse/node/1730375139 https://osm.org/browse/node/1730375140 https://osm.org/browse/node/1730412521 https://osm.org/browse/node/1730412522 https://osm.org/browse/node/1730412525 https://osm.org/browse/node/1730412526 https://osm.org/browse/node/1730412527 https://osm.org/browse/node/1732311592 https://osm.org/browse/node/1732311597 https://osm.org/browse/node/1732311601 https://osm.org/browse/node/1732311611 https://osm.org/browse/node/1732311613 https://osm.org/browse/node/1732311616 https://osm.org/browse/node/1732316862 https://osm.org/browse/node/1732316864 https://osm.org/browse/node/1732316866 https://osm.org/browse/node/1732316867 https://osm.org/browse/node/1732316869 https://osm.org/browse/node/1732316870 https://osm.org/browse/node/1732323507 https://osm.org/browse/node/1732323509 https://osm.org/browse/node/1732323510 https://osm.org/browse/node/1732323519 https://osm.org/browse/node/1732323521 https://osm.org/browse/node/1732323522 https://osm.org/browse/node/1732323523 https://osm.org/browse/node/1732323524 https://osm.org/browse/node/1732323532 https://osm.org/browse/node/1732323536 https://osm.org/browse/node/1732323539 https://osm.org/browse/node/1732323541 https://osm.org/browse/node/1732332693 https://osm.org/browse/node/1732332696 https://osm.org/browse/node/1732332697 https://osm.org/browse/node/1732332713 https://osm.org/browse/node/1732332715 https://osm.org/browse/node/1732332716 https://osm.org/browse/node/1732332719 https://osm.org/browse/node/1732332732 https://osm.org/browse/node/1732332733 https://osm.org/browse/node/1732332734 https://osm.org/browse/node/1732332739 https://osm.org/browse/node/1732351340 https://osm.org/browse/node/1732351341 https://osm.org/browse/node/1732351343 https://osm.org/browse/node/1732351354 https://osm.org/browse/node/1732351355 https://osm.org/browse/node/1732351356 https://osm.org/browse/node/1732351357 https://osm.org/browse/node/1732351361 https://osm.org/browse/node/1732351370 https://osm.org/browse/node/1732351371 https://osm.org/browse/node/1732351372 https://osm.org/browse/node/1732351374 https://osm.org/browse/node/1732351377 https://osm.org/browse/node/1732351386 https://osm.org/browse/node/1732351387 https://osm.org/browse/node/1732351389 https://osm.org/browse/node/1732351391 https://osm.org/browse/node/1732351394 https://osm.org/browse/node/1732351404 https://osm.org/browse/node/1732351405 https://osm.org/browse/node/1732351406 https://osm.org/browse/node/1732351408 https://osm.org/browse/node/1732351411 https://osm.org/browse/node/1732351420 https://osm.org/browse/node/1732351421 https://osm.org/browse/node/1737101284 https://osm.org/browse/node/1737101286 https://osm.org/browse/node/1737101288 https://osm.org/browse/node/1737101298 https://osm.org/browse/node/1737101299 https://osm.org/browse/node/1737186242 https://osm.org/browse/node/1737186338 https://osm.org/browse/node/1833045459 https://osm.org/browse/node/1833045462 https://osm.org/browse/node/1833045465 https://osm.org/browse/node/1833045468 https://osm.org/browse/node/1833045471 https://osm.org/browse/node/1833045473 https://osm.org/browse/node/1833045476 https://osm.org/browse/node/1833045485 https://osm.org/browse/node/1833045486 https://osm.org/browse/node/1833045487 https://osm.org/browse/node/1833045488 https://osm.org/browse/node/1833049082 https://osm.org/browse/node/1833049084 https://osm.org/browse/node/1833054946 https://osm.org/browse/node/1833054949 https://osm.org/browse/node/1833054952 https://osm.org/browse/node/1833054955 https://osm.org/browse/node/1833054959 https://osm.org/browse/node/1833054962 https://osm.org/browse/node/1833054965 https://osm.org/browse/node/1833056213 https://osm.org/browse/node/1833056214 https://osm.org/browse/node/1833061104 https://osm.org/browse/node/1833061105 https://osm.org/browse/node/1833061106 https://osm.org/browse/node/1833061107 https://osm.org/browse/node/1833061108 https://osm.org/browse/node/1833061109 https://osm.org/browse/node/1833061687 https://osm.org/browse/node/1833061688 https://osm.org/browse/node/1833065630 https://osm.org/browse/node/1833065635 https://osm.org/browse/node/1833065642 https://osm.org/browse/node/1833065645 https://osm.org/browse/node/1833065651 https://osm.org/browse/node/1835754923 https://osm.org/browse/node/1835760135 https://osm.org/browse/node/1835760138 https://osm.org/browse/node/1835760140 https://osm.org/browse/node/1835765053 https://osm.org/browse/node/1835765056 https://osm.org/browse/node/1835765062 https://osm.org/browse/node/1835773840 https://osm.org/browse/node/1835773841 https://osm.org/browse/node/1835773842 https://osm.org/browse/node/1835773843 https://osm.org/browse/node/1835773844 https://osm.org/browse/node/1835798054 https://osm.org/browse/node/1835798057 https://osm.org/browse/node/1835798060 https://osm.org/browse/node/1835798062 https://osm.org/browse/node/1835798066 https://osm.org/browse/node/1835798069 https://osm.org/browse/node/1835798070 https://osm.org/browse/node/1835798071 https://osm.org/browse/node/1835798073 https://osm.org/browse/node/1835805345 https://osm.org/browse/node/1835805348 https://osm.org/browse/node/1835830854 https://osm.org/browse/node/1835832917 https://osm.org/browse/node/1838176400 https://osm.org/browse/node/1838176401 https://osm.org/browse/node/1838176402 https://osm.org/browse/node/1838176403 https://osm.org/browse/node/1838183897 https://osm.org/browse/node/1838183898 https://osm.org/browse/node/1838183899 https://osm.org/browse/node/1838183900 https://osm.org/browse/node/1838188095 https://osm.org/browse/node/1838188098 https://osm.org/browse/node/1838194343 https://osm.org/browse/node/2280558520 https://osm.org/browse/node/2280558522 https://osm.org/browse/node/2280558523 https://osm.org/browse/node/2280558525 https://osm.org/browse/node/2280558527 https://osm.org/browse/node/2280578160 https://osm.org/browse/node/2280578163 https://osm.org/browse/node/2280578165 https://osm.org/browse/node/2471937456 https://osm.org/browse/node/2480565663 https://osm.org/browse/node/2480565666 https://osm.org/browse/node/2480565668 https://osm.org/browse/node/2480565669 https://osm.org/browse/node/2480565675 https://osm.org/browse/node/2480565677 https://osm.org/browse/node/2480565678 https://osm.org/browse/node/2480587000 https://osm.org/browse/node/2480587002 https://osm.org/browse/node/2480587003 https://osm.org/browse/node/2488855374 https://osm.org/browse/node/2489418410 https://osm.org/browse/node/2489418412 https://osm.org/browse/node/2491444987 https://osm.org/browse/node/2491444993 https://osm.org/browse/node/2491444998 https://osm.org/browse/node/2491445003 https://osm.org/browse/node/2569517231 https://osm.org/browse/node/2569517232 https://osm.org/browse/node/2569984092 https://osm.org/browse/node/2569984098 https://osm.org/browse/node/2569984103 https://osm.org/browse/node/2570060935 https://osm.org/browse/node/2570060936 https://osm.org/browse/node/2570060937 https://osm.org/browse/node/5330930768 https://osm.org/browse/node/5330930769 https://osm.org/browse/node/5330982464 https://osm.org/browse/node/6228270979 https://osm.org/browse/node/6235025716 https://osm.org/browse/node/6235025717 https://osm.org/browse/node/6235025718 https://osm.org/browse/node/6235025719 https://osm.org/browse/node/6235025720 https://osm.org/browse/node/6235025721 https://osm.org/browse/node/6235025722 https://osm.org/browse/node/6237771201 https://osm.org/browse/node/6237771202 https://osm.org/browse/node/6237771203 https://osm.org/browse/node/6238043975 https://osm.org/browse/node/6238043976 https://osm.org/browse/node/6238043977 https://osm.org/browse/node/6238043978 https://osm.org/browse/node/6238214627 https://osm.org/browse/node/6254230253 https://osm.org/browse/node/9403177194 https://osm.org/browse/node/9403177195 https://osm.org/browse/node/9403177196 https://osm.org/browse/node/9403177197 https://osm.org/browse/node/9420724833 http://pavia.autoguidovie.it → https://pavia.autoguidovie.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1732316865 http://lineservizi.it → https://starmobility.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/14936050 http://www.arcumeggia.it/index.php?section=1
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/1996013 http://www.atm-mi.it/it/Giromilano/Pagine/default.aspx?lvid=2732bed0-f59d-4ed3-8efb2bfbfc4b1b31-518f67cf&wbt=nav&contextname=2732bed0-f59d-4ed3-8efb2bfbfc4b1b31-518f67cf&vp=601&lst=1&lsi=62
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/1996012 http://www.atm-mi.it/it/Giromilano/Pagine/default.aspx?lvid=4fca2f40-d655-42ab-9405665b049b3911-518f6aff&wbt=nav&contextname=4fca2f40-d655-42ab-9405665b049b3911-518f6aff&vp=569&lst=1&lsi=63
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/452512 http://www.atm-mi.it/it/Giromilano/Pagine/default.aspx?lvid=c536069a-9391-489c-90be80c4701a5f80-518f63a0&wbt=nav&contextname=c536069a-9391-489c-90be80c4701a5f80-518f63a0&vp=461&lst=1&lsi=42
+OTHER_CURL_ERROR 52  https://osm.org/browse/relation/8373388 http://www.asmilano.it/AriannaWeb/main.htm?eads=*#643415_archivio
+OTHER_CURL_ERROR 52  https://osm.org/browse/way/585634409 http://www.asmilano.it/AriannaWeb/main.htm?eads=*#643843_archivio
+REDIRECTION_(300…399) 307 https://osm.org/browse/way/157168407 http://www.aeroclubmilano.it/ → https://www.aeroclubmilano.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/228676121 https://osm.org/browse/way/372751111 http://www.ballabioweb.org/db_notizie/leggi_news.asp?ID_notizia=2002 → https://www.ballabioweb.org/db_notizie/leggi_news.asp?ID_notizia=2002
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/178834499 http://www.caivallespluga.it/bivacco-suretta/ → https://www.caivallespluga.it/bivacco-suretta/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/305096507 http://www.campingspiaggia.com
+SUCCESS_(200…299) 200 https://osm.org/browse/way/225592154 http://www.caocomo.it/ferr_1.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9429027372 http://www.campingacquafraggia.com/acquafraggia.htm → https://www.campingacquafraggia.com/acquafraggia.htm
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/441749747 http://www.casio-europe.com/it/ → https://www.casio-europe.com:443/it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/773097704 http://www.belleli.it/ → https://www.belleli.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5763193507 http://www.centrometeolombardo.com/moduli/stazioni.php?vignate
+TIMEOUT https://osm.org/browse/node/9607499166 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/AccessoEsterno.do?mode=ParrocchieMAP&idSessioneEsterna=112233445566778899&sercd=15526
+TIMEOUT https://osm.org/browse/way/422386296 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13265
+TIMEOUT https://osm.org/browse/way/411156057 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13266
+TIMEOUT https://osm.org/browse/way/242318971 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13390
+TIMEOUT https://osm.org/browse/way/219651026 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13391
+TIMEOUT https://osm.org/browse/way/124113864 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13402
+TIMEOUT https://osm.org/browse/way/455512838 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13490
+TIMEOUT https://osm.org/browse/way/361901060 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13491
+TIMEOUT https://osm.org/browse/way/124266885 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13493
+TIMEOUT https://osm.org/browse/way/124355548 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13494
+TIMEOUT https://osm.org/browse/way/27677499 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13495
+TIMEOUT https://osm.org/browse/way/124106589 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13496
+TIMEOUT https://osm.org/browse/way/420593871 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13545
+TIMEOUT https://osm.org/browse/way/356856863 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13681
+TIMEOUT https://osm.org/browse/way/360955620 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13682
+TIMEOUT https://osm.org/browse/way/871731649 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13803
+TIMEOUT https://osm.org/browse/way/574776138 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13805
+TIMEOUT https://osm.org/browse/way/568693888 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13806
+TIMEOUT https://osm.org/browse/way/407283604 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13890
+TIMEOUT https://osm.org/browse/way/221842542 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13897
+TIMEOUT https://osm.org/browse/way/93933682 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13937
+TIMEOUT https://osm.org/browse/way/136718528 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13938
+TIMEOUT https://osm.org/browse/way/338063048 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13971
+TIMEOUT https://osm.org/browse/way/488880518 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=13989
+TIMEOUT https://osm.org/browse/way/135440487 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14051
+TIMEOUT https://osm.org/browse/way/136721174 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14052
+TIMEOUT https://osm.org/browse/way/135456571 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14053
+TIMEOUT https://osm.org/browse/way/456788526 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14124
+TIMEOUT https://osm.org/browse/way/453936817 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14127
+TIMEOUT https://osm.org/browse/way/228112238 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14180
+TIMEOUT https://osm.org/browse/way/1049724670 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14211
+TIMEOUT https://osm.org/browse/way/1080118258 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14217
+TIMEOUT https://osm.org/browse/way/377738022 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14218
+TIMEOUT https://osm.org/browse/way/1027688675 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14219
+TIMEOUT https://osm.org/browse/way/505040999 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14271
+TIMEOUT https://osm.org/browse/way/1008080262 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14272
+TIMEOUT https://osm.org/browse/way/422411460 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14273
+TIMEOUT https://osm.org/browse/way/422411461 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14274
+TIMEOUT https://osm.org/browse/way/266378094 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14275
+TIMEOUT https://osm.org/browse/way/308631104 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14341
+TIMEOUT https://osm.org/browse/way/50058160 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14364
+TIMEOUT https://osm.org/browse/way/88683403 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14466
+TIMEOUT https://osm.org/browse/way/287511303 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14472
+TIMEOUT https://osm.org/browse/way/260475305 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14474
+TIMEOUT https://osm.org/browse/relation/3488069 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14486
+TIMEOUT https://osm.org/browse/way/51353025 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14571
+TIMEOUT https://osm.org/browse/way/26397803 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14576
+TIMEOUT https://osm.org/browse/way/31010964 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14577
+TIMEOUT https://osm.org/browse/way/491986804 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14581
+TIMEOUT https://osm.org/browse/way/329031964 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14582
+TIMEOUT https://osm.org/browse/way/49947480 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14609
+TIMEOUT https://osm.org/browse/way/142690993 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14737
+TIMEOUT https://osm.org/browse/way/401854072 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14770
+TIMEOUT https://osm.org/browse/way/398968461 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14824
+TIMEOUT https://osm.org/browse/way/279334838 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14825
+TIMEOUT https://osm.org/browse/way/366672182 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14826
+TIMEOUT https://osm.org/browse/way/946531455 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14925
+TIMEOUT https://osm.org/browse/way/445338029 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14926
+TIMEOUT https://osm.org/browse/way/233006081 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14930
+TIMEOUT https://osm.org/browse/way/350341772 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14931
+TIMEOUT https://osm.org/browse/way/466222018 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=14969
+TIMEOUT https://osm.org/browse/way/254276711 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15040
+TIMEOUT https://osm.org/browse/way/173299065 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15047
+TIMEOUT https://osm.org/browse/way/290740383 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15054
+TIMEOUT https://osm.org/browse/way/290445652 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15056
+TIMEOUT https://osm.org/browse/way/292098652 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15097
+TIMEOUT https://osm.org/browse/way/292099810 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15098
+TIMEOUT https://osm.org/browse/way/465447513 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15102
+TIMEOUT https://osm.org/browse/way/473169939 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15107
+TIMEOUT https://osm.org/browse/way/72457550 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15161
+TIMEOUT https://osm.org/browse/way/977009414 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15192
+TIMEOUT https://osm.org/browse/way/338466123 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15222
+TIMEOUT https://osm.org/browse/way/210982569 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15232
+TIMEOUT https://osm.org/browse/way/256716476 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15256
+TIMEOUT https://osm.org/browse/way/307578942 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15304
+TIMEOUT https://osm.org/browse/way/656955813 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15393
+TIMEOUT https://osm.org/browse/way/1049587264 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15394
+TIMEOUT https://osm.org/browse/way/651739940 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15395
+TIMEOUT https://osm.org/browse/way/331922893 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15523
+TIMEOUT https://osm.org/browse/way/655785631 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15525
+TIMEOUT https://osm.org/browse/way/556926594 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15539
+TIMEOUT https://osm.org/browse/way/1078480494 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15625
+TIMEOUT https://osm.org/browse/way/619706314 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=15626
+TIMEOUT https://osm.org/browse/way/171494992 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=31771
+TIMEOUT https://osm.org/browse/way/171495218 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=31773
+TIMEOUT https://osm.org/browse/way/261289635 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=47316
+TIMEOUT https://osm.org/browse/way/552868192 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=55087
+TIMEOUT https://osm.org/browse/way/552695540 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=55092
+TIMEOUT https://osm.org/browse/way/291426508 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=55095
+TIMEOUT https://osm.org/browse/way/641536514 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=70972
+TIMEOUT https://osm.org/browse/way/527739560 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=74906
+TIMEOUT https://osm.org/browse/way/1050249011 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=89229
+TIMEOUT https://osm.org/browse/way/428023313 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=89392
+TIMEOUT https://osm.org/browse/way/328657264 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=90189
+TIMEOUT https://osm.org/browse/way/308791107 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=91250
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/2941279697 http://www.cityplanner.it/natural_tree/zucche-magnolato/
+TIMEOUT https://osm.org/browse/way/308560392 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=91252
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/2061996 http://www.comune.albavilla.co.it/sito/images/Conoscere_Albavilla/Territorio/Ambiente/Sentieri/sentiero9.pdf → https://www.comune.albavilla.co.it/sito/images/Conoscere_Albavilla/Territorio/Ambiente/Sentieri/sentiero9.pdf
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/343670266 http://www.comune.bosisioparini.lc.it/c097009/zf/index.php/servizi-aggiuntivi/index/index/idtesto/81 → https://www.comune.bosisioparini.lc.it/c097009/zf/index.php/servizi-aggiuntivi/index/index/idtesto/81
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/14039165 http://www.comune.canzo.co.it/c013042/zf/index.php/servizi-aggiuntivi/index/index/idtesto/131 → https://www.comune.canzo.co.it/c013042/zf/index.php/servizi-aggiuntivi/index/index/idtesto/131
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9312356182 http://www.comune.campodolcino.so.it/c014012/zf/index.php/servizi-aggiuntivi/index/index/idtesto/25 → https://www.comune.campodolcino.so.it/c014012/zf/index.php/servizi-aggiuntivi/index/index/idtesto/25
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1315131555 http://www.comune.origgio.va.it/aree-tematiche/4/14/biblioteca-comunale → https://www.comune.origgio.va.it:443/aree-tematiche/4/14/biblioteca-comunale
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/14325616 http://www.cmalpilepontine.it/cmvlarcer/zf/index.php/servizi-aggiuntivi/index/index/idtesto/18
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/14050957 http://www.comune.canzo.co.it/c013042/zf/index.php/servizi-aggiuntivi/index/index/idtesto/132 → https://www.comune.canzo.co.it/c013042/zf/index.php/servizi-aggiuntivi/index/index/idtesto/132
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2975386523 http://www.comune.samolaco.so.it/c014057/zf/index.php/servizi-aggiuntivi/index/index/idtesto/10272 → https://www.comune.samolaco.so.it/c014057/zf/index.php/servizi-aggiuntivi/index/index/idtesto/10272
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2437089628 http://www.comune.senago.mi.it/org-uffici/biblioteca → https://www.comune.senago.mi.it:443/org-uffici/biblioteca
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9312339938 http://www.comune.villadichiavenna.so.it/c014077/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20001 → https://www.comune.villadichiavenna.so.it/c014077/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20001
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/18737323 http://www.eni.com/en_IT/company/operations-strategies/refining-marketing/refining-rf/refinery-sannazzaro.shtml → https://www.eni.com/en_IT/company/operations-strategies/refining-marketing/refining-rf/refinery-sannazzaro.shtml
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3578960497 http://www.facebook.com/BBmysweetMilan → https://www.facebook.com/BBmysweetMilan
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/12895555795 http://www.enciclopediabresciana.it/enciclopedia/index.php?title=PIANA_Giuseppe
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/835888683 https://osm.org/browse/node/835888831 http://www.garniriviera.it → https://www.garniriviera.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/503888202 http://www.icsmilanospiga.gov.it/?page_id=1097
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/7855093853 http://www.labregaglia.ch/?p=35412 → https://archivio.labregaglia.ch?p=35412
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/305428893 http://www.labregaglia.ch/?p=52176 → https://archivio.labregaglia.ch?p=52176
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/90274031 http://www.hotelquarcino.it/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/556926594 http://www.lombardiabeniculturali.it/architetture/schede/1n080-00012 → https://www.lombardiabeniculturali.it/architetture/schede/1n080-00012
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/246629992 http://www.lombardiabeniculturali.it/architetture/schede/LC120-00484/ → https://www.lombardiabeniculturali.it/architetture/schede/LC120-00484/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/331605381 http://www.lombardiabeniculturali.it/architetture/schede/LC120-00063/ → https://www.lombardiabeniculturali.it/architetture/schede/LC120-00063/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/338063048 http://www.lombardiabeniculturali.it/architetture/schede/MI100-02920/ → https://www.lombardiabeniculturali.it/architetture/schede/MI100-02920/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/136718528 http://www.lombardiabeniculturali.it/architetture/schede/MI100-02624/ → https://www.lombardiabeniculturali.it/architetture/schede/MI100-02624/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/466686276 http://www.lombardiabeniculturali.it/architetture/schede/MI100-02898/ → https://www.lombardiabeniculturali.it/architetture/schede/MI100-02898/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/1078508998 http://www.lombardiabeniculturali.it/architetture/schede/MI100-05973/ → https://www.lombardiabeniculturali.it/architetture/schede/MI100-05973/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/233006081 http://www.lombardiabeniculturali.it/architetture/schede/MI100-05167/ → https://www.lombardiabeniculturali.it/architetture/schede/MI100-05167/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/879855116 http://www.lombardiabeniculturali.it/architetture/schede/MI100-05892/ → https://www.lombardiabeniculturali.it/architetture/schede/MI100-05892/
+REDIRECTION_(300…399) 302 https://osm.org/browse/relation/5282394 http://www.lombardiabeniculturali.it/architetture/schede/MI100-07259/ → https://www.lombardiabeniculturali.it/architetture/schede/MI100-07259/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/10010161408 http://www.lombardiabeniculturali.it/architetture/schede/MI100-07268/ → https://www.lombardiabeniculturali.it/architetture/schede/MI100-07268/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/44200341 http://www.ortodossa-ambrogio.org/ → http://ortodossa-ambrogio.org/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/2346039 https://osm.org/browse/relation/2349419 https://osm.org/browse/relation/13401526 https://osm.org/browse/relation/14389136 http://www.parcocampodeifiori.it/download.aspx?filename=files/3826_guidasent14.doc
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/2372652 https://osm.org/browse/relation/14389131 http://www.parcocampodeifiori.it/download.aspx?filename=files/3828_guidasent15.doc
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/relation/1653046 http://www.parcocampodeifiori.it/download.aspx?filename=files/3830_guidasent16.doc
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/153195240 http://www.pelucco.it/cartelle/citta/origgio/origgio_castelloBorromeo.htm
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1901845028 http://www.pianetaluna.it/ → https://pianetaluna.it/
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/9425791 http://www.piazzatorreskiarea.com/
+TIMEOUT https://osm.org/browse/way/1032935591 http://www.chieseitaliane.chiesacattolica.it/chieseitaliane/schedaca.jsp?sercd=91433
+REDIRECTION_(300…399) 301 https://osm.org/browse/relation/3498299 http://www.skiareavalchiavenna.it → https://www.skiareavalchiavenna.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9303564360 http://www.solosagre.it/evento/?id=18248 → https://www.solosagre.it/evento/?id=18248
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/425915587 http://www.shootingacademyclub.it → https://www.shootingacademyclub.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1046480330 http://www.solosagre.it/evento/?id=24943 → https://www.solosagre.it/evento/?id=24943
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/6856733961 http://www.straginazifasciste.it/?page_id=38&id_strage=1670 → https://www.straginazifasciste.it/?page_id=38&id_strage=1670
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/466686276 http://www.terredilombardia.it/cusago/cusagosantamaria.php
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/119616181 http://www.sunnyvalleyresort.it/ → https://sunnyvalley.it/
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/relation/309973 http://www.trail.unioncamere.it/scheda_infrastruttura_dettaglio.asp?id=931
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2759279541 http://www.ulm.it/hangar/campi/scheda1.htm?chiave=223 → https://www.ulm.it/hangar/campi/scheda1.htm?chiave=223
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/215602809 http://www.valchiavenna.com/it/cultura/Santuario-della-Madonna-di-Loreto.html → https://www.valchiavenna.com/it/cultura/Santuario-della-Madonna-di-Loreto.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3063319600 http://www.valchiavenna.com/it/curiosita/Vho.html → https://www.valchiavenna.com/it/curiosita/Vho.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3898559962 http://www.valbrembanaweb.org/varie/falesia.pdf → https://www.valbrembanaweb.org/varie/falesia.pdf
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/1052279108 http://www.valchiavenna.com/it/itinerari/Cappella-della-Borgna.html → https://www.valchiavenna.com/it/itinerari/Cappella-della-Borgna.html
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/way/542063568 http://www.valleadda.com/punto_interesse.php?id=123
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/9477514355 http://www.valchiavenna.com/it/shopping/Macelleria-Del-Curto.html → https://www.valchiavenna.com/it/shopping/Macelleria-Del-Curto.html
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/3580707093 http://www2.arpalombardia.it/sites/QAria/_layouts/15/QAria/DettaglioStazione.aspx?IdStaz=505
+TIMEOUT https://osm.org/browse/node/2950525533 http://www.paesidivaltellina.it/civo/caspano.htm
+TIMEOUT https://osm.org/browse/way/151711050 http://www.paesidivaltellina.it/rifugioilbiondo/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/1573160969 https://anagrafe.iccu.sbn.it/isil/IT-CO0173
+SUCCESS_(200…299) 200 https://osm.org/browse/way/343670266 https://anagrafe.iccu.sbn.it/isil/IT-LC0014
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9188515349 https://anagrafe.iccu.sbn.it/isil/IT-MI0007
+SUCCESS_(200…299) 200 https://osm.org/browse/node/539377551 https://anagrafe.iccu.sbn.it/isil/IT-MI0066
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8947406935 https://anagrafe.iccu.sbn.it/isil/IT-MI0382
+SUCCESS_(200…299) 200 https://osm.org/browse/node/1708077126 https://anagrafe.iccu.sbn.it/isil/IT-MI0144
+SUCCESS_(200…299) 200 https://osm.org/browse/node/1301164938 https://anagrafe.iccu.sbn.it/isil/IT-MI0105
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5236284880 https://anagrafe.iccu.sbn.it/isil/IT-MI0395
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2939755982 https://anagrafe.iccu.sbn.it/isil/IT-MI0412
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9633009455 https://anagrafe.iccu.sbn.it/isil/IT-MI0400
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9927758840 https://anagrafe.iccu.sbn.it/isil/IT-MI0409
+SUCCESS_(200…299) 200 https://osm.org/browse/node/7138867841 https://anagrafe.iccu.sbn.it/isil/IT-MI0452
+SUCCESS_(200…299) 200 https://osm.org/browse/way/230998500 https://anagrafe.iccu.sbn.it/isil/IT-MI0482
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9649517516 https://anagrafe.iccu.sbn.it/isil/IT-MI0925
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8959477648 https://anagrafe.iccu.sbn.it/isil/IT-MI0853
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5936257300 https://anagrafe.iccu.sbn.it/isil/IT-MI0966
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9221225039 https://anagrafe.iccu.sbn.it/isil/IT-MI0979
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2437089628 https://anagrafe.iccu.sbn.it/isil/IT-MI1008
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9540314012 https://anagrafe.iccu.sbn.it/isil/IT-MI1023
+SUCCESS_(200…299) 200 https://osm.org/browse/node/13190339876 https://anagrafe.iccu.sbn.it/isil/IT-MI0998
+SUCCESS_(200…299) 200 https://osm.org/browse/way/994080272 https://anagrafe.iccu.sbn.it/isil/IT-MI1124
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9312356182 https://anagrafe.iccu.sbn.it/isil/IT-SO0009
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5385706456 https://anagrafe.iccu.sbn.it/isil/IT-MI2002
+SUCCESS_(200…299) 200 https://osm.org/browse/node/8311272683 https://anagrafe.iccu.sbn.it/isil/IT-SO0011
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9312362743 https://anagrafe.iccu.sbn.it/isil/IT-SO0024
+SUCCESS_(200…299) 200 https://osm.org/browse/way/216148502 https://anagrafe.iccu.sbn.it/isil/IT-SO0027
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2975386523 https://anagrafe.iccu.sbn.it/isil/IT-SO0037
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9312662252 https://anagrafe.iccu.sbn.it/isil/IT-SO0036
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9312662256 https://anagrafe.iccu.sbn.it/isil/IT-SO0029
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9312339938 https://anagrafe.iccu.sbn.it/isil/IT-SO0053
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9312662287 https://anagrafe.iccu.sbn.it/isil/IT-SO0060
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9312662253 https://anagrafe.iccu.sbn.it/isil/IT-SO0052
+SUCCESS_(200…299) 200 https://osm.org/browse/node/1315131555 https://anagrafe.iccu.sbn.it/isil/IT-VA0095
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/20029114 https://osm.org/browse/relation/20029246 https://osm.org/browse/relation/20040929 https://osm.org/browse/relation/20040930 https://osm.org/browse/relation/20041050 https://osm.org/browse/relation/20046035 https://osm.org/browse/relation/20046036 https://osm.org/browse/relation/20112019 https://arriva.it/app/uploads/sites/6/2020/09/LS034-Carpenedolo-Calcinato-Desenzano-Brescia..pdf
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/9439921509 https://bandhi.it/bah/wp_theatre_season/cincitta/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9530638614 https://booking.aerogravity.it/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/7206271085 https://coinatmradar.com/bitcoin_atm/10875/bitcoin-atm-shitcoins-club-milan-punto-atm-bitcoin/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/11925744888 https://coinatmradar.com/bitcoin_atm/19383/bitcoin-atm-shitcoins-club-brescia-shitcoinsclub/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/6236532945 https://coinatmradar.com/bitcoin_atm/3089/bitcoin-atm-general-bytes-milan-talent-garden-milano-calabiana/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/way/1036530920 https://bollateoggi.it/il-circolo-ippico-castellazzo/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9210358130 https://commons.wikimedia.org/wiki/File:Segnavia_Alta_Via_delle_Grigne_presso_rifugio_Rosalba.jpg
+SUCCESS_(200…299) 200 https://osm.org/browse/node/2556374182 https://commons.wikimedia.org/wiki/File:Si_vede_dall%27autostrada_2.JPG
+SUCCESS_(200…299) 200 https://osm.org/browse/node/768166567 https://commons.wikimedia.org/wiki/File:Segnavia_per_il_Rosalba_sul_sentiero_delle_Foppe.jpg
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/136721174 https://comune.garbagnate-milanese.mi.it/vivere-la-citta/beni-artistici-e-monumentali/chiesa-parrocchiale-santa-maria-rossa-e-siolo/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/9540314012 https://comune.settimomilanese.mi.it/vivere-la-citta/biblioteca-comunale-carlo-caronni/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/56032266 https://comune.limbiate.mb.it/aree-tematiche/cimiteri/ → https://comune.limbiate.mb.it/cimiteri/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/2437089628 https://csbno.cosedafare.net/luoghi/luoghi-cultura/biblioteca/bics-biblioteca-italo-calvino-senago/1651 → http://csbno.cosedafare.net/luoghi/luoghi-cultura/biblioteca/bics-biblioteca-italo-calvino-senago-1651.html
+CLIENT_ERROR_(400…499) 410 https://osm.org/browse/way/36712533 https://digilander.libero.it/tony_web/tony_web/pesca/redecesio/redecesio.htm
+SUCCESS_(200…299) 200 https://osm.org/browse/way/84580096 https://fondoambiente.it/luoghi/la-bigatti-villino-storico-comunale
+SUCCESS_(200…299) 200 https://osm.org/browse/node/5202692129 https://fondoambiente.it/luoghi/alpe-pedroria-e-alpe-madrera
+SUCCESS_(200…299) 200 https://osm.org/browse/way/208398713 https://fondoambiente.it/luoghi/palazzo-foico
+SUCCESS_(200…299) 200 https://osm.org/browse/way/151079385 https://fondoambiente.it/luoghi/villa-eigenmann
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/508842372 https://icaresegelsi.it/category/scuola-primaria-g-pascoli/ → https://www.icaresegelsi.edu.it
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/787957111 https://icaresegelsi.it/scuole/scuola-secondaria-di-primo-grado-silvio-pellico/ → https://www.icaresegelsi.edu.it
+SUCCESS_(200…299) 200 https://osm.org/browse/way/899338126 https://idroscalo.org/news/riapre-la-chiesa-madonna-del-lago/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1349181932 https://lombardia.anpi.it/voghera/cdrop/ppv/pdf/b/busonicelestina.pdf
+SUCCESS_(200…299) 200 https://osm.org/browse/way/209078537 https://lombardiarchivi.servizirl.it/fonds/75489/units/989219
+SUCCESS_(200…299) 200 https://osm.org/browse/way/198691186 https://lombardiarchivi.servizirl.it/fonds/75488/units/989214
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/391780391 https://moduliweb.enac.gov.it/Applicazioni/avioeli/Avio_04.asp?selaeroporto=219
+SUCCESS_(200…299) 200 https://osm.org/browse/way/173780736 https://molgroupitaly.it/it/mol-group-italy/mol-group-italy-chi-siamo/ies-italiana-energia-e-servizi
+TIMEOUT https://osm.org/browse/way/1011820110 https://carburanti.mise.gov.it/OssPrezziSearch/dettaglio/47133
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1499254409 https://montedibrianza.wordpress.com/2020/03/31/il-lavatoio-di-cavonio/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/9347169048 https://osm.org/browse/node/9347169071 https://osm.org/browse/way/233446462 https://osm.org/browse/way/235607517 https://sites.google.com/oratorigarbagnate.com/home/chi-siamo
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11761492778 https://sketchfab.com/models/196d15632f20448792370ae5b3f4ef84/embed?autospin=0.2&autostart=1
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/14579707 https://mylakecomo.co/it/itinerari/sentee-di-sort/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/way/243706209 https://structurae.net/en/structures/mescolana-tunnel
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11761492777 https://sketchfab.com/models/a6abb7a88864464283e2b284d2c1e4fc/embed?autospin=0.2&autostart=1
+TIMEOUT https://osm.org/browse/node/4499975199 https://fareluogo.it/cascina-molino-dorino/
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/2935130925 https://webopac.csbno.net/library/Cornaredo/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/144727537 https://lombardiarchivi.servizirl.it/fonds/75489/units/989225
+SUCCESS_(200…299) 200 https://osm.org/browse/way/86768894 https://www.antigone.it/osservatorio_detenzione/lombardia/11-seconda-casa-di-reclusione-milano-bollate
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/13494638 https://www.archiportale.com/news/2008/10/architettura/milano-ultimate-le-torri-pendenti-di-perrault_12906_3.html
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/node/2723842386 https://www.brianzacomascabiblioteche.it/index.php/erba
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/15098537 https://osm.org/browse/relation/15098561 https://osm.org/browse/relation/15098565 https://osm.org/browse/relation/15098647 https://osm.org/browse/relation/15098652 https://osm.org/browse/relation/15098666 https://osm.org/browse/relation/15098800 https://osm.org/browse/relation/15098815 https://osm.org/browse/relation/15098911 https://osm.org/browse/relation/15098926 https://osm.org/browse/relation/15098992 https://osm.org/browse/relation/15098995 https://osm.org/browse/relation/15099003 https://wiki.openstreetmap.org/wiki/Lombardia/Sentieri
+COULD_NOT_RESOLVE_HOST https://osm.org/browse/node/6720821929 https://www.cascinachiarello.it/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/6758860753 https://www.bormio.eu/wp-content/uploads/2019/03/apertura-forni-2019_-cartelloInfoUtili2019.pdf
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12255821505 https://www.campioneunivela.it/de/trips/climbing/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/12255856564 https://www.campioneunivela.it/trips/hiking/ferrata-di-campione-del-garda/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1417743775 https://www.collegiate.it/student-accommodation/alloggi-studenti-milan/collegiate-milan-north/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/9312662287 https://www.comune.gordona.so.it/c014032/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20012
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/1384020963 https://osm.org/browse/way/1384020964 https://www.comune.merate.lc.it/c097048/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20716
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/way/1384024298 https://www.comune.merate.lc.it/c097048/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20758
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/562198687 https://www.comune.poglianomilanese.mi.it/vivere/pagine/5/#CHANIAC → https://comune.poglianomilanese.mi.it:443/vivere/pagine/5/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/561558245 https://www.comune.poglianomilanese.mi.it/vivere/pagine/5/#CHIESETTA → https://comune.poglianomilanese.mi.it:443/vivere/pagine/5/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/1276457113 https://www.comune.pavia.it/schede-informative/ztl-pavia
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/631363946 https://www.comune.poglianomilanese.mi.it/vivere/pagine/5/#PARROCCHIA → https://comune.poglianomilanese.mi.it:443/vivere/pagine/5/
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/329751112 https://www.comune.poglianomilanese.mi.it/vivere/pagine/5/#SANTUARIO → https://comune.poglianomilanese.mi.it:443/vivere/pagine/5/
+CLIENT_ERROR_(400…499) 404 https://osm.org/browse/node/2939755982 https://www.comune.rodano.mi.it/c015185/zf/index.php/servizi-aggiuntivi/index/index/idtesto/128
+CLIENT_ERROR_(400…499) 410 https://osm.org/browse/node/847584336 https://www.comune.torrevecchiapia.pv.it/it-it/vivere-il-comune/cosa-vedere/cassinetta-33695-1-c0c04d2cae0d989aedaf207e45ba7363
+SUCCESS_(200…299) 200 https://osm.org/browse/way/126302763 https://www.facebook.com/Vivione1830/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11234058186 https://osm.org/browse/node/11234058187 https://www.facebook.com/locandabepa/
+REDIRECTION_(300…399) 302 https://osm.org/browse/node/8959477648 https://www.comune.arese.mi.it/pubblicazioni/Informazioni/Informazioni.asp?ID_M=308&ID_MacroMenu=4 → https://comune.arese.mi.it:443/pubblicazioni/Informazioni/Informazioni.asp?ID_M=308&ID_MacroMenu=4
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9330426073 https://www.falesia.it/it/crag/303/Sasso-del-Drago.html
+REDIRECTION_(300…399) 302 https://osm.org/browse/way/415358467 https://www.comune.poglianomilanese.mi.it/vivere/pagine/5/#BETTOLINO → https://comune.poglianomilanese.mi.it:443/vivere/pagine/5/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/62514689 https://www.giorgioweb.com/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/10893684677 https://www.fondazionearnaldopomodoro.it/fap_collection/pomodoro-arnaldo-lancia-di-luce-ii-1985/ → https://www.fondazionearnaldopomodoro.it/pomodoro-arnaldo-lancia-di-luce-ii-1985/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/899328773 https://www.hermesfuneraria.eu/?p=1227 → https://www.hermesfuneraria.eu/2017/07/ll-cimitero-nel-fienile-a-pezzo-frazione-di-ponte-di-legno/
+SUCCESS_(200…299) 200 https://osm.org/browse/relation/141958 https://osm.org/browse/relation/14389132 https://www.halleyweb.com/campofiori/zf/index.php/servizi-aggiuntivi/index/index/idtesto/55
+CLIENT_ERROR_(400…499) 405 https://osm.org/browse/node/7865695866 https://www.ilgiornale.it/news/scultura-danza-quartiere-fiera.html
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/844515479 https://www.icr.edu.it/scuola-primaria-marco-polo/ → https://www.icr.edu.it/struttura/istituto-comprensivo-statale-antonio-rosmini/scuola-primaria-marco-polo/
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/1824312519 https://www.icpontesanpietro.edu.it/index.php/primaria/locate → https://www.icpontesanpietro.edu.it/primaria/locate
+REDIRECTION_(300…399) 301 https://osm.org/browse/node/3578177452 https://www.costieradeicech.com/poira → https://costieradeicech.com/poira
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/187933846 https://www.ilgiorno.it/rho/cronaca/garbagnate-bariana-proteste-1.3644813 → https://www.ilgiorno.it/archivio/garbagnate-bariana-proteste-d27dd631
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/1036814605 https://www.lombardiabeniculturali.it/architetture/schede/CO190-00058/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/717082693 https://www.lombardiabeniculturali.it/architetture/schede/CO250-00546/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/224728238 https://www.lombardiabeniculturali.it/architetture/schede/CO250-00615/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/224728241 https://www.lombardiabeniculturali.it/architetture/schede/CO250-00616/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/1008086285 https://www.lombardiabeniculturali.it/architetture/schede/CO250-00659/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9514259056 https://www.indicepa.gov.it/ipa-portale/consultazione/indirizzo-sede/ricerca-ente/elenco-unita-organizzative/53J7C3/uo/scheda-area-organizzativa-omogenea/A858775
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/1222439692 https://www.lombardiabeniculturali.it/architetture/schede/CO260-00115/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/248435469 https://www.lombardiabeniculturali.it/architetture/schede/CO260-00223
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/1617213381 https://www.lombardiabeniculturali.it/architetture/schede/CO260-00228
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/1059095659 https://www.lombardiabeniculturali.it/architetture/schede/CO260-00256/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/1222452447 https://www.lombardiabeniculturali.it/architetture/schede/CO260-00230/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/583455590 https://www.lombardiabeniculturali.it/architetture/schede/CO260-00257/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/647881625 https://www.lombardiabeniculturali.it/architetture/schede/LMD80-00418/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/267665146 https://www.lombardiabeniculturali.it/architetture/schede/LMD80-00999/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/3216443092 https://www.lombardiabeniculturali.it/architetture/schede/MI050-00272/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/414653486 https://www.lombardiabeniculturali.it/architetture/schede/MI100-00450
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9892435267 https://www.lombardiabeniculturali.it/architetture/schede/MI100-03069/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/1090979062 https://www.lombardiabeniculturali.it/architetture/schede/MI100-00452/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9250989094 https://www.lombardiabeniculturali.it/architetture/schede/MI100-01097/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9892435686 https://www.lombardiabeniculturali.it/architetture/schede/MI100-03070/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/136488248 https://www.lombardiabeniculturali.it/architetture/schede/MI100-03099/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/136127875 https://www.lombardiabeniculturali.it/architetture/schede/MI100-03100/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9892435243 https://www.lmblog.it/2016/03/cascina-panigadi/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/1083863396 https://www.lombardiabeniculturali.it/architetture/schede/MI100-03411/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9892435243 https://www.lombardiabeniculturali.it/architetture/schede/MI100-03434/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9644983790 https://www.lombardiabeniculturali.it/architetture/schede/MI100-03433/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/349616430 https://www.lombardiabeniculturali.it/architetture/schede/MI100-05112/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/402630877 https://www.lombardiabeniculturali.it/architetture/schede/MI100-05949/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/564033736 https://www.lombardiabeniculturali.it/architetture/schede/MI100-05784/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/relation/13841065 https://www.lombardiabeniculturali.it/architetture/schede/MI100-05454/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/1044705921 https://www.lombardiabeniculturali.it/architetture/schede/MI100-05950/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/8752733176 https://www.lombardiabeniculturali.it/architetture/schede/MI100-06004/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9590257119 https://www.lombardiabeniculturali.it/architetture/schede/MI100-06052/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/1086166883 https://www.lombardiabeniculturali.it/architetture/schede/MI100-06718/?hid=6.253
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9895387065 https://www.lombardiabeniculturali.it/architetture/schede/MI100-07269/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/411156083 https://www.lombardiabeniculturali.it/architetture/schede/MI100-10151/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/9883692873 https://www.lombardiabeniculturali.it/architetture/schede/MI100-07920/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/way/355235647 https://www.lombardiabeniculturali.it/archivi/soggetti-produttori/ente/MIDB000F6F/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7083654657 https://www.lombardiabeniculturali.it/opere-arte/schede/1v010-00037/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082018435 https://www.lombardiabeniculturali.it/opere-arte/schede/1v010-00100/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7083552223 https://www.lombardiabeniculturali.it/opere-arte/schede/1v010-00081/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082474971 https://www.lombardiabeniculturali.it/opere-arte/schede/1v010-00102/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7083552227 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00001/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082474965 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00002/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082065053 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00003/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082065051 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00004/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/10272244937 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00005/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/6801505499 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00006/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7086314015 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00007/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7083654642 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00011/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082018445 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00008/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082018446 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00009/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082524016 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00016/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082116553 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00013/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7086374706 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00012/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082524019 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00014
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082474967 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00017
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082116557 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00018/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082474968 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00019/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/6801505411 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00020/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7083736719 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00031/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082018449 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00131/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7082018448 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00132/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7087941166 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00140/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7083654640 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00097
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7087941168 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00142/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7087941167 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00141/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7087941169 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00143/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7087941170 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00144/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7087941171 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00145/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7087941172 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00146/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/node/7087941173 https://www.lombardiabeniculturali.it/opere-arte/schede/1v020-00147/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/11767283801 https://www.mudec.it/events/mosaico-rosa-genoni/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/10802392404 https://www.malpensa24.it/panorama-marchirolo-artista-chiesa-san-paolo/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/7865695866 https://www.milanocittastato.it/milano/il-monumento-piu-brutto-di-milano/
+CLIENT_ERROR_(400…499) 415 https://osm.org/browse/relation/9415296 https://www.manivaski.it
+CLIENT_ERROR_(400…499) 403 https://osm.org/browse/node/8071117185 https://www.osavalmadrera.it/San-Tomaso.htm
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/82330246 https://www.outdooractive.com/de/bewirtschaftete-huette/como/rifugio-mottafoiada/1284217 → https://www.outdooractive.com/de/hut/alpen/rifugio-mottafoiada/1284217/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9409818143 https://www.pietredellamemoria.it/pietre/lastra-commemorativa-della-liberazione-di-sondrio/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9409824756 https://www.pietredellamemoria.it/pietre/lastra-commemorativa-ai-partigiani-di-sondrio/
+PEER_CERTIFICATE_FROM_UNKNOWN_CA_CERTIFICATES https://osm.org/browse/relation/9421735 https://www.presolanamontepora.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9409818144 https://www.pietredellamemoria.it/pietre/lastra-in-memoria-della-prima-guerra-mondiale-sondrio/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9409818142 https://www.pietredellamemoria.it/pietre/monumento-al-moro/
+SUCCESS_(200…299) 200 https://osm.org/browse/way/174322188 https://www.rifugi.lombardia.it/lecco/lecco/rifugio-camposecco.html
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9994885959 https://www.saronnonews.it/2021/05/11/saronno-la-societa-storica-saronnese-restaurera-la-targa-commemorativa-dedicata-a-giacomo-matteotti/
+SUCCESS_(200…299) 200 https://osm.org/browse/node/4128799426 https://www.valerafrazionediarese.it/
+REDIRECTION_(300…399) 301 https://osm.org/browse/way/173780737 https://osm.org/browse/way/773097705 https://www.versalis.eni.com → https://www.versalis.eni.com/en-IT/home.html
+MISSING_URI_SCHEME https://osm.org/browse/relation/65490 www.astroviadellavalbossa.info
+MISSING_URI_SCHEME https://osm.org/browse/way/836168795 www.montegargnano.it
+SUCCESS_(200…299) 200 https://osm.org/browse/node/9241218970 https://www.wunderground.com/dashboard/pws/IARESE7
+TIMEOUT https://osm.org/browse/node/11985853250 https://www.promontevecchia.it/index.php/conosci-montevecchia/frazioni/frazione-campe/
+TIMEOUT https://osm.org/browse/node/11987096127 https://www.promontevecchia.it/index.php/conosci-montevecchia/frazioni/frazione-passonino/
