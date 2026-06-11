@@ -6,30 +6,30 @@ name: Check websites inside OSM database elements and report the problems encoun
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '00 00 * * 0'
-    - cron:  '00 02 * * 0'
-    - cron:  '00 04 * * 0'
-    - cron:  '00 06 * * 0'
-    - cron:  '00 08 * * 0'
-    - cron:  '00 10 * * 0'
-    - cron:  '00 12 * * 0'
+#    - cron:  '00 00 * * 0'
+#    - cron:  '00 02 * * 0'
+#    - cron:  '00 04 * * 0'
+#    - cron:  '00 06 * * 0'
+#    - cron:  '00 08 * * 0'
+#    - cron:  '00 10 * * 0'
+#    - cron:  '00 12 * * 0'
     
     
-    - cron:  '00 00 * * 1'
-    - cron:  '00 02 * * 1'
-    - cron:  '00 04 * * 1'
-    - cron:  '00 06 * * 1'
-    - cron:  '00 08 * * 1'
-    - cron:  '00 10 * * 1'
-    - cron:  '00 12 * * 1'
+#    - cron:  '00 00 * * 1'
+#    - cron:  '00 02 * * 1'
+#    - cron:  '00 04 * * 1'
+#    - cron:  '00 06 * * 1'
+#    - cron:  '00 08 * * 1'
+#    - cron:  '00 10 * * 1'
+#    - cron:  '00 12 * * 1'
     
-    - cron:  '00 00 * * 2'
-    - cron:  '00 04 * * 2'
-    - cron:  '00 08 * * 2'
-    - cron:  '00 12 * * 2'
-    - cron:  '00 16 * * 2'
+#    - cron:  '00 00 * * 2'
+#    - cron:  '00 04 * * 2'
+#    - cron:  '00 08 * * 2'
+#    - cron:  '00 12 * * 2'
+#    - cron:  '00 16 * * 2'
     
-    - cron:  '00 12 * * 3'    
+#    - cron:  '00 12 * * 3'    
     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
